@@ -1,0 +1,280 @@
+
+
+
+Inledande bestämmelse
+
+1 § Denna förordning gäller utöver personuppgiftslagen
+(1998:204) vid automatiserad behandling av personuppgifter i
+länsrätternas rättsskipande eller rättsvårdande verksamhet.
+
+En länsrätt är personuppgiftsansvarig för den behandling av
+personuppgifter som länsrätten utför. Om Domstolsverket utför
+behandling av personuppgifter enligt första stycket är verket
+personuppgiftsansvarig för behandlingen.
+
+En registrerad har inte rätt att motsätta sig behandling som är
+tillåten enligt denna förordning.
+
+Verksamhetsregister
+
+2 § En länsrätt får föra automatiserade register över mål som
+handläggs vid länsrätten. Ett register får användas för
+
+1. handläggning av mål,
+
+2. planering, uppföljning och utvärdering av verksamheten, och
+
+3. framställning av statistik.
+
+3 § Ett register får innehålla endast de uppgifter som anges i
+bilaga 1 till denna förordning.
+
+Vid angivande av saken i ett mål (ärendemening) får känsliga
+personuppgifter som anges i 13 § personuppgiftslagen (1998:204)
+och uppgifter om lagöverträdelser m.m. som anges i 21 § samma
+lag behandlas endast om det är nödvändigt för att saken skall
+kunna återges på ett ändamålsenligt sätt.
+
+4 § Som sökbegrepp får inte användas känsliga personuppgifter
+enligt 13 § personuppgiftslagen (1998:204) eller uppgifter om
+nationalitet eller utfärdandeland för körkort.
+
+Uppgifter om saken och andra liknande uppgifter om ett mål får
+inte användas som sökbegrepp tillsammans med uppgifter om
+parter eller andra aktörer i ett mål. Förordning (2003:600).
+
+5 § Uppgifter skall gallras ur ett register
+
+- i mål enligt skatte-, taxerings-, folkbokförings- och
+bilregisterförfattningarna, författningar om skattebetalning
+samt lagen (1989:479) om ersättning för kostnader i ärenden och
+mål om skatt, m.m. senast sex år efter avgörandeåret, och
+
+- i övriga mål senast två år efter avgörandeåret.
+
+Innan uppgifterna gallras skall länsrätten se till att de
+bevaras på annat sätt i den omfattning som skulle följa av
+förordningen (1979:575) om protokollföring m.m. vid de allmänna
+förvaltningsdomstolarna, om länsrätten inte hade använt sig av
+automatiserad behandling.
+
+Rättsfallsregister
+
+6 § En länsrätt får föra automatiserade register för
+återsökning av vägledande avgöranden, rättsutredningar och
+liknande rättslig information. Ett register får innehålla
+endast de uppgifter som anges i bilaga 2 till denna förordning.
+
+Annan automatiserad behandling av personuppgifter
+
+7 § En länsrätt får behandla personuppgifter automatiserat i
+löpande text vid sidan av de register som avses i 2 och 6 §§.
+
+Känsliga personuppgifter som anges i 13 § personuppgiftslagen
+(1998:204) och uppgifter om lagöverträdelser m.m. som anges i
+21 § samma lag får behandlas endast om uppgifterna har lämnats
+i ett mål eller om de behövs för handläggningen av målet.
+
+8 § För bevarande av personuppgifter som med stöd av 7 §
+behandlas automatiserat i ett mål gäller bestämmelserna i
+personuppgiftslagen (1998:204).
+
+Rättelse och skadestånd
+
+9 § Bestämmelserna i personuppgiftslagen (1998:204) om rättelse
+och skadestånd tillämpas vid behandling av personuppgifter
+enligt denna förordning.
+
+Överklagande
+
+10 § Beslut av en länsrätt om att inte meddela rättelse eller
+om att inte lämna information som skall lämnas efter ansökan
+får överklagas. I 33 § förvaltningsprocesslagen (1971:291)
+finns bestämmelser om överklagande.
+
+Beslut av Domstolsverket om att inte meddela rättelse eller om
+att inte lämna information som skall lämnas efter ansökan får
+överklagas. I 22 a § förvaltningslagen (1986:223) finns
+bestämmelser om överklagande hos allmän förvaltningsdomstol.
+
+Övergångsbestämmelser
+
+1. Denna förordning träder i kraft den 1 oktober 2001, då
+förordningen (1994:90) om registerföring vid länsrätt med hjälp
+av automatisk databehandling skall upphöra att gälla.
+
+2. Bestämmelsen om skadestånd skall tillämpas endast om den
+omständighet som yrkandet hänför sig till har inträffat efter
+det att förordningen har trätt i kraft beträffande den aktuella
+behandlingen.
+
+Bilaga 1
+
+Uppgifter i ett verksamhetsregister
+
+1. målnummer, målkategori och målprefix
+
+2. avdelning, rotel, rotelchef och process
+
+3. inkomstdatum
+
+4. saken (ärendemening)
+
+5. sakkod, typkod, målgrupp och måltyp
+
+6. om offentlig part:
+   - partställning
+   - namn, tjänstetitel, myndighet och
+     myndighetsnummer/organisationsnummer
+   - postadress
+   - telefonnummer, e-postadress e.d.
+   - diarienummer och diariebeteckning
+
+7. om enskild part:
+   - partställning
+   - namn/firma och yrke/titel
+   - personnummer/samordningsnummer/organisationsnummer
+   - nationalitet
+   - besöksadress och postadress
+   - telefonnummer, e-postadress e.d.
+   - rättshjälp
+   - förenklad delgivning
+
+8. om ställföreträdare:
+   - egenskap (vårdnadshavare, konkursförvaltare e. d.)
+   - namn/firma och yrke/titel
+   - personnummer/samordningsnummer/organisationsnummer
+   - besöksadress och postadress
+   - telefonnummer, e-postadress e.d.
+
+9. om biträde/ombud:
+   - egenskap (ombud, biträde e.d.)
+   - fullmakt
+   - namn/firma och yrke/titel
+   - besöksadress och postadress
+   - telefonnummer, e-postadress e.d.
+
+10. om vittne/sakkunnig samt andra som målet rör:
+    - egenskap
+    - namn och yrke/titel
+    - personnummer/samordningsnummer/myndighetsnummer/
+      organisationsnummer
+    - besöksadress och postadress
+    - telefonnummer, e-postadress e.d.
+
+11. om tolk:
+    - språk och arvodesnivå
+    - namn
+    - personnummer/samordningsnummer/myndighetsnummer/
+      organisationsnummer
+    - besöksadress och postadress
+    - telefonnummer, e-postadress e.d.
+
+12. frister och annat som bör antecknas enligt 25 § förordningen
+    (1979:575) om protokollföring m.m. vid de allmänna
+    förvaltningsdomstolarna
+
+13. om expedition:
+    - dag för expedition
+    - mottagarens namn och adress
+    - handling
+    - yttrandefrist
+
+14. om inkommande handlingar samt hos domstolen upprättade
+    handlingar:
+    - datum då handlingen kom in eller upprättades
+    - aktbilagenummer
+    - i förekommande fall från vem handlingen har kommit
+    - i korthet vad handlingen rör
+
+15. om delgivning:
+    - adressat
+    - handling
+    - delgivningssätt
+    - delgivningsnummer
+    - delgivningsdag
+    - övriga åtgärder
+
+16. om dom/beslut/föreläggande:
+    - domstolen samt ställe för meddelandet
+    - art och typ
+    - nummer
+    - datum
+    - innebörd och utgång om denna har betydelse för handläggningen
+    - fullföljd
+    - laga kraft
+    - rättens sammansättning
+    - ordförande (tjänsteställning)
+
+17. titel och namn på domare och andra befattningshavare vid
+domstolen
+
+18. jäv
+
+19. om förhandling/sammanträde/handläggning e.d.:
+    - tidpunkt och plats
+    - typ av förhandling/sammanträde
+    - antal förhandlingar/sammanträden
+    - beräknad och verklig förhandlingstid/sammanträdestid
+    - inställt
+
+20. rättshjälpskostnader
+
+21. om avgörande som överklagats till domstolen:
+    - avgörandetyp
+    - datum
+    - nummer
+    - myndighet
+
+22. författning
+
+23. målets art (ensamdomare e.d.)
+
+24. uppgift om målsamband
+
+25. taxeringsår
+
+26. typ av taxering
+
+27. fastighetsbeteckning
+
+28. kommun
+
+29. om körkort:
+    - körkortsklass
+    - körkortstillstånd
+    - utfärdandeland
+
+30. förtur
+
+31. handläggningsåtgärd/handläggningsstatus
+
+32. om tillsynsmyndighet eller någon annan som skall höras:
+    - egenskap
+    - namn, tjänstetitel, myndighet och
+      myndighetsnummer/organisationsnummer
+    - postadress
+    - telefonnummer, e-postadress e.d.
+    - diarienummer och diariebeteckning
+
+33. bevakning
+
+34. tekniska och administrativa uppgifter som behövs för att
+tillgodose ändamålen med registret
+Förordning (2003:600).
+
+Bilaga 2
+
+Uppgifter i ett rättsfallsregister
+
+1.      beteckning på handling
+2.      målnummer
+3.      avgörandedatum
+4.      avgörandenummer
+5.      sökord
+6.      författningshänvisning
+7.      problembeskrivning (sammanfattning)
+8.      hänvisning till rättsutredning
+9.      fullföljd
+10.     sökkod
+11.     RÅ-nummer
