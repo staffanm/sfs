@@ -1,0 +1,374 @@
+
+
+
+Allmän bestämmelse
+
+1 § Syftet med denna lag är att underlätta användningen av
+elektroniska signaturer, genom bestämmelser om säkra
+anordningar för signaturframställning, om kvalificerade
+certifikat för elektroniska signaturer och om utfärdande av
+sådana certifikat.
+
+Lagen gäller sådana certifikatutfärdare som är etablerade i
+Sverige och som utfärdar kvalificerade certifikat till
+allmänheten.
+
+Definitioner
+
+2 § I lagen avses med
+
+elektronisk signatur: data i elektronisk form som är fogade
+till eller logiskt knutna till andra elektroniska data och som
+används för att kontrollera att innehållet härrör från den som
+framstår som utställare och att det inte har förvanskats,
+
+avancerad elektronisk signatur: elektronisk signatur som
+
+a) är knuten uteslutande till en undertecknare,
+
+b) gör det möjligt att identifiera undertecknaren,
+
+c) är skapad med hjälpmedel som endast undertecknaren
+kontrollerar, och
+
+d) är knuten till andra elektroniska data på ett sådant sätt
+att förvanskningar av dessa data kan upptäckas,
+
+kvalificerad elektronisk signatur: avancerad elektronisk
+signatur som är baserad på ett kvalificerat certifikat och som
+är skapad av en säker anordning för signaturframställning,
+
+undertecknare: fysisk person som behörigen innehar en anordning
+för signaturframställning,
+
+signaturframställningsdata: unika data, såsom koder eller
+hemliga krypteringsnycklar, som används för att skapa en
+elektronisk signatur,
+
+anordning för signaturframställning: maskin- eller programvara
+för användning av signaturframställningsdata,
+
+säker anordning för signaturframställning: anordning för
+signaturframställning som uppfyller kraven i 3 §,
+
+signaturverifieringsdata: data, såsom koder eller öppna
+krypteringsnycklar, som används för att verifiera en
+elektronisk signatur,
+
+certifikat: intyg i elektronisk form som kopplar ihop
+signaturverifieringsdata med en undertecknare och bekräftar
+dennes identitet,
+
+kvalificerat certifikat: certifikat som uppfyller kraven i 6
+eller 7 §,
+
+certifikatutfärdare: den som utfärdar certifikat eller som
+garanterar att någon annans certifikat uppfyller vissa krav.
+
+Säkra anordningar för signaturframställning
+
+3 § En anordning för signaturframställning som anges vara säker
+skall säkerställa att signaturen är tillfredsställande skyddad
+mot förfalskning. Anordningen skall även säkerställa att
+signaturframställningsdata
+
+1. i praktiken kan förekomma endast en gång,
+
+2. med rimlig säkerhet inte kan härledas, och
+
+3. på ett tillfredsställande sätt kan skyddas av den behörige
+undertecknaren, så att andra inte kan komma åt eller använda
+dem.
+
+Anordningen får inte förändra de uppgifter som skall signeras
+elektroniskt eller hindra att de presenteras för undertecknaren
+före den elektroniska signeringen.
+
+4 § Kraven i 3 § på en säker anordning för
+signaturframställning skall anses uppfyllda för sådan maskin-
+eller programvara som överensstämmer med sådana standarder för
+produkter för elektroniska signaturer som Europeiska
+gemenskapernas kommission fastställt och offentliggjort
+referensnummer till i Europeiska gemenskapernas officiella
+tidning.
+
+5 § En anordning som anges vara en säker anordning för
+signaturframställning får släppas ut på marknaden eller
+användas för att skapa en kvalificerad elektronisk signatur
+endast om den uppfyller kraven i 3 §. En prövning av om kraven
+är uppfyllda skall göras av ett organ som anmälts för detta
+ändamål enligt lagen (1992:1119) om teknisk kontroll.
+
+Med en prövning enligt första stycket likställs en prövning av
+ett organ som anmälts för samma ändamål av en annan stat inom
+Europeiska ekonomiska samarbetsområdet.
+
+Kvalificerade certifikat
+
+6 § För att ett certifikat skall få kallas kvalificerat skall
+det vara utfärdat för viss tid av en certifikatutfärdare, som
+uppfyller kraven i 9-12 §§ och föreskrifter meddelade med stöd
+av 13 §, samt innehålla
+
+1. uppgift om att det utfärdats som ett kvalificerat
+certifikat,
+
+2. certifikatutfärdarens namn och adress samt uppgift om
+etableringsland,
+
+3. undertecknarens namn eller pseudonym med uppgift om att det
+är en pseudonym,
+
+4. särskilda uppgifter om undertecknaren, om de är relevanta
+för ändamålet med certifikatet,
+
+5. signaturverifieringsdata som motsvarar de
+signaturframställningsdata som undertecknaren vid tidpunkten
+för utfärdandet har kontroll över,
+
+6. uppgift om certifikatets giltighetstid,
+
+7. certifikatets identifieringskod,
+
+8. certifikatutfärdarens avancerade elektroniska signatur eller
+en elektronisk signatur med motsvarande säkerhetsnivå, och
+
+9. uppgift om eventuella begränsningar av certifikatets
+användningsområde eller av värdet på de transaktioner för vilka
+certifikatet kan användas (transaktionsbelopp).
+
+Regeringen eller, efter regeringens bemyndigande,
+tillsynsmyndigheten får meddela närmare föreskrifter om krav
+enligt första stycket.
+
+7 § Om ett certifikat som uppfyller kraven i 6 § första stycket
+1-9 utfärdats av en certifikatutfärdare som inte är etablerad i
+Sverige skall certifikatet anses kvalificerat om
+
+1. certifikatutfärdaren är etablerad i en annan stat inom
+Europeiska ekonomiska samarbetsområdet och där får utfärda
+kvalificerade certifikat,
+
+2. certifikatutfärdaren uppfyller krav som motsvarar dem som
+anges i 9-12 §§ och föreskrifter meddelade med stöd av 13 § och
+är ackrediterad i en annan stat inom Europeiska ekonomiska
+samarbetsområdet, eller
+
+3. certifikatet garanteras vara kvalificerat av en
+certifikatutfärdare som avses i 1 eller i 6 § första stycket.
+
+Utfärdande av kvalificerade certifikat
+
+8 § En certifikatutfärdare som avser att utfärda kvalificerade
+certifikat till allmänheten är skyldig att anmäla detta hos den
+myndighet som regeringen bestämmer (tillsynsmyndigheten) innan
+verksamheten påbörjas.
+
+9 § En certifikatutfärdare som utfärdar kvalificerade
+certifikat till allmänheten skall bedriva verksamheten
+tillförlitligt och
+
+1. ha personal med tillräcklig kompetens och erfarenhet för
+verksamheten, särskilt vad avser ledning, teknik och
+säkerhetsrutiner,
+
+2. använda sådana rutiner för administration och ledning som
+uppfyller erkända standarder,
+
+3. använda pålitliga system och produkter som är skyddade mot
+ändringar och se till att teknisk och kryptografisk säkerhet
+upprätthålls,
+
+4. förfoga över tillräckliga ekonomiska medel för att kunna
+bedriva verksamheten enligt denna lag och bära risken för
+skadeståndsskyldighet,
+
+5. ha säkra rutiner för identitetskontroll av de undertecknare
+som kvalificerade certifikat utfärdas till,
+
+6. förfoga över ett snabbt och säkert system för registrering
+och omedelbar återkallelse av kvalificerade certifikat, och
+
+7. vidta åtgärder mot förfalskning av kvalificerade certifikat
+och i förekommande fall se till att framställandet av
+signaturframställningsdata sker konfidentiellt.
+
+Kraven i första stycket 3 skall anses uppfyllda för sådan
+maskin- eller programvara som överensstämmer med sådana
+standarder för produkter för elektroniska signaturer som
+Europeiska gemenskapernas kommission fastställt och
+offentliggjort referensnummer till i Europeiska gemenskapernas
+officiella tidning.
+
+10 § En certifikatutfärdare som utfärdar kvalificerade
+certifikat till allmänheten skall
+
+1. omedelbart återkalla ett certifikat när undertecknaren begär
+det eller när det annars finns anledning till det,
+
+2. säkerställa att exakt tidpunkt kan anges för utfärdande och
+återkallelse av certifikat, och
+
+3. säkerställa att av utfärdaren framställda
+signaturframställningsdata och signaturverifieringsdata kan
+användas som komplement till varandra.
+
+11 § En certifikatutfärdare som utfärdar kvalificerade
+certifikat till allmänheten skall bevara all relevant
+information om certifikaten under den tid som är motiverad med
+hänsyn till typen av certifikat och övriga omständigheter.
+Certifikatutfärdaren skall även använda tillförlitliga system
+för lagring av kvalificerade certifikat i verifierbar form, så
+att
+
+1. endast behöriga personer kan göra tillägg och ändringar,
+
+2. uppgifternas äkthet kan kontrolleras,
+
+3. certifikaten är offentligt tillgängliga endast när
+innehavarna av certifikaten har lämnat sitt samtycke, och
+
+4. tekniska förändringar som äventyrar säkerhetskraven framgår
+för den som handhar systemet.
+
+Certifikatutfärdaren får inte lagra eller kopiera
+signaturframställningsdata.
+
+12 § Innan en certifikatutfärdare ingår avtal om att utfärda
+ett kvalificerat certifikat skall certifikatutfärdaren
+skriftligen och på ett lättbegripligt språk informera motparten
+om
+
+1. begränsningar och andra villkor för användning av
+certifikatet,
+
+2. frivillig ackreditering eller certifiering som avses i lagen
+(1992:1119) om teknisk kontroll, och
+
+3. förfaranden för klagomål och avgörande av tvister.
+
+Informationen enligt första stycket får överföras elektroniskt.
+
+Informationen skall göras tillgänglig också för annan som är
+beroende av certifikatet och som begär att få den.
+
+13 § Regeringen eller, efter regeringens bemyndigande,
+tillsynsmyndigheten får utfärda närmare bestämmelser om krav
+enligt 9-12 §§.
+
+Skadestånd
+
+14 § En certifikatutfärdare som till allmänheten utfärdar
+certifikat som anges vara kvalificerade skall ersätta den skada
+som åsamkats den som förlitat sig på certifikatet, om skadan
+uppkommit genom att
+
+1. certifikatutfärdaren inte har uppfyllt kraven i 10 §,
+
+2. certifikatet inte uppfyller kraven i 6 § första stycket,
+eller
+
+3. certifikatet vid utfärdandet innehöll felaktiga uppgifter.
+
+Certifikatutfärdaren är dock inte skyldig att betala ersättning
+om utfärdaren kan visa att skadan inte har orsakats av
+vårdslöshet hos utfärdaren själv. Certifikatutfärdaren är inte
+heller ersättningsskyldig för en skada som härrör från att ett
+kvalificerat certifikat använts i strid med begränsningar som
+gäller användningsområde eller transaktionsbelopp och som
+tydligt angetts i certifikatet.
+
+Vad som sägs i första stycket 2 och 3 samt i andra stycket
+gäller även en certifikatutfärdare som garanterar att en annan
+certifikatutfärdares certifikat är kvalificerade.
+
+15 § Avtalsvillkor som i jämförelse med 14 § är till nackdel
+för den som förlitar sig på certifikatet är utan verkan mot
+denne.
+
+Behandling av personuppgifter
+
+16 § En certifikatutfärdare som utfärdar certifikat till
+allmänheten får inhämta personuppgifter endast direkt från den
+som uppgifterna avser eller med dennes uttryckliga samtycke och
+endast i den utsträckning som är nödvändig för att utfärda
+eller upprätthålla ett certifikat. Uppgifterna får inte samlas
+in eller behandlas för andra ändamål utan uttryckligt samtycke
+från den som uppgifterna avser.
+
+Kvalificerade elektroniska signaturer
+
+17 § Om det i lag eller annan författning ställs krav på
+egenhändig underskrift eller motsvarande och om det är tillåtet
+att uppfylla kravet med elektroniska medel, skall en
+kvalificerad elektronisk signatur anses uppfylla kravet. Vid
+kommunikation med eller mellan myndigheter kan dock
+användningen av elektroniska signaturer vara förenad med
+ytterligare krav.
+
+Tillsyn
+
+18 § Tillsynsmyndigheten skall ha tillsyn över efterlevnaden av
+denna lag och föreskrifter som har utfärdats med stöd av lagen.
+
+Tillsynsmyndigheten skall föra och ge offentlighet åt en
+förteckning över certifikatutfärdare som anmält sig enligt 8 §
+och som enligt denna lag får utfärda kvalificerade certifikat.
+
+19 § Tillsynsmyndigheten har rätt att på begäran få de
+upplysningar och ta del av de handlingar som behövs för
+tillsynen.
+
+Tillsynsmyndigheten har också rätt att få tillträde till
+områden, lokaler och andra utrymmen, dock inte bostäder, där
+verksamhet som står under tillsyn bedrivs.
+
+Tillsynsmyndigheten har rätt att få biträde av
+kronofogdemyndigheten för tillsyn enligt första och andra
+styckena.
+
+20 § Tillsynsmyndigheten får meddela de förelägganden och
+förbud som behövs för efterlevnaden av denna lag eller av
+föreskrifter som meddelats med stöd av lagen.
+
+Tillsynsmyndigheten får förelägga en certifikatutfärdare, som
+till allmänheten utfärdar certifikat som anges vara
+kvalificerade, att helt eller delvis upphöra med denna
+verksamhet, endast om mindre ingripande åtgärder visat sig vara
+verkningslösa. Myndigheten får besluta hur verksamheten skall
+avvecklas.
+
+21 § Förelägganden och förbud enligt denna lag får förenas med
+vite.
+
+Avgifter
+
+22 § Regeringen eller, efter regeringens bemyndigande,
+tillsynsmyndigheten får meddela föreskrifter om skyldighet för
+certifikatutfärdare som utfärdar kvalificerade certifikat till
+allmänheten att betala avgift för tillsynsmyndighetens
+verksamhet enligt denna lag.
+
+Överklagande
+
+23 § Tillsynsmyndighetens beslut enligt denna lag eller enligt
+föreskrifter som meddelats med stöd av lagen får överklagas hos
+allmän förvaltningsdomstol.
+
+Prövningstillstånd krävs vid överklagande till kammarrätten.
+
+Tillsynsmyndigheten får bestämma att beslut enligt denna lag
+skall gälla omedelbart.
+
+Övergångsbestämmelser
+
+2000:832
+
+1. Denna lag träder i kraft den 1 januari 2001.
+
+2. Certifikatutfärdare som redan före ikraftträdandet utfärdar
+sådana certifikat som medför anmälningsplikt enligt 8 § behöver
+inte göra anmälan före den 1 februari 2001.
+
+3. 15 § tillämpas inte i fråga om avtal som träffats före
+ikraftträdandet.
