@@ -1,0 +1,1 @@
+/Författningens text finns bara i tryckt version/
