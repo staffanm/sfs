@@ -30,7 +30,7 @@ gjorts inom landet anges i 5 kap. Lag (1994:1798).
 2 § Skyldig att betala mervärdesskatt (skattskyldig) är
 
 1. för sådan omsättning som anges i 1 § första stycket 1, om
-inte annat följer av 2 - 4 b: den som omsätter varan eller
+inte annat följer av 2-4 b: den som omsätter varan eller
 tjänsten,
 
 2. för omsättning som anges i 1 § första stycket 1 av sådana
@@ -39,10 +39,11 @@ tjänster som avses i 5 kap. 7 §, om den som omsätter tjänsten
 den som förvärvar tjänsten,
 
 3. för omsättning som anges i 1 § första stycket 1 av sådana
+varor som avses i 5 kap. 2 c och 2 d §§ eller av sådana
 tjänster som avses i 5 kap. 5 § tredje stycket samt 5 a, 6 a,
-6 b och 7 a §§, om den som omsätter tjänsten är en utländsk
-företagare och förvärvaren är registrerad till mervärdesskatt
-här: den som förvärvar tjänsten,
+6 b och 7 a §§, om den som omsätter varan eller tjänsten är en
+utländsk företagare och förvärvaren är registrerad till
+mervärdesskatt här: den som förvärvar varan eller tjänsten,
 
 4. för sådan efterföljande omsättning inom landet som avses i 3
 kap. 30 b § första stycket: den till vilken omsättningen görs,
@@ -87,7 +88,7 @@ förordning (EEG) nr 2913/92 av den 12 oktober 1992 om
 inrättandet av en tullkodex för gemenskapen.
 
 Särskilda bestämmelser om vem som i vissa fall är skattskyldig
-finns i 6 kap., 9 kap. och 9 c kap. Lag (2004:118).
+finns i 6 kap., 9 kap. och 9 c kap. Lag (2004:1155).
 
 2 a § Skattskyldighet föreligger inte för en upphovsman eller
 dennes dödsbo för omsättning av sådana konstverk som avses i
@@ -392,7 +393,7 @@ Första stycket 2 och 3 gäller endast om värdet av användandet
 
 Uttag av vissa tjänster på fastighetsområdet
 
-7 §3 Med uttag av tjänst förstås även att den skattskyldige
+7 § Med uttag av tjänst förstås även att den skattskyldige
 utför eller förvärvar sådana tjänster som anges i andra stycket
 och tillför dem en egen fastighet som enligt inkomstskattelagen
 (1999:1229) utgör lagertillgång i byggnadsrörelse, om han i
@@ -581,14 +582,17 @@ import skulle ha varit skattefri här i landet enligt vad som
 gäller för temporär import från ett icke medlemsland,
 
 5. görs för sådan omsättning som anges i 5 kap. 9 § eller i 3
-kap. 30 a §, eller
+kap. 30 a §,
 
 6. görs för sådan omsättning som anges i 5 kap. 2 § första
-stycket 2 eller 4.
+stycket 2 eller 4, eller
+
+7. görs för sådan omsättning som anges i 5 kap. 2 c eller
+2 d §.
 
 När någon av de förutsättningar som anges i andra stycket inte
 längre föreligger, skall varorna anses ha överförts enligt
-reglerna i första stycket. Lag (2001:971).
+reglerna i första stycket. Lag (2004:1155).
 
 8 § Har upphävts genom lag (1995:1286).
 
@@ -1191,7 +1195,10 @@ import, m.m.
 
 Från skatteplikt undantas även import av en vara som efter
 importen skall omsättas till ett annat EG-land enligt 30 a §.
-Lag (2002:1004).
+
+Från skatteplikt undantas även import av gas genom
+distributionssystemet för naturgas eller av el.
+Lag (2004:1155).
 
 Vissa undantag för omsättning till och förvärv från andra EG-
 länder
@@ -1286,7 +1293,34 @@ tag som bedriver sådan postverksamhet som avses i 3 § postlagen
 tag i samband med distribution inom landet av inkommande brev
 eller paket för detta företags räkning. Lag (1995:700).
 
-31 § Har upphävts genom lag (1994:1798).
+31 § Från skatteplikt undantas omsättning av varor och tjänster
+som har ett annat EG-land som destinationsland, om
+
+- omsättningen är avsedd för väpnade styrkor tillhörande någon
+annan stat som är part i Nato än destinationslandet,
+
+- varorna eller tjänsterna skall användas av dessa styrkor
+eller av den civilpersonal som åtföljer dem eller användas för
+försörjning av deras mässar eller marketenterier, och
+
+- styrkorna deltar i de gemensamma försvarsansträngningarna.
+
+Skattefriheten enligt första stycket medges i den omfattning
+som frihet från mervärdesskatt medges i destinationslandet för
+motsvarande omsättning. Lag (2004:1155).
+
+31 a § Från skatteplikt undantas omsättning av varor och
+tjänster till Förenade kungariket Storbritannien och
+Nordirlands väpnade styrkor stationerade på ön Cypern i
+enlighet med Fördraget om upprättandet av Republiken Cypern av
+den 16 augusti 1960, om
+
+- omsättningen är avsedd för dessa styrkor, och
+
+- varorna eller tjänsterna skall användas av dessa styrkor
+eller av den civilpersonal som åtföljer dem eller användas för
+försörjning av deras mässar eller marketenterier.
+Lag (2004:1155).
 
 Undantag för viss omsättning i samband med import
 
@@ -1474,9 +1508,33 @@ utanför EG.
 För en resa tur och retur gäller att återresan skall anses som
 en fristående transport. Lag (1997:331).
 
-3 § I annat fall än som avses i 2, 2 a och 2 b §§ är varan
-omsatt inom landet, om den finns här då den tas om hand av
-köparen. Lag (1994:1798).
+2 c § Omsättning av gas genom distributionssystemet för
+naturgas, eller av el, till en skattskyldig återförsäljare
+skall anses som en omsättning inom landet, om återförsäljaren
+har antingen sätet för sin ekonomiska verksamhet eller ett fast
+etableringsställe för vilket varan levereras i Sverige eller,
+om återförsäljaren saknar sådant säte eller etableringsställe i
+Sverige, han är bosatt eller stadigvarande vistas här.
+
+Med en skattskyldig återförsäljare förstås i denna paragraf en
+näringsidkare vars huvudsakliga verksamhet när det gäller köp
+av gas eller el består i att sälja sådana varor vidare och vars
+egen konsumtion av dessa varor är försumbar. Lag (2004:1155).
+
+2 d § Omsättning av gas genom distributionssystemet för
+naturgas, eller av el, som inte omfattas av 2 c §, skall anses
+som en omsättning inom landet, om köparens egentliga användning
+och förbrukning av varan äger rum i Sverige. Om varan helt
+eller delvis faktiskt inte förbrukas av köparen, anses denna
+icke förbrukade vara ha använts och förbrukats i Sverige, om
+han har antingen sätet för sin ekonomiska verksamhet eller ett
+fast etableringsställe för vilket varan levereras här eller, om
+han saknar sådant säte eller etableringsställe i Sverige, han
+är bosatt eller stadigvarande vistas här. Lag (2004:1155).
+
+3 § I annat fall än som avses i 2-2 d §§ är varan omsatt inom
+landet, om den finns här då den tas om hand av köparen.
+Lag (2004:1155).
 
 Omsättning av tjänster
 
@@ -1658,9 +1716,14 @@ pengar, samt politiska, kulturella, konstnärliga, idrottsliga,
 vetenskapliga eller underhållningsbetonade sändningar eller
 evenemang, och
 
-e. distansundervisning,
+e. distansundervisning.
 
-13. sådan förmedling som görs för någon annans räkning i hans
+13. tillträde till distributionssystem för naturgas och el samt
+transport och överföring genom dessa system och
+tillhandahållande av andra tjänster som är direkt kopplade till
+dessa tjänster,
+
+14. sådan förmedling som görs för någon annans räkning i hans
 namn, om förmedlingen avser sådana tjänster som anges i denna
 paragraf.
 
@@ -1678,7 +1741,7 @@ landet, han är bosatt eller stadigvarande vistas där,
 av någon som inte är en näringsidkare i det landet, eller
 
 3. tillhandahålls från ett annat EG-land och förvärvaren inte
-är en näringsidkare här i landet. Lag (2003:220).
+är en näringsidkare här i landet. Lag (2004:1155).
 
 7 a § Andra förmedlingstjänster än sådana som anges i 4, 5,
 5 a, 6 a och 7 §§ och som görs för någon annans räkning i
@@ -3615,8 +3678,9 @@ förvärvaren, och
 avsedd för den verksamhet som utövas av förvärvaren.
 
 Rätt till återbetalning enligt första stycket har även
-representation i Sverige för de Europeiska gemenskaperna. Lag
-(1996:1320).
+representation i Sverige för Europeiska gemenskaperna och
+Europeiska centrumet för förebyggande och kontroll av
+sjukdomar. Lag (2004:1155).
 
 7 § Medlemmar av den diplomatiska personalen vid utländska
 beskickningar i Sverige och karriärkonsuler vid utländska
@@ -3682,8 +3746,8 @@ tjänster inom landet har rätt till återbetalning av ingående
 skatt för vilken han saknar rätt till avdrag enligt 8 kap. på
 grund av att omsättningen är undantagen från skatteplikt enligt
 3 kap. 19 § första stycket 2, 21 §, 21 a §, 22 §, 23 § 2, 4
-eller 7, 26 a §, 30 a §, 30 e §, 32 § eller enligt 9 c kap.
-1 §.
+eller 7, 26 a §, 30 a §, 30 e §, 31 §, 31 a §, 32 § eller
+enligt 9 c kap. 1 §.
 
 Rätt till återbetalning föreligger också för ingående skatt som
 hänför sig till sådan omsättning av varor och tjänster som
@@ -3704,7 +3768,7 @@ medfört rätt enligt denna paragraf eller 12 § till
 återbetalning om omsättningen gjorts här i landet, och
 
 3. rätten till återbetalning inte skall utövas genom en ansökan
-med stöd av 1 eller 2 §. Lag (2002:1004).
+med stöd av 1 eller 2 §. Lag (2004:1155).
 
 11 a § Vid sådan omsättning av nya transportmedel som undantas
 från beskattning enligt 3 kap. 30 a § föreligger rätt till
@@ -3919,8 +3983,8 @@ att köparen är skyldig att betala mervärdesskatt,
 land, de uppgifter i 1 kap. 13 a § som avgör att varan skall
 hänföras till ett sådant transportmedel,
 
-13. vid tillämpning av vinstmarginalsystemet i 9 a kap. eller 9
-b kap., en hänvisning till
+13. vid tillämpning av vinstmarginalsystemet i 9 a kap. eller
+9 b kap., en hänvisning till
 
 a) dessa bestämmelser,
 
@@ -4445,6 +4509,10 @@ skall alltid redovisa mervärdesskatt i skattedeklaration. Lag
 
 14 § Regeringen meddelar föreskrifter om förfarandet vid
 återbetalning enligt 10 kap. 5-8 §§. Lag (1997:502).
+
+15 § Föreskrifter som avser återbetalning av mervärdesskatt
+finns även i 18 kap. 4 b § skattebetalningslagen (1997:483).
+Lag (2004:1155).
 
 20 kap. Överklagande
 
@@ -5074,3 +5142,14 @@ värdepappersfond som förvaltas av fondbolag eller annan
 fondförvaltare som med stöd av 3 § lagen (2004:47) om införande
 av lagen (2004:46) om investeringsfonder driver verksamhet
 enligt lagen (1990:1114) om värdepappersfonder.
+
+2004:1155
+
+1. Denna lag träder i kraft den 1 januari 2005.
+
+2. De nya föreskrifterna i 3 kap. 31 a § tillämpas i fråga om
+omsättningar som gjorts den 1 maj 2004 eller senare.
+
+3. I övrigt gäller äldre föreskrifter fortfarande i fråga om
+mervärdesskatt för vilken skattskyldighet inträtt före
+ikraftträdandet.
