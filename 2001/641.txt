@@ -1,0 +1,362 @@
+
+
+
+Inledande bestämmelse
+
+1 § Denna förordning gäller utöver personuppgiftslagen
+(1998:204) vid automatiserad behandling av personuppgifter i
+Regeringsrättens och kammarrätternas rättsskipande eller
+rättsvårdande verksamhet.
+
+En domstol är personuppgiftsansvarig för den behandling av
+personuppgifter som domstolen utför. Om Domstolsverket utför
+behandling av personuppgifter enligt första stycket är verket
+personuppgiftsansvarig för behandlingen.
+
+En registrerad har inte rätt att motsätta sig behandling som är
+tillåten enligt denna förordning.
+
+Verksamhetsregister
+
+2 § En domstol får föra automatiserade register över mål som
+handläggs vid domstolen. Ett register får användas för
+
+1. handläggning av mål,
+
+2. återsökning av vägledande avgöranden,
+
+3. planering, uppföljning och utvärdering av verksamheten, och
+
+4. framställning av statistik.
+
+3 § Regeringsrätten och kammarrätterna får ha direktåtkomst
+till varandras register. Även länsrätterna, Domstolsverket och
+Riksdagens ombudsmän får ha direktåtkomst till registren.
+
+Skatteverket och länsstyrelser får ha direktåtkomst till
+registren för återsökning av vägledande avgöranden.
+Förordning (2003:1026).
+
+4 § Ett register får innehålla endast de uppgifter som anges i
+bilaga 1 till denna förordning.
+
+Vid angivande av saken i ett mål (ärendemening) får känsliga
+personuppgifter som anges i 13 § personuppgiftslagen (1998:204)
+och uppgifter om lagöverträdelser m.m. som anges i 21 § samma
+lag behandlas endast om det är nödvändigt för att saken skall
+kunna återges på ett ändamålsenligt sätt.
+
+5 § Som sökbegrepp får inte användas känsliga personuppgifter
+enligt 13 § personuppgiftslagen (1998:204) eller uppgifter om
+nationalitet eller utfärdandeland för körkort.
+
+Uppgifter om saken och andra liknande uppgifter om ett mål får
+inte användas som sökbegrepp tillsammans med uppgifter om
+parter eller andra aktörer i ett mål.
+
+Myndigheter som enligt 3 § andra stycket har direktåtkomst till
+ett register får som sökbegrepp inte använda uppgifter om
+parter eller andra aktörer i ett mål. Förordning (2003:601).
+
+6 § Uppgifter skall gallras ur ett register enligt de
+gallringsföreskrifter från Riksarkivet som gäller för
+domstolarna.
+
+Om uppgifter gallras skall domstolen dessförinnan se till att
+de bevaras på annat sätt i den omfattning som skulle följa av
+förordningen (1979:575) om protokollföring m.m. vid de allmänna
+förvaltningsdomstolarna, om domstolen inte hade använt sig av
+automatiserad behandling.
+
+Rättsfallsregister
+
+7 § En domstol får föra andra automatiserade register än de som
+avses i 2 § för återsökning av vägledande avgöranden,
+rättsutredningar och liknande rättslig information. Ett
+register får innehålla endast de uppgifter som anges i bilaga 2
+till denna förordning.
+
+Annan automatiserad behandling av personuppgifter
+
+8 § En domstol får behandla personuppgifter automatiserat i
+löpande text vid sidan av de register som avses i 2 och 7 §§.
+
+Känsliga personuppgifter som anges i 13 § personuppgiftslagen
+(1998:204) och uppgifter om lagöverträdelser m.m. som anges i
+21 § samma lag får behandlas endast om uppgifterna har lämnats
+i ett mål eller om de behövs för handläggningen av målet.
+
+9 § För bevarande av personuppgifter som med stöd av 8 §
+behandlas automatiserat i ett mål gäller bestämmelserna i
+personuppgiftslagen (1998:204).
+
+Rättelse och skadestånd
+
+10 § Bestämmelserna i personuppgiftslagen (1998:204) om
+rättelse och skadestånd tillämpas vid behandling av
+personuppgifter enligt denna förordning.
+
+Överklagande
+
+11 § Beslut av en kammarrätt om att inte meddela rättelse eller
+om att inte lämna information som skall lämnas efter ansökan
+får överklagas. I 33 § förvaltningsprocesslagen (1971:291)
+finns bestämmelser om överklagande. Beslut av Regeringsrätten
+får inte överklagas.
+
+Beslut av Domstolsverket om att inte meddela rättelse eller om
+att inte lämna information som skall lämnas efter ansökan får
+överklagas. I 22 a § förvaltningslagen (1986:223) finns
+bestämmelser om överklagande hos allmän förvaltningsdomstol.
+
+Övergångsbestämmelser
+
+1. Denna förordning träder i kraft den 1 oktober 2001.
+
+2. Bestämmelsen om skadestånd skall tillämpas endast om den
+omständighet som yrkandet hänför sig till har inträffat efter
+det att förordningen har trätt i kraft beträffande den aktuella
+behandlingen.
+
+Bilaga 1
+
+Uppgifter i ett verksamhetsregister
+
+A Mål
+
+1.      målnummer
+2.      målkategori och målprefix
+3.      målgrupp och måltyp
+4.      sakkod och typkod
+5.      saken (ärendemening)
+6.      inkommandedatum
+7.      registreringsdatum och registreringskod
+8.      målsamband
+9.      författning
+10.     taxeringsår
+11.     typ av taxering
+12.     kommun
+13.     om körkort:
+        - körkortsklass
+        - körkortstillstånd
+        - utfärdandeland
+
+14.     förtur
+15.     prövningstillstånd
+16.     om underinstansens avgörande:
+        - underinstans
+        - målnummer och prefix
+        - avgörandedatum
+        - avgörandetyp
+        - rättens sammansättning
+        - förhandlingstid
+        - förhörstid
+
+17.     om fastighet m.m.:
+        - geografisk enhet
+        - fastighetsbeteckning
+        - gatuadress
+        - ort
+        - SNI-kod
+        - geografiska x- och y-koordinater
+
+18.     uppskattad förhandlingstid
+19.     avgörandedatum
+
+B Aktörer
+
+1.      om offentlig part:
+        - partställning
+        - namn, tjänstetitel och myndighet
+        - myndighets- eller organisationsnummer
+        - postadress
+        - telefonnummer, e-postadress e.d.
+        - registreringsdatum för adress
+        - diarienummer och diariebeteckning
+
+2.      om enskild part:
+        - partställning
+        - namn eller firma,
+        - yrke eller titel
+        - person-, samordnings- eller organisationsnummer
+        - nationalitet
+        - grupper av parter
+        - koppling till andra aktörer
+        - besöksadress och postadress
+        - telefonnummer, e-postadress e.d.
+        - registreringsdatum för adress
+        - rättshjälp
+        - förenklad delgivning
+        - nytt förhör eller omförhör
+        - uppskattad förhörstid
+        - förhörs- och bevistema
+        - information om ed
+        - behov av tolk och på vilket språk
+
+3.      om ställföreträdare:
+        - egenskap (vårdnadshavare, konkursförvaltare e.d.)
+        - namn eller firma
+        - yrke eller titel
+        - person-, samordnings- eller organisationsnummer
+        - besöksadress och postadress
+        - telefonnummer, e-postadress e.d.
+        - registreringsdatum för adress
+
+4.      om biträde, ombud:
+        - egenskap
+        - fullmakt
+        - namn
+        - yrke eller titel
+        - koppling till annan aktör
+        - besöksadress och postadress
+        - telefonnummer, e-postadress e.d.
+        - registreringsdatum för adress
+        - F-skatt
+
+5.      om vittne, sakkunnig, underårig som berörs av målet utan att
+        vara part samt andra som målet rör:
+        - egenskap
+        - namn
+        - yrke eller titel
+        - person-, samordnings-, myndighets- eller
+          organisationsnummer
+        - koppling till annan aktör
+        - besöksadress och postadress
+        - telefonnummer, e-postadress e.d.
+        - registreringsdatum för adress
+        - förskottsbetalning
+        - nytt förhör eller omförhör
+        - uppskattad förhörstid
+        - förhörs- och bevistema
+        - information om ed
+        - behov av tolk och på vilket språk
+
+6.      om tolk:
+        - språk och arvodesnivå
+        - namn och firma
+        - person-, samordnings- eller organisationsnummer
+        - postadress
+        - telefonnummer, e-postadress e.d.
+        - registreringsdatum för adress
+        - generell tolked avlagd vid domstolen
+        - förskottsbetalning
+        - F-skatt
+
+7.      om tillsynsmyndighet eller annan som skall höras:
+        - egenskap
+        - namn, tjänstetitel och myndighet
+        - myndighets- eller organisationsnummer
+        - postadress
+        - telefonnummer, e-postadress e.d.
+        - registreringsdatum för adress
+        - diarienummer och diariebeteckning
+
+C Händelser
+
+1.      om inkomna och hos domstolen upprättade handlingar:
+        - datum då handlingen kom in eller upprättades
+        - aktbilage- och löpnummer
+        - från vem en handling kommit
+        - i korthet vad handlingen rör och om dess innehåll
+
+2.      om delgivning:
+        - adressat
+        - handling
+        - delgivningssätt
+        - delgivningsnummer
+        - delgivningsdatum
+        - övriga åtgärder
+
+3.      om förhandling, sammanträde, möte e.d.:
+        - deltagare
+        - tidpunkt och plats
+        - typ av förhandling e.d.
+        - antal förhandlingar e.d.
+        - beräknad och verklig förhandlingstid e.d.
+        - förhandling e.d. inställt och skälen för detta
+        - händelsetext
+
+4.      om handläggningsbeslut, anteckningar:
+        - art och typ av beslut eller anteckning
+        - beslutsfattare och handläggare
+        - datum
+        - nummer
+        - innebörd och utgång
+        - i korthet om innehåll
+
+5.      om avgöranden och ersättningsbeslut:
+        - art och typ av avgörande eller beslut
+        - domstol samt ställe för meddelande
+        - datum
+        - nummer
+        - kod
+        - innebörd och utgång
+        - i korthet om innehåll
+        - laga kraft
+        - rättens sammansättning
+        - ordförande
+
+6.      rättshjälpskostnader
+
+7.      om expedition:
+        - dag för expedition
+        - mottagarens namn och adress
+        - handling
+        - yttrandefrist
+        - utbetalt belopp
+
+8.      om överklagande:
+        - datum
+        - person som överklagat
+        - vad som överklagats
+        - resultat av överklagande
+
+9.      samband med andra händelser i det aktuella målet
+10.     hänvisning till andra löpnummer
+11.     datum för händelseregistrering
+12.     målstatus
+13.     gallringsbar eller ej
+
+D Planering
+
+1.      målsättning för avgörande
+2.      handläggnings- och målstatus
+3.      om bevakning:
+        - bevakningsdatum och klockslag
+        - bevakningstext
+        - bevakare
+        - händelsens löpnummer
+        - händelsetyp
+
+4.      författning
+5.      målets art (ensamdomare, förenklad delgivning,
+        prövningstillstånd e.d.)
+6.      sekretessmarkering
+
+E Organisation
+
+1.      enhet (avdelning, rotel, process)
+2.      titel och namn på domare och andra handläggare vid domstolen
+3.      jäv
+
+F Övriga uppgiftear
+
+1.      tekniska och administrativa uppgifter som behövs för att
+        tillgodose ändamålen med registret
+Förordning (2003:601).
+
+Bilaga 2
+
+Uppgifter i ett rättsfallsregister
+
+1.      beteckning på handling
+2.      målnummer
+3.      avgörandedatum
+4.      avgörandenummer
+5.      sökord
+6.      författningshänvisning
+7.      problembeskrivning (sammanfattning)
+8.      hänvisning till rättsutredning
+9.      fullföljd
+10.     sökkod
+11.     RÅ-nummer
