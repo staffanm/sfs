@@ -1402,12 +1402,13 @@ att utöva de rättigheter som avses i 39 §. Lag (2016:60).
 
 41 § Om den som har tagit emot värdepapper eller betalning 
 enligt 38, 39 eller 40 § inte var rätt mottagare, ska bolaget 
-ändå anses ha fullgjort sin skyldighet. Detta gäller dock 
-inte om bolaget eller, i fråga om avstämningsbolag, 
-värdepapperscentralen insett eller borde ha insett att det 
-var fel mottagare. Det gäller inte heller om mottagaren var 
-omyndig eller hade en förvaltare enligt föräldrabalken med 
-uppdrag att förvalta hans eller hennes aktier. Lag (2016:60).
+ändå anses ha fullgjort sin skyldighet. Detta gäller dock inte 
+om bolaget eller, i fråga om avstämningsbolag, 
+värdepapperscentralen insett eller borde ha insett att det var 
+fel mottagare. Det gäller inte heller om mottagaren var 
+omyndig eller hade en förvaltare enligt föräldrabalken med ett 
+uppdrag som omfattade att förvalta hans eller hennes aktier. 
+Lag (2026:495).
 
 Om en aktie har flera ägare
 
@@ -1455,7 +1456,8 @@ styrelsen att fastställa en sådan dag. Avstämningsdagen får
 inte bestämmas så att den infaller innan beslutet om uppdelning
 eller sammanläggning har registrerats. Lag (2009:37).
 
-47 § Ett beslut om uppdelning eller sammanläggning av aktier är
+47 § /Upphör att gälla U:2026-12-05/
+Ett beslut om uppdelning eller sammanläggning av aktier är
 giltigt endast om samtycke har lämnats av
 
 1. samtliga aktieägare som på dagen för bolagsstämman eller, i
@@ -1475,6 +1477,28 @@ Europeiska ekonomiska samarbetsområdet. Samtycke krävs inte
 heller av förvaltare, om samtliga överskjutande aktier som
 omfattas av förvaltningen är föremål för sådan handel.
 Lag (2007:566).
+
+47 § /Träder i kraft I:2026-12-05/
+Ett beslut om uppdelning eller sammanläggning av aktier 
+är giltigt endast om samtycke har lämnats av
+
+1. samtliga aktieägare som på dagen för bolagsstämman eller, i 
+avstämningsbolag, på den dag som avses i 7 kap. 28 § tredje 
+stycket är införda i aktieboken som ägare till aktier av visst 
+slag som inte motsvarar ett helt antal nya aktier 
+(överskjutande aktier), och
+
+2. i fråga om överskjutande aktier som är 
+förvaltarregistrerade och vars ägare på den dag som avses i 1 
+inte är införda i aktieboken, förvaltaren.
+
+Samtycke krävs inte av aktieägare vars samtliga överskjutande 
+aktier är föremål för handel på en reglerad marknad, en 
+motsvarande marknad utanför Europeiska ekonomiska 
+samarbetsområdet eller en MTF-plattform. Samtycke krävs inte 
+heller av förvaltare, om samtliga överskjutande aktier som 
+omfattas av förvaltningen är föremål för sådan handel.
+Lag (2026:783).
 
 48 § I bolag som inte är avstämningsbolag skall ett beslut om
 uppdelning eller sammanläggning av aktier genast sändas till
@@ -2114,15 +2138,7 @@ Aktieägares rösträtt
 hon äger eller företräder, om inte annat föreskrivs i
 bolagsordningen.
 
-9 § /Upphör att gälla U:2026-01-01/
-Om två eller flera allmänna pensionsfonder enligt lagen
-(2000:192) om allmänna pensionsfonder (AP-fonder) och lagen
-(2000:193) om Sjätte AP-fonden förvaltar aktier i bolaget, får
-varje fond för sig utöva rösträtt för de aktier fonden
-förvaltar.
-
-9 § /Träder i kraft I:2026-01-01/
-Om två eller flera allmänna pensionsfonder enligt lagen 
+9 § Om två eller flera allmänna pensionsfonder enligt lagen 
 (2000:192) om allmänna pensionsfonder (AP-fonder) förvaltar 
 aktier i bolaget, får varje fond för sig utöva rösträtt för de 
 aktier fonden förvaltar. Lag (2025:384).
@@ -2576,7 +2592,8 @@ stycket andra meningen.
 
 Majoritetskrav vid andra beslut än val
 
-40 § I ärenden som inte avser val utgörs bolagsstämmans beslut 
+40 § /Upphör att gälla U:2026-12-05/
+I ärenden som inte avser val utgörs bolagsstämmans beslut 
 av den mening som har fått mer än hälften av de avgivna 
 rösterna. Vid lika röstetal har ordföranden utslagsröst.
 
@@ -2590,6 +2607,22 @@ som anges i nämnda bestämmelser.
 
 I fråga om publika aktiebolag gäller även 59 §.
 Lag (2022:1647).
+
+40 § /Träder i kraft I:2026-12-05/
+I ärenden som inte avser val utgörs bolagsstämmans beslut 
+av den mening som har fått mer än hälften av de avgivna 
+rösterna. Vid lika röstetal har ordföranden utslagsröst.
+
+Första stycket gäller inte, om annat följer av denna lag eller 
+föreskrivs i bolagsordningen. I fall som avses i 42-45 §§ 
+detta kapitel, 13 kap. 2 §, 14 kap. 2 §, 15 kap. 2 §, 16 kap. 
+8 §, 19 kap. 18 och 33 §§, 20 kap. 5 §, 23 kap. 17 §, 24 kap. 
+19 §, 24 a kap. 20 § samt 26 kap. 1 och 6 §§ får det dock i 
+bolagsordningen endast föreskrivas längre gående villkor än 
+som anges i nämnda bestämmelser.
+
+I fråga om publika aktiebolag gäller även 59 §. I fråga om 
+vissa publika aktiebolag gäller även 59 a §. Lag (2026:783).
 
 Majoritetskrav vid val
 
@@ -2928,6 +2961,29 @@ beträffande beslut om att entlediga en styrelseledamot som har
 utsetts av bolagsstämman, inte förekomma längre gående villkor
 än som anges i 40 § första stycket.
 
+59 a § /Träder i kraft I:2026-12-05/
+I ett publikt aktiebolag är ett beslut om ändring av 
+bolagsordningen giltigt endast om det har biträtts av 
+aktieägare med minst två tredjedelar av såväl de avgivna 
+rösterna som de aktier som är företrädda vid stämman, om
+
+1. bolagets aktier inte är upptagna till handel på en reglerad 
+marknad eller en MTF-plattform när beslutet fattas,
+
+2. beslutet innebär att det i bolaget ska finnas aktier med 
+olika röstvärden eller att befintliga röstvärdesskillnader 
+ändras, och
+
+3. beslutet fattas i samband med att bolaget ansöker om att ta 
+upp aktier till handel på en MTF-plattform.
+
+Om det finns flera aktieslag i bolaget, ska första stycket 
+även tillämpas inom varje aktieslag som är företrätt vid 
+stämman och som aktiernas rätt försämras för genom beslutet.
+
+Majoritetskraven ska gälla så länge bolagets aktier handlas på 
+plattformen. Lag (2026:783).
+
 Ansvaret för ersättningen till skiljemän
 
 60 § Om bolaget är ett publikt aktiebolag, skall detta vid ett
@@ -2939,7 +2995,8 @@ det.
 
 Beslut vid årsstämman i vissa publika aktiebolag
 
-61 § I ett publikt aktiebolag vars aktier är upptagna till 
+61 § /Upphör att gälla U:2030-01-10/
+I ett publikt aktiebolag vars aktier är upptagna till 
 handel på en reglerad marknad eller en motsvarande marknad 
 utanför Europeiska ekonomiska samarbetsområdet, ska det vid 
 årsstämman fattas beslut om riktlinjer för ersättning till 
@@ -2956,7 +3013,27 @@ skyldighet att upprätta förslag till riktlinjer, vad
 riktlinjerna ska innehålla och vad som gäller om stämman inte 
 godtar förslaget. Lag (2019:288).
 
-62 § I ett publikt aktiebolag vars aktier är upptagna till 
+61 § /Träder i kraft I:2030-01-10/
+I ett publikt aktiebolag vars aktier är upptagna till 
+handel på en reglerad marknad eller en motsvarande marknad 
+utanför Europeiska ekonomiska samarbetsområdet, ska det vid 
+årsstämman fattas beslut om riktlinjer för ersättning till 
+ledande befattningshavare, om det har lämnats ett förslag till 
+sådana. 
+
+Riktlinjerna ska hållas tillgängliga utan kostnad på bolagets 
+webbplats senast två veckor efter årsstämman och så länge 
+riktlinjerna gäller. Detsamma gäller stämmoprotokollet utom 
+röstlängden. Riktlinjerna ska även lämnas till 
+Finansinspektionen.
+
+I 8 kap. 51 och 52 §§ finns bestämmelser om styrelsens 
+skyldighet att upprätta förslag till riktlinjer, vad 
+riktlinjerna ska innehålla och vad som gäller om stämman inte 
+godtar förslaget. Lag (2026:631).
+
+62 § /Upphör att gälla U:2030-01-10/
+I ett publikt aktiebolag vars aktier är upptagna till 
 handel på en reglerad marknad eller en motsvarande marknad 
 utanför Europeiska ekonomiska samarbetsområdet, ska den 
 rapport om ersättningar som avses i 8 kap. 53 a § läggas fram 
@@ -2966,6 +3043,32 @@ Rapporten ska hållas tillgänglig utan kostnad på bolagets
 webbplats under tio år från årsstämman. Om rapporten hålls 
 tillgänglig där längre tid än tio år, ska personuppgifter 
 avlägsnas från den. Lag (2019:288).
+
+62 § /Träder i kraft I:2030-01-10/
+I ett publikt aktiebolag vars aktier är upptagna till 
+handel på en reglerad marknad eller en motsvarande marknad 
+utanför Europeiska ekonomiska samarbetsområdet, ska den 
+rapport om ersättningar som avses i 8 kap. 53 a § läggas fram 
+på årsstämman för godkännande. 
+
+Rapporten ska hållas tillgänglig utan kostnad på bolagets 
+webbplats under tio år från årsstämman. Om rapporten hålls 
+tillgänglig där längre tid än tio år, ska personuppgifter 
+avlägsnas från den. Rapporten ska även lämnas till 
+Finansinspektionen. Lag (2026:631).
+
+/Rubriken träder i kraft I:2030-01-10/
+Bemyndigande
+
+62 a § /Träder i kraft I:2030-01-10/
+Regeringen eller den myndighet som regeringen bestämmer 
+får meddela föreskrifter om 
+
+1. riktlinjerna som ska lämnas till Finansinspektionen enligt 
+61 § andra stycket, och
+
+2. rapporten om ersättningar som ska lämnas till 
+Finansinspektionen enligt 62 § andra stycket. Lag (2026:631).
 
 Kallelsens innehåll i vissa publika aktiebolag
 
@@ -3022,7 +3125,8 @@ rättigheter i dennes ställe. Lag (2007:373).
 
 Stämmoprotokoll i vissa publika aktiebolag
 
-68 § Utöver det som anges i 48 och 49 §§, gäller i fråga om ett
+68 § /Upphör att gälla U:2030-01-10/
+Utöver det som anges i 48 och 49 §§, gäller i fråga om ett
 publikt aktiebolag, vars aktier är upptagna till handel på en
 reglerad marknad eller en motsvarande marknad utanför
 Europeiska ekonomiska samarbetsområdet, följande.
@@ -3043,6 +3147,39 @@ att avge,
 Protokollet, utom röstlängden, ska hållas tillgängligt på
 bolagets webbplats senast två veckor efter bolagsstämman och
 under minst tre år. Lag (2010:1516).
+
+68 § /Träder i kraft I:2030-01-10/
+Utöver det som anges i 48 och 49 §§, gäller i fråga om 
+ett publikt aktiebolag, vars aktier är upptagna till handel på 
+en reglerad marknad eller en motsvarande marknad utanför 
+Europeiska ekonomiska samarbetsområdet, följande. 
+
+Om en aktieägare begär det inför en omröstning, ska 
+aktiebolaget i stämmoprotokollet eller i en bilaga till 
+protokollet redovisa
+
+1. antalet röster för och mot förslaget till beslut,
+
+2. antalet röster som närvarande aktieägare har avstått från 
+att avge,
+
+3. det antal aktier för vilka röster har avgetts, och
+
+4. den andel av aktiekapitalet som dessa röster representerar.
+
+Protokollet, utom röstlängden, ska hållas tillgängligt på 
+bolagets webbplats senast två veckor efter bolagsstämman och 
+under minst tre år. Protokollet ska samtidigt som det görs 
+tillgängligt lämnas till Finansinspektionen. Lag (2026:631).
+
+/Rubriken träder i kraft I:2030-01-10/
+Bemyndigande
+
+68 a § /Träder i kraft I:2030-01-10/
+Regeringen eller den myndighet som regeringen bestämmer 
+får meddela föreskrifter om protokollet som ska lämnas till 
+Finansinspektionen enligt 68 § tredje stycket.
+Lag (2026:631).
 
 Bekräftelser i vissa publika aktiebolag
 
@@ -7577,7 +7714,8 @@ Lag (2019:288).
 
 Beslutsordning
 
-7 § Styrelsen ska underställa bolagsstämman en väsentlig 
+7 § /Upphör att gälla U:2030-01-10/
+Styrelsen ska underställa bolagsstämman en väsentlig 
 transaktion med en närstående till bolaget för godkännande.
 
 Till underlag för stämmans beslut ska styrelsen upprätta en 
@@ -7599,6 +7737,30 @@ under minst tre veckor fram till och med dagen för stämman.
 Redogörelsen ska vidare läggas fram på stämman. 
 Lag (2019:288).
 
+7 § /Träder i kraft I:2030-01-10/
+Styrelsen ska underställa bolagsstämman en väsentlig 
+transaktion med en närstående till bolaget för godkännande. 
+
+Till underlag för stämmans beslut ska styrelsen upprätta en 
+redogörelse för transaktionen. Av redogörelsen ska villkoren 
+för transaktionen framgå, i den utsträckning som krävs för att 
+stämman ska kunna ta ställning till förslaget. Redogörelsen 
+ska alltid innehålla information om
+
+1. vilken relation bolaget har till den närstående,
+
+2. namnet på den närstående,
+
+3. datumet för transaktionen, och
+
+4. det värde transaktionen avser.
+
+Redogörelsen ska hållas tillgänglig på bolagets webbplats 
+under minst tre veckor fram till och med dagen för stämman. 
+Redogörelsen ska även lämnas till Finansinspektionen. 
+Redogörelsen ska vidare läggas fram på stämman.
+Lag (2026:631).
+
 8 § Vid bolagsstämmans beslut i fråga om godkännande av en 
 transaktion ska aktier som innehas av den närstående inte 
 beaktas. Inte heller ska aktier som innehas av ett annat 
@@ -7608,7 +7770,8 @@ motsvarande slag. Lag (2019:288).
 
 Vissa transaktioner i dotterbolag
 
-9 § När ett helägt svenskt dotterbolag till ett aktiebolag 
+9 § /Upphör att gälla U:2030-01-10/
+När ett helägt svenskt dotterbolag till ett aktiebolag 
 vars aktier är upptagna till handel på en reglerad marknad 
 eller en motsvarande marknad utanför Europeiska ekonomiska 
 samarbetsområdet ska besluta om en väsentlig transaktion med 
@@ -7625,6 +7788,42 @@ En väsentlig transaktion enligt första stycket ska även
 underställas bolagsstämman i moderbolaget för godkännande. Vid 
 prövningen i moderbolaget ska beslutsordningen i 7 och 8 §§ 
 gälla. Lag (2019:288).
+
+9 § /Träder i kraft I:2030-01-10/
+När ett helägt svenskt dotterbolag till ett aktiebolag 
+vars aktier är upptagna till handel på en reglerad marknad 
+eller en motsvarande marknad utanför Europeiska ekonomiska 
+samarbetsområdet ska besluta om en väsentlig transaktion med 
+en närstående till moderbolaget ska styrelsen underställa 
+bolagsstämman transaktionen för godkännande. Bestämmelserna i 
+7 och 8 §§ gäller inte. Transaktionen anses vara väsentlig om 
+den ensam, eller sammantagen med andra transaktioner som 
+dotterbolaget och moderbolaget har genomfört med samma 
+närstående under det senaste året, avser ett värde som är 
+minst en miljon kronor och motsvarar minst en procent av 
+koncernens värde. 
+
+En väsentlig transaktion enligt första stycket ska även 
+underställas bolagsstämman i moderbolaget för godkännande. Vid 
+prövningen i moderbolaget ska beslutsordningen i 7 och 8 §§ 
+gälla.
+
+Information om en godkänd väsentlig transaktion ska lämnas 
+till Finansinspektionen. Lag (2026:631).
+
+/Rubriken träder i kraft I:2030-01-10/
+Bemyndigande
+
+10 § /Träder i kraft I:2030-01-10/
+Regeringen eller den myndighet som regeringen bestämmer 
+får meddela föreskrifter om 
+
+1. redogörelsen som ska lämnas till Finansinspektionen enligt 
+7 § tredje stycket, och 
+
+2. information om en godkänd väsentlig transaktion som ska 
+lämnas till Finansinspektionen enligt 9 § tredje stycket.
+Lag (2026:631).
 
 17 kap. Värdeöverföringar från bolaget
 
@@ -8049,7 +8248,8 @@ räkenskapsår under vilket förvärvet har skett.
 Särskilda bestämmelser om vissa publika aktiebolags förvärv av
 egna aktier
 
-13 § Ett publikt aktiebolag vars aktier är upptagna till handel
+13 § /Upphör att gälla U:2026-12-05/
+Ett publikt aktiebolag vars aktier är upptagna till handel
 på en reglerad marknad eller en motsvarande marknad utanför
 Europeiska ekonomiska samarbetsområdet får, utöver det som
 följer av 5 §, förvärva egna aktier enligt bestämmelserna i 14
@@ -8058,9 +8258,20 @@ tillämpning av 18-29 §§. Om bolaget har förvärvat aktier i
 strid med 14 eller 15 § eller i strid med 17 kap. 3 eller 4 §,
 gäller bestämmelserna i 16 §. Lag (2007:566).
 
+13 § /Träder i kraft I:2026-12-05/
+Ett publikt aktiebolag vars aktier är upptagna till 
+handel på en reglerad marknad, en motsvarande marknad utanför 
+Europeiska ekonomiska samarbetsområdet eller en MTF-plattform 
+får, utöver det som följer av 5 §, förvärva egna aktier enligt 
+bestämmelserna i 14 och 15 §§. Beslut om förvärv ska i så fall 
+fattas med tillämpning av 18-29 §§. Om bolaget har förvärvat 
+aktier i strid med 14 eller 15 § eller i strid med 17 kap. 3 
+eller 4 §, gäller bestämmelserna i 16 §. Lag (2026:783).
+
 Tillåtna förvärvsmetoder
 
-14 § Förvärv som avses i 13 § får ske endast
+14 § /Upphör att gälla U:2026-12-05/
+Förvärv som avses i 13 § får ske endast
 
 1. på en reglerad marknad,
 
@@ -8083,6 +8294,31 @@ marknad i Sverige, och
 
 2. företaget som driver marknaden står under tillsyn av en
 myndighet eller något annat behörigt organ. Lag (2007:566).
+
+14 § /Träder i kraft I:2026-12-05/
+Förvärv som avses i 13 § får ske endast
+
+1. på en reglerad marknad eller en MTF-plattform,
+
+2. på en marknad motsvarande en reglerad marknad utanför 
+Europeiska ekonomiska samarbetsområdet efter tillstånd av 
+Finansinspektionen, eller 
+
+3. i enlighet med ett förvärvserbjudande som har riktats till 
+samtliga aktieägare eller samtliga ägare till aktier av ett 
+visst slag.
+
+Ett tillstånd enligt första stycket 2 ska ange på vilken 
+marknad egna aktier får förvärvas samt under vilken tid 
+tillståndet får utnyttjas. Tillstånd ska lämnas, om
+
+1. det för verksamheten vid marknaden finns regler som 
+motsvarar det som enligt lagen (2007:528) om 
+värdepappersmarknaden gäller för verksamhet vid en reglerad 
+marknad i Sverige, och 
+
+2. företaget som driver marknaden står under tillsyn av en 
+myndighet eller något annat behörigt organ. Lag (2026:783).
 
 Hur stor andel egna aktier som får förvärvas
 
@@ -8273,11 +8509,13 @@ det ske med tillämpning av 32-34 §§ eller 35-37 §§.
 Första stycket gäller inte vid avyttring som avses i 6 och
 16 §§.
 
+/Rubriken upphör att gälla U:2026-12-05/
 Överlåtelse av egna aktier på en reglerad marknad eller en
 motsvarande marknad utanför Europeiska ekonomiska
 samarbetsområdet
 
-32 § Ett publikt aktiebolag får överlåta egna aktier
+32 § /Upphör att gälla U:2026-12-05/
+Ett publikt aktiebolag får överlåta egna aktier
 
 1. på en reglerad marknad, eller
 
@@ -8296,6 +8534,30 @@ marknad i Sverige, och
 
 2. företaget som driver marknaden står under tillsyn av en
 myndighet eller något annat behörigt organ. Lag (2007:566).
+
+/Rubriken träder i kraft I:2026-12-05/
+Överlåtelse av egna aktier på vissa handelsplatser
+
+32 § /Träder i kraft I:2026-12-05/
+Ett publikt aktiebolag får överlåta egna aktier
+
+1. på en reglerad marknad eller en MTF-plattform, eller
+
+2. på en marknad motsvarande en reglerad marknad utanför 
+Europeiska ekonomiska samarbetsområdet efter tillstånd av 
+Finansinspektionen.
+
+Ett tillstånd enligt första stycket 2 ska ange på vilken 
+marknad egna aktier får överlåtas samt under vilken tid 
+tillståndet får utnyttjas. Tillstånd ska lämnas, om
+
+1. det för verksamheten vid marknaden finns regler som 
+motsvarar det som enligt lagen (2007:528) om 
+värdepappersmarknaden gäller för verksamhet vid en reglerad 
+marknad i Sverige, och 
+
+2. företaget som driver marknaden står under tillsyn av en 
+myndighet eller något annat behörigt organ. Lag (2026:783).
 
 33 § Ett beslut om överlåtelse av egna aktier enligt 32 § skall
 fattas av bolagsstämman. Bolagsstämman kan även bemyndiga
@@ -8333,9 +8595,13 @@ huvudsakliga innehåll anges.
 Bolagsstämmans beslut skall innehålla de uppgifter som anges i
 andra stycket. Lag (2007:317).
 
+/Rubriken upphör att gälla U:2026-12-05/
 Överlåtelse av egna aktier som inte sker på en reglerad
 marknad eller en motsvarande marknad utanför Europeiska
 ekonomiska samarbetsområdet
+
+/Rubriken träder i kraft I:2026-12-05/
+Överlåtelse av egna aktier i andra fall
 
 35 § Vid ett publikt aktiebolags överlåtelse av egna aktier på 
 annat sätt än som anges i 32 § tillämpas
@@ -9105,10 +9371,18 @@ Lån till förvärv av aktier
 Lån till förvärv av aktier i bolaget eller överordnat bolag i
 samma koncern
 
-5 § Ett aktiebolag får inte ge förskott, lämna lån eller ställa
+5 § /Upphör att gälla U:2026-12-05/
+Ett aktiebolag får inte ge förskott, lämna lån eller ställa
 säkerhet för lån i syfte att gäldenären eller honom närstående
 fysisk eller juridisk person som avses i 1 § skall förvärva
 aktier i bolaget eller överordnat bolag i samma koncern.
+
+5 § /Träder i kraft I:2026-12-05/
+Ett aktiebolag får inte ge förskott, lämna lån eller 
+ställa säkerhet för lån i syfte att gäldenären eller en till 
+gäldenären närstående fysisk eller juridisk person som avses i 
+1 § ska förvärva aktier i bolaget eller överordnat bolag i 
+samma koncern. Lag (2026:783).
 
 6 § Är gäldenären anställd i bolaget eller i ett annat bolag i
 samma koncern gäller inte förbudet mot förskott, lån eller
@@ -11303,7 +11577,8 @@ delningsplanen. Lag (2022:1647).
 
 Tillhandahållande av delningsplanen m.m.
 
-18 § Om en fråga om godkännande av en delningsplan enligt 17 §
+18 § /Upphör att gälla U:2026-12-05/
+Om en fråga om godkännande av en delningsplan enligt 17 §
 ska underställas bolagsstämman, gäller följande.
 
 Styrelsen ska hålla planen med bifogade handlingar tillgänglig
@@ -11330,6 +11605,35 @@ I fråga om publika aktiebolag, vars aktier är upptagna till
 handel på en reglerad marknad eller en motsvarande marknad
 utanför Europeiska ekonomiska samarbetsområdet, gäller även
 31 §. Lag (2011:1046).
+
+18 § /Träder i kraft I:2026-12-05/
+Om en fråga om godkännande av en delningsplan enligt 17 § 
+ska underställas bolagsstämman, gäller följande.
+
+Styrelsen ska hålla planen med bifogade handlingar tillgänglig 
+för aktieägarna under minst en månad eller, om samtliga bolag 
+som deltar i delningen är privata aktiebolag, minst två veckor 
+före den bolagsstämma där frågan ska behandlas. Handlingarna 
+ska hållas tillgängliga hos bolaget på den ort där styrelsen 
+har sitt säte. Kopior av handlingarna ska genast och utan 
+kostnad för mottagaren sändas till de aktieägare som begär det 
+och uppger sin postadress.
+
+Under förutsättning att handlingarna hålls tillgängliga på 
+bolagets webbplats får styrelsen, trots andra stycket, välja 
+mellan att hålla dem tillgängliga hos bolaget och att sända 
+kopior av dem till aktieägarna.
+
+Om det har inträffat väsentliga förändringar i det överlåtande 
+bolagets tillgångar och skulder efter det att delningsplanen 
+upprättades, ska styrelsen lämna upplysningar om detta på 
+bolagsstämman innan frågan om godkännande av delningsplanen 
+avgörs.
+
+I fråga om publika aktiebolag, vars aktier är upptagna till 
+handel på en reglerad marknad eller en motsvarande marknad 
+utanför Europeiska ekonomiska samarbetsområdet, gäller även 
+62 §. Lag (2026:783).
 
 18 a § Om en fråga om godkännande av en delningsplan inte
 underställs bolagsstämman med stöd av 17 § fjärde stycket, ska
@@ -13220,7 +13524,7 @@ gå i likvidation.
 I sådana fall som avses i första stycket skall styrelsen ansöka
 hos tingsrätten om beslut om likvidation. Ansökan skall göras
 inom två veckor från den andra kontrollstämman eller, om en
-sådan inte har hållits, från den tid punkt då den senast skulle
+sådan inte har hållits, från den tidpunkt då den senast skulle
 ha hållits. Frågan om likvidation kan även prövas på ansökan av
 en styrelseledamot, den verkställande direktören, en revisor i
 bolaget eller en aktieägare.
@@ -13741,20 +14045,7 @@ ett företag ska anses upplöst. Lag (2017:484).
 
 Likvidation efter överskottskonkurs m.m.
 
-51 § /Upphör att gälla U:2026-07-01/
-Om en konkurs avslutas med överskott eller läggs ned efter
-frivillig uppgörelse eller om egendomen i konkursboet
-återställs till bolaget till följd av att ackord har
-fastställts, skall allmän domstol i samband med att konkursen
-avslutas besluta att bolaget skall gå i likvidation. Ett sådant
-beslut gäller omedelbart.
-
-Var bolaget i likvidation när det försattes i konkurs, skall
-likvidationen fortsätta enligt 44 §, om konkursen avslutas på
-det sätt som anges i första stycket.
-
-51 § /Träder i kraft I:2026-07-01/
-Om en konkurs avslutas med överskott eller läggs ner 
+51 § Om en konkurs avslutas med överskott eller läggs ner 
 efter en frivillig uppgörelse, eller om egendomen i 
 konkursboet återställs till bolaget till följd av att ett 
 ackord har fastställts, ska allmän domstol i anslutning till 
