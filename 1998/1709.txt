@@ -3,38 +3,50 @@
 
 Allmänna bestämmelser
 
-1 § Denna förordning innehåller avgaskrav för motorer som
-installeras i mobila maskiner som inte är avsedda att användas
-för transporter på väg samt motorer avsedda för traktorer
-enligt definitionerna i 2 §. Förordningen gäller inte motorer
-som driver generatoraggregat, motorfordon och lokomotiv.
-Förordning (2000:761).
+1 § Denna förordning innehåller avgaskrav för
+
+1. motorer som installeras i mobila maskiner som inte är
+avsedda att användas för transporter på väg,
+
+2. hjälpmotorer som monteras i fordon avsedda för passagerar-
+eller godstransport på väg,
+
+3. utbytesmotorer för motorer som avses i 1 och 2, samt
+
+4. motorer avsedda för traktorer enligt definitionerna i 2 §.
+
+Förordningen gäller inte motorer som driver motorfordon,
+järnvägslok, fartyg, luftfartyg och fritidsfordon såsom
+snöskotrar, terrängmotorcyklar och terrängfordon.
+Förordning (2004:1081).
 
 2 § I denna förordning avses med
 
 Mobil maskin som inte är avsedd att användas för transporter på
 väg: en mobil maskin, en transportabel industriell utrustning
-eller ett mobilt fordon med eller utan karosseri som förses med
-en förbränningsmotor med kompressionständning vilken har en
-installerad nettoeffekt på över 18 kilowatt men på högst 560
-kilowatt och drivs i ojämn hastighet istället för en enda
-konstant hastighet.
+eller ett mobilt fordon med eller utan karosseri som drivs med
+hjälp av en förbränningsmotor enligt avsnitt 1.1 i bilaga 1
+till denna förordning.
 
-Traktor: jordbruks- eller skogsbrukstraktor enligt definitionen
-i rådets direktiv 74/150/EEG av den 4 mars 1974 om tillnärmning
-av medlemsstaternas lagstiftning om typgodkännande av jord- och
-skogsbrukstraktorer med hjul.
+Traktor: traktor enligt definitionen i Europaparlamentets och
+rådets direktiv 2003/37/EG av den 26 maj 2003 om typgodkännande
+av jordbruks- eller skogsbrukstraktorer, av släpvagnar och
+utbytbara dragna maskiner till sådana traktorer samt av system,
+komponenter och separata tekniska enheter till dessa fordon och
+om upphävande av direktiv 74/150/EEG, senast ändrat genom
+rådets direktiv 2004/66/EG.
 
 EG-typgodkännande:
 
 - ett förfarande genom vilket en medlemsstat intygar att en
 förbränningsmotortyp eller en motorfamilj uppfyller de
-relevanta tekniska kraven i Europaparlamentets och rådets
-direktiv 97/68/EG av den 16 december 1997 om tillnärmning av
+relevanta kraven i Europaparlamentets och rådets direktiv
+97/68/EG av den 16 december 1997 om tillnärmning av
 medlemsstaternas lagstiftning om åtgärder mot utsläpp av gas-
 och partikelformiga föroreningar från förbränningsmotorer som
 skall monteras i mobila maskiner som inte är avsedda att
-användas för transporter på väg 3, eller
+användas för transporter på väg, senast ändrat genom
+Europaparlamentets och rådets direktiv 2004/26/EG, eller
 
 - en handling genom vilken en medlemsstat intygar att en
 motortyp eller en motorfamilj som en separat teknisk enhet
@@ -43,7 +55,8 @@ Europaparlamentets och rådets direktiv 2000/25/EG av den 22 maj
 2000 om åtgärder mot utsläpp av gas- och partikelformiga
 föroreningar från motorer avsedda för jordbruks- och
 skogsbrukstraktorer och om ändring i rådets direktiv
-74/150/EEG4.
+74/150/EEG, senast ändrat genom bilaga II till
+anslutningsakten för Tjeckien m.fl.
 
 Motortyp: en kategori av motorer utan inbördes skillnader i
 fråga om väsentliga motoregenskaper.
@@ -53,17 +66,38 @@ motortyper vilka genom sin konstruktion förväntas ha likartade
 egenskaper vad gäller avgasutsläpp och som var och en uppfyller
 kraven i denna förordning.
 
+Små motorfamiljer: motorfamiljer med gnisttändning vars
+sammanlagda årliga produktion uppgår till mindre än 5 000
+motorer.
+
 Motorproduktionsdag: den dag när motorn går igenom den sista
 kontrollen efter det att den lämnat produktionsbanan. På detta
 stadium är motorn klar att levereras eller att ställas i lager.
 
+Handhållen motor: en motor som skall användas i utrustning som
+
+- bärs av operatören eller manövreras i skiftande lägen,
+
+- har en torrvikt som understiger 20 kilogram och som används
+genom att operatören stödjer, bär eller lägeskontrollerar
+utrustningen, eller
+
+- är en generator eller pump och hela enheten har en torrvikt
+som understiger 20 kilogram.
+
+Hjälpmotor: motor installerad i eller på ett motorfordon, men
+som inte har att göra med framdrivningen av fordonet.
+
+Utbytesmotor: nybyggd motor avsedd att ersätta en motor i en
+maskin, tillhandahållen endast för detta ändamål.
+
 Traktortyp: traktorer som inte uppvisar några väsentliga
-skillnader i fråga om egenskaper,
+skillnader i fråga om egenskaper.
 
 Utsläppande på marknaden: att mot betalning eller kostnadsfritt
-göra en produkt som omfattas av denna förordning tillgänglig på
-gemenskapsmarknaden för distribution eller användning inom
-Europeiska ekonomiska samarbetsområdet.
+göra en motor tillgänglig på marknaden för första gången, för
+distribution eller användning inom Europeiska ekonomiska
+samarbetsområdet.
 
 Tillverkare: den fysiska eller juridiska person som inför
 godkännandemyndigheten ansvarar för samtliga delar av
@@ -71,6 +105,10 @@ förfarandet vid typgodkännande och för kontroll av
 produktionsöverensstämmelse. Det är inte nödvändigt att
 tillverkaren är direkt engagerad i samtliga stadier av motorns
 eller traktortypens konstruktion.
+
+Små motortillverkare: tillverkare av motorer med gnisttändning
+vars sammanlagda årliga produktion uppgår till mindre än 25 000
+motorer.
 
 Godkännandemyndighet: en behörig myndighet i en medlemsstat som
 ansvarar för samtliga delar av förfarandet vid typgodkännande
@@ -86,7 +124,7 @@ för godkännandemyndighetens räkning.
 
 I övrigt har termer och begrepp som används i lagen (1998:1707)
 om åtgärder mot buller och avgaser från mobila maskiner samma
-betydelse i denna förordning. Förordning (2000:761).
+betydelse i denna förordning. Förordning (2004:1081).
 
 Avgasreningskrav
 
@@ -95,10 +133,15 @@ transporter på väg skall få släppas ut på marknaden skall
 motorn uppfylla kraven i bilaga 1 och omfattas av ett giltigt
 EG-typgodkännande som tillåter användning i maskinen. Detsamma
 gäller motorer som släpps ut på marknaden utan att vara
-installerade i en sådan maskin.
+installerade i en sådan maskin samt hjälpmotorer som monteras i
+fordon avsedda för passagerar- eller godstransport på väg.
 
-Vad som sägs i första stycket gäller inte motorer som skall
-användas för militära ändamål.
+Vad som sägs i första stycket gäller inte utbytesmotorer och
+motorer som skall användas för militära ändamål.
+
+En utbytesmotor skall uppfylla åtminstone de krav som den motor
+den ersätter var tvungen att uppfylla när den ursprungligen
+släpptes ut på marknaden. Förordning (2004:1081).
 
 3 a § För att en traktor eller en motor till en traktor skall
 få tas i bruk för första gången skall motorn uppfylla kraven i
@@ -113,18 +156,7 @@ Förordning (2000:761).
 
 Förfarandet vid EG-typgodkännande i Sverige
 
-4 § /Upphör att gälla U:2004-09-01/
-Naturvårdsverket skall fullgöra uppgifter som
-godkännandemyndighet enligt direktiv 97/68/EG5 och direktiv
-2000/25/EG6. Utseende och anmälan av en teknisk tjänst skall
-dock ske enligt bestämmelserna om anmälda organ enligt lagen
-(1992:1119) om teknisk kontroll.
-
-Naturvårdsverket får meddela föreskrifter om förfarandet för
-EG-typgodkännande. Förordning (2000:761).
-
-4 § /Träder i kraft I:2004-09-01/
-Vägverket skall fullgöra uppgifter som
+4 § Vägverket skall fullgöra uppgifter som
 godkännandemyndighet enligt direktiv 97/68/EG och direktiv
 2000/25/EG. Utseende och anmälan av en teknisk tjänst skall
 dock ske enligt bestämmelserna om anmälda organ enligt lagen
@@ -133,13 +165,7 @@ dock ske enligt bestämmelserna om anmälda organ enligt lagen
 Vägverket får meddela föreskrifter om förfarandet för EG-
 typgodkännande. Förordning (2004:680).
 
-5 § /Upphör att gälla U:2004-09-01/
-Om en motortyp eller en motorfamilj uppfyller kraven i
-bilaga 1 till denna förordning skall Naturvårdsverket meddela
-ett EG-typgodkännande.
-
-5 § /Träder i kraft I:2004-09-01/
-Om en motortyp eller en motorfamilj uppfyller kraven i
+5 § Om en motortyp eller en motorfamilj uppfyller kraven i
 bilaga 1 till denna förordning skall Vägverket meddela ett
 EG-typgodkännande. Förordning (2004:680).
 
@@ -159,19 +185,7 @@ enlighet med bilaga 2. Förordning (2000:761).
 
 Tillsyn
 
-8 § /Upphör att gälla U:2004-09-01/
-Naturvårdsverket skall utöva den centrala tillsynen över
-efterlevnaden enligt denna förordning och över föreskrifter som
-meddelats med stöd av förordningen. Den eller de kommunala
-nämnder som fullgör uppgifter inom miljö- och
-hälsoskyddsområdet skall utöva den lokala tillsynen i varje
-kommun.
-
-Tillsynsmyndigheterna skall när det är påkallat samarbeta i
-tillsynsarbetet.
-
-8 § /Träder i kraft I:2004-09-01/
-Vägverket skall utöva den centrala tillsynen över
+8 § Vägverket skall utöva den centrala tillsynen över
 efterlevnaden enligt denna förordning och över föreskrifter som
 meddelats med stöd av förordningen. Den eller de kommunala
 nämnder som fullgör uppgifter inom miljö- och
@@ -183,49 +197,23 @@ tillsynsarbetet. Förordning (2004:680).
 
 Avgifter
 
-9 § /Upphör att gälla U:2004-09-01/
-Naturvårdsverket får meddela föreskrifter om avgifter för
-prövning för EG-typgodkännande och ansökan om undantag enligt
-12 § lagen (1998:1707) om åtgärder mot buller och avgaser från
-mobila maskiner. Förordning (2000:761).
-
-9 § /Träder i kraft I:2004-09-01/
-Vägverket får meddela föreskrifter om avgifter för
+9 § Vägverket får meddela föreskrifter om avgifter för
 prövning för EG-typgodkännande och ansökan om undantag enligt
 12 § lagen (1998:1707) om åtgärder mot buller och avgaser från
 mobila maskiner. Förordning (2004:680).
 
-10 § /Upphör att gälla U:2004-09-01/
-Naturvårdsverket får bestämma att ett beslut om betalning
-skall gälla omedelbart även om det överklagas. Ett sådant
-beslut får verkställas enligt utsökningsbalken.
-
-10 § /Träder i kraft I:2004-09-01/
-Vägverket får bestämma att ett beslut om betalning skall
+10 § Vägverket får bestämma att ett beslut om betalning skall
 gälla omedelbart även om det överklagas. Ett sådant beslut får
 verkställas enligt utsökningsbalken. Förordning (2004:680).
 
 Bemyndiganden
 
-11 § /Upphör att gälla U:2004-09-01/
-Naturvårdsverket får meddela de ytterligare föreskrifter
-som behövs för att motorerna skall uppfylla de krav på
-avgasrening som följer av denna förordning.
+11 § Vägverket får efter samråd med Naturvårdsverket meddela
+de ytterligare föreskrifter som behövs för att motorerna skall
+uppfylla de krav på avgasrening och märkning som följer av
+denna förordning. Förordning (2004:1081).
 
-11 § /Träder i kraft I:2004-09-01/
-Vägverket får efter samråd med Naturvårdsverket meddela de
-ytterligare föreskrifter som behövs för att motorerna skall
-uppfylla de krav på avgasrening som följer av denna förordning.
-Förordning (2004:680).
-
-12 § /Upphör att gälla U:2004-09-01/
-Om det är av ringa betydelse från miljösynpunkt får
-Naturvårdsverket föreskriva om undantag eller i det enskilda
-fallet medge dispens från bestämmelserna i denna förordning
-enligt de förutsättningar som anges i direktiv 97/68/EG.
-
-12 § /Träder i kraft I:2004-09-01/
-Om det är av ringa betydelse från miljösynpunkt får
+12 § Om det är av ringa betydelse från miljösynpunkt får
 Vägverket föreskriva om undantag eller i det enskilda fallet
 medge dispens från bestämmelserna i denna förordning enligt de
 förutsättningar som anges i direktiv 97/68/EG.
@@ -263,119 +251,253 @@ Bilaga 1
 Avgaskrav enligt 3 § förordningen (1998:1709) om avgaskrav för
 vissa förbränningsmotordrivna mobila maskiner
 
-1 Föroreningar i avgaser
+1 Tidpunkter för införande av avgasreningskrav
 
-1.1 Tidpunkter för införande av avgasreningskrav
+1.1 Mobila maskiner som inte är avsedda att användas för
+transporter på väg och hjälpmotorer i fordon avsedda för
+passagerar- eller godstransport på väg
 
-1.1.1 Mobila maskiner som inte är avsedda att användas
-för transporter på väg
+För att villkoren i 3 § skall anses uppfyllda krävs att motorn
+vid typgodkännande eller i samband med att motorn släpps ut på
+marknaden uppfyller de angivna kraven i direktiv 97/68/EG. I
+det följande redovisas de tidpunkter som gäller för olika
+kravnivåer för de tre typer av förbränningsmotorer som används
+i de aktuella mobila maskinerna.
 
-För att kraven i 3 § skall anses uppfyllda efter det datum som
-anges i tidtabellen krävs att förbränningsmotorn vid
-typgodkännande eller i samband med att motorn förs ut på
-marknaden uppfyller de angivna kravnivåerna enligt
-Europaparlamentets och rådets direktiv 97/68/EG av den 16
-december 1997 om tillnärmning av medlemsstaternas lagstiftning
-om åtgärder mot utsläpp av gas- och partikelformiga
-föroreningar från förbränningsmotorer som skall monteras i
-mobila maskiner som inte är avsedda att användas för
-transporter på väg3
+1.1.1 Förbränningsmotorer med kompressionständning med en
+nettoeffekt på över 18 kilowatt men högst 560 kilowatt och som
+drivs vid varierande varvtal
 
-Kravnivå   Motoreffekt P (kW)   Dag för nya      Dag för registrering
-                                typgod-          eller utsläppande på
-                                kännanden1       marknaden2
+Maskiner vars motorer omfattas av denna definition är till
+exempel industriella borriggar och kompressorer;
+anläggningsmaskiner; jordbruksmaskiner och rotorharvar;
+skogsbruksmaskiner; självgående jordbruksfordon;
+materialhanteringsmaskiner; gaffeltruckar;
+vägunderhållningsmaskiner; snöplogmaskiner; maskiner för
+flygplatsstöd; maskinstegar samt mobila kranar.
 
-Steg I3    130(P(560            30 juni 1998            31 december 1998
-           75(P<130             30 juni 1998            31 december 1998
-           37(P<75              30 juni 1998            31 mars 1999
+Följande datum gäller för dessa motorer.
 
-Steg II    130(P(560            31 december 2000        31 december 2001
-           75(P<130             31 december 2001        31 december 2002
-           37(P<75              31 december 2002        31 december 2003
-           18(P<37              31 december 1999        31 december 2000
+Kravnivå   Motoreffekt       Dag för nya        Dag för registrering
+           P (kW)       typgodkännandenaa  eller utsläppande på
+                                           marknadenb
 
-1EG-typgodkännande får inte längre meddelas om inte avgaskraven
-för den aktuella kravnivån är uppfyllda.
+Steg Ic    130=P=560    30 juni 1998       31 december 1998
+           75=P<130     30 juni 1998       31 december 1998
+           37=P<75      30 juni 1998       31 mars 1999
 
-2Registrering och utsläppande på marknaden av en motor eller en
-maskin med sådan motor får enbart ske om avgaskraven för den
+Steg II    130=P=560    31 december 2000   31 december 2001
+           75=P<130     31 december 2001   31 december 2002
+           37=P<75      31 december 2002   31 december 2003
+           18=P<37      31 december 1999   31 december 2000
+
+a EG-typgodkännande får inte längre meddelas om inte
+avgaskraven för aktuell kravnivå är uppfyllda.
+
+b Registrering och utsläppande på marknaden av en motor eller
+en maskin med sådan motor får enbart ske om avgaskraven för den
 aktuella kravnivån är uppfyllda.
 
-3Typgodkännanden enligt rådets direktiv 88/77/EEG av den 31
+c Typgodkännanden enligt rådets direktiv 88/77/EEG av den 31
 december 1987 om tillnärmning av medlemsstaternas lagstiftning
 om åtgärder mot utsläpp av gasformiga föroreningar från
-dieselmotorer som används i fordon, senast ändrat genom
-direktiv 91/542/EEG, skall godkännas för steg 1. Denna
-giltighet skall dock upphöra med verkan från det obligatoriska
-genomförandet av steg II. Förordning (2000:761).
+dieselmotorer som används i fordon senast ändrat genom bilaga
+II till anslutningsakten för Tjeckien m.fl., skall godkännas
+för steg 1. Denna giltighet skall dock upphöra med verkan från
+det obligatoriska genomförandet av steg II.
 
-1.1.2 Traktorer
+1.1.2 Förbränningsmotorer med kompressionständning med en
+nettoeffekt på över 18 kilowatt men högst 560 kilowatt och som
+drivs vid konstant varvtal
+
+Maskiner vars motorer omfattas av denna definition är till
+exempel gaskompressorer; generatoraggregat för varierande
+belastning, inbegripet kylaggregat och svetsaggregat;
+vattenpumpar samt utrustning för skötsel av gräsmattor,
+flismaskiner, snöröjningsutrustning och sopmaskiner.
+
+För dessa motorer gäller samma gränsvärden som för motorerna
+under rubrik 1.1.1. Gränsvärdena skall dock tillämpas först
+från och med den 31 december 2006.
+
+1.1.3 Bensindrivna förbränningsmotorer med gnisttändning med en
+nettoeffekt på högst 19 kilowatt
+
+Dessa förbränningsmotorer (S) delas in i två kategorier (H och
+N). Kategori H utgörs av handhållna motorer. Kategori N utgörs
+av icke handhållna motorer. Motorernas effekt framgår av
+följande tabell.
+
+Klass/kategori               Cylindervolym (cm3)
+
+SH:1                    < 20
+
+SH:2                    = 20
+                        < 50
+
+SH:3                    = 50
+
+SN:1                    < 66
+
+SN:2                    = 66
+                        < 100
+
+SN:3                    = 100
+                        < 225
+
+SN:4                    = 225
+
+Följande datum gäller för motorerna i dessa två kategorier.
+
+Kravnivå   Motorklass   Dag för nya    Dag för registrering
+                        typgodkännandena  eller utsläppande på
+                                          marknadenb,c
+
+Steg I     SH:1, SH:2,  11 augusti 2004   11 februari 2005
+           SH:3, SN:1,
+           SN:2, SN:3
+           och SN:4
+
+Steg II    SN:1 och     1 augusti 2004    1 februari 2005
+d,e,f,g    SN:2
+
+           SN:4         1 augusti 2006    1 februari 2007
+
+           SH:1, SH:2   1 augusti 2007    1 februari 2008
+           och SN:3
+
+           SH:3         1 augusti 2008    1 februari 2009
+
+a EG-typgodkännande får inte längre meddelas om inte
+avgaskraven för aktuell kravnivå är uppfyllda.
+
+b Registrering och utsläppande på marknaden av en motor eller
+en maskin med sådan motor får enbart ske om avgaskraven för den
+aktuella kravnivån är uppfyllda.
+
+c Tidpunkten för registrering eller utsläppande på marknaden
+får skjutas upp med två år för de motorer som tillverkats före
+angivna datum.
+
+d För små motortillverkare skall kraven på utsläppsgränsvärden
+skjutas upp med tre år för respektive kategori.
+
+e För handhållna motorsågar, handhållna borrar, handhållna
+häcksaxar, handhållna häcktrimmrar, handhållna skärmaskiner och
+icke-handhållna motorer av klass SN:3 skall kraven på
+utsläppsgränsvärden skjutas upp med tre år för respektive
+kategori.
+
+f För små motorfamiljer tillämpas kraven enligt steg I för upp
+till och med högst 25 000 enheter förutsatt att de olika
+berörda motorfamiljerna alla har olika cylindervolymer.
+
+g De motortyper eller motorfamiljer som före de datum som anges
+i tabellen uppfyller de i direktiv 97/68/EG angivna
+gränsvärdena får märkas på sätt som visar att maskinerna i
+fråga uppfyller gränsvärdena före fastställda datum.
+
+1.2 Traktorer
 
 För att kraven i 3 a § skall anses uppfyllda från det datum som
-anges i tid- tabellen krävs att motortypen eller traktortypen
-vid typgodkännande eller i samband med att motorn tas i bruk
-för första gången uppfyller de angivna kravnivåerna enligt
-Europaparlamentets och rådets direktiv 2000/25/EG om åtgärder
-mot utsläpp av gas- och partikelformiga föroreningar från
-motorer avsedda för jordbruks- och skogsbrukstraktorer och om
-ändring av rådets direktiv 74/150/EEG10.
+anges i tidtabellen krävs att motortypen eller traktortypen vid
+typgodkännade eller i samband med att motorn tas i bruk för
+första gången uppfyller de angivna kravnivåerna enligt direktiv
+2000/25/EG.
 
-Kravnivå   Motoreffekt       Dag för nya       Dag för registrering eller
-           P (kW        typgodkännanden1  utsläppande på marknaden2
+Kravnivå   Motoreffekt       Dag för nya       Dag för registrering
+           P (kW)       typgodkännandena  eller utsläppande på
+                                          marknadenb
 
+Steg Ic    130=P=560                      30 juni 2001
+           75=P<130     31 december 2000  30 juni 2001
+           37=P<75      31 december 2000  30 juni 2001
 
-Steg 13    130P<75      31 december 2000  30 juni 2001
+Steg IId   130=P=560    31 december 2000  31 december 2001e
+           75=P<130     31 december 2001  31 december 2002f
+           37=P<75      31 december 2002  31 december 2003
+           18=P<37      31 december 2000  31 december 2001
 
-Steg II4   1302 En motor eller traktor får registreras, säljas, tas i bruk
+a EG-typgodkännande får inte längre meddelas om inte
+avgaskraven för aktuell kravnivå är uppfyllda.
+
+b En motor eller traktor får registreras, säljas, tas i bruk
 och användas endast om avgaskraven för aktuell kravnivå är
 uppfyllda.
 
-3 Typgodkännanden enligt Europaparlamentets och rådets direktiv
-97/68/EG11 eller enligt rådets direktiv 88/77/EEG av den 31
-december 1987 om tillnärmning av medlemsstaternas lagstiftning
-om åtgärder mot utsläpp av gasformiga föroreningar från
-dieselmotorer som används i fordon12, senast ändrat genom
-direktiv 91/542/EEG13, och typgodkännande i enlighet med FN-
-ECE:s föreskrifter nr 49.02 och nr 96, skall anses som
-likvärdiga. Denna giltighet skall dock upphöra med verkan från
-det obligatoriska genomförandet av steg II.
+c Typgodkännanden enligt direktiv 97/68/EG, enligt direktiv
+88/77/EEG eller enligt FN-ECE:s föreskrifter nr 49.02 och nr
+96, skall anses som likvärdiga. Denna giltighet skall dock
+upphöra med verkan från det obligatoriska genomförandet av steg
+II.
 
-4 Typgodkännande i enlighet med direktiv 97/68/EG, steg II,
-skall anses som likvärdigt.
+d Typgodkännande enligt direktiv 97/68/EG, steg II, skall anses
+som likvärdigt.
 
-5 För kompletta traktorer är tidpunkten den 30 juni 2002.
+e För kompletta traktorer är tidpunkten den 30 juni 2002.
 
-6 För kompletta traktorer är tidpunkten den 30 juni 2003.
-Förordning (2000:761).
+f För kompletta traktorer är tidpunkten den 30 juni 2003.
 
-1.2 Gränsvärden
+2 Gränsvärden
 
-Nedan angivna gränsvärden i g/kWh gäller vid de tidpunkter som
-anges ovan.
+2.1 Gränsvärden för motorer enligt 1.1.1 och 1.1.2
 
-Kravnivå   Motoreffekt  Koloxid         Kolväten  Kväveoxider  Partiklar
+Nedan angivna gränsvärden i gram per kilowattimme gäller vid de
+tidpunkter som anges under 1.1.1 och 1.1.2.
+
+Kravnivå   Motoreffekt       Kolmonoxid  Kolväten  Kväveoxider  Partiklar
            P (kW)
 
+Steg I     130=P=560    5,0         1,3       9,2          0,54
+           75=P<130     5,0         1,3       9,2          0,70
+           37=P<75      6,5         1,3       9,2          0,85
 
-Steg I     130(P(560    5,0        1,3       9,2          0,54
-           75(P<130     5,0        1,3       9,2          0,70
-           37(P<75      6,5        1,3       9,2          0,85
+Steg II    130=P=560    3,5         1,0       6,0          0,2
+           75=P<130     5,0         1,0       6,0          0,3
+           37=P<75      5,0         1,3       7,0          0,4
+           18=P<37      5,5         1,5       8,0          0,8
 
-Steg II    130(P(560    3,5        1,0       6,0          0,2
-           75(P<130     5,0        1,0       6,0          0,3
-           37(P<75      5,0        1,3       7,0          0,4
-           18(P<37      5,5        1,5       8,0          0,8
+2.2 Gränsvärden för motorer enligt 1.1.3
 
+Nedan angivna gränsvärden i gram per kilowattimme gäller vid de
+tidpunkter som anges under 1.1.3.
 
-1.3 Provmetod
+Kravnivå   Klass  Kolmonoxid  Kolväten  Kväveoxider  Summan av
+                                                     kolväten och
+                                                     kväveoxider
+
+Steg I     SH:1   805         295       5,36
+           SH:2   805         241       5,36
+           SH:3   603         161       5,36
+           SN:1   519                                50
+           SN:2   519                                40
+           SN:3   519                                16,1
+           SN:4   519                                13,4
+
+Steg IIa   SH:1   805                   10           50
+           SH:2   805                   10           50
+           SH:3   603                   10           72
+           SN:1   610                   10           50,0
+           SN:2   610                   10           40,0
+           SN:3   610                   10           16,1
+           SN:4   610                   10           12,1
+
+a Utan hinder av definitionen av handhållna motorer i 2 §
+förordningen (1998:1709) om avgaskrav för vissa
+förbränningsmotordrivna mobila maskiner behöver tvåtaktsmotorer
+i snöslungor endast uppfylla kraven för klass SH:1, SH:2 eller
+SH:3.
+
+3 Provmetod
 
 Proven skall stämma överens med de provförfaranden som
 fastställts av Europeiska unionen för typgodkännandet.
 
-1.4 Hållbarhetskrav
+4 Hållbarhetskrav
 
 Motorn skall uppfylla hållbarhetskrav som stämmer överens med
-de krav som fastställts i den ordning som sägs i 1.3.
+de krav som fastställts i den ordning som sägs i 3.
+Förordning (2004:1081).
 
 Bilaga 2
 
