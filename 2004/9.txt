@@ -46,7 +46,8 @@ vissa funktionshindrade, två år före bidrags- och avgiftsåret.
 
 Beräkning av standardkostnad
 
-4 § En kommuns standardkostnad skall beräknas enligt följande.
+4 § /Upphör att gälla U:2005-01-01/
+En kommuns standardkostnad skall beräknas enligt följande.
 Antalet personer med verkställda beslut om insatser enligt 9 §
 2-10 lagen (1993:387) om stöd och service till vissa
 funktionshindrade, multipliceras med den enligt 5 § beräknade
@@ -58,6 +59,21 @@ sätt beräknade kostnaden multipliceras med det
 koncentrationsindex och det personalkostnadsindex som beräknats
 enligt 6 §. Produkten divideras slutligen med antalet invånare
 i kommunen, varvid kommunens standardkostnad är beräknad.
+
+4 § /Träder i kraft I:2005-01-01/
+En kommuns standardkostnad skall beräknas enligt följande.
+Antalet personer med verkställda beslut om insatser enligt 9 §
+2-10 lagen (1993:387) om stöd och service till vissa
+funktionshindrade, multipliceras med den enligt 5 § beräknade
+genomsnittliga kostnaden per insats i landet, varefter
+produkterna summeras. Till summan adderas kommunens ersättning
+till Försäkringskassan enligt lagen (1993:389) om
+assistansersättning enligt räkenskapssammandraget. Den på så
+sätt beräknade kostnaden multipliceras med det
+koncentrationsindex och det personalkostnadsindex som beräknats
+enligt 6 §. Produkten divideras slutligen med antalet invånare
+i kommunen, varvid kommunens standardkostnad är beräknad.
+Förordning (2004:946).
 
 5 § Den genomsnittliga kostnaden per insats enligt 4 § skall
 beräknas enligt följande.
@@ -212,39 +228,39 @@ Standardkostnadsberäkning
 Den första delen av standardkostnaden beräknas enligt följande
 formel:
 
-S       =       BV x bv + BB x bb + FH x fh + DV x dv + KV
+S = BV x bv + BB x bb + FH x fh + DV x dv + KV
 x kv + KT x kt + AS x as + LS x ls + KP x kp + PA x pa + FK,
 
 där förkortningar förklaras som
 
-S       =       standardkostnad,
-BV      =       bostad med särskild service för vuxna
+S  = standardkostnad,
+BV = bostad med särskild service för vuxna
 eller annan särskilt anpassad bostad för vuxna,
-bv      =       genomsnittskostnad för ovanstående insats,
-BB      =       bostad med särskild service för barn och
-ungdomar,
-bb      =       genomsnittskostnad för ovanstående insats,
-FH      =       boende i familjehem,
-fh      =       genomsnittskostnad för ovanstående insats,
-DV      =       daglig verksamhet,
-dv      =       genomsnittskostnad för ovanstående insats,
-KV      =       korttidsvistelse utanför det egna hemmet,
-kv      =       genomsnittskostnad för ovanstående insats,
-KT      =       korttidstillsyn för skolungdomar över 12
-år,
-kt      =       genomsnittskostnad för ovanstående insats,
-AS      =       avlösarservice i hemmet,
-as      =       genomsnittskostnad för ovanstående insats,
-LS      =       ledsagarservice,
-ls      =       genomsnittskostnad för ovanstående insats,
-KP      =       biträde av kontaktperson,
-kp      =       genomsnittskostnad för ovanstående insats,
-PA      =       biträde av personlig assistent beslutad av
-kommunen,
-pa      =       genomsnittskostnad för ovanstående insats,
-FK      =       kommunens ersättning till
-försäkringskassan enligt lagen (1993:389) om
-assistansersättning.
+bv = genomsnittskostnad för ovanstående insats,
+BB = bostad med särskild service för barn och ungdomar,
+bb = genomsnittskostnad för ovanstående insats,
+FH = boende i familjehem,
+fh = genomsnittskostnad för ovanstående insats,
+DV = daglig verksamhet,
+dv = genomsnittskostnad för ovanstående insats,
+KV = korttidsvistelse utanför det egna hemmet,
+kv = genomsnittskostnad för ovanstående insats,
+KT = korttidstillsyn för skolungdomar över 12 år,
+kt = genomsnittskostnad för ovanstående insats,
+AS = avlösarservice i hemmet,
+as = genomsnittskostnad för ovanstående insats,
+LS = ledsagarservice,
+ls = genomsnittskostnad för ovanstående insats,
+KP = biträde av kontaktperson,
+kp = genomsnittskostnad för ovanstående insats,
+PA = biträde av personlig assistent beslutad av kommunen,
+pa = genomsnittskostnad för ovanstående insats,
+/Upphör att gälla U:2005-01-01/
+FK = kommunens ersättning till försäkringskassan enligt
+lagen (1993:389) om assistansersättning.
+/Träder i kraft I:2005-01-01/
+FK = kommunens ersättning till Försäkringskassan enligt lagen
+(1993:389) om assistansersättning.
 
 Koncentrationsindex (K-IX)
 
@@ -264,23 +280,26 @@ Personalkostnadsindex (PK-IX)
 
 Personalkostnadsindexets beräkning
 
-A       =       Externa löner.
-B       =       Entreprenad och köp av verksamhet.
-C       =       Interna köp och övriga interna kostnader.
-D       =       Internt fördelade kostnader enligt
-kommunnyckeln.
-E       =       Internt fördelade kostnader enligt SCB-
-nyckeln.
-F       =       Interna intäkter.
-G       =       Ersättning från försäkringskassan enligt
+A  =  Externa löner.
+B  =  Entreprenad och köp av verksamhet.
+C  =  Interna köp och övriga interna kostnader.
+D  =  Internt fördelade kostnader enligt kommunnyckeln.
+E  =  Internt fördelade kostnader enligt SCB-nyckeln.
+F  =  Interna intäkter.
+/Upphör att gälla U:2005-01-01/
+G  =  Ersättning från försäkringskassan enligt
 lagen (1993:389) om assistansersättning.
-H       =       Ersättning till försäkringskassan enligt
+H  =   Ersättning till försäkringskassan enligt
 lagen (1993:389) om assistansersättning.
-J       =       Försäljning av verksamhet till andra
-kommuner.
-S       =       Standardkostnad enligt tidigare beräkning
-exklusive koncentrationsindex.
-Sk      =       Standardkostnad inklusive
+/Träder i kraft I:2005-01-01/
+G  =  Ersättning från Försäkringskassan enligt lagen (1993:389)
+om assistansersättning.
+H  =  Ersättning till Försäkringskassan enligt lagen (1993:389)
+om assistansersättning.
+J  =  Försäljning av verksamhet till andra kommuner.
+S  =  Standardkostnad enligt tidigare beräkning exklusive
+koncentrationsindex.
+Sk =  Standardkostnad inklusive
 koncentrationsindex.
 
 Beräknade personalkostnader
@@ -291,7 +310,12 @@ enligt Svenska Kommunförbundets cirkulär.
 Tillkommer 86 procent av köp av verksamhet, övriga interna
 kostnader, internt fördelade kostnader.
 
+/Upphör att gälla U:2005-01-01/
 Avgår 86 procent av ersättning från försäkringskassan,
+försäljning till andra kommuner, interna intäkter.
+
+/Träder i kraft I:2005-01-01/
+Avgår 86 procent av ersättning från Försäkringskassan,
 försäljning till andra kommuner, interna intäkter.
 
 Tillkommer kommunens beräknade personalkostnad för köpta
@@ -334,3 +358,4 @@ bidrags- och avgiftsårets prisnivå. Produkten divideras med
 antalet invånare = S x K-IX x PK-IX x nettoprisindex x
 korrigeringsfaktorn / antalet invånare i kommunen. Resultatet
 avrundas till närmaste hela krontal.
+Förordning (2004:946).
