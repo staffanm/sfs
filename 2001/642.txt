@@ -1,0 +1,263 @@
+
+
+
+Inledande bestämmelse
+
+1 § Denna förordning gäller utöver personuppgiftslagen
+(1998:204) vid automatiserad behandling av personuppgifter i
+hyres- och arrendenämndernas rättsskipande eller rättsvårdande
+verksamhet.
+
+En nämnd är personuppgiftsansvarig för den behandling av
+personuppgifter som nämnden utför. Om Domstolsverket utför
+behandling av personuppgifter enligt första stycket är verket
+personuppgiftsansvarig för behandlingen.
+
+En registrerad har inte rätt att motsätta sig behandling som är
+tillåten enligt denna förordning.
+
+Verksamhetsregister
+
+2 § En nämnd får föra automatiserade register över ärenden som
+handläggs i nämnden. Ett register får användas för
+
+1. handläggning av ärenden,
+
+2. planering, uppföljning och utvärdering av verksamheten, och
+
+3. framställning av statistik.
+
+3 § Ett register får innehålla endast de uppgifter som anges i
+bilaga 1 till denna förordning.
+
+Vid angivande av saken i ett ärende (ärendemening) får känsliga
+personuppgifter som anges i 13 § personuppgiftslagen (1998:204)
+och uppgifter om lagöverträdelser m.m. som anges i 21 § samma
+lag behandlas endast om det är nödvändigt för att saken skall
+kunna återges på ett ändamålsenligt sätt.
+
+4 § Som sökbegrepp får inte användas känsliga personuppgifter
+enligt 13 § personuppgiftslagen (1998:204) eller uppgifter om
+nationalitet.
+
+Uppgifter om saken och andra liknande uppgifter om ett ärende
+får inte användas som sökbegrepp tillsammans med uppgifter om
+parter eller andra aktörer i ett ärende. Förordning (2003:602).
+
+5 § Uppgifter skall gallras ur ett register enligt de
+gallringsföreskrifter från Riksarkivet som gäller för
+nämnderna.
+
+Innan uppgifterna gallras skall nämnden se till att de bevaras
+på annat sätt i den omfattning som skulle följa av förordningen
+(1975:520) om protokollföring m.m. vid arrendenämnd och
+hyresnämnd, om nämnden inte hade använt sig av automatiserad
+behandling.
+
+Rättsfallsregister
+
+6 § En nämnd får föra automatiserade register för återsökning
+av vägledande avgöranden, rättsutredningar och liknande
+rättslig information. Ett register får innehålla endast de
+uppgifter som anges i bilaga 2 till denna förordning.
+
+Annan automatiserad behandling av personuppgifter
+
+7 § En nämnd får behandla personuppgifter automatiserat i
+löpande text vid sidan av de register som avses i 2 och 6 §§.
+
+Känsliga personuppgifter som anges i 13 § personuppgiftslagen
+(1998:204) och uppgifter om lagöverträdelser m.m. som anges i
+21 § samma lag får behandlas endast om uppgifterna har lämnats
+i ett ärende eller om de behövs för handläggningen av ärendet.
+
+8 § För bevarande av personuppgifter som med stöd av 7 §
+behandlas automatiserat i ett ärende gäller bestämmelserna i
+personuppgiftslagen (1998:204).
+
+Rättelse och skadestånd
+
+9 § Bestämmelserna i personuppgiftslagen (1998:204) om rättelse
+och skadestånd tillämpas vid behandling av personuppgifter
+enligt denna förordning.
+
+Överklagande
+
+10 § En nämnds beslut eller Domstolsverkets beslut om att inte
+meddela rättelse eller om att inte lämna information som skall
+lämnas efter ansökan får överklagas. I 22 a § förvaltningslagen
+(1986:223) finns bestämmelser om överklagande hos allmän
+förvaltningsdomstol.
+
+Övergångsbestämmelser
+
+1. Denna förordning träder i kraft den 1 oktober 2001.
+
+2. Bestämmelsen om skadestånd skall tillämpas endast om den
+omständighet som yrkandet hänför sig till har inträffat efter
+det att förordningen har trätt i kraft beträffande den aktuella
+behandlingen.
+
+Bilaga 1
+
+Uppgifter i ett verksamhetsregister
+
+1.      ärendenummer, ärendekategori och ärendeprefix
+
+2.      avdelning, rotel, rotelchef, handläggare och process
+
+3.      inkomstdatum
+
+4.      saken (ärendemening)
+
+5.      sakkod, typkod, ärendegrupp och ärendetyp
+
+6.      om offentlig part:
+        - partställning
+        - namn, tjänstetitel, myndighet och
+          myndighetsnummer/organisationsnummer
+        - postadress
+        - telefonnummer, e-postadress e.d.
+        - diarienummer och diariebeteckning
+
+7.      om enskild part:
+        - partställning
+        - namn/firma och yrke/titel
+        - personnummer/samordningsnummer/organisationsnummer
+        - nationalitet
+        - besöksadress och postadress
+        - telefonnummer, e-postadress e.d.
+        - rättshjälp
+        - förenklad delgivning
+
+8.      om ställföreträdare:
+        - egenskap (vårdnadshavare, konkursförvaltare e.d.)
+        - namn/firma och yrke/titel
+        - personnummer/samordningsnummer/organisationsnummer
+        - besöksadress och postadress
+        - telefonnummer, e-postadress e.d.
+
+9.      om biträde/ombud:
+        - egenskap (ombud, biträde e.d.)
+        - fullmakt
+        - namn/firma och yrke/titel
+        - besöksadress och postadress
+        - telefonnummer, e-postadress e.d.
+
+10.     om vittne/sakkunnig samt andra som ärendet rör:
+        - egenskap
+        - namn och yrke/titel
+        - personnummer/samordningsnummer/myndighetsnummer/
+          organisationsnummer
+        - besöksadress och postadress
+        - telefonnummer, e-postadress e.d.
+
+11.     om tolk:
+        - språk och arvodesnivå
+        - namn
+        - personnummer/samordningsnummer/myndighetsnummer/
+          organisationsnummer
+        - besöksadress och postadress
+        - telefonnummer, e-postadress e.d.
+
+12.     om expedition:
+        - dag för expedition
+        - mottagarens namn och adress
+        - handling
+        - yttrandefrist
+
+13.     om inkommande handlingar samt hos nämnden upprättade
+        handlingar:
+        - datum då handlingen kom in eller upprättades
+        - aktbilagenummer
+        - i förekommande fall från vem handlingen har kommit
+        - i korthet vad handlingen rör
+
+14.     om delgivning:
+        - adressat
+        - handling
+        - delgivningssätt
+        - delgivningsnummer
+        - delgivningsdag
+        - övriga åtgärder
+
+15.     om beslut/föreläggande:
+        - nämnden samt ställe för meddelandet
+        - art och typ
+        - nummer
+        - datum
+        - innebörd och utgång om denna har betydelse för
+          handläggningen
+        - fullföljd
+        - laga kraft
+        - nämndens sammansättning
+        - ordförande (tjänsteställning)
+
+16.     titel och namn på ordförande och andra befattningshavare
+        vid nämnden
+
+17.     jäv
+
+18.     om förhandling/sammanträde/handläggning e.d.:
+        - tidpunkt och plats
+        - typ av förhandling/sammanträde
+        - antal förhandlingar/sammanträden
+        - beräknad och verklig förhandlingstid/sammanträdestid
+        - inställt
+
+19.     rättshjälpskostnader
+
+20.     om avgörande som överklagats till nämnden:
+        - avgörandetyp
+        - datum
+        - nummer
+        - myndighet
+
+21.     författning
+
+22.     ärendets art (ensam ordförande e.d.)
+
+23.  uppgift om ärendesamband
+
+24.     om fastighet m.m.:
+        - geografisk enhet
+        - fastighetsbeteckning
+        - gatuadress
+        - ort
+        - SNI-kod
+        - geografiska x- och y-koordinater
+
+25.     kommun
+
+26.     förtur
+
+27.     handläggningsåtgärd/handläggningsstatus
+
+28.     om tillsynsmyndighet eller annan som skall höras:
+        - egenskap
+        - namn, tjänstetitel, myndighet och
+          myndighetsnummer/organisationsnummer
+        - postadress
+        - telefonnummer, e-postadress e.d.
+        - diarienummer och diariebeteckning
+
+29.     bevakning
+
+30.     tekniska och administrativa uppgifter som behövs för att
+        tillgodose ändamålen med registret
+Förordning (2003:602).
+
+Bilaga 2
+
+Uppgifter i ett rättsfallsregister
+
+1.      beteckning på handling
+2.      ärendenummer
+3.      avgörandedatum
+4.      avgörandenummer
+5.      sökord
+6.      författningshänvisning
+7.      problembeskrivning (sammanfattning)
+8.      hänvisning till rättsutredning
+9.      fullföljd
+10.     sökkod
