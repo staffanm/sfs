@@ -46,34 +46,20 @@ vissa funktionshindrade, två år före bidrags- och avgiftsåret.
 
 Beräkning av standardkostnad
 
-4 § /Upphör att gälla U:2005-01-01/
-En kommuns standardkostnad skall beräknas enligt följande.
-Antalet personer med verkställda beslut om insatser enligt 9 §
-2-10 lagen (1993:387) om stöd och service till vissa
-funktionshindrade, multipliceras med den enligt 5 § beräknade
-genomsnittliga kostnaden per insats i landet, varefter
-produkterna summeras. Till summan adderas kommunens ersättning
-till försäkringskassan enligt lagen (1993:389) om
-assistansersättning enligt räkenskapssammandraget. Den på så
-sätt beräknade kostnaden multipliceras med det
-koncentrationsindex och det personalkostnadsindex som beräknats
-enligt 6 §. Produkten divideras slutligen med antalet invånare
-i kommunen, varvid kommunens standardkostnad är beräknad.
-
-4 § /Träder i kraft I:2005-01-01/
-En kommuns standardkostnad skall beräknas enligt följande.
-Antalet personer med verkställda beslut om insatser enligt 9 §
-2-10 lagen (1993:387) om stöd och service till vissa
+4 § En kommuns standardkostnad skall beräknas enligt följande.
+Antalet personer i kommunen med verkställda beslut om insatser
+enligt 9 § 2-10 lagen (1993:387) om stöd och service till vissa
 funktionshindrade, multipliceras med den enligt 5 § beräknade
 genomsnittliga kostnaden per insats i landet, varefter
 produkterna summeras. Till summan adderas kommunens ersättning
 till Försäkringskassan enligt lagen (1993:389) om
-assistansersättning enligt räkenskapssammandraget. Den på så
-sätt beräknade kostnaden multipliceras med det
-koncentrationsindex och det personalkostnadsindex som beräknats
-enligt 6 §. Produkten divideras slutligen med antalet invånare
-i kommunen, varvid kommunens standardkostnad är beräknad.
-Förordning (2004:946).
+assistansersättning enligt räkenskapssammandraget.
+
+Den enligt första stycket beräknade kostnaden multipliceras med
+det koncentrationsindex och det personalkostnadsindex som
+beräknats enligt 6 §. Produkten divideras slutligen med antalet
+invånare i kommunen, varvid kommunens standardkostnad är
+beräknad. Förordning (2004:1370).
 
 5 § Den genomsnittliga kostnaden per insats enligt 4 § skall
 beräknas enligt följande.
@@ -108,15 +94,18 @@ kommunen och andelen personer med verkställda beslut i landet
 per den 1 september 2002, upphöjt med en exponent som justerar
 för koncentrationens effekt på standardkostnaden.
 
-Personalkostnadsindexet beräknas utifrån kostnadsuppgifter från
-räkenskapssammandraget 2002 på följande sätt. Ett belopp
-motsvarande 70 procent av skillnaden mellan en beräknad
-personalkostnad per kommun och den personalkostnad som ingår i
-respektive kommuns standardkostnad enligt 4 § adderas till
-standardkostnaden enligt 4 §, multiplicerad med
-koncentrationsindex. Den erhållna summan divideras med
-standardkostnaden enligt 4 §, multiplicerad med
-koncentrationsindexet.
+Personalkostnadsindexet för respektive kommun beräknas dels
+utifrån kostnadsuppgifter från räkenskapssammandraget 2002,
+dels utifrån den kostnad som beräknats enligt 4 § första
+stycket för bidrags- och avgiftsåret 2004, på följande sätt.
+
+Ett belopp motsvarande 70 procent av skillnaden mellan en
+beräknad personalkostnad per kommun och den personalkostnad som
+ingår i den i andra stycket nämnda kostnaden, adderas till sist
+nämnda kostnad, multiplicerad med koncentrationsindex. Den
+erhållna summan divideras med den i andra stycket nämnda
+kostnaden, multiplicerad med koncentrationsindexet.
+Förordning (2004:1370).
 
 7 § För beräkningarna gäller i övrigt de beräkningsmetoder och
 närmare detaljer som anges i bilagan till denna förordning.
@@ -154,6 +143,13 @@ sägs i 9 § gälla att Statistiska centralbyrån senast den 5 mars
 2004 till Skatteverket skall lämna uppgifter som beräknats
 enligt denna förordning.
 
+2004:1370
+
+Denna förordning träder i kraft den 1 februari 2005 och
+tillämpas första gången för bidrags- och avgiftsåret 2005.
+
+
+
 Bilaga
 
 Beräkningsmetoder och närmare detaljer för kostnadsutjämningen
@@ -168,7 +164,7 @@ Nettoprisindex
 Uppräkning till bidrags- och avgiftsårets kostnadsnivå sker med
 hjälp av utvecklingen av nettoprisindex. Som genomsnittlig
 procentuell förändring i nettoprisindex för respektive år
-används följande: 2003 (1,3) och 2004 (1,0).
+används följande: 2004 (0,2) och 2005 (1,5).
 
 Genomsnittskostnaden
 
@@ -177,7 +173,7 @@ följande formel:
 
 Boendeformer
 
-Vuxna = nettokostnader1 från rad 5131 enligt
+Vuxna = nettokostnader från rad 5131 enligt
 räkenskapssammandraget / (antal beslut enligt 9 § 9 lagen
 (1993:387) om stöd och service till vissa funktionshindrade +
 antal beslut om boende enligt 9 § 8 lagen (1993:387) om stöd
@@ -255,10 +251,6 @@ KP = biträde av kontaktperson,
 kp = genomsnittskostnad för ovanstående insats,
 PA = biträde av personlig assistent beslutad av kommunen,
 pa = genomsnittskostnad för ovanstående insats,
-/Upphör att gälla U:2005-01-01/
-FK = kommunens ersättning till försäkringskassan enligt
-lagen (1993:389) om assistansersättning.
-/Träder i kraft I:2005-01-01/
 FK = kommunens ersättning till Försäkringskassan enligt lagen
 (1993:389) om assistansersättning.
 
@@ -276,6 +268,299 @@ ir = Antal invånare i landet den 31 december 2002.
 Beräkning av koncentrationsindexet enligt följande formel:
 ((P123k/ik) / (P123r/ir))-0,16 .
 
+Kommun               K-IX
+
+Botkyrka                0,987
+Danderyd                1,074
+Ekerö                   0,980
+Haninge                 1,025
+Huddinge                1,036
+Järfälla                1,043
+Lidingö                 1,027
+Nacka                   1,087
+Norrtälje               1,009
+Nykvarn                 1,033
+Nynäshamn               1,024
+Salem                   1,024
+Sigtuna                 1,028
+Sollentuna              1,024
+Solna                   1,090
+Stockholm               1,065
+Sundbyberg              1,075
+Södertälje              0,986
+Tyresö                  1,036
+Täby                    1,062
+Upplands Väsby          1,011
+Upplands-Bro            1,019
+Vallentuna              0,992
+Vaxholm                 1,064
+Värmdö                  1,090
+Österåker               0,961
+Enköping                1,027
+Håbo                    1,098
+Knivsta                 1,035
+Tierp                   0,933
+Uppsala                 0,983
+Älvkarleby              1,035
+Östhammar               0,953
+Eskilstuna              1,007
+Flen                    0,994
+Gnesta                  1,016
+Katrineholm             0,963
+Nyköping                0,980
+Oxelösund               0,969
+Strängnäs               1,079
+Trosa                   1,106
+Vingåker                1,005
+Boxholm                 1,125
+Finspång                0,966
+Kinda                   1,010
+Linköping               1,007
+Mjölby                  0,975
+Motala                  0,988
+Norrköping              0,947
+Söderköping             0,908
+Vadstena                1,102
+Valdemarsvik            0,919
+Ydre                    1,269
+Åtvidaberg              1,051
+Ödeshög                 1,009
+Aneby                   1,017
+Eksjö                   0,996
+Gislaved                1,010
+Gnosjö                  1,033
+Habo                    1,095
+Jönköping               1,005
+Mullsjö                 1,039
+Nässjö                  0,992
+Sävsjö                  0,955
+Tranås                  0,960
+Vaggeryd                0,931
+Vetlanda                1,008
+Värnamo                 0,977
+Alvesta                 0,996
+Lessebo                 1,101
+Ljungby                 0,972
+Markaryd                0,946
+Tingsryd                0,957
+Uppvidinge              0,970
+Växjö                   0,970
+Älmhult                 1,112
+Borgholm                0,946
+Emmaboda                0,954
+Hultsfred               0,928
+Högsby                  1,041
+Kalmar                  0,992
+Mönsterås               1,056
+Mörbylånga              0,990
+Nybro                   0,941
+Oskarshamn              1,046
+Torsås                  1,048
+Vimmerby                1,027
+Västervik               0,975
+Gotland                 0,981
+Karlshamn               0,953
+Karlskrona              1,015
+Olofström               0,996
+Ronneby                 1,018
+Sölvesborg              1,037
+Bjuv                    1,068
+Bromölla                1,034
+Burlöv                  1,088
+Båstad                  1,047
+Eslöv                   0,940
+Helsingborg             1,024
+Hässleholm              0,964
+Höganäs                 1,033
+Hörby                   0,983
+Höör                    1,035
+Klippan                 1,064
+Kristianstad            1,000
+Kävlinge                1,049
+Landskrona              0,998
+Lomma                   1,125
+Lund                    1,019
+Malmö                   1,004
+Osby                    1,042
+Perstorp                1,054
+Simrishamn              0,999
+Sjöbo                   1,037
+Skurup                  1,058
+Staffanstorp            1,060
+Svalöv                  1,000
+Svedala                 1,029
+Tomelilla               1,036
+Trelleborg              0,998
+Vellinge                1,123
+Ystad                   1,029
+Åstorp                  1,020
+Ängelholm               1,031
+Örkelljunga             0,988
+Östra Göinge            1,010
+Falkenberg              0,954
+Halmstad                1,015
+Hylte                   1,064
+Kungsbacka              1,125
+Laholm                  0,942
+Varberg                 1,049
+Ale                     1,035
+Alingsås                0,980
+Bengtsfors              1,000
+Bollebygd               1,001
+Borås                   0,989
+Dals-Ed                 1,024
+Essunga                 1,077
+Falköping               0,981
+Färgelanda              1,034
+Grästorp                0,966
+Gullspång               0,916
+Göteborg                1,006
+Götene                  0,995
+Herrljunga              1,032
+Hjo                     0,946
+Härryda                 1,030
+Karlsborg               1,011
+Kungälv                 0,985
+Lerum                   1,035
+Lidköping               0,940
+Lilla Edet              1,002
+Lysekil                 0,990
+Mariestad               0,935
+Mark                    1,011
+Mellerud                0,951
+Munkedal                1,069
+Mölndal                 0,975
+Orust                   1,033
+Partille                1,040
+Skara                   0,962
+Skövde                  0,955
+Sotenäs                 0,989
+Stenungsund             1,000
+Strömstad               1,016
+Svenljunga              0,985
+Tanum                   1,030
+Tibro                   0,959
+Tidaholm                1,008
+Tjörn                   1,019
+Tranemo                 1,019
+Trollhättan             0,973
+Töreboda                0,954
+Uddevalla               0,964
+Ulricehamn              0,948
+Vara                    0,928
+Vårgårda                1,037
+Vänersborg              0,945
+Åmål                    0,975
+Öckerö                  1,027
+Arvika                  1,007
+Eda                     1,078
+Filipstad               0,945
+Forshaga                0,961
+Grums                   0,963
+Hagfors                 0,943
+Hammarö                 0,962
+Karlstad                0,993
+Kil                     0,985
+Kristinehamn            0,973
+Munkfors                0,984
+Storfors                0,990
+Sunne                   0,984
+Säffle                  0,950
+Torsby                  1,007
+Årjäng                  0,961
+Askersund               0,996
+Degerfors               1,011
+Hallsberg               0,999
+Hällefors               0,976
+Karlskoga               0,988
+Kumla                   0,970
+Laxå                    0,990
+Lekeberg                1,021
+Lindesberg              0,995
+Ljusnarsberg            1,045
+Nora                    0,920
+Örebro                  0,978
+Arboga                  1,023
+Fagersta                0,982
+Hallstahammar           0,913
+Heby                    1,010
+Kungsör                 0,906
+Köping                  0,995
+Norberg                 1,013
+Sala                    0,976
+Skinnskatteberg         1,107
+Surahammar              1,056
+Västerås                1,006
+Avesta                  1,014
+Borlänge                0,964
+Falun                   1,015
+Gagnef                  1,057
+Hedemora                0,904
+Leksand                 1,024
+Ludvika                 1,017
+Malung                  1,054
+Mora                    0,979
+Orsa                    1,053
+Rättvik                 0,995
+Smedjebacken            1,021
+Säter                   1,029
+Vansbro                 1,008
+Älvdalen                0,979
+Bollnäs                 0,976
+Gävle                   1,004
+Hofors                  1,022
+Hudiksvall              0,990
+Ljusdal                 1,039
+Nordanstig              0,987
+Ockelbo                 0,985
+Ovanåker                0,996
+Sandviken               0,985
+Söderhamn               0,967
+Härnösand               0,923
+Kramfors                0,943
+Sollefteå               0,984
+Sundsvall               0,979
+Timrå                   0,985
+Ånge                    0,962
+Örnsköldsvik            0,987
+Berg                    0,970
+Bräcke                  0,902
+Härjedalen              0,996
+Krokom                  0,974
+Ragunda                 0,961
+Strömsund               0,957
+Åre                     1,061
+Östersund               0,949
+Bjurholm                1,030
+Dorotea                 0,961
+Lycksele                0,925
+Malå                    0,982
+Nordmaling              0,960
+Norsjö                  0,948
+Robertsfors             0,931
+Skellefteå              0,929
+Sorsele                 1,018
+Storuman                0,991
+Umeå                    0,969
+Vilhelmina              0,956
+Vindeln                 0,935
+Vännäs                  0,871
+Åsele                   0,979
+Arjeplog                1,043
+Arvidsjaur              0,937
+Boden                   0,904
+Gällivare               1,025
+Haparanda               0,933
+Jokkmokk                0,990
+Kalix                   0,997
+Kiruna                  1,088
+Luleå                   0,986
+Pajala                  0,988
+Piteå                   0,982
+Älvsbyn                 0,920
+Överkalix               1,010
+Övertorneå              0,966
+
 Personalkostnadsindex (PK-IX)
 
 Personalkostnadsindexets beräkning
@@ -286,12 +571,6 @@ C  =  Interna köp och övriga interna kostnader.
 D  =  Internt fördelade kostnader enligt kommunnyckeln.
 E  =  Internt fördelade kostnader enligt SCB-nyckeln.
 F  =  Interna intäkter.
-/Upphör att gälla U:2005-01-01/
-G  =  Ersättning från försäkringskassan enligt
-lagen (1993:389) om assistansersättning.
-H  =   Ersättning till försäkringskassan enligt
-lagen (1993:389) om assistansersättning.
-/Träder i kraft I:2005-01-01/
 G  =  Ersättning från Försäkringskassan enligt lagen (1993:389)
 om assistansersättning.
 H  =  Ersättning till Försäkringskassan enligt lagen (1993:389)
@@ -305,16 +584,11 @@ koncentrationsindex.
 Beräknade personalkostnader
 
 Lönekostnader inklusive personalomkostnadspålägg (PO-pålägg)
-enligt Svenska Kommunförbundets cirkulär.
+enligt Svenska Kommunförbundets cirkulär 2002:24.
 
 Tillkommer 86 procent av köp av verksamhet, övriga interna
 kostnader, internt fördelade kostnader.
 
-/Upphör att gälla U:2005-01-01/
-Avgår 86 procent av ersättning från försäkringskassan,
-försäljning till andra kommuner, interna intäkter.
-
-/Träder i kraft I:2005-01-01/
 Avgår 86 procent av ersättning från Försäkringskassan,
 försäljning till andra kommuner, interna intäkter.
 
@@ -344,6 +618,299 @@ koncentrationsindexet adderas med värdet av steg 3 dividerat
 med standardkostnaden inklusive koncentrationsindexet = (Sk +
 steg 3) / Sk.
 
+Kommun               PK-IX
+
+Botkyrka                1,112
+Danderyd                1,200
+Ekerö                   1,171
+Haninge                 1,278
+Huddinge                1,057
+Järfälla                1,028
+Lidingö                 1,044
+Nacka                   1,067
+Norrtälje               0,931
+Nykvarn                 1,534
+Nynäshamn               0,929
+Salem                   0,928
+Sigtuna                 0,995
+Sollentuna              1,093
+Solna                   0,991
+Stockholm               1,194
+Sundbyberg              1,038
+Södertälje              1,044
+Tyresö                  1,165
+Täby                    1,178
+Upplands Väsby          1,048
+Upplands-Bro            1,070
+Vallentuna              0,991
+Vaxholm                 0,944
+Värmdö                  1,075
+Österåker               1,081
+Enköping                1,151
+Håbo                    1,055
+Knivsta                 1,006
+Tierp                   1,016
+Uppsala                 1,006
+Älvkarleby              0,959
+Östhammar               1,156
+Eskilstuna              1,033
+Flen                    1,129
+Gnesta                  0,836
+Katrineholm             1,003
+Nyköping                1,105
+Oxelösund               1,016
+Strängnäs               1,134
+Trosa                   1,079
+Vingåker                0,824
+Boxholm                 0,975
+Finspång                0,830
+Kinda                   0,846
+Linköping               0,850
+Mjölby                  1,101
+Motala                  1,087
+Norrköping              0,828
+Söderköping             0,753
+Vadstena                0,916
+Valdemarsvik            0,901
+Ydre                    1,082
+Åtvidaberg              1,025
+Ödeshög                 0,789
+Aneby                   0,712
+Eksjö                   1,062
+Gislaved                0,877
+Gnosjö                  0,920
+Habo                    0,956
+Jönköping               0,945
+Mullsjö                 1,041
+Nässjö                  0,894
+Sävsjö                  0,911
+Tranås                  0,868
+Vaggeryd                0,783
+Vetlanda                0,877
+Värnamo                 1,011
+Alvesta                 1,205
+Lessebo                 1,166
+Ljungby                 0,976
+Markaryd                0,772
+Tingsryd                0,830
+Uppvidinge              1,067
+Växjö                   0,934
+Älmhult                 1,085
+Borgholm                0,930
+Emmaboda                1,010
+Hultsfred               0,868
+Högsby                  0,960
+Kalmar                  1,152
+Mönsterås               1,079
+Mörbylånga              1,018
+Nybro                   0,850
+Oskarshamn              1,217
+Torsås                  1,061
+Vimmerby                1,042
+Västervik               0,964
+Gotland                 1,047
+Karlshamn               1,165
+Karlskrona              1,010
+Olofström               0,957
+Ronneby                 1,047
+Sölvesborg              1,038
+Bjuv                    1,088
+Bromölla                0,758
+Burlöv                  1,021
+Båstad                  0,981
+Eslöv                   0,822
+Helsingborg             0,961
+Hässleholm              0,833
+Höganäs                 1,076
+Hörby                   0,901
+Höör                    0,912
+Klippan                 1,154
+Kristianstad            0,931
+Kävlinge                0,963
+Landskrona              1,018
+Lomma                   0,840
+Lund                    0,995
+Malmö                   0,977
+Osby                    0,939
+Perstorp                0,847
+Simrishamn              1,083
+Sjöbo                   0,880
+Skurup                  1,045
+Staffanstorp            0,869
+Svalöv                  0,813
+Svedala                 0,886
+Tomelilla               1,025
+Trelleborg              0,845
+Vellinge                1,022
+Ystad                   1,066
+Åstorp                  0,942
+Ängelholm               1,028
+Örkelljunga             0,829
+Östra Göinge            1,169
+Falkenberg              1,017
+Halmstad                1,053
+Hylte                   0,880
+Kungsbacka              1,141
+Laholm                  0,839
+Varberg                 1,120
+Ale                     1,088
+Alingsås                1,049
+Bengtsfors              0,899
+Bollebygd               0,879
+Borås                   0,953
+Dals-Ed                 0,943
+Essunga                 1,033
+Falköping               0,960
+Färgelanda              1,072
+Grästorp                0,926
+Gullspång               1,028
+Göteborg                1,069
+Götene                  1,073
+Herrljunga              0,864
+Hjo                     1,016
+Härryda                 1,119
+Karlsborg               0,902
+Kungälv                 1,128
+Lerum                   1,205
+Lidköping               0,937
+Lilla Edet              1,040
+Lysekil                 1,006
+Mariestad               0,822
+Mark                    1,025
+Mellerud                1,124
+Munkedal                0,980
+Mölndal                 1,014
+Orust                   1,040
+Partille                1,015
+Skara                   0,932
+Skövde                  0,924
+Sotenäs                 1,049
+Stenungsund             0,996
+Strömstad               1,092
+Svenljunga              1,073
+Tanum                   1,061
+Tibro                   0,745
+Tidaholm                0,826
+Tjörn                   0,737
+Tranemo                 0,945
+Trollhättan             0,912
+Töreboda                0,894
+Uddevalla               1,030
+Ulricehamn              0,918
+Vara                    0,796
+Vårgårda                1,139
+Vänersborg              0,903
+Åmål                    0,862
+Öckerö                  0,947
+Arvika                  0,951
+Eda                     0,838
+Filipstad               0,893
+Forshaga                0,934
+Grums                   1,086
+Hagfors                 0,928
+Hammarö                 1,023
+Karlstad                0,884
+Kil                     0,976
+Kristinehamn            0,957
+Munkfors                1,337
+Storfors                0,796
+Sunne                   0,895
+Säffle                  0,933
+Torsby                  1,112
+Årjäng                  0,701
+Askersund               0,943
+Degerfors               0,813
+Hallsberg               0,875
+Hällefors               0,992
+Karlskoga               0,936
+Kumla                   1,105
+Laxå                    0,790
+Lekeberg                1,062
+Lindesberg              0,889
+Ljusnarsberg            0,979
+Nora                    0,850
+Örebro                  1,019
+Arboga                  0,896
+Fagersta                0,882
+Hallstahammar           0,877
+Heby                    1,051
+Kungsör                 0,990
+Köping                  0,811
+Norberg                 1,010
+Sala                    0,788
+Skinnskatteberg         0,880
+Surahammar              1,033
+Västerås                1,019
+Avesta                  1,086
+Borlänge                1,003
+Falun                   1,050
+Gagnef                  0,872
+Hedemora                1,088
+Leksand                 1,115
+Ludvika                 0,928
+Malung                  1,081
+Mora                    1,050
+Orsa                    0,872
+Rättvik                 1,045
+Smedjebacken            0,932
+Säter                   0,876
+Vansbro                 1,406
+Älvdalen                0,959
+Bollnäs                 0,899
+Gävle                   0,963
+Hofors                  0,788
+Hudiksvall              1,097
+Ljusdal                 1,084
+Nordanstig              1,309
+Ockelbo                 0,904
+Ovanåker                0,944
+Sandviken               0,941
+Söderhamn               1,179
+Härnösand               1,126
+Kramfors                0,838
+Sollefteå               1,147
+Sundsvall               1,006
+Timrå                   0,915
+Ånge                    0,892
+Örnsköldsvik            0,928
+Berg                    1,035
+Bräcke                  0,920
+Härjedalen              0,939
+Krokom                  1,144
+Ragunda                 0,932
+Strömsund               0,903
+Åre                     0,857
+Östersund               0,898
+Bjurholm                1,106
+Dorotea                 0,802
+Lycksele                0,864
+Malå                    1,110
+Nordmaling              1,066
+Norsjö                  0,986
+Robertsfors             0,782
+Skellefteå              0,933
+Sorsele                 0,626
+Storuman                0,975
+Umeå                    1,025
+Vilhelmina              0,966
+Vindeln                 1,183
+Vännäs                  1,028
+Åsele                   0,944
+Arjeplog                1,031
+Arvidsjaur              1,025
+Boden                   0,941
+Gällivare               1,066
+Haparanda               0,905
+Jokkmokk                1,001
+Kalix                   0,911
+Kiruna                  1,413
+Luleå                   1,111
+Pajala                  1,009
+Piteå                   0,935
+Älvsbyn                 0,835
+Överkalix               1,019
+Övertorneå              0,788
+
 Slutlig standardkostnad
 
 Den slutliga standardkostnaden erhålls genom att den
@@ -358,4 +925,4 @@ bidrags- och avgiftsårets prisnivå. Produkten divideras med
 antalet invånare = S x K-IX x PK-IX x nettoprisindex x
 korrigeringsfaktorn / antalet invånare i kommunen. Resultatet
 avrundas till närmaste hela krontal.
-Förordning (2004:946).
+Förordning (2004:1370).
