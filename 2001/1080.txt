@@ -12,9 +12,12 @@ Definitioner
 
 ramdirektiv: rådets direktiv 70/156/EEG av den 6 februari 1970
 om tillnärmning av medlemsstaternas lagstiftning om
-typgodkännande av motorfordon och släpvagnar till dessa3, och
-rådets direktiv 92/61/EEG av den 30 juni 1992 om typgodkännande
-av två- och trehjuliga motorfordon4,
+typgodkännande av motorfordon och släpvagnar till dessa,
+senast ändrat genom Europaparlamentets och rådets direktiv
+2003/102/EG, och Europaparlamentets och rådets direktiv
+2002/24/EG av den 18 mars 2002 om typgodkännande av två- och
+trehjuliga motorfordon och om upphävande av rådets direktiv
+92/61/EEG, ändrat genom kommissionens direktiv 2003/77/EG,
 
 särdirektiv: direktiv som antagits med stöd av bestämmelserna i
 något av ramdirektiven,
@@ -55,12 +58,32 @@ separat teknisk enhet: anordning som är avsedd att vara en del
 av ett fordon men som kan typgodkännas separat men då endast i
 samband med en specificerad fordonstyp, förutsatt att ett
 sådant förfarande uttryckligen är tilllåtet enligt något av
-särdirektiven, och
+särdirektiven,
 
-tung buss: buss med en totalvikt av över 3 500 kilogram.
+tung buss: buss med en totalvikt av över 3 500 kilogram,
+
+motorbensin: bensin som är avsedd för motordrift och som
+omfattas av nr 2710 11 41, 2710 11 45, 2710 11 49, 2710 11 51
+eller 2710 11 59 i Kombinerade nomenklaturen (KN-nr) enligt
+rådets förordning (EEG) nr 2658/87 av den 23 juli 1987 om
+tulltaxe- och statistiknomenklaturen och om Gemensamma
+tulltaxan, och
+
+dieselbränsle: bränsle som omfattas av nr 2710 19 41 eller 2710
+19 25 i Kombinerade nomenklaturen (KN-nr) enligt rådets
+förordning (EEG) 2658/87 och som är avsett att användas i
+sådana motorfordon som avses i rådets direktiv 70/220/EEG av
+den 20 mars 1970 om tillnärmning av medlemsstaternas
+lagstiftning om åtgärder mot luftförorening genom avgaser från
+motorfordon, senast ändrat genom kommissionens direktiv
+2002/80/EG och rådets direktiv 88/77/EEG av den 3 december
+1987 om tillnärmning av medlemsstaternas lagstiftning om
+åtgärder mot utsläpp av gasformiga föroreningar från
+dieselmotorer som används i fordon, senast ändrat genom
+kommissionens direktiv 2001/27/EG.
 
 I övrigt har beteckningarna i denna lag samma innebörd som i
-lagen (2001:559) om vägtrafikdefinitioner.
+lagen (2001:559) om vägtrafikdefinitioner. Lag (2004:1079).
 
 Avgasreningskrav
 
@@ -302,23 +325,15 @@ skall av den som tillverkar eller yrkesmässigt till Sverige för
 in sådan bensin delas in i och tillhandahållas i de
 miljöklasser som anges i bilaga 2 till denna lag.
 
-Dieselbrännolja och fotogen, med undantag för flygfotogen, som
-är avsedd för motordrift skall av den som tillverkar eller
-yrkesmässigt till Sverige för in sådana motorbränslen delas in
-i och tillhandahållas i de miljöklasser som anges i bilaga 3
-till denna lag.
+Dieselbränsle skall av den som tillverkar eller yrkesmässigt
+till Sverige för in sådana motorbränslen delas in i och
+tillhandahållas i de miljöklasser som anges i bilaga 3 till
+denna lag. Lag (2004:1079).
 
-24 § Bensin som är avsedd för motordrift och som omfattas av nr
-2710 00 27, 2710 00 29, 2710 00 32, 2710 00 34 eller 2710 00 36
-i Kombinerade nomenklaturen (KN-nr) enligt förordningen (EEG)
-2658/875, men som inte uppfyller miljöspecifikationerna i
-miljöklass 2, får inte saluföras.
-
-Dieselbrännolja som omfattas av nr 2710 00 66 i Kombinerade
-nomenklaturen (KN-nr) enligt förordningen (EEG) 2658/87 och som
-är avsedd att användas i sådana motorfordon som avses i
-direktiv 70/220/EEG6 och 88/77/EEG7, men som inte uppfyller
-miljöspecifikationerna för miljöklass 3, får inte saluföras.
+24 § Motorbensin som inte uppfyller miljöspecifikationerna i
+miljöklass 2 och dieselbränsle som inte uppfyller
+miljöspecifikationerna i miljöklass 3 får inte saluföras.
+Lag (2004:1079).
 
 Tillsyn och ansvar
 
@@ -336,8 +351,8 @@ eller att fullgöra de skyldigheter som framgår av 9 § första
 stycket och 10 §. Föreläggandet får förenas med vite.
 
 27 § Den som med uppsåt eller av oaktsamhet bryter mot förbudet
-att saluföra bensin eller dieselbrännolja enligt 24 §, döms
-till böter eller fängelse i högst två år.
+att saluföra motorbensin eller dieselbränsle enligt 24 §, döms
+till böter eller fängelse i högst två år. Lag (2004:1079).
 
 Överklagande
 
@@ -433,98 +448,138 @@ Krav                      Miljö-         Miljö-         Miljö-
                           Motor-         Alkylat-
                           bensin         bensin
 
-Researchoktantal, lägst   95             -              95
+Researchoktantal,         95             -              95
+lägst
+
 Motoroktantal, lägst      85             -              85
-Ångtryck enligt Reid,
-högst kilopascal          70/95          65             70/95
-Ångtryck enligt Reid,
-lägst kilopascal          45/65          50             -
+
+Ångtryck, högst           70/95          65             70/95
+kilopascal
+
+Ångtryck, lägst           45/65          50             -
+kilopascal
+
 Destillation:
-- Förångat vid 70ºC,
-volymhalt procent         -              15-42          -
-- Förångat vid 100ºC,
-lägst volymhalt procent   47/50          46             46
-- Förångat vid 100ºC,
-högst volymhalt procent   -              72             -
-- Förångat vid 150ºC,
-lägst volymhalt procent   75             -              75
-- Förångat vid 180ºC,
-lägst volymhalt procent   -              95             -
+
+- Förångat vid 70ºC,      -              15-42          -
+volymhalt procent
+
+- Förångat vid 100ºC,     47/50          46             46
+lägst volymhalt procent
+
+- Förångat vid 100ºC,     -              72             -
+högst volymhalt procent
+
+- Förångat vid 150ºC,     75             -              75
+lägst volymhalt procent
+
+- Förångat vid 180ºC,     -              95             -
+lägst volymhalt procent
+
 Slutkokpunkt, högst ºC    205            200            -
-Olefiner, högst
-volymhalt procent         13,0           0,5            18,0
-Aromater, högst
-volymhalt procent         42,0           0,5            42,0
-Bensen, högst
-volymhalt procent         1,0            0,1            1,0
-Cykloalkaner, högst
-volymhalt procent         -              0,5            -
-n-Hexan, högst
-volymhalt procent         -              0,5            -
-Syre, högst masshalt
-procent                   2,7            -              2,7
+
+Olefiner, högst           13,0           0,5            18,0
+volymhalt procent
+
+Aromater, högst           35,0           0,5            35,0
+volymhalt procent
+
+Bensen, högst             1,0            0,1            1,0
+volymhalt procent
+
+Cykloalkaner, högst       -              0,5            -
+volymhalt procent
+
+n-Hexan, högst            -              0,5            -
+volymhalt procent
+
+Syre, högst               2,7            -              2,7
+masshalt procent
+
 Oxygenater:
-- Metanol, högst
+
+- Metanol, högst          3              -              3
 volymhalt procent,
 stabiliseringsmedel
-måste tillsättas          3              -              3
-- Etanol, högst
+måste tillsättas
+
+- Etanol, högst           5              -              5
 volymhalt procent,
 stabiliseringsmedel
-kan vara nödvändigt       5              -              5
-- Isopropylalkohol,
-högst volymhalt procent   10             -              10
-- Tertiär-butylalkohol,
-högst volymhalt procent   7              -              7
-- Isobutylalkolhol,
-högst volymhalt procent   10             -              10
-- Etrar som innehåller
+kan vara nödvändigt
+
+- Isopropylalkohol,       10             -              10
+högst volymhalt
+procent
+
+- Tertiär-butyalkohol,    7              -              7
+högst volymhalt procent
+
+- Isobutylalkohol,        10             -              10
+högst volymhalt procent
+
+- Etrar som innehåller    15             -              15
 5 eller flera kolatomer
 per molekyl, högst
-volymhalt procent         15             -              15
-Andra oxygenater,
-högst volymhalt procent   10             -              10
-Svavel, högst milligram
-per kilogram              50             50             150
-Bly, högst gram
-per liter                 0,005          0,002          0,005
-Fosfor                    Inte mätbar    -              -
-Densitet vid 15ºC,
-kilogram per kubikmeter   -             680-720         -
+volymhalt per procent
 
-Bensin i miljöklass 1 skall uppfylla skäliga funktionskrav vad
-avser renhet för insugnings- respektive insprutningsventiler.
-Bensin i miljöklass 1 avsedd för fordon med katalytisk
-avgasrening får ej innehålla askbildande ämnen.
+Andra oxygenatere,        10             -              10
+högst volymhalt procent
+
+Svavel, högst milligram   10             10             10
+per kilogram
+
+Bly, högst gram           0,005          0,002          0,005
+per liter
+
+Fosfor                    Inte mätbar    -              -
+
+Densitet vid 15ºC,        -              680-720
+kilogram per kubikmeter
+
+Bensin i miljöklass 1 motorbensin skall uppfylla skäliga
+funktionskrav vad avser renhet för insugnings- respektive
+insprutningsventiler. Bensin i miljöklass 1 avsedd för fordon
+med katalytisk avgasrening får ej innehålla askbildande ämnen.
+Lag (2004:1079).
 
 
 Bilaga 3
 
-Miljöklasser för dieselolja
+Miljöklasser för dieselbränsle
 
 Krav                      Miljö-         Miljö-         Miljö-
                           klass 1        klass 2        klass 3
 
-Cetanindex, lägst         50             47             -
+Cetanindex, lägst         50             47              -
+
 Cetantal, lägst           51             51             51
-Densitet vid 15ºC,
+
+Densitet vid 15ºC,        800            800            -
 lägst kilogram per
-kubikmeter                800            800            -
-Densitet vid 15ºC,
+kubikmeter
+
+Densitet vid 15ºC,        820            820            845
 högst kilogram per
-kubikmeter                820            820            845
+kubikmeter
+
 Destillation:
-- begynnelsekokpunkt,
-lägst  C                  180            180            -
-- vid 95 procent
-destillat, högst  C       285            295            360
-Aromatiska kolväten,
-högst volymhalt procent   5              20             -
-Polycykliska aromatiska
+- begynnelsekokpunkt,     180            180            -
+lägst ºC
+- vid 95 procent          285            295            360
+destillat, högst ºC
+
+Aromatiska kolväten,      5              20             -
+högst volymhalt procent
+
+Polycykliska aromatiska   Inte mätbarb   0,1            -
 kolväten, högst
-volymhalt procent         Inte mätbar    0,1            -
-Polycykliska aromatiska
-kolväten, högst masshalt
-procent                   -              -              11
-Svavel, högst milligram
-per kilogram              10             50             350
+volymhalt procent
+
+Polycykliska aromatiska   -              -              11
+kolväten, högst
+masshalt procent
+
+Svavel, högst             10             10             10
+milligram per kilogram
+Lag (2004:1079).
