@@ -1,9 +1,9 @@
 Ord och uttryck i lagen
 
 1 § Hemlig dataavläsning innebär att uppgifter, som är avsedda 
-för automatiserad behandling, i hemlighet och med ett tekniskt 
-hjälpmedel läses av eller tas upp i ett avläsningsbart 
-informationssystem. 
+för automatiserad behandling och åtkomliga i ett avläsningsbart 
+informationssystem, hämtas in i hemlighet med ett tekniskt 
+hjälpmedel.
 
 I lagen avses med
 
@@ -14,12 +14,12 @@ kommunikationstjänst, lagringstjänst eller liknande tjänst,
 
 kommunikationsavlyssningsuppgifter: uppgifter om innehåll i 
 meddelanden som i ett elektroniskt kommunikationsnät överförs 
-eller har överförts till eller från ett telefonnummer eller 
-någon annan adress,
+eller har överförts till eller från ett telefonnummer eller en 
+annan adress,
 
 kommunikationsövervakningsuppgifter: uppgifter om meddelanden 
 som i ett elektroniskt kommunikationsnät överförs eller har 
-överförts till eller från ett telefonnummer eller någon annan 
+överförts till eller från ett telefonnummer eller en annan 
 adress,
 
 platsuppgifter: uppgifter om i vilket geografiskt område en 
@@ -30,35 +30,32 @@ kameraövervakningsuppgifter: uppgifter som framkommer genom
 optisk personövervakning,
 
 rumsavlyssningsuppgifter: uppgifter som avser tal i enrum, 
-samtal mellan andra eller förhandlingar vid sammanträden 
-eller andra sammankomster som allmänheten inte har tillträde 
-till.
+samtal mellan andra eller förhandlingar vid sammanträden eller 
+andra sammankomster som allmänheten inte har tillträde till.
+Lag (2025:123).
 
-Typer av uppgifter som får läsas av eller tas upp
+Uppgiftstyper som får hämtas in
 
-2 § Tillstånd till hemlig dataavläsning får beviljas för att 
-läsa av eller ta upp 
+2 § Ett tillstånd till hemlig dataavläsning får gälla 
 
-1. kommunikationsavlyssningsuppgifter,
+1. kommunikationsavlyssningsuppgifter, 
 
-2. kommunikationsövervakningsuppgifter,
+2. kommunikationsövervakningsuppgifter, 
 
-3. platsuppgifter,
+3. platsuppgifter, 
 
-4. kameraövervakningsuppgifter,
+4. kameraövervakningsuppgifter, 
 
-5. rumsavlyssningsuppgifter,
+5. rumsavlyssningsuppgifter, eller 
 
-6. uppgifter som finns lagrade i ett avläsningsbart 
-informationssystem men som inte avses i 1-5, eller
-
-7. uppgifter som visar hur ett avläsningsbart 
-informationssystem används men som inte avses i 1-6.
+6. andra uppgifter som är åtkomliga i ett avläsningsbart 
+informationssystem. 
 
 Vid hemlig dataavläsning som gäller kommunikationsavlyssnings- 
 eller kommunikationsövervakningsuppgifter får meddelanden som 
 överförs eller har överförts i ett elektroniskt 
 kommunikationsnät även hindras från att nå fram.
+Lag (2025:123).
 
 Grundläggande förutsättning för hemlig dataavläsning
 
@@ -84,8 +81,8 @@ användas, av den misstänkte.
 Ett tillstånd enligt 4 § som gäller kommunikationsavlyssnings-, 
 kommunikationsövervaknings- eller platsuppgifter får även 
 avse ett avläsningsbart informationssystem som det finns 
-synnerlig anledning att anta att den misstänkte under den tid 
-som tillståndet avser har kontaktat eller kommer att kontakta.
+synnerlig anledning att anta att den misstänkte har kontaktat 
+eller kommer att kontakta.
 
 Ett tillstånd enligt 4 § som gäller 
 kameraövervakningsuppgifter får endast avse en plats där den 
@@ -93,34 +90,42 @@ misstänkte kan antas komma att uppehålla sig. En sådan plats
 får dock inte vara någons stadigvarande bostad.
 
 Trots tredje stycket får ett tillstånd enligt 4 § som gäller 
-kameraövervakningsuppgifter avse den skäligen misstänkte i 
+kamera-övervakningsuppgifter avse den skäligen misstänkte i 
 stället för en viss plats, om det finns särskilda skäl för 
 det. Den hemliga dataavläsningen får då endast användas på en 
 plats där den misstänkte kan antas komma att uppehålla sig. En 
 sådan plats får dock inte vara någons stadigvarande bostad.
-Lag (2023:540).
+Lag (2025:123).
 
-4 b § Ett tillstånd till hemlig dataavläsning som gäller 
-kommunikationsavlyssningsuppgifter får, om åtgärden är av 
-synnerlig vikt för utredningen, även beviljas för att utreda 
-vem som skäligen kan misstänkas för brottet eller brotten vid 
-en förundersökning om brott som avses i 27 kap. 18 b § andra 
+5 § Ett tillstånd till hemlig dataavläsning som inte gäller 
+rumsavlyssningsuppgifter får, om åtgärden är av synnerlig vikt 
+för utredningen, även beviljas för att utreda vem som skäligen 
+kan misstänkas för brottet eller brotten vid en 
+förundersökning om brott som avses i 27 kap. 18 b § andra 
 stycket rättegångsbalken.
 
-Hemlig dataavläsning enligt första stycket får endast avse ett 
-avläsningsbart informationssystem som 
+Ett tillstånd enligt första stycket får endast avse ett 
+avläsningsbart informationssystem som
 
 1. det finns särskild anledning att anta att gärningsmannen 
 eller någon annan som har medverkat till brottet eller brotten 
-under den tid som tillståndet avser har använt eller kommer 
-att använda, eller 
+har använt eller kommer att använda, eller
 
 2. det finns synnerlig anledning att anta att gärningsmannen 
 eller någon annan som har medverkat till brottet eller brotten 
-under den tid som tillståndet avser har kontaktat eller kommer 
-att kontakta. Lag (2023:540).
+har kontaktat eller kommer att kontakta.
 
-5 § Ett tillstånd till hemlig dataavläsning som gäller 
+Ett tillstånd enligt andra stycket 2 får inte gälla 
+kameraövervakningsuppgifter. 
+
+Ett tillstånd enligt första stycket som gäller 
+kameraövervakningsuppgifter får verkställas på en plats som är 
+någons stadigvarande bostad, endast om det finns synnerlig 
+anledning att anta att den person som åtgärden riktas mot 
+uppehåller sig i direkt anslutning till det avläsningsbara 
+informationssystem som tillståndet avser. Lag (2025:123).
+
+5 a § Ett tillstånd till hemlig dataavläsning som gäller 
 kommunikationsövervaknings- eller platsuppgifter får, om 
 åtgärden är av synnerlig vikt för utredningen, beviljas för 
 att utreda vem som skäligen kan misstänkas för brottet eller 
@@ -131,7 +136,7 @@ Hemlig dataavläsning enligt första stycket får endast avse ett
 avläsningsbart informationssystem som har använts vid ett 
 brott eller i anslutning till en brottsplats vid 
 brottstidpunkten eller som av någon annan anledning är av 
-synnerlig vikt för utredningen. Lag (2023:540).
+synnerlig vikt för utredningen. Lag (2025:123).
 
 6 § Ett tillstånd till hemlig dataavläsning som gäller 
 rumsavlyssningsuppgifter får beviljas vid en förundersökning 
@@ -186,7 +191,8 @@ Hemlig dataavläsning utanför en förundersökning
 
 Förhindrande av vissa särskilt allvarliga brott
 
-7 § Ett tillstånd till hemlig dataavläsning som inte gäller 
+7 § /Upphör att gälla U:2028-10-01/
+Ett tillstånd till hemlig dataavläsning som inte gäller 
 rumsavlyssningsuppgifter får beviljas om det med hänsyn till 
 omständigheterna finns en påtaglig risk för
 
@@ -218,21 +224,40 @@ Ett tillstånd enligt första eller andra stycket får beviljas
 endast om åtgärden är av synnerlig vikt för att förhindra den 
 brottsliga verksamheten. Lag (2024:566).
 
+7 § /Träder i kraft I:2028-10-01/
+Ett tillstånd till hemlig dataavläsning som inte gäller 
+rums-avlyssningsuppgifter får beviljas om det med hänsyn till 
+omständigheterna finns en påtaglig risk för
+
+1. att en person kommer att utöva brottslig verksamhet som 
+innefattar brott som anges i 1 § lagen (2007:979) om åtgärder 
+för att förhindra vissa särskilt allvarliga brott, eller
+
+2. att brottslig verksamhet som innefattar brott som anges i 
+1 § den lagen kommer att utövas inom en organisation eller 
+grupp och det kan befaras att en person som tillhör eller 
+verkar för organisationen eller gruppen medvetet kommer att 
+främja denna verksamhet.
+
+Ett tillstånd enligt första stycket får beviljas endast om 
+åtgärden är av synnerlig vikt för att förhindra den brottsliga 
+verksamheten. Lag (2025:124).
+
 8 § Ett tillstånd till hemlig dataavläsning enligt 7 § får 
 endast avse ett avläsningsbart informationssystem som används, 
 eller som det finns särskild anledning att anta har använts 
 eller kommer att användas, av den person som åtgärden riktas 
-mot. 
+mot.
 
 Ett tillstånd till hemlig dataavläsning som gäller 
 kommunikationsavlyssnings-, kommunikationsövervaknings- eller 
 platsuppgifter får även avse ett avläsningsbart 
 informationssystem som det finns synnerlig anledning att anta 
-att den person som åtgärden riktas mot under den tid som 
-tillståndet avser har kontaktat eller kommer att kontakta.
-Lag (2024:566).
+att den person som åtgärden riktas mot har kontaktat eller 
+kommer att kontakta. Lag (2025:123).
 
-8 a § Ett tillstånd till hemlig dataavläsning enligt 7 § som 
+8 a § /Upphör att gälla U:2028-10-01/
+Ett tillstånd till hemlig dataavläsning enligt 7 § som 
 gäller kameraövervakningsuppgifter får endast avse en plats 
 där den person som åtgärden riktas mot kan antas komma att 
 uppehålla sig. En sådan plats får dock inte vara någons 
@@ -245,7 +270,15 @@ endast användas på en plats där den personen kan antas komma
 att uppehålla sig. En sådan plats får dock inte vara någons 
 stadigvarande bostad. Lag (2024:566).
 
-8 b § Ett tillstånd till hemlig dataavläsning enligt 7 § som 
+8 a § /Träder i kraft I:2028-10-01/
+Ett tillstånd till hemlig dataavläsning enligt 7 § som 
+gäller kameraövervakningsuppgifter får endast avse en plats 
+där den person som åtgärden riktas mot kan antas komma att 
+uppehålla sig. En sådan plats får dock inte vara någons 
+stadigvarande bostad. Lag (2025:124).
+
+8 b § /Upphör att gälla U:2028-10-01 genom lag (2025:124)./
+Ett tillstånd till hemlig dataavläsning enligt 7 § som 
 gäller rumsavlyssningsuppgifter får endast avse en plats där 
 det finns särskild anledning att anta att den person som 
 åtgärden riktas mot kommer att uppehålla sig. Om platsen är en 
@@ -268,13 +301,13 @@ där. Lag (2024:566).
 Särskild kontroll av vissa utlänningar
 
 9 § Ett tillstånd till hemlig dataavläsning får beviljas för 
-att läsa av eller ta upp uppgifter i ett avläsningsbart 
-informationssystem som används, eller som det finns särskild 
-anledning att anta har använts eller kommer att användas, av 
-en utlänning som omfattas av 
+att hämta in uppgifter i ett avläsningsbart informationssystem 
+som används, eller som det finns särskild anledning att anta 
+har använts eller kommer att användas, av en utlänning som 
+omfattas av
 
 1. ett utvisningsbeslut enligt 2 kap. 1 § lagen (2022:700) om 
-särskild kontroll av vissa utlänningar, eller 
+särskild kontroll av vissa utlänningar, eller
 
 2. ett avvisnings- eller utvisningsbeslut enligt 8 kap. eller 
 8 a kap. utlänningslagen (2005:716) om det finns sådana 
@@ -283,11 +316,10 @@ lagen om särskild kontroll av vissa utlänningar.
 
 Ett tillstånd till hemlig dataavläsning som gäller 
 kommunikationsavlyssnings-, kommunikationsövervaknings- eller 
-platsuppgifter får också beviljas för att läsa av eller ta upp 
-uppgifter i ett avläsningsbart informationssystem som det 
-finns synnerlig anledning att anta att utlänningen under den 
-tid som tillståndet avser har kontaktat eller kommer att 
-kontakta.
+platsuppgifter får också beviljas för att hämta in uppgifter i 
+ett avläsningsbart informationssystem som det finns synnerlig 
+anledning att anta att utlänningen har kontaktat eller kommer 
+att kontakta.
 
 Tillståndet får beviljas endast om Migrationsverket, 
 regeringen eller en domstol har beslutat att 5 kap. 5 och 6 §§ 
@@ -299,7 +331,7 @@ tillämpas i fråga om utlänningen gäller också för ett beslut i
 fråga om hemlig dataavläsning.
 
 Ett tillstånd får beviljas endast om det finns synnerliga skäl 
-och det är av betydelse för att
+och det är av betydelse för att 
 
 1. klarlägga om utlänningen tillhör eller verkar för en 
 organisation eller grupp som planlägger eller förbereder brott 
@@ -308,7 +340,7 @@ risk för att utlänningen kan komma att engagera sig i en sådan
 organisation eller grupp,
 
 2. klarlägga om det finns risk för att utlänningen själv 
-planlägger eller förbereder brott som avses i 1,
+planlägger eller förbereder brott som avses i 1, 
 
 3. klarlägga om det finns risk för att utlänningen själv eller 
 tillsammans med andra medverkar i eller på annat sätt främjar 
@@ -318,15 +350,15 @@ ett allvarligt brott som rör Sveriges säkerhet, eller
 anmälningsskyldighet enligt lagen (2022:700) om särskild 
 kontroll av vissa utlänningar.
 
-Ett tillstånd får inte avse rumsavlyssningsuppgifter. Ett 
-tillstånd enligt fjärde stycket 4 får endast avse 
-kommunikationsövervaknings- och platsuppgifter.
-Lag (2024:329).
+Ett tillstånd får inte gälla rumsavlyssningsuppgifter. Ett 
+tillstånd enligt fjärde stycket 4 får endast gälla 
+kommunikationsövervaknings- och platsuppgifter. Lag (2025:123).
 
 Förebyggande, förhindrande och upptäckande av brottslig 
 verksamhet
 
-10 § Ett tillstånd till hemlig dataavläsning som gäller 
+10 § /Upphör att gälla U:2028-10-01/
+Ett tillstånd till hemlig dataavläsning som gäller 
 kommunikationsövervaknings- eller platsuppgifter får beviljas 
 om åtgärden är av synnerlig vikt för att förebygga, förhindra 
 eller upptäcka brottslig verksamhet som innefattar brott som 
@@ -337,6 +369,19 @@ myndigheternas underrättelseverksamhet.
 Vid hemlig dataavläsning enligt första stycket får meddelanden 
 inte hindras att nå fram enligt 2 § andra stycket.
 Lag (2024:566).
+
+10 § /Träder i kraft I:2028-10-01/
+Ett tillstånd till hemlig dataavläsning som gäller 
+kommunikationsövervaknings- eller platsuppgifter får beviljas 
+om åtgärden är av synnerlig vikt för att förebygga, förhindra 
+eller upptäcka brottslig verksamhet som innefattar brott som 
+anges i 2 § lagen (2012:278) om inhämtning av uppgifter om 
+elektronisk kommunikation i de brottsbekämpande myndigheternas 
+underrättelseverksamhet.
+
+Vid hemlig dataavläsning enligt första stycket får meddelanden 
+inte hindras att nå fram enligt 2 § andra stycket.
+Lag (2025:124).
 
 Förbud mot hemlig dataavläsning
 
@@ -398,12 +443,15 @@ Tillståndsprövning
 ansökan av åklagaren. En ansökan om hemlig dataavläsning 
 enligt 9 § ska dock göras av Säkerhetspolisen.
 
-Om en ansökan som gäller kameraövervaknings- eller 
-rumsavlyssningsuppgifter avser en viss person i stället för en 
-viss plats, ska åklagaren i samband med ansökan föreslå sådana 
-villkor som avses i 18 § första stycket 4. Lag (2024:566).
+I samband med ansökan ska åklagaren eller Säkerhetspolisen 
+föreslå sådana villkor som avses i 18 § första stycket 4, om 
+villkor inte framstår som obehövligt. Sådana villkor ska dock 
+alltid föreslås om en ansökan som gäller kameraövervaknings- 
+eller rumsavlyssningsuppgifter avser en viss person i stället 
+för en viss plats. Lag (2025:123).
 
-15 § Frågor om hemlig dataavläsning under en förundersökning 
+15 § /Upphör att gälla U:2028-10-01/
+Frågor om hemlig dataavläsning under en förundersökning 
 prövas av den domstol som anges i 19 kap. rättegångsbalken. Om 
 förundersökningen avser ett brott som anges i 27 kap. 34 § 
 rättegångsbalken, får frågan även prövas av Stockholms 
@@ -415,6 +463,16 @@ för att förhindra vissa särskilt allvarliga brott.
 
 Frågor om hemlig dataavläsning enligt 9 eller 10 § prövas av 
 Stockholms tingsrätt. Lag (2023:540).
+
+15 § /Träder i kraft I:2028-10-01/
+Frågor om hemlig dataavläsning under en förundersökning 
+prövas av den domstol som anges i 19 kap. rättegångsbalken. Om 
+förundersökningen avser ett brott som anges i 27 kap. 34 § 
+rättegångsbalken, får frågan även prövas av Stockholms 
+tingsrätt.
+
+Frågor om hemlig dataavläsning enligt 7-10 §§ prövas av 
+Stockholms tingsrätt. Lag (2025:124).
 
 16 § När en ansökan eller anmälan om hemlig dataavläsning har 
 kommit in till rätten, ska rätten så snart som möjligt utse 
@@ -444,38 +502,45 @@ skäl för åtgärden, ska den upphäva beslutet.
 Om åklagarens beslut har verkställts innan rätten gjort en 
 prövning som avses i andra stycket, ska rätten pröva om det 
 funnits skäl för åtgärden. Om rätten finner att det saknats 
-sådana skäl, får de uppgifter som lästs av eller tagits upp 
-inte användas i en brottsutredning till nackdel för den som 
-har omfattats av åtgärden, eller för någon annan som 
-uppgifterna avser. Lag (2023:540).
+sådana skäl, får de uppgifter som hämtats in inte användas i 
+en brottsutredning till nackdel för den som har omfattats av 
+åtgärden, eller för någon annan som uppgifterna avser.
+Lag (2025:123).
 
 18 § I ett tillstånd till hemlig dataavläsning ska följande 
 anges:
 
-1. vilken tid tillståndet avser,
+1. under vilken tid som verkställighet får ske, 
 
 2. vilket avläsningsbart informationssystem tillståndet avser,
 
-3. vilken typ av uppgift enligt 2 § första stycket som får 
-läsas av eller tas upp,
+3. vilken uppgiftstyp enligt 2 § första stycket som får hämtas 
+in, 
 
-4. villkor för att tillgodose intresset av att enskildas 
-personliga integritet inte kränks i onödan, och
+4. vilka uppgifter som inte får granskas och övriga villkor 
+för att tillgodose intresset av att enskildas personliga 
+integritet inte kränks i onödan,
 
-5. vem som är skäligen misstänkt för brottet eller brotten vid 
-en åtgärd enligt 6 §, eller vem en åtgärd enligt 7 § riktas 
-mot. 
+5. vem som är skäligen misstänkt för brottet eller brotten, om 
+sådan uppgift finns, eller vem en åtgärd enligt 7 § riktas 
+mot, 
 
-I ett tillstånd som gäller kameraövervaknings- eller 
-rumsavlyssningsuppgifter ska det även anges vilken plats 
-tillståndet avser. Om tillståndet avser en viss person i 
-stället för en viss plats ska det anges i beslutet. Om 
-tillståndet är förenat med ett tillträdestillstånd enligt 
-12 §, ska även det anges i beslutet.
+6. när tillståndet gäller kameraövervaknings- eller 
+rumsavlyssningsuppgifter, vilken plats som tillståndet avser 
+eller om tillståndet avser en viss person i stället för en 
+viss plats, och
 
-Tiden för tillståndet får inte bestämmas längre än nödvändigt. 
-När det gäller tid som infaller efter beslutet får tiden inte 
-överstiga en månad från dagen för beslutet. Lag (2024:566).
+7. om tillståndet är förenat med ett tillträdestillstånd 
+enligt 12 §.
+
+Tiden för verkställighet enligt första stycket 1 får inte 
+bestämmas längre än nödvändigt och får inte överstiga en månad 
+från dagen för beslutet.
+
+Villkor enligt första stycket 4 behöver inte anges om det 
+framstår som obehövligt och tillståndet inte gäller 
+kameraövervaknings- eller rumsavlyssningsuppgifter som avser 
+en viss person i stället för en viss plats. Lag (2025:123).
 
 19 § På förfarandet enligt denna lag tillämpas reglerna i 
 rättegångsbalken om handläggning vid domstol av frågor om 
@@ -505,17 +570,23 @@ brytas eller kringgås och tekniska sårbarheter utnyttjas.
 
 Teknikanpassning och otillåten tilläggsinformation
 
-23 § Den teknik som används i samband med hemlig dataavläsning 
-ska anpassas efter det tillstånd som beviljats. Tekniken får 
-inte göra det möjligt att läsa av eller ta upp någon annan typ 
-av uppgift än vad som anges i tillståndet. Om sådana uppgifter 
-har lästs av eller tagits upp ska upptagningar och 
+23 § Vid verkställighet av hemlig dataavläsning ska tekniken 
+och tillvägagångssättet anpassas efter tillståndet.
+Lag (2025:123).
+
+23 a § Om uppgifter av någon annan uppgiftstyp än de som anges 
+i tillståndet har hämtats in ska upptagningar och 
 uppteckningar av dessa uppgifter omedelbart förstöras och 
 Säkerhets- och integritetsskyddsnämnden underrättas. 
+Upptagningar och uppteckningar av uppgifter som inte får 
+hämtas in eller granskas enligt villkor i tillståndet ska 
+förstöras i de delar de innehåller sådana uppgifter så snart 
+det står klart att uppgifterna har hämtats in.
 
 Uppgifter som anges i första stycket får inte användas i en 
 brottsutredning till nackdel för den som har omfattats av 
-åtgärden eller för någon annan som uppgifterna avser. 
+åtgärden eller för någon annan som uppgifterna avser.
+Lag (2025:123).
 
 Skyldighet att medverka
 
@@ -556,11 +627,11 @@ särskilda kunskaper om informationssäkerhet samt den
 särskilda kompetens, utbildning och erfarenhet som i övrigt är 
 nödvändig. 
 
-Förbud att läsa av eller ta upp vissa uppgifter
+Förbud att hämta in vissa uppgifter
 
-27 § Hemlig dataavläsning enligt 2 § första stycket 6 eller 7 
-får inte avse uppgifter som enligt 27 kap. 2 § 
-rättegångsbalken hindrar beslag.
+27 § Hemlig dataavläsning enligt 2 § första stycket 6 får inte 
+avse uppgifter som enligt 27 kap. 2 § rättegångsbalken hindrar 
+beslag.
 
 Hemlig dataavläsning som gäller kommunikationsavlyssnings- 
 eller rumsavlyssningsuppgifter får inte avse uppgifter i 
@@ -570,11 +641,11 @@ andra-sjätte styckena rättegångsbalken, inte skulle ha kunnat
 höras som vittne om det som har sagts eller på annat sätt 
 kommit fram.
 
-Om det under verkställigheten kommer fram uppgifter som 
-omfattas av första eller andra stycket ska verkställigheten 
-omedelbart avbrytas och upptagningar och uppteckningar 
-omedelbart förstöras i de delar som de omfattas av förbudet.
-Lag (2023:540).
+Om det under eller efter verkställigheten kommer fram 
+uppgifter som omfattas av första eller andra stycket ska 
+granskningen av dessa uppgifter omedelbart avbrytas. 
+Upptagningar och uppteckningar ska omedelbart förstöras i de 
+delar som de omfattas av förbudet. Lag (2025:123).
 
 Överskottsinformation, granskning och underrättelse till 
 enskilda
@@ -582,12 +653,8 @@ enskilda
 Förundersökning
 
 28 § När hemlig dataavläsning används eller har använts under 
-en förundersökning ska det som gäller för hemlig avlyssning av 
-elektronisk kommunikation enligt 27 kap. 23 a och 24 §§ 
-rättegångsbalken i lydelsen före den 1 oktober 2023 tillämpas 
-för åtgärden. Det som gäller för hemlig rumsavlyssning ska 
-dock tillämpas för hemlig dataavläsning som gäller 
-rumsavlyssningsuppgifter.
+en förundersökning ska 27 kap. 23 a och 24 §§ rättegångsbalken 
+tillämpas för åtgärden.
 
 För underrättelse till en enskild vid hemlig dataavläsning 
 under förundersökning gäller 27 kap. 31-33 §§ 
@@ -604,14 +671,14 @@ för hemlig dataavläsning i övrigt
 
 - telefonnummer, annan adress eller en viss elektronisk 
 kommunikationsutrustning ska avse avläsningsbart 
-informationssystem. Lag (2023:540).
+informationssystem. Lag (2025:123).
 
 Förhindrande av vissa särskilt allvarliga brott
 
-29 § När hemlig dataavläsning används eller har använts i fall 
-som anges i 7 § ska 12 och 13 §§ lagen (2007:979) om åtgärder 
-för att förhindra vissa särskilt allvarliga brott i lydelsen 
-före den 1 oktober 2023 tillämpas.
+29 § /Upphör att gälla U:2028-10-01/
+När hemlig dataavläsning används eller har använts i fall 
+som anges i 7 § ska 12-14 §§ lagen (2007:979) om åtgärder för 
+att förhindra vissa särskilt allvarliga brott tillämpas.
 
 För underrättelse till en enskild vid hemlig dataavläsning i 
 fall som anges i 7 § gäller 16-18 §§ lagen om åtgärder för att 
@@ -629,7 +696,27 @@ för hemlig dataavläsning i övrigt
 
 - telefonnummer, annan adress eller en viss elektronisk 
 kommunikationsutrustning ska avse avläsningsbart 
-informationssystem. Lag (2024:566).
+informationssystem. Lag (2025:123).
+
+29 § /Träder i kraft I:2028-10-01/
+När hemlig dataavläsning används eller har använts i fall 
+som anges i 7 § ska 12-14 §§ lagen (2007:979) om åtgärder för 
+att förhindra vissa särskilt allvarliga brott tillämpas. 
+
+För underrättelse till en enskild vid hemlig dataavläsning i 
+fall som anges i 7 § gäller 16-18 §§ lagen om åtgärder för att 
+förhindra vissa särskilt allvarliga brott. Det som anges där 
+om 
+
+- hemlig kameraövervakning ska tillämpas för hemlig 
+dataavläsning som gäller kameraövervakningsuppgifter
+
+- hemlig avlyssning av elektronisk kommunikation ska tillämpas 
+för hemlig dataavläsning i övrigt
+
+- telefonnummer, annan adress eller en viss elektronisk 
+kommunikationsutrustning ska avse avläsningsbart 
+informationssystem. Lag (2025:124).
 
 Särskild kontroll av vissa utlänningar
 
@@ -645,19 +732,11 @@ Förebyggande, förhindrande och upptäckande av brottslig
 verksamhet
 
 31 § När hemlig dataavläsning används eller har använts i fall 
-som anges i 10 § ska 6 och 8 §§ lagen (2012:278) om inhämtning 
+som anges i 10 § ska 6 och 7 §§ lagen (2012:278) om inhämtning 
 av uppgifter om elektronisk kommunikation i de 
-brottsbekämpande myndigheternas underrättelseverksamhet i 
-lydelsen före den 1 september 2024 tillämpas. Det som anges 
-där om inhämtning av uppgifter ska tillämpas för hemlig 
-dataavläsning.
-
-Uppgifter som har kommit fram vid hemlig dataavläsning enligt 
-10 § får användas i en förundersökning endast efter tillstånd 
-till hemlig dataavläsning enligt 4 eller 5 § som gäller 
-kommunikationsövervaknings- eller platsuppgifter. Utan ett 
-sådant tillstånd får dock inhämtade uppgifter ligga till grund 
-för beslut om att inleda en förundersökning. Lag (2024:566).
+brottsbekämpande myndigheternas underrättelseverksamhet 
+tillämpas. Det som anges där om inhämtning av uppgifter ska 
+tillämpas för hemlig dataavläsning. Lag (2025:123).
 
 Tystnadsplikt
 
@@ -672,11 +751,17 @@ Rätt att meddela föreskrifter
 
 33 § Regeringen eller den myndighet som regeringen bestämmer 
 kan med stöd av 8 kap. 7 § regeringsformen meddela närmare 
-föreskrifter om 
+föreskrifter om
 
-1. underrättelser enligt 23 §, och
+1. underrättelser enligt 23 a §, och
 
 2. medverkan och ersättning enligt 24 §.
+Lag (2025:123).
+
+Dokumentation
+
+34 § Beslut och åtgärder som rör hemlig dataavläsning ska 
+dokumenteras. Lag (2025:123).
 
 
 Övergångsbestämmelser
@@ -703,3 +788,14 @@ beviljats före ikraftträdandet.
 
 2. Äldre föreskrifter gäller fortfarande för tillstånd som har 
 beviljats före ikraftträdandet.
+
+2025:123
+
+1. Denna lag träder i kraft den 1 april 2025.
+
+2. Äldre föreskrifter gäller fortfarande för tillstånd som har 
+beviljats före ikraftträdandet.
+
+3. För uppgifter från hemlig dataavläsning som har verkställts 
+före ikraftträdandet gäller 28, 29 och 31 §§ i den äldre 
+lydelsen.
