@@ -215,9 +215,14 @@ fysisk person,
 5. registrering av skyldighet att göra skatteavdrag eller
 betala arbetsgivaravgifter,
 
-6. slag av näringsverksamhet, och
+6. slag av näringsverksamhet,
 
-7. beslut om likvidation eller konkurs. Lag (2003:670).
+7. beslut om likvidation eller konkurs, och
+
+8. huruvida en fysisk eller juridisk person är godkänd som
+skattebefriad förbrukare enligt lagen (1994:1564) om
+alkoholskatt eller lagen (1994:1776) om skatt på energi och i
+sådana fall från vilken tidpunkt. Lag (2005:265).
 
 6 § Uppgifter i databasen får lämnas ut till en enskild på
 medium för automatiserad behandling endast om regeringen har
@@ -255,24 +260,7 @@ direktåtkomst enligt första stycket.
 
 Sökbegrepp
 
-10 § /Upphör att gälla U:2005-01-01/
-Vid sökning efter handlingar som avses i 4 § får endast
-uppgift om namn, person- eller samordningsnummer, beteckning
-för fastighet samt uppgifter som avses i 15 kap. 2 §
-sekretesslagen (1980:100) användas som sökbegrepp.
-
-I verksamheten med bouppteckningar och dödsboanmälningar enligt
-ärvdabalken samt arvsskatteärenden får vid sökning i
-skattedatabasen endast uppgifter som avses i 15 kap. 2 §
-sekretesslagen användas som sökbegrepp. Vid sökning efter
-handlingar som avses i 4 § får dessutom uppgift om namn och
-person- eller samordningsnummer användas som sökbegrepp.
-
-Som sökbegrepp får dock inte uppgift som avses i 1 kap. 7 §
-användas. Lag (2001:327).
-
-10 § /Träder i kraft I:2005-01-01/
-Vid sökning efter handlingar som avses i 4 § får endast
+10 § Vid sökning efter handlingar som avses i 4 § får endast
 uppgift om namn, person- eller samordningsnummer, beteckning
 för fastighet samt uppgifter som avses i 15 kap. 2 §
 sekretesslagen (1980:100) användas som sökbegrepp.
@@ -294,32 +282,7 @@ anges i 12 §, gallras senast sju år efter utgången av det
 kalenderår då den beskattningperiod som uppgifterna eller
 handlingarna kan hänföras till gick ut.
 
-12 § /Upphör att gälla U:2005-01-01/
-Uppgifter och handlingar som avser
-
-1. revision skall gallras tio år efter utgången av det
-kalenderår då revisionen avslutades,
-
-2. fastighetstaxering skall gallras tolv år efter utgången av
-det taxeringsår som uppgifterna eller handlingarna kan hänföras
-till, och
-
-3. gåvoskatteärenden skall gallras tolv år efter utgången av
-det kalenderår då gåvodeklaration lämnades.
-
-Uppgifter och handlingar som avser gåvoanmälningsärenden skall
-gallras tre år efter utgången av det kalenderår då förfrågan
-eller anmaning att komma in med deklaration gjordes.
-
-Uppgifter och handlingar om godkända upplagshavare,
-registrerade varumottagare eller godkända skatteupplag enligt
-lagen (1994:1563) om tobaksskatt, lagen (1994:1564) om
-alkoholskatt samt lagen (1994:1776) om skatt på energi skall
-gallras sju år efter utgången av det kalenderår då
-upplagshavaren eller varumottagaren avregistrerades.
-
-12 § /Träder i kraft I:2005-01-01/
-Uppgifter och handlingar som avser
+12 § Uppgifter och handlingar som avser
 
 1. revision skall gallras tio år efter utgången av det
 kalenderår då revisionen avslutades, och
