@@ -75,23 +75,25 @@ begränsa följderna av allvarliga kemikalieolyckor upprättas.
 
 9 § I säkerhetsrapporten skall ingå
 
-1. ett handlingsprogram för hur allvarliga kemikalieolyckor
+1. uppgift om vem som har utarbetat rapporten,
+
+2. ett handlingsprogram för hur allvarliga kemikalieolyckor
 skall förebyggas enligt 8 § lagen (1999:381) om åtgärder för
 att förebygga och begränsa följderna av allvarliga
 kemikalieolyckor,
 
-2. en intern plan för räddningsinsatser enligt 12 § lagen om
+3. en intern plan för räddningsinsatser enligt 12 § lagen om
 åtgärder för att förebygga och begränsa följderna av allvarliga
 kemikalieolyckor,
 
-3. underlag för sådana planer som anges i 3 kap. 6 §
+4. underlag för sådana planer som anges i 3 kap. 6 §
 förordningen (2003:789) om skydd mot olyckor och
 
-4. uppgift om lager och de farliga ämnen som förekommer eller
+5. uppgift om lager och de farliga ämnen som förekommer eller
 kan förekomma där.
 
 Statens räddningsverk får meddela närmare föreskrifter om vad
-säkerhetsrapporten skall innehålla. Förordning (2003:798).
+säkerhetsrapporten skall innehålla. Förordning (2005:352).
 
 Planer för interna räddningsinsatser
 
@@ -154,6 +156,22 @@ och intern plan för räddningsinsatser inges till
 tillsynsmyndigheten senast den 31 december 2005.
 Förordning (2003:1144).
 
+2005:352
+
+1. Denna förordning träder i kraft den 30 juni 2005.
+
+2. För verksamhet som har påbörjats före den 30 juni 2005 och
+som genom denna förordning omfattas av lagen (1999:381) om
+åtgärder för att förebygga och begränsa följderna av allvarliga
+kemikalieolyckor eller som omfattas på en annan kravnivå än
+tidigare gäller följande:
+
+- handlingsprogram skall upprättas och anmälan inges till
+tillsynsmyndigheten senast den 30 september 2005,
+
+- säkerhetsrapport och intern plan för räddningsinsatser skall
+inges till tillsynsmyndigheten senast den 30 juni 2006.
+
 
 Bilaga
 
@@ -161,102 +179,221 @@ Denna bilaga består av DEL 1 som innehåller en förteckning av
 farliga ämnen och DEL 2 som innehåller en förteckning av
 särskilda kategorier av farliga ämnen.
 
-Följande gäller för tillämpningen av denna bilaga.
+Följande gäller för tillämpningen av denna bilaga
 
-1. En beredning som innehåller ett ämne som är upptaget i denna
+1. Gas är varje ämne som har ett absolut ångtryck på 101,3 kPa
+eller högre vid 20 grader C. Vätska är varje ämne som inte
+definieras som gas och som inte uppträder i fast form vid 20
+grader C och normaltryck, 101,3 kPa.
+
+2. En beredning som innehåller ett ämne som är upptaget i denna
 bilaga skall jämställas med ämnet om beredningens
 klassificering överensstämmer med ämnets såvida inte annat
-anges i bilagan .
+anges i bilagan.
 
-2. Med klassificering och riskfraser avses i denna bilaga de
+3. Med klassificering och riskfraser avses i denna bilaga de
 klassificeringar och riskfraser som vid varje enskilt tillfälle
-skall tillämpas enligt tillämpliga föreskrifter utgivna av
-Kemikalieinspektionen, Sprängämnesinspektionen och Statens
-räddningsverk.
+skall tillämpas enligt tilllämpliga föreskrifter utgivna av
+Kemikalieinspektionen och Statens räddningsverk. För ämnen och
+beredningar som inte omfattas av klassificeringsreglerna i
+nämnda föreskrifter, men som ändå förekommer eller skulle kunna
+förekomma vid en verksamhet, och under de förhållanden som
+råder vid verksamheten innehar eller kan inneha motsvarande
+egenskaper beträffande möjligheter att orsaka allvarliga
+olyckshändelser, skall de klassificeringsförfarandena som anges
+i föreskrifterna användas.
 
-3. Om ett ämne eller en beredning som är upptagen i del 2
+4. Om ett ämne eller en beredning som är upptagen i del 2
 uppvisar egenskaper som medför flera klassificeringar, skall
 den klassificering som motsvarar den lägsta mängden farligt
-ämne gälla.
+ämne gälla. Vid tillämpning av summeringen i punkt 8 skall dock
+det valda gränsvärdet alltid motsvara den aktuella
+klassificeringen. För ämnen i kategori 4 och 5 skall ADR-
+klassificeringen ha företräde framför riskfrastilldelningen.
 
-4. När ett ämne eller en grupp ämnen som ingår i del 1 även kan
+5. När ett ämne eller en grupp ämnen som ingår i del 1 även kan
 hänföras till del 2, skall endast de mängder som anges i del 1
 beaktas.
 
-5. Den mängd farligt ämne som skall beaktas vid tillämpningen
+6. För föremål som innehåller explosiva ämnen eller beredningar
+är det ämnets eller beredningens kvantitet som skall gälla om
+den är känd. Om denna kvantitet inte är känd skall hela
+föremålet betraktas som explosivt.
+
+7. Den mängd farligt ämne som skall beaktas vid tillämpningen
 av föreskrifterna är den maximala mängd som förekommer eller
 kan förekomma. Farliga ämnen som förekommer i en verksamhet
-endast i mängder som är lika med eller understiger 2 % av den
-angivna mängden, i del 1 och del 2 i denna bilaga, skall inte
-tas med i beräkningen av den totala mängd som förekommer om de
-är placerade inom verksamheten så att de inte kan utlösa en
-allvarlig olyckshändelse någon annanstans inom den.
+endast i mängder som är lika med eller understiger 2 procent av
+den angivna mängden, i del 1 och del 2 i denna bilaga, skall
+inte tas med i beräkningen av den totala mängd som förekommer
+om de är placerade inom verksamheten så att de inte kan utlösa
+en allvarlig olyckshändelse någon annanstans inom den.
 
-6. Om det inom en verksamhet förekommer eller kan förekomma
+8. Om det inom en verksamhet förekommer eller kan förekomma
 flera ämnen som anges i denna bilaga i mängder som understiger
 de gränsmängder som anges för varje ämne skall en summering
 göras för att fastställa om verksamheten omfattas av
 bestämmelserna.
 
-I de fall summan av kvoterna mellan mängderna farliga ämnen och
-deras tillhörande gränsmängder enligt denna del av bilagan
-överstiger ett (1), skall verksamheten omfattas av
-bestämmelserna.
-
 Denna summering görs enligt följande formel:
 
-qx/Qx=q1/Q1+q2/Q2+....+qn/Qn
-(Första tecknet finns inte, se trycket)
+(Summatkn) qx/Qx=q1/Q1+q2/Q2+....+qn/Qn
 
 där qx betecknar den förekommande mängden farligt ämne x för
-"ämne 1" t.o.m. "ämne n" i förteckningarna över ämnen och
+"ämne 1" t.o.m. "ämne n" i förteckningarna över ämne och
 kategorier av ämnen i denna bilaga och Qx betecknar den i denna
 bilaga angivna gränsmängden för respektive ämne eller kategori
 av ämnen.
 
 Denna formel tillämpas för
 
-1. summering av ämnen som anges i del 1 med ämnen som har
-tilldelats samma riskfras,
+1. summering av ämnen och beredningar som är förtecknade i del
+1 och som är klassificerade som giftiga eller mycket giftiga,
+tillsammans med ämnen och beredningar som omfattas av
+kategorierna 1 eller 2 i del 2,
 
-2. summering av ämnen i del 2 som har tilldelats samma
-riskfraser,
+2. summering av ämnen och beredningar som är förtecknade i del
+1 och som är klassificerade som oxiderande, explosiva,
+brandfarliga, mycket brandfarliga eller extremt brandfarliga,
+tillsammans med ämnen och beredningar som omfattas av
+kategorierna 3, 4, 5, 6, 7 eller 8 i del 2.
 
-3. summering av ämnen som omfattas av kategorierna 1, 2 och 9 i
-del 2,
+3. summering av ämnen och beredningar som anges i del 1 och som
+är klassificerade som miljöfarliga (R50 inklusive R50/53 eller
+R51/53), tillsammans med ämnen och beredningar som omfattas av
+kategori 9 i del 2.
 
-4. summering av ämnen som omfattas av kategorierna 3, 4, 5, 6,
-7 a, 7 b och 8 i del 2.
+Om någon av summorna under punkterna 1, 2 eller 3 är lika med
+eller större än ett (1) skall verksamheten omfattas av
+bestämmelserna.
 
 DEL 1 - FARLIGA ÄMNEN
 
 Farliga ämnen                   Mängd i ton för tillämpning av
+                                        lägre           högre
+                                        kravnivån       kravnivån
 
-                                lägre kravnivån         högre kravnivån
+Gödningsmedel som är blandade
+eller sammansatta och som är
+baserade på ammoniumnitrat
+(innehåller ammoniumnitrat
+tillsammans med fosfat
+och/eller pottaska) i vilka
+kvävehalten på grund av
+ammoniumnitrat är
 
-Ammoniumnitrat och
-blandningar med
-ammoniumnitrat i vilka
-kvävehalten
-på grund av ammoniumnitratet
-överstiger 28 viktprocent
-samt vattenlösningar med
-ammoniumnitrat i vilka
-ammoniumnitratkoncentrationen
-överstiger 90 viktprocent.              350             2 500
+- mellan 15,75 och 24,5
+viktprocent, och vilka
+antingen innehåller
+sammanlagt högst 0,4 procent
+brännbara/organiska material
+eller uppfyller kraven i
+bilaga II till direktiv
+80/876/EEG, eller
+
+- 15,75 viktprocent eller
+mindre utan begränsning för
+brännbart material,
+
+och vilka i samtliga fall kan
+undergå självunderhållande
+sönderfall i enlighet med
+Förenta nationernas "trough
+test" enligt dess
+rekommendationer om transport
+av farligt gods: Manual of
+Tests and Criteria, del III,
+punkt 38.2.                             5 000           10 000
 
 Gödningsmedel som är baserade
-på ammoniumnitrat i enlighet
-med direktiv 80/876/EEG samt
-gödningsmedel där kvävehalten
-på grund av ammoniumnitratet
-överstiger 28 viktprocent
-(ett gödningsmedel som innehåller
-ammoniumnitrat med fosfat
-eller kaliumkarbonat).                  1 250           5 000
+på ammoniumnitrat i vilka
+kvävehalten på grund av
+ammoniumnitrat överstiger
 
-Arsenikpentoxid, arsenik (V)
-syra eller dess salter                  1               2
+- 24,5 viktprocent, med
+undantag för blandningar av
+ammoniumnitrat med dolomit,
+kalksten och/eller
+kalciumkarbonat
+med en renhetsgrad på minst
+90 procent, eller
+
+- 15,75 viktprocent för
+blandningar av
+ammoniumnitrat och
+ammoniumsulfat, eller
+
+- 28 viktprocent för
+blandningar av ammoniumnitrat
+med dolomit, kalksten och/
+eller kalciumkarbonat med
+en renhetsgrad på minst 90
+procent,
+
+och som i samtliga fall
+uppfyller kraven i bilaga
+II till direktiv 80/876/EEG.            1 250           5 000
+
+Ammoniumnitrat och
+beredningar av
+ammoniumnitrat i vilka
+kvävehalten på grund av
+ammoniumnitrat
+
+- är mellan 24,5 och 28
+viktprocent och vilkas
+halt av brännbara ämnen
+inte överstiger 0,4
+procent, eller
+
+- överstiger 28 viktprocent
+och vilkas halt av
+brännbara ämnen inte
+överstiger 0,2 procent.
+
+Vattenlösningar med
+ammoniumnitrat i vilka
+ammoniumnitrat-
+koncentrationen
+överstiger 80 viktprocent.              350             2 500
+
+Gödningsmedel som inte
+uppfyller kraven på i
+bilaga II i direktiv
+80/876/EEG samt kasserat
+material från
+tillverkningsprocessen,
+ammoniumnitrat och
+beredningar av
+ammoniumnitrat,
+ammoniumnitratbaserade
+gödningsmedel som
+returneras eller har
+returnerats från
+slutanvändaren till en
+tillverkare, en
+anläggning för
+tillfällig lagring
+eller upparbetning för
+att omarbetas, återvinnas
+eller behandlas för
+säker användning.                       10              50
+
+Gödningsmedel som är
+sammansatta och baserade
+på kaliumnitrat,
+vilka består av
+kaliumnitrat i pelletform
+eller granulatform.                     5 000           10 000
+
+Gödningsmedel som är
+sammansatta och baserade
+på kaliumnitrat, vilka
+består av kaliumnitrat
+i kristallin form.                      1 250           5 000
+
+Arsenikpentoxid, arsenik
+(V) syra eller dess salter              1               2
 
 Arseniktrioxid, arsenik (III)
 syra eller dess salter                  0,1             0,1
@@ -272,18 +409,18 @@ Fluor                                   10              20
 Formaldehyd (= 90 %)                    5               50
 Väte                                    5               50
 Väteklorid (kondenserad gas)            25              250
-Alkylbly                                5               50
-
+Blyalkyler                              5               50
 Extremt brandfarliga
-kondenserade gaser (inklusive
-gasol) och naturgas                     50              200
+kondenserade gaser
+(inklusive gasol) och
+naturgas                                50              200
 Acetylen                                5               50
 Etylenoxid                              5               50
 Propylenoxid                            5               50
 Metanol                                 500             5 000
-
-Metylenbis (2-kloranilin) eller
-dess salter, i pulverform               0,01            0,01
+4,4'-metylenbis
+(2-kloranilin) eller dess
+salter, i pulverform                    0,01            0,01
 Metylisocyanat                          0,15            0,15
 Syre                                    200             500
 Toluendiisocyanat                       10              100
@@ -318,24 +455,32 @@ OCDD                    0,001
 
 (T=tetra, Pe=penta, Hx=hexa, Hp=hepta, O=okta)
 
-CANCEROGENA ÄMNEN:
-- 4-aminobifenyl eller dess salter,
-- benzidin eller dess salter,
-- bis- (klorometyleter),
+CANCEROGENA ÄMNEN vid koncentrationer som överstiger 5
+viktprocent:
+- 4-aminobifenyl och/eller dess salter,
+- bensotriklorid,
+- benzidin och/eller dess salter,
+- bis(klormetyl)eter,
 - klordimetyleter,
+- 1,2-dibrometan,
+- dietylsulfat,
+- dimetylsulfat,
 - dimetylkarbamoylklorid,
+- 1,2-dibrom-3-klorpropan,
+- 1,2-dimetylhydrazin,
 - dimetylnitrosamin,
 - hexametylfosfortriamid,
-- 2-naftylamin eller dess salter,
-- 1,3-propansulton, samt
-- 4-nitrodifenyl                        0,001           0,001
+- hydrazin,
+- 2-naftylamin och/eller dess salter,
+- 4-nitrodifenyl, samt
+- 1,3-propansulton                      0,5             2
 
 Petroleumprodukter:
 - bensin och nafta,
 - fotogen (inklusive flygbränslen),
 - gasoljor (inklusive dieselbränslen,
-  lätta eldningsoljor och
-  blandkomponenter för gasoljor)        2 500           25 000
+lätta eldningsoljor och
+blandkomponenter för gasoljor)          2 500           25 000
 
 DEL 2 - SÄRSKILDA KATEGORIER AV FARLIGA ÄMNEN SOM INTE SÄRSKILT
 ANGES I DEL 1
@@ -353,33 +498,16 @@ eller R25)                              50              200
 eller R9)                               50              200
 
 4. Explosiva
-
-Här avses
-1. ett ämne eller en beredning som
-kan ge upphov till risk för explosion
-genom stötar, friktion, eld eller
-andra antändningskällor (riskfras R2),
-
-2. ett pyrotekniskt ämne, eller en
-blandning av ämnen, som är avsett
-att skapa en värme-, ljus-, ljud-,
-gas- eller rökeffekt eller en
-kombination av dessa, som en följd av
-exoterma kemiska reaktioner vilka
-är självunderhållande och icke
-detonerade, och
-
-3. ett explosivt eller
-pyrotekniskt ämne eller
-en beredning som
-är innesluten i ett föremål.            50              200
+Här avses ett ämne, preparat
+eller föremål som omfattas
+av ADR (riskgrupp 1.4).                 50              200
 
 5. Explosiva
-Här avses ämnen och beredningar
-som ger upphov till stora risker
-för explosion genom stötar,
-friktion, eld eller andra
-antändningskällor (riskfras R3).        10              50
+Här avses ett ämne, preparat
+eller föremål som omfattas
+av ADR (riskgrupp 1.1, 1.2,
+1.3, 1.5 eller 1.6), eller
+riskfras R2 eller R3.                   10              50
 
 6. Brandfarliga
 Här avses brandfarlig vätska
@@ -429,18 +557,16 @@ temperatur som är högre än dess
 kokpunkt.                               10              50
 
 9. Miljöfarliga ämnen
-under angivande av följande
-riskfraser - R50 "mycket
-giftigt för vatten-
-levande organismer",                    200             500
-- R50 "mycket giftigt för
-vattenlevande organismer" och
-R53 "kan ge långsiktiga
-skadeverkningar på vattenmiljön",       200             500
-- R51 "giftigt för vattenlevande
-organismer" och R53 "kan ge
+Riskfraser:
+
+- R50: "mycket giftigt för
+vattenlevande organismer"
+(inklusive R50/53),                     100             200
+
+- R51/53: "giftigt för
+vattenorganismer, kan ge
 långsiktiga skadeverkningar
-på vattenmiljön".                       200             2 000
+på vattenmiljön".                       200             500
 
 10. All klassificering
 som inte omfattas av det som
@@ -451,4 +577,4 @@ kontakt med vatten" (inklusive
 R14/15)                                 100             500
 - R29 "avger giftiga gaser vid
 kontakt med vatten".                    50              200
-Förordning (2002:650).
+Förordning (2005:352).
