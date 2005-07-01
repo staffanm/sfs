@@ -34,11 +34,10 @@ läkemedelskommittéer av uppgifter för medicinsk uppföljning,
 utvärdering och kvalitetssäkring i hälso- och sjukvården,
 
 6. registrering och redovisning till Socialstyrelsen av
-uppgifter för medicinsk uppföljning, utvärdering,
-kvalitetssäkring, epidemiologiska undersökningar, forskning och
-framställning av statistik,
+uppgifter för epidemiologiska undersökningar, forskning och
+framställning av statistik inom hälso- och sjukvårdsområdet,
 
-7. registrering av dosexpedierade läkemedel, och
+7. registrering av dosrecept och recept för flera uttag, samt
 
 8. registrering och redovisning till Socialstyrelsen av
 uppgifter om enskild läkares eller tandläkares förskrivning av
@@ -63,11 +62,8 @@ stycket 5 till samma förskrivare och till verksamhetschefen vid
 den enhet vid vilken förskrivaren tjänstgör samt i redovisning
 enligt första stycket 8 till Socialstyrelsen.
 
-För ändamål som avses i första stycket 6 får uppgifter som kan
-hänföras till en enskild person redovisas endast med den
-berörda personens samtycke. Förskrivningsorsak får redovisas
-endast för de ändamål som avses i första stycket 4, 5 och 6.
-Lag (2002:162).
+Förskrivningsorsak får redovisas endast för de ändamål som
+avses i första stycket 4 och 5. Lag (2005:259).
 
 Registerinnehåll
 
@@ -88,9 +84,9 @@ postnumret i patientens bostadsadress,
 arbetsplatskod och, vad avser läkares eller tandläkares
 förskrivning av narkotiskt läkemedel, förskrivarkod och
 
-5. samtycke enligt 3 § andra stycket eller fjärde stycket.
+5. samtycke enligt 3 § andra stycket.
 
-Förskrivningsorsak skall anges med en kod. Lag (2002:162).
+Förskrivningsorsak skall anges med en kod. Lag (2005:259).
 
 Sambearbetning med andra personregister
 
@@ -140,11 +136,12 @@ registret,
 2. rätten att få information och rättelse enligt
 personuppgiftslagen (1998:204),
 
-3. de bestämmelser om samtycke som gäller enligt 3 § andra och
-fjärde styckena, och
+3. de bestämmelser om samtycke som gäller enligt 3 § andra
+stycket, och
 
 4. de begränsningar i fråga om sambearbetning, sökbegrepp och
-bevarande av uppgifter som gäller för registret. Lag (2002:161).
+bevarande av uppgifter som gäller för registret.
+Lag (2005:259).
 
 Bemyndigande
 
