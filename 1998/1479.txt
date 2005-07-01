@@ -126,12 +126,7 @@ Finansinspektionen får meddela närmare föreskrifter om
 storleken av det bundna egna kapitalet och summan av gjorda
 medlemsinsatser och förlagsinsatser.
 
-5 § /Upphör att gälla U:2004-10-08/
-En central värdepappersförvarare skall ha en styrelse med
-minst fem ledamöter och en verkställande direktör.
-
-5 § /Träder i kraft I:2004-10-08/
-En central värdepappersförvarare skall ha en styrelse med
+5 § En central värdepappersförvarare skall ha en styrelse med
 minst fem ledamöter och en verkställande direktör.
 
 I fråga om europabolag som har ett sådant förvaltningssystem
@@ -502,38 +497,7 @@ registreras enligt denna lag skall ha ett eller flera
 avstämningskonton, om inte instrumenten är
 förvaltarregistrerade.
 
-17 § /Upphör att gälla U:2004-07-01/
-På ett avstämningskonto skall anges
-
-1. kontohavarens namn, personnummer eller annat
-identifieringsnummer samt postadress,
-
-2. panthavares namn, personnummer eller annat
-identifieringsnummer samt postadress,
-
-3. det antal finansiella instrument som kontot omfattar,
-
-4. i förekommande fall att kontohavaren har förvaltare enligt
-11 kap. 7 § föräldrabalken med uppdrag som omfattar förvaltning
-av aktierna eller att aktierna företräds av en förvaltare som
-förordnats enligt 7 kap. 14 a § bankrörelselagen (1987:617), 5
-kap. 15 a § lagen (1992:1610 ) om finansieringsverksamhet, 6
-kap. 3 g § lagen (1991:981) om värdepappersrörelse, 11 kap. 2 h §
-lagen (1992:543) om börs- och clearingverksamhet eller 3 kap.
-2 e § försäkringsrörelselagen (1982:713),
-
-5. pantsättning och förekomst av annan särskild rätt som gäller
-ett finansiellt instrument,
-
-6. konkurs avseende kontohavaren samt utmätning, kvarstad eller
-betalningssäkring avseende ett finansiellt instrument eller
-avseende panträtt i detta,
-
-7. inskränkning enligt 13 kap. 19 § andra stycket eller 14 kap.
-21 § andra stycket föräldrabalken.
-
-17 § /Träder i kraft I:2004-07-01/
-På ett avstämningskonto skall anges
+17 § På ett avstämningskonto skall anges
 
 1. kontohavarens namn, personnummer eller annat
 identifieringsnummer samt postadress,
@@ -809,11 +773,9 @@ inte obehörigen röja uppgifter som har registrerats i ett
 avstämningsregister eller som har lämnats till
 värdepappersförvararen eller institutet av en förvaltare.
 
-/Rubriken träder i kraft I:2004-07-01/
 Uppgiftsskyldighet
 
-2 a § /Träder i kraft I:2004-07-01/
-En central värdepappersförvarare och ett kontoförande
+2 a § En central värdepappersförvarare och ett kontoförande
 institut är skyldiga att lämna ut uppgifter om enskildas
 förhållanden till företaget, om det under en utredning enligt
 bestämmelserna om förundersökning i brottmål begärs av
@@ -821,7 +783,8 @@ undersökningsledare eller om det i ett ärende om rättslig hjälp
 i brottmål på framställning av en annan stat eller en
 mellanfolklig domstol begärs av åklagare. Lag (2004:323).
 
-3 § Om Finansinspektionen behöver uppgifter för övervakningen
+3 § /Upphör att gälla U:2005-07-01/
+Om Finansinspektionen behöver uppgifter för övervakningen
 av att bestämmelserna i insiderstrafflagen (2000:1086) följs
 eller åklagare finner anledning att anta att brott enligt samma
 lag har begåtts eller Finansinspektionen finner anledning att
@@ -846,6 +809,34 @@ anmälningsskyldighet för vissa innehav av finansiella
 instrument får genom automatisk databehandling lämnas ut till
 det insynsregister som förs enligt 9 § samma lag.
 Lag (2000:1098).
+
+3 § /Träder i kraft I:2005-07-01/
+Om Finansinspektionen behöver uppgifter för övervakningen
+av att bestämmelserna i lagen (2005:377) om straff för
+marknadsmissbruk vid handel med finansiella instrument följs
+eller åklagare finner anledning att anta att brott enligt samma
+lag har begåtts eller Finansinspektionen finner anledning att
+anta att en bestämmelse i lagen (2000:1087) om
+anmälningsskyldighet för vissa innehav av finansiella
+instrument har överträtts, skall den centrala
+värdepappersförvararen på begäran lämna inspektionen eller
+åklagaren besked om ett avstämningsregisters innehåll i den
+omfattning det har anknytning till tillsynen eller
+överträdelsen. Beskedet skall lämnas utan avgift. Regeringen
+eller, efter regeringens bemyndigande, Finansinspektionen får
+meddela närmare föreskrifter om hur skyldigheten att lämna
+sådana besked till inspektionen skall fullgöras.
+
+Regeringen får föreskriva att Finansinspektionen skall ha
+terminalåtkomst till avstämningsregistren för inhämtande av
+uppgifter som avses i första stycket och som har anknytning
+till ett ärende hos inspektionen.
+
+Uppgifter som skall anmälas enligt 4 § lagen (2000:1087) om
+anmälningsskyldighet för vissa innehav av finansiella
+instrument får genom automatisk databehandling lämnas ut till
+det insynsregister som förs enligt 9 § samma lag.
+Lag (2005:381).
 
 9 kap. Tillsyn
 
