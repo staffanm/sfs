@@ -6,7 +6,8 @@
 Lagens tillämpningsområde
 
 1 § I denna lag ges föreskrifter om elektriska anläggningar, om
-handel med el i vissa fall samt om elsäkerhet.
+handel med el i vissa fall samt om elsäkerhet. Dessutom ges
+vissa föreskrifter om fjärrvärmeverksamhet. Lag (2005:404).
 
 Definitioner
 
@@ -40,6 +41,20 @@ Med anslutning av elektriska anläggningar avses också
 återinkoppling av en befintlig anläggning och höjning av
 avtalad effekt i inmatnings- eller uttagspunkt.
 Lag (1999:770).
+
+4 a § Med fjärrvärmeverksamhet avses i denna lag distribution i
+ett rörledningssystem av hetvatten eller annan värmebärare för
+uppvärmningsändamål, dock bara om verksamheten riktar sig till
+en obestämd krets av kunder inom ett visst geografiskt område.
+
+Produktionen av den värmebärare som distribueras i
+rörledningssystemet ingår i fjärrvärmeverksamheten i den
+utsträckning som produktionen bedrivs av det företag som
+distribuerar värmebäraren. Lag (2005:404).
+
+4 b § Med kraftvärmeverk avses i denna lag en anläggning där el
+och värme kan produceras samtidigt och där värmen, helt eller
+delvis, används i fjärrvärmeverksamhet. Lag (2005:404).
 
 5 § Med nättariff avses avgifter och övriga villkor för
 överföring av el och för anslutning till en ledning eller ett
@@ -191,14 +206,7 @@ koncessionshavaren.
 
 Nätkoncessions giltighetstid
 
-13 § /Upphör att gälla U:2005-01-01/
-En nätkoncession skall meddelas för fyrtio år, om den
-avser linje, och för tjugofem år, om den avser område. Om det
-finns särskilda skäl eller om sökanden begär det, får kortare
-tid bestämmas.
-
-13 § /Träder i kraft I:2005-01-01/
-En nätkoncession skall meddelas för fyrtio år, om den
+13 § En nätkoncession skall meddelas för fyrtio år, om den
 avser linje, och för tjugofem år, om den avser område. Om det
 finns särskilda skäl eller om sökanden begär det, får kortare
 tid bestämmas.
@@ -237,17 +245,7 @@ annan än sökanden haft tillfälle att yttra sig.
 
 Överlåtelse och upphörande av nätkoncession
 
-16 § /Upphör att gälla U:2005-01-01/
-En nätkoncession får inte överlåtas utan tillstånd av
-regeringen. Regeringen får bemyndiga nätmyndigheten att pröva
-frågor om överlåtelse av nätkoncession som inte avser en
-utlandsförbindelse.
-
-Vid prövning av en ansökan om överlåtelse av nätkoncession
-skall 10 § tillämpas.
-
-16 § /Träder i kraft I:2005-01-01/
-En nätkoncession får inte överlåtas utan tillstånd av
+16 § En nätkoncession får inte överlåtas utan tillstånd av
 regeringen. Regeringen får bemyndiga nätmyndigheten att pröva
 frågor om överlåtelse av nätkoncession som inte avser en
 utlandsförbindelse.
@@ -270,28 +268,7 @@ Tillstånd enligt första stycket får inte meddelas, om det är
 olämpligt ur elförsörjningssynpunkt. Ett tillstånd skall
 meddelas för viss tid.
 
-18 § /Upphör att gälla U:2005-01-01/
-En nätkoncession skall återkallas helt eller delvis,
-
-1. om en ledning eller ett ledningsnät inte längre behövs för
-en säker elförsörjning,
-
-2. om koncessionshavaren i väsentlig mån inte fullgör sina
-skyldigheter enligt denna lag, enligt föreskrifter som har
-meddelats med stöd av lagen eller enligt villkor i
-nätkoncessionen, eller
-
-3. om koncessionshavaren inte längre uppfyller villkoren enligt
-10 § andra stycket första meningen för att inneha
-nätkoncessionen.
-
-Frågor om återkallelse av nätkoncession prövas av
-nätmyndigheten. Avser nätkoncessionen en utlandsförbindelse,
-prövas dock frågan om återkallelse av regeringen.
-Lag (1998:1651)
-
-18 § /Träder i kraft I:2005-01-01/
-En nätkoncession skall återkallas helt eller delvis,
+18 § En nätkoncession skall återkallas helt eller delvis,
 
 1. om en ledning eller ett ledningsnät inte längre behövs för
 en säker elförsörjning,
@@ -401,9 +378,19 @@ begagnas eller underhålls.
 
 3 kap. Nätverksamhet m.m.
 
+Inledande bestämmelse
+
+1 § Ett företag som bedriver nätverksamhet ansvarar för drift
+och underhåll och, vid behov, utbyggnad av sitt ledningsnät
+och, i tillämpliga fall, dess anslutning till andra
+ledningsnät. Företaget svarar också för att dess ledningsnät är
+säkert, tillförlitligt och effektivt och för att det på lång
+sikt kan uppfylla rimliga krav på överföring av el.
+Lag (2005:404).
+
 Avgränsning av nätverksamhet
 
-1 § En juridisk person som bedriver nätverksamhet får inte
+1 a § En juridisk person som bedriver nätverksamhet får inte
 bedriva produktion av eller handel med el.
 
 Utan hinder av första stycket får produktion av el bedrivas
@@ -413,12 +400,29 @@ produktionen
 1. uteslutande är avsedd att täcka nätförluster, eller
 
 2. sker i mobila reservkraftaggregat som är avsedda för
-tillfälligt bruk vid elavbrott.
+tillfälligt bruk vid elavbrott. Lag (2005:404).
 
-Redovisning av nätverksamhet
+1 b § I ett företag som bedriver nätverksamhet och som ingår i
+en koncern vars samlade elnät har minst 100 000 elanvändare får
+inte en styrelseledamot, verkställande direktör eller
+firmatecknare samtidigt vara styrelseledamot, verkställande
+direktör eller firmatecknare i ett företag som bedriver
+produktion av eller handel med el.
 
-2 § Nätverksamhet skall ekonomiskt redovisas skilt från annan
-verksamhet.
+Vid tillämpningen av första stycket skall med elanvändare
+förstås den som enligt avtal med den som bedriver
+nätverksamheten tar ut el från elnätet i en eller flera
+uttagspunkter. Lag (2005:404).
+
+Redovisning av nätverksamhet m.m.
+
+2 § Nätverksamhet och fjärrvärmeverksamhet skall ekonomiskt
+redovisas var för sig och skilt från annan verksamhet.
+
+Vid redovisning av fjärrvärmeverksamhet enligt första stycket
+skall den elproduktion som skett i ett kraftvärmeverk och
+försäljningen av denna el anses ingå i fjärrvärmeverksamheten.
+Lag (2005:404).
 
 3 § Redovisning av nätverksamhet som grundas på nätkoncession
 för område skall avse varje område för sig. Nätmyndigheten
@@ -454,21 +458,22 @@ och som organisatoriskt och tekniskt ingår i ett nät som
 omfattas av nätkoncession för område. Lag (2002:121).
 
 4 § Regeringen eller, efter regeringens bemyndigande,
-nätmyndigheten får meddela ytterligare föreskrifter om
-redovisning av nätverksamhet.
+nätmyndigheten får meddela närmare föreskrifter om redovisning
+av nätverksamhet och av fjärrvärmeverksamhet. Lag (2005:404).
 
 Revision
 
-5 § Revisor hos den som bedriver nätverksamhet skall göra en
-särskild granskning av redovisningen av nätverksamheten.
+5 § Revisor hos den som bedriver nätverksamhet eller
+fjärrvärmeverksamhet skall göra en särskild granskning av
+redovisningen av verksamheten.
 
 Revisorn skall årligen i ett särskilt intyg avge ett utlåtande
-i frågan om redovisningen av nätverksamheten skett enligt
-gällande bestämmelser. Intyget skall av företaget ges in till
-nätmyndigheten.
+i frågan om redovisningen av nätverksamheten eller
+fjärrvärmeverksamheten skett enligt gällande bestämmelser.
+Intyget skall av företaget ges in till nätmyndigheten.
 
 Regeringen får meddela närmare föreskrifter om revision av
-nätverksamhet.
+nätverksamhet och av fjärrvärmeverksamhet. Lag (2005:404).
 
 Skyldighet att ansluta anläggning
 
@@ -477,24 +482,40 @@ särskilda skäl, skyldig att på skäliga villkor ansluta en
 elektrisk anläggning till ledningen.
 
 Tvister om koncessionshavarens skyldigheter enligt första
-stycket prövas av nätmyndigheten. En tvist om villkoren för
-anslutning prövas dock inte om det visas att ansökan om
-prövning kommit in till nätmyndigheten senare än två år efter
-det att nätkoncessionshavaren sänt ett skriftligt
+stycket prövas av nätmyndigheten. Beslut i ett sådant ärende
+skall fattas inom två månader från det att ansökan kommit in
+till nätmyndigheten. Om myndigheten behöver ytterligare tid för
+att avgöra ärendet får nätmyndigheten förlänga tiden med två
+månader eller, om sökanden medger det, med den ytterligare tid
+som kan behövas för att ärendet skall kunna avgöras.
+
+Nätmyndighetens beslut enligt andra stycket gäller omedelbart.
+
+En tvist om villkoren för anslutning prövas inte, om det visas
+att ansökan om prövning kommit in till nätmyndigheten senare än
+två år efter det att nätkoncessionshavaren sänt ett skriftligt
 ställningstagande till berörd part under dennes senaste kända
-adress. Lag (2002:121).
+adress. Lag (2005:404).
 
 7 § Den som har nätkoncession för område är, om det inte finns
 särskilda skäl, skyldig att på skäliga villkor ansluta en
 elektrisk anläggning inom området till ledningsnätet.
 
 Tvister om koncessionshavarens skyldigheter enligt första
-stycket prövas av nätmyndigheten. En tvist om villkoren för
-anslutning prövas dock inte om det visas att ansökan om
-prövning kommit in till nätmyndigheten senare än två år efter
-det att nätkoncessionshavaren sänt ett skriftligt
+stycket prövas av nätmyndigheten. Beslut i ett sådant ärende
+skall fattas inom två månader från det att ansökan kommit in
+till nätmyndigheten. Om myndigheten behöver ytterligare tid för
+att avgöra ärendet får nätmyndigheten förlänga tiden med två
+månader eller, om sökanden medger det, med den ytterligare tid
+som kan behövas för att ärendet skall kunna avgöras.
+
+Nätmyndighetens beslut enligt andra stycket gäller omedelbart.
+
+En tvist om villkoren för anslutning prövas inte, om det visas
+att ansökan om prövning kommit in till nätmyndigheten senare än
+två år efter det att nätkoncessionshavaren sänt ett skriftligt
 ställningstagande till berörd part under dennes senaste kända
-adress. Lag (2002:121).
+adress. Lag (2005:404).
 
 8 § Vill någon ansluta en elektrisk anläggning till en ledning
 som omfattas av en nätkoncession för linje i stället för till
@@ -524,7 +545,8 @@ på överföringen av el. Lag (2002:121).
 
 Skyldighet att mäta och beräkna överförd el
 
-10 § Den som har nätkoncession är skyldig att utföra mätning av
+10 § /Upphör att gälla U:2006-07-01/
+Den som har nätkoncession är skyldig att utföra mätning av
 mängden överförd el och dess fördelning över tiden.
 
 Om en elanvändare har ett säkringsabonnemang om högst 200
@@ -544,6 +566,26 @@ styckena.
 Närmare föreskrifter om angivna skyldigheter meddelas av
 regeringen eller den myndighet som regeringen bestämmer.
 Lag (1999:770).
+
+10 § /Träder i kraft I:2006-07-01/
+Den som har nätkoncession är skyldig att utföra mätning av
+mängden överförd el och dess fördelning över tiden.
+
+Om en elanvändare har ett säkringsabonnemang om högst 63 ampere
+skall nätkoncessionshavaren i stället dels preliminärt beräkna
+mängden överförd el och dess fördelning över tiden (preliminär
+schablonberäkning), dels slutligt mäta mängden överförd el och
+beräkna dess fördelning över tiden (slutlig schablonberäkning).
+Detta gäller inte en elanvändare som begärt att mängden
+överförd el och dess fördelning över tiden skall mätas.
+
+Det åligger nätkoncessionshavaren att rapportera resultaten av
+de mätningar och beräkningar som nämns i första och andra
+styckena.
+
+Närmare föreskrifter om angivna skyldigheter meddelas av
+regeringen eller den myndighet som regeringen bestämmer.
+Lag (2005:404).
 
 10 a § Har upphävts genom lag (2003:117).
 
@@ -613,6 +655,32 @@ ansökan om prövning kommit in till nätmyndigheten senare än två
 ställningstagande till berörd part under dennes senaste kända
 adress. Lag (2002:121).
 
+Anskaffande av el för att täcka nätförluster
+
+16 § Den som har nätkoncession skall anskaffa den el som är
+avsedd att täcka nätförluster på ett öppet, icke-
+diskriminerande och marknadsorienterat sätt. Lag (2005:404).
+
+Upprättande av övervakningsplan
+
+17 § Den som har nätkoncession skall upprätta en
+övervakningsplan och se till att övervakningsplanen följs.
+
+Av övervakningsplanen skall det framgå vilka åtgärder som skall
+vidtas för att motverka diskriminerande beteende gentemot
+övriga aktörer på elmarknaden. I planen skall särskilt anges de
+särskilda skyldigheter som de anställda har för att detta mål
+skall uppnås.
+
+Koncessionshavaren skall årligen upprätta en rapport över de
+åtgärder som vidtagits enligt planen. Rapporten skall
+offentliggöras samt ges in till nätmyndigheten.
+
+Regeringen eller, efter regeringens bemyndigande,
+nätmyndigheten får meddela närmare föreskrifter om innehållet i
+övervakningsplanen och om offentliggörandet av den årliga
+rapporten. Lag (2005:404).
+
 4 kap. Nättariffer
 
 Allmänt om nättariffer
@@ -623,8 +691,22 @@ skäliga i förhållande till dels de objektiva förutsättningarna
 att bedriva nätverksamheten, dels nätkoncessionshavarens sätt
 att bedriva nätverksamheten.
 
-Nättariffer skall vara utformade på sakliga grunder.
-Lag (2002:121).
+Nättariffer skall vara objektiva och icke-diskriminerande.
+
+Vid utformandet av nättariffer för överföring av el skall
+särskilt beaktas antalet anslutningspunkter,
+anslutningspunkternas geografiska läge, mängden överförd energi
+och abonnerad effekt och kostnaderna för överliggande nät samt
+kvaliteten på överföringen av el.
+
+Vid utformandet av nättariff för anslutning till en ledning
+eller ett ledningsnät skall särskilt beaktas
+anslutningspunktens geografiska läge och den avtalade effekten
+i anslutningspunkten.
+
+Regeringen eller, efter regeringens bemyndigande,
+nätmyndigheten får meddela närmare föreskrifter om utformningen
+av nättariffer. Lag (2005:404).
 
 2 § Nättariffer för överföring av el skall utformas så, att
 betald anslutningsavgift ger rätt att använda det elektriska
@@ -805,21 +887,18 @@ nätverksamhet.
 
 2 § Om ett sådant kommunalt företag som avses i 3 kap. 16-18 §§
 kommunallagen (1991:900) bedriver sådan verksamhet som avses i
-1 § 1 eller distribution av fjärrvärme, skall verksamheten
-drivas på affärsmässig grund och redovisas särskilt.
-Lag (2000:602).
+1 § 1 eller fjärrvärmeverksamhet, skall verksamheten drivas på
+affärsmässig grund och redovisas särskilt. Lag (2005:404).
 
-8 kap. Systemansvar och balansansvar
+8 kap. Övergripande systemansvar och balansansvar m.m.
 
-Systemansvar
+Övergripande systemansvar
 
-1 § Den myndighet som regeringen utser skall ha systemansvaret
-för el.
-
-Med systemansvar för el avses det övergripande ansvaret för att
-elektriska anläggningar samverkar driftsäkert så att balans
-inom hela eller delar av landet kortsiktigt upprätthålls mellan
-produktion och förbrukning av el.
+1 § Regeringen skall utse en myndighet som har det övergripande
+ansvaret för att elektriska anläggningar samverkar driftsäkert
+så att balans inom hela eller delar av landet kortsiktigt
+upprätthålls mellan produktion och förbrukning av el
+(systemansvarig myndighet).
 
 Regeringen eller den myndighet som regeringen bestämmer får, i
 den mån det behövs av hänsyn till driftsäkerheten hos det
@@ -827,7 +906,7 @@ nationella elsystemet, meddela föreskrifter om kontroll,
 provning eller besiktning samt andra föreskrifter som angår
 elektriska anläggningar, anordningar avsedda att anslutas till
 sådana anläggningar, elektrisk materiel eller elektriska
-installationer.
+installationer. Lag (2005:404).
 
 2 § Den systemansvariga myndigheten får, i den utsträckning det
 behövs för att kunna utöva systemansvaret, beordra
@@ -865,7 +944,30 @@ Med uttagspunkt avses därvid den punkt där en elanvändare,
 enligt avtal med innehavaren av nätkoncession, tar ut el för
 förbrukning. Lag (1999:770).
 
-4 a § När den systemansvariga myndigheten får kännedom om att
+4 a § Villkoren i balansavtalen skall vara objektiva och icke-
+diskriminerande.
+
+Den systemansvariga myndigheten får inte ingå balansavtal
+förrän de metoder som har använts för att utforma avtalen har
+godkänts av nätmyndigheten. Godkännande skall lämnas, om
+metoderna kan antas leda till att avtalen uppfyller kraven
+enligt första stycket.
+
+Ett beslut enligt andra stycket gäller omedelbart.
+Nätmyndigheten skall delge beslutet enligt 16 § första stycket
+och 17 § första stycket delgivningslagen (1970:428).
+Lag (2005:404).
+
+4 b § Den systemansvariga myndigheten skall offentliggöra de
+villkor som tillämpas i balansavtalen samt på begäran utan
+dröjsmål lämna skriftlig uppgift om dessa villkor.
+
+Regeringen eller, efter regeringens bemyndigande,
+nätmyndigheten får meddela närmare föreskrifter om
+offentliggörande av villkor enligt första stycket.
+Lag (2005:404).
+
+4 c § När den systemansvariga myndigheten får kännedom om att
 ett avtal med myndigheten om balansansvar enligt 4 § första
 stycket skall upphöra att gälla skall myndigheten utan dröjsmål
 underrätta de innehavare av nätkoncession på vars ledningsnät
@@ -894,7 +996,7 @@ Den systemansvariga myndigheten skall omedelbart underrätta
 berörda nätkoncessionshavare om vem som har anvisats som
 balansansvarig. Nätkoncessionshavarna skall utan dröjsmål
 underrätta berörda elleverantörer om vem som har anvisats som
-balansansvarig i uttagspunkterna. Lag (2002:653).
+balansansvarig i uttagspunkterna. Lag (2005:404).
 
 5 § En elleverantör som levererar el till en elanvändare i en
 viss uttagspunkt är skyldig att fortsätta leverera el tills
@@ -988,6 +1090,43 @@ egna inköp. Lag (1999:770).
 avräkningen mellan de balansansvariga enligt de föreskrifter
 som regeringen eller, efter regeringens bemyndigande,
 myndigheten meddelar. Lag (1999:770).
+
+Angivande av elens ursprung
+
+12 § Elleverantörer skall på eller i samband med fakturor
+avseende försäljning av el och i reklam som vänder sig till
+elanvändare lämna uppgift om
+
+1. varje enskild energikällas andel av den genomsnittliga
+sammansättning av energikällor som använts för att framställa
+den el som elleverantören sålde under närmast föregående
+kalenderår, och
+
+2. den inverkan på miljön i form av utsläpp av koldioxid samt
+den mängd kärnbränsleavfall som framställningen av den försålda
+elen har orsakat.
+
+Om elleverantören har köpt el på en elbörs eller importerat den
+från företag som är belägna utanför Europeiska unionen får
+uppgifterna enligt första stycket 1 baseras på uppgifter som
+elbörsen eller företagen tillhandahållit.
+
+De uppgifter som anges i första stycket 2 får lämnas genom
+hänvisning till referenskällor som är tillgängliga för
+allmänheten. Lag (2005:404).
+
+13 § Elproducenter skall offentliggöra de uppgifter som
+elleverantörer behöver för att kunna fullgöra sina skyldigheter
+enligt 12 § första stycket.
+
+En elleverantör som inte producerar el skall på begäran av
+andra elleverantörer lämna de uppgifter som de behöver för att
+kunna fullgöra sina skyldigheter enligt 12 § första stycket.
+
+Regeringen eller, efter regeringens bemyndigande,
+nätmyndigheten får meddela närmare föreskrifter om de
+skyldigheter som anges i första och andra styckena.
+Lag (2005:404).
 
 9 kap. Skyddsåtgärder
 
@@ -1296,7 +1435,7 @@ uppkomna skadan.
 
 12 kap. Tillsyn m.m.
 
-Tillsyn
+Tillsynsmyndigheter m.m.
 
 1 § Tillsynen över efterlevnaden av denna lag och av
 föreskrifter eller villkor som har meddelats med stöd av lagen
@@ -1308,9 +1447,24 @@ Tillsynen i övrigt över efterlevnaden av denna lag och av
 föreskrifter och villkor som har meddelats med stöd av lagen
 utövas av nätmyndigheten.
 
-Tillsynen enligt andra stycket omfattar inte efterlevnaden av
-elleverantörernas skyldigheter enligt 8 kap. och av
-bestämmelserna i 7, 10 och 11 kap. Lag (2002:121).
+Tillsynen enligt andra stycket omfattar inte bestämmelserna i
+7, 10 och 11 kap. samt efterlevnaden av elleverantörernas
+skyldigheter enligt 8 kap. 1-11 §§.
+
+Nätmyndigheten är tillsynsmyndighet enligt Europaparlamentets
+och rådets förordning (EG) nr 1228/2003 av den 26 juni 2003 om
+villkor för tillträde till nät för gränsöverskridande elhandel.
+Lag (2005:404).
+
+1 a § Ärenden om undantag enligt artikel 7.1, 7.2 och 7.3 i
+rådets förordning (EG) nr 1228/2003 av den 26 juni 2003 om
+villkor för tillträde till nät för gränsöverskridande elhandel
+prövas av regeringen.
+
+Nätmyndigheten skall utreda ärenden som anges i första stycket
+och därefter, med eget yttrande, överlämna ärendet till
+regeringens prövning. Nätmyndigheten skall därvid offentliggöra
+sitt yttrande. Lag (2005:404).
 
 2 § En tillsynsmyndighet har rätt att på begäran få de
 upplysningar och ta del av de handlingar som behövs för
@@ -1508,10 +1662,10 @@ brott enligt denna lag skall förklaras förverkat, om det inte
 
 Överklagande
 
-5 § Beslut av nätmyndigheten enligt 2 kap. 18-20 §§, 3 kap.
-3 §, 6-8 §§, 11, 14 och 15 §§, 4 kap. 6, 7 och 10 §§ samt 12 kap.
-8 och 11 §§, beslut av en tillsynsmyndighet enligt 12 kap.
-2-4 §§ samt beslut av den systemansvariga myndigheten om
+5 § Beslut av nätmyndigheten enligt 2 kap. 18-20 §§, 3 kap. 3,
+6-8, 11, 14 och 15 §§, 4 kap. 6, 7 och 10 §§, 8 kap. 4 a § samt
+12 kap. 8 och 11 §§, beslut av en tillsynsmyndighet enligt 12
+kap. 2-4 §§ samt beslut av den systemansvariga myndigheten om
 ersättning till den som enligt 8 kap. 2 § beordrats öka eller
 minska produktionen av el får överklagas hos allmän
 förvaltningsdomstol. Prövningstillstånd krävs vid överklagande
@@ -1519,7 +1673,7 @@ till kammarrätten.
 
 Regeringen får meddela föreskrifter om överklagande av andra
 beslut enligt denna lag eller enligt föreskrifter som meddelats
-med stöd av lagen. Lag (2003:117).
+med stöd av lagen. Lag (2005:404).
 
 Övergångsbestämmelser
 
@@ -1713,3 +1867,40 @@ närmast därefter.
 
 3. 8 kap. 8 § i sin äldre lydelse tillämpas i de fall då en
 elleverantör har anvisats före ikraftträdandet.
+
+2005:404
+
+1. Denna lag träder i kraft den 1 juli 2006 i fråga om 3 kap.
+10 § och i övrigt den 1 juli 2005.
+
+2. Bestämmelserna i 3 kap. 2 § och 3 kap. 5 § första och andra
+styckena i dess nya lydelse tillämpas första gången, såvitt
+avser fjärrvärmeverksamhet, i fråga om redovisning respektive
+revision för det räkenskapsår som börjar den 1 juli 2005 eller
+närmast därefter.
+
+3. Bestämmelserna i 3 kap. 6 § andra stycket och 3 kap. 7 §
+andra stycket i deras nya lydelse samt bestämmelserna i 3 kap.
+6 § tredje stycket och 3 kap. 7 § tredje stycket tillämpas på
+sådana tvister i vilka ansökan kommer in till nätmyndigheten
+den 1 juli 2005 eller senare.
+
+4. En koncessionshavare som före den 1 november 2004 har ingått
+ett avtal om inköp av el för att täcka nätförluster får
+tillämpa avtalet under dess återstående giltighetstid, dock
+längst till utgången av oktober 2007.
+
+5. Bestämmelserna i 4 kap. 1 § första-fjärde styckena i deras
+nya lydelse tillämpas på nättariffer som gäller från och med
+det räkenskapsår som börjar den 1 juli 2005 eller närmast
+därefter.
+
+6. Balansavtal som den systemansvariga myndigheten har ingått
+före den 1 juli 2005 omfattas inte av den nya bestämmelsen i 8
+kap. 4 a § under avtalens återstående giltighetstid.
+
+7. Bestämmelserna i 8 kap. 12 § tillämpas från och med den 1
+april 2006.
+
+8. Bestämmelserna i 8 kap. 13 § tillämpas från och med den 1
+februari 2006.
