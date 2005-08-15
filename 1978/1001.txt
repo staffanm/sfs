@@ -1081,6 +1081,24 @@ hastighet upphör        till grund för rekommendation av högsta hastighet
 
                      Märket får ha lysande symbol och bård.
 
+1.4.18
+Betalväg                Märket anger att avgift eller särskild skatt
+                        skall betalas vid passage av viss plats eller
+                        för färd på en väg eller inom ett område.
+                        Märket sätts upp där skyldigheten att
+                        betala avgift eller skatt inträder.
+
+                     Förberedande upplysning om skyldighet att
+                        betala avgift eller särskild skatt får ges
+                        med märket tillsammans med en tilläggstavla
+                        som anger avståndet till den plats där
+                        skyldigheten inträder eller med en
+                        tilläggstavla med en pil som anger att
+                        skyldigheten gäller på en anslutande väg.
+                        Förberedande upplysning får också ges genom
+                        att märket infogas i lokaliseringsmärke för
+                        vägvisning.
+
 1.4.21
 Skyldighet för mötande fordon   Märket används på vägsträckor som är så
 att lämna företräde             smala att möte inte lämpligen kan ske
@@ -1162,6 +1180,20 @@ Parkering               Märket anger att parkering är tillåten.
                      Används tilläggstavla 1.11.12 skall fordonen ställas
                         upp i enlighet med anvisningen på tavlan.
 
+1.4.32
+Infartsparkering        Märket anger parkeringsplats som anordnats
+                        särskilt för parkering i anslutning till
+                        kollektivtrafik. Det används för vägvisning
+                        till sådan plats.
+
+                     Symbolen på märket skall ange vilken typ av
+                        kollektivtrafik som är tillgänglig. Vägverket
+                        får föreskriva vilka symboler som får
+                        användas.
+
+                     Märket får infogas i lokaliseringsmärke för
+                        vägvisning.
+
 1.4.34
 Taxistation                     Märket anger den i färdriktningen räknat
                                 bortre gränsen för uppställningsplats
@@ -1179,7 +1211,7 @@ mopedförare                     tillsammans med någon av markeringarna
 Stora svängen           Märket anger att cyklister och förare av moped
                         klass II skall färdas på det sätt som anges i
                         3 kap. 28 § trafikförordningen (1998:1276).
-Förordning (2002:123).
+Förordning (2005:604).
 
 25 § Lokaliseringsmärken för vägvisning är följande.
 Förordning (1988:1601).
@@ -1351,13 +1383,31 @@ Trafikplatsnummer               Märket anger nummer på trafikplats.
                              Om det behövs får märket kompletteras
                                 med upplysning om avfartens beteckning.
 
+1.5.7
+
+Samlingsmärke                   Märket anger orter eller motsvarande
+                                som kan nås via ett gemensamt vägval.
+
+                             Inom klammer anges de orter eller
+                                motsvarande som nås via ett gemensamt
+                                vägval och under klammerns spets anges
+                                det gemensamma vägvalet. På märket får
+                                avståndet till aktuell avfart eller
+                                korsning anges.
+
+                             Märket får användas endast när
+                                förhållandena är sådana att det
+                                inte är lämpligt att ange de mål som
+                                anges inom klammer med andra
+                                lokaliseringsmärken.
+
 1.5.20
 Lokaliseringsmärke för          Märket anger rekommenderad färdväg
 farligt gods                    för fordon som omfattas av
                                 bestämmelserna om transport av
                                 farligt gods enligt lagen (1982:821)
                                 om transport av farligt gods.
-Förordning (2004:513).
+Förordning (2005:604).
 
 26 § Vägvisning för riksvägar och länsvägar i nummergruppen
 100-499 skall ske enligt vägvisningsplan.
@@ -2372,16 +2422,7 @@ veckor i förväg eller ges tillkänna på något annat lämpligt sätt.
 
 Tecken av polisman
 
-64 § /Upphör att gälla U:2005-07-01/
-För att ge anvisningar för trafiken använder polisman
-tecken. Tecknen får användas även av någon annan person som av
-en myndighet förordnats att övervaka trafiken, ge anvisningar
-för denna eller utföra punktskattekontroll. De tecken som anges
-i 65-67 §§ skall främst användas. Om det behövs får andra
-hjälpmedel användas. Förordning (2002:123).
-
-64 § /Träder i kraft I:2005-07-01/
-För att ge anvisningar för trafiken använder polisman
+64 § För att ge anvisningar för trafiken använder polisman
 tecken. Tecknen får användas även av bilinspektör,
 vägtransportledare och av någon annan person som av en
 myndighet förordnats att övervaka trafiken, ge anvisningar för
