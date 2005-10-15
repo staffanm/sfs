@@ -3,30 +3,37 @@
 
 1 kap. Allmänna bestämmelser
 
+Inledning
+
 1 § I denna förordning finns det bestämmelser om
 
 1. registrering av uppgifter om studier inom grundutbildning
-och forskarutbildning vid statliga universitet och högskolor
-(2 kap.),
+och forskarutbildning vid statliga universitet och högskolor (2
+kap.),
 
 2. rapportering av uppgifter till Statistiska centralbyrån
-(SCB) om studenter för officiell statistik (3 kap.), och
+(SCB) om studenter för officiell statistik (3 kap.),
 
-3. framställning av personalstatistik vid SCB (3 kap.).
+3. framställning av personalstatistik vid SCB (3 kap.), och
+
+4. registrering av uppgifter om studie- och yrkesmeriter vid
+Verket för högskoleservice (4 kap.).
 
 Denna förordning gäller utöver personuppgiftslagen (1998:204)
 vid helt eller delvis automatiserad behandling av
 personuppgifter.
 
-Ett universitet, en högskola och Statistiska centralbyrån är
-personuppgiftsansvariga för behandling av personuppgifter i sin
-verksamhet. Förordning (2001:1133).
+Ett universitet, en högskola, SCB och Verket för
+högskoleservice är personuppgiftsansvariga för behandling av
+personuppgifter i sin verksamhet. Förordning (2005:665).
 
 2 § Bestämmelserna i 2 och 3 kap. gäller även högskolor som har
 ett landsting eller en kommun som huvudman.
 
 3 § Med högskolor avses i fortsättningen både universitet och
 högskolor.
+
+Information
 
 4 § Vid ansökan om antagning till en utbildning, skall
 högskolan informera den sökande om att uppgifter som har
@@ -35,6 +42,20 @@ automatiserat i register. Informationen skall innehålla
 upplysning om att bestämmelser om registren finns i denna
 förordning och omfatta den information som skall lämnas enligt
 personuppgiftslagen (1998:204). Förordning (2001:1133).
+
+Rättelse och skadestånd
+
+5 § Bestämmelserna i personuppgiftslagen (1998:204) om
+rättelse och skadestånd gäller vid behandling av
+personuppgifter enligt denna förordning.
+Förordning (2005:665).
+
+Överklagande
+
+6 § Att beslut om rättelse och avslag på ansökan om
+information enligt 26 § personuppgiftslagen (1998:204) får
+överklagas hos allmän förvaltningsdomstol följer av 22 a §
+förvaltningslagen (1986:223). Förordning (2005:665).
 
 2 kap. Studieregister
 
@@ -69,12 +90,12 @@ kvalitet och jämförbarhet mellan olika högskolor. Förordning
 sökande till utbildning, genomgångna studier, betyg över
 utbildningar och examina bevaras. Härutöver skall uppgifterna
 kunna läggas till grund för uppföljning och utvärdering, för
-administration inom respektive högskola, för ändamål som anges
-i 6 §, för sådan officiell statistik som avses i 3 kap. samt
-för resurstilldelning.
+antagning av studenter, för administration inom respektive
+högskola, för ändamål som anges i 6 §, för sådan officiell
+statistik som avses i 3 kap. samt för resurstilldelning.
 
-Registret får användas även för forskning. Förordning
-(2001:1133).
+Registret får användas även för forskning.
+Förordning (2005:665).
 
 Uppgifter om studenter
 
@@ -99,11 +120,11 @@ verksamhet, och
 8. examen.
 
 Studieregistret skall därutöver innehålla sådana uppgifter som
-krävs för att högskolan skall kunna lämna uppgifter till
-Statistiska centralbyrån enligt 3 kap.
+krävs för att högskolan skall kunna lämna uppgifter till SCB
+enligt 3 kap. och Verket för högskoleservice enligt 4 kap.
 
 Studieregistret får också innehålla de uppgifter om studenter
-som behövs för resultatredovisning. Förordning (2001:1133).
+som behövs för resultatredovisning. Förordning (2005:665).
 
 4 § Uppgifterna i studieregistret om dels deltagande i
 utbildning, dels studieresultat skall föras i kronologisk och
@@ -114,6 +135,13 @@ i enlighet med föreskrifterna om verifikationer i förordningen
 5 § I studieregistret skall varje students identitet anges med
 hjälp av namn och personnummer. Om ett svenskt personnummer
 saknas, anges ett för denna student vid högskolan unikt nummer.
+
+Behandling av känsliga personuppgifter
+
+5 a § En högskola får behandla känsliga personuppgifter som
+avses i 13 § personuppgiftslagen (1998:204) i
+antagningsärenden, om den enskilde har lämnat samtycke till
+detta. Förordning (2005:665).
 
 Utlämnande av uppgifter
 
@@ -333,21 +361,81 @@ Vid tillämpningen av första stycket 4 skall samtliga ämnen vid
 Sveriges lantbruksuniversitet tillsammans anses utgöra ett
 vetenskapsområde. Förordning (2001:1133).
 
-Rättelse och skadestånd
+11 § Ny beteckning 1 kap. 5 § genom förordning (2005:665).
 
-11 § Bestämmelserna i personuppgiftslagen (1998:204) om
-rättelse och skadestånd gäller vid behandling av
-personuppgifter enligt denna förordning. Förordning
-(2001:1133).
+12 § Ny beteckning 1 kap. 6 § genom förordning (2005:665).
 
-Överklagande
+4 kap. Antagningsregister
 
-12 § Att beslut om rättelse och avslag på ansökan om
-information enligt 26 § personuppgiftslagen (1998:204) får
-överklagas hos allmän förvaltningsdomstol följer av 22 a §
-förvaltningslagen (1986:223). Förordning (2001:1133).
+Ändamålet med registret
 
-4 kap. Har upphävts genom förordning (2001:1133).
+1 § Verket för högskoleservice får föra ett antagningsregister
+och där ange uppgifterna individuellt för varje student.
+Registret får föras med hjälp av automatiserad behandling.
+
+Ändamålet med registret är att vara till hjälp för högskolor
+vid antagning av studenter. Härutöver får uppgifterna användas
+för ändamål som anges i 4 §, för sådan officiell statistik som
+avses i 3 kap. samt för forskning. Förordning (2005:665).
+
+Uppgifter om studenter
+
+2 § Uppgifterna i antagningsregistret får hämtas in från
+högskolornas studieregister och får omfatta följande:
+
+1. de uppgifter som anges i 2 kap. 3 § första stycket,
+
+2. behörighetsgrundande meriter,
+
+3. urvalsgrundande meriter och uppgifter, och
+
+4. de uppgifter i övrigt som en student åberopar i samband med
+antagning till en utbildning.
+
+Varje students identitet skall anges på det sätt som föreskrivs
+i 2 kap. 5 §. Förordning (2005:665).
+
+Behandling av känsliga personuppgifter
+
+3 § Verket för högskoleservice får behandla känsliga
+personuppgifter som avses i 13 § personuppgiftslagen (1998:204)
+i antagningsärenden, om den enskilde har lämnat samtycke till
+detta. Förordning (2005:665).
+
+Utlämnande av uppgifter
+
+4 § Uppgifter på medium för automatiserad behandling får lämnas
+ut från antagningsregistret till
+
+1. en högskola, om uppgifterna rör behörighet och underlag för
+urval eller studiemeriter som en student vill tillgodoräkna sig
+eller åberopa i samband med antagning till en utbildning eller
+utfärdande av examen,
+
+2. Centrala studiestödsnämnden, om uppgifterna behövs för
+beviljande och utbetalning av studiestöd,
+
+3. SCB, enligt bestämmelserna i denna förordning, och
+
+4. en studerande eller sökande, om uppgifterna rör henne eller
+honom själv. Förordning (2005:665).
+
+Direktåtkomst
+
+5 § Den registrerade får ha direktåtkomst till sådana
+personuppgifter om sig själv i antagningsregistret som får
+lämnas ut till henne eller honom. Vid sådan direktåtkomst skall
+den registrerades identitet kontrolleras genom en säker metod
+för identifiering. Förordning (2005:665).
+
+Gallring
+
+6 § För gallring av antagningsregistret gäller 10 § första och
+andra styckena arkivlagen (1990:782), om inte något annat
+föreskrivs i denna förordning.
+
+Uppgifter om en student skall gallras fem år efter det att
+uppgifter senast påförts. Förordning (2005:665).
 
 Övergångsbestämmelser
 
