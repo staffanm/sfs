@@ -47,15 +47,13 @@ Södra Roslags        Danderyd        Stockholm
                      Vaxholm
                      Österåker
 
-Enköpings            Enköping        Enköping
+Uppsala              Enköping        Uppsala
                      Håbo
-
-Tierps               Tierp           Tierp           Östhammar
+                     Knivsta
+                     Tierp
+                     Uppsala
                      Älvkarleby
                      Östhammar
-
-Uppsala              Knivsta         Uppsala
-                     Uppsala
 
 Eskilstuna           Eskilstuna      Eskilstuna      Strängnäs
                      Strängnäs
@@ -117,42 +115,23 @@ Eksjö                Aneby           Eksjö
                      Tranås
                      Vetlanda
 
-Jönköpings           Habo            Jönköping
+Jönköpings           Gislaved        Jönköping
+                     Gnosjö
+                     Habo
                      Jönköping
                      Mullsjö
-
-Värnamo              Gislaved        Värnamo Reftele
-                     Gnosjö
                      Vaggeryd
                      Värnamo
 
-Ljungby              Ljungby         Ljungby
-                     Markaryd
-                     Älmhult
-
 Växjö                Alvesta         Växjö
                      Lessebo
+                     Ljungby
+                     Markaryd
                      Tingsryd
                      Uppvidinge
                      Växjö
+                     Älmhult
 
-/Upphör att gälla U:2005-01-17/
-Kalmar               Borgholm        Kalmar
-                     Emmaboda
-                     Kalmar
-                     Mörbylånga
-                     Nybro
-                     Torsås
-
-Oskarshamns          Hultsfred       Oskarshamn
-                     Högsby
-                     Mönsterås
-                     Oskarshamn
-
-Västerviks           Vimmerby        Västervik       Vimmerby
-                     Västervik
-
-/Träder i kraft I:2005-01-17/
 Kalmar               Samtliga        Kalmar          Oskarshamn
                      kommuner i                      Vimmerby
                      Kalmar län                      Västervik
@@ -178,20 +157,6 @@ Skövde               Falköping       Skövde
 Karlskoga            Degerfors       Karlskoga
                      Karlskoga
 
-/Upphör att gälla U:2005-02-14/
-Lindesbergs          Hällefors       Lindesberg      Hällefors
-                     Lindesberg
-                     Ljusnarsberg
-                     Nora
-
-Örebro               Askersund       Örebro
-                     Hallsberg
-                     Kumla
-                     Laxå
-                     Lekeberg
-                     Örebro
-
-/Träder i kraft I:2005-02-14/
 Örebro               Askersund       Örebro          Hällefors
                      Hallsberg
                      Hällefors
@@ -216,18 +181,6 @@ Kristianstads        Bromölla        Kristianstad
                      Kristianstad
                      Östra Göinge
 
-/Upphör att gälla U:2005-07-01/
-Helsingborgs         Bjuv            Helsingborg
-                     Båstad          Ängelholm
-                     Helsingborg
-                     Höganäs
-                     Klippan
-                     Perstorp
-                     Åstorp
-                     Ängelholm
-                     Örkelljunga
-
-/Träder i kraft I:2005-07-01/
 Helsingborgs         Bjuv            Helsingborg
                      Båstad
                      Helsingborg
@@ -243,22 +196,21 @@ Lunds                Eslöv           Landskrona
                      Höör
                      Kävlinge
                      Landskrona
+                     Lomma
                      Lund
                      Staffanstorp
                      Svalöv
 
 Malmö                Burlöv          Malmö
-                     Lomma
                      Malmö
-
-Trelleborgs          Svedala         Trelleborg
-                     Trelleborg
                      Vellinge
 
 Ystads               Simrishamn      Ystad
                      Sjöbo
                      Skurup
+                     Svedala
                      Tomelilla
+                     Trelleborg
                      Ystad
 
 Under Hovrätten för Västra Sverige
@@ -312,46 +264,23 @@ Vänersborgs          Bengtsfors      Vänersborg
                      Vänersborg
                      Åmål
 
-/Upphör att gälla U:2005-02-07/
-Arvika               Arvika          Arvika          Säffle
-                     Eda             Årjäng
-                     Säffle
-                     Årjäng
-
-Karlstads            Forshaga        Karlstad
-                     Grums
-                     Hammarö
-                     Karlstad
-                     Kil
-
-Kristinehamns        Filipstad       Kristinehamn    Filipstad
-                     Kristinehamn
-                     Storfors
-
-Sunne                Hagfors         Sunne           Råda
-                     Munkfors                        Sysslebäck
-                     Sunne
-                     Torsby
-
-/Träder i kraft I:2005-02-07/
 Värmlands            Samtliga        Karlstad        Arvika
                      kommuner i                      Sunne
                      Värmlands län
 
 Under Hovrätten för Nedre Norrland
 
-Bollnäs              Bollnäs         Bollnäs
-                     Ovanåker        Söderhamn
-                     Söderhamn
-
 Gävle                Gävle           Gävle
                      Hofors
                      Ockelbo
                      Sandviken
 
-Hudiksvalls          Hudiksvall      Hudiksvall
+Hudiksvalls          Bollnäs         Hudiksvall      Söderhamn
+                     Hudiksvall
                      Ljusdal
                      Nordanstig
+                     Ovanåker
+                     Söderhamn
 
 Sundsvalls           Sundsvall       Sundsvall
                      Timrå
@@ -407,7 +336,7 @@ Luleå                Arjeplog        Luleå           Arjeplog
                      Luleå
                      Piteå
                      Älvsbyn
-Förordning (2004:1219).
+Förordning (2005:96).
 
 Övergångsbestämmelser
 
@@ -437,3 +366,11 @@ Denna förordning träder i kraft den 7 februari 2005.
 
 Värmlands tingsrätt får t.o.m. den 31 oktober 2006 även ha
 kanslier i Arvika, Kristinehamn och Sunne.
+Förordning (2004:755).
+
+2005:65
+
+Denna förordning träder i kraft den 26 september 2005.
+
+Jönköpings tingsrätt får t.o.m. den 31 augusti 2006 även ha
+kansli i Värnamo.
