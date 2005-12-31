@@ -1,6 +1,5 @@
 
 
-
 Allmänna bestämmelser
 
 1 § I denna förordning finns bestämmelser om verkställighet av
@@ -153,8 +152,8 @@ till tillsynsmyndigheten senast före utgången av år 2002,
 
 - för verksamhet på den högre kravnivån skall säkerhetsrapport
 och intern plan för räddningsinsatser inges till
-tillsynsmyndigheten senast den 31 december 2005.
-Förordning (2003:1144).
+tillsynsmyndigheten senast den 30 juni 2006.
+Förordning (2005:817).
 
 2005:352
 
@@ -179,7 +178,7 @@ Denna bilaga består av DEL 1 som innehåller en förteckning av
 farliga ämnen och DEL 2 som innehåller en förteckning av
 särskilda kategorier av farliga ämnen.
 
-Följande gäller för tillämpningen av denna bilaga
+Följande gäller för tillämpningen av denna bilaga.
 
 1. Gas är varje ämne som har ett absolut ångtryck på 101,3 kPa
 eller högre vid 20 grader C. Vätska är varje ämne som inte
@@ -233,39 +232,47 @@ en allvarlig olyckshändelse någon annanstans inom den.
 flera ämnen som anges i denna bilaga i mängder som understiger
 de gränsmängder som anges för varje ämne skall en summering
 göras för att fastställa om verksamheten omfattas av
-bestämmelserna.
+bestämmelserna. Denna summering görs enligt följande formel:
+(Summatkn) qx/Qx=q1/Q1+q2/Q2+....+qn/Qn där qx betecknar den
+förekommande mängden farligt ämne x för "ämne 1" t.o.m.
+"ämne n" i förteckningarna över ämne och kategorier av ämnen
+i denna bilaga och Qx betecknar den i denna bilaga angivna
+gränsmängden för respektive ämne eller kategori av ämnen. Denna
+formel tillämpas för
 
-Denna summering görs enligt följande formel:
-
-(Summatkn) qx/Qx=q1/Q1+q2/Q2+....+qn/Qn
-
-där qx betecknar den förekommande mängden farligt ämne x för
-"ämne 1" t.o.m. "ämne n" i förteckningarna över ämne och
-kategorier av ämnen i denna bilaga och Qx betecknar den i denna
-bilaga angivna gränsmängden för respektive ämne eller kategori
-av ämnen.
-
-Denna formel tillämpas för
-
-1. summering av ämnen och beredningar som är förtecknade i del
+a) summering av ämnen och beredningar som är förtecknade i del
 1 och som är klassificerade som giftiga eller mycket giftiga,
 tillsammans med ämnen och beredningar som omfattas av
 kategorierna 1 eller 2 i del 2,
 
-2. summering av ämnen och beredningar som är förtecknade i del
+b) summering av ämnen och beredningar som är förtecknade i del
 1 och som är klassificerade som oxiderande, explosiva,
 brandfarliga, mycket brandfarliga eller extremt brandfarliga,
 tillsammans med ämnen och beredningar som omfattas av
-kategorierna 3, 4, 5, 6, 7 eller 8 i del 2.
+kategorierna 3, 4, 5, 6, 7 eller 8 i del 2, och
 
-3. summering av ämnen och beredningar som anges i del 1 och som
+c) summering av ämnen och beredningar som anges i del 1 och som
 är klassificerade som miljöfarliga (R50 inklusive R50/53 eller
 R51/53), tillsammans med ämnen och beredningar som omfattas av
 kategori 9 i del 2.
 
-Om någon av summorna under punkterna 1, 2 eller 3 är lika med
+Om någon av summorna under punkterna a, b eller c är lika med
 eller större än ett (1) skall verksamheten omfattas av
 bestämmelserna.
+
+9. Om en verksamhet omfattas av denna förordning på grund av
+att ändringar skett i föreskrifter som avser de
+klassificeringar i riskfraser eller riskgrupper som anges i
+bilagan, eller omfattas på en annan kravnivå än tidigare genom
+sådana ändringar, gäller följande.
+
+a) Handlingsprogram skall upprättas och anmälan inges till
+tillsynsmyndigheten senast tre månader efter det att
+verksamheten kommit att omfattas av förordningen.
+
+b) Säkerhetsrapport och intern plan för räddningsinsatser skall
+inges till tillsynsmyndigheten senast ett år efter det att
+verksamheten kommit att omfattas av kravet på säkerhetsrapport.
 
 DEL 1 - FARLIGA ÄMNEN
 
@@ -577,4 +584,4 @@ kontakt med vatten" (inklusive
 R14/15)                                 100             500
 - R29 "avger giftiga gaser vid
 kontakt med vatten".                    50              200
-Förordning (2005:352).
+Förordning (2005:817).
