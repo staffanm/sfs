@@ -48,9 +48,9 @@ om ett utländskt företag etablerar sig i Sverige enligt 3 c § 1
 eller 2 kap. 7 § första stycket, skall etableringen anses som
 en enda filial, även om flera driftställen inrättas,
 
-8. koncern: detsamma som i 1 kap. 5 och 6 §§ aktiebolagslagen
-(1975:1385), varvid vad som sägs om moderbolag tillämpas även
-på andra juridiska personer än aktiebolag,
+8. koncern: detsamma som i 1 kap. 11 och 12 §§ aktiebolagslagen
+(2005:551), varvid vad som sägs om moderbolag tillämpas även på
+andra juridiska personer än aktiebolag,
 
 9. startkapital: det kapital som definieras i artikel 34.2.1
 och 34.2.2 i Europaparlamentets och rådets direktiv 2000/12/EG
@@ -61,8 +61,8 @@ Ett värdepappersbolag och ett annat företag skall anses ha nära
 förbindelser, om
 
 1. det ena företaget direkt eller indirekt genom dotterbolag
-äger 20 procent eller mer av kapitalet eller disponerar över 20
-procent eller mer av samtliga röster i det andra företaget,
+äger minst 20 procent av kapitalet eller disponerar över minst
+20 procent av samtliga röster i det andra företaget,
 
 2. det ena företaget direkt eller indirekt utgör moderföretag
 till det andra eller det finns en annan likartad förbindelse
@@ -83,7 +83,7 @@ eller
 att personens ställning motsvarar den som ett moderföretag har
 i förhållande till ett dotterföretag eller det finns annan
 likartad förbindelse mellan honom och värdepappersbolaget.
-Lag (2004:309).
+Lag (2005:913).
 
 Allmänna bestämmelser om tillståndsplikt
 
@@ -425,11 +425,11 @@ Om bolaget kommer att ha nära förbindelser med någon annan, får
 tillstånd meddelas endast om förbindelserna inte hindrar en effektiv
 tillsyn av värdepappersbolaget. Lag (1996:752).
 
-2 § Ansökan om tillstånd får göras innan bolaget har registrerats.
-Har sådan ansökan gjorts inom sex månader från
-stiftelseurkundens undertecknande, räknas den i 2 kap. 9 § första
-stycket aktiebolagslagen (1975:1385) föreskrivna tiden från
-tillståndsbeslutet. Lag (1994:2015).
+2 § Ansökan om tillstånd får göras innan bolaget har
+registrerats. Har sådan ansökan gjorts inom sex månader från
+stiftelseurkundens undertecknande, räknas den i 2 kap. 22 §
+aktiebolagslagen (2005:551) föreskrivna tiden från
+tillståndsbeslutet. Lag (2005:913).
 
 3 § Ett värdepappersbolags bolagsordning skall godkännas av
 finansinspektionen i samband med att bolaget får tillstånd att driva
@@ -517,7 +517,7 @@ eller
 
 3. kan leda till att revisorn avstyrker att balansräkningen
 eller resultaträkningen fastställs eller till anmärkning enligt
-10 kap. 30 eller 31 § aktiebolagslagen (1975:1385), skall
+9 kap. 33 eller 34 § aktiebolagslagen (2005:551), skall
 revisorn omgående rapportera detta till Finansinspektionen.
 
 Revisorn har en motsvarande rapporteringsskyldighet om han
@@ -525,12 +525,11 @@ eller hon får kännedom om förhållanden som avses i första
 stycket vid fullgörande av uppdrag som revisorn har i
 värdepappersbolagets moderföretag eller dotterföretag eller ett
 företag som har en likartad förbindelse med
-värdepappersbolaget. Lag (1998:763).
+värdepappersbolaget. Lag (2005:913).
 
 5 b § Vad som sägs om revisor i 5 a § skall också tillämpas i
-fråga om särskild granskare som utsetts enligt 11 kap. 21 §
-aktiebolagslagen (1975:1385) i värdepappersbolag.
-Lag (1998:763).
+fråga om särskild granskare enligt 10 kap. 21 §
+aktiebolagslagen (2005:551) i värdepappersbolag. Lag (2005:913).
 
 Kreditinstitut
 
@@ -694,23 +693,24 @@ betryggande säkerhet.
 Lämnas aktier som säkerhet för kredit och ingår som en mindre
 del bland dessa även aktier i ett värdepappersbolag som lämnar
 krediten eller dess moderbolag, får värdepappersbolaget trots
-förbuden i 7 kap. 2 § aktiebolagslagen (1975:1385) och 6 a kap.
+förbuden i 19 kap. 3 § aktiebolagslagen (2005:551) och 6 a kap.
 2 § försäkringsrörelselagen (1982:713) som pant ta emot även
 dessa aktier. Regeringen eller, efter regeringens bemyndigande,
 Finansinspektionen får utfärda närmare föreskrifter om vilka
-begränsningar som skall gälla i sådana fall. Lag (2000:71).
+begränsningar som skall gälla i sådana fall. Lag (2005:913).
 
-7 § Vid kreditgivning enligt 4 § första stycket 5 gäller i stället för
-bestämmelserna i 12 kap. 7 § aktiebolagslagen (1975:1385) följande
-för värdepappersbolag.
+7 § Vid kreditgivning enligt 4 § första stycket 5 gäller för
+värdepappersbolag bestämmelserna i denna paragraf och i 7 a § i
+stället för bestämmelserna i 21 kap. aktiebolagslagen
+(2005:551).
 
 Ett värdepappersbolag får inte på andra villkor än sådana som
 bolaget normalt ställer upp lämna kredit till
 
 1. en styrelseledamot,
 
-2. en person som ensam eller i förening med någon annan får avgöra
-kreditärenden som ankommer på styrelsen,
+2. en person som ensam eller i förening med någon annan får
+avgöra kreditärenden som ankommer på styrelsen,
 
 3. en anställd som har en ledande ställning inom bolaget,
 
@@ -720,27 +720,43 @@ motsvarar minst tre procent av hela aktiekapitalet,
 5. den som är make eller sambo till någon som avses i 1-4 eller
 
 6. en juridisk person i vilken någon som avses i 1-5 har ett
-väsentligt ekonomiskt intresse i egenskap av delägare eller medlem.
+väsentligt ekonomiskt intresse i egenskap av delägare eller
+medlem.
 
-Finansinspektionen prövar om en anställd har sådan ledande ställning
-som avses i andra stycket 3.
+Finansinspektionen prövar om en anställd har sådan ledande
+ställning som avses i andra stycket 3.
 
-Värdepappersbolagets styrelse skall avgöra ärenden om kredit till de
-personer och företag som avses i andra stycket. Bolaget skall föra in
-uppgifter om sådana krediter i en förteckning. Regeringen eller,
-efter regeringens bemyndigande, Finansinspektionen får meddela
-föreskrifter om vilka uppgifter som skall antecknas i förteckningen.
+Värdepappersbolagets styrelse skall avgöra ärenden om kredit
+till de personer och företag som avses i andra stycket. Bolaget
+skall föra in uppgifter om sådana krediter i en förteckning.
+Regeringen eller, efter regeringens bemyndigande,
+Finansinspektionen får meddela föreskrifter om vilka uppgifter
+som skall antecknas i förteckningen.
 
-Andra-fjärde styckena tillämpas också på krediter mot säkerhet av
-borgen eller fordringsbevis som utfärdas av någon som avses i andra
-stycket. Detsamma gäller för en fordran som bolaget förvärvar och för
-vilken någon som avses i andra stycket är betalningsskyldig.
-Lag (1996:1011).
+Andra-fjärde styckena tillämpas också på krediter mot säkerhet
+av borgen eller fordringsbevis som utfärdas av någon som avses
+i andra stycket. Detsamma gäller för en fordran som bolaget
+förvärvar och för vilken någon som avses i andra stycket är
+betalningsskyldig. Lag (2005:913).
 
-7 a § Ett värdepappersbolag får inte lämna lån i syfte att
-gäldenären skall förvärva aktier i bolaget, om det sammanlagda
-beloppet av sådana lån därefter skulle överstiga bolagets fria
-egna kapital. Lag (1998:1503).
+7 a § Ett värdepappersbolag får ge förskott, lämna lån eller
+ställa säkerhet för lån i syfte att gäldenären skall förvärva
+aktier i bolaget eller överordnat bolag i samma koncern, bara
+om det därefter finns full täckning för det bundna egna
+kapitalet. Vid beräkningen av om det finns full täckning för
+det bundna egna kapitalet skall förskott och lån enligt första
+meningen behandlas som fordringar utan värde samt säkerheter
+enligt första meningen behandlas som bolagets skuld.
+
+Även om det inte finns något hinder enligt första stycket får
+förskott, lån eller säkerhet lämnas endast i den mån det
+framstår som försvarligt med hänsyn till
+
+1. de krav som verksamhetens art, omfattning och risker ställer
+på storleken av det egna kapitalet, och
+
+2. bolagets konsolideringsbehov, likviditet och ställning i
+övrigt. Lag (2005:913).
 
 Avbrytande av handel
 
@@ -806,8 +822,8 @@ stycket. Lag (2004:309).
 
 5 § Ett svenskt värdepappersinstitut som har tillstånd att
 driva värdepappersrörelse enligt 1 kap. 3 § 3 eller 5 får,
-trots begränsningarna i 7 kap. 7 och 23 §§ aktiebolagslagen
-(1975:1385) samt 6 a kap. 23 § försäkringsrörelselagen
+trots begränsningarna i 19 kap. 7 och 14 §§ aktiebolagslagen
+(2005:551) samt 6 a kap. 23 § försäkringsrörelselagen
 (1982:713), förvärva egna aktier och aktier i moderbolag för
 att underlätta sådan rörelse. Detta gäller dock endast aktier
 som är noterade vid en svensk eller utländsk börs, en
@@ -817,9 +833,9 @@ Innehavet av sådana aktier som sägs i första stycket får inte
 överstiga fem procent av samtliga aktier i något av bolagen.
 
 För aktier som har förvärvats med stöd av första stycket gäller
-inte bestämmelserna i 7 kap. 10, 17-22 och 25 §§
+inte bestämmelserna i 19 kap. 9, 16 och 31-37 §§
 aktiebolagslagen samt 6 a kap. 25 § försäkringsrörelselagen.
-Lag (2000:71).
+Lag (2005:913).
 
 5 kap. Kapitaltäckning m.m.
 
@@ -844,13 +860,9 @@ bemyndigande, Finansinspektionen. Lag (1994:2015).
 Finansinspektionen får meddela föreskrifter om ett värdepappersbolags
 största tillåtna valutaposition. Lag (1996:1011).
 
-4 § har upphävts genom lag (1994:2015).
+4 § Har upphävts genom lag (1994:2015).
 
-5 § Ett värdepappersbolag och ett utländskt värdepappersföretag skall ha
-en försäkring för skadeståndsskyldighet som de kan komma att ådra sig
-vid utförande av tjänster i rörelsen. Närmare föreskrifter om sådan
-försäkring får meddelas av regeringen eller, efter regeringens
-bemyndigande, finansinspektionen.
+5 § Ny beteckning 5 kap. 2 § genom lag (1994:2015).
 
 6 kap.Tillsyn
 
