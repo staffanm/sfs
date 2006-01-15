@@ -499,9 +499,16 @@ författningssamling             KOVFS           Utnyttjas också av
                                                 Allmänna
                                                 reklamationsnämnden
 
+/Upphör att gälla U:2006-01-15/
 Kriminalvårdsstyrelsen
 
 Kriminalvårdsverkets            KVVFS
+författningssamling
+
+/Träder i kraft I:2006-01-15/
+Kriminalvården
+
+Kriminalvårdens                 KVFS
 författningssamling
 
 Krisberedskapsmyndigheten
@@ -613,6 +620,7 @@ Skogsstyrelsen
 Skogsstyrelsens                 SKSFS
 författningssamling
 
+/Upphör att gälla U:2006-01-15/
 Socialstyrelsen
 
 Socialstyrelsens                SOSFS           Utnyttjas också av
@@ -621,6 +629,16 @@ författningssamling                             Rättsmedicinalverket,
                                                 och Statens institut
                                                 för särskilt
                                                 utbildningsstöd
+
+/Träder i kraft I:2006-01-15/
+Socialstyrelsen
+
+Socialstyrelsens                SOSFS           Utnyttjas också av
+författningssamling                             Rättsmedicinalverket,
+                                                Smittskyddsinstitutet
+                                                och Myndigheten för
+                                                handikappolitisk
+                                                samordning
 
 Statens energimyndighet
 
@@ -632,7 +650,7 @@ Statens folkhälsoinstitut
 Statens folkhälsoinstituts
 författningssamling             FHIFS
 
-
+/Upphör att gälla U:2006-01-15/
 Statens jordbruksverk
 
 Statens jordbruksverks          SJVFS           Utnyttjas också av
@@ -640,6 +658,13 @@ författningssamling                             Centrala försöksdjurs-
                                                 nämnden, Statens ut-
                                                 sädeskontroll och Sta-
                                                 tens växtsortnämnd
+
+/Träder i kraft I:2006-01-15/
+Statens jordbruksverk
+
+Statens jordbruksverks          SJVFS           Utnyttjas också av
+författningssamling                             Centrala
+                                                försöksdjursnämnden
 
 Statens kulturråd
 
