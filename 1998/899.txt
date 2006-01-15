@@ -566,45 +566,7 @@ miljökonsekvensbeskrivning enligt 6 kap. miljöbalken finns i
 
 Bemyndigande att meddela generella föreskrifter
 
-47 § /Upphör att gälla U:2005-08-13/
-Naturvårdsverket får meddela närmare föreskrifter om
-vilka försik-tighetsmått som skall gälla vid
-
-1. träskyddsbehandling genom doppning,
-
-2. träskyddsbehandling genom tryck- eller vakuumimpregnering,
-
-3. oorganisk ytbehandling genom fosfatering,
-
-4. utsläpp av industriellt avloppsvatten,
-
-5. rening av avloppsvatten från tätbebyggelse,
-
-6. utsläpp till luft från anläggningar för förbränning av
-kommunalt avfall som har beviljats tillstånd enligt
-miljöskyddslagen (1969:387) eller miljöbalken,
-
-7. utsläpp till luft av kväveoxider, svaveldioxid och stoft
-från förbränningsanläggningar med en installerad tillförd
-effekt om 50 MW eller mer i enlighet med Europaparlamentets och
-rådets direktiv 2001/80/EG av den 23 oktober 2001 om
-begränsning av utsläpp till luften av vissa föroreningar från
-stora förbränningsanläggningar3,
-
-8. användning av avloppsslam i jordbruk,
-
-9. utsläpp av flyktiga organiska föreningar förorsakade av
-användning av organiska lösningsmedel i vissa verksamheter och
-anläggningar i enlighet med rådets direktiv 1999/13/EG av den
-11 mars 1999 om begränsning av utsläpp av flyktiga organiska
-föreningar förorsakade av användning av organiska lösningsmedel
-i vissa verksamheter och anläggningar 4, och
-
-10. lagring, tömning, demontering och annat omhändertagande av
-skrotbilar. Förordning (2002:112).
-
-47 § /Träder i kraft I:2005-08-13/
-Naturvårdsverket får meddela närmare föreskrifter om vilka
+47 § Naturvårdsverket får meddela närmare föreskrifter om vilka
 försiktighetsmått som skall gälla vid
 
 1. träskyddsbehandling genom doppning,
@@ -1118,7 +1080,6 @@ brytning av stenkol             10.1-2          B
 
 provbrytning av stenkol         10.1-3          B
 
-/Träder i kraft I:2005-08-01/
 täkt av torv,
 med undantag för
 
@@ -1195,15 +1156,6 @@ toriummalm                      13.2-2          B
 
 Andra mineral
 
-/Upphör att gälla U:2005-08-01/
-berg- eller gruskrossverk
-eller sorteringsverk för
-sand, grus, sten eller
-morän om verksamheten
-inte omfattas av prövning
-enligt 12 kap. miljöbalken      14.2-1          C
-
-/Träder i kraft I:2005-08-01/
 täkt av berg, sten, grus,
 sand, lera, jord eller andra
 jordarter, med undantag för
@@ -2855,7 +2807,6 @@ enligt lagen (1984:3) om
 kärnteknisk verksamhet eller
 strålskyddslagen (1988:220)     90.004-4        A
 
-/Träder i kraft I:2005-08-07/
 KVICKSILVERAVFALL
 
 anläggning för permanent
@@ -3368,6 +3319,7 @@ i Avsnitt 1 beaktas.
 den är känd. Om denna kvantitet inte är känd skall hela
 föremålet betraktas som explosivt.
 
+/Upphör att gälla U:2006-01-15/
 7. Den mängd farligt ämne som skall beaktas vid tillämpningen
 av föreskrifterna är den maximala mängd som förekommer eller
 kan förekomma. Farliga ämnen som förekommer i en verksamhet
@@ -3418,6 +3370,67 @@ av bilagan.
 Om någon av summorna under punkterna 1, 2 eller 3 är lika med
 eller större än ett (1) skall verksamheten omfattas av
 bestämmelserna.
+
+/Träder i kraft I:2006-01-15/
+7. Den mängd farligt ämne som skall beaktas vid tillämpningen
+av föreskrifterna är den maximala mängd som förekommer eller
+kan förekomma vid ett och samma tillfälle. Farliga ämnen som
+förekommer i en verksamhet endast i mängder som är lika med
+eller understiger 2 procent av den angivna mängden, i Avsnitt 1
+och Avsnitt 2 i denna del av bilagan, skall inte tas med i
+beräkningen av den totala mängd som förekommer om de är
+placerade inom verksamheten så att de inte kan utlösa en
+allvarlig olyckshändelse någon annanstans inom den.
+
+8. Om det inom en verksamhet förekommer eller kan förekomma
+flera ämnen som anges i denna del av bilagan i mängder som
+understiger de gränsmängder som anges för varje ämne skall en
+summering göras för att fastställa om verksamheten omfattas av
+bestämmelserna. Denna summering görs enligt följande formel:
+(Summatkn) qx/Qx=q1/Q1+q2/Q2+....+qn/Qn där qx betecknar den
+förekommande mängden farligt ämne x för "ämne 1" t.o.m.
+"ämne n" i förteckningarna över ämne och kategorier av ämnen i
+denna del av bilagan och Qx betecknar den i denna del av bilagan
+angivna gränsmängden för respektive ämne eller kategori av ämnen.
+Denna formel tillämpas för
+
+a) summering av ämnen och beredningar som är förtecknade i
+Avsnitt 1 i denna del av bilagan och som är klassificerade som
+giftiga eller mycket giftiga, tillsammans med ämnen och
+beredningar som omfattas av kategorierna 1 eller 2 i Avsnitt 2
+i denna del av bilagan,
+
+b) summering av ämnen och beredningar som är förtecknade i
+Avsnitt 1 i denna del av bilagan och som är klassificerade som
+oxiderande, explosiva, brandfarliga, mycket brandfarliga eller
+extremt brandfarliga, tillsammans med ämnen och beredningar som
+omfattas av kategorierna 3, 4, 5, 6, 7 eller 8 i Avsnitt 2 i
+denna del av bilagan,
+
+c) summering av ämnen och beredningar som anges i Avsnitt 1 i
+denna del av bilagan och som är klassificerade som miljöfarliga
+(R50 inklusive R50/53 eller R51/53), tillsammans med ämnen och
+beredningar som omfattas av kategori 9 i Avsnitt 2 i denna del
+av bilagan.
+
+Om någon av summorna i a), b) eller c) är lika med eller större
+än ett (1) skall verksamheten omfattas av bestämmelserna.
+
+9. Om ändrade bestämmelser i fråga om ett ämnes klassificering
+i en sådan riskfras eller riskgrupp som avses i denna bilaga
+medför att en verksamhet som omfattas av avdelning 4 i bilagan
+blir tillståndspliktig gäller följande.
+
+a) Om verksamheten påbörjats före ändringen, får den trots
+tillståndskravet fortsätta att bedrivas i ett år från
+ändringen. Därefter får den bedrivas endast om det finns
+tillstånd för den eller verksamhetsutövaren inom ettårsfristen
+har ansökt om tillstånd och tillståndsmyndigheten inte beslutar
+annat.
+
+b) Det som sägs i a) gäller inte om tillståndsmyndigheten
+enligt 9 kap. 6 § andra stycket miljöbalken har förelagt
+verksamhetsutövaren att ansöka om tillstånd.
 
 Avsnitt 1 - Farliga ämnen
 
@@ -3782,4 +3795,4 @@ fosfater)
 
 - Syretärande ämnen (mätbara med hjälp av parametrar som t.ex.
 BOD och COD)
-Förordning (2005:623).
+Förordning (2005:1041).
