@@ -1199,6 +1199,26 @@ Taxistation                     Märket anger den i färdriktningen räknat
                                 bortre gränsen för uppställningsplats
                                 för taxibilar.
 
+
+/Träder i kraft I:2006-03-15/
+1.4.35
+Automatisk trafikövervakning    Märket anger att automatisk
+                                övervakning med kamera eller
+                                motsvarande sker på en plats eller
+                                vägsträcka för övervakning av
+                                trafiken, beskattning eller
+                                avgiftsbeläggning. Märket anger
+                                vidare att registrering av
+                                personuppgifter kan ske enligt
+                                personuppgiftslagen (1998:204),
+                                lagen (2001:558) om
+                                vägtrafikregister eller annan
+                                registerlag. Gäller anvisningen
+                                en längre vägsträcka, anges
+                                sträckans längd på tilläggstavla
+                                1.11.1. Märket upprepas på
+                                lämpliga avstånd.
+
 1.4.40
 Anvisning om föreskriven        Märkena anger färdväg för cyklister och
 färdväg för cyklister och       förare av mopedklass II och används
@@ -1208,10 +1228,59 @@ mopedförare                     tillsammans med någon av markeringarna
                                 på platsen.
 
 1.4.40.10
-Stora svängen           Märket anger att cyklister och förare av moped
-                        klass II skall färdas på det sätt som anges i
-                        3 kap. 28 § trafikförordningen (1998:1276).
-Förordning (2005:604).
+Stora svängen                   Märket anger att cyklister och förare
+                                av moped klass II skall färdas på det
+                                sätt som anges i 3 kap. 28 §
+                                trafikförordningen (1998:1276).
+
+/Träder i kraft I:2006-03-15/
+1.4.41
+Lång tunnel                     Märket anger en tunnel. Märket
+                                skall användas för att märka ut
+                                tunnlar som är längre än 500 meter.
+                                Märket får användas även för att
+                                märka ut tunnlar som är kortare än
+                                500 meter.
+
+                             Tunnelns längd skall anges på den
+                                nedre delen av märket.
+
+                             I tunnlar som är längre än tre
+                                kilometer upprepas märket efter
+                                varje kilometer. Kvarvarande
+                                tunnellängd anges på den nedre
+                                delen av märket.
+
+                             Tunnelns namn får infogas i märket.
+
+1.4.42
+Nöduppställningplats            Märket anger plats för uppställning
+                                av fordon vid haveri, motorstopp
+                                eller liknande.
+
+                             Om det finns nödtelefon eller
+                                brandsläckare på platsen skall
+                                detta anges på märket.
+
+                             Märket får även användas för
+                                vägvisning till närmaste
+                                nöduppställningsplats. Avståndet
+                                till nöduppställningsplatsen skall
+                                då infogas i märket eller anges med
+                                en tilläggstavla.
+
+1.4.43
+Nödutgång                       Märket anger nödutgång för gående.
+
+1.4.44
+Utrymningsväg                   Märket anger riktningen till
+                                nödutgång eller motsvarande för
+                                gående.
+
+                             Märket skall sättas upp med högst
+                                25 meters mellanrum och ange
+                                avståndet till nödutgången.
+Förordning (2006:63).
 
 25 § Lokaliseringsmärken för vägvisning är följande.
 Förordning (1988:1601).
@@ -1538,6 +1607,11 @@ vägtrafikinformation            vägtrafikinformation. För att märket
                                 ges i regelbundet återkommande
                                 sändningar som är avsedda att täcka ett
                                 större område.
+
+/Träder i kraft I:2006-03-15/
+1.8.1.4
+Brandsläckare
+Förordning (2006:63).
 
 29 § För upplysning om serviceanläggningar m. m. kan lokaliseringsmärken
 användas enligt följande. Förordning (1988:1601).
