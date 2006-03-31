@@ -5,10 +5,9 @@ Tillämpningsområde
 
 1 § Denna förordning gäller utöver personuppgiftslagen
 (1998:204) vid automatiserad behandling av personuppgifter i
-Migrationsverkets, Utlänningsnämndens, Integrationsverkets,
-Rikspolisstyrelsens och polismyndigheternas samt
-utlandsmyndigheternas verksamhet enligt utlännings- och
-medborgarskapslagstiftningen.
+Migrationsverkets, Integrationsverkets, Rikspolisstyrelsens och
+polismyndigheternas samt utlandsmyndigheternas verksamhet
+enligt utlännings- och medborgarskapslagstiftningen.
 
 Med verksamhet enligt utlännings- och
 medborgarskapslagstiftningen enligt första stycket avses
@@ -32,18 +31,17 @@ utlänningar som enligt lag eller annan författning handläggs av
 Integrationsverket.
 
 En registrerad har inte rätt att motsätta sig behandling av
-personuppgifter enligt denna förordning.
+personuppgifter enligt denna förordning. Förordning (2006:124).
 
 Personuppgiftsansvar
 
 2 § Migrationsverket är personuppgiftsansvarigt för den
 behandling av personuppgifter som verket utför,
-Utlänningsnämnden för den behandling som nämnden utför,
 Rikspolisstyrelsen för den behandling som styrelsen utför och
 polismyndigheten för den behandling som myndigheten utför.
 Migrationsverket är även personuppgiftsansvarigt för den
 behandling som Integrationsverket och en utlandsmyndighet
-utför.
+utför. Förordning (2006:124).
 
 Verksamhetsregister
 
@@ -107,7 +105,7 @@ Uppgifter som behövs för mottagandet av asylsökande m.fl.
 12. uppgifter om utbildning, yrke och anställning,
 
 Uppgifter som behövs för förvar och andra tvångsåtgärder enligt
-utlänningslagen (1989:529)
+utlänningslagen (2005:716)
 
 13. uppgifter om inskrivning vid förvarsenhet,
 
@@ -115,7 +113,7 @@ utlänningslagen (1989:529)
 förhållanden om uppgifterna är oundgängligen nödvändiga för
 förvarstagandet,
 
-Uppgifter som behövs för verkställighet enligt 8 kap.
+Uppgifter som behövs för verkställighet enligt 12 kap.
 utlänningslagen
 
 15. uppgifter om utresan,
@@ -129,8 +127,8 @@ Uppgifter om beslut
 17. beslut i frågor om uppehålls- och arbetstillstånd,
 återreseförbud eller visering,
 
-18. beslut om resedokument eller flyktingförklaring enligt
-3 kap. utlänningslagen,
+18. beslut om resedokument eller flyktingförklaring enligt 4
+kap. utlänningslagen,
 
 19. beslut om tvångsåtgärder enligt utlänningslagen,
 
@@ -140,13 +138,14 @@ m.fl.,
 21. beslut som rör ersättning för och bosättning av
 utlänningar,
 
-22. beslut som rör verkställighet enligt 8 kap.
+22. beslut som rör verkställighet enligt 12 kap.
 utlänningslagen,
 
 23. beslut om förvärv, förlust eller bibehållande av svenskt
 medborgarskap,
 
 24. uppgifter om delgivning och expediering av beslut.
+Förordning (2006:124).
 
 Känsliga personuppgifter
 
@@ -157,12 +156,13 @@ i 3 § 1 och 2.
 
 Direktåtkomst
 
-6 § Rikspolisstyrelsen, polismyndigheter, Utlänningsnämnden,
-Integrationsverket och utlandsmyndigheter får ha direktåtkomst
-till Migrationsverkets verksamhetsregister. Myndigheternas
+6 § Rikspolisstyrelsen, polismyndigheter, Integrationsverket
+och utlandsmyndigheter får ha direktåtkomst till
+Migrationsverkets verksamhetsregister. Myndigheternas
 direktåtkomst skall begränsas till att endast avse
 personuppgifter som en tjänsteman oundgängligen behöver för att
 fullgöra sina arbetsuppgifter i verksamhet enligt 1 §.
+Förordning (2006:124).
 
 Sökbegrepp
 
@@ -172,30 +172,30 @@ sökbegrepp.
 
 Rättsfallsregister
 
-8 § Migrationsverket och Utlänningsnämnden får föra
-automatiserade register för återsökning av vägledande
-avgöranden, rättsutredningar och liknande rättslig information
-(rättsfallsregister). Ett rättsfallsregister får inte innehålla
-personuppgifter som direkt pekar ut den registrerade.
+8 § Migrationsverket får föra automatiserade register för
+återsökning av vägledande avgöranden, rättsutredningar och
+liknande rättslig information (rättsfallsregister). Ett
+rättsfallsregister får inte innehålla personuppgifter som
+direkt pekar ut den registrerade.
 
 De personuppgifter som finns i ett rättsfallsregister får föras
 över till en stat som inte ingår i Europeiska unionen och
 heller inte är ansluten till Europeiska ekonomiska
-samarbetsområdet.
+samarbetsområdet. Förordning (2006:124).
 
 Fingeravtrycksregister
 
 Ändamål
 
 9 § Migrationsverket får föra ett register över fingeravtryck
-och fotografier som tas med stöd av 5 kap. 5 § utlänningslagen
-(1989:529) (fingeravtrycksregister). Registret får föras med
+och fotografier som tas med stöd av 9 kap. 8 § utlänningslagen
+(2005:716) (fingeravtrycksregister). Registret får föras med
 hjälp av automatisk databehandling.
 
 Registret får endast användas vid prövning av ansökningar om
-uppehållstillstånd där skäl som avses i 3 kap. 2 eller 3 §
+uppehållstillstånd där skäl som avses i 4 kap. 1 eller 2 §
 utlänningslagen åberopas samt i ärenden om avvisning och
-utvisning.
+utvisning. Förordning (2006:124).
 
 Innehåll
 
@@ -234,8 +234,7 @@ inte användas som sökbegrepp.
 
 Direktåtkomst
 
-14 § Utlänningsnämnden får ha direktåtkomst till
-landinformationsregistret.
+14 § Har upphävts genom förordning (2006:124).
 
 Rättelse och skadestånd
 
@@ -245,12 +244,12 @@ personuppgifter enligt denna förordning.
 
 Överklagande
 
-16 § Migrationsverkets, Utlänningsnämndens, Rikspolisstyrelsens
-eller en polismyndighets beslut om att inte meddela rättelse
-eller om att inte lämna information som skall lämnas efter
-ansökan får överklagas. I 22 a § förvaltningslagen (1986:223)
-finns bestämmelser om överklagande hos allmän
-förvaltningsdomstol.
+16 § Migrationsverkets, Rikspolisstyrelsens eller en
+polismyndighets beslut om att inte meddela rättelse eller om
+att inte lämna information som skall lämnas efter ansökan får
+överklagas. I 22 a § förvaltningslagen (1986:223) finns
+bestämmelser om överklagande hos allmän förvaltningsdomstol.
+Förordning (2006:124).
 
 Övergångsbestämmelser
 
