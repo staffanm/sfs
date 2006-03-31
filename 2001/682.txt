@@ -39,14 +39,14 @@ det ändamål för vilket behandlingen utförs, följande
 personuppgifter behandlas:
 
 1. namn, personnummer eller annan identifieringsuppgift,
-adress, telefonnummer, yrke och utbildning, kön, medborgarskap
-och språk,
+fotografi, adress, telefonnummer, yrke och utbildning, kön,
+medborgarskap och språk,
 
 2. kommun där den registrerade är folkbokförd och
 socialdistrikt,
 
 3. namn, adress, telefonnummer, telefaxnummer och e-postadress
-beträffande
+som rör
 
 a) ombud eller ställföreträdare för den registrerade,
 
@@ -104,11 +104,13 @@ verkställighet av påföljd som avser den registrerade,
 18. tidpunkten för bortfallande av fängelse enligt 35 kap. 8
 och 9 §§ brottsbalken eller förvandlingsstraff för böter eller
 vite enligt 18 och 21 §§ bötesverkställighetslagen (1979:189),
+och
 
 19. grunden för intagning i häkte eller kriminalvårdsanstalt i
 fall som avses i 1 § första stycket 8 lagen om behandling av
 personuppgifter inom kriminalvården (2001:617) eller anledning
 till transport inom kriminalvårdens transporttjänst.
+Förordning (2005:1025).
 
 Behandling av känsliga uppgifter
 
@@ -129,8 +131,8 @@ behandlas:
 kriminalvårdsanstalt med angivande av häktet eller anstalten,
 
 2. uppgifter om domstols begäran om personutredning samt
-uppgifter om begäran om biträde med yttrande från annan lokal
-kriminalvårdsmyndighet,
+uppgifter om begäran om hjälp med yttrande från annan enhet
+inom Kriminalvården,
 
 3. uppgifter om tidigare domar, brott den registrerade tidigare
 har begått, tidigare ådömd påföljd och uppgifter om
@@ -141,11 +143,11 @@ verkställigheten av denna,
 5. datum för huvudförhandling och domstols dom,
 
 6. uppgift om den påföljd som den registrerade har dömts till
-eller uppgift om att åtalet har ogillats,
+eller uppgift om att åtalet har ogillats, och
 
 7. uppgifter om den misstänktes personliga förhållanden som
 behövs för att utreda vilka åtgärder som kan antas förebygga
-framtida brottslighet. Förordning (2003:1097).
+framtida brottslighet. Förordning (2005:1025).
 
 6 § Har upphävts genom förordning (2003:1097).
 
@@ -158,17 +160,7 @@ nödvändigt för syftet med behandlingen. Förordning (2003:1097).
 
 Gallring
 
-8 § /Upphör att gälla U:2005-03-01/
-Uppgifter som avses i 5-7 §§ skall gallras senast två år
-efter det att det mål i vilket personutredningen har begärts
-slutligt har avgjorts. Om den som personutredningen avser har
-dömts till fängelse, skyddstillsyn eller villkorlig dom med
-föreskrift om samhällstjänst, skall dock uppgifterna gallras
-senast fem år efter det att den senaste påföljden helt har
-verkställts.
-
-8 § /Träder i kraft I:2005-03-01/
-Uppgifter som avses i 5-7 §§ skall gallras senast två år
+8 § Uppgifter som avses i 5-7 §§ skall gallras senast två år
 efter det att det mål i vilket personutredningen har begärts
 slutligt har avgjorts. Om den som personutredningen avser har
 dömts till fängelse, skyddstillsyn eller villkorlig dom med
@@ -265,22 +257,22 @@ uppgifter om nöjdförklaring,
 24. uppgifter om utskrivning,
 
 25. uppgifter som är nödvändiga för handläggningen av ett
-ärende som enligt lag eller förordning skall prövas av en
-myndighet inom kriminalvården. Förordning (2004:953).
+ärende som enligt lag eller förordning skall prövas av
+Kriminalvården. Förordning (2005:1025).
 
 Journaler
 
-10 § En myndighet inom kriminalvården får i fråga om den som är
-häktad utöver vad som anges i 3, 4 och 9 §§ behandla
-personuppgifter i en sådan journal som avses i 1 a §
-förordningen (1976:376) om behandlingen av häktade och anhållna
-m.fl. och 9 e § förordningen (1990:1018) med instruktion för
-Kriminalvårdsverket. En sådan journal får innehålla uppgifter
-om samtliga beslut som har fattats, viktiga händelser under
-vistelsen i häkte och väsentliga uppgifter om vidtagna eller
-planerade åtgärder som gäller den häktade. Den får även
-innehålla uppgifter om omständigheter i övrigt som är av
-betydelse under vistelsen i häkte. Förordning (2003:1097).
+10 § Kriminalvården får i fråga om den som är häktad utöver vad
+som anges i 3, 4 och 9 §§ behandla personuppgifter i en sådan
+journal som avses i 1 a § förordningen (1976:376) om
+behandlingen av häktade och anhållna m.fl. och 9 e §
+förordningen (1990:1018) med instruktion för Kriminalvårdsverket.
+En sådan journal får innehålla uppgifter om samtliga beslut som
+har fattats, viktiga händelser under vistelsen i häkte och
+väsentliga uppgifter om vidtagna eller planerade åtgärder som
+gäller den häktade. Den får även innehålla uppgifter om
+omständigheter i övrigt som är av betydelse under vistelsen i
+häkte. Förordning (2005:1025).
 
 11 § Har upphävts genom förordning (2003:1097).
 
@@ -353,26 +345,26 @@ polismyndighetens försorg,
 
 10. övervakarens namn, adress och telefonnummer,
 
-11. uppgift om att den dömde har ålagts näringsförbud eller
-besöksförbud,
+11. uppgift om att den dömde har ålagts näringsförbud,
+besöksförbud eller tillträdesförbud,
 
 12. uppgifter om beslut enligt 26 kap. 18 och 19 §§, 27 kap.
 6 § 1 och 2 samt 28 kap. 7 § brottsbalken,
 
 13. uppgifter som är nödvändiga för handläggningen av ett
-ärende som enligt lag eller förordning skall prövas av en
-myndighet inom kriminalvården.
+ärende som enligt lag eller förordning skall prövas av
+Kriminalvården.
 
 I fråga om den som verkställer hela fängelsestraffet genom
 intensivövervakning med elektronisk kontroll tillämpas
 bestämmelserna i första stycket 1 när det gäller hänvisningen
-till 5 § 7 och 8-13. Förordning (2003:1097).
+till 5 § 7 och 8-13. Förordning (2005:1025).
 
 Journaler
 
-16 § En myndighet inom kriminalvården får i fråga om den som är
-dömd till fängelse utöver vad som anges i 3 och 4 §§ samt 15 §
-behandla personuppgifter i en sådan journal som avses i 9 §
+16 § Kriminalvården får i fråga om den som är dömd till fängelse
+utöver vad som anges i 3 och 4 §§ samt 15 § behandla
+personuppgifter i en sådan journal som avses i 9 §
 förordningen (1974:248) om kriminalvård i anstalt, 12 §
 förordningen (1994:1060) om intensivövervakning med elektronisk
 kontroll, 4 kap. 6 a § förordningen (1998:642) om
@@ -385,7 +377,7 @@ den intagne, den som står under övervakning efter villkorlig
 frigivning och den som transporteras av kriminalvårdens
 transporttjänst. Journalen får även innehålla uppgifter om
 omständigheter i övrigt som är av betydelse för
-verkställigheten. Förordning (2003:1097).
+verkställigheten. Förordning (2005:1025).
 
 17 § Har upphävts genom förordning (2003:1097).
 
@@ -403,21 +395,7 @@ Förordning (2003:1097).
 
 Gallring
 
-19 § /Upphör att gälla U:2005-03-01/
-Uppgifter i en sådan journal som avses i 16 § skall
-gallras senast fem år efter det att det senaste straffet
-avseende den registrerade helt har verkställts. I övrigt skall
-uppgifter om en person som är dömd till fängelse gallras senast
-två år efter det att villkorlig frigivning har skett eller
-intensivövervakning med elektronisk kontroll har upphört.
-
-I fråga om uppgifter om personer som avses i 1 § första stycket
-8 lagen (2001:617) om behandling av personuppgifter inom
-kriminalvården skall dock gallring ske senast två år efter det
-att den registrerade har lämnat anstalten.
-
-19 § /Träder i kraft I:2005-03-01/
-Uppgifter i en sådan journal som avses i 16 § skall
+19 § Uppgifter i en sådan journal som avses i 16 § skall
 gallras senast tio år efter det att det senaste straffet
 avseende den registrerade helt har verkställts. I övrigt skall
 uppgifter om en person som är dömd till fängelse gallras senast
@@ -458,22 +436,22 @@ behandlas:
 3. övervakarens namn, adress och telefonnummer,
 
 4. uppgifter som är nödvändiga för handläggningen av ett ärende
-som enligt lag eller förordning skall prövas av en myndighet
-inom kriminalvården. Förordning (2003:1097).
+som enligt lag eller förordning skall prövas av Kriminalvården.
+Förordning (2005:1025).
 
 Journaler
 
-22 § En myndighet inom kriminalvården får i fråga om den som är
-dömd till skyddstillsyn utöver vad som anges i 3, 4 och 21 §§
-behandla personuppgifter i en sådan journal som avses i 2 kap.
-10 § och 3 kap. 5 § förordningen (1998:642) om verkställighet
-av frivårdspåföljder och 9 e § förordningen (1990:1018) med
+22 § Kriminalvården får i fråga om den som är dömd till
+skyddstillsyn utöver vad som anges i 3, 4 och 21 §§ behandla
+personuppgifter i en sådan journal som avses i 2 kap. 10 § och
+3 kap. 5 § förordningen (1998:642) om verkställighet av
+frivårdspåföljder och 9 e § förordningen (1990:1018) med
 instruktion för Kriminalvårdsverket. En sådan journal får
 innehålla uppgifter om samtliga beslut som har fattats, viktiga
 händelser under verkställigheten och väsentliga uppgifter om
 vidtagna eller planerade åtgärder som gäller den dömde. Den får
 även innehålla uppgifter om omständigheter i övrigt som är av
-betydelse för verkställigheten. Förordning (2003:1097).
+betydelse för verkställigheten. Förordning (2005:1025).
 
 Behandling av känsliga uppgifter
 
@@ -483,15 +461,7 @@ nödvändigt för syftet med behandlingen. Förordning (2003:1097).
 
 Gallring
 
-24 § /Upphör att gälla U:2005-03-01/
-Uppgifter i en sådan journal som avses i 22 § skall
-gallras senast fem år efter det att den senaste påföljden
-avseende den registrerade helt har verkställts. I övrigt skall
-uppgifter om en person som är dömd till skyddstillsyn gallras
-senast två år efter det att övervakningen har upphört.
-
-24 § /Träder i kraft I:2005-03-01/
-Uppgifter i en sådan journal som avses i 22 § skall
+24 § Uppgifter i en sådan journal som avses i 22 § skall
 gallras senast tio år efter det att den senaste påföljden
 avseende den registrerade helt har verkställts. I övrigt skall
 uppgifter om en person som är dömd till skyddstillsyn gallras
@@ -509,16 +479,16 @@ dom med föreskrift om samhällstjänst
 
 Journaler
 
-26 § En myndighet inom kriminalvården får i fråga om den som är
-dömd till villkorlig dom med föreskrift om samhällstjänst
-utöver vad som anges i 3 och 4 §§ behandla personuppgifter i en
-sådan journal som avses i 3 kap. 5 § förordningen (1998:642) om
-verkställighet av frivårdspåföljder. En sådan journal får
-innehålla uppgifter om samtliga beslut som har fattats, viktiga
-händelser under verkställigheten och väsentliga uppgifter om
-vidtagna eller planerade åtgärder som gäller den dömde. Den får
-även innehålla uppgifter om omständigheter i övrigt som är av
-betydelse för verkställigheten. Förordning (2003:1097).
+26 § Kriminalvården får i fråga om den som är dömd till
+villkorlig dom med föreskrift om samhällstjänst utöver vad som
+anges i 3 och 4 §§ behandla personuppgifter i en sådan journal
+som avses i 3 kap. 5 § förordningen (1998:642) om verkställighet
+av frivårdspåföljder. En sådan journal får innehålla uppgifter
+om samtliga beslut som har fattats, viktiga händelser under
+verkställigheten och väsentliga uppgifter om vidtagna eller
+planerade åtgärder som gäller den dömde. Den får även innehålla
+uppgifter om omständigheter i övrigt som är av betydelse för
+verkställigheten. Förordning (2005:1025).
 
 Behandling av känsliga uppgifter
 
@@ -528,16 +498,7 @@ behandlingen. Förordning (2003:1097).
 
 Gallring
 
-28 § /Upphör att gälla U:2005-03-01/
-Uppgifter i en sådan journal som avses i 26 § skall
-gallras senast fem år efter det att den senaste påföljden
-avseende den registrerade helt har verkställts. I övrigt skall
-uppgifter om en person som är dömd till villkorlig dom med
-föreskrift om samhällstjänst gallras senast två år efter det
-att föreskriften om samhällstjänst helt har verkställts.
-
-28 § /Träder i kraft I:2005-03-01/
-Uppgifter i en sådan journal som avses i 26 § skall
+28 § Uppgifter i en sådan journal som avses i 26 § skall
 gallras senast tio år efter det att den senaste påföljden
 avseende den registrerade helt har verkställts. I övrigt skall
 uppgifter om en person som är dömd till villkorlig dom med
@@ -576,16 +537,16 @@ betydelse för genomförandet av transporten.
 
 Journaler
 
-31 § En myndighet inom kriminalvården får i fråga om den som
-transporteras utöver vad som anges i 3 och 30 §§ behandla
-personuppgifter i en sådan journal som avses i 9 e §
-förordningen (1990:1018) med instruktion för
-Kriminalvårdsverket. En sådan journal får innehålla uppgifter
-om samtliga beslut som har fattats, viktiga händelser under
-transporten och väsentliga uppgifter om vidtagna eller
-planerade åtgärder som gäller den registrerade. Den får även
-innehålla uppgifter om omständigheter i övrigt som är av
-betydelse för transporten. Förordning (2003:1097).
+31 § Kriminalvården får i fråga om den som transporteras
+utöver vad som anges i 3 och 30 §§ behandla personuppgifter
+i en sådan journal som avses i 9 e § förordningen (1990:1018)
+med instruktion för Kriminalvårdsverket. En sådan journal får
+innehålla uppgifter om samtliga beslut som har fattats,
+viktiga händelser under transporten och väsentliga uppgifter
+om vidtagna eller planerade åtgärder som gäller den
+registrerade. Den får även innehålla uppgifter om
+omständigheter i övrigt som är av betydelse för transporten.
+Förordning (2005:1025).
 
 Behandling av känsliga uppgifter
 
@@ -607,8 +568,8 @@ Registrets ändamål och innehåll
 
 34 § För de ändamål som anges i 3 § första stycket 1 och 2
 lagen (2001:617) om behandling av personuppgifter inom
-kriminalvården skall Kriminalvårdsstyrelsen föra ett register
-(centrala kriminalvårdsregistret) över personer som
+kriminalvården skall Kriminalvården föra ett register (centrala
+kriminalvårdsregistret) över personer som
 
 1. har dömts till fängelse, skyddstillsyn eller villkorlig dom
 med föreskrift om samhällstjänst,
@@ -617,10 +578,7 @@ med föreskrift om samhällstjänst,
 
 3. eller på grund av en utländsk brottmålsdom skall verkställa
 en sådan påföljd som avses i 1 och 2 i Sverige.
-
-Kriminalvårdsstyrelsen är personuppgiftsansvarig för
-behandlingen av personuppgifterna i det centrala
-kriminalvårdsregistret.
+Förordning (2005:1025).
 
 35 § Det centrala kriminalvårdsregistret får innehålla sådana
 uppgifter som avses i 3 § 1, 5-7, 9-10 och 12-18, 15 § 1 såvitt
@@ -629,108 +587,168 @@ avser hänvisningen till 9 § 16, 15 § 7 och 10, samt 21 § 2.
 Skyldighet för myndigheter att lämna uppgifter som behövs för
 registret
 
-36 § För registrering i centrala kriminalvårdsregistret skall
-nedan angivna myndigheter lämna uppgifter till
-Kriminalvårdsstyrelsen i följande fall.
+36 § /Upphör att gälla U:2006-03-31/
+För registrering i centrala kriminalvårdsregistret skall
+nedan angivna myndigheter lämna uppgifter till Kriminalvården i
+följande fall.
 
-Uppgift lämnas av            Uppgift lämnas om
+Uppgift lämnas av    Uppgift lämnas om
 
-1. Rikspolisstyrelsen           Dom eller slutligt beslut som avser
-                                fängelse, skyddstillsyn, villkorlig
-                                dom med föreskrift om samhällstjänst
-                                eller förvandlingsstraff för böter
-                                eller vite
+1. Rikspolisstyrelsen   Dom eller slutligt beslut som avser
+                        fängelse, skyddstillsyn, villkorlig dom
+                        med föreskrift om samhällstjänst eller
+                        förvandlingsstraff för böter eller vite
 
-                                Överklagande av dom eller slutligt
-                                beslut som det har lämnats uppgift
-                                om tidigare
+                        Överklagande av dom eller slutligt beslut
+                        som det har lämnats uppgift om tidigare
 
-                                Beslut under rättegången att vidare
-                                verkställighet inte får äga rum
-                                beträffande den som har dömts till
-                                skyddstillsyn
+                        Beslut under rättegången att vidare
+                        verkställighet inte får äga rum
+                        beträffande den som har dömts till
+                        skyddstillsyn
 
-                                Att dom eller slutligt beslut som
-                                uppgift har lämnats om tidigare har
-                                vunnit laga kraft
+                        Att dom eller slutligt beslut som uppgift
+                        har lämnats om tidigare har vunnit laga
+                        kraft
 
-                                Att påföljd i dom eller slutligt
-                                beslut som uppgift har lämnats om
-                                tidigare har ändrats till annan
-                                påföljd än fängelse, skyddstillsyn
-                                eller villkorlig dom med föreskrift
-                                om samhällstjänst
+                        Att påföljd i dom eller slutligt beslut
+                        som uppgift har lämnats om tidigare har
+                        ändrats till annan påföljd än fängelse,
+                        skyddstillsyn eller villkorlig dom med
+                        föreskrift om samhällstjänst
 
-2. Regeringskansliet            Beslut i nådeärenden
+2. Regeringskansliet    Beslut i nådeärenden
 
-                                Av regeringen meddelat beslut om
-                                upphävande helt eller delvis enligt
-                                7 kap. 16 § utlänningslagen (1989:529)
-                                eller inhibition enligt 8 kap. 10 och
-                                10 a §§ samt 11 kap. 4 § samma lag av
-                                en dom eller ett beslut om utvisning
+                        Av regeringen meddelat beslut om
+                        upphävande helt eller delvis enligt 7 kap.
+                        16 § utlänningslagen (1989:529) eller
+                        inhibition enligt 8 kap. 10 och 10 a §§
+                        samt 11 kap. 4 § samma lag av en dom
+                        eller ett beslut om utvisning
 
-                                Av regeringen meddelat beslut om
-                                tidsbegränsat uppehållstillstånd
-                                enligt 7 kap. 16 § utlänningslagen
+                        Av regeringen meddelat beslut om
+                        tidsbegränsat uppehållstillstånd enligt
+                        7 kap. 16 § utlänningslagen
+Förordning (2005:1025).
 
-Kriminalvårdsstyrelsen får meddela föreskrifter om att lokala
-kriminalvårdsmyndigheter till Kriminalvårdsstyrelsen skall lämna
-uppgifter för registrering i det centrala kriminalvårdsregistret.
+36 § /Träder i kraft I:2006-03-31/
+För registrering i centrala kriminalvårdsregistret skall
+nedan angivna myndigheter lämna uppgifter till Kriminalvården i
+följande fall.
+
+Uppgift lämnas av    Uppgift lämnas om
+
+1. Rikspolisstyrelsen   Dom eller slutligt beslut som avser
+                        fängelse, skyddstillsyn, villkorlig dom
+                        med föreskrift om samhällstjänst eller
+                        förvandlingsstraff för böter eller vite
+
+                        Överklagande av dom eller slutligt beslut
+                        som det har lämnats uppgift om tidigare
+
+                        Beslut under rättegången att vidare
+                        verkställighet inte får äga rum
+                        beträffande den som har dömts till
+                        skyddstillsyn
+
+                        Att dom eller slutligt beslut som uppgift
+                        har lämnats om tidigare har vunnit laga
+                        kraft
+
+                        Att påföljd i dom eller slutligt beslut
+                        som uppgift har lämnats om tidigare har
+                        ändrats till annan påföljd än fängelse,
+                        skyddstillsyn eller villkorlig dom med
+                        föreskrift om samhällstjänst
+
+2. Regeringskansliet    Beslut i nådeärenden
+
+                        Av regeringen meddelat beslut om
+                        upphävande helt eller delvis enligt 8 kap.
+                        14 § utlänningslagen (2005:716) eller
+                        inhibition enligt 12 kap. 11 och 12 §§
+                        samma lag av en dom eller ett beslut om
+                        utvisning
+
+                        Av regeringen meddelat beslut om
+                        tidsbegränsat uppehållstillstånd enligt
+                        8 kap. 10 § utlänningslagen
+Förordning (2006:106).
 
 Utlämnande av uppgifter, m.m.
 
-37 § Uppgifter i det centrala kriminalvårdsregistret skall på
+37 § /Upphör att gälla U:2006-03-31/
+Uppgifter i det centrala kriminalvårdsregistret skall på
 begäran lämnas ut till Regeringskansliet, en domstol,
-Riksåklagaren, en åklagarmyndighet, Justitiekanslern,
+Åklagarmyndigheten, Ekobrottsmyndigheten, Justitiekanslern,
 Riksdagens ombudsmän, Rikspolisstyrelsen, en polismyndighet,
-Datainspektionen, en myndighet inom kriminalvården eller en
-myndighet som får besluta om frihetsberövande åtgärd enligt
-lagen (1957:668) om utlämning för brott, lagen (1959:254) om
-utlämning för brott till Danmark, Finland, Island och Norge
-eller utlänningslagen (1989:529).
+Datainspektionen eller en myndighet som får besluta om
+frihetsberövande åtgärd enligt lagen (1957:668) om utlämning
+för brott, lagen (1959:254) om utlämning för brott till
+Danmark, Finland, Island och Norge eller utlänningslagen
+(1989:529).
 
-Dessutom får Regeringskansliet, Rikspolisstyrelsen,
-polismyndigheter och myndigheter inom kriminalvården ha
-direktåtkomst till registret. För Regeringskansliet får dock
-endast sådana uppgifter göras tillgängliga som behövs i ärenden
-om nåd i brottmål och om upphävande av utvisningsbeslut enligt
-7 kap. 16 § utlänningslagen.
+Dessutom får Regeringskansliet, Rikspolisstyrelsen och
+polismyndigheter ha direktåtkomst till registret. För
+Regeringskansliet får dock endast sådana uppgifter göras
+tillgängliga som behövs i ärenden om nåd i brottmål och om
+upphävande av utvisningsbeslut enligt 7 kap. 16 §
+utlänningslagen. Förordning (2005:1025).
+
+37 § /Träder i kraft I:2006-03-31/
+Uppgifter i det centrala kriminalvårdsregistret skall på
+begäran lämnas ut till Regeringskansliet, en domstol,
+Åklagarmyndigheten, Ekobrottsmyndigheten, Justitiekanslern,
+Riksdagens ombudsmän, Rikspolisstyrelsen, en polismyndighet,
+Datainspektionen eller en myndighet som får besluta om
+frihetsberövande åtgärd enligt lagen (1957:668) om utlämning
+för brott, lagen (1959:254) om utlämning för brott till
+Danmark, Finland, Island och Norge eller utlänningslagen
+(2005:716).
+
+Dessutom får Regeringskansliet, Rikspolisstyrelsen och
+polismyndigheter ha direktåtkomst till registret. För
+Regeringskansliet får dock endast sådana uppgifter göras
+tillgängliga som behövs i ärenden om nåd i brottmål och om
+upphävande av utvisningsbeslut enligt 8 kap. 14 §
+utlänningslagen. Förordning (2006:106).
 
 Gallring
 
-38 § /Upphör att gälla U:2005-03-01 genom förordning (2005:10)./
-Uppgifter i det centrala kriminalvårdsregistret skall
-gallras senast fem år efter det att den senaste påföljden
-avseende den registrerade helt har verkställts.
+38 § Har upphävts genom förordning (2005:10).
 
 Säkerhetsregistret
 
 Registrets ändamål och innehåll
 
 39 § För att upprätthålla säkerheten och förebygga brott skall
-det gemensamt för myndigheterna inom kriminalvården föras ett
-särskilt register (säkerhetsregistret) över personer som är
-häktade eller sådana intagna i kriminalvårdsanstalt som avses i
-1 § första stycket 3 och 7 lagen (2001:617) om behandling av
-personuppgifter inom kriminalvården och som
+det inom Kriminalvården föras ett särskilt register
+(säkerhetsregistret) över personer som är häktade eller sådana
+intagna i kriminalvårdsanstalt som avses i 1 § första stycket 3
+och 7 lagen (2001:617) om behandling av personuppgifter inom
+kriminalvården och som
 
 1. är eller tidigare har varit placerade på säkerhetsavdelning
 enligt 20 a § första och andra styckena lagen (1974:203) om
 kriminalvård i anstalt,
 
-2. tidigare i häkte eller under verkställigheten av
+2. under tid i häkte eller under verkställighet av ett
 fängelsestraff gjort sig skyldiga till allvarligt hot eller
 våld mot personal inom kriminalvården eller mot andra intagna i
 häkte eller kriminalvårdsanstalt,
 
-3. tidigare i häkte eller under verkställigheten av
-fängelsestraff tagit befattning med narkotika som inte varit
-avsedd för eget bruk, eller
+3. under tid i häkte eller under verkställighet av ett
+fängelsestraff befattat sig med narkotika som inte varit avsedd
+för eget bruk,
 
-4. tidigare rymt eller fritagits från häkte eller sluten
+4. rymt eller fritagits från häkte eller sluten
 kriminalvårdsanstalt eller förberett rymning eller fritagning
-eller gjort försök därtill.
+eller gjort försök därtill, eller
+
+5. misstänks för att under tid i häkte eller under
+verkställighet av ett fängelsestraff ha deltagit i nätverk som
+bidrar till allvarliga ordningsstörningar eller brottslig
+verksamhet. Förordning (2005:1025).
 
 40 § Säkerhetsregistret får utöver vad som anges i 39 § omfatta
 häktade eller intagna beträffande vilka det finns särskild
@@ -740,20 +758,22 @@ andra kan komma att
 
 1. utöva allvarlig brottslig verksamhet,
 
-2. göra sig skyldiga till terroristbrott enligt 2 § lagen
-(2003:148) om straff för terroristbrott,
-
-3. göra sig skyldiga till hets mot folkgrupp enligt 16 kap. 8 §
+2. göra sig skyldiga till hets mot folkgrupp enligt 16 kap. 8 §
 brottsbalken eller sådant brott mot allmän verksamhet som avses
-i 17 kap. 1, 2 och 10 §§ samma balk, eller
+i 17 kap. 1, 2 och 10 §§ samma balk,
 
-4. allvarligt störa ordningen inom häktet eller anstalten.
+3. allvarligt störa ordningen inom häktet eller anstalten,
+
+4. delta i nätverk som bidrar till allvarliga
+ordningsstörningar eller brottslig verksamhet, eller
+
+5. förbereda rymning eller fritagning.
 
 I fråga om en intagen om vilken regeringen med stöd av 31 §
 lagen (1974:203) om kriminalvård i anstalt har beslutat om
-avvikelser från bestämmelserna i 25-30 §§ samma lag skall
-uppgifter föras in i säkerhetsregistret om det inte är
-uppenbart obehövligt. Förordning (2003:386).
+avvikelser från bestämmelserna i 25-29 och 30 §§ samma lag
+skall uppgifter föras in i säkerhetsregistret om det inte är
+uppenbart obehövligt. Förordning (2005:1025).
 
 41 § Säkerhetsregistret får föras för att samla, bearbeta och
 analysera information som ger underlag för åtgärder för att
@@ -774,57 +794,64 @@ Säkerhetsregistret får om det är oundgängligen nödvändigt
 innehålla känsliga uppgifter. För sökning i säkerhetsregistret
 får känsliga uppgifter användas som sökbegrepp.
 
-Personuppgiftsansvarig, m.m.
-
-42 § Säkerhetsregistret förs av Kriminalvårdsstyrelsen och av
-lokal kriminalvårdsmyndighet som Kriminalvårdsstyrelsen
-bestämmer. Kriminalvårdsstyrelsen är personuppgiftsansvarig för
-behandlingen av personuppgifterna i registret.
+42 § Har upphävts genom förordning (2005:1025).
 
 Direktåtkomst och utlämnande av uppgifter inom kriminalvården
 
-43 § Chefen för Kriminalvårdsstyrelsen och den inom myndigheten
+43 § Chefen för Kriminalvården och de personer inom myndigheten
 som denne utser får ha direktåtkomst till säkerhetsregistret.
-Även chefen för en kriminalvårdsmyndighet som för registret och
-den inom myndigheten som denne utser får ha direktåtkomst till
-registret.
 
 Uppgifter i säkerhetsregistret får lämnas ut till annan
-personal inom kriminalvården om uppgiften vid fullgörandet av
-arbetsuppgift inom kriminalvården kan antas ha betydelse för
-att upprätthålla säkerheten eller förebygga brott.
+personal inom Kriminalvården om uppgiften vid fullgörandet av
+arbetsuppgift inom Kriminalvården kan antas ha betydelse för
+att upprätthålla ordningen och säkerheten eller förebygga
+brott. Förordning (2005:1025).
 
-Utlämnande av uppgifter till annan myndighet
+Direktåtkomst och utlämnande av uppgifter till en annan
+myndighet
 
-44 § Uppgifter i säkerhetsregistret får, efter prövning av
-chefen för Kriminalvårdsstyrelsen eller den som denne utser,
-lämnas ut till Rikspolisstyrelsen eller en polismyndighet.
-Utlämnande får endast avse uppgifter angående allvarlig
-brottslig verksamhet.
+44 § Chefen för Rikspolisstyrelsen och de personer inom
+myndigheten som denne utser får ha direktåtkomst till uppgift
+om en person finns registrerad i säkerhetsregistret.
+Rikspolisstyrelsen får lämna ut en sådan uppgift till en
+polismyndighet, Åklagarmyndigheten och Ekobrottsmyndigheten om
+uppgiften kan antas ha särskild betydelse för en pågående
+undersökning i myndighetens brottsutredande verksamhet eller
+för andra brottsbekämpande åtgärder.
 
 Uppgifter i säkerhetsregistret får, efter prövning av chefen
-för Kriminalvårdsstyrelsen eller den som denne utser, även
+för Kriminalvården eller av de personer som denne utser, lämnas
+ut till Rikspolisstyrelsen eller en polismyndighet. Utlämnandet
+får endast avse uppgifter som kan antas ha särskild betydelse
+för en pågående undersökning i en polismyndighets
+brottsutredande verksamhet, andra brottsbekämpande åtgärder
+eller för att upprätthålla ordningen och säkerheten inom
+kriminalvårdens verksamhet.
+
+Uppgifter i säkerhetsregistret får, efter prövning av chefen
+för Kriminalvården eller av de personer som denne utser, även
 lämnas ut till Regeringskansliet om uppgiften kan antas ha
 betydelse i ärende om nåd i brottmål, utvisning, särskild
 utlänningskontroll eller i ärende enligt 31 § eller 58 a §
 lagen (1974:203) om kriminalvård i anstalt.
+Förordning (2005:1025).
 
 Gallring
 
-45 § Uppgifter i säkerhetsregistret skall gallras senast en
-månad efter det att straffet eller åtgärden avseende den
-registrerade helt har verkställts eller upphört. För en
-registrerad som friges villkorligt med en återstående strafftid
-som överstiger ett år skall dock uppgifterna gallras senast när
-ett år har förflutit efter den villkorliga frigivningen.
+45 § Uppgifter i säkerhetsregistret skall gallras senast fem år
+efter det att den registrerade har frigivits från häkte eller
+blivit villkorligt frigiven. Om villkorlig frigivning inte sker
+skall uppgifterna gallras senast fem år efter det att den
+registrerade helt har verkställt fängelsestraffet.
+Förordning (2005:1025).
 
-Skyldighet för Kriminalvårdsstyrelsen att lämna underrättelser
-till vissa myndigheter m.m.
+Skyldighet för Kriminalvården att lämna underrättelser till
+vissa myndigheter m.m.
 
 Underättelseskyldighetens omfattning
 
-46 § Kriminalvårdsstyrelsen skall lämna underrättelse till
-nedan angivna myndigheter i följande fall.
+46 § Kriminalvården skall lämna underrättelse till nedan angivna
+myndigheter i följande fall.
 
 Uppgift lämnas till          Uppgift lämnas om
 
@@ -900,24 +927,28 @@ Uppgift lämnas till          Uppgift lämnas om
                                 enligt 33 a § lagen (1974:203) om
                                 kriminalvård i anstalt eller
                                 vistelse utanför anstalt enligt
-                                34 § samma lag
+                                34 § samma lag.
 
-                                Permission eller avgång från
+                             Verkställighetens början i
+                                kriminalvårdsanstalt när den
+                                sammanlagda tiden att avtjäna är
+                                fängelse i minst ett år.
+
+                             Permission eller avgång från
                                 kriminalvårdsanstalt, om
                                 underrättelsen kan antas vara av
                                 betydelse för Rikspolisstyrelsens
-                                verksamhet
+                                verksamhet.
 
-Bestämmelser om skyldighet för Kriminalvårdsstyrelsen att i
-andra fall lämna uppgifter till Rikspolisstyrelsen finns i 30 §
-förordningen (1999:1134) om belastningsregister.
-Förordning (2004:953).
+Bestämmelser om skyldighet för Kriminalvården att i andra fall
+lämna uppgifter till Rikspolisstyrelsen finns i 30 § förordningen
+(1999:1134) om belastningsregister. Förordning (2005:1025).
 
 Utlämnande av uppgifter för statistik
 
-47 § Bestämmelser om skyldighet för Kriminalvårdsstyrelsen att
-lämna uppgifter för rättsstatistiken finns i förordningen
-(2001:100) om den officiella statistiken.
+47 § Bestämmelser om skyldighet för Kriminalvården att lämna
+uppgifter för rättsstatistiken finns i förordningen (2001:100)
+om den officiella statistiken. Förordning (2005:1025).
 
 Utlämnande av uppgifter till annan stat
 
@@ -937,7 +968,7 @@ Skyldighet att anmäla oriktighet i register, m.m.
 49 § Den som i tjänsten tar del av uppgifter ur det centrala
 kriminalvårdsregistret eller säkerhetsregistret och misstänker
 att registrets innehåll är oriktigt skall genast anmäla det
-till Kriminalvårdsstyrelsen.
+till Kriminalvården. Förordning (2005:1025).
 
 50 § Oavsett vad som föreskrivs om gallring i denna förordning
 skall en uppgift som behandlas tas bort om en överrätt genom en
@@ -946,42 +977,39 @@ frikänt den tilltalade eller dömt honom eller henne till en
 påföljd som inte omfattas av bestämmelserna i denna förordning.
 Detsamma gäller om en överrätt har upphävt en tingsrätts beslut
 om förvandlingsstraff för böter eller vite eller om
-Kriminalvårdsstyrelsen enligt 18 § bötesverkställighetslagen
+Kriminalvården enligt 18 § bötesverkställighetslagen
 (1979:189) har beslutat om att ett sådant straff skall falla
-bort.
+bort. Förordning (2005:1025).
 
 Föreskrifter om bevarande av vissa uppgifter
 
-51 § Riksarkivet får, efter samråd med Kriminalvårdsstyrelsen,
-meddela föreskrifter om att uppgifter som skall gallras enligt
+51 § Riksarkivet får, efter samråd med Kriminalvården, meddela
+föreskrifter om att uppgifter som skall gallras enligt
 bestämmelser i denna förordning får bevaras för historiska,
-statistiska och vetenskapliga ändamål.
+statistiska och vetenskapliga ändamål. Förordning (2005:1025).
 
 Föreskrifter om uppgiftsskyldighet
 
 52 § Närmare föreskrifter om omfattningen av
 uppgiftsskyldigheten i 36 och 46 §§ samt om tiden och sättet
-för dess fullgörande meddelas av Kriminalvårdsstyrelsen efter
-samråd med berörda centrala myndigheter.
+för dess fullgörande meddelas av Kriminalvården efter samråd
+med berörda centrala myndigheter. Förordning (2005:1025).
 
-Föreskrifter om direktåtkomst
-
-53 § Kriminalvårdsstyrelsen får meddela föreskrifter om
-direktåtkomst till personuppgifter för personal inom
-kriminalvården i andra fall än som avses i 37 och 43 §§.
+53 § Har upphävts genom förordning (2005:1025).
 
 Föreskrifter om begränsningar av uppgifter
 
-54 § Kriminalvårdsstyrelsen får meddela föreskrifter om
-begränsningar av de uppgifter som behandlas för ett visst
-ändamål.
+54 § Kriminalvården får meddela föreskrifter om begränsningar
+av de uppgifter som behandlas för ett visst ändamål.
+Förordning (2005:1025).
 
 Ytterligare föreskrifter
 
-55 § Kriminalvårdsstyrelsen får efter samråd med
-Datainspektionen meddela de ytterligare föreskrifter som behövs
-för verkställighet av lagen (2001:617) om behandling av
+55 § Kriminalvården får efter samråd med Datainspektionen
+meddela de ytterligare föreskrifter som behövs för
+verkställighet av lagen (2001:617) om behandling av
 personuppgifter inom kriminalvården och denna förordning.
+Förordning (2005:1025).
 
 Övergångsbestämmelser
 
@@ -995,3 +1023,12 @@ av personuppgifter som påbörjats före den 24 oktober 1998 eller
 manuell behandling som utförs för ett visst bestämt ändamål om
 manuell behandling för ändamålet påbörjats före den 24 oktober
 1998.
+
+2005:660
+
+1. Denna förordning träder i kraft den 1 oktober 2005.
+
+2. Uppgiftsskyldigheten enligt 46 § 4 tredje stycket skall
+omfatta även den som vid ikraftträdandet avtjänar fängelse i
+kriminalvårdsanstalt, om den sammanlagda tiden att avtjäna är
+fängelse i minst ett år.
