@@ -34,8 +34,15 @@ Bruttovikt på fordon Den sammanlagda statiska vikt som samtliga hjul, band
                         över till vägbanan.
 
 Buss                 En bil som är inrättad huvudsakligen för
-                        personbefordran och är försedd med fler än åtta
-                        sittplatser utöver förarplatsen.
+                        personbefordran och är försedd med fler
+                        än åtta sittplatser utöver förarplatsen.
+                        Bussar delas in i lätta och tunga bussar.
+
+Bärighetsklass               Indelning av vägar efter tillåtet axel-,
+                        boggi- och trippelaxeltryck samt tillåten
+                        bruttovikt. Bärighetsklasserna är
+                        bärighetsklass 1 (BK1), bärighetsklass 2
+                        (BK2) och bärighetsklass 3 (BK3).
 
 Cykel                        1. Ett fordon som är avsett att drivas med
 tramp-
@@ -66,9 +73,10 @@ Dolly                        En släpkärra som är avsedd att vara styraxel fö
                         påhängsvagn och som är utrustad med en
                         kopplingsanordning (vändskiva) för en påhängsvagn.
 
-Efterfordon          Ett fordon som är kopplat till en bil, en traktor,
-                        ett motorredskap eller ett terrängmotorfordon och som
-                        inte är ett släpfordon eller ett terrängsläp.
+Efterfordon          Ett fordon som är kopplat till en bil, en
+                        traktor, ett motorredskap eller ett
+                        terrängmotorfordon och som inte är ett
+                        släpfordon.
 
 Fordon                       En anordning på hjul, band, medar eller liknande
                         som är inrättad huvudsakligen för färd på marken
@@ -81,9 +89,6 @@ Fordonståg           Ett motordrivet fordon med ett eller flera
 
 Hästfordon           Ett fordon som är förspänt med dragare.
 
-Jordbrukstraktor     En traktor som enligt fordonsskattelagen (1988:327)
-                        hör till klass II.
-
 Lastbil                      1. En bil som är inrättad huvudsakligen för
                         godsbefordran.
 
@@ -94,6 +99,8 @@ Lastbil                      1. En bil som är inrättad huvudsakligen för
 
 Lekfordon            Ett fordon som skall anses som leksak enligt
                         lagen (1992:1327) om leksakers säkerhet.
+
+Lätt buss            En buss med en totalvikt av högst 3,5 ton.
 
 Lätt lastbil         En lastbil med en totalvikt av högst 3,5 ton.
 
@@ -225,9 +232,47 @@ klass I                 hastighet som överstiger 30 kilometer i timmen.
 Motorredskap         Ett motorredskap som är konstruerat för en hastighet
 klass II                av högst 30 kilometer i timmen.
 
-Personbil            En bil som är inrättad huvudsakligen för
-                        personbefordran och är försedd med högst åtta
-                        sittplatser utöver förarplatsen.
+Personbil            En bil som är försedd med högst åtta
+                        sittplatser utöver förarplatsen och
+
+                        1. är inrättad huvudsakligen för
+                        personbefordran eller
+
+                        2. är permanent försedd med ett karosseri
+                        som är inrättat som bostadsutrymme och
+                        utrustat med åtminstone
+
+                        a. fast monterade sittplatser,
+
+                        b. fast monterade sovplatser som kan
+                        utgöras av sittplatser som kan omvandlas
+                        till sovplatser,
+
+                        c. fast monterad utrustning för
+                        matlagning och lagring och
+
+                        d. bord.
+
+                     Personbilar delas in i klass I och
+                        klass II.
+
+Personbil klass I    En personbil som inte tillhör klass II.
+
+Personbil klass II   En personbil som är permanent försedd
+                        med ett karosseri som är inrättat som
+                        bostadsutrymme och utrustat med
+                        åtminstone
+
+                        a. fast monterade sittplatser,
+
+                        b. fast monterade sovplatser som kan
+                        utgöras av sittplatser som kan omvandlas
+                        till sovplatser,
+
+                        c. fast monterad utrustning för
+                        matlagning och lagring och
+
+                        d. bord.
 
 Påhängsvagn          En släpvagn som är inrättad för att genom tapp med
                         vändskiva eller liknande anordning förenas med en bil,
@@ -312,17 +357,14 @@ motorredskap
 eller en tung
 terrängvagn
 
-Totalvikt för           Summan av fordonets tjänstevikt och den beräknade
-en motorcykel,          vikten av det största antal personer och den största
-ett terräng-            mängd gods som fordonet är inrättat för. I totalvikten
-fordon utom             för en motorcykel ingår inte sidvagnens totalvikt.
-en tung
-terrängvagn,
-ett släpfordon
-eller en sidvagn
+Totalvikt för en        Summan av fordonets tjänstevikt och den beräknade
+motorcykel, ett         vikten av det största antal personer och den största
+terrängfordon           mängd gods som fordonet är inrättat för. I totalvikten
+utom en tung            för en motorcykel ingår inte sidvagnens totalvikt.
+terrängvagn, ett
+släpfordon eller
+en sidvagn
 
-Trafiktraktor           En traktor som enligt fordonsskattelagen (1988:327)
-                        hör till klass I.
 Traktor                 Ett motordrivet fordon med minst två hjulaxlar som är
                         inrättat huvudsakligen för att dra ett annat fordon
                         eller ett arbetsredskap och som är konstruerat för en
@@ -330,6 +372,14 @@ Traktor                 Ett motordrivet fordon med minst två hjulaxlar som är
                         med svårighet kan ändras till högre hastighet. En
                         traktor får vara utrustad för transport av gods och
                         för befordran av passagerare.
+
+Traktor klass I              En traktor som enligt
+                        vägtrafikskattelagen (2006:227) hör till
+                        skatteklass I.
+
+Traktor klass II     En traktor som enligt
+                        vägtrafikskattelagen (2006:227) hör till
+                        skatteklass II.
 
 Traktortåg           En traktor med ett eller flera tillkopplade släpfordon.
 
@@ -340,6 +390,8 @@ Trippelaxel          Tre hjulaxlar på ett fordon med ett inbördes avstånd
 Trippelaxeltryck     Den sammanlagda statiska vikt som hjulen i en
                         trippelaxel för över till vägbanan.
 
+Tung buss            En buss med en totalvikt över 3,5 ton.
+
 Tung lastbil         En lastbil med en totalvikt över 3,5 ton.
 
 Tung motorcykel              En motorcykel vars motor har en slagvolym som
@@ -349,7 +401,7 @@ Tung motorcykel              En motorcykel vars motor har en slagvolym som
 Tung terrängvagn     En terrängvagn med en tjänstevikt över 2 ton.
 
 Tungt släpfordon     Ett annat släpfordon än ett lätt släpfordon.
-Lag (2003:219).
+Lag (2006:240).
 
 3 § Om det inte med ledning av 2 § kan bestämmas till vilket
 slag av fordon som ett visst fordon eller en viss fordonstyp
@@ -390,3 +442,10 @@ som moped gäller fortfarande.
 moped klass I skall i fortsättningen klassificeras som klass II
 om mopeden är att hänföra till den klassen enligt de nya
 föreskrifterna.
+
+2006:240
+
+1. Denna lag träder i kraft den 1 maj 2006.
+
+2. En klassificering enligt äldre bestämmelser av ett fordon
+som personbil eller lastbil gäller fortfarande.
