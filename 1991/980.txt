@@ -83,9 +83,14 @@ kategori, fortlöpande eller vid upprepade tillfällen under en
 särskilt angiven emissionsperiod,
 
 offentligt uppköpserbjudande: ett offentligt erbjudande till
-innehavare av finansiella instrument utgivna av en juridisk
-person att på generellt angivna villkor överlåta samtliga eller
-en del av dessa instrument till budgivaren. Lag (2005:833).
+innehavare av aktier som har getts ut av ett svenskt eller
+utländskt bolag att överlåta samtliga eller en del av dessa
+aktier till budgivaren,
+
+budgivare: den som lämnar ett offentligt uppköpserbjudande,
+
+målbolag: bolag till vars aktieägare ett offentligt
+uppköpserbjudande lämnas. Lag (2006:454).
 
 2 § Handel med finansiella instrument skall bedrivas så, att
 allmänhetens förtroende för värdepappersmarknaden upprätthålls och
@@ -161,11 +166,9 @@ ett prospekt inte upprättas, om erbjudandet avser
 emissionen inte innebär någon ökning av bolagets aktiekapital,
 
 2. finansiella instrument som erbjuds som vederlag i samband
-med ett offentligt uppköpserbjudande, när det har lämnats in
-ett dokument som har granskats av Finansinspektionen enligt
-bestämmelserna i 2 a kap. 1 § och inspektionen inte har
-meddelat beslut enligt 2 a kap. 2 § om att ett prospekt skall
-upprättas,
+med ett offentligt uppköpserbjudande, när Finansinspektionen
+har godkänt en erbjudandehandling som avses i 2 kap. lagen
+(2006:451) om offentliga uppköpserbjudanden på aktiemarknaden,
 
 3. aktier som erbjuds, tilldelas eller skall tilldelas i
 samband med en fusion, när det har upprättats ett dokument som
@@ -188,7 +191,7 @@ instrument som redan finns upptagna till handel på en reglerad
 marknad eller hänför sig till dem och ett dokument som
 innehåller information om de finansiella instrumenten samt om
 motiven och de närmare formerna för erbjudandet görs
-tillgängligt. Lag (2005:833).
+tillgängligt. Lag (2006:454).
 
 Upptagande till handel
 
@@ -206,11 +209,9 @@ redan finns upptagna till handel på samma reglerade marknad och
 emissionen inte innebär någon ökning av bolagets aktiekapital,
 
 3. finansiella instrument erbjuds som vederlag i samband med
-ett offentligt uppköpserbjudande, när det har lämnats in ett
-dokument som har granskats av Finansinspektionen enligt
-bestämmelserna i 2 a kap. 1 § och inspektionen inte har
-meddelat beslut enligt 2 a kap. 2 § om att ett prospekt skall
-upprättas,
+ett offentligt uppköpserbjudande, när Finansinspektionen har
+godkänt en erbjudandehandling som avses i 2 kap. lagen
+(2006:451) om offentliga uppköpserbjudanden på aktiemarknaden,
 
 4. aktier erbjuds, tilldelas eller skall tilldelas i samband
 med en fusion, när det har upprättats ett dokument som har
@@ -239,7 +240,7 @@ formerna för erbjudandet görs tillgängligt, eller
 finansiella instrument eller genom utnyttjande av
 teckningsoptioner, när aktierna är av samma slag som de aktier
 som redan finns upptagna till handel på samma reglerade
-marknad. Lag (2005:833).
+marknad. Lag (2006:454).
 
 7 § När finansiella instrument tas upp till handel på en
 reglerad marknad behöver ett prospekt inte upprättas då
@@ -810,64 +811,139 @@ prospektförordningen. Lag (2005:833).
 
 2 a kap. Offentliga uppköpserbjudanden
 
-Om vederlaget utgörs av finansiella instrument som är avsedda
-för allmän omsättning
+1 § I 2 kap. lagen (2006:451) om offentliga uppköpserbjudanden
+på aktiemarknaden finns bestämmelser om budgivarens skyldighet
+att upprätta en erbjudandehandling och att ansöka om
+godkännande av den. För en sådan handling gäller bestämmelserna
+i detta kapitel. Lag (2006:454).
 
-1 § Vid ett offentligt uppköpserbjudande, där det vederlag som
-erbjuds utgörs av finansiella instrument som är avsedda för
-allmän omsättning, får budgivaren upprätta ett dokument som
-innehåller information som är likvärdig med den som skall
-finnas i ett prospekt och ge in det till Finansinspektionen för
-granskning. Granskningen skall avse en bedömning av om
-dokumentet är likvärdigt med ett prospekt enligt 2 kap. och
-prospektförordningen.
+2 § En erbjudandehandling skall innehålla den information som
+behövs för att aktieägarna i målbolaget skall kunna fatta ett
+välgrundat beslut om erbjudandet.
 
-Dokumentet skall upprättas på svenska, om inte
-Finansinspektionen i ett enskilt fall beslutar att det får
-upprättas på ett annat språk. Lag (2005:833).
+Erbjudandehandlingen skall innehålla uppgift om
 
-2 § Om Finansinspektionen finner att ett dokument som avses i
-1 § inte är likvärdigt med ett prospekt, skall inspektionen inom
-tio arbetsdagar från det att ett fullständigt dokument kom in
-till inspektionen, meddela beslut om att ett prospekt skall
-upprättas enligt 2 kap. Om vederlaget utgörs av finansiella
-instrument som ges ut av en emittent som inte tidigare har
-erbjudit finansiella instrument till allmänheten och som inte
-tidigare har fått finansiella instrument upptagna till handel
-på en reglerad marknad, är tidsfristen för Finansinspektionen
-att meddela ett beslut i stället tjugo arbetsdagar från det att
-ett fullständigt dokument kom in till inspektionen.
+1. villkoren för erbjudandet,
 
-Om ett dokument behöver kompletteras, skall Finansinspektionen
-snarast och senast inom tio arbetsdagar från det att dokumentet
-kom in till inspektionen, underrätta ingivaren och begära
-nödvändiga kompletteringar. Lag (2005:833).
+2. budgivarens identitet och, om budgivaren är en juridisk
+person, dennas juridiska form, namn och säte,
 
-Om vederlaget utgörs av kontant betalning
+3. identiteten hos personer som handlar i samförstånd med
+budgivaren och, när det gäller juridiska personer, dessas
+juridiska form, namn och säte samt deras förhållande till
+budgivaren,
 
-3 § Vid ett offentligt uppköpserbjudande, där det vederlag som
-erbjuds utgörs av kontant betalning, skall om inte annat följer
-av 4 § budgivaren upprätta en erbjudandehandling när summan av
-de belopp som till följd av erbjudandet kan komma att betalas
-motsvarar minst 100 000 euro.
+4. vilka aktier som omfattas av erbjudandet,
 
-Erbjudandehandlingen skall innehålla de upplysningar som, med
-hänsyn till de finansiella instrument som avses, behövs för att
-en välgrundad bedömning av erbjudandet skall kunna göras.
-Lag (2005:833).
+5. acceptfristen för erbjudandet,
 
-4 § En erbjudandehandling behöver inte upprättas, om
-uppköpserbjudandet
+6. det vederlag som erbjuds för de aktier som omfattas av
+erbjudandet, hur erbjudandet är finansierat och, om vederlaget
+utgörs av annat än kontanter, en beskrivning av vederlaget som
+gör det möjligt att värdera det,
 
-1. görs av en stat inom EES, eller
+7. det största och minsta antal aktier som budgivaren erbjuder
+sig att förvärva,
 
-2. avser fordringsrätter med kortare löptid än ett år.
-Lag (2005:833).
+8. antalet aktier i målbolaget som budgivaren och, i
+förekommande fall, personer som handlar i samförstånd med
+budgivaren innehar samt hur stor andel av aktiekapitalet och
+röstetalet för samtliga aktier i målbolaget som dessa aktier
+representerar,
 
-5 § Erbjudandehandlingen skall ges in till Finansinspektionen
-med ansökan om registrering. När Finansinspektionen har
-registrerat erbjudandehandlingen, skall budgivaren
-offentliggöra den. Lag (2005:833).
+9. motiven för erbjudandet,
+
+10. budgivarens avsikter i fråga om den framtida verksamheten i
+målbolaget och, i den mån detta påverkas, det budgivande
+bolaget,
+
+11. budgivarens avsikter i fråga om bolagens anställda och
+ledning, inklusive varje väsentlig förändring av
+anställningsvillkoren,
+
+12. budgivarens strategiska planer för bolagen och de effekter
+som dessa kan få på sysselsättningen och de platser där bolaget
+bedriver verksamhet,
+
+13. i förekommande fall, sådan ersättning som avses i 6 kap.
+6 § lagen (2006:451) om offentliga uppköpserbjudanden på
+aktiemarknaden, med närmare uppgifter om hur ersättningen skall
+lämnas och vilken metod som skall användas för att fastställa
+den,
+
+14. uppgift om vilken nationell lagstiftning som till följd av
+uppköpserbjudandet kommer att vara tillämplig på de avtal som
+ingås mellan budgivaren och aktieägarna i målbolaget.
+Lag (2006:454).
+
+3 § Om det vederlag som erbjuds utgörs av finansiella
+instrument som är avsedda för allmän omsättning och ges ut
+eller innehas av budgivaren, skall erbjudandehandlingen utöver
+vad som har angetts i 2 § innehålla information som är
+likvärdig med den som enligt 2 kap. och prospektförordningen
+skall finnas i ett prospekt. Lag (2006:454).
+
+4 § Erbjudandehandlingen skall upprättas på svenska, om inte
+Finansinspektionen i ett enskilt fall beslutar att den får
+upprättas på ett annat språk. Lag (2006:454).
+
+5 § Finansinspektionen skall meddela beslut inom tio
+arbetsdagar från det att en fullständig erbjudandehandling
+enligt 2 kap. 3 § lagen (2006:451) om offentliga
+uppköpserbjudanden på aktiemarknaden inkommit för godkännande.
+Lag (2006:454).
+
+6 § Om Finansinspektionen finner att en erbjudandehandling som
+avses i 3 § inte innehåller information som är likvärdig med
+den som enligt 2 kap. och prospektförordningen skall finnas i
+ett prospekt, skall inspektionen inom tio arbetsdagar från det
+att en fullständig erbjudandehandling kom in till inspektionen,
+meddela beslut om att ett prospekt skall upprättas enligt 2
+kap. Tidsfristen för Finansinspektionen att meddela ett beslut
+är i stället tjugo arbetsdagar från det att en fullständig
+erbjudandehandling kom in till inspektionen, om vederlaget
+utgörs av finansiella instrument som ges ut av en emittent som
+
+1. inte tidigare har erbjudit finansiella instrument till
+allmänheten, och
+
+2. inte tidigare har fått finansiella instrument upptagna till
+handel på en reglerad marknad.  Lag (2006:454).
+
+7 § Om en erbjudandehandling behöver kompletteras, skall
+Finansinspektionen snarast och senast inom tio arbetsdagar från
+det att handlingen kom in till inspektionen, underrätta
+ingivaren och begära nödvändiga kompletteringar. Lag (2006:454).
+
+8 § Av 7 kap. 3 § lagen (2006:451) om offentliga
+uppköpserbjudanden på aktiemarknaden framgår att
+Finansinspektionen inte får godkänna en erbjudandehandling, om
+inte budgivaren har gjort ett sådant åtagande som avses i 2
+kap. 1 § i den lagen. Lag (2006:454).
+
+9 § När Finansinspektionen har godkänt erbjudandehandlingen,
+skall inspektionen registrera handlingen och budgivaren
+offentliggöra den. Erbjudandehandlingen får inte offentliggöras
+innan den har godkänts och registrerats. Lag (2006:454).
+
+10 § En erbjudandehandling som har godkänts av en behörig
+myndighet i ett annat land inom EES är giltig vid ett
+offentligt uppköpserbjudande som avser aktier i ett utländskt
+aktiebolag vars aktier är upptagna till handel på en börs eller
+auktoriserad marknadsplats i Sverige.
+
+Finansinspektionen får besluta att en sådan erbjudandehandling
+skall översättas till svenska.
+
+Finansinspektionen får också besluta att en sådan
+erbjudandehandling skall innehålla uppgifter om hur ägare till
+aktier som är noterade på en börs eller auktoriserad
+marknadsplats i Sverige skall gå till väga för att acceptera
+erbjudandet och få vederlaget utbetalat till sig samt om
+beskattning av vederlaget. Lag (2006:454).
+
+11 § Vad som sägs i 2 kap. 29-31 §§ och 34 § skall också gälla
+för erbjudandehandlingar. Lag (2006:454).
 
 2 b kap. Vissa fusioner där vederlaget utgörs av aktier
 
@@ -1174,8 +1250,9 @@ denna lag, lagen (1991:981) om värdepappersrörelse, lagen
 (1992:543) om börs- och clearingverksamhet, lagen (2000:1087)
 om anmälningsskyldighet för vissa innehav av finansiella
 instrument, lagen (2005:377) om straff för marknadsmissbruk vid
-handel med finansiella instrument och prospektförordningen får
-Finansinspektionen för sin tillsyn anmoda
+handel med finansiella instrument, prospektförordningen och
+lagen (2006:451) om offentliga uppköpserbjudanden på
+aktiemarknaden, får Finansinspektionen för sin tillsyn anmoda
 
 1. ett företag eller någon annan att tillhandahålla uppgifter,
 handlingar eller annat,
@@ -1187,12 +1264,12 @@ bestämmer.
 Första stycket gäller inte i den utsträckning en anmodan skulle
 strida mot den i lag reglerade tystnadsplikten för advokater.
 
-Vid tillämpningen av 2, 2 a och 2 b kap. gäller inte första
-stycket 2.
+Vid tillämpningen av 2 och 2 b kap. gäller inte första stycket
+2.
 
 Regeringen eller den myndighet regeringen bestämmer får meddela
 närmare föreskrifter om hur uppgiftsskyldigheten i första
-stycket skall fullgöras. Lag (2005:833).
+stycket skall fullgöras. Lag (2006:454).
 
 Årlig information
 
@@ -1232,7 +1309,12 @@ gälla under högst tio arbetsdagar.
 Finansinspektionen får permanent förbjuda ett erbjudande av
 finansiella instrument till allmänheten, om inspektionen finner
 att bestämmelserna i denna lag eller prospektförordningen har
-överträtts. Lag (2005:833).
+överträtts.
+
+Finansinspektionen får permanent förbjuda ett offentligt
+uppköpserbjudande, om inspektionen finner att bestämmelserna i
+lagen (2006:451) om offentliga uppköpserbjudanden på
+aktiemarknaden har överträtts. Lag (2006:454).
 
 1 d § Finansinspektionen får förbjuda reklam som avser ett
 erbjudande av finansiella instrument till allmänheten, ett
@@ -1320,15 +1402,16 @@ enligt 2 kap. 34 §,
 eller ett tillägg till ett prospekt enligt 2 kap. 34 §,
 
 4. trots att skyldighet att upprätta en erbjudandehandling
-föreligger inte ansöker om registrering enligt 2 a kap. 5 §,
+föreligger inte ansöker om godkännande enligt 2 kap. 3 § lagen
+(2006:451) om offentliga uppköpserbjudanden på aktiemarknaden,
 eller
 
-5. inte offentliggör en erbjudandehandling enligt 2 a kap. 5 §.
+5. inte offentliggör en erbjudandehandling enligt 2 a kap. 9 §.
 
 Den särskilda avgiften skall uppgå till lägst 50 000 kronor och
 högst 10 miljoner kronor.
 
-Avgiften tillfaller staten. Lag (2005:833).
+Avgiften tillfaller staten. Lag (2006:454).
 
 3 b § Finansinspektionen får meddela ett beslut om en särskild
 avgift bara om den som inspektionen avser att ta ut avgiften
