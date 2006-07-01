@@ -105,31 +105,43 @@ stycket.
 Bestämmelser om strålskydd finns i strålskyddslagen (1988:220).
 Lag (1998:1706).
 
-4 § Säkerheten vid kärnteknisk verksamhet skall upprätthållas genom att
-de åtgärder vidtas som krävs för att
+4 § Säkerheten vid kärnteknisk verksamhet skall upprätthållas
+genom att de åtgärder vidtas som krävs för att
 
-1. förebygga fel i eller felaktig funktion hos utrustning, felaktigt
-handlande eller annat som kan leda till en radiologisk olycka, och
+1. förebygga fel i utrustning, felaktig funktion hos
+utrustning, felaktigt handlande, sabotage eller annat som kan
+leda till en radiologisk olycka, och
 
 2. förhindra olovlig befattning med kärnämne eller kärnavfall.
 
-Regeringen eller den myndighet som regeringen bestämmer får meddela
-närmare föreskrifter om åtgärder som avses i första stycket. Lag
-(1992:1536).
+Regeringen eller den myndighet som regeringen bestämmer får
+meddela närmare föreskrifter om åtgärder som avses i första
+stycket. Lag (2006:339).
 
 Tillståndsplikt m.m.
 
-5 § För kärnteknisk verksamhet krävs tillstånd enligt denna lag. Frågor
-om tillstånd prövas av regeringen eller den myndighet som regeringen
-bestämmer.
+5 § För kärnteknisk verksamhet krävs tillstånd enligt denna
+lag. Frågor om tillstånd prövas av regeringen eller den
+myndighet som regeringen bestämmer.
 
-En tillståndshavare får efter godkännande av regeringen eller den
-myndighet som regeringen bestämmer uppdra åt någon annan att vidta
-åtgärder som enligt denna lag skall utföras av tillståndshavaren.
+Endast om det har godkänts av regeringen eller den myndighet
+som regeringen bestämmer får
 
-Såvitt avser de åtgärder som godkännandet omfattar är även
-uppdragstagaren att anse som tillståndshavare vid tillämpning av 10 och
-17--29 §§. Lag (1992:1536).
+1. en tillståndshavare uppdra åt någon annan att vidta åtgärder
+som enligt denna lag skall utföras av tillståndshavaren, och
+
+2. en uppdragstagare som avses i 1 uppdra åt någon annan att
+vidta åtgärder som uppdraget omfattar.
+
+Om ett uppdrag har godkänts enligt andra stycket, skall även
+uppdragstagaren anses som tillståndshavare vid tillämpning av
+10 och 17-29 §§ såvitt avser de åtgärder som godkännandet
+omfattar.
+
+Regeringen eller den myndighet som regeringen bestämmer får
+meddela föreskrifter om undantag eller i det enskilda fallet ge
+dispens från kravet på godkännande som avses i andra stycket 1.
+Lag (2006:339).
 
 5 a § Tillstånd att uppföra en kärnkraftsreaktor får inte meddelas.
 
@@ -162,9 +174,7 @@ miljökonsekvensbeskrivningen och kraven på denna samt planer
 och planeringsunderlag gäller 6 kap. miljöbalken.
 Lag (2001:441).
 
-6 § Ingen får utarbeta konstruktionsritningar, beräkna kostnader,
-beställa utrustning eller vidta andra sådana förberedande åtgärder
-i syfte att inom landet uppföra en kärnkraftsreaktor. Lag (1987:3).
+6 § Har upphävts genom lag (2006:339).
 
 7 § Ett tillstånd får begränsas till att avse viss tid.
 
@@ -203,8 +213,10 @@ anmälningsskyldigheten i 7 a-7 c §§. Lag (2000:169).
 
 Tillståndsvillkor m.m.
 
-8 § När ett tillstånd meddelas eller under ett tillstånds giltighetstid
-får uppställas sådana villkor som behövs med hänsyn till säkerheten.
+8 § Regeringen eller den myndighet som regeringen bestämmer får
+när ett tillstånd meddelas eller under dess giltighetstid
+besluta om de villkor som behövs med hänsyn till säkerheten.
+Lag (2006:339).
 
 8 a § Regeringen får föreskriva att tillstånd till kärnteknisk
 verksamhet skall förenas med de villkor som behövs för att
@@ -220,18 +232,24 @@ besiktning. Lag (1990:238).
 
 Allmänna skyldigheter för tillståndshavare
 
-10 § Den som har tillstånd till kärnteknisk verksamhet skall svara för
-att de åtgärder vidtas som behövs för
+10 § Den som har tillstånd till kärnteknisk verksamhet skall
+svara för att de åtgärder vidtas som behövs för
 
-1. att med hänsyn till verksamhetens art och de förhållanden under vilka
-den bedrivs upprätthålla säkerheten,
+1. att med hänsyn till verksamhetens art och de förhållanden
+under vilka den bedrivs upprätthålla säkerheten,
 
-2. att på ett säkert sätt hantera och slutförvara i verksamheten
-uppkommet kärnavfall eller däri uppkommet kärnämne som inte används på
-nytt, och
+2. att på ett säkert sätt hantera och slutförvara i
+verksamheten uppkommet kärnavfall eller däri uppkommet kärnämne
+som inte används på nytt, och
 
-3. att på ett säkert sätt avveckla och riva anläggningar i vilka
-verksamheten inte längre skall bedrivas.
+3. att på ett säkert sätt avveckla och riva anläggningar i
+vilka verksamheten inte längre skall bedrivas.
+
+Den som har tillstånd till kärnteknisk verksamhet skall i
+samband med olyckstillbud, hot eller annan liknande
+omständighet snarast till den myndighet som avses i 16 § lämna
+sådana upplysningar som har betydelse för bedömningen av
+säkerheten. Lag (2006:339).
 
 11 § Den som har tillstånd att inneha eller driva en kärnkraftsreaktor
 skall, utöver vad som sägs i 10 §, svara för att den allsidiga
@@ -250,10 +268,15 @@ utvärderas. I samband med granskningen och utvärderingen får sådana
 villkor ställas upp som behövs avseende den fortsatta forsknings- och
 utvecklingsverksamheten. Lag ( 1992:1536).
 
-13 § I fråga om skyldighet för en reaktorinnehavare att svara för vissa
-kostnader som staten har och att erlägga en årlig avgift till staten
-finns bestämmelser i lagen (1992:1537) om finansiering av framtida
-utgifter för använt kärnbränsle m. m. Lag (1992:1536).
+13 § Den som har tillstånd till kärnteknisk verksamhet är
+skyldig att svara för kostnaderna för de åtgärder som avses i
+10-12 §§.
+
+I fråga om skyldighet för tillståndshavare att svara för vissa
+kostnader som staten har och säkerställa finansieringen av de
+kostnader som avses i första stycket finns bestämmelser i lagen
+(2006:647) om finansiella åtgärder för hanteringen av
+restprodukter från kärnteknisk verksamhet. Lag (2006:648).
 
 14 § Om ett tillstånd återkallas eller ett tillstånds
 giltighetstid går ut eller om rätten att driva en
@@ -265,16 +288,20 @@ regeringen bestämmer. Lag (1997:1321).
 
 Återkallelse av tillstånd
 
-15 § Ett tillstånd att bedriva kärnteknisk verksamhet kan återkallas av
-den som har meddelat tillståndet om
+15 § Ett tillstånd att bedriva kärnteknisk verksamhet kan
+återkallas av den som har meddelat tillståndet om
 
-1. villkor eller föreskrifter som uppställts med stöd av 8 eller 9 § i
-något väsentligt avseende inte iakttas,
+1. villkor eller föreskrifter som uppställts med stöd av 8
+eller 9 § i något väsentligt avseende inte iakttas,
 
-2. vad som föreskrivs i 11 eller 12 § inte iakttas och det föreligger
-synnerliga skäl från säkerhetssynpunkt, eller
+2. vad som föreskrivs i 11 eller 12 § inte iakttas och det
+föreligger synnerliga skäl från säkerhetssynpunkt,
 
-3. det i annat fall föreligger synnerliga skäl från säkerhetssynpunkt.
+3. det i annat fall föreligger synnerliga skäl från
+säkerhetssynpunkt, eller
+
+4. de skyldigheter som avses i 13 § i väsentlig mån åsidosätts.
+Lag (2006:648).
 
 Tillsyn
 
@@ -372,7 +399,7 @@ avvisas, om den inom besvärstiden har kommit in till nämnden. Lag
 uppsåt eller av oaktsamhet
 
 1. bedriver kärnteknisk verksamhet utan tillstånd enligt 5 §
-eller 5 a § andra stycket eller bryter mot 6 §,
+första stycket eller 5 a § andra stycket,
 
 2. åsidosätter sin anmälningsskyldighet enligt 7 a-7 c §§,
 eller
@@ -381,8 +408,8 @@ eller
 stöd av denna lag.
 
 Den som i övrigt med uppsåt eller av grov oaktsamhet bryter mot
-10 § döms till böter eller fängelse i högst två år.
-Lag (2000:169).
+10 § första stycket döms till böter eller fängelse i högst två
+år. Lag (2006:339).
 
 25 a § Har någon med uppsåt begått brott enligt 25 § och är brottet att
 anse som grovt skall han dömas till fängelse i lägst sex månader och
@@ -401,16 +428,17 @@ förverkat, om det inte är uppenbart obilligt. Innehar han inte längre
 
 27 § Den som inte fullgör vad tillsynsmyndigheten begär eller
 beslutar med stöd av 17 eller 18 § eller vad den lokala
-säkerhetsnämnden begär med stöd av 21 § eller som uppsåtligen eller
-av grov oaktsamhet lämnar myndigheten eller nämnden oriktiga
-uppgifter, döms till böter eller fängelse i högst sex månader.
+säkerhetsnämnden begär med stöd av 21 § eller som uppsåtligen
+eller av grov oaktsamhet lämnar myndigheten eller nämnden
+oriktiga uppgifter, döms till böter eller fängelse i högst sex
+månader.
 
-Till ansvar enligt första stycket döms också den som inte fullgör
-sin uppgiftsskyldighet enligt kommissionens förordning (Euratom) nr
-3227/76 av den 19 oktober 1976 om tillämpning av bestämmelserna om
-säkerhetskontroll i Euratom eller som vid uppgiftslämnandet
-uppsåtligen eller av grov oaktsamhet lämnar oriktiga uppgifter till
-kommissionen. Lag (1995:875).
+Till ansvar enligt första stycket döms också den som inte
+fullgör sin uppgiftsskyldighet enligt kommissionens förordning
+(Euratom) nr 302/2005 av den 8 februari 2005 om genomförandet
+av Euratoms kärnämneskontroll eller som vid uppgiftslämnandet
+uppsåtligen eller av grov oaktsamhet lämnar oriktiga uppgifter
+till kommissionen. Lag (2006:648).
 
 28 § Den som har åsidosatt ett vitesföreläggande eller överträtt ett
 vitesförbud döms inte till ansvar enligt denna lag för gärning som
