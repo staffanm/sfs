@@ -220,10 +220,10 @@ var för sig avrundas till närmast lägre hundratal kronor.
 
 Vid beräkning av sjukpenninggrundande inkomst bortses från
 sådan inkomst av anställning och annat förvärvsarbete som
-överstiger sju och en halv gånger prisbasbeloppet. Det belopp
-som sålunda skall undantas skall i första hand räknas av från
-inkomst av annat förvärvsarbete. Ersättning för utfört arbete i
-annan form än pension räknas som inkomst av anställning, såvida
+överstiger tio gånger prisbasbeloppet. Det belopp som sålunda
+skall undantas skall i första hand räknas av från inkomst av
+annat förvärvsarbete. Ersättning för utfört arbete i annan form
+än pension räknas som inkomst av anställning, såvida
 ersättningen under ett år uppgår till minst 1 000 kronor, även
 om mottagaren inte är anställd hos den som utger ersättningen.
 I nu angivna fall skall den som utför arbetet anses såsom
@@ -274,7 +274,7 @@ skulle ha utgivits i lön för utfört arbete under motsvarande
 tid. En liknande begränsning skall gälla semesterersättning.
 Inkomst av arbete för egen räkning får ej beräknas högre än som
 motsvarar skälig avlöning för liknande arbete för annans
-räkning. Lag (2004:781).
+räkning. Lag (2006:359).
 
 2 a § Vid beräkning av sjukpenninggrundande inkomst skall
 ersättning från en arbetsgivare som är bosatt utomlands eller
@@ -465,10 +465,6 @@ ersättning eller pension som redan utges ändras med hänsyn till
 efterlevandepension, förmåga eller möjlighet att bereda sig
 inkomst genom arbete,
 
-c) när delpension enligt särskild lag beviljas den försäkrade
-eller redan utgående sådan pension ändras med hänsyn till
-ändring i den försäkrades arbets- eller inkomstförhållanden,
-
 d) när tjänstepension beviljas den försäkrade,
 
 e) när ett beslut om vilandeförklaring av sjukersättning eller
@@ -485,7 +481,7 @@ med första dagen i den ersättningsperiod som inträffar i
 anslutning till att Försäkringskassan fått kännedom om
 inkomständringen.
 
-Under tid som anges under 1-6 får, om inte första stycket b-d
+Under tid som anges under 1-6 får, om inte första stycket b, d
 eller f är tillämpligt, den fastställda sjukpenninggrundande
 inkomsten sänkas lägst till vad den skulle ha varit närmast
 dessförinnan om Försäkringskassan då känt till samtliga
@@ -500,9 +496,9 @@ grunder som fastställs av regeringen eller den myndighet
 regeringen bestämmer,
 
 3. deltar i ett arbetsmarknadspolitiskt program och får
-aktivitetsstöd eller står till arbetsmarknadens förfogande
-enligt de grunder som fastställs av regeringen eller den
-myndighet regeringen bestämmer,
+aktivitetsstöd eller interpraktikstipendium eller står till
+arbetsmarknadens förfogande enligt de grunder som fastställs av
+regeringen eller den myndighet regeringen bestämmer,
 
 4. är gravid och avbryter eller inskränker sitt förvärvsarbete
 tidigast sex månader före barnets födelse eller den beräknade
@@ -521,15 +517,16 @@ totalförsvarsplikt.
 
 För en försäkrad som avses i tredje stycket 1 eller 2 eller
 deltar i ett arbetsmarknadspolitiskt program och får
-aktivitetsstöd skall Försäkringskassan, vid sjukdom under den
-aktuella tiden, beräkna sjukpenningen på en
-sjukpenninggrundande inkomst som har fastställts på grundval av
-enbart den inkomst av eget arbete som den försäkrade kan antas
-få under denna tid. Om därvid den sjukpenninggrundande
-inkomsten helt eller delvis är att hänföra till anställning,
-skall årsarbetstiden beräknas på grundval av enbart det antal
-arbetstimmar som den försäkrade kan antas ha i ifrågavarande
-förvärvsarbete under den aktuella tiden.
+aktivitetsstöd eller interpraktikstipendium skall
+Försäkringskassan, vid sjukdom under den aktuella tiden,
+beräkna sjukpenningen på en sjukpenninggrundande inkomst som
+har fastställts på grundval av enbart den inkomst av eget
+arbete som den försäkrade kan antas få under denna tid. Om
+därvid den sjukpenninggrundande inkomsten helt eller delvis är
+att hänföra till anställning, skall årsarbetstiden beräknas på
+grundval av enbart det antal arbetstimmar som den försäkrade
+kan antas ha i ifrågavarande förvärvsarbete under den aktuella
+tiden.
 
 För en försäkrad som får sådan behandling eller rehabilitering
 som avses i 7 b § eller 22 kap. 7 § och som under denna tid får
@@ -555,28 +552,31 @@ längre än 60 dagar.
 Omprövning av sjukpenningförsäkringen enligt första stycket a
 skall ej omfatta ändring av den försäkrades inkomstförhållanden
 på grund av sådant förvärvsarbete som avses i 16 kap. 15 §.
-Lag (2005:334).
+Lag (2006:365).
 
-5 a § För en försäkrad, till vilken tjänstepension utges i form av
-ålderspension eller annan därmed jämställd pension före utgången av den
-månad under vilken han fyller 65 år, skall sjukpenninggrundande inkomst
-fastställas om han har ett förvärvsarbete som beräknas pågå under minst
-sex månader i följd. Den sjukpenninggrundande inkomsten beräknas därvid
+5 a § För en försäkrad, till vilken tjänstepension utges i form
+av ålderspension eller annan därmed jämställd pension före
+utgången av den månad under vilken han fyller 65 år, skall
+sjukpenninggrundande inkomst fastställas om han har ett
+förvärvsarbete som beräknas pågå under minst sex månader i
+följd. Den sjukpenninggrundande inkomsten beräknas därvid
 enligt 2 §.
 
-Är en försäkrad med sådan tjänstepension som avses i första stycket helt
-eller delvis arbetslös samt arbetssökande, skall sjukpenninggrundande
-inkomst fastställas endast om tjänstepensionen understiger 60 procent av
-lönen närmast före pensionsavgången. Den sjukpenninggrundande inkomsten
-beräknas därvid på grundval av lönen närmast före pensionsavgången eller,
-om den försäkrade inte har för avsikt att förvärvsarbeta i samma
-omfattning som tidigare, den inkomst han kan antas få av arbete som
-svarar mot det föreliggande arbetsutbudet. Vid beräkningen skall iakttas
-att inkomsten inte får överstiga sju och en halv gånger basbeloppet.
-Vidare skall inkomsten minskas med tjänstepensionen. Minskningen får
-dock inte ge till resultat att en försäkrad som är endast delvis
-arbetslös erhåller lägre sjukpenninggrundande inkomst än om beräkning
-skett enligt första stycket. Lag (1994:46).
+Är en försäkrad med sådan tjänstepension som avses i första
+stycket helt eller delvis arbetslös samt arbetssökande, skall
+sjukpenninggrundande inkomst fastställas endast om
+tjänstepensionen understiger 60 procent av lönen närmast före
+pensionsavgången. Den sjukpenninggrundande inkomsten beräknas
+därvid på grundval av lönen närmast före pensionsavgången
+eller, om den försäkrade inte har för avsikt att förvärvsarbeta
+i samma omfattning som tidigare, den inkomst han kan antas få
+av arbete som svarar mot det föreliggande arbetsutbudet. Vid
+beräkningen skall iakttas att inkomsten inte får överstiga tio
+gånger prisbasbeloppet. Vidare skall inkomsten minskas med
+tjänstepensionen. Minskningen får dock inte ge till resultat
+att en försäkrad som är endast delvis arbetslös erhåller lägre
+sjukpenninggrundande inkomst än om beräkning skett enligt
+första stycket. Lag (2006:359).
 
 5 b § För sådana personer som enligt 2 kap. 4 och 6 §§
 socialförsäkringslagen (1999:799) anses bosatta i Sverige även
@@ -631,8 +631,8 @@ konsumentprisindex jämfört med motsvarande tal tolv månader
 dessförinnan. En omräkning som innebär en sänkning av den
 sjukpenninggrundande inkomsten skall inte beaktas. Den
 sjukpenninggrundande inkomsten kan aldrig fastställas till ett
-belopp som överstiger sju och en halv gånger prisbasbeloppet.
-Lag (2005:334).
+belopp som överstiger tio gånger prisbasbeloppet.
+Lag (2006:359).
 
 6 § En försäkrad skall, när han gör anspråk på sjukpenning,
 till Försäkringskassan anmäla sådan ändring i sina
@@ -1204,7 +1204,7 @@ det. Tidpunkten då den försäkrade fått barnet i sin vård jämställs
 därvid med tidpunkten för barnets födelse. Föräldrapenning utges dock
 inte för barn som fyllt tio år. Lag (1985:87).
 
-6 § Hel föräldrapenning utgör lägst 60 kronor om dagen
+6 § Hel föräldrapenning utgör lägst 180 kronor om dagen
 (lägstanivå).
 
 Föräldrapenning för de första 180 dagarna utges med belopp
@@ -1262,7 +1262,7 @@ adopterats.
 För en förälder som helt eller delvis saknar anställning skall
 den sjukpenninggrundande inkomst som föräldrapenningen beräknas
 på enligt sjätte stycket alltjämt omräknas på sätt som anges i
-3 kap. 5 d §. Lag (2005:334).
+3 kap. 5 d §. Lag (2006:359).
 
 7 § Hel föräldrapenning för dag utges när föräldern inte
 förvärvsarbetar. Tre fjärdedels, halv, en fjärdedels eller en
@@ -1421,9 +1421,9 @@ samma syfte som anges i punkt 1,
 5. deltagande i någon behandling som är ordinerad av läkare i
 samma syfte som anges i punkt 4. Lag (1993:743).
 
-10 b § Föräldrar till ett svårt sjukt barn under 18 år har rätt
-till tillfällig föräldrapenning när de behöver avstå från
-förvärvsarbete för vård av barnet. Lag (2004:1250).
+10 b § Föräldrar till ett allvarligt sjukt barn under 18 år har
+rätt till tillfällig föräldrapenning när de behöver avstå från
+förvärvsarbete för vård av barnet. Lag (2006:365).
 
 11 § Tillfällig föräldrapenning kan utges för vård av ett
 barn som fyllt tolv men inte sexton år i de fall barnet på
@@ -1884,9 +1884,9 @@ inom ramtiden upptas vid beräkning av antagandeinkomst enligt
 första stycket två respektive en bruttoårsinkomst med noll
 kronor. Lag (2001:489).
 
-8 § Vid beräkning av inkomstrelaterad aktivitetsersättning
-får, om det medför en högre antagandeinkomst, vid tillämpning
-av 7 § i stället användas de två högsta enligt 6 § omräknade
+8 § Vid beräkning av inkomstrelaterad aktivitetsersättning får,
+om det medför en högre antagandeinkomst, vid tillämpning av 7 §
+i stället användas de två högsta enligt 6 § omräknade
 bruttoårsinkomsterna inom en ramtid av tre år.
 
 Om, vid tillämpning av första stycket, endast en
@@ -1901,8 +1901,9 @@ sjukpenninggrundande inkomst enligt 3 kap. som den försäkrade
 har vid tidpunkten för försäkringsfallet eller den inkomst som
 då skulle ha utgjort hans eller hennes sjukpenninggrundande
 inkomst om Försäkringskassan hade känt till samtliga
-förhållanden, får den sjukpenninggrundande inkomsten i stället
-utgöra bruttoårsinkomst. Lag (2004:781).
+förhållanden, får den sjukpenninggrundande inkomsten, till den
+del den inte överstiger 7,5 prisbasbelopp, i stället utgöra
+bruttoårsinkomst. Lag (2006:359).
 
 Om ersättning
 
@@ -1965,32 +1966,7 @@ enligt 2 kap. socialförsäkringslagen (1999:799),
 enligt 1 oavbrutet har vistats i Sverige efter att ha ansökt om
 uppehållstillstånd. Lag (2001:489).
 
-4 § /Upphör att gälla U:2006-03-31/
-Om den försäkrade har beviljats uppehållstillstånd i
-Sverige med tilllämpning av 3 kap. 2 eller 3 § utlänningslagen
-(1989:529) skall som faktisk försäkringstid även tillgodoräknas
-tid då han eller hon har varit bosatt i sitt tidigare hemland
-från och med det år då han eller hon fyllde 16 år till
-tidpunkten då han eller hon först ankom till Sverige. Därvid
-skall en så stor andel av tiden i hemlandet tillgodoräknas som
-svarar mot förhållandet mellan den tid under vilken den
-försäkrade har varit bosatt i Sverige, inräknad den tid som
-avses i 3 § 2, från den första ankomsten till landet till och
-med året före försäkringsfallet och hela tidsrymden från det
-att den försäkrade första gången kom till landet till och med
-året före försäkringsfallet. Vid beräkning enligt detta stycke
-bortses från tid för vilken den försäkrade, vid bosättning i
-Sverige, har rätt till sådan ersättning från det andra landet
-och som inte enligt 11 § andra stycket skall ligga till grund
-för beräkning av garantiersättning.
-
-Med tid för bosättning i hemlandet likställs tid under vilken
-den försäkrade före den första ankomsten till Sverige befunnit
-sig i annat land där han eller hon beretts en tillfällig
-fristad. Lag (2002:309).
-
-4 § /Träder i kraft I:2006-03-31/
-Om den försäkrade har beviljats uppehållstillstånd i
+4 § Om den försäkrade har beviljats uppehållstillstånd i
 Sverige med tillämpning av 4 kap. 1 eller 2 § utlänningslagen
 (2005:716) skall som faktisk försäkringstid även tillgodoräknas
 tid då han eller hon har varit bosatt i sitt tidigare hemland
@@ -2053,7 +2029,13 @@ förutsättningarna för tillgodoräknande av försäkringstid enligt
 
 För en försäkrad som är utländsk medborgare skall vad som sägs
 i andra stycket gälla under förutsättning att han eller hon är
-bosatt i Sverige sedan minst fem år. Lag (2002:309).
+bosatt i Sverige sedan minst fem år.
+
+En utländsk medborgare med ställning som varaktigt bosatt i en
+annan EU-stat med uppehållstillstånd i Sverige skall, när det
+gäller beräkning av försäkringstid för garantiersättning enligt
+andra stycket, likställas med en svensk medborgare.
+Lag (2006:365).
 
 Om garantinivå
 
@@ -2231,7 +2213,8 @@ Vad som sägs i denna paragraf skall inte tillämpas i fråga om
 ändring av sjukersättning och aktivitetsersättning i anledning
 av förändring av prisbasbeloppet. Lag (2001:489).
 
-7 § Om arbetsförmågan väsentligt förbättras för en försäkrad
+7 § /Upphör att gälla U:2007-01-01/
+Om arbetsförmågan väsentligt förbättras för en försäkrad
 som uppbär sjukersättning eller aktivitetsersättning, skall
 förmånen dras in eller minskas med hänsyn till förbättringen.
 En försäkrad som regelbundet och under en längre tid har
@@ -2250,6 +2233,27 @@ förbättrad arbetsförmåga.
 Aktivitetsersättning får inte dras in eller minskas på grund av
 att den försäkrade deltar i sådan aktivitet som avses i 7 kap.
 5 §. Lag (2001:489).
+
+7 § /Träder i kraft I:2007-01-01/
+Om arbetsförmågan väsentligt förbättras för en försäkrad
+som uppbär sjukersättning eller aktivitetsersättning, skall
+förmånen dras in eller minskas med hänsyn till förbättringen.
+En försäkrad som regelbundet och under en längre tid har
+uppvisat en arbetsförmåga som han eller hon antogs sakna när
+beslutet om sjukersättning eller aktivitetsersättning fattades
+skall därvid, om inte annat framkommer, antas ha en väsentligt
+förbättrad arbetsförmåga.
+
+Sådan sjukersättning eller aktivitetsersättning som omfattas av
+ett beslut enligt 15 § eller som har vilandeförklarats enligt
+16 § får inte dras in eller minskas på grund av att den
+försäkrade under den tid och i den omfattning som anges i
+beslutet genom förvärvsarbete eller studier har uppvisat en
+väsentligt förbättrad arbetsförmåga.
+
+Aktivitetsersättning får inte dras in eller minskas på grund av
+att den försäkrade deltar i sådan aktivitet som avses i 7 kap.
+5 §. Lag (2006:365).
 
 7 a § Har upphävts genom lag (2000:463).
 
@@ -2306,7 +2310,8 @@ utges. Lag (2002:191).
 
 13 § Har upphävts genom lag (1999:800).
 
-14 § Försäkringskassan får efter ansökan av den försäkrade
+14 § /Upphör att gälla U:2007-01-01/
+Försäkringskassan får efter ansökan av den försäkrade
 besluta att dennes sjukersättning eller aktivitetsersättning i
 den omfattning som anges i 15 och 16 §§ skall betalas ut eller
 förklaras vilande under tid som den försäkrade förvärvsarbetar
@@ -2326,6 +2331,29 @@ aktivitetsersättning eller en sådan kvotdel därav som anges i
 vilandeförklaras skall beaktas omfattningen av det
 förvärvsarbete som den försäkrade avser att utföra.
 Lag (2001:489).
+
+14 § /Träder i kraft I:2007-01-01/
+Försäkringskassan får efter ansökan av den försäkrade
+besluta att dennes sjukersättning eller aktivitetsersättning i
+den omfattning som anges i 15 och 16 §§ skall betalas ut eller
+förklaras vilande under tid som den försäkrade förvärvsarbetar
+eller studerar med utnyttjande av en arbetsförmåga som han
+eller hon antogs sakna när beslutet om förmånen fattades. Ett
+sådant beslut får endast fattas om den försäkrade under minst
+tolv månader omedelbart dessförinnan har uppburit
+sjukersättning eller aktivitetsersättning.
+
+Sjukersättning och aktivitetsersättning som har förklarats
+vilande skall inte betalas ut för den tid som
+vilandeförklaringen avser.
+
+Vilandeförklaring får avse hel sjukersättning eller
+aktivitetsersättning eller en sådan kvotdel därav som anges i 7
+kap. 2 §. Vid bedömning av hur stor del av förmånen som skall
+vilandeförklaras skall beaktas omfattningen av det
+förvärvsarbete som den försäkrade avser att utföra. Vid studier
+skall dock alltid den beviljade förmånen i sin helhet
+vilandeförklaras. Lag (2006:365).
 
 15 § Försäkringskassan får besluta att den försäkrade under
 en period om tolv månader får förvärvsarbeta högst tre månader
@@ -2354,7 +2382,8 @@ aktivitetsersättning omfattar. Lag (2004:781).
 
 17 § Har upphävts genom lag (2003:422).
 
-18 § Ett beslut om vilandeförklaring enligt 16 § skall
+18 § /Upphör att gälla U:2007-01-01/
+Ett beslut om vilandeförklaring enligt 16 § skall
 upphävas om den försäkrade begär det.
 
 Försäkringskassan får utan att den försäkrade har begärt det
@@ -2366,6 +2395,20 @@ arbetsförsök som legat till grund för beslutet om
 vilandeförklaring för att i stället uppbära föräldrapenning,
 tillfällig föräldrapenning eller havandeskapspenning.
 Lag (2003:422).
+
+18 § /Träder i kraft I:2007-01-01/
+Ett beslut om vilandeförklaring enligt 16 § skall upphävas
+om den försäkrade begär det.
+
+Försäkringskassan får utan att den försäkrade har begärt det
+upphäva ett beslut om vilandeförklaring om den försäkrade
+insjuknar och beräknas bli långvarigt sjuk. Detsamma gäller om
+den försäkrade har vilande sjukersättning eller
+aktivitetsersättning och helt eller delvis avbryter det
+arbetsförsök eller de studier som legat till grund för beslutet
+om vilandeförklaring för att i stället uppbära föräldrapenning,
+tillfällig föräldrapenning eller havandeskapspenning.
+Lag (2006:365).
 
 19 § Regeringen eller den myndighet som regeringen bestämmer
 meddelar närmare föreskrifter om tillämpningen av 14-18 §§.
@@ -4875,3 +4918,34 @@ inkomst emellertid göras tidigast den 1 juli 2006.
 omräkning av den sjukpenninggrundande inkomsten för varje helt
 år som infallit före den 1 juli 2005 göras med utgångspunkt i
 löneutvecklingen inom yrkesområdet.
+
+2006:359
+
+1. Denna lag träder i kraft den 1 juli 2006.
+
+2. Äldre bestämmelser gäller fortfarande beträffande förmåner
+som avser tid före ikraftträdandet. Den nya bestämmelsen i 3
+kap. 2 § andra stycket första meningen skall dock gälla vid
+tillämpning av bestämmelserna om sjukpenninggrundande inkomst i
+3 kap. 5 § tredje stycket, 5 b och 5 c §§ samt 4 kap. 6 §
+sjätte stycket vid beräkning av sådan sjukpenninggrundande
+inkomst som hänför sig till tid före ikraftträdandet.
+
+3. Äldre bestämmelser i 4 kap. 6 § första stycket gäller
+fortfarande i fråga om föräldrapenning för barn som är födda
+före den 1 juli 2006.
+
+4. Äldre bestämmelser i 4 kap. 6 § första stycket skall
+tillämpas vid prövning av om en förälder uppfyller villkoret i
+4 kap. 6 § andra stycket första meningen till den del den där
+angivna tidsperioden hänför sig till tid före ikraftträdandet.
+
+2006:365
+
+1. Denna lag träder i kraft i fråga om 3 kap. 5 §, 4 kap.
+10 b § och 9 kap. 7 § den 1 juli 2006 och i övrigt den 1 januari
+2007.
+
+2. De nya bestämmelserna i 3 kap. 5 § tredje stycket 3 och
+fjärde stycket skall tillämpas för försäkrad som beviljats
+interpraktikstipendium för tid efter ikraftträdandet.
