@@ -52,7 +52,7 @@ myndighet skall den samtidigt lämna information om
 - på vilka bestämmelser skyldigheten att lämna uppgifter
 grundas,
 
-- av vem som samlar in uppgifterna eller på vems uppdrag
+- vem som samlar in uppgifterna eller på vems uppdrag
 insamlandet sker,
 
 - ifall samråd har skett med den organisation som företräder
@@ -64,13 +64,15 @@ myndigheten,
 
 - vad som gäller om uppgifternas bevarande,
 
-- eventuella påföljder om uppgifterna inte lämnas,
-
 - andra förhållanden som är av betydelse i sammanhanget, såsom
 den enskildes rätt att ansöka om information och få rättelse.
 
 Om uppgiftslämnandet är frivilligt skall myndigheten upplysa om
-det. Förordning (2001:997).
+det.
+
+Information om eventuella påföljder om uppgiftsskyldigheten
+inte fullgörs skall lämnas på lämpligt sätt.
+Förordning (2006:381).
 
 Behandling av personuppgifter m.m.
 
@@ -194,6 +196,7 @@ Arbetskraftsundersökningar              SCB
 Vakanser och arbetslöshet               SCB
 Arbetsmiljö                             Arbetsmiljöverket
 Arbetsskador                            Arbetsmiljöverket
+Sjuklöner                               SCB
 
 Behandling av känsliga personuppgifter
 För framställning av statistik över Sysselsättning, förvärvsarbete och
@@ -261,9 +264,12 @@ Jordbrukets produktion                  Statens jordbruksverk
 Sysselsättning i jordbruket             Statens jordbruksverk
 Jordbrukets ekonomi                     Statens jordbruksverk
 Prisutveckling i jordbruket             Statens jordbruksverk
+Djurhälsa                               Statens jordbruksverk
 Produktion i skogsbruket                Skogsstyrelsen
 Sysselsättning i skogsbruket            Skogsstyrelsen
-Riksskogstaxeringar                     Sveriges lantbruksuniversitet
+Miljö och sociala frågor i skogsbruket  Skogsstyrelsen
+Riksskogstaxeringar                     Sveriges
+                                        lantbruksuniversitet
 Fiske                                   Fiskeriverket
 Vattenbruk                              Fiskeriverket
 
@@ -295,7 +301,6 @@ till behandlingen, och medlemskap i fackförening.
 
 MILJÖ
 Utsläpp                                 Naturvårdsverket
-Belastning                              Naturvårdsverket
 Avfall                                  Naturvårdsverket
 Miljötillstånd                          Naturvårdsverket
 Miljöbalkens tillämpning                Naturvårdsverket
@@ -321,7 +326,8 @@ Industrins kapacitetsutnyttjande        SCB
 Industrins lager                        SCB
 Industrins leveranser och order         SCB
 Näringslivets investeringar             SCB
-Inkvartering                            Turistdelegationen
+Inkvartering                            Verket för
+                                        näringslivsutveckling
 
 OFFENTLIG EKONOMI
 Kommunernas finanser                    SCB
@@ -393,6 +399,8 @@ Luftfart                                SIKA
 Postverksamhet                          SIKA
 Televerksamhet                          SIKA
 Kommunikationsvanor                     SIKA
+Kollektivtrafik och                     SIKA
+samhällsbetalda resor
 
 Behandling av känsliga personuppgifter m.m.
 
@@ -406,4 +414,4 @@ Högskoleväsende                         Högskoleverket
 Studiestöd                              Centrala studiestödsnämnden
 Forskning                               SCB
 Befolkningens utbildning                SCB
-Förordning (2005:88).
+Förordning (2006:381).
