@@ -12,12 +12,13 @@ Definitioner
 
 ramdirektiv: rådets direktiv 70/156/EEG av den 6 februari 1970
 om tillnärmning av medlemsstaternas lagstiftning om
-typgodkännande av motorfordon och släpvagnar till dessa,
+typgodkännande av motorfordon och släpvagnar till dessa fordon,
 senast ändrat genom Europaparlamentets och rådets direktiv
-2003/102/EG, och Europaparlamentets och rådets direktiv
+2005/64/EG, och Europaparlamentets och rådets direktiv
 2002/24/EG av den 18 mars 2002 om typgodkännande av två- och
 trehjuliga motorfordon och om upphävande av rådets direktiv
-92/61/EEG, ändrat genom kommissionens direktiv 2003/77/EG,
+92/61/EEG, senast ändrat genom kommissionens direktiv
+2005/30/EG,
 
 särdirektiv: direktiv som antagits med stöd av bestämmelserna i
 något av ramdirektiven,
@@ -60,8 +61,6 @@ samband med en specificerad fordonstyp, förutsatt att ett
 sådant förfarande uttryckligen är tilllåtet enligt något av
 särdirektiven,
 
-tung buss: buss med en totalvikt av över 3 500 kilogram,
-
 motorbensin: bensin som är avsedd för motordrift och som
 omfattas av nr 2710 11 41, 2710 11 45, 2710 11 49, 2710 11 51
 eller 2710 11 59 i Kombinerade nomenklaturen (KN-nr) enligt
@@ -76,14 +75,21 @@ sådana motorfordon som avses i rådets direktiv 70/220/EEG av
 den 20 mars 1970 om tillnärmning av medlemsstaternas
 lagstiftning om åtgärder mot luftförorening genom avgaser från
 motorfordon, senast ändrat genom kommissionens direktiv
-2002/80/EG och rådets direktiv 88/77/EEG av den 3 december
-1987 om tillnärmning av medlemsstaternas lagstiftning om
-åtgärder mot utsläpp av gasformiga föroreningar från
-dieselmotorer som används i fordon, senast ändrat genom
-kommissionens direktiv 2001/27/EG.
+2003/76/EG, och Europaparlamentets och rådets direktiv
+2005/55/EG av den 28 september 2005 om tillnärmning av
+medlemsstaternas lagstiftning om åtgärder mot utsläpp av gas-
+och partikelformiga föroreningar från motorer med
+kompressionständning som används i fordon samt mot utsläpp av
+gasformiga föroreningar från motorer med gnisttändning drivna
+med naturgas eller gasol vilka används i fordon, ändrat genom
+kommissionens direktiv 2005/78/EG.
+
+alternativt motorbränsle: för motordrift avsett motorbränsle
+som inte är motorbensin eller dieselbränsle som till
+övervägande del har sitt ursprung i råolja.
 
 I övrigt har beteckningarna i denna lag samma innebörd som i
-lagen (2001:559) om vägtrafikdefinitioner. Lag (2004:1079).
+lagen (2001:559) om vägtrafikdefinitioner. Lag (2006:927).
 
 Avgasreningskrav
 
@@ -328,7 +334,15 @@ miljöklasser som anges i bilaga 2 till denna lag.
 Dieselbränsle skall av den som tillverkar eller yrkesmässigt
 till Sverige för in sådana motorbränslen delas in i och
 tillhandahållas i de miljöklasser som anges i bilaga 3 till
-denna lag. Lag (2004:1079).
+denna lag.
+
+Ett alternativt motorbränsle får delas in och tillhandahållas i
+den miljöklass som anges i bilaga 4 eller 5 till denna lag, om
+bränslet uppfyller de krav som anges i bilagan.
+
+Regeringen eller den myndighet som regeringen bestämmer prövar
+om ett bränsle uppfyller kraven i bilaga 4 eller 5.
+Lag (2006:927).
 
 24 § Motorbensin som inte uppfyller miljöspecifikationerna i
 miljöklass 2 och dieselbränsle som inte uppfyller
@@ -396,8 +410,7 @@ Bilaga 1
 
 Miljöklasser för bilar
 
-A. Personbilar, lätta lastbilar och bussar med en totalvikt om
-högst 3 500 kg
+A. Personbilar, lätta lastbilar och lätta bussar
 
 (Nedan angivna direktiv är ändringar i direktiv 70/220/EEG)
 
@@ -406,6 +419,13 @@ Miljöklass 2000         Bilar som uppfyller kraven i direktiv 98/69/EG
 
 Miljöklass 2005              Bilar som uppfyller kraven i direktiv 98/69/EG
                         rad B i tabell 5.3.1.4 i bilaga I.
+
+Miljöklass 2005 PM   Personbilar, bussar och lastbilar, som
+                        har motor med kompressionständning och
+                        uppfyller kraven i direktiv 98/69/EG
+                        rad B i tabell 5.3.1.4 i bilaga I, men
+                        med partikelutsläpp som vid provning
+                        enligt direktivet är högst 5 mg/km.
 
 Miljöklass El                Bilar som är inrättade för att drivas enbart
                         med elektricitet från batterier.
@@ -438,6 +458,7 @@ Miljöklass El                Bilar som är inrättade för att drivas enbart
 Miljöklass Hybrid    Bilar som är inrättade för att kunna drivas
                         såväl med elektricitet från batterier som med
                         förbränningsmotor.
+Lag (2006:475).
 
 Bilaga 2
 
@@ -470,24 +491,24 @@ lägst volymhalt procent
 - Förångat vid 100ºC,     -              72             -
 högst volymhalt procent
 
-- Förångat vid 150ºC,     75             -              75
+- Förångat vid 150ºC,     75             75             75
 lägst volymhalt procent
 
-- Förångat vid 180ºC,     -              95             -
+- Förångat vid 180ºC,     -              -              -
 lägst volymhalt procent
 
 Slutkokpunkt, högst ºC    205            200            -
 
-Olefiner, högst           13,0           0,5            18,0
+Olefiner, högst           13,0           1,0            18,0d
 volymhalt procent
 
-Aromater, högst           35,0           0,5            35,0
+Aromater, högst           35,0           1,0            35,0
 volymhalt procent
 
-Bensen, högst             1,0            0,1            1,0
-volymhalt procent
+Bensen, högst
+volymhalt procent         1,0            0,1            1,0
 
-Cykloalkaner, högst       -              0,5            -
+Cyklohexaner, högst       -              2,0            -
 volymhalt procent
 
 n-Hexan, högst            -              0,5            -
@@ -519,7 +540,7 @@ högst volymhalt procent
 högst volymhalt procent
 
 - Etrar som innehåller    15             -              15
-5 eller flera kolatomer
+fem eller flera kolatomer
 per molekyl, högst
 volymhalt per procent
 
@@ -541,7 +562,7 @@ Bensin i miljöklass 1 motorbensin skall uppfylla skäliga
 funktionskrav vad avser renhet för insugnings- respektive
 insprutningsventiler. Bensin i miljöklass 1 avsedd för fordon
 med katalytisk avgasrening får ej innehålla askbildande ämnen.
-Lag (2004:1079).
+Lag (2006:927).
 
 
 Bilaga 3
@@ -566,8 +587,8 @@ kubikmeter
 Destillation:
 - begynnelsekokpunkt,     180            180            -
 lägst ºC
-- vid 95 procent          285            295            360
-destillat, högst ºC
+- vid 95 procent
+destillat, högst ºC       320            320            360
 
 Aromatiska kolväten,      5              20             -
 högst volymhalt procent
@@ -582,4 +603,247 @@ masshalt procent
 
 Svavel, högst             10             10             10
 milligram per kilogram
-Lag (2004:1079).
+
+Fettsyrametylestrare,
+högst volymhalt procent   5              5              -
+Lag (2006:927).
+
+Bilaga 4
+
+Miljöklass för alternativa motorbränslen som är avsedda att
+ersätta motorbensin
+
+För att indelas i miljöklass som anges i denna bilaga skall
+bränslet uppfylla följande specifikation.
+
+Specifikation (Etanolbränsle för gnisttända motorer)
+
+Krav                                            Miljöklass 1
+
+Researchoktantal, lägst                         95
+
+Motoroktantal, lägst                            85
+
+Ångtryck, högst kilopascal                      70a/ 95b
+
+Ångtryck, lägst kilopascal                      35a/ 50b
+
+Etanol samt högre alkoholer, lägst volymhalt
+procent                                         75a/70b
+
+Bensinc, volymhalt procent                      (14-25)a/ (14-30)b
+
+Slutkokpunkt, högst  C  205
+
+Destillationsrest, högst volymhalt procent      2
+
+Högre alkoholer med mellan tre och åtta
+kolatomer per molekyl, högst volymhalt procent  2
+
+Metanol, högst volymhalt procent                1
+
+Etrar som innehåller fem eller fler kolatomer
+per molekyl,högst volymhalt procent             5,2
+
+Vatten, högst volymhalt procent                 0,3
+
+Oorganiskt klor, högst milligram per liter      1
+
+Svavelhalt, högst milligram per kilogram        10
+
+Bly, högst milligram per liter                  5d
+
+Fosfor, högst milligram per liter               0,2d
+
+Oxidationsstabilitet, lägst minutere            360
+
+Hartstal, högst milligram per 100 milliliter    5
+
+pHef                                            6,5-9,0
+
+Korrosiv inverkan på koppar (3 timmar vid
+50 C), enligt skalag                            Klass 1
+
+Syratal, högst masshalt procent                 0,005
+eller
+räknat som ättiksyra, högst milligram per
+liter                                           40
+
+a Avser tiden fr.o.m. den 16 maj t.o.m. den 31 augusti i X-,
+Y-, Z-, AC- och BD-län samt fr.o.m. den 1 maj t.o.m. den 15
+september för övriga län. För övrig tid än den som anges här
+eller under b är gränsvärden enligt antingen a eller b
+tillåtna.
+
+b Avser tiden fr.o.m. den 16 oktober t.o.m. den 31 mars i X-,
+Y-, Z-, AC- och BD-län samt fr.o.m. den 1 november t.o.m. den
+15 mars i övriga län. För övrig tid än den som anges här eller
+under a är gränsvärden enligt antingen a eller b tillåtna.
+
+c Bensin skall uppfylla miljöklass 1.
+
+d Inga fosfor-, järn-, mangan- eller blyhaltiga ämnen får
+tillsättas bränslet.
+
+e Enligt standardiserad metod för bestämning av
+oxidationsstabilitet hos bensin.
+
+f Enligt standardiserad metod för bestämning av pH-värde i
+etanol.
+
+g Enligt standardiserad metod för bedömning av korrosiv
+inverkan på koppar. Lag (2006:927).
+
+
+Bilaga 5
+
+Miljöklass för alternativa motorbränslen som är avsedda att
+ersätta dieselbränsle
+
+För att indelas i miljöklass som anges i denna bilaga skall
+bränslet uppfylla någon av följande specifikationer.
+
+Specifikation 1 (FAME - fettsyrametylestrar)
+
+Krav                                            Miljöklass 1
+
+Cetantal, lägst                                 51
+
+Esterhalt, lägst masshalt procent               96,5
+
+Densitet vid 15 C, högst kilogram per
+kubikmeter                                      900
+
+Densitet vid 15 C, lägst kilogram per
+kubikmeter                                      860
+
+Viskositet vid 40 C, kvadratmillimeter
+per sekund                                      3,50-5,00
+
+Flampunkt, lägst  C                             120
+
+Sulfataska, högst masshalt procent              0,02
+
+Vattenhalt, högst milligram per kilogram        500
+
+Svavelhalt, högst milligram per kilogram        10
+
+Kolåterstod vid 10 procent
+destillationsåterstod, högst masshalt procent   0,30
+
+Föroreningshalt, högst milligram per kilogram   24
+
+Korrosiv inverkan på koppar (3 timmar vid
+50 C), enligt skalaa                            Klass 1
+
+Oxidationsstabilitet vid 110 C, lägst timmarb   6
+
+Syratal, högst milligram KOH per gram           0,50
+
+Jodtal, högst gram jod per 100 gram             120
+
+Linolensyrametylester, högst masshalt procent   12,0
+
+Fleromättade metylestrar (fler än tre
+dubbelbindningar), högstmasshalt procent        1
+
+Metanolhalt, högst masshalt procent             0,20
+
+Monoglyceridhalt, högst masshalt procent        0,80
+
+Diglyceridhalt, högst masshalt procent          0,20
+
+Triglyceridhalt, högst masshalt procent         0,20
+
+Fri glycerol, högst masshalt procent            0,02
+
+Total glycerol, högst masshalt procent          0,25
+
+Natrium + Kalium, högst milligram per
+kilogram                                        5,0
+
+Kalcium + Magnesium, högst milligram per
+kilogram        5,0
+
+Fosfor, högst milligram per kilogram            10,0
+
+a Enligt standardiserad metod för bedömning av korrosiv
+inverkan på koppar.
+
+b Enligt standardiserad metod för bestämning av
+oxidationsstabilitet hos bränslet.
+
+Specifikation 2 (Etanolbränsle för kompressionstända motorer)
+
+Krav                                            Miljöklass 1
+
+Alkohol, lägst masshalt procent                 92,4
+varav andra alkoholer än etanol, högst
+masshalt procent                                2
+
+Densitet vid 15 C, högst kilogram per
+kubikmeter                                      815
+
+Densitet vid 15 C, lägst kilogram per
+kubikmeter                                      795
+
+Askhalt, högst masshalt procent                 0,001
+
+Flampunkt, lägst  C                             10
+
+Surhetsgrad, räknat som ättiksyra, högst
+masshalt procent                                0,0025
+
+Neutraliseringstal (stark syra) KOH
+milligram per liter högst                       1
+
+Färg, enligt skala högsta                       10
+
+Torrhalt vid 100 C, högst milligram per
+kilogram                                        15
+
+Vattenhalt, högst masshalt procent              6,5
+
+Fosfor, högst gram per liter                    0,2
+
+Aldehydhalt, räknat som ättiksyra, högst
+masshalt procent                                0,0025
+
+Svavelhalt, högst milligram per kilogram        10
+
+Esterhalt, räknat som etylacetat, högst
+masshalt procent                                0,1
+
+Ett bränsle som uppfyller ovanstående krav
+får spädas med cetanförbättringsmedel, om
+spädningen uppgår till högst 10 massprocent
+av det ospädda bränslet. Därutöver får
+denaturerings- och färgämnen tillsättas.
+
+a Enligt standardiserad metod för färgbestämning.
+
+Specifikation 3 (Syntetiska dieselbränslen)
+
+Krav                                            Miljöklass 1
+
+Bränsle som huvudsakligen består av
+paraffinkolväten framställda ur biomassa
+eller fossil råvara.
+
+Cetantal, lägst                                      51
+
+Densitet vid 15 C, högst kilogram per
+kubikmeter                                      845
+
+Destillation: vid 95 volymprocent destillat,
+högst  C                                        360
+
+Aromatiska kolväten, högst volymhalt procent    5
+
+Polycykliska aromatiska kolväten, högst
+volymhalt procent                               Inte mätbara
+
+Svavelhalt, högst milligram per kilogram        10
+
+a Enligt Svensk Standard SS 155116, utgåva 1.
+Lag (2006:927).
