@@ -1,6 +1,4 @@
 
-
-
 1 kap. Definitioner
 
 1 § I denna lag betyder
@@ -38,18 +36,26 @@ finansieringsrörelse, utan att vara tillståndspliktigt enligt 2
 kap. 1 § samma lag,
 
 7. holdingföretag med finansiell verksamhet: ett finansiellt
-institut som har minst ett dotterföretag som är kreditinstitut,
+institut som inte är ett blandat finansiellt holdingföretag
+enligt 1 kap. 3 § 3 lagen (2006:531) om särskild tillsyn över
+finansiella konglomerat och
+
+a) som har minst ett dotterföretag som är kreditinstitut,
 värdepappersbolag, institut för elektroniska pengar eller
-motsvarande utländskt företag och vars dotterföretag även i
-övrigt uteslutande eller huvudsakligen utgörs av sådana företag
-eller finansiella institut,
+motsvarande utländskt företag, och
+
+b) vars dotterföretag även i övrigt uteslutande eller
+huvudsakligen utgörs av sådana företag eller finansiella
+institut som avses i a,
 
 8. holdingföretag med blandad verksamhet: ett svenskt eller
 utländskt moderföretag som inte är kreditinstitut,
 värdepappersbolag, institut för elektroniska pengar,
-motsvarande utländskt företag eller holdingföretag med
-finansiell verksamhet, men som har minst ett dotterföretag som
-är kreditinstitut, värdepappersbolag, institut för elektroniska
+motsvarande utländskt företag, holdingföretag med finansiell
+verksamhet eller ett blandat finansiellt holdingföretag enligt
+1 kap. 3 § 3 lagen om särskild tillsyn över finansiella
+konglomerat, men som har minst ett dotterföretag som är
+kreditinstitut, värdepappersbolag, institut för elektroniska
 pengar eller motsvarande utländskt företag,
 
 9. anknutet företag: ett svenskt eller utländskt företag vars
@@ -60,9 +66,16 @@ verksamheten i ett eller flera kreditinstitut,
 värdepappersbolag, institut för elektroniska pengar eller
 motsvarande utländska företag,
 
-10. ägarintresse: ett direkt eller indirekt innehav av 20 %
-eller mer av rösterna eller kapitalet i ett företag.
-Lag (2004:314).
+10. EES: Europeiska ekonomiska samarbetsområdet.
+
+Det finns ett ägarintresse om
+
+1. en juridisk person är intresseföretag till ett företag
+enligt 1 kap. 5 § årsredovisningslagen (1995:1554), eller
+
+2. ett företag direkt eller indirekt äger minst 20 % av
+kapitalet eller av samtliga röster i ett annat företag.
+Lag (2006:536).
 
 2 § Ett institut, ett holdingföretag med finansiell verksamhet eller
 ett holdingföretag med blandad verksamhet är moderföretag och en
@@ -111,17 +124,19 @@ Moderföretag och dotterföretag utgör tillsammans en koncern. Med
 koncernföretag avses i denna lag företag inom samma koncern.
 Lag (1995:1598).
 
-3 § I de fall som avses i 2 § första stycket 1-3 och andra stycket
-samt 1 § 10 skall sådana rättigheter som tillkommer någon som handlar
-i eget namn men för en annan fysisk eller juridisk persons räkning
-anses tillkomma den personen.
+3 § I de fall som avses i 2 § första stycket 1-3 och andra
+stycket samt 1 § andra stycket skall sådana rättigheter som
+tillkommer någon som handlar i eget namn men för en annan
+fysisk eller juridisk persons räkning anses tillkomma den
+personen.
 
-Vid bestämmandet av antalet röster i ett dotterföretag eller
-ägarintresse beaktas inte de aktier eller andelar i dotterföretaget
-som innehas av företaget självt eller av dess dotterföretag. Detsamma
-gäller aktier eller andelar som innehas av den som handlar i eget
-namn men för dotterföretagets eller ägarintressets eller dess
-dotterföretags räkning. Lag (1995:1598).
+När antalet röster i ett dotterföretag eller ett företag enligt
+1 § andra stycket bestäms skall inte de aktier eller andelar i
+respektive företag som innehas av företaget självt eller av
+dess dotterföretag beaktas. Detsamma gäller aktier eller
+andelar som innehas av den som handlar i eget namn men för
+något av företagens eller deras dotterföretags räkning.
+Lag (2006:536).
 
 2 kap. Kapitalkrav och kapitalbas
 
@@ -207,33 +222,51 @@ medgivande av Finansinspektionen, räknas värdet av
 förlagsinsatser samt andra kapitaltillskott och reserver än som
 sägs i andra och tredje styckena. Lag (2000:444).
 
-7 § Från det egna kapitalet skall institutet räkna av
-förluster uppkomna under löpande räkenskapsår.
+7 § Från det egna kapitalet skall institutet räkna av förluster
+uppkomna under löpande räkenskapsår.
 
 Från det primära kapitalet skall institutet räkna av övervärden
 vid förvärv av rörelse (inkråmsgoodwill), som redovisas i
 institutet.
 
 Från summan av det primära och det supplementära kapitalet
-enligt 6 § andra-fjärde styckena skall institutet räkna av det
-bokförda värdet av vad som har skjutits till som aktiekapital
-eller i annan form (tillskott) i ett företag som driver
-försäkringsverksamhet eller som är ett institut eller ett
-finansiellt institut, om
+enligt 6 § andra-fjärde styckena skall institutet i de fall som
+anges i fjärde stycket räkna av det bokförda värdet av aktierna
+eller av vad som har skjutits till i annan form (tillskott) i
+
+1. ett institut, ett institut för elektroniska pengar, ett
+försäkringsbolag eller motsvarande utländska företag,
+
+2. ett finansiellt institut,
+
+3. ett utländskt återförsäkringsföretag eller
+
+4. ett försäkringsholdingföretag.
+
+En sådan avräkning skall göras om
 
 1. institutets ägarandel överstiger 5 % av företagets kapital,
 eller
 
-2. i det fall ägarandelen är mindre än enligt 1, tillskottet
-eller summan av tillskotten överstiger 5 % av det egna
-kapitalet eller de egna fonderna i företaget eller det
+2. i det fall ägarandelen är mindre än enligt 1,
+
+a) tillskottet eller summan av tillskotten överstiger 5 % av
+det egna kapitalet eller de egna fonderna i företaget eller det
 sammanlagda bokförda värdet av sådana tillskott överstiger 10 %
-av summan av institutets primära och supplementära kapital.
+av summan av institutets primära och supplementära kapital,
+eller
+
+b) institutet har ett ägarintresse i det andra företaget.
 
 Avräkning skall inte göras för tillskott som belöper på företag
-som omfattas av gruppbaserad redovisning enligt 6 kap. genom
-fullständig konsolidering eller genom en klyvningsmetod.
-Lag (2004:314).
+som omfattas av samma gruppbaserade redovisning som institutet
+enligt 6 kap. genom fullständig konsolidering eller genom en
+klyvningsmetod.
+
+Avräkning skall inte heller göras för tillskott som belöper på
+företag som gemensamt med institutet omfattas av tillsyn enligt
+lagen (2006:531) om särskild tillsyn över finansiella
+konglomerat. Lag (2006:536).
 
 Utvidgad kapitalbas
 
@@ -681,16 +714,23 @@ andra företag, om ägarnas ansvar är begränsat till den andel av
 kapitalet som dessa innehar, eller
 
 3. ett institut eller ett holdingföretag med finansiell
+verksamhet samt de institut, institut för elektroniska pengar,
+motsvarande utländska företag eller finansiella institut som
+det förstnämnda institutet eller företaget har en gemensam
+eller i huvudsak gemensam ledning med, eller
+
+4. ett institut eller ett holdingföretag med finansiell
 verksamhet och dotterföretag enligt 1 samt företag som det
-finns ägarintresse i enligt 2.
+finns ägarintresse i enligt 2 eller i huvudsak gemensam ledning
+med enligt 3.
 
 När en finansiell företagsgrupp föreligger enligt första
 stycket, skall även ett anknutet företag som är dotterföretag
 eller som det finns ägarintresse i ingå i gruppen.
-Lag (2002:153).
+Lag (2006:536).
 
-2 § Regeringen får föreskriva att bestämmelserna om finansiella
-företagsgrupper skall gälla även för 1.
+2 § Regeringen får meddela föreskrifter om att bestämmelserna
+om finansiella företagsgrupper skall gälla även för
 
 1. ett institut eller ett holdingföretag med finansiell
 verksamhet och de institut, institut för elektroniska pengar,
@@ -702,22 +742,18 @@ första stycket 2,
 verksamhet och de institut, institut för elektroniska pengar,
 motsvarande utländska företag eller finansiella institut, som
 det förstnämnda institutet eller holdingföretaget har andra
-former av kapitalbindningar till,
+former av kapitalbindningar till, eller
 
 3. ett institut eller ett holdingföretag med finansiell
 verksamhet och de institut, institut för elektroniska pengar,
 motsvarande utländska företag eller finansiella institut, som
 det förstnämnda institutet eller holdingföretaget utövar ett
-väsentligt inflytande över, eller
-
-4. två eller flera institut, motsvarande utländska företag
-eller finansiella institut, som har en gemensam eller i
-huvudsak gemensam ledning.
+väsentligt inflytande över.
 
 Om regeringen enligt första stycket har föreskrivit att
 bestämmelserna om finansiella företagsgrupper skall gälla,
 skall även ett anknutet företag som är dotterföretag eller som
-det finns ägarintresse i ingå i gruppen. Lag (2002:153).
+det finns ägarintresse i ingå i gruppen. Lag (2006:536).
 
 Kapitalkrav m.m.
 
@@ -756,8 +792,10 @@ meddelats med stöd av denna lag. Lag (1995:1598).
 Konsolidering
 
 6 § Vid upprättande av den redovisning som avses i 5 § skall de
-företag som ingår i den finansiella företagsgruppen konsolideras
-fullständigt om inte annat följer av 7 och 8 §§.
+företag som ingår i den finansiella företagsgruppen
+konsolideras fullständigt om inte annat följer av 7 och 8 §§
+eller föreskrifter meddelade med stöd av 8 kap. 1 § 7.
+Lag (2006:536).
 
 7 § Ett företag som det finns ägarintresse i enligt 1 § första
 stycket 2 skall konsolideras med tillämpning av
@@ -774,28 +812,32 @@ kapitalandelsmetoden enligt 7 kap. 25-29 §§
 Beräkning av kapitalbas m.m.
 
 9 § Kapitalbasen för den finansiella företagsgruppen skall
-bestämmas i enlighet med vad som anges i 2 kap. 6-8 §§. Även
-den del av kapitalbasen som belöper på minoritetsandelar skall
-ingå. Goodwill som belöper på företag som omfattas av
-gruppbaserad redovisning skall räknas av från primärt kapital.
+bestämmas i enlighet med 2 kap. 6 §, 7 § första-femte styckena
+samt 8 §. Även den del av kapitalbasen som belöper på
+minoritetsandelar skall ingå. Goodwill som belöper på företag
+som omfattas av gruppbaserad redovisning skall räknas av från
+primärt kapital.
 
 Vid beräkning av kapitalkrav för kreditrisker skall tillgångar
 och åtaganden tas upp till de värden som föreskrivs i 3 kap.
 1 §. Vid beräkning av kapitalkrav för marknadsrisker skall
 reglerna i 4 kap. 2-8 §§ eller 9 § tillämpas. Exponeringar
-skall bestämmas på sätt som anges i 5 kap. Lag (2000:444).
+skall bestämmas på sätt som anges i 5 kap. Lag (2006:536).
 
 Stora exponeringar
 
-10 § Om ett moderföretag är ett institut skall vid beräkningen av de
-i 5 kap. angivna gränsvärdena inte medräknas exponeringar som
-koncernföretag som är institut har gentemot andra koncernföretag
-som står under tillsyn av Finansinspektionen och omfattas av
-samma gruppbaserade redovisning som moderföretaget.
+10 § Vid beräkningen av de i 5 kap. angivna gränsvärdena skall
+inte exponeringar som ett institut har mot ett annat
+koncernföretag tas med, om företagen är föremål för
+gruppbaserad tillsyn som utövas av en behörig myndighet inom
+EES eller likvärdig tillsyn i tredje land. Lag (2006:536).
 
-Finansinspektionen får medge att första stycket skall tillämpas även
-på en koncern i vilken moderföretaget är ett i Sverige etablerat
-holdingföretag med finansiell verksamhet.
+Ledningen i ett holdingföretag med finansiell verksamhet
+
+11 § Den som ingår i ledningen i ett holdingföretag med
+finansiell verksamhet skall ha tillräcklig insikt och
+erfarenhet för att delta i ledningen av företaget och även i
+övrigt vara lämplig för en sådan uppgift. Lag (2006:536).
 
 7 kap. Tillsyn m.m.
 
@@ -826,12 +868,13 @@ holdingföretag med finansiell verksamhet som är moderföretag i en
 sådan finansiell företagsgrupp som enligt 2 § omfattas av
 inspektionens tillsyn.
 
-4 § Finansinspektionen skall, inom ramen för sin befogenhet, efter
-begäran från behörig myndighet i ett annat land inom Europeiska
-ekonomiska samarbetsområdet (EES), lämna eller kontrollera
-information som behövs för att den utländska myndigheten skall
-kunna utöva sin tillsyn eller också tillåta att denna myndighet själv
-utför kontrollen.
+4 § Finansinspektionen skall, inom ramen för sin befogenhet,
+efter begäran från behörig myndighet i ett annat land inom EES,
+lämna eller kontrollera information som behövs för att den
+utländska myndigheten skall kunna utöva sin tillsyn eller också
+tillåta att denna myndighet själv utför kontrollen. Den
+utländska myndigheten får närvara vid en kontroll som utförs av
+Finansinspektionen. Lag (2006:536).
 
 Tillsynsredovisning
 
@@ -947,6 +990,11 @@ finansiell företagsgrupp som enligt 6 § skall upprätta den
 gruppbaserade redovisningen att vidta lämpliga åtgärder för att
 rätta till förhållandet.
 
+12 a § Om någon i ledningen för ett holdingföretag med
+finansiell verksamhet inte uppfyller de krav som anges i 6 kap.
+11 §, får Finansinspektionen förelägga holdingföretaget att
+rätta till förhållandet. Lag (2006:536).
+
 Tystnadsplikt
 
 13 § En styrelseledamot eller befattningshavare hos ett
@@ -960,16 +1008,23 @@ uppgiftslämnande företagets intresse.
 I det allmännas verksamhet tillämpas i stället bestämmelserna i
 sekretesslagen (1980:100).
 
-I fråga om europabolag som har ett sådant förvaltningssystem
-som avses i artiklarna 39-42 i rådets förordning (EG) nr
-2157/2001 av den 8 oktober 2001 om stadga för europabolag2
-tillämpas vad som sägs om styrelseledamot i första stycket på
-ledamot i tillsynsorganet.
+I fråga om europabolag och europakooperativ som har ett sådant
+förvaltningssystem som avses i artiklarna 39-42 i rådets
+förordning (EG) nr 2157/2001 av den 8 oktober 2001 om stadga
+för europabolag eller artiklarna 37-41 i rådets förordning (EG)
+nr 1435/2003 av den 22 juli 2003 om stadga för europeiska
+kooperativa föreningar (SCE-föreningar) tillämpas bestämmelsen
+om styrelseledamot i första stycket på ledamot i
+tillsynsorganet. Bestämmelsen om styrelseledamöter i 13 b § om
+meddelandeförbud skall tilllämpas på tillsynsorganets
+ledamöter.
 
 Av 16 § andra stycket och 22 § lagen (2004:575) om europabolag
-framgår att den i tredje stycket angivna bestämmelsen skall
-tillämpas också på ledamöter i ett europabolags lednings- eller
-förvaltningsorgan. Lag (2004:582).
+samt 21 § andra stycket och 26 § lagen (2006:595) om
+europakooperativ framgår att bestämmelserna i tredje stycket
+skall tillämpas också på ledamöter i ett europabolags eller ett
+europakooperativs lednings- eller förvaltningsorgan.
+Lag (2006:607).
 
 Uppgiftsskyldighet
 
@@ -1045,24 +1100,65 @@ lag får inspektionen förelägga vite.
 
 Överklagande
 
-16 § Beslut som Finansinspektionen meddelar med stöd av 12 §
-får överklagas hos kammarrätten.
+16 § Beslut som Finansinspektionen meddelar i ärenden enligt
+13 d § får inte överklagas.
 
-Beslut som inspektionen meddelar i ärenden enligt 13 d § får
-inte överklagas.
+Andra beslut som Finansinspektionen meddelar enligt denna lag
+får överklagas hos allmän förvaltningsdomstol. Detta gäller
+dock inte beslut i ärenden som avses i 20 § första stycket 5
+förvaltningslagen (1986:223).
 
-Andra beslut som inspektionen meddelar enligt denna lag får
-överklagas hos länsrätten. Detta gäller dock inte beslut i
-ärenden som avses i 20 § första stycket 5 förvaltningslagen
-(1986:223). Prövningstillstånd krävs vid överklagande till
-kammarrätten av länsrättens avgörande.
+Prövningstillstånd krävs vid överklagande till kammarrätten.
 
 Finansinspektionen får bestämma att ett beslut om föreläggande
-skall gälla omedelbart. Lag (2005:543).
+skall gälla omedelbart. Lag (2006:536).
 
 17 § Har upphävts genom lag (2000:444).
 
 18 § Har upphävts genom lag (2000:444).
+
+7 a kap. Moderföretag utanför EES
+
+1 § Om moderföretaget till ett institut är ett institut eller
+ett holdingföretag med finansiell verksamhet som har sitt
+huvudkontor utanför EES, skall Finansinspektionen kontrollera
+om den gruppbaserade tillsyn som utövas av tillsynsmyndigheten
+i tredje land är likvärdig med den gruppbaserade tillsyn som
+föreskrivs i artikel 52 i Europaparlamentets och rådets
+direktiv 2000/12/EG av den 20 mars 2000 om rätten att starta
+och driva verksamhet i kreditinstitut.
+
+Finansinspektionen är skyldig att utföra kontrollen om det
+begärs av moderföretaget eller av ett institut, institut för
+elektroniska pengar eller motsvarande utländska företag som
+ingår i den finansiella företagsgruppen och som auktoriserats
+inom EES.
+
+Innan Finansinspektionen beslutar om tillsynen är likvärdig,
+skall inspektionen höra övriga berörda behöriga myndigheter
+inom EES. Inspektionen skall också ha rådfrågat Europeiska
+bankkommittén. Lag (2006:536).
+
+2 § Om tillsynen inte bedöms vara likvärdig, skall
+Finansinspektionen besluta att bestämmelserna om finansiella
+företagsgrupper i 6 och 7 kap. skall tillämpas som om
+moderföretaget hade haft sitt huvudkontor inom EES.
+
+Efter att ha hört övriga berörda behöriga myndigheter får
+Finansinspektionen i stället besluta att använda sig av andra
+tillsynsmetoder som säkerställer att tillsynen över instituten
+i företagsgruppen är tillräcklig. Inspektionen får därvid
+förelägga en ägare som har ett bestämmande inflytande över ett
+institut eller institut för elektroniska pengar att inrätta ett
+blandat finansiellt holdingföretag med huvudkontor inom EES.
+Inspektionen får då besluta att bestämmelserna i denna lag
+skall tillämpas på instituten i företagsgruppen som leds av
+detta holdingföretag.
+
+Finansinspektionen skall underrätta företagsgruppen, de berörda
+behöriga myndigheterna och Europeiska gemenskapernas kommission
+när sådana andra tillsynsmetoder som anges i andra stycket
+används. Lag (2006:536).
 
 8 kap. Bemyndiganden
 
@@ -1081,8 +1177,8 @@ paragraf,
 
 3. beräkning av kapitalkraven enligt 3 kap. 1 och 2 §§,
 
-4. vilka poster som skall ingå i handelslagret enligt 4 kap. 1 §
-och omfattningen av dessa,
+4. vilka poster som skall ingå i handelslagret enligt 4 kap.
+1 § och omfattningen av dessa,
 
 5. beräkning av kapitalkraven enligt 4 kap. 2-7 §§,
 
@@ -1090,13 +1186,15 @@ och omfattningen av dessa,
 instituts exponeringar enligt 5 kap. 1 och 3 §§,
 
 7. hur konsolidering skall ske och hur kapitalbasen skall
-beräknas enligt 6 kap. 6-9 §§,
+beräknas enligt 6 kap. 6-9 §§ samt hur företag som har gemensam
+eller i huvudsak gemensam ledning enligt 6 kap. 1 § första
+stycket 3 och 4 skall konsolideras,
 
 8. innehållet, utformningen och omfattningen av den redovisning
 eller information som skall lämnas enligt 7 kap. 5 §,
 
 9. omfattningen och fullgörandet av rapporteringsskyldigheten
-enligt 7 kap. 11 §. Lag (2000:444).
+enligt 7 kap. 11 §. Lag (2006:536).
 
 2 § Regeringen eller, efter regeringens bemyndigande,
 Finansinspektionen får meddela de föreskrifter som behövs om

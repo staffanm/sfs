@@ -165,21 +165,7 @@ och kreditinstitutet.
 
 Mottagande av återbetalningspliktiga medel
 
-7 § /Upphör att gälla U:2006-01-01/
-Bara ett svenskt eller utländskt kreditinstitut får driva
-näringsverksamhet som har till ändamål att ta emot
-återbetalningspliktiga medel från allmänheten, om inte annat är
-särskilt föreskrivet.
-
-Första stycket gäller inte för verksamhet för vilken det skall
-upprättas prospekt enligt aktiebolagslagen (1975:1385),
-försäkringsrörelselagen (1982:713), lagen (1991:980) om handel
-med finansiella instrument, lagen (1992:543) om börs- och
-clearingverksamhet eller motsvarande utländska bestämmelser.
-Lag (2004:444).
-
-7 § /Träder i kraft I:2006-01-01/
-Bara ett svenskt eller utländskt kreditinstitut får driva
+7 § Bara ett svenskt eller utländskt kreditinstitut får driva
 näringsverksamhet som har till ändamål att ta emot
 återbetalningspliktiga medel från allmänheten, om inte annat är
 särskilt föreskrivet.
@@ -370,7 +356,7 @@ att drivas enligt bestämmelserna i denna lag och andra
 författningar som reglerar företagets verksamhet,
 
 3. det finns skäl att anta att den som har eller kan förväntas
-komma att få ett kvalificerat innehav i företaget
+koma att få ett kvalificerat innehav i företaget
 
 a) inte kommer att motverka att rörelsen drivs på ett sätt som
 är förenligt med denna lag och andra författningar som reglerar
@@ -385,15 +371,27 @@ har tillräcklig insikt och erfarenhet för att delta i ledningen
 av ett kreditinstitut och även i övrigt är lämplig för en sådan
 uppgift.
 
-Tillstånd får inte ges, om någon som i väsentlig utsträckning
-har åsidosatt sina skyldigheter i näringsverksamhet eller andra
-ekonomiska angelägenheter eller gjort sig skyldig till
-allvarlig brottslighet har eller kan förväntas komma att få ett
-kvalificerat innehav i företaget.
+Tillstånd får inte ges, om
+
+1. någon som i väsentlig utsträckning har åsidosatt sina
+skyldigheter i näringsverksamhet eller andra ekonomiska
+angelägenheter eller gjort sig skyldig till allvarlig
+brottslighet har eller kan förväntas komma att få ett
+kvalificerat innehav i företaget, eller
+
+2. ledningen i ett holdingföretag med finansiell verksamhet
+eller ett blandat finansiellt holdingföretag som kommer att ha
+ett kvalificerat innehav i företaget inte uppfyller de krav som
+ställs på ledningen i ett sådant företag enligt 6 kap. 11 §
+lagen (1994:2004) om kapitaltäckning och stora exponeringar för
+kreditinstitut och värdepappersbolag respektive 5 kap. 16 §
+lagen (2006:531) om särskild tillsyn över finansiella
+konglomerat.
 
 Om företaget har eller kan förväntas komma att få nära
 förbindelser med någon annan, får tillstånd ges bara om
 förbindelserna inte hindrar en effektiv tillsyn av företaget.
+Lag (2006:543).
 
 Godkännande av bolagsordning m.m.
 
@@ -454,26 +452,35 @@ frågor enligt 3 § och 7 § andra stycket i samma ärenden, och
 2. ärenden om godkännande av ändring av bolagsordning, stadgar
 eller reglemente för en bank enligt 4 §.
 
+8 a § Finansinspektionen skall innan den beslutar om tillstånd
+samråda med motsvarande utländska tillsynsmyndighet i ett annat
+land inom EES, om företaget
+
+1. är eller kan förväntas bli dotterföretag till ett utländskt
+kreditinstitut, ett försäkringsföretag eller ett
+värdepappersföretag med auktorisation i det landet,
+
+2. är eller kan förväntas bli dotterföretag till moderföretaget
+till ett utländskt kreditinstitut, ett företag för elektroniska
+pengar, ett försäkringsföretag eller ett värdepappersföretag
+med auktorisation i det landet, eller
+
+3. kontrolleras eller kan förväntas komma att kontrolleras av
+samma fysiska eller juridiska personer som har ägarkontroll
+över ett utländskt kreditinstitut, ett företag för elektroniska
+pengar, ett försäkringsföretag eller ett värdepappersföretag
+med auktorisation i det landet.
+
+Om regeringen beslutar i frågan om tillstånd, skall den
+information som Finansinspektionen fått vid samrådet med den
+utländska tillsynsmyndigheten överlämnas till regeringen.
+Lag (2006:543).
+
 Ansökan om tillstånd
 
-9 § /Upphör att gälla U:2006-01-01/
-Ett aktiebolag och en ekonomisk förening får ansöka om
+9 § Ett aktiebolag och en ekonomisk förening får ansöka om
 tillstånd innan företaget registrerats i aktiebolags-,
-europabolags- eller föreningsregistret.
-
-Om ett aktiebolag har ansökt om tillstånd inom sex månader från
-stiftelseurkundens undertecknande räknas den tid som anges i 2
-kap. 9 § första stycket aktiebolagslagen (1975:1385) från
-tillståndsbeslutet. Om en ekonomisk förening har ansökt om
-tillstånd inom sex månader från beslutet om att bilda
-föreningen räknas den tid som anges i 2 kap. 3 § första stycket
-lagen (1987:667) om ekonomiska föreningar från
-tillståndsbeslutet. Lag (2004:591).
-
-9 § /Träder i kraft I:2006-01-01/
-Ett aktiebolag och en ekonomisk förening får ansöka om
-tillstånd innan företaget registrerats i aktiebolags-,
-europabolags- eller föreningsregistret.
+europabolags-, förenings- eller europakooperativsregistret.
 
 Om ett aktiebolag har ansökt om tillstånd inom sex månader från
 stiftelseurkundens undertecknande, räknas den tid som anges i 2
@@ -481,7 +488,7 @@ kap. 22 § aktiebolagslagen (2005:551) från tillståndsbeslutet.
 Om en ekonomisk förening har ansökt om tillstånd inom sex
 månader från beslutet om att bilda föreningen, räknas den tid
 som anges i 2 kap. 3 § första stycket lagen (1987:667) om
-ekonomiska föreningar från tillståndsbeslutet. Lag (2005:932).
+ekonomiska föreningar från tillståndsbeslutet. Lag (2006:612).
 
 4 kap. Utländska företags verksamhet i Sverige
 
@@ -804,18 +811,7 @@ utgör säkerhet för fordran, och
 avsevärd förlust, som betalning för en fordran överta egendom
 som utgör säkerhet för fordran eller annan egendom.
 
-4 § /Upphör att gälla U:2006-01-01/
-Vad som sägs i 3 § gäller inte egen aktie eller aktie i
-moderbolag. För förvärv av sådana aktier finns bestämmelser i 7
-kap. aktiebolagslagen (1975:1385). Vad som sägs i 3 § gäller
-inte heller bevis om andel eller tillskott till medlemsbank
-eller kreditmarknadsförening. I fråga om en sparbanks förvärv
-av bevis om tillskott till garantifond eller grundfond i
-sparbanken gäller bestämmelserna i 5 kap. 7 § första stycket
-sparbankslagen (1987:619).
-
-4 § /Träder i kraft I:2006-01-01/
-Vad som sägs i 3 § gäller inte egen aktie eller aktie i
+4 § Vad som sägs i 3 § gäller inte egen aktie eller aktie i
 moderbolag. För förvärv av sådana aktier finns bestämmelser i
 19 kap. aktiebolagslagen (2005:551). Vad som sägs i 3 § gäller
 inte heller bevis om andel eller tillskott till medlemsbank
@@ -859,12 +855,12 @@ Innehav av aktier och andelar
 
 9 § Ett kreditinstituts kvalificerade innehav av aktier eller
 andelar i andra företag än kreditinstitut, utländska
-kreditinstitut, institut för elektroniska pengar,
+kreditinstitut, företag för elektroniska pengar,
 värdepappersföretag, finansiella institut, anknutna företag och
-försäkringsföretag får sammanlagt uppgå till högst 60 procent
-av kapitalbasen i kreditinstitutet. Ett sådant innehav i ett
-enskilt företag får uppgå till högst 15 procent av kapitalbasen
-i kreditinstitutet.
+försäkringsföretag inklusive återförsäkringsföretag får
+sammanlagt uppgå till högst 60 procent av kapitalbasen i
+kreditinstitutet. Ett sådant innehav i ett enskilt företag får
+uppgå till högst 15 procent av kapitalbasen i kreditinstitutet.
 
 Aktier eller andelar som har förvärvats i strid med första
 stycket skall snarast avyttras.
@@ -873,7 +869,7 @@ Har aktier eller andelar förvärvats inom ramen för de gränser
 som anges i första stycket och förändras därefter förhållandet
 mellan de kvalificerade innehaven och kapitalbasen så att
 gränserna överskrids, skall institutet så snart det är lämpligt
-avyttra överskjutande aktier och andelar.
+avyttra överskjutande aktier och andelar. Lag (2006:543).
 
 10 § Vid beräkningen enligt 9 § första stycket av ett
 kreditinstituts kvalificerade innehav räknas inte
@@ -1073,357 +1069,7 @@ uttagsrätten som avses i detta stycke skall antecknas på bevis
 eller i motbok som har utfärdats om insättningen eller på annat
 sätt som gör inskränkningen känd inom banken.
 
-10 kap. /Kapitlet upphör att gälla U:2006-01-01/
-Särskilda associationsrättsliga bestämmelser för
-bankaktiebolag
-
-1 § För bankaktiebolag gäller vad som är föreskrivet för
-aktiebolag i allmänhet, om inte annat följer av denna lag eller
-är särskilt föreskrivet. Om det i aktiebolagslagen (1975:1385)
-finns hänvisningar till bestämmelser i samma lag och gäller
-föreskrifter i denna lag i stället för eller vid sidan av
-bestämmelserna i aktiebolagslagen, skall hänvisningarna vid
-tillämpning i fråga om bankaktiebolag i stället respektive
-också avse föreskrifter i denna lag.
-
-Aktiekapital
-
-2 § Ett bankaktiebolags aktiekapital skall bestämmas med hänsyn
-till den planerade rörelsens omfattning och art.
-
-Teckning av aktier
-
-3 § Om teckning av aktier innebär att någon som inte har
-prövats enligt 3 kap. 2 § första stycket 3 eller andra stycket
-kommer att ha ett kvalificerat innehav i bankaktiebolaget, får
-bolaget inte bildas utan att en sådan prövning av
-aktietecknaren görs. Om denne vid den prövningen inte anses
-lämplig, får bolaget inte heller bildas.
-
-Nedsättning av aktiekapitalet
-
-4 § Finansinspektionen får medge att nedsättning av
-aktiekapitalet får ske utan rättens tillstånd enligt 6 kap. 6 §
-första stycket aktiebolagslagen (1975:1385), om
-bankaktiebolaget samtidigt med nedsättningen vidtar åtgärder
-som medför att varken bolagets bundna egna kapital eller dess
-aktiekapital minskar till följd av beslutet om nedsättning.
-
-5 § I stället för bestämmelserna i 6 kap. 6 § andra-fjärde
-styckena aktiebolagslagen (1975:1385) skall bestämmelserna i
-denna paragraf tillämpas.
-
-Rättens tillstånd skall sökas senast två månader efter det att
-nedsättningsbeslutet har registrerats. Ett bevis om
-registreringen skall följa med ansökan.
-
-Rätten skall utan dröjsmål inhämta Finansinspektionens yttrande
-om och i så fall i vilken utsträckning nedsättningen kan komma
-att inverka på insättarnas rätt. Om rätten med hänsyn till
-yttrandets innehåll finner att nedsättningen inte bör
-verkställas, skall ansökan genast avslås. I annat fall skall
-rätten kalla bolagets borgenärer och förelägga dem som vill
-bestrida ansökan att senast en viss dag skriftligen anmäla
-detta hos rätten. I föreläggandet skall det anges att den som
-inte har gjort en sådan anmälan anses ha medgett ansökan. I
-kallelsen skall ett kortfattat sammandrag av inspektionens
-yttrande tas in. Rätten skall se till att kallelsen skyndsamt
-kungörs i Post- och Inrikes Tidningar.
-
-Tillstånd skall ges, om ansökan inte bestrids eller om de
-borgenärer som bestrider den får full betalning eller
-betryggande säkerhet för sina fordringar. Att en insättare
-bestrider ansökan utgör dock inte något hinder, om
-inspektionens yttrande ger grund för att ge tillstånd.
-
-Egen aktie som säkerhet
-
-6 § Ett bankaktiebolag får ta emot egna aktier eller aktier i
-sitt moderbolag som pant, om dessa aktier utgör en mindre del
-av de aktier som lämnas som säkerhet för en kredit.
-
-Bolagets ledning
-
-7 § Ett bankaktiebolag skall ha en styrelse med minst tre
-ledamöter. Flertalet av ledamöterna skall vara personer som
-inte är anställda i banken eller i företag som ingår i en
-koncern där banken är moderbolag.
-
-8 § I ett bankaktiebolag skall styrelsen utse en verkställande
-direktör. Bolagets verkställande direktör får inte vara
-ordförande i styrelsen.
-
-9 § Rätten att teckna ett bankaktiebolags firma får utövas bara
-av två eller flera personer i förening om inte annat följer av
-bestämmelserna i 8 kap. 30 § aktiebolagslagen (1975:1385) om
-verkställande direktörens firmateckningsrätt. Ingen annan
-inskränkning får registreras.
-
-10 § Bolagsstämmans ordförande skall innan styrelseval
-förrättas i ett bankaktiebolag lämna uppgift till stämman om
-vilka uppdrag den som valet gäller innehar i andra företag.
-
-Bolagsstämma
-
-11 § Utöver vad som föreskrivs om upplysningsplikt och insyn i
-9 kap. 22 och 24 §§ aktiebolagslagen (1975:1385) gäller att
-upplysningar får lämnas bara om det kan göras utan nämnvärd
-olägenhet för enskild.
-
-Bestämmelserna i 9 kap. 23 § aktiebolagslagen skall tillämpas
-också när styrelsen funnit att en upplysning som har begärts
-enligt 9 kap. 22 § aktiebolagslagen inte kan lämnas till
-aktieägare utan nämnvärd olägenhet för enskild.
-
-Revision
-
-12 § I ett bankaktiebolag skall minst en revisor som
-bolagsstämman utsett vara auktoriserad revisor eller godkänd
-revisor som avlagt revisorsexamen.
-
-Om bolagsstämman inte har utsett en auktoriserad revisor eller
-godkänd revisor som avlagt revisorsexamen, är bestämmelserna om
-länsstyrelseförordnande i 10 kap. 24 och 26 §§ aktiebolagslagen
-(1975:1385) tillämpliga.
-
-13 § Utöver vad som föreskrivs om upplysningsplikt i 10 kap.
-41 §, 11 kap. 18 och 21 §§ aktiebolagslagen (1975:1385) gäller
-att upplysningar får lämnas bara om det kan göras utan nämnvärd
-olägenhet för enskild.
-
-14 § I 13 kap. 10 § finns bestämmelser om revisors och särskild
-granskares rapporteringsskyldighet till Finansinspektionen.
-
-Låneförbud
-
-15 § I stället för bestämmelserna i 12 kap. 7-9 §§
-aktiebolagslagen (1975:1385) gäller bestämmelserna i denna
-paragraf och i 8 kap. 5 §.
-
-Ett bankaktiebolag får inte lämna lån i syfte att gäldenären
-skall förvärva aktier i bolaget, om det sammanlagda beloppet av
-sådana lån därefter skulle överstiga bolagets fria egna
-kapital.
-
-Likvidation
-
-16 § Förutom i de fall som anges i 13 kap. 11, 16, 20, 49 och
-50 §§ aktiebolagslagen (1975:1385) skall rätten besluta att ett
-bankaktiebolag skall gå i likvidation om tillståndet att driva
-bankrörelse har återkallats utan att bolaget i stället fått
-tillstånd att driva annan tillståndspliktig finansiell rörelse.
-
-17 § Vid tillämpningen av 13 kap. 10 § aktiebolagslagen
-(1975:1385) skall vad som där sägs i första stycket 2 om 8 kap.
-3 § första stycket och 16 § årsredovisningslagen (1995:1554) i
-stället avse 8 kap. 5 och 8 §§ lagen (1995:1559) om
-årsredovisning i kreditinstitut och värdepappersbolag.
-
-18 § Ansökan om likvidation av ett bankaktiebolag enligt 16 §
-detta kapitel eller 13 kap. 10 eller 16 § aktiebolagslagen
-(1975:1385) får också göras av Finansinspektionen.
-
-19 § Utöver vad som föreskrivs i 13 kap. 44 § aktiebolagslagen
-(1975:1385) gäller att något beslut om att en likvidation skall
-upphöra och bankaktiebolagets verksamhet återupptas inte får
-fattas, om bolagets tillstånd att driva bankrörelse har
-återkallats.
-
-Fusion
-
-20 § Bara ett bankaktiebolag får genom fusion överta ett annat
-bankaktiebolags samtliga tillgångar och skulder.
-
-21 § Vid fusion med ett bankaktiebolag tillämpas inte 14 kap.
-13-18 §§ aktiebolagslagen (1975:1385). I stället tillämpas 22-
-24 §§ detta kapitel.
-
-22 § När fusionsplanen har godkänts av bolagen, skall såväl
-överlåtande som övertagande bolag ansöka om tillstånd att
-verkställa planen. Frågor om sådant tillstånd prövas av
-Finansinspektionen. Ärenden som är av principiell betydelse
-eller av särskild vikt prövas dock av regeringen. Vid fusion
-genom kombination skall bolagen dessutom ansöka om tillstånd
-enligt 3 kap. 2 § och godkännande av bolagsordningen enligt 3
-kap. 3 § för det övertagande bolaget.
-
-Ansökan skall ges in inom en månad efter det att fusionsplanen
-har godkänts i samtliga bolag och senast två år efter det att
-fusionsplanen kungjorts enligt 18 kap. 2 § aktiebolagslagen
-(1975:1385).
-
-Finansinspektionen skall underrätta registreringsmyndigheten om
-ansökningar enligt första stycket och om lagakraftvunna beslut
-som meddelats med anledning av sådana ansökningar.
-
-23 § Vid behandlingen av en ansökan om tillstånd att verkställa
-en fusionsplan skall prövas att bolagens borgenärer
-tillförsäkras en betryggande säkerhet, om ett sådant skydd
-behövs med hänsyn till de fusionerande bolagens ekonomiska
-förhållanden och om borgenärerna inte redan har en sådan
-säkerhet.
-
-24 § En ansökan enligt 22 § skall avslås om
-
-1. fusionen har förbjudits enligt konkurrenslagen (1993:20)
-eller rättsakter, avtal eller andra beslut som följer av
-Sveriges anslutning till Europeiska unionen eller om en sådan
-prövning av fusionen pågår,
-
-2. det, vid kombination, inte framgår av fusionsplanen att de
-överlåtande bolagens sammanlagda verkliga värde för det
-övertagande bolaget uppgår till minst aktiekapitalet i detta,
-eller
-
-3. bolagens borgenärer inte tillförsäkrats en sådan betryggande
-säkerhet som avses i 23 § eller de fusionerande bolagens
-ekonomiska förhållanden i övrigt är sådana att fusionen inte
-kan anses förenlig med insättares eller andra fordringsägares
-intressen.
-
-Om ansökan inte kan bifallas på grund av att prövning pågår
-enligt första stycket 1 och prövningen kan antas ta kort tid,
-får dock tillståndsfrågan förklaras vilande under högst sex
-månader.
-
-25 § Anmälan enligt 14 kap. 19 § aktiebolagslagen (1975:1385)
-skall göras inom två månader från det att tillstånd har
-meddelats.
-
-26 § Fusion genom absorption av ett helägt dotterbolag får ske
-även om det i dotterbolaget finns egendom som bankaktiebolaget
-inte får förvärva enligt denna lag. Sådan egendom måste
-avyttras senast ett år från registreringen. Om det finns
-särskilda skäl får Finansinspektionen förlänga denna frist.
-
-27 § Vid absorption av ett helägt dotterbolag tillämpas inte 14
-kap. 26 och 27 §§ aktiebolagslagen (1975:1385). I stället
-gäller vad som sägs i denna paragraf.
-
-Tidigast en och senast två månader efter det att fusionsplanens
-registrering har kungjorts skall moderbolaget ansöka om
-tillstånd att verkställa planen. Frågor om sådant tillstånd
-prövas av Finansinspektionen. Ärenden som är av principiell
-betydelse eller av särskild vikt prövas dock av regeringen.
-
-I fråga om ett sådant ärende gäller bestämmelserna i 23 och 24
-§§ i tilllämpliga delar. Vad som sägs om överlåtande bolag
-skall avse dotterbolag och vad som sägs om övertagande bolag
-skall avse moderbolag.
-
-Skadestånd
-
-28 § Vad som i 15 kap. 1-3 §§ aktiebolagslagen (1975:1385)
-föreskrivs om ansvar vid överträdelse av den lagen, av
-tillämplig lag om årsredovisning och av bolagsordningen gäller
-för bankaktiebolag även vid överträdelse av denna lag och lagen
-(1994:2004) om kapitaltäckning och stora exponeringar för
-kreditinstitut och värdepappersbolag.
-
-Firma
-
-29 § Ett bankaktiebolags firma skall innehålla ordet bank.
-
-30 § Ett bankaktiebolag som har övertagit en sparbanks rörelse
-vid ombildning enligt 8 kap. sparbankslagen (1987:619) får,
-efter tillstånd av Finansinspektionen, använda ordet sparbank i
-sin firma. Detsamma gäller ett bankaktiebolag som senare har
-övertagit en sådan rörelse.
-
-Särskilda bestämmelser för europabolag
-
-31 § Bolagsverket skall utfärda ett sådant intyg som avses i
-artikel 25.2 i rådets förordning (EG) nr 2157/2001 av den 8
-oktober 2001 om stadga för europabolag2 (SE-förordningen), när
-ett beslut har meddelats enligt 10 kap. 22-24 §§ och beslutet
-har vunnit laga kraft. Lag (2004:591).
-
-32 § När ett europabolag som har tillstånd att driva
-bankrörelse avser att flytta sitt säte från Sverige till en
-annan stat tillämpas inte 10-15 §§ lagen (2004:575) om
-europabolag. I stället tillämpas 33-35 §§ detta kapitel.
-Lag (2004:591).
-
-33 § Om bolagsstämman med stöd av artikel 8 i SE-förordningen
-har beslutat att bolagets säte skall flyttas till en annan
-stat, skall bolaget ansöka om tillstånd till flyttningen.
-Frågor om sådant tillstånd prövas av Finansinspektionen.
-Ärenden som är av principiell betydelse eller av särskild vikt
-prövas dock av regeringen.
-
-Ansökan skall ges in inom en månad från bolagsstämmans beslut
-om flyttning.
-
-Till ansökan skall fogas
-
-1. en kopia av protokollet från den bolagsstämma där beslut om
-flyttning fattades,
-
-2. en kopia av förslaget om flyttning, och
-
-3. en kopia av den redogörelse som avses i artikel 8.3 i SE-
-förordningen.
-
-Om bolaget inte har fogat de handlingar som anges i tredje
-stycket till ansökan eller om det finns något annat hinder mot
-att ta upp ansökan till prövning, skall bolaget föreläggas att
-inom viss tid yttra sig eller avhjälpa bristen. Om bolaget inte
-gör detta, skall ansökan avvisas.
-
-Finansinspektionen skall underrätta registreringsmyndigheten om
-ansökningar enligt första stycket och om lagakraftvunna beslut
-som meddelats med anledning av sådana ansökningar.
-Lag (2004:591).
-
-34 § Tillstånd till flyttningen av säte skall meddelas om
-
-1. bolagets borgenärer tillförsäkras en betryggande säkerhet,
-om ett sådant skydd behövs med hänsyn till bolagets ekonomiska
-förhållanden och borgenärerna inte redan har en sådan säkerhet,
-
-2. bolagets ekonomiska förhållanden i övrigt är sådana att
-flyttningen kan anses förenlig med insättares eller andra
-fordringsägares intressen, och
-
-3. det inte finns hinder mot flyttningen enligt artikel 8.15 i
-SE-förordningen. Lag (2004:591).
-
-35 § Bolagsverket skall utfärda ett sådant intyg som avses i
-artikel 8.8 i SE-förordningen när beslut har meddelats enligt
-34 § och beslutet har vunnit laga kraft. Lag (2004:591).
-
-36 § I fråga om europabolag med ett sådant förvaltningssystem
-som avses i artiklarna 39-42 i SE-förordningen (dualistiskt
-organiserade europabolag) skall vad som sägs i följande
-bestämmelser i denna lag om ett bankaktiebolags styrelse eller
-dess ledamöter tillämpas på tillsynsorganet eller dess
-ledamöter:
-
-3 kap. 2 § första stycket 4 om ledningsprövning,
-
-8 kap. 5 § första stycket 1 om avtal om tjänster med eller till
-förmån för styrelseledamot,
-
-10 kap. 7 § andra meningen om styrelsens sammansättning,
-
-10 kap. 10 § om uppdrag i andra företag,
-
-10 kap. 11 § andra stycket om upplysningsplikt mot stämman,
-
-13 kap. 12 § om rätt för Finansinspektionen att sammankalla
-styrelsen och närvara vid sådant sammanträde och delta i
-överläggningarna, samt
-
-15 kap. 2 § om återkallelse av tillstånd.
-
-Av 16 § andra stycket och 22 § lagen (2004:575) om europabolag
-framgår att de i första stycket angivna bestämmelserna om
-styrelsen eller dess ledamöter skall tillämpas också på ett
-europabolags lednings- eller förvaltningsorgan eller dess
-ledamöter. Lag (2004:591).
-
-10 kap. /Kapitlet träder i kraft I:2006-01-01/
-Särskilda associationsrättsliga bestämmelser för
+10 kap. Särskilda associationsrättsliga bestämmelser för
 bankaktiebolag
 
 1 § För bankaktiebolag gäller vad som är föreskrivet för
@@ -1514,6 +1160,12 @@ Egen aktie som säkerhet
 sitt moderbolag som pant, om dessa aktier utgör en mindre del
 av de aktier som lämnas som säkerhet för en kredit.
 Lag (2005:932).
+
+12 a § /Träder i kraft I:2007-01-01/
+Vid tillämpningen av 9 kap. 17 § och 10 kap. 10 §
+aktiebolagslagen (2005:551) om jäv för revisor och
+lekmannarevisor skall bankaktiebolag anses som aktiebolag som
+avses i 9 kap. 13 eller 14 § samma lag. Lag (2006:405).
 
 Minskning av aktiekapitalet m.m.
 
@@ -1824,7 +1476,10 @@ Särskilda bestämmelser för europabolag
 artikel 25.2 i rådets förordning (EG) nr 2157/2001 av den 8
 oktober 2001 om stadga för europabolag (SE-förordningen), när
 ett beslut har meddelats enligt 20-22 §§ eller 25 § och
-beslutet har vunnit laga kraft. Lag (2005:932).
+beslutet har vunnit laga kraft. Intyg får dock inte utfärdas om
+Skatteverket eller Finansinspektionen har meddelat ett sådant
+beslut som avses i 5 a § lagen (2004:575) om europabolag.
+Lag (2006:612).
 
 39 § När ett europabolag som har tillstånd att driva
 bankrörelse avser att flytta sitt säte från Sverige till en
@@ -1886,6 +1541,8 @@ bestämmelser i denna lag om ett bankaktiebolags styrelse eller
 dess ledamöter tillämpas på tillsynsorganet eller dess
 ledamöter:
 
+1 kap. 12 § om meddelandeförbud,
+
 3 kap. 2 § första stycket 4 om ledningsprövning,
 
 8 kap. 5 § första stycket 1 om avtal om tjänster med eller till
@@ -1907,25 +1564,12 @@ Av 16 § andra stycket och 22 § lagen (2004:575) om europabolag
 framgår att de i första stycket angivna bestämmelserna om
 styrelsen eller dess ledamöter skall tillämpas också på ett
 europabolags lednings- eller förvaltningsorgan eller dess
-ledamöter. Lag (2005:932).
+ledamöter. Lag (2006:612).
 
 11 kap. Särskilda associationsrättsliga bestämmelser för
 kreditmarknadsbolag
 
-1 § /Upphör att gälla U:2006-01-01/
-Vad som enligt 10 kap. gäller för bankaktiebolag skall även
-gälla för kreditmarknadsbolag utom bestämmelserna om
-likvidation i 16-19 §§, om fusion i 20 §, samt om firma i 29
-och 30 §§.
-
-Bestämmelserna om fusion i 10 kap. 21-27 §§ gäller bara vid
-fusion mellan ett kreditmarknadsbolag och ett annat bolag och
-bara om en bank inte är övertagande bolag. Ärenden som avser
-tillstånd enligt 22, 27 eller 33 § prövas av
-Finansinspektionen. Lag (2004:591).
-
-1 § /Träder i kraft I:2006-01-01/
-Vad som enligt 10 kap. gäller för bankaktiebolag skall även
+1 § Vad som enligt 10 kap. gäller för bankaktiebolag skall även
 gälla för kreditmarknadsbolag utom bestämmelserna om fusion i
 18 §, om likvidation i 31-34 §§ och om firma i 35 och 36 §§.
 
@@ -1935,13 +1579,7 @@ bara om en bank inte är övertagande bolag. Ärenden som avser
 tillstånd enligt 20, 25 eller 40 § prövas av
 Finansinspektionen. Lag (2005:932).
 
-2 § /Upphör att gälla U:2006-01-01/
-Ansökan om likvidation av ett kreditmarknadsbolag enligt 13
-kap. 10 eller 16 § aktiebolagslagen (1975:1385) får också göras
-av Finansinspektionen.
-
-2 § /Träder i kraft I:2006-01-01/
-Ansökan om likvidation av ett kreditmarknadsbolag enligt 25
+2 § Ansökan om likvidation av ett kreditmarknadsbolag enligt 25
 kap. 11 eller 17 § aktiebolagslagen (2005:551) får också göras
 av Finansinspektionen. Lag (2005:932).
 
@@ -2003,8 +1641,14 @@ revisor i en kreditmarknadsförening.
 Minst en revisor som stämman utsett skall vara auktoriserad
 revisor eller godkänd revisor som avlagt revisorsexamen.
 
-10 § Utöver vad som föreskrivs om upplysningsplikt i 8 kap. 16
-§ lagen (1987:667) om ekonomiska föreningar gäller att
+9 a § /Träder i kraft I:2007-01-01/
+Vid tillämpningen av 8 kap. 7 § lagen (1987:667) om
+ekonomiska föreningar om jäv för revisor skall
+kreditmarknadsföreningar anses som föreningar som avses i 8
+kap. 5 § första eller tredje stycket samma lag. Lag (2006:405).
+
+10 § Utöver vad som föreskrivs om upplysningsplikt i 8 kap.
+16 § lagen (1987:667) om ekonomiska föreningar gäller att
 upplysningar får lämnas bara om det kan göras utan nämnvärd
 olägenhet för enskild.
 
@@ -2089,28 +1733,130 @@ beträffande kreditmarknadsföreningar även vid överträdelse av
 denna lag och lagen (1994:2004) om kapitaltäckning och stora
 exponeringar för kreditinstitut och värdepappersbolag.
 
+Särskilda bestämmelser för europakooperativ
+
+21 § I fråga om skyddet för borgenärer till en
+kreditmarknadsförening, som deltar i bildandet av ett
+europakooperativ genom fusion, skall bestämmelserna i 10 kap.
+20-22 §§ eller 25 § om tillstånd att verkställa en fusionsplan
+tillämpas. Lag (2006:612).
+
+22 § Bolagsverket skall utfärda ett sådant intyg som avses i
+artikel 29.2 i rådets förordning (EG) nr 1435/2003 av den 22
+juli 2003 om stadga för europeiska kooperativa föreningar (SCE-
+föreningar) (SCE-förordningen), när ett beslut har meddelats
+enligt 10 kap. 20-22 §§ eller 25 § och beslutet har vunnit laga
+kraft. Intyg får dock inte utfärdas om Skatteverket eller
+Finansinspektionen har meddelat ett sådant beslut som avses i
+6 § lagen (2006:595) om europakooperativ. Lag (2006:612).
+
+23 § När ett europakooperativ som har tillstånd att driva
+finansieringsrörelse avser att flytta sitt säte från Sverige
+till en annan stat tillämpas inte 14-20 §§ lagen (2006:595) om
+europakooperativ. I stället tillämpas 24-26 §§ i detta kapitel.
+I fråga om skyddet för europakooperativets borgenärer i samband
+med en flyttning av europakooperativets säte, skall
+bestämmelserna i 24 och 25 §§ tillämpas. Lag (2006:612).
+
+24 § Om föreningsstämman med stöd av artikel 7 i SCE-
+förordningen har beslutat att europakooperativets säte skall
+flyttas till en annan stat, skall europakooperativet ansöka om
+tillstånd till flyttningen. Frågan om sådant tillstånd prövas
+av Finansinspektionen.
+
+Ansökan skall ges in inom en månad från föreningsstämmans
+beslut om flyttning.
+
+Till ansökan skall fogas
+
+1. en kopia av protokollet från den föreningsstämma där beslut
+om flyttning fattades,
+
+2. en kopia av förslaget om flyttning, och
+
+3. en kopia av den redogörelse som avses i artikel 7.3 i SCE-
+förordningen.
+
+Om europakooperativet inte har fogat de handlingar som anges i
+tredje stycket till ansökan eller om det finns något annat
+hinder mot att ta upp ansökan till prövning, skall
+europakooperativet föreläggas att inom viss tid yttra sig eller
+avhjälpa bristen. Om europakooperativet inte gör detta, skall
+ansökan avvisas.
+
+Finansinspektionen skall underrätta Bolagsverket om ansökningar
+enligt första stycket och om lagakraftvunna beslut som
+meddelats med anledning av sådana ansökningar. Lag (2006:612).
+
+25 § Tillstånd till flyttningen av säte skall meddelas om
+
+1. europakooperativets borgenärer tillförsäkras en betryggande
+säkerhet, om ett sådant skydd behövs med hänsyn till
+europakooperativets ekonomiska förhållanden och borgenärerna
+inte redan har en sådan säkerhet,
+
+2. europakooperativets ekonomiska förhållanden i övrigt är
+sådana att flyttningen kan anses förenlig med insättares eller
+andra fordringsägares intressen, och
+
+3. det inte finns hinder mot flyttningen enligt artikel 7.15 i
+SCE-förordningen. Lag (2006:612).
+
+26 § Bolagsverket skall utfärda ett sådant intyg som avses i
+artikel 7.8 i SCE-förordningen när beslut har meddelats enligt
+25 § och beslutet har vunnit laga kraft. Intyg får dock inte
+utfärdas om Skatteverket eller Finansinspektionen har meddelat
+ett sådant beslut som avses i 13 § lagen (2006:595) om
+europakooperativ. Lag (2006:612).
+
+27 § I fråga om europakooperativ som har ett sådant
+förvaltningssystem som avses i artiklarna 37-41 i SCE-
+förordningen (dualistiskt organiserade europakooperativ) skall
+vad som sägs om en kreditmarknadsförenings styrelse eller dess
+ledamöter i följande bestämmelser i denna lag tillämpas på
+tillsynsorganet eller dess ledamöter:
+
+1 kap. 12 § om meddelandeförbud,
+
+3 kap. 2 § första stycket 4 om ledningsprövning,
+
+8 kap. 5 § första stycket 1 om avtal om tjänster med eller till
+förmån för styrelseledamot,
+
+12 kap. 3 § om styrelsens sammansättning,
+
+12 kap. 6 § om uppdrag i andra företag,
+
+12 kap. 7 § andra stycket om upplysningsplikt mot stämman,
+
+13 kap. 12 § om rätt för Finansinspektionen att sammankalla
+styrelsen och närvara vid sådant sammanträde och delta i
+överläggningarna, samt
+
+15 kap. 2 § om återkallelse av tillstånd.
+
+Av 21 § andra stycket och 26 § lagen (2006:595) om
+europakooperativ framgår att bestämmelserna i första stycket om
+styrelsen eller dess ledamöter skall tillämpas också på ett
+europakooperativs lednings- eller förvaltningsorgan eller dess
+ledamöter. Lag (2006:612).
+
+28 § Ett europakooperativ skall upprätta årsredovisning och, i
+förekommande fall koncernredovisning, i enlighet med de
+bestämmelser i lagen (1995:1559) om årsredovisning i
+kreditinstitut och värdepappersbolag som är tillämpliga på
+kreditmarknadsföreningar. Lag (2006:612).
+
+29 § Rätten att teckna firman för ett europakooperativ får
+utövas bara av två eller flera personer i förening, om inte
+annat följer av 6 kap. 12 § lagen (1987:667) om ekonomiska
+föreningar. Lag (2006:612).
+
 13 kap. Tillsyn
 
 Registreringsmyndighet
 
-1 § /Upphör att gälla U:2006-01-01/
-Registreringsmyndighet för banker och filialer till
-utländska bankföretag är Bolagsverket. Hos
-registreringsmyndigheten förs ett bankregister. I detta skrivs
-de uppgifter in som enligt denna lag, aktiebolagslagen
-(1975:1385), sparbankslagen (1987:619), lagen (1995:1570) om
-medlemsbanker, lagen (1992:160) om utländska filialer m.m.
-eller andra författningar skall anmälas för registrering eller
-i övrigt skall tas in i registret.
-
-För registrering av kreditmarknadsbolag och
-kreditmarknadsföreningar gäller vad som föreskrivs i
-aktiebolagslagen respektive lagen (1987:667) om ekonomiska
-föreningar. För registrering av filialer till utländska
-kreditföretag gäller lagen om utländska filialer m.m.
-
-1 § /Träder i kraft I:2006-01-01/
-Registreringsmyndighet för banker och filialer till
+1 § Registreringsmyndighet för banker och filialer till
 utländska bankföretag är Bolagsverket. Hos
 registreringsmyndigheten förs ett bankregister. I detta skrivs
 de uppgifter in som enligt denna lag, aktiebolagslagen
@@ -2211,33 +1957,7 @@ som förordnats av inspektionen. En revisor som förordnats av
 Finansinspektionen skall oavsett stämmans anvisningar följa den
 instruktion som inspektionen har utfärdat.
 
-10 § /Upphör att gälla U:2006-01-01/
-En revisor eller en särskild granskare skall omgående
-rapportera till Finansinspektionen om han eller hon vid
-fullgörandet av sitt uppdrag i ett kreditinstitut får kännedom
-om förhållanden som
-
-1. kan utgöra en väsentlig överträdelse av de författningar som
-reglerar institutets verksamhet,
-
-2. kan påverka institutets fortsatta drift negativt, eller
-
-3. kan leda till att revisorn avstyrker att balansräkningen
-eller resultaträkningen fastställs eller till anmärkning enligt
-10 kap. 30 eller 31 § aktiebolagslagen (1975:1385), 8 kap. 13 §
-lagen (1987:667) om ekonomiska föreningar, 4 a kap. 14 och
-15 §§ sparbankslagen (1987:619) eller 7 a kap. 14 och 15 §§ lagen
-(1995:1570) om medlemsbanker.
-
-Revisorn och granskaren har en motsvarande
-rapporteringsskyldighet om han eller hon får kännedom om
-förhållanden som avses i första stycket vid fullgörande av
-uppdrag i kreditinstitutets moderföretag eller dotterföretag
-eller i ett företag som har en likartad förbindelse med
-institutet.
-
-10 § /Träder i kraft I:2006-01-01/
-En revisor eller en särskild granskare skall omgående
+10 § En revisor eller en särskild granskare skall omgående
 rapportera till Finansinspektionen om han eller hon vid
 fullgörandet av sitt uppdrag i ett kreditinstitut får kännedom
 om förhållanden som
@@ -2368,10 +2088,19 @@ institutets verksamhet, och
 2. även i övrigt är lämplig att utöva ett väsentligt inflytande
 över ledningen av ett kreditinstitut.
 
-Tillstånd får inte ges, om förvärvaren i väsentlig utsträckning
-har åsidosatt sina skyldigheter i näringsverksamhet eller i
-andra ekonomiska angelägenheter eller gjort sig skyldig till
-allvarlig brottslighet.
+Tillstånd får inte ges, om förvärvaren
+
+1. i väsentlig utsträckning har åsidosatt sina skyldigheter i
+näringsverksamhet eller i andra ekonomiska angelägenheter eller
+gjort sig skyldig till allvarlig brottslighet, eller
+
+2. är ett holdingföretag med finansiell verksamhet eller ett
+blandat finansiellt holdingföretag och dess ledning inte
+uppfyller de krav som ställs på ledningen i ett sådant företag
+enligt 6 kap. 11 § lagen (1994:2004) om kapitaltäckning och
+stora exponeringar för kreditinstitut och värdepappersbolag
+respektive 5 kap. 16 § lagen (2006:531) om särskild tillsyn
+över finansiella konglomerat.
 
 Om förvärvet skulle leda till nära förbindelser mellan
 kreditinstitutet och någon annan, får tillstånd ges bara om
@@ -2382,7 +2111,22 @@ förvärv skall genomföras.
 
 Finansinspektionen skall meddela beslut i ett ärende enligt
 denna paragraf inom tre månader från det att ansökan om
-tillstånd gjordes.
+tillstånd gjordes. Lag (2006:543).
+
+2 a § Frågan om tillstånd får avgöras först efter samråd med
+behörig myndighet i ett annat land inom EES om ett förvärv
+enligt 2 § skulle innebära att kreditinstitutet blev
+dotterföretag till eller kom under kontroll av
+
+1. ett i det landet auktoriserat utländskt kreditinstitut,
+företag för elektroniska pengar, försäkringsföretag eller
+värdepappersföretag,
+
+2. ett moderföretag till ett sådant företag som avses i 1,
+eller
+
+3. en fysisk eller juridisk person som kontrollerar ett sådant
+företag som avses i 1. Lag (2006:543).
 
 3 § Den som avser att avyttra ett kvalificerat innehav av
 aktier eller andelar i ett kreditinstitut eller en så stor del
@@ -2409,17 +2153,28 @@ aktier eller andelar i ett kreditinstitut, skall den juridiska
 personen snarast anmäla ändringar av vilka som ingår i dess
 ledning till Finansinspektionen.
 
-6 § Om den som har ett kvalificerat innehav av aktier eller
-andelar i ett kreditinstitut motverkar eller kan antas komma
-att motverka att kreditinstitutets rörelse drivs på ett sätt
-som är förenligt med denna lag eller andra författningar som
-reglerar institutets verksamhet, får Finansinspektionen besluta
-att denne vid stämman inte får företräda fler aktier eller
-andelar än som motsvarar ett innehav som inte är kvalificerat.
-Detsamma gäller, om en sådan innehavare i väsentlig
-utsträckning har åsidosatt sina skyldigheter i
+6 § Finansinspektionen får besluta att den som har ett
+kvalificerat innehav av aktier eller andelar i ett
+kreditinstitut vid stämman inte får företräda fler aktier eller
+andelar än som motsvarar ett innehav som inte är kvalificerat,
+om innehavaren
+
+1. motverkar eller kan antas komma att motverka att
+kreditinstitutets rörelse drivs på ett sätt som är förenligt
+med denna lag eller andra författningar som reglerar
+institutets verksamhet,
+
+2. i väsentlig utsträckning har åsidosatt sina skyldigheter i
 näringsverksamhet eller i andra ekonomiska angelägenheter eller
-gjort sig skyldig till allvarlig brottslighet.
+gjort sig skyldig till allvarlig brottslighet, eller
+
+3. är ett holdingföretag med finansiell verksamhet eller ett
+blandat finansiellt holdingföretag och dess ledning inte
+uppfyller de krav som ställs på ledningen i ett sådant företag
+enligt 6 kap. 11 § lagen (1994:2004) om kapitaltäckning och
+stora exponeringar för kreditinstitut och värdepappersbolag
+respektive 5 kap. 16 § lagen (2006:531) om särskild tillsyn
+över finansiella konglomerat.
 
 Om den som har ett kvalificerat innehav av aktier eller andelar
 inte har ansökt om tillstånd till ett förvärv som avses i 1 §,
@@ -2430,7 +2185,7 @@ av ett krav på tillstånd.
 Om någon i strid med ett beslut av Finansinspektionen har ett
 kvalificerat innehav av aktier eller andelar, får innehavaren
 inte företräda aktierna eller andelarna vid stämman till den
-del innehavet står i strid med beslutet.
+del innehavet står i strid med beslutet. Lag (2006:543).
 
 7 § Finansinspektionen får förelägga en ägare som avses i 6 §
 första stycket att avyttra så stor del av aktierna eller
@@ -2509,29 +2264,7 @@ inte längre får vara det. Finansinspektionen får då förordna en
 ersättare. Ersättarens uppdrag gäller till dess institutet
 utsett en ny styrelseledamot eller verkställande direktör.
 
-3 § /Upphör att gälla U:2006-01-01/
-Finansinspektionen skall återkalla ett kreditinstituts
-tillstånd om institutet
-
-1. inte har anmälts för registrering inom föreskriven tid eller
-anmälan har avskrivits eller avslagits genom ett beslut som har
-vunnit laga kraft,
-
-2. inte inom ett år från det tillstånd beviljades har börjat
-driva sådan rörelse som tillståndet avser,
-
-3. har förklarat sig avstå från tillståndet,
-
-4. har överlåtit hela sin rörelse, eller
-
-5. under en sammanhängande tid av sex månader inte har drivit
-sådan rörelse som tillståndet avser.
-
-I fall som avses i första stycket 2 och 5 får i stället varning
-meddelas om det är tillräckligt.
-
-3 § /Träder i kraft I:2006-01-01/
-Finansinspektionen skall återkalla ett kreditinstituts
+3 § Finansinspektionen skall återkalla ett kreditinstituts
 tillstånd om institutet
 
 1. inte har anmälts för registrering inom föreskriven tid eller
@@ -2672,36 +2405,7 @@ anges i samma paragraf, får företaget inte längre med stöd av
 den paragrafen driva verksamheten vidare här. I stället skall
 svenska bestämmelser gälla för verksamheten.
 
-17 § /Upphör att gälla U:2006-01-01/
-Om ett utländskt kreditinstitut driver verksamhet här
-enligt 4 kap. 4 §, skall 1 § tillämpas på verksamheten här i
-landet.
-
-Ärenden som rör ingripanden som avses i 1 § prövas av
-Finansinspektionen. I fråga om bankfilialer prövas dock ett
-sådant ärende av regeringen om ärendet är av principiell
-betydelse eller av särskild vikt. Regeringens prövning sker
-efter anmälan av inspektionen.
-
-Om insättningar hos filialen omfattas av garanti till följd av
-ett beslut enligt 3 § andra stycket lagen (1995:1571) om
-insättningsgaranti och tillstånd till filialetablering inte
-skulle ha meddelats utan ett sådant beslut, får inspektionen,
-om kreditinstitutet inte fullgör sina skyldigheter enligt lagen
-om insättningsgaranti, förelägga institutet att göra rättelse.
-Föreläggandet skall innehålla en upplysning om att
-filialtillståndet annars kan återkallas. Om institutet inte har
-gjort rättelse inom ett år från föreläggandet, får tillståndet
-återkallas. Vid en sådan prövning tillämpas andra stycket.
-
-Om filialtillståndet återkallas tillämpas 4 §.
-
-Inspektionen skall underrätta den behöriga myndigheten i
-institutets hemland om åtgärder som har vidtagits med stöd av
-denna paragraf.
-
-17 § /Träder i kraft I:2006-01-01/
-Om ett utländskt kreditinstitut driver verksamhet här
+17 § Om ett utländskt kreditinstitut driver verksamhet här
 enligt 4 kap. 4 §, skall 1 § och 3 § första stycket 6 tillämpas
 på verksamheten här i landet.
 
@@ -2752,23 +2456,7 @@ I fråga om utländska företag får ett föreläggande enligt denna
 paragraf riktas mot såväl företaget som den som här i landet är
 verksam för företagets räkning.
 
-19 § /Upphör att gälla U:2006-01-01/
-Om ett svenskt aktiebolag eller en svensk ekonomisk
-förening inte följer ett föreläggande enligt 18 § första
-stycket att upphöra med rörelsen, skall rätten, efter ansökan
-av Finansinspektionen, besluta att företaget skall gå i
-likvidation. I dessa fall tillämpas bestämmelserna i 13 kap. 9,
-24, 27-43, 45 och 46 §§ aktiebolagslagen (1975:1385) samt 11
-kap. 5 och 7-16 §§ samt 17 § fjärde och femte styckena lagen
-(1987:667) om ekonomiska föreningar.
-
-Beslut om likvidation skall inte meddelas om det under ärendets
-handläggning vid tingsrätten visas att rörelsen har upphört.
-
-Beslutet om likvidation gäller omedelbart.
-
-19 § /Träder i kraft I:2006-01-01/
-Om ett svenskt aktiebolag eller en svensk ekonomisk
+19 § Om ett svenskt aktiebolag eller en svensk ekonomisk
 förening inte följer ett föreläggande enligt 18 § första
 stycket att upphöra med rörelsen, skall rätten, efter ansökan
 av Finansinspektionen, besluta att företaget skall gå i
@@ -2789,34 +2477,7 @@ enligt denna lag, får inspektionen förelägga vite.
 
 16 kap. Bemyndiganden
 
-1 § /Upphör att gälla U:2006-01-01/
-Regeringen eller den myndighet som regeringen bestämmer får
-meddela föreskrifter om
-
-1. vilken information ett kreditinstitut skall lämna till sina
-kunder eller till dem som institutet erbjuder sina tjänster,
-
-2. vilka poster som får räknas in i startkapitalet enligt 3
-kap. 5-7 §§,
-
-3. vilka åtgärder som ett kreditinstitut skall vidta för att
-uppfylla de krav på soliditet och likviditet, riskhantering,
-genomlysning, sundhet samt riktlinjer och instruktioner som
-avses i 6 kap. 1-5 §§,
-
-4. vilka begränsningar som gäller när ett bankaktiebolag eller
-ett kreditmarknadsbolag tar emot egna aktier eller aktier i
-sitt moderbolag som pant enligt 10 kap. 6 §,
-
-5. vilka upplysningar som ett kreditinstitut och sådana
-utländska kreditinstitut som har inrättat filial enligt 4 kap.
-4 § skall lämna till Finansinspektionen för dess
-tillsynsverksamhet, och
-
-6. sådana avgifter för tillsyn som avses i 13 kap. 16 §.
-
-1 § /Träder i kraft I:2006-01-01/
-Regeringen eller den myndighet som regeringen bestämmer får
+1 § Regeringen eller den myndighet som regeringen bestämmer får
 meddela föreskrifter om
 
 1. vilken information ett kreditinstitut skall lämna till sina
@@ -2844,39 +2505,24 @@ Lag (2005:932).
 
 17 kap. Överklagande
 
-1 § /Upphör att gälla U:2006-01-01/
-Finansinspektionens beslut enligt 13 kap. 12 § och 15 kap.
-18 § andra stycket samt beslut i ärenden som avses i 20 §
-första stycket 5 förvaltningslagen (1986:223) får inte
-överklagas. Detsamma gäller inspektionens beslut att överlämna
-ett ärende till regeringen för prövning.
-
-Andra beslut av Finansinspektionen enligt denna lag får
-överklagas hos allmän förvaltningsdomstol.
-
-Prövningstillstånd krävs vid överklagande till kammarrätten.
-
-Inspektionen får bestämma att ett beslut om förbud,
-föreläggande eller återkallelse skall gälla omedelbart.
-
-1 § /Träder i kraft I:2006-01-01/
-Finansinspektionens beslut enligt 13 kap. 12 § och 15 kap.
-18 § andra stycket samt beslut i ärenden som avses i 20 §
-första stycket 5 förvaltningslagen (1986:223) får inte
-överklagas. Detsamma gäller inspektionens beslut att överlämna
-ett ärende till regeringen för prövning.
+1 § Finansinspektionens beslut enligt 13 kap. 12 § och 15 kap.
+18 § andra stycket får inte överklagas. Detsamma gäller
+inspektionens beslut att överlämna ett ärende till regeringen
+för prövning.
 
 Finansinspektionens beslut som avses i 10 kap. 1 § andra
 stycket får överklagas hos regeringen.
 
 Andra beslut av Finansinspektionen enligt denna lag får
-överklagas hos allmän förvaltningsdomstol.
+överklagas hos allmän förvaltningsdomstol. Detta gäller dock
+inte beslut i ärenden som avses i 20 § första stycket 5
+förvaltningslagen (1986:223).
 
 Prövningstillstånd krävs vid överklagande till kammarrätten.
 
 Inspektionen får bestämma att ett beslut om förbud,
 föreläggande eller återkallelse skall gälla omedelbart.
-Lag (2005:932).
+Lag (2006:543).
 
 2 § Om beslut i ett ärende om tillstånd enligt 3 kap. 2 § inte
 meddelas inom sex månader från det att ansökan gavs in, skall
@@ -2904,3 +2550,16 @@ Ikraftträdande- och övergångsbestämmelser
 Föreskrifter om ikraftträdande av denna lag meddelas i lagen
 (2004:298) om införande av lagen (2004:297) om bank- och
 finansieringsrörelse.
+
+2006:612
+
+Denna lag träder i kraft den 18 augusti 2006. Om en ansökan har
+kommit in före detta datum tillämpas äldre bestämmelser i fråga
+om
+
+1. tillstånd till verkställande av ett fusionsförslag vid
+bildande av ett europabolag genom fusion enligt artikel 2.1 SE-
+förordningen, och
+
+2. tillstånd till flyttning av säte enligt artikel 8 i SE-
+förordningen.
