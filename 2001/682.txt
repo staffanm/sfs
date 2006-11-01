@@ -62,8 +62,10 @@ d) tolk som anlitas av kriminalvården,
 till den registrerade,
 
 5. uppgifter om genomförd personutredning och rättspsykiatrisk
-undersökning samt läkarintyg enligt 7 § lagen (1991:2041) om
-särskild personutredning i brottmål, m.m.,
+undersökning, läkarintyg enligt 7 § lagen (1991:2041) om
+särskild personutredning i brottmål, m.m. samt utredning med
+ett utlåtande om risk för återfall i brottslighet enligt 10 §
+lagen (2006:45) om omvandling av fängelse på livstid,
 
 6. uppgifter om domstols dom eller slutliga beslut som avser
 fängelse, skyddstillsyn, villkorlig dom med föreskrift om
@@ -79,44 +81,47 @@ samt beslut i häktningsfråga,
 10. annat beslut av regeringen som avser den registrerade och
 som har betydelse för verkställigheten av påföljd,
 
-11. uppgifter om dom, beslut eller föreläggande av allmän
+11. uppgifter om ansökan och beslut enligt lagen (2006:45) om
+omvandling av fängelse på livstid,
+
+12. uppgifter om dom, beslut eller föreläggande av allmän
 förvaltningsdomstol eller av myndighet inom eller utom
 kriminalvården som avser den registrerade och som har betydelse
 för verkställigheten av påföljd,
 
-12. uppgifter om överklagande av domstols dom eller beslut,
+13. uppgifter om överklagande av domstols dom eller beslut,
 regeringens beslut eller myndighets beslut,
 
-13. tidpunkt för verkställighetens början, prövotid och
+14. tidpunkt för verkställighetens början, prövotid och
 övervakningstid,
 
-14. tidpunkt för frigivning från kriminalvårdsanstalt samt
+15. tidpunkt för frigivning från kriminalvårdsanstalt samt
 återstående strafftid vid villkorlig frigivning,
 
-15. uppgifter om verkställighet av samhällstjänst och
+16. uppgifter om verkställighet av samhällstjänst och
 intensivövervakning med elektronisk kontroll,
 
-16. beslut av myndighet i Sverige eller annan stat om
+17. beslut av myndighet i Sverige eller annan stat om
 verkställighet av påföljd som avser den registrerade,
 
-17. uppgifter i övrigt angående verkställighet av påföljd,
+18. uppgifter i övrigt angående verkställighet av påföljd,
 
-18. tidpunkten för bortfallande av fängelse enligt 35 kap. 8
+19. tidpunkten för bortfallande av fängelse enligt 35 kap. 8
 och 9 §§ brottsbalken eller förvandlingsstraff för böter eller
 vite enligt 18 och 21 §§ bötesverkställighetslagen (1979:189),
 och
 
-19. grunden för intagning i häkte eller kriminalvårdsanstalt i
+20. grunden för intagning i häkte eller kriminalvårdsanstalt i
 fall som avses i 1 § första stycket 8 lagen om behandling av
 personuppgifter inom kriminalvården (2001:617) eller anledning
 till transport inom kriminalvårdens transporttjänst.
-Förordning (2005:1025).
+Förordning (2006:1126).
 
 Behandling av känsliga uppgifter
 
 4 § Vid behandling av personuppgifter enligt 3 § 5 och 6 samt
-9-12 får, om det är oundgängligen nödvändigt, känsliga
-uppgifter behandlas.
+9-13 får, om det är oundgängligen nödvändigt, känsliga
+uppgifter behandlas. Förordning (2006:1126).
 
 Behandling av uppgifter om personer som är föremål för
 personutredning
@@ -265,14 +270,14 @@ Journaler
 10 § Kriminalvården får i fråga om den som är häktad utöver vad
 som anges i 3, 4 och 9 §§ behandla personuppgifter i en sådan
 journal som avses i 1 a § förordningen (1976:376) om
-behandlingen av häktade och anhållna m.fl. och 9 e §
-förordningen (1990:1018) med instruktion för Kriminalvårdsverket.
-En sådan journal får innehålla uppgifter om samtliga beslut som
-har fattats, viktiga händelser under vistelsen i häkte och
-väsentliga uppgifter om vidtagna eller planerade åtgärder som
-gäller den häktade. Den får även innehålla uppgifter om
-omständigheter i övrigt som är av betydelse under vistelsen i
-häkte. Förordning (2005:1025).
+behandlingen av häktade och anhållna m.fl. och 6 § andra
+stycket förordningen (2005:985) med instruktion för
+Kriminalvården. En sådan journal får innehålla uppgifter om
+samtliga beslut som har fattats, viktiga händelser under
+vistelsen i häkte och väsentliga uppgifter om vidtagna eller
+planerade åtgärder som gäller den häktade. Den får även
+innehålla uppgifter om omständigheter i övrigt som är av
+betydelse under vistelsen i häkte. Förordning (2006:1126).
 
 11 § Har upphävts genom förordning (2003:1097).
 
@@ -332,7 +337,7 @@ anstalt,
 35 § lagen (1974:203) om kriminalvård i anstalt skall ske,
 
 7. uppgifter om permissioner samt vistelser och verkställighet
-utom anstalt enligt 11, 14, 32, 33 a, 34 och 37 §§ lagen
+utom anstalt enligt 11, 14, 32, 33 a, 34, 37 och 38 §§ lagen
 (1974:203) om kriminalvård i anstalt,
 
 8. uppgifter om sådan kontroll som avses i 52 d § lagen
@@ -358,26 +363,25 @@ Kriminalvården.
 I fråga om den som verkställer hela fängelsestraffet genom
 intensivövervakning med elektronisk kontroll tillämpas
 bestämmelserna i första stycket 1 när det gäller hänvisningen
-till 5 § 7 och 8-13. Förordning (2005:1025).
+till 5 § 7 och 8-13. Förordning (2006:1126).
 
 Journaler
 
-16 § Kriminalvården får i fråga om den som är dömd till fängelse
-utöver vad som anges i 3 och 4 §§ samt 15 § behandla
-personuppgifter i en sådan journal som avses i 9 §
-förordningen (1974:248) om kriminalvård i anstalt, 12 §
-förordningen (1994:1060) om intensivövervakning med elektronisk
-kontroll, 4 kap. 6 a § förordningen (1998:642) om
-verkställighet av frivårdspåföljder och 9 e § förordningen
-(1990:1018) med instruktion för Kriminalvårdsverket. En sådan
-journal får innehålla uppgifter om samtliga beslut som har
-fattats, viktiga händelser under verkställigheten och
-väsentliga uppgifter om vidtagna eller planerade åtgärder om
-den intagne, den som står under övervakning efter villkorlig
-frigivning och den som transporteras av kriminalvårdens
-transporttjänst. Journalen får även innehålla uppgifter om
-omständigheter i övrigt som är av betydelse för
-verkställigheten. Förordning (2005:1025).
+16 § Kriminalvården får i fråga om den som är dömd till
+fängelse utöver vad som anges i 3, 4 och 15 §§ behandla
+personuppgifter i en sådan journal som avses i 9 § förordningen
+(1974:248) om kriminalvård i anstalt, 12 § förordningen
+(1994:1060) om intensivövervakning med elektronisk kontroll, 4
+kap. 6 a § förordningen (1998:642) om verkställighet av
+frivårdspåföljder och 6 § andra stycket förordningen (2005:985)
+med instruktion för Kriminalvården. En sådan journal får
+innehålla uppgifter om samtliga beslut som har fattats, viktiga
+händelser under verkställigheten och väsentliga uppgifter om
+vidtagna eller planerade åtgärder om den intagne, den som står
+under övervakning efter villkorlig frigivning och den som
+transporteras av kriminalvårdens transporttjänst. Journalen får
+även innehålla uppgifter om omständigheter i övrigt som är av
+betydelse för verkställigheten. Förordning (2006:1126).
 
 17 § Har upphävts genom förordning (2003:1097).
 
@@ -445,13 +449,13 @@ Journaler
 skyddstillsyn utöver vad som anges i 3, 4 och 21 §§ behandla
 personuppgifter i en sådan journal som avses i 2 kap. 10 § och
 3 kap. 5 § förordningen (1998:642) om verkställighet av
-frivårdspåföljder och 9 e § förordningen (1990:1018) med
-instruktion för Kriminalvårdsverket. En sådan journal får
+frivårdspåföljder och 6 § andra stycket förordningen (2005:985)
+med instruktion för Kriminalvården. En sådan journal får
 innehålla uppgifter om samtliga beslut som har fattats, viktiga
 händelser under verkställigheten och väsentliga uppgifter om
 vidtagna eller planerade åtgärder som gäller den dömde. Den får
 även innehålla uppgifter om omständigheter i övrigt som är av
-betydelse för verkställigheten. Förordning (2005:1025).
+betydelse för verkställigheten. Förordning (2006:1126).
 
 Behandling av känsliga uppgifter
 
@@ -581,14 +585,14 @@ en sådan påföljd som avses i 1 och 2 i Sverige.
 Förordning (2005:1025).
 
 35 § Det centrala kriminalvårdsregistret får innehålla sådana
-uppgifter som avses i 3 § 1, 5-7, 9-10 och 12-18, 15 § 1 såvitt
+uppgifter som avses i 3 § 1, 5-7, 9-11 och 13-19, 15 § 1 såvitt
 avser hänvisningen till 9 § 16, 15 § 7 och 10, samt 21 § 2.
+Förordning (2006:1126).
 
 Skyldighet för myndigheter att lämna uppgifter som behövs för
 registret
 
-36 § /Upphör att gälla U:2006-03-31/
-För registrering i centrala kriminalvårdsregistret skall
+36 § För registrering i centrala kriminalvårdsregistret skall
 nedan angivna myndigheter lämna uppgifter till Kriminalvården i
 följande fall.
 
@@ -599,17 +603,18 @@ Uppgift lämnas av    Uppgift lämnas om
                         med föreskrift om samhällstjänst eller
                         förvandlingsstraff för böter eller vite
 
-                        Överklagande av dom eller slutligt beslut
-                        som det har lämnats uppgift om tidigare
+                        Överklagande av dom eller slutligt
+                        beslut som det har lämnats uppgift om
+                        tidigare
 
                         Beslut under rättegången att vidare
                         verkställighet inte får äga rum
                         beträffande den som har dömts till
                         skyddstillsyn
 
-                        Att dom eller slutligt beslut som uppgift
-                        har lämnats om tidigare har vunnit laga
-                        kraft
+                        Att dom eller slutligt beslut som
+                        uppgift har lämnats om tidigare har
+                        vunnit laga kraft
 
                         Att påföljd i dom eller slutligt beslut
                         som uppgift har lämnats om tidigare har
@@ -617,86 +622,28 @@ Uppgift lämnas av    Uppgift lämnas om
                         skyddstillsyn eller villkorlig dom med
                         föreskrift om samhällstjänst
 
-2. Regeringskansliet    Beslut i nådeärenden
-
-                        Av regeringen meddelat beslut om
-                        upphävande helt eller delvis enligt 7 kap.
-                        16 § utlänningslagen (1989:529) eller
-                        inhibition enligt 8 kap. 10 och 10 a §§
-                        samt 11 kap. 4 § samma lag av en dom
-                        eller ett beslut om utvisning
-
-                        Av regeringen meddelat beslut om
-                        tidsbegränsat uppehållstillstånd enligt
-                        7 kap. 16 § utlänningslagen
-Förordning (2005:1025).
-
-36 § /Träder i kraft I:2006-03-31/
-För registrering i centrala kriminalvårdsregistret skall
-nedan angivna myndigheter lämna uppgifter till Kriminalvården i
-följande fall.
-
-Uppgift lämnas av    Uppgift lämnas om
-
-1. Rikspolisstyrelsen   Dom eller slutligt beslut som avser
-                        fängelse, skyddstillsyn, villkorlig dom
-                        med föreskrift om samhällstjänst eller
-                        förvandlingsstraff för böter eller vite
-
-                        Överklagande av dom eller slutligt beslut
-                        som det har lämnats uppgift om tidigare
-
-                        Beslut under rättegången att vidare
-                        verkställighet inte får äga rum
-                        beträffande den som har dömts till
-                        skyddstillsyn
-
-                        Att dom eller slutligt beslut som uppgift
-                        har lämnats om tidigare har vunnit laga
-                        kraft
-
-                        Att påföljd i dom eller slutligt beslut
-                        som uppgift har lämnats om tidigare har
-                        ändrats till annan påföljd än fängelse,
-                        skyddstillsyn eller villkorlig dom med
-                        föreskrift om samhällstjänst
+                        Att fängelse på livstid har omvandlats
+                        till fängelse på viss tid enligt lagen
+                        (2006:45) om omvandling av fängelse på
+                        livstid
 
 2. Regeringskansliet    Beslut i nådeärenden
 
                         Av regeringen meddelat beslut om
-                        upphävande helt eller delvis enligt 8 kap.
-                        14 § utlänningslagen (2005:716) eller
-                        inhibition enligt 12 kap. 11 och 12 §§
-                        samma lag av en dom eller ett beslut om
-                        utvisning
+                        upphävande helt eller delvis enligt 8
+                        kap. 14 § utlänningslagen (2005:716)
+                        eller inhibition enligt 12 kap. 11 och
+                        12 §§ samma lag av en dom eller ett
+                        beslut om utvisning
 
                         Av regeringen meddelat beslut om
                         tidsbegränsat uppehållstillstånd enligt
                         8 kap. 10 § utlänningslagen
-Förordning (2006:106).
+Förordning (2006:1126).
 
 Utlämnande av uppgifter, m.m.
 
-37 § /Upphör att gälla U:2006-03-31/
-Uppgifter i det centrala kriminalvårdsregistret skall på
-begäran lämnas ut till Regeringskansliet, en domstol,
-Åklagarmyndigheten, Ekobrottsmyndigheten, Justitiekanslern,
-Riksdagens ombudsmän, Rikspolisstyrelsen, en polismyndighet,
-Datainspektionen eller en myndighet som får besluta om
-frihetsberövande åtgärd enligt lagen (1957:668) om utlämning
-för brott, lagen (1959:254) om utlämning för brott till
-Danmark, Finland, Island och Norge eller utlänningslagen
-(1989:529).
-
-Dessutom får Regeringskansliet, Rikspolisstyrelsen och
-polismyndigheter ha direktåtkomst till registret. För
-Regeringskansliet får dock endast sådana uppgifter göras
-tillgängliga som behövs i ärenden om nåd i brottmål och om
-upphävande av utvisningsbeslut enligt 7 kap. 16 §
-utlänningslagen. Förordning (2005:1025).
-
-37 § /Träder i kraft I:2006-03-31/
-Uppgifter i det centrala kriminalvårdsregistret skall på
+37 § Uppgifter i det centrala kriminalvårdsregistret skall på
 begäran lämnas ut till Regeringskansliet, en domstol,
 Åklagarmyndigheten, Ekobrottsmyndigheten, Justitiekanslern,
 Riksdagens ombudsmän, Rikspolisstyrelsen, en polismyndighet,
@@ -834,7 +781,12 @@ lämnas ut till Regeringskansliet om uppgiften kan antas ha
 betydelse i ärende om nåd i brottmål, utvisning, särskild
 utlänningskontroll eller i ärende enligt 31 § eller 58 a §
 lagen (1974:203) om kriminalvård i anstalt.
-Förordning (2005:1025).
+
+Uppgifter i säkerhetsregistret får, efter prövning av chefen
+för Kriminalvården eller av de personer som denne utser, även
+lämnas ut till allmän domstol om uppgiften kan antas ha
+betydelse i ärende som handläggs enligt lagen (2006:45) om
+omvandling av fängelse på livstid. Förordning (2006:1126).
 
 Gallring
 
