@@ -1462,79 +1462,87 @@ Förordning (1999:240).
 därtill kopplade fordon föras endast om de värden för
 respektive bärighetsklass som anges nedan inte överskrids.
 
-                             BK1             BK2             BK3
+                             BK1        BK2        BK3
 
 1. Axeltryck
-a. Axel som inte är drivande    10 ton          10 ton          8 ton
-b. Drivande axel                11,5 ton        10 ton          8 ton
+
+a. Axel som inte är drivande    10 ton     10 ton     8 ton
+
+b. Drivande axel                11,5 ton   10 ton     8 ton
 
 2. Boggitryck
-a. Avståndet mellan axlarna är
-mindre än 1,0 meter             11,5 ton        11,5 ton        11,5 ton
 
-b. Avståndet mellan axlarna är
-1,0 meter eller större men inte
-1,3 meter                       16 ton          16 ton          12 ton
+a. Avståndet mellan axlarna
+är mindre än 1,0 meter          11,5 ton   11,5 ton   11,5 ton
 
-c. Avståndet mellan axlarna är
-1,3 meter eller större men inte
-1,8 meter                       18 ton          16 ton          12 ton
+b. Avståndet mellan axlarna
+är 1,0 meter eller större
+men inte 1,3 meter              16 ton     16 ton     12 ton
 
-d. Avståndet mellan axlarna är
-1,3 meter eller större men
-inte 1,8 meter och drivaxeln
-är försedd med dubbelmonterade
-hjul och luftfjädring eller
-likvärdig fjädring,
-eller drivaxlarna är försedda
-med dubbelmonterade hjul och
+c. Avståndet mellan axlarna
+är 1,3 meter eller större
+men inte 1,8 meter              18 ton     16 ton     12 ton
+
+d. Avståndet mellan axlarna
+är 1,3 meter eller större
+men inte 1,8 meter och
+drivaxeln är försedd med
+dubbelmonterade hjul och
+luftfjädring eller likvärdig
+fjädring, eller drivaxlarna
+är försedda med
+dubbelmonterade hjul och
 vikten inte överstiger 9,5
-ton på någon av axlarna         19 ton          16 ton          12 ton
+ton på någon av axlarna         19 ton     16 ton     12 ton
 
-e. Avståndet mellan axlarna är
-1,8 meter eller större          20 ton          16 ton          12 ton
+e. Avståndet mellan axlarna
+är 1,8 meter eller större       20 ton     16 ton     12 ton
 
 3. Trippelaxeltryck
-a. Avståndet mellan de yttre
-axlarna är mindre än
-2,6 meter                       21 ton          20 ton          13 ton
 
-b. Avståndet mellan de yttre
-axlarna är 2,6 meter eller
-större                          24 ton          22 ton          13 ton
+a. Avståndet mellan de
+yttre axlarna är mindre
+än 2,6 meter                    21 ton     20 ton     13 ton
+
+b. Avståndet mellan de
+yttre axlarna är 2,6
+meter eller större              24 ton     22 ton     13 ton
 
 4. Bruttovikt av fordon
 och fordonståg
-a. Fordon på hjul               Bilaga 1        Bilaga 2        Bilaga 3
 
-b. Fordon på band eller medar   18 ton          18 ton          18 ton
+a. Fordon på hjul               Bilaga 1   Bilaga 2   Bilaga 3
 
-Vägverket får föreskriva att fordon eller fordonståg får föras
-trots att de värden som anges i första stycket överskrids.
-Föreskrifterna skall vara förenade med sådana villkor att
-trafiksäkerheten inte äventyras.
+b. Fordon på band eller medar   18 ton  18 ton  18 ton
+
+Vägverket får meddela föreskrifter om att fordon eller
+fordonståg får föras trots att de värden som anges i första
+stycket överskrids. Föreskrifterna skall vara förenade med
+sådana villkor i fråga om förandet och fordonets konstruktion
+och utrustning att trafiksäkerheten inte äventyras.
+Föreskrifterna får begränsas till en viss väg eller ett visst
+vägnät. Förordning (2006:1573).
 
 13 § På vägar som inte är enskilda får fordonståg föras endast
 om de värden som anges nedan för avståndet mellan den första
 axeln på ett tillkopplat fordon och den sista axeln på fordonet
 som det är kopplat till inte underskrids.
 
-                             BK1             BK2             BK3
+                             BK1         BK2       BK3
 
-1. Båda axlarna är enkelaxlar   3 meter         3 meter         3 meter
+1. Båda axlarna är enkelaxlar   3 meter     3 meter   3 meter
 
 2. Den ena axeln är en
-enkelaxel och den andra
-ingår i en boggi
-eller trippelaxel               3 meter         4 meter         4 meter
+enkelaxel och den andra ingår
+i en boggi eller trippelaxel    3 meter     4 meter   4 meter
 
-3. Axlarna ingår i var
-sin boggi                       4 meter         4 meter         4 meter
+3. Axlarna ingår i var sin
+boggi                           4 meter     4 meter   4 meter
 
-4. Den ena axeln ingår i
-en boggi och den andra
-i en trippelaxel eller
-båda i en trippelaxel           5 meter         -               -
+4. Den ena axeln ingår i en
+boggi och den andra i en
+trippelaxel eller båda i en
+trippelaxel                     5 meter      -        -
 
 Ett fordonståg får dock föras på sådan väg som avses i första
 stycket om vikten för varje möjlig kombination av axlar inom
@@ -1544,10 +1552,13 @@ motsvarande avstånd mellan första och sista axeln enligt bilaga
 värden som anges för släpvagnar gälla, om den tillåtna
 bruttovikten därigenom blir högre.
 
-Vägverket får föreskriva att fordonståg får föras trots att de
-värden som anges i första och andra styckena underskrids.
-Föreskrifterna skall vara förenade med sådana villkor att
-trafiksäkerheten inte äventyras.
+Vägverket får meddela föreskrifter om att fordonståg får föras
+trots att de värden som anges i första och andra styckena
+underskrids. Föreskrifterna skall vara förenade med sådana
+villkor i fråga om förandet och fordonets konstruktion och
+utrustning att trafiksäkerheten inte äventyras. Föreskrifterna
+får begränsas till en viss väg eller ett visst vägnät.
+Förordning (2006:1573).
 
 14 § Trots bestämmelserna i 12 § 4, 13 § och bilaga 1 får
 fordon och fordonståg som huvudsakligen används i
