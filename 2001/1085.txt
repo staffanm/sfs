@@ -29,7 +29,8 @@ Förordning (2003:872).
 direktiv 70/156/EEG: rådets direktiv 70/156/EEG av den 6
 februari 1970 om tillnärmning av medlemsstaternas lagstiftning
 om typgodkännande av motorfordon och släpvagnar till dessa
-fordon, senast ändrat genom kommissionens direktiv 2006/28/EG,
+fordon, senast ändrat genom Europaparlamentets och rådets
+direktiv 2006/40/EG,
 
 direktiv 70/220/EEG: rådets direktiv 70/220/EEG av den 20 mars
 1970 om tillnärmning av medlemsstaternas lagstiftning om
@@ -42,12 +43,6 @@ om åtgärder mot utsläpp av föroreningar från dieselmotorer som
 används i fordon, senast ändrat genom kommissionens direktiv
 2005/21/EG,
 
-direktiv 88/77/EEG: rådets direktiv 88/77/EEG av den 3 december
-1987 om tillnärmning av medlemsstaternas lagstiftning om
-åtgärder mot utsläpp av gasformiga föroreningar från
-dieselmotorer som används i fordon, senast ändrat genom bilaga
-II till anslutningsakten för Tjeckien m.fl.,
-
 direktiv 96/96/EG: rådets direktiv 96/96/EG av den 20 december
 1996 om tillnärmning av medlemsstaternas lagstiftning om
 provning av motorfordons och tillhörande släpfordons
@@ -58,7 +53,7 @@ direktiv 97/24/EG: Europaparlamentets och rådets direktiv
 97/24/EG av den 17 juni 1997 om vissa komponenter och
 karakteristiska egenskaper hos två- eller trehjuliga
 motorfordon, senast ändrat genom kommissionens direktiv
-2005/30/EG,
+2006/72/EG,
 
 direktiv 98/69/EG: Europaparlamentets och rådets direktiv
 98/69/EG av den 13 oktober 1998 om åtgärder mot luftförorening
@@ -68,15 +63,6 @@ direktiv 70/220/EEG,
 direktiv 98/77/EG: kommissionens direktiv 98/77/EG av den 2
 oktober 1998 om anpassning till den tekniska utvecklingen av
 rådets direktiv 70/220/EEG,
-
-direktiv 1999/96/EG: Europaparlamentets och rådets direktiv
-1999/96/EG av den 13 december 1999 om tillnärmning av
-medlemsstaternas lagstiftning om åtgärder mot utsläpp av gas-
-och partikelformiga föroreningar från motorer med
-kompressionständning som används i fordon samt mot utsläpp av
-gasformiga föroreningar från motorer med gnisttändning drivna
-med naturgas eller motorgas (LPG) vilka används i fordon och om
-ändring av rådets direktiv 88/77/EEG,
 
 direktiv 2000/30/EG: Europaparlamentets och rådets direktiv
 2000/30/EG av den 6 juni 2000 om vägkontroller av
@@ -103,6 +89,15 @@ direktiv 2002/80/EG: kommissionens direktiv 2002/80/EG av den 3
 oktober 2002 om anpassning till den tekniska utvecklingen av
 rådets direktiv 70/220/EEG om åtgärder mot luftförorening genom
 avgaser från motorfordon,
+
+direktiv 2005/55/EG: Europaparlamentets och rådets direktiv
+2005/55/EG av den 28 september 2005 om tillnärmning av
+medlemsstaternas lagstiftning om åtgärder mot utsläpp av gas-
+och partikelformiga föroreningar från motorer med
+kompressionständning som används i fordon samt mot utsläpp av
+gasformiga föroreningar från motorer med gnisttändning drivna
+med naturgas eller gasol vilka används i fordon, senast ändrat
+genom kommissionens direktiv 2006/51/EG,
 
 personbilar: lätta bilar som är inrättade huvudsakligen för
 befordran av personer, dock högst förare och åtta passagerare,
@@ -162,20 +157,25 @@ gasmotor: motor som drivs med naturgas (NG) eller motorgas
 (LPG) som bränsle,
 
 ESC-prov: en provcykel bestående av 13 stationära driftslägen
-(steady state-steg), och som används i enlighet med bilaga 1,
-avsnitt 6.2, i direktiv 88/77/EEG i dess lydelse enligt
-direktiv 1999/96/EG,
+("steady state-steg"), och som används i enlighet med bilaga 1,
+avsnitt 6.2, i direktiv 2005/55/EG i dess lydelse enligt
+direktiv 2005/78/EG,
 
 ETC-prov: en provcykel bestående av 1 800 transienta
 fastställda driftslägen, och som används i enlighet med bilaga
-1, avsnitt 6.2, i direktiv 88/77/EEG i dess lydelse enligt
-direktiv 1999/96/EG.
+1, avsnitt 6.2, i direktiv 2005/55/EG i dess lydelse enligt
+direktiv 2005/78/EG, och
+
+ELR-prov: En provcykel bestående av en serie belastningssteg
+med konstanta motorvarvtal, och som används i enlighet med
+bilaga 1, avsnitt 6.2, i direktiv 2005/55/EG i dess lydelse
+enligt direktiv 2005/78/EG.
 
 I övrigt har de beteckningar som används i denna förordning
 samma betydelse som i lagen (2001:559) om
 vägtrafikdefinitioner, förordningen (2001:651) om
 vägtrafikdefinitioner och lagen (2001:1080) om motorfordons
-avgasrening och motorbränslen. Förordning (2006:526).
+avgasrening och motorbränslen. Förordning (2007:125).
 
 Avgasreningskrav
 
@@ -183,19 +183,7 @@ Avgasreningskrav
 förordning, vara försett med utsläppsbegränsande anordningar
 som fungerar.
 
-4 § /Upphör att gälla U:2007-04-01/
-Motorfordon som för första gången tas i bruk skall uppfylla
-kraven på avgasrening i bilaga 1. För bilar som tagits i bruk i
-ett annat land och för vissa äldre bilar finns avgasreningskrav
-i bilaga 2.
-
-Vägverket får efter samråd med Naturvårdsverket meddela
-ytterligare föreskrifter i fråga om föroreningar i avgaserna
-som särskilt uppkommer vid drift med andra bränslen än bensin
-eller dieselbrännolja. Förordning (2004:681).
-
-4 § /Träder i kraft I:2007-04-01/
-Motorfordon som för första gången tas i bruk skall uppfylla
+4 § Motorfordon som för första gången tas i bruk skall uppfylla
 kraven på avgasrening i bilaga 1. För bilar som tagits i bruk i
 ett annat land och för vissa äldre bilar finns avgasreningskrav
 i bilaga 2.
@@ -259,26 +247,14 @@ Vägverket. Betalningen tas emot och redovisas av Vägverket.
 Om det finns särskilda skäl, får Vägverket besluta att avgiften
 skall sättas ned eller efterskänkas. Förordning (2004:681).
 
-12 § /Upphör att gälla U:2007-04-01/
-Styrelsen för ackreditering och teknisk kontroll får efter
-samråd med Vägverket och Naturvårdsverket meddela föreskrifter
-om krav på och kontroll av sådan mätutrustning som används vid
-kontroll av avgasrening hos motorfordon i bruk.
-
-Vägverket får efter samråd med Naturvårdsverket meddela de
-ytterligare föreskrifter som behövs för att bilar skall
-uppfylla de krav som följer av denna förordning.
-Förordning (2006:321).
-
-12 § /Träder i kraft I:2007-04-01/
-Styrelsen för ackreditering och teknisk kontroll får efter
+12 § Styrelsen för ackreditering och teknisk kontroll får efter
 samråd med Vägverket meddela föreskrifter om krav på och
 kontroll av sådan mätutrustning som används vid kontroll av
 avgasrening hos motorfordon i bruk.
 
 Vägverket får meddela de ytterligare föreskrifter som behövs
 för att bilar skall uppfylla de krav som följer av denna
-förordning. Förordning (2001:1085).
+förordning. Förordning (2007:39).
 
 13 § Vägverket får meddela föreskrifter eller i enskilda fall
 besluta om undantag i enlighet med 21 § lagen (2001:1080) om
@@ -357,7 +333,7 @@ Naturvårdsverket enligt bestämmelsernas äldre lydelser.
 Bilaga 1
 
 Bilaga 1 är inte med här. Bilagan senast ändrad genom
-förordning (2006:526).
+förordning (2007:125).
 
 Bilaga 2
 
