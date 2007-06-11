@@ -58,11 +58,17 @@ Gågata                  En väg eller en vägsträcka som enligt en
                         lokal trafikföreskrift skall vara gågata och
                         som är utmärkt med vägmärke för gågata
 
-Gårdsgata               En väg eller en vägsträcka som enligt en
-                        lokal trafikföreskrift skall vara gårdsgata
-                        och som är utmärkt med vägmärke för gårdsgata
+Gångfartsområde         En väg eller ett område som enligt
+                        lokala trafikföreskrifter skall vara
+                        gångfartsområde och som är utmärkt med
+                        vägmärke för gångfartsområde
 
 Halvljus                Avbländat färdljus
+
+Heldragen linje         Längsgående heldragen linje som enligt
+                        4 kap. 5 § vägmärkesförordningen
+                        (2007:90) ersätter motsvarande bruten
+                        linje i 4 kap. 4 §
 
 Helljus                 Inte avbländat färdljus
 
@@ -85,7 +91,14 @@ Körfält                 Ett sådant längsgående fält av en körbana
                         brett   för trafik i en fil med fyrhjuliga
                         fordon
 
-Körförbud               Förbud mot att använda ett fordon
+Körfält för fordon i    Ett körfält eller en körbana som enligt
+linjetrafik m.fl.       en lokal trafikföreskrift skall vara
+                        körfält för fordon i linjetrafik m.fl.
+                        och som är utmärkt med vägmärke för
+                        körfält eller körbana för fordon i
+                        linjetrafik m.fl.
+
+Körförbud            Förbud mot att använda ett fordon
 
 Körträning              Träning i att föra ett körkorts- eller
                         traktorkortspliktigt motordrivet fordon
@@ -125,9 +138,8 @@ Plankorsning            En korsning i samma plan mellan en väg och
                         en sådan järnväg eller spårväg som är
                         anlagd på en särskild banvall
 
-Registrerad importör    En importör som har registrerats som
-                        avgiftsskyldig enligt bilskrotningslagen
-                        (1975:343)
+Registrerad importör    En importör som har registrerats i
+                        vägtrafikregistret
 
 Registrerat fordon      Ett fordon som är upptaget i
                         vägtrafikregistret
@@ -148,13 +160,10 @@ Registreringsskylt      En av Vägverket tillhandahållen skylt, som
 Retardationsfält        Ett sådant körfält som är avsett endast för
                         avfart
 
-Spärrlinje              En annan längsgående heldragen linje på en
-                        väg än som avses i 51 § 4.1.9.2
-                        vägmärkesförordningen (1978:1001)
-
-Spärrområde             Ett vägområde som markerats med snedställda
-                        parallella streck och som begränsas av en
-                        heldragen eller streckad linje
+Spärrområde             Ett vägområde som markerats med vinklade
+                        eller snedställda parallella streck och
+                        som begränsas av en heldragen linje. Del
+                        av eller hela området kan utföras i vitt
 
 Stannande               Annat stillastående med ett fordon än som
 
@@ -216,13 +225,17 @@ Yrkesmässig
 fordonstillverkare      En fordonstillverkare som innehar ett
                         nationellt typgodkännande för fordon
 
+Ändamålsplats           En plats som är avsedd för en viss
+                        trafikantgrupp, en viss verksamhet
+                        eller ett visst ändamål
+
 Övergångsställe         En del av en väg som är avsedd att användas
                         av gående för att korsa en körbana eller en
                         cykelbana och som anges med vägmarkering
                         eller vägmärke. Ett övergångsställe är bevakat
                         om trafiken regleras med trafiksignaler eller
                         av en polisman och i annat fall obevakat
-Förordning (2002:946).
+Förordning (2007:220).
 
 3 § Vägverket beslutar i frågor som avses i 3 § lagen
 (2001:559) om vägtrafikdefinitioner.
