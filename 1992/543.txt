@@ -1,6 +1,3 @@
-
-
-
 Inledande bestämmelser
 
 1 kap. Tillämpningsområde m. m.
@@ -57,8 +54,11 @@ styrelsen eller dess ledamöter skall tillämpas också på ett
 europabolags eller ett europakooperativs lednings- eller
 förvaltningsorgan eller dess ledamöter. Lag (2006:605).
 
-3 § Om börs finns särskilda bestämmelser i 2--6 kap., om auktoriserad
-marknadsplats i 7 kap. och om clearingorganisation i 8 och 9 kap.
+3 § Särskilda bestämmelser om börser finns i 2-5 och 6 kap., om
+auktoriserade marknadsplatser i 7 kap. och om
+clearingorganisationer i 8 och 9 kap. I 5 a kap. finns
+bestämmelser om regelbunden finansiell information som skall
+offentliggöras av utgivare. Lag (2007:366).
 
 4 § I denna lag betyder
 
@@ -117,8 +117,93 @@ företaget,
 
 12. koncern: detsamma som i 1 kap. 11 och 12 §§
 aktiebolagslagen (2005:551), varvid vad som sägs om moderbolag
-tillämpas även på andra juridiska personer än aktiebolag.
-Lag (2005:914).
+tillämpas även på andra juridiska personer än aktiebolag, och
+
+13. öppenhetsdirektivet: Europaparlamentets och rådets direktiv
+2004/109/EG av den 15 december 2004 om harmonisering av
+insynskraven angående upplysningar om emittenter vars
+värdepapper är upptagna till handel på en reglerad marknad och
+om ändring av direktiv 2001/34/EG. Lag (2007:366).
+
+Hemmedlemsstat
+
+5 § Sverige är hemmedlemsstat för en utgivare som har sitt säte
+här, om utgivaren
+
+1. är ett aktiebolag som har gett ut aktier som är noterade vid
+en börs eller en auktoriserad marknadsplats eller är upptagna
+till handel på en reglerad marknad i en annan stat inom EES,
+eller
+
+2. har gett ut sådana skuldebrev som avses i 5 kap. 6 § första
+stycket om
+
+a) vart och ett av skuldebreven har ett nominellt värde som
+understiger motsvarande 1 000 euro, och
+
+b) skuldebreven är noterade vid en börs eller en auktoriserad
+marknadsplats eller är upptagna till handel på en reglerad
+marknad i en annan stat inom EES. Lag (2007:366).
+
+6 § Sverige är hemmedlemsstat för en utgivare som inte har säte
+i en stat inom EES, om
+
+1. utgivaren har gett ut aktier eller sådana skuldebrev som
+avses i 5 kap. 6 § första stycket och vart och ett av
+skuldebreven har ett nominellt värde som understiger
+motsvarande 1 000 euro,
+
+2. dessa fondpapper är noterade vid en börs eller en
+auktoriserad marknadsplats eller är upptagna till handel på en
+reglerad marknad i en annan stat inom EES, och
+
+3. utgivaren till följd av detta, eller på grund av att dessa
+fondpapper har erbjudits till allmänheten i Sverige, är skyldig
+att ge in ett dokument enligt 6 kap. 1 b § lagen (1991:980) om
+handel med finansiella instrument till Finansinspektionen.
+Lag (2007:366).
+
+7 § Sverige är hemmedlemsstat för en utgivare i andra fall än
+som anges i 5 eller 6 § om denne har gett ut fondpapper som är
+noterade vid en börs eller en auktoriserad marknadsplats eller
+är upptagna till handel på en reglerad marknad i en annan stat
+inom EES och utgivaren väljer att Sverige skall vara
+hemmedlemsstat.
+
+En utgivare får välja att Sverige skall vara hemmedlemsstat
+bara om utgivaren har sitt säte här eller om fondpapperen är
+noterade vid en börs eller en auktoriserad marknadsplats.
+
+En utgivare som har valt att Sverige skall vara hemmedlemsstat
+får ändra detta val tidigast efter tre år, om inte
+förutsättningarna i första stycket dessförinnan har upphört att
+gälla.
+
+Regeringen eller den myndighet som regeringen bestämmer får
+meddela föreskrifter om hur en utgivare skall offentliggöra
+valet av hemmedlemsstat. Lag (2007:366).
+
+Fondpapper som är upptagna till handel i en annan stat inom EES
+
+8 § Om Sverige är hemmedlemsstat för en utgivare vars
+fondpapper inte är noterade vid en börs eller en auktoriserad
+marknadsplats, men är upptagna till handel på en reglerad
+marknad i en annan stat inom EES, skall följande bestämmelser i
+5 kap. tillämpas av utgivaren:
+
+- 3 § första stycket 3 om kurspåverkande information,
+
+- 3 b § om förändringar i rättigheter och om nya emissioner,
+
+- 5 § om skyldighet att utse ett finansiellt institut,
+
+- 6-10 §§ om utgivare av skuldebrev, och
+
+- 11-16 §§ om utgivare som inte har säte i en stat inom EES.
+
+Av 5 a kap. 1 § framgår att bestämmelserna i 5 a kap. är
+tillämpliga på sådana utgivare som anges i första stycket.
+Lag (2007:366).
 
 Börs
 
@@ -371,6 +456,20 @@ Lag (2005:834).
 auktorisation som börs får inte inregistreras eller noteras vid
 den börsen. Lag (1998:261).
 
+1 b § Notering av och handel med ett visst fondpapper som är
+utgivet av någon som enligt öppenhetsdirektivet har möjlighet
+att välja hemmedlemsstat får inte inledas förrän utgivaren har
+valt en stat inom EES som hemmedlemsstat.
+
+Första stycket gäller inte i fråga om
+
+1. andelar i en investeringsfond eller i ett sådant fondföretag
+som avses i 1 kap. 7 eller 9 § lagen (2004:46) om
+investeringsfonder, eller
+
+2. fordringsrätter med kortare löptid än ett år.
+Lag (2007:366).
+
 Handelsregler och marknadsövervakning
 
 2 § En börs skall ha ändamålsenliga regler för hur handeln vid
@@ -405,6 +504,37 @@ Undantag från reglerna skall kunna beslutas av börsen eller ett
 av börsen utsett organ med representativa företrädare för
 näringslivet. Undantag får förenas med villkor. Ett beslut om
 undantag skall ange de skäl som det grundas på. Lag (2006:455).
+
+Övervakning av regelbunden finansiell information
+
+2 b § En börs skall övervaka att den som har gett ut fondpapper
+som är inregistrerade eller noterade vid börsen, och som har
+Sverige som hemmedlemsstat, upprättar sådan regelbunden
+finansiell information som anges i 5 a kap. 4, 5 och 7 §§ i
+enlighet med de bestämmelser som gäller för utgivaren.
+
+Övervakningen skall vara organiserad så att intressekonflikter
+inte uppstår.
+
+Regeringen eller den myndighet som regeringen bestämmer får
+meddela föreskrifter om övervakningen av regelbunden finansiell
+information vid en börs. Lag (2007:366).
+
+2 c § Om börsen finner att en överträdelse har skett av de
+bestämmelser som gäller för upprättandet av regelbunden
+finansiell information, skall börsen anmäla detta till
+Finansinspektionen.
+
+En anmälan behöver inte göras om utgivaren på börsens uppmaning
+offentliggjort rättad eller kompletterad information.
+Lag (2007:366).
+
+2 d § En börs skall regelbundet rapportera till
+Finansinspektionen om övervakningen enligt 2 b §.
+
+Regeringen eller den myndighet som regeringen bestämmer får
+meddela föreskrifter om innehållet, omfattningen och
+fullgörandet av rapporteringen. Lag (2007:366).
 
 Kursnotering och information
 
@@ -546,6 +676,23 @@ offentliggöras, såvida inte mottagaren av informationen
 omfattas av tystnadsplikt enligt lag eller avtal.
 Lag (2005:380).
 
+3 b § Den som har gett ut fondpapper som har inregistrerats vid
+en börs skall omedelbart offentliggöra
+
+1. alla förändringar i de rättigheter som är knutna till
+fondpapperen, och
+
+2. nya låneemissioner.
+
+Nya låneemissioner behöver dock inte offentliggöras av sådana
+utgivare som avses i 5 a kap. 2 § 1-3.
+
+Om den som har gett ut aktier som har inregistrerats vid en
+börs även har utfärdat derivatinstrument med aktierna som
+underliggande tillgång, skall utgivaren omedelbart även
+offentliggöra förändringar i de rättigheter som är knutna till
+derivatinstrumenten. Lag (2007:366).
+
 Avregistrering
 
 4 § En börs skall avslå en begäran om inregistrering eller
@@ -563,23 +710,306 @@ uppenbart obehövligt eller beslutet inte kan uppskjutas.
 Beslut om avregistrering skall offentliggöras omedelbart.
 Lag (2005:380).
 
-5 § Har upphävts genom lag (2005:834).
+Särskilda bestämmelser om aktier
+
+5 § Den som har gett ut aktier som är inregistrerade vid en
+börs skall utse ett finansiellt institut genom vilket
+aktieägarna skall kunna utöva sina finansiella rättigheter.
+Lag (2007:366).
 
 5 a § Har upphävts genom lag (2005:834).
 
 5 b § Har upphävts genom lag (2005:834).
 
+Särskilda bestämmelser om skuldebrev
+
+6 § I 7-10 §§ avses med skuldebrev obligationer och andra
+överlåtbara skuldförbindelser, med undantag för sådana som
+
+1. om de konverteras eller om de rättigheter som de medför
+utövas, ger rätt att förvärva aktier eller finansiella
+instrument som kan jämställas med aktier, eller
+
+2. utgörs av fordringsrätter med kortare löptid än ett år.
+
+Bestämmelserna i 7-10 §§ skall tillämpas i fråga om skuldebrev
+som är inregistrerade vid en börs.
+
+Bestämmelserna i 8-10 §§ skall inte tillämpas i fråga om
+skuldebrev som har getts ut av en stat inom EES eller av ett
+landsting eller en kommun eller motsvarande regional eller
+lokal myndighet inom EES.
+
+I 12 § finns bestämmelser om undantag från 7-10 §§ för vissa
+utgivare som inte har säte i en stat inom EES. Lag (2007:366).
+
+7 § Den som har gett ut skuldebrev skall se till att alla
+innehavare av sådana skuldebrev som har getts ut samtidigt och
+på samma villkor behandlas lika när det gäller de rättigheter
+som är knutna till skuldebreven. Lag (2007:366).
+
+8 § Den som har gett ut skuldebrev får inte hindra innehavare
+av skuldebreven från att utöva sina rättigheter genom en
+fullmakt till någon annan.
+
+Om den som har gett ut skuldebreven inte har sitt säte i
+Sverige, gäller första stycket bara om lagstiftningen i den
+stat där utgivaren har sin hemvist tillåter en sådan fullmakt.
+Lag (2007:366).
+
+9 § Om den som har gett ut skuldebrev avser att hålla ett möte
+med innehavare av skuldebreven, skall utgivaren
+
+1. informera skuldebrevsinnehavarna om plats, tid och
+dagordning för mötet samt om vad som krävs för att en
+innehavare skall ha rätt att delta i mötet, och
+
+2. tillhandahålla skuldebrevsinnehavarna ett fullmaktsformulär.
+
+Fullmaktsformuläret skall tillhandahållas tillsammans med
+kallelsen till mötet, om kallelsen sänds till
+skuldebrevsinnehavarna. Om kallelse sker på något annat sätt,
+skall fullmaktsformuläret tillhandahållas
+skuldebrevsinnehavarna på begäran efter det att mötet har
+tillkännagetts. Lag (2007:366).
+
+10 § Den som har gett ut skuldebrev skall informera
+skuldebrevsinnehavarna om utbetalning av ränta, utövande av
+rättigheter avseende konvertering, utbyte, teckning eller
+annullering och återbetalning.
+
+Utgivaren skall utse ett finansiellt institut genom vilket
+skuldebrevsinnehavarna skall kunna utöva sina finansiella
+rättigheter. Lag (2007:366).
+
+Utgivare utan säte i en stat inom EES
+
+11 § Bestämmelserna i 12-16 §§ är tillämpliga på den som har
+gett ut där angivna fondpapper som är inregistrerade vid en
+börs, om utgivaren inte har säte i en stat inom EES och har
+Sverige som hemmedlemsstat. Lag (2007:366).
+
+12 § En utgivare av skuldebrev behöver inte tillämpa
+bestämmelserna i 7-10 §§ om utgivaren uppfyller de krav som
+uppställs i en offentlig reglering i en stat utanför EES och
+som motsvarar dessa bestämmelser. Lag (2007:366).
+
+13 § En utgivare av aktier behöver inte tillämpa bestämmelserna
+i 14-16 §§ om utgivaren uppfyller de krav som uppställs i en
+offentlig reglering i en stat utanför EES och som motsvarar
+dessa bestämmelser. Lag (2007:366).
+
+14 § En utgivare av aktier skall behandla alla aktieägare som
+innehar aktier av samma slag lika. Lag (2007:366).
+
+15 § Inför en bolagsstämma skall en utgivare av aktier
+informera aktieägarna om
+
+1. plats, tid och dagordning för stämman,
+
+2. det totala antalet aktier och rösträtter, och
+
+3. aktieägares rätt att delta i stämman. Lag (2007:366).
+
+16 § En utgivare av aktier får inte hindra aktieägare från att
+utöva sina rätttigheter genom en fullmakt till någon annan, om
+lagstiftningen i den stat där utgivaren har sin hemvist
+tillåter att en sådan fullmakt används.
+
+Om fullmakt får användas, skall utgivaren inför en bolagsstämma
+tillhandahålla ett fullmaktsformulär till dem som har rätt att
+rösta vid stämman. Lag (2007:366).
+
+5 a kap. Regelbunden finansiell information
+
+Tillämpningsområde
+
+1 § Bestämmelserna i detta kapitel gäller för en utgivare som
+har Sverige som hemmedlemsstat och vars fondpapper är noterade
+vid en börs eller en auktoriserad marknadsplats eller är
+upptagna till handel på en reglerad marknad inom EES.
+
+Särskilda bestämmelser om utgivare som inte har säte i en stat
+inom EES finns i 11 §.
+
+Utgivare som inte har Sverige som hemmedlemsstat skall, om
+utgivarens fondpapper är noterade vid en börs eller en
+auktoriserad marknadsplats, offentliggöra regelbunden
+finansiell information i enlighet med den offentliga reglering
+i utgivarens hemmedlemsstat inom EES som följer av
+öppenhetsdirektivet. Lag (2007:366).
+
+2 § Bestämmelserna i detta kapitel skall inte tillämpas om
+utgivaren är
+
+1. en stat,
+
+2. ett landsting eller en kommun eller en motsvarande regional
+eller lokal myndighet i en stat,
+
+3. en mellanstatlig organisation i vilken en eller flera stater
+inom EES är medlemmar,
+
+4. Europeiska centralbanken, eller
+
+5. en centralbank i en stat inom EES. Lag (2007:366).
+
+3 § Bestämmelserna i detta kapitel skall inte tillämpas i fråga
+om
+
+1. andelar i en investeringsfond eller i ett sådant fondföretag
+som avses i 1 kap. 7 eller 9 § lagen (2004:46) om
+investeringsfonder,
+
+2. fordringsrätter med en kortare löptid än ett år, eller
+
+3. obligationer eller andra överlåtbara skuldförbindelser som
+var och en har ett nominellt värde motsvarande minst 50 000
+euro och som inte är av sådant slag som anges i 5 kap. 6 §
+första stycket 1. Lag (2007:366).
+
+Års- och koncernredovisning
+
+4 § Utgivaren skall så snart som möjligt och senast fyra
+månader efter utgången av varje räkenskapsår offentliggöra sin
+årsredovisning och, i förekommande fall, en koncernredovisning.
+
+Års- och koncernredovisningar skall vara granskade av
+utgivarens revisor. Revisionsberättelsen skall offentliggöras
+tillsammans med års- och koncernredovisningen. Bestämmelser om
+revision finns i 10 kap. försäkringsrörelselagen (1982:713),
+4 a kap. sparbankslagen (1987:619), 8 kap. lagen (1987:667) om
+ekonomiska föreningar, 7 a kap. lagen (1995:1570) om
+medlemsbanker, revisionslagen (1999:1079) och 9 kap.
+aktiebolagslagen (2005:551). Lag (2007:366).
+
 Halvårsrapport
 
-6 § Ett aktiebolag vars aktier är inregistrerade vid en börs skall under
-varje räkenskapsår som omfattar mer än tio månader offentliggöra en
-redogörelse för räkenskapsårets första sex månader (halvårsrapport).
-Rapporten skall offentliggöras inom två månader från halvårets utgång.
-Vid offentliggörandet skall halvårsrapporten ges in till börsen. Om det
-finns särskilda skäl, får börsen medge anstånd med offentliggörandet.
+5 § En utgivare av aktier eller av obligationer eller andra
+överlåtbara skuldförbindelser som inte är av sådant slag som
+anges i 5 kap. 6 § första stycket 1 skall offentliggöra en
+delårsrapport för räkenskapsårets första sex månader
+(halvårsrapport). Halvårsrapporten skall offentliggöras så
+snart som möjligt och senast två månader efter rapportperiodens
+utgång. Lag (2007:366).
 
-Halvårsrapporten skall innehålla en redogörelse för bolagets verksamhet
-och resultat under räkenskapsårets första sex månader.
+Delårsredogörelse
+
+6 § En utgivare av aktier skall offentliggöra en
+delårsredogörelse under räkenskapsårets första och andra
+halvår. Redogörelsen skall offentliggöras tidigast tio veckor
+efter början och senast sex veckor före slutet av halvåret.
+
+En delårsredogörelse skall innehålla information om perioden
+mellan halvårets början och dagen för redogörelsens
+offentliggörande. I redogörelsen skall det ingå uppgifter om
+väsentliga händelser och transaktioner under perioden samt en
+allmän beskrivning av utgivarens och dess dotterföretags
+ställning och resultat under perioden. Lag (2007:366).
+
+Kvartalsrapport
+
+7 § Det krävs ingen delårsredogörelse enligt 6 § om utgivaren i
+stället offentliggör en delårsrapport för perioden från
+halvårets början och tre månader framåt (kvartalsrapport).
+Kvartalsrapporten skall offentliggöras så snart som möjligt och
+senast två månader efter rapportperiodens utgång.
+Lag (2007:366).
+
+Innehållet i års- och koncernredovisning samt delårsrapport
+
+8 § För utgivare med säte i Sverige finns bestämmelser om års-
+och koncernredovisning samt delårsrapport i
+årsredovisningslagen (1995:1554), lagen (1995:1559) om
+årsredovisning i kreditinstitut och värdepappersbolag och lagen
+(1995:1560) om årsredovisning i försäkringsföretag.
+
+I fråga om koncernredovisning gäller därutöver
+Europaparlamentets och rådets förordning (EG) nr 1606/2002 av
+den 19 juli 2002 om tillämpning av internationella
+redovisningsstandarder. Lag (2007:366).
+
+Undertecknande och intygande
+
+9 § De som skall underteckna en årsredovisning respektive en
+koncernredovisning skall i anslutning till underskrifterna ange
+sin befattning hos utgivaren.
+
+Om det är fråga om en årsredovisning, skall undertecknarna
+omedelbart före underskrifterna lämna en försäkran att
+årsredovisningen har upprättats i enlighet med god
+redovisningssed, ger en rättvisande bild av företagets
+ställning och resultat samt att förvaltningsberättelsen ger en
+rättvisande översikt över utvecklingen av företagets
+verksamhet, ställning och resultat samt beskriver väsentliga
+risker och osäkerhetsfaktorer som företaget står inför.
+
+Om det är fråga om en koncernredovisning, skall undertecknarna
+omedelbart före underskrifterna lämna en försäkran att
+koncernredovisningen har upprättats i enlighet med de
+internationella redovisningsstandarder som avses i
+Europaparlamentets och rådets förordning (EG) nr 1606/2002 av
+den 19 juli 2002 om tillämpning av internationella
+redovisningsstandarder, ger en rättvisande bild av koncernens
+ställning och resultat samt att koncernförvaltningsberättelsen
+ger en rättvisande översikt över utvecklingen av koncernens
+verksamhet, ställning och resultat samt beskriver väsentliga
+risker och osäkerhetsfaktorer som de företag som ingår i
+koncernen står inför. Lag (2007:366).
+
+10 § En halvårsrapport skall undertecknas med tillämpning av 2
+kap. 7 § årsredovisningslagen (1995:1554).
+
+De som undertecknar en halvårsrapport skall i anslutning till
+underskrifterna ange sin befattning hos utgivaren. De skall
+även omedelbart före underskrifterna lämna en försäkran om att
+halvårsrapporten ger en rättvisande översikt av företagets och,
+i förekommande fall, koncernens verksamhet, ställning och
+resultat samt beskriver väsentliga risker och
+osäkerhetsfaktorer som företaget och de företag som ingår i
+koncernen står inför. Lag (2007:366).
+
+Utgivare utan säte i en stat inom EES
+
+11 § En utgivare som inte har säte i en stat inom EES får
+tillämpa sådana bestämmelser om års- och koncernredovisning
+samt halvårsrapport som finns i en offentlig reglering i en
+stat utanför EES, om dessa bestämmelser motsvarar de krav som
+ställs på sådan regelbunden finansiell information i
+öppenhetsdirektivet. Utgivaren får även tillämpa ett
+tredjelands bestämmelser om kvartalsrapport, om dessa
+bestämmelser motsvarar de krav på sådan rapport som ställs i de
+bestämmelser om delårsrapport som anges i 8 § och som skulle ha
+varit tillämpliga om utgivaren hade haft sitt säte i Sverige.
+
+En utgivare som inte har säte i en stat inom EES får även
+tillämpa sådana bestämmelser om koncernredovisning och
+halvårsrapport för koncernen som finns i en offentlig reglering
+i en stat utanför EES, om villkoren i artikel 1 i kommissionens
+beslut (2006/891/EG) av den 4 december 2006 om tillämpningen av
+internationella redovisningsstandarder för tredjelandemittenter
+av värdepapper är uppfyllda.
+
+Om ett tredjelands bestämmelser enligt första stycket inte
+anses likvärdiga eller om villkoren enligt andra stycket inte
+är uppfyllda, skall utgivaren upprätta års- och
+koncernredovisning, halvårsrapport respektive kvartalsrapport i
+enlighet med de bestämmelser som anges i 8 § och som gäller för
+en utgivare av motsvarande slag.
+
+Regeringen eller den myndighet som regeringen bestämmer får
+meddela föreskrifter om vilka krav ett tredjelands bestämmelser
+skall uppfylla för att få tillämpas enligt första stycket.
+Lag (2007:366).
+
+Ingivande av information till en börs eller auktoriserad
+marknadsplats
+
+12 § Utgivare av fondpapper som är noterade vid en börs eller
+auktoriserad marknadsplats skall vid offentliggörandet av den
+information som avses i 4-7 §§ samtidigt lämna informationen
+till den börs eller den auktoriserade marknadsplats där
+fondpapperen är noterade. Lag (2007:366).
 
 6 kap. Fondpapper som inte inregistreras
 
@@ -624,10 +1054,30 @@ offentliggöras, såvida inte mottagaren av informationen
 omfattas av tystnadsplikt enligt lag eller avtal.
 Lag (2005:380).
 
+3 a § Den som har gett ut fondpapper som har noterats med stöd
+av 1 § skall omedelbart offentliggöra
+
+1. alla förändringar i de rättigheter som är knutna till
+fondpapperen, och
+
+2. nya låneemissioner.
+
+Nya låneemissioner behöver dock inte offentliggöras av sådana
+utgivare som avses i 5 a kap. 2 § 1-3.
+
+Om den som har gett ut aktier som har noterats med stöd av 1 §
+även har utfärdat derivatinstrument med aktierna som
+underliggande tillgång, skall utgivaren omedelbart även
+offentliggöra förändringar i de rättigheter som är knutna till
+derivatinstrumenten. Lag (2007:366).
+
 4 § En börs skall avslå en begäran om notering eller besluta om
 avnotering av fondpapper, om utgivaren av fondpapperen
 allvarligt åsidosätter sin informationsplikt enligt 2 eller
-3 §. Om det är olämpligt från allmän synpunkt, skall avnotering
+3 §. En börs skall också besluta om avnotering av fondpapper om
+utgivaren allvarligt åsidosätter sin skyldighet att
+offentliggöra regelbunden finansiell information enligt 5 a
+kap. Om det är olämpligt från allmän synpunkt, skall avnotering
 inte ske.
 
 Avnotering får inte beslutas utan att utgivaren har fått
@@ -636,7 +1086,25 @@ genom någon annan än utgivaren själv, om inte detta är
 uppenbart obehövligt eller beslutet inte kan uppskjutas.
 
 Beslut om avnotering skall offentliggöras omedelbart.
-Lag (2005:380).
+Lag (2007:366).
+
+Särskilda bestämmelser om aktier
+
+5 § Den som har gett ut aktier som har noterats med stöd av 1 §
+skall utse ett finansiellt institut genom vilket aktieägarna
+skall kunna utöva sina finansiella rättigheter. Lag (2007:366).
+
+Särskilda bestämmelser om skuldebrev
+
+6 § Bestämmelserna om skuldebrev i 5 kap. 6-10 §§ skall
+tillämpas även i fråga om skuldebrev som har noterats med stöd
+av 1 §. Lag (2007:366).
+
+Utgivare utan säte i en stat inom EES
+
+7 § Bestämmelserna i 5 kap. 11-16 §§ skall tillämpas även i
+fråga om aktier och skuldebrev som har noterats med stöd av
+1 §. Lag (2007:366).
 
 Auktoriserad marknadsplats
 
@@ -901,6 +1369,60 @@ verksamheten.
 
 Gemensamma bestämmelser
 
+9 a kap. Gemensamma bestämmelser om information som skall
+offentliggöras
+
+Tillämpningsområde
+
+1 § Utgivare av fondpapper som har Sverige som hemmedlemsstat,
+skall tillämpa bestämmelserna i detta kapitel för sådan
+information som skall offentliggöras enligt 5 kap. 3 § första
+stycket 3 och 3 b §, 5 a kap. och 6 kap. 2 § första stycket 3
+och 3 a §.
+
+Utgivare av fondpapper som inte har Sverige som hemmedlemsstat
+skall, om fondpapperen är noterade vid en börs eller
+auktoriserad marknadsplats, tillämpa de bestämmelser som har
+meddelats med stöd av 2 § för sådan information som skall
+offentliggöras enligt 5 kap. 3 § första stycket 3 och 3 b §,
+5 a kap. 1 § tredje stycket samt 6 kap. 2 § första stycket 3
+och 3 a §. Om en sådan utgivares fondpapper inte är upptagna
+till handel på en reglerad marknad i utgivarens hemmedlemsstat,
+skall utgivaren dessutom tillämpa 3 §. Lag (2007:366).
+
+Språk
+
+2 § Regeringen eller den myndighet som regeringen bestämmer får
+meddela föreskrifter om på vilket språk informationen skall
+offentliggöras. Lag (2007:366).
+
+Offentliggörande av information
+
+3 § Informationen skall offentliggöras så att den snabbt och på
+ett icke-diskriminerande sätt blir tillgänglig för allmänheten
+inom EES.
+
+Regeringen eller den myndighet som regeringen bestämmer får
+meddela föreskrifter om hur offentliggörandet skall ske.
+Lag (2007:366).
+
+Information till Finansinspektionen
+
+4 § Information som offentliggörs skall samtidigt lämnas till
+Finansinspektionen. Lag (2007:366).
+
+Lagring av informationen
+
+5 § Finansinspektionen skall se till att det finns en
+lagringsfunktion där information som lämnas till inspektionen
+enligt 4 § lagras elektroniskt.
+
+Informationen skall vara lätt tillgänglig för den som vill ta
+del av den.
+
+Regeringen får meddela föreskrifter om lagringsfunktionen.
+Lag (2007:366).
+
 10 kap. Avbrytande av handel
 
 Handelsstopp
@@ -963,7 +1485,8 @@ Offentliggörande av beslut om handelsstopp eller stängning
 sådant beslut fattas av börsen eller den auktoriserade marknadsplatsen,
 skall den dessutom samtidigt underrätta Finansinspektionen.
 
-11 kap. Tillsyn
+11 kap. Tillsyn över börser, auktoriserade marknadsplatser och
+clearingorganisationer
 
 Upplysningsskyldighet
 
@@ -1216,6 +1739,154 @@ Vite
 enligt 3 kap. 3 a §, 8 kap. 10 § eller 11 kap. 1 a eller 6-8 §§
 denna lag får inspektionen förelägga vite. Lag (1998:261).
 
+11 a kap. Tillsyn över regelbunden finansiell information m.m.
+
+Finansinspektionen övervakar
+
+1 § Finansinspektionen övervakar att bestämmelserna om
+regelbunden finansiell information i 5 a kap. följs.
+Lag (2007:366).
+
+Undersökningar
+
+2 § Finansinspektionen får när den anser att det är nödvändigt
+genomföra en undersökning hos en utgivare som enligt 5 a kap.
+1-3 §§ omfattas av skyldigheten enligt 5 a kap. att upprätta
+och offentliggöra regelbunden finansiell information.
+
+I 6 kap. 1 a § lagen (1991:980) om handel med finansiella
+instrument finns bestämmelser om Finansinspektionens rätt att i
+övrigt få de uppgifter som den behöver för övervakningen av att
+denna lag följs. Lag (2007:366).
+
+Rättelse
+
+3 § Finansinspektionen får vid vite förelägga en utgivare att
+göra rättelse om
+
+1. utgivaren inte har offentliggjort regelbunden finansiell
+information enligt 5 a kap. 4-7 §§,
+
+2. information som har offentliggjorts är ofullständig eller
+innehåller väsentliga fel, eller
+
+3. information inte har lämnats till Finansinspektionen enligt
+9 a kap. 4 §. Lag (2007:366).
+
+Särskild avgift
+
+4 § Finansinspektionen skall besluta att en särskild avgift
+skall tas ut av en utgivare som inte offentliggör regelbunden
+finansiell information enligt 5 a kap. 4-7 §§.
+
+Den särskilda avgiften skall uppgå till lägst 50 000 kronor och
+högst 10 miljoner kronor.
+
+Avgiften tillfaller staten. Lag (2007:366).
+
+5 § Finansinspektionen får meddela ett beslut om en särskild
+avgift bara om den som inspektionen avser att ta ut avgiften
+av, inom sex månader från det att överträdelsen ägde rum, har
+delgetts en upplysning om att frågan om särskild avgift har
+tagits upp av inspektionen. Lag (2007:366).
+
+6 § Om överträdelsen är ringa eller ursäktlig eller om det
+annars finns särskilda skäl, får en särskild avgift efterges
+helt eller delvis. Lag (2007:366).
+
+Erinran
+
+7 § Om den regelbundna finansiella informationen som anges i
+5 a kap. 4-7 §§ inte har upprättats i enlighet med de
+bestämmelser som gäller för utgivaren, skall Finansinspektionen
+meddela utgivaren av fondpapperen en erinran.
+
+En erinran skall inte meddelas om en överträdelse är ringa
+eller ursäktlig eller om en börs eller en auktoriserad
+marknadsplats eller en annan reglerad marknad vidtar
+tillräckliga åtgärder mot utgivaren. Lag (2007:366).
+
+Straffavgift
+
+8 § Om en utgivare har meddelats beslut om erinran, får
+Finansinspektionen besluta att utgivaren skall betala en
+straffavgift.
+
+Straffavgiften skall uppgå till lägst 50 000 kronor och högst
+10 miljoner kronor.
+
+Avgiften tillfaller staten. Lag (2007:366).
+
+Verkställighet av beslut om särskild avgift och straffavgift
+
+9 § Särskilda avgifter och straffavgifter skall betalas till
+Finansinspektionen inom trettio dagar efter det att beslutet
+vunnit laga kraft eller den längre tid som anges i beslutet.
+
+Finansinspektionens beslut om avgift får verkställas utan
+föregående dom eller utslag, om avgiften inte har betalats i
+tid.
+
+Om avgiften inte betalas i tid, skall Finansinspektionen lämna
+den obetalda avgiften för indrivning. Bestämmelser om
+indrivning av statliga fordringar finns i lagen (1993:891) om
+indrivning av statliga fordringar m.m. Lag (2007:366).
+
+10 § Särskilda avgifter och straffavgifter som har beslutats
+faller bort i den utsträckning verkställighet inte har skett
+inom fem år från det att beslutet vann laga kraft.
+Lag (2007:366).
+
+Avgifter för tillsyn
+
+11 § Finansinspektionens övervakning av regelbunden finansiell
+information hos en utgivare som skall tillämpa bestämmelserna i
+5 a kap. och vars fondpapper inte är noterade vid en börs eller
+auktoriserad marknadsplats skall bekostas av utgivaren genom
+årliga avgifter till inspektionen.
+
+Regeringen får meddela föreskrifter om sådana avgifter som
+avses i första stycket.
+
+Om Finansinspektionen för bedömning av en viss fråga vid
+tillsyn enligt detta kapitel behöver anlita någon med särskild
+fackkunskap, skall kostnaden för detta betalas av den utgivare
+som tillsynen avser. Lag (2007:366).
+
+Samarbete och utbyte av information med behöriga myndigheter
+
+12 § Finansinspektionen skall i sin tillsynsverksamhet enligt
+detta kapitel samarbeta och utbyta information med utländska
+behöriga myndigheter i den utsträckning som följer av
+öppenhetsdirektivet. Lag (2007:366).
+
+Ingripande mot vissa utländska utgivare av fondpapper
+
+13 § Om Finansinspektionen finner att en utgivare som inte har
+Sverige som hemmedlemsstat men vars fondpapper är noterade vid
+en börs eller en auktoriserad marknadsplats har överträtt någon
+av bestämmelserna i 5 eller 6 kap. och detta samtidigt innebär
+att utgivaren inte uppfyller de krav som följer av
+bestämmelserna i öppenhetsdirektivet, skall inspektionen
+underrätta den behöriga myndigheten i den stat inom EES där
+utgivaren enligt tilllämplig nationell rätt skall lagra sin
+regelbundna finansiella information. Detsamma gäller om
+inspektionen finner att utgivaren inte offentliggör information
+som uppfyller de krav som följer av bestämmelserna i
+öppenhetsdirektivet, eller inte offentliggör informationen på
+ett sätt som uppfyller sådana krav.
+
+Om utgivaren, trots de åtgärder som har vidtagits av den
+behöriga myndighet som Finansinspektionen har underrättat, inte
+följer de bestämmelser i en offentlig reglering som bygger på
+öppenhetsdirektivet och som har antagits av den stat som avses
+i första stycket skall inspektionen offentliggöra det
+förhållandet att bestämmelserna inte följs. Före
+offentliggörandet skall Finansinspektionen underrätta den
+utländska behöriga myndigheten. Finansinspektionen skall också
+underrätta Europeiska gemenskapernas kommission så snart som
+möjligt. Lag (2007:366).
+
 12 kap. Överklagande
 
 1 § Finansinspektionens beslut enligt 11 kap. 5 § och 8 § andra
@@ -1300,3 +1971,18 @@ skall också gälla andelar i en sådan värdepappersfond som
 förvaltas av fondbolag som med stöd av 3 § lagen (2004:47) om
 införande av lagen (2004:46) om investeringsfonder driver
 verksamhet enligt lagen (1990:1114) om värdepappersfonder.
+
+2007:366
+
+1. Denna lag träder i kraft den 1 juli 2007.
+
+2. En utgivare som avses i 1 kap. 7 § och som antingen har sitt
+säte i Sverige eller har gett ut fondpapper som är noterade vid
+en börs eller en auktoriserad marknadsplats, skall senast den
+16 juli 2007 välja någon stat inom EES som hemmedlemsstat. Ett
+sådant val skall dock inte göras i fråga om sådana fondpapper
+som anges i 4 kap. 1 b § andra stycket.
+
+3. Bestämmelserna i 5 a kap. 4-7 §§ skall tillämpas första
+gången på sådan regelbunden finansiell information som skall
+offentliggöras närmast efter den 30 juni 2007.
