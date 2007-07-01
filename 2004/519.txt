@@ -1,6 +1,7 @@
 
 
 
+
 1 kap. Allmänna bestämmelser
 
 Lagens tillämpningsområde
@@ -11,6 +12,16 @@ samt utförande och organisation av järnvägstrafik.
 Lagen gäller inte för tunnelbana och spårväg. Bestämmelser om
 säkerheten vid sådana spårbundna system finns i lagen
 (1990:1157) om säkerhet vid tunnelbana och spårväg.
+
+1 a § Bestämmelserna i 4, 6 och 7 kap. gäller inte för
+verksamhet vid lokala och regionala järnvägsnät som är
+fristående och enbart avsedda för persontrafik eller
+museitrafik.
+
+Bestämmelserna i 6 och 7 kap. gäller inte heller för verksamhet
+vid järnvägsnät som inte förvaltas av staten och som endast
+används av infrastrukturförvaltaren för transporter av eget
+gods. Lag (2007:452).
 
 2 § Särskilda bestämmelser om befordran av passagerare och gods
 finns i järnvägstrafiklagen (1985:192) och i lagen (1985:193)
@@ -31,6 +42,9 @@ lagen förstås med
 delsystem: del av järnvägssystem,
 
 EES: Europeiska ekonomiska samarbetsområdet,
+
+fordonsinnehavare: den som i egenskap av ägare eller med
+nyttjanderätt varaktigt nyttjar ett järnvägsfordon,
 
 infrastrukturförvaltare: den som förvaltar
 järnvägsinfrastruktur och driver anläggningar som hör till
@@ -60,19 +74,21 @@ utom arbetsfordon, från en plats till en annan under en viss
 tidsperiod,
 
 tågplan: plan över användning av järnvägsinfrastruktur under en
-viss angiven period.
+viss angiven period. Lag (2007:452).
 
 Bemyndigande
 
 5 § Regeringen eller, efter regeringens bemyndigande,
 tillsynsmyndigheten får meddela föreskrifter om vilka fordon
-som är arbetsfordon och om att vissa spåranläggningar inte
-anses som järnvägsinfrastruktur.
+som är arbetsfordon, vilka fordon som är museijärnvägsfordon
+och om att vissa spåranläggningar inte anses som
+järnvägsinfrastruktur.
 
 Regeringen får också meddela föreskrifter om vad som i denna
 lag och i föreskrifter som meddelas med stöd av lagen förstås
 med det transeuropeiska järnvägssystemet för konventionella tåg
 och det transeuropeiska järnvägssystemet för höghastighetståg.
+Lag (2007:452).
 
 2 kap. Krav på järnvägssystem
 
@@ -108,26 +124,36 @@ regelbundet genomgå läkarundersökning. Verksamhetsutövare får
 avstänga den som inte följer ett åläggande att genomgå
 undersökning från sådana arbetsuppgifter.
 
-5 § För en infrastrukturförvaltares eller ett järnvägsföretags
-verksamhet skall det finnas en säkerhetsordning med sådana
-säkerhetsbestämmelser som behövs utöver denna lag och de
-föreskrifter som är utfärdade med stöd av lagen.
+5 § Infrastrukturförvaltares och järnvägsföretags verksamhet
+skall omfattas av ett säkerhetsstyrningssystem.
+Säkerhetsstyrningssystemet utgörs av den organisation som
+införts och de förfaranden som fastställts för att trygga en
+säker verksamhet.
+
+För infrastrukturförvaltares och järnvägsföretags verksamhet
+skall det även finnas sådana övriga säkerhetsbestämmelser som
+behövs för att trygga en säker verksamhet. Lag (2007:452).
+
+5 a § Infrastrukturförvaltare och järnvägsföretag skall årligen
+till tillsynsmyndigheten ge in en säkerhetsrapport om det
+närmast föregående kalenderåret. Lag (2007:452).
 
 6 § Om det inträffar en olycka vid användningen av ett
-järnvägsfordon, som medför att flera personer avlider eller
-blir allvarligt skadade eller att fordonet,
-järnvägsinfrastrukturen eller egendom som inte transporteras
-med fordonet får omfattande skador, är järnvägsföretag och
-infrastrukturförvaltare skyldiga att rapportera det inträffade
-till tillsynsmyndigheten. Järnvägsföretag och förvaltare är
-också skyldiga att rapportera när det funnits allvarlig fara
-för en sådan olycka eller när något har hänt som tyder på ett
-väsentligt fel hos ett fordon, eller infrastrukturen eller på
-att det finns andra väsentliga brister i säkerhetshänseende.
+järnvägsfordon, som medför att minst en person avlider eller
+minst fem personer blir allvarligt skadade eller att fordonet,
+järnvägsinfrastrukturen, egendom som inte transporteras med
+fordonet eller miljön får omfattande skador, är järnvägsföretag
+och infrastrukturförvaltare skyldiga att rapportera det
+inträffade till tillsynsmyndigheten. Järnvägsföretag och
+förvaltare är också skyldiga att rapportera när det funnits
+allvarlig fara för en sådan olycka eller när något har hänt som
+tyder på ett väsentligt fel hos ett fordon eller hos
+infrastrukturen eller på att det finns andra väsentliga brister
+i säkerhetshänseende.
 
 Om undersökning från säkerhetssynpunkt av järnvägsolyckor och
 andra händelser som berör spårtrafiken finns bestämmelser i
-lagen (1990:712) om undersökning av olyckor.
+lagen (1990:712) om undersökning av olyckor. Lag (2007:452).
 
 Krav på delsystem och komponenter
 
@@ -140,6 +166,11 @@ skall dock även tillämpas på delsystem och komponenter som
 tagits i bruk dessförinnan men efter den 1 januari 2001, om de
 ingår i det transeuropeiska järnvägssystemet för
 höghastighetståg.
+
+Bestämmelserna i 8-12 §§ gäller inte för museijärnvägsfordon
+eller för järnvägsfordon och järnvägsinfrastruktur vid sådana
+fristående järnvägsnät som avses i 1 kap. 1 a § första stycket.
+Lag (2007:452).
 
 Väsentliga krav och tekniska specifikationer
 
@@ -214,14 +245,41 @@ föreskrivet.
 Vid tillsynsmyndighetens prövning av delsystem som inte har
 projekterats, byggts, byggts om eller moderniserats efter
 utgången av juni 2004 skall bestämmelserna i 8-12 §§ inte
-beaktas.
+beaktas. De skall inte heller beaktas vid prövning av
+museijärnvägsfordon eller järnvägsfordon och
+järnvägsinfrastruktur vid sådana fristående järnvägsnät som
+avses i 1 kap. 1 a § första stycket. Lag (2007:452).
+
+13 a § När ett godkänt delsystem skall moderniseras eller
+byggas om, skall en beskrivning av det planerade arbetet lämnas
+in till tillsynsmyndigheten. Om myndigheten bedömer att den
+övergripande säkerhetsnivån påverkas, får det moderniserade
+eller ombyggda delsystemet tas i bruk endast efter ett nytt
+godkännande av myndigheten. Lag (2007:452).
+
+13 b § Järnvägsfordon skall vara märkta med en
+identifikationskod med en innehavarbeteckning.
+Tillsynsmyndigheten skall tilldela fordonet en sådan kod och en
+sådan beteckning i samband med att det godkänns för
+ibruktagande enligt 13 § och fordonsinnehavaren skall se till
+att fordonet märks med dessa. För fordon som redan är godkända
+för ibruktagande och som inte har tilldelats en
+identifikationskod eller innehavarbeteckning, skall
+fordonsinnehavaren ansöka särskilt om detta hos
+tillsynsmyndigheten. Lag (2007:452).
 
 Bemyndigande
 
 14 § Regeringen eller, efter regeringens bemyndigande,
 tillsynsmyndigheten får meddela föreskrifter om
 
-1. säkerhet enligt 1-5 §§,
+1. säkerhet enligt 1-5 §§ samt om undantag från dessa
+bestämmelser för verksamhet vid sådana fristående järnvägsnät
+som avses i 1 kap. 1 a § första stycket,
+
+1 a. säkerhetsrapport enligt 5 a § samt om undantag från denna
+bestämmelse för verksamhet vid sådana järnvägsnät som avses i 1
+kap. 1 a §,
 
 2. att händelser som är av betydelse för spårtrafikens säkerhet
 skall rapporteras också i andra fall än som anges i 6 § första
@@ -241,10 +299,12 @@ järnvägsinfrastruktur och järnvägsfordon,
 6. EG-försäkran enligt 10 §, och
 
 7. godkännande enligt 13 § och om undantag från kravet på
-godkännande.
+godkännande, krav på nytt godkännande enligt 13 a § samt om
+undantag från krav på identifikationskoder och
+innehavarbeteckningar enligt 13 b §.
 
 Regeringen får meddela föreskrifter om i vilka fall
-tillsynsmyndigheten får besluta enligt 12 §.
+tillsynsmyndigheten får besluta enligt 12 §. Lag (2007:452).
 
 3 kap. Tillstånd för järnvägsverksamhet
 
@@ -253,8 +313,8 @@ Tillstånd för järnvägsföretag
 Tillståndskrav
 
 1 § För att utföra järnvägstrafik krävs antingen tillstånd i
-form av licens och säkerhetsintyg eller, i fall som avses i 4
-§, särskilt tillstånd.
+form av licens och säkerhetsintyg eller, i fall som avses i
+4 §, särskilt tillstånd.
 
 Licens
 
@@ -278,20 +338,32 @@ stat inom EES eller i Schweiz gäller i Sverige.
 
 Säkerhetsintyg
 
-3 § Säkerhetsintyg skall beviljas järnvägsföretag som
+3 § Säkerhetsintyg skall, uppdelat i en A-del och en B-del,
+beviljas järnvägsföretag som
 
-1. kan antas komma att uppfylla kraven i 2 kap. 1-5 §§ och i
-föreskrifter som meddelats med stöd av 2 kap. 14 § 1,
+1. kan antas komma att uppfylla kraven i 2 kap. 5 § första
+stycket och i föreskrifter om säkerhetsstyrningssystem som
+meddelats med stöd av 2 kap. 14 § 1 (A-del),
 
-2. använder järnvägsfordon som uppfyller kraven i 2 kap., samt
+1 a. kan antas komma att uppfylla kraven i 2 kap. 1-4 §§ och
+5 § andra stycket samt i föreskrifter som meddelats med stöd av
+2 kap. 14 § 1 (ingår i B-del),
+
+2. använder järnvägsfordon som uppfyller kraven i 2 kap. (ingår
+i B-del), samt
 
 3. visar att försäkring eller annat likvärdigt arrangemang
 täcker den skadeståndsskyldighet som kan uppkomma till följd av
-den trafik som säkerhetsintyget gäller.
+den trafik som säkerhetsintyget gäller (ingår i B-del).
 
 Kraven i första stycket får anpassas till verksamhetens art och
 omfattning. I intyget skall tillsynsmyndigheten ange hur kraven
 anpassats och för vilken verksamhet intyget gäller.
+
+A-delen av ett säkerhetsintyg utfärdat i en annan stat inom EES
+eller i Schweiz gäller i Sverige om järnvägsföretaget här
+ansöker om att få utföra samma typ av transporttjänster som
+prövats i det intyget. Lag (2007:452).
 
 Särskilt tillstånd
 
@@ -329,13 +401,13 @@ organisera järnvägstrafik, samt
 2. med hänsyn till yrkeskunnande, ekonomisk förmåga och gott
 anseende kan anses lämplig att organisera järnvägstrafik.
 
-Tillstånd för infrastrukturförvaltare
+Säkerhetstillstånd för infrastrukturförvaltare
 
 7 § För att förvalta järnvägsinfrastruktur och driva
-anläggningar som hör till infrastrukturen krävs tillstånd.
-Tillstånd krävs dock inte för Banverket.
+anläggningar som hör till infrastrukturen krävs ett
+säkerhetstillstånd. Lag (2007:452).
 
-8 § Tillstånd enligt 7 § skall beviljas den som
+8 § Säkerhetstillstånd enligt 7 § skall beviljas den som
 
 1. med hänsyn till yrkeskunnande, ekonomisk förmåga och gott
 anseende kan anses lämplig att förvalta järnvägsinfrastruktur
@@ -347,19 +419,32 @@ föreskrifter som meddelats med stöd av 2 kap. 14 § 1.
 Kraven i första stycket får anpassas till verksamhetens art och
 omfattning. I tillståndet skall tillsynsmyndigheten ange hur
 kraven anpassats och för vilken verksamhet tillståndet gäller.
+Lag (2007:452).
 
-Villkor och omprövning
+Villkor, giltighetstid och omprövning
 
 9 § Tillsynsmyndigheten får, utom när det gäller licens, i
 samband med att ett tillstånd meddelas eller under tillståndets
 giltighetstid förena tillståndet med de villkor som behövs från
-säkerhetssynpunkt. Tillsynsmyndigheten får även besluta sådana
-villkor för Banverket som infrastrukturförvaltare och för
-Rikstrafiken som organisatör av järnvägstrafik.
+säkerhetssynpunkt.
+
+Ett tillstånd skall omprövas när verksamheten skall genomgå en
+väsentlig förändring. Säkerhetsintyg enligt 3 § och
+säkerhetstillstånd enligt 7 § skall dock omprövas minst vart
+femte år. Tillsynsmyndigheten får under tillståndets
+giltighetstid ompröva tillståndet eller villkor i det med
+anledning av väsentliga förändringar i föreskrifter om
+järnvägssäkerhet.
 
 Tillståndshavaren är skyldig att till tillsynsmyndigheten
 anmäla sådana förändringar i verksamheten som kan föranleda
-omprövning av tillståndet eller villkoren.
+omprövning av tillståndet eller villkoren. Lag (2007:452).
+
+10 § Regeringen eller, efter regeringens bemyndigande,
+tillsynsmyndigheten får meddela föreskrifter om prövningen av
+säkerhetsintyg enligt 3 § och säkerhetstillstånd enligt 7 §
+samt om omprövning av tillstånd eller villkor enligt 9 §.
+Lag (2007:452).
 
 4 kap. Redovisning av järnvägsverksamhet
 
@@ -409,23 +494,20 @@ i sammanslutningen har sitt säte.
 Godstrafik
 
 3 § Ett järnvägsföretag med säte inom EES eller i Schweiz har
-rätt att utföra godstrafik på svenska järnvägsnät. Ett
-järnvägsföretag med säte i en annan stat än Sverige får dock
-befordra gods, som både lastas och lossas inom landet, endast
-om motsvarande rätt ges i den andra staten för ett
-järnvägsföretag med säte i Sverige.
+rätt att utföra godstrafik på svenska järnvägsnät.
 
 Den som har auktorisation enligt 3 kap. 5 § och hemvist eller
 säte inom EES eller i Schweiz har rätt att organisera
-godstrafik på svenska järnvägsnät. Den som har hemvist eller
-säte i en annan stat än Sverige har dock denna rätt endast om
-motsvarande rätt ges i den andra staten för den som har hemvist
-eller säte i Sverige.
+godstrafik på svenska järnvägsnät. Lag (2007:452).
 
-4 § Rätten att utföra eller organisera trafik enligt 3 § gäller
-inte på fristående lokala och regionala järnvägsnät avsedda
-enbart för persontrafik eller på järnvägsnät som inte förvaltas
-av staten och som endast används av ägaren för egen godstrafik.
+Undantag för vissa järnvägsnät
+
+4 § Rätten att utföra eller organisera trafik enligt 2 och 3 §§
+gäller inte på lokala och regionala järnvägsnät som är
+fristående och enbart avsedda för person- eller museitrafik
+eller på järnvägsnät som inte förvaltas av staten och som
+endast används av infrastrukturförvaltaren för transporter av
+eget gods. Lag (2007:452).
 
 6 kap. Tilldelning av infrastrukturkapacitet
 
@@ -640,8 +722,9 @@ Tillhandahållande av tjänster
 23 § Den som åt någon som har rätt att utföra eller organisera
 trafik på svenska järnvägsnät tillhandahåller tjänster som
 anges i andra stycket är skyldig att göra det på ett icke-
-diskriminerande sätt. En begäran om en sådan tjänst får avslås
-endast om det finns rimliga alternativ som kan användas.
+diskriminerande sätt som medger insyn. En begäran om en sådan
+tjänst får avslås endast om det finns rimliga alternativ som
+kan användas.
 
 De tjänster som avses i första stycket är
 
@@ -659,7 +742,7 @@ tjänster som utförs vid de anläggningar som anges i 1 och som
 I det fall en infrastrukturförvaltare inte tillhandahåller en
 tjänst som avses i andra stycket skall den som tillhandahåller
 den huvudsakliga infrastrukturen så långt det är möjligt
-underlätta tillhandahållandet av tjänsten.
+underlätta tillhandahållandet av tjänsten. Lag (2007:452).
 
 Undantag för vissa infrastrukturförvaltare
 
@@ -668,6 +751,11 @@ Undantag för vissa infrastrukturförvaltare
 förvaltare som tillhandahåller infrastrukturkapacitet som
 endast en ringa del av en sådan tjänst som avses i 23 §.
 
+Tillsynsmyndigheten får besluta att även andra
+infrastrukturförvaltare får undantas från de skyldigheter som
+avses i första stycket om det kan ske utan att någon som utför
+eller organiserar trafik diskrimineras. Lag (2007:452).
+
 Bemyndigande
 
 25 § Regeringen eller, efter regeringens bemyndigande,
@@ -675,11 +763,12 @@ tillsynsmyndigheten får meddela föreskrifter om
 kapacitetstilldelning enligt 1-4 §§, beskrivning av järnvägsnät
 enligt 5 §, genomförande av kapacitetsanalys och upprättande av
 kapacitetsförstärkningsplan enligt 6 §, förfarandet vid
-tilldelning av kapacitet enligt 7-16 §§, däribland
-fastställande av tågplan, samt skyldighet för
-infrastrukturförvaltare att utarbeta beredskapsplaner i
-händelse av en allvarlig olycka eller en allvarlig störning i
-trafiken.
+tilldelning av kapacitet enligt 7-16 §§ (däribland
+fastställande av tågplan), förfarandet för tillhandahållande av
+tjänster enligt 23 §, krav för att kunna medges undantag enligt
+24 § andra stycket samt skyldighet för infrastrukturförvaltare
+att utarbeta beredskapsplaner i händelse av en allvarlig olycka
+eller en allvarlig störning i trafiken. Lag (2007:452).
 
 7 kap. Avgifter
 
@@ -696,8 +785,8 @@ inom ramen för infrastrukturförvaltarens kostnader för
 infrastrukturen, fastställas till den kostnad som uppstår som
 en direkt följd av framförandet av järnvägsfordon, om inte
 annat följer av 3-6 §§. För infrastruktur som ingår i
-terminaler och rangerbangårdar skall dock avgift fastställas
-enligt 8 §.
+terminaler som inte ägs och förvaltas av staten skall dock
+avgift fastställas enligt 8 §. Lag (2007:452).
 
 3 § Infrastrukturförvaltaren får för att åstadkomma ett
 samhällsekonomiskt effektivt utnyttjande av
@@ -753,6 +842,12 @@ ensam om att tillhandahålla en viss tjänst, skall avgiften
 beräknas utifrån kostnaden för att tillhandahålla tjänsten och
 efter det faktiska utnyttjande som köparen av tjänsten begär.
 
+Avgift för museitrafik
+
+9 § En infrastrukturförvaltare behöver inte ta ut avgift för
+utnyttjande av järnvägsinfrastrukturen enligt 2 § av den som på
+ideell grund bedriver museitrafik på järnväg. Lag (2007:452).
+
 8 kap. Tillsyn m.m.
 
 Allmänna bestämmelser
@@ -791,6 +886,18 @@ Infrastrukturförvaltare och sökande av infrastrukturkapacitet
 skall utan uppmaning bereda tillsynsmyndigheten full insyn i
 förhandlingar om avgifter. Lag (2006:739).
 
+3 a § Den som bedriver verksamhet som omfattas av denna lag
+skall på begäran av tillsynsmyndigheten lämna sådana uppgifter
+om sin verksamhet som myndigheten behöver för att förse
+Europeiska gemenskapernas kommission och Europeiska
+järnvägsbyrån (ERA) med underlag i deras
+regelutvecklingsarbete. Lag (2007:452).
+
+3 b § Den som bedriver verksamhet som omfattas av denna lag
+skall till den myndighet regeringen bestämmer lämna sådana
+uppgifter som behövs för förvaltningen och utvecklingen av det
+statliga järnvägsnätet. Lag (2007:452).
+
 Förelägganden och förbud
 
 4 § Tillsynsmyndigheten får meddela de förelägganden och förbud
@@ -806,7 +913,7 @@ förfarande.
 
 Återkallelse av tillstånd
 
-5 § Tillsynsmyndigheten får återkalla ett tillstånd, om
+5 § Tillsynsmyndigheten får återkalla ett tillstånd om
 
 1. förutsättningarna för tillståndet inte längre uppfylls,
 
@@ -814,8 +921,9 @@ förfarande.
 denna lag eller enligt föreskrifter som meddelats med stöd av
 lagen, eller
 
-3. tillståndshavaren under minst sex månader inte använder
-tillståndet.
+3. tillståndshavaren under minst sex månader inte använder en
+licens enligt 3 kap. 2 § eller under minst ett år inte använder
+ett annat tillstånd enligt 3 kap. Lag (2007:452).
 
 6 § Om ett konkursförfarande eller ett ackordsförfarande har
 inletts mot innehavaren av ett tillstånd, skall
@@ -842,6 +950,10 @@ Register
 8 § Tillsynsmyndigheten skall föra och ge offentlighet åt
 register över järnvägsinfrastruktur och järnvägsfordon.
 
+Den som bedriver verksamhet som omfattas av denna lag skall
+till tillsynsmyndigheten lämna de uppgifter som behövs för att
+föra sådana register. Lag (2007:452).
+
 Prövning av tvister
 
 9 § Ett järnvägsföretag, en infrastrukturförvaltare eller den
@@ -866,8 +978,12 @@ bestämmelserna i denna lag.
 Bemyndigande
 
 10 § Regeringen eller, efter regeringens bemyndigande,
-tillsynsmyndigheten får meddela föreskrifter om register enligt
-8 § och de föreskrifter som behövs för prövning av tvister.
+tillsynsmyndigheten får meddela föreskrifter om vilka uppgifter
+som skall lämnas enligt 3 a § och 8 § andra stycket och om
+register enligt 8 § första stycket samt de föreskrifter som
+behövs för prövning av tvister. Regeringen eller den myndighet
+som regeringen bestämmer får meddela föreskrifter om vilka
+uppgifter som skall lämnas enligt 3 b §. Lag (2007:452).
 
 9 kap. Ordning
 
@@ -918,8 +1034,6 @@ enligt denna lag,
 någon som inte uppfyller kraven i 2 kap. 3 § att utföra
 arbetsuppgifter av betydelse för säkerheten, eller använder
 materiel som inte uppfyller säkerhetskraven enligt 2 kap. 1 §,
-eller inte uppfyller kravet enligt 2 kap. 5 § på
-säkerhetsordning,
 
 3. av uppsåt eller oaktsamhet bryter mot villkor som meddelats
 med stöd av 3 kap. 9 §, eller
@@ -930,7 +1044,12 @@ som inte har godkänts enligt 2 kap. 13 §.
 Den som inte har följt ett föreläggande vid vite eller som
 överträtt ett vitesförbud skall inte dömas till ansvar enligt
 denna lag för gärning som omfattas av föreläggandet eller
-förbudet.
+förbudet. Lag (2007:452).
+
+1 a § Till böter döms den som av uppsåt eller grov oaktsamhet
+inte uppfyller kravet enligt 2 kap. 5 § på
+säkerhetsstyrningssystem eller säkerhetsbestämmelser för
+verksamheten. Lag (2007:452).
 
 2 § Den som för ett maskindrivet spårfordon på järnväg efter
 att ha förtärt alkoholhaltiga drycker i så stor mängd att
@@ -1058,3 +1177,24 @@ tilldelning av spårkapacitet tillämpas.
 tilldelning av spårkapacitet och lagen (2000:1336) om
 järnvägssystem för höghastighetståg som har anhängiggjorts före
 ikraftträdandet tillämpas äldre bestämmelser.
+
+2007:452
+
+1. Denna lag träder i kraft den 1 juli 2007.
+
+2. Banverket får till utgången av juni 2008 bedriva verksamhet
+som infrastrukturförvaltare utan tillstånd enligt 3 kap. 7 §.
+
+3. Den som vid ikraftträdandet har ett säkerhetsintyg enligt 3
+kap. 3 § eller ett tillstånd enligt 3 kap. 7 § får fortsätta
+driften med stöd av dessa till utgången av år 2010.
+
+4. Regeringen eller, efter regeringens bemyndigande,
+tillsynsmyndigheten får meddela föreskrifter om när
+järnvägsfordon som vid ikraftträdandet är godkända för att tas
+i bruk enligt 2 kap. 13 § senast skall vara märkta med en
+identifikationskod med en innehavarbeteckning enligt 2 kap.
+13 b §.
+
+5. Vid prövning av mål eller ärenden som har anhängiggjorts
+före ikraftträdandet gäller äldre föreskrifter.
