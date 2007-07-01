@@ -7,9 +7,9 @@ Inledning
 
 1 § I denna förordning finns det bestämmelser om
 
-1. registrering av uppgifter om studier inom grundutbildning
-och forskarutbildning vid statliga universitet och högskolor (2
-kap.),
+1. registrering av uppgifter om studier inom utbildning på
+grundnivå, avancerad nivå och forskarnivå vid statliga
+universitet och högskolor (2 kap.),
 
 2. rapportering av uppgifter till Statistiska centralbyrån
 (SCB) om studenter för officiell statistik (3 kap.),
@@ -19,19 +19,26 @@ kap.),
 4. registrering av uppgifter om studie- och yrkesmeriter vid
 Verket för högskoleservice (4 kap.).
 
-Denna förordning gäller utöver personuppgiftslagen (1998:204)
+Denna förordning gäller utöver personuppgiftslagen (1988:204)
 vid helt eller delvis automatiserad behandling av
 personuppgifter.
 
 Ett universitet, en högskola, SCB och Verket för
 högskoleservice är personuppgiftsansvariga för behandling av
-personuppgifter i sin verksamhet. Förordning (2005:665).
+personuppgifter i sin verksamhet. Förordning (2007:264).
 
-2 § Bestämmelserna i 2 och 3 kap. gäller även högskolor som har
-ett landsting eller en kommun som huvudman.
+2 § Med högskolor avses i fortsättningen både universitet och
+högskolor. Förordning (2007:264).
 
-3 § Med högskolor avses i fortsättningen både universitet och
-högskolor.
+3 § I denna förordning avses med
+
+student: den som ansöker till utbildning vid en högskola, den
+som antas till utbildning vid en högskola och den som bedriver
+studier vid högskolan, och
+
+doktorand: en student som antas till utbildning på forskarnivå
+vid en högskola och den som bedriver studier på forskarnivå vid
+högskolan. Förordning (2007:264).
 
 Information
 
@@ -61,10 +68,7 @@ förvaltningslagen (1986:223). Förordning (2005:665).
 
 Allmänna bestämmelser
 
-1 § Varje högskola skall dokumentera uppgifter om dem som
-ansöker till utbildning vid högskolan, om dem som antas till
-utbildning vid högskolan och om dem som bedriver studier vid
-högskolan, i denna förordning alla kallade studenter.
+1 § Varje högskola skall dokumentera uppgifter om studenter.
 
 Varje högskola skall föra ett studieregister och där ange
 uppgifterna individuellt för varje student. Registret får föras
@@ -81,8 +85,8 @@ i syfte att säkerställa att de uppgifter i registret som ligger
 till grund för resurstilldelningen blir tillförlitliga, dels
 med Högskoleverket och Verket för högskoleservice i syfte att
 säkerställa att uppgifterna i registret uppfyller krav på
-kvalitet och jämförbarhet mellan olika högskolor. Förordning
-(2001:1133).
+kvalitet och jämförbarhet mellan olika högskolor.
+Förordning (2007:264).
 
 Ändamålet med registret
 
@@ -163,15 +167,15 @@ arbetet,
 
 4. SCB, enligt bestämmelserna i denna förordning,
 
-5. en av högskolestyrelsen godkänd studerandekår vid högskolan,
-om uppgifterna rör en studerandes registrering på kurser och
-behövs för att undersöka om den studerande skall vara medlem i
-studerandekåren enligt förordningen (1983:18) om
+5. en av styrelsen för en högskola godkänd studerandekår vid
+högskolan, om uppgifterna rör en students registrering på
+kurser och behövs för att undersöka om han eller hon skall vara
+medlem i studerandekåren enligt förordningen (1983:18) om
 studerandekårer, nationer och studentföreningar vid universitet
 och högskolor, och
 
-6. en studerande eller sökande, om uppgifterna rör henne eller
-honom själv. Förordning (2002:561).
+6. en student, om uppgifterna rör honom eller henne själv.
+Förordning (2007:264).
 
 Gallring
 
@@ -216,11 +220,13 @@ inte är oförenligt med nämnda ändamål.
 Registret får användas också för forskning. Förordning
 (2001:1133).
 
-Uppgifter om studenter i grundutbildning
+Uppgifter om studenter i utbildning på grundnivå och avancerad
+nivå
 
 3 § Registret skall innehålla uppgifter om samtliga studenter i
-grundutbildningen. Uppgifterna får hämtas in från högskolornas
-studieregister och skall omfatta följande:
+utbildning på grundnivå och avancerad nivå. Uppgifterna får
+hämtas från högskolornas studieregister och skall omfatta
+följande:
 
 1. identitetsuppgifter,
 
@@ -230,26 +236,35 @@ eller kalenderhalvår,
 3. eventuellt utbildningsprogram som studenten har antagits
 till,
 
-4. avklarade poäng på kurser per ämnesgrupp, fördjupningsnivå
-och utbildningsområde för varje termin eller kalenderhalvår,
+4. avklarade högskolepoäng på kurser för varje termin eller
+kalenderhalvår,
 
-5. för avlagd examen: benämning, huvudämne, inriktning,
-poängomfattning och datum för utfärdande av examensbevis, samt
+5. för avlagd examen: examens namn och nivå, inriktning,
+omfattning i högskolepoäng, datum för utfärdande av
+examensbevis och det huvudsakliga området (huvudområdet) för
+utbildningen för en kandidat-, magister- eller masterexamen,
 
 6. för varje kurs:
 
-a) kursens ämnesgrupp enligt den definition som SCB
-fastställer, utbildningsområde, fördjupningsnivå enligt
-högskolans bedömning och kursens poängomfattning,
+a) om kursen är på grundnivå eller avancerad nivå,
 
-b) kurstakt, kurstid och distributionsform,
+b) kursens ämnesgrupp enligt den definition som SCB använder,
+utbildningsområde, fördjupningsnivå enligt högskolans bedömning
+och kursens omfattning i högskolepoäng,
 
-c) den kommun eller det land där kursen huvudsakligen ges, och
+c) kurstakt, kurstid och distributionsform,
 
-d) termin då kursen ges. Förordning (2001:1133).
+d) den kommun eller det land där kursen huvudsakligen ges, och
 
-4 § Följande uppgifter från andra register inom SCB får påföras
-SCB:s universitets- och högskoleregister:
+e) termin då kursen ges, samt
+
+7. för studenter som har avlagt en generell eller konstnärlig
+examen på avancerad nivå: tidigare avlagd examen enligt
+examenskraven för den aktuella examen på avancerad nivå.
+Förordning (2007:264).
+
+4 § Följande uppgifter från andra register inom SCB får föras
+in i SCB:s universitets- och högskoleregister:
 
 1. genomgången linje, program eller kurs i gymnasieskolan,
 annan utbildningsbakgrund samt betyg,
@@ -257,7 +272,8 @@ annan utbildningsbakgrund samt betyg,
 2. boendekommun före och efter högskolestudierna, och
 
 3. det land där studenten har genomgått utbildning som gett
-behörighet till grundutbildning. Förordning (2001:1133).
+behörighet till den sökta utbildningen på grundnivå eller
+avancerad nivå. Förordning (2007:264).
 
 5 § Från systemen för antagning av studenter vid högskolorna
 och Verket för högskoleservice får följande uppgifter påföras
@@ -286,7 +302,7 @@ kalenderhalvår, och
 Uppgifter om doktorander
 
 7 § Registret skall innehålla uppgifter om samtliga
-doktorander. Uppgifterna får hämtas in från högskolornas
+doktorander. Uppgifterna får hämtas från högskolornas
 studieregister och skall omfatta följande:
 
 1. identitetsuppgifter,
@@ -300,17 +316,18 @@ fall, sådan forskarskola som regeringen bestämt,
 
 5. typ av studiefinansiering,
 
-6. tidigare grundutbildning,
+6. tidigare utbildning som gett behörighet till utbildningen på
+forskarnivå,
 
-7. högskola i Sverige eller det land där doktoranden har gått
-igenom den grundläggande utbildningen, och
+7. högskola i Sverige eller det land där doktoranden har
+genomgått sådan utbildning som avses i 6, och
 
-8. för avlagd examen: typ (licentiat- eller doktorsexamen),
-benämning och datum för utfärdande av examensbevis.
+8. för avlagd examen: examens namn, dess vetenskapsområde och
+ämne samt datum för utfärdande av examensbevis.
 
 Vid tillämpningen av första stycket 3 skall samtliga ämnen vid
 Sveriges lantbruksuniversitet tillsammans anses utgöra ett
-vetenskapsområde. Förordning (2001:1133).
+vetenskapsområde. Förordning (2007:264).
 
 Gallring
 
@@ -417,8 +434,8 @@ beviljande och utbetalning av studiestöd,
 
 3. SCB, enligt bestämmelserna i denna förordning, och
 
-4. en studerande eller sökande, om uppgifterna rör henne eller
-honom själv. Förordning (2005:665).
+4. en student, om uppgifterna rör honom eller henne själv.
+Förordning (2007:264).
 
 Direktåtkomst
 
@@ -516,3 +533,28 @@ dessa uppgifter skall dock lämnas till Högskoleverket.
 Denna förordning träder i kraft den 1 januari 2002. Äldre
 bestämmelser i 4 kap. 7 och 8 §§ samt 16 § andra stycket skall
 dock tillämpas för budgetåret 2001.
+
+2007:264
+
+1. Denna förordning träder i kraft den 1 juli 2007.
+
+2. De äldre bestämmelserna skall tillämpas i fråga om uppgifter
+om studenter på kurser eller motsvarande del av
+forskarutbildning som börjar före den 1 juli 2007 och
+fortsätter därefter.
+
+3. De äldre bestämmelserna i 3 kap. 3 § 5 skall tillämpas i
+fråga om uppgifter om examina som utfärdas efter utgången av
+juni 2007, om den utbildning som examensbeviset omfattar i sin
+helhet har slutförts dessförinnan eller om en student enligt
+punkt 5 i övergångsbestämmelserna till förordningen (2006:1053)
+om ändring i högskoleförordningen (1993:100) utnyttjat sin rätt
+att slutföra sin utbildning för att få en examen enligt äldre
+bestämmelser.
+
+4. I sådana fall som avses i 3 skall Statistiska centralbyråns
+universitets- och högskoleregister innehålla uppgift om examens
+omfattning i både högskolepoäng och poäng enligt vad som anges
+om examensbevis i punkt 7 i övergångsbestämmelserna till
+förordningen (2006:1053) om ändring i högskoleförordningen
+(1993:100).
