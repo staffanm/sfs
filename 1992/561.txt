@@ -1,66 +1,149 @@
+Lagring och tillhandahållande av information
 
+1 § Bestämmelserna i 2 och 3 §§ skall tillämpas för den
+lagringsfunktion som avses i 9 a kap. 5 § lagen (1992:543) om
+börs- och clearingverksamhet. Förordning (2007:376).
 
+2 § Lagringsfunktionen skall
 
-1 § Finansinspektionen får meddela de föreskrifter som behövs
-beträffande
+1. ha tillräcklig kapacitet och vara tillgänglig för användare
+dygnet runt i ett Internetbaserat system,
 
-1. innehållet i en sådan plan som avses i 2 kap. 3 § andra
-stycket lagen (1992:543) om börs- och clearingverksamhet,
+2. ha tillräcklig datasäkerhet,
 
-2. storleken av aktiekapitalet och summan av gjorda
+3. säkerställa att information som har tagits emot har lämnats
+av en behörig avsändare,
+
+4. bekräfta elektroniskt att information har tagits emot,
+
+5. innehålla en funktion för utvärdering av att informationen
+skickats in i rätt tid och på rätt sätt,
+
+6. registrera tidpunkten när informationen togs emot,
+
+7. innehålla tydliga uppgifter om tillägg och rättelser som
+görs till lagrad information,
+
+8. göra information tillgänglig så snart som möjligt efter att
+informationen har lämnats in, och
+
+9. upprättas i ett system som kan sammankopplas med andra
+motsvarande lagringsfunktioner inom Europeiska ekonomiska
+samarbetsområdet. Förordning (2007:376).
+
+3 § Användare skall kunna läsa, ladda ned och skriva ut den
+lagrade informationen.
+
+Det skall vara möjligt att söka information i
+lagringsfunktionen. Sökfunktionen skall vara tillgänglig på
+svenska och på åtminstone ytterligare ett språk som används
+allmänt på de internationella finansiella marknaderna.
+
+Sökning efter ett dokument skall kunna göras på
+
+1. utgivarens namn eller organisationsnummer,
+
+2. dokumentets titel,
+
+3. tidpunkten för när dokumentet offentliggjordes,
+
+4. vilket språk dokumentet är upprättat på, och
+
+5. vilken typ av information som dokumentet innehåller.
+
+Användare skall kunna få hjälp och stöd i frågor om
+användningen av lagringsfunktionen. Förordning (2007:376).
+
+Bemyndiganden
+
+4 § När det gäller lagen (1992:543) om börs- och
+clearingverksamhet får Finansinspektionen meddela föreskrifter
+om
+
+1. hur en utgivare skall offentliggöra ett val av
+hemmedlemsstat enligt 1 kap. 7 §,
+
+2. innehållet i en sådan plan som avses i 2 kap. 3 § andra
+stycket,
+
+3. storleken av aktiekapitalet och summan av gjorda
 medlemsinsatser och förlagsinsatser enligt 2 kap. 5 § andra
-stycket samma lag,
+stycket,
 
-3. börsers övervakning av sina medlemmar enligt 3 kap. 4 §
-samma lag,
+4. börsers övervakning av sina medlemmar enligt 3 kap. 4 §,
 
-4. övervakningen av handeln och kursbildningen vid en börs och
+5. övervakningen av handeln och kursbildningen vid en börs och
 en auktoriserad marknadsplats enligt 4 kap. 2 § fjärde stycket
-1 samma lag,
+1,
 
-5. handelsregler för en börs eller en auktoriserad
+6. handelsregler för en börs eller en auktoriserad
 marknadsplats i fråga om aktiebolags förvärv och överlåtelse av
 egna aktier vid börsen eller marknadsplatsen enligt 4 kap. 2 §
-fjärde stycket 2 samma lag,
+fjärde stycket 2,
 
-6. disciplinnämnd och handläggningen av disciplinärenden enligt
-4 kap. 11 § samma lag,
+7. den övervakning av utgivares regelbundna finansiella
+information som skall utföras av en börs eller en auktoriserad
+marknadsplats enligt 4 kap. 2 b §,
 
-7. den informationsplikt som enligt 6 kap. 2 och 3 §§ samma lag
-gäller för utgivare av sådana fondpapper som inte är föremål
-för inregistrering vid en börs,
+8. vad en sådan anmälan till Finansinspektionen som avses i 4
+kap. 2 c § skall innehålla och hur anmälningsskyldigheten skall
+fullgöras,
 
-8. säkerhetskravet enligt 9 kap. 4 § samma lag,
+9. innehållet, omfattningen och fullgörandet av sådan
+rapportering som avses i 4 kap. 2 d §,
 
-9. vilka upplysningar en börs, en auktoriserad marknadsplats
+10. i vilken ordning och omfattning information om kurser och
+omsättningsuppgifter skall sammanställas och offentliggöras
+enligt 4 kap. 3 § och 7 kap. 4 §,
+
+11. disciplinnämnd och handläggningen av disciplinärenden
+enligt 4 kap. 11 §,
+
+12. villkoren för inregistrering av fondpapper vid en börs
+enligt 5 kap. 1 § tredje stycket,
+
+13. den informationsplikt som enligt 5 kap. 3 och 3 a §§ gäller
+för utgivare av sådana fondpapper som har inregistrerats vid en
+börs eller för vilka ansökan om inregistrering har lämnats in,
+
+14. den informationsplikt som enligt 5 kap. 3 b § gäller för
+utgivare av sådana fondpapper som har inregistrerats vid en
+börs,
+
+15. förutsättningarna för att sådana krav i en utländsk
+reglering som avses i 5 kap. 12 § skall anses motsvara
+bestämmelserna i 5 kap. 7-10 §§,
+
+16. förutsättningarna för att sådana krav i en utländsk
+reglering som avses i 5 kap. 13 § skall anses motsvara
+bestämmelserna i 5 kap. 14-16 §§,
+
+17. vad som krävs för att bestämmelser om års- och
+koncernredovisning samt halvårsrapport och kvartalsrapport som
+finns i en offentlig reglering i en stat utanför Europeiska
+ekonomiska samarbetsområdet skall få tillämpas enligt 5 a kap.
+11 § första stycket,
+
+18. den informationsplikt som enligt 6 kap. 2-3 a §§ gäller för
+utgivare av sådana fondpapper som inte är föremål för
+inregistrering vid en börs,
+
+19. säkerhetskravet enligt 9 kap. 4 §,
+
+20. på vilket språk och hur sådan information som avses i 9 a
+kap. 1 § skall offentliggöras,
+
+21. hur information skall lämnas till Finansinspektionen enligt
+9 a kap. 4 §,
+
+22. vilka upplysningar en börs, en auktoriserad marknadsplats
 och en clearingorganisation skall lämna till Finansinspektionen
-enligt 11 kap. 2 § 1 samma lag, och
+enligt 11 kap. 2 § 1, och
 
-10. en börs, en auktoriserad marknadsplats och en
+23. en börs, en auktoriserad marknadsplats och en
 clearingorganisations löpande bokföring, årsbokslut och
 årsredovisning samt förvaring och inventering av
-värdehandlingar enligt 11 kap. 2 § 2 samma lag.
-Förordning (2005:1102).
-
-2 § Finansinspektionen skall meddela närmare föreskrifter om
-
-1. i vilken ordning och omfattning information om kurser och
-omsättningsuppgifter skall sammanställas och offentliggöras
-enligt 4 kap. 3 § och 7 kap. 4 § lagen (1992:543) om börs- och
-clearingverksamhet,
-
-2. villkoren för inregistrering av fondpapper vid en börs
-enligt 5 kap. 1 § tredje stycket samma lag,
-
-3. den informationsplikt som enligt 5 kap. 3 och 3 a §§ samma
-lag gäller för utgivare av sådana fondpapper som har
-inregistrerats vid en börs eller för vilka ansökan om
-inregistrering har lämnats in, och
-
-4. innehållet i och offentliggörande av halvårsrapport enligt 5
-kap. 6 § samma lag. Förordning (2005:1102).
-
-3 § Har upphävts genom förordning (2001:917).
+värdehandlingar enligt 11 kap. 2 § 2. Förordning (2007:376).
 
 Övergångsbestämmelser
 
