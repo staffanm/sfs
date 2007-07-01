@@ -1,129 +1,182 @@
 
 
 
-Förordningens ändamål
+Allmänna bestämmelser
 
-1 § Föreskrifterna i denna förordning meddelas för att Sverige skall
-uppfylla sina förpliktelser enligt avtalet om Europeiska ekonomiska
-samarbetsområdet (EES).
+1 § Denna förordning innehåller bestämmelser om
+elektromagnetisk kompatibilitet (EMC) för utrustning.
 
-Förordningens tillämpningsområde
+Förordningen tillämpas inte på materiel som är krigsmateriel
+enligt förordningen (1992:1303) om krigsmateriel. Förordning
+(2007:360).
 
-2 § I förordningen avses med
+2 § I denna förordning avses med
 
-apparater alla elektriska och elektroniska apparater tillsammans
-med utrustning och apparater och installationer som innehåller
-elektriska eller elektroniska komponenter,
+apparat: en färdigställd anordning eller en kombination av
+sådana anordningar som tillhandahålls som en funktionell enhet
+och är avsedd för en slutanvändare och som kan alstra
+elektromagnetiska störningar, eller vars funktion kan påverkas
+av sådana störningar,
 
-elektromagnetisk störning varje elektromagnetiskt fenomen som
-kan försämra funktionen hos en anordning, en utrustningsenhet
-eller ett system. En elektromagnetisk störning kan vara
+elektromagnetisk kompatibilitet (EMC): en utrustnings förmåga
+att fungera tillfredsställande i sin elektromagnetiska
+omgivning utan att orsaka oacceptabla elektromagnetiska
+störningar för annan utrustning,
+
+elektromagnetisk störning: elektromagnetiskt fenomen som kan
+försämra funktionen hos en utrustning, till exempel
 elektromagnetiskt brus, en oönskad signal eller en förändring i
 själva överföringsmediet,
 
-tålighet en anordnings, en utrustnings eller ett systems förmåga att
-fungera utan kvalitetsförsämring i närvaro av en elektromagnetisk
-störning,
+fast installation: en särskild kombination av olika apparater
+och eventuella andra anordningar som är monterade på en i
+förhand bestämd plats och avsedda för permanent användning där,
 
-elektromagnetisk kompatibilitet (EMC) en anordnings, en
-utrustnings eller ett systems förmåga att fungera tillfredsställande i
-sin elektromagnetiska omgivning utan att introducera oacceptabla
-elektromagnetiska störningar till någonting i denna omgivning.
+slutanvändare: den som brukar en apparat,
 
-3 § Förordningen innehåller bestämmelser om krav på EMC och
-tillämpas på apparater som kan ge upphov till elektromagnetisk
-störning eller vars funktion kan påverkas av sådan störning.
+tålighet: en utrustnings förmåga att fungera som avsett utan
+försämring i närvaro av elektromagnetisk störning,
 
-Förordningen tillämpas inte på sådan materiel som utgör
-krigsmateriel enligt förordningen (1992:1303) om krigsmateriel.
-Förordning (1997:73).
+utrustning: både apparater och fasta installationer. Förordning
+(2007:360)
+
+3 § Med en apparat likställs
+
+- en komponent eller en sammansatt inbyggnadsdel som
+tillhandahålls för att monteras in i en apparat av en
+slutanvändare och som kan alstra elektromagnetiska störningar,
+eller vars funktion kan påverkas av sådana störningar, och
+
+- en kombination av apparater och eventuella andra anordningar
+som är avsedda att flyttas och användas på olika platser
+(rörlig installation). Förordning (2007:360).
+
+3 a § Vad som i denna förordning föreskrivs om utrustning skall
+i tillämpliga delar gälla även för anordningar som inte
+tillhandahålls på marknaden men som är avsedda att tas i bruk
+och som kan alstra elektromagnetiska störningar, eller vars
+funktion kan påverkas av sådana störningar. Förordning
+(2007:360).
 
 Skyddskrav
 
-4 § En apparat som avses i 3 § skall vara så konstruerad att
+4 § Utrustning skall med hänsyn till tillämpbar teknik vara
+konstruerad och tillverkad så att
 
-1. den elektriska störning den alstrar inte överstiger en nivå som
-tillåter radio- och teleutrustning och andra apparater att fungera
-som avsett, och
+1. den inte alstrar en elektromagnetisk störning som
+överskrider den nivå över vilken radio- eller teleutrustning
+eller annan utrustning inte kan fungera som avsett, och
 
-2. apparaten har en tillräcklig inbyggd tålighet mot
-elektromagnetisk störning så att den kan fungera som avsett.
+2. den har en sådan tålighet mot elektromagnetisk störning att
+den elektromagnetiska strålning som kan förväntas vid avsedd
+användning inte medför att dess funktion försämras i en
+oacceptabel utsträckning.
 
-Marknadstillträde m. m.
+En fast installation skall dessutom installeras enligt god
+branschpraxis och i enlighet med information om hur de ingående
+komponenterna är avsedda att användas för att uppfylla
+skyddskraven. Förordning (2007:360).
 
-5 § En apparat får släppas ut på marknaden eller tas i bruk endast
-om den uppfyller
+Marknadstillträde m.m.
 
-1. skyddskraven i 4 §, när den är korrekt installerad och
+5 § Utrustning får släppas ut på marknaden eller tas i bruk
+endast om den uppfyller
+
+1. skyddskraven enligt 4 §, när den är korrekt installerad och
 underhållen samt används för avsedda ändamål, och
 
-2. andra bestämmelser som har meddelats i eller med stöd av denna
-förordning.
+2. andra bestämmelser som har meddelats i eller med stöd av
+denna förordning. Förordning (2007:360).
 
-Utan hinder av första stycket får dock till utgången av år 1995
-elektrisk materiel som uppfyller kraven i radiostörningsförordningen
-(1985:625) och med stöd av denna meddelade föreskrifter, släppas ut
-på marknaden under de förutsättningar som anges där.
-Förordning (1993:1329).
+6 § Utrustning som är konstruerad och tillverkad samt
+installerad på föreskrivet sätt får inte ändras av användaren
+så att den inte längre uppfyller kraven på elektromagnetisk
+kompatibilitet. Förordning (2007:360).
 
-6 § En apparat som är utförd på föreskrivet sätt får inte ändras av
-användaren så att den inte längre uppfyller kraven på EMC.
+Användning av utrustning
+
+7 § Utrustning får bara användas så att den fungerar
+tillfredsställande i sin elektromagnetiska omgivning och inte
+orsakar oacceptabla elektromagnetiska störningar för annan
+utrustning. Förordning (2007:360).
+
+Undantag från krav på elektromagnetisk kompatibilitet
+
+8 § Elsäkerhetsverket får i fråga om anordningar som avses i 3
+a § i det enskilda fallet besluta om undantag från skyddskraven
+och från vad som i 7 § anges om användning av utrustning, om
+det inte medför oacceptabla elektromagnetiska störningar för
+annan utrustning. Förordning (2007:360).
 
 Bemyndiganden
 
-7 § har upphävts genom förordning (1998:278).
+9 § Elsäkerhetsverket får meddela
 
-8 § Elsäkerhetsverket får meddela föreskrifter om
+1. närmare föreskrifter om skyddskraven enligt 4 §,
 
-1. precisering av skyddskraven enligt 4 §, och
+2. föreskrifter om dokumentation av god branschpraxis vid
+installation av fasta installationer,
 
-2. kontroll och märkning av apparater som avses i 4 §.
+3. föreskrifter om kontroll och märkning av utrustning i fråga
+om dess elektromagnetiska kompatibilitet,
 
-9 § Elsäkerhetsverket får meddela föreskrifter om
+4. föreskrifter om information som skall följa med utrustning
+och som avser uppgifter
 
-1. undantag från denna förordning beträffande vissa apparater,
+a) av betydelse för utrustningens elektromagnetiska
+kompatibilitet, och
 
-2. undantag från denna förordning beträffande idrifttagning,
-användning eller installation av apparater i särskilda fall.
+b) om tillverkaren av utrustningen eller den som fört in
+utrustningen till ett land som omfattas av avtalet om
+Europeiska ekonomiska samarbetsområdet, och
 
-Verket får även, om det är förenligt med EES-avtalet, efter ansökan
-medge undantag i det enskilda fallet.
+5. föreskrifter som avses i 3 § lagen (1992:1512) om
+elektromagnetisk kompatibilitet, om ersättning för kostnader
+för kontroll av utrustning. Förordning (2007:360).
 
-10 § Elsäkerhetsverket får meddela föreskrifter som avses i 3 § lagen
-(1992:1512) om elektromagnetisk kompatibilitet beträffande
-ersättning för tillhandahållna apparater och skyldighet att ersätta
-en tillsynsmyndighets kostnader för kontroll.
+10 § Vad som föreskrivs i 8 och 9 §§ om rätt för
+Elsäkerhetsverket att besluta om undantag från skyddskraven för
+elektromagnetisk kompatibilitet och att meddela föreskrifter
+skall i stället gälla Vägverket i fråga om
 
-11 § Elsäkerhetsverket får meddela föreskrifter om verkställighet av
-denna förordning.
+1. motorfordon,
 
-11 a § Vad som sägs i 8-11 §§ om rätt för Elsäkerhetsverket att
-meddela föreskrifter samt medge undantag enligt 9 § andra
-stycket skall i fråga om motorfordon och släpvagnar till dessa
-fordon, traktorer samt övrig elektrisk och elektronisk
-utrustning som är avsedd att användas i dessa fordon i stället
-gälla Vägverket. Förordning (1998:278).
+2. släpvagnar till motorfordon,
+
+3. traktorer, och
+
+4. komponenter som är avsedda för eftermontering i motorfordon
+och av betydelse för den direkta kontrollen över fordonet
+(immunitetsrelaterade funktioner). Förordning (2007:360).
+
+11 § Har upphävts genom förordning (2007:360).
+
+11 a § Ny beteckning 10 § genom förordning (2007:360).
 
 Tillsyn
 
 12 § Tillsyn över efterlevnaden av denna förordning och
 föreskrifter meddelade med stöd av förordningen utövas av
 
-1. Elsäkerhetsverket utom i fall som avses i 2-4,
+1. Post- och telestyrelsen, i fråga om radio- och
+teleterminalutrustning som avses i 2 § lagen (2000:121) om
+radio- och teleterminalutrustning,
 
-2. Post- och telestyrelsen när det gäller radiosändare och
-utrustning avsedd för anslutning till ett allmänt tillgängligt
-telenät,
+2. Vägverket, i fråga om utrustning som avses i 10 §, och
 
-3. Försvarets materielverk när det gäller användningen av andra
-apparater än som avses i 2 hos Försvarsmakten,
-Fortifikationsverket, Försvarets radioanstalt och
-Totalförsvarets forskningsinstitut, och
+3. Elsäkerhetsverket, i fråga om övrig utrustning.
 
-4. Vägverket när det gäller motorfordon och släpvagnar till
-dessa fordon, traktorer samt övrig elektrisk och elektronisk
-utrustning som är avsedd att användas i dessa fordon.
+I fråga om användningen av annan utrustning än den som avses i
+första stycket 1 hos Försvarsmakten, Fortifikationsverket,
+Försvarets radioanstalt och Totalförsvarets forskningsinstitut
+gäller dock att tillsynen utövas av Försvarets materielverk.
+Förordning (2007:360).
 
-Bestämmelser om sådan tillsyn finns i 2 och 4 §§ lagen
-(1992:1512) om elektromagnetisk kompatibilitet.
-Förordning (2000:922).
+Övergångsbestämmelser
+
+2007:360
+
+1. Denna förordning träder i kraft den 20 juli 2007.
+
+2. Äldre föreskrifter gäller fortfarande för utrustning som
+släpps ut på marknaden före den 20 juli 2009.
