@@ -413,6 +413,7 @@ Datainspektionen
 Datainspektionens               DIFS
 författningssamling
 
+/Upphör att gälla U:2007-08-01/
 Djurskyddsmyndigheten
 
 Djurskyddsmyndighetens          DFS
@@ -552,10 +553,17 @@ Läkemedelsverket
 Läkemedelsverkets               LVFS
 författningssamling
 
+/Upphör att gälla U:2007-08-01/
 Migrationsverket
 
 Migrationsverkets               MIGRFS          Utnyttjas också av
 författningssamling                             Integrationsverket
+
+/Träder i kraft I:2007-08-01/
+Migrationsverket
+
+Migrationsverkets               MIGRFS
+författningssamling
 
 Naturvårdsverket
 
@@ -599,7 +607,6 @@ Rikspolisstyrelsen
 Rikspolisstyrelsens             RPSFS
 författningssamling
 
-/Träder i kraft I:2007-01-01/
 Sametinget
 
 Sametingets
@@ -760,7 +767,7 @@ författningssamling                             Statens geotekniska
 
 Åklagarmyndighetens             ÅFS
 författningssamling
-Förordning (2006:1269).
+Förordning (2007:478).
 
 
 Bilaga 2
