@@ -5,18 +5,25 @@
 
 1 § I denna lag betyder
 
-finansiellt instrument: fondpapper och annan rättighet eller
-förpliktelse avsedd för handel på värdepappersmarknaden,
+finansiellt instrument: det som anges i 1 kap. 4 § första
+stycket 1 lagen (2007:528) om värdepappersmarknaden,
 
-fondpapper: aktie och obligation samt sådana andra
-delägarrätter eller fordringsrätter som är utgivna för allmän
-omsättning, fondandel och aktieägares rätt gentemot den som för
-hans räkning förvarar aktiebrev i ett utländskt bolag
-(depåbevis),
+överlåtbart värdepapper: det som anges i 1 kap. 4 § första
+stycket 2 lagen om värdepappersmarknaden,
+
+penningmarknadsinstrument: det som anges i 1 kap. 4 § första
+stycket 3 lagen om värdepappersmarknaden,
+
+börs: det som anges i 1 kap. 5 § 3 lagen om
+värdepappersmarknaden och sådant utländskt företag som har
+tillstånd att driva en reglerad marknad från filial i Sverige,
+
+reglerad marknad: det som anges i 1 kap. 5 § 20 lagen om
+värdepappersmarknaden,
 
 EES: Europeiska ekonomiska samarbetsområdet,
 
-anmält avvecklingssystem: vad som anges i 2 § lagen (1999:1309)
+anmält avvecklingssystem: det som anges i 2 § lagen (1999:1309)
 om system för avveckling av förpliktelser på finansmarknaden,
 
 prospektdirektivet: Europaparlamentets och rådets direktiv
@@ -34,19 +41,19 @@ emittent: i fråga om aktier aktiebolaget och i fråga om annat
 finansiellt instrument utgivaren eller utfärdaren av
 instrumentet,
 
-aktierelaterat finansiellt instrument:
+aktierelaterat överlåtbart värdepapper:
 
-1. aktie och finansiellt instrument som kan jämställas med
+1. aktie och överlåtbart värdepapper som kan jämställas med
 aktie, såsom interimsbevis, fondaktierätt och teckningsrätt,
 samt
 
-2. finansiellt instrument, såsom konvertibel där rätten att
+2. överlåtbart värdepapper, såsom konvertibel där rätten att
 begära konvertering tillkommer emittenten och teckningsoption,
-som ger rätt att förvärva sådant instrument som avses i 1 genom
-konvertering eller utövande av annan rättighet som instrumentet
-är bärare av, om instrumentet utfärdats av emittenten av den
-aktie som rättigheten hänför sig till eller av ett bolag som
-ingår i samma koncern som den emittenten,
+som ger rätt att förvärva sådant värdepapper som avses i 1
+genom konvertering eller utövande av annan rättighet som
+värdepapperet är bärare av, om värdepapperet utfärdats av
+emittenten av den aktie som rättigheten hänför sig till eller
+av ett bolag som ingår i samma koncern som den emittenten,
 
 kvalificerade investerare:
 
@@ -54,7 +61,7 @@ kvalificerade investerare:
 finansmarknaderna,
 
 2. juridiska personer vars verksamhet uteslutande avser
-investeringar i finansiella instrument,
+investeringar i överlåtbara värdepapper,
 
 3. stater, delstater, statliga och delstatliga myndigheter,
 centralbanker och Europeiska centralbanken samt Europeiska
@@ -78,7 +85,7 @@ fysiska personer, om de av någon annan stat inom EES betraktas
 som kvalificerade investerare,
 
 emissionsprogram: ett program för utgivning av icke
-aktierelaterade finansiella instrument av likartad sort eller
+aktierelaterade överlåtbara värdepapper av likartad sort eller
 kategori, fortlöpande eller vid upprepade tillfällen under en
 särskilt angiven emissionsperiod,
 
@@ -90,7 +97,13 @@ aktier till budgivaren,
 budgivare: den som lämnar ett offentligt uppköpserbjudande,
 
 målbolag: bolag till vars aktieägare ett offentligt
-uppköpserbjudande lämnas. Lag (2006:454).
+uppköpserbjudande lämnas, och
+
+öppenhetsdirektivet: Europaparlamentets och rådets direktiv
+2004/109/EG av den 15 december 2004 om harmonisering av
+insynskraven angående upplysningar om emittenter vars
+värdepapper är upptagna till handel på en reglerad marknad och
+om ändring av direktiv 2001/34/EG. Lag (2007:535).
 
 2 § Handel med finansiella instrument skall bedrivas så, att
 allmänhetens förtroende för värdepappersmarknaden upprätthålls och
@@ -105,43 +118,43 @@ yttrandefrihetsgrundlagen. Lag (2005:378).
 
 Prospektskyldighet
 
-1 § Ett prospekt skall upprättas när finansiella instrument som
-är avsedda för allmän omsättning erbjuds till allmänheten eller
-tas upp till handel på en reglerad marknad, om inte annat
-följer av 2-7 §§. Lag (2005:833).
+1 § Ett prospekt skall upprättas när överlåtbara värdepapper
+erbjuds till allmänheten eller tas upp till handel på en
+reglerad marknad, om inte något annat följer av 2-7 §§.
+Lag (2007:535).
 
 Undantag från prospektskyldighet
 
 Allmänt
 
 2 § Bestämmelserna om prospekt i denna lag tillämpas inte, om
-de finansiella instrumenten utgörs av
+de överlåtbara värdepapperen utgörs av
 
 1. andelar i en investeringsfond eller i ett sådant fondföretag
 som avses i 1 kap. 7 eller 9 § lagen (2004:46) om
 investeringsfonder, eller
 
-2. fordringsrätter med kortare löptid än ett år.
-Lag (2005:833).
+2. penningmarknadsinstrument med kortare löptid än ett år.
+Lag (2007:535).
 
-3 § Prospekt behöver inte upprättas, om de finansiella
-instrumenten
+3 § Prospekt behöver inte upprättas, om de överlåtbara
+värdepapperen
 
 1. villkorslöst och oåterkalleligt garanteras av en stat inom
 EES eller av ett landsting eller en kommun eller en motsvarande
 regional eller lokal myndighet inom EES, eller
 
-2. utgörs av icke aktierelaterade finansiella instrument som
+2. utgörs av icke aktierelaterade överlåtbara värdepapper som
 ges ut av en stat eller en centralbank inom EES, av ett
 landsting eller en kommun eller en motsvarande regional eller
 lokal myndighet inom EES eller av en mellanstatlig organisation
 i vilken en eller flera stater inom EES är medlemmar.
-Lag (2005:833).
+Lag (2007:535).
 
 Erbjudande till allmänheten
 
-4 § När finansiella instrument erbjuds till allmänheten behöver
-ett prospekt inte upprättas, om
+4 § När överlåtbara värdepapper erbjuds till allmänheten
+behöver ett prospekt inte upprättas, om
 
 1. erbjudandet riktas bara till kvalificerade investerare,
 
@@ -149,23 +162,23 @@ ett prospekt inte upprättas, om
 juridiska personer, som inte är kvalificerade investerare, i en
 stat inom EES,
 
-3. erbjudandet avser köp av finansiella instrument till ett
+3. erbjudandet avser köp av överlåtbara värdepapper till ett
 belopp motsvarande minst 50 000 euro för varje investerare,
 
-4. vart och ett av de finansiella instrumenten har ett
+4. vart och ett av de överlåtbara värdepapperen har ett
 nominellt värde som motsvarar minst 50 000 euro, eller
 
 5. det belopp som sammanlagt skall betalas av investerarna
 under en tid av tolv månader motsvarar högst 1 miljon euro.
-Lag (2005:833).
+Lag (2007:535).
 
-5 § När finansiella instrument erbjuds till allmänheten behöver
-ett prospekt inte upprättas, om erbjudandet avser
+5 § När överlåtbara värdepapper erbjuds till allmänheten
+behöver ett prospekt inte upprättas, om erbjudandet avser
 
 1. aktier som emitteras i utbyte mot aktier av samma slag och
 emissionen inte innebär någon ökning av bolagets aktiekapital,
 
-2. finansiella instrument som erbjuds som vederlag i samband
+2. överlåtbara värdepapper som erbjuds som vederlag i samband
 med ett offentligt uppköpserbjudande, när Finansinspektionen
 har godkänt en erbjudandehandling som avses i 2 kap. lagen
 (2006:451) om offentliga uppköpserbjudanden på aktiemarknaden,
@@ -183,19 +196,19 @@ sig till, när ett dokument som innehåller information om
 aktierna samt om motiven och de närmare formerna för
 erbjudandet görs tillgängligt, eller
 
-5. finansiella instrument som nuvarande eller tidigare
+5. överlåtbara värdepapper som nuvarande eller tidigare
 anställda eller styrelseledamöter i ett företag erbjuds,
 tilldelas eller skall tilldelas av företaget eller av ett
-närstående företag, när instrumenten är av samma slag som de
-instrument som redan finns upptagna till handel på en reglerad
+närstående företag, när värdepapperen är av samma slag som de
+värdepapper som redan finns upptagna till handel på en reglerad
 marknad eller hänför sig till dem och ett dokument som
-innehåller information om de finansiella instrumenten samt om
+innehåller information om de överlåtbara värdepapperen samt om
 motiven och de närmare formerna för erbjudandet görs
-tillgängligt. Lag (2006:454).
+tillgängligt. Lag (2007:535).
 
 Upptagande till handel
 
-6 § När finansiella instrument tas upp till handel på en
+6 § När överlåtbara värdepapper tas upp till handel på en
 reglerad marknad behöver ett prospekt inte upprättas, om
 
 1. antalet aktier, för vilka ansökts om upptagande till handel
@@ -208,7 +221,7 @@ reglerade marknad,
 redan finns upptagna till handel på samma reglerade marknad och
 emissionen inte innebär någon ökning av bolagets aktiekapital,
 
-3. finansiella instrument erbjuds som vederlag i samband med
+3. överlåtbara värdepapper erbjuds som vederlag i samband med
 ett offentligt uppköpserbjudande, när Finansinspektionen har
 godkänt en erbjudandehandling som avses i 2 kap. lagen
 (2006:451) om offentliga uppköpserbjudanden på aktiemarknaden,
@@ -227,49 +240,51 @@ upptagna till handel på samma reglerade marknad och ett
 dokument som innehåller information om aktierna samt om motiven
 och de närmare formerna för erbjudandet görs tillgängligt,
 
-6. finansiella instrument som nuvarande eller tidigare
+6. överlåtbara värdepapper som nuvarande eller tidigare
 anställda eller styrelseledamöter i ett företag erbjuds,
 tilldelas eller skall tilldelas av företaget eller av ett
-närstående företag, när instrumenten är av samma slag som de
-instrument som redan finns upptagna till handel på samma
+närstående företag, när värdepapperen är av samma slag som de
+värdepapper som redan finns upptagna till handel på samma
 reglerade marknad och ett dokument som innehåller information
-om de finansiella instrumenten samt om motiven och de närmare
+om de överlåtbara värdepapperen samt om motiven och de närmare
 formerna för erbjudandet görs tillgängligt, eller
 
 7. aktier har tillkommit genom konvertering eller utbyte av
-finansiella instrument eller genom utnyttjande av
+överlåtbara värdepapper eller genom utnyttjande av
 teckningsoptioner, när aktierna är av samma slag som de aktier
 som redan finns upptagna till handel på samma reglerade
-marknad. Lag (2006:454).
+marknad. Lag (2007:535).
 
-7 § När finansiella instrument tas upp till handel på en
+7 § När överlåtbara värdepapper tas upp till handel på en
 reglerad marknad behöver ett prospekt inte upprättas då
-finansiella instrument av samma kategori sedan mer än 18
-månader är upptagna till handel på en annan reglerad marknad
-inom EES, om
+överlåtbara värdepapper av samma kategori sedan mer än 18
+månader är upptagna till handel på en annan reglerad marknad,
+om
 
-1. de finansiella instrumenten av samma kategori togs upp till
+1. de överlåtbara värdepapperen av samma kategori togs upp till
 handel på den andra reglerade marknaden med stöd av
 
 a) ett godkänt prospekt som offentliggjorts enligt regler
-motsvarande dem i 28-30 §§ och instrumenten togs upp till
+motsvarande dem i 28-30 §§ och värdepapperen togs upp till
 handel för första gången efter den 31 december 2003, eller
 
 b) ett prospekt som godkänts enligt kraven i rådets direktiv
 80/390/EEG av den 17 mars 1980 om samordning av kraven på
 upprättande, granskning och spridning av prospekt som skall
 offentliggöras vid upptagande av värdepapper till officiell
-notering vid fondbörs eller Europaparlamentets och rådets
-direktiv 2001/34/EG av den 28 maj 2001 om upptagande av
+notering vid fondbörs, senast ändrat genom Europaparlamentets
+och rådets direktiv 94/18/EG, eller Europaparlamentets och
+rådets direktiv 2001/34/EG av den 28 maj 2001 om upptagande av
 värdepapper till officiell notering och om uppgifter som skall
-offentliggöras beträffande sådana värdepapper och instrumenten
-togs upp till handel före den 1 januari 2004,
+offentliggöras beträffande sådana värdepapper, senast ändrat
+genom Europaparlamentets och rådets direktiv 2005/1/EG, och
+värdepapperen togs upp till handel före den 1 januari 2004,
 
 2. emittenten har fullgjort löpande skyldigheter på den andra
 reglerade marknaden, och
 
-3. den som ansöker om att de finansiella instrumenten skall tas
-upp till handel på den reglerade marknaden upprättar ett
+3. den som ansöker om att de överlåtbara värdepapperen skall
+tas upp till handel på den reglerade marknaden upprättar ett
 sammanfattande dokument på ett språk som Finansinspektionen i
 ett enskilt fall beslutar och offentliggör dokumentet enligt
 29 §.
@@ -279,7 +294,7 @@ motsvarande den som enligt 14 § skall ingå i en sammanfattning.
 Dokumentet skall även innehålla information om var det senaste
 godkända prospektet kan fås och var den finansiella information
 som emittenten offentliggjort till följd av löpande krav på
-offentliggörande finns tillgänglig. Lag (2005:833).
+offentliggörande finns tillgänglig. Lag (2007:535).
 
 Prospekt upprättade trots att prospektskyldighet inte
 föreligger
@@ -293,14 +308,14 @@ Ansvar för upprättande av prospekt
 Erbjudande till allmänheten
 
 9 § Vid ett erbjudande till allmänheten som innefattar emission
-av finansiella instrument skall prospektet upprättas av
+av överlåtbara värdepapper skall prospektet upprättas av
 emittenten.
 
 Vid ett erbjudande till allmänheten om köp av aktier,
 konvertibler, teckningsoptioner eller teckningsrätter som
-lämnas av någon som innehar sådana finansiella instrument skall
-prospektet upprättas av det aktiebolag som har gett ut
-instrumenten. Den som avser att lämna ett sådant erbjudande
+lämnas av någon som innehar sådana överlåtbara värdepapper
+skall prospektet upprättas av det aktiebolag som har gett ut
+värdepapperen. Den som avser att lämna ett sådant erbjudande
 skall underrätta styrelsen i bolaget senast sex veckor före den
 dag då köp tidigast avses ske.
 
@@ -311,28 +326,28 @@ lämnar erbjudandet.
 Ett aktiebolag får ta ut ersättning för sina kostnader för att
 upprätta ett prospekt enligt andra stycket av den som lämnar
 erbjudandet. Om erbjudandet lämnas av flera, skall kostnaderna
-fördelas mellan dem i förhållande till det antal instrument av
+fördelas mellan dem i förhållande till det antal värdepapper av
 samma slag som var och en erbjuder till allmänheten.
-Lag (2005:833).
+Lag (2007:535).
 
 Upptagande till handel
 
-10 § Vid en ansökan om att finansiella instrument skall tas upp
-till handel på en reglerad marknad skall prospektet upprättas
-av den som gör ansökan. Lag (2005:833).
+10 § Vid en ansökan om att överlåtbara värdepapper skall tas
+upp till handel på en reglerad marknad skall prospektet
+upprättas av den som gör ansökan. Lag (2007:535).
 
 Prospektets innehåll
 
 11 § Ett prospekt skall innehålla all information rörande
-emittenten och de finansiella instrumenten som är nödvändig för
-att en investerare skall kunna göra en välgrundad bedömning av
-emittentens och en eventuell garants tillgångar och skulder,
+emittenten och de överlåtbara värdepapperen som är nödvändig
+för att en investerare skall kunna göra en välgrundad bedömning
+av emittentens och en eventuell garants tillgångar och skulder,
 finansiella ställning, resultat och framtidsutsikter samt av de
-finansiella instrumenten. Informationen skall vara skriven så
+överlåtbara värdepapperen. Informationen skall vara skriven så
 att den är lätt att förstå och analysera.
 
 Ytterligare bestämmelser om den information som ett prospekt
-skall innehålla finns i prospektförordningen. Lag (2005:833).
+skall innehålla finns i prospektförordningen. Lag (2007:535).
 
 12 § Inför upprättandet av ett prospekt och vid
 offentliggörande av det enligt 28-30 §§ får, i syfte att
@@ -352,13 +367,13 @@ fall får upprättas i form av ett grundprospekt.
 
 Registreringsdokumentet skall innehålla information om
 emittenten. Värdepappersnoten skall innehålla information om de
-finansiella instrumenten. Sammanfattningen skall innehålla de
+överlåtbara värdepapperen. Sammanfattningen skall innehålla de
 uppgifter som anges i 14 §.
 
 Om en emittent har ett registreringsdokument som är godkänt och
 registrerat av Finansinspektionen och giltigt enligt 24 §,
 räcker det med att emittenten upprättar en värdepappersnot och
-en sammanfattning när finansiella instrument erbjuds till
+en sammanfattning när överlåtbara värdepapper erbjuds till
 allmänheten eller tas upp till handel på en reglerad marknad.
 Har det, efter det att det senaste registreringsdokumentet och
 eventuella tillägg enligt 34 § godkänts, inträffat en
@@ -367,19 +382,19 @@ investerares bedömning, skall värdepappersnoten innehålla
 information om detta, även om sådan information normalt skulle
 ha lämnats i registreringsdokumentet. Värdepappersnoten och
 sammanfattningen skall godkännas av Finansinspektionen enligt
-25 §. Lag (2005:833).
+25 §. Lag (2007:535).
 
 14 § I ett prospekt skall det ingå en kortfattad sammanfattning
 som är lätt att förstå. Den skall förmedla väsentliga uppgifter
 om och risker som är förenade med emittenten, eventuell garant
-och de finansiella instrumenten.
+och de överlåtbara värdepapperen.
 
 Sammanfattningen skall även innehålla uppgift om
 
 1. att den skall ses som en introduktion till prospektet,
 
-2. att varje beslut om att investera i de finansiella
-instrumenten skall grunda sig på en bedömning av prospektet i
+2. att varje beslut om att investera i de överlåtbara
+värdepapperen skall grunda sig på en bedömning av prospektet i
 dess helhet,
 
 3. att en investerare som väcker talan vid domstol med
@@ -389,10 +404,10 @@ svara för kostnaderna för översättning av prospektet, och
 4. innehållet i 15 §.
 
 Prospektet behöver inte innehålla en sammanfattning, om det
-upprättas när icke aktierelaterade finansiella instrument, som
+upprättas när icke aktierelaterade överlåtbara värdepapper, som
 vart och ett har ett nominellt värde som motsvarar minst 50 000
 euro, tas upp till handel på en reglerad marknad.
-Lag (2005:833).
+Lag (2007:535).
 
 15 § En person får göras ansvarig för uppgifter som ingår i
 eller saknas i sammanfattningen eller en översättning av den
@@ -401,9 +416,9 @@ eller felaktig i förhållande till de andra delarna av
 prospektet. Lag (2005:833).
 
 16 § Ett prospekt får upprättas i form av ett grundprospekt, om
-de finansiella instrumenten utgörs av
+de överlåtbara värdepapperen utgörs av
 
-1. icke aktierelaterade finansiella instrument som ges ut inom
+1. icke aktierelaterade överlåtbara värdepapper som ges ut inom
 ramen för ett emissionsprogram,
 
 2. skuldförbindelser som avses i lagen (2003:1223) om utgivning
@@ -424,34 +439,34 @@ bolagsordning placeras i tillgångar som ger tillräcklig
 täckning för de åtaganden som är förenade med obligationerna.
 
 Ett grundprospekt behöver inte innehålla de slutliga villkoren
-för ett erbjudande av finansiella instrument till allmänheten.
-Lag (2005:833).
+för ett erbjudande av överlåtbara värdepapper till allmänheten.
+Lag (2007:535).
 
 17 § Om ett grundprospekt eller ett tillägg till detta inte
 innehåller de slutliga villkoren för ett erbjudande av
-finansiella instrument till allmänheten, skall villkoren ges in
-till Finansinspektionen och offentliggöras enligt 29 § så snart
-det är möjligt. Lag (2005:833).
+överlåtbara värdepapper till allmänheten, skall villkoren ges
+in till Finansinspektionen och offentliggöras enligt 29 § så
+snart det är möjligt. Lag (2007:535).
 
 Utelämnande av information
 
-18 § Om det slutliga priset eller det antal finansiella
-instrument som skall erbjudas till allmänheten inte kan anges i
-prospektet, får sådana uppgifter utelämnas. I så fall skall en
-investerare ha rätt att återkalla sin anmälan om köp eller
-teckning av de finansiella instrumenten, om prospektet inte i
+18 § Om det slutliga priset eller det antal överlåtbara
+värdepapper som skall erbjudas till allmänheten inte kan anges
+i prospektet, får sådana uppgifter utelämnas. I så fall skall
+en investerare ha rätt att återkalla sin anmälan om köp eller
+teckning av de överlåtbara värdepapperen, om prospektet inte i
 stället innehåller uppgifter om de kriterier eller villkor som
 skall tillämpas för att fastställa priset eller antalet
-finansiella instrument eller, när det gäller priset, det högsta
-priset.
+överlåtbara värdepapper eller, när det gäller priset, det
+högsta priset.
 
-När priset eller antalet finansiella instrument har fastställts
-slutligt, skall dessa uppgifter ges in till Finansinspektionen
-och offentliggöras enligt 29 §.
+När priset eller antalet överlåtbara värdepapper har
+fastställts slutligt, skall dessa uppgifter ges in till
+Finansinspektionen och offentliggöras enligt 29 §.
 
 En återkallelse enligt första stycket får göras inom fem
 arbetsdagar från det att slutligt fastställt pris och antal
-finansiella instrument har offentliggjorts. Lag (2005:833).
+överlåtbara värdepapper har offentliggjorts. Lag (2007:535).
 
 19 § Finansinspektionen får i ett enskilt fall besluta att
 information som krävs enligt 11 § första stycket eller enligt
@@ -464,7 +479,7 @@ kan antas medföra att allmänheten vilseleds i fråga om
 omständigheter som är av väsentlig betydelse för att en
 välgrundad bedömning skall kunna göras beträffande emittenten,
 den som lämnar erbjudandet eller eventuell garant och de
-finansiella instrument som prospektet avser, eller
+överlåtbara värdepapper som prospektet avser, eller
 
 2. informationen är av mindre betydelse och inte skulle påverka
 bedömningen beträffande den finansiella ställningen hos och
@@ -474,9 +489,9 @@ eller en eventuell garant.
 Information som krävs enligt prospektförordningen får i
 särskilda fall utelämnas, om den inte är relevant för
 emittentens verksamhetsområde eller rättsliga form eller för de
-finansiella instrument som prospektet avser. Om det är möjligt,
-skall prospektet innehålla likvärdig information.
-Lag (2005:833).
+överlåtbara värdepapper som prospektet avser. Om det är
+möjligt, skall prospektet innehålla likvärdig information.
+Lag (2007:535).
 
 Hänvisning till andra dokument
 
@@ -492,37 +507,37 @@ bifogas prospektet. Lag (2005:833).
 
 Språkbestämmelser
 
-21 § När finansiella instrument erbjuds till allmänheten eller
+21 § När överlåtbara värdepapper erbjuds till allmänheten eller
 tas upp till handel på en reglerad marknad i Sverige, skall
 prospektet upprättas på svenska, om inte Finansinspektionen i
 ett enskilt fall beslutar att det får upprättas på ett annat
 språk eller detta följer av andra stycket eller 23 §.
 
-När ett prospekt avser icke aktierelaterade finansiella
-instrument som vart och ett har ett nominellt värde som
+När ett prospekt avser icke aktierelaterade överlåtbara
+värdepapper som vart och ett har ett nominellt värde som
 motsvarar minst 50 000 euro och som skall tas upp till handel
 på en reglerad marknad i Sverige, får prospektet upprättas på
 ett språk som används allmänt på de internationella finansiella
-marknaderna. Lag (2005:833).
+marknaderna. Lag (2007:535).
 
-22 § När finansiella instrument erbjuds till allmänheten eller
+22 § När överlåtbara värdepapper erbjuds till allmänheten eller
 tas upp till handel på en reglerad marknad i en eller flera
 stater inom EES, men inte i Sverige, skall det prospekt som ges
 in till Finansinspektionen för godkännande enligt 25 §
 upprättas på svenska, på ett språk som används allmänt på de
 internationella finansiella marknaderna eller på något annat
 språk som inspektionen i ett enskilt fall beslutar.
-Lag (2005:833).
+Lag (2007:535).
 
 23 § Om ett prospekt har godkänts av en behörig myndighet i en
 annan stat inom EES enligt 36 § och avser ett erbjudande av
-finansiella instrument till allmänheten i Sverige eller en
-ansökan om att finansiella instrument skall tas upp till handel
-på en reglerad marknad i Sverige, får prospektet vara avfattat
-på ett språk som används allmänt på de internationella
+överlåtbara värdepapper till allmänheten i Sverige eller en
+ansökan om att överlåtbara värdepapper skall tas upp till
+handel på en reglerad marknad i Sverige, får prospektet vara
+avfattat på ett språk som används allmänt på de internationella
 finansiella marknaderna. Finansinspektionen får dock besluta
 att en sammanfattning av prospektet skall översättas till
-svenska. Lag (2005:833).
+svenska. Lag (2007:535).
 
 Prospektets giltighetstid
 
@@ -531,53 +546,39 @@ Prospektets giltighetstid
 månader från den dag då det offentliggörs enligt 28 §.
 
 Ett grundprospekt enligt 16 § första stycket 2 eller 3 är
-giltigt så länge det ges ut finansiella instrument enligt
+giltigt så länge det ges ut överlåtbara värdepapper enligt
 prospektet.
 
 Prospekt är giltiga enligt första och andra styckena bara om
-eventuella tilllägg görs enligt 34 §. Lag (2005:833).
+eventuella tillägg görs enligt 34 §. Lag (2007:535).
 
 Godkännande av prospekt
 
 25 § Frågan om godkännande av ett prospekt får prövas av
-Finansinspektionen, om emittenten har sitt säte i Sverige.
+Finansinspektionen, om Sverige är hemmedlemsstat.
 
-Frågan om godkännande av ett prospekt får prövas av
-Finansinspektionen vid emissioner av icke aktierelaterade
-finansiella instrument, om
-
-1. instrumenten antingen
-
-a) vart och ett har ett nominellt värde som motsvarar minst
-1 000 euro, eller
-
-b) innefattar en rätt att förvärva finansiella instrument eller
-få ett kontantbelopp, såvida inte emittenten har gett ut de
-underliggande finansiella instrumenten eller detta har gjorts
-av ett företag inom den koncern där emittenten ingår,
-
-2. emittenten, den som lämnar erbjudandet eller den som ansöker
-om att de finansiella instrumenten skall tas upp till handel på
-en reglerad marknad har valt att prövningen skall utföras av
-inspektionen,
-
-3. emittenten har sitt säte inom EES, och
-
-4. det är i Sverige som instrumenten skall erbjudas allmänheten
-eller har tagits eller skall tas upp till handel på en reglerad
-marknad.
+I 37-39 §§ finns bestämmelser om när Sverige är hemmedlemsstat.
 
 Godkännande skall ges om prospektet är fullständigt,
 sammanhängande och begripligt samt i övrigt uppfyller de krav
-som ställs i denna lag och prospektförordningen. Lag (2005:833).
+som ställs i denna lag och prospektförordningen.
+
+Om Sverige är hemmedlemsstat i ett fall då emittenten inte har
+säte i en stat inom EES skall godkännande även ges, om
+
+1. prospektet har utformats i enlighet med reglerna i den stat
+där emittenten har sitt säte, och
+
+2. informationskraven enligt reglerna i den staten motsvarar
+kraven i denna lag och prospektförordningen. Lag (2007:365).
 
 26 § Finansinspektionen skall meddela beslut med anledning av
 ansökan om godkännande inom tio arbetsdagar från det att en
 fullständig ansökan kom in till inspektionen. Om ett erbjudande
-till allmänheten avser finansiella instrument som ges ut av en
-emittent som inte tidigare har erbjudit finansiella instrument
-till allmänheten och som inte tidigare har fått finansiella
-instrument upptagna till handel på en reglerad marknad, skall
+till allmänheten avser överlåtbara värdepapper som ges ut av en
+emittent som inte tidigare har erbjudit överlåtbara värdepapper
+till allmänheten och som inte tidigare har fått överlåtbara
+värdepapper upptagna till handel på en reglerad marknad, skall
 Finansinspektionen meddela beslut inom tjugo arbetsdagar från
 det att en fullständig ansökan kom in till inspektionen.
 
@@ -587,7 +588,7 @@ kom in till inspektionen, underrätta sökanden och begära
 nödvändiga kompletteringar.
 
 När ett prospekt har godkänts, skall Finansinspektionen
-registrera det. Lag (2005:833).
+registrera det. Lag (2007:535).
 
 27 § Finansinspektionen får besluta att en ansökan om
 godkännande av prospekt skall lämnas över till en behörig
@@ -602,25 +603,25 @@ Offentliggörande av prospekt
 och registrerats av Finansinspektionen.
 
 Prospektet skall offentliggöras av emittenten, den som lämnar
-erbjudandet eller den som ansöker om att finansiella instrument
-skall tas upp till handel på en reglerad marknad snarast och
-senast dagen innan anmälningstiden i erbjudandet börjar löpa
-eller de finansiella instrumenten tas upp till handel. Om ett
-slag av aktier som inte tidigare har tagits upp till handel
-erbjuds till allmänheten och skall tas upp till handel, skall
-prospektet offentliggöras minst sex arbetsdagar innan
-erbjudandet löper ut. Lag (2005:833).
+erbjudandet eller den som ansöker om att överlåtbara
+värdepapper skall tas upp till handel på en reglerad marknad
+snarast och senast dagen innan anmälningstiden i erbjudandet
+börjar löpa eller de överlåtbara värdepapperen tas upp till
+handel. Om ett slag av aktier som inte tidigare har tagits upp
+till handel erbjuds till allmänheten och skall tas upp till
+handel, skall prospektet offentliggöras minst sex arbetsdagar
+innan erbjudandet löper ut. Lag (2007:535).
 
 29 § Ett prospekt skall offentliggöras
 
 1. i en eller flera dagstidningar med rikstäckande eller
 omfattande spridning i de stater inom EES där ett erbjudande av
-finansiella instrument till allmänheten eller en ansökan om att
-finansiella instrument skall tas upp till handel görs,
+överlåtbara värdepapper till allmänheten eller en ansökan om
+att överlåtbara värdepapper skall tas upp till handel görs,
 
 2. genom att i tryckt form kostnadsfritt göras tillgängligt för
-allmänheten hos de reglerade marknader där de finansiella
-instrumenten tas upp till handel eller på emittentens
+allmänheten hos de reglerade marknader där de överlåtbara
+värdepapperen tas upp till handel eller på emittentens
 huvudkontor och, i förekommande fall, hos värdepappersinstitut
 som medverkar vid erbjudandet,
 
@@ -629,20 +630,22 @@ värdepappersinstitut medverkar vid erbjudandet, på
 värdepappersinstitutets elektroniska hemsida, eller
 
 4. på en elektronisk hemsida som tillhör den reglerade marknad
-där ansökan om att finansiella instrument skall tas upp till
+där ansökan om att överlåtbara värdepapper skall tas upp till
 handel görs.
 
 Om ett prospekt offentliggörs av emittenten enligt första
 stycket 1 eller 2, skall prospektet även offentliggöras på
 emittentens elektroniska hemsida samt, i de fall
 värdepappersinstitut medverkar vid erbjudandet, på
-värdepappersinstitutets elektroniska hemsida. Lag (2005:833).
+värdepappersinstitutets elektroniska hemsida.
+Lag (2007:535).
 
 30 § Om ett prospekt offentliggörs i elektronisk form, skall
 investerare som begär det kostnadsfritt få en papperskopia av
 prospektet från emittenten, den som lämnar erbjudandet, den som
-ansöker om att finansiella instrument skall tas upp till handel
-eller värdepappersinstitut som medverkar vid erbjudandet.
+ansöker om att överlåtbara värdepapper skall tas upp till
+handel eller värdepappersinstitut som medverkar vid
+erbjudandet.
 
 När ett prospekt består av flera dokument eller innehåller
 information som har blivit en del av prospektet genom
@@ -654,7 +657,7 @@ första stycket 2. I varje dokument skall det anges var de
 övriga dokument som hör till prospektet finns att tillgå.
 
 Ytterligare bestämmelser om offentliggörande av prospekt finns
-i prospektförordningen. Lag (2005:833).
+i prospektförordningen. Lag (2007:535).
 
 31 § Finansinspektionen skall på sin elektroniska hemsida
 offentliggöra antingen samtliga godkända och registrerade
@@ -669,8 +672,8 @@ Lag (2005:833).
 
 Reklam och annan information
 
-32 § Reklam om ett erbjudande av finansiella instrument till
-allmänheten eller om att finansiella instrument skall tas upp
+32 § Reklam om ett erbjudande av överlåtbara värdepapper till
+allmänheten eller om att överlåtbara värdepapper skall tas upp
 till handel på en reglerad marknad skall innehålla information
 om att ett prospekt har offentliggjorts eller kommer att
 offentliggöras och var det finns att tillgå eller kommer att
@@ -684,47 +687,47 @@ detta har offentliggjorts, och annars med den information som
 enligt 11 § skall lämnas i ett prospekt.
 
 Ytterligare bestämmelser om reklam finns i
-prospektförordningen. Lag (2005:833).
+prospektförordningen. Lag (2007:535).
 
 33 § Annan information, som inte utgör reklam, om ett
-erbjudande av finansiella instrument till allmänheten eller ett
-upptagande av finansiella instrument till handel på en reglerad
-marknad som lämnas av emittenten, den som lämnar erbjudandet
-eller den som gör ansökan om upptagande skall stämma överens
-med den information som lämnas i prospektet.
+erbjudande av överlåtbara värdepapper till allmänheten eller
+ett upptagande av överlåtbara värdepapper till handel på en
+reglerad marknad som lämnas av emittenten, den som lämnar
+erbjudandet eller den som gör ansökan om upptagande skall
+stämma överens med den information som lämnas i prospektet.
 
 Oavsett om skyldighet att upprätta prospekt föreligger eller
 inte, skall all väsentlig information som lämnas till någon
 investerare lämnas till samtliga investerare som erbjudandet
-riktar sig till. Lag (2005:833).
+riktar sig till. Lag (2007:535).
 
 Tillägg till prospekt
 
 34 § Varje ny omständighet, sakfel eller förbiseende som kan
-påverka bedömningen av finansiella instrument som omfattas av
+påverka bedömningen av överlåtbara värdepapper som omfattas av
 ett prospekt och som inträffar eller uppmärksammas efter det
 att prospektet har godkänts men innan anmälningstiden för
-erbjudandet av finansiella instrument till allmänheten löper ut
-eller de finansiella instrumenten tas upp till handel på en
+erbjudandet av överlåtbara värdepapper till allmänheten löper
+ut eller de överlåtbara värdepapperen tas upp till handel på en
 reglerad marknad, skall tas in eller rättas till i ett tillägg
 till prospektet. Sammanfattningen, och eventuella
 översättningar av denna, skall kompletteras om det är
 nödvändigt för att återge informationen i tillägget.
 
 Frågan om godkännande av ett tillägg till ett prospekt får
-prövas av Finansinspektionen, om inspektionen får pröva frågan
-om godkännande av ett prospekt enligt 25 §. Finansinspektionen
-skall meddela beslut med anledning av ansökan om godkännande av
-ett tillägg inom sju arbetsdagar från det att ansökan kom in
-till inspektionen. Tillägget skall därefter offentliggöras på
-samma sätt som prospektet har offentliggjorts på.
+prövas av Finansinspektionen, om Sverige är hemmedlemsstat.
+Finansinspektionen skall meddela beslut med anledning av
+ansökan om godkännande av ett tillägg inom sju arbetsdagar från
+det att ansökan kom in till inspektionen. Tillägget skall
+därefter offentliggöras på samma sätt som prospektet har
+offentliggjorts på.
 
 En investerare som innan tillägget till prospektet
 offentliggörs har gjort en anmälan om eller på annat sätt
-samtyckt till köp eller teckning av de finansiella instrument
+samtyckt till köp eller teckning av de överlåtbara värdepapper
 som omfattas av prospektet, har rätt att återkalla sin anmälan
 eller sitt samtycke inom fem arbetsdagar från
-offentliggörandet. Lag (2005:833).
+offentliggörandet. Lag (2007:535).
 
 Erbjudanden till allmänheten och upptagande till handel i annan
 stat inom EES
@@ -733,11 +736,11 @@ stat inom EES
 inspektionen, på begäran av emittenten eller den som har
 upprättat prospektet, överlämna ett intyg om godkännandet till
 behöriga myndigheter i den eller de stater inom EES där ett
-erbjudande av finansiella instrument till allmänheten eller ett
-upptagande av finansiella instrument till handel på en reglerad
-marknad planeras. Intyget och en kopia av prospektet skall
-överlämnas inom tre arbetsdagar från det att begäran kom in
-till inspektionen eller, om begäran bifogats ansökan om
+erbjudande av överlåtbara värdepapper till allmänheten eller
+ett upptagande av överlåtbara värdepapper till handel på en
+reglerad marknad planeras. Intyget och en kopia av prospektet
+skall överlämnas inom tre arbetsdagar från det att begäran kom
+in till inspektionen eller, om begäran bifogats ansökan om
 godkännande, inom en arbetsdag från godkännandet av prospektet.
 
 Av intyget skall det framgå
@@ -756,7 +759,7 @@ och kopian av prospektet.
 
 Bestämmelserna i första-tredje styckena skall tillämpas även
 för eventuella tillägg som upprättas enligt 34 §.
-Lag (2005:833).
+Lag (2007:535).
 
 Prospekt godkända i annan stat inom EES
 
@@ -765,49 +768,53 @@ annan stat inom EES är giltigt i Sverige, om Finansinspektionen
 från den behöriga myndigheten får ett intyg om att prospektet
 har upprättats i enlighet med prospektdirektivet. Lag (2005:833).
 
-Emittenter med säte i en stat utanför EES
+Hemmedlemsstat
 
-37 § När en emittent har sitt säte i en stat utanför EES, får
-Finansinspektionen pröva frågan om godkännande av ett prospekt
-avseende erbjudande av finansiella instrument till allmänheten
-eller upptagande av finansiella instrument till handel på en
-reglerad marknad, om det gäller
+37 § Sverige är hemmedlemsstat, om emittenten har sitt säte i
+Sverige.
 
-1. en emission av icke aktierelaterade finansiella instrument
-som skall erbjudas allmänheten eller har tagits eller skall tas
-upp till handel på en reglerad marknad i Sverige, och
-instrumenten antingen
+Första stycket gäller inte, om en annan stat inom EES har valts
+som hemmedlemsstat i fråga om sådana överlåtbara värdepapper
+som avses i 38 § första stycket. Lag (2007:535).
 
-a) vart och ett har ett nominellt värde som motsvarar minst
+38 § Sverige är hemmedlemsstat, om emittenten, den som lämnar
+erbjudandet eller den som ansöker om att de överlåtbara
+värdepapperen skall tas upp till handel på en reglerad marknad
+väljer Sverige som hemmedlemsstat i fråga om icke
+aktierelaterade överlåtbara värdepapper som antingen
+
+1. vart och ett har ett nominellt värde som motsvarar minst
 1 000 euro, eller
 
-b) innefattar en rätt att förvärva finansiella instrument eller
-få ett kontantbelopp, såvida inte emittenten har gett ut de
-underliggande finansiella instrumenten eller detta har gjorts
-av ett företag inom den koncern där emittenten ingår,
+2. innefattar en rätt att förvärva överlåtbara värdepapper
+eller få ett kontantbelopp, såvida inte emittenten har gett ut
+de underliggande överlåtbara värdepapperen eller detta har
+gjorts av ett företag inom den koncern där emittenten ingår.
 
-2. andra finansiella instrument än sådana som anges i 1 och det
-är i Sverige som de finansiella instrumenten antingen kommer
-att erbjudas till allmänheten första gången efter den 31
+Sverige får väljas som hemmedlemsstat enligt första stycket, om
+det är i Sverige som de överlåtbara värdepapperen skall
+erbjudas allmänheten eller har tagits eller skall tas upp till
+handel på en reglerad marknad. Lag (2007:535).
+
+39 § Sverige är hemmedlemsstat om emittenten inte har säte i en
+stat inom EES och ger ut andra överlåtbara värdepapper än
+sådana som avses i 38 § första stycket, om
+
+1. det är i Sverige som de överlåtbara värdepapperen antingen
+kommer att erbjudas till allmänheten första gången efter den 31
 december 2003 eller kommer att tas upp till handel på en
-reglerad marknad första gången efter det datumet, eller
+reglerad marknad första gången efter det datumet, och
 
-3. sådana finansiella instrument som avses i 2, när
+2. emittenten, den som lämnar erbjudandet eller den som ansöker
+om att de överlåtbara värdepapperen skall tas upp till handel
+på en reglerad marknad väljer Sverige som hemmedlemsstat.
 
-a) emittenten inte själv har valt i vilken stat inom EES som
-frågor om godkännande av prospekt skall prövas, och
-
-b) emittenten senare under samma förutsättningar som i 2 har
-valt att prövningen skall utföras av inspektionen.
-
-Godkännande får ges, om
-
-1. prospektet har utformats i enlighet med reglerna i den stat
-där emittenten har sitt säte, och
-
-2. informationskraven enligt reglerna i den stat där emittenten
-har sitt säte motsvarar kraven i denna lag och
-prospektförordningen. Lag (2005:833).
+Sverige är även hemmedlemsstat i fråga om sådana överlåtbara
+värdepapper som avses i första stycket när någon annan än
+emittenten har valt en hemmedlemsstat inom EES som inte är
+Sverige och emittenten senare, under samma förutsättningar som
+i första stycket, väljer Sverige som hemmedlemsstat.
+Lag (2007:535).
 
 2 a kap. Offentliga uppköpserbjudanden
 
@@ -876,12 +883,12 @@ uppköpserbjudandet kommer att vara tillämplig på de avtal som
 ingås mellan budgivaren och aktieägarna i målbolaget.
 Lag (2006:454).
 
-3 § Om det vederlag som erbjuds utgörs av finansiella
-instrument som är avsedda för allmän omsättning och ges ut
-eller innehas av budgivaren, skall erbjudandehandlingen utöver
-vad som har angetts i 2 § innehålla information som är
-likvärdig med den som enligt 2 kap. och prospektförordningen
-skall finnas i ett prospekt. Lag (2006:454).
+3 § Om det vederlag som erbjuds utgörs av överlåtbara
+värdepapper och ges ut eller innehas av budgivaren, skall
+erbjudandehandlingen utöver vad som har angetts i 2 § innehålla
+information som är likvärdig med den som enligt 2 kap. och
+prospektförordningen skall finnas i ett prospekt.
+Lag (2007:535).
 
 4 § Erbjudandehandlingen skall upprättas på svenska, om inte
 Finansinspektionen i ett enskilt fall beslutar att den får
@@ -897,18 +904,18 @@ Lag (2006:454).
 avses i 3 § inte innehåller information som är likvärdig med
 den som enligt 2 kap. och prospektförordningen skall finnas i
 ett prospekt, skall inspektionen inom tio arbetsdagar från det
-att en fullständig erbjudandehandling kom in till inspektionen,
+att en fullständig erbjudandehandling kom in till inspektionen
 meddela beslut om att ett prospekt skall upprättas enligt 2
 kap. Tidsfristen för Finansinspektionen att meddela ett beslut
 är i stället tjugo arbetsdagar från det att en fullständig
 erbjudandehandling kom in till inspektionen, om vederlaget
-utgörs av finansiella instrument som ges ut av en emittent som
+utgörs av överlåtbara värdepapper som ges ut av en emittent som
 
-1. inte tidigare har erbjudit finansiella instrument till
+1. inte tidigare har erbjudit överlåtbara värdepapper till
 allmänheten, och
 
-2. inte tidigare har fått finansiella instrument upptagna till
-handel på en reglerad marknad.  Lag (2006:454).
+2. inte tidigare har fått överlåtbara värdepapper upptagna till
+handel på en reglerad marknad. Lag (2007:535).
 
 7 § Om en erbjudandehandling behöver kompletteras, skall
 Finansinspektionen snarast och senast inom tio arbetsdagar från
@@ -929,18 +936,18 @@ innan den har godkänts och registrerats. Lag (2006:454).
 10 § En erbjudandehandling som har godkänts av en behörig
 myndighet i ett annat land inom EES är giltig vid ett
 offentligt uppköpserbjudande som avser aktier i ett utländskt
-aktiebolag vars aktier är upptagna till handel på en börs eller
-auktoriserad marknadsplats i Sverige.
+aktiebolag vars aktier är upptagna till handel på en reglerad
+marknad i Sverige.
 
 Finansinspektionen får besluta att en sådan erbjudandehandling
 skall översättas till svenska.
 
 Finansinspektionen får också besluta att en sådan
 erbjudandehandling skall innehålla uppgifter om hur ägare till
-aktier som är noterade på en börs eller auktoriserad
-marknadsplats i Sverige skall gå till väga för att acceptera
-erbjudandet och få vederlaget utbetalat till sig samt om
-beskattning av vederlaget. Lag (2006:454).
+aktier som är upptagna till handel på en reglerad marknad i
+Sverige skall gå till väga för att acceptera erbjudandet och få
+vederlaget utbetalat till sig samt om beskattning av
+vederlaget. Lag (2007:535).
 
 11 § Vad som sägs i 2 kap. 29-31 §§ och 34 § skall också gälla
 för erbjudandehandlingar. Lag (2006:454).
@@ -969,19 +976,22 @@ upprättas på ett annat språk. Lag (2005:833).
 3 § Om Finansinspektionen finner att dokumentet inte är
 likvärdigt med ett prospekt, skall inspektionen inom tio
 arbetsdagar från det att ett fullständigt dokument kom in till
-inspektionen, meddela beslut om att ett prospekt skall
-upprättas. Om ett överlåtande bolag och, vid absorption, det
-övertagande bolaget inte tidigare har erbjudit finansiella
-instrument till allmänheten och inte tidigare har fått
-finansiella instrument upptagna till handel på en reglerad
-marknad, är tidsfristen för Finansinspektionen att meddela ett
-beslut i stället tjugo arbetsdagar från det att ett
-fullständigt dokument kom in till inspektionen.
+inspektionen meddela beslut om att ett prospekt skall
+upprättas. Tidsfristen för Finansinspektionen att meddela ett
+beslut är i stället tjugo arbetsdagar från det att ett
+fullständigt dokument kom in till inspektionen, om ett
+överlåtande bolag och, vid absorption, det övertagande bolaget
+
+1. inte tidigare har erbjudit överlåtbara värdepapper till
+allmänheten, och
+
+2. inte tidigare har fått överlåtbara värdepapper upptagna till
+handel på en reglerad marknad.
 
 Om ett dokument behöver kompletteras, skall Finansinspektionen
 snarast och senast inom tio arbetsdagar från det att dokumentet
 kom in till inspektionen, underrätta ingivaren och begära
-nödvändiga kompletteringar. Lag (2005:833).
+nödvändiga kompletteringar. Lag (2007:535).
 
 4 § Om Finansinspektionen inte har meddelat beslut enligt 3 §,
 skall dokumentet hållas tillgängligt för aktieägarna i
@@ -1001,44 +1011,7 @@ Lag (2005:833).
 3 kap. Förfoganden över finansiella instrument som tillhör någon
 annan
 
-1 § /Upphör att gälla U:2007-02-01/
-Om ett företag som står under tillsyn av Finansinspektionen
-vill ingå avtal med ägaren till ett finansiellt instrument om
-att företaget skall ha rätt att förfoga över det finansiella
-instrumentet för egen räkning, skall avtalet slutas skriftligen
-i en för ändamålet särskilt upprättad handling som i någon
-läsbar och varaktig form är tillgänglig för parterna. Detsamma
-gäller om företaget medverkar till ett sådant avtal mellan
-andra parter. Det förfogande som avses skall anges noggrant.
-
-Första stycket gäller inte om företagets motpart eller parterna
-i ett avtal som företaget medverkar till är
-
-1. ett annat företag som står under tillsyn av
-Finansinspektionen eller ett utländskt företag inom EES som i
-sitt hemland får driva jämförbar verksamhet och som står under
-betryggande tillsyn av myndighet eller annat behörigt organ,
-
-2. Riksgäldskontoret eller ett utländskt offentligt organ inom
-EES som är ansvarigt för eller deltar i förvaltningen av
-statsskulden eller är behörigt att föra konton för kunders
-räkning,
-
-3. Riksbanken eller en utländsk centralbank inom EES, inklusive
-Europeiska Centralbanken,
-
-4. en multilateral utvecklingsbank, Banken för internationell
-betalningsutjämning, Internationella valutafonden eller
-Europeiska investeringsbanken, eller
-
-5. ett sådant kreditinstitut som anges i förteckningen i
-artikel 2.3 i Europaparlamentets och rådets direktiv 2000/12/EG
-av den 20 mars 2000 om rätten att starta och driva verksamhet i
-kreditinstitut senast ändrat genom Europeiska gemenskapernas
-kommissions direktiv 2004/69/EG. Lag (2005:199).
-
-1 § /Träder i kraft I:2007-02-01/
-Om ett företag som står under tillsyn av Finansinspektionen
+1 § Om ett företag som står under tillsyn av Finansinspektionen
 vill ingå avtal med ägaren till ett finansiellt instrument om
 att företaget skall ha rätt att förfoga över det finansiella
 instrumentet för egen räkning, skall avtalet slutas skriftligen
@@ -1076,43 +1049,7 @@ kreditinstitut (omarbetning). Lag (2006:1376).
 finansiellt instrument om panten inte löses i tid behöver inte ingås på
 det sätt som anges i 1 §.
 
-3 § /Upphör att gälla U:2007-02-01/
-Om ett sådant företag som avses i 1 § första stycket har
-fått finansiella instrument som pant, får företaget i sin tur
-pantsätta eller överlåta panträtten bara tillsammans med den
-fordran som de utgör pant för. För återpantsättning eller
-överlåtelse på annat sätt fordras sådant avtal som anges i 1 §
-första stycket. Återpantsättning eller överlåtelse får inte ske
-för högre belopp eller på strängare villkor än vad som gäller
-hos panthavaren.
-
-Första stycket gäller inte om pantsättaren är
-
-1. ett annat företag som står under tillsyn av
-Finansinspektionen eller ett utländskt företag inom EES som i
-sitt hemland får driva jämförbar verksamhet och som står under
-betryggande tillsyn av myndighet eller annat behörigt organ,
-
-2. Riksgäldskontoret eller ett utländskt offentligt organ inom
-EES som är ansvarigt för eller deltar i förvaltningen av
-statsskulden eller är behörigt att föra konton för kunders
-räkning,
-
-3. Riksbanken eller en utländsk centralbank inom EES, inklusive
-Europeiska Centralbanken,
-
-4. en multilateral utvecklingsbank, Banken för internationell
-betalningsutjämning, Internationella valutafonden eller
-Europeiska investeringsbanken, eller
-
-5. ett sådant kreditinstitut som anges i förteckningen i
-artikel 2.3 i Europaparlamentets och rådets direktiv 2000/12/EG
-av den 20 mars 2000 om rätten att starta och driva verksamhet i
-kreditinstitut senast ändrat genom Europeiska gemenskapernas
-kommissions direktiv 2004/69/EG. Lag (2005:199).
-
-3 § /Träder i kraft I:2007-02-01/
-Om ett sådant företag som avses i 1 § första stycket har
+3 § Om ett sådant företag som avses i 1 § första stycket har
 fått finansiella instrument som pant, får företaget i sin tur
 pantsätta eller överlåta panträtten bara tillsammans med den
 fordran som de utgör pant för. För återpantsättning eller
@@ -1145,115 +1082,388 @@ artikel 2 i Europaparlamentets och rådets direktiv 2006/48/EG
 av den 14 juni 2006 om rätten att starta och driva verksamhet i
 kreditinstitut (omarbetning). Lag (2006:1376).
 
-4 § Regeringen eller, efter regeringens bemyndigande, Finansinspektionen
-får meddela föreskrifter om villkor för sådana avtal som avses i 1
-och 3 §§.
+4 § Har upphävts genom lag (2007:365).
 
-4 kap. Offentliggörande av aktieinnehav
+4 kap. Offentliggörande av aktieinnehav m.m.
 
-1 § Den som har förvärvat eller överlåtit aktier i ett svenskt
-aktiebolag, som har gett ut aktier vilka är inregistrerade vid en börs
-belägen eller verksam i ett land inom EES eller som utan att vara
-inregistrerade är noterade vid en börs eller auktoriserad marknadsplats
-här i landet, skall inom sju dagar därefter skriftligen anmäla förvärvet
-eller överlåtelsen till bolaget och till svensk börs eller auktoriserad
-marknadsplats där aktier i bolaget är noterade eller, om aktierna inte
-är noterade här i landet, till Finansinspektionen, om
+Tillämpningsområde m.m.
 
-1. förvärvet medför att förvärvarens andel av röstetalet för samtliga
-aktier i bolaget uppnår eller överstiger någon av gränserna 10, 20, 33
-1/3, 50 och 66 2/3 procent,
+1 § Bestämmelserna i 3-18, 20 och 21 §§ skall tillämpas i fråga
+om aktier utgivna av ett svenskt aktiebolag vars aktier är
+upptagna till handel på en reglerad marknad.
 
-2. överlåtelsen medför att överlåtarens andel av röstetalet för samtliga
-aktier i bolaget går ned under någon av gränserna i 1. Lag (1992:1713).
+Bestämmelser om aktier utgivna av vissa aktiebolag som inte har
+säte i en stat inom EES finns i 22-24 §§.
 
-2 § Vid tillämpning av 1 § skall följande aktier räknas som
-förvärvarens eller överlåtarens egna, nämligen sådana som ägs
-av
+Andra aktiebolag än sådana som avses i första eller andra
+stycket vars aktier är upptagna till handel på en reglerad
+marknad i Sverige skall offentliggöra information motsvarande
+den som anges i detta kapitel i enlighet med offentlig
+reglering som bygger på öppenhetsdirektivet och som har
+antagits av utgivarens hemmedlemsstat inom EES.
+Lag (2007:535).
 
-1. företag inom samma koncern som förvärvaren eller
-överlåtaren,
+2 § Det som föreskrivs om aktier i 1, 3-18 och 22 §§ skall
+också tillämpas på
 
-2. den som innehar aktier i bolaget för förvärvarens eller
-överlåtarens räkning,
+1. depåbevis som medför rätt att rösta för de aktier som
+depåbevisen avser, och
 
-3. den som med förvärvaren eller överlåtaren har träffat
-skriftlig överenskommelse att genom samordnat utövande av
+2. finansiella instrument som ger rätt för innehavaren att
+förvärva aktier som redan har getts ut av sådana bolag som
+avses i 1 § första eller andra stycket.
+
+Om ett sådant finansiellt instrument som nämns i första stycket
+2 förfaller, skall detta anses som en överlåtelse av det
+finansiella instrumentet.
+
+Regeringen eller den myndighet som regeringen bestämmer
+meddelar föreskrifter om vilka finansiella instrument som avses
+i första stycket 2. Lag (2007:365).
+
+Anmälningsskyldighet
+
+3 § Den som innehar aktier (den anmälningsskyldige) skall under
+de förutsättningar som anges i 5 § skriftligen anmäla en
+ändring av innehavet till aktiebolaget och Finansinspektionen.
+Lag (2007:365).
+
+4 § Vid tillämpningen av 5 § skall till den anmälningsskyldiges
+innehav räknas aktier som denne innehar i eget namn och för
+egen räkning eller i eget namn för någon annans räkning.
+
+Till den anmälningsskyldiges innehav skall även räknas sådana
+aktier som
+
+1. innehas av någon annan med vilken den anmälningsskyldige har
+träffat en överenskommelse att genom samordnat utövande av
 rösträtten inta en långsiktig gemensam hållning i fråga om
 bolagets förvaltning,
 
-4. den för vars aktier förvärvaren eller överlåtaren eller
-något företag inom samma koncern som förvärvaren eller
-överlåtaren har fått eller kommer att få utöva rösträtten,
+2. innehas av någon annan för den anmälningsskyldiges räkning,
+om den anmälningsskyldige kontrollerar hur rösträtterna för
+aktierna skall utövas,
 
-5. make eller sambo till förvärvaren eller överlåtaren,
+3. innehas av ett dotterföretag till den anmälningsskyldige,
 
-6. omyndiga barn som står under förvärvarens eller överlåtarens
-vårdnad.
+4. innehas av någon annan som enligt ett avtal med den
+anmälningsskyldige för en begränsad tid och mot ersättning har
+överfört rätten att rösta för aktierna till den
+anmälningsskyldige,
 
-Med koncern avses i denna paragraf detsamma som i 1 kap. 11 och
-12 §§ aktiebolagslagen (2005:551). Vad som där sägs om
-moderbolag skall även tillämpas på fysiska personer och andra
-juridiska personer än aktiebolag. Lag (2005:912).
+5. den anmälningsskyldige har tagit emot som säkerhet, om den
+anmälningsskyldige kontrollerar hur rösträtterna för aktierna
+utövas och har förklarat sig ha för avsikt att utnyttja dem,
 
-2 a § Företag som ingår i en sådan koncern som avses i 2 § andra
-stycket är befriat från anmälningsskyldighet enligt 1 §, om anmälan
-görs av moderföretaget eller, om detta i sin tur är ett
-dotterföretag, av dess eget moderföretag. Lag (1995:1599).
+6. den anmälningsskyldige har en livslång dispositionsrätt
+till, om denne kontrollerar hur rösträtterna för aktierna skall
+utövas,
 
-3 § Anmälan enligt 1 § skall innehålla uppgift om
+7. har deponerats hos den anmälningsskyldige, om denne själv
+kontrollerar hur rösträtterna för aktierna skall utövas,
 
-1. den anmälningsskyldiges namn och personnummer eller annat
-identifieringsnummer eller, om den anmälningsskyldige är en juridisk
-person, firma, organisationsnummer eller annat identifieringsnummer och
-adress,
+8. den anmälningsskyldige har fått fullmakt att utöva
+rösträtten för, om denne själv kontrollerar hur rösträtterna
+för aktierna skall utövas,
 
-2. antal och de slag av aktier som den anmälningsskyldige förfogar över,
+9. innehas av make eller sambo till den anmälningsskyldige,
 
-3. storleken av ökningen eller minskningen av aktieinnehavet,
+10. innehas av omyndiga barn som står under den
+anmälningsskyldiges vårdnad, och
 
-4. tidpunkten för ändringen eller ändringarna. Lag (1992:558).
+11. innehas av andra närstående till den anmälningsskyldige än
+sådana som avses i 9 och 10, om de har gemensamt hushåll med
+honom eller henne sedan minst ett år.
 
-4 § Aktiebolaget skall, om börsen eller den auktoriserade
-marknadsplatsen inte har offentliggjort uppgifterna i en anmälan inom
-nio dagar från det att bolaget mottog denna, självt offentliggöra dessa
-uppgifter. Lag (1992:558).
+Sådana aktier som avses i andra stycket 4-8 skall inte räknas
+in i innehavet för den som inte längre kontrollerar hur
+rösträtterna skall utövas.
 
-5 § Börsen, den auktoriserade marknadsplatsen eller, om aktierna inte
-är noterade här i landet, Finansinspektionen får besluta att ett
-offentliggörande enligt 4 § inte behöver ske om
+Sådana aktier som avses i andra stycket 9-11 skall inte räknas
+in i innehavet för den som inte innehar några aktier enligt
+första stycket eller andra stycket 1-8.
 
-1. det strider mot något allmänt intresse,
+Med dotterföretag avses i denna paragraf detsamma som i 1 kap.
+11 och 12 §§ aktiebolagslagen (2005:551). Det som föreskrivs
+där om moderbolag skall även tillämpas på fysiska personer och
+andra juridiska personer än aktiebolag. Lag (2007:365).
 
-2. det kan allvarligt skada aktiebolaget, såvida inte ett underlåtande
-att offentliggöra skulle kunna vilseleda allmänheten om bolagets ställning,
+5 § En ändring av ett innehav skall anmälas om ändringen medför
+att den andel av samtliga aktier i bolaget eller av röstetalet
+för samtliga aktier i bolaget som innehavet motsvarar
 
-3. ett värdepappersinstitut förvärvat eller överlåtit aktierna i sin
-värdepappersrörelse.
+1. uppnår eller överstiger någon av gränserna 5, 10, 15, 20,
+25, 30, 50, 66 2/3 och 90 procent, eller
 
-Aktiebolaget skall omedelbart underrättas om ett beslut om undantag
-enligt första stycket. Om beslutet fattats av en börs eller auktoriserad
-marknadsplats skall det också omedelbart tillställas Finansinspektionen
-som har att pröva om offentliggörande ändå skall ske. Beslutar inspektionen
-att uppgifterna skall offentliggöras, skall börsen eller marknadsplatsen
-göra detta omedelbart. Lag (1992:1713).
+2. går ned under någon av gränserna i 1.
 
-6 § Ett svenskt aktiebolag som förvärvar eller överlåter egna
-aktier skall anmäla förvärvet eller överlåtelsen till svensk
-börs eller auktoriserad marknadsplats där aktierna är noterade.
-Om handeln sker i återköpsprogram enligt förordningen (EG) nr
-2273/2003 av den 22 december 2003 om genomförande av
-Europaparlamentets och rådets direktiv 2003/6/EG när det gäller
-undantag för återköpsprogram och stabilisering av finansiella
-instrument, skall anmälan i stället göras till
-Finansinspektionen.
+En beräkning enligt första stycket av antalet aktier eller
+röstetalet skall grundas på de uppgifter som bolaget har
+offentliggjort enligt 9 § första stycket. Vid beräkningen skall
+även sådana aktier som inte får företrädas på en bolagsstämma
+beaktas.
 
-Regeringen eller, efter regeringens bemyndigande,
-Finansinspektionen får meddela föreskrifter om i vilken
-omfattning och på vilket sätt uppgifter om förvärvet eller
-överlåtelsen skall offentliggöras samt om hur skyldigheten att
-anmäla förvärv och överlåtelser till Finansinspektionen skall
-fullgöras. Lag (2005:378).
+När ett finansiellt instrument som avses i 2 § första stycket 2
+utnyttjas för förvärv av aktier, skall ändringen i innehavet
+anmälas till bolaget och Finansinspektionen, om den andel av
+samtliga aktier i bolaget eller av röstetalet för samtliga
+aktier i bolaget som innehavet motsvarar därigenom uppnår eller
+överstiger någon av gränserna i första stycket 1. Detta gäller
+även om innehavet av det finansiella instrumentet har anmälts
+enligt första stycket 1. Lag (2007:365).
+
+6 § Ett dotterföretag är befriat från anmälningsskyldighet om
+anmälan i stället görs av moderföretaget eller, om detta i sin
+tur är ett dotterföretag, av dess eget moderföretag.
+Lag (2007:365).
+
+7 § Om anmälningsskyldighet har uppkommit genom att någon fått
+fullmakt att rösta för aktier vid en bolagsstämma, behöver en
+ny anmälan inte göras när fullmakten efter bolagsstämman upphör
+att gälla, under förutsättning att det i den anmälan som
+gjordes i samband med att fullmakten lämnades angavs vilken
+andel av det totala antalet aktier och röster i bolaget som
+skulle komma att innehas efter fullmaktens upphörande.
+Lag (2007:365).
+
+8 § Om flera personer blir anmälningsskyldiga på grund av samma
+händelse, får de göra en gemensam anmälan. Lag (2007:365).
+
+9 § Om ett aktiebolag som avses i 1 § första stycket ökar eller
+minskar det totala antalet aktier eller röster i bolaget, skall
+bolaget den sista handelsdagen i den kalendermånad då ökningen
+eller minskningen har skett offentliggöra uppgifter om
+ändringen.
+
+En anmälningsskyldig skall skriftligen anmäla till bolaget och
+Finansinspektionen om ökningen eller minskningen medför att den
+andel av det totala antalet aktier eller röster i bolaget som
+innehavet motsvarar
+
+1. uppnår eller överstiger någon av gränserna i 5 § första
+stycket 1, eller
+
+2. går ned under någon av dessa gränser.
+
+Vid bedömningen av om anmälningsskyldighet uppkommer skall 4 §
+och 5 § andra stycket tillämpas. Lag (2007:365).
+
+Tidsfrister för anmälan
+
+10 § En anmälan enligt 3 § skall ha kommit in till bolaget och
+Finansinspektionen senast
+
+1. handelsdagen efter den dag då den anmälningsskyldige har
+ingått avtal om förvärv eller överlåtelse av aktier eller någon
+annan ändring i aktieinnehavet har skett,
+
+2. i de fall som avses i 4 § andra stycket 1-8, handelsdagen
+efter den dag då ändringen i aktieinnehavet har skett, eller
+
+3. i de fall som avses i 4 § andra stycket 9-11, handelsdagen
+efter den dag då den anmälningsskyldige har fått vetskap om den
+närståendes innehav eller ändringen av det.
+
+En anmälan enligt 9 § andra stycket skall ha kommit in till
+bolaget och Finansinspektionen senast handelsdagen efter den
+dag då bolaget har offentliggjort uppgifter om ökningen eller
+minskningen av antalet aktier eller röster enligt 9 § första
+stycket. Lag (2007:365).
+
+Offentliggörande av uppgifter i en anmälan
+
+11 § Finansinspektionen skall offentliggöra uppgifterna i en
+anmälan enligt 3 § eller 9 § andra stycket senast klockan tolv
+handelsdagen efter den dag då anmälan kom in till inspektionen.
+
+Ytterligare bestämmelser om offentliggörande finns i 20 §.
+Lag (2007:365).
+
+Undantag från anmälningsskyldigheten
+
+12 § En anmälan enligt 3 § eller 9 § andra stycket behöver inte
+göras för
+
+1. aktier som förvärvas bara för att användas för clearing och
+avveckling av transaktioner och som i detta syfte innehas under
+en kort tid,
+
+2. aktier som förvaltas av någon i eget namn men för någon
+annans räkning, under förutsättning att förvaltaren bara får
+utöva rösträtten för aktierna enligt skriftliga instruktioner,
+eller
+
+3. aktier som ställs till förfogande för eller tillhandahålls
+av en nationell centralbank som ingår i det europeiska
+centralbankssystemet när banken fullgör sina uppgifter som
+monetär myndighet, förutsatt att transaktionen i fråga är
+kortvarig och att den rösträtt som hör till aktierna inte
+utnyttjas. Lag (2007:365).
+
+13 § Vid tillämpningen av bestämmelserna om
+anmälningsskyldighet i 3 § och 9 § andra stycket skall aktier
+som ingår i handelslagret hos ett svenskt eller utländskt
+kreditinstitut som driver finansieringsrörelse, ett
+värdepappersinstitut eller ett utländskt värdepappersföretag
+inte räknas med, om
+
+1. aktierna motsvarar högst 5 procent av det totala antalet
+aktier eller röster i aktiebolaget, och
+
+2. rösträtten för aktierna inte utnyttjas eller används på
+annat sätt för att ingripa i förvaltningen av bolaget.
+Lag (2007:365).
+
+14 § Skyldigheten att enligt 3 § eller 9 § andra stycket anmäla
+att andelen av rösterna eller det totala antalet aktier har
+uppnått, överstigit eller gått ned under 5 procent gäller inte
+för en marknadsgarant om
+
+1. aktierna förvärvas eller avyttras i denna egenskap,
+
+2. marknadsgaranten har tillstånd enligt 2 kap. 1 § 3 lagen
+(2007:528) om värdepappersmarknaden eller motsvarande tillstånd
+i ett annat land inom EES, och
+
+3. marknadsgaranten inte ingriper i förvaltningen av
+aktiebolaget eller utövar något inflytande över detta i syfte
+att bolaget skall köpa aktier utgivna av bolaget eller stödja
+aktiepriset.
+
+Med marknadsgarant avses någon som på finansmarknaderna har
+åtagit sig att fortlöpande handla för egen räkning genom att
+köpa och sälja finansiella instrument med utnyttjande av eget
+kapital och till priser som fastställts av marknadsgaranten
+själv. Lag (2007:535).
+
+Undantag för vissa moderföretag
+
+15 § Vid tillämpningen av 3 och 4 §§ behöver aktier som innehas
+av ett dotterföretag inte räknas in i moderföretagets innehav i
+sådana fall som avses i 16 och 17 §§. Lag (2007:365).
+
+16 § Ett moderföretag till ett fondbolag behöver inte lägga
+samman sitt innehav av aktier med aktier som ingår i en
+värdepappersfond som förvaltas av bolaget enligt lagen
+(2004:46) om investeringsfonder, om bolaget utnyttjar
+rösträtten för aktierna oberoende av moderföretaget.
+
+Första stycket skall också tillämpas på moderföretag till ett
+sådant förvaltningsbolag som avses i 1 kap. 6 § första stycket
+lagen om investeringsfonder, i fråga om aktier som bolaget
+förvaltar i enlighet med bestämmelserna i rådets direktiv
+85/611/EEG av den 20 december 1985 om samordning av lagar och
+andra författningar som avser företag för kollektiva
+investeringar i överlåtbara värdepapper (fondföretag), senast
+ändrat genom Europaparlamentets och rådets direktiv 2005/1/EG.
+Detsamma gäller aktier som förvaltas av ett motsvarande
+förvaltningsbolag som inte har säte i en stat inom EES.
+Lag (2007:365).
+
+17 § Ett moderföretag till ett värdepappersinstitut som har
+tillstånd enligt 2 kap. 1 § 4 lagen (2007:528) om
+värdepappersmarknaden behöver inte lägga samman sitt innehav av
+aktier med innehav av aktier som värdepappersinstitutet
+förvaltar för enskilda kunder, om värdepappersinstitutet
+
+1. bara får utnyttja rösträtten för aktierna enligt skriftliga
+instruktioner eller ser till att individuella
+portföljförvaltningstjänster utförs oberoende av alla andra
+tjänster och i enlighet med 8 kap. 1, 10 och 21-23 §§ lagen om
+värdepappersmarknaden, och
+
+2. utnyttjar rösträtten för aktierna oberoende av
+moderföretaget.
+
+Första stycket skall också tillämpas på ett moderföretag till
+ett utländskt värdepappersföretag som avses i 4 kap. 1 § lagen
+om värdepappersmarknaden som har tillstånd att tillhandahålla
+sådan portföljförvaltning som avses i artikel 4.1.9 i
+Europaparlamentets och rådets direktiv 2004/39/EG av den 21
+april 2004 om marknader för finansiella instrument och om
+ändring av rådets direktiv 85/611/EEG och 93/6/EEG och
+Europaparlamentets och rådets direktiv 2000/12/EG samt
+upphävande av rådets direktiv 93/22/EEG, senast ändrat genom
+Europaparlamentets och rådets direktiv 2006/31/EG, i fråga om
+aktier som värdepappersföretaget förvaltar för enskilda kunder.
+Detsamma gäller aktier som förvaltas av ett motsvarande
+utländskt värdepappersföretag som inte har säte i en stat inom
+EES. Lag (2007:535).
+
+Förvärv och överlåtelse av egna aktier
+
+18 § Ett aktiebolag som avses i 1 § första stycket och som
+förvärvar eller överlåter egna aktier skall offentliggöra
+uppgifter om detta, om förvärvet eller överlåtelsen medför att
+den andel av aktierna i bolaget som innehas av bolaget självt
+eller den andel av det totala antalet röster i bolaget som de
+egna aktierna representerar uppnår, överstiger eller går ned
+under någon av gränserna i 5 § första stycket 1.
+
+Uppgifterna skall offentliggöras senast klockan tolv
+handelsdagen efter förvärvet eller överlåtelsen.
+Lag (2007:365).
+
+19 § Ett svenskt aktiebolag som förvärvar eller överlåter egna
+aktier skall anmäla förvärvet eller överlåtelsen till den börs
+som driver den reglerade marknad där aktierna är upptagna till
+handel. Om handeln sker i återköpsprogram enligt kommissionens
+förordning (EG) nr 2273/2003 av den 22 december 2003 om
+genomförande av Europaparlamentets och rådets direktiv
+2003/6/EG när det gäller undantag för återköpsprogram och
+stabilisering av finansiella instrument, skall anmälan i
+stället göras till Finansinspektionen eller, om det framgår av
+föreskrifter meddelade med stöd av 7 kap. 1 § 5, till den börs
+som driver den reglerade marknad där aktierna är upptagna till
+handel. Lag (2007:535).
+
+Offentliggörande av information
+
+20 § När information offentliggörs enligt 9 § första stycket,
+11 § eller 18 §, skall den snabbt och på ett icke-
+diskriminerande sätt bli tillgänglig för allmänheten inom EES.
+Lag (2007:365).
+
+Finansinspektionen tar emot och lagrar offentliggjord
+information
+
+21 § Information som offentliggörs enligt 9 § första stycket
+eller 18 § skall samtidigt lämnas till Finansinspektionen.
+
+Information som lämnas till Finansinspektionen enligt första
+stycket och information som offentliggörs av inspektionen
+enligt 11 § skall lagras elektroniskt enligt 17 kap. 4 § lagen
+(2007:528) om värdepappersmarknaden. Lag (2007:535).
+
+Aktier utgivna av bolag utanför EES
+
+22 § Bestämmelserna i 3-18, 20 och 21 §§ skall, om inte annat
+framgår av 23 och 24 §§, tillämpas också i fråga om aktier som
+har getts ut av ett aktiebolag som
+
+1. inte har säte i en stat inom EES,
+
+2. har sina aktier upptagna till handel på en reglerad marknad,
+och
+
+3. till följd av detta, eller på grund av att aktierna har
+erbjudits till allmänheten i Sverige, är skyldigt att ge in ett
+dokument enligt 6 kap. 1 b § till Finansinspektionen.
+Lag (2007:535).
+
+23 § Bestämmelserna i 9 § första stycket om offentliggörande av
+ändringar i antalet aktier eller röster i aktiebolaget behöver
+inte iakttas av ett sådant bolag som avses i 22 § om det
+uppfyller de krav som uppställs i en offentlig reglering i en
+stat utanför EES och om kraven motsvarar dem som följer av
+artikel 15 i öppenhetsdirektivet. Lag (2007:365).
+
+24 § Bestämmelserna i 18 § om offentliggörande av vissa förvärv
+eller överlåtelser av egna aktier behöver inte iakttas av ett
+sådant bolag som avses i 22 § om det uppfyller de krav som
+uppställs i en offentlig reglering i en stat utanför EES och om
+kraven motsvarar dem som följer av artikel 14 i
+öppenhetsdirektivet. Lag (2007:365).
 
 5 kap. Avräkning, tilläggssäkerheter och tillämplig lag
 
@@ -1305,9 +1515,7 @@ ställs i 1 §. Lag (2005:378).
 3 § Bestämmelserna i 1 och 2 §§ gäller bara om informationen är
 avsedd för spridning till allmänheten. Lag (2005:378).
 
-4 § Regeringen eller, efter regeringens bemyndigande,
-Finansinspektionen får meddela föreskrifter om information
-enligt 1 och 2 §§. Lag (2005:378).
+4 § Har upphävts genom lag (2007:365).
 
 6 kap. Tillsyn m.m.
 
@@ -1316,45 +1524,41 @@ Upplysningsskyldighet
 1 § Finansinspektionen övervakar efterlevnaden av bestämmelserna
 i denna lag.
 
-1 a § För övervakningen av efterlevnaden av bestämmelserna i
-denna lag, lagen (1991:981) om värdepappersrörelse, lagen
-(1992:543) om börs- och clearingverksamhet, lagen (2000:1087)
-om anmälningsskyldighet för vissa innehav av finansiella
-instrument, lagen (2005:377) om straff för marknadsmissbruk vid
-handel med finansiella instrument, prospektförordningen och
-lagen (2006:451) om offentliga uppköpserbjudanden på
-aktiemarknaden, får Finansinspektionen för sin tillsyn anmoda
+1 a § För övervakningen av att bestämmelserna i denna lag,
+lagen (2000:1087) om anmälningsskyldighet för vissa innehav av
+finansiella instrument, lagen (2005:377) om straff för
+marknadsmissbruk vid handel med finansiella instrument,
+prospektförordningen och lagen (2006:451) om offentliga
+uppköpserbjudanden på aktiemarknaden följs, får
+Finansinspektionen begära att
 
-1. ett företag eller någon annan att tillhandahålla uppgifter,
+1. ett företag eller någon annan tillhandahåller uppgifter,
 handlingar eller annat,
 
-2. den som förväntas kunna lämna upplysningar i saken att
-inställa sig till förhör på tid och plats som inspektionen
-bestämmer.
+2. den som förväntas kunna lämna upplysningar i saken inställer
+sig till förhör på tid och plats som inspektionen bestämmer.
 
-Första stycket gäller inte i den utsträckning en anmodan skulle
-strida mot den i lag reglerade tystnadsplikten för advokater.
+Första stycket gäller inte i den utsträckning uppgiftslämnandet
+skulle strida mot den i lag reglerade tystnadsplikten för
+advokater.
 
-Vid tillämpningen av 2 och 2 b kap. gäller inte första stycket
-2.
-
-Regeringen eller den myndighet regeringen bestämmer får meddela
-närmare föreskrifter om hur uppgiftsskyldigheten i första
-stycket skall fullgöras. Lag (2006:454).
+Vid tillämpningen av 2, 2 b och 4 kap. gäller inte första
+stycket 2. Lag (2007:535).
 
 Årlig information
 
-1 b § En emittent vars finansiella instrument har tagits upp
-till handel på en reglerad marknad skall varje år sammanställa
-ett dokument som innehåller eller hänvisar till all den
-information som emittenten till följd av upptagandet har
-offentliggjort under de senaste tolv månaderna. Om det i
-dokumentet hänvisas till information i ett annat dokument,
-skall det anges var det dokumentet finns att få.
+1 b § En emittent vars överlåtbara värdepapper har tagits upp
+till handel på en reglerad marknad och vars hemmedlemsstat är
+Sverige skall varje år sammanställa ett dokument som innehåller
+eller hänvisar till all den information som emittenten till
+följd av upptagandet har offentliggjort under de senaste tolv
+månaderna. Om det i dokumentet hänvisas till information i ett
+annat dokument, skall det anges var det dokumentet finns att
+få.
 
 Regeringen eller den myndighet som regeringen bestämmer
-meddelar närmare föreskrifter om vilken information dokumentet
-skall innehålla.
+meddelar föreskrifter om vilken information dokumentet skall
+innehålla.
 
 Bestämmelser om offentliggörandet av dokumentet finns i
 prospektförordningen. Dokumentet skall ges in till
@@ -1362,39 +1566,49 @@ Finansinspektionen inom den tid som anges i artikel 27 i
 förordningen.
 
 Skyldighet att upprätta ett dokument enligt första stycket
-skall inte gälla i fråga om icke aktierelaterade finansiella
-instrument som vart och ett har ett nominellt värde som
-motsvarar minst 50 000 euro. Lag (2005:833).
+skall inte gälla i fråga om
+
+1. sådana överlåtbara värdepapper som avses i 2 kap. 2 §, och
+
+2. icke aktierelaterade överlåtbara värdepapper som vart och
+ett har ett nominellt värde som motsvarar minst 50 000 euro.
+
+Skyldighet att upprätta ett dokument enligt första stycket
+skall inte heller gälla i fråga om sådana överlåtbara
+värdepapper som avses i 2 kap. 3 §, om inte bestämmelserna i
+denna lag och prospektförordningen har blivit tillämpliga
+enligt 2 kap. 8 §. Lag (2007:535).
 
 Förbud
 
 1 c § Finansinspektionen får tillfälligt förbjuda ett
-erbjudande av finansiella instrument till allmänheten, ett
-upptagande av finansiella instrument till handel på en reglerad
-marknad eller ett offentligt uppköpserbjudande, om inspektionen
-har skälig anledning att anta att erbjudandet, upptagandet till
-handel eller uppköpserbjudandet strider mot bestämmelserna i
-denna lag eller prospektförordningen. Ett sådant förbud får
-gälla under högst tio arbetsdagar.
+erbjudande av överlåtbara värdepapper till allmänheten, ett
+upptagande av överlåtbara värdepapper till handel på en
+reglerad marknad eller ett offentligt uppköpserbjudande, om
+inspektionen har skälig anledning att anta att erbjudandet,
+upptagandet till handel eller uppköpserbjudandet strider mot
+bestämmelserna i denna lag eller prospektförordningen. Ett
+sådant förbud får gälla under högst tio arbetsdagar.
 
 Finansinspektionen får permanent förbjuda ett erbjudande av
-finansiella instrument till allmänheten, om inspektionen finner
-att bestämmelserna i denna lag eller prospektförordningen har
-överträtts.
+överlåtbara värdepapper till allmänheten, om inspektionen
+finner att bestämmelserna i denna lag eller
+prospektförordningen har överträtts.
 
 Finansinspektionen får permanent förbjuda ett offentligt
 uppköpserbjudande, om inspektionen finner att bestämmelserna i
 lagen (2006:451) om offentliga uppköpserbjudanden på
-aktiemarknaden har överträtts. Lag (2006:454).
+aktiemarknaden har överträtts. Lag (2007:535).
 
 1 d § Finansinspektionen får förbjuda reklam som avser ett
-erbjudande av finansiella instrument till allmänheten, ett
-upptagande av finansiella instrument till handel på en reglerad
-marknad eller ett offentligt uppköpserbjudande, om inspektionen
-har skälig anledning att anta att erbjudandet, upptagandet
-eller uppköpserbjudandet strider mot bestämmelserna i denna lag
-eller prospektförordningen. Om förbudet är tillfälligt, får det
-gälla under högst tio arbetsdagar. Lag (2005:833).
+erbjudande av överlåtbara värdepapper till allmänheten, ett
+upptagande av överlåtbara värdepapper till handel på en
+reglerad marknad eller ett offentligt uppköpserbjudande, om
+inspektionen har skälig anledning att anta att erbjudandet,
+upptagandet eller uppköpserbjudandet strider mot bestämmelserna
+i denna lag eller prospektförordningen. Om förbudet är
+tillfälligt, får det gälla under högst tio arbetsdagar.
+Lag (2007:535).
 
 Erbjudanden till allmänheten eller upptagande till handel i
 Sverige när Finansinspektionen inte är behörig myndighet
@@ -1403,10 +1617,10 @@ Sverige när Finansinspektionen inte är behörig myndighet
 skall Finansinspektionen underrätta den myndighet som har
 godkänt prospektet, om emittenten eller ett utländskt
 värdepappersföretag som medverkar vid ett erbjudande av
-finansiella instrument till allmänheten har gjort sig skyldig
+överlåtbara värdepapper till allmänheten har gjort sig skyldig
 till ekonomisk brottslighet eller har överträtt bestämmelserna
-i 6 kap. 1 b § denna lag eller lagen (1992:543) om börs- och
-clearingverksamhet.
+i 6 kap. 1 b § denna lag eller 15-18 kap. lagen (2007:528) om
+värdepappersmarknaden.
 
 Om emittenten eller det utländska värdepappersföretaget, trots
 de åtgärder som vidtagits av den myndighet som godkänt
@@ -1414,10 +1628,8 @@ prospektet, fortsätter brottsligheten eller överträdelsen, får
 Finansinspektionen vidta åtgärd enligt 1 c och 1 d §§. Innan
 åtgärd vidtas skall inspektionen underrätta den myndighet som
 har godkänt prospektet. Finansinspektionen skall också
-underrätta Europeiska kommissionen så snart som möjligt.
-
-Regeringen får meddela föreskrifter om vilken ekonomisk
-brottslighet som avses i första stycket. Lag (2005:833).
+underrätta Europeiska gemenskapernas kommission så snart som
+möjligt. Lag (2007:535).
 
 Erbjudanden eller upptagande till handel i annan stat inom EES
 när Finansinspektionen är behörig myndighet
@@ -1426,11 +1638,47 @@ när Finansinspektionen är behörig myndighet
 inspektionen, om behörig myndighet i en annan stat inom EES
 underrättat inspektionen om att emittenten eller ett
 värdepappersinstitut, som medverkar vid ett erbjudande av
-finansiella instrument till allmänheten i den staten, har
+överlåtbara värdepapper till allmänheten i den staten, har
 överträtt föreskrifter som gäller i den staten eller inte
-fullgjort sina skyldigheter när finansiella instrument tagits
+fullgjort sina skyldigheter när överlåtbara värdepapper tagits
 upp till handel på en reglerad marknad, vidta åtgärd enligt 1 c
-och 1 d §§ mot emittenten eller institutet. Lag (2005:833).
+och 1 d §§ mot emittenten eller institutet.
+Lag (2007:535).
+
+Anmälan om aktieinnehav m.m. i vissa utländska bolag
+
+1 g § Bestämmelserna i 1 h § skall tillämpas om aktier eller
+sådana depåbevis eller finansiella instrument som avses i 4
+kap. 2 § första stycket är upptagna till handel på en reglerad
+marknad i Sverige och aktierna har getts ut av ett bolag som
+
+1. har sitt säte i en annan stat inom EES, eller
+
+2. inte har säte i en stat inom EES och inte omfattas av 4 kap.
+22 §.
+
+I 25 kap. 24 § lagen (2007:528) om värdepappersmarknaden finns
+bestämmelser om ingripande mot sådana bolag som avses i första
+stycket. Lag (2007:535).
+
+1 h § Om Finansinspektionen finner att en anmälan inte har
+gjorts som uppfyller de krav som följer av bestämmelserna i
+öppenhetsdirektivet, skall inspektionen underrätta den behöriga
+myndigheten i den stat där bolaget har sitt säte eller, om
+bolaget inte har säte i en stat inom EES, där bolaget ger in
+det dokument som anges i artikel 10 i prospektdirektivet.
+
+Om en anmälan fortfarande inte görs trots de åtgärder som har
+vidtagits av den behöriga myndighet som Finansinspektionen har
+underrättat, och en sådan anmälan skall göras enligt en
+offentlig reglering som bygger på öppenhetsdirektivet och som
+har antagits av den stat som avses i första stycket, får
+Finansinspektionen besluta att den anmälningsskyldige skall
+anmäla innehavet till bolaget och till Finansinspektionen.
+Innan åtgärden vidtas skall inspektionen underrätta den
+utländska behöriga myndigheten. Finansinspektionen skall också
+underrätta Europeiska gemenskapernas kommission så snart som
+möjligt. Lag (2007:365).
 
 Vite
 
@@ -1445,18 +1693,23 @@ instrument i 3 kap. 1 och 3 §§ inte iakttas. Lag (1992:558).
 3 § Finansinspektionen får vid vite förelägga någon att göra
 rättelse om han inte fullgör skyldigheten att
 
-1. göra anmälan till aktiebolag och till börs eller
-auktoriserad marknadsplats enligt 4 kap. 1 §,
+1. göra anmälan till aktiebolaget och Finansinspektionen enligt
+4 kap. 3 § eller 9 § andra stycket,
 
-2. offentliggöra uppgifterna i en anmälan enligt 4 kap. 4 §,
+2. göra anmälan till aktiebolaget och Finansinspektionen enligt
+1 h § andra stycket,
 
-3. följa bestämmelserna i 5 a kap. 1-3 §§ eller föreskrifter
-som har meddelats med stöd av 5 a kap. 4 §,
+3. offentliggöra uppgifter enligt 4 kap. 9 § första stycket
+eller 18 §, eller att lämna sådana uppgifter till
+Finansinspektionen enligt 4 kap. 21 §,
 
-4. följa en anmodan enligt 6 kap. 1 a §, eller
+4. följa bestämmelserna i 5 a kap. 1-3 §§ eller föreskrifter
+som har meddelats med stöd av 7 kap. 1 § 7,
 
-5. sammanställa och till Finansinspektionen ge in ett dokument
-enligt 1 b §. Lag (2005:833).
+5. följa en begäran enligt 1 a §, eller
+
+6. sammanställa och till Finansinspektionen ge in ett dokument
+enligt 1 b §. Lag (2007:365).
 
 Särskild avgift
 
@@ -1472,23 +1725,40 @@ enligt 2 kap. 34 §,
 3. inte offentliggör ett prospekt enligt 2 kap. 28 och 29 §§
 eller ett tillägg till ett prospekt enligt 2 kap. 34 §,
 
-4. trots att skyldighet att upprätta en erbjudandehandling
-föreligger inte ansöker om godkännande enligt 2 kap. 3 § lagen
-(2006:451) om offentliga uppköpserbjudanden på aktiemarknaden,
-eller
+4. trots att det finns en skyldighet att upprätta en
+erbjudandehandling inte ansöker om godkännande enligt 2 kap.
+3 § lagen (2006:451) om offentliga uppköpserbjudanden på
+aktiemarknaden,
 
-5. inte offentliggör en erbjudandehandling enligt 2 a kap. 9 §.
+5. inte offentliggör en erbjudandehandling enligt 2 a kap. 9 §,
 
-Den särskilda avgiften skall uppgå till lägst 50 000 kronor och
-högst 10 miljoner kronor.
+6. inte i rätt tid fullgör skyldigheten att göra anmälan till
+aktiebolaget och Finansinspektionen enligt 4 kap. 3 § eller 9 §
+andra stycket, eller
 
-Avgiften tillfaller staten. Lag (2006:454).
+7. inte i rätt tid offentliggör uppgifter enligt 4 kap. 9 §
+första stycket eller 18 §.
+
+Den särskilda avgiften skall i de fall som avses i
+
+1. första stycket 1-5 vara lägst 50 000 kronor och högst 10
+miljoner kronor, och
+
+2. första stycket 6 eller 7 vara lägst 15 000 kronor och högst
+5 miljoner kronor.
+
+Avgiften tillfaller staten. Lag (2007:365).
 
 3 b § Finansinspektionen får meddela ett beslut om en särskild
-avgift bara om den som inspektionen avser att ta ut avgiften
-av, inom sex månader från det att överträdelsen ägde rum, har
-delgetts upplysning om att frågan om särskild avgift har tagits
-upp av inspektionen. Lag (2005:833).
+avgift bara om den som inspektionen avser att ta ut avgiften av
+har delgetts en upplysning om att frågan om särskild avgift har
+tagits upp av inspektionen
+
+1. inom sex månader från det att överträdelsen ägde rum i de
+fall som avses i 3 a § första stycket 1-5, eller
+
+2. inom två år från det att överträdelsen ägde rum i de fall
+som avses i 3 a § första stycket 6 eller 7. Lag (2007:365).
 
 3 c § Om överträdelsen är ringa eller ursäktlig eller det
 annars finns särskilda skäl, får en särskild avgift efterges
@@ -1508,24 +1778,73 @@ för indrivning. Bestämmelser om indrivning av statliga
 fordringar finns i lagen (1993:891) om indrivning av statliga
 fordringar m.m. Lag (2005:833).
 
-3 e § Särskild avgift som påförts faller bort i den
-utsträckning verkställighet inte har skett inom fem år från det
-att beslutet vann laga kraft. Lag (2005:833).
+3 e § Särskilda avgifter som har beslutats enligt 3 a § första
+stycket 1-5 faller bort i den utsträckning verkställighet inte
+har skett inom fem år från det att beslutet vann laga kraft.
+Lag (2007:365).
 
 Årliga avgifter till Finansinspektionen
 
-4 § För att bekosta Finansinspektionens övervakning enligt denna lag
-skall de institut som står under Finansinspektionens tillsyn betala
-årliga avgifter enligt de närmare föreskrifter som regeringen meddelar.
+4 § De institut som står under Finansinspektionens tillsyn
+skall med årliga avgifter bekosta Finansinspektionens
+övervakning enligt denna lag. Lag (2007:365).
 
-7 kap. Överklagande
+Samarbete och utbyte av information med behöriga myndigheter
 
-1 § Finansinspektionens beslut enligt denna lag får överklagas hos
-allmän förvaltningsdomstol. Inspektionen får bestämma att ett beslut
-skall gälla omedelbart.
+5 § Finansinspektionen skall i sin tillsynsverksamhet enligt
+denna lag samarbeta och utbyta information med utländska
+behöriga myndigheter i den utsträckning som följer av
+prospektdirektivet och av öppenhetsdirektivet. Lag (2007:365).
+
+7 kap. Bemyndiganden
+
+1 § Regeringen eller den myndighet som regeringen bestämmer får
+meddela föreskrifter om
+
+1. villkor för sådana avtal som avses i 3 kap. 1 och 3 §§,
+
+2. på vilket språk sådan information som avses i 4 kap. 1 §
+tredje stycket eller 20 § skall offentliggöras,
+
+3. vilka upplysningar marknadsgaranter som inte är
+värdepappersinstitut och som har utnyttjat undantaget i 4 kap.
+14 § första stycket skall lämna till Finansinspektionen,
+
+4. vad som krävs för att undantag från sammanläggning av moder-
+och dotterföretags innehav skall få göras enligt 4 kap. 16 och
+17 §§,
+
+5. att sådana anmälningar som enligt 4 kap. 19 § görs till
+Finansinspektionen i stället skall göras till den börs som
+driver den reglerade marknad där aktierna är upptagna till
+handel och i vilken omfattning och på vilket sätt uppgifter om
+förvärv eller överlåtelse av egna aktier skall offentliggöras
+samt hur skyldigheten att anmäla förvärv och överlåtelser till
+Finansinspektionen skall fullgöras,
+
+6. hur information skall offentliggöras enligt 4 kap. 20 §,
+
+7. information enligt 5 a kap. 1 och 2 §§, och
+
+8. hur uppgiftsskyldigheten i 6 kap. 1 a § första stycket skall
+fullgöras. Lag (2007:535).
+
+2 § Regeringen får meddela föreskrifter om
+
+1. vilken ekonomisk brottslighet som avses i 6 kap. 1 e §
+första stycket, och
+
+2. sådana avgifter för tillsyn som avses i 6 kap. 4 §.
+Lag (2007:365).
+
+8 kap. Överklagande
+
+1 § Finansinspektionens beslut enligt denna lag får överklagas
+hos allmän förvaltningsdomstol. Inspektionen får bestämma att
+ett beslut skall gälla omedelbart.
 
 Prövningstillstånd krävs vid överklagande till kammarrätten.
-Lag (1995:85).
+Lag (2007:365).
 
 Övergångsbestämmelser
 
@@ -1591,3 +1910,25 @@ har kommit in till Finansinspektionen före lagens
 ikraftträdande, skall vid tillämpning av 2 kap. 26 § ansökan
 anses ha kommit in till Finansinspektionen den dag lagen träder
 i kraft.
+
+2007:365
+
+1. Denna lag träder i kraft den 1 juli 2007.
+
+2. Den som på grund av lagens ikraftträdande blir
+anmälningsskyldig enligt 4 kap. 3 § eller 9 § andra stycket,
+skall anmäla innehavet enligt bestämmelserna i de paragraferna.
+Anmälan skall ha kommit in till bolaget och Finansinspektionen
+senast den 16 juli 2007. Detta gäller dock inte den som har
+gjort motsvarande anmälan före lagens ikraftträdande eller som
+senast den 16 juli 2007 anmäler förändringar i innehavet enligt
+de nämnda bestämmelserna.
+
+3. Ett aktiebolag som vid lagens ikraftträdande innehar egna
+aktier i sådan omfattning att skyldighet att offentliggöra
+innehavet uppkommer enligt 4 kap. 18 §, skall senast den 5 juli
+2007 offentliggöra uppgifter om innehavet. Detta gäller dock
+inte ett aktiebolag som har offentliggjort motsvarande
+uppgifter före lagens ikraftträdande eller som senast den 5
+juli 2007 offentliggör förändringar i innehavet enligt de
+nämnda bestämmelserna.

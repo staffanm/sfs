@@ -1,7 +1,6 @@
 
 
 
-/Träder i kraft I:2007-02-01/
 1 kap. Inledande bestämmelser
 
 Lagens tillämpningsområde
@@ -70,14 +69,13 @@ vars huvudsakliga verksamhet är att
 
 a) förvärva eller inneha aktier eller andelar,
 
-b) driva värdepappersrörelse utan att vara tillståndspliktigt
-enligt 1 kap. 3 § lagen (1991:981) om värdepappersrörelse,
-eller
-
-c) driva en eller flera av de verksamheter som anges i 7 kap.
+b) driva en eller flera av de verksamheter som anges i 7 kap.
 1 § andra stycket 2-10 och 12 lagen (2004:297) om bank- och
 finansieringsrörelse, utan att vara tillståndspliktigt enligt 2
-kap. 1 § samma lag,
+kap. 1 § samma lag, eller
+
+c) driva värdepappersrörelse utan att vara tillståndspliktigt
+enligt 2 kap. 1 § lagen (2007:528) om värdepappersmarknaden,
 
 7. finansiellt instrument: ett avtal som ger upphov till en
 finansiell tillgång för en part samtidigt som en annan part får
@@ -144,8 +142,8 @@ b) prioriteringen av delarna avgör hur förluster fördelas under
 den tid transaktionen eller programmet pågår,
 
 18. värdepappersbolag: ett svenskt aktiebolag som har fått
-tillstånd att driva värdepappersrörelse enligt lagen (1991:981)
-om värdepappersrörelse.
+tillstånd att driva värdepappersrörelse enligt lagen om
+värdepappersmarknaden. Lag (2007:570)
 
 4 § Ett institut, ett finansiellt holdingföretag eller ett
 holdingföretag med blandad verksamhet är moderföretag och en
@@ -247,10 +245,11 @@ positionerna mot handelsstrategin. Institutet skall för dessa
 ändamål ha lämpliga metoder samt de skriftliga riktlinjer och
 instruktioner som behövs.
 
-Av 1 kap. 6 d § lagen (1991:981) om värdepappersrörelse och 6
-kap. 2 § lagen (2004:297) om bank- och finansieringsrörelse
-framgår att instituten skall kunna hantera de risker som följer
-med verksamheten i handelslagret.
+Av 6 kap. 2 § lagen (2004:297) om bank- och
+finansieringsrörelse och 8 kap. 4 § lagen (2007:528) om
+värdepappersmarknaden framgår att instituten skall kunna
+hantera de risker som följer med verksamheten i handelslagret.
+Lag (2007:570)
 
 2 kap. Vilka kapitalkrav som skall täckas av kapitalbasen
 
@@ -276,17 +275,17 @@ beräkningen av kapitalbaskravet.
 en viss minsta storlek på sin kapitalbas som är större än vad
 som krävs enligt 1 § första stycket 1, om
 
-1. institutet inte uppfyller något av kraven i 1 kap.
-6 c-6 h §§ lagen (1991:981) om värdepappersrörelse eller 6 kap.
-1-3, 4 a, 4 b och 5 §§ lagen (2004:297) om bank- och
-finansieringsrörelse, och
+1. institutet inte uppfyller något av kraven i 6 kap. 1-3, 4 a,
+4 b och 5 §§ lagen (2004:297) om bank- och finansieringsrörelse
+eller 8 kap. 3-8 §§ lagen (2007:528) om värdepappersmarknaden,
+och
 
 2. det inte är troligt att någon annan åtgärd är tillräcklig
 för att få institutet att rätta till bristerna inom rimlig tid.
 
 Första stycket skall inte tillämpas, om överträdelsen är så
 allvarlig att verksamhetstillståndet i stället skall
-återkallas.
+återkallas. Lag (2007:570)
 
 Kapitalkravet för kreditrisker
 
@@ -357,12 +356,12 @@ egen räkning bara i syfte att
 a) utföra en order för kunds räkning, eller
 
 b) få tillträde till system för clearing och avveckling eller
-en erkänd börs när de uppträder som agent eller utför
+en erkänd börs när de uppträder som ombud eller utför
 kundorder.
 
 2. Värdepappersbolag
 
-a) som inte innehar klienters pengar eller värdepapper,
+a) som inte innehar kunders pengar eller värdepapper,
 
 b) som enbart handlar med finansiella instrument för egen
 räkning,
@@ -370,29 +369,26 @@ räkning,
 c) som inte har några externa kunder, och
 
 d) för vilkas transaktioner ansvaret för genomförandet och
-avräkningen ligger hos ett clearinginstitut och garanteras av
-samma clearinginstitut.
+avvecklingen ligger hos en clearingorganisation och garanteras
+av samma clearingorganisation.
 
 Kapitalkravet för operativa risker skall motsvara minst 25
 procent av värdepappersbolagets fasta omkostnader beräknade
-enligt 10 §.
+enligt 10 §. Lag (2007:570)
 
 Ett alternativt kapitalkrav för vissa värdepappersbolag
 
-9 § Ett värdepappersbolag som inte ägnar sig åt handel med
-finansiella instrument för egen räkning, garantigivning eller
-annan medverkan vid emissioner av fondpapper eller erbjudanden
-om köp eller försäljning av finansiella instrument som är
-riktade till en öppen krets, får i stället för det som anges i
-1 § första stycket 1 ha en kapitalbas som motsvarar det största
-av
+9 § Ett värdepappersbolag som inte har tillstånd enligt 2 kap.
+1 § 3 eller 6 lagen (2007:528) om värdepappersmarknaden, får i
+stället för det som anges i 1 § första stycket 1 ha en
+kapitalbas som motsvarar det största av
 
 1. summan av kapitalkraven för kreditrisker och marknadsrisker
 beräknade enligt 3-6 §§ och det särskilda kapitalkravet enligt
 7 kap. 8 §, och
 
 2. 25 procent av bolagets fasta omkostnader beräknade enligt
-10 §.
+10 §. Lag (2007:570)
 
 Beräkning av fasta omkostnader
 
@@ -658,10 +654,10 @@ internmetoden än enligt den grundläggande metoden.
 ges om förutsättningarna i 9 § är uppfyllda och om
 
 1. institutet har ett för ändamålet lämpligt utformat
-riskhanteringssystem för kreditrisker som uppfyller kraven i 1
-kap. 6 d och 6 h §§ lagen (1991:981) om värdepappersrörelse och
-6 kap. 2 och 5 §§ lagen (2004:297) om bank- och
-finansieringsrörelse,
+riskhanteringssystem för kreditrisker som uppfyller kraven i 6
+kap. 2 och 5 §§ lagen (2004:297) om bank- och
+finansieringsrörelse samt 8 kap. 4 och 8 §§ lagen (2007:528) om
+värdepappersmarknaden,
 
 2. institutets riskklassificeringssystem är tillförlitligt och
 tillräckligt integrerat med institutets övriga verksamhet, och
@@ -674,7 +670,7 @@ finansiellt moderholdingföretag inom EES och dess dotterföretag
 använder internmetoden enhetligt, får företagen i den
 omfattning som framgår av föreskrifter meddelade med stöd av 13
 kap. 1 § 13 betraktas som en enhet vid bedömningen av om kraven
-i första stycket är uppfyllda.
+i första stycket är uppfyllda. Lag (2007:570)
 
 9 § När ett institut använder internmetoden för beräkning av
 riskvägda exponeringsbelopp skall det använda metoden för alla
@@ -811,16 +807,16 @@ kapitalkraven för positionsrisker, valutakursrisker och
 råvarurisker. Tillstånd skall ges om institutet
 
 1. har ett för ändamålet lämpligt utformat riskhanteringssystem
-för marknadsrisker som uppfyller kraven i 1 kap. 6 d och 6 h §§
-lagen (1991:981) om värdepappersrörelse och 6 kap. 2 och 5 §§
-lagen (2004:297) om bank- och finansieringsrörelse,
+för marknadsrisker som uppfyller kraven i 6 kap. 2 och 5 §§
+lagen (2004:297) om bank- och finansieringsrörelse samt 8 kap.
+4 och 8 §§ lagen (2007:528) om värdepappersmarknaden,
 
 2. använder en riskberäkningsmodell som ger en tillförlitlig
 bild av marknadsriskernas storlek och som är tillräckligt
 integrerad med institutets övriga verksamhet, och
 
 3. dokumenterar sin riskberäkningsmodell och motiven för dess
-utformning.
+utformning. Lag (2007:570)
 
 Byte av metod
 
@@ -877,9 +873,10 @@ beräkningsunderlag som motsvarar rörelseintäkterna, mellan
 olika affärsområden på ett lämpligt sätt, och
 
 2. ha ett för ändamålet lämpligt utformat riskhanteringssystem
-för operativa risker som uppfyller kraven i 1 kap. 6 d och
-6 h §§ lagen (1991:981) om värdepappersrörelse och 6 kap. 2 och
-5 §§ lagen (2004:297) om bank- och finansieringsrörelse.
+för operativa risker som uppfyller kraven i 6 kap. 2 och 5 §§
+lagen (2004:297) om bank- och finansieringsrörelse samt 8 kap.
+4 och 8 §§ lagen (2007:528) om värdepappersmarknaden.
+Lag (2007:570).
 
 Den alternativa schablonmetoden
 
@@ -902,9 +899,9 @@ riskmätningssystem.
 
 1. institutet har ett för ändamålet lämpligt utformat
 riskhanteringssystem för operativa risker som uppfyller kraven
-i 1 kap. 6 d och 6 h §§ lagen (1991:981) om värdepappersrörelse
-och 6 kap. 2 och 5 §§ lagen (2004:297) om bank- och
-finansieringsrörelse, och
+i 6 kap. 2 och 5 §§ lagen (2004:297) om bank- och
+finansieringsrörelse samt 8 kap. 4 och 8 §§ lagen (2007:528) om
+värdepappersmarknaden, och
 
 2. institutets riskmätningssystem är tillförlitligt och
 tillräckligt integrerat med institutets övriga verksamhet.
@@ -914,7 +911,7 @@ finansiellt moderholdingföretag inom EES och dess dotterföretag
 använder en internmätningsmetod enhetligt, får företagen i den
 omfattning som framgår av föreskrifter meddelade med stöd av 13
 kap. 1 § 26 betraktas som en enhet vid bedömningen av om kraven
-i första stycket är uppfyllda.
+i första stycket är uppfyllda. Lag (2007:570)
 
 Kombination av olika metoder
 
@@ -1174,22 +1171,22 @@ finansiella företagsgruppen sammantaget uppfyller kraven i
 finansieringsrörelse om ett kreditinstituts innehav av aktier
 och andelar i företag, om ett kreditinstitut ingår i gruppen,
 
-4. 3 kap. 1 a § lagen (1991:981) om värdepappersrörelse om ett
+4. 7 kap. 7 § lagen (2007:528) om värdepappersmarknaden om ett
 värdepappersbolags kvalificerade innehav av aktier eller
 andelar i företag med annan verksamhet än finansiell
 verksamhet, om ett värdepappersbolag som har tillstånd att
-bedriva verksamhet som avses i 3 kap. 4 § första stycket 4 och
-5 samma lag ingår i gruppen, och
+bedriva verksamhet som avses i 2 kap. 2 § första stycket 2 och
+8 samma lag ingår i gruppen, och
 
-5. 1 kap. 6 c § och 6 d § andra stycket lagen om
-värdepappersrörelse eller 6 kap. 1 § och 2 § andra stycket
-lagen om bank- och finansieringsrörelse om soliditet och
-riskhantering.
+5. 6 kap. 1 § och 2 § andra stycket lagen om bank- och
+finansieringsrörelse eller 8 kap. 3 § och 4 § andra stycket
+lagen om värdepappersmarknaden om soliditet och riskhantering.
 
-En finansiell företagsgrupp skall uppfylla kraven i 1 kap.
-6 d § första stycket och 6 e § lagen om värdepappersrörelse
-samt 6 kap. 2 § första stycket och 3 § lagen om bank- och
-finansieringsrörelse om riskhantering och genomlysning.
+En finansiell företagsgrupp skall uppfylla kraven i 6 kap. 2 §
+första stycket och 3 § lagen om bank- och finansieringsrörelse
+samt 8 kap. 4 § första stycket och 5 § lagen om
+värdepappersmarknaden om riskhantering och genomlysning.
+Lag (2007:570).
 
 6 § Bestämmelserna i 5 § skall tillämpas även på den del av en
 finansiell företagsgrupp som består av

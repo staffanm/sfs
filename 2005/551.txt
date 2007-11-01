@@ -1,6 +1,7 @@
 
 
 
+
 1 kap. Inledande bestämmelser
 
 Lagens innehåll
@@ -34,7 +35,7 @@ av vissa penninglån, m.m. (11 kap.),
 - nyemission av aktier (13 kap.),
 
 - emission av teckningsoptioner med åtföljande teckning av nya
-aktier (14 kap.),
+aktier (14 kap)
 
 - emission av konvertibler med åtföljande konvertering till nya
 aktier (15 kap.),
@@ -90,17 +91,10 @@ Aktieägarnas betalningsansvar
 3 § I ett aktiebolag har aktieägarna inte något personligt
 betalningsansvar för bolagets förpliktelser.
 
-Trots vad som sägs i första stycket är en aktieägare i ett
-aktiebolag som bedriver advokatverksamhet solidariskt ansvarig
-med bolaget för sådana förpliktelser mot klienter som bolaget
-ådrar sig under den tid som han eller hon äger aktier i
-bolaget. Ansvaret omfattar dock inte förpliktelser som
-uppkommer i uppdrag som aktieägaren inte själv handlägger eller
-på annat sätt svarar för.
-
 I 25 kap. 19 § finns bestämmelser om personligt
 betalningsansvar för aktieägare i samband med
 likvidationsskyldighet på grund av kapitalbrist.
+Lag (2007:317).
 
 Aktiekapital
 
@@ -147,9 +141,17 @@ som avser överlåtelse till högst tio förvärvare. Förbuden
 gäller inte heller i fråga om aktiebolag med särskild
 vinstutdelningsbegränsning. Lag (2005:812).
 
-8 § Sådana värdepapper som anges i 7 § får, så länge bolaget är
+8 § /Upphör att gälla U:2007-11-01/
+Sådana värdepapper som anges i 7 § får, så länge bolaget är
 privat, inte bli föremål för handel på en svensk eller utländsk
 börs eller någon annan organiserad marknadsplats.
+
+8 § /Träder i kraft I:2007-11-01/
+Sådana värdepapper som anges i 7 § får, så länge bolaget är
+privat, inte bli föremål för handel på en reglerad marknad, en
+motsvarande marknad utanför Europeiska ekonomiska
+samarbetsområdet eller någon annan organiserad marknadsplats.
+Lag (2007:566).
 
 Var det finns definitioner och förklaringar
 
@@ -220,6 +222,8 @@ moderbolag                      11 §
 
 omvandlingsförbehåll            4 kap. 6 §
 
+sammanläggning av aktier        4 kap. 46 §
+
 samtyckesförbehåll              4 kap. 8 §
 
 stiftare                        2 kap. 1 §
@@ -240,7 +244,15 @@ teckningsrätt                   11 kap. 4 §
 
 teckningsrättsbevis             11 kap. 4 §
 
+tillämplig lag om
+årsredovisning                  12 a §
+
+uppdelning av aktier            4 kap. 46 §
+
 årsstämma                       7 kap. 10 §
+
+överskjutande aktier            4 kap. 47 §
+Lag (2007:317).
 
 Begreppet avstämningsbolag
 
@@ -310,6 +322,20 @@ dotterföretaget självt eller av dess dotterföretag. Detsamma
 gäller aktier och andelar som innehas av den som handlar i eget
 namn men för dotterföretagets eller dess dotterföretags
 räkning.
+
+Begreppet tillämplig lag om årsredovisning
+
+12 a § Med tillämplig lag om årsredovisning avses i denna lag
+årsredovisningslagen (1995:1554) eller, i fråga om aktiebolag
+som helt eller delvis omfattas av lagen (1995:1559) om
+årsredovisning i kreditinstitut och värdepappersbolag, den
+lagen och de föreskrifter som har meddelats med stöd av den. I
+fråga om bolag som upprättar eller skall upprätta
+koncernredovisning enligt Europaparlamentets och rådets
+förordning (EG) nr 1606/2002 av den 19 juli 2002 om tillämpning
+av internationella redovisningsstandarder avses även, såvitt
+gäller koncernredovisningen, de redovisningsstandarder som har
+antagits med stöd av förordningen. Lag (2007:317).
 
 Undertecknande med elektronisk signatur
 
@@ -401,7 +427,8 @@ Stiftelseurkundens innehåll
 2. fullständigt namn, personnummer eller, om sådant saknas,
 födelsedatum samt postadress för styrelseledamot och revisor
 samt, i förekommande fall, styrelsesuppleant, revisorssuppleant
-och lekmannarevisor.
+och lekmannarevisor. Om revisorn är ett registrerat
+revisionsbolag, skall dess organisationsnummer anges.
 
 I förekommande fall skall det även anges om
 
@@ -423,7 +450,14 @@ En sådan bestämmelse som avses i andra stycket skall återges i
 sin helhet i stiftelseurkunden.
 
 Teckningskursen enligt första stycket 1 får inte understiga
-aktiens kvotvärde.
+aktiens kvotvärde. Kvotvärdet skall därvid beräknas på grundval
+av bolagsordningens uppgifter om aktiekapital och antal aktier.
+Om det i bolagsordningen föreskrivs ett minimikapital och ett
+maximikapital och ett lägsta och högsta antal aktier, skall
+beräkningen ske genom att det högsta angivna aktiekapitalet
+divideras med det högsta antalet aktier eller det lägsta
+angivna aktiekapitalet med det lägsta antalet aktier.
+Lag (2007:317).
 
 6 § Endast egendom som är eller kan antas bli till nytta för
 bolagets verksamhet kan utgöra sådan egendom som avses i 5 §
@@ -515,11 +549,12 @@ Betalning av aktierna
 Vad som lägst skall betalas för en aktie
 
 15 § Betalningen för en aktie får inte understiga aktiens
-kvotvärde.
+kvotvärde. Kvotvärdet skall därvid beräknas på det sätt som
+anges i 5 § fjärde stycket.
 
 Om en aktie har tecknats med villkor som strider mot första
 stycket, skall ett belopp som motsvarar aktiens kvotvärde ändå
-betalas.
+betalas. Lag (2007:317).
 
 Hur aktierna skall betalas
 
@@ -667,7 +702,8 @@ innehålla uppgift om samtliga kostnader för bolagets bildande.
 
 Uppskjuten apport
 
-29 § Om ett publikt aktiebolag inom två år från registreringen
+29 § /Upphör att gälla U:2007-11-01/
+Om ett publikt aktiebolag inom två år från registreringen
 i aktiebolags registret träffar avtal med en stiftare eller en
 aktieägare, som innebär att bolaget förvärvar egendom mot en
 ersättning som motsvarar minst en tiondel av aktiekapitalet,
@@ -676,6 +712,17 @@ avtalet för godkännande. Det gäller dock inte om förvärvet sker
 på en svensk eller utländsk börs, en auktoriserad marknadsplats
 eller någon annan reglerad marknad eller som ett led i bolagets
 löpande affärsverksamhet.
+
+29 § /Träder i kraft I:2007-11-01/
+Om ett publikt aktiebolag inom två år från registreringen
+i aktiebolagsregistret träffar avtal med en stiftare eller en
+aktieägare, som innebär att bolaget förvärvar egendom mot en
+ersättning som motsvarar minst en tiondel av aktiekapitalet,
+skall styrelsen inom sex månader underställa bolagsstämman
+avtalet för godkännande. Det gäller dock inte om förvärvet sker
+på en reglerad marknad eller en motsvarande marknad utanför
+Europeiska ekonomiska samarbetsområdet eller som ett led i
+bolagets löpande affärsverksamhet. Lag (2007:566).
 
 30 § Följande handlingar skall fogas till styrelsens förslag om
 godkännande av ett sådant avtal som avses i 29 §:
@@ -719,8 +766,10 @@ minimikapitalet inte får vara mindre än en fjärdedel av
 maximikapitalet,
 
 5. antalet aktier eller, om det i bolagsordningen har angetts
-ett minimikapital och ett maximikapital, ett motsvarande lägsta
-och högsta antal aktier,
+ett minimikapital och ett maximikapital, ett lägsta och högsta
+antal aktier, varvid relationen mellan minimikapitalet och det
+lägsta antalet aktier skall vara densamma som relationen mellan
+maximikapitalet och det högsta antalet aktier,
 
 6. antalet eller lägsta och högsta antalet styrelseledamöter,
 
@@ -738,7 +787,90 @@ enligt första stycket 6 och 7, skall arbetstagarrepresentanter
 som utses enligt lagen (1987:1245) om styrelserepresentation
 för de privatanställda inte räknas med.
 
-I fråga om publika aktiebolag gäller även 11 §.
+I fråga om publika aktiebolag gäller även 11 §. Lag (2007:317).
+
+Uppgift om redovisningsvaluta
+
+2 § Om bolaget skall ha euro som redovisningsvaluta, skall
+detta anges i bolagsordningen. I så fall skall det i
+bolagsordningen också anges att aktiekapitalet skall vara
+bestämt i euro.
+
+Uppgift om verksamhetens syfte
+
+3 § Om bolagets verksamhet helt eller delvis skall ha ett annat
+syfte än att ge vinst till fördelning mellan aktieägarna, skall
+detta anges i bolagsordningen. I så fall skall det också anges
+hur bolagets vinst och behållna tillgångar vid bolagets
+likvidation skall användas.
+
+Ändring av bolagsordningen
+
+Vem som kan besluta om ändring av bolagsordningen
+
+4 § Ändringar i bolagsordningen beslutas av bolagsstämman.
+Bestämmelser om bolagsstämmans beslut finns i 7 kap.
+
+Anmälan och verkställighet av beslut om ändring av
+bolagsordningen
+
+5 § Ett beslut om ändring av bolagsordningen skall genast
+anmälas för registrering i aktiebolagsregistret och får, utom i
+de fall som avses i 27 kap. 8 §, inte verkställas förrän det
+har registrerats.
+
+Regeringens tillstånd till ändringar av bolagsordningen
+
+6 § Om det i bolagsordningen på grund av lag eller annan
+författning eller efter regeringens medgivande har tagits in en
+bestämmelse enligt vilken en annan bestämmelse i
+bolagsordningen inte får ändras utan att regeringen har lämnat
+tillstånd till det, får inte heller den förstnämnda
+bestämmelsen ändras utan regeringens tillstånd.
+
+Panthavares samtycke till att avstämningsförbehåll tas bort ur
+bolagsordningen
+
+7 § Ett beslut om ändring av bolagsordningen som innebär att
+avstämningsförbehåll tas bort blir giltigt endast om de som har
+panträtt i bolagets aktier skriftligen har samtyckt till
+beslutet.
+
+Särskilda bestämmelser vid byte av redovisningsvaluta
+
+8 § Ett beslut om att införa eller ändra en sådan bestämmelse i
+bolagsordningen som avses i 2 § (beslut om byte av
+redovisningsvaluta) får verkan från och med det räkenskapsår
+som börjar efter det att beslutet om ändring av bolagsordningen
+har registrerats.
+
+9 § Om bolaget har fattat ett beslut om byte av
+redovisningsvaluta, får ändring av bolagsordningens uppgifter
+om aktiekapitalet eller minimikapitalet och maximikapitalet
+anstå till den första ordinarie bolagsstämman efter det att
+beslutet om byte av redovisningsvaluta fick verkan.
+
+10 § Om Bolagsverket har registrerat ett beslut om byte av
+redovisningsvaluta, skall verket vid ingången av närmast
+följande räkenskapsår räkna om det registrerade aktiekapitalet
+till den nya valutan. Omräkningen skall göras enligt den
+växelkurs som har fastställts av Europeiska centralbanken den
+sista svenska bankdagen under föregående räkenskapsår.
+
+Styrelsen skall senast till den första ordinarie bolagsstämman
+efter det att beslutet fick verkan lägga fram förslag om
+nödvändiga följdändringar av bolagsordningens föreskrifter om
+aktiekapitalets storlek.
+
+Särskilda bestämmelser för publika aktiebolag
+
+Uppgift om bolagskategori
+
+11 § I fråga om publika aktiebolag, vars firma inte innehåller
+ordet publikt, skall i bolagsordningen anges beteckningen
+(publ) efter firman.
+
+4 kap.
 
 Uppgift om redovisningsvaluta
 
@@ -1368,6 +1500,99 @@ tilllämpning av bestämmelser i denna lag eller bolagsordningen
 som förutsätter att någon eller några innehar en viss andel av
 aktierna eller rösterna i bolaget.
 
+Uppdelning och sammanläggning av aktier
+
+46 § I syfte att uppnå ett för bolaget ändamålsenligt antal
+aktier får bolagsstämman besluta att antalet aktier ökas genom
+att en eller flera aktier delas upp på ett större antal aktier
+(uppdelning av aktier) eller minskas genom att två eller flera
+aktier läggs samman till ett mindre antal aktier
+(sammanläggning av aktier).
+
+Ett beslut enligt första stycket skall innehålla uppgift om den
+dag då uppdelningen eller sammanläggningen skall verkställas
+eller bemyndigande för styrelsen att fastställa en sådan dag.
+Dagen för verkställande får inte infalla senare än dagen före
+nästa årsstämma eller, i avstämningsbolag, dagen före den dag
+som i fråga om den årsstämman avses i 7 kap. 28 § tredje
+stycket. Lag (2007:317).
+
+47 § /Upphör att gälla U:2007-11-01/
+Ett beslut om uppdelning eller sammanläggning av aktier är
+giltigt endast om samtycke har lämnats av
+
+1. samtliga aktieägare som på dagen för bolagsstämman eller, i
+avstämningsbolag, på den dag som avses i 7 kap. 28 § tredje
+stycket är införda i aktieboken som ägare till aktier av visst
+slag som inte motsvarar ett helt antal nya aktier
+(överskjutande aktier), och
+
+2. i fråga om överskjutande aktier som är förvaltarregistrerade
+och som på den dag som avses i punkten 1 inte är införda i
+aktieboken, förvaltaren.
+
+Samtycke enligt första stycket krävs inte av aktieägare vars
+samtliga överskjutande aktier är föremål för handel på en
+svensk eller utländsk börs, en auktoriserad marknadsplats eller
+någon annan reglerad marknad. Samtycke krävs inte heller av
+förvaltare, om samtliga överskjutande aktier som omfattas av
+förvaltningen är föremål för sådan handel. Lag (2007:317).
+
+47 § /Träder i kraft I:2007-11-01/
+Ett beslut om uppdelning eller sammanläggning av aktier är
+giltigt endast om samtycke har lämnats av
+
+1. samtliga aktieägare som på dagen för bolagsstämman eller, i
+avstämningsbolag, på den dag som avses i 7 kap. 28 § tredje
+stycket är införda i aktieboken som ägare till aktier av visst
+slag som inte motsvarar ett helt antal nya aktier
+(överskjutande aktier), och
+
+2. i fråga om överskjutande aktier som är förvaltarregistrerade
+och vars ägare på den dag som avses i 1 inte är införda i
+aktieboken, förvaltaren.
+
+Samtycke enligt första stycket krävs inte av aktieägare vars
+samtliga överskjutande aktier är föremål för handel på en
+reglerad marknad eller en motsvarande marknad utanför
+Europeiska ekonomiska samarbetsområdet. Samtycke krävs inte
+heller av förvaltare, om samtliga överskjutande aktier som
+omfattas av förvaltningen är föremål för sådan handel.
+Lag (2007:566).
+
+48 § I bolag som inte är avstämningsbolag skall ett beslut om
+uppdelning eller sammanläggning av aktier genast sändas till
+aktieägare, vars postadress är känd för bolaget. Detta gäller
+dock inte, om samtliga aktieägare har varit företrädda vid den
+bolagsstämma som har beslutat om uppdelningen eller
+sammanläggningen. Lag (2007:317).
+
+49 § Om en aktieägares innehav av aktier av visst slag inte
+motsvarar ett fullt antal nya aktier, övergår överskjutande
+aktier i bolagets ägo på den dag som avses i 46 § andra
+stycket.
+
+Aktier som har tillförts bolaget på det sätt som anges i första
+stycket och som vid den tidpunkt som anges i 47 § första
+stycket var föremål för sådan handel som avses i andra stycket
+i samma paragraf skall säljas på bolagets bekostnad.
+Försäljningen skall ske utan onödigt dröjsmål och verkställas
+genom ett värdepappersinstitut. Den betalning som flyter in vid
+försäljningen skall fördelas mellan dem som ägde aktierna vid
+tidpunkten då dessa övergick i bolagets ägo efter deras andel i
+de aktier som har sålts.
+
+I fråga om aktier som vid den tidpunkt som anges i 47 § första
+stycket inte var föremål för sådan handel som avses i andra
+stycket i samma paragraf tilllämpas 19 kap. 6 §.
+Lag (2007:317).
+
+50 § När ett beslut om uppdelning eller sammanläggning av
+aktier har verkställts, skall detta genast anmälas för
+registrering i aktiebolagsregistret. I avstämningsbolag skall
+anmälan göras också till den centrala värdepappersförvararen om
+att beslutet har registrerats. Lag (2007:317).
+
 5 kap. Aktiebok
 
 Gemensamma bestämmelser
@@ -1777,7 +2002,7 @@ aktiebrevet, eller
 
 2. aktiebrevet skall bytas ut därför att de aktier som
 aktiebrevet avser skall omvandlas till aktier av ett annat
-slag.
+slag, delas upp eller läggas samman. Lag (2007:317).
 
 Överlåtelse och pantsättning av aktiebrev m.m.
 
@@ -1847,6 +2072,9 @@ med skriftlig, av aktieägaren undertecknad och daterad
 fullmakt.
 
 En fullmakt gäller högst ett år från utfärdandet.
+
+För vissa publika aktiebolag gäller även 54 a §.
+Lag (2007:373).
 
 Insamlande av fullmakter på bolagets bekostnad
 
@@ -2089,14 +2317,18 @@ c) granska likvidators slutredovisning, eller
 
 d) behandla en fråga om att bolagets likvidation skall upphöra.
 
-För publika aktiebolag gäller även 56 §.
+För publika aktiebolag gäller även 56 §. För vissa publika
+aktiebolag gäller också 64-67 §§. Lag (2007:373).
 
 Kallelsens innehåll
 
-24 § Kallelsen skall innehålla ett förslag till dagordning för
-bolagsstämman. I förslaget till dagordning skall styrelsen
-tydligt ange de ärenden som skall behandlas vid bolagsstämman.
-Ärendena skall vara numrerade.
+24 § Kallelsen skall innehålla uppgift om tid och plats för
+bolagsstämman samt uppgift om förutsättningarna enligt 2 § för
+aktieägares rätt att delta i stämman. Kallelsen skall också
+innehålla ett förslag till dagordning för bolagsstämman. I
+förslaget till dagordning skall styrelsen tydligt ange de
+ärenden som skall behandlas vid bolagsstämman. Ärendena skall
+vara numrerade.
 
 Det huvudsakliga innehållet i varje framlagt förslag skall
 anges, om förslaget inte rör en fråga av mindre betydelse för
@@ -2130,6 +2362,8 @@ aktier),
 
 25 kap. 5 § (likvidation).
 
+För vissa publika aktiebolag gäller även 63 §. Lag (2007:373).
+
 Tillhandahållande av handlingar inför årsstämman
 
 25 § Styrelsen skall hålla redovisningshandlingar och
@@ -2152,10 +2386,11 @@ handlingar har åsidosatts i något ärende, får bolagsstämman
 inte besluta i ärendet utan samtycke av de aktieägare som
 berörs av felet. Även utan sådant samtycke får dock
 bolagsstämman avgöra ett ärende som inte har tagits upp i
-kallelsen, om ärendet enligt bolagsordningen skall tas upp vid
-bolagsstämman eller omedelbart föranleds av ett annat ärende
-som skall avgöras. Den får också besluta att en extra
-bolagsstämma skall sammankallas för att behandla ärendet.
+kallelsen, om ärendet enligt lag eller bolagsordningen skall
+tas upp vid bolagsstämman eller omedelbart föranleds av ett
+annat ärende som skall avgöras. Den får också besluta att en
+extra bolagsstämma skall sammankallas för att behandla ärendet.
+Lag (2007:317).
 
 Bolagsstämmans öppnande
 
@@ -2492,6 +2727,46 @@ I fråga om publika aktiebolag gäller även 60 §.
 
 Särskilda bestämmelser för publika aktiebolag
 
+Fullmaktsformulär
+
+54 a § /Upphör att gälla U:2007-11-01/
+Ett publikt aktiebolag, vars aktier är noterade vid en
+svensk eller utländsk börs, en auktoriserad marknadsplats eller
+någon annan reglerad marknad, skall inför en bolagsstämma
+tillhandahålla aktieägarna ett fullmaktsformulär.
+
+Formuläret skall tillhandahållas tillsammans med kallelsen till
+bolagsstämman, om kallelsen sänds till aktieägarna. Om kallelse
+sker på något annat sätt, skall fullmaktsformuläret
+tillhandahållas aktieägarna på begäran efter det att
+bolagsstämman har tillkännagetts.
+
+Formuläret får inte innehålla namn på ombud eller ange hur
+ombudet skall rösta.
+
+Bestämmelserna i denna paragraf hindrar inte bolaget att
+tillhandahålla sådana fullmaktsformulär som avses i 4 §.
+Lag (2007:373).
+
+54 a § /Träder i kraft I:2007-11-01/
+Ett publikt aktiebolag, vars aktier är upptagna till
+handel på en reglerad marknad eller en motsvarande marknad
+utanför Europeiska ekonomiska samarbetsområdet, skall inför en
+bolagsstämma tillhandahålla aktieägarna ett fullmaktsformulär.
+
+Formuläret skall tillhandahållas tillsammans med kallelsen till
+bolagsstämman, om kallelsen sänds till aktieägarna. Om kallelse
+sker på något annat sätt, skall fullmaktsformuläret
+tillhandahållas aktieägarna på begäran efter det att
+bolagsstämman har tillkännagetts.
+
+Formuläret får inte innehålla namn på ombud eller ange hur
+ombudet skall rösta.
+
+Bestämmelserna i denna paragraf hindrar inte bolaget att
+tillhandahålla sådana fullmaktsformulär som avses i 4 §.
+Lag (2007:566).
+
 Utomståendes närvaro vid bolagsstämma
 
 55 § I ett publikt aktiebolag skall ett beslut enligt 6 §
@@ -2535,20 +2810,105 @@ det.
 
 Beslut vid årsstämman i aktiemarknadsbolag
 
-61 § I ett aktiebolag, vars aktier är noterade vid en börs
+61 § /Upphör att gälla U:2007-11-01/
+I ett aktiebolag, vars aktier är noterade vid en börs
 eller en auktoriserad marknadsplats, skall det vid årsstämman
 fattas beslut om riktlinjer för ersättning till ledande
 befattningshavare. Riktlinjerna skall ha det innehåll som anges
 i 8 kap. 51 § första stycket och 52 § första stycket.
 Lag (2006:562).
 
+61 § /Träder i kraft I:2007-11-01/
+I ett aktiebolag, vars aktier är upptagna till handel på
+en reglerad marknad i Sverige, skall det vid årsstämman fattas
+beslut om riktlinjer för ersättning till ledande
+befattningshavare. Riktlinjerna skall ha det innehåll som anges
+i 8 kap. 51 § första stycket och 52 § första stycket.
+Lag (2007:566).
+
 Tillhandahållande av handlingar inför årsstämman i
 aktiemarknadsbolag
 
-62 § I ett aktiebolag, vars aktier är noterade vid en börs
+62 § /Upphör att gälla U:2007-11-01/
+I ett aktiebolag, vars aktier är noterade vid en börs
 eller en auktoriserad marknadsplats, skall vad som sägs i 25 §
 även gälla revisorns yttrande enligt 8 kap. 54 §.
 Lag (2006:562).
+
+62 § /Träder i kraft I:2007-11-01/
+I ett aktiebolag, vars aktier är upptagna till handel på
+en reglerad marknad i Sverige, skall det som sägs i 25 § även
+gälla revisorns yttrande enligt 8 kap. 54 §. Lag (2007:566).
+
+Kallelsens innehåll i vissa publika aktiebolag
+
+63 § /Upphör att gälla U:2007-11-01/
+I ett publikt aktiebolag vars aktier är noterade vid en
+svensk eller utländsk börs, en auktoriserad marknadsplats eller
+någon annan reglerad marknad, skall en kallelse till en
+bolagsstämma, utöver det som anges i 24 §, även innehålla
+uppgift om det totala antalet aktier och röster i bolaget.
+Uppgifterna skall avse förhållandena vid tidpunkten för
+bolagsstämman eller, i fråga om avstämningsbolag, vid den
+tidpunkt som anges i 28 § tredje stycket. Om detta inte är
+möjligt, skall uppgifterna avse förhållandena vid den tidpunkt
+då kallelsen utfärdades. Lag (2007:373).
+
+63 § /Träder i kraft I:2007-11-01/
+I ett publikt aktiebolag vars aktier är upptagna till
+handel på en reglerad marknad eller en motsvarande marknad
+utanför Europeiska ekonomiska samarbetsområdet, skall en
+kallelse till en bolagsstämma, utöver det som anges i 24 §,
+även innehålla uppgift om det totala antalet aktier och röster
+i bolaget. Uppgifterna skall avse förhållandena vid tidpunkten
+för bolagsstämman eller, i fråga om avstämningsbolag, vid den
+tidpunkt som anges i 28 § tredje stycket. Om detta inte är
+möjligt, skall uppgifterna avse förhållandena vid den tidpunkt
+då kallelsen utfärdades. Lag (2007:566).
+
+Information till aktieägare i vissa publika aktiebolag
+
+64 § /Upphör att gälla U:2007-11-01/
+Under de förutsättningar som anges i 65-67 §§ får ett
+publikt aktiebolag vars aktier är noterade vid en svensk eller
+utländsk börs, en auktoriserad marknadsplats eller någon annan
+reglerad marknad, lämna information till aktieägare med
+elektroniska hjälpmedel även när det i lagen anges att
+informationen skall lämnas på något annat sätt. Lag (2007:373).
+
+64 § /Träder i kraft I:2007-11-01/
+Under de förutsättningar som anges i 65-67 §§ får ett
+publikt aktiebolag vars aktier är upptagna till handel på en
+reglerad marknad eller en motsvarande marknad utanför
+Europeiska ekonomiska samarbetsområdet, lämna information till
+aktieägare med elektroniska hjälpmedel även när det i lagen
+anges att informationen skall lämnas på något annat sätt.
+Lag (2007:566).
+
+65 § Ett beslut om att använda elektroniska hjälpmedel för
+information till aktieägare fattas av bolagsstämman.
+
+Elektroniska hjälpmedel får användas endast om bolaget har
+tillförlitliga rutiner för att identifiera aktieägarna.
+Lag (2007:373).
+
+66 § Bolaget får informera en aktieägare med elektroniska
+hjälpmedel endast om aktieägaren efter en förfrågan som
+skickats med post har godtagit ett sådant förfarande. En
+aktieägare som inte inom två veckor från det att förfrågan
+sändes har motsatt sig användningen av elektroniska hjälpmedel
+skall anses ha godtagit förfarandet. Av förfrågan skall det
+framgå att framtida information kan komma att lämnas med
+elektroniska hjälpmedel, om inte aktieägaren uttryckligen
+motsätter sig detta.
+
+En aktieägare som har godtagit att information lämnas med
+elektroniska hjälpmedel kan när som helst återta sitt
+godtagande. Lag (2007:373).
+
+67 § Det som föreskrivs i fråga om aktieägare i 64-66 §§ skall
+också tilllämpas på den som har rätt att utöva en aktieägares
+rättigheter i dennes ställe. Lag (2007:373).
 
 8 kap. Bolagets ledning
 
@@ -3065,7 +3425,8 @@ verkställande direktör som fullgör de uppgifter som anges i
 Riktlinjer för ersättning till ledande befattningshavare i
 aktiemarknadsbolag
 
-51 § I ett aktiebolag, vars aktier är noterade vid en börs
+51 § /Upphör att gälla U:2007-11-01/
+I ett aktiebolag, vars aktier är noterade vid en börs
 eller en auktoriserad marknadsplats, skall styrelsen varje år
 upprätta förslag till riktlinjer för bestämmande av lön och
 annan ersättning till den verkställande direktören och andra
@@ -3084,6 +3445,27 @@ detta och om skälet till avvikelsen fogas till förslaget.
 Första stycket gäller inte sådana emissioner och överlåtelser
 som omfattas av 16 kap. Det gäller inte heller ersättning som
 omfattas av 23 a § första stycket. Lag (2006:562).
+
+51 § /Träder i kraft I:2007-11-01/
+I ett aktiebolag, vars aktier är upptagna till handel på
+en reglerad marknad i Sverige, skall styrelsen varje år
+upprätta förslag till riktlinjer för bestämmande av lön och
+annan ersättning till den verkställande direktören och andra
+personer i bolagets ledning. Med ersättning jämställs
+överlåtelse av värdepapper och upplåtelse av rätt att i
+framtiden förvärva värdepapper från bolaget. Riktlinjerna skall
+avse tiden från nästa årsstämma.
+
+Information om tidigare beslutade ersättningar som inte har
+förfallit till betalning skall fogas till förslaget.
+
+Om, i fall som avses i 53 §, de riktlinjer som bolagsstämman
+har beslutat om inte har följts, skall även information om
+detta och om skälet till avvikelsen fogas till förslaget.
+
+Första stycket gäller inte sådana emissioner och överlåtelser
+som omfattas av 16 kap. Det gäller inte heller ersättning som
+omfattas av 23 a § första stycket. Lag (2007:566).
 
 52 § Om förslaget enligt 51 § ger utrymme för ersättning som
 inte på förhand är bestämd till ett visst belopp, skall det
@@ -3213,25 +3595,7 @@ vara revisor.
 Bestämmelser om auktoriserade och godkända revisorer finns i
 revisorslagen (2001:883).
 
-13 § /Upphör att gälla U:2007-01-01/
-Minst en av bolagsstämman utsedd revisor skall vara
-auktoriserad revisor eller godkänd revisor som har avlagt
-revisorsexamen, om
-
-1. tillgångarnas nettovärde enligt fastställda balansräkningar
-för de två senaste räkenskapsåren överstiger ett gränsbelopp
-som motsvarar 1 000 gånger det prisbasbelopp enligt lagen
-(1962:381) om allmän försäkring som gällde vid utgången av
-respektive räkenskapsår,
-
-2. antalet anställda hos bolaget under de två senaste
-räkenskapsåren i medeltal har överstigit 200, eller
-
-3. bolagets aktier, teckningsoptioner eller skuldebrev är
-noterade vid en börs, en auktoriserad marknadsplats eller någon
-annan reglerad marknad.
-
-13 § /Träder i kraft I:2007-01-01/
+13 § /Upphör att gälla U:2007-11-01/
 Minst en av bolagsstämman utsedd revisor skall vara
 auktoriserad revisor eller godkänd revisor som har avlagt
 revisorsexamen, om
@@ -3253,25 +3617,30 @@ kronor, eller
 noterade vid en börs, en auktoriserad marknadsplats eller någon
 annan reglerad marknad. Lag (2006:877).
 
-14 § /Upphör att gälla U:2007-01-01/
-Bestämmelserna i 13 § gäller även för moderbolag i en
-koncern, om
+13 § /Träder i kraft I:2007-11-01/
+Minst en av bolagsstämman utsedd revisor skall vara
+auktoriserad revisor eller godkänd revisor som har avlagt
+revisorsexamen, om
 
-1. nettovärdet av koncernföretagens tillgångar enligt
-fastställda koncernbalansräkningar för de två senaste
-räkenskapsåren överstiger det gränsbelopp som anges i 13 § 1,
+1. bolaget uppfyller mer än ett av följande villkor:
 
-2. antalet anställda vid koncernföretagen under de två senaste
-räkenskapsåren i medeltal har överstigit 200, eller
+a) medelantalet anställda i bolaget har under vart och ett av
+de två senaste räkenskapsåren uppgått till mer än 50,
 
-3. moderbolaget inte upprättar någon koncernredovisning och
-nettovärdet av koncernföretagens tillgångar, enligt fastställda
-balansräkningar för koncernföretagens två senaste räkenskapsår,
-på moderbolagets balansdag överstiger det gränsbelopp som anges
-i 13 § 1.
+b) bolagets redovisade balansomslutning har för vart och ett av
+de två senaste räkenskapsåren uppgått till mer än 25 miljoner
+kronor,
 
-14 § /Träder i kraft I:2007-01-01/
-Bestämmelserna i 13 § gäller även för moderbolag i en
+c) bolagets redovisade nettoomsättning har för vart och ett av
+de två senaste räkenskapsåren uppgått till mer än 50 miljoner
+kronor, eller
+
+2. bolagets aktier, teckningsoptioner eller skuldebrev är
+upptagna till handel på en reglerad marknad eller en
+motsvarande marknad utanför Europeiska ekonomiska
+samarbetsområdet. Lag (2007:566).
+
+14 § Bestämmelserna i 13 § gäller även för moderbolag i en
 koncern, om koncernen uppfyller mer än ett av följande villkor:
 
 1. medelantalet anställda i koncernen har under vart och ett av
@@ -3305,40 +3674,7 @@ bolagsstämma där revisorsval skall ske.
 
 Jäv
 
-17 § /Upphör att gälla U:2007-01-01/
-Den får inte vara revisor som
-
-1. äger aktie i bolaget eller annat bolag i samma koncern,
-
-2. är ledamot av styrelsen eller verkställande direktör i
-bolaget eller dess dotterföretag eller biträder vid bolagets
-bokföring eller medelsförvaltning eller bolagets kontroll
-däröver,
-
-3. är anställd hos eller på annat sätt har en underordnad eller
-beroende ställning till bolaget eller någon som avses i 2,
-
-4. är verksam i samma företag som den som yrkesmässigt biträder
-bolaget vid grundbokföringen eller medelsförvaltningen eller
-bolagets kontroll däröver,
-
-5. är gift eller sambo med eller är syskon eller släkting i
-rätt upp- eller nedstigande led till en person som avses i 2,
-
-6. är besvågrad med en person som avses i 2 i rätt upp- eller
-nedstigande led eller så att den ene är gift med den andres
-syskon, eller
-
-7. står i låneskuld till bolaget eller ett annat bolag i samma
-koncern eller har en förpliktelse som ett sådant bolag har
-ställt säkerhet för.
-
-Den som enligt första stycket inte är behörig att vara revisor
-i ett moderbolag får inte heller vara revisor i dess
-dotterbolag.
-
-17 § /Träder i kraft I:2007-01-01/
-Den får inte vara revisor som
+17 § Den får inte vara revisor som
 
 1. äger aktie i bolaget eller annat bolag i samma koncern,
 
@@ -3810,40 +4146,7 @@ föräldrabalken kan inte vara lekmannarevisor.
 
 Jäv
 
-10 § /Upphör att gälla U:2007-01-01/
-Den får inte vara lekmannarevisor som
-
-1. äger aktie i bolaget eller annat bolag i samma koncern,
-
-2. är ledamot av styrelsen eller verkställande direktör i
-bolaget eller dess dotterföretag eller biträder vid bolagets
-bokföring eller medelsförvaltning eller bolagets kontroll
-däröver,
-
-3. är anställd hos eller på annat sätt har en underordnad eller
-beroende ställning till bolaget eller någon som avses i 2,
-
-4. är verksam i samma företag som den som yrkesmässigt biträder
-bolaget vid grundbokföringen eller medelsförvaltningen eller
-bolagets kontroll däröver,
-
-5. är gift eller sambo med eller är syskon eller släkting i
-rätt upp- eller nedstigande led till en person som avses i 2,
-
-6. är besvågrad med en person som avses i 2 i rätt upp- eller
-nedstigande led eller så att den ene är gift med den andres
-syskon, eller
-
-7. står i låneskuld till bolaget eller ett annat bolag i samma
-koncern eller har en förpliktelse som ett sådant bolag har
-ställt säkerhet för.
-
-Den som enligt första stycket inte är behörig att vara
-lekmannarevisor i ett moderbolag får inte heller vara
-lekmannarevisor i dess dotterbolag.
-
-10 § /Träder i kraft I:2007-01-01/
-Den får inte vara lekmannarevisor som
+10 § Den får inte vara lekmannarevisor som
 
 1. äger aktie i bolaget eller annat bolag i samma koncern,
 
@@ -4120,13 +4423,14 @@ ny aktie, konvertibel eller teckningsoption, eller
 emissionsbevis.
 
 Första stycket tillämpas också när en innehavare av
-teckningsoptioner eller konvertibler har företrädesrätt till
-teckning av nya aktier, teckningsoptioner eller konvertibler.
+teckningsoptioner eller konvertibler har rätt till teckning av
+nya aktier, teckningsoptioner eller konvertibler
 
 Av 4 kap. 5 § lagen (1998:1479) om kontoföring av finansiella
 instrument framgår att emissionsbevis eller
 teckningsoptionsbevis inte får utfärdas för aktier eller andra
 finansiella instrument som har registrerats enligt den lagen.
+Lag (2007:317).
 
 Undertecknande av emissionsbevis m.m.
 
@@ -4154,11 +4458,11 @@ teckningsrätter registreras enligt lagen (1998:1479) om
 kontoföring av finansiella instrument.
 
 Om bolaget har tillförsäkrat innehavare av teckningsoptioner
-eller konvertibler företrädesrätt till teckning av nya aktier,
+eller konvertibler rätt till teckning av nya aktier,
 teckningsoptioner eller konvertibler och teckningsoptionerna
 eller konvertiblerna har registrerats enligt lagen om
-kontoföring av finansiella instrument, skall också
-företrädesrätten registreras enligt samma lag.
+kontoföring av finansiella instrument, skall också rätten till
+teckning registreras enligt samma lag. Lag (2007:317).
 
 Försäljning av överskjutande fondaktierätter och
 teckningsrätter
@@ -4190,17 +4494,16 @@ efter det år då ökningen av aktiekapitalet har registrerats.
 Utdelning på nya aktier får inte betalas ut förrän ökningen av
 aktiekapitalet har registrerats.
 
-Vinstandelslån och kapitalandelslån
+Vissa lån
 
-11 § Ett beslut om att bolaget skall ta upp ett lån där räntan
-eller det belopp med vilket återbetalning skall ske helt eller
-delvis är beroende av utdelningen till aktieägarna,
-kursutvecklingen på bolagets aktier, bolagets resultat eller
-bolagets finansiella ställning skall fattas av bolagsstämman
-eller, efter bolagsstämmans bemyndigande, av styrelsen.
+11 § Ett beslut om att bolaget skall ta upp ett lån skall
+fattas av bolagsstämman eller, efter bolagsstämmans
+bemyndigande, av styrelsen, om storleken av den ränta som skall
+löpa på lånet eller det belopp som skall återbetalas skall öka
+om bolagets vinst eller utdelningen till aktieägarna ökar.
 
 Ett bemyndigande enligt första stycket får inte sträcka sig
-längre än till nästa årsstämma.
+längre än till nästa årsstämma. Lag (2007:317).
 
 12 § Har utgått genom lag (2005:836).
 
@@ -4443,7 +4746,8 @@ enligt bestämmelserna i 4-8 §§.
 
 Förslagets innehåll
 
-4 § I förslaget enligt 3 § skall följande anges:
+4 § /Upphör att gälla U:2007-11-01/
+I förslaget enligt 3 § skall följande anges:
 
 1. det belopp eller högsta belopp, som bolagets aktiekapital
 skall ökas med, eller det lägsta och högsta beloppet för
@@ -4455,9 +4759,8 @@ högsta antal aktier som skall ges ut,
 3. det belopp som skall betalas för varje ny aktie
 (teckningskursen),
 
-4. den företrädesrätt att teckna aktier som aktieägarna eller
-någon annan skall ha eller vem som annars skall få teckna
-aktier,
+4. den rätt att teckna aktier som aktieägarna eller någon annan
+skall ha,
 
 5. den tid inom vilken aktieteckning skall ske,
 
@@ -4471,8 +4774,8 @@ enligt 13 § tredje stycket, samt
 8. från vilken tidpunkt de nya aktierna skall ge rätt till
 utdelning.
 
-Uppgifter som avses i första stycket 1 och 3 behöver inte anges
-i förslaget, om det föreslås att stämman skall besluta om ett
+Uppgifter som avses i första stycket 1-3 behöver inte anges i
+förslaget, om det föreslås att stämman skall besluta om ett
 sådant bemyndigande som avses i 5 § första stycket 8.
 
 Teckningskursen enligt första stycket 3 får inte sättas lägre
@@ -4497,9 +4800,67 @@ aktierna. I bolag som inte är avstämningsbolag räknas denna tid
 från det att underrättelse enligt 12 § har skett eller, om
 samtliga aktieägare har varit företrädda på den stämma som har
 beslutat om emissionen, från beslutet. I avstämningsbolag
-räknas tiden från avstämningsdagen.
+räknas tiden från avstämningsdagen. Lag (2007:317).
 
-5 § I förekommande fall skall förslaget enligt 3 § innehålla
+4 § /Träder i kraft I:2007-11-01/
+I förslaget enligt 3 § skall följande anges:
+
+1. det belopp eller högsta belopp, som bolagets aktiekapital
+skall ökas med, eller det lägsta och högsta beloppet för
+ökningen,
+
+2. det antal aktier, högsta antal aktier eller lägsta och
+högsta antal aktier som skall ges ut,
+
+3. det belopp som skall betalas för varje ny aktie
+(teckningskursen),
+
+4. den rätt att teckna aktier som aktieägarna eller någon annan
+skall ha,
+
+5. den tid inom vilken aktieteckning skall ske,
+
+6. den fördelningsgrund som styrelsen skall tillämpa för aktier
+som inte tecknas med företrädesrätt,
+
+7. den tid inom vilken aktierna skall betalas eller, i
+förekommande fall, att teckning skall ske genom betalning
+enligt 13 § tredje stycket, samt
+
+8. från vilken tidpunkt de nya aktierna skall ge rätt till
+utdelning.
+
+Uppgifter som avses i första stycket 1-3 behöver inte anges i
+förslaget, om det föreslås att stämman skall besluta om ett
+sådant bemyndigande som avses i 5 § första stycket 8.
+
+Teckningskursen enligt första stycket 3 får inte sättas lägre
+än de tidigare aktiernas kvotvärde. I bolag vars aktier är
+upptagna till handel på en reglerad marknad eller en
+motsvarande marknad utanför Europeiska ekonomiska
+samarbetsområdet får dock teckningskursen vara lägre, om ett
+belopp som motsvarar skillnaden mellan teckningskursen och
+aktiernas kvotvärde tillförs aktiekapitalet genom överföring
+från bolagets eget kapital i övrigt eller genom uppskrivning av
+värdet av anläggningstillgångar. En sådan överföring eller
+uppskrivning skall ske innan beslutet om nyemission
+registreras.
+
+Innebär förslaget enligt första stycket 4 en avvikelse från
+aktieägarnas företrädesrätt, skall skälen till avvikelsen samt
+grunderna för teckningskursen anges i förslaget eller i en
+bifogad handling.
+
+Teckningstiden enligt första stycket 5 får inte understiga två
+veckor, om aktieägarna skall ha företrädesrätt till de nya
+aktierna. I bolag som inte är avstämningsbolag räknas denna tid
+från det att underrättelse enligt 12 § har skett eller, om
+samtliga aktieägare har varit företrädda på den stämma som har
+beslutat om emissionen, från beslutet. I avstämningsbolag
+räknas tiden från avstämningsdagen. Lag (2007:566).
+
+5 § /Upphör att gälla U:2007-11-01/
+I förekommande fall skall förslaget enligt 3 § innehålla
 uppgift om
 
 1. de nya aktiernas aktieslag, om det i bolaget finns eller kan
@@ -4526,8 +4887,9 @@ eller att en aktie skall tecknas med kvittningsrätt,
 
 8. bemyndigande för styrelsen eller den som styrelsen utser
 inom sig att innan teckningstiden börjar löpa besluta om vilket
-belopp som bolagets aktiekapital skall ökas med och vilket
-belopp som skall betalas för varje ny aktie.
+belopp som bolagets aktiekapital skall ökas med, det antal
+aktier som skall ges ut och vilket belopp som skall betalas för
+varje ny aktie.
 
 Om emissionsbeslutet förutsätter ändring av bolagsordningen,
 skall också detta anges.
@@ -4543,9 +4905,60 @@ auktoriserad marknadsplats eller någon annan reglerad marknad.
 Om bolaget är avstämningsbolag och aktieägare skall ha
 företrädesrätt att delta i emissionen, skall bemyndigandet
 utformas så att villkoren beslutas senast den dag som infaller
-tre dagar före avstämningsdagen.
+fem vardagar före avstämningsdagen.
 
 I fråga om publika aktiebolag gäller även 39 §.
+Lag (2007:317).
+
+5 § /Träder i kraft I:2007-11-01/
+I förekommande fall skall förslaget enligt 3 § innehålla
+uppgift om
+
+1. de nya aktiernas aktieslag, om det i bolaget finns eller kan
+ges ut aktier av olika slag,
+
+2. huruvida förbehåll enligt 4 kap. 6, 8, 18 eller 27 § eller
+20 kap. 31 § som gäller för gamla aktier i bolaget skall gälla
+för de nya aktierna,
+
+3. att kuponger som hör till aktiebreven skall användas som
+emissionsbevis,
+
+4. att överskjutande teckningsrätter skall säljas enligt 11
+kap. 9 §,
+
+5. avstämningsdagen, om bolaget är avstämningsbolag och
+aktieägare skall ha företrädesrätt att delta i emissionen,
+
+6. att nya aktier skall betalas med apportegendom eller i annat
+fall på villkor som avses i 2 kap. 5 § andra stycket 1-3 och 5
+eller att en aktie skall tecknas med kvittningsrätt,
+
+7. övriga särskilda villkor för aktieteckning, och
+
+8. bemyndigande för styrelsen eller den som styrelsen utser
+inom sig att innan teckningstiden börjar löpa besluta om vilket
+belopp som bolagets aktiekapital skall ökas med, det antal
+aktier som skall ges ut och vilket belopp som skall betalas för
+varje ny aktie.
+
+Om emissionsbeslutet förutsätter ändring av bolagsordningen,
+skall också detta anges.
+
+Avstämningsdagen får inte sättas tidigare än en vecka från
+dagen för beslutet.
+
+I fråga om apportegendom gäller bestämmelserna i 2 kap. 6 §.
+
+Ett bemyndigande som avses i första stycket 8 får lämnas endast
+om aktierna skall tas upp till handel på en reglerad marknad
+eller en motsvarande marknad utanför Europeiska ekonomiska
+samarbetsområdet. Om bolaget är avstämningsbolag och aktieägare
+skall ha företrädesrätt att delta i emissionen, skall
+bemyndigandet utformas så att villkoren beslutas senast den dag
+som infaller fem vardagar före avstämningsdagen.
+
+I fråga om publika aktiebolag gäller även 39 §. Lag (2007:566).
 
 Kompletterande information
 
@@ -4626,12 +5039,12 @@ Handlingarna skall läggas fram på stämman.
 Kallelsens innehåll
 
 10 § Kallelsen till den bolagsstämma som skall pröva förslaget
-enligt 3 § skall innehålla uppgift om den företrädesrätt att
-teckna aktier som aktieägarna eller annan skall ha eller vem
-som annars skall få delta i emissionen. Om aktieägarna inte
-skall ha företrädesrätt i förhållande till det antal aktier de
-äger eller enligt vad som föreskrivs i bolagsordningen, skall
-förslagets huvudsakliga innehåll anges.
+enligt 3 § skall innehålla uppgift om den rätt att teckna
+aktier som aktieägarna eller annan skall ha. Om aktieägarna
+inte skall ha företrädesrätt i förhållande till det antal
+aktier de äger eller enligt vad som föreskrivs i
+bolagsordningen, skall förslagets huvudsakliga innehåll anges.
+Lag (2007:317).
 
 Bolagsstämmans beslut
 
@@ -4886,6 +5299,11 @@ i 6-8 §§ tillhandahållas aktieägarna enligt 9 §. Kallelsen till
 bolagsstämman skall innehålla de uppgifter om beslutet som
 anges i 10 §.
 
+Om styrelsens beslut innebär att emissionen skall ske med
+avvikelse från aktieägarnas företrädesrätt, skall 2 § tillämpas
+i fråga om bolagsstämmans godkännande av beslutet.
+Lag (2007:317).
+
 34 § Styrelsens beslut enligt 31 § skall anmälas för
 registrering i aktiebolagsregistret inom ett år från beslutet,
 om det inte har upphört att gälla enligt 17 §. Beslutet får
@@ -4900,11 +5318,13 @@ nyemission av aktier i den mån emissionen kan ske utan ändring
 av bolagsordningen. I ett sådant bemyndigande kan styrelsen ges
 rätt att med stöd av 1 § andra stycket 2 c bestämma att
 emissionen skall ske med avvikelse från aktieägarnas
-företrädesrätt.
+företrädesrätt. Om bemyndigandet skall ha denna innebörd, skall
+2 § tillämpas. Lag (2007:317).
 
 36 § Om bolagsstämman skall pröva en fråga om bemyndigande
-enligt 35 §, skall styrelsen upprätta ett förslag till beslut.
-I förslaget skall det särskilt anges om styrelsen skall kunna
+enligt 35 §, skall styrelsen eller, om förslaget väcks av någon
+annan, förslagsställaren upprätta ett förslag till beslut. I
+förslaget skall det särskilt anges om styrelsen skall kunna
 besluta om emission med en sådan bestämmelse som avses i 5 §
 första stycket 6 eller med avvikelse från aktieägarnas
 företrädesrätt. I förslaget skall vidare anges den tid, före
@@ -4912,8 +5332,10 @@ nästa årsstämma, inom vilken bemyndigandet får utnyttjas.
 
 Förslaget skall före den bolagsstämma som skall pröva frågan om
 bemyndigande tillhandahållas aktieägarna på det sätt som anges
-i 9 §. Kallelsen till bolagsstämman skall innehålla de
-uppgifter om det föreslagna bemyndigandet som anges i 10 §.
+i 9 §. Om det föreslås att styrelsen skall bemyndigas att
+besluta om avvikelse från aktieägarnas företrädesrätt, skall
+förslagets huvudsakliga innehåll framgå av kallelsen till
+bolagsstämman. Lag (2007:317).
 
 37 § Bolagsstämmans beslut om bemyndigande enligt 35 § skall
 genast anmälas för registrering i aktiebolagsregistret. Innan
@@ -5028,9 +5450,8 @@ emissionsvillkoren:
 teckningsoptioner eller lägsta och högsta antal
 teckningsoptioner som skall ges ut,
 
-2. den företrädesrätt att teckna teckningsoptioner som
-aktieägarna eller någon annan skall ha eller vem som annars
-skall få teckna teckningsoptioner,
+2. den rätt att teckna teckningsoptioner som aktieägarna eller
+någon annan skall ha,
 
 3. den tid inom vilken teckning av teckningsoptioner skall ske,
 
@@ -5056,8 +5477,10 @@ räknas denna tid från det att en underrättelse enligt 14 § har
 skett eller, om samtliga aktieägare har varit företrädda på den
 stämma som har beslutat om emissionen, från beslutet. I
 avstämningsbolag räknas tiden från avstämningsdagen.
+Lag (2007:317).
 
-5 § I förekommande fall skall förslaget enligt 3 § innehålla
+5 § /Upphör att gälla U:2007-11-01/
+I förekommande fall skall förslaget enligt 3 § innehålla
 uppgift om
 
 1. att kuponger som hör till aktiebreven skall användas som
@@ -5098,7 +5521,53 @@ utländsk börs, en auktoriserad marknadsplats eller någon annan
 reglerad marknad. Om bolaget är avstämningsbolag och aktieägare
 skall ha företrädesrätt att delta i emissionen, skall
 bemyndigandet utformas så att villkoren beslutas senast den dag
-som infaller tre dagar före avstämningsdagen.
+som infaller fem vardagar före avstämningsdagen.
+Lag (2007:317).
+
+5 § /Träder i kraft I:2007-11-01/
+I förekommande fall skall förslaget enligt 3 § innehålla
+uppgift om
+
+1. att kuponger som hör till aktiebreven skall användas som
+emissionsbevis,
+
+2. att överskjutande teckningsrätter skall säljas enligt 11
+kap. 9 §,
+
+3. avstämningsdagen, om bolaget är avstämningsbolag och
+aktieägare skall ha företrädesrätt att delta i emissionen,
+
+4. det belopp som skall betalas för varje teckningsoption,
+
+5. den tid inom vilken teckningsoptionerna skall betalas eller
+att teckning skall ske genom betalning enligt 15 § tredje
+stycket,
+
+6. att teckningsoptionerna skall betalas med apportegendom
+eller i annat fall på villkor som avses i 2 kap. 5 § andra
+stycket 1-3 och 5 eller att teckningsoptioner skall tecknas med
+kvittningsrätt,
+
+7. övriga särskilda villkor för tecknande av teckningsoptioner,
+och
+
+8. bemyndigande för styrelsen eller den styrelsen utser inom
+sig att innan teckningstiden börjar löpa besluta om det antal
+teckningsoptioner som skall ges ut, vilket belopp som skall
+betalas för varje teckningsoption, teckningskursen samt sådana
+villkor som avses i 7.
+
+Avstämningsdagen får inte sättas tidigare än en vecka från
+dagen för beslutet.
+
+Ett bemyndigande som avses i första stycket 8 får lämnas endast
+om teckningsoptionerna skall tas upp till handel på en reglerad
+marknad eller en motsvarande marknad utanför Europeiska
+ekonomiska samarbetsområdet. Om bolaget är avstämningsbolag och
+aktieägare skall ha företrädesrätt att delta i emissionen,
+skall bemyndigandet utformas så att villkoren beslutas senast
+den dag som infaller fem vardagar före avstämningsdagen.
+Lag (2007:566).
 
 6 § I förslaget enligt 3 § skall följande anges i fråga om
 utnyttjande av optionsrätten:
@@ -5218,12 +5687,12 @@ Handlingarna skall läggas fram på stämman.
 Kallelsens innehåll
 
 12 § Kallelsen till den bolagsstämma som skall pröva förslaget
-enligt 3 § skall innehålla uppgift om den företrädesrätt att
-teckna teckningsoptioner som aktieägarna eller annan skall ha
-eller vem som annars skall få delta i emissionen. Om
+enligt 3 § skall innehålla uppgift om den rätt att teckna
+teckningsoptioner som aktieägarna eller annan skall ha. Om
 aktieägarna inte skall ha företrädesrätt i förhållande till det
 antal aktier de äger eller enligt vad som föreskrivs i
 bolagsordningen, skall förslagets huvudsakliga innehåll anges.
+Lag (2007:317).
 
 Bolagsstämmans beslut
 
@@ -5373,6 +5842,11 @@ i 8-10 §§ tillhandahållas aktieägarna enligt 11 §. Kallelsen
 till bolagsstämman skall innehålla de uppgifter om beslutet som
 anges i 12 §.
 
+Om styrelsens beslut innebär att emissionen skall ske med
+avvikelse från aktieägarnas företrädesrätt, skall 2 § tillämpas
+i fråga om bolagsstämmans godkännande av beslutet.
+Lag (2007:317).
+
 27 § Styrelsens beslut enligt 24 § skall anmälas för
 registrering i aktiebolagsregistret inom ett år från beslutet,
 om det inte har upphört att gälla enligt 19 §. Beslutet får
@@ -5387,11 +5861,13 @@ emission av teckningsoptioner i den mån emissionen kan ske utan
 ändring av bolagsordningen. I ett sådant bemyndigande kan
 styrelsen ges rätt att med stöd av 1 § andra stycket 2 c
 bestämma att emissionen skall ske med avvikelse från
-aktieägarnas företrädesrätt.
+aktieägarnas företrädesrätt. Om bemyndigandet skall ha denna
+innebörd, skall 2 § tillämpas. Lag (2007:317).
 
 29 § Om bolagsstämman skall pröva en fråga om bemyndigande
-enligt 28 §, skall styrelsen upprätta ett förslag till beslut.
-I förslaget skall det särskilt anges om styrelsen skall kunna
+enligt 28 §, skall styrelsen eller, om förslaget väcks av någon
+annan, förslagsställaren upprätta ett förslag till beslut. I
+förslaget skall det särskilt anges om styrelsen skall kunna
 besluta om emission med en sådan bestämmelse som avses i 5 §
 första stycket 6 eller med avvikelse från aktieägarnas
 företrädesrätt. I förslaget skall vidare anges den tid, före
@@ -5399,8 +5875,10 @@ nästa årsstämma, inom vilken bemyndigandet får utnyttjas.
 
 Förslaget skall före den bolagsstämma som skall pröva frågan om
 bemyndigande tillhandahållas aktieägarna på det sätt som anges
-i 11 §. Kallelsen till bolagsstämman skall innehålla de
-uppgifter om det föreslagna bemyndigandet som anges i 12 §.
+i 11 §. Om det föreslås att styrelsen skall bemyndigas att
+besluta om avvikelse från aktieägarnas företrädesrätt, skall
+förslagets huvudsakliga innehåll framgå av kallelsen till
+bolagsstämman. Lag (2007:317).
 
 30 § Bolagsstämmans beslut om bemyndigande enligt 28 § skall
 genast anmälas för registrering i aktiebolagsregistret. Innan
@@ -5667,9 +6145,8 @@ det lägsta och högsta lånebeloppet,
 3. det belopp som skall betalas för varje konvertibel
 (teckningskursen) och räntefot,
 
-4. den företrädesrätt att teckna konvertibler som aktieägarna
-eller någon annan skall ha eller vem som annars skall få delta
-i emissionen,
+4. den rätt att teckna konvertibler som aktieägarna eller någon
+annan skall ha,
 
 5. den tid inom vilken teckning av konvertibler skall ske,
 
@@ -5696,8 +6173,10 @@ denna tid från det att underrättelse enligt 14 § har skett
 eller, om samtliga aktieägare har varit företrädda på den
 stämma som har beslutat om emissionen, från beslutet. I
 avstämningsbolag räknas tiden från avstämningsdagen.
+Lag (2007:317).
 
-5 § I förekommande fall skall förslaget enligt 3 § innehålla
+5 § /Upphör att gälla U:2007-11-01/
+I förekommande fall skall förslaget enligt 3 § innehålla
 uppgift om
 
 1. att kuponger som hör till aktiebreven skall användas som
@@ -5734,9 +6213,53 @@ börs, en auktoriserad marknadsplats eller någon annan reglerad
 marknad. Om bolaget är avstämningsbolag och aktieägare skall ha
 företrädesrätt att delta i emissionen, skall bemyndigandet
 utformas så att villkoren beslutas senast den dag som infaller
-tre dagar före avstämningsdagen.
+fem vardagar före avstämningsdagen.
 
 I fråga om publika aktiebolag gäller även 41 §.
+Lag (2007:317).
+
+5 § /Träder i kraft I:2007-11-01/
+I förekommande fall skall förslaget enligt 3 § innehålla
+uppgift om
+
+1. att kuponger som hör till aktiebreven skall användas som
+emissionsbevis,
+
+2. att överskjutande teckningsrätter skall säljas enligt 11
+kap. 9 §,
+
+3. avstämningsdagen, om bolaget är avstämningsbolag och
+aktieägare skall ha företrädesrätt att delta i emissionen,
+
+4. att konvertiblerna skall betalas med apportegendom eller i
+annat fall på villkor som avses i 2 kap. 5 § andra stycket 1-3
+och 5 eller att en konvertibel skall tecknas med
+kvittningsrätt,
+
+5. övriga särskilda villkor för det lån som bolaget tar genom
+emissionen, och
+
+6. bemyndigande för styrelsen eller den som styrelsen utser
+inom sig att innan teckningstiden börjar löpa besluta om
+lånebelopp, det belopp som skall betalas för varje konvertibel,
+räntefot, konverteringskursen samt sådana villkor som avses i
+5.
+
+Avstämningsdagen får inte sättas tidigare än en vecka från
+tidpunkten för beslutet.
+
+I fråga om apportegendom gäller bestämmelserna i 2 kap. 6 §.
+
+Ett bemyndigande som avses i första stycket 6 får lämnas endast
+om konvertiblerna skall tas upp till handel på en reglerad
+marknad eller en motsvarande marknad utanför Europeiska
+ekonomiska samarbetsområdet. Om bolaget är avstämningsbolag och
+aktieägare skall ha företrädesrätt att delta i emissionen,
+skall bemyndigandet utformas så att villkoren beslutas senast
+den dag som infaller fem vardagar före avstämningsdagen.
+
+I fråga om publika aktiebolag gäller även 41 §.
+Lag (2007:566).
 
 6 § I förslaget enligt 3 § skall följande anges i fråga om
 konvertering:
@@ -5858,12 +6381,12 @@ Handlingarna skall läggas fram på stämman.
 Kallelsens innehåll
 
 12 § Kallelsen till den bolagsstämma som skall pröva förslaget
-enligt 3 § skall innehålla uppgift om den företrädesrätt att
-teckna konvertibler som aktieägarna eller annan skall ha eller
-vem som annars skall få delta i emissionen. Om aktieägarna inte
-skall ha företrädesrätt i förhållande till det antal aktier de
-äger eller enligt vad som föreskrivs i bolagsordningen, skall
-det huvudsakliga innehållet i förslaget alltid anges.
+enligt 3 § skall innehålla uppgift om den rätt att teckna
+konvertibler som aktieägarna eller annan skall ha. Om
+aktieägarna inte skall ha företrädesrätt i förhållande till det
+antal aktier de äger eller enligt vad som föreskrivs i
+bolagsordningen, skall det huvudsakliga innehållet i förslaget
+anges. Lag (2007:317).
 
 Bolagsstämmans beslut
 
@@ -6062,6 +6585,11 @@ i 8-10 §§ tillhandahållas aktieägarna enligt 11 §. Kallelsen
 till bolagsstämman skall innehålla de uppgifter om beslutet som
 anges i 12 §.
 
+Om styrelsens beslut innebär att emissionen skall ske med
+avvikelse från aktieägarnas företrädesrätt, skall 2 § tillämpas
+i fråga om bolagsstämmans godkännande av beslutet.
+Lag (2007:317).
+
 32 § Styrelsens beslut enligt 29 § skall anmälas för
 registrering i aktiebolagsregistret inom ett år från beslutet,
 om det inte har upphört att gälla enligt 19 §. Beslutet får
@@ -6076,11 +6604,13 @@ emission av konvertibler i den mån emissionen kan ske utan
 ändring av bolagsordningen. I ett sådant bemyndigande kan
 styrelsen ges rätt att med stöd av 1 § andra stycket 2 c
 bestämma att emissionen skall ske med avvikelse från
-aktieägarnas företrädesrätt.
+aktieägarnas företrädesrätt. Om bemyndigandet skall ha denna
+innebörd, skall 2 § tilllämpas. Lag (2007:317).
 
 34 § Om bolagsstämman skall pröva en fråga om bemyndigande
-enligt 33 §, skall styrelsen upprätta ett förslag till beslut.
-I förslaget skall det särskilt anges om styrelsen skall kunna
+enligt 33 §, skall styrelsen eller, om förslaget väcks av någon
+annan, förslagsställaren upprätta ett förslag till beslut. I
+förslaget skall det särskilt anges om styrelsen skall kunna
 besluta om emission med en sådan bestämmelse som avses i 5 §
 första stycket 4 eller med avvikelse från aktieägarnas
 företrädesrätt. I förslaget skall vidare anges den tid, före
@@ -6088,8 +6618,10 @@ nästa årsstämma, inom vilken bemyndigandet får utnyttjas.
 
 Förslaget skall före den bolagsstämma som skall pröva frågan om
 bemyndigande tillhandahållas aktieägarna på det sätt som anges
-i 11 §. Kallelsen till bolagsstämman skall innehålla de
-uppgifter om det föreslagna bemyndigandet som anges i 12 §.
+i 11 §. Om det föreslås att styrelsen skall bemyndigas att
+besluta om avvikelse från aktieägarnas företrädesrätt, skall
+förslagets huvudsakliga innehåll framgå av kallelsen till
+bolagsstämman. Lag (2007:317).
 
 35 § Bolagsstämmans beslut om bemyndigande enligt 33 § skall
 genast anmälas för registrering i aktiebolagsregistret. Innan
@@ -6200,10 +6732,7 @@ eller konvertibler,
 2. överlåtelse av aktier, teckningsoptioner eller konvertibler
 som har getts ut av ett bolag inom samma koncern, eller
 
-3. lån där räntan eller det belopp med vilket återbetalning
-skall ske helt eller delvis är beroende av utdelningen till
-aktieägarna, kursutvecklingen på bolagets aktier, bolagets
-resultat eller bolagets finansiella ställning.
+3. lån som avses i 11 kap 11 §. Lag (2007:317).
 
 Nyemission av aktier m.m.
 
@@ -6251,8 +6780,8 @@ innehållet i kallelsen till bolagsstämma.
 
 Överlåtelse av aktier, teckningsoptioner eller konvertibler
 
-4 § Om ett aktiebolag som är dotterbolag till ett publikt
-aktiebolag har gett ut aktier, teckningsoptioner eller
+4 § Om ett publikt aktiebolag eller ett dotterbolag till ett
+sådant bolag har gett ut aktier, teckningsoptioner eller
 konvertibler med rätt till teckning för ett annat aktiebolag
 inom samma koncern, får det senare bolaget inte överlåta
 aktierna, teckningsoptionerna eller konvertiblerna till någon
@@ -6265,7 +6794,7 @@ aktiebolag som är moderbolag i koncernen.
 
 I kallelsen till den bolagsstämma som skall pröva ett förslag
 till beslut som avses i denna paragraf skall förslagets
-huvudsakliga innehåll anges.
+huvudsakliga innehåll anges. Lag (2007:317).
 
 5 § Ett publikt aktiebolag eller ett dotterbolag till ett
 sådant bolag får inte heller i andra fall än som avses i 4 §
@@ -6286,7 +6815,7 @@ huvudsakliga innehåll anges.
 
 6 § Överlåtelser som sker i strid med 4 och 5 §§ är ogiltiga.
 
-Vinstandelslån och kapitalandelslån
+Vissa lån
 
 7 § Beslut om att ta upp ett sådant lån som avses i 11 kap.
 11 § skall alltid fattas av bolagsstämman om någon som avses i
@@ -6660,10 +7189,13 @@ betalas,
 bolaget övertar, om aktierna representerar en mindre andel av
 bolagets aktiekapital,
 
-3. lösa in egna aktier enligt 25 kap. 22 §, och
+3. lösa in egna aktier enligt 25 kap. 22 §,
 
 4. på auktion ropa in egna aktier som har utmätts för bolagets
-fordran.
+fordran, och
+
+5. överta egna aktier enligt 4 kap. 49 § första stycket.
+Lag (2007:317).
 
 Avyttringsskyldighet efter förvärv enligt 5 §
 
@@ -6719,7 +7251,8 @@ räkenskapsår under vilket förvärvet har skett.
 Särskilda bestämmelser om vissa publika aktiebolags förvärv av
 egna aktier
 
-13 § Ett publikt aktiebolag vars aktier är noterade vid en
+13 § /Upphör att gälla U:2007-11-01/
+Ett publikt aktiebolag vars aktier är noterade vid en
 svensk eller utländsk börs, en auktoriserad marknadsplats eller
 någon annan reglerad marknad får, utöver vad som följer av 5 §,
 förvärva egna aktier enligt bestämmelserna i 14 och 15 §§.
@@ -6728,9 +7261,20 @@ Beslut om förvärv skall i så fall fattas med tillämpning av 18-
 15 § eller i strid med 17 kap. 3 eller 4 §, gäller
 bestämmelserna i 16 §.
 
+13 § /Träder i kraft I:2007-11-01/
+Ett publikt aktiebolag vars aktier är upptagna till handel
+på en reglerad marknad eller en motsvarande marknad utanför
+Europeiska ekonomiska samarbetsområdet får, utöver det som
+följer av 5 §, förvärva egna aktier enligt bestämmelserna i 14
+och 15 §§. Beslut om förvärv skall i så fall fattas med
+tillämpning av 18-29 §§. Om bolaget har förvärvat aktier i
+strid med 14 eller 15 § eller i strid med 17 kap. 3 eller 4 §,
+gäller bestämmelserna i 16 §. Lag (2007:566).
+
 Tillåtna förvärvsmetoder
 
-14 § Förvärv som avses i 13 § får ske endast
+14 § /Upphör att gälla U:2007-11-01/
+Förvärv som avses i 13 § får ske endast
 
 1. på en börs, en auktoriserad marknadsplats eller någon annan
 reglerad marknad inom Europeiska ekonomiska samarbetsområdet,
@@ -6754,6 +7298,31 @@ auktoriserad marknadsplats i Sverige, och
 
 2. börsen eller marknaden står under tillsyn av en myndighet
 eller något annat behörigt organ.
+
+14 § /Träder i kraft I:2007-11-01/
+Förvärv som avses i 13 § får ske endast
+
+1. på en reglerad marknad,
+
+2. på en marknad motsvarande en reglerad marknad utanför
+Europeiska ekonomiska samarbetsområdet efter tillstånd av
+Finansinspektionen, eller
+
+3. i enlighet med ett förvärvserbjudande som har riktats till
+samtliga aktieägare eller samtliga ägare till aktier av ett
+visst slag.
+
+Ett tillstånd enligt första stycket 2 skall ange på vilken
+marknad egna aktier får förvärvas samt under vilken tid
+tillståndet får utnyttjas. Tillstånd skall lämnas, om
+
+1. det för verksamheten vid marknaden finns regler som
+motsvarar det som enligt lagen (2007:528) om
+värdepappersmarknaden gäller för verksamhet vid en reglerad
+marknad i Sverige, och
+
+2. företaget som driver marknaden står under tillsyn av en
+myndighet eller något annat behörigt organ. Lag (2007:566).
 
 Hur stor andel egna aktier som får förvärvas
 
@@ -6898,7 +7467,8 @@ Bemyndigande för styrelsen
 
 28 § Om bolagsstämman skall pröva en fråga om bemyndigande för
 styrelsen att fatta beslut om förvärv av egna aktier med stöd
-av 13 §, skall styrelsen upprätta ett förslag till beslut.
+av 13 §, skall styrelsen eller, om förslaget väcks av någon
+annan, förslagsställaren upprätta ett förslag till beslut.
 
 I förslaget skall det anges
 
@@ -6920,7 +7490,7 @@ annan egendom än pengar, och
 Bestämmelserna i 22-26 §§ skall tillämpas på förslaget.
 
 Bolagsstämmans beslut skall innehålla de uppgifter som anges i
-första stycket.
+andra stycket. Lag (2007:317).
 
 29 § Innan styrelsen beslutar att utnyttja ett sådant
 bemyndigande som avses i 28 §, skall den ta fram handlingar av
@@ -6941,10 +7511,17 @@ det ske med tilllämpning av 32-34 §§ eller 35-37 §§.
 Första stycket gäller inte vid avyttring som avses i 6 och
 16 §§.
 
+/Rubriken upphör att gälla U:2007-11-01/
 Överlåtelse av egna aktier på en börs, en auktoriserad
 marknadsplats eller en annan reglerad marknad
 
-32 § Ett publikt aktiebolag får överlåta egna aktier
+/Rubriken träder i kraft I:2007-11-01/
+Överlåtelse av egna aktier på en reglerad marknad eller en
+motsvarande marknad utanför Europeiska ekonomiska
+samarbetsområdet
+
+32 § /Upphör att gälla U:2007-11-01/
+Ett publikt aktiebolag får överlåta egna aktier
 
 1. på en börs, en auktoriserad marknadsplats eller någon annan
 reglerad marknad inom Europeiska ekonomiska samarbetsområdet,
@@ -6966,6 +7543,27 @@ auktoriserad marknadsplats i Sverige, och
 2. börsen eller marknaden står under tillsyn av en myndighet
 eller något annat behörigt organ.
 
+32 § /Träder i kraft I:2007-11-01/
+Ett publikt aktiebolag får överlåta egna aktier
+
+1. på en reglerad marknad, eller
+
+2. på en marknad motsvarande en reglerad marknad utanför
+Europeiska ekonomiska samarbetsområdet efter tillstånd av
+Finansinspektionen.
+
+Ett tillstånd enligt första stycket 2 skall ange på vilken
+marknad egna aktier får överlåtas samt under vilken tid
+tillståndet får utnyttjas. Tillstånd skall lämnas, om
+
+1. det för verksamheten vid marknaden finns regler som
+motsvarar det som enligt lagen (2007:528) om
+värdepappersmarknaden gäller för verksamhet vid en reglerad
+marknad i Sverige, och
+
+2. företaget som driver marknaden står under tillsyn av en
+myndighet eller något annat behörigt organ. Lag (2007:566).
+
 33 § Ett beslut om överlåtelse av egna aktier enligt 32 § skall
 fattas av bolagsstämman. Bolagsstämman kan även bemyndiga
 styrelsen att fatta ett sådant beslut.
@@ -6977,7 +7575,7 @@ företrädda vid stämman.
 
 34 § Om bolagsstämman skall pröva en fråga om överlåtelse av
 egna aktier enligt 32 § eller om bemyndigande för styrelsen att
-fatta ett sådant beslut skall styrelsen eller, om förslaget
+fatta ett sådant beslut, skall styrelsen eller, om förslaget
 väcks av någon annan, förslagsställaren upprätta ett förslag
 till beslut.
 
@@ -6987,21 +7585,29 @@ Förslaget skall innehålla uppgifter om
 beslut om överlåtelse skall verkställas eller styrelsens
 bemyndigande får utnyttjas,
 
-2. det högsta antal aktier, i förekommande fall fördelat på
+2 det högsta antal aktier, i förekommande fall fördelat på
 aktieslag, som får överlåtas,
 
 3. det lägsta pris som aktierna får överlåtas för, och
 
 4. övriga villkor för överlåtelsen.
 
-Bestämmelserna i 13 kap. 9 och 10 §§ skall tillämpas i fråga om
-förslaget till beslut enligt första stycket.
+Bestämmelserna i 13 kap. 9 § skall tillämpas i fråga om
+förslaget till beslut enligt första stycket. I kallelsen till
+den bolagsstämma som skall pröva förslaget skall förslagets
+huvudsakliga innehåll anges.
 
 Bolagsstämmans beslut skall innehålla de uppgifter som anges i
-andra stycket.
+andra stycket. Lag (2007:317).
 
+/Rubriken upphör att gälla U:2007-11-01/
 Överlåtelse av egna aktier som inte sker på en börs, en
 auktoriserad marknadsplats eller en annan reglerad marknad
+
+/Rubriken träder i kraft I:2007-11-01/
+Överlåtelse av egna aktier som inte sker på en reglerad
+marknad eller en motsvarande marknad utanför Europeiska
+ekonomiska samarbetsområdet
 
 35 § Vid ett publikt aktiebolags överlåtelse av egna aktier på
 annat sätt än som anges i 32 § tillämpas
@@ -7014,6 +7620,8 @@ annat sätt än som anges i 32 § tillämpas
 
 11 kap. 8 § om registrering av teckningsrätter m.m. i
 avstämningsbolag,
+
+11 kap. 9 § om försäljning av överskjutande teckningsrätter,
 
 13 kap. 1 § första och andra styckena om företrädesrätt,
 
@@ -7048,27 +7656,27 @@ bemyndigande,
 enligt 16 kap., och
 
 3. vad som enligt lagen (1991:980) om handel med finansiella
-instrument gäller om prospekt vid erbjudanden av finansiella
+instrument gäller om prospekt vid erbjudanden om finansiella
 instrument till allmänheten.
 
 I fråga om styrelsebeslut under förutsättning av bolagsstämmans
 godkännande gäller 13 kap. 31 § andra stycket, 32 och 33 §§ i
 tillämpliga delar. I fråga om styrelsebeslut enligt
 bemyndigande av bolagsstämman gäller 13 kap. 36 och 38 §§ i
-tillämpliga delar. Lag (2005:836).
+tillämpliga delar. Lag (2007:317).
 
-36 § I sådana fall som anges i 35 § skall i förslaget till
+36 § /Upphör att gälla U:2007-11-01/
+I sådana fall som anges i 35 § skall i förslaget till
 beslut följande anges:
 
 1. det högsta antal aktier, i förekommande fall fördelat på
 aktieslag, som skall överlåtas,
 
-2. den företrädesrätt att förvärva aktier som tillkommer
-aktieägarna eller någon annan eller vem som annars får förvärva
-aktier,
+2. den rätt att förvärva aktier som tillkommer aktieägarna
+eller någon annan,
 
 3. den tid inom vilken aktieägare eller annan kan utnyttja sin
-företrädesrätt,
+rätt att förvärva aktier,
 
 4. den tid inom vilken aktierna skall betalas eller, i
 förekommande fall, att teckning skall ske genom betalning,
@@ -7106,7 +7714,59 @@ auktoriserad marknadsplats eller någon annan reglerad marknad.
 Om bolaget är avstämningsbolag och aktieägare skall ha
 företrädesrätt att förvärva aktier, skall bemyndigandet
 utformas så att beloppet bestäms senast den dag som infaller
-tre dagar före avstämningsdagen.
+fem vardagar före avstämningsdagen. Lag (2007:317).
+
+36 § /Träder i kraft I:2007-11-01/
+I sådana fall som anges i 35 § skall i förslaget till
+beslut följande anges:
+
+1. det högsta antal aktier, i förekommande fall fördelat på
+aktieslag, som skall överlåtas,
+
+2. den rätt att förvärva aktier som aktieägarna eller någon
+annan skall ha,
+
+3. den tid inom vilken aktieägare eller annan kan utnyttja sin
+rätt att förvärva aktier,
+
+4. den tid inom vilken aktierna skall betalas eller, i
+förekommande fall, att teckning skall ske genom betalning,
+
+5. den fördelningsgrund som styrelsen skall tillämpa
+beträffande aktier som inte tecknas med företrädesrätt,
+
+6. avstämningsdagen, om bolaget är avstämningsbolag och
+aktieägare skall ha företrädesrätt vid överlåtelsen,
+
+7. det belopp som skall betalas för varje aktie,
+
+8. villkor om apport eller att aktie skall tecknas med
+kvittningsrätt, och
+
+9. övriga särskilda villkor för överlåtelsen.
+
+Tiden som anges i första stycket 3 får inte understiga två
+veckor. I bolag som inte är avstämningsbolag räknas denna tid
+från det att underrättelse enligt 13 kap. 12 § har skett,
+eller, om samtliga aktieägare har varit företrädda på den
+stämma som har beslutat om överlåtelsen, från beslutet. I
+avstämningsbolag räknas tiden från avstämningsdagen.
+
+Avstämningsdagen får inte sättas tidigare än en vecka från
+dagen för beslutet.
+
+I stället för en sådan uppgift som anges i första stycket 7 får
+det anges att styrelsen eller den som styrelsen utser inom sig
+skall bemyndigas att innan den tid som avses i första stycket 3
+börjar löpa besluta vilket belopp som skall betalas för varje
+aktie. Ett sådant bemyndigande får lämnas endast om aktierna
+skall tas upp till handel på en reglerad marknad eller en
+motsvarande marknad utanför Europeiska ekonomiska
+samarbetsområdet. Om bolaget är avstämningsbolag och aktieägare
+skall ha företrädesrätt att förvärva aktier, skall
+bemyndigandet utformas så att beloppet bestäms senast den dag
+som infaller fem vardagar före avstämningsdagen.
+Lag (2007:566).
 
 37 § Beslut om överlåtelse enligt 35 § skall innehålla de
 uppgifter som anges i 36 §.
@@ -7222,6 +7882,11 @@ enligt 4 kap. 14 a § årsredovisningslagen (1995:1554), skall
 det i yttrandet också anges hur stor del av det egna kapitalet
 som beror på att en sådan värdering har tillämpats.
 
+I fall som avses i första stycket skall det till förslaget
+också fogas ett yttrande, undertecknat av bolagets revisor, med
+uttalande om huruvida bolagsstämman bör besluta i enlighet med
+förslaget. Lag (2007:317).
+
 9 § Innebär förslaget att aktiekapitalet skall minskas för
 återbetalning till aktieägarna genom att aktier dras in
 (inlösen) skall, utöver vad som följer av 7 och 8 §§, följande
@@ -7252,7 +7917,8 @@ skett, eller om samtliga aktieägare är företrädda på den
 bolagsstämma som beslutat om minskningen, från beslutet. I
 avstämningsbolag skall tiden räknas från avstämningsdagen.
 
-10 § I förekommande fall skall, i fråga om sådan inlösen som
+10 § /Upphör att gälla U:2007-11-01/
+I förekommande fall skall, i fråga om sådan inlösen som
 avses i 9 §, förslaget om minskning av aktiekapitalet också
 innehålla uppgift om
 
@@ -7280,16 +7946,56 @@ utländsk börs, en auktoriserad marknadsplats eller någon annan
 reglerad marknad. I avstämningsbolag skall ett bemyndigande
 enligt första stycket 5 utformas så att minskningsbeloppet och
 det belopp som skall betalas för varje aktie som löses in
-bestäms senast den dag som infaller tre dagar före
+bestäms senast den dag som infaller fem vardagar före
 avstämningsdagen.
+
+Avstämningsdagen enligt första stycket 3 får inte infalla
+senare än dagen före nästa årsstämma. Lag (2007:317).
+
+10 § /Träder i kraft I:2007-11-01/
+I förekommande fall skall, i fråga om sådan inlösen som
+avses i 9 §, förslaget om minskning av aktiekapitalet också
+innehålla uppgift om
+
+1. att anmälan för inlösen skall ske genom att kuponger som hör
+till aktiebreven ges in,
+
+2. att inlösta aktier skall betalas med annan egendom än pengar
+eller i övrigt på villkor som avses i 2 kap. 5 § andra stycket
+1-3 och 5 eller att inlösen skall ske genom kvittning av en
+fordran som bolaget har mot aktieägaren,
+
+3. avstämningsdagen eller bemyndigande för styrelsen att
+fastställa avstämningsdagen, om bolaget är avstämningsbolag,
+
+4. övriga särskilda villkor för inlösen, och
+
+5. bemyndigande för styrelsen eller den som styrelsen utser
+inom sig att innan inlösen påbörjas bestämma det belopp som
+aktiekapitalet skall minskas med och det belopp som skall
+betalas för varje aktie som löses in.
+
+Ett bemyndigande som avses i första stycket 3 eller 5 får
+lämnas bara om aktierna är upptagna till handel på en reglerad
+marknad eller en motsvarande marknad utanför Europeiska
+ekonomiska samarbetsområdet. I avstämningsbolag skall ett
+bemyndigande enligt första stycket 5 utformas så att
+minskningsbeloppet och det belopp som skall betalas för varje
+aktie som löses in bestäms senast den dag som infaller fem
+vardagar före avstämningsdagen.
+
+Avstämningsdagen enligt första stycket 3 får inte infalla
+senare än dagen före nästa årsstämma. Lag (2007:566).
 
 Kompletterande information
 
 11 § Om årsredovisningen inte skall behandlas på den
 bolagsstämma där förslaget om minskning av aktiekapitalet skall
-prövas, skall det i förslaget anges hur stor del av det enligt
-17 kap. 3 § första stycket disponibla beloppet som finns kvar
-efter det senast fattade beslutet om värdeöverföring.
+prövas och minskningsbeloppet helt eller delvis skall användas
+för ändamål som avses i 1 § första stycket 3, skall det i
+förslaget anges hur stor del av det enligt 17 kap. 3 § första
+stycket disponibla beloppet som finns kvar efter det senast
+fattade beslutet om värdeöverföring. Lag (2007:317).
 
 12 § I de fall som avses i 11 § skall följande handlingar fogas
 till förslaget:
@@ -7308,8 +8014,7 @@ förändringar i bolagets bundna egna kapital som har skett efter
 balansdagen, och
 
 4. ett yttrande över den redogörelse som avses i 3,
-undertecknat av bolagets revisor, med uttalande om huruvida
-bolagsstämman bör besluta i enlighet med förslaget.
+undertecknat av bolagets revisor. Lag (2007:317).
 
 Uppgifter om särskilda inlösenvillkor m.m.
 
@@ -7459,12 +8164,16 @@ att ansöka om tillstånd att verkställa minskningsbeslutet samt
 uppgift om borgenärernas rätt enligt 27 § att motsätta sig att
 beslutet verkställs.
 
-Borgenärerna behöver inte underrättas om revisorerna i yttrande
-enligt 14 § uttalar att de inte har funnit att minskningen
-medför någon fara för borgenärerna. Inte heller behöver
-underrättelse sändas till borgenärer, vilkas anspråk avser en
-fordran på lön, pension eller annan ersättning som omfattas av
-lönegaranti enligt lönegarantilagen (1992:497).
+Borgenärerna behöver inte underrättas om en revisor i ett
+skriftligt, undertecknat yttrande uttalar att han eller hon
+inte har funnit att minskningen medför någon fara för
+borgenärerna. Inte heller behöver underrättelse sändas till
+borgenärer, vilkas anspråk avser en fordran på lön, pension
+eller annan ersättning som omfattas av lönegaranti enligt
+lönegarantilagen (1992:497).
+
+För en revisor som avses i andra stycket gäller bestämmelserna
+i 14 § andra och tredje styckena. Lag (2007:317).
 
 Ansökan om tillstånd
 
@@ -7475,13 +8184,12 @@ det att minskningsbeslutet registrerades.
 
 Till ansökan skall fogas ett intyg från bolagets styrelse eller
 verkställande direktör om att bolagets kända borgenärer har
-underrättats enligt 24 § första stycket. Om revisorerna i
-yttrande enligt 14 § har uttalat att de inte har funnit att
-minskningen medför någon fara för borgenärerna, skall i stället
+underrättats enligt 24 § första stycket. Om det finns ett
+sådant yttrande som avses i 24 § andra stycket, skall i stället
 yttrandet fogas till ansökan. Om bolaget inte har bifogat vare
 sig ett sådant intyg eller ett sådant yttrande, skall
 Bolagsverket förelägga bolaget att avhjälpa bristen. Om bolaget
-inte gör detta, skall ansökan avvisas.
+inte gör detta, skall ansökan avvisas. Lag (2007:317).
 
 Kallelse på bolagets borgenärer
 
@@ -7813,7 +8521,8 @@ Lösenbeloppet
 
 Lösenbeloppets storlek
 
-2 § Om frågan om lösenbeloppet för en aktie som skall lösas in
+2 § /Upphör att gälla U:2007-11-01/
+Om frågan om lösenbeloppet för en aktie som skall lösas in
 enligt detta kapitel är tvistig, skall lösenbeloppet bestämmas
 med tillämpning av andra-fjärde styckena.
 
@@ -7838,6 +8547,33 @@ erbjudande antagits av ägare till mer än nio tiondelar av de
 aktier som erbjudandet avser, skall lösenbeloppet motsvara det
 erbjudna vederlaget, om inte särskilda skäl motiverar något
 annat.
+
+2 § /Träder i kraft I:2007-11-01/
+Om frågan om lösenbeloppet för en aktie som skall lösas in
+enligt detta kapitel är tvistig, skall lösenbeloppet bestämmas
+med tillämpning av andra-fjärde styckena.
+
+Lösenbeloppet för en aktie skall bestämmas så att det motsvarar
+det pris för aktien som kan påräknas vid en försäljning under
+normala förhållanden. För en aktie som är föremål för handel på
+en reglerad marknad eller en motsvarande marknad utanför
+Europeiska ekonomiska samarbetsområdet skall lösenbeloppet
+motsvara det noterade värdet, om inte särskilda skäl motiverar
+något annat.
+
+Lösenbeloppet skall bestämmas med hänsyn till förhållandena vid
+den tidpunkt då begäran om prövning av skiljemän enligt 5 §
+gjordes. Om det finns skäl för det, får beloppet i stället
+bestämmas med hänsyn till förhållandena vid en tidpunkt som
+infaller tidigare.
+
+Har ett yrkande om inlösen av aktie enligt detta kapitel
+föregåtts av ett offentligt erbjudande att förvärva samtliga
+aktier som budgivaren inte redan innehar och har detta
+erbjudande antagits av ägare till mer än nio tiondelar av de
+aktier som erbjudandet avser, skall lösenbeloppet motsvara det
+erbjudna vederlaget, om inte särskilda skäl motiverar något
+annat. Lag (2007:566).
 
 Ränta på lösenbeloppet
 
@@ -7978,9 +8714,11 @@ skiljemännen eller domstolen.
 
 Om beslut om förhandstillträde har meddelats, får
 majoritetsaktieägaren utöva de rättigheter som aktierna ger
-från och med den tidpunkt då domen om förhandstillträde vinner
-laga kraft. Vid denna tidpunkt inträder också de
-rättsverkningar som anges i 13 och 14 §§.
+från den tidpunkt då domen om förhandstillträde vinner laga
+kraft eller, om skiljemännen har beslutat enligt 24 § tredje
+stycket, från tidpunkten för det beslutet. Vid denna tidpunkt
+inträder också de rättsverkningar som anges i 13 och 14 §§.
+Lag (2007:317).
 
 13 § Om det har beslutats om förhandstillträde till aktier i
 ett bolag som inte är avstämningsbolag, är ägarna till de
@@ -8107,10 +8845,14 @@ Kostnaderna för skiljeförfarandet
 
 23 § Majoritetsaktieägaren skall svara för ersättningen till
 skiljemännen och gode mannen samt för andra aktieägares
-kostnad. Om det finns särskilda skäl, får skiljemännen ålägga
-annan aktieägare att helt eller delvis svara för dessa
-kostnader. Beträffande aktieägares och den gode mannens
-kostnader gäller 18 kap. 8 § rättegångsbalken.
+kostnader i skiljeförfarandet. Om det finns särskilda skäl, får
+skiljemännen ålägga annan aktieägare att helt eller delvis
+svara för dessa kostnader. Beträffande aktieägares och den gode
+mannens kostnader gäller 18 kap. 8 § rättegångsbalken.
+
+Om den gode mannen begär det, får skiljemännen ålägga
+majoritetsaktieägaren att ställa säkerhet för den gode mannens
+arvode och kostnader. Lag (2007:317).
 
 Talan mot skiljedom
 
@@ -8121,21 +8863,27 @@ skiljedomen i original eller bestyrkt kopia.
 
 Prövningstillstånd krävs vid överklagande till hovrätten.
 
+Skiljemännen får besluta att en skiljedom om förhandstillträde
+enligt 12 § gäller även om den inte har vunnit laga kraft. Ett
+sådant beslut får endast avse aktier vars ägare har medgett att
+förhandstillträde sker. Beslutet får meddelas även efter det
+att skiljedomen om förhandstillträde har meddelats.
+Lag (2007:317).
+
 Rättegångskostnader i allmän domstol
 
 25 § I allmän domstol svarar majoritetsaktieägaren för sina
 egna kostnader och för kostnader som har uppkommit för motpart
-eller god man genom att majoritetsaktieägaren har fullföljt
-talan, om inte annat följer av 18 kap. 6 eller 8 §
-rättegångsbalken. I övrigt gäller vad som sägs i 18 kap.
-rättegångsbalken om skyldigheten att svara för kostnader i
-högre rätt.
+eller god man genom att majoritetsaktieägaren har väckt talan,
+om inte annat följer av 18 kap. 6 eller 8 § rättegångsbalken. I
+övrigt gäller vad som sägs i 18 kap. rättegångsbalken om
+skyldigheten att svara för kostnader i högre rätt.
 
 Om minoritetsaktieägarna helt eller delvis skall svara för
 rättegångskostnader, skall dessa fördelas efter det antal
 aktier som var och en innehar. Om det finns särskilda skäl, får
 domstolen besluta om en annan fördelning. Bestämmelserna i 18
-kap. 9 § rättegångsbalken skall inte tillämpas.
+kap. 9 § rättegångsbalken skall inte tillämpas. Lag (2007:317).
 
 Inlösen av teckningsoptioner och konvertibler
 
@@ -8152,14 +8900,10 @@ eller konvertiblerna inte utnyttjas för teckning eller
 konvertering förrän inlösentvisten har avgjorts genom en dom
 eller ett beslut som har vunnit laga kraft. Om den tid inom
 vilken optionsrätten får utnyttjas eller konvertering får ske
-löper ut dessförinnan, har innehavaren av teckningsoptionen
-eller konvertibeln ändå rätt att utnyttja optionen eller
-konvertibeln under tre månader efter det att avgörandet vann
-laga kraft.
-
-Bestämmelserna i första och andra styckena skall inte
-tillämpas, om något annat har föreskrivits i villkoren för
-emissionen av teckningsoptionerna eller konvertiblerna.
+löper ut dessförinnan eller inom tre månader därefter, har
+innehavaren av teckningsoptionen eller konvertibeln ändå rätt
+att utnyttja optionen eller konvertibeln under tre månader
+efter det att avgörandet vann laga kraft. Lag (2007:317).
 
 27 § Har majoritetsaktieägaren begärt att såväl en tvist om
 inlösen av aktier som en tvist om inlösen av teckningsoptioner
@@ -8303,22 +9047,33 @@ att uppskatta värdet av egendomen skall anmärkas.
 
 Kompletterande information
 
-10 § Följande handlingar skall fogas till fusionsplanen:
+10 § Till fusionsplanen skall det fogas en kopia av bolagens
+årsredovisningar för de senaste tre räkenskapsåren.
 
-1. en kopia av bolagens årsredovisningar för de senaste tre
-räkenskapsåren och
-
-2. uppgifter motsvarande delårsrapport enligt 9 kap. 3 § första
-stycket och 4 § årsredovisningslagen (1995:1554), om
-fusionsplanen har upprättats senare än sex månader efter
+Om fusionsplanen har upprättats senare än sex månader efter
 utgången av det senaste räkenskapsår för vilket årsredovisning
-och revisionsberättelse har lämnats. I fråga om bolag som
-omfattas av lagen (1995:1559) om årsredovisning i
-kreditinstitut och värdepappersbolag skall uppgift också lämnas
-om utvecklingen av bolagets inlåning och utlåning. Uppgifterna
-skall avse tiden från utgången av nämnda räkenskapsår till en
-dag som infaller tidigast tre månader innan fusionsplanen
-upprättas.
+och revisionsberättelse har lämnats, skall det vidare till
+planen fogas en översiktlig redogörelse för verksamheten och
+resultatutvecklingen samt för investeringar och förändringar i
+likviditet och finansiering sedan föregående räkenskapsårs
+utgång. I redogörelsen skall det också lämnas beloppsuppgifter
+om nettoomsättningen och resultatet före bokslutsdispositioner
+och skatt under rapportperioden. Om det finns särskilda skäl,
+får en ungefärlig beloppsuppgift om resultatet lämnas. I fråga
+om bolag som omfattas av lagen (1995:1559) om årsredovisning i
+kreditinstitut och värdepappersbolag skall redogörelsen också
+innehålla uppgift om utvecklingen av bolagets inlåning och
+utlåning. Uppgifterna skall avse tiden från utgången av nämnda
+räkenskapsår till en dag som infaller tidigast tre månader
+innan fusionsplanen upprättas.
+
+Om det inte finns något särskilt som hindrar det, skall det i
+redogörelsen enligt andra stycket även lämnas motsvarande
+uppgifter för samma rapportperiod under det närmast föregående
+räkenskapsåret. Begrepp och termer skall så långt det är
+möjligt stämma överens med dem som har använts i den senast
+framlagda årsredovisningen eller, i förekommande fall,
+koncernredovisningen. Lag (2007:373).
 
 Revisorsgranskning av fusionsplanen
 
@@ -8433,6 +9188,13 @@ publika aktiebolagets beslut om godkännande av fusionsplanen
 giltigt endast om det har biträtts av samtliga aktieägare som
 är närvarande vid bolagsstämman och dessa tillsammans
 företräder minst nio tiondelar av samtliga aktier i bolaget.
+
+Vid fusion där fusionsvederlaget helt eller delvis skall
+utgöras av pengar, gäller utöver vad som sägs i första-tredje
+styckena att ett överlåtande bolags beslut om godkännande av
+fusionsplanen är giltigt endast om det har biträtts av
+aktieägare som företräder mer än nio tiondelar av samtliga
+aktier i bolaget. Lag (2007:317).
 
 18 § Om någon av de bolagsstämmor som skall godkänna
 fusionsplanen inte godkänner planen i dess helhet, faller
@@ -8697,8 +9459,10 @@ Ansökan om tillstånd att verkställa fusionsplanen
 
 33 § Moderbolaget skall ansöka om tillstånd att verkställa
 fusionsplanen. Ansökan skall göras hos Bolagsverket. Den skall
-ges in tidigast en och senast två månader efter det att den har
-blivit gällande hos moderbolaget.
+ges in inom en månad efter det att fusionsplanen har blivit
+gällande hos moderbolaget och, om fusionsplanen har
+registrerats enligt 30 § första stycket, senast två år efter
+det att uppgift om att planen har registrerats har kungjorts.
 
 Följande handlingar skall fogas till ansökan:
 
@@ -8716,6 +9480,7 @@ Vid handläggningen av tillståndsärendet gäller bestämmelserna i
 20 § tredje stycket samt 21 § första stycket 1 och 22-24 §§.
 Därvid skall vad som sägs om överlåtande bolag avse dotterbolag
 och vad som sägs om övertagande bolag avse moderbolag.
+Lag (2007:317).
 
 Fusionens rättsverkningar
 
@@ -8926,22 +9691,17 @@ delningsplanen upprättades.
 
 Kompletterande information
 
-12 § Följande handlingar skall fogas till delningsplanen:
+12 § Till delningsplanen skall det fogas en kopia av bolagens
+årsredovisningar för de senaste tre räkenskapsåren.
 
-1. en kopia av bolagens årsredovisningar för de senaste tre
-räkenskapsåren, samt
-
-2. uppgifter motsvarande delårsrapport enligt 9 kap. 3 § första
-stycket och 4 § årsredovisningslagen (1995:1554), om
-delningsplanen har upprättats senare än sex månader efter
+Om delningsplanen har upprättats senare än sex månader efter
 utgången av det senaste räkenskapsår för vilket årsredovisning
-och revisionsberättelse har lämnats. I fråga om bolag som
-omfattas av lagen (1995:1559) om årsredovisning i
-kreditinstitut och värdepappersbolag skall uppgift också lämnas
-om utvecklingen av bolagets inlåning och utlåning. Uppgifterna
+och revisionsberättelse har lämnats, skall det vidare till
+planen fogas en redogörelse med sådant innehåll som anges i 23
+kap. 10 § andra och tredje styckena. Uppgifterna i redogörelsen
 skall avse tiden från utgången av nämnda räkenskapsår till en
 dag som infaller tidigast tre månader innan delningsplanen
-upprättas.
+upprättas. Lag (2007:373).
 
 Revisorsgranskning av delningsplanen
 
@@ -9060,6 +9820,13 @@ publika aktiebolagets beslut om godkännande av delningsplanen
 giltigt endast om det har biträtts av samtliga aktieägare som
 är närvarande vid bolagsstämman och dessa tillsammans
 företräder minst nio tiondelar av samtliga aktier i bolaget.
+
+Vid delning där delningsvederlaget helt eller delvis skall
+utgöras av pengar, gäller utöver vad som sägs i första-tredje
+styckena att det överlåtande bolagets beslut om godkännande av
+delningsplanen är giltigt endast om det har biträtts av
+aktieägare som företräder mer än nio tiondelar av samtliga
+aktier i bolaget. Lag (2007:317).
 
 20 § Om någon av de bolagsstämmor som skall godkänna
 delningsplanen inte godkänner planen i dess helhet, faller
@@ -9438,7 +10205,8 @@ beräknat enligt 14 §, understiger hälften av det registrerade
 aktiekapitalet, eller
 
 2. när det vid verkställighet enligt 4 kap. utsökningsbalken
-har visat sig att bolaget saknar utmätningsbara tillgångar.
+har visat sig att bolaget saknar tillgångar till full betalning
+av utmätningsfordringen. Lag (2007:317).
 
 Kontrollbalansräkningens innehåll
 
@@ -9630,6 +10398,11 @@ och den verkställande direktörens ställe förvalta bolaget till
 dess att domstolens beslut i frågan om likvidation har vunnit
 laga kraft. Beslutet att utse en syssloman gäller omedelbart.
 Beslutet skall registreras i aktiebolagsregistret.
+
+Ett beslut i en fråga om utseende av syssloman får överklagas
+särskilt. En domstol som skall pröva ett överklagande får
+besluta att det överklagade beslutet tills vidare inte skall
+gälla. Lag (2007:317).
 
 Handläggningen av frågor om likvidation
 
@@ -9886,14 +10659,15 @@ När revisionsberättelsen har lämnats till likvidatorn, skall
 han eller hon genast kalla aktieägarna till en bolagsstämma för
 granskning av slutredovisningen. Förvaltningsberättelsen med
 bifogade redovisningshandlingar och revisionsberättelsen skall
-hållas tillgängliga hos bolaget för aktieägarna. Kopior av
-handlingarna skall genast och utan kostnad för mottagaren
-sändas till de aktieägare som begär det och uppger sin
-postadress. Handlingarna skall läggas fram på stämman.
+under minst två veckor före bolagsstämman hållas tillgängliga
+hos bolaget för aktieägarna. Kopior av handlingarna skall
+genast och utan kostnad för mottagaren sändas till de
+aktieägare som begär det och uppger sin postadress.
+Handlingarna skall läggas fram på stämman.
 
 Bolagsstämman skall fatta beslut angående ansvarsfrihet för
 likvidatorn. I fråga om beslutet gäller bestämmelserna i 7 kap.
-14 § andra stycket.
+14 § andra stycket. Lag (2007:317).
 
 Bolagets upplösning
 
@@ -10027,15 +10801,12 @@ fattas av bolagsstämman enligt bestämmelserna i 7 kap. om
 2 § Om den bolagsstämma som skall besluta om byte enligt 1 §
 hålls senare än sex månader efter utgången av det senaste
 räkenskapsår för vilket årsredovisning och revisionsberättelse
-har lämnats, skall det på bolagsstämman läggas fram uppgifter
-motsvarande delårsrapport enligt 9 kap. 3 § första stycket och
-4 § årsredovisningslagen (1995:1554). I fråga om bolag som
-omfattas av lagen (1995:1559) om årsredovisning i
-kreditinstitut och värdepappersbolag skall uppgift också lämnas
-om utvecklingen av bolagets inlåning och utlåning. Uppgifterna
-skall avse tiden från utgången av nämnda räkenskapsår till en
-dag som infaller tidigast tre månader före dagen för
-bolagsstämman.
+har lämnats, skall det på bolagsstämman läggas fram en
+redogörelse med sådant innehåll som anges i 23 kap. 10 § andra
+och tredje styckena. Uppgifterna i redogörelsen skall avse
+tiden från utgången av nämnda räkenskapsår till en dag som
+infaller tidigast tre månader före dagen för bolagsstämman.
+Lag (2007:373).
 
 3 § Ett beslut enligt 1 § skall anmälas för registrering i
 aktiebolagsregistret.
@@ -10232,13 +11003,13 @@ hävande av firmaregistrering har vunnit laga kraft.
 
 Ändring av aktiekapitalet m.m.
 
-8 § Beslut om ändring av bolagsordningens bestämmelser om
-aktiekapitalet, maximikapitalet eller minimikapitalet eller om
-antalet aktier skall registreras samtidigt med beslut om ökning
-eller minskning av aktiekapitalet, om ändringen av
-bolagsordningen eller ökningen eller minskningen av
-aktiekapitalet är nödvändig för att aktiekapitalets storlek
-skall bli förenlig med bolagsordningen.
+8 § Ett beslut om ändring av bolagsordningens bestämmelser om
+aktiekapitalet, maximikapitalet, minimikapitalet eller antalet
+aktier skall registreras samtidigt med ett beslut om ökning
+eller minskning av aktiekapitalet eller ett beslut om
+sammanläggning eller uppdelning av aktier, om något av besluten
+är nödvändigt för att aktiekapitalet eller antalet aktier skall
+bli förenligt med bolagsordningen. Lag (2007:317).
 
 Bemyndiganden m.m.
 
@@ -10511,12 +11282,14 @@ gäller den som uppsåtligen åtar sig ett sådant uppdrag i strid
 med 8 kap. 12 eller 32 §.
 
 Trots vad som sägs i 35 kap. 1 § brottsbalken får påföljd för
-brott enligt första stycket 4 mot 21 kap. 1, 3 eller 5 § dömas
-ut, om den misstänkte har häktats eller fått del av åtal för
-brottet inom fem år från brottet.
+brott enligt första stycket 4 mot 21 kap. 1, 3 eller 5 § eller
+för brott enligt tredje stycket dömas ut, om den misstänkte har
+häktats eller fått del av åtal för brottet inom fem år från
+brottet.
 
 I de fall som avses i 9 kap. 41 § och 10 kap. 16 § skall det
 inte följa ansvar enligt 20 kap. 3 § brottsbalken.
+Lag (2007:317).
 
 Vite
 
@@ -10684,14 +11457,11 @@ Lag (2005:812).
 gäller även när värdeöverföring har gjorts i strid med 5 §.
 Lag (2005:812).
 
-Vinstandelslån och kapitalandelslån
+Vissa lån
 
 7 § Ett aktiebolag med särskild vinstutdelningsbegränsning får
-inte ta upp lån där räntan eller det belopp med vilket
-återbetalning skall ske helt eller delvis är beroende av
-utdelningen till aktieägarna, kursutvecklingen på bolagets
-aktier, bolagets resultat eller bolagets finansiella ställning.
-Lag (2005:812).
+inte ta upp ett sådant lån som avses i 11 kap. 11 §.
+Lag (2007:317).
 
 Koncernförhållanden
 
@@ -10835,3 +11605,21 @@ lekmannarevisor avser ett räkenskapsår som har inletts före den
 ikraftträdandet och som enligt 9 kap. 13 eller 14 § inte längre
 ensam kan vara revisor i bolaget får ändå kvarstå som revisor
 under den resterande mandatperioden.
+
+2007:317
+
+1. Denna lag träder i kraft den 1 juli 2007.
+
+2. Bestämmelserna i 4 kap. 46-50 §§ gäller inte i fråga om
+beslut om uppdelning eller sammanläggning av aktier som har
+fattats före den 1 juli 2007.
+
+3. Om ett bolag före den 1 juli 2007 har beslutat om emission
+av teckningsoptioner eller konvertibler och det i
+emissionsvillkoren finns bestämmelser om hur dessa instrument
+skall behandlas i samband med inlösen enligt 22 kap., gäller
+dessa bestämmelser även efter den tidpunkten.
+
+4. Om en fusionsplan har blivit gällande hos ett moderbolag
+före den 1 juli 2007, tillämpas 23 kap. 33 § i dess äldre
+lydelse även efter denna tidpunkt.
