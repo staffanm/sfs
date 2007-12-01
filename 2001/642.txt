@@ -1,6 +1,3 @@
-
-
-
 Inledande bestämmelse
 
 1 § Denna förordning gäller utöver personuppgiftslagen
@@ -64,16 +61,19 @@ uppgifter som anges i bilaga 2 till denna förordning.
 Annan automatiserad behandling av personuppgifter
 
 7 § En nämnd får behandla personuppgifter automatiserat i
-löpande text vid sidan av de register som avses i 2 och 6 §§.
+löpande text eller ljudupptagningar vid sidan av eller i
+anslutning till de register som avses i 2 och 6 §§.
 
 Känsliga personuppgifter som anges i 13 § personuppgiftslagen
 (1998:204) och uppgifter om lagöverträdelser m.m. som anges i
 21 § samma lag får behandlas endast om uppgifterna har lämnats
 i ett ärende eller om de behövs för handläggningen av ärendet.
+Förordning (2007:777).
 
 8 § För bevarande av personuppgifter som med stöd av 7 §
 behandlas automatiserat i ett ärende gäller bestämmelserna i
-personuppgiftslagen (1998:204).
+personuppgiftslagen (1998:204), om inte något annat är särskilt
+föreskrivet. Förordning (2007:777).
 
 Rättelse och skadestånd
 
@@ -102,11 +102,11 @@ Bilaga 1
 
 Uppgifter i ett verksamhetsregister
 
-1.      ärendenummer, ärendekategori och ärendeprefix
+1.	ärendenummer, ärendekategori och ärendeprefix
 
-2.      avdelning, rotel, rotelchef, handläggare och process
+2.	avdelning, rotel, rotelchef, handläggare och process
 
-3.      inkomstdatum
+3.	inkomstdatum
 
 4.      saken (ärendemening)
 
@@ -181,70 +181,70 @@ Uppgifter i ett verksamhetsregister
         - delgivningsdag
         - övriga åtgärder
 
-15.     om beslut/föreläggande:
-        - nämnden samt ställe för meddelandet
-        - art och typ
-        - nummer
-        - datum
-        - innebörd och utgång om denna har betydelse för
-          handläggningen
-        - fullföljd
-        - laga kraft
-        - nämndens sammansättning
-        - ordförande (tjänsteställning)
+15.	om beslut/föreläggande:
+	- nämnden samt ställe för meddelandet
+	- art och typ
+	- nummer
+	- datum
+	- innebörd och utgång om denna har betydelse för
+	  handläggningen
+	- fullföljd
+	- laga kraft
+	- nämndens sammansättning
+	- ordförande (tjänsteställning)
 
-16.     titel och namn på ordförande och andra befattningshavare
-        vid nämnden
+16.	titel och namn på ordförande och andra befattningshavare
+	vid nämnden
 
-17.     jäv
+17.	jäv
 
-18.     om förhandling/sammanträde/handläggning e.d.:
-        - tidpunkt och plats
-        - typ av förhandling/sammanträde
-        - antal förhandlingar/sammanträden
-        - beräknad och verklig förhandlingstid/sammanträdestid
-        - inställt
+18.	om förhandling/sammanträde/handläggning e.d.:
+	- tidpunkt och plats
+	- typ av förhandling/sammanträde
+	- antal förhandlingar/sammanträden
+	- beräknad och verklig förhandlingstid/sammanträdestid
+	- inställt
 
-19.     rättshjälpskostnader
+19.	rättshjälpskostnader
 
-20.     om avgörande som överklagats till nämnden:
-        - avgörandetyp
-        - datum
-        - nummer
-        - myndighet
+20.	om avgörande som överklagats till nämnden:
+	- avgörandetyp
+	- datum
+	- nummer
+	- myndighet
 
-21.     författning
+21.	författning
 
-22.     ärendets art (ensam ordförande e.d.)
+22.	ärendets art (ensam ordförande e.d.)
 
-23.  uppgift om ärendesamband
+23.	uppgift om ärendesamband
 
-24.     om fastighet m.m.:
-        - geografisk enhet
-        - fastighetsbeteckning
-        - gatuadress
-        - ort
-        - SNI-kod
-        - geografiska x- och y-koordinater
+24.	om fastighet m.m.:
+	- geografisk enhet
+	- fastighetsbeteckning
+	- gatuadress
+	- ort
+	- SNI-kod
+	- geografiska x- och y-koordinater
 
-25.     kommun
+25.	kommun
 
-26.     förtur
+26.	förtur
 
-27.     handläggningsåtgärd/handläggningsstatus
+27.	handläggningsåtgärd/handläggningsstatus
 
-28.     om tillsynsmyndighet eller annan som skall höras:
-        - egenskap
-        - namn, tjänstetitel, myndighet och
-          myndighetsnummer/organisationsnummer
-        - postadress
-        - telefonnummer, e-postadress e.d.
-        - diarienummer och diariebeteckning
+28.	om tillsynsmyndighet eller annan som skall höras:
+	- egenskap
+	- namn, tjänstetitel, myndighet och
+	  myndighetsnummer/organisationsnummer
+	- postadress
+	- telefonnummer, e-postadress e.d.
+	- diarienummer och diariebeteckning
 
-29.     bevakning
+29.	bevakning
 
-30.     tekniska och administrativa uppgifter som behövs för att
-        tillgodose ändamålen med registret
+30.	tekniska och administrativa uppgifter som behövs för att
+	tillgodose ändamålen med registret
 Förordning (2003:602).
 
 Bilaga 2
