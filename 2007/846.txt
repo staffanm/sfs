@@ -1,0 +1,853 @@
+
+
+
+/Träder i kraft I:2008-01-01/
+1 § Denna förordning är meddelad med stöd av 14 kap. 24 §
+miljöbalken i fråga om 8, 23-27 och 29-42 §§, med stöd av 14
+kap. 25 § miljöbalken i fråga om 9-22 §§ och med stöd av 15
+kap. 6 § miljöbalken i fråga om 28 §.
+
+Definitioner
+
+2 § I denna förordning avses med
+
+EG-förordningen om f-gaser: Europaparlamentets och rådets
+förordning (EG) nr 842/2006 av den 17 maj 2006 om vissa
+fluorerade växthusgaser, och
+
+EG-förordningen om ozonnedbrytande ämnen: Europaparlamentets
+och rådets förordning (EG) nr 2037/2000 av den 29 juni 2000 om
+ämnen som bryter ned ozonskiktet.
+
+3 § Med ackrediterat certifieringsorgan avses i denna
+förordning en fysisk eller juridisk person som genom att
+uppfylla kraven i Internationella
+standardiseringsorganisationens och Internationella
+elektrotekniska kommissionens standard för bedömning av
+överensstämmelse med allmänna krav på organ som certifierar
+personer (SS-EN ISO/IEC 17024:2003)
+
+1. är ackrediterad enligt lagen (1992:1119) om teknisk
+kontroll, eller
+
+2. i ett annat land i Europeiska unionen, Turkiet eller
+Europeiska ekonomiska samarbetsområdet är ett
+certifieringsorgan som
+
+a) har ackrediterats av ett ackrediteringsorgan som uppfyller
+kraven i Internationella standardiseringsorganisationens och
+Internationella elektrotekniska kommissionens standard för
+bedömning av överensstämmelse med allmänna krav på
+ackrediteringsorgan som ackrediterar organ för bedömning av
+överensstämmelse (ISO/IEC 17011:2004), eller
+
+b) på annat sätt visar att motsvarande kvalitetskrav är
+uppfyllda i fråga om oberoende och teknisk och yrkesmässig
+kompetens, om de uppgifter som personen ska fullgöra avser
+sådant som krävs för att första gången släppa ut en produkt på
+marknaden.
+
+4 § Med ackrediterat kontrollorgan avses i denna förordning en
+fysisk eller juridisk person som genom att uppfylla kraven i
+Internationella standardiseringsorganisationens och
+Internationella elektrotekniska kommissionens standard för
+bedömning av överensstämmelse med allmänna krav på verksamhet
+hos olika typer av organisationer som utför kontroll (ISO/IEC
+17020:1998, SS-EN ISO/IEC 17020:2005),
+
+1. är ackrediterad enligt lagen (1992:1119) om teknisk
+kontroll, eller
+
+2. i ett annat land i Europeiska unionen, Turkiet eller
+Europeiska ekonomiska samarbetsområdet är
+
+a) ett kontrollorgan som har ackrediterats av ett
+ackrediteringsorgan som uppfyller kraven i Internationella
+standardiseringsorganisationens och Internationella
+elektrotekniska kommissionens standard för bedömning av
+överensstämmelse med allmänna krav på ackrediteringsorgan som
+ackrediterar organ för bedömning av överensstämmelse (ISO/IEC
+17011:2004), eller
+
+b) ett certifieringsorgan som på annat sätt visar att
+motsvarande kvalitetskrav är uppfyllda i fråga om oberoende och
+teknisk och yrkesmässig kompetens, om de uppgifter som personen
+ska fullgöra avser sådant som krävs för att första gången
+släppa ut en produkt på marknaden.
+
+5 § I denna förordning avses med
+
+f-gas: en fluorerad växthusgas enligt definitionen i artikel
+2.1 i EG-förordningen om f-gaser,
+
+köldmedium: ett medium som är avsett att användas i ett
+köldmediesystem och som vid en viss temperatur och ett visst
+tryck tar upp värmeenergi och vid en högre temperatur och ett
+högre tryck avger värmeenergi, vanligen med ett ändrat
+aggregationstillstånd,
+
+köldmediesystem: sammankopplade köldmediehållande delar som
+bildar en sluten krets som ett köldmedium cirkulerar i för att
+uppta eller avge energi,
+
+ozonnedbrytande ämne: ett ämne som avses i artikel 1 i EG-
+förordningen om ozonnedbrytande ämnen,
+
+CFC: ett ämne som är en klorfluorkarbon enligt EG-förordningen
+om ozonnedbrytande ämnen,
+
+övrig CFC: ett ämne som är en annan fullständigt halogenerad
+klorfluorkarbon,
+
+HBFC: de ämnen som i EG-förordningen om ozonnedbrytande ämnen
+betecknas bromfluorkolväten,
+
+HCFC: de ämnen som i EG-förordningen om ozonnedbrytande ämnen
+betecknas klorfluorväten,
+
+anläggning: summan av de kyl-, luftkonditionerings- eller
+värmepumpsutrustningar som används i en och samma verksamhet av
+en och samma operatör,
+
+enhetsaggregat: en fabrikstillverkad kyl-, luftkonditionerings-
+eller värmepumpsutrustning med ett komplett köldmediesystem som
+installeras eller har installerats utan ingrepp i
+köldmediesystemet,
+
+mobil utrustning: en utrustning som inte är stationär enligt
+definitionen i artikel 2 i EG-förordningen om f-gaser,
+
+ingrepp i köldmediesystem: en åtgärd som innebär att någon del
+av köldmediesystemet öppnas, oavsett om systemet är trycksatt
+eller inte, eller en åtgärd på en kringutrustning som kan
+påverka systemets säkerhet mot köldmedieutsläpp,
+
+konvertering: en åtgärd som innebär att HCFC i en kyl-,
+luftkonditionerings- eller värmepumpsutrustning byts ut mot en
+f-gas,
+
+Svensk Kylnorm: branschstandarden Svensk Kylnorm i dess lydelse
+i februari 2007,
+
+KN-nummer: de nummer som anges i bilaga 1 till kommissionens
+förordning (EG) nr 2031/2001 av den 6 augusti 2001 om ändring
+av bilaga 1 till rådets förordning (EEG) 2658/87 om tulltaxe-
+och statistiknomenklaturen och om Gemensamma tulltaxan.
+
+6 § I övrigt har termer och uttryck i denna förordning samma
+betydelse som i EG-förordningen om f-gaser och EG-förordningen
+om ozonnedbrytande ämnen.
+
+Tillämpning av förbud
+
+7 § Bestämmelser om förbud i denna förordning gäller endast om
+motsvarande förbud inte redan följer av EG-förordningen om f-
+gaser och EG-förordningen om ozonnedbrytande ämnen.
+Bestämmelser om undantag från förbud enligt denna förordning
+får inte tillämpas i strid mot EG-förordningen om f-gaser eller
+EG-förordningen om ozonnedbrytande ämnen.
+
+Förbud mot f-gaser
+
+8 § Om det från ett luftkonditioneringssystem i ett fordon har
+läckt ut mer f-gaser än vad som är normalt med hänsyn till det
+som krävs i fråga om läckage, är det förbjudet att fylla
+systemet med f-gaser innan nödvändiga reparationer genomförts.
+
+9 § Det är förbjudet att leverera köldmedium som utgörs av f-
+gaser till andra mottagare än
+
+1. den som enligt bestämmelserna i denna förordning får fylla
+på f-gaser i kyl-, luftkonditionerings- och
+värmepumpsutrustning,
+
+2. den som tillverkar kyl-, luftkonditionerings- och
+värmepumpsutrustning som innehåller f-gaser,
+
+3. den som bedriver verksamhet för forskning, utbildning och
+utveckling av kyl-, luftkonditionerings- och
+värmepumpsutrustning om f-gaserna är avsedda för sådan
+utrustning,
+
+4. den som bedriver verksamhet för rening eller destruktion av
+f-gaser, eller
+
+5. Försvarsmakten, Försvarets materielverk eller
+Fortifikationsverket, om f-gaserna är avsedda för dessa
+myndigheters verksamhet.
+
+Förbud mot ozonnedbrytande ämnen
+
+10 § Det är förbjudet att yrkesmässigt tillverka, använda,
+överlåta och saluhålla
+
+1. andra ozonnedbrytande ämnen än metylbromid, och
+
+2. beredningar som innehåller andra ozonnedbrytande ämnen än
+metylbromid.
+
+11 § Det är förbjudet att yrkesmässigt överlåta eller saluhålla
+
+1. kemiska produkter eller varor som anges i bilaga 1 till
+denna förordning om produkten ingår i eller varan innehåller
+skumplast som har tillverkats med CFC eller HCFC,
+
+2. varor som innehåller CFC som köld- eller
+värmeöverföringsmedium, om varorna har tillverkats i Sverige
+eller importerats till landet efter den 31 december 1994, och
+
+3. aerosolförpackningar som innehåller CFC eller HCFC.
+
+12 § Det är förbjudet att
+
+1. yrkesmässigt tillverka, överlåta eller saluhålla
+handbrandsläckare som innehåller haloner,
+
+2. återfylla handbrandsläckare med haloner,
+
+3. använda haloner som brandsläckningsmedel vid installation av
+fasta brandsläckningsanordningar, och
+
+4. släppa ut haloner i brandsläckningsanordningar vid
+fullskaleprov och i övrigt endast om syftet är att förebygga
+eller motverka skador på grund av brand.
+
+13 § Det är förbjudet att från ett land utanför Europeiska
+unionen yrkesmässigt importera
+
+1. kemiska produkter eller varor som anges i bilaga 1 till
+denna förordning om produkten ingår i eller varan innehåller
+skumplast som har tillverkats med CFC eller HCFC,
+
+2. varor som innehåller CFC som köld- eller
+värmeöverföringsmedium,
+
+3. aerosolförpackningar som innehåller CFC eller HCFC, och
+
+4. handbrandsläckare som innehåller haloner.
+
+14 § Det är förbjudet att utan Naturvårdsverkets tillstånd från
+Sverige föra ut ett ämne som inte längre används, om ämnet är
+
+1. ett köldmedium innehållande ett ozonnedbrytande ämne som har
+använts i en kyl-, värme- eller klimatanläggning, eller
+
+2. en halon som har använts för brandsläckningsändamål.
+
+15 § Det är förbjudet att leverera köldmedier som utgörs av
+CFC, övriga CFC eller HCFC till andra mottagare än dem som
+bedriver verksamhet för destruktion av sådana köldmedier.
+Köldmedier som utgörs av HCFC får också levereras till
+Försvarsmakten, Försvarets materielverk och
+Fortifikationsverket.
+
+Undantag från förbuden
+
+16 § Trots förbudet i 10 § får
+
+1. CFC och övriga CFC
+
+a) användas som arbetsmedium i en stationär kyl-, värme- eller
+klimatutrustning av typ enhetsaggregat med en köldmediemängd
+som uppgår till högst 900 gram, om utrustningen var i bruk den
+1 januari 2005 och sedan dess har fortsatt och fortsätter att
+vara i bruk på samma plats, eller
+
+b) överlåtas och saluhållas i den mån detta är tillåtet enligt
+EG-förordningen om ozonnedbrytande ämnen,
+
+2. HCFC
+
+a) användas av Försvarsmakten, Försvarets materielverk och
+Fortifikationsverket för påfyllning av en kyl-, värme- eller
+klimatutrustning, om utrustningen var i bruk den 1 juni 2002
+och sedan dess har fortsatt och fortsätter att vara i bruk och
+HCFC inte kan ersättas med något annat ämne,
+
+b) användas som arbetsmedium i en kyl-, värme- eller
+klimatutrustning tills vidare, om utrustningen var i bruk den 1
+juni 2002 och sedan dess har fortsatt och fortsätter att vara i
+bruk, eller
+
+c) överlåtas och saluhållas, och
+
+3. haloner överlåtas och saluhållas om inte hanteringen är
+förbjuden enligt 12 §.
+
+17 § Trots förbudet i 11 § får en kemisk produkt eller en vara
+som anges i bilaga 1 till denna förordning yrkesmässigt
+överlåtas och saluhållas om
+
+1. produkten eller varan har tillverkats i eller förts in till
+Sverige före den 1 juli 1995,
+
+2. varan är av hård skumplast (XPS), anges i bilaga 2 till
+denna förordning och har tillverkats med HCFC, om varan har
+tillverkats i Sverige eller importerats till landet före den 1
+januari 1997, eller
+
+3. varan är en sådan vara som anges i bilaga 3 till denna
+förordning och har tillverkats med HCFC, om varorna har
+tillverkats i Sverige eller importerats till landet före den 1
+januari 1998.
+
+18 § Trots förbuden i 10 och 12 §§ får haloner användas i eller
+vid installation av brandsläckningsanordningar som
+
+1. är placerade i luftfartyg eller ubåtar, eller
+
+2. är placerade i Försvarsmaktens stridsfordon eller sådana
+stridsledningscentraler som är belägna i fartyg eller under
+jord, och halonerna inte kan ersättas med något annat ämne, ny
+teknik eller något annat.
+
+19 § Naturvårdsverket får i det enskilda fallet ge dispens från
+bestämmelserna i denna förordning
+
+1. i fråga om CFC, 1,1,1-trikloretan och aerosolförpackningar
+som innehåller CFC eller HCFC, om det finns synnerliga skäl,
+och
+
+2. i övrigt om det finns särskilda skäl.
+
+Dispenserna får förenas med de villkor som behövs från hälso-
+och miljöskyddssynpunkt. Innan Naturvårdsverket fattar beslut
+om saluhållande och import av varor som innehåller eller
+behandlats med CFC och HCFC ska verket ge Kommerskollegium
+tillfälle att yttra sig.
+
+20 § I fråga om haloner får Statens räddningsverk eller, om det
+är fråga om en anordning i ett fartyg, Sjöfartsverket meddela
+föreskrifter om undantag eller i det enskilda fallet ge dispens
+från bestämmelserna i 10, 12 och 13 §§, om det behövs för att
+förebygga att människor skadas på grund av brand.
+
+Föreskrifter om undantag får innehålla de bestämmelser som
+behövs från hälso- och miljöskyddssynpunkt. En dispens får
+förenas med de villkor som behövs från hälso- och
+miljöskyddssynpunkt.
+
+Innan Räddningsverket eller Sjöfartsverket meddelar
+föreskrifter om undantag eller ger en dispens, ska myndigheten
+ge Naturvårdsverket tillfälle att yttra sig.
+
+21 § I fråga om aerosolförpackningar som innehåller CFC eller
+HCFC och som är avsedda för medicinskt ändamål, får
+Läkemedelsverket meddela föreskrifter om undantag eller i det
+enskilda fallet ge dispens från förbuden mot tillverkning,
+saluhållande och import i 10 §, 11 § 3 och 13 §. Sådana
+föreskrifter får meddelas och dispenser ges endast om det finns
+synnerliga skäl.
+
+Innan Läkemedelsverket meddelar föreskrifter om undantag eller
+ger en dispens, ska det ge Naturvårdsverket tillfälle att yttra
+sig.
+
+Förebyggande av utsläpp och registerföring
+
+22 § Den som tillverkar ett nytt enhetsaggregat, importerar
+eller till Sverige för in en kyl-, luftkonditionerings- eller
+värmepumpsutrustning som är tillverkad utomlands eller
+installerar eller är operatör av en ny sådan utrustning ska se
+till att utrustningen är försedd med noggranna och lättfattliga
+drift- och skötselinstruktioner på svenska med de anvisningar
+som behövs för att förebygga utsläpp av köldmedium.
+
+Första stycket gäller inte stationära enhetsaggregat som
+innehåller mindre än 3 kilogram köldmedium och mobila
+utrustningar som innehåller mindre än 3 kilogram köldmedium.
+
+För fartyg i internationell trafik får drift- och
+skötselinstruktionerna enligt första stycket vara utfärdade på
+engelska i stället för på svenska.
+
+23 § Den som installerar, bygger om eller gör något annat
+ingrepp i köldmediesystemet i en kyl-, luftkonditionerings-
+eller värmepumpsutrustning ska se till att läckagekontroll
+utförs i samband med arbetet. Detta gäller inte installation av
+och ingrepp i stationära enhetsaggregat som innehåller mindre
+än 3 kilogram f-gaser.
+
+24 § Det som sägs om begränsningar av utsläpp, läckagekontroll
+och registerföring i artikel 3.1-3.6 i EG-förordningen om f-
+gaser ska även gälla
+
+1. den som är operatör av en mobil kyl-, luftkonditionerings-
+eller värmepumpsutrustning som innehåller motsvarande mängd f-
+gaser, och
+
+2. en stationär eller mobil utrustning som i stället för f-gas
+innehåller HCFC.
+
+25 § Läckagekontroll enligt artikel 3.2 i EG-förordningen om f-
+gaser och enligt 23 och 24 §§ ska utföras av ett ackrediterat
+kontrollorgan.
+
+26 § Det som sägs i 25 § gäller inte
+
+1. kyl-, luftkonditionerings- och värmepumpsutrustningar för
+icke yrkesmässigt bruk, eller
+
+2. mobila kyl-, luftkonditionerings- och värmepumpsutrustningar
+som är placerade i fordon eller fartyg registrerade i utlandet.
+
+Det som sägs i 22-25 §§ gäller inte köldmedier som utgörs av f-
+gaser eller kyl-, luftkonditionerings- och
+värmepumpsutrustningar som innehåller sådana köldmedier och som
+enbart används för forskning, utbildning och utveckling inom
+kyl- och värmeområdet.
+
+Det som sägs i fråga om läckagekontroll enligt 24 och 25 §§
+gäller inte fartyg som under ett helt kalenderår aldrig anlöper
+svensk hamn.
+
+Återtagande av köldmedium
+
+27 § Den som yrkesmässigt importerar eller överlåter köldmedier
+är skyldig att kostnadsfritt återta levererade köldmedier som
+omhändertagits och tillhandahålla behållare för detta ändamål.
+
+Rapportering och information till tillsynsmyndigheten
+
+28 § Innan installation eller konvertering sker av en stationär
+kyl-, luftkonditionerings- eller värmepumpsutrustning som
+innehåller 10 kilogram f-gaser eller mer, ska den som är eller
+avser att bli operatör av utrustningen informera
+tillsynsmyndigheten om detta. Informationen ska lämnas i så god
+tid att utrymme ges för ett ändamålsenligt samråd med
+tillsynsmyndigheten om åtgärdens utformning och miljöpåverkan.
+
+Första stycket gäller inte
+
+1. om installation eller konvertering sker till följd av ett
+oförutsett haveri av en utrustning som kräver omedelbara
+åtgärder i syfte att undvika olägenhet för människors hälsa och
+miljön eller betydande ekonomisk skada,
+
+2. om valet av utrustning och köldmedium behandlas inom ramen
+för en ansökan om tillstånd eller en anmälan enligt 9 kap.
+miljöbalken,
+
+3. kyl-, luftkonditionerings- eller värmepumpsutrustningar för
+icke yrkesmässigt bruk, eller
+
+4. köldmedier som utgörs av f-gaser samt kyl-,
+luftkonditionerings- och värmepumpsutrustningar som innehåller
+sådana köldmedier och som enbart används för forskning,
+utbildning och utveckling inom kyl- och värmeområdet.
+
+29 § Om det i en stationär anläggning eller i en anläggning på
+fartyg under någon del av ett kalenderår finns minst 10
+kilogram köldmedier som omfattas av läckagekontroll enligt
+artikel 3.2 i EG-förordningen om f-gaser eller enligt 24 §, ska
+operatören senast den 31 mars året efter det kalenderåret ge in
+en rapport till tillsynsmyndigheten.
+
+Rapporten ska omfatta resultatet av de läckagekontroller som
+gjorts under kalenderåret och information om utrustning som
+skrotats under kalenderåret.
+
+Rapporten ska undertecknas av operatören eller förses med
+operatörens elektroniska signatur och innehålla uppgift om
+
+1. operatörens organisationsnummer, postadress och
+faktureringsadress,
+
+2. adress och fastighetsbeteckning där utrustningen är belägen,
+om utrustningen är stationär,
+
+3. en förteckning över den kyl-, luftkonditionerings- och
+värmepumpsutrustning som finns vid anläggningen,
+
+4. den totala mängden köldmedier vid anläggningen,
+
+5. den totala mängden påfyllda f-gaser till följd av läckage
+under det senaste kalenderåret,
+
+6. den totala mängden omhändertagna köldmedier under det
+senaste kalenderåret,
+
+7. resultatet av utförda kontroller,
+
+8. datum för utförda kontroller,
+
+9. namn och kontaktuppgifter avseende den personal och det
+företag som utfört kontrollerna,
+
+10. kyl-, luftkonditionerings- och värmepumpsutrustning som har
+skrotats, och,
+
+11. i fråga om utrustning ombord på fartyg, fartygets namn,
+signalbokstäver eller liknande.
+
+30 § Rapporteringskraven i 29 § gäller inte
+
+1. kyl-, luftkonditionerings- eller värmepumpsutrustningar för
+icke yrkesmässigt bruk,
+
+2. mobila kyl-, luftkonditionerings- och värmepumpsutrustningar
+som är placerade i fordon eller fartyg registrerade i utlandet,
+eller
+
+3. köldmedier som utgörs av f-gaser samt kyl-,
+luftkonditionerings- och värmepumpsutrustningar som innehåller
+sådana köldmedier och som enbart används för forskning,
+utbildning och utveckling inom kyl- och värmeområdet.
+
+Krav på företag och personal
+
+31 § Installation och ingrepp i ett köldmediesystem eller i en
+anordning som påverkar köldmediesystemets funktion får endast
+göras av den som är ett ackrediterat kontrollorgan och
+ackrediteringen omfattar att de kunskapskrav som enligt bilaga
+4 krävs för arbetet är uppfyllda.
+
+Trots bestämmelsen i första stycket får ett arbete göras av den
+som i fråga om kyl-, luftkonditionerings- eller
+värmepumpsutrustningars funktion, drift och skötsel är eller
+står under arbetsledning av någon som är certifierad av ett
+ackrediterat certifieringsorgan och certifieringen omfattar att
+de kunskapskrav som enligt bilaga 4 krävs för arbetet är
+uppfyllda, om arbetet avser
+
+1. avtappning av köldmedium ur ett stationärt enhetsaggregat
+eller avtappning av en mobil utrustning med högst 3 kilogram
+köldmedium vid en bilskrotningsanläggning (klass 2.1),
+
+2. åtgärder på stationära enhetsaggregat med högst 3 kilogram
+köldmedium och som förutsätter ingrepp i köldmediesystemet
+eller i anordningar som påverkar kretsens funktion (klass 2.2),
+
+3. ingrepp i tom mobil utrustning för högst 3 kilogram
+köldmedium (klass 2.3),
+
+4. åtgärder till sjöss på kylanläggning som är installerad på
+fiskefartyg och kylanläggning i annat fartyg med en sammanlagd
+köldmediemängd av högst 10 kilogram och som förutsätter ingrepp
+i köldmediekretsen (klass 1), eller
+
+5. åtgärder på en kylanläggning som är installerad på fartyg
+eller som tillfälligtvis fraktas på fartyg och som förutsätter
+ingrepp i köldmediesystemet eller i anordningar som påverkar
+systemets funktion.
+
+Åtgärder som avses i andra stycket 5 får utföras på
+anläggningar i försvarets fartyg av en underhållsorganisation
+som är knuten till fartygsförband, om det i
+underhållsorganisationen ingår en person som är certifierad av
+ett ackrediterat certifieringsorgan och certifieringen omfattar
+att de kunskapskrav som enligt bilaga 4 krävs för arbetet är
+uppfyllda.
+
+I fråga om installation av utrustning som innehåller mindre än
+3 kilogram köldmedier och som inte förutsätter påfyllnad efter
+det att köldmediekretsen monterats ihop samt i fråga om CFC,
+övriga CFC och HCFC gäller första- tredje styckena endast
+arbete i yrkesmässig verksamhet.
+
+32 § Ombord på fartyg där installation, ombyggnad, reparation
+och andra ingrepp i köldmediesystemet utförs till sjöss på kyl-
+, luftkonditionerings- eller värmepumpsutrustningar ska det
+finnas
+
+1. anställd personal som är certifierad av ett ackrediterat
+certifieringsorgan och certifieringen omfattar de kunskapskrav
+som krävs enligt bilaga 4, och
+
+2. sådan serviceutrustning som krävs för att åtgärderna ska
+kunna utföras så att tillräcklig säkerhet mot utsläpp till
+atmosfären uppnås.
+
+33 § En operatör som anlitar någon för ett sådant arbete som
+avses i 31 § ska se till att arbetet inte utförs i strid mot
+den paragrafen.
+
+34 § En operatör ska att se till att den personal som sköter
+operatörens anläggning har kunskap om och erfarenhet av kyl-,
+luftkonditionerings- eller värmepumpsutrustningens funktion,
+drift och skötsel.
+
+35 § I fråga om kyl-, luftkonditionerings- eller
+värmepumpsutrustningars funktion, drift och skötsel får en
+person certifieras av ett ackrediterat certifieringsorgan
+enbart om personen har avlagt prov vid ett godkänt
+examinationscentrum.
+
+Ett sådant examinationscentrum får godkännas av ett
+ackrediterat certifieringsorgan enbart om examinationscentrumet
+har den utrustning som krävs och tillräckliga personella
+resurser.
+
+En certifiering enligt första stycket 1 ska utfärdas för de
+klasser som framgår av bilaga 4 och avse den kompetens och
+göras på ett sätt som överensstämmer med Svensk Kylnorm.
+
+36 § Om ett certifikat behöver förnyas ska det ske på ett sätt
+som överensstämmer med Svensk Kylnorm.
+
+37 § En ackreditering för installation, service och kontroll av
+kyl- och värmepumpsanlägningar ska göras enligt
+ackrediteringsorganets föreskrifter för ackrediterade
+kontrollorgan.
+
+Ett ackrediterat kontrollorgan ska
+
+1. ha minst en person anställd i arbetsledande ställning med
+certifierad kompetens motsvarande de klasser som anges i 31 §
+och bilaga 4 samt Svensk Kylnorm,
+
+2. ha nödvändig och tillräcklig utrustning, använda metoder och
+utfärda kontrollrapporter enligt ackrediteringsorganets
+tillämpliga föreskrifter och bestämmelserna i denna förordning
+samt enligt Svensk Kylnorm,
+
+3. kvartalsvis upprätta en sammanställning över inköpt,
+förbrukat och återlämnat köldmedium och kunna redovisa
+sammanställningen till tillsynsmyndigheten.
+
+38 § En person som avses i 37 § andra stycket 1 ska se till att
+den som utför arbete under ledning av honom eller henne har de
+kunskaper och färdigheter som fordras för arbetet och som
+följer av bestämmelserna i denna förordning.
+
+39 § Det som sägs i 31-38 §§ gäller inte köldmedier som utgörs
+av f-gaser eller kyl-, luftkonditionerings- och
+värmepumpsutrustningar som innehåller sådana köldmedier och som
+enbart används för forskning, utbildning och utveckling inom
+kyl- och värmeområdet.
+
+Det som sägs i 31 och 35-38 §§ gäller inte personal och företag
+med certifikat i enlighet med artikel 5.2 i EG-förordningen om
+f-gaser som utfärdats i att annat land i Europeiska unionen.
+
+Det som sägs i 32 § gäller inte
+
+1. kyl-, luftkonditionerings- och värmepumpsutrustningar för
+icke yrkesmässigt bruk, eller
+
+2. mobila kyl-, luftkonditionerings- och värmepumpsutrustningar
+som är placerade i fartyg registrerade i utlandet.
+
+Bemyndiganden
+
+40 § Naturvårdsverket får meddela föreskrifter
+
+1. om försiktighetsmått och kunskapskrav samt de åtgärder i
+övrigt som behövs för att hindra onödiga utsläpp av HFC från
+brandsläckningsanordningar,
+
+2. om att den som innehar en eller flera
+brandsläckningsanordningar som sammanlagt rymmer mer än 20
+kilogram haloner ska, när en sådan anordning tas bort,
+överlämna halonet för bortskaffande,
+
+3. om försiktighetsmått och andra åtgärder som behövs för att
+motverka utsläpp av halon,
+
+4. för att motverka utsläpp från anläggningar eller anordningar
+för destruktion eller annan bearbetning av kasserade produkter
+som innehåller halon, och
+
+5. om kunskapskrav avsedda för den som yrkesmässigt hanterar
+eller installerar fasta brandsläckningsanordningar eller utför
+reparationer eller underhåll som påverkar arbetsmediekretsen i
+sådana anordningar, för att förhindra utsläpp av halon.
+
+Avfall
+
+41 § Avfall som utgörs av kasserade kylskåp eller frysar ska
+hanteras på sådant sätt att ämnen som bryter ned ozonskiktet
+inte släpps ut.
+
+Behörig myndighet
+
+42 § Naturvårdsverket är den behöriga myndighet som avses i
+EG-förordningen om ozonnedbrytande ämnen och i EG-förordningen
+om f-gaser.
+
+Övergångsbestämmelser
+
+2007:846
+
+1. Denna förordning träder i kraft den 1 januari 2008, då
+förordningen (1995:555) om HFC och förordningen (2002:187) om
+ämnen som bryter ned ozonskiktet ska upphöra att gälla.
+
+2. Föreskrifter meddelade med stöd av förordningen (1995:636)
+om ämnen som bryter ned ozonskiktet eller förordningen
+(2002:187) om ämnen som bryter ned ozonskiktet ska anses
+meddelade med stöd av motsvarande bestämmelser i denna
+förordning.
+
+3. Dispenser som har getts med stöd av förordningen (1995:636)
+om ämnen som bryter ned ozonskiktet eller förordningen
+(2002:187) om ämnen som bryter ned ozonskiktet ska anses ha
+getts med stöd av motsvarande bestämmelser i denna förordning.
+
+
+Bilaga 1
+
+Produkter och varor
+
+ur KN-nummer 3903 eller 3909: polystyren och polyuretan, i
+obearbetad form,
+
+ur KN-nummer 3921: plattor, duk, film, folier och remsor av
+polystyren, polyvinylklorid, polyuretan, polyeten, polypropen
+och fenoplast,
+
+ur KN-nummer 3923, 3924 eller 3926: artiklar för transport
+eller förpackning av varor, engångsartiklar samt rörisolering
+av mjuk skumplast,
+
+ur KN-nummer 3925, 4418, 7308 eller 7610: paneler, väggelement,
+portar och dörrar,
+
+ur KN-nummer 6809 eller 6810: varor för byggnadsändamål,
+
+ur KN-nummer 7303, 7304, 7305 eller 7306: rör av järn eller
+stål,
+
+ur KN-nummer 7411: rör av koppar,
+
+ur KN-nummer 8418: kylskåp, frysar och annan kyl- eller
+frysutrustning, elektriska och andra; värmepumpar, andra än
+luftkonditioneringsapparater enligt KN-nummer 8415,
+
+ur KN-nummer 8419: maskiner och apparater, även med elektrisk
+uppvärmning (med undantag av ugnar och annan utrustning enligt
+KN-nummer 8415), för behandling av material genom förfaranden
+som inbegriper temperaturändring, såsom uppvärmning, kokning,
+rostning, destillering, rektifiering, sterilisering,
+pastörisering, ångbehandling, torkning, indunstning,
+förångning, kondensering eller avkylning, dock inte maskiner
+och apparater av sådant slag som används för hushållsbruk;
+genomströmnings- eller förrådsvarmvattenberedare, icke
+elektriska,
+
+ur KN-nummer 8516: elektriska genomströmnings- eller
+förrådsvarmvattenberedare,
+
+ur KN-nummer 8603, 8605 eller 8606: järnvägs- och
+spårvägsvagnar,
+
+ur KN-nummer 8609: godsbehållare (containrar), inbegripet
+sådana för transport av vätskor, speciellt konstruerade och
+utrustade för befordran med ett eller flera slag av
+transportmedel,
+
+ur KN-nummer 8702, 8703 eller 8704: bilar och andra motorfordon
+konstruerade huvudsakligen för person- eller godsbefordran,
+
+ur KN-nummer 8707: karosserier (inbegripet förarhytter) till
+motorfordon enligt KN-nummer 8702-8704,
+
+ur KN-nummer 8708: delar och tillbehör till motorfordon enligt
+KN-nummer 8702-8704,
+
+ur KN-nummer 8716: släpfordon och påhängsvagnar; andra fordon,
+utan mekanisk framdrivningsanordning, delar till sådana fordon,
+
+ur KN-nummer 8901: tankfartyg, kyl- och frysfartyg med
+isolering av hård skumplast,
+
+ur KN-nummer 8902: fiskefartyg med isolering av hård skumplast,
+
+ur KN-nummer 8903: fritidsbåtar och andra fartyg för nöjes-
+eller sportbruk,
+
+ur KN-nummer 8907: andra flytande materiel (t.ex. flottar,
+tankar, kassuner, bryggor, bojar och sjömärken),
+
+ur KN-nummer 9401 eller 9403: sitt- och liggmöbler samt delar
+till sådana möbler, och
+
+ur KN-nummer 9404: madrasser, dynor och kuddar.
+
+Bilaga 2
+
+Produkter och varor
+
+ur KN-nummer 3921 11: andra slag av plattor, duk, film, folier
+och remsor av plast: porösa produkter: av polymerer av styren
+polystyren och polyuretan, i obearbetad form, och
+
+ur KN-nummer 3925 90: byggvaror av plast, inte nämnda eller
+inbegripna någon annanstans.
+
+Bilaga 3
+
+Produkter och varor
+
+ur KN-nummer 8419: maskiner och apparater, även med elektrisk
+uppvärmning (med undantag av ugnar och annan utrustning enligt
+KN-nummer 8514), för behandling av material genom förfaranden
+som inbegriper temperaturändring, såsom uppvärmning, kokning,
+rostning, destillering, rektifiering, sterilisering,
+pastörisering, ångbehandling, torkning, indunstning,
+förångning, kondensering eller avkylning, dock inte maskiner
+och apparater av sådana slag som används för hushållsbruk;
+genomströmnings- eller förrådsvarmvattenberedare, icke
+elektriska,
+
+ur KN-nummer 8516: elektriska genomströmnings- eller
+förrådsvarmvattenberedare och doppvärmare; elektriska apparater
+för rumsuppvärmning eller uppvärmning av marken; elektriska
+värmeapparater för hårbehandling (t.ex. hårtorkar, hårspolar
+och hårtänger) eller för torkning av händerna; elektriska
+stryk- eller pressjärn; andra elektriska värmeapparater av
+sådana slag som används för hushållsbruk; elektriska
+värmemotstånd, andra än sådana enligt KN-nummer 8548,
+
+ur KN-nummer 8901: kryssningsfartyg, utflyktsfartyg, färjor,
+lastfartyg, pråmar och liknande fartyg för person- eller
+godsbefordran, och
+
+ur KN-nummer 8902: fiskefartyg; fabriksfartyg och andra fartyg
+för beredning eller konservering av fiskeriprodukter.
+
+Bilaga 4
+
+Kunskapskrav för vissa arbeten
+
+Klass 1 Kunskapskrav för arbete med egenkontroll: Kunskaper om
+innehållet i föreskrifter och normer samt om genomförande av
+egenkontroll.
+
+Klass 2.1 Kunskapskrav för avtappning ur stationärt
+enhetsaggregat eller mobil utrustning med mindre än 3 kilogram
+köldmedium: Kunskaper om innehållet i föreskrifter och normer
+samt om köldmediehantering.
+
+Klass 2.2 Kunskapskrav för arbete med enhetsaggregat med mindre
+än 3 kilogram köldmedium: Kunskaper om innehållet i
+föreskrifter och normer samt om köldmediehantering och
+kunskaper i grundläggande kylteknik.
+
+Klass 2.3 Kunskapskrav för arbete med installation och service
+av eller ingrepp i mobil utrustning med mindre än 3 kilogram
+köldmedium samt genomförande av kontroll av anläggning med
+sådana utrustningar: Kunskaper om innehållet i föreskrifter och
+normer samt om köldmediehantering och kunskaper i grundläggande
+kylteknik och kontroll av utrustning och anläggning.
+
+Klass 3.1 Kunskapskrav för arbete med installation och service
+av eller ingrepp i kyl-, luftkonditionerings- och
+värmepumpsutrustningar med mindre än 50 kilogram köldmedium
+samt genomförande av kontroll av anläggningar med sådana
+utrustningar: Kunskaper om innehållet i föreskrifter och normer
+samt om köldmediehantering, mer kvalificerade kunskaper i
+kylteknik, kunskaper i genomförande av kontroll av kyl-,
+luftkonditionerings- eller värmepumpsutrustning eller
+anläggning.
+
+Klass 3.2 Kunskapskrav för arbete med installation och service
+av eller ingrepp i övriga kyl-, luftkonditionerings- och
+värmepumpsutrustningar samt genomförande av kontroll av
+anläggningar med sådana utrustningar: Kunskaper om innehållet i
+föreskrifter och normer samt om köldmediehantering, mer
+kvalificerade kunskaper i kylteknik inriktade mot stora kyl-,
+luftkonditionerings- och värmepumpsutrustningar, kunskaper i
+energieffektivisering samt kunskaper i genomförande av kontroll
+av kyl-, luftkonditionerings och värmepumpsutrustningar och
+anläggningar.
