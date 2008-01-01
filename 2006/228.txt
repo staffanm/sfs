@@ -132,53 +132,71 @@ Fordonsslag             Skattevikt,     Skatt,
                         kilogram        kronor
 
                                         grund-
-                                        belopp    tilläggsbelopp
-                                                  för varje helt
-                                                  hundratal
-                                                  kilogram över
-                                                  den lägsta
-                                                  vikten i klassen
+                                        belopp  tilläggsbelopp
+                                                för varje helt
+                                                hundratal
+                                                kilogram över
+                                                den lägsta
+                                                vikten i klassen
 
 A Personbilar klass I
+
 1. Personbilar klass I
 som inte kan drivas
-med dieselolja              0 - 900     720         0
-                          901           903       183
+med dieselolja          0-900           720     0
+
+                        901-            903     183
+
 2. Personbilar klass I
 som kan drivas med
-dieselolja                  0 - 900     2 290       0
-                          901           2 870     580
+dieselolja              0-900           2 187   0
+
+                        901-            2 741   554
+
 B Lätta bussar
+
 1. Lätta bussar som
 inte kan drivas med
-dieselolja                  0 - 1 300   720         0
-                        1 301 - 1 600   771        51
-                        1 601 - 3 000   963        90
-                        3 001 - 3 500   2 205       0
+dieselolja              0-1 300         720     0
+
+                        1 301-1 600     903     164
+
+                        1 601-3 000     1 396   129
+
+                        3 001-3 500     3 197   0
 
 2. Lätta bussar som
 kan drivas med
-dieselolja                  0 - 1 600   1 613       0
-                        1 601 - 3 000   1 736     123
-                        3 001 - 3 500   3 461       0
+dieselolja              0-1 300         2 187   0
 
-C Lätta lastbilar
-och personbilar
-klass II
+                        1 301-1 600     2 339   59
 
-1. Lätta lastbilar
-och personbilar
-klass II som inte
-kan drivas med
-dieselolja                  0 - 1 300     720       0
-                        1 301 - 1 600     771      51
-                        1 601 - 3 000     963      90
-                        3 001 -         2 205       0
+                        1 601-3 000     2 517   178
 
-2. Lätta lastbilar
-och personbilar
-klass II som kan
-drivas med
-dieselolja                  0 - 1 600   1 613       0
-                        1 601 - 3 000   1 736     123
-                        3 001 -         3 461       0
+                        3 001-3 500     5 018   0
+
+C Lätta lastbilar och
+personbilar klass II
+
+1. Lätta lastbilar och
+personbilar klass II
+som inte kan drivas
+med dieselolja          0-1 300         720     0
+
+                        1 301-1 600     903     164
+
+                        1 601-3 000     1 396   129
+
+                        3 001-          3 197   0
+
+2. Lätta lastbilar och
+personbilar klass II
+som kan drivas med
+dieselolja              0-1 300         2 187   0
+
+                        1 301-1 600     2 339   59
+
+                        1 601-3 000     2 517   178
+
+                        3 001-          5 018   0
+Förordning (2007:1392).
