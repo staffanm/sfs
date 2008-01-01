@@ -88,52 +88,7 @@ kontaktperson 12,5 procent av riktvärdet.
 Den genomsnittliga kostnaden per insats skall uppdateras
 årligen.
 
-6 § /Upphör att gälla U:2007-01-01/
-Koncentrationsindexet beräknas som kvoten av andelen
-personer med verkställda beslut per den 1 september 2002
-respektive den 1 oktober 2004 i kommunen och andelen personer
-med verkställda beslut i landet per den 1 september 2002
-respektive den 1 oktober 2004, upphöjt med en exponent som
-justerar för koncentrationens effekt på standardkostnaden.
-Därefter summeras de beräknade kvoterna och summan divideras
-med 2.
-
-Personalkostnadsindexet för respektive kommun beräknas dels
-utifrån kostnadsuppgifter från räkenskapssammandragen 2002 och
-2004, dels utifrån den kostnad som beräknats enligt 4 § första
-stycket för bidrags- och avgiftsåren 2004 och 2006, på följande
-sätt.
-
-Ett belopp motsvarande 70 procent av skillnaden mellan en
-beräknad personalkostnad per kommun för 2002 och den
-personalkostnad som ingår i den i andra stycket nämnda och för
-2002 beräknade kostnaden, adderas till sist nämnda kostnad,
-multiplicerad med det koncentrationsindex som beräknats för
-samma år. Den erhållna summan divideras med den i andra stycket
-nämnda och för 2002 beräknade kostnaden, multiplicerad med
-koncentrationsindexet för samma år.
-
-Ett belopp motsvarande 70 procent av skillnaden mellan en
-beräknad personalkostnad per kommun för 2004 och den
-personalkostnad som ingår i den i andra stycket nämnda och för
-2004 beräknade kostnaden, adderas till sist nämnda kostnad,
-multiplicerad med det koncentrationsindex som beräknats för
-samma år. Den erhållna summan divideras med den i andra stycket
-nämnda och för 2004 beräknade kostnaden, muliplicerad med
-koncentrationsindexet för samma år.
-
-Slutligen summeras de enligt tredje och fjärde styckena
-beräknade indexen och summan divideras med 2.
-
-Till grund för beräkningarna enligt första och andra styckena
-skall, när det gäller andelen personer med verkställda beslut
-per den 1 september 2002, kostnadsuppgifter från
-räkenskapssammandraget 2002 och kostnader beräknade enligt 4 §
-första stycket, de uppgifter som låg till grund för beräkning
-av utjämningsbidrag och utjämningsavgifter för bidrags- och
-avgiftsåret 2004 användas. Förordning (2005:1169).
-
-6 § /Träder i kraft I:2007-01-01/
+6 § /Upphör att gälla U:2008-01-01/
 Koncentrationsindexet beräknas som kvoten av andelen
 personer med verkställda beslut per den 1 oktober 2005 i
 kommunen och andelen personer med verkställda beslut i landet
@@ -153,6 +108,27 @@ multiplicerad med det koncentrationsindex som beräknats för
 samma år. Den erhållna summan divideras med den i andra stycket
 nämnda och för 2005 beräknade kostnaden, multiplicerad med
 koncentrationsindexet för samma år. Förordning (2006:1084).
+
+6 § /Träder i kraft I:2008-01-01/
+Koncentrationsindexet beräknas som kvoten av andelen
+personer med verkställda beslut per den 1 oktober 2006 i
+kommunen och andelen personer med verkställda beslut i landet
+per den 1 oktober 2006, upphöjt med en exponent som justerar
+för koncentrationens effekt på standardkostnaden.
+
+Personalkostnadsindexet för respektive kommun beräknas dels
+utifrån kostnadsuppgifter från räkenskapssammandragen 2006,
+dels utifrån den kostnad som beräknats enligt 4 § första
+stycket för bidrags- och avgiftsåret 2008, på följande sätt.
+
+Ett belopp motsvarande 70 procent av skillnaden mellan en
+beräknad personalkostnad per kommun för 2006 och den
+personalkostnad som ingår i den i andra stycket nämnda och för
+2006 beräknade kostnaden, adderas till sist nämnda kostnad,
+multiplicerad med det koncentrationsindex som beräknats för
+samma år. Den erhållna summan divideras med den i andra stycket
+nämnda och för 2006 beräknade kostnaden, multiplicerad med
+koncentrationsindexet för samma år. Förordning (2007:708).
 
 7 § För beräkningarna gäller i övrigt de beräkningsmetoder och
 närmare detaljer som anges i bilagan till denna förordning.
@@ -212,17 +188,17 @@ Befolkningsuppgifter hämtas från Statistiska centralbyråns
 
 Nettoprisindex
 
-/Upphör att gälla U:2007-01-01/
-Uppräkning till bidrags- och avgiftsårets kostnadsnivå sker med
-hjälp av utvecklingen av nettoprisindex. Som genomsnittlig
-procentuell förändring i nettoprisindex för respektive år
-används följande: 2005 (0,0) och 2006 (1,4).
-
-/Träder i kraft I:2007-01-01/
+/Upphör att gälla U:2008-01-01/
 Uppräkning till bidrags- och avgiftsårets kostnadsnivå sker med
 hjälp av utvecklingen av nettoprisindex. Som genomsnittlig
 procentuell förändring i nettoprisindex för respektive år
 används följande: 2006 (0,6) och 2007 (1,1).
+
+/Träder i kraft I:2008-01-01/
+Uppräkning till bidrags- och avgiftsårets kostnadsnivå sker med
+hjälp av utvecklingen av nettoprisindex. Som genomsnittlig
+procentuell förändring i nettoprisindex för respektive år
+används följande: 2007 (1,8) och 2008 (1,5).
 
 Genomsnittskostnaden
 
@@ -314,97 +290,7 @@ FK = kommunens ersättning till Försäkringskassan enligt lagen
 
 Koncentrationsindex (K-IX)
 
-/Upphör att gälla U:2007-01-01/
-P123k02 = Antal personer i personkrets 1-3 med verkställda
-beslut i kommunen den 1 september 2002.
-
-P123r02 = Antal personer i personkrets 1-3 med verkställda
-beslut i landet den 1 september 2002.
-
-P123k04 = Antal personer i personkrets 1-3 med verkställda
-beslut i kommunen den 1 oktober 2004.
-
-P123r04 = Antal personer i personkrets 1-3 med verkställda
-beslut i landet den 1 oktober 2004.
-
-p = Exponent som justerar för koncentrationens effekt på
-standardkostnaden. Exponenten uppgår till -0,16.
-
-ik02 = Antal invånare i kommunen den 31 december 2002.
-
-ir02 = Antal invånare i landet den 31 december 2002.
-
-ik04 = Antal invånare i kommunen den 31 december 2004.
-
-ir04 = Antal invånare i landet den 31 december 2004.
-
-Beräkning av koncentrationsindexet enligt följande formel:
-(((P123k02/ik02) / (P123r02/ir02))p + ((P123k04/ik04) /
-(P123r04/ir04))p) / 2
-
-Personalkostnadsindex (PK-IX)
-
-Personalkostnadsindexets beräkning
-
-A  =  Externa löner.
-B  =  Entreprenad och köp av verksamhet.
-C  =  Interna köp och övriga interna kostnader.
-D  =  Internt fördelade kostnader enligt kommunnyckeln.
-E  =  Internt fördelade kostnader enligt SCB-nyckeln.
-F  =  Interna intäkter.
-G  =  Ersättning från Försäkringskassan enligt lagen (1993:389)
-om assistansersättning.
-H  =  Ersättning till Försäkringskassan enligt lagen (1993:389)
-om assistansersättning.
-J  =  Försäljning av verksamhet till andra kommuner.
-S  =  Standardkostnad enligt tidigare beräkning exklusive
-koncentrationsindex.
-Sk =  Standardkostnad inklusive
-koncentrationsindex.
-
-Beräknade personalkostnader
-
-Lönekostnader inklusive personalomkostnadspålägg (PO-pålägg)
-enligt Svenska Kommunförbundets cirkulär 2002:24 och 2003:112
-för 2002 respektive 2004.
-
-Tillkommer 86 procent av köp av verksamhet, övriga interna
-kostnader, internt fördelade kostnader.
-
-Avgår 86 procent av ersättning från Försäkringskassan,
-försäljning till andra kommuner, interna intäkter.
-
-Tillkommer kommunens beräknade personalkostnad för köpta
-verksamheter avseende personlig assistans.
-
-Steg 1
-
-Lönekostnaden (A) x PO-pålägg + 0,86 x (B+C+D+E) - 0,86 x
-(F+G+J) + 0,86 x 0,23 x ((H/0,23) - G) = beräknade
-personalkostnader.
-
-Steg 2
-
-Personalkostnader ersatta via den första beräknade
-standardkostnaden för 2004 respektive 2006 multiplicerad med 86
-procent = 0,86 x S.
-
-Steg 3
-
-Mellanskillnaden av steg 1 och steg 2 av överskjutande
-personalkostnader ersätts med 70 procent = (Lönekostnaden (A) x
-PO-pålägg + 0,86 x (B+C+D+E) - 0,86 x (F+G+J) + 0,86 x 0,23 x
-((H/0,23) - G) - (0,86 x S)) x 0,7.
-
-Indexet erhålls genom att standardkostnaden inklusive
-koncentrationsindexet adderas med värdet av steg 3 dividerat
-med standardkostnaden inklusive koncentrationsindexet = (Sk +
-steg 3) / Sk.
-
-Det slutliga indexet erhålls genom att indexen för 2002 och
-2004 summeras och summan divideras med 2.
-
-/Träder i kraft I:2007-01-01/
+/Upphör att gälla U:2008-01-01/
 P123k05 = Antal personer i personkrets 1-3 med verkställda
 beslut i kommunen den 1 oktober 2005.
 
@@ -477,6 +363,80 @@ Personalkostnader ersatta via den första beräknade
 standardkostnaden för 2005 multiplicerad med 86 procent = 0,86
 x S.
 
+/Träder i kraft I:2008-01-01/
+P123k05 = Antal personer i personkrets 1-3 med verkställda
+beslut i kommunen den 1 oktober 2006.
+
+P123r05 = Antal personer i personkrets 1-3 med verkställda
+beslut i landet den 1 oktober 2006.
+
+p = Exponent som justerar för koncentrationens effekt på
+standardkostnaden. Exponenten uppgår till -0,16.
+
+ik05 = Antal invånare i kommunen den 31 december 2006.
+
+ir05 = Antal invånare i landet den 31 december 2006.
+
+Beräkning av koncentrationsindexet enligt följande formel:
+
+((P123k05/ik05) / (P123r05/ir05))p.
+
+Personalkostnadsindex (PK-IX)
+
+Personalkostnadsindexets beräkning
+
+A = Externa löner.
+
+B = Entreprenad och köp av verksamhet.
+
+C = Interna köp och övriga interna kostnader.
+
+D = Internt fördelade kostnader enligt kommunnyckeln.
+
+E = Internt fördelade kostnader enligt SCB-nyckeln.
+
+F = Interna intäkter.
+
+G = Ersättning från Försäkringskassan enligt lagen (1993:389)
+om assistansersättning.
+
+H = Ersättning till Försäkringskassan enligt lagen (1993:389)
+om assistansersättning.
+
+J = Försäljning av verksamhet till andra kommuner.
+
+S = Standardkostnad enligt tidigare beräkning exklusive
+koncentrationsindex.
+
+Sk = Standardkostnad inklusive koncentrationsindex.
+
+Beräknade personalkostnader
+
+Lönekostnader inklusive personalomkostnadspålägg (PO-pålägg)
+för 2006 enligt Sveriges Kommuner och Landstings cirkulär
+2006:52.
+
+Tillkommer 86 procent av köp av verksamhet, övriga interna
+kostnader, internt fördelade kostnader.
+
+Avgår 86 procent av ersättning från Försäkringskassan,
+försäljning till andra kommuner, interna intäkter.
+
+Tillkommer kommunens beräknade personalkostnad för köpta
+verksamheter avseende personlig assistans.
+
+Steg 1
+
+Lönekostnaden (A) x PO-pålägg + 0,86 x (B+C+D+E) - 0,86 x
+(F+G+J) + 0,86 x 0,23 x ((H/0,23) - G) = beräknade
+personalkostnader.
+
+Steg 2
+
+Personalkostnader ersatta via den första beräknade
+standardkostnaden för 2006 multiplicerad med 86 procent = 0,86
+x S.
+
 Steg 3
 
 Mellanskillnaden av steg 1 och steg 2 av överskjutande
@@ -503,4 +463,4 @@ bidrags- och avgiftsårets prisnivå. Produkten divideras med
 antalet invånare = S x K-IX x PK-IX x nettoprisindex x
 korrigeringsfaktorn / antalet invånare i kommunen. Resultatet
 avrundas till närmaste hela krontal.
-Förordning (2006:1290).
+Förordning (2007:708).
