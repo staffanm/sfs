@@ -259,16 +259,7 @@ och kommunikationssystem uppfyller sådana säkerhetskrav att
 myndighetens uppgifter kan utföras på ett tillfredsställande
 sätt även under höjd beredskap.
 
-22 § /Upphör att gälla U:2008-01-01/
-Försvarets materielverk, Försvarets radioanstalt,
-Försvarshögskolan, Totalförsvarets forskningsinstitut,
-Totalförsvarets pliktverk och Fortifikationsverket skall lämna
-Försvarsmakten det underlag som den behöver för att kunna
-fullgöra sin informationsskyldighet enligt 8 § förordningen
-(2000:555) med instruktion för Försvarsmakten.
-
-22 § /Träder i kraft I:2008-01-01/
-Försvarets materielverk, Försvarets radioanstalt,
+22 § Försvarets materielverk, Försvarets radioanstalt,
 Försvarshögskolan, Totalförsvarets forskningsinstitut,
 Totalförsvarets pliktverk och Fortifikationsverket ska lämna
 Försvarsmakten det underlag som behövs för att myndigheten ska
@@ -456,90 +447,81 @@ områden         särskilda               med ansvar      med ansvar
                 samverkansområdena
 
 Teknisk         Affärsverket
-infrastruktur   svenska kraftnät        x               x
+infrastruktur   svenska kraftnät                x               x
 
-                Elsäkerhetsverket       x               x
+                Elsäkerhetsverket               x               x
 
-                Krisberedskaps-
-                myndigheten             x               x
+                Krisberedskapsmyndigheten       x               x
 
-                Livsmedelsverket        x               x
+                Livsmedelsverket                x               x
 
-                Post- och
-                telestyrelsen           x               x
+                Post- och telestyrelsen         x               x
 
-                Statens
-                energimyndighet         x               x
+                Statens energimyndighet         x               x
 
-                Styrelsen för
-                psykologiskt försvar    x               x
+                Styrelsen för psykologiskt
+                försvar                         x               x
 
-Transporter     Banverket               x               x
+Transporter     Banverket                       x               x
 
-                Luftfartsstyrelsen      x               x
+                Luftfartsstyrelsen              x               x
 
-                Sjöfartsverket          x               x
+                Sjöfartsverket                  x               x
 
-                Vägverket               x               x
+                Vägverket                       x               x
 
-                Statens energimyndighet x               x
+                Statens energimyndighet         x               x
 
-Farliga ämnen   Kustbevakningen         x               x
+Farliga ämnen   Kustbevakningen                 x               x
 
-                Livsmedelsverket        x               x
+                Livsmedelsverket                x               x
 
-                Rikspolisstyrelsen      x               x
+                Rikspolisstyrelsen              x               x
 
-                Smittskyddsinstitutet   x               x
+                Smittskyddsinstitutet           x               x
 
-                Socialstyrelsen         x               x
+                Socialstyrelsen                 x               x
 
-                Statens jordbruksverk   x               x
+                Statens jordbruksverk           x               x
 
-                Statens
-                kärnkraftinspektion     x               x
-
-                Statens räddningsverk   x               x
+                Statens räddningsverk           x               x
 
                 Statens
-                strålskyddsinstitut     x               x
+                veterinärmedicinska anstalt     x               x
 
-                Statens
-                veterinärmedicinska
-                anstalt                 x               x
+                Strålsäkerhetsmyndigheten       x               x
 
-                Tullverket              x               x
+                Tullverket                      x               x
 
-                Krisberedskaps-
-                myndigheten             x               x
+                Krisberedskapsmyndigheten       x               x
 
-Ekonomisk       Finansinspektionen      x               x
+Ekonomisk       Finansinspektionen              x               x
 säkerhet
 
-                Försäkringskassan       x               x
+                Försäkringskassan               x               x
 
-                Riksgäldskontoret       x               x
+                Riksgäldskontoret               x               x
 
-                Skatteverket            x               x
+                Skatteverket                    x               x
 
-                Tullverket              x               x
+                Tullverket                      x               x
 
-Geografiskt     Länsstyrelserna         x               x
+Geografiskt     Länsstyrelserna                 x               x
 områdesansvar
 
-                Krisberedskaps-
-                myndigheten             x               x
+                Krisberedskapsmyndigheten       x               x
 
-Skydd,          Kustbevakningen         x               x
+Skydd,          Kustbevakningen                 x               x
 undsättning
-och vård        Luftfartsstyrelsen      x               x
+och vård        Luftfartsstyrelsen              x               x
 
-                Rikspolisstyrelsen      x               x
+                Rikspolisstyrelsen              x               x
 
-                Sjöfartsverket          x               x
+                Sjöfartsverket                  x               x
 
-                Socialstyrelsen         x               x
+                Socialstyrelsen                 x               x
 
-                Statens räddningsverk   x               x
+                Statens räddningsverk           x               x
 
-                Tullverket              x               x
+                Tullverket                      x               x
+Förordning (2008:468).
