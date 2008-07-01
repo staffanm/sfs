@@ -70,48 +70,9 @@ Vid behandling för det ändamål som anges i första stycket 1 får
 inte uppgifter som direkt pekar ut den registrerade användas.
 Lag (2004:792).
 
-8 § /Upphör att gälla U:2009-01-01/
-Personuppgifter som behandlas för ändamål som anges i 7 §
-får också behandlas av Försäkringskassan för tillhandahållande
-av information som behövs
-
-1. som underlag för beslut om och kontroll av förmåner,
-ersättningar och andra stöd åt enskilda i den verksamhet som
-bedrivs av Centrala studiestödsnämnden och
-arbetslöshetskassorna,
-
-2. för samordning av tjänstepensioner i den verksamhet som
-bedrivs av Statens pensionsverk och det för kommunerna och
-landstingen gemensamma organet för administration av
-personalpensioner, eller
-
-3. för handläggning av ärenden hos Statens pensionsverk där
-regler om statens tjänstegrupplivförsäkring skall tillämpas.
-
-Försäkringskassan och Premiepensionsmyndigheten får även
-behandla personuppgifter som behandlas för ändamål som anges i
-7 § för att tillhandahålla information utanför den egna
-myndigheten på grund av
-
-1. sådan bestämmelse om skyldighet att lämna ut uppgifter till
-andra myndigheter som avses i 14 kap. 1 § andra meningen
-sekretesslagen (1980:100),
-
-2. sådant medgivande att lämna ut uppgifter som följer av
-särskilda bestämmelser i lag eller förordning,
-
-3. sådan skyldighet att lämna ut uppgifter som följer av
-gemenskapsrätten inom Europeiska unionen, eller
-
-4. åtaganden i samarbetet inom Europeiska ekonomiska
-samarbetsområdet eller i avtal om social trygghet eller
-utgivande av sjukvårdsförmåner som Sverige ingått med andra
-stater. Lag (2004:792).
-
-8 § /Träder i kraft I:2009-01-01/
-Personuppgifter som behandlas för ändamål som anges i 7 §
-får också behandlas av Försäkringskassan för tillhandahållande
-av information som behövs
+8 § Personuppgifter som behandlas för ändamål som anges i 7 §
+får också behandlas av Försäkringskassan för
+tillhandahållande av information som behövs
 
 1. som underlag för beslut om och kontroll av förmåner,
 ersättningar och andra stöd åt enskilda i den verksamhet som
@@ -125,20 +86,22 @@ personalpensioner,
 
 3. för handläggning av ärenden hos Statens pensionsverk där
 regler om statens tjänstegrupplivförsäkring ska tillämpas,
-eller
 
 4. som underlag för beslut om och kontroll av ekonomiskt
-bistånd enligt 4 kap. socialtjänstlagen (2001:453) åt enskild i
-den verksamhet som bedrivs av socialnämnderna.
+bistånd enligt 4 kap. socialtjänstlagen (2001:453) åt enskild
+i den verksamhet som bedrivs av socialnämnderna, eller
+
+5. som underlag för beslut om och kontroll av vårdnadsbidrag
+enligt lagen (2008:307) om kommunalt vårdnadsbidrag.
 
 Försäkringskassan och Premiepensionsmyndigheten får även
-behandla personuppgifter som behandlas för ändamål som anges i
-7 § för att tillhandahålla information utanför den egna
+behandla personuppgifter som behandlas för ändamål som anges
+i 7 § för att tillhandahålla information utanför den egna
 myndigheten på grund av
 
-1. sådan bestämmelse om skyldighet att lämna ut uppgifter till
-andra myndigheter som avses i 14 kap. 1 § andra meningen
-sekretesslagen (1980:100),
+1. sådan bestämmelse om skyldighet att lämna ut uppgifter
+till andra myndigheter som avses i 10 kap. 28 § första
+stycket offentlighets- och sekretesslagen (2009:400),
 
 2. sådant medgivande att lämna ut uppgifter som följer av
 särskilda bestämmelser i lag eller förordning,
@@ -149,7 +112,7 @@ gemenskapsrätten inom Europeiska unionen, eller
 4. åtaganden i samarbetet inom Europeiska ekonomiska
 samarbetsområdet eller i avtal om social trygghet eller
 utgivande av sjukvårdsförmåner som Sverige ingått med andra
-stater. Lag (2008:973).
+stater. Lag (2009:553).
 
 9 § I fråga om behandling av personuppgifter för annat ändamål
 än vad som anges i 7 och 8 §§ gäller 9 § första stycket d och
@@ -287,8 +250,7 @@ stycket 1.
 Regeringen meddelar föreskrifter om vilka uppgifter
 direktåtkomst enligt första stycket får omfatta.
 
-20 a § /Träder i kraft I:2009-01-01/
-En socialnämnd får ha direktåtkomst till
+20 a § En socialnämnd får ha direktåtkomst till
 socialförsäkringsdatabasen i den utsträckning det behövs för
 ändamål som anges i 8 § första stycket 4. En socialnämnd får ha
 direktåtkomst först sedan Försäkringskassan har försäkrat sig
@@ -297,6 +259,18 @@ uppgifter om personer som är aktuella i ärenden hos nämnden.
 
 Regeringen meddelar ytterligare föreskrifter om vilka uppgifter
 direktåtkomst enligt första stycket får omfatta. Lag (2008:973).
+
+20 b § Den nämnd som handlägger ärenden om vårdnadsbidrag får
+ha direktåtkomst till socialförsäkringsdatabasen i den
+utsträckning det behövs för ändamål som anges i 8 § första
+stycket 5. En sådan nämnd får ha direktåtkomst först sedan
+Försäkringskassan har försäkrat sig om att handläggare hos
+nämnden bara kan ta del av uppgifter om personer som är
+aktuella i ärenden om vårdnadsbidrag hos nämnden.
+
+Regeringen meddelar ytterligare föreskrifter om vilka
+uppgifter direktåtkomst enligt första stycket får omfatta.
+Lag (2009:553).
 
 Utlämnande på medium för automatiserad behandling
 
