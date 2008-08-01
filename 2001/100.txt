@@ -162,27 +162,49 @@ Den officiella statistiken
 INNEHÅLL
 
 Arbetsmarknad
+
 Befolkning
+
 Boende, byggande och bebyggelse
+
+Demokrati
+
 Energi
+
 Finansmarknad
+
 Handel med varor och tjänster
+
 Hälso- och sjukvård
+
 Hushållens ekonomi
+
 Jord- och skogsbruk, fiske
+
 Kultur och fritid
+
 Levnadsförhållanden
-Medborgarinflytande
+
 Miljö
+
 Nationalräkenskaper
+
 Näringsverksamhet
+
 Offentlig ekonomi
+
 Priser och konsumtion
+
 Rättsväsende
+
 Socialförsäkring m.m.
+
 Socialtjänst
+
 Transporter och kommunikationer
+
 Utbildning och forskning
+
 
 Officiell statistik                     Ansvarig myndighet
 
@@ -221,6 +243,18 @@ flerbostadshus
 Bostads- och hyresuppgifter             SCB
 Fastighetspriser och lagfarter          SCB
 Fastighetstaxeringar                    SCB
+
+DEMOKRATI
+
+Allmänna val                            SCB
+Partisympatier                          SCB
+
+Behandling av känsliga personuppgifter
+
+För framställning av statistik över Allmänna val och
+Partisympatier får personuppgifter enligt 8 § behandlas som
+avser enskilda personers politiska åsikter, om de har samtyckt
+till behandlingen, och medlemskap i fackförening.
 
 ENERGI
 Tillförsel och användning av energi     Statens energimyndighet
@@ -268,7 +302,7 @@ Djurhälsa                               Statens jordbruksverk
 Produktion i skogsbruket                Skogsstyrelsen
 Sysselsättning i skogsbruket            Skogsstyrelsen
 Miljö och sociala frågor i skogsbruket  Skogsstyrelsen
-Riksskogstaxeringar                     Sveriges
+Skogarnas tillstånd och förändring      Sveriges
                                         lantbruksuniversitet
 Fiske                                   Fiskeriverket
 Vattenbruk                              Fiskeriverket
@@ -281,25 +315,18 @@ Studieförbund                           Statens kulturråd
 Samhällets kulturutgifter               Statens kulturråd
 
 LEVNADSFÖRHÅLLANDEN
+
 Levnadsförhållanden                     SCB
 Jämställdhet                            SCB
 
 Behandling av känsliga personuppgifter
+
 För framställning av statistik över Levnadsförhållanden får
 personuppgifter enligt 8 § behandlas som avser enskilda
 personers hälsotillstånd och medlemskap i fackförening.
 
-MEDBORGARINFLYTANDE
-Allmänna val                            SCB
-Partisympatier                          SCB
-
-Behandling av känsliga personuppgifter
-För framställning av statistik över Allmänna val och
-Partisympatier får personuppgifter enligt 8 § behandlas som
-avser enskilda personers politiska åsikter, om de har samtyckt
-till behandlingen, och medlemskap i fackförening.
-
 MILJÖ
+
 Utsläpp                                 Naturvårdsverket
 Avfall                                  Naturvårdsverket
 Miljötillstånd                          Naturvårdsverket
@@ -330,9 +357,10 @@ Inkvartering                            Verket för
                                         näringslivsutveckling
 
 OFFENTLIG EKONOMI
-Kommunernas finanser                    SCB
+
+Finanser för den kommunala sektorn      SCB
 Statlig upplåning och statsskuld        Riksgäldskontoret
-Taxering                                Ekonomistyrningsverket
+Taxering                                SCB
 Utfallet av statsbudgeten               Ekonomistyrningsverket
 
 PRISER OCH KONSUMTION
@@ -362,22 +390,26 @@ Stöd vid sjukdom och handikapp          Försäkringskassan
 Stöd vid ålderdom                       Försäkringskassan
 
 Behandling av känsliga personuppgifter
+
 För framställning av statistik över Stöd till barnfamiljer,
 Stöd vid sjukdom och handikapp och Stöd vid ålderdom får
 personuppgifter enligt 8 § behandlas som avser enskilda
 personers hälsotillstånd.
 
-SOCIALTJÄNST M.M.
+SOCIALTJÄNST
+
 Individ- och familjeomsorg                      Socialstyrelsen
 Äldre- och handikappomsorg                      Socialstyrelsen
 Stöd och service till funktionshindrade         Socialstyrelsen
 
 Behandling av känsliga personuppgifter m.m.
+
 För framställning av statistik över Individ- och familjeomsorg
-får personuppgifter enligt 8 § behandlas som avser
-administrativa frihetsberövanden samt enskildas hälsotillstånd
-när det gäller tvångsingripanden med stöd av lagen (1988:870)
-om vård av missbrukare i vissa fall.
+får personuppgifter enligt 8 § behandlas som avser uppgift om
+att hälsotillstånd utgjort orsak till och ändamål med
+ekonomiskt bistånd, administrativa frihetsberövanden samt
+enskildas hälsotillstånd när det gäller tvångsingripanden med
+stöd av lagen (1988:870) om vård av missbrukare i vissa fall.
 
 För framställning av statistik över Äldre- och handikappomsorg
 får personuppgifter enligt 8 § behandlas som avser
@@ -414,4 +446,4 @@ Högskoleväsende                         Högskoleverket
 Studiestöd                              Centrala studiestödsnämnden
 Forskning                               SCB
 Befolkningens utbildning                SCB
-Förordning (2006:381).
+Förordning (2008:664).
