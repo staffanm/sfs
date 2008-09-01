@@ -1,6 +1,4 @@
 
-
-
 Allmänna bestämmelser
 
 1 § Samfällighetsföreningsregister enligt 25 § lagen (1973:1150) om
@@ -15,18 +13,16 @@ i denna förordning endast av 5 och 13 §§.
 
 Varje register skall föras för sig. Förordning (1995:1456).
 
-2 § Lantmäterimyndigheten i länet är den registeransvariga
-myndigheten. Förordning (1995:1456).
+2 § Lantmäteriet är den registeransvariga myndigheten.
+Förordning (2008:696).
 
 Registerändamål
 
-3 § I 1 § angivna register får användas för att samla in, lagra och
-bearbeta uppgifter för handläggningen av registreringsärenden samt
-för att tillhandahålla uppgifter till myndigheter och till allmänheten
-om registrerade föreningar och samfälligheter.
-
-Statens lantmäteriverk får använda registren för att följa upp och
-planera de registerförande myndigheternas verksamhet.
+3 § De register som avses i 1 § får användas för att samla in,
+lagra och bearbeta uppgifter för handläggningen av
+registreringsärenden samt för att tillhandahålla uppgifter till
+myndigheter och till allmänheten om registrerade föreningar och
+samfälligheter. Förordning (2008:696).
 
 Redovisningsenhet
 
@@ -45,62 +41,62 @@ Registerinnehåll
 uppgifter. I fråga om personuppgifter får ett register endast
 innehålla vad som särskilt föreskrivs i 7 och 8.
 
-Registrets innehåll                  Uppgift skall redovisas om följande
-                                        (anges här med x)
+Registrets innehåll 			Uppgift skall redovisas om följande
+ 					(anges här med x)
 
 
 
-                                        bestående       avregistrerad
-                                        enhet           enhet
+ 					bestående 	avregistrerad
+ 					enhet 		enhet
 
 
-1. föreningens organisationsnummer      x               x
+1. föreningens organisationsnummer 	x 		x
 
-2. föreningens firma                    x               x
+2. föreningens firma 			x 		x
 
 3. den gemensamhetsanläggning,
 samfällighet eller rättighet som
 föreningen förvaltar (förvaltnings-
-objekt)                                 x
+objekt) 				x
 
 4. ändamålet med föreningens
 verksamhet (förvaltningsobjektets
-ändamål)                                x
+ändamål) 				x
 
 5. den ort där styrelsen har sitt
-säte (kommun)                           x               x
+säte (kommun) 				x 		x
 
-6. föreningens postadress               x
+6. föreningens postadress 		x
 
 7. styrelsens medlemmar och en av
 länsstyrelsen förordnad ledamot
 eller syssloman med namn och
-postadress                              x
+postadress 				x
 
 8. firmatecknare om en sådan har
-utsetts                                 x
+utsetts 				x
 
 9. föreningens räkenskapsår
-(räkenskapsperiod)                      x
+(räkenskapsperiod) 			x
 
 10. datum för registrering eller
-avregistrering av föreningen            x               x
+avregistrering av föreningen 		x 		x
 
 11. hänvisning till en annan
 förening om föreningen genom fusion
 gått upp i en annan förening eller
-ombildats                                               x
+ombildats  						x
 
 12. hänvisning till en annan
 registermyndighet om föreningen
-flyttats över till ett annat län                        x
+flyttats över till ett annat län  			x
 
 13. föreningens status (bestående
-eller avregistrerad)                    x               x
+eller avregistrerad) 			x 		x
 
 14. övriga uppgifter av betydelse
 om föreningen som inte registrerats
-på något annat ställe                   x               x
+på något annat ställe  			x 		x
 
 
 Registrering av samfällighetsförening
@@ -114,12 +110,13 @@ skickas tillbaka till föreningen.
 
 Överflyttning, fusion och upplösning av förening
 
-7 § Om en samfällighetsförening beslutar att styrelsens säte skall
-flyttas till ett annat län, skall föreningen, sedan beslutet registrerats,
-avregistreras i det län där föreningen dittills varit registrerad.
-Registermyndigheten skall överlämna utskrift av registret samt
-föreningens akt till den lantmäterimyndighet som i
-fortsättningen skall vara registermyndighet. Förordning (1995:1456).
+7 § Om en samfällighetsförening har beslutat att styrelsens
+säte ska flyttas till ett annat län, ska föreningen, sedan
+beslutet registrerats, avregistreras i den del av registret där
+föreningen dittills varit registrerad och i stället registreras
+i den del av registret som avser det län där föreningens
+styrelse enligt beslutet kommer ha sitt säte.
+Förordning (2008:696).
 
 8 § En samfällighetsförening som genom fusion uppgått i en annan
 förening avregistreras sedan fusionsavtalet registrerats.
@@ -129,11 +126,11 @@ som har upplösts.
 
 Underrättelser från registermyndigheten
 
-9 § Lantmäterimyndigheten skall underrätta
-Skatteverket om nyregistreringar, avregistreringar och
-adressändringar i samfällighetsföreningsregistret.
+9 § Lantmäteriet ska underrätta Skatteverket om
+nyregistreringar, avregistreringar och adressändringar i
+samfällighetsföreningsregistret.
 
-En underrättelse till Skatteverket skall innehålla uppgift om
+En underrättelse till Skatteverket ska innehålla uppgift om
 
 1. föreningens organisationsnummer,
 
@@ -141,16 +138,16 @@ En underrättelse till Skatteverket skall innehålla uppgift om
 
 3. föreningens säte,
 
-4. föreningens adress,
+4. föreningens adress, och
 
 5. datum för registrering eller avregistrering.
 
-Motsvarande underrättelse skall lämnas till Skatteverket om
+Motsvarande underrättelse ska lämnas till Skatteverket om
 vägföreningar och vägsamfälligheter som bildats enligt lagen
-(1939:608) om enskilda vägar eller samfälligheter som bildats med
-stöd av lagen (1966:700) om vissa gemensamhetsanläggningar och
-som tilldelats organisationsnummer, om registret innehåller sådana
-uppgifter. Förordning (2003:965).
+(1939:608) om enskilda vägar eller samfälligheter som bildats
+med stöd av lagen (1966:700) om vissa gemensamhetsanläggningar
+och som tilldelats organisationsnummer, om registret innehåller
+sådana uppgifter. Förordning (2008:696).
 
 Avgifter
 
@@ -186,13 +183,13 @@ enligt 10 § datalagen (1973:289).
 
 Övriga bestämmelser
 
-14 § Lantmäterimyndigheten får efter samråd med Lantmäteriverket sälja
-de personuppgifter som enligt 5 § lämnats för införande i de register
-som anges i 1 §. Uppgifterna får lämnas ut via terminal.
+14 § Lantmäteriet får sälja de personuppgifter som enligt 5 §
+har lämnats för införande i de register som avses i 1 §.
+Uppgifterna får lämnas ut via terminal.
 
-Har den registrerade till lantmäterimyndigheten anmält att
-uppgifterna inte får användas för direktreklam får uppgifterna inte
-säljas för sådant ändamål. Förordning (1995:1456).
+Om den registrerade har anmält till Lantmäteriet att
+uppgifterna inte får användas för direktreklam, får uppgifterna
+inte säljas för sådant ändamål. Förordning (2008:696).
 
-15 § De ytterligare föreskrifter som behövs för tillämpning av
-denna förordning meddelas av Lantmäteriverket. Förordning (1995:1456).
+15 § Lantmäteriet får meddela ytterligare föreskrifter för
+verkställigheten av denna förordning. Förordning (2008:696).
