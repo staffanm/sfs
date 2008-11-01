@@ -877,6 +877,7 @@ med tung lastbil                Märket anger förbud mot att med
 C30 Slut på förbud mot
 omkörning med tung lastbil
 
+/Upphör att gälla U:2008-05-02/
 C31 Hastighetsbegränsning       Märket anger förbud mot att
                                 föra fordon med högre hastighet
                                 än den som anges på märket.
@@ -900,6 +901,38 @@ C31 Hastighetsbegränsning       Märket anger förbud mot att
                                 gäller efter en tillfällig
                                 avvikelse vars slut märkts ut
                                 med märke C32, tillfällig
+                                hastighetsbegränsning upphör.
+
+                             Märket behöver inte vara
+                                upprepat efter en vägkorsning
+                                om samma högsta tillåtna
+                                hastighet gäller på den
+                                korsande vägen.
+
+/Träder i kraft I:2008-05-02/
+C31 Hastighetsbegränsning       Märket anger förbud mot att
+                                föra fordon med högre hastighet
+                                än den som anges på märket.
+
+                             Angivelsen gäller till den
+                                plats där en annan
+                                hastighetsbegränsning anges med
+                                märket, eller där märke C32,
+                                tillfällig
+                                hastighetsbegränsning upphör,
+                                E7, gågata, eller E9,
+                                gångfartsområde, satts upp.
+
+                             En angivelse om en
+                                hastighetsbegränsning i
+                                föreskrifter enligt
+                                förordningen (2002:713) om
+                                försöksverksamhet med
+                                varierande högsta tillåtna
+                                hastighet gäller efter en
+                                tillfällig avvikelse vars slut
+                                märkts ut med märke C32,
+                                tillfällig
                                 hastighetsbegränsning upphör.
 
                              Märket behöver inte vara
@@ -1065,7 +1098,7 @@ C42 Vändplats                        Märket anger en plats som är
 C43 Slut på vändplats                Märket behöver inte vara
                                 uppsatt om det ändå tydligt
                                 framgår att vändplatsen upphör.
-Förordning (2007:448).
+Förordning (2008:45).
 
 Påbudsmärken
 
@@ -2165,7 +2198,8 @@ I4 Världsarv                 Märket anger ett av UNESCO
 
 Upplysningsmärken
 
-27 § Upplysningsmärken är följande.
+27 § /Upphör att gälla U:2008-05-02/
+Upplysningsmärken är följande.
 
 Märke                                Närmare föreskrifter
 
@@ -2191,6 +2225,29 @@ J2 Upplysningsmärke          Märket ger upplysning av
 J3 Livsfarlig ledning                Märket anger att det finns en
                                 elektrisk ledning över vägen
                                 eller leden som kan innebära fara.
+
+27 § /Träder i kraft I:2008-05-02/
+Upplysningsmärken är följande.
+
+Märke                                Närmare föreskrifter
+
+J2 Upplysningsmärke             Märket ger upplysning av
+                                väsentligt intresse för
+                                framkomlighet eller säkerhet
+                                som inte kan ges på annat sätt.
+
+                             Varnings- eller förbudsmärke
+                                kan vara infogat som
+                                förberedande upplysning.
+
+                             Anvisningar med versal och
+                                gemen text kan förekomma.
+
+J3 Livsfarlig ledning                Märket anger att det finns en
+                                elektrisk ledning över vägen
+                                eller leden som kan innebära
+                                fara.
+Förordning (2008:45).
 
 Symboler
 
@@ -3343,7 +3400,8 @@ polisfordonet                   Tecknet anger att föraren av
 
 8 kap. Bemyndiganden, kostnader m.m.
 
-1 § Vägverket får meddela föreskrifter om
+1 § /Upphör att gälla U:2008-05-02/
+Vägverket får meddela föreskrifter om
 
 - att ett visst märke eller någon annan anordning får sättas
 upp endast efter medgivande av verket,
@@ -3376,6 +3434,45 @@ myndighet, och
 för trafiken som avses i 1 kap. 1 § skall eller får sättas upp,
 tas bort, underhållas eller utföras samt hur detta skall eller
 får ske.
+
+1 § /Träder i kraft I:2008-05-02/
+Vägverket får meddela föreskrifter om
+
+- att ett visst märke eller någon annan anordning får sättas
+upp endast efter medgivande av verket,
+
+- undantag från bestämmelserna om utmärkning i 2 kap. 3 §
+första stycket,
+
+- undantag från bestämmelserna om upprepning i 2 kap. 7 § andra
+stycket, under förutsättning att trafikantens förståelse av
+trafikregleringen inte försämras,
+
+- infogande i lokaliseringsmärken av varningsmärken,
+förbudsmärken, påbudsmärken, anvisningsmärken och andra
+lokaliseringsmärken utöver vad som anges i denna förordning,
+
+- försöksverksamhet med avvikelse från förordningen, och
+
+- tilläggstavlor med ett annat innehåll än det som anges i
+förordningen samt om avvikelser från vad som gäller om
+vägmärkenas färg. Verket får dock besluta om nya symboler
+endast om detta framgår av denna förordning.
+
+Vägverket får även meddela de föreskrifter som behövs för
+verkställigheten av denna förordning, exempelvis föreskrifter
+om
+
+- storlek och närmare utseende på vägmärken och andra
+anordningar som anges i denna förordning samt att vägmärken och
+andra anordningar eller det material som ingår i dem ska vara
+av en sådan typ som godkänts av verket eller av en annan
+myndighet, och
+
+- under vilka förhållanden sådana anordningar för anvisningar
+för trafiken som avses i 1 kap. 1 § ska eller får sättas upp,
+tas bort, underhållas eller utföras samt hur detta ska eller
+får ske. Förordning (2008:45).
 
 2 § Innan Vägverket meddelar föreskrifter om märke A39,
 kryssmärke, anordning X8, plankorsningsskärm, och
