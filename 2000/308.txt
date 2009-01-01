@@ -1,6 +1,5 @@
 
 
-
 Inledande bestämmelser
 
 1 § Denna förordning innehåller bestämmelser om
@@ -211,8 +210,8 @@ Registeruppgifter om fastigheter och samfälligheter
 samfälligheter skall göras enligt följande.
 _______________________________________________________________________
 Fastigheter och samfälligheter          Uppgift redovisas beträffande
-                                        (anges med x)
-                                        fastighet       samfällighet
+(anges med x)
+fastighet       samfällighet
 _______________________________________________________________________
 
 Registerbeteckning
@@ -231,7 +230,7 @@ utrymme urholkar enheten                x               x
 
 Administrativ tillhörighet m.m.
 
-län                                  x               x
+län                                     x               x
 
 församling inom Svenska kyrkan          x               x
 
@@ -274,7 +273,7 @@ För tredimensionella utrymmen redovisas ingen arealuppgift. I
 stället redovisas uppgift om typ, storlek och höjdläge för
 varje utrymme.
 
-nummer på enhetsområde               x               x
+nummer på enhetsområde                  x               x
 
 antal registrerade områden              x
 
@@ -1311,7 +1310,8 @@ adressen,
 
 Tilläggsinformation till byggnadsdelen
 
-70 § Som tilläggsinformation till uppgifter i byggnadsdelen får
+70 § /Upphör att gälla U:2009-01-01/
+Som tilläggsinformation till uppgifter i byggnadsdelen får
 
 1. en kommun redovisa uppgifter som underlättar identifiering
 av en byggnad, uppgifter om arrendeavtal och tomträttsavtal
@@ -1325,6 +1325,22 @@ finns i en byggnad, samt
 3. Riksantikvarieämbetet redovisa uppgifter som underlättar
 identifiering av en byggnad och uppgifter som avser
 kulturhistoriska inventeringar. Förordning (2006:641).
+
+70 § /Träder i kraft I:2009-01-01/
+Som tilläggsinformation till uppgifter i byggnadsdelen får
+
+1. en kommun redovisa uppgifter som underlättar identifiering
+av en byggnad, uppgifter om arrendeavtal och tomträttsavtal
+samt uppgifter om planerade, påbörjade eller avslutade
+byggåtgärder som är nödvändiga för fullgörande av
+underrättelseskyldighet till andra myndigheter,
+
+2. Myndigheten för samhällsskydd och beredskap redovisa
+uppgifter om att skyddsrum finns i en byggnad, samt
+
+3. Riksantikvarieämbetet redovisa uppgifter som underlättar
+identifiering av en byggnad och uppgifter som avser
+kulturhistoriska inventeringar. Förordning (2008:1025).
 
 Gemensamma bestämmelser
 
