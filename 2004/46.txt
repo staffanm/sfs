@@ -1,6 +1,5 @@
 
 
-
 1 kap. Inledande bestämmelser
 
 Definitioner
@@ -652,6 +651,10 @@ i brottmål begärs av undersökningsledare eller om det i ett
 ärende om rättslig hjälp i brottmål på framställning av en
 annan stat eller en mellanfolklig domstol begärs av åklagare.
 
+Om skyldighet för fondbolag och förvaringsinstitut att lämna
+uppgifter till överförmyndaren finns bestämmelser i 16 kap.
+10 a § föräldrabalken. Lag (2008:912).
+
 Meddelandeförbud
 
 20 a § Den undersökningsledare eller åklagare som begär
@@ -917,7 +920,7 @@ värderas med ledning av gällande marknadsvärde.
 Fondbolaget skall fortlöpande och minst en gång varje vecka
 beräkna och på lämpligt sätt offentliggöra fondandelsvärdet.
 
-11 § Fondbolaget skall föra eller låta föra ett register över
+11 § Fondbolaget ska föra eller låta föra ett register över
 samtliga innehavare av andelar i fonden. I fråga om
 automatiserad och viss manuell behandling av personuppgifter
 finns bestämmelser i personuppgiftslagen (1998:204).
@@ -927,13 +930,18 @@ tillämplig på andelarna i fonden, förs registret av en central
 värdepappersförvarare. Fondbolaget har rätt till insyn i
 registret.
 
-Fondbolaget skall till varje fondandelsägare skriftligen
-bekräfta att dennes fondandelsinnehav har registrerats. Av
-bekräftelsen skall framgå investeringsfondens beteckning samt
-namnen på fondbolaget och förvaringsinstitutet. Vidare skall
-det framgå var informationsbroschyren och faktabladet enligt 15
-§ samt årsberättelsen och halvårsredogörelsen enligt 18 § finns
-att tillgå.
+Om lagen om kontoföring av finansiella instrument inte är
+tillämplig på andelarna i fonden, ska den som för registret
+anteckna inskränkningar enligt 13 kap. 19 § första stycket 4
+eller 14 kap. 21 § första stycket 4 föräldrabalken där.
+
+Fondbolaget ska till varje fondandelsägare skriftligen bekräfta
+att dennes fondandelsinnehav har registrerats. Av bekräftelsen
+ska det framgå investeringsfondens beteckning samt namnen på
+fondbolaget och förvaringsinstitutet. Vidare ska det framgå var
+informationsbroschyren och faktabladet enligt 15 § samt
+årsberättelsen och halvårsredogörelsen enligt 18 § finns att
+tillgå. Lag (2008:912).
 
 12 § Har en fondandelsägare lämnat sina andelar för förvaltning
 till någon som har fått tillstånd till registrering som
@@ -1117,6 +1125,7 @@ närmast föregående kalenderåret, redovisade per fondandel. I
 informationen skall det anges hur stor del av beloppen som
 avser förvaltningskostnader, inklusive kostnader för förvaring
 av fondtillgångarna.
+
 
 5 kap. Förvaltning av värdepappersfonder
 
@@ -1811,6 +1820,7 @@ likartad förbindelse med fondbolaget fullgörs. Lag (2008:282).
 Finansinspektionen gäller i fondbolag också för särskilda
 granskare som avses i 10 kap. 21 § aktiebolagslagen (2005:551).
 Lag (2008:282).
+
 
 Sammankallande av styrelse eller stämma
 
