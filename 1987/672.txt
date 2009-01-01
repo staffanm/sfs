@@ -1,6 +1,5 @@
 
 
-
 1 kap. Inledande bestämmelser
 
 1 § Genom konkurs tar en gäldenärs samtliga borgenärer i ett sammanhang
@@ -2378,16 +2377,19 @@ de därmed förenade kostnaderna. Lag (1990:1072).
 Viss anmälningsskyldighet m.m.
 
 22 § Om utdelning eller efterutdelning har utfallit på ett
-företagsinteckningsbrevs belopp, skall förvaltaren anmäla detta
-till inskrivningsmyndigheten. Anmälan skall göras sedan
+företagsinteckningsbrevs belopp, ska förvaltaren anmäla detta
+till inskrivningsmyndigheten. Anmälan ska göras sedan
 beslutet att fastställa utdelningen eller efterutdelningen har
 vunnit laga kraft eller, i fall som avses i 21 §, när
-utbetalningen har ägt rum. Tillsammans med anmälningen skall
+utbetalningen har ägt rum. Tillsammans med anmälningen ska
 förvaltaren sända in utdelningsförslaget eller någon annan
 handling som visar fördelningen.
 
-När inteckningsborgenären lyfter betalning, skall detta
-antecknas på inteckningsbrevet. Lag (2003:538).
+När inteckningsborgenären lyfter betalning, ska detta antecknas
+på företagsinteckningsbrevet. Om företagsinteckningsbrevet är
+elektroniskt, ska förvaltaren i stället anmäla betalningen till
+Bolagsverket för registrering i inteckningsbrevsregistret.
+Lag (2008:1077).
 
 12 kap. Ackord i konkurs m.m.
 
@@ -2507,25 +2509,24 @@ inte heller i omröstningen, såvida inte de övriga borgenärerna
 medger det.
 
 Om en borgenär helt eller delvis avstår från kvittningsrätt
-eller förmånsrätt, deltar han i motsvarande mån. Kan en
-borgenärs fordran endast till viss del täckas genom kvittning
-eller understiger värdet av den egendom i vilken borgenären har
-särskild förmånsrätt eller förmånsrätt på grund av
-företagsinteckning hans fordran, deltar han med återstående del
-av fordringen.
+eller förmånsrätt, deltar han eller hon i motsvarande mån. Kan
+en borgenärs fordran endast till viss del täckas genom
+kvittning, eller understiger värdet av den egendom i vilken
+borgenären har särskild förmånsrätt borgenärens fordran, deltar
+han eller hon med återstående del av fordringen.
 
 En svarande som med anledning av en återvinningstalan har fått
 eller kan få en fordran mot gäldenären, får utan bevakning
 delta med fordringen i omröstningen.
 
 Innebär ackordsförslaget att borgenärer som inte har
-förmånsrätt skall få full betalning intill visst belopp, får
+förmånsrätt ska få full betalning intill visst belopp, får
 rösträtt inte utövas för de fordringar som därigenom får full
 betalning.
 
 Med borgenärer som har förmånsrätt likställs en borgenär som
 till säkerhet för sin fordran har gjort förbehåll om
-återtaganderätt. Lag (2003:538).
+återtaganderätt. Lag (2008:993).
 
 12 § En anmärkning som har framställts mot en fordran utgör inte hinder
 mot att borgenären deltar med fordringen i omröstningen. Är utgången av
@@ -2650,14 +2651,11 @@ borgenärer, förlorar sin rätt till betalning av gäldenären, om
 inte alla borgenärer som enligt 11 § hade rätt att rösta om
 ackordsförslaget tillgodoses fullt ut genom ackordet.
 
-Den som har förmånsrätt i viss egendom eller förmånsrätt på
-grund av företagsinteckning är bunden av ackordet i fråga om
-belopp som inte kan tas ut ur egendom som omfattas av
-förmånsrätten.
+Den som har förmånsrätt i viss egendom är bunden av ackordet i
+fråga om belopp som inte kan tas ut ur egendomen.
 
 En borgenär har, utan hinder av ackordet, den rätt till
-kvittning som han kan ha enligt 5 kap. 15 och 16 §§.
-Lag (2003:538)
+kvittning som följer av 5 kap. 15 och 16 §§. Lag (2008:993).
 
 22 § En borgenär som har godkänt ett ackordsförslag förlorar inte genom
 godkännandet sin rätt mot borgensmän eller andra som förutom gäldenären
@@ -3008,22 +3006,26 @@ eller den myndighet som regeringen bestämmer.
 Fördelning av konkurskostnaderna på olika slag av egendom
 
 18 § Av arvodet till förvaltaren eller sådan rådgivare eller
-förlikningsman som har utsetts enligt 7 kap. 7 § skall, om det
-i boet finns egendom i vilken särskild förmånsrätt äger rum och
-i den mån det inverkar på de borgenärers rätt som inte har
-sådan förmånsrätt i egendomen eller på statens ansvar för
+förlikningsman som har utsetts enligt 7 kap. 7 § ska, om det i
+boet finns egendom i vilken särskild förmånsrätt gäller och i
+den mån det inverkar på de borgenärers rätt som inte har sådan
+förmånsrätt i egendomen eller på statens ansvar för
 konkurskostnaderna, den del som avser egendomen i fråga
 fastställas att betalas ur egendomens avkastning och
 köpeskilling.
 
-Då särskild förmånsrätt äger rum i boet tillhörig egendom, får
+Då särskild förmånsrätt gäller i boet tillhörig egendom, får
 inte till skada för någon med samma eller bättre förmånsrätt,
 av egendomens avkastning och köpeskilling betalas någon annan
-konkurskostnad än som har sagts i första stycket.
+konkurskostnad än som har sagts i första stycket. Särskild
+förmånsrätt enligt 5 § förmånsrättslagen (1970:979), hindrar
+dock inte att egendomen används till betalning också av övriga
+konkurskostnader, i den mån det inte finns annan egendom i boet
+som kan användas till betalning.
 
 Med arvode som sägs i första stycket jämställs vid
 tillämpningen av denna paragraf konkursboets kostnader för vård
-och försäljning av egendomen i fråga. Lag (2003:538)
+och försäljning av egendomen i fråga. Lag (2008:993).
 
 15 kap. Information om beslut och åtgärder under konkurs
 
@@ -3293,6 +3295,7 @@ Straff m.m.
 4 § En gäldenär som i strid mot förbudet i 6 kap. 1 § första stycket
 driver näringsverksamhet under konkursen döms till böter.
 
+
 5 § En borgenär som för sin röst vid ett sammanträde i samband med ackord
 i konkurs har betingat sig någon särskild förmån av gäldenären döms till
 böter eller fängelse i högst ett år.
@@ -3445,3 +3448,10 @@ samt 17 kap. 3 § i paragrafernas äldre lydelse.
 
 2. Vid konkurs som beslutats före ikraftträdandet gäller äldre
 bestämmelser.
+
+2008:993
+
+1. Denna lag träder i kraft den 1 januari 2009.
+
+2. I fråga om en företagsinteckning enligt den upphävda lagen
+(2003:528) om företagsinteckning tillämpas äldre bestämmelser.
