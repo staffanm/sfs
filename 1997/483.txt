@@ -82,10 +82,15 @@ eller avgift som avses i 1 §,
 skattekontroll av torg- och marknadshandel m.m.,
 
 5. kontrollavgift enligt lagen (2006:575) om särskild
-skattekontroll i vissa branscher, och
+skattekontroll i vissa branscher,
 
-6. ränta på skatt eller avgift som avses i 1 och 1 a §§ samt på
-skattetillägg och avgift som avses i 1-5. Lag (2006:579).
+6. transporttillägg som avses i 4 kap. 9 a § lagen (1998:506)
+om punktskattekontroll av transporter m.m. av alkoholvaror,
+tobaksvaror och energiprodukter, och
+
+7. ränta på skatt eller avgift som avses i 1 och 1 a §§ samt på
+skattetillägg, avgift och transporttillägg som avses i 1-6.
+Lag (2008:1318).
 
 2 § /Träder i kraft I:2010-01-01/
 Lagen gäller vid bestämmande, debitering och betalning av
@@ -104,11 +109,16 @@ skattekontroll av torg- och marknadshandel m.m.,
 5. kontrollavgift enligt lagen (2006:575) om särskild
 skattekontroll i vissa branscher,
 
-6. kontrollavgift enligt lagen (2007:592) om kassaregister
+6. transporttillägg som avses i 4 kap. 9 a § lagen (1998:506)
+om punktskattekontroll av transporter m.m. av alkoholvaror,
+tobaksvaror och energiprodukter,
+
+7. kontrollavgift enligt lagen (2007:592) om kassaregister
 m.m., och
 
-7. ränta på skatt eller avgift som avses i 1 och 1 a §§ samt på
-skattetillägg och avgift som avses i 1-6. Lag (2007:595).
+8. ränta på skatt eller avgift som avses i 1 och 1 a §§ samt på
+skattetillägg, avgift och transporttillägg som avses i 1-7.
+Lag (2008:1320).
 
 2 a § Lagen gäller inte, om det inte särskilt anges, när skatt
 skall tas ut enligt mervärdesskattelagen (1994:200) vid import
@@ -153,9 +163,9 @@ handelsbolag. Lag (2001:328).
 utdelning för betalning av preliminär skatt (avdragen skatt)
 och den som är skyldig att göra sådant avdrag, samt
 
-3. skattetillägg, förseningsavgift, kontrollavgift och ränta
-och den som är skyldig att betala skattetillägg, avgift eller
-ränta.
+3. skattetillägg, förseningsavgift, kontrollavgift,
+transporttillägg och ränta och den som är skyldig att betala
+skattetillägg, avgift, transporttillägg eller ränta.
 
 Med skatt likställs
 
@@ -217,7 +227,7 @@ träffat överenskommelse enligt 12 kap. 7 c §, och
 10. den som i egenskap av ombud för en generalrepresentation
 eller skatterepresentant för en utländsk försäkringsgivare är
 betalningsskyldig för skatt enligt 23 kap. 3 c eller 3 d §.
-Lag (2007:1377).
+Lag (2008:1318).
 
 5 § Vad som sägs i denna lag om handelsbolag gäller, om inte annat
 föreskrivs, även europeiska ekonomiska intressegrupperingar
@@ -1169,33 +1179,10 @@ Underlag för beräkning av skatteavdrag
 
 Beräkning av förmånsvärde
 
-14 § /Upphör att gälla U:2009-01-01/
-Om en arbetstagare, förutom kontant ersättning för arbete,
-får andra förmåner, skall skatteavdraget beräknas efter
-förmånernas sammanlagda värde.
-
-Om arbetstagaren har betalat ersättning för en förmån, skall
-ersättningen beaktas vid beräkningen av förmånsvärdet.
-
-I fråga om intäkt i form av rabatt, bonus eller annan förmån,
-som utges på grund av kundtrohet eller liknande, skall den som
-slutligt har stått för de kostnader som ligger till grund för
-förmånen anses som arbetsgivare. I fråga om intäkt i form av en
-förmån eller ersättning, som getts ut eller anses utgiven av en
-fysisk person som är bosatt utomlands eller en utländsk
-juridisk person, skall den hos vilken den skattskyldige är
-anställd i Sverige anses som arbetsgivare, om förmånen eller
-ersättningen kan anses ha sin grund i anställningen i Sverige
-och det inte finns något anställningsförhållande mellan
-utgivaren av förmånen eller ersättningen och den skattskyldige.
-
-Intäkter som avses i tredje stycket skall räknas med först när
-arbetsgivaren har fått kännedom om dem. Lag (1998:341).
-
-14 § /Träder i kraft I:2009-01-01/
-Om en arbetstagare, förutom kontant ersättning för arbete,
+14 § Om en arbetstagare, förutom kontant ersättning för arbete,
 får andra förmåner, ska skatteavdraget beräknas efter
 förmånernas sammanlagda värde.
+
 
 Om arbetstagaren har betalat ersättning för en förmån, ska
 ersättningen beaktas vid beräkningen av förmånsvärdet.
@@ -1449,7 +1436,7 @@ Skyldighet att lämna preliminär självdeklaration
 skatt vid taxeringen året efter inkomståret beräknas överstiga
 motsvarande skatt enligt den årliga taxeringen året före
 inkomståret med ett belopp som är betydande med hänsyn till den
-skattskyldiges förhållanden.
+skattskyldiges förhållanden.1
 
 2 § En skattskyldig får lämna en preliminär självdeklaration även
 i andra fall än som avses i 1 §.
@@ -1521,17 +1508,13 @@ Lag (2002:538).
 
 Vad en skalbolagsdeklaration skall ta upp
 
-8 c § En skalbolagsdeklaration skall innehålla de uppgifter
-som avses i 3 kap. 5 § lagen (2001:1227) om självdeklarationer
-och kontrolluppgifter.
+8 c § En skalbolagsdeklaration ska innehålla
 
-När bestämmelsen i 25 a kap. 11 § eller 49 a kap. 13 §
-inkomstskattelagen (1999:1229) tillämpas, skall
-skalbolagsdeklarationen innehålla nödvändiga
-identifikationsuppgifter för den som avyttrat andelen. I de
-fall som avses i 25 a kap. 11 § inkomstskattelagen skall även
-nödvändiga identifikationsuppgifter lämnas för den som
-förvärvat andelen. Lag (2003:227).
+- de uppgifter som avses i 3 kap. 5 § lagen (2001:1227) om
+självdeklarationer och kontrolluppgifter, och
+
+- nödvändiga identifikationsuppgifter för den som avyttrat och
+för den som förvärvat andelen. Lag (2008:1065).
 
 Skattedeklaration
 
@@ -2499,28 +2482,7 @@ Lag (1999:315).
 
 Slutlig skatt
 
-9 § /Upphör att gälla U:2008-12-01/
-Skatteverket fattar varje år beslut om skattens storlek
-enligt den årliga taxeringen (grundläggande beslut om slutlig
-skatt). Slutlig skatt kan bestämmas också genom
-omprövningsbeslut och till följd av beslut av domstol.
-
-Med slutlig skatt avses summan av skatter och avgifter enligt
-10 § minskad med skattereduktion enligt följande ordning
-
-1. lagen (2003:1204) om skattereduktion för vissa
-miljöförbättrande installationer i småhus,
-
-2. 65 kap. 9-12 §§ inkomstskattelagen (1999:1229),
-
-3. lagen (2007:346) om skattereduktion för hushållsarbete, och
-
-4. lagen (2005:1137) om skattereduktion för virke från
-stormfälld skog vid 2006-2008 års taxeringar.
-Lag (2007:1405).
-
-9 § /Träder i kraft I:2008-12-01/
-Skatteverket fattar varje år beslut om skattens storlek
+9 § Skatteverket fattar varje år beslut om skattens storlek
 enligt den årliga taxeringen (grundläggande beslut om slutlig
 skatt). Slutlig skatt kan bestämmas också genom
 omprövningsbeslut och till följd av beslut av domstol.
@@ -2587,58 +2549,46 @@ Lag (2004:789).
 
 Säkerhet för slutlig skatt
 
-11 a § Storleken av en sådan säkerhet som avses i 49 a kap.
-13 § första stycket 3 inkomstskattelagen (1999:1229) skall i ett
-särskilt beslut bestämmas till summan av företagets obetalda
-inkomstskatt för närmast föregående beskattningsår och 28
-procent av det överskott som har redovisats i en
-skalbolagsdeklaration enligt 10 kap. 8 a §. I fråga om
-handelsbolag skall säkerheten bara avse överskottet i
-skalbolagsdeklarationen. Om en fysisk person har förvärvat en
-andel i ett handelsbolag skall storleken av säkerheten dock
-beslutas till 40 procent av överskottet.
+11 a § Om en skalbolagsdeklaration som avses i 25 a kap. 11 §
+eller 49 a kap. 13 § inkomstskattelagen (1999:1229) har
+lämnats, får Skatteverket begära att säkerhet ställs. Vid
+prövningen av om säkerhet ska begäras ska tidigare ställd
+säkerhet samt ansvar enligt 12 kap. 8 c § beaktas.
 
-Om flera skalbolagsdeklarationer lämnas in skall kompletterande
+Storleken av en sådan säkerhet som avses i första stycket ska i
+ett särskilt beslut bestämmas till summan av företagets
+obetalda inkomstskatt för närmast föregående beskattningsår och
+26,3 procent av det överskott som har redovisats i
+skalbolagsdeklarationen. I fråga om handelsbolag ska säkerheten
+bara avse överskottet i skalbolagsdeklarationen. Om en fysisk
+person har förvärvat en andel i ett handelsbolag ska storleken
+av säkerheten dock beslutas till 40 procent av överskottet.
+
+Om flera skalbolagsdeklarationer lämnas in ska kompletterande
 säkerhet ställas för den ökning av överskottet som redovisas i
-förhållande till en tidigare deklaration. Lag (2002:538).
-
-11 b § Om en skalbolagsdeklaration som avses i 25 a kap. 11 §
-inkomstskattelagen (1999:1229) har lämnats får
-Skatteverket begära att säkerhet ställs. Vid prövningen
-skall beaktas tidigare ställd säkerhet enligt denna bestämmelse
-eller säkerhet som avses i 49 a kap. 13 § första stycket 3.
-Ansvar enligt 12 kap. 8 c § skall beaktas på samma sätt.
-
-Storleken av sådan säkerhet som avses i första stycket skall i
-ett särskilt beslut bestämmas till det belopp som motsvarar
-summan av företagets obetalda inkomstskatt för närmast
-föregående beskattningsår och 28 procent av det överskott som
-har redovisats i skalbolagsdeklarationen.
-
-Om flera skalbolagsdeklarationer lämnas in, skall
-kompletterande säkerhet ställas för den ökning av överskottet
-som redovisas i förhållande till en tidigare deklaration.
+förhållande till en tidigare deklaration.
 
 Om Skatteverket inte begär att säkerhet ställs, gäller
-bestämmelserna i 12 kap. 8 c §. Lag (2003:664).
+bestämmelserna i 12 kap. 8 c §. Lag (2008:1345).
 
-12 § En sådan säkerhet som avses i 11 b § eller i 49 a kap.
-13 § första stycket 3 inkomstskattelagen (1999:1229) skall vara
-en av bank eller kreditmarknadsföretag utfärdad
-garantiförbindelse och avse det belopp som bestämts med stöd av
-11 a eller 11 b §. Ställd säkerhet får tas i anspråk om den
-slutliga skatten inte betalas. Har flera säkerheter ställts och
-överstiger säkerheterna den slutliga skatten skall
-ianspråktagandet av säkerheterna fördelas efter skälig grund. I
-övrigt skall bestämmelserna om säkerhet i 10-12 §§ och 13 § 2
-lagen (1993:891) om indrivning av statliga fordringar m.m.
-tillämpas. Vad som sägs där om kronofogdemyndigheten gäller då
-i stället Skatteverket.
+11 b § Har upphävts genom lag (2008:1065).
 
-Om säkerheten inte behöver tas i anspråk, skall skälig kostnad
+12 § En sådan säkerhet som avses i 11 a § ska vara en av bank
+eller kreditmarknadsföretag utfärdad garantiförbindelse och
+avse det belopp som bestämts med stöd av 11 a §. Ställd
+säkerhet får tas i anspråk om den slutliga skatten inte
+betalas. Har flera säkerheter ställts och överstiger
+säkerheterna den slutliga skatten ska ianspråktagandet av
+säkerheterna fördelas efter skälig grund. I övrigt ska
+bestämmelserna om säkerhet i 10-12 §§ och 13 § 2 lagen
+(1993:891) om indrivning av statliga fordringar m.m. tillämpas.
+Vad som sägs där om Kronofogdemyndigheten gäller då i stället
+Skatteverket.
+
+Om säkerheten inte behöver tas i anspråk, ska skälig kostnad
 för ställd säkerhet ersättas av staten. Bestämmelserna i
 6-11 §§ lagen (1989:479) om ersättning för kostnader i ärenden
-och mål om skatt, m.m. skall tillämpas. Lag (2004:435).
+och mål om skatt, m.m. ska tillämpas. Lag (2008:1065).
 
 För hög preliminär skatt
 
@@ -2937,17 +2887,21 @@ Lag (1998:347).
 
 Ansvar för den som har avyttrat ett skalbolag
 
-8 c § Om Skatteverket inte har begärt sådan säkerhet som
-avses i 11 kap. 11 b §, är den som avyttrat andelen eller den
+8 c § Om Skatteverket inte har begärt sådan säkerhet som avses
+i 11 kap. 11 a §, är den som avyttrat andelen eller den
 aktiebaserade delägarrätten i företaget tillsammans med
-företaget skyldig att betala företagets slutliga skatt, dock
-högst med det belopp för vilket säkerhet skulle ha ställts om
-sådan hade begärts.
+företaget skyldig att betala företagets slutliga skatt. Om den
+avyttrade andelen avser ett handelsbolag är den som avyttrat
+andelen tillsammans med den som förvärvat andelen skyldig att
+betala förvärvarens slutliga skatt. Betalningsansvar för den
+som avyttrat andelen eller den aktiebaserade delägarrätten kan
+uppgå högst till det belopp för vilket säkerhet skulle ha
+ställts om sådan hade begärts.
 
-Säkerhet som anges i 11 kap. 12 § skall tas i anspråk för
+Säkerhet som anges i 11 kap. 12 § ska tas i anspråk för
 företagets slutliga skatt innan krav enligt första stycket
 ställs mot någon som avyttrat andelen eller den aktiebaserade
-delägarrätten. Lag (2003:664).
+delägarrätten. Lag (2008:1065).
 
 Dödsbo
 
@@ -3039,7 +2993,8 @@ förvaltningslagen (1986:223).
 
 Identitetskontroll
 
-1 a § En näringsidkare som omsätter investeringsguld som avses
+1 a § /Upphör att gälla U:2009-03-01/
+En näringsidkare som omsätter investeringsguld som avses
 i 1 kap. 18 § mervärdesskattelagen (1994:200) i Sverige eller
 till ett annat EG-land skall vid transaktioner som uppgår till
 ett belopp motsvarande 10 000 kronor eller mer kontrollera
@@ -3061,6 +3016,31 @@ närmare föreskrifter om anteckningsskyldigheten.
 Handlingar eller uppgifter som använts vid identitetskontroll
 skall bevaras under sju år efter utgången av det kalenderår
 kontrollen gjordes. Lag (2004:1186).
+
+1 a § /Träder i kraft I:2009-03-15/
+En näringsidkare som omsätter investeringsguld som avses
+i 1 kap. 18 § mervärdesskattelagen (1994:200) i Sverige eller
+till ett annat EG-land ska vid transaktioner som uppgår till
+ett belopp motsvarande 10 000 kronor eller mer kontrollera
+identiteten hos köparen. Detsamma gäller om transaktionen
+understiger 10 000 kronor men kan antas ha samband med en
+annan transaktion och tillsammans med denna uppgår till minst
+detta belopp. Om summan inte är känd vid tidpunkten för en
+transaktion, ska identiteten kontrolleras så snart summan av
+transaktionerna uppgår till minst 10 000 kronor.
+
+Bestämmelserna i 2 kap. 2 § första stycket 1, 3 § första
+stycket 2, 5 § 2 a och 6 § lagen (2009:62) om åtgärder mot
+penningtvätt och finansiering av terrorism ska även gälla vid
+transaktioner som avses i första stycket.
+
+Säljaren ska föra anteckningar om identitetskontrollen.
+Regeringen eller den myndighet som regeringen bestämmer
+meddelar närmare föreskrifter om anteckningsskyldigheten.
+
+Handlingar eller uppgifter som använts vid identitetskontroll
+ska bevaras under sju år efter utgången av det kalenderår
+kontrollen gjordes. Lag (2009:68).
 
 Skyldighet att föra anteckningar
 
@@ -3485,27 +3465,27 @@ och 26 i månaderna februari-juli samt den 12 augusti.
 Skatt som skall betalas enligt grundläggande beslut om slutlig
 skatt eller omprövningsbeslut m.m.
 
-6 § Skatt som skall betalas enligt ett grundläggande beslut om
-slutlig skatt skall ha betalats senast den förfallodag som
+6 § Skatt som ska betalas enligt ett grundläggande beslut om
+slutlig skatt ska ha betalats senast den förfallodag som
 infaller närmast efter det att 90 dagar har gått från
 beslutsdagen.
 
 Skatt som har bestämts genom omprövningsbeslut eller beslut om
-debiteringsåtgärd enligt 11 kap. 20 § skall ha betalats senast
+debiteringsåtgärd enligt 11 kap. 20 § ska ha betalats senast
 den förfallodag som infaller närmast efter det att 30 dagar har
 gått från beslutsdagen. Detsamma gäller beslut om debitering av
-skattetillägg, förseningsavgift och kontrollavgift samt
-Skatteverkets beslut om ansvar enligt 12 kap. Slutlig
-skatt behöver dock inte betalas före den tidpunkt som anges i
-första stycket.
+skattetillägg, förseningsavgift, kontrollavgift och
+transporttillägg samt Skatteverkets beslut om ansvar enligt 12
+kap. Slutlig skatt behöver dock inte betalas före den tidpunkt
+som anges i första stycket.
 
 Med förfallodag enligt första och andra styckena avses den 17
 och 26 januari, den 12, 17 och 26 augusti, den 12 och 27
 december samt den 12 och 26 i övriga månader.
 
-Skatteverket får besluta att betalning skall ske en annan
-dag än som anges i första och andra styckena, om det finns
-särskilda skäl. Lag (2003:664).
+Skatteverket får besluta att betalning ska ske en annan dag än
+som anges i första och andra styckena, om det finns särskilda
+skäl. Lag (2008:1318).
 
 Överskjutande ingående mervärdesskatt
 
@@ -4567,6 +4547,7 @@ moderföretagets respektive den juridiska personens
 överklagande, om överklagandena sker samtidigt och stöder sig
 på väsentligen samma grund. Lag (2003:664).
 
+
 1 d § Bestämmelserna i 1 a och 1 b §§ gäller inte, om
 regeringen för vissa ärenden föreskrivit att överklagande skall
 tas upp av annan länsrätt. Lag (2004:1156).
@@ -5592,6 +5573,27 @@ gången i fråga om slutlig skatt enligt 2009 års taxering.
 Denna lag träder i kraft den 1 juli 2008. Äldre föreskrifter i
 22 kap. 12 § gäller fortfarande i fråga om överklagande av
 beslut som meddelats före den 1 januari 2008.
+
+2008:10645
+
+Denna lag träder i kraft den 1 januari 2009 och tillämpas i
+fråga om avyttringar av andelar i skalbolag som sker efter den
+31 december 2008. Äldre bestämmelser tillämpas fortfarande i
+fråga om avyttringar som skett före ikraftträdandet.
+
+2008:1345
+
+1. Denna lag träder i kraft den 1 januari 2009 och tillämpas i
+fråga om avyttringar av andelar i skalbolag som sker efter den
+31 december 2008.
+
+2. Om skalbolagsdeklarationen till någon del avser tid före
+ikraftträdandet, ska dock vid beräkningen av säkerhetens
+storlek enligt 11 kap. 11 a § andra stycket procenttalet 28
+användas i stället för 26,3.
+
+3. Äldre bestämmelser tillämpas i fråga om avyttringar som
+skett före ikraftträdandet.
 
 
 Innehållsförteckning
