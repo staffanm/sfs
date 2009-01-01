@@ -1,6 +1,5 @@
 
 
-
 Allmänna bestämmelser
 
 Innehåll och syfte
@@ -17,22 +16,7 @@ Definitioner
 2 § I denna lag används följande beteckningar med nedan angiven
 betydelse.
 
-Allvarlig biverkning         Sådan icke avsedd reaktion,
-                                inbegripet smittsam sjukdom,
-                                hos givare eller mottagare i
-                                samband med att vävnader och
-                                celler tillvaratas från givare
-                                eller används på mottagare, som
-                                kan leda till döden,
-                                livshotande eller
-                                invalidiserande tillstånd eller
-                                som medför betydande
-                                funktionsnedsättning eller
-                                leder till eller förlänger
-                                sjukdom eller behov av
-                                sjukhusvård.
-
-Allvarlig avvikande händelse Händelse i samband med
+Allvarlig avvikande händelse    Händelse i samband med
                                 tillvaratagande, kontroll,
                                 bearbetning, förvaring och
                                 distribution av vävnader och
@@ -51,12 +35,25 @@ Allvarlig avvikande händelse Händelse i samband med
                                 sjukdom eller behov av
                                 sjukhusvård.
 
-Celler                               Enskilda mänskliga celler eller
-                                en grupp mänskliga celler, som
-                                inte är förenade av något slag
-                                av bindväv.
+Allvarlig biverkning            Sådan icke avsedd reaktion,
+                                inbegripet smittsam sjukdom,
+                                hos givare eller mottagare i
+                                samband med att vävnader och
+                                celler tillvaratas från givare
+                                eller används på mottagare, som
+                                kan leda till döden, livshotande
+                                eller invalidiserande tillstånd
+                                eller som medför betydande
+                                funktionsnedsättning eller leder
+                                till eller förlänger sjukdom
+                                eller behov av sjukhusvård.
 
-Organ                                En differentierad och vital del
+                                Celler  Enskilda mänskliga
+                                celler eller en grupp mänskliga
+                                celler, som inte är förenade av
+                                något slag av bindväv.
+
+Organ                           En differentierad och vital del
                                 av människokroppen bestående av
                                 olika sorters vävnad, vilken
                                 upprätthåller sin struktur,
@@ -64,12 +61,27 @@ Organ                                En differentierad och vital del
                                 utveckla fysiologiska
                                 funktioner med en betydande
                                 grad av autonomi.
+Organisation för
+tillvaratagande                 En vårdinrättning, en avdelning
+                                på ett sjukhus eller en annan
+                                inrättning som tillvaratar
+                                mänskliga vävnader eller
+                                celler, och som inte behöver ha
+                                tillstånd att bedrivas som en
+                                vävnadsinrättning.
 
-Vävnad                               Alla de beståndsdelar av
+Organisation med ansvar för
+användning på människa          En vårdinrättning, en avdelning
+                                på ett sjukhus eller en annan
+                                inrättning som använder
+                                mänskliga vävnader eller celler
+                                på människa.
+
+Vävnad                          Alla de beståndsdelar av
                                 människokroppen som består av
                                 celler.
 
-Vävnadsinrättning            Inrättning där fysisk eller
+Vävnadsinrättning               Inrättning där fysisk eller
                                 juridisk person bedriver
                                 verksamhet som innefattar
                                 kontroll, bearbetning,
@@ -85,10 +97,17 @@ Vävnadsinrättning            Inrättning där fysisk eller
                                 import eller export av
                                 mänskliga vävnader eller
                                 celler.
+Lag (2008:1060).
 
 Tillämpningsområde
 
 3 § Lagen är tillämplig på verksamhet vid vävnadsinrättningar.
+Bestämmelsen om anmälningsplikt i 20 a § tillämpas även på
+verksamhet vid organisationer för tillvaratagande och
+bestämmelserna om anmälningsplikt i 20 b § och om
+uppgiftsskyldighet i 21 a § tillämpas även på verksamhet vid
+organisationer med ansvar för användning på människa.
+Lag (2008:1060).
 
 4 § Lagen är inte tillämplig vid forskning där mänskliga
 vävnader och celler används för annat syfte än för användning
@@ -220,6 +239,29 @@ händelser
 konstaterade allvarliga biverkningar och allvarliga avvikande
 händelser anmäls till tillsynsmyndigheten utan dröjsmål.
 
+20 a § En organisation för tillvaratagande ska till den
+vävnadsinrättning som har tagit emot vävnaderna eller cellerna
+utan dröjsmål anmäla varje misstänkt eller konstaterad
+
+a) allvarlig biverkning hos levande givare som kan påverka
+vävnadernas eller cellernas kvalitet och säkerhet, och
+
+b) allvarlig avvikande händelse under tillvaratagandet som kan
+påverka de mänskliga vävnadernas eller cellernas kvalitet och
+säkerhet. Lag (2008:1060).
+
+20 b § En organisation med ansvar för användning på människa
+ska till den vävnadsinrättning som har distribuerat vävnaderna
+eller cellerna utan dröjsmål anmäla varje misstänkt eller
+konstaterad
+
+a) allvarlig biverkning som iakttagits under eller efter den
+kliniska användningen och som kan hänföras till vävnadernas
+eller cellernas kvalitet och säkerhet, och
+
+b) allvarlig avvikande händelse som kan påverka vävnadernas
+eller cellernas kvalitet och säkerhet. Lag (2008:1060).
+
 Register
 
 21 § Den som har tillstånd att bedriva en vävnadsinrättning ska
@@ -227,7 +269,7 @@ föra ett register med uppgifter om
 
 1. sin verksamhet,
 
-2. givare av mänskliga vävnader och celler, och
+2. givare och mottagare av mänskliga vävnader och celler, och
 
 3. kontroller som utförts av mänskliga vävnader och celler.
 
@@ -241,15 +283,22 @@ endast om
 
 1. givarens identitet,
 
-2. givarens uppgivna sjukdomshistoria, och
+2. givarens uppgivna sjukdomshistoria,
 
-3. uppgift om resultatet av undersökningar på givaren och av
-kontroller av de mänskliga vävnaderna och cellerna.
+3. resultatet av undersökningar på givaren och av kontroller av
+de mänskliga vävnaderna och cellerna, och
+
+4. mottagarens identitet.
 
 Uppgifterna i registret ska gallras 30 år efter införandet.
 
 Den som har tillstånd att bedriva en vävnadsinrättning är
-personuppgiftsansvarig för registret.
+personuppgiftsansvarig för registret. Lag (2008:1060).
+
+21 a § En organisation med ansvar för användning på människa
+ska lämna uppgifter om mottagarens identitet till den
+vävnadsinrättning som har distribuerat vävnaderna eller
+cellerna. Lag (2008:1060).
 
 22 § Regeringen, eller den myndighet som regeringen bestämmer,
 får meddela föreskrifter om att uppgifterna i det register som
