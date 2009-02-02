@@ -1,6 +1,3 @@
-
-
-
 1 § Enligt denna förordning ska avgift betalas för
 Kemikalieinspektionens prövning och tillsyn i fråga om kemiska
 produkter, biotekniska organismer och varor enligt 14 kap.
@@ -60,7 +57,7 @@ Avgiften för en produkt beräknas enligt följande formel:
 
 startvärde - slutvärde
 ---------------------- + slutvärde
-          kn
+kn
 
 Startvärdet är 1 000 kronor och slutvärdet är 350 kronor.
 
@@ -70,7 +67,8 @@ under en gemensam beteckning räknas som en produkt.
 
 k är värdet 1,003.
 
-Avgifter för bekämpningsmedel
+Avgifter för godkännande av och tillsyn över växtskyddsmedel 
+och biocidprodukter
 
 6 § För Kemikalieinspektionens prövning och tillsyn i fråga om
 kemiska bekämpningsmedel enligt förordningen (2006:1010) om
@@ -82,17 +80,17 @@ skall ansökningsavgift och årsavgift betalas enligt följande:
 kronor
 
 1.      Vid ansökan om godkännande,
-        a) för varje produkt                    10 000
+a) för varje produkt                    10 000
 
-        b) för varje verksamt ämne som
-        inte ingår                              30 000
-        i annan godkänd produkt
+b) för varje verksamt ämne som
+inte ingår                              30 000
+i annan godkänd produkt
 
 2.      Vid ansökan om villkorsändring
-        a) som avser namn, förpacknings-
-        storlek                                 1 000
-        eller icke verksamt ämne
-        b) i övrigt                             5 000
+a) som avser namn, förpacknings-
+storlek                                 1 000
+eller icke verksamt ämne
+b) i övrigt                             5 000
 
 3.      Vid ansökan om fortsatt godkännande     6 000
 
@@ -117,36 +115,36 @@ skall ansökningsavgift och årsavgift betalas enligt följande:
 kronor
 
 1.      Ansökan om godkännande som avser
-        a) mikroorganismer
-        - för varje bekämpningsmedel            5 000
-        - för varje verksam organism som inte   15 000
-        ingår i annat godkänt bekämpnings-
-        medel
-        b) genmodifierade organismer
-        - för varje verksam organism som inte   23 000
-        ingår i annat godkänt bekämpnings-
-        medel
-        c) nematoder, insekter, spindeldjur
-        - för varje bekämpningsmedel            3 000
-        - för varje verksam organism som inte   8 000
-        ingår i annat godkänt bekämpnings-
-        medel
+	a) mikroorganismer
+	- för varje bekämpningsmedel            5 000
+	- för varje verksam organism som inte   15 000
+	ingår i annat godkänt bekämpnings-
+	medel
+	b) genmodifierade organismer
+	- för varje verksam organism som inte   23 000
+	ingår i annat godkänt bekämpnings-
+	medel
+	c) nematoder, insekter, spindeldjur
+	- för varje bekämpningsmedel            3 000
+	- för varje verksam organism som inte   8 000
+	ingår i annat godkänt bekämpnings-
+	medel
 
 2.      Ansökan om villkorsändring
-        - som avser bekämpningsmedlets namn     1 000
-        eller förpackningsstorlek
-        - i övrigt                              2 000
+	- som avser bekämpningsmedlets namn     1 000
+	eller förpackningsstorlek
+	- i övrigt                              2 000
 
 3.      Ansökan om fortsatt godkännande
-        som avser
-        a) mikroorganismer                      3 000
-        b) genmodifierade mikroorganismer       4 500
-        c) nematoder, insekter, spindeldjur     1 500
+	som avser
+	a) mikroorganismer                      3 000
+	b) genmodifierade mikroorganismer       4 500
+	c) nematoder, insekter, spindeldjur     1 500
 
 4.      Ansökan om undantag som avser
-        a) mikroorganismer                      1 500
-        b) genmodifierade mikroorganismer       2 000
-        c) nematoder, insekter, spindeldjur     1 000
+	a) mikroorganismer                      1 500
+	b) genmodifierade mikroorganismer       2 000
+	c) nematoder, insekter, spindeldjur     1 000
 
 Årsavgift skall betalas för varje godkänd produkt. Avgiften
 uppgår per kalenderår till 1,8 procent av värdet av
@@ -157,121 +155,240 @@ Ansökningsavgift skall betalas av sökanden. Årsavgift skall
 betalas av den som har fått ett bekämpningsmedel godkänt eller
 av den som har trätt i dennes ställe. Förordning (2006:1042).
 
-8 § En avgift ska betalas för den administrativa hantering och
-utvärdering som krävs i samband med en ansökan om att ett
-verksamt ämne ska tas upp i bilaga 1 till rådets direktiv
-91/414/EEG av den 15 juli 1991 om utsläppande av
-växtskyddsmedel på marknaden, senast ändrat genom kommissionens
-direktiv 2008/45/EG. Avgiften ska betalas som en
-ansökningsavgift och fastställas som en slutlig
-prövningsavgift.
+7 a § En avgift ska också betalas för den administrativa
+hantering och utvärdering som krävs i samband med prövningen av
+en ansökan om godkännande enligt 6 eller 7 § som avser ett
+bekämpningsmedel som innehåller ett verksamt ämne som är
+upptaget i bilaga 1 till rådets direktiv 91/414/EEG av den 15
+juli 1991 om utsläppande av växtskyddsmedel på marknaden,
+senast ändrat genom kommissionens direktiv 2008/108/EG, eller
+bilaga I eller IA till Europaparlamentets och rådets direktiv
+98/8/EG av den 16 februari 1998 om utsläppande av
+biocidprodukter på marknaden, senast ändrat genom kommissionens
+direktiv 2008/86/EG, och sökanden inte har tillstånd att
+åberopa den dokumentation som låg till grund för upptagandet i
+bilagan.
 
-I ett ansökningsärende som avses i första stycket är
-ansökningsavgiften för varje akt med dokumentation 4 125 000
-kronor om ansökan avser ett kemiskt ämne och 2 000 000 kronor
-om ansökan avser en mikroorganism.
+Avgiften ska betalas som en ansökningsavgift och fastställas
+som en slutlig prövningsavgift. Bestämmelser om betalning av
+ansökningsavgift och fastställande av slutlig prövningsavgift
+finns i 8 j §. Förordning (2008:1408).
 
-Om ansökan ska prövas enligt kommissionens förordning (EG) nr
-451/2000 av den 28 februari 2000 om genomförandebestämmelser
-för den andra och tredje etappen i det arbetsprogram som avses
-i artikel 8.2 i rådets direktiv 91/414/EEG eller kommissionens
-förordning (EG) nr 1490/2002 av den 14 augusti 2002 om
-kompletterande tillämpningsföreskrifter för den tredje etappen
-av det arbetsprogram som avses i artikel 8.2 i rådets direktiv
-91/414/EEG och om ändring av förordning (EG) nr 451/2000, ska
-100 000 kronor av ansökningsavgiften betalas när ansökningen
-lämnas in och återstoden när dokumentationen lämnas in.
-
-Bestämmelser om betalning av ansökningsavgift enligt första
-stycket och fastställande av slutlig prövningsavgift finns i
-8 d §. Förordning (2008:254).
-
-8 a § En avgift ska betalas för den administrativa hantering
-och utvärdering som krävs i samband med en ansökan om att ett
-verksamt ämne ska tas upp i bilaga I, IA eller IB till
-Europaparlamentets och rådets direktiv 98/8/EG av den 16
-februari 1998 om utsläppande av biocidprodukter på marknaden,
-senast ändrat genom Europaparlamentets och rådets direktiv
-2008/31/EG. Avgiften ska betalas som en ansökningsavgift och
-fastställas som en slutlig prövningsavgift.
-
-I ett ansökningsärende som avses i första stycket ska
-ansökningsavgiften för varje akt med dokumentation betalas
-
-1. med 3 300 000 kronor, om ansökan avser att ett kemiskt ämne
-ska tas upp i bilaga I eller IA,
-
-2. med 2 000 000 kronor, om ansökan avser att en mikroorganism
-ska tas upp i bilaga I eller IA, och
-
-3. med 240 000 kronor, om ansökan avser att ett ämne ska tas
-upp i bilaga IB.
-
-Bestämmelser om betalning av ansökningsavgift och fastställande
-av slutlig prövningsavgift finns i 8 d §.
-Förordning (2008:254).
-
-8 b § En avgift skall betalas för den administrativa hantering
-och utvärdering som krävs i samband med att
-Kemikalieinspektionen utför de uppgifter som åligger Sverige i
-egenskap av samrapporterande medlemsstat enligt förordningarna
-(EG) nr 451/2000 och (EG) nr 1490/2002 vid ansökan om att ett
-verksamt ämne skall tas upp i bilaga 1 till direktiv
-91/414/EEG. Avgiften skall betalas som en ansökningsavgift och
-fastställas som en slutlig prövningsavgift.
-
-I ett ärende som avses i första stycket är ansökningsavgiften
-för varje akt med dokumentation 390 000 kronor. Om
-Kemikalieinspektionens handläggning enbart omfattar tiden efter
-det att den rapporterande medlemsstaten har lämnat sin
-utvärdering till Europeiska myndigheten för livsmedelssäkerhet
-(EFSA) är avgiften 62 000 kronor.
-
-Bestämmelser om betalning av ansökningsavgift och fastställande
-av slutlig prövningsavgift finns i 8 d §. Förordning (2005:31).
-
-8 c § En avgift skall betalas för den administrativa hantering
-och utvärdering som krävs i samband med en ansökan om
-godkännande av ett bekämpningsmedel som innehåller ett verksamt
-ämne som är upptaget på bilaga 1 till direktiv 91/414/EEG eller
-bilaga I eller IA till direktiv 98/8/EG om upptagandet på
-bilagan skett med stöd av dokumentation från en annan sökande
-än den som nu ansöker om godkännande. Detta gäller inte om den
-som lämnar in ansökan har tillstånd från den ursprungliga
-sökanden att använda uppgifterna. Avgiften skall betalas som en
-ansökningsavgift och fastställas som en slutlig
-prövningsavgift.
-
-I ett ansökningsärende som avses i första stycket är
+7 b § I ett ansökningsärende som avses i 7 a § uppgår
 ansökningsavgiften för varje akt med dokumentation
 
-1. 930 000 kronor om ansökan avser ett växtskyddsmedel
+1. till 1 100 000 kronor, om ansökan avser ett växtskyddsmedel
 innehållande ett kemiskt ämne eller en mikroorganism som är
 upptagen i bilaga 1 till direktiv 91/414/EEG,
 
-2. 744 000 kronor om ansökan avser en biocidprodukt
+2. till 850 000 kronor, om ansökan avser en biocidprodukt
 innehållande ett kemiskt ämne eller en mikroorganism som är
 upptagen i bilaga I eller IA till direktiv 98/8/EG.
+Förordning (2008:1408).
 
-Bestämmelser om betalning av ansökningsavgift och fastställande
-av slutlig prövningsavgift finns i 8 d §. Förordning (2005:31).
+Särskilda avgifter för prövning av verksamma ämnen i
+växtskyddsmedel
 
-8 d § Ansökningsavgift enligt 8 § första stycket och 8 a-8 c §§
-skall betalas när ärendet inleds eller vid de senare tidpunkter
-som Kemikalieinspektionen bestämmer.
+8 § En avgift ska betalas för
 
-När frågan enligt 8, 8 a eller 8 b § om att ta upp ämnet i
-bilaga 1 till direktiv 91/414/EEG eller bilaga I, IA eller IB
-till direktiv 98/8/EG eller frågan om godkännande enligt 8 c §
-är slutligt avgjord, skall Kemikalieinspektionen fastställa den
-slutliga prövningsavgiften. Prövningsavgiften skall motsvara
-kostnaderna för hanteringen och utvärderingen, men får inte
-överstiga ansökningsavgiften. I sitt beslut om att fastställa
-prövningsavgiften skall Kemikalieinspektionen redovisa
+1. den administrativa hantering och utvärdering som krävs i
+samband med en ansökan om att ett verksamt ämne ska tas upp i
+bilaga 1 till direktiv 91/414/EEG och i samband med en ansökan
+om förlängning av ett beslut om sådant upptagande, och
+
+2. den ytterligare utvärdering som krävs efter det att ett ämne
+upptagits i bilaga 1 till direktiv 91/414/EEG med anledning av
+förfarandet enligt kommissionens förordning (EG) nr 1095/2007
+av den 20 september 2007 om ändring av förordning (EG) nr
+1490/2002 om kompletterande tillämpningsföreskrifter för den
+tredje etappen av det arbetsprogram som avses i artikel 8.2 i
+rådets direktiv 91/414/EEG och om ändring av förordning (EG) nr
+451/2000 samt om ändring av förordning (EG) nr 2229/2004 om
+ytterligare genomförandebestämmelser för den fjärde etappen i
+det arbetsprogram som avses i artikel 8.2 i rådets direktiv
+91/414/EEG.
+
+Avgiften ska betalas som en ansökningsavgift och fastställas
+som en slutlig prövningsavgift. Bestämmelser om betalning av
+ansökningsavgift och fastställande av slutlig prövningsavgift
+finns i 8 j §. Förordning (2008:1408).
+
+8 a § I ett ärende som avses i 8 § uppgår ansökningsavgiften
+
+1. till 6 750 000 kronor för varje gemensam akt med
+dokumentation, om ansökan görs av flera sökande gemensamt och
+avser ett kemiskt ämne,
+
+2. till 4 500 000 kronor för varje akt med dokumentation, om
+ansökan avser ett kemiskt ämne och inte är en sådan gemensam
+ansökan som avses i 1,
+
+3. till 3 000 000 kronor för varje gemensam akt med
+dokumentation, om ansökan görs av flera sökande gemensamt och
+avser en mikroorganism, och
+
+4. till 2 000 000 kronor för varje akt med dokumentation, om
+ansökan avser en mikroorganism och inte är en sådan gemensam
+ansökan som avses i 3. Förordning (2008:1408).
+
+Särskilda avgifter för prövning av verksamma ämnen i
+biocidprodukter
+
+8 b § En avgift ska betalas för den administrativa hantering
+och utvärdering som krävs i samband med en ansökan om att ett
+verksamt ämne eller ytterligare en produkttyp ska tas upp i
+bilaga I, IA eller IB till direktiv 98/8/EG och i samband med
+en ansökan om förlängning av ett beslut om sådant upptagande.
+
+Avgiften ska betalas som en ansökningsavgift och fastställas
+som en slutlig prövningsavgift. Bestämmelser om betalning av
+ansökningsavgift och fastställande av slutlig prövningsavgift
+finns i 8 j §. Förordning (2008:1408).
+
+8 c § I ett ansökningsärende som avses i 8 b § uppgår
+ansökningsavgiften
+
+1. till 5 700 000 kronor för varje gemensam akt med
+dokumentation, om ansökan görs av flera sökande gemensamt och
+avser att ett kemiskt ämne ska tas upp i bilaga I eller IA,
+
+2. till 3 800 000 kronor för varje akt med dokumentation, om
+ansökan avser att ett kemiskt ämne ska tas upp i bilaga I eller
+IA och inte är en sådan gemensam ansökan som avses i 1,
+
+3. till 3 000 000 kronor för varje gemensam akt med
+dokumentation, om ansökan görs av flera sökande gemensamt och
+avser att en mikroorganism ska tas upp i bilaga I eller IA,
+
+4. till 2 000 000 kronor för varje akt med dokumentation, om
+ansökan avser att en mikroorganism ska tas upp i bilaga I eller
+IA och inte är en sådan gemensam ansökan som avses i 3,
+
+5. till 420 000 kronor för varje gemensam akt med
+dokumentation, om ansökan görs av flera sökande gemensamt och
+avser att ett ämne ska tas upp i bilaga IB, och
+
+6. till 280 000 kronor för varje akt med dokumentation, om
+ansökan avser att ett ämne ska tas upp i bilaga IB och inte är
+en sådan gemensam ansökan som avses i 5.
+Förordning (2008:1408).
+
+Särskild avgift för prövning efter att ett verksamt ämne har
+tagits upp i en bilaga
+
+8 d § En avgift ska betalas för den administrativa hantering
+och utvärdering som följer av ett beslut om upptagande i bilaga
+1 till direktiv 91/414/EG eller i bilaga I, IA eller IB till
+direktiv 98/8/EEG av ett verksamt ämne för vilket Sverige varit
+rapporterande medlemsland. Avgiften ska betalas av sökanden
+eller den som trätt i sökandens ställe.
+
+Avgiften uppgår för varje akt till 1 000 000 kronor. Den ska
+betalas på samma sätt som en ansökningsavgift innan
+handläggningen påbörjas och fastställas som en slutlig
+prövningsavgift. Bestämmelser om betalning av ansökningsavgift
+och fastställande av slutlig prövningsavgift finns i 8 j §.
+Förordning (2008:1408).
+
+Särskild avgift för prövning av ändrade villkor för verksamma
+ämnen i växtskyddsmedel och biocidprodukter
+
+8 e § En ansökningsavgift ska betalas för den administrativa
+hantering och utvärdering som krävs i samband med en ansökan om
+en ändring av villkoren för upptagandet i bilaga 1 till
+direktiv 91/414/EEG eller bilaga I, IA eller IB till direktiv
+98/8 EG.
+
+Ansökningsavgiften uppgår till 200 000 kronor.
+
+Bestämmelser om betalning av ansökningsavgift finns i 8 j §.
+Förordning (2008:1408).
+
+Särskilda avgifter vid samrapportering om verksamma ämnen i
+växtskyddsmedel och biocidprodukter
+
+8 f § En avgift ska betalas för den administrativa hantering
+och utvärdering som krävs i samband med att
+Kemikalieinspektionen utför de uppgifter som åligger Sverige i
+egenskap av samrapporterande medlemsstat enligt direktiven
+91/414/EEG eller 98/8/EG eller deras följdförordningar vid
+ansökan om att ett verksamt ämne eller ytterligare en
+produkttyp ska tas upp eller en ansökan om förlängning av ett
+beslut att ta upp ett ämne i en bilaga till något av
+direktiven.
+
+Avgiften ska betalas som en ansökningsavgift och fastställas
+som en slutlig prövningsavgift. Bestämmelser om betalning av
+ansökningsavgift och fastställande av slutlig prövningsavgift
+finns i 8 j §. Förordning (2008:1408).
+
+8 g § I ett ärende som avses i 8 f § och avser ett verksamt
+ämne i ett växtskyddsmedel uppgår ansökningsavgiften, om annat
+inte följer av 8 i §, till ett belopp som står i proportion
+till den arbetsfördelning som har överenskommits med den
+rapporterande medlemsstaten, dock högst
+
+1. till 3 375 000 kronor för varje gemensam akt med
+dokumentation, om ansökan görs av flera sökande gemensamt och
+avser ett kemiskt ämne,
+
+2. till 2 250 000 kronor för varje akt med dokumentation, om
+ansökan avser ett kemiskt ämne och inte omfattas av en sådan
+gemensam ansökan som avses i 1,
+
+3. till 1 500 000 kronor för varje gemensam akt med
+dokumentation, om ansökan görs av flera sökande gemensamt och
+avser en mikroorganism, och
+
+4. till 1 000 000 kronor för varje akt med dokumentation, om
+ansökan avser en mikroorganism och inte omfattas av en sådan
+gemensam ansökan som avses i 3. Förordning (2008:1408).
+
+8 h § I ett ärende som avses i 8 f § och avser ett verksamt
+ämne i en biocidprodukt uppgår ansökningsavgiften, om annat
+inte följer av 8 i §, till ett belopp som står i proportion
+till den arbetsfördelning som har överenskommits med den
+rapporterande medlemsstaten, dock högst
+
+1. till 2 850 000 kronor för varje gemensam akt med
+dokumentation, om ansökan görs av flera sökande gemensamt och
+avser ett kemiskt ämne,
+
+2. till 1 900 000 kronor för varje akt med dokumentation, om
+ansökan avser ett kemiskt ämne och inte omfattas av en sådan
+gemensam ansökan som avses i 1,
+
+3. till 1 500 000 kronor för varje gemensam akt med
+dokumentation, om ansökan görs av flera sökande gemensamt och
+avser en mikroorganism,
+
+4. till 1 000 000 kronor för varje akt med dokumentation, om
+ansökan avser en mikroorganism och inte omfattas av en sådan
+gemensam ansökan som avses i 3. Förordning (2008:1408).
+
+8 i § Om Kemikalieinspektionens handläggning endast omfattar
+tiden efter det att den rapporterande medlemsstaten har lämnat
+sin utvärdering till Europeiska myndigheten för
+livsmedelssäkerhet (EFSA) uppgår ansökningsavgiften till
+700 000 kronor i stället för det som sägs i 8 g och 8 h §§.
+Förordning (2008:1408).
+
+Betalning av ansökningsavgift och fastställande av slutlig
+prövningsavgift
+
+8 j § En ansökningsavgift enligt 7 a-8 i §§ ska betalas när
+ärendet inleds eller vid de senare tidpunkter som
+Kemikalieinspektionen i det enskilda fallet bestämmer.
+
+När ärendet är slutligt avgjort, ska Kemikalieinspektionen
+fastställa den slutliga prövningsavgiften. Prövningsavgiften
+ska motsvara kostnaderna för hanteringen och utvärderingen, men
+får inte överstiga ansökningsavgiften. I sitt beslut om att
+fastställa prövningsavgiften ska Kemikalieinspektionen redovisa
 kostnaderna och ange hur de har beräknats. Om
-ansökningsavgiften är större än prövningsavgiften, skall
+ansökningsavgiften är större än prövningsavgiften, ska
 Kemikalieinspektionen återbetala mellanskillnaden till
-sökanden. Förordning (2005:31).
+sökanden. Förordning (2008:1408).
 
 9 § Årsavgift enligt 6-7 §§ skall betalas för varje kalenderår
 från och med året efter året då beslut om godkännande
@@ -364,3 +481,10 @@ finns i 4 § lagen (1998:811) om införande av miljöbalken.
 
 2. Äldre föreskrifter tillämpas på ärenden som kommit in till
 Kemikalieinspektionen före den 10 mars 2005.
+
+2008:1408
+
+1. Denna förordning träder i kraft den 2 februari 2009.
+
+2. Äldre bestämmelser ska tillämpas på ärenden som har kommit
+in till Kemikalieinspektionen före den 2 februari 2009.
