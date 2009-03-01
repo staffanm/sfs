@@ -43,15 +43,15 @@ direkt knuten till omsättningen,
 
 4. större företag:
 
-- företag vars andelar, teckningsoptioner eller skuldebrev är
+ företag vars andelar, teckningsoptioner eller skuldebrev är
 upptagna till handel på en reglerad marknad eller en
 motsvarande marknad utanför Europeiska ekonomiska
 samarbetsområdet eller
 
-- företag som uppfyller mer än ett av följande villkor:
+ företag som uppfyller mer än ett av följande villkor:
 
-a) medelantalet anställda i företaget har under vart och ett av
-de två senaste räkenskapsåren uppgått till mer än 50,
+a) medelantalet anställda i företaget har under vart och ett av de
+två senaste räkenskapsåren uppgått till mer än 50,
 
 b) företagets redovisade balansomslutning har för vart och ett
 av de två senaste räkenskapsåren uppgått till mer än 25
@@ -63,8 +63,15 @@ miljoner kronor,
 
 5. mindre företag: företag som inte är större företag,
 
-6. större koncerner: koncerner som uppfyller mer än ett av
-följande villkor:
+6. större koncerner:
+
+koncerner i vilka moderföretagets eller något av
+dotterföretagens andelar, teckningsoptioner eller skuldebrev är
+upptagna till handel på en reglerad marknad eller en
+motsvarande marknad utanför Europeiska ekonomiska
+samarbetsområdet eller
+
+ koncerner som uppfyller mer än ett av följande villkor:
 
 a) medelantalet anställda i koncernen har under vart och ett av
 de två senaste räkenskapsåren uppgått till mer än 50,
@@ -79,17 +86,17 @@ miljoner kronor,
 
 7. mindre koncerner: koncerner som inte är större koncerner.
 
-Vid tillämpningen av första stycket 6 b och c skall fordringar
+Vid tillämpningen av första stycket 6 b och c ska fordringar
 och skulder mellan koncernföretag, liksom internvinster,
 elimineras. Detsamma gäller för intäkter och kostnader som
 hänför sig till transaktioner mellan koncernföretag, liksom
 förändring av internvinst.
 
 Företag som avses i 2 kap. 2 § första stycket och 3 §
-bokföringslagen (1999:1078) skall vid tillämpningen av första
-stycket 4-7 och 5 kap. 6 § till nettoomsättningen lägga bidrag,
+bokföringslagen (1999:1078) ska vid tilllämpningen av första
+stycket 47 och 5 kap. 6 § till nettoomsättningen lägga bidrag,
 gåvor, medlemsavgifter och andra liknande intäkter.
-Lag (2007:541).
+Lag (2009:34).
 
 4 § Ett företag är moderföretag och en juridisk person är
 dotterföretag, om företaget
@@ -676,6 +683,7 @@ redovisningsvalutan får omräknas till redovisningsvalutan
 enligt växelkursen på balansdagen, om detta står i
 överensstämmelse med 2 kap. 2 och 3 §§. Lag (2000:34).
 
+
 Redovisning enligt kapitalandelsmetoden
 
 13 a § Företag som avses i 3 kap. 4 a § andra stycket får
@@ -714,8 +722,8 @@ företagets finansiella instrument, utom sådana som enligt
 14 b § inte får tas upp till verkligt värde, värderas på samma
 sätt. Lag (2003:774).
 
-14 b § Följande finansiella instrument får inte värderas enligt
-14 a §:
+14 b § Följande finansiella instrument får inte värderas
+enligt 14 a §:
 
 1. finansiella instrument som hålls till förfall och som inte
 utgör derivatinstrument,
@@ -736,11 +744,21 @@ handelsportfölj eller som utgör derivatinstrument, samt
 
 7. andra finansiella instrument, som är av sådan särskild
 karaktär att de enligt vad som är allmänt accepterat bör
-redovisas på annat sätt.
+redovisas på annat sätt. Värdering enligt 14 a § får inte
+heller ske, om en sådan värdering inte skulle ge ett
+tillförlitligt värde på det finansiella instrumentet.
 
-Värdering enligt 14 a § får inte heller ske, om en sådan
-värdering inte skulle ge ett tillförlitligt värde på det
-finansiella instrumentet. Lag (2003:774).
+Företag som avses i 3 kap. 4 a § andra stycket får trots första
+stycket värdera där angivna finansiella instrument enligt
+14 a §, om
+
+1. det är förenligt med sådana internationella
+redovisningsstandarder som avses i Europaparlamentets och
+rådets förordning (EG) nr 1606/2002 av den 19 juli 2002 om
+tillämpning av internationella redovisningsstandarder5, och
+
+2. upplysningar om värderingen lämnas i enlighet med dessa
+standarder. Lag (2009:34).
 
 14 c § Vid tillämpningen av 14 a och 14 b §§ skall avtal som
 avser rå- och stapelvaror och ger endera parten rätt att
@@ -1073,6 +1091,21 @@ Om företaget har ställt säkerhet eller ingått
 ansvarsförbindelse till förmån för koncernföretag, skall
 särskild upplysning lämnas om detta. Lag (1999:1112).
 
+Ekonomiska arrangemang som inte redovisas i balansräkningen
+
+11 a § Om företaget har ekonomiska arrangemang som inte
+redovisas i balansräkningen och riskerna eller fördelarna med
+arrangemangen är betydande ska, när uppgifter om dessa risker
+eller fördelar är nödvändiga för att bedöma företagets
+ställning, uppgift lämnas om
+
+1. inriktningen på och det kommersiella syftet med
+arrangemangen, och
+
+2. den ekonomiska inverkan arrangemangen har på företaget.
+
+Första stycket 2 gäller inte mindre företag. Lag (2009:34).
+
 Lån till ledande befattningshavare
 
 12 § Om ett företag har lämnat lån till en styrelseledamot, en
@@ -1096,6 +1129,97 @@ Andra stycket tillämpas också, om ett aktiebolag har lämnat lån
 till eller ställt säkerhet till förmån för någon annan med stöd
 av tillstånd enligt 21 kap. 8 § aktiebolagslagen (2005:551).
 Lag (2005:918).
+
+Transaktioner med närstående
+
+12 a § Större företag ska lämna upplysningar om betydande
+transaktioner som på andra än marknadsmässiga villkor har
+genomförts med
+
+1. ett företag i samma koncern eller i en företagsgrupp av
+motsvarande slag,
+
+2. en juridisk person över vilken företaget utövar ett
+bestämmande inflytande eller som utövar ett bestämmande
+inflytande över företaget utan att det är fråga om en koncern
+eller en företagsgrupp av motsvarande slag,
+
+3. ett intresseföretag till företaget eller en juridisk person
+som företaget är ett intresseföretag till,
+
+4. en juridisk person över vilken företaget utövar ett
+betydande inflytande när det gäller den driftsmässiga och
+finansiella styrningen eller som utövar ett sådant inflytande
+över företaget utan att den juridiska personen eller företaget
+är intresseföretag till den andra,
+
+5. en juridisk person som verkar i enlighet med en
+överenskommelse mellan företaget och en eller flera andra
+parter om att gemensamt bedriva ekonomisk verksamhet och att
+gemensamt utöva ett bestämmande inflytande över denna
+verksamhet,
+
+6. en fysisk person som utövar ett betydande inflytande över
+företaget,
+
+7. en styrelseledamot, verkställande direktör eller någon annan
+ledande befattningshavare i företaget eller dess moderföretag
+eller i ett motsvarande utländskt rättssubjekt,
+
+8. den som är gift eller sambo med eller förälder, barn eller
+styvbarn till en person som avses i 6 eller 7,
+
+9. annan person som ingår i samma familj som en person som
+avses i 6 eller 7 och som kan förväntas påverka den senare
+personen i hans eller hennes kontakter med företaget eller som
+kan förväntas påverkas av en person som avses i 6 eller 7 i
+sina egna kontakter med företaget,
+
+10. en person som är ekonomiskt eller på annat sätt beroende av
+en person som avses i 6 eller 7 eller dennes make eller sambo,
+
+11. en juridisk person över vilken en person som avses i 6, 7,
+8, 9 eller 10 har ett betydande inflytande, eller
+
+12. en juridisk person vars huvudsakliga verksamhet är att
+förvalta tillgångar som företaget har avsatt för ersättningar
+till personer som avslutat sin anställning i företaget eller i
+en sådan juridisk person som avses i 1, 2, 3, 4, 5 eller 11.
+
+Publika aktiebolag som är mindre företag ska lämna upplysningar
+om sådana transaktioner som avses i första stycket, om
+transaktionen har ingåtts med
+
+1. en aktieägare med ett betydande aktieinnehav i bolaget,
+eller
+
+2. en styrelseledamot i bolaget.
+
+Upplysningar enligt denna paragraf behöver inte lämnas om
+transaktioner som har ingåtts
+
+1. mellan ett moderföretag och dess helägda dotterföretag,
+eller
+
+2. mellan två eller flera dotterföretag, om samtliga aktier
+eller andelar ägs av andra företag inom samma koncern.
+Lag (2009:34).
+
+12 b § Upplysningar enligt 12 a § ska omfatta
+
+1. uppgift om transaktionernas art och det totala belopp som
+transaktionerna omfattar,
+
+2. uppgift om vilket slags närståendeförhållande som
+föreligger, och
+
+3. andra uppgifter om transaktionerna som är nödvändiga för att
+bedöma företagets ställning.
+
+Uppgifter om flera transaktioner får lämnas i samlad form, om
+de avser samma typ av transaktioner och uppgift om de enskilda
+transaktionerna inte är nödvändig för att bedöma vilken
+inverkan de har på företagets ställning. Lag (2009:34).
 
 Konvertibla lån
 
@@ -1146,6 +1270,8 @@ balansräkning skall specificeras.
 
 Vad som sägs i första stycket om insats gäller också
 upplåtelseavgift i en bostadsrättsförening. Lag (2004:1173).
+
+Upplysningar om skatter
 
 16 § Större företag skall lämna uppgift om skillnaden mellan å
 ena sidan den inkomstskatt som har redovisats i
@@ -1318,7 +1444,7 @@ skall tillämpas också på ledamöter eller suppleanter i ett
 europabolags eller europakooperativs lednings- eller
 förvaltningsorgan. Lag (2006:597).
 
-6 kap. Förvaltningsberättelse och finansieringsanalys
+6 kap. Förvaltningsberättelse m.m.
 
 Förvaltningsberättelse
 
@@ -1490,6 +1616,98 @@ Finansieringsanalys
 finansiering och kapitalinvesteringar under räkenskapsåret.
 Lag (1999:1112).
 
+Bolagsstyrningsrapport
+
+6 § Förvaltningsberättelsen för ett aktiebolag vars aktier,
+teckningsoptioner eller skuldebrev är upptagna till handel på
+en reglerad marknad ska innehålla en bolagsstyrningsrapport, om
+inte bolaget har valt att med stöd av 8 § i stället upprätta en
+från årsredovisningen skild bolagsstyrningsrapport.
+
+Bolagsstyrningsrapporten ska innehålla upplysningar om
+
+1. vilka principer för bolagsstyrning som tillämpas, utöver dem
+som följer av lag eller annan författning, och var uppgifter om
+dessa principer finns tillgängliga,
+
+2. de viktigaste inslagen i bolagets system för intern kontroll
+och riskhantering i samband med den finansiella rapporteringen,
+
+3. direkta eller indirekta aktieinnehav i bolaget, som
+representerar minst en tiondel av röstetalet för samtliga
+aktier i bolaget,
+
+4. begränsningar i fråga om hur många röster varje aktieägare
+kan avge vid en bolagsstämma,
+
+5. bestämmelser i bolagsordningen om tillsättande och
+entledigande av styrelseledamöter samt om ändring av
+bolagsordningen,
+
+6. av bolagsstämman lämnade bemyndiganden till styrelsen att
+besluta att bolaget ska ge ut nya aktier eller förvärva egna
+aktier,
+
+7. hur bolagsstämman fungerar, bolagsstämmans huvudsakliga
+beslutanderätt, aktieägarnas rättigheter och hur dessa
+rättigheter utövas, i den omfattning som dessa förhållanden
+inte framgår av lag eller annan författning,
+
+8. hur styrelsen och, i förekommande fall, inom bolaget
+inrättade kommittéer är sammansatta och hur de fungerar, i den
+omfattning som dessa förhållanden inte framgår av lag eller
+annan författning.
+
+Om bolaget inte tillämpar någon kod för bolagsstyrning, ska
+skälen för detta anges. Om bolaget tilllämpar en
+kod för bolagsstyrning, ska det i förekommande fall anges vilka
+delar av koden som bolaget avviker från och skälen för detta.
+Lag (2009:34).
+
+7 § Ett aktiebolag som endast har teckningsoptioner eller
+skuldebrev upptagna till handel på en reglerad marknad behöver
+inte i bolagsstyrningsrapporten lämna de upplysningar som anges
+i 6 § andra stycket 1, 7 och 8 samt i tredje stycket i samma
+paragraf. Detta gäller dock inte om bolagets aktier handlas på
+en handelsplattform enligt 1 kap. 5 § 12 lagen (2007:528) om
+värdepappersmarknaden. Lag (2009:34).
+
+8 § I stället för att upprätta bolagsstyrningsrapporten som en
+del av förvaltningsberättelsen enligt 6 § får bolaget välja att
+upprätta rapporten som en från årsredovisningen skild handling.
+Rapporten ska även i ett sådant fall ha det innehåll som
+framgår av 6 och 7 §§. Den ska överlämnas till bolagets revisor
+inom samma tid som årsredovisningen.
+
+Om bolaget har valt att upprätta bolagsstyrningsrapporten som
+en från årsredovisningen skild handling och sådana upplysningar
+som avses i 6 § andra stycket 36 ingår i
+förvaltningsberättelsen, behöver dessa upplysningar inte lämnas
+i rapporten. Om upplysningarna inte tas med i
+bolagsstyrningsrapporten, ska denna i stället innehålla en
+uppgift om den plats i förvaltningsberättelsen där
+upplysningarna lämnas.
+
+Om bolaget har valt att upprätta en bolagsstyrningsrapport
+enligt denna paragraf, ska detta anges i
+förvaltningsberättelsen. Lag (2009:34).
+
+9 § Om förvaltningsberättelsen innehåller en sådan uppgift som
+avses i 8 § tredje stycket, ska bolagets revisor i ett
+skriftligt, undertecknat yttrande uttala sig om huruvida en
+sådan rapport som avses där har upprättats eller inte. När det
+gäller sådana upplysningar som avses i 6 § andra stycket 26
+ska yttrandet vidare innehålla ett uttalande om huruvida
+upplysningarna är förenliga med årsredovisningen. Har det i
+rapporten tagits med sådana upplysningar som avses i 7 kap.
+31 § andra stycket, ska yttrandet även innehålla ett uttalande
+om huruvida dessa upplysningar är förenliga med
+koncernredovisningen.
+
+Revisorns yttrande ska lämnas till bolagets styrelse inom samma
+tid som revisionsberättelsen och sedan fogas till
+bolagsstyrningsrapporten. Lag (2009:34).
+
 7 kap. Koncernredovisning
 
 Allmänna bestämmelser
@@ -1556,12 +1774,7 @@ samt säte för det överordnade moderföretag som upprättar den i
 stycket nämnda koncernredovisningen. Lag (2008:89).
 
 3 § Moderföretag i mindre koncerner behöver inte upprätta
-koncernredovisning.
-
-Första stycket gäller inte om andelar i moderföretaget eller
-något av dotterföretagen eller skuldebrev som moderföretaget
-eller något av dotterföretagen har utfärdat är upptagna till
-handel på en reglerad marknad. Lag (2007:541).
+koncernredovisning. Lag (2009:34).
 
 Koncernredovisningens delar
 
@@ -1724,22 +1937,23 @@ Tilläggsupplysningar
 
 Allmänna tilläggsupplysningar
 
-14 § Bestämmelserna om tilläggsupplysningar i 5 kap. 2-7 och
-10-13 §§, 14 § andra och tredje styckena, 15-18 §§ samt
-18 b-25 §§ tillämpas även på koncernredovisningen. Vad som sägs
-där om större företag skall dock i stället avse större
-koncerner. Vad som sägs i 5 kap. 18 b § om medelantalet
-anställda skall avse medelantalet anställda i koncernen.
-Tilläggsupplysningarna skall lämnas på det sätt som anges i
+14 § Bestämmelserna om tilläggsupplysningar i 5 kap. 27 och
+1013 §§, 14 § andra och tredje styckena, 1518 §§ samt
+18 b25 §§ tillämpas även på koncernredovisningen. Det som sägs
+där om större företag ska i stället avse större koncerner och
+det som sägs om mindre företag ska i stället avse mindre
+koncerner. Det som sägs i 5 kap. 18 b § om medelantalet
+anställda ska avse medelantalet anställda i koncernen.
+Tillläggsupplysningarna ska lämnas på det sätt som anges i
 5 kap. 1 § första stycket andra och tredje meningarna och andra
-stycket.
+stycket i samma paragraf.
 
-Trots vad som sägs i första stycket får uppgifter enligt 5 kap.
+Trots det som sägs i första stycket får uppgifter enligt 5 kap.
 20 § tredje stycket tredje meningen och 5 kap. 22 § andra
 stycket tredje meningen utelämnas i fråga om dotterföretag. Vid
-tillämpningen av nämnda bestämmelser skall dock de lämnade
+tillämpningen av nämnda bestämmelser ska dock de lämnade
 uppgifterna innefatta även löner och andra förmåner från
-koncernföretag. Lag (2006:871).
+koncernföretag. Lag (2009:34).
 
 Förändringar i koncernens sammansättning
 
@@ -1962,60 +2176,81 @@ tillämpning av denna paragraf. Lag (1999:1112).
 Förvaltningsberättelse och finansieringsanalys
 
 31 § Förvaltningsberättelse och finansieringsanalys för
-koncernen skall upprättas med tillämpning av 6 kap. 1 § och
-2 a-5 §§. Vad som sägs i 6 kap. 1 § om mindre företag skall
-dock i stället avse mindre koncerner. Lag (2006:871).
+koncernen ska upprättas med tillämpning av 6 kap. 1 § och
+2 a5 §§. Det som sägs i 6 kap. 1 § om mindre företag ska i
+stället avse mindre koncerner.
+
+Om moderbolaget är ett aktiebolag och bolagets eller något av
+dess dotterföretags andelar, teckningsoptioner eller skuldebrev
+är upptagna till handel på en reglerad marknad, ska det i
+förvaltningsberättelsen lämnas upplysning om de viktigaste
+inslagen i koncernens system för intern kontroll och
+riskhantering i samband med upprättandet av
+koncernredovisningen.
+
+Om moderbolaget har upprättat en bolagsstyrningsrapport som
+inte utgör en del av förvaltningsberättelsen och det i
+rapporten har tagits med sådana upplysningar om koncernen som
+avses i andra stycket, behöver upplysningarna inte lämnas också
+i koncernredovisningen. I sådana fall ska dock
+förvaltningsberättelsen för koncernen innehålla en uppgift om
+den plats i rapporten där upplysningarna lämnas. Lag (2009:34).
 
 Koncernredovisning i moderföretag som omfattas av IAS-
 förordningen
 
-32 § Ett företag som omfattas av artikel 4 i Europaparlamentets
-och rådets förordning (EG) nr 1606/2002 av den 19 juli 2002 om
-tillämpning av internationella redovisningsstandarder skall
-tillämpa enbart följande bestämmelser i detta kapitel:
+32 § Ett företag som omfattas av artikel 4 i
+Europaparlamentets och rådets förordning (EG) nr 1606/2002 av
+den 19 juli 2002 om tillämpning av internationella
+redovisningsstandarder ska tillämpa enbart följande
+bestämmelser i detta kapitel:
 
-1. 1-3 §§ om skyldighet att upprätta koncernredovisning,
+1. 13 §§ om skyldighet att upprätta koncernredovisning,
 
 2. 4 § första stycket 4 om förvaltningsberättelse,
 
 3. 7 § vad gäller hänvisningarna till 2 kap. 5 § om språk och
 form och 2 kap. 7 § om undertecknande,
 
-4. 12 § första stycket om värderingsprinciper, och
+4. 12 § första stycket om värderingsprinciper,
 
 5. 14 § vad gäller hänvisningarna till följande bestämmelser i
 5 kap.:
 
-- 4 § om uppgifter om taxeringsvärden,
+ 4 § om uppgifter om taxeringsvärden,
 
-- 12 § om lån till ledande befattningshavare,
+ 12 § om lån till ledande befattningshavare,
 
-- 15 § första och tredje styckena om en ekonomisk förenings
+ 15 § första och tredje styckena om en ekonomisk förenings
 eget kapital,
 
-- 18 § om medelantalet anställda under räkenskapsåret,
+ 18 § om medelantalet anställda under räkenskapsåret,
 
-- 18 b § om könsfördelningen bland ledande befattningshavare,
+ 18 b § om könsfördelningen bland ledande befattningshavare,
 
-- 20 § första stycket 1 samt andra och tredje styckena samt
+ 20 § första stycket 1 samt andra och tredje styckena samt
 21 § om löner, ersättningar och sociala kostnader,
 
-- 22 § om pensioner och liknande förmåner,
+ 22 § om pensioner och liknande förmåner,
 
-- 23 § om tidigare styrelse och verkställande direktör,
+ 23 § om tidigare styrelse och verkställande direktör,
 
-- 24 § om suppleanter och vice verkställande direktör, och
+ 24 § om suppleanter och vice verkställande direktör, och
 
-- 25 § om avtal om avgångsvederlag, och
+ 25 § om avtal om avgångsvederlag,
 
-6. 31 §, vad gäller hänvisningarna till 6 kap. 1 och 2 a-4 §§
-om förvaltningsberättelsens innehåll.
+6. 31 § första stycket, vad gäller hänvisningarna till 6 kap. 1
+och 2 a4 §§ om förvaltningsberättelsens innehåll,
+och
+
+7. 31 § andra och tredje styckena om koncernens system för
+intern kontroll och riskhantering.
 
 Ett företag som avses i första stycket behöver inte lämna
 upplysningar enligt 6 kap. 1 §, om upplysningarna lämnas på
-annan plats i redovisningen. I sådant fall skall
+annan plats i redovisningen. I sådant fall ska
 förvaltningsberättelsen för koncernen innehålla en hänvisning
-till den plats där uppgifterna har lämnats. Lag (2007:872).
+till den plats där uppgifterna har lämnats. Lag (2009:34).
 
 33 § Andra företag än de som avses i 32 § får upprätta
 koncernredovisning med tillämpning av de internationella
@@ -2088,6 +2323,7 @@ och resultaträkningen har fastställts. Uppgift ska också lämnas
 om fastställelsedagen. Beviset ska även innehålla
 föreningsstämmans beslut beträffande föreningens vinst eller
 förlust.
+
 
 3. Handelsbolag i vilka en eller flera juridiska personer är
 delägare
@@ -2296,7 +2532,7 @@ I fråga om stiftelser tillämpas 9 kap. 5 § stiftelselagen
 (1994:1220) i stället för första och andra styckena.
 Lag (1999:1112).
 
-Publicering av årsredovisningen
+Publicering av årsredovisningen m.m.
 
 14 § Om ett företag publicerar sin årsredovisning i dess
 helhet, skall publiceringen avse årsredovisningen i den form
@@ -2340,6 +2576,26 @@ uppgift om fördelningen mellan olika länder, eller
 
 2. uppgift enligt 5 kap. 18 b § inte har lämnats.
 Lag (2005:918).
+
+15 a § En bolagsstyrningsrapport som enligt 6 kap. 8 § har
+upprättats som en från årsredovisningen skild handling ska
+offentliggöras tillsammans med förvaltningsberättelsen.
+Bestämmelserna om offentliggörande av förvaltningsberättelsen
+gäller i tillämpliga delar beträffande offentliggörandet av
+bolagsstyrningsrapporten.
+
+I stället för att offentliggöra bolagsstyrningsrapporten enligt
+första stycket får bolaget välja att offentliggöra rapporten
+genom att göra den tillgänglig på bolagets webbplats.
+Förvaltningsberättelsen ska då innehålla en upplysning om detta
+och en uppgift om den webbplats där rapporten finns
+tillgänglig.
+
+Andra stycket gäller inte om sådana uppgifter som avses i 7
+kap. 31 § andra stycket med stöd av tredje stycket i samma
+paragraf har tagits in i moderbolagets bolagsstyrningsrapport i
+stället för i förvaltningsberättelsen för koncernen.
+Lag (2009:34).
 
 Koncernredovisning och koncernrevisionsberättelse
 
@@ -2644,7 +2900,7 @@ C. Avsättningar
 
 3. Övriga avsättningar
 
-D. D. Skulder
+D. Skulder
 
 1. Obligationslån
 
@@ -2938,6 +3194,7 @@ första gången för det räkenskapsår som inleds närmast efter den
 
 1. Denna lag träder i kraft den 1 juli 2004.
 
+
 2. Ärenden som har kommit in till Patent- och
 registreringsverket men i vilka verket inte har fattat beslut
 före ikraftträdandet skall överlämnas till Bolagsverket för
@@ -3017,3 +3274,9 @@ om revisors granskning för nämnda räkenskapsår. Lag (2007:541).
 Denna lag träder i kraft den 1 januari 2008 och tillämpas
 första gången för det räkenskapsår som inleds närmast efter
 utgången av december 2007.
+
+2009:34
+
+Denna lag träder i kraft den 1 mars 2009 och tillämpas första
+gången för det räkenskapsår som inleds närmast efter den 28
+februari 2009. 
