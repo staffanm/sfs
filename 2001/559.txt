@@ -74,6 +74,10 @@ Efterfordon             Ett fordon som är kopplat till en bil, en
                         terrängmotorfordon och som inte är ett
                         släpfordon.
 
+EG-mobilkran            En tung lastbil som inte är utrustad för
+                        godstransporter och som är försedd med en kran vars
+                        lyftmoment är minst 400 kilonewtonmeter.
+
 Fordon                  En anordning på hjul, band, medar eller liknande
                         som är inrättad huvudsakligen för färd på marken
                         och inte löper på skenor. Fordon delas in i
@@ -128,17 +132,18 @@ ett släpfordon eller
 en sidvagn
 
 Moped                   Ett motorfordon som är konstruerat för en
-                        hastighet av högst 45 kilometer i timmen och som
-                        har
+                        hastighet av högst 45 kilometer i timmen och
+                        som har
 
                         1. två hjul samt
 
                         a. om det drivs av en motor som bygger på inre
                         förbränning, denna har en slagvolym av högst 50
-                        kubik- centimeter, eller
+                        kubikcentimeter, eller
 
-                        b. om det drivs av en elektrisk motor, denna har
-                        en kontinuerlig märkeffekt av högst 4 kilowatt,
+                        b. om det drivs av en elektrisk motor, denna
+                        har en effekt av högst 4 kilowatt för
+                        kontinuerlig drift,
 
                         2. tre hjul samt
 
@@ -146,31 +151,32 @@ Moped                   Ett motorfordon som är konstruerat för en
                         tändsystem, denna har en slagvolym av högst 50
                         kubikcentimeter,
 
-                        b. om det drivs av någon annan typ av motor som
-                        bygger på inre förbränning, denna har en
+                        b. om det drivs av någon annan typ av motor
+                        som bygger på inre förbränning, denna har en
                         nettoeffekt på högst 4 kilowatt, eller
 
-                        c. om det drivs av en elektrisk motor, denna har
-                        en kontinuerlig märkeffekt av högst 4 kilowatt,
-                        eller
+                        c. om det drivs av en elektrisk motor, denna
+                        har en effekt av högst 4 kilowatt för
+                        kontinuerlig drift, eller
 
-                        3. fyra hjul och en massa utan last på högst 350
-                        kilogram samt
+                        3. fyra hjul och en massa utan last på högst
+                        350 kilogram samt
 
                         a. om det drivs av en förbränningsmotor med
-                        tändsystem, denna har en slagvolym av högst 50
-                        kubikcentimeter,
+                        tändsystem, denna har en slagvolym av högst
+                        50 kubikcentimeter,
 
-                        b. om det drivs av någon annan typ av motor som
-                        bygger på inre förbränning, denna har en
+                        b. om det drivs av någon annan typ av motor
+                        som bygger på inre förbränning, denna har en
                         nettoeffekt på högst 4 kilowatt, eller
 
-                        c. om det drivs av en elektrisk motor, denna har
-                        en kontinuerlig märkeffekt av högst 4 kilowatt.
+                        c. om det drivs av en elektrisk motor, denna
+                        har en effekt av högst 4 kilowatt för
+                        kontinuerlig drift.
 
                         Vid beräkningen av en fyrhjulig mopeds massa
-                        skall i fråga om ett eldrivet fordon batterierna
-                        inte räknas in.
+                        ska i fråga om ett eldrivet fordon
+                        batterierna inte räknas in.
 
                         Mopeder delas in i klass I och klass II.
 
@@ -400,12 +406,17 @@ Tung motorcykel         En motorcykel vars motor har en slagvolym som
 Tung terrängvagn        En terrängvagn med en tjänstevikt över 2 ton.
 
 Tungt släpfordon        Ett annat släpfordon än ett lätt släpfordon.
-Lag (2009:125).
+Lag (2009:226).
 
-3 § Om det inte med ledning av 2 § kan bestämmas till vilket
-slag av fordon som ett visst fordon eller en viss fordonstyp
-skall höra, beslutar den myndighet som regeringen bestämmer i
-frågan.
+2 a § Oavsett vad som anges i 2 § ska ett fordon som
+registreras med stöd av ett godkännande enligt en EG-rättsakt
+höra till det slag av fordon som motsvarar den
+fordonskategori som anges i godkännandet. Lag (2009:226).
+
+3 § Om det inte med ledning av 2 eller 2 a § kan bestämmas
+till vilket slag av fordon som ett visst fordon eller en viss
+fordonstyp ska höra, beslutar den myndighet som regeringen
+bestämmer i frågan. Lag (2009:226).
 
 4 § Regeringen eller den myndighet som regeringen bestämmer får
 föreskriva eller i enskilda fall medge undantag från denna lag.

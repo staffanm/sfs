@@ -52,10 +52,20 @@ bilinspektör: den som har anställning som bilinspektör hos en
 polismyndighet eller hos Rikspolisstyrelsen,
 
 tekniker: den som har uppdrag som tekniker hos en
-polismyndighet.
+polismyndighet,
+
+tillverkare: den som inför godkännandemyndigheten ansvarar
+för alla aspekter av typgodkännandeprocessen och för
+produktionsöverensstämmelsen, även om denne inte varit direkt
+engagerad i samtliga stadier av produktionen av det fordon,
+det system, den komponent eller den separata tekniska enhet
+som typgodkännandet avser, eller den som han eller hon har
+utsett som sin företrädare i frågor som omfattas av denna
+lag.
 
 I övrigt har de beteckningar som används i denna lag samma
 betydelse som i lagen (2001:559) om vägtrafikdefinitioner.
+Lag (2009:224).
 
 2 kap. Kontrollformer
 
@@ -69,41 +79,106 @@ kapitel.
 Typgodkännande
 
 2 § Ett typgodkännande meddelas för en typ av fordon, system,
-komponent eller separat teknisk enhet som uppfyller föreskrivna
-krav i fråga om beskaffenhet och utrustning. Typgodkännande kan
-ske i enlighet med EG-direktiv på området (EG-typgodkännande),
-i enlighet med överenskommelser upprättade inom Förenta
-nationernas ekonomiska kommission för Europa (ECE-
-typgodkännande) eller som nationellt typgodkännande.
+komponent eller separat teknisk enhet som uppfyller
+föreskrivna krav i fråga om beskaffenhet och utrustning.
+Typgodkännande kan ske i enlighet med EG-rättsakter på
+området (EG-typgodkännande), i enlighet med överenskommelser
+upprättade inom Förenta nationernas ekonomiska kommission för
+Europa (ECE-typgodkännande) eller som nationellt
+typgodkännande.
+
+Typgodkännande kan även meddelas för en fordonstyp som inte
+är färdigbyggd eller för en fordonstyp som byggs med en
+tillverkningsprocess som är uppdelad i separata etapper, om
+fordonstypen i det tillverkningsstadium där den befinner sig
+uppfyller föreskrivna krav i fråga om beskaffenhet och
+utrustning (etappvist typgodkännande).
 
 Bestämmelser om typgodkännande i fråga om avgasrening finns i
 lagen (2001:1080) om motorfordons avgasrening och
-motorbränslen.
+motorbränslen. Lag (2009:224).
 
 3 § Den myndighet som regeringen utser är godkännandemyndighet.
 
-4 § Den som har beviljats ett typgodkännande
+4 § En tillverkare
 
-1. ansvarar för att samtliga fordon, system, komponenter och
-separata tekniska enheter tillverkas i enlighet med
-typgodkännandet,
+1. ansvarar inför godkännandemyndigheten för alla aspekter av
+typgodkännandeprocessen,
 
-2. är skyldig att medverka till den kontroll som behövs med
-anledning av godkännandet, och
+2. ansvarar för att samtliga fordon, system, komponenter och
+separata tekniska enheter tillverkas i enlighet med den
+godkända typen,
 
-3. är skyldig att till godkännandemyndigheten utan ersättning
+3. är skyldig att medverka till den kontroll som behövs med
+anledning av godkännandet,
+
+4. är skyldig att till godkännandemyndigheten utan ersättning
 lämna de upplysningar samt tillhandahålla de fordon,
 fordonsdelar, handlingar och den utrustning som behövs för
-kontrollen.
+kontrollen, och
+
+5. är, om han eller hon är etablerad utanför Europeiska
+ekonomiska samarbetsområdet (EES), skyldig att utse en
+företrädare som är etablerad inom EES för att företräda honom
+eller henne inför godkännandemyndigheten.
+
+Vid etappvist typgodkännande gäller tillverkarens
+skyldigheter enligt första stycket 1 och 2 för de system,
+komponenter eller separata tekniska enheter som tillförts
+under den tillverkningsetapp som han eller hon ansvarar för,
+samt för komponenter eller system som redan har godkänts vid
+tidigare etapper och som han eller hon har ändrat.
 
 Godkännandemyndigheten har rätt till tillträde till en fabrik
 eller en annan anläggning och får där göra nödvändiga
-undersökningar.
+undersökningar. Lag (2009:224).
+
+4 a § Regeringen eller den myndighet som regeringen bestämmer
+får meddela föreskrifter om att en tillverkare av fordon ska
+förse en tillverkare av komponenter eller separata tekniska
+enheter med alla uppgifter som krävs för att denne ska kunna
+få
+
+1. ett EG-typgodkännande för sina komponenter eller separata
+tekniska enheter, eller
+
+2. tillstånd att sälja fordonsdelar eller fordonsutrustning
+som annars är förbjudna att sälja.
+
+Information som inte är allmänt tillgänglig behöver dock inte
+lämnas ut om inte mottagaren av informationen förbinder sig
+att hålla denna konfidentiell. Lag (2009:224).
 
 5 § Om godkännandemyndigheten finner att fordon, system,
 komponenter eller separata tekniska enheter inte längre stämmer
 överens med den typ som den har godkänt, får myndigheten
 återkalla godkännandet.
+
+5 a § Utöver vad som anges i 5 § upphör ett typgodkännande av
+fordon att gälla när
+
+1. tillverkningen av den godkända fordonstypen, varianten
+eller versionen slutgiltigt och frivilligt har upphört, eller
+
+2. giltighetstiden för godkännandet har gått ut till följd av
+en särskild begränsning. Lag (2009:224).
+
+Enskilt godkännande
+
+5 b § Ett enskilt godkännande meddelas för ett fordon som
+uppfyller föreskrivna krav i fråga om beskaffenhet och
+utrustning.
+
+I samband med det enskilda godkännandet ska de uppgifter om
+fordonet som ska föras in i vägtrafikregistret fastställas.
+
+Den myndighet som regeringen utser är godkännandemyndighet.
+Lag (2009:224).
+
+5 c § Det organ som inför ett enskilt godkännande
+kontrollerar att ett fordon uppfyller föreskrivna krav ska
+även fastställa fordonets tekniska identitet.
+Lag (2009:224).
 
 Registreringsbesiktning
 
@@ -226,24 +301,7 @@ En polismans rätt att stoppa fordon regleras i polislagen
 
 Tillträde till fordon och lokaler m.m.
 
-3 § /Upphör att gälla U:2009-01-01/
-En polisman, en besiktningstekniker, en bilinspektör eller
-en tekniker har vid kontroll enligt denna lag rätt till
-tillträde till fordon och slutna utrymmen i ett fordon samt, i
-fall som avses i 2 kap. 10, 13 och 14 §§, till företags lokaler
-eller liknande eller till ett område i anslutning till dessa.
-Även den som Vägverket särskilt har förordnat har, om det
-behövs för prövningen av ett ärende som verket handlägger, rätt
-till tillträde till fordon, slutna utrymmen i fordon eller till
-lokaler eller liknande eller till ett område i anslutning till
-dessa där ett fordon står uppställt.
-
-En polisman eller en bilinspektör har rätt till tillträde till
-fordon och till slutna utrymmen i ett fordon eller dess last
-för att kontrollera att fordonet är lastat på föreskrivet sätt.
-
-3 § /Träder i kraft I:2009-01-01/
-En polisman, en besiktningstekniker, en bilinspektör eller
+3 § En polisman, en besiktningstekniker, en bilinspektör eller
 en tekniker har vid kontroll enligt denna lag rätt till
 tillträde till fordon och slutna utrymmen i ett fordon samt, i
 fall som avses i 2 kap. 10, 13 och 14 §§, till företags lokaler
@@ -261,15 +319,7 @@ Lag (2008:1377).
 
 Provkörning
 
-4 § /Upphör att gälla U:2009-01-01/
-Den som utför sådan kontroll eller prövning som avses i 3 §
-första stycket får i samband därmed provköra ett fordon.
-Detsamma gäller den som Vägverket särskilt har förordnat att
-utföra haveriundersökningar eller utöva tillsyn enligt
-produktsäkerhetslagen (2004:451). Lag (2004:467).
-
-4 § /Träder i kraft I:2009-01-01/
-Den som utför sådan kontroll eller prövning som avses i 3 §
+4 § Den som utför sådan kontroll eller prövning som avses i 3 §
 första stycket får i samband därmed provköra ett fordon.
 Detsamma gäller den som Vägverket särskilt har förordnat att
 utföra haveriundersökningar och den som Transportstyrelsen
@@ -284,26 +334,7 @@ föreskrifter som har meddelats med stöd av dessa lagar.
 
 Förelägganden, körförbud m.m.
 
-6 § /Upphör att gälla U:2009-01-01/
-Vägverket, en polisman, ett besiktningsorgan eller en
-bilinspektör får i enlighet med vad som föreskrivs med stöd av
-5 kap. 8 § meddela de förelägganden, körförbud och andra beslut
-som behövs med hänsyn till ett fordons säkerhet eller
-lämplighet i trafik. För ett sådant fall får det föreskrivas
-att fordonet kan godkännas på grundval av ett intyg som har
-utfärdats efter reparation och provning vid en verkstad som är
-ackrediterad enligt lagen (1992:1119) om teknisk kontroll.
-
-Körförbud får meddelas vid registreringsbesiktning,
-kontrollbesiktning och flygande inspektion om det kontrollerade
-fordonet är så bristfälligt att det inte kan användas utan
-uppenbar fara för trafiksäkerheten. Körförbud kan inträda även
-med anledning av att ett fordon inte har genomgått en kontroll
-som skall ske enligt meddelade föreskrifter eller särskilt
-föreläggande.
-
-6 § /Träder i kraft I:2009-01-01/
-Transportstyrelsen, en polisman, ett besiktningsorgan
+6 § Transportstyrelsen, en polisman, ett besiktningsorgan
 eller en bilinspektör får i enlighet med vad som föreskrivs med
 stöd av 5 kap. 8 § meddela de förelägganden, körförbud och
 andra beslut som behövs med hänsyn till ett fordons säkerhet
@@ -336,25 +367,25 @@ Besiktningsorgan                Kontrollområde
 
 Aktiebolaget Svensk             Motorfordon, lätta
 Bilprovning                     terrängvagnar, terrängskotrar,
-släpfordon och terrängsläp till
-dessa fordon samt traktorer som
-utgörs av ombyggda bilar
+                                släpfordon och terrängsläp till
+                                dessa fordon samt traktorer som
+                                utgörs av ombyggda bilar
 
 SMP Svensk Maskinprovning       Traktorer, motorredskap,
 Aktiebolag                      tunga terrängvagnar och
-släpfordon till dessa fordon,
-med undantag av
+                                släpfordon till dessa fordon,
+                                med undantag av
 
-a) traktorer som utgörs av
-ombyggda bilar,
+                                a) traktorer som utgörs av
+                                ombyggda bilar,
 
-b) kontrollbesiktning av sådana
-motorredskap klass I som är
-inrättade som mobilkranar
+                                b) kontrollbesiktning av sådana
+                                motorredskap klass I som är
+                                inrättade som mobilkranar
 
 Inspecta Sweden AB              Kontrollbesiktning av sådana
-motorredskap klass I som är
-inrättade som mobilkranar
+                                motorredskap klass I som är
+                                inrättade som mobilkranar
 Lag (2007:91).
 
 Besiktningsorganens verksamhet
@@ -371,33 +402,13 @@ rätt att meddela föreskrifter om fordons beskaffenhet och
 utrustning om iakttagelser av betydelse för respektive
 myndighets verksamhet.
 
-Tillsyn
+6 § Har upphävts genom lag (2009:224).
 
-6 § Styrelsen för ackreditering och teknisk kontroll utövar
-tillsyn över sådan besiktningsverksamhet som avses i denna lag.
+7 § Har upphävts genom lag (2009:224).
 
-Tillsynen skall omfatta den tekniska kompetensen och
-utrustningsnivån i verksamheten samt kvalitetssäkringen av
-denna.
+8 § Ny beteckning 5 kap. 3 c § genom lag (2009:224).
 
-7 § Besiktningsorganen skall på begäran av Styrelsen för
-ackreditering och teknisk kontroll lämna tillträde till lokaler
-samt ge upplysningar och lämna ut handlingar i den utsträckning
-som behövs för tillsynen.
-
-Avgifter
-
-8 § Besiktningsorganen får ta ut avgifter för att täcka
-kostnaderna för besiktningsverksamheten enligt vad regeringen
-eller den myndighet som regeringen bestämmer närmare
-föreskriver. Regeringen får föreskriva att besiktningsorganen
-skall bidra till kostnaden för fastställandet av avgifterna.
-
-9 § Besiktningsorganen skall betala avgift till Styrelsen för
-ackreditering och teknisk kontroll för att täcka kostnaderna
-för den tillsyn styrelsen utövar enligt denna lag. Regeringen
-eller den myndighet som regeringen bestämmer meddelar närmare
-föreskrifter om avgiften.
+9 § Ny beteckning 5 kap. 3 d § genom lag (2009:224).
 
 5 kap. Övriga bestämmelser
 
@@ -420,6 +431,57 @@ inte är i föreskrivet skick, om den fortsatta färden skulle
 medföra en påtaglig fara för trafiksäkerheten eller annars
 utgöra en väsentlig olägenhet.
 
+Tillsyn
+
+3 a § Styrelsen för ackreditering och teknisk kontroll utövar
+tillsyn över sådan besiktningsverksamhet som avses i denna
+lag. Tillsynen ska omfatta den tekniska kompetensen och
+utrustningsnivån i verksamheten samt kvalitetssäkringen av
+denna.
+
+Besiktningsorganen ska på begäran av Styrelsen för
+ackreditering och teknisk kontroll lämna tillträde till
+lokaler samt ge upplysningar och lämna ut handlingar i den
+utsträckning som behövs för tillsynen. Lag (2009:224).
+
+3 b § Tillsynen över efterlevnaden av denna lag, utöver vad
+som anges i 3 a §, och av de föreskrifter som har meddelats
+med stöd av lagen utövas av den myndighet som regeringen
+bestämmer.
+
+Den som saluför fordon, system, komponenter, separata
+tekniska enheter, fordonsdelar eller annan utrustning till
+fordon ska på begäran av tillsynsmyndigheten
+
+1. lämna tillträde till fordon, slutna utrymmen i fordon,
+lokaler eller liknande, och till områden i anslutning till
+dessa där fordon står uppställda, samt
+
+2. lämna de upplysningar och tillhandahålla de handlingar,
+varuprover och liknande som behövs för tillsynen.
+
+Tillsynsmyndigheten får meddela de förelägganden som behövs
+för att denna lag och föreskrifter som har meddelats med stöd
+av denna lag ska efterlevas.
+
+Ett föreläggande enligt tredje stycket får förenas med vite.
+Lag (2009:224).
+
+Avgifter
+
+3 c § Besiktningsorganen får ta ut avgifter för att täcka
+kostnaderna för besiktningsverksamheten enligt vad regeringen
+eller den myndighet som regeringen bestämmer närmare
+föreskriver. Regeringen får föreskriva att besiktningsorganen
+skall bidra till kostnaden för fastställandet av avgifterna.
+Lag (2009:224).
+
+3 d § Besiktningsorganen skall betala avgift till Styrelsen för
+ackreditering och teknisk kontroll för att täcka kostnaderna
+för den tillsyn styrelsen utövar enligt denna lag. Regeringen
+eller den myndighet som regeringen bestämmer meddelar närmare
+föreskrifter om avgiften. Lag (2009:224).
+
 Överklagande
 
 4 § Ett beslut i ett enskilt fall enligt denna lag eller enligt
@@ -429,63 +491,37 @@ eller 6 §.
 
 Prövningstillstånd krävs vid överklagande till kammarrätten.
 
-5 § /Upphör att gälla U:2009-01-01/
-Beslut om körförbud som har meddelats av en polisman, en
-bilinspektör eller ett besiktningsorgan får överklagas hos
-Vägverket. Detsamma gäller beslut i ett ärende om
-registreringsbesiktning, mopedbesiktning eller
-lämplighetsbesiktning och beslut om återkallelse av en godkänd
-lämplighetsbesiktning.
-
-Överklagande får ske utan begränsning till viss tid.
-Överklagandet skall ges in till Vägverket.
-
-5 § /Träder i kraft I:2009-01-01/
-Beslut om körförbud som har meddelats av en polisman, en
+5 § Beslut om körförbud som har meddelats av en polisman, en
 bilinspektör eller ett besiktningsorgan får överklagas hos
 Transportstyrelsen. Detsamma gäller beslut i ett ärende om
 registreringsbesiktning, mopedbesiktning eller
-lämplighetsbesiktning och beslut om återkallelse av en godkänd
-lämplighetsbesiktning.
+lämplighetsbesiktning, beslut om återkallelse av en godkänd
+lämplighetsbesiktning och beslut om fastställande av ett
+fordons tekniska identitet enligt 2 kap. 5 c §.
 
 Överklagande får ske utan begränsning till viss tid.
-Överklagandet skall ges in till Transportstyrelsen.
-Lag (2008:1377).
+Överklagandet ska ges in till Transportstyrelsen.
+Lag (2009:224).
 
-6 § /Upphör att gälla U:2009-01-01/
-Beslut i följande fall får inte överklagas.
-
-1. Körförbud eller föreläggande som har meddelats av Vägverket.
-
-2. Vägverkets beslut i ett ärende som har överklagats till
-verket.
-
-3. Annat beslut av en polisman, en bilinspektör eller ett
-besiktningsorgan än som avses i 5 §.
-
-4. Fråga om godkännande av ett fordon på grundval av ett intyg
-enligt 3 kap. 6 §.
-
-5. Beslut om undantag från föreskrifter som har meddelats med
-stöd av lagen.
-
-6 § /Träder i kraft I:2009-01-01/
-Beslut i följande fall får inte överklagas.
+6 § Beslut i följande fall får inte överklagas.
 
 1. Körförbud eller föreläggande som har meddelats av
 Transportstyrelsen.
 
-2. Transportstyrelsens beslut i ett ärende som har överklagats
-till styrelsen.
+2. Transportstyrelsens beslut i ett ärende som har
+överklagats till styrelsen.
 
 3. Annat beslut av en polisman, en bilinspektör eller ett
 besiktningsorgan än som avses i 5 §.
 
-4. Fråga om godkännande av ett fordon på grundval av ett intyg
-enligt 3 kap. 6 §.
+4. Fråga om godkännande av ett fordon på grundval av ett
+intyg enligt 3 kap. 6 §.
 
 5. Beslut om undantag från föreskrifter som har meddelats med
-stöd av lagen. Lag (2008:1377).
+stöd av lagen.
+
+Första stycket 1 gäller inte förelägganden som har meddelats
+enligt 3 b §. Lag (2009:224).
 
 Verkställighet
 
@@ -495,10 +531,10 @@ något annat anges i beslutet.
 
 Bemyndigande
 
-8 § Regeringen eller den myndighet som regeringen bestämmer får
-meddela föreskrifter om fordons beskaffenhet och utrustning
-samt i fråga om de kontrollformer som avses i denna lag meddela
-ytterligare föreskrifter om
+8 § Regeringen eller den myndighet som regeringen bestämmer
+får meddela föreskrifter om fordons beskaffenhet och
+utrustning samt i fråga om de kontrollformer som avses i
+denna lag meddela ytterligare föreskrifter om
 
 1. kontrollens omfattning och besiktningsorganens verksamhet,
 
@@ -510,11 +546,24 @@ ytterligare föreskrifter om
 
 5. avgifter.
 
-Regeringen får också föreskriva att fordon, system, komponenter
-och separata tekniska enheter som omfattas av typgodkännande
-och som allvarligt brister i miljö- eller
-trafiksäkerhetshänseende inte får registreras, säljas eller
-användas.
+Regeringen eller den myndighet som regeringen bestämmer får
+också meddela föreskrifter om
+
+1. registrering, ibruktagande, försäljning, saluföring och
+användning av fordon, system, komponenter, separata tekniska
+enheter, fordonsdelar och annan utrustning till fordon,
+
+2. att ett typgodkännande av fordon ska upphöra att gälla när
+nya krav som är tillämpliga på den godkända fordonstypen,
+varianten eller versionen blir obligatoriska,
+
+3. tillverkares tillhandahållande av information och
+dokumentation om fordon, system, komponenter och separata
+tekniska enheter, samt om
+
+4. tillsynen över efterlevnaden av denna lag och av
+föreskrifter som har meddelats med stöd av lagen.
+Lag (2009:224).
 
 Övergångsbestämmelser
 
