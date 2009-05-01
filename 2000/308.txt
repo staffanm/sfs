@@ -210,8 +210,8 @@ Registeruppgifter om fastigheter och samfälligheter
 samfälligheter skall göras enligt följande.
 _______________________________________________________________________
 Fastigheter och samfälligheter          Uppgift redovisas beträffande
-(anges med x)
-fastighet       samfällighet
+                                        (anges med x)
+                                        fastighet       samfällighet
 _______________________________________________________________________
 
 Registerbeteckning
@@ -225,8 +225,14 @@ inskriven i fastighet                   x
 uppgift om att ett tredimensionellt
 utrymme hör till enheten                x               x
 
-uppgift om att ett tredimensionellt
-utrymme urholkar enheten                x               x
+
+uppgift om att en
+ägarlägenhetsfastighet eller ett
+annat tredimensionellt utrymme
+urholkar enheten                        x               x
+
+uppgift om att enheten är en
+ägarlägenhetsfastighet                  x
 
 Administrativ tillhörighet m.m.
 
@@ -269,9 +275,11 @@ enhets land-, vatten- och totalareal    x               x
 Anm. Om det är lämpligt får även Enhetsområdes land-, vatten-,
 och totalareal redovisas.
 
-För tredimensionella utrymmen redovisas ingen arealuppgift. I
-stället redovisas uppgift om typ, storlek och höjdläge för
-varje utrymme.
+För ägarlägenhetsfastigheter och andra tredimensionella
+utrymmen redovisas ingen arealuppgift. I stället redovisas
+uppgift om boarea och våningsplan för varje
+ägarlägenhetsfastighet samt uppgift om typ, storlek och
+höjdläge för varje tredimensionellt utrymme av annat slag.
 
 nummer på enhetsområde                  x               x
 
@@ -299,7 +307,8 @@ anmärkning om att redovisad
 arealuppgift är osäker                  x               x
 
 anmärkning om att enheten urholkas
-av ett tredimensionellt utrymme
+av en ägarlägenhetsfastighet eller
+ett annat tredimensionellt utrymme
 eller att enheten urholkar annan
 enhet                                   x               x
 
@@ -369,63 +378,62 @@ enligt beskrivning i akten              x               x
 
 Anm. I fråga om redovisning under rubriken Åtgärder gäller
 följande
-
 1. Vid avstyckning, expropriation, legalisering av arealfång
-eller inlösen, skall åtgärden inte redovisas på
+eller inlösen, ska åtgärden inte redovisas på
 ursprungsfastigheten eller samfälligheten.
 
-2. Avregistrering av enhet skall inte redovisas
+2. Avregistrering av enhet ska inte redovisas.
 
-3. Vid avregistrering av samfällighet skall åtgärden inte
+3. Vid avregistrering av samfällighet ska åtgärden inte
 redovisas på fastighet som äger del i samfälligheten.
 
 4. Om det vid avstyckning beslutas om nybildning av rättighet
-eller samfällighet, skall åtgärden inte redovisas på
+eller samfällighet, ska åtgärden inte redovisas på
 stamfastigheten.
 
 5. En åtgärd som innebär fördelning av en andel i en
-samfällighet skall inte redovisas på stamfastigheten eller på
+samfällighet ska inte redovisas på stamfastigheten eller på
 klyvningsfastigheten, om den inte berör fastigheten på annat
 sätt.
 
-6. Vid avstyckning eller klyvning skall en åtgärd som innebär
+6. Vid avstyckning eller klyvning ska en åtgärd som innebär
 fördelning av rättighet inte redovisas på den fastighet till
 vars förmån rättigheten gäller, om den inte berör fastigheten
 på annat sätt.
 
 7. Ett förordnande enligt 5 kap. 33 a § eller 7 kap. 13 §
-fastighetsbildningslagen (1970:988) skall inte redovisas på den
+fastighetsbildningslagen (1970:988) ska inte redovisas på den
 fastighet till vars förmån rättigheten gäller.
 
 8. En åtgärd, som enbart har verkan på rättighet eller på
 lantmäterimyndighetens intyg vid avstyckning eller klyvning,
-skall inte redovisas om åtgärden påverkar redovisningen under
+ska inte redovisas om åtgärden påverkar redovisningen under
 rubriken Rättigheter.
 
 9. Om en enhet för en gemensamhetsanläggning avregistreras,
-skall detta inte redovisas på den belastade fastigheten enbart
+ska detta inte redovisas på den belastade fastigheten enbart
 därför att avregistreringen påverkar redovisningen under
 rubriken Rättigheter.
 
-10. En åtgärd som på grund av bestämmelserna i 2 kap. 5 § eller
-11 kap. 5 § fastighetsbildningslagen påverkar
-rättighetsredovisningen skall inte redovisas på berörda
+10. En åtgärd som på grund av bestämmelserna i 2 kap. 5 §
+eller 11 kap. 5 § fastighetsbildningslagen påverkar
+rättighetsredovisningen ska inte redovisas på berörda
 fastigheter, om den inte berör fastigheten på annat sätt.
 
-11. Om ett kraftledningsservitut upphävs, skall åtgärden inte
+11. Om ett kraftledningsservitut upphävs, ska åtgärden inte
 redovisas på den härskande fastigheten.
 
-12. Om en ledningsrätt avser starkströmledning, skall åtgärd
+12. Om en ledningsrätt avser starkströmsledning, ska åtgärd
 som avser ledningsrätten inte redovisas på den fastighet till
 vilken ledningsrätten hör.
 
 13. Om en expropriationsåtgärd eller beslut om inlösen enligt
 plan- och bygglagen (1987:10) avser ett kraftledningsservitut,
-skall åtgärden inte redovisas på den härskande fastigheten.
+ska åtgärden inte redovisas på den härskande fastigheten.
 
 14. Om en fastighet till följd av underrättelse enligt
 inskrivningsförordningen (2000:309) får ändrad redovisning
-under rubriken Rättigheter, skall detta inte redovisas på
+under rubriken Rättigheter, ska detta inte redovisas på
 fastigheten.
 
 Avskild mark
@@ -442,7 +450,7 @@ Rättigheter
 
 a) som gäller till förmån för
 enheten eller tomträtt däri och
-som skall redovisas enligt 22 §
+som ska redovisas enligt 22 §
 
 uppgift om rättighetstyp, ändamål,
 tjänande enhet och
@@ -456,7 +464,7 @@ uppgift om ändring eller bestämning
 som berör rättigheten                   x               x
 
 b) som belastar en enhet eller
-tomträtt däri och som skall
+tomträtt däri och som ska
 redovisas enligt 22 §
 
 uppgift om rättighetstyp, ändamål,
@@ -467,21 +475,21 @@ uppgift om ändring eller bestämning
 som berör rättigheten                   x               x
 
 Anm. Har systematisk utredning om rättigheter som avses under
-a) - b) inte verkställts, skall det anmärkas.
+a)b) inte verkställts, ska det anmärkas.
 
 Servitut enligt anläggningslagen (1973:1149) som berör en
-gemensamhetsanläggning skall inte redovisas, om både
+gemensamhetsanläggning ska inte redovisas, om både
 förmånsfastighet och belastad fastighet ingår i samma
-gemensamhetsanläggning. Servitut som skall utövas enbart på
+gemensamhetsanläggning. Servitut som ska utövas enbart på
 eller av registrerade samfälligheter får redovisas på
-samfällligheten i stället för på fastigheter som har del i
+samfälligheten i stället för på fastigheter som har del i
 denna. Detta gäller i tillämpliga delar också vid redovisning
 av ledningsrätt.
 
 Planer, bestämmelser och övriga
 uppgifter om planer m.m.
 
-uppgifter som enligt 27 § skall
+uppgifter som enligt 27 § ska
 redovisas och som berör enheten         x               x
 
 Övriga förhållanden
@@ -496,20 +504,20 @@ ______________________________________________________________________
 
 Om en åtgärd som avsett en fastighet med mantal eller annat
 däremot svarande skattetal innebär att fastighetens andel i
-samfälligheter och i andra förmåner har överförts till en annan
-fastighet, skall vid införingen med anledning av åtgärden
+samfälligheter och i andra förmåner har överförts till en
+annan fastighet, ska vid införingen med anledning av åtgärden
 uppgiften om mantal eller skattetalet överföras till den andra
 fastigheten.
 
-När en fastighet avregistreras på grund av sammanläggning eller
-delning, skall uppgift om registerbeteckning för den eller de
-fastigheter vari fastigheten uppgått redovisas på den
+När en fastighet avregistreras på grund av sammanläggning
+eller delning, ska uppgift om registerbeteckning för den eller
+de fastigheter vari fastigheten uppgått redovisas på den
 avregistrerade fastigheten.
 
 När en fastighet eller en samfällighet avregistreras i andra
-fall, skall uppgift om åtgärdens art, datum för avregistrering
+fall, ska uppgift om åtgärdens art, datum för avregistrering
 och aktbeteckning redovisas på den avregistrerade fastigheten
-eller den avregistrerade samfälligheten. Förordning (2003:776).
+eller den avregistrerade samfälligheten. Förordning (2009:207).
 
 22 § Rättigheter skall redovisas beträffande fastigheter och
 samfälligheter, om de avser
@@ -1310,24 +1318,7 @@ adressen,
 
 Tilläggsinformation till byggnadsdelen
 
-70 § /Upphör att gälla U:2009-01-01/
-Som tilläggsinformation till uppgifter i byggnadsdelen får
-
-1. en kommun redovisa uppgifter som underlättar identifiering
-av en byggnad, uppgifter om arrendeavtal och tomträttsavtal
-samt uppgifter om planerade, påbörjade eller avslutade
-byggåtgärder som är nödvändiga för fullgörande av
-underrättelseskyldighet till andra myndigheter,
-
-2. Statens räddningsverk redovisa uppgifter om att skyddsrum
-finns i en byggnad, samt
-
-3. Riksantikvarieämbetet redovisa uppgifter som underlättar
-identifiering av en byggnad och uppgifter som avser
-kulturhistoriska inventeringar. Förordning (2006:641).
-
-70 § /Träder i kraft I:2009-01-01/
-Som tilläggsinformation till uppgifter i byggnadsdelen får
+70 § Som tilläggsinformation till uppgifter i byggnadsdelen får
 
 1. en kommun redovisa uppgifter som underlättar identifiering
 av en byggnad, uppgifter om arrendeavtal och tomträttsavtal
