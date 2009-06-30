@@ -1,6 +1,5 @@
 
 
-
 Allmänna bestämmelser
 
 Syftet med lagen
@@ -20,7 +19,7 @@ Definitioner
 3 § I denna lag används följande beteckningar med nedan angiven
 betydelse.
 
-Beteckning                   Betydelse
+Beteckning                      Betydelse
 
 Behandling (av person)          Varje åtgärd eller serie av
 uppgifter)                      åtgärder som vidtas i fråga om
@@ -36,7 +35,7 @@ uppgifter)                      åtgärder som vidtas i fråga om
                                 samkörning, blockering,
                                 utplåning eller förstöring.
 
-Blockering (av person-               En åtgärd som vidtas för att
+Blockering (av person-          En åtgärd som vidtas för att
 uppgifter)                      personuppgifterna skall vara
                                 förknippade med information om att
                                 de är spärrade och om anledningen
@@ -46,7 +45,7 @@ uppgifter)                      personuppgifterna skall vara
                                 med stöd av 2 kap. tryckfrihets-
                                 förordningen.
 
-Mottagare                    Den till vilken personuppgifter
+Mottagare                       Den till vilken personuppgifter
                                 lämnas ut. När personuppgifter lämnas
                                 ut för att en myndighet skall kunna
                                 utföra sådan tillsyn, kontroll eller
@@ -54,11 +53,11 @@ Mottagare                    Den till vilken personuppgifter
                                 skyldig att sköta, anses dock inte
                                 myndigheten som mottagare.
 
-Personuppgifter                      All slags information som direkt eller
+Personuppgifter                 All slags information som direkt eller
                                 indirekt kan hänföras till en fysisk
                                 person som är i livet.
 
-Personuppgiftsansvarig               Den som ensam eller tillsammans
+Personuppgiftsansvarig          Den som ensam eller tillsammans
                                 med andra bestämmer ändamålen med och
                                 medlen för behandlingen
                                 av personuppgifter
@@ -66,29 +65,29 @@ Personuppgiftsansvarig               Den som ensam eller tillsammans
 Personuppgiftsbiträde           Den som behandlar personuppgifter för den
                                 personuppgiftsansvariges räkning.
 
-Personuppgiftsombud          Den fysiska person som, efter förordnande
+Personuppgiftsombud             Den fysiska person som, efter förordnande
                                 av den personuppgiftsansvarige,
                                 självständigt skall se till att
                                 personuppgifter behandlas på ett korrekt
                                 och lagligt sätt.
 
-Den registrerade             Den som en personuppgift avser.
+Den registrerade                Den som en personuppgift avser.
 
-Samtycke                     Varje slag av frivillig, särskild och
+Samtycke                        Varje slag av frivillig, särskild och
                                 otvetydig viljeyttring genom vilken den
                                 registrerade, efter att ha fått
                                 information, godtar behandling av
                                 personuppgifter som rör honom
                                 eller henne.
 
-Tillsynsmyndigheten          Den myndighet som regeringen utser
+Tillsynsmyndigheten             Den myndighet som regeringen utser
                                 för att utöva tillsyn.
 
-Tredje land                  En stat som inte ingår i Europeiska
+Tredje land                     En stat som inte ingår i Europeiska
                                 unionen eller är ansluten till Europeiska
                                 ekonomiska samarbetsområdet.
 
-Tredje man                   Någon annan än den registrerade, den
+Tredje man                      Någon annan än den registrerade, den
                                 personuppgiftsansvarige,
                                 personuppgiftsombudet, personuppgifts-
                                 biträdet och sådana personer som
@@ -520,13 +519,24 @@ behandlats under längre tid än ett år.
 Undantag från informationsskyldigheten vid sekretess och
 tystnadsplikt
 
-27 § I den utsträckning det är särskilt föreskrivet i lag eller
+27 § /Upphör att gälla U:2009-06-30/
+I den utsträckning det är särskilt föreskrivet i lag eller
 annan författning eller i beslut som har meddelats med stöd av
 författning att uppgifter inte får lämnas ut till den
 registrerade gäller inte bestämmelserna i 23-26 §§. En
 personuppgiftsansvarig som inte är en myndighet får därvid i
 motsvarande fall som avses i sekretesslagen (1980:100) vägra
 att lämna ut uppgifter till den registrerade.
+
+27 § /Träder i kraft I:2009-06-30/
+I den utsträckning det är särskilt föreskrivet i lag
+eller annan författning eller annars framgår av beslut som
+har meddelats med stöd av författning att uppgifter inte får
+lämnas ut till den registrerade gäller inte bestämmelserna i
+2326 §§. En personuppgiftsansvarig som inte är en myndighet
+får därvid i motsvarande fall som avses i offentlighets- och
+sekretesslagen (2009:400) vägra att lämna ut uppgifter till
+den registrerade. Lag (2009:468).
 
 Rättelse
 
@@ -743,7 +753,8 @@ anmälningsskyldigheten enligt 37 §. Lag (1998:1436).
 Upplysningar till allmänheten om behandlingar som inte
 anmälts
 
-42 § Den personuppgiftsansvarige skall till var och en som
+42 § /Upphör att gälla U:2009-06-30/
+Den personuppgiftsansvarige skall till var och en som
 begär det skyndsamt och på lämpligt sätt lämna upplysningar om
 sådana automatiserade eller andra behandlingar av
 personuppgifter som inte har anmälts till tillsynsmyndigheten.
@@ -754,6 +765,19 @@ eller uppgifter om vilka säkerhetsåtgärder som har vidtagits.
 En personuppgiftsansvarig som inte är myndighet får därvid i
 motsvarande fall som avses i sekretesslagen (1980:100) vägra
 att lämna ut uppgifter.
+
+42 § /Träder i kraft I:2009-06-30/
+Den personuppgiftsansvarige ska till var och en som
+begär det skyndsamt och på lämpligt sätt lämna upplysningar
+om sådana automatiserade eller andra behandlingar av
+personuppgifter som inte har anmälts till tillsynsmyndigheten.
+Upplysningarna ska omfatta det som en anmälan enligt 36 §
+första stycket skulle ha omfattat. Den personuppgiftsansvarige
+är dock inte skyldig att lämna ut sekretessbelagda uppgifter
+eller uppgifter om vilka säkerhetsåtgärder som har vidtagits.
+En personuppgiftsansvarig som inte är en myndighet får därvid i
+motsvarande fall som avses i offentlighets- och sekretesslagen
+(2009:400) vägra att lämna ut uppgifter. Lag (2009:468).
 
 Tillsynsmyndighetens befogenheter
 
