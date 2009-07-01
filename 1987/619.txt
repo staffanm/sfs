@@ -303,6 +303,17 @@ inte tas till arbetstagarrepresentanter som har utsetts enligt
 lagen (1987:1245) om styrelserepresentation för de
 privatanställda. Lag (1999:223).
 
+3 a § Den som har varit revisor i en sparbank, vars
+överlåtbara värdepapper är upptagna till handel på en
+reglerad marknad, får inte vara styrelseledamot,
+verkställande direktör eller annan ledande befattningshavare
+i banken, om inte minst två år har förflutit sedan han eller
+hon lämnade revisionsuppdraget.
+
+Första stycket gäller även den som har varit huvudansvarig
+för revisionen enligt 17 § revisorslagen (2001:883).
+Lag (2009:570).
+
 4 § Styrelsen skall utse en eller, om det behövs, flera verkställande
 direktörer att under styrelsens inseende leda verksamheten i sparbanken.
 Styrelsen får även utse ställföreträdare för verkställande direktör.
@@ -316,6 +327,40 @@ verkställande direktör, skall han ingå som ersättare i styrelsen.
 Vad som sägs i denna lag om verkställande direktör skall i tillämpliga
 delar gälla också för ställföreträdare för verkställande direktör. Lag
 (1992:1614).
+
+4 a § I en sparbank, vars överlåtbara värdepapper är upptagna
+till handel på en reglerad marknad, ska styrelsen ha ett
+revisionsutskott. Utskottets ledamöter får inte vara
+anställda av banken. Minst en ledamot ska vara oberoende och
+ha redovisnings- eller revisionskompetens.
+
+Banken får besluta att styrelsen inte ska ha något
+revisionsutskott, förutsatt att styrelsen
+
+1. fullgör de uppgifter som anges i 4 b §, och
+
+2. uppfyller det krav som anges i första stycket tredje
+meningen. Lag (2009:570).
+
+4 b § Revisionsutskottet ska, utan att det påverkar
+styrelsens ansvar och uppgifter i övrigt,
+
+1. övervaka bankens finansiella rapportering,
+
+2. med avseende på den finansiella rapporteringen övervaka
+effektiviteten i bankens interna kontroll, internrevision och
+riskhantering,
+
+3. hålla sig informerat om revisionen av årsredovisningen och
+koncernredovisningen,
+
+4. granska och övervaka revisorns opartiskhet och
+självständighet och därvid särskilt uppmärksamma om revisorn
+tillhandahåller banken andra tjänster än revisionstjänster,
+och
+
+5. biträda vid upprättandet av förslag till sparbanksstämmans
+beslut om revisorsval. Lag (2009:570).
 
 5 § Styrelseledamot skall, när han tillträder sitt uppdrag, för
 införing i aktiebok anmäla sitt innehav av aktier i aktiebolag
@@ -402,6 +447,7 @@ ordförande eller vice ordförande.
 
 11 § Ordföranden skall se till att sammanträden hålls när det behövs. På
 begäran av en styrelseledamot skall styrelsen sammankallas.
+
 
 Vid styrelsens sammanträden skall det föras protokoll, som undertecknas
 eller justeras av ordföranden och den ledamot som styrelsen utser till
@@ -814,6 +860,15 @@ Bestämmelserna i denna lag och lagen (2004:297) om bank- och
 finansieringsrörelse beträffande revisorer gäller i tillämpliga
 delar om revisorssuppleanter. Lag (2004:304).
 
+1 a § Uppdraget som revisor för en sparbank, vars överlåtbara
+värdepapper är upptagna till handel på en reglerad marknad,
+får gälla högst sju år i följd.
+
+Den som har varit revisor i banken under sju år enligt första
+stycket får inte delta i revisionen, om inte minst två år har
+förflutit sedan han eller hon lämnade revisionsuppdraget.
+Lag (2009:570).
+
 Medrevisor
 
 2 § Varje huvudman i en sparbank har rätt att föreslå att det
@@ -829,14 +884,14 @@ eller en tredjedel av de närvarande huvudmännen. Lag (2004:304).
 
 Obehörighetsgrunder och kompetenskrav
 
-3 § Den som är i konkurs eller har fått näringsförbud eller som
-har förvaltare enligt 11 kap. 7 § föräldrabalken får inte vara
-revisor i en sparbank.
+3 § Den som är i konkurs eller har fått näringsförbud eller
+som har förvaltare enligt 11 kap. 7 § föräldrabalken får inte
+vara revisor i en sparbank.
 
 Bara den som är auktoriserad eller godkänd revisor får vara
 revisor i en sparbank.
 
-En revisor skall ha den insikt i och erfarenhet av redovisning
+En revisor ska ha den insikt i och erfarenhet av redovisning
 och ekonomiska förhållanden som med hänsyn till arten och
 omfånget av bankens verksamhet fordras för uppdragets
 fullgörande.
@@ -844,11 +899,13 @@ fullgörande.
 Till revisor får även ett registrerat revisionsbolag utses.
 Bestämmelser om vem som får vara huvudansvarig för revisionen
 när ett revisionsbolag utses att vara revisor och om
-underrättelseskyldighet finns i 17 § revisorslagen (2001:883).
-Bestämmelserna i 5 § om jäv, i 19 § om rätt att närvara på
-stämma och i 13 kap. 10 § lagen (2004:297) om bank- och
-finansieringsrörelse om rapporteringsskyldighet tillämpas på
-den huvudansvarige. Lag (2004:304).
+underrättelseskyldighet finns i 17 § revisorslagen
+(2001:883). Bestämmelserna i 1 a § om uppdragets längd och
+förbud under viss tid att delta i revisionen, i 5 § om jäv, i
+19 § om rätt att närvara på stämma och i 13 kap. 10 § lagen
+(2004:297) om bank- och finansieringsrörelse om
+rapporteringsskyldighet tillämpas på den huvudansvarige.
+Lag (2009:570).
 
 4 § I en sparbank skall minst en revisor som stämman utsett
 vara auktoriserad revisor eller godkänd revisor som avlagt
@@ -894,19 +951,28 @@ revisionssed. Lag (2006:404).
 Förtida avgång
 
 6 § Ett uppdrag som revisor i en sparbank upphör i förtid, om
-revisorn eller den som har utsett revisorn begär det. Anmälan
-om detta skall göras hos styrelsen och, om en revisor som inte
-är vald på stämman vill avgå, hos den som har tillsatt
-revisorn.
 
-En revisor vars uppdrag upphör i förtid skall genast anmäla
-detta till registreringsmyndigheten för registrering. Revisorn
-skall i anmälan lämna en redogörelse för iakttagelserna vid den
-granskning som han eller hon har utfört under den del av det
-löpande räkenskapsåret som uppdraget har omfattat. För anmälan
-tillämpas vad som föreskrivs i 14 och 15 §§ om
-revisionsberättelse. En kopia av anmälan skall lämnas till
-sparbankens styrelse. Lag (2004:304).
+1. revisorn anmäler att uppdraget ska upphöra, eller
+
+2. den som har utsett revisorn entledigar honom eller henne
+på saklig grund och anmäler att uppdraget ska upphöra.
+
+Anmälan enligt första stycket ska göras hos styrelsen. Om en
+revisor som inte är vald på stämman vill avgå, ska revisorn
+anmäla det också hos den som har utsett honom eller henne.
+
+En revisor vars uppdrag upphör i förtid ska genast anmäla
+detta till registreringsmyndigheten för registrering.
+Revisorn ska i anmälan lämna en redogörelse för
+iakttagelserna vid den granskning som han eller hon har
+utfört under den del av det löpande räkenskapsåret som
+uppdraget har omfattat. För anmälan tillämpas vad som
+föreskrivs i 14 och 15 §§ om revisionsberättelse. En kopia av
+anmälan ska lämnas till sparbankens styrelse.
+
+Om en revisors uppdrag upphör i förtid, ska revisorn och den
+som har utsett revisorn underrätta registreringsmyndigheten
+om skälet till detta. Lag (2009:570).
 
 7 § Om en revisors uppdrag upphör i förtid eller om
 bestämmelserna i 3-5 §§ eller bestämmelser i reglementet
@@ -950,6 +1016,31 @@ Revisorer som är utsedda av någon annan än Finansinspektionen
 skall följa de särskilda föreskrifter som meddelas av stämman,
 om de inte strider mot lag, reglementet eller god revisionssed.
 Lag (2004:304).
+
+9 a § Revisorerna ska rapportera till revisionsutskottet om
+viktiga omständigheter som framkommit vid revisionen. Detta
+gäller särskilt för brister i sparbankens interna kontroll av
+den finansiella rapporteringen.
+
+I fall som avses i 3 kap. 4 a § andra stycket ska revisorerna
+i stället rapportera till styrelsen. Lag (2009:570).
+
+9 b § Revisorerna ska
+
+1. om det finns någon omständighet som väsentligt kan rubba
+förtroendet för deras opartiskhet eller självständighet,
+rådgöra med revisionsutskottet om detta förhållande och vilka
+åtgärder som har vidtagits,
+
+2. till revisionsutskottet årligen lämna en skriftlig
+försäkran om sin opartiskhet och självständighet, och
+
+3. för revisionsutskottet årligen redovisa vilka andra
+tjänster än revisionstjänster som de har tillhandahållit
+banken.
+
+I fall som avses i 3 kap. 4 a § andra stycket ska revisorerna
+i stället vända sig till styrelsen. Lag (2009:570).
 
 Tillhandahållande av upplysningar m.m.
 
@@ -1173,6 +1264,7 @@ utföra sådan granskning som anges i 4 §. Lag (2004:304).
 2 § För en lekmannarevisor får en eller flera suppleanter
 utses. Vad som sägs i denna lag om lekmannarevisor skall i
 tillämpliga delar även gälla suppleant. Lag (2004:304).
+
 
 3 § Bestämmelserna i denna lag om revisorer är inte tillämpliga
 på lekmannarevisorer. Lag (2004:304).
@@ -2263,3 +2355,21 @@ lekmannarevisor avser ett räkenskapsår som har inletts före den
 ombildningar som vid ikraftträdandet prövas enligt
 konkurrenslagen (1993:20) eller som förbjudits enligt den
 lagen.
+
+2009:570
+
+1. Denna lag träder i kraft den 1 juli 2009.
+
+2. Bestämmelserna i 3 kap. 3 a § tillämpas inte om den som
+har varit revisor har utsetts till den nya befattningen före
+ikraftträdandet.
+
+3. Bestämmelserna i 3 kap. 4 a § första stycket tredje
+meningen och andra stycket 2 tillämpas inte förrän efter den
+första ordinarie sparbanksstämma som hålls efter
+ikraftträdandet.
+
+4. För ett uppdrag som revisor som innehas vid
+ikraftträdandet räknas den tid som anges i 4 a kap. 1 a §
+första stycket från den första ordinarie sparbanksstämma som
+hålls efter ikraftträdandet. 
