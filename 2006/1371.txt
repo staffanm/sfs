@@ -1,6 +1,5 @@
 
 
-
 1 kap. Inledande bestämmelser
 
 Lagens tillämpningsområde
@@ -35,10 +34,11 @@ Definitioner
 
 1. anknutet företag: ett svenskt eller utländskt företag vars
 huvudsakliga verksamhet består i att äga eller förvalta fast
-egendom, tillhandahålla datatjänster eller driva annan liknande
-verksamhet som har samband med den huvudsakliga verksamheten i
-ett eller flera kreditinstitut, värdepappersbolag, institut för
-elektroniska pengar eller motsvarande utländska företag,
+egendom, tillhandahålla datatjänster eller driva annan
+liknande verksamhet som har samband med den huvudsakliga
+verksamheten i ett eller flera kreditinstitut,
+värdepappersbolag, institut för elektroniska pengar eller
+motsvarande utländska företag,
 
 2. behörig myndighet: Finansinspektionen eller en annan
 myndighet inom EES som utövar tillsyn över institut, institut
@@ -59,8 +59,8 @@ a) som har minst ett dotterföretag som är kreditinstitut,
 värdepappersbolag, institut för elektroniska pengar eller
 motsvarande utländskt företag, och
 
-b) vars dotterföretag uteslutande eller huvudsakligen utgörs av
-sådana företag som avses i a eller finansiella institut,
+b) vars dotterföretag uteslutande eller huvudsakligen utgörs
+av sådana företag som avses i a eller finansiella institut,
 
 6. finansiellt institut: ett svenskt eller utländskt företag
 som inte är kreditinstitut, värdepappersbolag, institut för
@@ -70,30 +70,31 @@ vars huvudsakliga verksamhet är att
 a) förvärva eller inneha aktier eller andelar,
 
 b) driva en eller flera av de verksamheter som anges i 7 kap.
-1 § andra stycket 2-10 och 12 lagen (2004:297) om bank- och
-finansieringsrörelse, utan att vara tillståndspliktigt enligt 2
-kap. 1 § samma lag, eller
+1 § andra stycket 210 och 12 lagen (2004:297) om bank- och
+finansieringsrörelse, utan att vara tillståndspliktigt enligt
+2 kap. 1 § samma lag, eller
 
 c) driva värdepappersrörelse utan att vara tillståndspliktigt
 enligt 2 kap. 1 § lagen (2007:528) om värdepappersmarknaden,
 
 7. finansiellt instrument: ett avtal som ger upphov till en
-finansiell tillgång för en part samtidigt som en annan part får
-en finansiell skuld eller utfärdar ett egetkapitalinstrument,
+finansiell tillgång för en part samtidigt som en annan part
+får en finansiell skuld eller utfärdar ett
+egetkapitalinstrument,
 
 8. finansiellt moderholdingföretag inom EES: ett inom EES
-etablerat finansiellt holdingföretag, som inte är dotterföretag
-till ett institut eller ett motsvarande utländskt företag som
-auktoriserats inom EES eller till ett annat finansiellt
-holdingföretag som är etablerat inom EES,
+etablerat finansiellt holdingföretag, som inte är
+dotterföretag till ett institut eller ett motsvarande
+utländskt företag som auktoriserats inom EES eller till ett
+annat finansiellt holdingföretag som är etablerat inom EES,
 
 9. holdingföretag med blandad verksamhet: ett svenskt eller
 utländskt moderföretag som inte är kreditinstitut,
 värdepappersbolag, institut för elektroniska pengar,
-motsvarande utländskt företag, finansiellt holdingföretag eller
-ett blandat finansiellt holdingföretag enligt 1 kap. 3 § 3
-lagen om särskild tillsyn över finansiella konglomerat, men som
-har minst ett dotterföretag som är kreditinstitut,
+motsvarande utländskt företag, finansiellt holdingföretag
+eller ett blandat finansiellt holdingföretag enligt 1 kap.
+3 § 3 lagen om särskild tillsyn över finansiella konglomerat,
+men som har minst ett dotterföretag som är kreditinstitut,
 värdepappersbolag, institut för elektroniska pengar eller
 motsvarande utländskt företag,
 
@@ -101,14 +102,17 @@ motsvarande utländskt företag,
 
 11. kapitalkravsdirektivet: Europaparlamentets och rådets
 direktiv 2006/49/EG av den 14 juni 2006 om kapitalkrav för
-värdepappersföretag och kreditinstitut (omarbetning),
+värdepappersföretag och kreditinstitut (omarbetning), ändrat
+genom Europaparlamentets och rådets direktiv 2008/23/EG,
 
 12. kreditinstitut: bank, kreditmarknadsföretag och Svenska
 skeppshypotekskassan,
 
 13. kreditinstitutsdirektivet: Europaparlamentets och rådets
 direktiv 2006/48/EG av den 14 juni 2006 om rätten att starta
-och driva verksamhet i kreditinstitut (omarbetning),
+och driva verksamhet i kreditinstitut (omarbetning), senast
+ändrat genom Europaparlamentets och rådets direktiv
+2007/44/EG,
 
 14. moderinstitut inom EES: ett institut eller motsvarande
 utländskt företag som auktoriserats inom EES och som
@@ -118,32 +122,33 @@ motsvarande utländskt företag som dotterföretag eller som har
 ett ägarintresse i ett sådant företag, och
 
 b) inte är dotterföretag till ett annat institut eller ett
-motsvarande utländskt företag som auktoriserats inom EES eller
-till ett finansiellt holdingföretag som är etablerat inom EES,
+motsvarande utländskt företag som auktoriserats inom EES
+eller till ett finansiellt holdingföretag som är etablerat
+inom EES,
 
 15. operativa risker: risker för förluster till följd av inte
-ändamålsenliga eller inte fungerande interna förfaranden eller
-system eller på grund av mänskliga fel eller yttre händelser,
-samt rättsliga risker,
+ändamålsenliga eller inte fungerande interna förfaranden
+eller system eller på grund av mänskliga fel eller yttre
+händelser, samt rättsliga risker,
 
 16. riskvikt: en procentsats som beskriver en risknivå hos en
 exponering,
 
 17. värdepapperisering: en transaktion eller ett program
-varigenom den kreditrisk som är förenad med en exponering eller
-en grupp exponeringar delas upp i delar, och som har följande
-egenskaper:
+varigenom den kreditrisk som är förenad med en exponering
+eller en grupp exponeringar delas upp i delar, och som har
+följande egenskaper:
 
-a) betalningarna inom ramen för transaktionen eller programmet
-är beroende av utvecklingen av exponeringen eller gruppen av
-exponeringar, och
+a) betalningarna inom ramen för transaktionen eller
+programmet är beroende av utvecklingen av exponeringen eller
+gruppen av exponeringar, och
 
-b) prioriteringen av delarna avgör hur förluster fördelas under
-den tid transaktionen eller programmet pågår,
+b) prioriteringen av delarna avgör hur förluster fördelas
+under den tid transaktionen eller programmet pågår, och
 
 18. värdepappersbolag: ett svenskt aktiebolag som har fått
 tillstånd att driva värdepappersrörelse enligt lagen om
-värdepappersmarknaden. Lag (2007:570)
+värdepappersmarknaden. Lag (2009:364).
 
 4 § Ett institut, ett finansiellt holdingföretag eller ett
 holdingföretag med blandad verksamhet är moderföretag och en
