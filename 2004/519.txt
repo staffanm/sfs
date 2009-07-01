@@ -48,17 +48,23 @@ infrastrukturförvaltare: den som förvaltar
 järnvägsinfrastruktur och driver anläggningar som hör till
 infrastrukturen,
 
+internationell persontrafik: persontrafik mellan olika stater
+inom EES samt Schweiz med tåg vars samtliga vagnar passerar
+minst en nationsgräns och vars främsta syfte är att befordra
+passagerare mellan stationer i skilda stater inom EES samt
+Schweiz,
+
 järnvägsfordon: rullande materiel som kan framföras på
 järnvägsspår,
 
 järnvägsföretag: den som med stöd av licens eller särskilt
 tillstånd tillhandahåller dragkraft och utför järnvägstrafik,
 
-järnvägsinfrastruktur: för järnvägstrafik avsedda spår-,
-signal- och säkerhetsanläggningar, trafikledningsanläggningar,
-anordningar för elförsörjning av trafiken samt övriga fasta
-anordningar som behövs för anläggningarnas bestånd, drift eller
-brukande,
+järnvägsinfrastruktur:  för järnvägstrafik avsedda spår-,
+signal- och säkerhetsanläggningar,
+trafikledningsanläggningar, anordningar för elförsörjning av
+trafiken samt övriga fasta anordningar som behövs för
+anläggningarnas bestånd, drift eller brukande,
 
 järnvägsnät: järnvägsinfrastruktur som förvaltas av en och
 samma infrastrukturförvaltare,
@@ -66,13 +72,16 @@ samma infrastrukturförvaltare,
 järnvägssystem: järnvägsinfrastruktur och järnvägsfordon samt
 drift och förvaltning av infrastrukturen och fordonen,
 
-tågläge: den infrastrukturkapacitet som, enligt vad som anges i
-en tågplan, får tas i anspråk för att framföra järnvägsfordon,
-utom arbetsfordon, från en plats till en annan under en viss
-tidsperiod,
+trafikhuvudman: den som är trafikhuvudman enligt lagen
+(1997:734) om ansvar för viss kollektiv persontrafik,
 
-tågplan: plan över användning av järnvägsinfrastruktur under en
-viss angiven period. Lag (2007:452).
+tågläge: den infrastrukturkapacitet som, enligt vad som anges
+i en tågplan, får tas i anspråk för att framföra
+järnvägsfordon, utom arbetsfordon, från en plats till en
+annan under en viss tidsperiod,
+
+tågplan: plan över användning av järnvägsinfrastruktur under
+en viss angiven period. Lag (2009:694).
 
 Bemyndigande
 
@@ -444,7 +453,7 @@ säkerhetsintyg enligt 3 § och säkerhetstillstånd enligt 7 §
 samt om omprövning av tillstånd eller villkor enligt 9 §.
 Lag (2007:452).
 
-4 kap. Redovisning av järnvägsverksamhet
+4 kap. Redovisning av järnvägsverksamhet m.m.
 
 1 § Järnvägsföretag skall i förekommande fall särredovisa
 verksamhet som avser godstransporter och förvaltning av
@@ -458,36 +467,68 @@ får endast användas i den verksamheten. Offentligt stöd som
 utbetalas till verksamhet som avser persontransport skall
 redovisas separat i den verksamheten.
 
+1 a § Den som utför eller organiserar persontrafik enligt
+denna lag ska till den myndighet som regeringen bestämmer
+lämna de uppgifter som behövs för att myndigheten ska kunna
+följa och utvärdera utvecklingen av marknaden för
+persontrafik. Lag (2009:694).
+
 2 § Bestämmelserna i detta kapitel gäller inte för den som
 utför till sin omfattning obetydlig trafik med
 museijärnvägsfordon eller annan liknande materiel.
 
-3 § Regeringen eller, efter regeringens bemyndigande,
-tillsynsmyndigheten, får meddela föreskrifter om den
-redovisningsskyldighet som avses i 1 §.
+3 § Regeringen eller den myndighet som regeringen bestämmer
+får meddela föreskrifter om den redovisningsskyldighet som
+avses i 1 § och den skyldighet att lämna uppgifter som avses
+i 1 a §. Lag (2009:694).
 
 5 kap. Rätt att utföra och organisera trafik på järnvägsnät
 
+Allmänt
+
+1 § Regeringen meddelar föreskrifter om vem som, utöver vad
+som anges i 2, 2 a och 3 §§, har rätt att utföra eller
+organisera trafik på järnvägsnät som förvaltas av staten.
+
+I fråga om andra järnvägsnät bestämmer
+infrastrukturförvaltaren vem som, utöver vad som anges i 2,
+2 a, och 3 §§, har rätt att utföra eller organisera trafik på
+det järnvägsnät som förvaltaren råder över. Lag (2009:694).
+
 Persontrafik
 
-1 § Regeringen meddelar föreskrifter om vem som, utöver vad som
-anges i 2 §, har rätt att utföra eller organisera persontrafik
-på järnvägsnät som förvaltas av staten.
+2 § /Upphör att gälla U:2010-10-01/
+Ett järnvägsföretag med säte i en stat inom EES eller i
+Schweiz har rätt att utföra internationell persontrafik på
+svenska järnvägsnät. Lag (2009:694).
 
-I fråga om andra järnvägsnät bestämmer infrastrukturförvaltaren
-vem som, utöver vad som anges i 2 §, har rätt att utföra eller
-organisera persontrafik på det järnvägsnät som förvaltaren
-råder över.
+2 § /Träder i kraft I:2010-10-01/
+Ett järnvägsföretag med säte i en stat inom EES eller i
+Schweiz har rätt att utföra persontrafik på svenska
+järnvägsnät. Lag (2009:693).
 
-2 § En internationell sammanslutning av järnvägsföretag med
-säte i olika stater inom EES jämte Schweiz, med ändamål att
-utföra internationella transporter mellan medlemsstaterna, får
-utföra genomgående persontrafik på svenska järnvägsnät, om
-trafiken sker mellan de stater inom EES jämte Schweiz där
-företagen har sitt säte. Om ett företag i sammanslutningen har
-sitt säte i Sverige, har det även rätt utföra trafik mellan
-Sverige och annan stat inom EES jämte Schweiz, där ett företag
-i sammanslutningen har sitt säte.
+2 a § /Upphör att gälla U:2010-10-01/
+Den som har auktorisation enligt 3 kap. 5 § och hemvist
+eller säte i en stat inom EES eller i Schweiz har rätt att
+organisera internationell persontrafik på svenska
+järnvägsnät. Lag (2009:694).
+
+2 a § /Träder i kraft I:2010-10-01/
+Den som har auktorisation enligt 3 kap. 5 § och hemvist
+eller säte i en stat inom EES eller i Schweiz har rätt att
+organisera persontrafik på svenska järnvägsnät.
+Lag (2009:693).
+
+2 b § Regeringen får meddela föreskrifter om i vilken
+utsträckning en trafikhuvudman får utföra eller organisera
+persontrafik på järnvägsnät som förvaltas av staten.
+Lag (2009:694).
+
+2 c § Regeringen får meddela föreskrifter om begränsningar i
+rätten att ta upp och lämna av passagerare på linjen mellan
+Stockholms centralstation och Arlanda flygplats. En sådan
+begränsning får dock inte gälla för internationell
+persontrafik. Lag (2009:694).
 
 Godstrafik
 
@@ -500,12 +541,24 @@ godstrafik på svenska järnvägsnät. Lag (2007:452).
 
 Undantag för vissa järnvägsnät
 
-4 § Rätten att utföra eller organisera trafik enligt 2 och 3 §§
-gäller inte på lokala och regionala järnvägsnät som är
-fristående och enbart avsedda för person- eller museitrafik
-eller på järnvägsnät som inte förvaltas av staten och som
-endast används av infrastrukturförvaltaren för transporter av
-eget gods. Lag (2007:452).
+4 § Rätten att utföra eller organisera trafik enligt 2, 2 a
+och 3 §§ gäller inte på lokala och regionala järnvägsnät som
+är fristående och enbart avsedda för person- eller
+museitrafik eller på järnvägsnät som inte förvaltas av staten
+och som endast används av infrastrukturförvaltaren för
+transporter av eget gods. Lag (2009:694).
+
+Informationsskyldighet
+
+5 § Den som utför eller organiserar persontrafik enligt denna
+lag ska lämna information om sitt trafikutbud till ett
+gemensamt system för trafikantinformation. Lag (2009:694).
+
+Bemyndigande
+
+6 § Regeringen eller den myndighet som regeringen bestämmer
+får meddela föreskrifter om den informationsskyldighet som
+1avses i 5 §. Lag (2009:694).
 
 6 kap. Tilldelning av infrastrukturkapacitet
 
@@ -513,27 +566,7 @@ Skyldigheter för infrastrukturförvaltare
 
 Grundläggande skyldigheter
 
-1 § /Upphör att gälla U:2009-06-30/
-En infrastrukturförvaltare är skyldig att behandla en
-ansökan om infrastrukturkapacitet från den som enligt 5 kap.
-har rätt att utföra eller organisera trafik på svenska
-järnvägsnät och att på ett konkurrensneutralt och icke-
-diskriminerande sätt mot avgift tilldela denne
-infrastrukturkapacitet i enlighet med bestämmelserna i denna
-lag.
-
-En infrastrukturförvaltare får inte obehörigen föra vidare
-eller utnyttja uppgifter som sökanden i samband med ansökan
-tillhandahåller om sina affärs- och driftförhållanden. I det
-allmännas verksamhet tillämpas sekretesslagen (1980:100).
-
-Vid tilldelandet av infrastrukturkapacitet skall förvaltaren
-iaktta den tidsplan för tilldelningsförfarande som regeringen
-eller, efter regeringens bemyndigande, tillsynsmyndigheten
-föreskriver.
-
-1 § /Träder i kraft I:2009-06-30/
-En infrastrukturförvaltare är skyldig att behandla en
+1 § En infrastrukturförvaltare är skyldig att behandla en
 ansökan om infrastrukturkapacitet från den som enligt 5 kap.
 har rätt att utföra eller organisera trafik på svenska
 järnvägsnät och att på ett konkurrensneutralt och icke-
@@ -777,17 +810,29 @@ eller organiserar trafik diskrimineras. Lag (2007:452).
 
 Bemyndigande
 
-25 § Regeringen eller, efter regeringens bemyndigande,
-tillsynsmyndigheten får meddela föreskrifter om
-kapacitetstilldelning enligt 1-4 §§, beskrivning av järnvägsnät
-enligt 5 §, genomförande av kapacitetsanalys och upprättande av
-kapacitetsförstärkningsplan enligt 6 §, förfarandet vid
-tilldelning av kapacitet enligt 7-16 §§ (däribland
-fastställande av tågplan), förfarandet för tillhandahållande av
-tjänster enligt 23 §, krav för att kunna medges undantag enligt
-24 § andra stycket samt skyldighet för infrastrukturförvaltare
-att utarbeta beredskapsplaner i händelse av en allvarlig olycka
-eller en allvarlig störning i trafiken. Lag (2007:452).
+25 § Regeringen eller den myndighet som regeringen bestämmer
+får meddela föreskrifter om
+
+1. kapacitetstilldelning enligt 1-4 §§,
+
+2. beskrivning av järnvägsnät enligt 5 §,
+
+3. genomförande av kapacitetsanalys och upprättande av
+kapacitetsförstärkningsplan enligt 6 §,
+
+4. förfarande vid ansökan om och tilldelning av kapacitet
+enligt 7?16 §§ (däribland fastställande av tågplan),
+
+5. förfarande för tillhandahållande av tjänster enligt 23 §,
+
+6. krav för att kunna medges undantag enligt 24 § andra
+stycket,
+
+samt
+
+7. skyldighet för infrastrukturförvaltare att utarbeta
+beredskapsplaner i händelse av en allvarlig olycka eller en
+allvarlig störning i trafiken. Lag (2009:694).
 
 7 kap. Avgifter
 
@@ -993,6 +1038,14 @@ part fastställa de administrativa, tekniska och ekonomiska
 villkor som skall gälla för den aktuella trafiken i den
 utsträckning det är nödvändigt för att villkoren skall uppfylla
 bestämmelserna i denna lag.
+
+Prövning av internationell persontrafik
+
+9 a § Tillsynsmyndigheten ska på begäran av berört
+järnvägsföretag, berörd organisatör enligt 3 kap. 5 § eller
+berörd myndighet pröva om det främsta syftet med viss trafik
+är att befordra passagerare mellan stationer i skilda stater
+inom EES samt Schweiz. Lag (2009:694).
 
 Bemyndigande
 
@@ -1225,3 +1278,21 @@ före ikraftträdandet gäller äldre föreskrifter.
 2. Vad som sägs i 8 kap. 4 § ska även gälla för den som ålagts
 att betala konkurrensskadeavgift eller dömts till att betala
 vite enligt konkurrenslagen (1993:20).
+
+2009:693
+
+1. Denna lag träder i kraft den 1 oktober 2010.
+
+2. Vid prövning av mål eller ärenden enligt 8 kap. 9 § som
+har anhängiggjorts före den 1 oktober 2010 gäller äldre
+föreskrifter.
+
+2009:694
+
+1. Denna lag träder i kraft den 1 augusti 2009 i fråga om 1
+kap. 4 §, 4 kap. 3 §, 5 kap. 2 b, 2 c och 6 §§, 6 kap. 25 §
+samt 8 kap. 9 a § och i övrigt den 1 oktober 2009.
+
+2. Vid prövning av mål eller ärenden enligt 8 kap. 9 § som
+har anhängiggjorts före den 1 oktober 2009 gäller äldre
+föreskrifter.
