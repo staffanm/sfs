@@ -1,14 +1,5 @@
 
 
-
-/Upphör att gälla U:2008-04-01/
-I uppställningen nedan anges vilka tingsrätter med tillhörande
-domsagor som skall finnas i Sverige. Tingsrätterna skall ha
-kanslier på de orter som anges i uppställningen. Tingsställen
-skall finnas på kansliorterna och får finnas också på de andra
-orter som anges i uppställningen.
-
-/Träder i kraft I:2008-04-01/
 I uppställningen nedan anges vilka tingsrätter med tillhörande
 domsagor som ska finnas i Sverige. Tingsrätterna ska ha
 kanslier på de orter som anges i uppställningen. Tingsställen
@@ -77,23 +68,6 @@ Södertälje           Nykvarn         Södertälje
                      Salem
                      Södertälje
 
-/Upphör att gälla U:2008-04-01/
-Södertörns           Botkyrka        Huddinge
-                     Haninge
-                     Huddinge
-                     Nynäshamn
-                     Stockholm,
-                     del av
-                     (församlingarna
-                     Brännkyrka,
-                     Vantörs,
-                     Farsta,
-                     Enskede,
-                     Skarpnäcks,
-                     Hägerstens och
-                     Skärholmens)
-
-/Träder i kraft I:2008-04-01/
 Södertörns           Botkyrka        Huddinge
                      Haninge
                      Huddinge
@@ -121,20 +95,19 @@ Uppsala              Enköping        Uppsala
 Eskilstuna           Eskilstuna      Eskilstuna      Strängnäs
                      Strängnäs
 
-Katrineholms         Flen            Katrineholm     Malmköping
+Nyköpings            Flen            Nyköping        Malmköping
+                     Gnesta
                      Katrineholm
-                     Vingåker
-
-Nyköpings            Gnesta          Nyköping
                      Nyköping
                      Oxelösund
                      Trosa
+                     Vingåker
 
 Gotlands             Gotland         Visby
 
-Västmanlands         Samtliga        Köping          Fagersta
-                     kommuner i      Sala
-                     Västmanlands    Västerås
+Västmanlands         Samtliga        Västerås        Fagersta
+                     kommuner i
+                     Västmanlands
                      län
 
 Falu                 Avesta          Falun
@@ -157,7 +130,7 @@ Mora                 Leksand         Mora
 Under Göta hovrätt
 
 Linköpings           Boxholm         Linköping
-                     Kinda           Motala
+                     Kinda
                      Linköping
                      Mjölby
                      Motala
@@ -199,37 +172,25 @@ Kalmar               Samtliga        Kalmar          Oskarshamn
                      kommuner i                      Vimmerby
                      Kalmar län                      Västervik
 
-Lidköpings           Essunga         Lidköping
+Skaraborgs           Essunga         Skövde
+                     Falköping
                      Grästorp
+                     Gullspång
                      Götene
-                     Lidköping
-                     Skara
-                     Vara
-
-Mariestads           Gullspång       Mariestad
-                     Karlsborg
-                     Mariestad
-                     Töreboda
-
-Skövde               Falköping       Skövde
                      Hjo
+                     Karlsborg
+                     Lidköping
+                     Mariestad
+                     Skara
                      Skövde
                      Tibro
                      Tidaholm
+                     Töreboda
+                     Vara
 
-Karlskoga            Degerfors       Karlskoga
-                     Karlskoga
-
-Örebro               Askersund       Örebro          Hällefors
-                     Hallsberg
-                     Hällefors
-                     Kumla
-                     Laxå
-                     Lekeberg
-                     Lindesberg
-                     Ljusnarsberg
-                     Nora
-                     Örebro
+Örebro               Samtliga        Örebro          Hällefors
+                     kommuner i
+                     Örebro län
 
 Under Hovrätten över Skåne och Blekinge
 
@@ -286,6 +247,7 @@ Varbergs             Falkenberg      Varberg         Kungsbacka
                      Kungsbacka
                      Varberg
 
+/Upphör att gälla U:2010-02-01/
 Göteborgs            Göteborg        Göteborg
                      Öckerö
 
@@ -293,6 +255,30 @@ Mölndals             Härryda         Göteborg
                      Kungälv
                      Mölndal
                      Partille
+
+/Träder i kraft I:2010-02-01/
+Göteborgs            Göteborg        Göteborg
+                     Härryda
+                     Kungälv
+                     Mölndal
+                     Partille
+                     Öckerö
+
+Uddevalla       Lysekil Uddevalla       Strömstad
+
+Munkedal
+
+Orust
+
+Sotenäs
+
+Stenungsund
+
+Strömstad
+
+Tanum
+
+Tjörn
 
 Uddevalla            Lysekil         Uddevalla       Strömstad
                      Munkedal
@@ -348,14 +334,14 @@ Sundsvalls           Sundsvall       Sundsvall
                      Timrå
                      Ånge
 
-Ångermanlands        Härnösand       Härnösand
-                     Kramfors        Örnsköldsvik
+Ångermanlands        Härnösand       Härnösand       Örnsköldsvik
+                     Kramfors
                      Sollefteå
                      Örnsköldsvik
 
-Östersunds           Berg            Östersund       Strömsund
-                     Bräcke                          Sveg
-                     Härjedalen                      Svenstavik
+Östersunds           Berg            Östersund
+                     Bräcke
+                     Härjedalen
                      Krokom
                      Ragunda
                      Strömsund
@@ -364,9 +350,9 @@ Sundsvalls           Sundsvall       Sundsvall
 
 Under Hovrätten för Övre Norrland
 
-Lycksele             Dorotea         Lycksele        Storuman
-                     Lycksele                        Vilhelmina
-                     Sorsele                         Åsele
+Lycksele             Dorotea         Lycksele
+                     Lycksele
+                     Sorsele
                      Storuman
                      Vilhelmina
                      Åsele
@@ -382,23 +368,23 @@ Umeå                 Bjurholm        Umeå
                      Vindeln
                      Vännäs
 
-Gällivare            Gällivare       Gällivare       Jokkmokk
-                     Jokkmokk                        Karesuando
-                     Kiruna                          Kiruna
+Gällivare            Gällivare       Gällivare       Kiruna
+                     Jokkmokk
+                     Kiruna
 
 Haparanda            Haparanda       Haparanda       Kalix
-                     Kalix                           Pajala
-                     Pajala                          Överkalix
+                     Kalix
+                     Pajala
                      Överkalix
                      Övertorneå
 
-Luleå                Arjeplog        Luleå           Arjeplog
-                     Arvidsjaur                      Arvidsjaur
-                     Boden                           Piteå
+Luleå                Arjeplog        Luleå           Piteå
+                     Arvidsjaur
+                     Boden
                      Luleå
                      Piteå
                      Älvsbyn
-Förordning (2008:74).
+Förordning (2008:677).
 
 Övergångsbestämmelser
 
@@ -446,3 +432,17 @@ kansli i Värnamo.
 3. Har upphävts genom förordning (2007:1370).
 
 4. Har upphävts genom förordning (2007:1370).
+
+2008:674
+
+1. Denna förordning träder i kraft den 12 januari 2009.
+
+2. Skaraborgs tingsrätt får t.o.m. den 1 april 2011 även ha
+kansli i Lidköping och Mariestad.
+
+2008:675
+
+1. Denna förordning träder i kraft den 27 april 2009.
+
+2. Nyköpings tingsrätt får t.o.m. den 1 maj 2010 även ha kansli
+i Katrineholm.
