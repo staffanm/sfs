@@ -1,6 +1,5 @@
 
 
-
 1 kap. Inledande bestämmelser
 
 1 § Lagen innehåller bestämmelser om stöd till kreditinstitut
@@ -213,6 +212,7 @@ tillämpliga delar.
 
 8 § I ett ärende om prövning av villkor ska vardera parten
 svara för sina kostnader vid Prövningsnämnden, om inte en
+
 tillämpning av 18 kap. 6 § rätttegångsbalken leder till en
 annan fördelning av kostnaderna. Om nämnden jämkar föreslagna
 villkor eller finner att villkoren är oskäliga, får den
@@ -232,25 +232,88 @@ i mål vari förlikning är tillåten.
 Prövningsnämndens beslut om kostnader får verkställas enligt
 utsökningsbalkens bestämmelser.
 
-7 kap. Stabilitetsfonden
+7 kap. Stabilitetsfonden och stabilitetsavgift
 
-1 § Inbetalda ersättningar enligt 2 kap. 2 § ska föras till ett
-räntebärande konto i Riksgäldskontoret. Till kontot ska även
-föras medel som staten återfått och som avser lämnat stöd
-enligt denna lag.
+1 § Inbetalda ersättningar enligt 2 kap. 2 § samt avgifter
+enligt 2 § och dröjsmålsränta enligt 6 § detta kapitel ska
+föras till ett räntebärande konto i Riksgäldskontoret. Till
+kontot ska även föras medel som staten återfått och som avser
+lämnat stöd enligt denna lag samt lagen (2008:812) om
+statliga garantier till insättare i utländska instituts
+filialer i Sverige.
 
-De medel som tillförts kontot utgör, tillsammans med de övriga
-tillgångar som anskaffats med stöd av denna lag,
+De medel som tillförts kontot utgör, tillsammans med de
+övriga tillgångar som anskaffats med stöd av denna lag,
 stabilitetsfonden.
 
-Statens utgifter för stöd enligt denna lag samt för
-stödmyndighetens och Prövningsnämndens förvaltningskostnader
-ska täckas med medel från kontot. Detsamma gäller sådana
-kostnader som avses i 6 kap. 4 § andra stycket och kostnader
-som enligt de bestämmelser i förvaltningsprocesslagen
-(1971:291) som anges i 6 kap. 2 § ska stanna på staten. I den
-mån medlen på kontot inte räcker till, får en obegränsad kredit
-i Riksgäldskontoret användas.
+Följande kostnader ska täckas med medel från kontot:
+
+1. statens utgifter för stöd enligt denna lag,
+
+2. stödmyndighetens och Prövningsnämndens
+förvaltningskostnader,
+
+3. kostnader för god man enligt 6 kap. 4 § andra stycket,
+
+4. kostnader som enligt de bestämmelser i
+förvaltningsprocesslagen (1971:291) som anges i 6 kap. 2 §
+ska stanna på staten, och
+
+5. ersättning som betalats ut på grund av en garanti till
+insättare enligt lagen om statliga garantier till insättare i
+utländska instituts filialer i Sverige.
+
+I den mån medlen på kontot inte räcker till, får en
+obegränsad kredit i Riksgäldskontoret användas.
+Lag (2009:1418).
+
+2 § Kreditinstitut och andra företag som avses i 1 kap. 2 §
+första stycket (avgiftsskyldiga) ska för varje räkenskapsår
+betala en avgift (stabilitetsavgift).
+
+Stabilitetsavgiften är 0,036 procent av ett underlag som
+beräknas enligt 3 och 5 §§ (avgiftsunderlag).
+Lag (2009:1418).
+
+3 § Avgiftsunderlaget är summan av den avgiftsskyldiges
+skulder och avsättningar  dock inte obeskattade reserver 
+vid utgången av räkenskapsåret enligt fastställd
+balansräkning, om inte annat följer av andra eller tredje
+stycket.
+
+För en avgiftsskyldig som ingår i en koncern enligt
+årsredovisningslagen (1995:1554) ska avgiftsunderlaget
+minskas med skulder till andra avgiftsskyldiga företag i
+koncernen.
+
+För ett kreditinstitut ska avgiftsunderlaget minskas med
+efterställda skuldförbindelser som får ingå i kapitalbasen
+enligt lagen (2006:1371) om kapitaltäckning och stora
+exponeringar. Lag (2009:1418).
+
+4 § Om ett räkenskapsår har omfattat en längre eller kortare
+tid än tolv månader, ska stabilitetsavgiften ökas respektive
+minskas i förhållande till räkenskapsårets längd.
+Lag (2009:1418).
+
+5 § För ett kreditinstitut till vilket Riksgäldskontoret med
+stöd av denna lag har utfärdat en garanti för
+skuldförbindelser, ska ett genomsnitt av det under
+räkenskapsåret garanterade beloppet räknas av från
+avgiftsunderlaget enligt 3 §. Genomsnittet ska beräknas
+utifrån kreditinstitutets garanterade förpliktelser vid
+utgången av varje kvartal. Lag (2009:1418).
+
+6 § Stödmyndigheten beslutar om stabilitetsavgiften för varje
+avgiftsskyldig. Avgiften ska betalas inom en månad från dagen
+för myndighetens beslut.
+
+Dröjsmålsränta ska tas ut på stabilitetsavgifter som inte
+betalas i rätt tid. Dröjsmålsräntan ska beräknas enligt en
+räntefot som per år motsvarar den av Riksbanken fastställda,
+vid varje tid gällande referensräntan enligt 9 § räntelagen
+(1975:635) med ett tillägg av åtta procentenheter.
+Lag (2009:1418).
 
 8 kap. Avslutande bestämmelser
 
@@ -262,7 +325,28 @@ för sin verksamhet enligt denna lag.
 stödmyndighetens begäran lämna de uppgifter som myndigheten
 behöver i ärenden enligt denna lag.
 
-3 § Beslut enligt denna lag får inte överklagas.
+2 a § Stödmyndigheten ska underrätta Finansinspektionen, om
+ett kreditinstitut eller annat företag inte fullgör sina
+skyldigheter enligt denna lag. Lag (2009:1418).
+
+3 § Ett beslut om avgift enligt 7 kap. 6 § får överklagas hos
+allmän förvaltningsdomstol. Prövningstillstånd krävs vid
+överklagande till kammarrätten.
+
+Andra beslut enligt denna lag får inte överklagas.
+Lag (2009:1418).
 
 4 § Regeringen eller den myndighet som regeringen bestämmer får
 meddela föreskrifter om stöd enligt denna lag.
+
+Övergångsbestämmelser
+
+2009:1418
+
+1. Denna lag träder i kraft den 30 december 2009.
+
+2. De nya bestämmelserna får tillämpas endast för
+räkenskapsår som löper ut efter ikraftträdandet.
+
+3. En stabilitetsavgift för räkenskapsår som går ut under
+2009 och 2010 ska reduceras till hälften.
