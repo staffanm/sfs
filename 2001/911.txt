@@ -123,6 +123,13 @@ Y                       2 600 000
 Z                       3 000 000
 Förordning (2006:1528).
 
+4 a § I samband med prövning av en ansökan för vilken
+avgiftsklass enligt bilagan anges i intervall mellan olika
+avgiftsklasser ska Finansinspektionen så snart det kan ske
+besluta vilken avgift som ska tas ut för prövningen av
+ärendet. Beslutet ska ange uppskattad tidsåtgång och när
+avgiften senast ska betalas. Förordning (2009:1415).
+
 5 § Avgift tas ut för prövning av ansökan om dispens från
 Finansinspektionens föreskrifter. För avgiftens storlek gäller
 4 §, avgiftsklass D. När det gäller ansökan som avser en fråga
@@ -178,15 +185,21 @@ stycket.
 För avgiftens storlek enligt första-tredje styckena gäller 4 §,
 avgiftsklass E. Förordning (2007:738).
 
+5 b § Avgift tas ut för intyg avseende verksamhetstillstånd
+som Finans-inspektionen har beviljat en fysisk eller juridisk
+person. För avgiftens storlek gäller 4 §, avgiftsklass C.
+Förordning (2009:1415).
+
 Betalning av avgift för ansökan och anmälan
 
-6 § Avgift skall betalas till Finansinspektionen när ansökan
-eller anmälan ges in. Om inte detta sker, skall sökanden
-föreläggas att betala avgiften inom en viss tid. Ett sådant
-föreläggande får skickas till sökanden med post eller förmedlas
-på annat lämpligt sätt. Följs inte föreläggandet skall ansökan
-eller anmälan avvisas. Sökanden skall upplysas om detta i
-föreläggandet.
+6 § Avgift ska, utom i fall som avses i 4 a §, betalas till
+Finansinspektionen när ansökan eller anmälan ges in. Om
+betalning inte sker i rätt tid, ska sökanden föreläggas att
+betala avgiften inom en viss tid. Ett sådant föreläggande får
+skickas till sökanden med post eller förmedlas på annat
+lämpligt sätt. Följs inte föreläggandet ska ansökan eller
+anmälan avvisas. Sökanden ska upplysas om detta i
+föreläggandet. Förordning (2009:1415).
 
 7 § Avgift skall betalas för varje avgiftsbelagt ärende som en
 ansökan eller anmälan avser.
@@ -522,7 +535,7 @@ Underrättelse om ändrade förhållanden vid gränsöverskridande
 verksamhet (2 a kap. 6 §)                                       D
 
 Tillstånd att förvärva kvalificerade aktieinnehav (3 kap.
-2 §)                                                            H
+2 §)                                                            L
 
 Undantag från upplåningsbegränsning (5 kap. 1 §)                G
 
@@ -772,7 +785,7 @@ Medgivande att undanta förvaltare från uppgiftsskyldighet
 (3 kap. 12 § fjärde stycket)                                    G
 
 Tillstånd till förvärv av aktier eller andelar i en central
-värdepappersförvarare (9 kap. 1 §)                              G
+värdepappersförvarare (9 kap. 1 §)                              L
 
 Bokföringslagen (1999:1078)
 
@@ -829,7 +842,7 @@ säte inom EES att företaget påbörjar verksamhet i Sverige
 Medgivande att ge koncernbidrag (6 kap. 2 § andra stycket)      G
 
 Tillstånd till förvärv av aktier eller andelar i institut för
-elektroniska pengar (6 kap. 10 §)                               G
+elektroniska pengar (6 kap. 10 §)                               L
 
 Lagen (2003:1223) om utgivning av säkerställda obligationer
 
@@ -874,11 +887,22 @@ från filial i Sverige (1 kap. 8 §)                              O
 
 Tillstånd för fondföretag att marknadsföra och sälja andelar
 i företaget i Sverige, utom i samband med tillstånd enligt
-1 kap. 8 § (1 kap. 9 §)                                         L
+1 kap. 8 §, varvid för bolagsrättsliga fondföretag en
+underfond omfattas (1 kap. 9 §)                                 L
+
+För ytterligare underfond i samband med ansökan om
+tillstånd för fondföretag att marknadsföra och sälja andelar
+i företaget i Sverige (1 kap. 9 §)                              E
 
 Tillstånd för fondföretag som redan har tillstånd enligt
-1 kap. 9 § att marknadsföra och sälja andelar i nya
-underfonder i Sverige (1 kap. 9 §)                              K
+1 kap. 9 § att marknadsföra och sälja andelar i
+underfonder i Sverige att göra detta för ytterligare en
+underfond (1 kap. 9 §)                                          J
+
+För ytterligare underfond i samband med ansökan
+om tillstånd för fondföretag som redan har tillstånd
+enligt 1 kap. 9 § att marknadsföra och sälja andelar i
+underfonder i Sverige (1 kap. 9 §)                              E
 
 Underrättelse från fondbolag om att inrätta filial inom EES
 (2 kap. 12 §)                                                   G
@@ -992,7 +1016,7 @@ Tillstånd för förening att verkställa avtal om fusion
 (12 kap. 14 §)                                                  G
 
 Tillstånd till förvärv av aktier eller andelar i ett
-kreditinstitut (14 kap. 1 §)                                    H
+kreditinstitut (14 kap. 1 §)                                    L
 
 Lagen (2004:299) om inlåningsverksamhet
 
@@ -1009,13 +1033,13 @@ Tillstånd för juridisk person att utöva försäkringsförmedling
 
 Tillstånd för fysisk person att utöva försäkringsförmedling
 och sådan sidoverksamhet som avses i 2 kap. 5 § första
-stycket 15 lagen (2007:528) om värdepappersmarknaden (2 kap.
-2 § och 5 kap. 1 § första stycket)                              E
+stycket 15 lagen (2007:528) om värdepappersmarknaden
+(2 kap. 2 § och 5 kap. 1 § första stycket)                      F
 
 Tillstånd för juridisk person att utöva försäkringsförmedling
 och sådan sidoverksamhet som avses i 2 kap. 5 § första
 stycket 15 lagen (2007:528) om värdepappersmarknaden (2 kap.
-2 § och 5 kap. 1 § första stycket)                              F
+2 § och 5 kap. 1 § första stycket)                              G
 
 Utvidgning av tillstånd att utöva försäkringsförmedling
 (2 kap. 2 §)                                                    D
@@ -1091,56 +1115,21 @@ kapitaltillskott och reserver i primärt eller supplementärt
 kapital (3 kap. 4 §)                                            G
 
 Tillstånd att använda en grundläggande internmetod för att
-beräkna riskvägda exponeringsbelopp och där tiden för
-granskning av metoden beräknas inte överstiga 800 timmar
-(4 kap. 7 §)                                                    S
-
-Tillstånd att använda en grundläggande internmetod för att
-beräkna riskvägda exponeringsbelopp och där tiden för
-granskning av metoden beräknas överstiga 800 timmar men
-understiga 2 400 timmar (4 kap. 7 §)                            X
-
-Tillstånd att använda en grundläggande internmetod för att
-beräkna riskvägda exponeringsbelopp och där tiden för
-granskning av metoden beräknas överstiga 2 400 timmar
-(4 kap. 7 §)                                                    Z
+beräkna riskvägda exponeringsbelopp (4 kap. 7 §)                SZ
 
 Tillstånd att använda en avancerad internmetod för att
 beräkna riskvägda exponeringsbelopp när institutet redan
-har tillstånd att använda en grundläggande internmetod och
-där tiden för granskning av den avancerade metoden beräknas
-inte överstiga 120 timmar (4 kap. 7 §)                          O
-
-Tillstånd att använda en avancerad internmetod för att
-beräkna riskvägda exponeringsbelopp när institutet redan
-har tillstånd att använda en grundläggande internmetod och
-där tiden för granskning av den avancerade metoden beräknas
-överstiga 120 timmar men understiga 800 timmar (4 kap. 7 §)     S
-
-Tillstånd att använda en avancerad internmetod för att
-beräkna riskvägda exponeringsbelopp när institutet redan
-har tillstånd att använda en grundläggande internmetod och
-där tiden för granskning av den avancerade metoden beräknas
-överstiga 800 timmar (4 kap. 7 §)                               T
+har tillstånd att använda en grundläggande internmetod
+(4 kap. 7 §)                                                    RZ
 
 Tillstånd att använda en avancerad internmetod för att
 beräkna riskvägda exponeringsbelopp när institutet inte
 redan har tillstånd att använda en grundläggande
-internmetod och där tiden för granskning av den avancerade
-metoden beräknas inte överstiga 1 200 timmar (4 kap. 7 §)       T
+internmetod (4 kap. 7 §)                                        TZ
 
-Tillstånd att använda en avancerad internmetod för att
-beräkna riskvägda exponeringsbelopp när institutet inte
-redan har tillstånd att använda en grundläggande
-internmetod och där tiden för granskning av den avancerade
-metoden beräknas överstiga 1 200 timmar men understiga
-2 800 timmar (4 kap. 7 §)                                       Y
-
-Tillstånd att använda en avancerad internmetod för att
-beräkna riskvägda exponeringsbelopp när institutet inte
-redan har tillstånd att använda en grundläggande
-internmetod och där tiden för granskning av den avancerade
-metoden beräknas överstiga 2 800 timmar (4 kap. 7 §)            Z
+Tillstånd att utföra metodändring i del av den internmetod
+för att beräkna riskvägda exponeringsbelopp
+som tidigare godkänts av Finansinspektionen (4 kap. 7 §)        LS
 
 Tillstånd att byta från en internmetod för att beräkna
 riskvägda exponeringsbelopp till schablonmetoden (4 kap. 11 §)  G
@@ -1337,5 +1326,5 @@ Undantag från handelsstopp (22 kap. 5 § andra stycket)          D
 
 Tillstånd till förvärv av aktier eller andelar i ett
 värdepappersbolag, en börs eller en svensk
-clearingorganisation (24 kap. 1 §)                              H
-Förordning (2008:1299).
+clearingorganisation (24 kap. 1 §)                              L
+Förordning (2009:1415).
