@@ -1,6 +1,6 @@
 
 
-Allmänna bestämmelser
++Allmänna bestämmelser
 
 1 § Statistiska centralbyrån ska varje utjämningsår för varje
 kommun beräkna
@@ -90,15 +90,16 @@ kontaktperson 10 procent av riktvärdet.
 Den genomsnittliga kostnaden per insats ska uppdateras årligen.
 
 6 § Personalkostnadsindexet beräknas dels utifrån
-kostnadsuppgifter från räkenskapssammandraget 2007, dels
+kostnadsuppgifter från räkenskapssammandraget 2008, dels
 utifrån den kostnad som beräknats enligt 4 § första stycket.
 Beräkningen görs på följande sätt.
 
 Ett belopp motsvarande 70 procent av skillnaden mellan en
-beräknad personalkostnad per kommun för år 2007 och den
+beräknad personalkostnad per kommun för år 2008 och den
 personalkostnad som ingår i den i första stycket sistnämnda
-kostnaden, adderas till sistnämnda kostnad. Den erhållna summan
-divideras med den i första stycket sistnämnda kostnaden.
+kostnaden, adderas till sistnämnda kostnad. Den erhållna
+summan divideras med den i första stycket sistnämnda
+kostnaden. Förordning (2009:937).
 
 7 § För beräkningarna gäller i övrigt de beräkningsmetoder och
 närmare detaljer som anges i bilagan till denna förordning.
@@ -145,10 +146,10 @@ Befolkningsuppgifter hämtas från Statistiska centralbyråns
 
 Nettoprisindex
 
-Uppräkning till utjämningsårets kostnadsnivå sker med hjälp av
-utvecklingen av nettoprisindex. Som genomsnittlig procentuell
-förändring i nettoprisindex för respektive år används följande:
-2008 (3,0) och 2009 (2,4).
+Uppräkning till utjämningsårets kostnadsnivå sker med hjälp
+av utvecklingen av nettoprisindex. Som genomsnittlig
+procentuell förändring i nettoprisindex för respektive år
+används följande: 2009 (-0,8) och 2010 (0,3).
 
 Genomsnittskostnaden
 
@@ -307,8 +308,8 @@ S = Standardkostnad enligt tidigare beräkning.
 Beräknade personalkostnader
 
 Lönekostnader inklusive personalomkostnadspålägg (PO-pålägg)
-för anställda som är 26 till 64 år 2007 enligt Sveriges
-Kommuner och Landstings cirkulär 07:76.
+för anställda som är 26 till 64 år 2008 enligt Sveriges
+Kommuner och Landstings cirkulär 08:90.
 
 Tillkommer 85 procent av köp av verksamhet, övriga interna
 kostnader, internt fördelade kostnader.
@@ -321,25 +322,26 @@ verksamheter avseende personlig assistans.
 
 Steg 1
 
-Lönekostnaden (A) x PO-pålägg + 0,85 x (B+C+D+E) - 0,85 x
-(F+G+J) + 0,85 x 0,20 x ((H/0,20) - G) = beräknade
+Lönekostnaden (A) x PO-pålägg + 0,85 x (B+C+D+E)  0,85 x
+(F+G+J) + 0,85 x 0,20 x ((H/0,20)  G) = beräknade
 personalkostnader.
 
 Steg 2
 
-Personalkostnader ersatta via den första beräknade
-standardkostnaden för 2007 multiplicerad med 85 procent = 0,85
+Personalkostnader ingående i den första delen av den
+beräknade standardkostnaden beräknas utgöra 85 procent = 0,85
 x S.
 
- Steg 3
+Steg 3
 
 Mellanskillnaden av steg 1 och steg 2 av överskjutande
-personalkostnader ersätts med 70 procent = (Lönekostnaden (A) x
-PO-pålägg + 0,85 x (B+C+D+E) - 0,85 x (F+G+J) + 0,85 x 0,20 x
-((H/0,20) - G) - (0,85 x S)) x 0,7.
+personalkostnader ersätts med 70 procent = (Lönekostnaden (A)
+x PO-pålägg + 0,85 x (B+C+D+E)  0,85 x (F+G+J) + 0,85 x 0,20
+x ((H/0,20)  G)  (0,85 x S)) x 0,7.
 
-Indexet erhålls genom att standardkostnaden adderas med värdet
-av steg 3 dividerat med standardkostnaden = (S + steg 3) / S.
+Indexet erhålls genom att standardkostnaden adderas med
+värdet av steg 3 dividerat med standardkostnaden = (S + steg
+3) / S.
 
 Slutlig standardkostnad
 
@@ -353,3 +355,4 @@ sammanlagda nettokostnader, uppräknade till utjämningsårets
 prisnivå. Produkten divideras med antalet invånare = S x PK-IX
 x nettoprisindex x korrigeringsfaktorn / antalet invånare i
 kommunen.
+Förordning (2009:937).
