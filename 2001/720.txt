@@ -85,8 +85,9 @@ Uppgifter som behövs för handläggning av ärenden
 Sverige,
 
 7. uppgifter om språk, religion, politisk åskådning, etnisk
-tillhörighet och hälsotillstånd om uppgifterna är oundgängligen
-nödvändiga för de ändamål som sägs i 3 § 1 och 2,
+tillhörighet och hälsotillstånd om uppgifterna är
+oundgängligen nödvändiga för de ändamål som sägs i 3 § 1 och
+2,
 
 8. administrativa uppgifter som behövs för handläggningen av
 ärenden enligt utlännings- och medborgarskapslagstiftningen,
@@ -94,9 +95,10 @@ nödvändiga för de ändamål som sägs i 3 § 1 och 2,
 9. namn- och adressuppgifter som rör god man, ombud och
 biträden samt uppgifter om tolk,
 
-10. uppgifter om anhöriga och kontakt- eller referenspersoner i
-Sverige samt om deras relation till utlänningen om uppgifterna
-är nödvändiga för bedömningen av rätten att vistas i Sverige,
+10. uppgifter om anhöriga och kontakt- eller referenspersoner
+i Sverige samt om deras relation till utlänningen om
+uppgifterna är nödvändiga för bedömningen av rätten att
+vistas i Sverige,
 
 Uppgifter som behövs för mottagandet av asylsökande m.fl.
 
@@ -104,8 +106,8 @@ Uppgifter som behövs för mottagandet av asylsökande m.fl.
 
 12. uppgifter om utbildning, yrke och anställning,
 
-Uppgifter som behövs för förvar och andra tvångsåtgärder enligt
-utlänningslagen (2005:716)
+Uppgifter som behövs för förvar och andra tvångsåtgärder
+enligt utlänningslagen (2005:716)
 
 13. uppgifter om inskrivning vid förvarsenhet,
 
@@ -113,7 +115,7 @@ utlänningslagen (2005:716)
 förhållanden om uppgifterna är oundgängligen nödvändiga för
 förvarstagandet,
 
-Uppgifter som behövs för verkställighet enligt 12 kap.
+ Uppgifter som behövs för verkställighet enligt 12 kap.
 utlänningslagen
 
 15. uppgifter om utresan,
@@ -127,7 +129,7 @@ Uppgifter om beslut
 17. beslut i frågor om uppehålls- och arbetstillstånd,
 återreseförbud eller visering,
 
-18. beslut om resedokument eller flyktingförklaring enligt 4
+18. beslut om resedokument eller statusförklaring enligt 4
 kap. utlänningslagen,
 
 19. beslut om tvångsåtgärder enligt utlänningslagen,
@@ -145,7 +147,7 @@ utlänningslagen,
 medborgarskap,
 
 24. uppgifter om delgivning och expediering av beslut.
-Förordning (2006:124).
+Förordning (2009:1557).
 
 Känsliga personuppgifter
 
@@ -163,17 +165,20 @@ begränsas till att endast avse personuppgifter som en
 tjänsteman oundgängligen behöver för att fullgöra sina
 arbetsuppgifter i verksamhet enligt 1 §. Förordning (2007:506).
 
-6 a § Försäkringskassan får ha direktåtkomst till uppgifter i
-Migrationsverkets verksamhetsregister. Direktåtkomsten ska
-begränsas till uppgifter som behövs inom Försäkringskassans
-verksamhet som underlag för att bedöma eller fastställa förmån,
-ersättning eller annat stöd åt en enskild eller som behövs i
-ett ärende om motsvarande stöd. Försäkringskassan får ha
-direktåtkomst först sedan Migrationsverket har försäkrat sig om
-att handläggare hos Försäkringskassan bara kan ta del av
-uppgifter om personer som är aktuella i ärenden eller
-verksamhet som avser registrering av enskilda hos
-Försäkringskassan.
+6 a § Försäkringskassan och Pensionsmyndigheten får ha
+direktåtkomst till uppgifter i Migrationsverkets
+verksamhetsregister. Direktåtkomsten ska begränsas till
+uppgifter som behövs inom Försäkringskassans och
+Pensionsmyndighetens verksamhet som underlag för att bedöma
+eller fastställa förmån, ersättning eller annat stöd åt en
+enskild eller som behövs i ett ärende om motsvarande stöd.
+Försäkringskassan och Pensionsmyndigheten får ha
+direktåtkomst först sedan Migrationsverket har försäkrat sig
+om att handläggare hos Försäkringskassan och
+Pensionsmyndigheten bara kan ta del av uppgifter om personer
+som är aktuella i ärenden eller verksamhet som avser
+registrering av enskilda hos Försäkringskassan och
+Pensionsmyndigheten.
 
 Direktåtkomsten får endast avse uppgift om
 
@@ -189,16 +194,20 @@ registreringsbevis eller uppehållskort har utfärdats,
 
 4. inresedatum,
 
-5. datum för ansökan om uppehållstillstånd, registrering eller
-ansökan om uppehållskort,
+5. datum för ansökan om uppehållstillstånd, registrering
+eller ansökan om uppehållskort,
 
 6. särskilt bevis enligt 5 kap. 4 § andra stycket
-utlänningsförordningen (2006:97), och
+utlänningsförordningen (2006:97),
 
 7. att uppehållstillstånd har beviljats den enskilde som
-flykting enligt 4 kap. 1 § eller skyddsbehövande i övrigt
-enligt 4 kap. 2 § utlänningslagen (2005:716) eller motsvarande
-äldre bestämmelser. Förordning (2008:979).
+flykting enligt 4 kap. 1 § eller annan skyddsbehövande enligt
+4 kap. 2 eller 2 a § utlänningslagen (2005:716) eller
+motsvarande äldre bestämmelser, och
+
+8. att statusförklaring har beviljats enligt 4 kap. 3 c §
+utlänningslagen eller motsvarande äldre bestämmelser.
+Förordning (2009:1557).
 
 Sökbegrepp
 
@@ -224,14 +233,13 @@ Fingeravtrycksregister
 Ändamål
 
 9 § Migrationsverket får föra ett register över fingeravtryck
-och fotografier som tas med stöd av 9 kap. 8 § utlänningslagen
-(2005:716) (fingeravtrycksregister). Registret får föras med
-hjälp av automatisk databehandling.
+och fotografier som tas med stöd av 9 kap. 8 §
+utlänningslagen (2005:716) (fingeravtrycksregister).
+Registret får föras med hjälp av automatisk databehandling.
 
 Registret får endast användas vid prövning av ansökningar om
-uppehållstillstånd där skäl som avses i 4 kap. 1 eller 2 §
-utlänningslagen åberopas samt i ärenden om avvisning och
-utvisning. Förordning (2006:124).
+uppehållstillstånd där skyddsskäl åberopats samt i ärenden om
+avvisning och utvisning. Förordning (2009:1557).
 
 Innehåll
 
