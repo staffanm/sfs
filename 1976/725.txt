@@ -416,8 +416,9 @@ författningssamling
 
 Domstolsverket
 
-Domstolsverkets                 DVFS
-författningssamling
+Domstolsverkets
+författningssamling             DVFS            Utnyttjas också av
+                                                Notarienämnden
 
 Elsäkerhetsverket
 
@@ -449,11 +450,11 @@ författningssamling                             Fortifikationsverket,
 
 Försäkringskassan
 
-Försäkringskassans              FKFS            Utnyttjas också av
-författningssamling                             Myndigheten för
+Försäkringskassans
+författningssamling             FKFS            Utnyttjas också av
+                                                Myndigheten för
                                                 internationella
-                                                adoptionsfrågor och
-                                                Premiepensionsmyndigheten
+                                                adoptionsfrågor
 
 Högskoleverket
 
@@ -567,6 +568,11 @@ registreringsverket
 Patent- och
 registreringsverkets            PRVFS
 författningssamling
+
+Pensionsmyndigheten
+
+Pensionsmyndighetens
+författningssamling             PFS
 
 Post- och telestyrelsen
 
@@ -750,7 +756,7 @@ författningssamling                             Statens geotekniska
 
 Åklagarmyndighetens             ÅFS
 författningssamling
-Förordning (2009:395).
+Förordning (2009:1538).
 
 Bilaga 2
 
