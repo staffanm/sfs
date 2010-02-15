@@ -1,6 +1,5 @@
 
 
-
 1 kap. Bestämmelser om värderingen
 
 Allmänna bestämmelser
@@ -170,7 +169,7 @@ storlek, ålder, standard, fastighetsrättsliga förhållanden och
 värdeordning klassindelas på sätt som anges i bilaga 1.
 Förordning (2002:288).
 
-6 a § har upphävts genom förordning (1997:452).
+6 a § Har upphävts genom förordning (1997:452).
 
 7 § För småhus ingående i lantbruksenhet gäller med undantag
 för vad som föreskrivs i 7 a och 7 b §§ de bestämmelser som
@@ -234,44 +233,48 @@ föreskriven faktor för sig i den ordning som formeln anger.
 Efter varje multiplikation avrundas produkten nedåt till helt
 tusental kronor. Förordning (1997:452).
 
-Hyreshus
+Hyreshus och ägarlägenhet
 
-8 § För hyreshus skall upprättas en tabell (HK-tabell) över
-kapitaliseringsfaktorer som utvisar värderelationerna mellan
-byggnader tillhörande olika åldersklasser men med samma hyra.
-Tabellen skall för varje åldersklass ange relativa
-kapitaliseringsfaktorer vid olika H-nivåfaktorer och vid skilda
-förhållanden beträffande värdefaktorn lägenhetstyp. För
-byggnader som uppförts under det sjuttonde året före det år då
-allmän fastighetstaxering sker och med en hyra av 100 000
-kronor skall faktorn vara 1,00.
+8 § För hyreshus och ägarlägenhet ska upprättas en tabell
+(HK-tabell) över kapitaliseringsfaktorer som utvisar
+värderelationerna mellan byggnader tillhörande olika
+åldersklasser men med samma hyra. Tabellen ska för varje
+åldersklass ange relativa kapitaliseringsfaktorer vid olika
+H-nivåfaktorer och vid skilda förhållanden beträffande
+värdefaktorn lägenhetstyp. För byggnader som uppförts under
+det sjuttonde året före det år då allmän fastighetstaxering
+sker och med en hyra av 100 000 kronor ska faktorn vara 1,00.
 
-Det skall finnas 72 skilda värdenivåer för hyreshus. De erhålls
-genom att de värden som beräknas med ledning av hyra och
-tillämplig kapitaliseringsfaktor multipliceras med H-
-nivåfaktorer. Dessa skall vara 0,4, 0,5, 0,6, 0,7, 0,8, 0,9,
-1,0, 1,1, 1,2, 1,3, 1,4, 1,5, 1,6, 1,7, 1,8, 1,9, 2,0, 2,1,
-2,2, 2,3, 2,4, 2,5, 2,6, 2,7, 2,8, 2,9, 3,0, 3,1, 3,2, 3,3,
-3,4, 3,5, 3,6, 3,7, 3,8, 3,9, 4,0, 4,2, 4,4, 4,6, 4,8, 5,0,
-5,25, 5,5, 5,75, 6,0, 6,25, 6,5, 6,75, 7,0, 7,25, 7,5, 7,75,
-8,0, 8,25, 8,5, 8,75, 9,0, 9,25, 9,5, 9,75, 10,0, 10,5, 11,0
-11,5, 12,0, 12,5, 13,0, 13,5, 14,0, 14,5 och 15,0. H-
-nivåfaktorn kan bestämmas olika för bostäder och lokaler inom
-ett värdeområde.
+Det ska finnas 72 skilda värdenivåer för hyreshus och
+ägarlägenhet. De erhålls genom att de värden som beräknas med
+ledning av hyra och tillämplig kapitaliseringsfaktor
+multipliceras med H-nivåfaktorer. Dessa ska vara 0,4, 0,5,
+0,6, 0,7, 0,8, 0,9, 1,0, 1,1, 1,2, 1,3, 1,4, 1,5, 1,6, 1,7,
+1,8, 1,9, 2,0, 2,1, 2,2, 2,3, 2,4, 2,5, 2,6, 2,7, 2,8, 2,9,
+3,0, 3,1, 3,2, 3,3, 3,4, 3,5, 3,6, 3,7, 3,8, 3,9, 4,0, 4,2,
+4,4, 4,6, 4,8, 5,0, 5,25, 5,5, 5,75, 6,0, 6,25, 6,5, 6,75,
+7,0, 7,25, 7,5, 7,75, 8,0, 8,25, 8,5, 8,75, 9,0, 9,25, 9,5,
+9,75, 10,0, 10,5, 11,0, 11,5, 12,0, 12,5, 13,0, 13,5, 14,0,
+14,5 och 15,0. H-nivåfaktorn får bestämmas olika för bostäder
+och lokaler inom ett värdeområde.
 
-HK-tabellen skall utformas och värdefaktorerna ålder och
-lägenhetstyp klassindelas på sätt anges i bilaga 2.
-Förordning (2006:327).
+HK-tabellen ska utformas och värdefaktorerna ålder och
+lägenhetstyp klassindelas på det sätt som anges i bilaga 2.
+Förordning (2009:318).
 
-9 § Riktvärden för värderingsenheter omfattande hyreshus bestäms
-och redovisas enligt följande formel.
+9 § Riktvärden för värderingsenheter omfattande hyreshus och
+ägarlägenhet bestäms och redovisas enligt följande formel.
 
 R = N x H x f
 
 där R = riktvärdet,
+
 N = H-nivåfaktorn för värdeområdet,
+
 H = hyran och
+
 f = kapitaliseringsfaktorn enligt HK-tabellen.
+Förordning (2009:318).
 
 Ekonomibyggnader
 
@@ -552,7 +555,7 @@ Genomsnittsskogens virkesförråd barrträd och virkesförråd
 lövträd i olika regioner skall antas uppgå till följande
 belopp.
 
-Region                                       Virkesförråd
+Region                                  Virkesförråd
                                         skogskubikmeter per
                                         hektar
 
@@ -895,7 +898,7 @@ stamnätet. Landet skall indelas i tio belägenhetsklasser och
 korrektionen för belägenhet (kb) skall bestämmas till följande
 belopp.
 
-Klass        Område                          Korrektionsbelopp i kr/kWh
+Klass   Område                          Korrektionsbelopp i kr/kWh
 
 1       Lule älv och norr därom                         -0,14
 
@@ -1368,28 +1371,31 @@ S = värderingsenhetens tomtmarkareal i kvadratmeter.
 Efter föreskriven multiplikation avrundas produkten nedåt till helt
 tusental kronor. Förordning (1995:583).
 
-Tomtmark för hyreshus, industribyggnad och övrig byggnad
+Tomtmark för hyreshus, ägarlägenhet, industribyggnad och
+övrig byggnad
 
-36 § Riktvärdet för tomtmark avseende hyreshus skall
-bestämmas såsom det i riktvärdeangivelsen angivna värdet per
-kvadratmeter byggrätt multiplicerat med värderingsenhetens
-byggrätt i kvadratmeter.
+36 § Riktvärdet för tomtmark avseende hyreshus och
+ägarlägenhet ska bestämmas såsom det i riktvärdeangivelsen
+angivna värdet per kvadratmeter byggrätt multiplicerat med
+värderingsenhetens byggrätt i kvadratmeter.
 
 Riktvärdet för tomtmark avseende industribyggnad och övrig
-byggnad skall bestämmas såsom det i riktvärdeangivelsen angivna
-värdet per kvadratmeter tomtmark eller byggrätt, multiplicerat
-med värderingsenhetens tomtareal i kvadratmeter respektive
-byggrätt i kvadratmeter bruttoyta.
+byggnad ska bestämmas såsom det i riktvärdeangivelsen angivna
+värdet per kvadratmeter tomtmark eller byggrätt,
+multiplicerat med värderingsenhetens tomtareal i kvadratmeter
+respektive byggrätt i kvadratmeter bruttoyta.
 
 Riktvärdeangivelsen får endast avse följande i
 taxeringsvärdenivå anpassade värden per kvadratmeter byggrätt
 eller per kvadratmeter tomtmark:
 
 1. Om värdet inte överstiger 12 kronor per kvadratmeter
-tomtmark eller byggrätt: 1, 2, 3, 4, 5, 6, 8, 10 och 12 kronor
+tomtmark eller
 
-2. Om värdet i kronor per kvadratmeter tomtmark eller byggrätt
-överstiger
+byggrätt: 1, 2, 3, 4, 5, 6, 8, 10 och 12 kronor
+
+2. Om värdet i kronor per kvadratmeter tomtmark eller
+byggrätt överstiger
 
 12 men inte 40 kronor: värde i hela 5-tal kronor,
 
@@ -1404,28 +1410,29 @@ tomtmark eller byggrätt: 1, 2, 3, 4, 5, 6, 8, 10 och 12 kronor
 1 000 men inte 2 000 kronor: värde i hela 100-tal kronor,
 
 2 000 kronor: värde i hela 200-tal kronor.
-Förordning (2001:1223).
+Förordning (2009:318).
 
 37 § Till grund för att bestämma riktvärdeangivelserna för
-tomtmark till hyreshus, industribyggnad och övrig byggnad då
-sådan bristande tillgång till ortspriser föreligger, som avses
-i 5 kap. 5 a § fastighetstaxeringslagen (1979:1152), skall
-tomtvärdetabeller upprättas.
+tomtmark till hyreshus, ägarlägenhet, industribyggnad och
+övrig byggnad då sådan bristande tillgång till ortspriser som
+avses i 5 kap. 5 a § fastighetstaxeringslagen (1979:1152)
+föreligger, ska tomtvärdetabeller upprättas.
 
-Tomtvärdetabellen för tomtmark till hyreshus skall utvisa
-markvärde i kronor per kvadratmeter byggrätt för bostäder och
-lokaler vid olika marknadsvärdenivåer för bebyggda
-hyreshusenheter som uppförts sjuttonde året före det år då
-allmän fastighetstaxering sker.
+Tomtvärdetabellen för tomtmark till hyreshus och ägarlägenhet
+ska utvisa markvärde i kronor per kvadratmeter byggrätt för
+bostäder och lokaler vid olika marknadsvärdenivåer för
+bebyggda hyreshusenheter och ägarlägenhetsenheter som
+uppförts sjuttonde året före det år då allmän
+fastighetstaxering sker.
 
 Tomtvärdetabellen för tomtmark till industribyggnad och övrig
-byggnad skall utvisa markvärde i kronor per kvadratmeter
+byggnad ska utvisa markvärde i kronor per kvadratmeter
 tomtmark vid olika marknadsvärdenivåer för produktionslokaler
 av normal standard som uppförts sjuttonde året före det år då
 allmän fastighetstaxering sker.
 
-Tomtvärdetabellerna skall utformas på det sätt framgår av
-bilagorna 2 a och 7 a. Förordning (2006:327).
+Tomtvärdetabellerna ska utformas på det sätt som framgår av
+bilagorna 2 a och 7 a. Förordning (2009:318).
 
 Täktmark
 
@@ -1671,19 +1678,7 @@ Skatteverket. Förordning (2003:963).
 
 3 kap. Förberedande åtgärder
 
-1 § /Upphör att gälla U:2008-09-01/
-Skatteverket skall framställa förteckningar över vissa
-försäljningar av fastigheter (lagfartsuppgifter).
-Lagfartsuppgifter över försäljningar av obebyggd mark skall
-fortlöpande överlämnas till de statliga
-lantmäterimyndigheterna. Lagfartsuppgifter över andra
-försäljningar skall fortlöpande överlämnas till de tjänstemän
-som Lantmäteriverket har utsett att biträda Skatteverket enligt
-19 kap. 3 och 5 §§ fastighetstaxeringslagen (1979:1152).
-Förordning (2003:963).
-
-1 § /Träder i kraft I:2008-09-01/
-Skatteverket ska framställa förteckningar över vissa
+1 § Skatteverket ska framställa förteckningar över vissa
 försäljningar av fastigheter (lagfartsuppgifter).
 Lagfartsuppgifter över försäljningar av obebyggd mark ska
 fortlöpande överlämnas till Lantmäteriet. Lagfartsuppgifter
@@ -1699,14 +1694,7 @@ fastighetstaxeringen.
 Skatteverket föreskriver efter samråd med Statens jordbruksverk
 hur uppgifterna skall lämnas. Förordning (2003:963).
 
-3 § /Upphör att gälla U:2008-09-01/
-Lantmäteriverket skall på sätt som Skatteverket föreskriver
-lämna biträde vid undersökning som skall företas enligt 19 kap. 3
-och 5 §§ fastighetstaxeringslagen (1979:1152).
-Förordning (2003:963).
-
-3 § /Träder i kraft I:2008-09-01/
-Lantmäteriet ska lämna biträde vid undersökning som ska
+3 § Lantmäteriet ska lämna biträde vid undersökning som ska
 företas enligt 19 kap. 3 och 5 §§ fastighetstaxeringslagen
 (1979:1152). Skatteverket får meddela föreskrifter om på vilket
 sätt biträde ska lämnas. Förordning (2008:701).
@@ -1786,11 +1774,19 @@ fastighetstaxeringen. Förordning (2003:963).
 att allmän och förenklad fastighetsdeklaration får lämnas i
 form av ett elektroniskt dokument. Förordning (2004:281).
 
-4 § Den som vill begära omprövning av eller överklaga
+4 § /Upphör att gälla U:2010-02-15/
+Den som vill begära omprövning av eller överklaga
 Skatteverkets beslut eller överklaga länsrätts beslut har rätt
 att kostnadsfritt få utdrag ur protokoll eller annan expedition
 som bör utfärdas till följd av Skatteverkets eller länsrättens
 beslut. Förordning (2003:963).
+
+4 § /Träder i kraft I:2010-02-15/
+Den som vill begära omprövning av eller överklaga
+Skatteverkets beslut eller överklaga förvaltningsrätts beslut
+har rätt att kostnadsfritt få utdrag ur protokoll eller annan
+expedition som bör utfärdas till följd av Skatteverkets eller
+förvaltningsrättens beslut. Förordning (2009:881).
 
 5 § Avgift tas ut för att Skatteverket efter särskild begäran
 lämnar ut bevis om taxering avseende taxeringsenhet. För avgiftens
@@ -1839,16 +1835,10 @@ fastighetstaxeringen, om inte regeringen förordnat att
 handlingarna skall bevaras för framtiden. Detsamma skall gälla
 angående beslut om fastighetstaxering. Förordning (2003:963).
 
+
 8 kap. Förberedande åtgärder
 
-1 § /Upphör att gälla U:2008-09-01/
-Lantmäteriverket skall i den utsträckning Skatteverket i
-samråd med Lantmäteriverket bestämmer lämna nödvändigt biträde
-under förberedelsearbetet med särskild fastighetstaxering.
-Förordning (2003:963).
-
-1 § /Träder i kraft I:2008-09-01/
-Lantmäteriet ska lämna nödvändigt biträde under
+1 § Lantmäteriet ska lämna nödvändigt biträde under
 förberedelsearbetet med särskild fastighetstaxering.
 Skatteverket får, efter samråd med Lantmäteriet, meddela
 föreskrifter om i vilken utsträckning biträde ska lämnas.
@@ -1868,6 +1858,7 @@ för taxeringen och värdesättningen. Förordning (2003:963).
 
 4 § Bestämmelserna i 2 kap. 6 § skall gälla även vid särskild
 fastighetstaxering.
+
 
 9 kap. Taxering m.m.
 
@@ -2035,3 +2026,8 @@ första gången vid 2008 års fastighetstaxering.
 
 Denna förordning träder i kraft den 1 juni 2008 och tillämpas
 första gången vid 2009 års fastighetstaxering.
+
+2009:318
+
+Denna förordning träder i kraft den 1 juni 2009 och tillämpas
+första gången vid 2010 års fastighetstaxering. 
