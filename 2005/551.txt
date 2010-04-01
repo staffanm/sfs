@@ -101,19 +101,19 @@ skall vara bestämt i bolagets redovisningsvaluta. Av 4 kap. 6 §
 bokföringslagen (1999:1078) framgår att redovisningsvalutan får
 vara antingen svenska kronor eller euro.
 
-5 § Om aktiekapitalet är bestämt i kronor, skall det uppgå till
-minst 100 000 kr.
+5 § Om aktiekapitalet är bestämt i kronor, ska det uppgå till
+minst 50 000 kr.
 
 Om aktiekapitalet är bestämt i euro och har varit bestämt i
-euro sedan bolaget bildades, skall det uppgå till minst det
+euro sedan bolaget bildades, ska det uppgå till minst det
 belopp i euro som enligt den av Europeiska centralbanken då
-fastställda växelkursen motsvarade 100 000 kr. Har
-aktiekapitalet tidigare varit bestämt i kronor, skall det uppgå
+fastställda växelkursen motsvarade 50 000 kr. Har
+aktiekapitalet tidigare varit bestämt i kronor, ska det uppgå
 till minst det belopp i euro som vid bytet av
-redovisningsvaluta motsvarade 100 000 kr.
+redovisningsvaluta motsvarade 50 000 kr.
 
 I fråga om publika aktiebolag gäller 14 § i stället för första
-och andra styckena.
+och andra styckena. Lag (2010:89).
 
 6 § Om aktiekapitalet är fördelat på flera aktier,
 representerar varje aktie en lika stor andel av aktiekapitalet.
@@ -2138,6 +2138,7 @@ ordinarie bolagsstämma får utfärdas senare än vad som anges i
 första stycket, dock senast två veckor före bolagsstämman.
 
 Andra stycket gäller inte i fråga om publika aktiebolag.
+
 
 Extra bolagsstämma där ändring av bolagsordningen kommer att
 behandlas
@@ -4352,6 +4353,7 @@ kontoföring av finansiella instrument.
 
 
 
+
 Om bolaget har tillförsäkrat innehavare av teckningsoptioner
 eller konvertibler rätt till teckning av nya aktier,
 teckningsoptioner eller konvertibler och teckningsoptionerna
@@ -4735,6 +4737,7 @@ Avstämningsdagen får inte sättas tidigare än en vecka från
 dagen för beslutet.
 
 I fråga om apportegendom gäller bestämmelserna i 2 kap. 6 §.
+
 
 Ett bemyndigande som avses i första stycket 8 får lämnas endast
 om aktierna skall tas upp till handel på en reglerad marknad
@@ -7986,6 +7989,7 @@ undantag enligt 8 §. Om en borgenär begär det, skall hans eller
 hennes fordran betalas eller betryggande säkerhet ställas för
 den innan ansökan får bifallas.
 
+
 Första stycket gäller inte, om borgenärernas ställning
 uppenbarligen inte påverkas av att undantag medges.
 
@@ -8490,6 +8494,7 @@ föreskrivs i 25 kap. 40 §.
 Likvidationen skall anses avslutad när anmälan om fusionen
 enligt 25 § har registrerats eller tillstånd att verkställa en
 fusionsplan har registrerats enligt 34 §.
+
 
 Särskilda rättighetshavares ställning
 
@@ -10752,6 +10757,7 @@ Lag (2007:373).
 
 
 
+
 3 § Ett beslut enligt 1 § skall anmälas för registrering i
 aktiebolagsregistret.
 
@@ -11634,4 +11640,12 @@ ikraftträdandet.
 4. För ett uppdrag som revisor som innehas vid
 ikraftträdandet räknas den tid som anges i 9 kap. 21 a §
 första stycket från den första ordinarie bolagsstämma som
-hålls efter ikraftträdandet. 
+hålls efter ikraftträdandet.
+
+2010:89
+
+1. Denna lag träder i kraft den 1 april 2010.
+
+2. Vid registrering av ett aktiebolag som har bildats före ikraftträdandet
+gäller det lägsta
+tillåtna aktiekapital som föreskrivs i äldre bestämmelser.
