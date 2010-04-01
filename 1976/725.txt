@@ -389,11 +389,6 @@ Arbetsmiljöverket
 Arbetsmiljöverkets
 författningssamling             AFS
 
-Banverket
-
-Banverkets                      BV-FS
-författningssamling
-
 Bolagsverket
 
 Bolagsverkets                   BOLFS
@@ -470,10 +465,10 @@ författningssamling
 
 Kammarkollegiet
 
-Kammarkollegiets                KAMFS           Utnyttjas också av
-författningssamling                             Fastighetsmäklarnämnden
-                                                och Statens institut för
-                                                kommunikationsanalys (SIKA)
+Kammarkollegiets
+författningssamling             KAMFS           Utnyttjas också av
+                                                Fastighetsmäklarnämnden
+                                                och Trafikanalys
 
 Kemikalieinspektionen
 
@@ -721,6 +716,15 @@ Totalförsvarets pliktverk
 Totalförsvarets pliktverks      TPVFS
 författningssamling
 
+Trafikverket
+
+Trafikverkets
+författningssamling             TRVFS           Utnyttjas också av
+                                                Statens geotekniska
+                                                institut samt Statens
+                                                väg- och
+                                                transportforskningsinstitut
+
 Transportstyrelsen
 
 Transportstyrelsens             TSFS            Utnyttjas också av
@@ -745,18 +749,11 @@ Vetenskapsrådet
 Vetenskapsrådets                VRFS
 författningssamling
 
-Vägverket
-
-Vägverkets                      VVFS            Utnyttjas också av
-författningssamling                             Statens geotekniska
-                                                institut, Statens väg- och
-                                                transportforskningsinstitut
-
 Åklagarmyndigheten
 
 Åklagarmyndighetens             ÅFS
 författningssamling
-Förordning (2009:1538).
+Förordning (2010:172).
 
 Bilaga 2
 
@@ -774,6 +771,14 @@ Finansinspektionen      Föreskrifterna          Medgivandet gäller
                         hos myndigheten         föreskrifter om
                                                 kapitaltäckning och
                                                 stora exponeringar
+
+Fiskeriverket           Föreskrifterna          Medgivandet gäller
+                        publiceras elektroniskt t.v. och endast
+                        och hålls tillgängliga  föreskrifter om
+                        hos myndigheten         realtidsstängning
+                                                av fiskevatten och
+                                                fiskeförbud vid
+                                                uppfiskad fiskekvot
 
 Konsumentverket         Konsumentverkets        Medgivandet gäller t.v.
                         tekniska föreskrifter   och endast föreskrifter
@@ -812,7 +817,7 @@ Statens järnvägar       SJ Föreskrifter (SJF)   Medgivandet gäller t.v.
 Styrelsen för           Utbildningsplaner       Medgivandet gäller t.v.
 Sveriges                                        och endast för
 lantbruksuniversitet                            utbildningsplaner
-Förordning (2006:1087)
+Förordning (2010:172)
 
 Bilaga 3
 
