@@ -482,14 +482,12 @@ infrastruktur   kraftnät
                 Statens                         x               x
                 energimyndighet
 
-Transporter     Banverket                       x               x
-
-                Sjöfartsverket                  x               x
-
-                Vägverket                       x               x
+Transporter     Sjöfartsverket                  x               x
 
                 Statens                         x               x
                 energimyndighet
+
+                Trafikverket                    x               x
 
                 Transportstyrelsen              x               x
 
@@ -556,4 +554,4 @@ och vård
                 Transportstyrelsen              x               x
 
                 Tullverket                      x               x
-Förordning (2009:1197).
+Förordning (2010:154).
