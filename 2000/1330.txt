@@ -80,6 +80,8 @@ odling. Förordning (2005:1225).
 
 
 
+
+
 6 § Bestämmelserna i 2 § första stycket gäller inte heller
 utsäde av fröburna växtslag som skall säljas som icke slutligt
 certifierat utsäde till något annat land inom Europeiska
@@ -328,24 +330,30 @@ Lantbruksväxter
 
 Stråsäd
 
-Havre                           Avena sativa L.
+Nakenhavre                      Avena nuda L.
+Havre och rödhavre              Avena sativa L. (även A.
+                                byzantina K. Koch)
+Purrhavre                       Avena strigosa Schreb.
 Korn                            Hordeum vulgare L.
 Ris                             Oryza sativa L.
 Råg                             Secale cereale L.
 Sorghum                         Sorghum bicolor (L.) Moench
 Sorghum (hybrider mellan
-sorghum och sudangräs)          Sorghum
-bicolor X Sorghum sudanense
-Sudangräs                       Sorghum sudanese (Piper) Stapf.
-Rågvete                         x Triticosecale Wittmack
-Vete                            Triticum aestivum L. emend. Fioriet Paol.
+Sorghum bicolor och Sorghum
+sudanense)                      Sorghum bicolor (L.) Moench x
+                                Sorghum sudanense (Piper) Stapf
+Sudangräs                       Sorghum sudanense (Piper) Stapf
+Rågvete (hybrider mellan
+Triticum och Secale)            x Triticosecale Wittm. ex A.
+                                Camus
+Vete                            Triticum aestivum L.
 Durumvete                       Triticum durum Desf.
 Speltvete                       Triticum spelta L.
 Kanariegräs                     Phalaris canariensis L.
 Majs utom puffmajs (popcorn)
-och sockermajs                  Zea mays L. med
-undantag av convar              microsperma Koern. och convar.
-sacchata Koern.
+och sockermajs                  Zea mays L. med undantag av
+                                convar microsperma Koern. och
+                                convar. sacchata Koern.
 
 Foderväxter
 
@@ -357,31 +365,33 @@ Storven                         Agrostis gigantea Roth
 Krypven                         Agrostis stolonifera L.
 Ängskavle                       Alopecurus pratensis L.
 Knylhavre                       Arrhenatherum elatius (L.) P.
-Beauv. ex. J.S. et
-K.B. Presl.
+                                Beauv. ex J. Presl & C. Presl
 Plattlosta                      Bromus catharticus Vahl
 Alaskagräs                      Bromus sitchensis Trin.
 Bermudagräs                     Cynodon dactylon (L.) Pers.
 Hundäxing                       Dactylis glomerata L.
 Rörsvingel                      Festuca arundinacea Schreber
+Finsvingel                      Festuca filiformis Pourr.
 Fårsvingel                      Festuca ovina L.
-Hårdsvingel                     Festuca ovina L. var. duriuscula Koch
-Ängssvingel                     Festuca pratensis Hudson
+Ängssvingel                     Festuca pratensis Huds.
 Rödsvingel                      Festuca rubra L.
-Rajsvingel                      Festuca spp x Lolium spp
+Hårdsvingel                     Festuca trachyphylla (Hack.)
+                                Krajina
+Rajsvingel (hybrider mellan
+Festuca och Lolium)             x Festulolium Asch. & Graebn.
 Italienskt rajgräs
-(inkl. westerwoldiskt
-rajgräs)                        Lolium multiflorum Lam.
+(inkl. westerwoldiskt rajgräs)  Lolium multiflorum Lam.
 Engelskt rajgräs                Lolium perenne L.
 Hybridrajgräs                   Lolium x boucheanum Kunth
-Turftimotej                     Phleum bertolonii DC.
+Turftimotej, Vildtimotej        Phleum nodosum L.
 Timotej                         Phleum pratense L.
 Vitgröe                         Poa annua L.
 Lundgröe                        Poa nemoralis L.
 Sengröe                         Poa palustris L.
 Ängsgröe                        Poa pratensis L.
 Kärrgröe                        Poa trivialis L.
-Gullhavre                       Trisetum flavescens (L.) P. Beauv.
+Gullhavre                       Trisetum flavescens (L.) P.
+                                Beauv.
 
 2. Baljväxter
 
@@ -427,11 +437,11 @@ Sockerbeta                      Beta vulgaris L. var. altissima Döll
 Olje- och spånadsväxter
 
 Jordnöt                         Arachis hypogaea L.
-Sareptasenap                    Brassica juncea (L.) Czernj. Cosson
+Sareptasenap                    Brassica juncea (L.) Czern.
 Raps                            Brassica napus L. (partim)
-Svartsenap                      Brassica nigra (L.) Koch
-Rybs                            Brassica rapa L. var. silvestris
-(Lam.) Briggs
+Svartsenap                      Brassica nigra (L.) W.D.J. Koch
+Rybs                            Brassica rapa L. var.
+                                silvestris (Lam.) Briggs
 Hampa                           Cannabis sativa L.
 Safflor                         Carthamus tinctorius L.
 Kummin                          Carum carvi L.
@@ -439,7 +449,7 @@ Sojaböna                        Glycine max (L.) Merr.
 Bomull                          Gossypium spp
 Solros                          Helianthus annuus L.
 Oljelin, Spånadslin             Linum usitatissimum L.
-Vallmo                          Papaver somniferum L.
+Vallmo, Opievallmo              Papaver somniferum L.
 Vitsenap                        Sinapis alba L.
 
 Potatis
@@ -512,7 +522,7 @@ Vintersallat                    Valerianella locusta (L.) Laterr.
 Bondböna                        Vicia faba L. (partim)
 Sockermajs                      Zea mays L. (partim)
 Popmajs
-Förordning (2008:809).
+Förordning (2010:476).
 
 Bilaga 2
 
