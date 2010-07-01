@@ -1990,29 +1990,7 @@ befogenhet att bestämma om förare av fordonet eller anlitar
 någon annan förare än den som ägaren har utsett döms i ägarens
 ställe enligt andra stycket. Förordning (2002:945).
 
-2 § /Upphör att gälla U:2010-02-01/
-Till penningböter döms den som uppsåtligen eller av
-oaktsamhet bryter mot
-
-1. 6 kap. 11 §,
-
-2. 7 kap. 10 eller 16 § jämförd med 10 §,
-
-3. 8 kap. 14 § andra stycket,
-
-4. 10 kap. 11, 12 eller 13 §,
-
-5. 14 kap. 7 §, eller
-
-6. 5 § tredje stycket andra meningen.
-
-Till samma straff döms den som uppsåtligen eller av
-oaktsamhet bryter mot föreskrifter om skyltar eller märken
-som har beslutats enligt bemyndiganden i denna förordning.
-Förordning (2009:936).
-
-2 § /Träder i kraft I:2010-02-01/
-Till penningböter döms den som uppsåtligen eller av
+2 § Till penningböter döms den som uppsåtligen eller av
 oaktsamhet bryter mot
 
 1. 6 kap. 11 §,
@@ -2497,6 +2475,7 @@ tunga fordon
 4. Uppgifter från besiktning, efterkontroll och flygande
 inspektion
 
+/Upphör att gälla U:2010-07-01/
 Bedömningskod för respektive brist
 
 Datum när besiktning senast skall ha skett
@@ -2527,6 +2506,69 @@ Mätvärden
 Underkänt besiktningsresultat
 
 Vägmätarställning
+
+/Träder i kraft I:2010-07-01/
+Besiktningsorgan och besiktningsstation där besiktningen
+utförts
+
+Besiktningstekniker som utfört och rapporterat besiktningen
+
+Län där besiktningen utförts
+
+Bedömningskod för respektive brist
+
+Chassinummer vid underkänd registreringsbesiktning
+
+Datum och klockslag då besiktningen utförts
+
+Datum när besiktning senast ska ha skett
+
+Detalj-, positions-, läges- och bristkod
+
+Föreläggande om besiktning med angivande av senaste datum för
+föreläggandet
+
+Godkänt besiktningsresultat
+
+Identifieringsnummer för besiktningsprotokoll
+
+Motivering av underkänd besiktning eller orsak till icke
+slutförd besiktning
+
+Resultat av mopedbesiktning
+
+Lämplighetsbesiktning
+
+- användning
+
+- godkännande
+
+Myndighetskod
+
+Mätvärden
+
+- bromskraftsvärde
+
+- retardationsvärde
+
+- avgasvärde
+
+Underkänt besiktningsresultat
+
+Vägmätarställning
+
+I fråga om sådana ackrediterade verkstäder som avses i 6 kap.
+17 §
+
+fordonsförordningen (2009:211) antecknas följande uppgifter.
+
+Namn eller firma
+
+Personnummer, organisationsnummer, samordningsnummer eller
+motsvarande
+
+Adress i landet. Om sådan adress saknas får en adress i ett
+annat land anges.
 
 5. Uppgifter om saluvagnslicens
 
@@ -2679,11 +2721,36 @@ Uppgifter från internationella register
 
 Ärendenummer
 
+/Upphör att gälla U:2010-07-01/
 8. Övriga uppgifter
 
 Uppgifter som behövs av administrativa skäl vid handläggningen
 av frågor om fordonsregistrering.
-Förordning (2009:936).
+
+/Träder i kraft I:2010-07-01/
+8. Ackrediterade besiktningsorgan
+
+Namn eller firma
+
+Personnummer eller organisationsnummer
+
+Datum för ackrediteringen
+
+Län som ackrediteringen avser
+
+Besiktningsstationer
+
+Fordonskategorier som ackrediteringen avser
+
+Adress i landet
+
+Förändringar eller återkallelser av ackrediteringen
+
+9. Övriga uppgifter
+
+Uppgifter som behövs av administrativa skäl vid
+handläggningen av frågor om fordonsregistrering
+Förordning (2010:76).
 
 Bilaga 2
 
@@ -3022,7 +3089,7 @@ Bilaga 3
 I vägtrafikregistret ska i fråga om yrkestrafikregistreringen
 följande uppgifter föras in.
 
-Uppgifter                            Särskilda regler
+Uppgifter                               Särskilda regler
 
 1. Identitetsuppgifter
 
@@ -3148,7 +3215,7 @@ anledning av ansökan
 
 4. Uppgifter om taxiförarlegitimation m.m.
 
-Begäran om förhandsbesked och                Uppgift om begäran ska
+Begäran om förhandsbesked och           Uppgift om begäran ska
 beslut med anledning av begäran         gallras när beslut
                                         meddelats
 
@@ -3203,7 +3270,7 @@ förordningen (2004:865) om kör-
 och vilotider samt färdskrivare,
 m.m.
 
-Uppgift om bokning av skriftligt     Uppgiften ska gallras
+Uppgift om bokning av skriftligt        Uppgiften ska gallras
 prov för förare i yrkeskompetens        fem år efter det att
 som anges i 7 § förordningen            provet bokades
 (1993:185) om arbetsförhållanden
@@ -3213,7 +3280,7 @@ förordningen (2004:865) om kör-
 och vilotider samt färdskrivare,
 m.m.
 
-Uppgift om genomfört körprov för     Uppgiften ska gallras
+Uppgift om genomfört körprov för        Uppgiften ska gallras
 taxiförarlegitimation enligt 3          fem år efter det att
 kap. 3 § 5 yrkestrafiklagen             provet genomfördes
 (1998:490)
