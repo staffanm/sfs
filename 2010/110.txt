@@ -3068,6 +3068,7 @@ inkomstskattelagen, och
 inkomstskattelagen vid byte av bostad.
 
 
+
 Underskott i inkomstslaget kapital ska minskas med gjorda
 avdrag i inkomstslaget, dock inte med avdrag som avses i
 första stycket 1 och 2.
@@ -4249,6 +4250,13 @@ Plikttjänstgöring
 16 § SGI-skydd gäller under tid då den försäkrade fullgör
 tjänstgöring enligt lagen (1994:1809) om totalförsvarsplikt.
 
+Etableringsinsatser
+
+16 a § SGI-skydd gäller under tid då den försäkrade deltar i
+aktiviteter enligt en etableringsplan som avses i lagen
+(2010:197) om etableringsinsatser för vissa nyanlända
+invandrare. Lag (2010:352).
+
 Sjukpenning och rehabiliteringsersättning, m.m.
 
 17 § SGI-skydd gäller under tid då den försäkrade inte
@@ -4274,24 +4282,30 @@ avsikten är att förvärvsavbrottet ska pågå längre tid.
 Sjukpenninggrundande inkomst och årsarbetstid i vissa
 situationer
 
-Studier, periodiskt ekonomiskt stöd och
-arbetsmarknadspolitiska åtgärder m.m.
+Studier, periodiskt ekonomiskt stöd, arbetsmarknadspolitiska
+åtgärder och etableringsinsatser m.m.
 
-19 § För en försäkrad som bedriver studier som avses i 11 §
-eller får periodiskt ekonomiskt stöd som avses i 12 § eller
-deltar i ett arbetsmarknadspolitiskt program och får
-aktivitetsstöd eller utvecklingsersättning gäller vid sjukdom
-det som föreskrivs i andra stycket.
+19 § Vid sjukdom gäller det som föreskrivs i andra stycket för
+en försäkrad som
 
-Under den tid som avses i första stycket ska sjukpenningen
-för den försäkrade beräknas på en sjukpenninggrundande
-inkomst som har fastställts på grundval av enbart den inkomst
-av eget arbete som den försäkrade kan antas få under den
-tiden. Om den sjukpenninggrundande inkomsten då helt eller
-delvis är inkomst av anställning, ska årsarbetstiden beräknas
-på grundval av enbart det antal arbetstimmar som den
-försäkrade kan antas ha i det förvärvsarbetet under den
-aktuella tiden.
+ bedriver studier som avses i 11 §,
+
+ får periodiskt ekonomiskt stöd som avses i 12 §,
+
+ deltar i ett arbetsmarknadspolitiskt program och får
+aktivitetsstöd eller utvecklingsersättning, eller
+
+ deltar i aktiviteter enligt en etableringsplan.
+
+Under den tid som avses i första stycket ska sjukpenningen för
+den försäkrade beräknas på en sjukpenninggrundande inkomst som
+har fastställts på grundval av enbart den inkomst av eget
+arbete som den försäkrade kan antas få under den tiden. Om den
+sjukpenninggrundande inkomsten då helt eller delvis är inkomst
+av anställning, ska årsarbetstiden beräknas på grundval av
+enbart det antal arbetstimmar som den försäkrade kan antas ha
+i det förvärvsarbetet under den aktuella tiden.
+Lag (2010:352).
 
 Plikttjänstgöring
 
@@ -13293,6 +13307,7 @@ Sammanlagd försäkringstid
 8 § Den sammanlagda försäkringstiden för garantipension ska
 sättas ned till närmaste hela antal år.
 
+
 Beräkning av garantipension till omställningspension
 
 Grundläggande bestämmelser
@@ -14931,7 +14946,7 @@ Vissa andra inkomster
 
 13 § Med vissa andra inkomster enligt 2 § 6 avses följande:
 
-1. inkomst som på grund av 3 kap. 9-13 §§ inkomstskattelagen
+1. inkomst som på grund av 3 kap. 913 §§ inkomstskattelagen
 (1999:1229) eller skatteavtal inte ska tas upp som intäkt i
 inkomstslaget näringsverksamhet, tjänst eller kapital,
 
@@ -14941,14 +14956,18 @@ tilläggsbidrag,
 3. skattefria stipendier över 3 000 kronor per månad,
 
 4. skattepliktiga inkomster enligt 5 § lagen (1991:586) om
-särskild inkomstskatt för utomlands bosatta, och
+särskild inkomstskatt för utomlands bosatta,
 
 5. vårdnadsbidrag enligt lagen (2008:307) om kommunalt
-vårdnadsbidrag.
+vårdnadsbidrag, och
+
+6. etableringsersättning enligt lagen (2010:197) om
+etableringsinsatser för vissa nyanlända invandrare.
 
 Inkomster som avses i första stycket 2 och 3 och som i slutet
 av ett år betalas ut i förskott som hänförliga till
 nästföljande år ska beaktas för det senare året.
+Lag (2010:352).
 
 Kostnader för bostad
 
@@ -15441,10 +15460,10 @@ förmögenhet vid beräkning av vissa förmåner.
 
 Vissa andra inkomster
 
-15 § Med vissa andra inkomster enligt 7 § 5 avses detsamma
-som i 97 kap. 13 § första stycket 1-3 och 5 samt ersättning
+15 § Med vissa andra inkomster enligt 7 § 5 avses detsamma som
+i 97 kap. 13 § första stycket 13, 5 och 6 samt ersättning
 från avtalsgruppsjukförsäkringar för sjukdomsfall som
-inträffat före år 1991.
+inträffat före år 1991. Lag (2010:352).
 
 Beräkning av reduceringsinkomst
 
@@ -16119,6 +16138,7 @@ om båda ersättningarna hade fattats samtidigt.
 
 Det som föreskrivs i första stycket gäller även
 bostadstillägg.
+
 
 4 § Vid utbetalning av efterlevandepension för tid före
 ansökningsmånaden ska beloppet minskas om det för samma tid
