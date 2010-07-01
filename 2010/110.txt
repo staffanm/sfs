@@ -1011,8 +1011,8 @@ lämnas för varje dag som nedsättningen består. Ersättningen
 lämnas dock tidigast från och med den sextionde dagen före
 den beräknade tidpunkten för barnets födelse.
 
-7 § Graviditetspenning vid förbud mot förvärvsarbete enligt 3
-§ lämnas för varje dag som förbudet gäller.
+7 § Graviditetspenning vid förbud mot förvärvsarbete enligt
+3 § lämnas för varje dag som förbudet gäller.
 
 8 § Graviditetspenning lämnas längst till och med den elfte
 dagen före den beräknade tidpunkten för barnets födelse.
@@ -1030,18 +1030,19 @@ beräkningsunderlaget för sjukpenning på normalnivån enligt 28
 kap. 7 § 1.
 
 11 § Det som i denna balk i övrigt eller i annan författning
-föreskrivs om sjukpenning enligt 25-28 kap. gäller i
-tillämpliga delar även i fråga om graviditetspenning, med
-undantag av bestämmelserna i
+föreskrivs om sjukpenning enligt 25-28 kap. gäller i tillämpliga
+delar även i fråga om graviditetspenning, med undantag av
+bestämmelserna i
 
 - 27 kap. 5 § om ersättning för merutgifter,
 
-- 27 kap. 27 § om karensdag,
+- 27 kap. 27 § om karensdagar,
 
 - 27 kap. 29-33 §§ om karenstid, och
 
 - 28 kap. 7 § 2 om beräkningsunderlag för sjukpenning på
-fortsättningsnivån.
+fortsättningsnivån. Lag (2010:423).
+
 
 11 kap.  Allmänna bestämmelser om föräldrapenningsförmåner
 
@@ -1739,6 +1740,10 @@ lider av allvarlig sjukdom, och
 behöver delta i läkarbesök eller i behandling som ordinerats
 av läkare.
 
+3 a § Särskilda bestämmelser om rätt till tillfällig
+föräldrapenning när denna förmån lämnas på grundval av inkomst
+av annat förvärvsarbete finns i 35 §. Lag (2010:423).
+
 Förhandsbesked om tillfällig föräldrapenning
 
 4 § Försäkringskassan får i förväg pröva om förutsättningarna
@@ -2115,12 +2120,12 @@ Beräkning av tillfällig föräldrapenning
 
 Grundläggande bestämmelser
 
-33 § Tillfällig föräldrapenning beräknas enligt
-bestämmelserna om sjukpenning på normalnivån och
-sjukpenninggrundande inkomst i 25-28 kap. samt 34-38 §§ i
-detta kapitel, dock med undantag av bestämmelserna i
+33 § Tillfällig föräldrapenning beräknas enligt bestämmelserna
+om sjukpenning på normalnivån och sjukpenninggrundande inkomst i
+25-28 kap. samt 34-38 §§ i detta kapitel, dock med undantag av
+bestämmelserna i
 
-- 27 kap. 27 § om karensdag,
+- 27 kap. 27 § om karensdagar,
 
 - 27 kap. 29-33 §§ om karenstid, och
 
@@ -2129,9 +2134,9 @@ fortsättningsnivån.
 
 För hel tillfällig föräldrapenning motsvarar ersättningsnivån
 förälderns beräkningsunderlag för sjukpenning på normalnivån
-enligt 28 kap. 7 § 1 grundat på en sjukpenninggrundande
-inkomst beräknad enligt första stycket
-(beräkningsunderlaget).
+enligt 28 kap. 7 § 1 grundat på en sjukpenninggrundande inkomst
+beräknad enligt första stycket (beräkningsunderlaget).
+Lag (2010:423).
 
 Inkomst av anställning
 
@@ -2141,23 +2146,30 @@ med tillämpning av bestämmelserna i 28 kap. 13-16 §§.
 
 Inkomst av annat förvärvsarbete m.m.
 
-35 § Om tillfällig föräldrapenning lämnas på grundval av
-inkomst av annat förvärvsarbete, ska hel tillfällig
-föräldrapenning för dag motsvara kvoten mellan
-beräkningsunderlaget och 365.
+35 § Om tillfällig föräldrapenning lämnas på grundval av inkomst
+av annat förvärvsarbete, ska hel tillfällig föräldrapenning för
+dag motsvara kvoten mellan beräkningsunderlaget och 260.
 
 Beloppet avrundas till närmaste hela krontal, varvid 50 öre
-avrundas uppåt.
+avrundas uppåt. Tillfällig föräldrapenning lämnas under högst
+fem kalenderdagar per sjudagarsperiod. För det fall föräldern
+avstår från förvärvsarbete under fler än fem kalenderdagar under
+en sjudagarsperiod, lämnas tillfällig föräldrapenning för de
+första fem dagarna i perioden. Sjudagarsperioden ska alltid
+beräknas med utgångspunkt i den dag för vilken ersättning
+begärs, varefter de närmast föregående sex dagarna räknas med i
+perioden. Lag (2010:423).
 
-36 § Tillfällig föräldrapenning beräknas enligt 35 § även i
-följande situationer:
+36 § Hel tillfällig föräldrapenning ska för dag motsvara kvoten
+mellan beräkningsunderlaget och 365, varvid beloppet avrundas
+till närmaste hela krontal och 50 öre avrundas uppåt
 
-1. när den försäkrade ska få tillfällig föräldrapenning för
-tid då annars graviditetspenning, föräldrapenning eller
+1. när den försäkrade ska få tillfällig föräldrapenning för tid
+då annars graviditetspenning, föräldrapenning eller
 rehabiliteringspenning skulle ha lämnats, och
 
-2. när den försäkrade är arbetslös och söker arbete i
-enlighet med 28 kap. 6 § första stycket 1.
+2. när den försäkrade är arbetslös och söker arbete i enlighet
+med 28 kap. 6 § första stycket 1. Lag (2010:423).
 
 Inkomst av såväl anställning som annat förvärvsarbete
 
@@ -2171,11 +2183,11 @@ enligt 35 §.
 Familjehemsförälder
 
 38 § Om en familjehemsförälder får ersättning för vården av
-barnet, ska det bortses från den del av den
-sjukpenninggrundande inkomsten som grundas på ersättningen.
+barnet, ska det bortses från den del av den sjukpenninggrundande
+inkomsten som grundas på ersättningen.
 
-Vidare ska tillfällig föräldrapenning beräknas enligt 35 § i
-fall som avses i 28 kap. 6 § andra stycket.
+Vidare ska tillfällig föräldrapenning beräknas enligt 36 § i
+fall som avses i 28 kap. 6 § andra stycket. Lag (2010:423).
 
 III  Barnbidrag
 
@@ -3870,10 +3882,17 @@ Det som anges i första stycket gäller endast i den
 utsträckning inkomsten inte ska räknas som inkomst av
 anställning. Vidare gäller det som anges i 9-17 och 19-24 §§.
 
-9 § När sjukpenninggrundande inkomst av annat förvärvsarbete
-beräknas får inkomst av arbete för egen räkning inte beräknas
-högre än vad som motsvarar skälig avlöning för liknande
-arbete för annans räkning.
+9 § För en försäkrad som har inkomst av annat förvärvsarbete och
+som bedriver näringsverksamhet ska, under en tid om 24 månader
+räknat från den månad då den försäkrade har gjort eller borde ha
+gjort anmälan för registrering enligt 3 kap. 2 §
+skattebetalningslagen (1997:483), den sjukpenninggrundande
+inkomsten från näringsverksamheten beräknas till minst vad som
+motsvarar skälig avlöning för liknande arbete för annans
+räkning. I det fall den försäkrade inte har skyldighet att
+anmäla sig för registrering, ska tiden om 24 månader räknas som
+om en sådan skyldighet hade gällt för honom eller henne.
+Lag (2010:423).
 
 Ersättning till den som har F-skattsedel
 
@@ -4776,22 +4795,29 @@ med stöd av sådant kollektivavtal som avses i 56 §, ska
 sjukperioden enligt denna lag anses omfatta också sådana
 perioder. Lag (2010:343).
 
-Karensdag
+Karensdagar
 
-27 § Sjukpenning lämnas inte för den första dagen i en
-sjukperiod (karensdag), om inte något annat följer av 28 §,
-39 § eller 40-44 §§. Om sjukpenningen ska arbetstidsberäknas
-gäller detta den första dag i sjukperioden som den försäkrade
-skulle ha förvärvsarbetat om han eller hon inte hade varit
-sjuk.
+27 § Om inte något annat följer av 28 §, 39 § eller 40-44 §§
+gäller
 
-Bestämmelser om karenstid i stället för karensdag finns i 29-
-31 §§.
+1. att sjukpenning som svarar mot inkomst av anställning inte
+lämnas för den första dagen i en sjukperiod (karensdag), och
+
+2. att sjukpenning som svarar mot inkomst av annat
+förvärvsarbete inte lämnas under de första sju dagarna i en
+sjukperiod (karensdagar).
+
+Om sjukpenningen ska arbetstidsberäknas, gäller detta den första
+dag i sjukperioden enligt första stycket 1 som den försäkrade
+skulle ha förvärvsarbetat om han eller hon inte hade varit sjuk.
+
+Bestämmelser om karenstid i stället för karensdagar finns i
+29-31 §§. Lag (2010:423).
 
 28 § Till en försäkrad som har rätt till sjukpenning under
-medicinsk behandling eller medicinsk rehabilitering  enligt 6
-§ lämnas sjukpenning på normalnivån eller fortsättningsnivån
-även för dag som avses i 27 §.
+medicinsk behandling eller medicinsk rehabilitering enligt 6 §
+lämnas sjukpenning på normalnivån eller fortsättningsnivån även
+för dagar som avses i 27 §. Lag (2010:423).
 
 28 a § /Träder i kraft I:2011-02-01/
 Till en sjöman på fartyg som inte uteslutande går i
@@ -4804,25 +4830,29 @@ Karenstid för den som betalar egenavgift
 
 29 § En försäkrad som har inkomst av annat förvärvsarbete och
 som betalar egenavgift har rätt att anmäla till
-Försäkringskassan att han eller hon vill ha sjukpenning med
-en karenstid på 3 eller 30 dagar.
+Försäkringskassan att han eller hon vill ha sjukpenning med en
+karenstid på 14, 30, 60 eller 90 dagar.
 
 Om den som betalar egenavgift inte gör någon sådan anmälan,
-lämnas sjukpenning efter den karensdag som anges i 27 §.
+lämnas sjukpenning efter de karensdagar som anges i 27 § första
+stycket 2. Lag (2010:423).
 
 30 § Om den som betalar egenavgift gör en sådan anmälan som
 anges i 29 §, ska sjukpenning som svarar mot inkomst av annat
-förvärvsarbete inte lämnas för de första 3 eller 30 dagarna
-av varje sjukperiod, den dag sjukdomsfallet inträffade
-inräknad (karenstid).
+förvärvsarbete inte lämnas för de första 14, 30, 60 eller 90
+dagarna av varje sjukperiod, den dag sjukdomsfallet inträffade
+inräknad (karenstid). Lag (2010:423).
 
 31 § Den som betalar egenavgift och som gjort anmälan om
-karenstid enligt 29 § får övergå till sjukpenning med kortare
-eller ingen karenstid om han eller hon inte har fyllt 55 år.
+karenstid enligt 29 § får efter uppsägningstid övergå till
+sjukpenning med kortare eller ingen karenstid, om han eller hon
+inte har fyllt 55 år vid anmälan till Försäkringskassan om
+ändrad karenstid. Uppsägningstiden är det antal dagar med vilka
+karenstiden förkortas.
 
-Ändringen börjar gälla 14 dagar efter den dag då den begärdes
-hos Försäkringskassan. Ändringen får dock inte tillämpas vid
-sjukdom som inträffat innan ändringen har börjat gälla.
+Ändringen börjar gälla efter det att uppsägningstiden löpt ut.
+Ändringen får dock inte tillämpas vid sjukdom som inträffat
+innan ändringen har börjat gälla. Lag (2010:423).
 
 Återinsjuknande
 
@@ -4879,16 +4909,24 @@ varje dag som sjukpenning har lämnats för räknas som en dag.
 
 Allmänt högriskskydd
 
-39 § Om den försäkrade gått miste om sjukpenning till följd
-av bestämmelsen i 27 § för sammanlagt tio dagar under de
-senaste tolv månaderna, kan sjukpenning lämnas även för dag
-som avses i 27 § (allmänt högriskskydd).
+39 § Om den försäkrade gått miste om sjukpenning som svarar mot
+inkomst av anställning till följd av bestämmelsen i 27 § första
+stycket 1 för sammanlagt tio dagar under de senaste tolv
+månaderna, kan sjukpenning lämnas även för dag som avses i 27 §
+första stycket 1 (allmänt högriskskydd). Om den försäkrade gått
+miste om sjukpenning som svarar mot inkomst av annat
+förvärvsarbete till följd av bestämmelsen i 27 § första stycket
+2 under fem sjukperioder under de senaste tolv månaderna, kan
+sjukpenning lämnas även för dagar som avses i 27 § första
+stycket 2 från och med den sjukperiod som inträder efter det att
+den försäkrade gått miste om sjukpenning för sammanlagt minst
+21 dagar. Lag (2010:423).
 
 Särskilt högriskskydd
 
 40 § Efter ansökan av den försäkrade får Försäkringskassan
-besluta att sjukpenning kan lämnas även för dag som avses i
-27 § (särskilt högriskskydd).
+besluta att sjukpenning kan lämnas även för dagar som avses i
+27 § (särskilt högriskskydd). Lag (2010:423).
 
 41 § Ett beslut om särskilt högriskskydd får meddelas om den
 försäkrade har en sjukdom som under en tolvmånadersperiod kan
@@ -7026,6 +7064,7 @@ eller senare, och
 försäkrade enligt 25 kap. 3 §.
 
 7 § Livränta lämnas för viss tid eller tills vidare.
+
 
 Försäkringskassan ska i samband med beslut om livränta också
 bedöma om förnyad utredning av förmågan att skaffa sig
@@ -12579,6 +12618,7 @@ Inledande bestämmelser
 inte får sina grundläggande försörjningsbehov tillgodosedda
 genom allmän ålderspension.
 
+
 Rätten till äldreförsörjningsstöd respektive stödets storlek
 är beroende av den försäkrades inkomster och, om han eller
 hon är gift, även av makens inkomster.
@@ -16078,6 +16118,7 @@ föräldrapenning, sjukpenning, rehabiliteringspenning och
 smittbärarpenning ska det innehållna beloppet betalas ut till
 den som har begärt avdraget.
 
+
 39 § Avdrag för kostnad som avses i 38 § ska beräknas till 80
 kronor för dag.
 
@@ -16245,6 +16286,7 @@ skadestånd utöver ersättningen.
 18 § Ersättning enligt denna balk får inte krävas åter från
 den som är skyldig att betala skadestånd till den
 ersättningsberättigade.
+
 
 108 kap.  Återkrav och ränta
 
