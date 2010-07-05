@@ -96,6 +96,62 @@ av pensionsbeloppet. Om pensionen anges i belopp per år, skall
 dagpenningen minskas med 1/260 av pensionsbeloppet.
 Förordning (2002:841).
 
+Företagares arbetslöshet
+
+5 a § En företagare som har upphört att bedriva
+näringsverksamhet enligt 35 eller 35 a § lagen (1997:238) om
+arbetslöshetsförsäkring och som därefter på grund av en
+skyldighet enligt lag eller annan författning vidtar en
+åtgärd i den upphörda näringsverksamheten, ska anses som
+arbetslös vid bedömningen av hans eller hennes rätt till
+arbetslöshetsersättning. Förordning (2010:736).
+
+5 b § En företagare som har upphört att att bedriva
+näringsverksamhet enligt 35 eller 35 a § lagen (1997:238) om
+arbetslöshetsförsäkring och som därefter vidtar en
+avvecklingsåtgärd i den upphörda näringsverksamheten som inte
+hade varit möjlig att vidta innan företagaren upphörde att
+bedriva verksamheten, ska anses som arbetslös vid bedömningen
+av hans eller hennes rätt till arbetslöshetsersättning.
+
+Inspektionen för arbetslöshetsförsäkringen får meddela
+föreskrifter om vad som ska anses vara en avvecklingsåtgärd
+enligt första stycket. Förordning (2010:736).
+
+Ersättning till personer som kombinerat anställning med
+företagande
+
+5 c § Dagsförtjänsten för en sökande som kombinerat
+anställning med företagande enligt 37 b § lagen (1997:238) om
+arbetslöshetsförsäkring bestäms enligt följande.
+
+Underlaget för beräkning av dagsförtjänsten från företaget
+bestäms enligt 37 § lagen om arbetslöshetsförsäkring.
+Dagsförtjänsten beräknas sedan till en tvåhundrasextiondel av
+underlaget och multipliceras med 22. Produkten multipliceras
+med antalet månader inom ramtiden som den sökande bedrivit
+näringsverksamhet.
+
+Den framräknade inkomsten av näringsverksamheten adderas med
+den sökandes sammanlagda inkomst från anställning under
+ramtiden. Summan divideras med 51,96 veckor och beräknas
+därefter enligt 25 a § nämnda lag. Förordning (2010:736).
+
+5 d § En sökande som före anställningen kombinerat
+anställning på deltid om minst 17 timmar per vecka med att
+bedriva näringsverksamhet om högst tio timmar i genomsnitt
+per vecka har rätt till arbetslöshetsersättning för det
+inkomstbortfall som uppstår när anställningen upphör.
+
+Första stycket gäller under förutsättning att
+deltidsanställningen och näringsverksamheten bedrivits
+parallellt under minst sex månader och att
+näringsverksamheten inte utökas i samband med arbetslösheten.
+Den genomsnittliga veckoinkomsten från näringsverksamheten
+får inte heller överstiga tre gånger den högsta dagpenning
+som får betalas ut inom arbetslöshetsförsäkringen.
+Förordning (2010:736).
+
 Ersättning vid deltidsarbete
 
 6 § Ny beteckning 8 § genom förordning (2008:58).
@@ -509,19 +565,19 @@ studietiden börjar, och
 Förordning (2006:1552).
 
 25 a § Under förutsättning att det har betydelse för
-handläggningen av ett ärende om arbetslöshetsersättning ska en
-arbetslöshetskassa till en annan arbetslöshetskassa lämna
+handläggningen av ett ärende om arbetslöshetsersättning ska
+en arbetslöshetskassa till en annan arbetslöshetskassa lämna
 följande uppgifter om en enskild:
 
 1. namn, personnummer och i förekommande fall
 samordningsnummer,
 
 2. vilken dag han eller hon senast inträtt i
-arbetslöshetskassan och från vilket datum han eller hon har ett
-obrutet medlemskap i arbetslöshetskassan,
+arbetslöshetskassan och från vilket datum han eller hon har
+ett obrutet medlemskap i arbetslöshetskassan,
 
-3. vilken dag han eller hon utträtt ur arbetslöshetskassan och
-orsaken till utträdet,
+3. vilken dag han eller hon utträtt ur arbetslöshetskassan
+och orsaken till utträdet,
 
 4. vilken period senast fastställt arbetsvillkor avser,
 
@@ -538,11 +594,13 @@ ersättningsperiod och senast ersatt vecka,
 8. antalet förbrukade ersättningsdagar enligt
 begränsningsregeln i 7 §,
 
-9. beslut om godkänd bisyssla,
+9. beslut om godkänd bisyssla enligt 39 § lagen (1997:238) om
+arbetslöshetsförsäkring samt uppgift om bisysslan avser
+anställning eller näringsverksamhet,
 
-10. beslut enligt 35 § lagen (1997:238) om
-arbetslöshetsförsäkring att en företagare som tillfälligt
-upphör att bedriva verksamhet ska anses vara arbetslös,
+10. beslut om rätt till ersättning på grund av företagares
+arbetslöshet enligt denna förordning eller enligt 35 eller
+35 a § lagen om arbetslöshetsförsäkring,
 
 11. beslut om godkända deltidsstudier,
 
@@ -553,8 +611,9 @@ ersättningsperioden,
 13. senast fattat beslut med anledning av pension eller
 pensionsbelopp per månad, och
 
-14. beslut om deltagande i arbetsmarknadspolitiskt program och
-tidpunkt då deltagandet påbörjades. Förordning (2008:58).
+14. beslut om deltagande i arbetsmarknadspolitiskt program
+och tidpunkt då deltagandet påbörjades.
+Förordning (2010:736).
 
 25 b § Kronofogdemyndigheten har rätt att få del av följande
 uppgifter som en arbetslöshetskassa har om en sökande:
@@ -615,8 +674,7 @@ arbetslöshetsförsäkringen bestämmer eller på annat sätt som
 inspektionen bestämmer. Ansökan får överföras elektroniskt.
 Förordning (2003:1110).
 
-30 a § /Träder i kraft I:2010-07-01/
-En arbetslöshetskassa som i enlighet med 68 d § lagen
+30 a § En arbetslöshetskassa som i enlighet med 68 d § lagen
 (1997:238) om arbetslöshetsförsäkring efterger ett krav på
 återbetalning eller ränta ska i beslutet ange vilka de
 särskilda skälen för eftergift är. Kassan ska också
