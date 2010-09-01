@@ -226,28 +226,7 @@ expansionsfond enligt 30 och 34 kap. inkomstskattelagen
 6. om schablonintäkt enligt 47 kap. 11 b §
 inkomstskattelagen. Förordning (2009:1190).
 
-7 a § /Upphör att gälla U:2010-07-01/
-Till Statens pensionsverk ska vissa uppgifter lämnas ut
-från beskattningsdatabasen i den utsträckning det behövs för
-beräkning och kontroll av
-
-1. pensionsersättning och särskild pensionsersättning enligt
-statligt kollektivavtal om trygghetsfrågor,
-
-2. pension enligt statligt kollektivavtal om särskild pension
-för yrkesofficerare, eller
-
-3. inkomstgaranti eller motsvarande förmåner för den som har
-varit statsråd och för vissa arbetstagare som har innehaft
-statlig chefsanställning.
-
-De uppgifter som ska lämnas ut till Statens pensionsverk med
-stöd av första stycket är uppgifter om inkomster som är
-pensionsgrundande enligt 2 kap. lagen (1998:674) om
-inkomstgrundad ålderspension. Förordning (2008:978).
-
-7 a § /Träder i kraft I:2010-07-01/
-Till Statens tjänstepensionsverk ska vissa uppgifter
+7 a § Till Statens tjänstepensionsverk ska vissa uppgifter
 lämnas ut från beskattningsdatabasen i den utsträckning det
 behövs för beräkning och kontroll av
 
@@ -294,8 +273,8 @@ anges i 2 kap. 1 § andra stycket lagen (1998:674) om
 inkomstgrundad ålderspension, efter avdrag för allmän
 pensionsavgift. Förordning (2009:1190).
 
-8 § På begäran av Statistiska centralbyrån skall lämnas ut
-uppgifter ur beskattningsdatabasen i den utsträckning det
+8 § På begäran av Statistiska centralbyrån ska lämnas ut
+uppgifter ur beskattningsdatabasen i den utsträckning som
 behövs för
 
 1. framställning av officiell statistik enligt lagen (2001:99)
@@ -308,7 +287,7 @@ kommunalekonomisk utjämning,
 
 4. förande av registret över kontrolluppgifter.
 
-De uppgifter som skall lämnas till Statistiska centralbyrån med
+De uppgifter som ska lämnas till Statistiska centralbyrån med
 stöd av första stycket är uppgifter
 
 1. som avses i 18 § första stycket,
@@ -316,7 +295,7 @@ stöd av första stycket är uppgifter
 2. om skatteavdrag, socialavgifter och särskild löneskatt,
 mervärdesskatt och preliminär skatt samt sådana uppgifter om
 näringsverksamhet som avses i 3 kap. 5, 6, 9 och 18 §§ lagen
-(2001:1227) om självdeklarationer och kontrolluppgifter samt 2
+(2001:1227) om självdeklarationer och kontrolluppgifter sam 2
 kap. 3, 6 och 7 §§ förordningen (2001:1244) om
 självdeklarationer och kontrolluppgifter,
 
@@ -335,25 +314,14 @@ inkomstslagen näringsverksamhet och kapital,
 6. om fastighetsägare och annan innehavare av fast egendom, om
 ägd andel, fastighetsbeteckning, taxeringsvärde, omräknat
 delvärde, beskattningsnatur, typ av fång, tidpunkt för fånget
-och betald ersättning, och
+och betald ersättning,
 
-7. om bouppteckningar och dödsboanmälningar.
-Förordning (2004:1355).
+7. om bouppteckningar och dödsboanmälningar, och
 
-8 a § /Upphör att gälla U:2010-07-01/
-Av 11 kap. 11 b § socialtjänstlagen (2001:453) och 6 §
-förordningen (2008:975) om uppgiftsskyldighet i vissa fall
-enligt socialtjänstlagen (2001:453) framgår att vissa uppgifter
-ska lämnas till socialnämnden.
+8. för enkla bolag, bolagsmännens och bolagens personnummer
+eller organisationsnummer. Förordning (2010:744).
 
-Av 13 kap. 24 a § lagen (1994:1065) om ekonomiska villkor för
-riksdagens ledamöter och 9 kap. 20 a § lagen (1996:304) om
-arvode m.m. till Sveriges företrädare i Europaparlamentet
-framgår att vissa uppgifter ska lämnas till Statens
-pensionsverk. Förordning (2008:978).
-
-8 a § /Träder i kraft I:2010-07-01/
-Av 11 kap. 11 b § socialtjänstlagen (2001:453) och 6 §
+8 a § Av 11 kap. 11 b § socialtjänstlagen (2001:453) och 6 §
 förordningen (2008:975) om uppgiftsskyldighet i vissa fall
 enligt socialtjänstlagen (2001:453) framgår att vissa uppgifter
 ska lämnas till socialnämnden.
@@ -381,6 +349,7 @@ till arbetsgivare eller uppdragsgivare.
 som har tillstånd enligt 3 § första stycket
 kreditupplysningslagen (1973:1173) att bedriva
 kreditupplysningsverksamhet eller bedriver
+-
 kreditupplysningsverksamhet som är undantagen från
 tillståndsplikt enligt andra eller fjärde stycket nämnda
 paragraf. Uppgifter som grundar sig på brott får inte lämnas
@@ -438,8 +407,9 @@ registrerings- och redovisningsnummer,
 - personnummer för make eller annan med vilken sambeskattning
 sker,
 
-- kontrolluppgifter avseende inkomstslagen tjänst och kapital,
-avgift för pensionsförsäkring och pensionssparkonto,
+- kontrolluppgifter avseende inkomstslagen tjänst och
+kapital, pensionsförsäkring, pensionssparkonto och
+tjänstepensionsavtal,
 
 - intäkts- och kostnadsposter i varje inkomstslag vid taxering
 till statlig och kommunal inkomstskatt,
@@ -453,19 +423,18 @@ särskild självdeklaration,
 
 - tillgångar och skulder,
 
-- beslut om beskattning när det gäller sådan skatt eller avgift
-som avses i 1 kap. 1 § första och fjärde styckena
+- beslut om beskattning när det gäller sådan skatt eller
+avgift som avses i 1 kap. 1 § första och fjärde styckena
 taxeringslagen (1990:324), dock inte skälen för beslutet, och
 
-- beslut om fastighetstaxering, dock inte skälen för beslutet.
+- beslut om fastighetstaxering, dock inte skälen för
+beslutet.
 
 Bouppteckningar ska undantas från gallring.
 
-Vid utgången av sjunde året efter det taxeringsår till vilket
-en uppgift kan hänföras ska uppgiften överlämnas till en
-arkivmyndighet. Riksarkivet får meddela närmare föreskrifter om
-på vilket sätt och till vilken myndighet uppgifterna ska
-överlämnas. Förordning (2007:1425).
+Riksarkivet får efter samråd med Skatteverket meddela
+föreskrifter om när, på vilket sätt och till vilken
+arkivmyndighet uppgifterna ska överlämnas. Förordning (2010:744).
 
 19 § Självdeklarationer och andra handlingar, som lämnats till
 ledning för taxering eller upprättats eller omhändertagits för
@@ -506,6 +475,12 @@ under längre tid.
 Riksarkivet får föreskiva att handlingar eller uppgifter som
 undantas från gallring skall överlämnas till en arkivmyndighet.
 Förordning (2003:1023).
+
+21 a § Riksarkivet får, efter samråd med Skatteverket, meddela
+föreskrifter om undantag från bestämmelserna i 20 § andra
+stycket skatteregisterlagen (1980:343) för uppgifter och
+handlingar som tillförts registret före den 1 oktober 2001.
+Förordning (2010:744).
 
 Avgifter
 
