@@ -89,8 +89,8 @@ Risk- och sårbarhetsanalys
 9 § Varje myndighet ska i syfte att stärka sin egen och
 samhällets krisberedskap årligen analysera om det finns sådan
 sårbarhet eller sådana hot och risker inom myndighetens
-ansvarsområde som synnerligen allvarligt kan försämra förmågan
-till verksamhet inom området.
+ansvarsområde som synnerligen allvarligt kan försämra
+förmågan till verksamhet inom området.
 
 Vid denna analys ska myndigheten särskilt beakta
 
@@ -107,15 +107,15 @@ samhällsviktig verksamhet, och
 4. förmågan att hantera mycket allvarliga situationer inom
 myndighetens ansvarsområde.
 
-Myndigheten ska värdera och sammanställa resultatet av arbetet
-i en risk- och sårbarhetsanalys. En redovisning baserad på
-analysen ska lämnas till Regeringskansliet i samband med
-årsredovisningen, med kopia till Myndigheten för samhällsskydd
-och beredskap, och innefatta myndighetens planerade åtgärder
-samt bedömning av behov av ytterligare åtgärder. De myndigheter
-som har ett särskilt ansvar för krisberedskapen enligt 11 § ska
-dock lämna sin redovisning vid den tidpunkt som regeringen
-bestämmer. Förordning (2008:1003).
+Myndigheten ska värdera och sammanställa resultatet av
+arbetet i en risk- och sårbarhetsanalys. De myndigheter som
+har ett särskilt ansvar för krisberedskapen enligt 11 § och
+de myndigheter som Myndigheten för samhällsskydd och
+beredskap beslutar i enskilda fall, ska lämna en redovisning
+baserad på analysen till Regeringskansliet och Myndigheten
+för samhällsskydd och beredskap. Redovisningen ska innefatta
+vilka åtgärder som planeras och en bedömning av behovet av
+ytterligare åtgärder. Förordning (2010:1074).
 
 Utbildning och övning
 
@@ -460,98 +460,54 @@ Bilaga
 Förteckning över samverkansområden och myndigheter som har
 särskilt ansvar inom områdena
 
-Samverkans-     Myndigheter med         Myndighet       Myndighet
-områden         särskilda uppgifter     med ansvar      med ansvar
-                inom samverkans-        enligt 11 §     enligt 18 §
-                områdena
+Samverkans-     Myndigheter med                 Myndighet       Myndighet
+områden         särskilda uppgifter             med ansvar      med ansvar
+                inom                            enligt 11 §     enligt 18 §
+                samverkansområdena
 
-Teknisk         Affärsverket svenska            x               x
-infrastruktur   kraftnät
-
+Teknisk         Affärsverket svenska
+infrastruktur   kraftnät                        x               x
                 Elsäkerhetsverket               x               x
-
                 Livsmedelsverket                x               x
-
                 Myndigheten för                 x               x
-                samhällsskydd och
-                beredskap
-
-                Post- och                       x               x
-                telestyrelsen
-
-                Statens                         x               x
-                energimyndighet
+                samhällsskydd och beredskap
+                Post- och telestyrelsen         x               x
+                Statens energimyndighet         x               x
 
 Transporter     Sjöfartsverket                  x               x
-
-                Statens                         x               x
-                energimyndighet
-
+                Statens energimyndighet         x               x
                 Trafikverket                    x               x
-
                 Transportstyrelsen              x               x
 
 Farliga ämnen   Kustbevakningen                 x               x
-
                 Livsmedelsverket                x               x
-
                 Myndigheten för                 x               x
-                samhällsskydd och
-                beredskap
-
+                samhällsskydd och beredskap
                 Rikspolisstyrelsen              x               x
-
                 Smittskyddsinstitutet           x               x
-
                 Socialstyrelsen                 x               x
-
                 Statens jordbruksverk           x               x
-
-                Statens                         x               x
-                veterinärmedicinska
+                Statens veterinärmedicinska     x               x
                 anstalt
-
-                Strålsäkerhets-                 x               x
-                myndigheten
-
+                Strålsäkerhetsmyndigheten       x               x
                 Tullverket                      x               x
 
 Ekonomisk       Finansinspektionen              x               x
-säkerhet
-
-                Försäkringskassan               x               x
-
+säkerhet        Försäkringskassan               x               x
                 Pensionsmyndigheten             x               x
-
                 Riksgäldskontoret               x               x
-
                 Skatteverket                    x               x
 
-                Tullverket                      x               x
-
 Geografiskt     Länsstyrelserna                 x               x
-områdes-
-ansvar
-
-                Myndigheten för                 x               x
-                samhällsskydd och
-                beredskap
+områdesansvar   Myndigheten för                 x               x
+                samhällsskydd och beredskap
 
 Skydd,          Kustbevakningen                 x               x
-undsättning
-och vård
-
-                Myndigheten för                 x               x
-                samhällsskydd och
-                beredskap
-
+undsättning     Myndigheten för                 x               x
+och vård        samhällsskydd och beredskap
                 Rikspolisstyrelsen              x               x
-
                 Sjöfartsverket                  x               x
-
                 Socialstyrelsen                 x               x
-
                 Transportstyrelsen              x               x
-
                 Tullverket                      x               x
-Förordning (2010:154).
+Förordning (2010:1074).
