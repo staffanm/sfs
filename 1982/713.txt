@@ -2317,26 +2317,26 @@ Om första-tredje styckena ej iakttagits beträffande bestämmelser om
 apport eller kvittningsrätt är bestämmelserna utan verkan mot det
 emitterande bolaget.
 
-4 § Styrelsens redogörelse enligt 3 § skall granskas av en
-eller flera revisorer. Dessa skall avge ett skriftligt yttrande
-över granskningen. Av yttrandet skall framgå att egendom, som
-skall tillföras det emitterande bolaget, inte i redogörelsen
+4 § Styrelsens redogörelse enligt 3 § ska granskas av en
+eller flera revisorer. Dessa ska avge ett skriftligt yttrande
+över granskningen. Av yttrandet ska framgå att egendom, som
+ska tillföras det emitterande bolaget, inte i redogörelsen
 åsatts högre värde än det verkliga värdet för bolaget och att
 apportegendom är eller kan antas bli till nytta för bolagets
-verksamhet. Emissionsbeslutet skall innehålla uppgift om att
+verksamhet. Emissionsbeslutet ska innehålla uppgift om att
 redogörelsen, yttrandet och, i fråga om apport,
 Finansinspektionens medgivande har lämnats.
 
-En revisor som avses i första stycket skall vara en
+En revisor som avses i första stycket ska vara en
 auktoriserad eller godkänd revisor eller ett registrerat
-revisionsbolag. Om inte annat framgår av bolagsordningen, skall
-revisorn utses av bolagsstämman. Om någon särskild revisor inte
-är utsedd, skall granskningen i stället utföras av bolagets
-revisorer.
+revisionsbolag. Om inte annat framgår av bolagsordningen, ska
+revisorn utses av bolagsstämman. Om någon särskild revisor
+inte är utsedd, ska granskningen i stället utföras av
+bolagets revisorer.
 
 För en revisor som har utsetts att utföra granskning enligt
-första stycket gäller bestämmelserna i 10 kap. 9 och 13 §§ samt
-14 § andra stycket. Lag (2001:238).
+första stycket gäller 10 kap. 9 och 13 §§ samt 14 § andra och
+tredje styckena. Lag (2010:838).
 
 5 § Vid en kontantemission och vid en fondemission har
 aktieägarna företrädesrätt till de nya aktierna i förhållande
@@ -3575,6 +3575,7 @@ aktieslag, som får förvärvas,
 samt
 
 4. övriga villkor för förvärvet. Lag (2000:67).
+
 
 Vad ett bemyndigande för styrelsen att fatta beslut om förvärv
 av egna aktier skall innehålla
@@ -6338,14 +6339,21 @@ sådana försäkringsbolagets angelägenheter som han eller hon
 fått kännedom om vid fullgörandet av sitt uppdrag, om det kan
 vara till förfång för bolaget.
 
-Revisorn är skyldig att till bolagsstämman lämna alla
-upplysningar som bolagsstämman begär, om det inte skulle vara
-till väsentligt förfång för bolaget. Revisorn är vidare
-skyldig att lämna en medrevisor, en ny revisor och, om
-bolaget har försatts i konkurs, konkursförvaltaren
-erforderliga upplysningar om bolagets angelägenheter.
+Revisorn är skyldig att
+
+1. till bolagsstämman lämna alla upplysningar som
+bolagsstämman begär, om det inte skulle vara till väsentligt
+förfång för bolaget,
+
+2. lämna en medrevisor, en ny revisor och, om bolaget har
+försatts i konkurs, konkursförvaltaren erforderliga
+upplysningar om bolagets angelägenheter, samt
+
+3. på begäran lämna upplysningar om bolagets angelägenheter
+till undersökningsledaren under förundersökning i brottmål.
+
 Revisorn är vidare enligt 8 c § skyldig att rapportera vissa
-förhållanden till Finansinspektionen. Lag (2009:569).
+förhållanden till Finansinspektionen. Lag (2010:838).
 
 15 § Vad som i 8 kap. 17 § föreskrivs om registrering av
 styrelseledamöter gäller även för revisorer. Lag (1999:600).
@@ -6505,7 +6513,12 @@ skulle vara till väsentlig skada för bolaget. Lag (1999:600).
 19 § Lekmannarevisorn är skyldig att lämna bolagets revisor,
 annan lekmannarevisor och, om bolaget har försatts i konkurs,
 konkursförvaltaren de upplysningar som behövs om bolagets
-angelägenheter. Lag (1999:600).
+angelägenheter.
+
+Lekmannarevisorn är dessutom skyldig att på begäran lämna
+upplysningar om bolagets angelägenheter till
+undersökningsledaren under förundersökning i brottmål.
+Lag (2010:838).
 
 Registrering
 
@@ -7157,9 +7170,6 @@ Om likvidatorerna finner att bolaget är på obestånd och inte kan
 betala sina likvidationskostnader, skall de ansöka om att bolaget
 försätts i konkurs.
 
-
-
-
 17 § Om det efter bolagets upplösning enligt 16 § visar sig att
 bolaget har tillgångar eller om talan väcks mot bolaget eller om det
 av någon annan orsak uppkommer behov av en likvidationsåtgärd, skall
@@ -7354,7 +7364,6 @@ skall godkännas av Finansinspektionen. Lag (1991:1767).
 till betalning innan bolaget trätt i likvidation eller vid konkurs
 innan beslut om konkurs meddelats, skall så mycket betalas ut som
 skulle ha betalats om likvidationen eller konkursen inte inträffat.
-
 
 Av livförsäkrings- eller återbäringsbelopp, som förfaller till
 betalning efter det att bolaget trätt i likvidation eller försatts i
@@ -8736,13 +8745,19 @@ offentliggörande av prospekt och spridning av annonser.
 Lag (2006:453).
 
 2 § En revisor eller en lekmannarevisor är ersättningsskyldig
-enligt de grunder som anges i 1 §. Han ansvarar även för den
-skada som uppsåtligen eller av oaktsamhet vållas av hans
-medhjälpare.
+enligt de grunder som anges i 1 §. Han eller hon ansvarar
+även för den skada som uppsåtligen eller av oaktsamhet vållas
+av en medhjälpare. I de fall som avses i 10 kap. 14 § andra
+stycket 3 och 11 kap. 19 § andra stycket denna lag samt
+3 kap. 1 § lagen (2009:62) om åtgärder mot penningtvätt och
+finansiering av terrorism svarar dock revisorn eller
+lekmannarevisorn endast för skada på grund av oriktiga
+uppgifter som han eller hon eller en medhjälpare har haft
+skälig anledning att anta var oriktiga.
 
 Om ett revisionsbolag är revisor, åligger
 ersättningsskyldigheten detta bolag och den för revisionen
-huvudansvarige. Lag (1999:600).
+huvudansvarige. Lag (2010:838).
 
 3 § Aktieägare, delägare och röstberättigad, som inte är
 delägare, är skyldig att ersätta den skada som han genom att
