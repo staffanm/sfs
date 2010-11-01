@@ -50,39 +50,39 @@ samarbetsområdet eller
 
  företag som uppfyller mer än ett av följande villkor:
 
-a) medelantalet anställda i företaget har under vart och ett av de
-två senaste räkenskapsåren uppgått till mer än 50,
+a) medelantalet anställda i företaget har under vart och ett
+av de två senaste räkenskapsåren uppgått till mer än 50,
 
-b) företagets redovisade balansomslutning har för vart och ett
-av de två senaste räkenskapsåren uppgått till mer än 25
+b) företagets redovisade balansomslutning har för vart och
+ett av de två senaste räkenskapsåren uppgått till mer än 40
 miljoner kronor,
 
 c) företagets redovisade nettoomsättning har för vart och ett
-av de två senaste räkenskapsåren uppgått till mer än 50
+av de två senaste räkenskapsåren uppgått till mer än 80
 miljoner kronor,
 
 5. mindre företag: företag som inte är större företag,
 
 6. större koncerner:
 
-koncerner i vilka moderföretagets eller något av
-dotterföretagens andelar, teckningsoptioner eller skuldebrev är
-upptagna till handel på en reglerad marknad eller en
+ koncerner i vilka moderföretagets eller något av
+dotterföretagens andelar, teckningsoptioner eller skuldebrev
+är upptagna till handel på en reglerad marknad eller en
 motsvarande marknad utanför Europeiska ekonomiska
 samarbetsområdet eller
 
  koncerner som uppfyller mer än ett av följande villkor:
 
-a) medelantalet anställda i koncernen har under vart och ett av
-de två senaste räkenskapsåren uppgått till mer än 50,
+a) medelantalet anställda i koncernen har under vart och ett
+av de två senaste räkenskapsåren uppgått till mer än 50,
 
 b) koncernföretagens redovisade balansomslutning har för vart
-och ett av de två senaste räkenskapsåren uppgått till mer än 25
-miljoner kronor,
+och ett av de två senaste räkenskapsåren uppgått till mer än
+40 miljoner kronor,
 
 c) koncernföretagens redovisade nettoomsättning har för vart
-och ett av de två senaste räkenskapsåren uppgått till mer än 50
-miljoner kronor,
+och ett av de två senaste räkenskapsåren uppgått till mer än
+80 miljoner kronor,
 
 7. mindre koncerner: koncerner som inte är större koncerner.
 
@@ -93,10 +93,10 @@ hänför sig till transaktioner mellan koncernföretag, liksom
 förändring av internvinst.
 
 Företag som avses i 2 kap. 2 § första stycket och 3 §
-bokföringslagen (1999:1078) ska vid tilllämpningen av första
-stycket 47 och 5 kap. 6 § till nettoomsättningen lägga bidrag,
-gåvor, medlemsavgifter och andra liknande intäkter.
-Lag (2009:34).
+bokföringslagen (1999:1078) ska vid tillämpningen av första
+stycket 47 och 5 kap. 6 § till nettoomsättningen lägga
+bidrag, gåvor, medlemsavgifter och andra liknande intäkter.
+Lag (2010:848).
 
 4 § Ett företag är moderföretag och en juridisk person är
 dotterföretag, om företaget
@@ -1726,13 +1726,7 @@ Allmänna bestämmelser
 
 Skyldighet att upprätta koncernredovisning
 
-1 § /Upphör att gälla U:2010-08-01/
-Ett moderföretag skall för varje räkenskapsår upprätta
-koncernredovisning enligt denna lag, om inte annat följer av 2
-eller 3 §. Lag (1999:1112).
-
-1 § /Träder i kraft I:2010-08-01/
-Ett moderföretag ska för varje räkenskapsår upprätta
+1 § Ett moderföretag ska för varje räkenskapsår upprätta
 koncernredovisning enligt denna lag, om inte annat följer av
 2, 3 eller 3 a §. Lag (2010:686).
 
@@ -1794,8 +1788,7 @@ stycket nämnda koncernredovisningen. Lag (2008:89).
 3 § Moderföretag i mindre koncerner behöver inte upprätta
 koncernredovisning. Lag (2009:34).
 
-3 a § /Träder i kraft I:2010-08-01/
-Ett moderföretag behöver inte upprätta
+3 a § Ett moderföretag behöver inte upprätta
 koncernredovisning, om moderföretagets samtliga dotterföretag
 är av ringa betydelse med hänsyn till kravet i 6 § på
 rättvisande bild. Koncernredovisning ska dock upprättas, om
@@ -1818,34 +1811,7 @@ Koncernredovisningens delar
 
 Dotterföretag som skall omfattas av koncernredovisningen
 
-5 § /Upphör att gälla U:2010-08-01/
-Koncernredovisningen skall omfatta samtliga dotterföretag,
-om inte annat följer av andra eller tredje stycket.
-
-Ett dotterföretag behöver inte omfattas av
-koncernredovisningen, om företaget är av ringa betydelse med
-hänsyn till kravet i 6 § på rättvisande bild. Om flera
-dotterföretag tillsammans har mer än sådan ringa betydelse,
-skall de dock omfattas av koncernredovisningen.
-
-Ett dotterföretag behöver inte heller omfattas av
-koncernredovisningen, om
-
-1. betydande och varaktiga hinder i väsentlig grad begränsar
-moderföretagets möjligheter att utöva sitt inflytande över
-dotterföretaget,
-
-2. nödvändig information för att upprätta koncernredovisningen
-inte kan fås utan oskälig kostnad eller inom rimlig tid, eller
-
-3. andelarna i dotterföretaget innehas tillfälligt och
-uteslutande i avsikt att säljas vidare.
-
-Ett företag som tillämpar andra eller tredje stycket skall i en
-not upplysa om skälen för detta. Lag (1999:1112).
-
-5 § /Träder i kraft I:2010-08-01/
-Koncernredovisningen ska omfatta samtliga dotterföretag,
+5 § Koncernredovisningen ska omfatta samtliga dotterföretag,
 om inte annat följer av andra eller tredje stycket.
 Ett dotterföretag behöver inte omfattas av
 koncernredovisningen, om företaget är av ringa betydelse med
@@ -2251,62 +2217,7 @@ den plats i rapporten där upplysningarna lämnas. Lag (2009:34).
 Koncernredovisning i moderföretag som omfattas av IAS-
 förordningen
 
-32 § /Upphör att gälla U:2010-08-01/
-Ett företag som omfattas av artikel 4 i
-Europaparlamentets och rådets förordning (EG) nr 1606/2002 av
-den 19 juli 2002 om tillämpning av internationella
-redovisningsstandarder ska tillämpa enbart följande
-bestämmelser i detta kapitel:
-
-1. 13 §§ om skyldighet att upprätta koncernredovisning,
-
-2. 4 § första stycket 4 om förvaltningsberättelse,
-
-3. 7 § vad gäller hänvisningarna till 2 kap. 5 § om språk och
-form och 2 kap. 7 § om undertecknande,
-
-4. 12 § första stycket om värderingsprinciper,
-
-5. 14 § vad gäller hänvisningarna till följande bestämmelser i
-5 kap.:
-
- 4 § om uppgifter om taxeringsvärden,
-
- 12 § om lån till ledande befattningshavare,
-
- 15 § första och tredje styckena om en ekonomisk förenings
-eget kapital,
-
- 18 § om medelantalet anställda under räkenskapsåret,
-
- 18 b § om könsfördelningen bland ledande befattningshavare,
-
- 20 § första stycket 1 samt andra och tredje styckena samt
-21 § om löner, ersättningar och sociala kostnader,
-
- 22 § om pensioner och liknande förmåner,
-
- 23 § om tidigare styrelse och verkställande direktör,
-
- 24 § om suppleanter och vice verkställande direktör, och
-
- 25 § om avtal om avgångsvederlag,
-
-6. 31 § första stycket, vad gäller hänvisningarna till 6 kap. 1
-och 2 a4 §§ om förvaltningsberättelsens innehåll,
-och
-
-7. 31 § andra och tredje styckena om koncernens system för
-intern kontroll och riskhantering.
-
-Ett företag som avses i första stycket behöver inte lämna
-upplysningar enligt 6 kap. 1 §, om upplysningarna lämnas på
-annan plats i redovisningen. I sådant fall ska
-förvaltningsberättelsen för koncernen innehålla en hänvisning
-till den plats där uppgifterna har lämnats. Lag (2009:34).
-
-32 § /Träder i kraft I:2010-08-01/
-Ett företag som omfattas av artikel 4 i
+32 § Ett företag som omfattas av artikel 4 i
 Europaparlamentets och rådets förordning (EG) nr 1606/2002 av
 den 19 juli 2002 om tillämpning av internationella
 redovisningsstandarder ska tillämpa enbart följande
@@ -2607,6 +2518,7 @@ utsökningsbalken ske.
 11 § Ett beslut om förseningsavgift får verkställas även om det
 inte har vunnit laga kraft.
 
+
 Om ett bolag har rätt att få tillbaka betalad förseningsavgift
 på grund av en domstols beslut, skall ränta betalas på den
 återbetalade förseningsavgiften från och med månaden efter den
@@ -2645,6 +2557,7 @@ Lag (1999:1112).
 
 
 Publicering av årsredovisningen m.m.
+
 
 14 § Om ett företag publicerar sin årsredovisning i dess
 helhet, skall publiceringen avse årsredovisningen i den form
@@ -3315,15 +3228,7 @@ fortsatt handläggning.
 
 2004:1173
 
-1. /Upphör att gälla U:2010-08-01/
-Denna lag träder i kraft den 1 januari 2005 och tillämpas
-första gången för räkenskapsår som inleds närmast efter den 31
-december 2004. Bestämmelserna i 4 kap. 14 f och 14 g §§ får
-dock tillämpas först för det räkenskapsår som inleds närmast
-efter den 31 december 2010. Lag (2008:1236).
-
-1. /Träder i kraft I:2010-08-01/
-Denna lag träder i kraft den 1 januari 2005 och tillämpas
+1. Denna lag träder i kraft den 1 januari 2005 och tillämpas
 första gången för räkenskapsår som inleds närmast efter den 31
 december 2004. Bestämmelserna i 4 kap. 14 f och 14 g §§ får
 dock tillämpas först för det räkenskapsår som inleds närmast
@@ -3413,3 +3318,9 @@ juni 2009.
 Denna lag träder i kraft den 1 augusti 2010 och tillämpas
 första gången för det räkenskapsår som avslutas närmast efter
 den 31 juli 2010.
+
+2010:848
+
+Denna lag träder i kraft den 1 november 2010 och tillämpas
+första gången för det räkenskapsår som inleds närmast efter
+den 31 oktober 2010.
