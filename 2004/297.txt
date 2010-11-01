@@ -326,9 +326,13 @@ efter tillstånd, om inte annat framgår av denna lag.
 
 Undantag från tillståndsplikt för bankrörelse
 
-2 § Tillstånd att driva bankrörelse behövs inte för utgivning
-av elektroniska pengar enligt lagen (2002:149) om utgivning av
-elektroniska pengar.
+2 § Tillstånd att driva bankrörelse behövs inte för
+
+1. utgivning av elektroniska pengar enligt lagen (2002:149) om
+utgivning av elektroniska pengar, eller
+
+2. tillhandahållande av betaltjänster enligt lagen (2010:751)
+om betaltjänster. Lag (2010:760).
 
 Undantag från tillståndsplikt för finansieringsrörelse
 
@@ -342,8 +346,8 @@ bankrörelse i Sverige enligt 4 kap. 4 §,
 
 3. ett försäkringsföretag, ett värdepappersföretag, Svenska
 skeppshypotekskassan eller en pantbank enligt pantbankslagen
-(1995:1000), i den utsträckning det är tillåtet enligt den
-för dem tillämpliga lagstiftningen,
+(1995:1000), i den utsträckning det är tillåtet enligt den för
+dem tillämpliga lagstiftningen,
 
 4. ett företag som tillhandahåller finansiering i samband med
 avsättning av tjänster som erbjuds eller varor som framställs
@@ -354,27 +358,29 @@ a) företaget, eller
 b) ett annat företag i samma koncern eller motsvarande
 utländska företagsgrupp, förutsatt att
 
- koncernen eller företagsgruppen inte har som huvudsakligt
+- koncernen eller företagsgruppen inte har som huvudsakligt
 ändamål att driva finansiell verksamhet, och
 
- företaget som tillhandahåller finansieringen lånar upp
-medel från allmänheten bara genom att ge ut sådana
-överlåtbara värdepapper som avses i 1 kap. 4 § första stycket
-2 b lagen (2007:528) om värdepappersmarknaden med en löptid
-på minst ett år,
+- företaget som tillhandahåller finansieringen lånar upp medel
+från allmänheten bara genom att ge ut sådana överlåtbara
+värdepapper som avses i 1 kap. 4 § första stycket 2 b lagen
+(2007:528) om värdepappersmarknaden med en löptid på minst ett
+år,
 
 5. ett aktiebolag eller en ekonomisk förening om
 
-a) verksamheten består i att vid enstaka tillfällen förvärva
+a) verksamheten består i att vid enstaka tillfällen  förvärva
 fordringar, och
 
-b) medel för verksamheten inte löpande anskaffas från
+b) medel för verksamheten inte löpande  anskaffas från
 allmänheten,
 
 6. ett företag som bara finansierar andra företag i samma
 koncern eller motsvarande utländska företagsgrupp, förutsatt
-att koncernen eller företagsgruppen inte har som huvudsakligt
-ändamål att driva finansiell verksamhet,
+att koncernen eller
+
+företagsgruppen inte har som huvudsakligt ändamål att driva
+finansiell verksamhet,
 
 7. en ekonomisk förening, vilken
 
@@ -385,16 +391,19 @@ b) som medlemmar antar bara personer som ingår i en i förväg
 identifierbar begränsad krets som också anges i föreningens
 stadgar,
 
-c) tar emot återbetalningspliktiga medel bara från
-medlemmarna eller från finansiella företag, och
+c) tar emot återbetalningspliktiga medel bara från medlemmarna
+eller från finansiella företag, och
 
 d) har till ändamål bara att med sådana medel som avses i c
 tillgodose finansieringsbehov hos medlemmarna.
 
-Undantagen enligt första stycket 5 och 7 för rörelse som
-drivs av aktiebolag eller ekonomisk förening gäller även för
-sådan rörelse som drivs av motsvarande utländska företag.
-Lag (2009:616).
+Undantagen enligt första stycket 5 och 7 för rörelse som drivs
+av aktiebolag eller ekonomisk förening gäller även för sådan
+rörelse som drivs av motsvarande utländska företag.
+
+Tillstånd att driva finansieringsrörelse behövs inte heller
+för tillhandahållande av betaltjänster enligt lagen (2010:751)
+om betaltjänster. Lag (2010:760).
 
 3 kap. Tillstånd för svenska företag
 
@@ -849,14 +858,14 @@ värdepappersmarknaden. Lag (2007:563).
 
 Finansiell verksamhet
 
-1 § Ett kreditinstitut får driva bara finansiell verksamhet och
-verksamhet som har ett naturligt samband med den.
+1 § Ett kreditinstitut får driva bara finansiell verksamhet
+och verksamhet som har ett naturligt samband med den.
 
 Ett kreditinstitut får i sin verksamhet, bland annat
 
-1. låna upp medel, till exempel genom att ta emot inlåning från
-allmänheten eller ge ut obligationer eller andra jämförbara
-fordringsrätter,
+1. låna upp medel, till exempel genom att ta emot inlåning
+från allmänheten eller ge ut obligationer eller andra
+jämförbara fordringsrätter,
 
 2. lämna och förmedla kredit, till exempel i form av
 konsumentkredit och kredit mot panträtt i fast egendom eller
@@ -865,7 +874,8 @@ fordringar,
 3. medverka vid finansiering, till exempel genom att förvärva
 fordringar och upplåta lös egendom till nyttjande (leasing),
 
-4. förmedla betalningar,
+4. tillhandahålla betaltjänster enligt lagen (2010:751) om
+betaltjänster,
 
 5. tillhandahålla betalningsmedel,
 
@@ -888,7 +898,7 @@ föreskrivs i lagen (2007:528) om värdepappersmarknaden, samt
 
 14. lämna kreditupplysning under de förutsättningar som
 föreskrivs i kreditupplysningslagen (1973:1173).
-Lag (2007:563).
+Lag (2010:760).
 
 Innehav av egendom i allmänhet
 
@@ -1226,14 +1236,14 @@ Lag (2005:932).
 
 Revision
 
-9 § I ett bankaktiebolag skall minst en revisor som
-bolagsstämman utsett vara auktoriserad revisor eller godkänd
-revisor som har avlagt revisorsexamen.
+9 § Ett bankaktiebolag ska ha minst en revisor. Minst en
+revisor som bolagsstämman utsett ska vara auktoriserad revisor
+eller godkänd revisor som har avlagt revisorsexamen.
 
 Om bolagsstämman inte har utsett en auktoriserad revisor eller
 godkänd revisor som har avlagt revisorsexamen, är
 bestämmelserna om länsstyrelseförordnande i 9 kap. 25 och 27 §§
-aktiebolagslagen (2005:551) tillämpliga. Lag (2005:932).
+aktiebolagslagen (2005:551) tillämpliga. Lag (2010:843).
 
 10 § Utöver vad som föreskrivs om upplysningsplikt gentemot
 bolagsstämman i 9 kap. 45 § samt 10 kap. 17 och 22 §§
@@ -1303,6 +1313,7 @@ betryggande säkerhet för sina fordringar. Att en insättare
 motsätter sig ansökan utgör dock inte något hinder, om
 inspektionens yttrande ger grund för att ge tillstånd.
 Lag (2005:932).
+
 
 15 § I stället för 20 kap. 30 § aktiebolagslagen (2005:551)
 skall bestämmelserna i denna paragraf tillämpas.
@@ -1459,6 +1470,7 @@ planen har registrerats har kungjorts. Frågor om sådant
 tillstånd prövas av Finansinspektionen. Ärenden som är av
 principiell betydelse eller av särskild vikt prövas dock av
 regeringen.
+
 
 I fråga om ett sådant ärende gäller bestämmelserna i 21 och
 22 §§ i tilllämpliga delar. Vad som sägs om överlåtande bolag
