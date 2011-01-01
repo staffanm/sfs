@@ -95,37 +95,73 @@ av den 16 september 2009 om kreditvärderingsinstitut, och
 
 - lagen (2010:751) om betaltjänster. Förordning (2010:752).
 
-4 § Avgift enligt 3 § skall betalas enligt följande
-avgiftsklasser och med följande belopp:
+4 § Avgift enligt 3 § ska betalas enligt följande avgiftsklasser
+och med följande belopp:
 
 Avgiftsklasser          Avgift kronor
 
-A                             300
-B                             900
-C                           1 800
-D                           3 000
-E                           5 000
-F                           7 500
-G                          11 500
-H                          17 000
-I                          21 500
-J                          26 500
-K                          35 000
-L                          50 000
-M                          70 000
-N                          90 000
-O                         110 000
-P                         140 000
-Q                         225 000
-R                         400 000
-S                         650 000
+A                       300
+
+B                       900
+
+C                       1 800
+
+D                       3 000
+
+E                       5 000
+
+F                       7 500
+
+G                       11 500
+
+H                       17 000
+
+I                       21 500
+
+J                       26 500
+
+K                       35 000
+
+L                       50 000
+
+M                       70 000
+
+N                       90 000
+
+O                       110 000
+
+P                       140 000
+
+Q                       225 000
+
+R                       400 000
+
+S                       650 000
+
 T                       1 000 000
+
 U                       1 400 000
+
 V                       1 800 000
+
 X                       2 200 000
+
 Y                       2 600 000
+
 Z                       3 000 000
-Förordning (2006:1528).
+
+Å                       3 500 000
+
+Ä                       4 000 000
+
+Ö                       4 500 000
+
+AA                      5 000 000
+
+AB                      5 500 000
+
+AC                      6 000 000
+Förordning (2010:1438).
 
 4 a § I samband med prövning av en ansökan för vilken
 avgiftsklass enligt bilagan anges i intervall mellan olika
@@ -166,8 +202,8 @@ inlåningsverksamhet,
 
 - institut för elektroniska pengar,
 
-- juridisk person som utövar försäkringsförmedling enligt
-lagen (2005:405) om försäkringsförmedling,
+- juridisk person som utövar försäkringsförmedling enligt lagen
+(2005:405) om försäkringsförmedling,
 
 - juridisk person som är registrerad betaltjänstleverantör
 enligt lagen (2010:751) om betaltjänster,
@@ -185,6 +221,11 @@ I fråga om juridisk person som utövar försäkringsförmedling
 enligt lagen om försäkringsförmedling tas avgift ut även för
 prövning av anmälan om ny bolagsman.
 
+I fråga om betalningsinstitut och juridisk person som är
+registrerad betaltjänstleverantör enligt lagen om betaltjänster
+tas avgift ut även för prövning av anmälan om ny ansvarig för
+betaltjänstverksamheten eller dennes ställföreträdare.
+
 Avgift tas ut för prövning av anmälan om ny styrelseledamot,
 styrelsesuppleant, verkställande direktör eller dennes
 ställföreträdare i aktiebolag, eller person i motsvarande
@@ -192,8 +233,8 @@ ställning i någon annan juridisk person, som har ett
 kvalificerat innehav i ett sådant företag som avses i första
 stycket.
 
-För avgiftens storlek enligt första-tredje styckena gäller
-4 §, avgiftsklass E. Förordning (2010:752).
+För avgiftens storlek enligt första-fjärde styckena gäller 4 §,
+avgiftsklass E. Förordning (2010:1438).
 
 5 b § Avgift tas ut för intyg avseende verksamhetstillstånd
 som Finansinspektionen har beviljat en fysisk eller juridisk
@@ -396,6 +437,15 @@ till Finansinspektionen före ikraftträdandet gäller äldre
 bestämmelser, om ärendet är avgiftsbelagt enligt dessa
 bestämmelser.
 
+2010:1438
+
+1. Denna förordning träder i kraft den 1 januari 2011.
+
+2. I fråga om ansökningar eller anmälningar som har kommit in
+till Finansinspektionen före ikraftträdandet gäller äldre
+bestämmelser, om ärendet är avgiftsbelagt enligt dessa
+bestämmelser.
+
 
 Bilaga
 
@@ -467,6 +517,8 @@ försäkringsrörelselagen (1982:713) och föreskrifter som
 meddelats med stöd av de bestämmelserna samt punkt 4 i
 övergångsbestämmelserna till lagen (1995:779) om ändring i
 försäkringsrörelselagen (24 a §)                                G
+
+Förhandsgranskning av interna modeller (25 a §)                 R-AC
 
 Undantag från förbudet mot att lämna kredit (26 §)              D
 
@@ -561,6 +613,10 @@ Tillstånd att förvärva kvalificerade aktieinnehav (3 kap. 2 §)  L
 
 Undantag från upplåningsbegränsning (5 kap. 1 §)                G
 
+Undantag från krav på beräkning av försäkringstekniska
+avsättningar i verksamhet avseende tjänstepensionsförsäkring
+(7 kap. 2 § sjunde stycket)                                     G
+
 Medgivande att använda andra tillgångar för skuldtäckning än
 sådana som anges i 7 kap. 10 § första stycket                   I
 
@@ -578,10 +634,17 @@ ansvarighet (7 kap. 18 §)                                       G
 Medgivande att räkna in vissa poster i kapitalbasen (7 kap.
 22, 24, 26 och 27 §§)                                           G
 
+Beslut att belopp som kan återfås från specialföretag
+enligt avtal om riskövertagande får användas för att  minska
+solvensmarginalen (7 kap. 23 § sjunde stycket och 7 kap.
+25 § trettonde stycket)                                         G
+
 Medgivande att använda statistiska metoder (7 kap. 25 §)        G
 
 Prövning av nedsättning av garantibeloppet (7 kap. 26 och
 27 §§)                                                          G
+
+Förhandsgranskning av interna modeller (7 kap. 28 a §)          R-AC
 
 Undantag från gruppbaserad redovisning (7 a kap. 7 och 8 §§)    G
 
@@ -716,6 +779,15 @@ Undantag i fråga om vissa företag (1 kap. 1 § tredje stycket)   D
 Medgivande angående uppskrivning av aktier och andelar i
 dotterföretag och intresseföretag (4 kap. 2 § 5 b)              G
 
+Medgivande att tillämpa 4 kap. 13 a § årsredovisningslagen
+(1995:1554), angående redovisning enligt kapitalandelsmetoden
+(4 kap. 2 § 10)                                                 D
+
+Medgivande att tillämpa 4 kap. 14 f och 14 g §§,
+årsredovisningslagen, angående värdering av vissa tillgångar
+till verkligt värde
+(4 kap. 2 § 14)                                                 D
+
 Tillstånd att i årsredovisningen utelämna vissa uppgifter om
 dotterföretag, intresseföretag och vissa andra företag (5 kap.
 2 § 5)                                                          D
@@ -761,27 +833,24 @@ Förhandsbesked om krav på koncession (4 kap. 3 §)               G
 
 Beviljande av koncession (4 kap. 5 §)                           P
 
-Utvidgning av koncession (4 kap. 6 §)                           G
+Utvidgning av koncession (4 kap. 6 §)                           L
 
 Förlängning av koncession (4 kap. 6 §)                          G
 
 Godkännande av ny företrädare (4 kap. 8 §)                      G
 
-Medgivande att få ut överskjutande deponerat belopp (5 kap.
-3 §)                                                            D
+Medgivande att få ut överskjutande deponerat belopp
+(5 kap. 3 §)                                                    D
 
 Medgivande att använda andra tillgångar för skuldtäckning än
 sådana som anges i 7 kap. 10 § första stycket
-försäkringsrörelselagen (5 kap. 8 §)                            G
+försäkringsrörelselagen (5 kap. 8 §)                            I
 
 Medgivande att avvika från begränsningsreglerna i 7 kap.
-10 b § försäkringsrörelselagen (5 kap. 8 §)                     G
+10 b § försäkringsrörelselagen (5 kap. 8 §)                     I
 
 Medgivande att avvika från begränsningsreglerna i 7 kap.
-10 c § försäkringsrörelselagen (5 kap. 8 §)                     G
-
-Undantag från avyttringsförbudet i 7 kap. 10 f § tredje
-stycket försäkringsrörelselagen (5 kap. 8 §)                    D
+10 c § försäkringsrörelselagen (5 kap. 8 §)                     I
 
 Medgivande avseende vissa undantag (5 kap. 16 §)                G
 
@@ -1100,6 +1169,8 @@ stycket 15 lagen (2007:528) om värdepappersmarknaden (5 kap.
 Aktiebolagslagen (2005:551)
 
 Undantag från 21 kap. 1, 3 eller 5 § (21 kap. 8 §)              D
+
+Undantag från förteckning över lån (21 kap. 10 §)               C
 
 Lagen (2006:451) om offentliga uppköpserbjudanden på
 aktiemarknaden
@@ -1421,4 +1492,4 @@ eller underrättelse beträffande ombud, filial eller
 gränsöverskridande verksamhet (3 kap. 25 §)                     D
 
 Anmälan om uppdragsavtal (3 kap. 28 §)                          D
-Förordning (2010:752).
+Förordning (2010:1438).
