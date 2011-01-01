@@ -391,8 +391,9 @@ författningssamling             AFS
 
 Bolagsverket
 
-Bolagsverkets                   BOLFS
-författningssamling
+Bolagsverkets
+författningssamling             BOLFS           Utnyttjas också av
+                                                Patentombudsnämnden
 
 Boverket
 
@@ -712,18 +713,17 @@ författningssamling                             Verket för
                                                 Rådet för Europeiska
                                                 socialfonden i Sverige
 
-Totalförsvarets pliktverk
+Totalförsvarets
+rekryteringsmyndighet
 
-Totalförsvarets pliktverks      TPVFS
-författningssamling
+Totalförsvarets
+rekryteringsmyndighets
+författningssamling             TRMFS
 
 Trafikverket
 
 Trafikverkets
-författningssamling             TRVFS           Utnyttjas också av
-                                                Statens väg- och
-                                                transportforsknings-
-                                                institut
+författningssamling             TRVFS
 
 Transportstyrelsen
 
@@ -753,7 +753,7 @@ författningssamling
 
 Åklagarmyndighetens             ÅFS
 författningssamling
-Förordning (2010:710).
+Förordning (2010:1444).
 
 Bilaga 2
 
