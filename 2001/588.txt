@@ -15,41 +15,40 @@ beskattningsverksamhet får i beskattningsdatabasen behandlas
 uppgifter
 
 1. som behövs vid Skatteverkets handläggning av ärenden som
-
 sker med stöd av
 
- kupongskattelagen (1970:624),
+- kupongskattelagen (1970:624),
 
- fastighetstaxeringslagen (1979:1152),
+- fastighetstaxeringslagen (1979:1152),
 
- lagen (1984:1052) om statlig fastighetsskatt,
+- lagen (1984:1052) om statlig fastighetsskatt,
 
- lagen (2007:1398) om kommunal fastighetsavgift,
+- lagen (2007:1398) om kommunal fastighetsavgift,
 
- taxeringslagen (1990:324),
+- taxeringslagen (1990:324),
 
- lagen (2001:1227) om självdeklarationer och
+- lagen (2001:1227) om självdeklarationer och
 kontrolluppgifter,
 
- mervärdesskattelagen (1994:200),
+- mervärdesskattelagen (1994:200),
 
- skattebetalningslagen (1997:483),
+- skattebetalningslagen (1997:483),
 
- lagen (1998:506) om punktskattekontroll av transporter m.m.
+- lagen (1998:506) om punktskattekontroll av transporter m.m.
 av alkoholvaror, tobaksvaror och energiprodukter,
 
- inkomstskattelagen (1999:1229),
+- inkomstskattelagen (1999:1229),
 
- lagen (2007:592) om kassaregister m.m.,
+- lagen (2007:592) om kassaregister m.m.,
 
- lagen (2007:324) om Skatteverkets hantering av vissa
+- lagen (2007:324) om Skatteverkets hantering av vissa
 borgenärsuppgifter, eller
 
- annan författning med bestämmelser om skatter och
+- annan författning med bestämmelser om skatter och
 socialavgifter,
 
-2. om planerad, beslutad, pågående eller avslutad revision
-och annan kontroll av skatter och avgifter,
+2. om planerad, beslutad, pågående eller avslutad revision och
+annan kontroll av skatter och avgifter,
 
 3. om att fordran mot en person registrerats hos
 Kronofogdemyndigheten och om indrivningsresultat,
@@ -72,10 +71,9 @@ verksamheten med bouppteckningar och dödsboanmälan enligt
 9. om lagfarna köp av hela eller delar av fastigheter samt om
 fastighetsregleringar vid vilka mer än två hektar åkermark,
 betesmark och skogsmark överförs från en fastighet till en
-annan och där frivillig överenskommelse om likviden
-föreligger,
+annan och där frivillig överenskommelse om likviden föreligger,
 
-10. om tillsyn enligt alkohollagen (1994:1738),
+10. om tillsyn enligt alkohollagen (2010:1622),
 
 11. som behövs för handläggning av ärende enligt lagen
 (1990:314) om ömsesidig handräckning i skatteärenden eller
@@ -104,10 +102,10 @@ sjuklön när det gäller arbetsgivaren och den försäkrade, om
 sjukpenninggrundande inkomst av annat förvärvsarbete och om
 utsänd person,
 
-18. om avgiftsskyldighet till sådant trossamfund som har
-eller har beviljats uppbördshjälp enligt 16 § lagen
-(1998:1593) om trossamfund samt om församlingstillhörighet
-inom Svenska kyrkan,
+18. om avgiftsskyldighet till sådant trossamfund som har eller
+har beviljats uppbördshjälp enligt 16 § lagen (1998:1593) om
+trossamfund samt om församlingstillhörighet inom Svenska
+kyrkan,
 
 19. om att prissättningsbesked har lämnats enligt lagen
 (2009:1289) om prissättningsbesked vid internationella
@@ -119,7 +117,7 @@ respektive lagen (1994:1776) om skatt på energi.
 
 Skatteverket får meddela närmare föreskrifter om vilka
 uppgifter som får behandlas i beskattningsdatabasen.
-Förordning (2010:174).
+Förordning (2010:1640).
 
 3 § I beskattningsdatabasen skall även behandlas de uppgifter
 som anges i rådets förordning (EG) nr 2073/2004 av den 16
@@ -193,24 +191,23 @@ beskattningsdatabasen i den utsträckning det behövs för
 
 2. fördelning av ålderspensionsavgifter,
 
-3. fastställande av underhållsstöd och
-återbetalningsskyldighet enligt lagen (1996:1030) om
-underhållsstöd,
+3. fastställande av underhållsstöd och betalningsskyldighet
+för sådant stöd enligt socialförsäkringsbalken,
 
-4. beräkning och kontroll av bostadsbidrag, eller
+4. beräkning och kontroll av bostadsbidrag enligt
+socialförsäkringsbalken, eller
 
-5. beräkning av betalningsskyldighet enligt 8 § andra
-stycket lagen (2004:1237) om särskild sjukförsäkringsavgift.
+5. beräkning av betalningsskyldighet enligt 8 § andra stycket
+lagen (2004:1237) om särskild sjukförsäkringsavgift.
+De uppgifter som ska lämnas till Försäkringskassan med stöd av
+första stycket är uppgifter
 
-De uppgifter som ska lämnas till Försäkringskassan med stöd
-av första stycket är uppgifter
+1. enligt 19 kap. 11, 13 och 14 §§ socialförsäkringsbalken,
+med undantag av 13 § tredje stycket,
 
-1. enligt 25 § lagen om underhållsstöd, med undantag av 25 §
-tredje stycket,
-
-2. om inkomst som anges i 44 b och 7 §§ lagen (1993:737) om
-bostadsbidrag, med undantag av 4 § tredje stycket 13 och 4
-b § andra stycket,
+2. om inkomst som anges i 97 kap. 2, 4, 5, 11 och 13 §§
+socialförsäkringsbalken, med undantag av 5 § tredje stycket
+och 13 § första stycket 13,
 
 3. om fastighet, ägarandel, fastighetsbeteckning, adress och
 bostadsyta,
@@ -223,15 +220,16 @@ kalenderår,
 expansionsfond enligt 30 och 34 kap. inkomstskattelagen
 (1999:1229) samt om återföring av sådana avdrag, och
 
-6. om schablonintäkt enligt 47 kap. 11 b §
-inkomstskattelagen. Förordning (2009:1190).
+6. om schablonintäkt enligt 47 kap. 11 b § inkomstskattelagen.
+Förordning (2010:1715).
 
 7 a § Till Statens tjänstepensionsverk ska vissa uppgifter
 lämnas ut från beskattningsdatabasen i den utsträckning det
 behövs för beräkning och kontroll av
 
 1. pensionsersättning och särskild pensionsersättning enligt
-statligt kollektivavtal om trygghetsfrågor,
+statligt
+kollektivavtal om trygghetsfrågor,
 
 2. pension enligt statligt kollektivavtal om särskild pension
 för yrkesofficerare, eller
@@ -240,10 +238,10 @@ för yrkesofficerare, eller
 varit statsråd och för vissa arbetstagare som har innehaft
 statlig chefsanställning.
 
-De uppgifter som ska lämnas ut till Statens tjänstepensionsverk
-med stöd av första stycket är uppgifter om inkomster som är
-pensionsgrundande enligt 2 kap. lagen (1998:674) om
-inkomstgrundad ålderspension. Förordning (2010:556).
+De uppgifter som ska lämnas ut till Statens
+tjänstepensionsverk med stöd av första stycket är uppgifter om
+inkomster som är pensionsgrundande enligt 59 kap.
+socialförsäkringsbalken. Förordning (2010:1715).
 
 7 b § På begäran av Inspektionen för socialförsäkringen ska
 lämnas ut uppgifter som inspektionen behöver för sin
@@ -258,20 +256,25 @@ beskattningsdatabasen i den utsträckning det behövs för
 
 2. beräkning av inkomstindex.
 
-De uppgifter som ska lämnas till Pensionsmyndigheten med
-stöd av första stycket är uppgifter
+De uppgifter som ska lämnas till Pensionsmyndigheten med stöd
+av första stycket är uppgifter
 
-1. om sammanlagda intäkts- och kostnadsposter i
-inkomstslaget tjänst med allmän pension och tjänstepension
-som delbelopp samt uppgift om överskott i inkomstslagen
-tjänst, näringsverksamhet och kapital,
+1. om sammanlagda intäkts- och kostnadsposter i inkomstslaget
+tjänst med allmän pension och tjänstepension som delbelopp
+samt uppgift om överskott i inkomstslagen tjänst,
+näringsverksamhet och kapital,
 
-2. om pensionsgrundande inkomst med delbelopp, och
+2. om pensionsgrundande inkomst med delbelopp,
 
 3. om pensionsgrundande inkomst, utan den begränsning som
-anges i 2 kap. 1 § andra stycket lagen (1998:674) om
-inkomstgrundad ålderspension, efter avdrag för allmän
-pensionsavgift. Förordning (2009:1190).
+anges i 59 kap.
+4 § andra stycket socialförsäkringsbalken, efter avdrag för
+allmän pensionsavgift, och
+
+4. om tjänstepension som har redovisats i kontrolluppgifter
+och som avser personer som är födda 1937 eller tidigare för
+vilka lagen (1991:586) om särskild inkomstskatt för utomlands
+bosatta har tillämpats. Förordning (2010:1715).
 
 8 § På begäran av Statistiska centralbyrån ska lämnas ut
 uppgifter ur beskattningsdatabasen i den utsträckning som
