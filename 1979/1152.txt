@@ -378,14 +378,14 @@ byggnad som ska rivas (saneringsbyggnad) eller av byggnad
 eller byggnader vars sammanlagda taxeringsvärde inte skulle
 uppgå till 50 000 kronor.
 
-Tomtmark     Mark som upptas av småhus, ägarlägenheter,
+Tomtmark        Mark som upptas av småhus, ägarlägenheter,
                 hyreshus, kraftverksbyggnad, industribyggnad,
                 specialbyggnad eller övrig byggnad samt
                 trädgård, parkeringsplats, upplagsplats,
                 kommunikationsutrymme m.m., som ligger i
                 anslutning till en sådan byggnad.
 
-             Mark till fastighet, som är bebyggd med småhus,
+                Mark till fastighet, som är bebyggd med småhus,
                 hyreshus, kraftverksbyggnad, industribyggnad,
                 specialbyggnad eller övrig byggnad, ska i sin
                 helhet utgöra tomtmark, om fastigheten ligger i
@@ -395,7 +395,7 @@ Tomtmark     Mark som upptas av småhus, ägarlägenheter,
                 taxeras tillsammans med annan egendom enligt
                 reglerna i 4 kap.
 
-             Vad nu har sagts om tomtmark ska också gälla
+                Vad nu har sagts om tomtmark ska också gälla
                 mark till obebyggd fastighet, som har bildats
                 för byggnadsändamål under de senaste två åren.
                 Har fastigheten bildats längre tillbaka i tiden
@@ -410,7 +410,7 @@ Tomtmark     Mark som upptas av småhus, ägarlägenheter,
                 plan- och bygglagen (2010:900), avseende sådan
                 byggnad som anges i andra stycket.
 
-Täktmark     Mark för vilken täkttillstånd enligt 9 kap.
+Täktmark        Mark för vilken täkttillstånd enligt 9 kap.
                 miljöbalken, förordningen (1998:899) om
                 miljöfarlig verksamhet och hälsoskydd eller
                 lagen (1998:812) med särskilda bestämmelser om
@@ -419,11 +419,11 @@ Täktmark     Mark för vilken täkttillstånd enligt 9 kap.
                 för täktens utnyttjande hindrar inte att marken
                 indelas som täktmark.
 
-Åkermark     Mark som används eller lämpligen kan användas
+Åkermark        Mark som används eller lämpligen kan användas
                 till växtodling eller bete och som är lämplig
                 att plöjas.
 
-Betesmark    Mark som används eller lämpligen kan användas
+Betesmark       Mark som används eller lämpligen kan användas
                 till bete och som inte är lämplig att plöjas.
 
 Produktiv
@@ -434,12 +434,12 @@ skogsmark       Skogsmark som enligt vedertagna
 Skogligt
 impediment      Improduktiv skogsmark samt träd- och buskmark.
 
-             Med improduktiv skogsmark avses skogsmark som
+                Med improduktiv skogsmark avses skogsmark som
                 inte är produktiv skogsmark. Med skogsmark samt
                 träd- och buskmark avses detsamma som i 2 och
                 2 a §§ skogsvårdslagen (1979:429).
 
-Övrig mark   Mark som inte ska utgöra något av de tidigare
+Övrig mark      Mark som inte ska utgöra något av de tidigare
                 nämnda ägoslagen.
 Lag (2010:907).
 
@@ -2407,7 +2407,8 @@ fastighetstaxering äger rum skall regeringen eller den
 myndighet som regeringen bestämmer besluta sådana föreskrifter
 som avses i 7 kap. 7 § och 19 kap. 3 §. Lag (2001:546).
 
-8 § Den som under andra året före taxeringsåret äger en
+8 § /Upphör att gälla U:2011-04-15/
+Den som under andra året före taxeringsåret äger en
 småhusenhet, som förvärvats under tredje året före
 taxeringsåret, är efter föreläggande av Skatteverket skyldig
 att lämna de uppgifter som behövs till ledning inför allmän
@@ -2425,6 +2426,27 @@ Skatteverket skyldig att till ledning inför allmän
 fastighetstaxering lämna uppgift om de priser som under andra
 året före taxeringsåret uppburits för brytvärd fyndighet.
 Lag (2003:650).
+
+8 § /Träder i kraft I:2011-04-15/
+Den som under andra året före taxeringsåret äger en
+småhusenhet, som förvärvats under tredje året före
+taxeringsåret, är efter föreläggande av Skatteverket skyldig
+att lämna de uppgifter som behövs till ledning inför allmän
+fastighetstaxering.
+
+Den som under andra eller tredje året före taxeringsåret äger
+en hyreshusenhet, industrienhet, elproduktionsenhet eller
+lantbruksenhet är efter föreläggande av Skatteverket skyldig
+att lämna de uppgifter som behövs till ledning inför allmän
+fastighetstaxering.
+
+Den som under andra året före taxeringsåret är innehavare av
+täktenhet eller annan taxeringsenhet på vilken täktverksamhet
+pågår eller annars är tillåten, är efter föreläggande från
+Skatteverket skyldig att till ledning inför allmän
+fastighetstaxering lämna uppgift om de priser som under andra
+året före taxeringsåret uppburits för brytvärd fyndighet.
+Lag (2011:299).
 
 Förenklad fastighetstaxering
 
@@ -2583,8 +2605,8 @@ Lag (2003:650).
 11 § Trots bestämmelsen i 8 § får en fråga som har avgjorts av
 förvaltningsrätt eller kammarrätt genom beslut som vunnit laga
 kraft omprövas, om beslutet avviker från rättstillämpningen i
-ett regeringsrättsavgörande som har meddelats därefter.
-Lag (2009:793).
+ett avgörande av Högsta förvaltningsdomstolen som har meddelats
+därefter. Lag (2010:1443).
 
 12 § Omprövar Skatteverket självmant ett beslut om
 fastighetstaxering, får omprövningsbeslut som är till
