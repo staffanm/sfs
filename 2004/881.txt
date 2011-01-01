@@ -43,7 +43,7 @@ Stockholms              19,03           10,05
 
 Uppsala                 19,63           9,45
 
-Södermanlands           19,73           9,35
+Södermanlands           19,93           9,15
 
 Östergötlands           19,10           9,98
 
@@ -85,10 +85,11 @@ kommuner.
 
 För en kommun som inte ingår i ett landsting är skattesatsen
 9,48 procent vid beräkning av inkomstutjämningsbidrag för
-landsting. Förordning (2007:1271).
+landsting. Förordning (2010:1337).
 
-3 § Vid beräkning av inkomstutjämningsavgifter för kommuner och
-för landsting ska följande länsvisa skattesatser tillämpas.
+3 § Vid beräkning av inkomstutjämningsavgifter för kommuner
+och för landsting ska följande länsvisa skattesatser
+tillämpas.
 
 Län                     Kommuner        Landsting
 
@@ -96,7 +97,7 @@ Stockholms              16,96           9,53
 
 Uppsala                 17,56           8,93
 
-Södermanlands           17,66           8,83
+Södermanlands           17,86           8,63
 
 Östergötlands           17,03           9,46
 
@@ -138,7 +139,7 @@ kommuner.
 
 För en kommun som inte ingår i ett landsting är skattesatsen
 8,95 procent vid beräkning av inkomstutjämningsavgift för
-landsting. Förordning (2007:1271).
+landsting. Förordning (2010:1337).
 
 4 § Inkomstutjämningsbidrag och inkomstutjämningsavgift anges i
 kronor per invånare i kommunen respektive landstinget och
@@ -541,6 +542,7 @@ lönekostnad. Samtliga landsting får därefter ett invånarbaserat
 avdrag, som beräknas så att summan av avdragen motsvarar summan
 av tilläggen.
 
+
 Ett landstings justerade lönekostnad beräknas genom att
 landstingets standardkostnad för hälso- och sjukvård
 multipliceras med lönekostnadsandelen för verksamheten.
@@ -643,43 +645,44 @@ Genomsnittlig standardkostnad
 
 Kommuner
 
-Den för landet genomsnittliga standardkostnaden i kronor per
-invånare före uppräkning till utjämningsårets kostnadsnivå för
-var och en av följande verksamheter är:
+Den för landet genomsnittliga standardkostnaden i kronor
+per invånare före uppräkning till utjämningsårets
+kostnadsnivå för var och en av följande verksamheter är:
 
-Förskoleverksamhet och skolbarnsomsorg  5 676
+Förskoleverksamhet och
+skolbarnsomsorg                         5 885
 
 Förskoleklass och grundskola
 
- Förskoleklass                         482
+ Förskoleklass                         507
 
- Grundskola                            8 209
+ Grundskola                            8 115
 
-Gymnasieskola                           3 858
+Gymnasieskola                           3 916
 
 Individ- och familjeomsorg
 
- Barn- och ungdomsvård                 1 334
+ Barn- och ungdomsvård                 1 363
 
- Övrig individ- och familjeomsorg      1 745
+ Övrig individ- och familjeomsorg      1 921
 
-Äldreomsorg                             8 677
+Äldreomsorg                             8 684
 
-Beloppen avser år 2008.
+Beloppen avser år 2009.
 
 Landsting
 
 Den för landet genomsnittliga standardkostnaden före
 uppräkning till utjämningsårets kostnadsnivå för hälso- och
-sjukvård är 17 765 kronor per invånare. Beloppet avser år
-2008.
+sjukvård är 18 315 kronor per invånare. Beloppet avser år
+2009.
 
 Delat huvudmannaskap
 
 Den för landet genomsnittliga standardkostnaden före
 uppräkning till utjämningsårets kostnadsnivå för
-kollektivtrafik är 1 529 kronor per invånare. Beloppet avser
-år 2008.
+kollektivtrafik är 1 585 kronor per invånare. Beloppet
+avser år 2009.
 
 Nettoprisindex
 
@@ -687,22 +690,24 @@ Uppräkning till utjämningsårets kostnadsnivå sker med hjälp
 av utvecklingen av nettoprisindex. Som genomsnittlig
 procentuell förändring i nettoprisindex för respektive år
 används följande: 2003 (1,5), 2004 (0,1), 2005 (0,1), 2006
-(1,1), 2007 (2,7), 2008 (2,7), 2009 (-0,8) och 2010 (0,3).
+(1,1), 2007 (2,7), 2008 (2,7), 2009 (-0,8), 2010 (1,6) och
+2011 (0,8).
 
 Följande verksamheters och kostnadsslags standardkostnad
 räknas upp till utjämningsårets kostnadsnivå med hjälp av
-nettoprisindex året före utjämningsåret samt utjämningsåret:
-förskoleverksamhet och skolbarnsomsorg, förskoleklass och
-grundskola, gymnasieskola, individ- och familjeomsorg,
-äldreomsorg, löner, hälso- och sjukvård samt kollektivtrafik.
+nettoprisindex året före utjämningsåret samt
+utjämningsåret: förskoleverksamhet och skolbarnsomsorg,
+förskoleklass och grundskola, gymnasieskola, individ- och
+familjeomsorg, äldreomsorg, löner, hälso- och sjukvård samt
+kollektivtrafik.
 
 Följande kostnadsslags standardkostnad räknas upp till
 utjämningsårets kostnadsnivå med hjälp av nettoprisindex år
 2003 t.o.m. utjämningsåret: bebyggelsestruktur.
 
 Följande kostnadsslags standardkostnad räknas inte upp till
-utjämningsårets kostnadsnivå: barn och ungdomar med utländsk
-bakgrund samt befolkningsförändringar.
+utjämningsårets kostnadsnivå: barn och ungdomar med
+utländsk bakgrund samt befolkningsförändringar.
 
 Förskoleverksamhet och skolbarnsomsorg
 
@@ -973,4 +978,4 @@ invånardistansen + 1 926,383 x andelen boende i tätort med mer
 arbetspendlar över kommungräns.
 
 Med invånardistansen avses det genomsnittliga avståndet mellan
-invånarna i länet. Förordning (2009:1030).
+invånarna i länet. Förordning (2010:1337).
