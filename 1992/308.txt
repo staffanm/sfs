@@ -43,15 +43,15 @@ nationalitet, säte och adress samt filialens firma,
 
 2. företagets och filialens verksamhet angiven till sin art,
 
-3. den kommun där filialkontoret ska vara beläget och kontorets
-postadress,
+3. filialens postadress,
 
 4. namn, personnummer eller, om sådant saknas, födelsedatum,
 samt postadress för personer som fått bemyndigande enligt 10 §
 andra stycket lagen (1992:160) om utländska filialer m.m., för
-filialens verkställande direktör och revisor samt för vice
+filialens verkställande direktör och revisor, för vice
 verkställande direktör och revisorssuppleant, om sådan blivit
-utsedd,
+utsedd, samt för firmatecknare, om det utländska företaget är
+ett bankföretag,
 
 5. hemvist för verkställande direktören om postadressen avviker
 från hemvistet,
@@ -59,20 +59,12 @@ från hemvistet,
 6. den som är huvudansvarig för revisionen om revisionsbolag
 blivit utsett,
 
-7. namn och postadress för de personer som är behöriga att
-företräda bolaget avseende filialens verksamhet med uppgift om
-behörighetens omfattning,
+7. företagets och filialens räkenskapsår,
 
-8. för det fall företaget är ett aktiebolag, bolagets
-aktiekapital och det belopp av aktiekapitalet som blivit
-inbetalat,
-
-9. företagets och filialens räkenskapsår,
-
-10. uppgift om det utländska register där företaget är
+8. uppgift om det utländska register där företaget är
 registrerat, och
 
-11. uppgift om företagets organisationsnummer i det utländska
+9. uppgift om företagets organisationsnummer i det utländska
 registret.
 
 Anmälan ska även innehålla
@@ -84,25 +76,27 @@ enligt 11 kap. 7 § föräldrabalken,
 2. en försäkran på heder och samvete om att personer som har
 fått bemyndigande enligt 10 § andra stycket lagen om utländska
 filialer m.m. inte har förvaltare enligt 11 kap. 7 §
-föräldrabalken, och
+föräldrabalken,
 
-3. en försäkran på heder och samvete att de personer som avses
+3. en försäkran på heder och samvete om att revisorerna
+uppfyller de krav som enligt revisorslagen (2001:883) uppställs
+för auktoriserad respektive godkänd revisor, och
+
+4. en försäkran på heder och samvete att de personer som avses
 i första stycket 4 har åtagit sig uppdragen.
 
 När anmälan ges in ska avgift enligt 20 § betalas.
-Förordning (2008:109).
+Förordning (2011:105).
 
 5 § Tillsammans med anmälan för registrering ska inges
 
-1. bevis att företaget är behörigen bildat och registrerat samt
-bedriver näringsverksamhet i sitt hemland,
+1. bevis att företaget är behörigen bildat och registrerat,
 
-2. bestyrkt kopia av bolagsordning, stadgar eller motsvarande
-handling som gäller för företaget,
+2. kopia av bolagsordning, stadgar eller motsvarande handling
+som gäller för företaget,
 
-3. bestyrkt kopia av företagets och i förekommande fall
-moderföretagets årsredovisningshandlingar för de två senaste
-räkenskapsåren,
+3. kopia av företagets och i förekommande fall moderföretagets
+årsredovisningshandlingar för de två senaste räkenskapsåren,
 
 4. bevis att företaget inte är i konkurs,
 
@@ -110,21 +104,30 @@ räkenskapsåren,
 direktören som avses i 10 § första stycket lagen (1992:160) om
 utländska filialer m.m., och
 
-6. bestyrkt kopia av protokoll från styrelsesammanträde som
-visar vem som fått sådant bemyndigande som avses i 10 § andra
-stycket lagen om utländska filialer m.m. Förordning (2008:109).
+6. kopia av tillstånd från Finansinspektionen om att få driva
+bankrörelse från filial i Sverige, om filialen är en bankfilial
+till ett utländskt kreditinstitut med säte utanför Europeiska
+ekonomiska samarbetsområdet (EES).
+
+Om den som anmäls som verkställande direktör, vice
+verkställande direktör eller, om det utländska bolaget är ett
+bankföretag, firmatecknare inte är folkbokförd i Sverige, ska
+det vid anmälan ges in en kopia av passhandling eller annan
+identitetshandling som avser den anmälde. Bolagsverket får
+kräva in ytterligare handlingar om det behövs för att
+säkerställa den anmäldes identitet. Förordning (2011:105).
 
 6 § Bestämmelserna i 4 § gäller i tillämpliga delar även sådan
 anmälan enligt lagen (1992:160) om utländska filialer m.m. som
 görs efter det att en filial har registrerats. Om anmälan avser
 mer än en ändring av adress eller hemvist, ska det förhållande
-som anmäls styrkas med bestyrkt kopia av protokoll, skriftlig
-förklaring av det utländska företaget eller annan handling. Vid
-anmälan om att en ny verkställande direktör, vice verkställande
-direktör eller sådan bemyndigad person som avses i 10 § andra
-stycket lagen om utländska filialer m.m. blivit utsedd ska
-iakttas vad som sägs i 4 § första stycket 4 och 5 och andra
-stycket samt 5 § 5 och 6. Förordning (2008:109).
+som anmäls styrkas med kopia av protokoll, skriftlig förklaring
+av det utländska företaget eller annan handling. Vid anmälan om
+att en ny verkställande direktör, vice verkställande direktör
+eller sådan bemyndigad person som avses i 10 § andra stycket
+lagen om utländska filialer m.m. blivit utsedd ska iakttas vad
+som sägs i 4 § första stycket 4 och 5 och andra stycket samt
+5 § 5. Förordning (2011:105).
 
 7 § När ansökan görs av annat utländskt företag än ett aktiebolag
 eller en ekonomisk förening, gäller bestämmelserna i 4 § i tillämpliga
@@ -302,23 +305,23 @@ registret.
 Handläggning av ärende om registrering av filial eller
 anmälan av föreståndare
 
-18 a § I ett ärende om registrering av filial eller anmälan
-av föreståndare enligt 2 § lagen (1992:160) om utländska
-filialer m.m. ska registreringsmyndigheten meddela beslut
-inom två månader efter det att en fullständig anmälan kom
-in till myndigheten. Om det är nödvändigt på grund av
-utredningen av ärendet, får handläggningstiden vid högst
-ett tillfälle förlängas med högst två månader. Sökanden ska
-informeras om skälen för att handläggningstiden förlängs
-innan den ursprungliga tidsfristen har gått ut.
+18 a § I ett ärende om registrering av filial eller anmälan av
+föreståndare enligt 2 § lagen (1992:160) om utländska filialer
+m.m. ska registreringsmyndigheten meddela beslut inom en månad
+efter det att en fullständig anmälan kom in till myndigheten.
+Om det är nödvändigt på grund av utredningen av ärendet, får
+handläggningstiden vid högst ett tillfälle förlängas med högst
+en månad. Sökanden ska informeras om skälen för att
+handläggningstiden förlängs innan den ursprungliga tidsfristen
+har gått ut.
 
-I 8 § lagen (2009:1079) om tjänster på den inre marknaden
-finns bestämmelser om att ett mottagningsbevis ska skickas
-till sökanden när en fullständig anmälan har kommit in och
-om innehållet i ett sådant bevis.
+I 8 § lagen (2009:1079) om tjänster på den inre marknaden finns
+bestämmelser om att ett mottagningsbevis ska skickas till
+sökanden när en fullständig anmälan har kommit in och om
+innehållet i ett sådant bevis.
 
-Ett beslut att förlänga handläggningstiden får inte
-överklagas. Förordning (2009:1097).
+Ett beslut att förlänga handläggningstiden får inte överklagas.
+Förordning (2011:105).
 
 Prövning av vissa frågor
 
@@ -358,25 +361,34 @@ försäkringsföretag. Förordning (2008:109).
 
 Avgifter
 
-20 § För registrering och dess kungörande samt för
-handläggning och prövning skall avgifter betalas med följande
+20 § I ärenden som rör registrering enligt denna förordning ska
+för registreringen och dess kungörande samt för ärendets
+handläggning och prövning, avgifter betalas med följande
 belopp:
 
-a) vid anmälan för registrering av en filial, 2 000 kronor, och
+1. vid anmälan för registrering av en filial, 2 000 kronor, och
 
-b) vid anmälan eller anteckning i registret i övrigt, 800
+2. vid anmälan eller anteckning i registret i övrigt, 800
 kronor.
 
-Någon avgift skall inte betalas för avregistrering eller för
-registrering eller kungörande som sker efter anmälan om enbart
-adressändring eller efter anmälan enligt 15 § eller efter
-anmälan som enligt 19 § andra stycket lagen (1992:160) om
-utländska filialer m.m. görs av en borgenär eller av den vars
-rätt är beroende av att det finns någon som får företräda
-filialen.
+Avgiften för en anmälan om registrering återbetalas inte om
+handläggningen av ärendet har påbörjats. Förordning (2011:105).
 
-Avgiften återbetalas inte om handläggningen av en anmälan om
-registrering har påbörjats. Förordning (2004:31).
+20 a § Avgift ska inte betalas i ärenden som gäller
+
+1. avregistrering av filial,
+
+2. registrering av ändrad postadress,
+
+3. anmälan enligt 15 §,
+
+4. anmälan enligt 19 § andra stycket lagen (1992:160) om
+utländska filialer m.m. som görs av en borgenär eller av den
+vars rätt är beroende av att det finns någon som får företräda
+filialen, eller
+
+5. eget utträde från uppdrag som revisor eller
+revisorssuppleant. Förordning (2011:105).
 
 21 § För handläggning och prövning av vissa frågor enligt
 lagen (1992:160) om utländska filialer m.m. skall avgifter
@@ -397,7 +409,31 @@ När det gäller fråga som prövas av Finansinspektionen enligt
 fråga om avgiftens storlek m.m. bestämmelserna i 9-14 §§
 avgiftsförordningen (1992:191), varvid avgiftsklass 2
 tillämpas. Förordning (2003:1045).
-22 § Har upphävts genom förordning (1993:1527).
+
+Underrättelser
+
+22 § När någon registreras som verkställande direktör, vice
+verkställande direktör, person som bemyndigats att ta emot
+delgivning enligt 10 § andra stycket lagen om utländska
+filialer m.m., revisor, revisorssuppleant eller firmatecknare
+för utländskt bankföretags filial, ska Bolagsverket underrätta
+den registrerade om åtgärden. När verket tar bort en sådan
+registrering från registret, ska underrättelse lämnas till den
+som åtgärden berör.
+
+Om registreringen avser ett revisionsbolag, ska den
+huvudansvarige revisorn underrättas.
+
+Underrättelsen ska omedelbart efter registreringen eller
+avförandet av registreringen sändas till den som åtgärden berör
+på hans eller hennes särskilda postadress eller
+folkbokföringsadress enligt det statliga person- och
+adressregistret (SPAR) eller, om en sådan adressuppgift saknas,
+den adress som har uppgetts i ärendet.
+
+Bolagsverket behöver inte sända en underrättelse om det är
+uppenbart att underrättelsen inte fyller något syfte.
+Förordning (2011:105).
 
 Övergångsbestämmelser
 
