@@ -1,5 +1,3 @@
-
-
 Allmänna bestämmelser
 
 Syftet med lagen
@@ -21,7 +19,7 @@ betydelse.
 
 Beteckning                      Betydelse
 
-Behandling (av person)          Varje åtgärd eller serie av
+Behandling (av person-          Varje åtgärd eller serie av
 uppgifter)                      åtgärder som vidtas i fråga om
                                 personuppgifter, vare sig det
                                 sker på automatisk väg eller inte,
@@ -310,7 +308,6 @@ Uppgifter av den art som anges i första och andra styckena
 betecknas i denna lag som känsliga personuppgifter.
 
 Undantag från förbudet mot behandling av känsliga
-
 personuppgifter
 
 14 § Det är trots förbudet i 13 § tillåtet att behandla
@@ -523,7 +520,7 @@ tystnadsplikt
 eller annan författning eller annars framgår av beslut som
 har meddelats med stöd av författning att uppgifter inte får
 lämnas ut till den registrerade gäller inte bestämmelserna i
-2326 §§. En personuppgiftsansvarig som inte är en myndighet
+23–26 §§. En personuppgiftsansvarig som inte är en myndighet
 får därvid i motsvarande fall som avses i offentlighets- och
 sekretesslagen (2009:400) vägra att lämna ut uppgifter till
 den registrerade. Lag (2009:468).
@@ -788,18 +785,24 @@ beslut om säkerhetsåtgärder enligt 32 § som vunnit laga kraft,
 får tillsynsmyndigheten föreskriva vite.
 
 46 § Innan tillsynsmyndigheten beslutar om vite enligt 44 eller
-45 §, skall den personuppgiftsansvarige ha fått tillfälle att
+45 §, ska den personuppgiftsansvarige ha fått tillfälle att
 yttra sig. Om saken är brådskande, får myndigheten dock i
 avvaktan på yttrandet meddela ett tillfälligt beslut om vite.
-Det tillfälliga beslutet skall omprövas, när yttrandetiden har
+Det tillfälliga beslutet ska omprövas, när yttrandetiden har
 gått ut.
 
-Ett vitesföreläggande skall delges den personuppgiftsansvarige.
-Delgivning enligt 12 § delgivningslagen (1970:428) får användas
-bara om det finns skäl att anta att den personuppgiftsansvarige
-har avvikit eller på annat sätt håller sig undan.
+Ett vitesföreläggande ska delges den personuppgiftsansvarige.
+Delgivning enligt 34–37 §§ delgivningslagen (2010:1932) får
+användas bara om det med beaktande av vad som har framkommit i
+det aktuella delgivningsärendet eller vid andra
+delgivningsförsök med den personuppgiftsansvarige finns
+anledning att anta att han eller hon har avvikit eller på annat
+sätt håller sig undan. Lag (2010:1969).
 
-47 § Tillsynsmyndigheten får hos förvaltningsrätten inom vars domkrets tillsynsmyndigheten är belägen ansöka om att sådana personuppgifter som har behandlats på ett olagligt sätt ska utplånas.
+47 § Tillsynsmyndigheten får hos förvaltningsrätten inom vars
+domkrets tillsynsmyndigheten är belägen ansöka om att sådana
+personuppgifter som har behandlats på ett olagligt sätt ska
+utplånas.
 
 Beslut om utplånande får inte meddelas om det är oskäligt.
 Lag (2009:827).
@@ -946,3 +949,12 @@ bestämmelserna.
 Denna lag träder i kraft den 1 januari 2007. Föreskrifterna i
 52 § skall dock inte tillämpas i fråga om överklagande av
 beslut som har meddelats före ikraftträdandet.
+
+2010:1969
+
+1. Denna lag träder i kraft den 1 april 2011.
+
+2. Äldre bestämmelser gäller om ett beslut om delgivning enligt
+15–17 §§ delgivningslagen (1970:428) har fattats före den 1
+april 2011 eller om en handling har skickats eller lämnats före
+denna tidpunkt.
