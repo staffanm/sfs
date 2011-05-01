@@ -45,44 +45,7 @@ tandvårdsersättning ska kunna lämnas, samt
 överstigande beloppet enligt 1 som tandvårdsersättning ska
 lämnas. Förordning (2008:844).
 
-6 § /Upphör att gälla U:2011-04-01/
-Om en protetisk behandling behöver göras om och den nya
-behandlingen
-
-1. inte är ersättningsberättigande enligt vad som anges i
-bilaga 1 till denna förordning, och
-
-2. utförs av en annan vårdgivare än den som utförde den
-behandling som behöver göras om,
-
-får Försäkringskassan lämna ersättning till den vårdgivare som
-gör om behandlingen med ett belopp motsvarande det belopp som
-får krävas åter eller räknas av från en annan fordran enligt 4
-kap. 3 § andra stycket lagen (2008:145) om statligt
-tandvårdsstöd.
-
-Ersättning enligt första stycket får dock inte överstiga det
-lägsta av följande belopp:
-
-- vårdgivarens pris för att göra om behandlingen för den
-aktuella patienten, och
-
-- referenspriset för att göra om behandlingen.
-
-Om den nya behandlingen är mer omfattande eller i övrigt består
-av andra ersättningsberättigande tandvårdsåtgärder än den
-behandling som behöver göras om, får tandvårdsersättning lämnas
-för kostnaderna för dessa åtgärder enligt vad som anges i 2
-kap. 4 § lagen om statligt tandvårdsstöd. Kostnaderna får dock
-inte beräknas högre än ett belopp motsvarande skillnaden mellan
-kostnaden för den nya behandlingen och kostnaden för den
-behandling som behöver göras om. Beräkningen av kostnaderna för
-de åtgärder som ingår i behandlingarna ska ske med utgångspunkt
-i referenspriserna för dessa åtgärder, dock högst vårdgivarens
-pris för den aktuella patienten.
-
-6 § /Träder i kraft I:2011-04-01/
-Om en protetisk behandling behöver göras om och den nya
+6 § Om en protetisk behandling behöver göras om och den nya
 behandlingen
 
 1. enligt föreskrifter som meddelats med stöd av 2 § 1 inte är
@@ -308,6 +271,58 @@ stycket, eller
 
 4. inte har påbörjat verksamheten senast sex månader efter det
 att Försäkringskassan meddelat beslut om anslutning.
+
+Försäkringskassans uppgiftsskyldighet
+
+19 a § För att Tandvårds- och läkemedelsförmånsverket ska kunna
+fullgöra sin verksamhet i fråga om det statliga tandvårdsstödet
+ska Försäkringskassan till verket lämna uppgifter om:
+
+1. löpnummer för patientens personnummer och i förekommande
+fall samordningsnummer,
+
+2. patientens kön och ålder, diagnos eller tillstånd respektive
+åtgärdskod för den utförda åtgärden, tandnummer och
+tandposition, datum när åtgärden slutfördes,
+
+3. patientens ersättningsperiod, start- och slutdatum samt
+nyttjande av tandvårdsbidrag,
+
+4. vårdgivarens pris för utförd åtgärd för den aktuella
+patienten,
+
+5. i förekommande fall avtal om abonnemangstandvård enligt 2
+kap. 2 § lagen (2008:145) om statligt tandvårdsstöd,
+abonnemangsperiod och om utförd tandvård som omfattas av sådant
+avtal samt avgiften för abonnemanget,
+
+6. referenspris per utförd åtgärd, med vilket belopp patienten
+har fått statligt tandvårdsstöd, patientens pris per besök,
+ersättningsgrundande belopp per besök, vårdgivares pris för
+besök, ackumulerat ersättningsgrundande belopp under
+ersättningsperioden samt förekommande korrigeringsbelopp,
+
+7. tandvårdsmottagningens geografiska läge avseende län och
+slags vårdgivare: offentlig, privat eller annan,
+
+8. löpnummer för vårdgivares organisationsnummer och
+tandvårdsmottagning,
+
+9. datum när vårdgivares fordran mot staten uppkommer, datum
+när vårdgivares fordran mot staten regleras, datum när ärendet
+registreras eller ändras i databas hos Försäkringskassan, och
+
+10. löpnummer för administrativa uppgifter som ärendenummer,
+radnummer från databas hos Försäkringskassan, ärendetyp och
+ärendestatus.
+
+Varje personnummer, samordningsnummer, organisationsnummer och
+tandvårdsmottagningsnummer ska innan uppgifter enligt första
+stycket lämnas ut vara krypterade på ett sådant sätt att
+identifiering inte är möjlig.
+
+Uppgifterna får lämnas ut på medium för automatiserad
+behandling. Förordning (2011:307).
 
 Övriga bemyndiganden
 
