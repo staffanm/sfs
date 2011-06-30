@@ -2,33 +2,25 @@
 
 Tillämpningsområde och definitioner
 
-1 § Denna lag gäller för anmälan och godkännande av system för
-avveckling av förpliktelser att betala eller att leverera
-finansiella instrument (avvecklingssystem) på finansmarknaden.
+1 § Denna lag gäller för anmälan och godkännande av system för clearing och avveckling av förpliktelser att betala eller att leverera finansiella instrument (avvecklingssystem) på finansmarknaden.
+Lag (2011:733).
 
 2 § I denna lag avses med
 
-administratör: ett företag som är ansvarigt för verksamheten i
-ett avvecklingssystem; företaget anses som deltagare i
-systemet,
+administratör: ett företag som är ansvarigt för verksamheten i ett avvecklingssystem; företaget anses som deltagare i systemet,
 
-anmält avvecklingssystem: ett avvecklingssystem som en stat
-inom EES har anmält till Europeiska kommissionen eller till
-Eftas övervakningsmyndighet,
+anmält avvecklingssystem: ett avvecklingssystem som en stat inom EES har anmält till Europeiska kommissionen eller till Eftas övervakningsmyndighet,
 
-central värdepappersförvarare: ett företag som har
-auktorisation att kontoföra finansiella instrument i
-avstämningsregister enligt lagen (1998:1479) om kontoföring av
-finansiella instrument,
+central värdepappersförvarare: ett företag som har auktorisation att kontoföra finansiella instrument i avstämningsregister enligt lagen (1998:1479) om kontoföring av finansiella instrument,
 
-clearingorganisation: ett företag som har tillstånd att driva
-clearingverksamhet enligt lagen (2007:528) om
-värdepappersmarknaden,
+clearingorganisation: ett företag som har tillstånd att driva clearingverksamhet enligt lagen (2007:528) om värdepappersmarknaden,
 
 EES: Europeiska ekonomiska samarbetsområdet,
 
-kollektivt obeståndsförfarande: konkurs, företagsrekonstruktion
-eller annat därmed jämförbart förfarande. Lag (2007:553).
+kollektivt obeståndsförfarande: konkurs, företagsrekonstruktion eller annat därmed jämförbart förfarande,
+
+samverkande system: två eller flera anmälda avvecklingssystem vars administratörer har ingått ett ömsesidigt arrangemang som innebär att överföringsuppdrag verkställs mellan systemen.
+Lag (2011:733).
 
 Godkännande av avvecklingssystem
 
@@ -37,7 +29,7 @@ samråd med Riksbanken godkänna avvecklingssystem enligt denna
 lag. Riksbanken får driva avvecklingssystem utan
 Finansinspektionens godkännande.
 
-4 § Ett avvecklingssystem skall ha en administratör.
+4 § Ett avvecklingssystem ska ha en administratör.
 
 Administratör i ett avvecklingssystem får vara:
 
@@ -45,11 +37,10 @@ Administratör i ett avvecklingssystem får vara:
 
 2. central värdepappersförvarare,
 
-3. företag med tillstånd att driva bankrörelse enligt lagen
-(2004:297) om bank- och finansieringsrörelse, samt
+3. företag med tillstånd att driva bank- eller finansieringsrörelse enligt lagen (2004:297) om bank- och finansieringsrörelse, samt
 
-4. företag med tillstånd enligt 2 kap. 1 § 1, 2, 4 eller 8
-lagen (2007:528) om värdepappersmarknaden. Lag (2007:553).
+4. företag med tillstånd enligt 2 kap. 1 § 1, 2, 4 eller 8 lagen (2007:528) om värdepappersmarknaden.
+Lag (2011:733).
 
 5 § Ett avvecklingssystem skall ha tre eller flera deltagare
 förutom administratören. Det skall ha tillfredsställande
@@ -61,23 +52,10 @@ skall vara tillämplig på systemet.
 samt administreras av en clearingorganisation eller en central
 värdepappersförvarare skall godkännas.
 
-7 § Ett avvecklingssystem som uppfyller kraven i 5 och 8 §§
-samt administreras av ett företag med tillstånd att driva
-bankrörelse enligt lagen (2004:297) om bank- och
-finansieringsrörelse eller tillstånd enligt 2 kap. 1 § 1, 2, 4
-eller 8 lagen (2007:528) om värdepappersmarknaden skall endast
-godkännas om det finns särskilda skäl och systemet tillgodoser
-de säkerhetskrav som är förenade med verksamheten samt är
-organiserat på ett sådant sätt att deltagarnas ekonomiska
-ställning i systemet kan överblickas. Vid bedömningen av om det
-finns särskilda skäl skall systemets betydelse för den
-finansiella stabiliteten beaktas.
+7 § Ett avvecklingssystem som uppfyller kraven i 5 och 8 §§ samt administreras av ett företag med tillstånd att driva bank- eller finansieringsrörelse enligt lagen (2004:297) om bank- och finansieringsrörelse eller tillstånd enligt 2 kap. 1 § 1, 2, 4 eller 8 lagen (2007:528) om värdepappersmarknaden ska endast godkännas om det finns särskilda skäl och systemet tillgodoser de säkerhetskrav som är förenade med verksamheten samt är organiserat på ett sådant sätt att deltagarnas ekonomiska ställning i systemet kan överblickas. Vid bedömningen av om det finns särskilda skäl ska systemets betydelse för den finansiella stabiliteten beaktas.
 
-För godkännande enligt första stycket krävs vidare att
-administratören redovisar en plan för verksamheten. I planen
-skall de huvudsakliga risker som är förenade med verksamheten
-beskrivas liksom hur dessa risker skall hanteras
-(riskhanteringsplan). Lag (2007:553).
+För godkännande enligt första stycket krävs vidare att administratören redovisar en plan för verksamheten. I planen ska de huvudsakliga risker som är förenade med verksamheten beskrivas liksom hur dessa risker ska hanteras (riskhanteringsplan).
+Lag (2011:733).
 
 
 Deltagare i avvecklingssystem
@@ -86,35 +64,27 @@ Deltagare i avvecklingssystem
 
 1. Riksbanken och andra centralbanker,
 
-2. Riksgäldskontoret och utländska offentliga institutioner som
-i sitt hemland driver verksamhet som är jämförbar med
-kontorets,
+2. Riksgäldskontoret och utländska offentliga institutioner som i sitt hemland driver verksamhet som är jämförbar med kontorets,
 
 3. clearingorganisationer,
 
 4. centrala värdepappersförvarare,
 
-5. företag som har tillstånd att driva bankrörelse enligt lagen
-(2004:297) om bank- och finansieringsrörelse,
+5. företag som har tillstånd att driva bank- eller finansieringsrörelse enligt lagen (2004:297) om bank- och finansieringsrörelse,
 
-6. företag som har tillstånd enligt 2 kap. 1 § lagen (2007:528)
-om värdepappersmarknaden,
+6. företag som har tillstånd enligt 2 kap. 1 § lagen (2007:528) om värdepappersmarknaden,
 
-7. utländska företag som i hemlandet driver sådan verksamhet
-som avses i 3-6, samt
+7. utländska företag som i hemlandet driver sådan verksamhet som avses i 3–6, samt
 
-8. annan juridisk person som för egen räkning avvecklar
-förpliktelser att leverera finansiella instrument i systemet.
+8. annan juridisk person som för egen räkning avvecklar förpliktelser att leverera finansiella instrument i systemet.
 
-Utländska företag som avses i första stycket 7 skall i
-hemlandet stå under betryggande tillsyn av en myndighet eller
-något annat behörigt organ. Lag (2007:553).
+Utländska företag som avses i första stycket 7 ska i hemlandet stå under betryggande tillsyn av en myndighet eller något annat behörigt organ.
+Lag (2011:733).
 
 Anmälan av avvecklingssystem till Europeiska kommissionen
 
-9 § Finansinspektionen skall anmäla godkända avvecklingssystem
-och på begäran av Riksbanken avvecklingssystem som drivs av
-banken till Europeiska kommissionen.
+9 § Finansinspektionen ska anmäla godkända avvecklingssystem till Europeiska kommissionen, liksom vem som är administratör för dem. På begäran av Riksbanken ska inspektionen även anmäla avvecklingssystem som drivs av banken.
+Lag (2011:733).
 
 Upplysning om deltagande i avvecklingssystem
 
@@ -142,14 +112,10 @@ enligt systemets regler skall tillämpas.
 
 Överföringsuppdrag
 
-13 § Även om ett kollektivt obeståndsförfarande har inletts mot
-en deltagare i ett anmält avvecklingssystem gäller ett
-överföringsuppdrag mot tredje man, om det har införts i
-systemet innan beslutet om förfarandet meddelades.
+13 § Även om ett kollektivt obeståndsförfarande har inletts mot en deltagare i ett anmält avvecklingssystem gäller ett överföringsuppdrag mot tredje man, om det har införts i systemet eller i ett samverkande system innan beslutet om förfarandet meddelades.
 
-Ett överföringsuppdrag får inte återkallas av en deltagare i
-ett anmält avvecklingssystem eller av en tredje man efter den
-tidpunkt som anges i de regler som gäller för systemet.
+Ett överföringsuppdrag får inte återkallas av en deltagare i ett anmält avvecklingssystem eller av tredje man efter den tidpunkt som anges i de regler som gäller för systemet eller för ett samverkande system.
+Lag (2011:733).
 
 Tillsyn m.m.
 
@@ -181,44 +147,20 @@ förändringar av betydelse för systemets funktion behöver anlita
 någon med särskild fackkunskap, skall kostnaden för detta
 betalas av administratören.
 
-16 § Godkännande av ett avvecklingssystem skall återkallas av
-Finansinspektionen om
+16 § Godkännande av ett avvecklingssystem ska återkallas av Finansinspektionen om
 
-1. administratörens tillstånd för clearingverksamhet enligt
-lagen (2007:528) om värdepappersmarknaden eller auktorisation
-som central värdepappersförvarare enligt lagen (1998:1479) om
-kontoföring av finansiella instrument har återkallats,
+1. administratörens tillstånd för clearingverksamhet enligt lagen (2007:528) om värdepappersmarknaden eller auktorisation som central värdepappersförvarare enligt lagen (1998:1479) om kontoföring av finansiella instrument har återkallats,
 
-2. administratörens tillstånd att driva bankrörelse enligt
-lagen (2004:297) om bank- och finansieringsrörelse eller
-tillstånd enligt 2 kap. 1 § 1, 2, 4 eller 8 lagen om
-värdepappersmarknaden har återkallats, eller
+2. administratörens tillstånd att driva bank- eller finansieringsrörelse enligt lagen (2004:297) om bank- och finansieringsrörelse eller tillstånd enligt 2 kap. 1 § 1, 2, 4 eller 8 lagen om värdepappersmarknaden har återkallats, eller
 
-3. avvecklingssystemet inte längre uppfyller kraven i denna
-lag.
+3. avvecklingssystemet inte längre uppfyller kraven i denna lag.
 
-Finansinspektionen skall omedelbart underrätta Europeiska
-kommissionen samt Eftas övervakningsmyndighet om återkallelsen.
+Finansinspektionen ska omedelbart underrätta Europeiska kommissionen samt Eftas övervakningsmyndighet om återkallelsen.
 
-Om det är tillräckligt får inspektionen i de fall som anges i
-första stycket 3 meddela varning i stället för att återkalla
-godkännandet. Lag (2007:553).
+Om det är tillräckligt får inspektionen i de fall som anges i första stycket 3 meddela varning i stället för att återkalla godkännandet.
+Lag (2011:733).
 
-17 § /Upphör att gälla U:2010-02-15/
-Beslut som Finansinspektionen meddelar i ärende enligt 3
-och 16 §§ får överklagas hos kammarrätten.
-
-Andra beslut som Finansinspektionen meddelar enligt denna lag
-får överklagas hos länsrätten. Detta gäller dock inte beslut i
-ärenden som avses i 20 § första stycket 5 förvaltningslagen
-(1986:223). Prövningstillstånd krävs vid överklagande till
-kammarrätten av länsrättens beslut.
-
-Inspektionen får bestämma att ett beslut om återkallelse enligt
-16 § skall gälla omedelbart.
-
-17 § /Träder i kraft I:2010-02-15/
-Beslut som Finansinspektionen meddelar i ärende enligt 3
+17 § Beslut som Finansinspektionen meddelar i ärende enligt 3
 och 16 §§ får överklagas hos kammarrätten.
 
 Andra beslut som Finansinspektionen meddelar enligt denna lag
@@ -239,3 +181,9 @@ Inspektionen får bestämma att ett beslut om återkallelse enligt
 2. Frågor om godkännande av avvecklingssystem får prövas före
 ikraftträdandet. Ett beslut i en sådan fråga skall gälla
 tidigast från ikraftträdandet.
+
+2011:733
+
+1. Denna lag träder i kraft den 30 juni 2011.
+
+2. Vid konkurs som beslutats före ikraftträdandet gäller äldre bestämmelser.
