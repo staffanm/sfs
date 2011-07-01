@@ -9,14 +9,20 @@ etableringsinsatser för vissa nyanlända invandrare och i
 ärenden hos Arbetsförmedlingen om mottagande för bosättning av
 vissa nyanlända invandrare. Det som sägs i denna lag om
 behandling av personuppgifter i den arbetsmarknadspolitiska
-verksamheten ska även gälla  behandling av personuppgifter i
+verksamheten ska även gälla behandling av personuppgifter i
 dessa ärenden.
 
+Lagen ska inte tillämpas i den del av den
+arbetsmarknadspolitiska verksamheten som även utgör hälso- och
+sjukvård enligt hälso- och sjukvårdslagen (1982:763). I den
+delen av verksamheten tillämpas i stället patientdatalagen
+(2008:355).
+
 Lagen gäller endast om behandlingen är helt eller delvis
-automatiserad eller om uppgifterna ingår i eller är avsedda att
-ingå i en strukturerad samling personuppgifter som är
-tillgängliga för sökning eller sammanställning enligt särskilda
-kriterier. Lag (2010:2029).
+automatiserad eller om uppgifterna ingår i eller är avsedda
+att ingå i en strukturerad samling personuppgifter som är
+tillgängliga för sökning eller sammanställning enligt
+särskilda kriterier. Lag (2011:545).
 
 1 a § Behandling av personuppgifter som är tillåten enligt
 denna lag får utföras även om den registrerade motsätter sig
@@ -116,40 +122,23 @@ personuppgifter om lagöverträdelser m.m. som avses i 21 § samma
 lag om uppgifterna har lämnats i ett ärende eller är nödvändiga
 för handläggningen av det. Lag (2007:410).
 
-9 § /Upphör att gälla U:2011-04-01/
-I en arbetsmarknadspolitisk databas får inga andra känsliga
-personuppgifter som avses i 13 § personuppgiftslagen (1998:204)
-behandlas än sådana som avslöjar etniskt ursprung eller rör
-hälsa.
+9 § I en arbetsmarknadspolitisk databas får inga andra
+känsliga personuppgifter som avses i 13 § personuppgiftslagen
+(1998:204) behandlas än sådana som avslöjar etniskt ursprung
+eller rör hälsa.
 
 Känsliga personuppgifter som avslöjar etniskt ursprung eller
-rör hälsa, personuppgifter om sociala förhållanden samt
-omdömen, slutsatser eller andra värderande upplysningar om en
-enskild, får behandlas i en databas endast om de har lämnats i
-ett ärende eller är nödvändiga för handläggningen av det och
-den enskilde skriftligen har samtyckt till detta. Angående
-återkallelse av ett sådant samtycke gäller vad som föreskrivs i
-12 § första stycket personuppgiftslagen (1998:204).
+rör hälsa och sådana personuppgifter som avses i 21 §
+personuppgiftslagen får behandlas i en databas endast om de
+har lämnats i ett ärende eller är nödvändiga för
+handläggningen av det. Detsamma gäller för personuppgifter om
+sociala förhållanden samt för omdömen, slutsatser eller andra
+värderande upplysningar om en enskild. Lag (2011:545).
 
-9 § /Träder i kraft I:2011-04-01/
-I en arbetsmarknadspolitisk databas får inga andra
-känsliga personuppgifter som avses i 13 §
-personuppgiftslagen (1998:204) behandlas än sådana som
-avslöjar etniskt ursprung eller rör hälsa.
-
-Känsliga personuppgifter som avslöjar etniskt ursprung eller
-rör hälsa får behandlas i en databas endast om de har lämnats
-i ett ärende eller är nödvändiga för handläggningen av det.
-Detsamma gäller för personuppgifter om sociala förhållanden
-samt för omdömen, slutsatser eller andra värderande
-upplysningar om en enskild. Lag (2011:127).
-
-10 § Sådana personuppgifter som avses i 21 §
-personuppgiftslagen (1998:204) samt uppgifter om att den
-enskilde har vårdats med stöd av socialtjänstlagen (2001:453)
-eller varit föremål för åtgärd enligt utlänningslagen
-(2005:716) får inte behandlas i en arbetsmarknadspolitisk
-databas. Lag (2005:725).
+10 § Uppgifter om att den enskilde har vårdats med stöd av
+socialtjänstlagen (2001:453) eller varit föremål för åtgärd
+enligt utlänningslagen (2005:716) får inte behandlas i en
+arbetsmarknadspolitisk databas. Lag (2011:545).
 
 Åtkomst till personuppgifter inom Arbetsförmedlingen
 
@@ -203,20 +192,20 @@ personuppgifter som avses i 9 § andra stycket eller 10 § får
 inte användas som sökbegrepp.
 
 Med undantag från förbudet i första stycket får dock kod för
-hälsotillstånd eller för sådant funktionshinder som medför
+hälsotillstånd eller för sådan funktionsnedsättning som medför
 nedsatt arbetsförmåga användas som sökbegrepp för planering av
 insatser och förmedling av arbete.
 
-Kod för hälsotillstånd eller för sådant funktionshinder som
-medför nedsatt arbetsförmåga, för arbetsmarknadspolitiskt
-program eller insats samt för sökandekategori eller
-anvisningsgrund får även användas som sökbegrepp för tillsyn,
-uppföljning, utvärdering och framställning av avidentifierad
-statistik.
+Kod för hälsotillstånd eller för sådan funktionsnedsättning
+som medför nedsatt arbetsförmåga, kod för
+arbetsmarknadspolitiskt program eller insats samt kod för
+sökandekategori eller anvisningsgrund får även användas som
+sökbegrepp för tillsyn, uppföljning, utvärdering och
+framställning av avidentifierad statistik.
 
 Regeringen eller den myndighet som regeringen bestämmer
 meddelar föreskrifter om begränsningar i övrigt av de
-sökbegrepp som får användas. Lag (2010:2029).
+sökbegrepp som får användas. Lag (2011:545).
 
 Rättelse och skadestånd
 
