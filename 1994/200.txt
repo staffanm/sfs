@@ -13,14 +13,14 @@ Lagens tillämpningsområde
 1. vid sådan omsättning inom landet av varor eller tjänster som
 är skattepliktig och görs i en yrkesmässig verksamhet,
 
-2. vid skattepliktigt gemenskapsinternt förvärv av varor som är
-lös egendom, om inte omsättningen är gjord inom landet, eller
+2. vid skattepliktigt unionsinternt förvärv av varor som är lös
+egendom, om inte omsättningen är gjord inom landet, eller
 
 3. vid sådan import av varor till landet som är skattepliktig.
 
 Vad som utgör omsättning eller import anges i 2 kap. Vad som
-utgör gemenskapsinternt förvärv anges i 2 a kap. Huruvida
-skatteplikt föreligger för en omsättning, ett gemenskapsinternt
+utgör unionsinternt förvärv anges i 2 a kap. Huruvida
+skatteplikt föreligger för en omsättning, ett unionsinternt
 förvärv eller import anges i 3 kap. Vad som är yrkesmässig
 verksamhet anges i 4 kap. I vilka fall en omsättning anses ha
 gjorts inom landet anges i 5 kap.
@@ -28,12 +28,12 @@ gjorts inom landet anges i 5 kap.
 Till staten ska också betalas belopp som i en faktura eller
 liknande handling betecknats som mervärdesskatt, även om
 beloppet inte utgör mervärdesskatt enligt denna lag.
-Lag (2007:1376).
+Lag (2011:283).
 
 2 § Skyldig att betala mervärdesskatt (skattskyldig) är
 
 1. för sådan omsättning som anges i 1 § första stycket 1, om
-inte annat följer av 24 d: den som omsätter varan eller
+inte annat följer av 2-4 d: den som omsätter varan eller
 tjänsten,
 
 2. för omsättning som anges i 1 § första stycket 1 av sådana
@@ -48,9 +48,8 @@ varor som avses i 5 kap. 2 c och 2 d §§, om den som omsätter
 varan är en utländsk företagare och förvärvaren är registrerad
 till mervärdesskatt här: den som förvärvar varan,
 
-4. för sådan efterföljande omsättning inom landet som avses i
-3 kap. 30 b § första stycket: den till vilken omsättningen
-görs,
+4. för sådan efterföljande omsättning inom landet som avses i 3
+kap. 30 b § första stycket: den till vilken omsättningen görs,
 
 4 a. för omsättning som anges i 1 § första stycket 1 mellan
 näringsidkare som är eller ska vara registrerade till
@@ -64,10 +63,10 @@ tjänster som avses i andra stycket, om skattskyldighet inte
 föreligger enligt första stycket 2 i denna paragraf: den som
 förvärvar tjänsten, om denne är
 
- en näringsidkare som i sin verksamhet inte endast tillfälligt
+- en näringsidkare som i sin verksamhet inte endast tillfälligt
 tillhandahåller sådana tjänster, eller
 
- en annan näringsidkare som tillhandahåller en näringsidkare
+- en annan näringsidkare som tillhandahåller en näringsidkare
 som avses i första strecksatsen sådana tjänster,
 
 4 c. för omsättning som anges i 1 § första stycket 1 av vara
@@ -98,14 +97,13 @@ förvärvar varan, och
 a) om en tullskuld uppkommer i Sverige till följd av importen:
 den som är skyldig att betala tullen,
 
-b) om importen avser en gemenskapsvara eller om varan ska
-förtullas i Sverige men inte är belagd med tull: den som skulle
-ha varit skyldig att betala tullen om varan hade varit
-tullbelagd,
+b) om importen avser en unionsvara eller om varan ska förtullas
+i Sverige men inte är belagd med tull: den som skulle ha varit
+skyldig att betala tullen om varan hade varit tullbelagd,
 
 c) om skyldighet att betala tull med anledning av importen
 uppkommer, eller skulle ha uppkommit om varan hade varit belagd
-med tull, i ett annat EG-land till följd av att ett sådant
+med tull, i ett annat EU-land till följd av att ett sådant
 enhetstillstånd som avses i 4 kap. 24 § andra stycket tullagen
 (2000:1281) åberopas: innehavaren av tillståndet.
 
@@ -114,15 +112,15 @@ Första stycket 4 b gäller
 1. sådana tjänster avseende fastighet, byggnad eller anläggning
 som kan hänföras till
 
- mark- och grundarbeten,
+- mark- och grundarbeten,
 
- bygg- och anläggningsarbeten,
+- bygg- och anläggningsarbeten,
 
- bygginstallationer,
+- bygginstallationer,
 
- slutbehandling av byggnader, eller
+- slutbehandling av byggnader, eller
 
- uthyrning av bygg- och anläggningsmaskiner med förare,
+- uthyrning av bygg- och anläggningsmaskiner med förare,
 
 2. byggstädning, och
 
@@ -135,12 +133,13 @@ näringsidkaren vid tillämpningen av första stycket likställas
 med en utländsk företagare, om omsättningen görs utan medverkan
 av det svenska etableringsstället.
 
-Med tullskuld och gemenskapsvara förstås detsamma som i rådets
-förordning (EEG) nr 2913/92 av den 12 oktober 1992 om
-inrättandet av en tullkodex för gemenskapen.
+Med tullskuld förstås detsamma som i rådets förordning (EEG) nr
+2913/92 av den 12 oktober 1992 om inrättandet av en tullkodex
+för gemenskapen. Med unionsvara förstås detsamma som med
+gemenskapsvara i den förordningen.
 
 Särskilda bestämmelser om vem som i vissa fall är skattskyldig
-finns i 6 kap., 9 kap. och 9 c kap. Lag (2010:1518).
+finns i 6 kap., 9 kap. och 9 c kap. Lag (2011:283).
 
 2 a § Skattskyldighet föreligger inte för en upphovsman eller
 dennes dödsbo för omsättning av sådana konstverk som avses i
@@ -215,30 +214,30 @@ Lag (2007:1376).
 vid leveransen är tillfälligt registrerad enligt 23 § första
 stycket 1 lagen (2001:558) om vägtrafikregister och fordonet
 levereras till en fysisk person, som är bosatt eller
-stadigvarande vistas i ett annat land än ett EG-land och som
-avser att föra fordonet till en plats utanför EG, inträder
+stadigvarande vistas i ett annat land än ett EU-land och som
+avser att föra fordonet till en plats utanför EU, inträder
 skyldigheten att betala skatt vid utgången av den sjätte
 månaden efter den månad då fordonet levererades.
-Lag (2007:1376).
+Lag (2011:283).
 
 4 § I fråga om upplåtelse av avverkningsrätt till skog i de
 fall som avses i 21 kap. 2 § inkomstskattelagen (1999:1229)
 inträder skattskyldigheten allteftersom betalningen tas emot av
 upplåtaren. Lag (2007:1376).
 
-4 a § Vid gemenskapsinterna förvärv inträder skattskyldigheten
-vid tidpunkten för förvärvet. Denna tidpunkt ska anses vara
+4 a § Vid unionsinterna förvärv inträder skattskyldigheten vid
+tidpunkten för förvärvet. Denna tidpunkt ska anses vara
 densamma som den då skattskyldighet inträder enligt 3 § första
 stycket vid motsvarande omsättning av varor inom landet.
-Lag (2010:1892).
+Lag (2011:283).
 
 5 § Vid import inträder skattskyldigheten vid den tidpunkt då
 skyldighet att betala tull enligt tullagstiftningen inträder
 eller skulle ha inträtt om skyldighet att betala tull
 förelegat. I fall som avses i 2 § första stycket 6 c inträder
 skattskyldigheten vid den tidpunkt då skyldighet att betala
-tull inträder eller skulle ha inträtt i det andra EG-landet.
-Lag (2004:118).
+tull inträder eller skulle ha inträtt i det andra EU-landet.
+Lag (2011:283).
 
 5 a § Vid förvärv av tjänster som avses i 1 kap. 2 § första
 stycket 2 inträder skattskyldigheten den 31 december varje
@@ -267,12 +266,12 @@ Med verksamhet som medför skattskyldighet förstås en sådan
 verksamhet i vilken omsättning av varor eller tjänster medför
 skattskyldighet enligt 2 § första stycket 1. Lag (1997:502).
 
-8 § Med utgående skatt förstås sådan skatt som skall redovisas
-till staten vid omsättning, gemenskapsinternt förvärv eller
-import enligt 1 §.
+8 § Med utgående skatt förstås sådan skatt som ska redovisas
+till staten vid omsättning, unionsinternt förvärv eller import
+enligt 1 §.
 
 Med ingående skatt förstås sådan skatt vid förvärv eller import
-som anges i 8 kap. 2 §. Lag (1994:1798).
+som anges i 8 kap. 2 §. Lag (2011:283).
 
 9 § Med marknadsvärde förstås hela det belopp som köparen av en
 vara eller tjänst, i samma försäljningsled som det där
@@ -292,20 +291,20 @@ tidpunkten för transaktionen, eller
 näringsidkarens kostnad för att utföra tjänsten.
 Lag (2007:1376).
 
-10 § Med export avses sådan omsättning utanför EG av varor
+10 § Med export avses sådan omsättning utanför EU av varor
 eller tjänster som görs i en yrkesmässig verksamhet som bedrivs
-här i landet. Lag (1994:1798).
+här i landet. Lag (2011:283).
 
-10 a § Med EG eller ett EG-land förstås i denna lag de
-territorier som tillhör en medlemsstat där fördraget om
-upprättandet av Europeiska gemenskapen ska tillämpas i enlighet
-med artikel 299 i fördraget. Det gäller dock inte de
+10 a § Med EU eller ett EU-land förstås i denna lag de
+territorier som tillhör en medlemsstat enligt artikel 52 i
+fördraget om Europeiska unionen och artikel 355 i fördraget om
+Europeiska unionens funktionssätt. Det gäller dock inte de
 territorier som anges i 10 b §.
 
 Vid tillämpningen av denna lag ska Furstendömet Monaco, Isle of
 Man och Förenade kungarikets suveräna basområden Akrotiri och
 Dhekelia likställas med sådana territorier som avses i första
-stycket första meningen. Lag (2010:1892).
+stycket första meningen. Lag (2011:283).
 
 10 b § Med ett tredje territorium förstås:
 
@@ -333,9 +332,9 @@ stycket första meningen. Lag (2010:1892).
 
 12. de italienska delarna av Luganosjön.
 
-Territorierna i första stycket 1-5 ingår i gemenskapens
-tullområde medan de i 6-12 samma stycke angivna territorierna
-inte ingår i området. Lag (2010:1892).
+Territorierna i första stycket 1-5 ingår i unionens tullområde
+medan de i 6-12 samma stycke angivna territorierna inte ingår i
+området. Lag (2011:283).
 
 10 c § Transaktioner med ursprung i eller avsedda för
 
@@ -395,11 +394,10 @@ före omsättningen har flugits högst 40 timmar. Lag (1994:1798).
 
 13 b § Med punktskattepliktiga varor avses energiprodukter,
 alkohol, alkoholhaltiga drycker eller tobaksvaror såsom dessa
-varor definieras i gemenskapslagstiftningen för punktskatter.
-Det gäller dock inte gas som levereras genom ett naturgassystem
-som är beläget inom gemenskapens territorium eller genom ett
-gasnät som är anslutet till ett sådant system.
-Lag (2010:1892).
+varor definieras i unionslagstiftningen för punktskatter. Det
+gäller dock inte gas som levereras genom ett naturgassystem som
+är beläget inom unionens territorium eller genom ett gasnät som
+är anslutet till ett sådant system. Lag (2011:283).
 
 14 § Med beskattningsår förstås beskattningsår enligt
 inkomstskattelagen (1999:1229).
@@ -459,12 +457,12 @@ Små tackor eller plattor med en vikt av 1 gram eller mindre
 omfattas inte av första stycket 1.
 
 Guldmynt som omfattas av den förteckning som årligen
-offentliggörs i C-serien av Europeiska gemenskapens officiella
+offentliggörs i C-serien av Europeiska unionens officiella
 tidning ska anses uppfylla kriterierna i första stycket 2 under
 hela det år förteckningen gäller.
 
 Guldmynt enligt denna paragraf ska inte anses omsatta på grund
-av det numismatiska värdet. Lag (2007:1376).
+av det numismatiska värdet. Lag (2011:283).
 
 19 § Med fri omsättning förstås detsamma som i rådets
 förordning (EEG) nr 2913/92 av den 12 oktober 1992 om
@@ -478,18 +476,17 @@ inrättandet av en tullkodex för gemenskapen. Lag (2010:1900).
 
 2. att en vara tas i anspråk genom uttag enligt 2 och 3 §§.
 
-En överföring av en vara till ett annat EG-land skall
-likställas med en omsättning av varan om
+En överföring av en vara till ett annat EU-land ska likställas
+med en omsättning av varan om
 
 - varan transporteras av en näringsidkare eller för dennes
 räkning från en yrkesmässig verksamhet som näringsidkaren
-bedriver inom EG,
+bedriver inom EU,
 
 - överföringen görs för denna verksamhet, och
 
-- överföringen skall beskattas som gemenskapsinternt förvärv i
-
-det andra EG-landet.
+- överföringen ska beskattas som unionsinternt förvärv i det
+andra EU-landet.
 
 Med omsättning av tjänst förstås
 
@@ -497,10 +494,10 @@ Med omsättning av tjänst förstås
 sätt tillhandahålls någon, eller
 
 2. att en tjänst tas i anspråk genom uttag enligt 5, 7 eller
-8 §. Lag (2002:1004).
+8 §. Lag (2011:283).
 
 1 a § Med import förstås att en vara förs in till Sverige från
-en plats utanför EG. Lag (1994:1798).
+en plats utanför EU. Lag (2011:283).
 
 Uttag av varor
 
@@ -628,34 +625,34 @@ mervärdesskattegrupp som avses i 6 a kap. 1 § ska gruppen
 anses som fastighetsägare, hyresgäst eller bostadsrättshavare
 vid tillämpning av denna paragraf. Lag (2009:1333).
 
-2 a kap. Gemenskapsinterna förvärv
+2 a kap. Unionsinterna förvärv
 
-1 § I 2-9 §§ finns bestämmelser om i vilka fall ett förvärv
-skall anses som ett gemenskapsinternt förvärv. Lag (1994:1798).
+1 § I 2-9 §§ finns bestämmelser om i vilka fall ett förvärv ska
+anses som ett unionsinternt förvärv. Lag (2011:283).
 
-Gemenskapsinterna förvärv
+Unionsinterna förvärv
 
-2 § Med gemenskapsinternt förvärv förstås
+2 § Med unionsinternt förvärv förstås
 
 1. att någon under de förutsättningar som anges i 3-5 §§ mot
 ersättning förvärvar en vara, om varan transporteras till
 förvärvaren av denne eller av säljaren eller för någonderas
-räkning till Sverige från ett annat EG-land,
+räkning till Sverige från ett annat EU-land,
 
 2. att någon under de förutsättningar som anges i 6 § mot
 ersättning förvärvar en vara, om varan transporteras till
 förvärvaren av denne eller av säljaren eller för någonderas
-räkning till ett annat EG-land från Sverige eller ett annat EG-
-land,
+räkning till ett annat EU-land från Sverige eller ett annat
+EU-land,
 
 3. att någon under de förutsättningar som anges i 7 § första
-stycket för över en vara från en verksamhet i ett annat EG-land
+stycket för över en vara från en verksamhet i ett annat EU-land
 till Sverige, om inget annat följer av 7 § andra stycket, eller
 
 4. att någon i de fall som anges i 9 § för över en vara från
-ett annat EG-land till Sverige. Lag (1995:1286).
+ett annat EU-land till Sverige. Lag (2011:283).
 
-Gemenskapsinterna förvärv enligt 2 § 1
+Unionsinterna förvärv enligt 2 § 1
 
 3 § En vara ska anses förvärvad enligt 2 § 1, om förvärvet
 avser
@@ -669,7 +666,7 @@ inte är näringsidkare, eller
 3. en annan vara än ett nytt transportmedel eller en
 punktskattepliktig vara och förvärvet görs av en sådan köpare
 som anges i andra stycket från en säljare som är skattskyldig
-till mervärdesskatt i ett annat EG-land.
+till mervärdesskatt i ett annat EU-land.
 
 Första stycket 3 avser köpare som är
 
@@ -688,86 +685,84 @@ varor under det löpande eller det föregående kalenderåret
 överstiger 90 000 kronor, eller
 
 - att köparen omfattas av ett sådant beslut som anges i 4 §.
-Lag (2007:1376).
+Lag (2011:283).
 
-4 § Skatteverket skall på begäran av en sådan köpare som
-anges i 3 § andra stycket 2 besluta att förvärv som görs av
-honom skall anses som gemenskapsinterna förvärv fastän den
-angivna beloppsgränsen inte överstigs. Beslutet skall gälla
-under två kalenderår. Lag (2003:659).
+4 § Skatteverket ska på begäran av en sådan köpare som anges i
+3 § andra stycket 2 besluta att förvärv som görs av honom ska
+anses som unionsinterna förvärv fastän den angivna
+beloppsgränsen inte överstigs. Beslutet ska gälla under två
+kalenderår. Lag (2011:283).
 
-5 § En vara skall anses förvärvad enligt 2 § 1 även i de fall
-transporten påbörjas utanför EG och varan därefter importerats
-till ett annat EG-land av förvärvaren för vidare transport till
+5 § En vara ska anses förvärvad enligt 2 § 1 även i de fall
+transporten påbörjas utanför EU och varan därefter importerats
+till ett annat EU-land av förvärvaren för vidare transport till
 Sverige, om förvärvaren är en juridisk person som inte är
 näringsidkare.
 
 I 10 kap. 11 b § finns bestämmelser om återbetalning i vissa
-fall av skatt som betalas vid import. Lag (1994:1798).
+fall av skatt som betalas vid import. Lag (2011:283).
 
-Gemenskapsinterna förvärv enligt 2 § 2
+Unionsinterna förvärv enligt 2 § 2
 
-6 § En vara skall anses förvärvad enligt 2 § 2, om
+6 § En vara ska anses förvärvad enligt 2 § 2, om
 
 - köparen är registrerad till mervärdesskatt här i landet,
 
 - förvärvet görs, under angivande av köparens svenska
 registreringsnummer, från en säljare som är registrerad till
-mervärdesskatt i ett annat EG-land, och
+mervärdesskatt i ett annat EU-land, och
 
 - köparen inte visar att han påförts mervärdesskatt i ett annat
-EG-land för förvärvet.
+EU-land för förvärvet.
 
 I 13 kap. 25 a § finns bestämmelser om hur utgående skatt för
-sådana förvärv som avses i första stycket skall återfås, för
-det fall att mervärdesskatt har påförts i det andra EG-landet
-efter det att förvärvaren redovisat den utgående skatten i sin
+sådana förvärv som avses i första stycket ska återfås, för det
+fall att mervärdesskatt har påförts i det andra EU-landet efter
+det att förvärvaren redovisat den utgående skatten i sin
 deklaration här i landet.
 
-En vara skall inte anses förvärvad enligt första stycket, om
+En vara ska inte anses förvärvad enligt första stycket, om
 köparen visar att förvärvet gjorts för en efterföljande
-omsättning i ett annat EG-land och den till vilken omsättningen
-görs är skattskyldig där för omsättningen. Lag (1994:1798).
+omsättning i ett annat EU-land och den till vilken omsättningen
+görs är skattskyldig där för omsättningen. Lag (2011:283).
 
-Gemenskapsinterna förvärv enligt 2 § 3
+Unionsinterna förvärv enligt 2 § 3
 
 7 § En vara ska anses förvärvad enligt 2 § 3, om
 
- den som för över varan bedriver yrkesmässig verksamhet i
-ett annat EG-land,
+- den som för över varan bedriver yrkesmässig verksamhet i ett
+annat EU-land,
 
- överföringen görs för denna verksamhet, och
+- överföringen görs för denna verksamhet, och
 
- överföringen görs genom att varan transporteras från det
-EG-landet till Sverige av den som bedriver verksamheten eller
-för dennes räkning.
+- överföringen görs genom att varan transporteras från det EU-
+landet till Sverige av den som bedriver verksamheten eller för
+dennes räkning.
 
-En vara ska inte anses förvärvad enligt 2 § 3, om
-överföringen
+En vara ska inte anses förvärvad enligt 2 § 3, om överföringen
 
 1. görs för omsättning på fartyg, luftfartyg eller tåg under
-färd med avgångsort i ett EG-land och ankomstort i ett annat
-EG-land,
+färd med avgångsort i ett EU-land och ankomstort i ett annat
+EU-land,
 
-2. utgör ett led i omsättningen av en tjänst som utförs åt
-den som för över varan och tjänsten avser arbete i Sverige på
-den överförda varan, om transporten av varan avslutas i
-Sverige och varan, sedan arbetet utförts, skickas tillbaka
-till näringsidkaren i det EG-land som varan ursprungligen
-överförts från,
+2. utgör ett led i omsättningen av en tjänst som utförs åt den
+som för över varan och tjänsten avser arbete i Sverige på den
+överförda varan, om transporten av varan avslutas i Sverige och
+varan, sedan arbetet utförts, skickas tillbaka till
+näringsidkaren i det EU-land som varan ursprungligen överförts
+från,
 
 3. görs för att den överförda varan ska användas för
 omsättningen av tjänster i Sverige och varan därför ska
 användas tillfälligt här i landet,
 
-4. görs för att den överförda varan tillfälligt, högst två
-år, ska användas i Sverige, under förutsättning att
-motsvarande import skulle ha varit skattefri här i landet
-enligt vad som gäller för temporär import från ett icke
-medlemsland,
+4. görs för att den överförda varan tillfälligt, högst två år,
+ska användas i Sverige, under förutsättning att motsvarande
+import skulle ha varit skattefri här i landet enligt vad som
+gäller för temporär import från ett icke medlemsland,
 
-5. görs för sådan omsättning som anges i 5 kap. 3 a § eller i
-3 kap. 30 a §,
+5. görs för sådan omsättning som anges i 5 kap. 3 a § eller i 3
+kap. 30 a §,
 
 6. görs för sådan omsättning som anges i 5 kap. 2 § första
 stycket 2 eller 4, eller
@@ -775,15 +770,15 @@ stycket 2 eller 4, eller
 7. görs för sådan omsättning som anges i 5 kap. 2 c eller
 2 d §.
 
-När någon av de förutsättningar som anges i andra stycket
-inte längre föreligger, ska varorna anses ha överförts enligt
-reglerna i första stycket. Lag (2009:1333).
+När någon av de förutsättningar som anges i andra stycket inte
+längre föreligger, ska varorna anses ha överförts enligt
+reglerna i första stycket. Lag (2011:283).
 
 8 § Har upphävts genom lag (1995:1286).
 
-Gemenskapsinterna förvärv enligt 2 § 4
+Unionsinterna förvärv enligt 2 § 4
 
-9 § En vara skall anses förvärvad enligt 2 § 4, om
+9 § En vara ska anses förvärvad enligt 2 § 4, om
 
 - den som tar i anspråk varan bedriver verksamhet som medför
 skattskyldighet här i landet,
@@ -791,20 +786,20 @@ skattskyldighet här i landet,
 - han tar i anspråk varan för ett annat ändamål än som anges i
 7 § andra stycket genom att använda den för denna verksamhet
 efter att varan transporterats av honom eller för hans räkning
-till Sverige från ett annat EG-land, och
+till Sverige från ett annat EU-land, och
 
 - varan inte härrör från en yrkesmässig verksamhet som han
-bedriver i det landet. Lag (1994:1798).
+bedriver i det landet. Lag (2011:283).
 
 Gemensam bestämmelse avseende 2 § 3 och 4
 
-10 § En vara skall inte anses förvärvad enligt 7 eller 9 §§ om
+10 § En vara ska inte anses förvärvad enligt 7 eller 9 § om
 motsvarande förvärv av varan mot ersättning för förvärvaren
-inte skulle anses som ett gemenskapsinternt förvärv enligt 3 §.
-Lag (1994:1798).
+inte skulle anses som ett unionsinternt förvärv enligt 3 §.
+Lag (2011:283).
 
-3 kap. Skatteplikt för omsättning, gemenskapsinternt förvärv
-och import
+3 kap. Skatteplikt för omsättning, unionsinternt förvärv och
+import
 
 Generell skatteplikt
 
@@ -815,8 +810,8 @@ skattepliktiga, om inget annat anges i detta kapitel.
 detta kapitel, är även import av varan undantagen från
 skatteplikt.
 
-Gemenskapsinternt förvärv är skattepliktigt om motsvarande
-omsättning skulle ha varit det. Lag (1994:1798).
+Unionsinternt förvärv är skattepliktigt om motsvarande
+omsättning skulle ha varit det. Lag (2011:283).
 
 1 a § I 9 c kap. finns särskilda bestämmelser om undantag från
 skatteplikt under den tid som varor är placerade i vissa lager.
@@ -1368,33 +1363,33 @@ Lag (2003:1134).
 
 26 b § Har motorfordon förvärvats genom en omsättning som
 undantagits från skatteplikt enligt 26 a § och överlåter
-köparen fordonet tidigare än två år efter förvärvet, skall
-denne till staten betala ett belopp som motsvarar den skatt som
-han skulle ha fått betala, om han hade varit skattskyldig för
-omsättningen. Beloppet skall dock inte överstiga den skatt som
+köparen fordonet tidigare än två år efter förvärvet, ska denne
+till staten betala ett belopp som motsvarar den skatt som han
+skulle ha fått betala, om han hade varit skattskyldig för
+omsättningen. Beloppet ska dock inte överstiga den skatt som
 skulle ha betalats vid överlåtarens förvärv, om 26 a § inte
 hade tillämpats. Om det inte betalas någon ersättning vid
 överlåtelsen av motorfordonet eller om ersättningen väsentligen
-understiger marknadsvärdet, skall beloppet beräknas med
+understiger marknadsvärdet, ska beloppet beräknas med
 utgångspunkt från marknadsvärdet.
 
 Första stycket tillämpas även om motorfordonet förvärvats genom
-ett gemenskapsinternt förvärv som undantagits från skatteplikt.
+ett unionsinternt förvärv som undantagits från skatteplikt.
 
-Vid beräkning av belopp som enligt första stycket skall betalas
+Vid beräkning av belopp som enligt första stycket ska betalas
 till staten tillämpas 7 kap.
 
-Första stycket skall inte tillämpas, om fordonet överlåts på
-grund av att ägaren avlidit. Inte heller skall första stycket
+Första stycket ska inte tillämpas, om fordonet överlåts på
+grund av att ägaren avlidit. Inte heller ska första stycket
 tillämpas, om den till vilken fordonet överlåts kan förvärva
 motorfordon genom en omsättning som undantas från skatteplikt
-enligt 26 a §. Sker sådan överlåtelse, skall den som förvärvar
+enligt 26 a §. Sker sådan överlåtelse, ska den som förvärvar
 fordonet anses ha förvärvat detta genom en omsättning som
 undantas från skatteplikt enligt 26 a §.
 
 Överlåts fordonet på grund av att ägaren fått förflyttning från
-Sverige, skall första stycket inte tillämpas om ägaren innehaft
-fordonet minst sex månader. Lag (1996:1320).
+Sverige, ska första stycket inte tillämpas om ägaren innehaft
+fordonet minst sex månader. Lag (2011:283).
 
 26 c § Belopp som avses i 26 b § skall betalas genom insättning
 på ett särskilt konto. Betalning skall ske senast 35 dagar
@@ -1423,7 +1418,7 @@ från skatt enligt lagen (1994:1551) om frihet från skatt vid
 import, m.m.
 
 Från skatteplikt undantas även import av en vara som efter
-importen ska omsättas till ett annat EG-land enligt
+importen ska omsättas till ett annat EU-land enligt
 
 1. 30 a § första stycket 2, 3, 3 a eller 4 eller andra stycket,
 eller
@@ -1434,13 +1429,13 @@ a) har angivit sitt registreringsnummer till mervärdesskatt i
 Sverige,
 
 b) har angivit sitt registreringsnummer till mervärdesskatt i
-det EG-land dit varan överförs eller det registreringsnummer
-till mervärdesskatt som köparen av varan har i ett annat EG-
+det EU-land dit varan överförs eller det registreringsnummer
+till mervärdesskatt som köparen av varan har i ett annat EU-
 land än Sverige, och
 
 c) har, innan varan övergår till fri omsättning, inkommit till
 Tullverket med bevisning om att varan är avsedd att
-transporteras eller sändas till ett annat EG-land.
+transporteras eller sändas till ett annat EU-land.
 
 Registreringsnumren i andra stycket 2 a och b ska anges vid den
 tidpunkt då skattskyldighet skulle ha inträtt enligt 1 kap. 5 §
@@ -1462,30 +1457,30 @@ naturgassystem eller till ett rörledningsnät uppströms,
 2. el, eller
 
 3. värme eller kyla genom ett nät för värme eller kyla.
-Lag (2010:1892).
+Lag (2011:283).
 
-Vissa undantag för omsättning till och förvärv från andra
-EG-länder
+Vissa undantag för omsättning till och förvärv från andra EU-
+länder
 
 30 a § Från skatteplikt undantas omsättning av varor som
 transporteras av säljaren eller köparen eller för någonderas
-räkning från Sverige till ett annat EG-land, om
+räkning från Sverige till ett annat EU-land, om
 
-1. köparen är registrerad i ett annat EG-land som skattskyldig
+1. köparen är registrerad i ett annat EU-land som skattskyldig
 till mervärdesskatt för omsättning av varor eller tjänster
 eller för förvärv av varor,
 
 2. varorna är punktskattepliktiga och förvärvaren inte är en
 privatperson,
 
-3. köparen är en beskickning eller ett konsulat i ett annat EG-
+3. köparen är en beskickning eller ett konsulat i ett annat EU-
 land eller en medlem av den diplomatiska personalen vid en
 sådan beskickning eller ett sådant konsulat,
 
-3 a. köparen är ett i ett annat EG-land beläget kontor eller
+3 a. köparen är ett i ett annat EU-land beläget kontor eller
 anläggning som tillhör
 
-- Europeiska gemenskapen,
+- Europeiska unionen,
 
 - Europeiska atomenergigemenskapen,
 
@@ -1493,13 +1488,13 @@ anläggning som tillhör
 
 - Europeiska investeringsbanken, eller
 
-- ett organ som har inrättats av gemenskaperna och för vilket
-protokollet av den 8 april 1965 om Europeiska gemenskapernas
-immunitet och privilegier gäller, eller
+- ett organ som har inrättats av unionen eller
+atomenergigemenskapen och för vilket protokollet (nr 7) om
+Europeiska unionens immunitet och privilegier gäller, eller
 
 4. köparen är
 
-a) ett i ett annat EG-land beläget kontor eller anläggning som
+a) ett i ett annat EU-land beläget kontor eller anläggning som
 tillhör en annan internationell organisation än som anges i
 3 a,
 
@@ -1516,7 +1511,7 @@ mervärdesskatt.
 Från skatteplikt undantas omsättning av tjänster som
 tillhandahålls
 
-1. ett i ett annat EG-land beläget kontor eller anläggning som
+1. ett i ett annat EU-land beläget kontor eller anläggning som
 avses i
 
 a) första stycket 3 a, eller
@@ -1540,55 +1535,54 @@ förevarande paragraf.
 En omsättning är undantagen från skatteplikt enligt första
 stycket 3, 3 a eller 4 eller tredje stycket endast i den
 omfattning som frihet från mervärdesskatt medges en motsvarande
-omsättning i det EG-land som följer av samma bestämmelser och
+omsättning i det EU-land som följer av samma bestämmelser och
 förvärvet görs av en sådan köpare som anges i dem.
 
 En omsättning är undantagen från skatteplikt enligt första
 stycket 3 a och tredje stycket 1 a endast i den omfattning
-skattefriheten inte leder till att konkurrensen snedvrids.
-Lag (2010:1892).
+skattefriheten inte leder till att konkurrensen snedvrids.  ´
+Lag (2011:283).
 
-30 b § Från skatteplikt undantas gemenskapsinterna förvärv
-enligt 2 a kap. 2 § 1 av varor som görs av en utländsk
-företagare om
+30 b § Från skatteplikt undantas unionsinterna förvärv enligt
+2 a kap. 2 § 1 av varor som görs av en utländsk företagare, om
 
 1. den utländske företagaren är registrerad till mervärdesskatt
-i ett annat EG-land,
+i ett annat EU-land,
 
 2. förvärvet görs för en efterföljande omsättning här i landet,
 
 3. varan sänds eller transporteras direkt till Sverige från ett
-annat EG-land än det där den utländske företagaren är
+annat EU-land än det där den utländske företagaren är
 registrerad till mervärdesskatt, och
 
 4. den till vilken den efterföljande omsättningen görs är en
 näringsidkare eller en juridisk person som inte är
 näringsidkare, som är registrerad till mervärdesskatt här och
 som är skattskyldig för omsättningen enligt 1 kap. 2 § första
-stycket 4. Lag (2003:1134).
+stycket 4. Lag (2011:283).
 
 30 c § Har upphävts genom lag (1999:450).
 
-30 d § Från skatteplikt undantas gemenskapsinterna förvärv
-som görs av utländska företagare om rätt till återbetalning
-enligt 10 kap. 13 och 1313 b §§ av hela skatten med
-anledning av förvärvet skulle ha förelegat.
+30 d § Från skatteplikt undantas unionsinterna förvärv som görs
+av utländska företagare om rätt till återbetalning enligt 10
+kap. 1-3 och 13-13 b §§ av hela skatten med anledning av
+förvärvet skulle ha förelegat.
 
-Från skatteplikt undantas även gemenskapsinterna förvärv som
-görs under sådana förutsättningar att rätt till återbetalning
-skulle föreligga enligt 10 kap. 6 och 7 §§. Lag (2009:1333).
+Från skatteplikt undantas även unionsinterna förvärv som görs
+under sådana förutsättningar att rätt till återbetalning skulle
+föreligga enligt 10 kap. 6 och 7 §§. Lag (2011:283).
 
 30 e § Från skatteplikt undantas omsättning av tjänster som
 avser varutransporter till eller från Azorerna eller Madeira
 eller mellan dessa öar. Lag (1994:1798).
 
-30 f § Från skatteplikt undantas gemenskapsinterna förvärv av
+30 f § Från skatteplikt undantas unionsinterna förvärv av
 begagnade varor, konstverk, samlarföremål och antikviteter, om
 varorna har sålts av en skattskyldig återförsäljare och
-omsättningen har beskattats i det EG-land där transporten till
+omsättningen har beskattats i det EU-land där transporten till
 Sverige påbörjats enligt bestämmelser som motsvarar artiklarna
 312-325 i rådets direktiv 2006/112/EG av den 28 november 2006
-om ett gemensamt system för mervärdesskatt. Lag (2007:1376).
+om ett gemensamt system för mervärdesskatt. Lag (2011:283).
 
 30 g § Från skatteplikt undantas omsättning av
 transporttjänster och därtill anslutna tjänster som ett
@@ -1599,20 +1593,20 @@ inom landet av inkommande brev eller paket för detta företags
 räkning. Lag (2010:1046).
 
 31 § Från skatteplikt undantas omsättning av varor och tjänster
-som har ett annat EG-land som destinationsland, om
+som har ett annat EU-land som destinationsland, om
 
 - omsättningen är avsedd för väpnade styrkor tillhörande någon
 annan stat som är part i Nato än destinationslandet,
 
-- varorna eller tjänsterna skall användas av dessa styrkor
-eller av den civilpersonal som åtföljer dem eller användas för
+- varorna eller tjänsterna ska användas av dessa styrkor eller
+av den civilpersonal som åtföljer dem eller användas för
 försörjning av deras mässar eller marketenterier, och
 
 - styrkorna deltar i de gemensamma försvarsansträngningarna.
 
 Skattefriheten enligt första stycket medges i den omfattning
 som frihet från mervärdesskatt medges i destinationslandet för
-motsvarande omsättning. Lag (2004:1155).
+motsvarande omsättning. Lag (2011:283).
 
 31 a § Från skatteplikt undantas omsättning av varor och
 tjänster till Förenade kungariket Storbritannien och
@@ -1634,8 +1628,8 @@ enligt 7 kap. 8 § tredje stycket ska ingå i
 beskattningsunderlaget för import, är omsättningen av tjänsten
 undantagen från skatteplikt. Detsamma gäller om en sådan
 bikostnad ska ingå i beskattningsunderlaget vid införsel till
-ett annat EG-land i enlighet med det landets tillämpning av
-artikel 86.1 b i rådets direktiv 2006/112/EG. Lag (2010:1892).
+ett annat EU-land i enlighet med det landets tillämpning av
+artikel 86.1 b i rådets direktiv 2006/112/EG. Lag (2011:283).
 
 4 kap. Yrkesmässig verksamhet
 
@@ -1749,7 +1743,7 @@ landet. Lag (2010:1892).
 
 Omsättning inom landet av varor
 
-2 § En vara som enligt avtalet mellan säljare och köpare skall
+2 § En vara som enligt avtalet mellan säljare och köpare ska
 transporteras till köparen är omsatt inom landet, om
 
 1. varan finns här i landet då säljaren, köparen eller någon
@@ -1761,13 +1755,13 @@ varan monteras eller installeras här av säljaren eller för
 dennes räkning,
 
 3. varan inte finns här i landet då transporten påbörjas men
-varan importeras till landet från en plats utanför EG av den
+varan importeras till landet från en plats utanför EU av den
 som är skattskyldig enligt 1 kap. 2 § första stycket 6 för att
 omsättas, eller
 
 4. varan inte finns här i landet då transporten påbörjas men
 varan transporteras av säljaren eller för dennes räkning från
-ett annat EG-land till en köpare i Sverige, om
+ett annat EU-land till en köpare i Sverige, om
 
 - säljarens omsättning är sådan som anges i andra stycket,
 
@@ -1781,57 +1775,56 @@ varan är en punktskattepliktig vara, eller värdet av säljarens
 sammanlagda omsättning här i landet överstiger 320 000 kronor
 under det löpande eller föregående kalenderåret, eller säljaren
 omfattas av ett sådant beslut som anges i tredje stycket. I
-värdet av säljarens sammanlagda omsättning skall inte beaktas
+värdet av säljarens sammanlagda omsättning ska inte beaktas
 värdet av punktskattepliktiga varor.
 
-En omsättning skall anses vara gjord i Sverige enligt första
+En omsättning ska anses vara gjord i Sverige enligt första
 stycket 4 även om de i andra stycket angivna beloppsgränserna
 inte överstigs, under förutsättning att vederbörlig myndighet i
 det land där transporten påbörjas har medgett att säljarens
-omsättning inte skall anses vara gjord i det landet.
-Lag (2001:971).
+omsättning inte ska anses vara gjord i det landet.
+Lag (2011:283).
 
 2 a § Även om en vara finns här i landet på det sätt som anges
 i 2 § första stycket 1 ska varan inte anses omsatt inom landet,
 om varan transporteras av
 
 1. säljaren eller för dennes räkning från Sverige till en
-köpare i ett annat EG-land och säljaren är registrerad till
+köpare i ett annat EU-land och säljaren är registrerad till
 mervärdesskatt i det landet för sådan omsättning, eller
 
 2. säljaren, köparen eller någon annan och ska installeras
-eller monteras i ett annat EG-land av säljaren eller för dennes
-räkning. Lag (2010:1892).
+eller monteras i ett annat EU-land av säljaren eller för dennes
+räkning. Lag (2011:283).
 
-2 b § En vara som omsätts på fartyg, luftfartyg eller tåg
-under den del av en persontransport som genomförs inom EG,
-ska anses omsatt i Sverige om avgångsorten är belägen i
-Sverige.
+2 b § En vara som omsätts på fartyg, luftfartyg eller tåg under
+den del av en persontransport som genomförs inom EU, ska anses
+omsatt i Sverige om avgångsorten är belägen i Sverige.
 
-Med del av en persontransport som genomförs inom EG avses den
-del av en persontransport som utan uppehåll utanför EG utförs
+Med del av en persontransport som genomförs inom EU avses den
+del av en persontransport som utan uppehåll utanför EU utförs
 mellan avgångsorten och ankomstorten.
 
 Med avgångsorten avses den första orten för påstigning av
-passagerare inom EG. Detta gäller även om en del av
-transporten dessförinnan utförts utanför EG.
+passagerare inom EU. Detta gäller även om en del av transporten
+dessförinnan utförts utanför EU.
 
 Med ankomstorten avses den sista orten för avstigning av
-passagerare inom EG för passagerare som stigit på inom EG.
+passagerare inom EU för passagerare som stigit på inom EU.
 Detta gäller även om en del av transporten därefter utförs
-utanför EG.
+utanför EU.
 
-För en resa tur och retur gäller att återresan ska anses som
-en fristående transport. Lag (2009:1333).
+För en resa tur och retur gäller att återresan ska anses som en
+fristående transport. Lag (2011:283).
 
 2 c § Omsättning av gas genom ett naturgassystem som är beläget
-inom gemenskapens territorium eller genom ett gasnät som är
+inom unionens territorium eller genom ett gasnät som är
 anslutet till ett sådant system, till en skattskyldig
 återförsäljare ska anses som en omsättning inom landet, om
 återförsäljaren antingen har sätet för sin ekonomiska
 verksamhet i Sverige eller har ett fast etableringsställe här
 för vilket varan levereras. Om återförsäljaren varken här eller
-utomlands har ett sådant säte eller fast etableringsställe är
+utomlands har ett sådant säte eller fast etableringsställe, är
 varan omsatt inom landet, om återförsäljaren är bosatt eller
 stadigvarande vistas i Sverige.
 
@@ -1848,10 +1841,10 @@ Med en skattskyldig återförsäljare förstås i denna paragraf en
 näringsidkare vars huvudsakliga verksamhet när det gäller köp
 av gas, el, värme eller kyla består i att sälja sådana varor
 vidare och vars egen konsumtion av dessa varor är försumbar.
-Lag (2010:1892).
+Lag (2011:283).
 
 2 d § Omsättning av gas genom ett naturgassystem som är beläget
-inom gemenskapens territorium eller genom ett gasnät som är
+inom unionens territorium eller genom ett gasnät som är
 anslutet till ett sådant system, ska anses som en omsättning
 inom landet, om köparens faktiska användning och förbrukning av
 varan äger rum i Sverige och omsättningen inte omfattas av
@@ -1874,7 +1867,7 @@ Första-tredje styckena gäller även omsättning av
 1. el, eller
 
 2. värme eller kyla genom ett nät för värme eller kyla.
-Lag (2010:1892).
+Lag (2011:283).
 
 3 § I annat fall än som avses i 2-2 d §§ är varan omsatt inom
 landet, om den finns här då den tas om hand av köparen.
@@ -1882,17 +1875,17 @@ Lag (2004:1155).
 
 Undantag från 2, 2 a, 2 b eller 3 §
 
-3 a § En omsättning enligt 2, 2 a, 2 b eller 3 § av en vara anses
-som en omsättning utomlands, om
+3 a § En omsättning enligt 2, 2 a, 2 b eller 3 § av en vara
+anses som en omsättning utomlands, om
 
-1. säljaren levererar varan till en plats utanför EG,
+1. säljaren levererar varan till en plats utanför EU,
 
-2. direkt utförsel av varan till en plats utanför EG ombesörjs
+2. direkt utförsel av varan till en plats utanför EU ombesörjs
 av en speditör eller fraktförare,
 
 3. en utländsk företagare förvärvar varan för sin verksamhet i
 utlandet och hämtar den för direkt utförsel till en plats
-utanför EG,
+utanför EU,
 
 4. varan levereras till ett fartyg eller ett luftfartyg i
 utrikes trafik för bruk ombord på ett sådant fartyg eller
@@ -1923,20 +1916,20 @@ tillfälligt registrerad enligt 23 § första stycket 1 lagen
 (2001:558) om vägtrafikregister, under förutsättning att
 
 a) fordonet levereras till en fysisk person som är bosatt eller
-stadigvarande vistas i ett annat land än ett EG-land, och
+stadigvarande vistas i ett annat land än ett EU-land, och
 
 b) säljaren kan visa att fordonet varaktigt förts till en plats
-utanför EG före utgången av den sjätte månaden efter den månad
+utanför EU före utgången av den sjätte månaden efter den månad
 då fordonet levererades, eller
 
 8. varan levereras här i landet till en fysisk person som är
-bosatt eller stadigvarande vistas i ett annat land än ett EG-
+bosatt eller stadigvarande vistas i ett annat land än ett EU-
 land, under förutsättning att
 
 a) ersättningen utgör minst 200 kronor, och
 
 b) säljaren kan visa att köparen har medfört varan vid resa
-till en plats utanför EG före utgången av tredje månaden efter
+till en plats utanför EU före utgången av tredje månaden efter
 den månad under vilken leveransen av varan gjordes.
 
 Vid leverans av en vara inom landet till en fysisk person som
@@ -1963,7 +1956,7 @@ En leverans som avses i första stycket 4 av punktskattepliktiga
 varor ska anses som en omsättning utomlands endast om
 leveransen uppfyller de villkor som gäller för proviantering i
 7-9 §§ lagen om proviantering av fartyg och luftfartyg.
-Lag (2009:1333).
+Lag (2011:283).
 
 Omsättning inom landet av tjänster
 
@@ -2042,20 +2035,19 @@ Befordran av brev i postverksamhet som avses i 1 kap. 2 §
 postlagen (2010:1045) ska anses som en omsättning inom landet.
 Lag (2010:1892).
 
-10 § En gemenskapsintern varutransporttjänst som
-tillhandahålls någon som inte är näringsidkare är omsatt inom
-landet, om avgångsorten är belägen i Sverige.
+10 § En unionsintern varutransporttjänst som tillhandahålls
+någon som inte är näringsidkare är omsatt inom landet, om
+avgångsorten är belägen i Sverige.
 
-Med gemenskapsintern varutransport avses en transport av
-varor där avgångs- och ankomstorterna är belägna i två skilda
-EG-länder.
+Med unionsintern varutransport avses en transport av varor där
+avgångs- och ankomstorterna är belägna i två skilda EU-länder.
 
 Med avgångsorten avses den ort där transporten av varorna
 faktiskt inleds, utan hänsyn till det avstånd som
 tillryggalagts till den plats där varorna befinner sig.
 
 Med ankomstorten avses den ort där transporten av varorna
-faktiskt avslutas. Lag (2009:1333).
+faktiskt avslutas. Lag (2011:283).
 
 11 § Tjänster som tillhandahålls någon som inte är
 näringsidkare i samband med en aktivitet som anges i andra
@@ -2115,12 +2107,12 @@ landet, om den fysiskt utförs i Sverige och inte annat följer
 av 1 § tredje stycket eller 14 §. Lag (2009:1333).
 
 14 § En restaurang- eller cateringtjänst som fysiskt utförs
-ombord på tåg under den del av en persontransport som
-genomförs inom EG är omsatt inom landet, om avgångsorten är
-belägen i Sverige.
+ombord på tåg under den del av en persontransport som genomförs
+inom EU är omsatt inom landet, om avgångsorten är belägen i
+Sverige.
 
-Vid tillämpningen av första stycket gäller vad som föreskrivs
-i 2 b § andra till femte styckena. Lag (2009:1333).
+Vid tillämpningen av första stycket gäller vad som föreskrivs i
+2 b § andra till femte styckena. Lag (2011:283).
 
 15 § En tjänst i form av korttidsuthyrning av transportmedel
 är omsatt inom landet om transportmedlet faktiskt ställs till
@@ -2143,12 +2135,12 @@ En uthyrningstjänst enligt första stycket är dock omsatt
 utomlands, om
 
 1. den avser en fritidsbåt som faktiskt levereras till
-förvärvaren i ett annat EG-land än Sverige, och
+förvärvaren i ett annat EU-land än Sverige, och
 
-2. uthyraren har sätet för sin ekonomiska verksamhet eller
-ett fast etableringsställe i det EG-landet och tjänsten
+2. uthyraren har sätet för sin ekonomiska verksamhet eller ett
+fast etableringsställe i det EU-landet och tjänsten
 tillhandahålls från sätet eller det fasta etableringsstället.
-Lag (2009:1345).
+Lag (2011:298).
 
 15 b § /Träder i kraft I:2013-01-01/
 En tjänst som avser annan uthyrning av transportmedel
@@ -2164,31 +2156,31 @@ ett fast etableringsställe i Sverige och tjänsten
 tillhandahålls från sätet eller det fasta etableringsstället.
 Lag (2009:1345).
 
-16 § Tjänster som anges i 18 § och som tillhandahålls från
-ett land utanför EG och som förvärvas av någon som inte är en
+16 § Tjänster som anges i 18 § och som tillhandahålls från ett
+land utanför EU och som förvärvas av någon som inte är en
 näringsidkare, är omsatta inom landet om tjänsterna
 
-1. förvärvas här eller i fråga om tjänster som anges i 18 §
-12 förvärvas här eller i ett annat land, och förvärvaren är
+1. förvärvas här eller i fråga om tjänster som anges i 18 § 12
+förvärvas här eller i ett annat land, och förvärvaren är
 etablerad, bosatt eller stadigvarande vistas i Sverige, eller
 
 2. förvärvas av någon som är etablerad, bosatt eller
-stadigvarande vistas i ett annat EG-land eller i ett land
-utanför EG samt utgör sådana tjänster som anges i 18 § 10
-eller 11 och tjänsterna tillgodogörs inom landet genom ett
+stadigvarande vistas i ett annat EU-land eller i ett land
+utanför EU samt utgör sådana tjänster som anges i 18 § 10 eller
+11 och tjänsterna tillgodogörs inom landet genom ett
 elektroniskt kommunikationsnät med fast anslutning här.
-Lag (2009:1333).
+Lag (2011:283).
 
 17 § Tjänster som anges i 18 § 1-11, 13 och 14 och som
-förvärvas i ett land utanför EG av någon som inte är en
+förvärvas i ett land utanför EU av någon som inte är en
 näringsidkare i det landet, är omsatta utomlands även om de
 tillhandahålls från Sverige.
 
 Tjänster som anges i 18 § 12 och som förvärvas av någon som
 inte är näringsidkare och som är etablerad, bosatt eller
-stadigvarande vistas i ett land utanför EG, är omsatta
+stadigvarande vistas i ett land utanför EU, är omsatta
 utomlands även om de tillhandahålls från Sverige.
-Lag (2010:1892).
+Lag (2011:283).
 
 18 § Bestämmelserna i 16 och 17 §§ ska tillämpas på följande
 tjänster:
@@ -2249,22 +2241,21 @@ e) distansundervisning,
 
 13. tillträde till och överföring eller distribution genom
 
-a) ett naturgassystem som är beläget inom gemenskapens
-territorium eller ett gasnät som är anslutet till ett sådant
-system,
+a) ett naturgassystem som är beläget inom unionens territorium
+eller ett gasnät som är anslutet till ett sådant system,
 
 b) ett system för el, eller
 
 c) ett nät för värme eller kyla,
 
 14. tjänster som är direkt kopplade till sådana tjänster som
-avses i 13. Lag (2010:1892).
+avses i 13. Lag (2011:283).
 
 Undantag från 4-18 §§ och 9 b kap. 4 §
 
 19 § En omsättning av tjänster enligt någon av 4-18 §§ eller
-9 b kap. 4 § första stycket anses som omsättning utomlands
-när det är fråga om
+9 b kap. 4 § första stycket anses som omsättning utomlands när
+det är fråga om
 
 1. tjänster som avser fartyg eller luftfartyg i utrikes trafik,
 inräknat upplåtelse av hamnar eller flygplatser, eller tjänster
@@ -2274,7 +2265,7 @@ fartyg eller luftfartyg,
 2. lastning, lossning, transport eller andra tjänster i direkt
 samband med
 
-a) export av varor från Sverige eller ett annat EG-land,
+a) export av varor från Sverige eller ett annat EU-land,
 
 b) import av varor som omfattas av
 
@@ -2285,38 +2276,38 @@ från tull eller extern transitering,
 
 c) försändelse, transport eller införsel av varor i fri
 omsättning, vilka införs i Sverige från ett tredje territorium
-som utgör en del av gemenskapens tullområde, om varorna
+som utgör en del av unionens tullområde, om varorna
 
 - förflyttas här i landet under ett förfarande för intern
-gemenskapstransitering enligt gemenskapens tullbestämmelser, om
-varorna hänfördes till samma förfarande genom en deklaration
-när de fördes in i landet samt försändelsen eller transporten
-av dem avslutas utanför Sverige, eller
+unionstransitering enligt unionens tullbestämmelser, om varorna
+hänfördes till samma förfarande genom en deklaration när de
+fördes in i landet samt försändelsen eller transporten av dem
+avslutas utanför Sverige, eller
 
 - när de förs in i Sverige hade omfattats av 9 c kap. 1 § eller
 ett förfarande för temporär import med fullständig befrielse
 från importtullar, om de hade importerats, eller
 
-d) införsel av varor till ett annat EG-land om dessa omfattas
+d) införsel av varor till ett annat EU-land om dessa omfattas
 av det landets tillämpning av artikel 61 eller 157.1 a i
 direktiv 2006/112/EG,
 
 3. tjänster som består av arbete på lös egendom, om egendomen
 förvärvats eller importerats för att undergå sådant arbete inom
-EG och egendomen efter det att arbetet utförts, transporteras
-ut ur EG av den som tillhandahåller tjänsterna, eller av kunden
+EU och egendomen efter det att arbetet utförts, transporteras
+ut ur EU av den som tillhandahåller tjänsterna, eller av kunden
 om denne inte är etablerad inom landet eller för någonderas
 räkning,
 
 4. förmedling av varor eller tjänster som görs för någon annans
 räkning i dennes namn, när omsättningen av dessa anses som en
-omsättning utanför EG antingen enligt 1 § första stycket eller
+omsättning utanför EU antingen enligt 1 § första stycket eller
 enligt förevarande paragraf eller 3 a §, och
 
 5. en varutransporttjänst eller en tjänst som avses i 12 §, om
 tjänsten tillhandahålls en näringsidkare och den uteslutande
-nyttjas eller på annat sätt tillgodogörs utanför EG.
-Lag (2010:1892).
+nyttjas eller på annat sätt tillgodogörs utanför EU.
+Lag (2011:283).
 
 6 kap. Skattskyldighet i särskilda fall
 
@@ -2452,7 +2443,7 @@ som ägs av upphovsmannen eller dennes dödsbo,
 3. import av sådana konstverk, samlarföremål och antikviteter
 som avses i 9 a kap. 5-7 §§,
 
-4. omsättning, gemenskapsinternt förvärv och import av sådana
+4. omsättning, unionsinternt förvärv och import av sådana
 livsmedel som avses i artikel 2 i Europaparlamentets och rådets
 förordning (EG) nr 178/2002 av den 28 januari 2002 om allmänna
 principer och krav för livsmedelslagstiftning, om inrättande av
@@ -2470,7 +2461,7 @@ b) spritdrycker, vin och starköl.
 
 Skatten tas ut med 6 procent av beskattningsunderlaget för
 
-1. omsättning, gemenskapsinternt förvärv och import av följande
+1. omsättning, unionsinternt förvärv och import av följande
 varor, om inte annat följer av 3 kap. 13 och 14 §§, under
 förutsättning att varorna inte helt eller huvudsakligen är
 ägnade åt reklam:
@@ -2487,24 +2478,23 @@ av enstaka blad,
 - kartor, inbegripet atlaser, väggkartor och topografiska
 kartor,
 
-2. omsättning, gemenskapsinternt förvärv och import av program
-och kataloger för verksamhet som avses i 5, 6, 7 eller 10 samt
-annan omsättning än för egen verksamhet, gemenskapsinternt
-förvärv och import av program och kataloger för verksamhet som
-avses i 3 kap. 18 §, allt under förutsättning att programmen
-och katalogerna inte helt eller huvudsakligen är ägnade åt
-reklam,
+2. omsättning, unionsinternt förvärv och import av program och
+kataloger för verksamhet som avses i 5, 6, 7 eller 10 samt
+annan omsättning än för egen verksamhet, unionsinternt förvärv
+och import av program och kataloger för verksamhet som avses i
+3 kap. 18 §, allt under förutsättning att programmen och
+katalogerna inte helt eller huvudsakligen är ägnade åt reklam,
 
-3. omsättning av radiotidningar samt omsättning,
-gemenskapsinternt förvärv och import av kassettidningar, om
-inte annat följer av 3 kap. 17 §, och av kassetter eller något
-annat tekniskt medium som återger en uppläsning av innehållet i
-en vara som omfattas av 1,
+3. omsättning av radiotidningar samt omsättning, unionsinternt
+förvärv och import av kassettidningar, om inte annat följer av
+3 kap. 17 §, och av kassetter eller något annat tekniskt medium
+som återger en uppläsning av innehållet i en vara som omfattas
+av 1,
 
-4. omsättning, gemenskapsinternt förvärv och import av en vara
-som genom teckenspråk, punktskrift eller annan sådan särskild
-metod gör skrift eller annan information tillgänglig särskilt
-för läshandikappade, om inte annat följer av 3 kap. 4 §,
+4. omsättning, unionsinternt förvärv och import av en vara som
+genom teckenspråk, punktskrift eller annan sådan särskild metod
+gör skrift eller annan information tillgänglig särskilt för
+läshandikappade, om inte annat följer av 3 kap. 4 §,
 
 5. tillträde till konserter, cirkus-, biograf-, teater-, opera-
 eller balettföreställningar eller andra jämförliga
@@ -2532,10 +2522,9 @@ kap. 11 a § första stycket och som inte undantas från
 skatteplikt enligt andra stycket samma paragraf, och
 
 11. personbefordran utom sådan befordran där resemomentet är av
-underordnad betydelse. Lag (2006:1389).
+underordnad betydelse. Lag (2011:283).
 
-Beskattningsunderlaget vid omsättning och gemenskapsinterna
-förvärv
+Beskattningsunderlaget vid omsättning och unionsinterna förvärv
 
 2 § Vid omsättning och förvärv som anges i 3 och 4 §§ beräknas
 beskattningsunderlaget med utgångspunkt i det i nämnda
@@ -2569,17 +2558,17 @@ självkostnadspriset, vid tidpunkten för uttaget,
 tjänsten,
 
 3. vid förvärv enligt 2 a kap. 2 § 1 eller 2: av ersättningen
-och punktskatt som köparen påförts i ett annat EG-land, och
+och punktskatt som köparen påförts i ett annat EU-land, och
 
 4. vid förvärv enligt 2 a kap. 2 § 3 eller 4: av varornas eller
 liknande varors inköpspris eller, om ett sådant pris saknas, av
 självkostnadspriset, vid tidpunkten för överföringen av
-varorna. Lag (2007:1376).
+varorna. Lag (2011:283).
 
 3 a § I sådana fall som avses i 3 § 1 och 3 utgörs det i 2 §
 första stycket första meningen avsedda värdet av marknadsvärdet
 respektive marknadsvärdet och punktskatt som köparen påförts i
-ett annat EG-land, om
+ett annat EU-land, om
 
 1. ersättningen är lägre än marknadsvärdet,
 
@@ -2589,7 +2578,7 @@ enligt 10 kap. 9 eller 11-13 §§,
 3. säljaren och köparen är förbundna med varandra, och
 
 4. den skattskyldige inte kan göra sannolikt att ersättningen
-är marknadsmässigt betingad. Lag (2007:1376).
+är marknadsmässigt betingad. Lag (2011:283).
 
 3 b § I sådant fall som avses i 3 § 1 utgörs det i 2 § första
 stycket första meningen avsedda värdet av marknadsvärdet, om
@@ -2719,54 +2708,55 @@ för tulländamål, bestämt enligt rådets förordning (EEG) nr
 2913/92 av den 12 oktober 1992 om inrättandet av en tullkodex
 för gemenskapen, med tillägg av tull och andra statliga skatter
 eller avgifter, utom skatt enligt denna lag, som tas ut av
-Tullverket med anledning av införseln. Sådant tillägg skall
-inte göras i fall då tullen, skatterna eller avgifterna ingår i
+Tullverket med anledning av införseln. Sådant tillägg ska inte
+göras i fall då tullen, skatterna eller avgifterna ingår i
 varans värde.
 
-I fall som avses i 1 kap. 2 § första stycket 6 c skall
-tillägget enligt första stycket, till den del det utgörs av
-tull och motsvarande avgifter, utgöras av motsvarande pålagor
-som tas ut av det andra EG-landets tullmyndighet.
+I fall som avses i 1 kap. 2 § första stycket 6 c ska tillägget
+enligt första stycket, till den del det utgörs av tull och
+motsvarande avgifter, utgöras av motsvarande pålagor som tas ut
+av det andra EU-landets tullmyndighet.
 
-I beskattningsunderlaget skall även ingå bikostnader som
+I beskattningsunderlaget ska även ingå bikostnader som
 provisions-, emballage-, transport- och försäkringskostnader
 som uppkommer fram till första bestämmelseorten här i landet.
 Är det vid tidpunkten för skattskyldighetens inträde känt att
-varan skall transporteras till någon annan bestämmelseort här i
-landet eller till någon bestämmelseort i ett annat EG-land,
-skall också bikostnaderna fram till den orten ingå i
-beskattningsunderlaget. Lag (2004:118).
+varan ska transporteras till någon annan bestämmelseort här i
+landet eller till någon bestämmelseort i ett annat EU-land, ska
+också bikostnaderna fram till den orten ingå i
+beskattningsunderlaget. Lag (2011:283).
 
-9 § Om sådana gemenskapsvaror som exporterats temporärt och
-bearbetats i ett land utanför EG på något annat sätt än genom
+9 § Om sådana unionsvaror som exporterats temporärt och
+bearbetats i ett land utanför EU på något annat sätt än genom
 reparation återimporteras med användning av tullförfarandet
-passiv förädling, skall beskattningsunderlaget beräknas på det
+passiv förädling, ska beskattningsunderlaget beräknas på det
 sätt som sägs i 8 § men med avdrag för beskattningsunderlaget
 för mervärdesskatt som tidigare tagits ut i Sverige eller i ett
-annat EG-land för de temporärt exporterade varorna.
+annat EU-land för de temporärt exporterade varorna.
 
-Vad som sägs i första stycket skall också gälla när sådant
-material som utgör gemenskapsvaror exporterats temporärt samt
-varor som helt eller delvis tillverkats av detta material i ett
-land utanför EG återimporteras med användning av
-tullförfarandet passiv förädling.
+Vad som sägs i första stycket ska också gälla när sådant
+material som utgör unionsvaror exporterats temporärt samt varor
+som helt eller delvis tillverkats av detta material i ett land
+utanför EU återimporteras med användning av tullförfarandet
+passiv förädling.
 
-Med gemenskapsvaror, temporärt exporterade varor och
-tullförfarandet passiv förädling förstås detsamma som i rådets
-förordning (EEG) nr 2913/92 av den 12 oktober 1992 om
-inrättandet av en tullkodex för gemenskapen. Lag (2002:1004).
+Med unionsvaror förstås detsamma som med gemenskapsvaror i
+rådets förordning (EEG) nr 2913/92 av den 12 oktober 1992 om
+inrättandet av en tullkodex för gemenskapen. Med temporärt
+exporterade varor och tullförfarandet passiv förädling förstås
+detsamma som i den förordningen. Lag (2011:283).
 
 10 § Har upphävts genom lag (2002:1004).
 
-11 § Vid återimport av gemenskapsvaror som reparerats i ett
-land utanför EG utgörs beskattningsunderlaget av ersättningen
-för reparationen samt tull och statliga skatter eller avgifter,
+11 § Vid återimport av unionsvaror som reparerats i ett land
+utanför EU utgörs beskattningsunderlaget av ersättningen för
+reparationen samt tull och statliga skatter eller avgifter,
 utom skatt enligt denna lag, som tas ut med anledning av
 importen. Om den tidigare exporten av varorna har medfört en
 rätt till återbetalning av mervärdesskatt eller om varorna
 annars inte har blivit belagda med mervärdesskatt på grund av
-den tidigare exporten ingår även varornas värde vid exporten i
-beskattningsunderlaget. Lag (2007:1376).
+den tidigare exporten, ingår även varornas värde vid exporten i
+beskattningsunderlaget. Lag (2011:283).
 
 8 kap. Avdrag för ingående skatt
 
@@ -2780,10 +2770,10 @@ verksamheter som avser vissa fastighetsupplåtelser. Lag
 
 1 a § Den som redovisar mervärdesskatt enligt bestämmelserna i
 10 a kap. skattebetalningslagen (1997:483) för elektroniska
-tjänster eller enligt motsvarande bestämmelser i ett annat EG-
+tjänster eller enligt motsvarande bestämmelser i ett annat EU-
 land har inte rätt till avdrag för ingående skatt. I 10 kap.
 4 a § finns bestämmelser om återbetalning av ingående skatt i
-dessa fall. Lag (2003:220).
+dessa fall. Lag (2011:283).
 
 2 § Ingående skatt utgörs av beloppet av den skatt enligt
 denna lag som hänför sig till ersättning för förvärv av varor
@@ -3662,29 +3652,29 @@ Tillämpningsområde
 
 1 § Detta kapitel tillämpas vid en skattskyldig återförsäljares
 omsättning av begagnade varor, konstverk, samlarföremål eller
-antikviteter som levererats till honom inom EG av
+antikviteter som levererats till honom inom EU av
 
 1. någon annan än en näringsidkare,
 
-2. en näringsidkare som ska redovisa mervärdesskatt enligt
-detta kapitel eller enligt motsvarande bestämmelser i ett annat
-EG-land,
+2 en näringsidkare som ska redovisa mervärdesskatt enligt detta
+kapitel eller enligt motsvarande bestämmelser i ett annat EU-
+land,
 
 3. en näringsidkare vars omsättning är undantagen från
 skatteplikt enligt 3 kap. 24 § eller enligt motsvarande
-bestämmelser i ett annat EG-land,
+bestämmelser i ett annat EU-land,
 
 4. en näringsidkare som undantas från skattskyldighet enligt 1
 kap. 2 a §, eller
 
-5. en näringsidkare i ett annat EG-land om näringsidkarens
+5. en näringsidkare i ett annat EU-land om näringsidkarens
 omsättning understiger gränsen för redovisningsskyldighet i det
 landet och den förvärvade varan utgjort anläggningstillgång hos
 honom.
 
 Detta kapitel omfattar inte omsättning av sådana transportmedel
 som har förvärvats enligt 2 a kap. 3 § första stycket 1.
-Lag (2007:1376).
+Lag (2011:283).
 
 2 § Om en skattskyldig återförsäljare begär det skall
 Skatteverket besluta att återförsäljaren skall tillämpa
@@ -3825,7 +3815,7 @@ Ingående skatt
 13 § Avdrag får inte göras för ingående skatt som hänför sig
 till förvärv av varor från en skattskyldig återförsäljare vars
 omsättning av varorna beskattas enligt detta kapitel eller
-motsvarande bestämmelser i ett annat EG-land.
+motsvarande bestämmelser i ett annat EU-land.
 
 Vid sådan omsättning av varor som beskattas enligt detta
 kapitel får en skattskyldig återförsäljare inte göra avdrag för
@@ -3835,7 +3825,7 @@ ingående skatt som hänför sig till
 återförsäljaren själv har importerat, eller
 
 2. konstverk som upphovsmannen eller dennes dödsbo
-tillhandahållit honom. Lag (1995:700).
+tillhandahållit honom. Lag (2011:283).
 
 14 § Om en skattskyldig återförsäljare har valt att enligt 3 §
 tillämpa de allmänna bestämmelserna i denna lag på omsättning
@@ -3875,12 +3865,12 @@ inte på omsättning som beskattas enligt detta kapitel.
 
 Bestämmelserna i 5 kap. 2 § första stycket 4, andra och tredje
 styckena tillämpas inte i fråga om omsättning som i ett annat
-EG-land beskattas i enlighet med regler motsvarande dem som
-anges i detta kapitel. Lag (1995:1286).
+EU-land beskattas i enlighet med regler motsvarande dem som
+anges i detta kapitel. Lag (2011:283).
 
-19 § Vid omsättning till annat EG-land av ett sådant
+19 § Vid omsättning till annat EU-land av ett sådant
 transportmedel som avses i 1 kap. 13 a § tillämpas inte detta
-kapitel. Lag (1995:700).
+kapitel. Lag (2011:283).
 
 9 b kap. Särskilt om viss resebyråverksamhet
 
@@ -3915,18 +3905,17 @@ ingående skatt ger inte heller rätt till återbetalning enligt
 4 § En resetjänst är omsatt inom landet om resebyrån har
 etablerat sätet för sin ekonomiska verksamhet i Sverige eller
 har ett fast etableringsställe här från vilket
-tillhandahållandet görs, om inte annat följer av andra
-stycket.
+tillhandahållandet görs, om inte annat följer av andra stycket.
 
 Om resebyrån som ett led i omsättningen av resetjänsten
 förvärvat varor och tjänster som en annan näringsidkare
-tillhandahållit resebyrån utanför EG, ska resetjänsten anses
-utgöra en sådan tjänst som avses i 5 kap. 19 § 4. Om
-förvärven avser varor och tjänster som den andre
-näringsidkaren tillhandahållit resebyrån både inom och
-utanför EG, gäller bestämmelserna i 5 kap. 19 § 4 endast för
-den del av omsättningen av resetjänsten som avser varor och
-tjänster tillhandahållna utanför EG. Lag (2009:1333).
+tillhandahållit resebyrån utanför EU, ska resetjänsten anses
+utgöra en sådan tjänst som avses i 5 kap. 19 § 4. Om förvärven
+avser varor och tjänster som den andre näringsidkaren
+tillhandahållit resebyrån både inom och utanför EU, gäller
+bestämmelserna i 5 kap. 19 § 4 endast för den del av
+omsättningen av resetjänsten som avser varor och tjänster
+tillhandahållna utanför EU. Lag (2011:283).
 
 5 § Om mervärdesskatt skall redovisas enligt bestämmelserna i
 detta kapitel, får resebyrån underlåta att redovisa skattens
@@ -3955,8 +3944,8 @@ anges i 3 §,
 2. omsättning av tjänster som avser en sådan omsättning som
 anges i 1,
 
-3. omsättning av icke-gemenskapsvaror och av tjänster, som görs
-i tillfälligt lager, tullager, frizon eller frilager under den
+3. omsättning av icke-unionsvaror och av tjänster, som görs i
+tillfälligt lager, tullager, frizon eller frilager under den
 tid varorna är placerade där, och
 
 4. omsättning av varor som anges i 9 § och av tjänster, som
@@ -3968,14 +3957,14 @@ förutsättning att omsättningen eller importen inte syftar till
 slutlig användning eller förbrukning.
 
 Vad som i första och andra styckena sägs om omsättning av varor
-gäller även vid gemenskapsinterna förvärv av varorna. Lag
-(1995:1286).
+gäller även vid unionsinterna förvärv av varorna.
+Lag (2011:283).
 
-2 § Med tillfälligt lager, tullager, frizon och frilager samt
-med icke-gemenskapsvara förstås vad som i rådets förordning
-(EEG) nr 2913/92 av den 12 oktober 1992 om inrättandet av en
-tullkodex för gemenskapen avses med dessa begrepp. Lag
-(1995:1286).
+2 § Med tillfälligt lager, tullager, frizon och frilager
+förstås vad som i rådets förordning (EEG) nr 2913/92 av den 12
+oktober 1992 om inrättandet av en tullkodex för gemenskapen
+avses med dessa begrepp. Med icke-unionsvara förstås detsamma
+som med icke-gemenskapsvara i den förordningen. Lag (2011:283).
 
 3 § Med skatteupplag avses
 
@@ -3999,22 +3988,21 @@ enligt första stycket tas ut. Lag (1995:1286).
 är den som föranleder att varan upphör att vara placerad på
 sådant sätt som avses i 1 §. Lag (1995:1286).
 
-
-6 § Skatten skall motsvara
+6 § Skatten ska motsvara
 
 1. i de fall varan inte har omsatts under den tid den varit
 placerad på sådant sätt som avses i 1 §: den skatt som skulle
 ha beräknats för den import, den omsättning eller det
-gemenskapsinterna förvärv som undantagits i 1 §, med tillägg av
-den skatt som skulle ha beräknats för sådan omsättning av
-tjänster som undantagits enligt 1 §, eller
+unionsinterna förvärv som undantagits i 1 §, med tillägg av den
+skatt som skulle ha beräknats för sådan omsättning av tjänster
+som undantagits enligt 1 §, eller
 
 2. i de fall varan har omsatts under den tid den varit placerad
 på sådant sätt som avses i 1 §: den skatt som skulle ha
 beräknats för den sista av dessa omsättningar, med tillägg för
 den skatt som skulle ha beräknats för sådan omsättning av
 tjänster som undantagits enligt 1 § och som utförts efter den
-sista omsättningen. Lag (1995:1286).
+sista omsättningen. Lag (2011:283).
 
 7 § Som upplagshavare får den godkännas som med hänsyn till
 sina ekonomiska förhållanden och omständigheterna i övrigt är
@@ -4106,21 +4094,20 @@ Rätten till återbetalning
 1. den ingående skatten avser förvärv eller import som hänför
 sig till omsättning i verksamhet utomlands,
 
-2. omsättningen, i det fall den görs inom EG, är
-skattepliktig eller medför återbetalningsrätt motsvarande den
-som avses i 11 eller 12 § i det land där omsättningen görs,
-och
+2. omsättningen, i det fall den görs inom EU, är skattepliktig
+eller medför återbetalningsrätt motsvarande den som avses i 11
+eller 12 § i det land där omsättningen görs, och
 
 3. omsättningen skulle ha varit skattepliktig eller skulle ha
 medfört rätt enligt 11 eller 12 § till återbetalning om
 omsättningen gjorts här i landet.
 
-Rätt till återbetalning föreligger även för ingående skatt
-som avser förvärv eller import som hänför sig till omsättning
-inom landet för vilken förvärvaren är skattskyldig enligt
-1 kap. 2 § första stycket 2, 3, 4, 4 b eller 4 c om
-omsättningen är skattepliktig eller medför återbetalningsrätt
-enligt 11 eller 12 §. Lag (2009:1333).
+Rätt till återbetalning föreligger även för ingående skatt som
+avser förvärv eller import som hänför sig till omsättning inom
+landet för vilken förvärvaren är skattskyldig enligt 1 kap. 2 §
+första stycket 2, 3, 4, 4 b eller 4 c om omsättningen är
+skattepliktig eller medför återbetalningsrätt enligt 11 eller
+12 §. Lag (2011:283).
 
 2 § En utländsk företagare som förmedlar en vara eller en
 tjänst för en uppdragsgivares räkning har rätt till
@@ -4149,29 +4136,29 @@ rätten till återbetalning när förskottet har betalats. Lag
 
 Återbetalning i fråga om elektroniska tjänster
 
-4 a § Den som redovisar mervärdesskatt enligt bestämmelserna
-i 10 a kap. skattebetalningslagen (1997:483) för elektroniska
-tjänster eller enligt motsvarande bestämmelser i ett annat
-EG-land har på ansökan rätt till återbetalning av ingående
-skatt avseende förvärv eller import som hänför sig till
-omsättning av de elektroniska tjänsterna i Sverige.
+4 a § Den som redovisar mervärdesskatt enligt bestämmelserna i
+10 a kap. skattebetalningslagen (1997:483) för elektroniska
+tjänster eller enligt motsvarande bestämmelser i ett annat EU-
+land har på ansökan rätt till återbetalning av ingående skatt
+avseende förvärv eller import som hänför sig till omsättning av
+de elektroniska tjänsterna i Sverige.
 
-Vad som föreskrivs i 3 § gäller också för den som har rätt
-till återbetalning enligt första stycket. Lag (2009:1333).
+Vad som föreskrivs i 3 § gäller också för den som har rätt till
+återbetalning enligt första stycket. Lag (2011:283).
 
 Återbetalning i andra fall än som avses i 1-4 a §§
 
 Hjälporganisationer och utländska beskickningar
 
 5 § Ingående skatt som hänför sig till varor som förvärvats
-eller förts in för att föras ut ur EG och användas för en
-verksamhet som bedrivs utanför EG skall på ansökan återbetalas,
+eller förts in för att föras ut ur EU och användas för en
+verksamhet som bedrivs utanför EU ska på ansökan återbetalas,
 om verksamheten bedrivs för Förenta nationernas eller för något
 av dess fackorgans räkning.
 
 Detsamma gäller om en riksomfattande hjälporganisation för ut
-sådana varor ur EG för att användas i en hjälpverksamhet. Lag
-(1994:1798).
+sådana varor ur EU för att användas i en hjälpverksamhet.
+Lag (2011:283).
 
 6 § Utländska beskickningar, karriärkonsulat i Sverige eller
 sådana internationella organisationer, som avses i lagen
@@ -4210,7 +4197,7 @@ avsedd för den verksamhet som utövas av förvärvaren.
 Rätt till återbetalning enligt första stycket har även ett i
 Sverige beläget kontor eller anläggning som tillhör
 
-- Europeiska gemenskapen,
+- Europeiska unionen,
 
 - Europeiska atomenergigemenskapen,
 
@@ -4218,13 +4205,13 @@ Sverige beläget kontor eller anläggning som tillhör
 
 - Europeiska investeringsbanken, eller
 
-- ett organ som har inrättats av gemenskaperna och för vilket
-protokollet av den 8 april 1965 om Europeiska gemenskapernas
-immunitet och privilegier gäller.
+- ett organ som har inrättats av unionen eller
+atomenergigemenskapen och för vilket protokollet (nr 7) om
+Europeiska unionens immunitet och privilegier gäller.
 
 Rätt till återbetalning enligt andra stycket gäller endast i
 den omfattning återbetalningen inte leder till att konkurrensen
-snedvrids. Lag (2010:1892).
+snedvrids. Lag (2011:283).
 
 7 § Medlemmar av den diplomatiska personalen vid utländska
 beskickningar i Sverige och karriärkonsuler vid utländska
@@ -4302,21 +4289,21 @@ Rätt till återbetalning föreligger också för ingående skatt som
 hänför sig till sådan omsättning av varor och tjänster som
 avses i 3 kap. 9 § utom tredje stycket 2, 10 § eller 23 § 1 om
 
-1. förvärvaren är en näringsidkare som i ett land utanför EG
+1. förvärvaren är en näringsidkare som i ett land utanför EU
 har antingen sätet för sin ekonomiska verksamhet eller ett fast
 etableringsställe till vilket tjänsten tillhandahålls eller, om
 näringsidkaren saknar sådant säte eller etableringsställe i det
 landet, han är bosatt eller stadigvarande vistas där,
 
 2. förvärvaren inte är en näringsidkare och han är bosatt eller
-stadigvarande vistas i ett land utanför EG, eller
+stadigvarande vistas i ett land utanför EU, eller
 
 3. omsättningen har direkt samband med varor som ska exporteras
-till ett land utanför EG.
+till ett land utanför EU.
 
 Rätt till återbetalning föreligger också för ingående skatt
 avseende förvärv och import som hänför sig till omsättning i
-ett annat EG-land under förutsättning att
+ett annat EU-land under förutsättning att
 
 1. omsättningen är skattepliktig eller medför
 återbetalningsrätt motsvarande den som avses i denna paragraf
@@ -4327,7 +4314,7 @@ medfört rätt enligt denna paragraf eller 12 § till
 återbetalning om omsättningen gjorts här i landet, och
 
 3. rätten till återbetalning inte ska utövas genom en ansökan
-med stöd av 1 eller 2 §. Lag (2007:1376).
+med stöd av 1 eller 2 §. Lag (2011:283).
 
 11 a § Vid sådan omsättning av nya transportmedel som undantas
 från beskattning enligt 3 kap. 30 a § föreligger rätt till
@@ -4336,21 +4323,20 @@ erhållas enligt 8 kap. eller återbetalning inte kunnat erhållas
 enligt övriga bestämmelser i detta kapitel. Denna
 återbetalningsrätt avser den mervärdesskatt som säljaren
 betalat som en del av ersättningen för sitt förvärv eller vid
-import eller vid ett gemenskapsinternt förvärv av
-transportmedlet. Högre belopp än som motsvarar den skatt
-säljaren skulle ha blivit skyldig att betala om han hade varit
-skattskyldig för omsättningen kan dock inte återbetalas.
+import eller vid ett unionsinternt förvärv av transportmedlet.
+Högre belopp än som motsvarar den skatt säljaren skulle ha
+blivit skyldig att betala om han hade varit skattskyldig för
+omsättningen kan dock inte återbetalas.
 
 Återbetalning enligt första stycket kan medges först sedan det
 styrkts att mervärdesskatt betalats för transportmedlet i det
-andra EG-landet. Lag (1994:1798).
+andra EU-landet. Lag (2011:283).
 
 11 b § Om en vara importerats till Sverige för att omsättas
-till ett annat EG-land, skall mervärdesskatt som betalats vid
+till ett annat EU-land, ska mervärdesskatt som betalats vid
 importen återbetalas till importören sedan det styrkts att
-varan därefter beskattats som gemenskapsinternt förvärv i ett
-annat EG-land på sätt som motsvaras av 2 a kap. 5 §. Lag
-(1994:1798).
+varan därefter beskattats som unionsinternt förvärv i ett annat
+EU-land på sätt som motsvaras av 2 a kap. 5 §. Lag (2011:283).
 
 11 c § Vid omsättning som är undantagen från skatteplikt enligt
 3 kap. 10 a § har en näringsidkare rätt till återbetalning av
@@ -4395,11 +4381,11 @@ Export
 12 § Den som omsätter varor eller tjänster genom export har
 rätt till återbetalning av ingående skatt för vilken han saknar
 rätt till avdrag enligt 8 kap. på grund av att omsättningen
-sker utanför EG. Rätten till återbetalning gäller under
+sker utanför EU. Rätten till återbetalning gäller under
 förutsättning att omsättningen är skattepliktig eller
 undantagen från skatteplikt enligt 3 kap. 10 a §, 19 § första
 stycket 2, 21 §, 23 § 2, 3 eller 4 eller 30 e §.
-Lag (2007:1376).
+Lag (2011:283).
 
 Gemensamma bestämmelser för återbetalning
 
@@ -4411,12 +4397,12 @@ förekommit. Lag (2009:1333).
 
 13 a § Om en utländsk företagare som omfattas av 19 kap. 1 §
 utför både transaktioner som medför och inte medför rätt till
-avdrag av ingående skatt i EG-landet där denne är etablerad,
+avdrag av ingående skatt i EU-landet där denne är etablerad,
 omfattar rätten till återbetalning enligt 10 kap. 1, 11 eller
-12 § enbart sådan skatt som hänför sig till transaktionerna
-som medför avdragsrätt i enlighet med tillämpningen av
-artikel 173 i rådets direktiv 2006/112/EG i
-etableringslandet. Lag (2009:1333).
+12 § enbart sådan skatt som hänför sig till transaktionerna som
+medför avdragsrätt i enlighet med tillämpningen av artikel 173
+i rådets direktiv 2006/112/EG i etableringslandet.
+Lag (2011:283).
 
 13 b § En utländsk företagares rätt till återbetalning enligt
 detta kapitel gäller inte belopp som betecknats som
@@ -4464,12 +4450,12 @@ vid omsättning av
 - nya transportmedel enligt 3 kap. 30 a § andra stycket till en
 privatperson,
 
-- vara enligt 5 kap. 2 a § till en köpare i ett annat EG-land,
+- vara enligt 5 kap. 2 a § till en köpare i ett annat EU-land,
 eller
 
 - bygg- eller anläggningstjänster till en privatperson och av
 varor som omsätts i samband med sådant tillhandahållande.
-Lag (2007:1376).
+Lag (2011:283).
 
 2 § Skyldighet att utfärda faktura föreligger inte för
 omsättningar som avses i 3 kap. 2, 4, 8, 9, 10, 11 eller
@@ -4545,7 +4531,7 @@ vilket varorna eller tjänsterna har omsatts,
 4. kundens registreringsnummer till mervärdesskatt under vilket
 han förvärvat varorna eller tjänsterna, om han är skattskyldig
 för förvärvet av varorna eller tjänsterna eller det är fråga om
-en gemenskapsintern varuförsäljning enligt 3 kap. 30 a eller
+en unionsintern varuförsäljning enligt 3 kap. 30 a eller
 30 b §,
 
 5. säljarens och köparens namn och adress,
@@ -4570,9 +4556,9 @@ enhetspriset,
 särskild ordning tillämpas för vilken denna lag utesluter en
 sådan uppgift,
 
-11. vid befrielse från skatt eller när köparen i enlighet med
-1 kap. 2 § första stycket 2, 3, 4, 4 a, 4 b, 4 c, 4 d eller 5
-är skyldig att betala mervärdesskatt, en hänvisning till
+11. vid befrielse från skatt eller när köparen i enlighet med 1
+kap. 2 § första stycket 2, 3, 4, 4 a, 4 b, 4 c, 4 d eller 5 är
+skyldig att betala mervärdesskatt, en hänvisning till
 
 a) den relevanta bestämmelsen i denna lag,
 
@@ -4583,7 +4569,7 @@ mervärdesskatt, eller
 c) en annan uppgift om att omsättningen är skattebefriad eller
 att köparen är skyldig att betala mervärdesskatt,
 
-12. vid leverans av ett nytt transportmedel till ett annat EG-
+12. vid leverans av ett nytt transportmedel till ett annat EU-
 land, de uppgifter i 1 kap. 13 a § som avgör att varan ska
 hänföras till ett sådant transportmedel,
 
@@ -4596,7 +4582,7 @@ b) artikel 313, 326 eller 333 respektive artikel 306 i rådets
 direktiv 2006/112/EG, eller
 
 c) en annan uppgift om att vinstmarginalsystemet tillämpas.
-Lag (2010:1518).
+Lag (2011:283).
 
 9 § För fakturor som avser andra transaktioner inom landet än
 sådana som avses i 2 a kap., 3 kap. 30 a § och 5 kap. 2 §
@@ -4747,21 +4733,21 @@ till att tillämpa bestämmelserna i 8 § utan att först ansöka om
 detta hos Skatteverket. En sådan ansökan får beviljas endast om
 det finns särskilda skäl. Lag (2006:905).
 
-8 b § Utgående skatt som hänför sig till gemenskapsinterna
-förvärv skall redovisas för den redovisningsperiod som omfattar
-den femtonde dagen i den månad som följer på den månad under
-vilken skattskyldigheten för förvärvet har inträtt enligt 1
-kap. 4 a §. Om faktura utfärdas dessförinnan, skall den
-utgående skatten redovisas för den redovisningsperiod under
-vilken fakturan utfärdas.
+8 b § Utgående skatt som hänför sig till unionsinterna förvärv
+ska redovisas för den redovisningsperiod som omfattar den
+femtonde dagen i den månad som följer på den månad under vilken
+skattskyldigheten för förvärvet har inträtt enligt 1 kap.
+4 a §. Om faktura utfärdas dessförinnan, ska den utgående
+skatten redovisas för den redovisningsperiod under vilken
+fakturan utfärdas.
 
 Omsättning av varor som undantas från skatteplikt enligt 3 kap.
-30 a § skall redovisas för den redovisningsperiod som omfattar
+30 a § ska redovisas för den redovisningsperiod som omfattar
 den femtonde dagen i den månad som följer på den månad under
 vilken skattskyldigheten för förvärvet har inträtt enligt 1
-kap. 4 a §. Om faktura är utfärdad dessförinnan, skall
+kap. 4 a §. Om faktura är utfärdad dessförinnan, ska
 omsättningen redovisas för den redovisningsperiod under vilken
-fakturan utfärdas. Lag (2006:905).
+fakturan utfärdas. Lag (2011:283).
 
 8 c § Omsättning av tjänster som omfattas av
 uppgiftsskyldigheten enligt 10 kap. 33 § första stycket 2
@@ -4883,9 +4869,9 @@ förvärvaren är skattskyldig enligt 1 kap. 2 § första stycket 2
 för den redovisningsperiod för vilken den utgående skatten ska
 redovisas enligt 8 §. Lag (2010:1518).
 
-18 b § Ingående skatt som hänför sig till gemenskapsinterna
-förvärv skall dras av för den redovisningsperiod för vilken den
-utgående skatten skall redovisas enligt 8 b §. Lag (2006:1031).
+18 b § Ingående skatt som hänför sig till unionsinterna förvärv
+ska dras av för den redovisningsperiod för vilken den utgående
+skatten ska redovisas enligt 8 b §. Lag (2011:283).
 
 19 § Om en vara har förvärvats genom kreditköp med förbehåll
 från säljaren om återtaganderätt enligt lagen (1978:599) om
@@ -4966,10 +4952,10 @@ kreditnota som avses i 11 kap. 10 §. Lag (2003:1134).
 25 a § Den skattskyldige får i den ordning som gäller för hans
 redovisning av utgående skatt dra av ett belopp motsvarande
 utgående skatt som har redovisats i en deklaration, om den
-redovisade skatten gäller sådana gemenskapsinterna förvärv som
+redovisade skatten gäller sådana unionsinterna förvärv som
 avses i 2 a kap. 6 § och den skattskyldige på grund av
-förvärvet har påförts mervärdesskatt i ett annat EG-land. Lag
-(1994:1798).
+förvärvet har påförts mervärdesskatt i ett annat EU-land.
+Lag (2011:283).
 
 26 § Om den skattskyldige, sedan han fått avdrag för ingående
 skatt, har tagit emot en sådan kreditnota som anges i 11 kap.
@@ -5068,34 +5054,34 @@ den första redovisningsperioden efter beslutet. Lag (2000:500).
 
 Återbetalning till utländska företagare
 
-Återbetalning till vissa utländska företagare som är
-etablerade i andra EG-länder
+Återbetalning till vissa utländska företagare som är etablerade
+i andra EU-länder
 
-1 § En utländsk företagare som är etablerad i ett annat EG-
-land och inte har omsatt några varor eller tjänster i Sverige
-under den återbetalningsperiod som avses i 6 § och som vill
-få återbetalning av ingående skatt enligt 10 kap. 1, 2, 3, 11
+1 § En utländsk företagare som är etablerad i ett annat EU-land
+och inte har omsatt några varor eller tjänster i Sverige under
+den återbetalningsperiod som avses i 6 § och som vill få
+återbetalning av ingående skatt enligt 10 kap. 1, 2, 3, 11
 eller 12 § ska ansöka om detta hos Skatteverket. Ansökan ska
 göras genom den elektroniska portal som inrättats för detta
-ändamål i det EG-land där företagaren är etablerad.
+ändamål i det EU-land där företagaren är etablerad.
 
-Utan hinder av bestämmelserna i första stycket om omsättning
-i Sverige får företagaren under återbetalningsperioden inom
+Utan hinder av bestämmelserna i första stycket om omsättning i
+Sverige får företagaren under återbetalningsperioden inom
 landet ha omsatt
 
 1. transporttjänster eller stödtjänster till dessa som är
 undantagna från skatteplikt enligt 3 kap. 21 § första stycket
-4, 30 a § tredje stycket, 30 e, 31, 31 a  eller 32 § eller
-9 c kap. 1 §, eller
+4, 30 a § tredje stycket, 30 e, 31, 31 a eller 32 § eller 9 c
+kap. 1 §, eller
 
-2. varor eller tjänster som köparen är skattskyldig för
-enligt 1 kap. 2 § första stycket 2, 3, 4, 4 b eller 4 c.
+2. varor eller tjänster som köparen är skattskyldig för enligt
+1 kap. 2 § första stycket 2, 3, 4, 4 b eller 4 c.
 
-En utländsk företagare som är etablerad i ett annat EG-land
-och som är eller ska vara registrerad enligt 3 kap. 1 § 2, 4,
-5 eller 5 a skattebetalningslagen (1997:483), ska dock ansöka
-om sådan återbetalning som avses i första stycket i enlighet
-med vad som föreskrivs i 3436 §§. Lag (2009:1333).
+En utländsk företagare som är etablerad i ett annat EU-land och
+som är eller ska vara registrerad enligt 3 kap. 1 § 2, 4, 5
+eller 5 a skattebetalningslagen (1997:483), ska dock ansöka om
+sådan återbetalning som avses i första stycket i enlighet med
+vad som föreskrivs i 34-36 §§. Lag (2011:283).
 
 2 § En ansökan om återbetalning ska innehålla
 
@@ -5107,21 +5093,21 @@ varorna och tjänsterna förvärvats,
 3. uppgift om vilken återbetalningsperiod den avser,
 
 4. en förklaring från sökanden att denne under
-återbetalningsperioden inom landet inte har omsatt några
-andra varor eller tjänster än sådana som anges i 1 § andra
-stycket, och
+återbetalningsperioden inom landet inte har omsatt några andra
+varor eller tjänster än sådana som anges i 1 § andra stycket,
+och
 
 5. för varje faktura eller importdokument uppgift om
 
 a) beskattningsunderlaget och mervärdesskattebeloppet,
 
 b) den ingående skatt för vilken rätt till återbetalning
-föreligger enligt 10 kap. 13, 11, 12 och 1313 b §§ uttryckt
-i svenska kronor, och
+föreligger enligt 10 kap. 1-3, 11, 12 och 13-13 b §§ uttryckt i
+svenska kronor, och
 
 c) den avdragsgilla andel som beräknats i enlighet med
 tillämpningen av artikel 173 i rådets direktiv 2006/112/EG i
-EG-landet där sökanden är etablerad, om sökanden utför
+EU-landet där sökanden är etablerad, om sökanden utför
 transaktioner som medför respektive inte medför rätt till
 avdrag av ingående skatt. Den avdragsgilla andelen ska
 uttryckas som ett procenttal.
@@ -5130,11 +5116,10 @@ I ansökan ska de förvärvade varornas och tjänsternas art för
 varje faktura eller importdokument beskrivas med koder.
 
 Regeringen eller den myndighet som regeringen bestämmer
-meddelar föreskrifter om de identifikationsuppgifter och
-koder som anges i första och andra styckena. Detsamma gäller
-vilka språk som får användas av sökanden i en
-återbetalningsansökan eller när uppgifter lämnas enligt 10
-och 11 §§. Lag (2009:1333).
+meddelar föreskrifter om de identifikationsuppgifter och koder
+som anges i första och andra styckena. Detsamma gäller vilka
+språk som får användas av sökanden i en återbetalningsansökan
+eller när uppgifter lämnas enligt 10 och 11 §§. Lag (2011:283).
 
 3 § En ansökan om återbetalning ska avse
 
@@ -5190,13 +5175,13 @@ det, ska det sökta beloppet vara minst 500 kronor.
 Lag (2009:1333).
 
 8 § En ansökan om återbetalning ska senast den 30 september
-kalenderåret efter återbetalningsperioden ha kommit in till
-den behöriga myndigheten i det EG-land där den utländska
+kalenderåret efter återbetalningsperioden ha kommit in till den
+behöriga myndigheten i det EU-land där den utländska
 företagaren är etablerad.
 
 En ansökan ska anses ingiven till den behöriga myndigheten
-endast om sökanden har lämnat samtliga uppgifter som följer
-av 2, 4 och 5 §§. Lag (2009:1333).
+endast om sökanden har lämnat samtliga uppgifter som följer av
+2, 4 och 5 §§. Lag (2011:283).
 
 Skatteverkets underrättelseskyldighet och rätt att begära
 uppgifter m.m.
@@ -5205,23 +5190,22 @@ uppgifter m.m.
 underrätta sökanden om vilket datum en ansökan om
 återbetalning kom in till verket. Lag (2009:1333).
 
-10 § Om Skatteverket anser att det inte har alla uppgifter
-som behövs för att fatta beslut i fråga om hela eller en del
-av en ansökan om återbetalning, får verket inom den period
-som anges i 13 § på elektronisk väg begära ytterligare
-uppgifter från
+10 § Om Skatteverket anser att det inte har alla uppgifter som
+behövs för att fatta beslut i fråga om hela eller en del av en
+ansökan om återbetalning, får verket inom den period som anges
+i 13 § på elektronisk väg begära ytterligare uppgifter från
 
 1. sökanden,
 
-2. den behöriga myndigheten i det EG-land där sökanden är
+2. den behöriga myndigheten i det EU-land där sökanden är
 etablerad, eller
 
 3. någon annan.
 
-Om Skatteverket begär ytterligare uppgifter från någon annan
-än sökanden eller den behöriga myndigheten, får begäran göras
-på elektronisk väg endast om mottagaren har tillgång till
-sådana medel. Lag (2009:1333).
+Om Skatteverket begär ytterligare uppgifter från någon annan än
+sökanden eller den behöriga myndigheten, får begäran göras på
+elektronisk väg endast om mottagaren har tillgång till sådana
+medel. Lag (2011:283).
 
 11 § Skatteverket får enligt vad som anges i 10 § begära
 originalet eller en kopia av den berörda fakturan eller
@@ -5269,8 +5253,8 @@ Korrigering och återkrav av återbetalt belopp m.m.
 
 15 § Sökanden ska korrigera det belopp som sökts eller som
 redan har återbetalats, om den avdragsgilla andelen av den
-ingående skatten har justerats i enlighet med tillämpningen
-av artikel 175 i rådets direktiv 2006/112/EG i EG-landet där
+ingående skatten har justerats i enlighet med tillämpningen av
+artikel 175 i rådets direktiv 2006/112/EG i EU-landet där
 sökanden är etablerad, efter det att en ansökan om
 återbetalning gavs in.
 
@@ -5280,10 +5264,9 @@ ifrågavarande återbetalningsperioden
 1. i en ansökan om återbetalning, eller
 
 2. genom inlämnande av en särskild anmälan genom den
-elektroniska portal som inrättats av det EG-land där sökanden
+elektroniska portal som inrättats av det EU-land där sökanden
 är etablerad, om sökanden inte ger in någon
-återbetalningsansökan under det kalenderåret.
-Lag (2009:1333).
+återbetalningsansökan under det kalenderåret. Lag (2011:283).
 
 16 § Om ett belopp har korrigerats enligt 15 §, ska
 Skatteverket
@@ -5325,10 +5308,9 @@ Lag (2009:1333).
 Tidpunkterna för utbetalning och när ränta börjar utgå samt
 platsen för utbetalning
 
-19 § Om Skatteverket bifaller en ansökan om återbetalning,
-ska verket betala ut det beviljade beloppet till sökanden
-eller den som sökanden anger senast 10 arbetsdagar från den
-dag som
+19 § Om Skatteverket bifaller en ansökan om återbetalning, ska
+verket betala ut det beviljade beloppet till sökanden eller den
+som sökanden anger senast 10 arbetsdagar från den dag som
 
 1. tidsfristen i 13 § löpte ut, eller
 
@@ -5340,11 +5322,11 @@ Beloppet ska betalas ut i
 
 1. Sverige, eller
 
-2. ett annat EG-land, om sökanden begär det.
+2. ett annat EU-land, om sökanden begär det.
 
-Vid utbetalning i ett annat EG-land, ska Skatteverket dra av
-de bankavgifter som tagits ut för överföringen dit från
-beloppet som ska betalas ut. Lag (2009:1333).
+Vid utbetalning i ett annat EU-land, ska Skatteverket dra av de
+bankavgifter som tagits ut för överföringen dit från beloppet
+som ska betalas ut. Lag (2011:283).
 
 20 § Sökanden ska tillgodoföras ränta på det beviljade
 beloppet, om utbetalningen görs efter den senaste tidpunkt
@@ -5362,21 +5344,20 @@ dag utbetalningen faktiskt görs.
 Räntan ska beräknas efter den räntesats som anges i 19 kap.
 14 § skattebetalningslagen (1997:483). Lag (2009:1333).
 
-Återbetalning till utländska företagare som inte är
-etablerade i något EG-land
+Återbetalning till utländska företagare som inte är etablerade
+i något EU-land
 
 Ansökan
 
-22 § En utländsk företagare som inte är etablerad i något EG-
-land och som vill få återbetalning av ingående skatt enligt
-10 kap. 13 §§ ska ansöka om detta hos Skatteverket.
+22 § En utländsk företagare som inte är etablerad i något EU-
+land och som vill få återbetalning av ingående skatt enligt 10
+kap. 1-3 §§ ska ansöka om detta hos Skatteverket.
 
-
-En utländsk företagare som inte är etablerad i något EG-land
+En utländsk företagare som inte är etablerad i något EU-land
 och som är eller ska vara registrerad enligt 3 kap. 1 § 2, 4
 eller 5 skattebetalningslagen (1997:483) ska dock ansöka om
 sådan återbetalning som avses i första stycket i enlighet med
-vad som föreskrivs i 3436 §§. Lag (2009:1333).
+vad som föreskrivs i 34-36 §§. Lag (2011:283).
 
 23 § En ansökan om återbetalning enligt 22 § ska avse en
 period om minst tre på varandra följande kalendermånader
@@ -5462,46 +5443,45 @@ Vad som föreskrivs i 2326, 28 och 29 §§, utom 25 § andra
 stycket 2, samt i 20 kap. 5 § gäller också för återbetalning
 enligt första stycket. Lag (2009:1333).
 
-Återbetalningsansökningar riktade till andra EG-länder från
+Återbetalningsansökningar riktade till andra EU-länder från
 näringsidkare som är etablerade i Sverige
 
 31 § En näringsidkare som är etablerad i Sverige, men inte i
-det EG-land där återbetalning av mervärdesskatt söks, och som
-vill få återbetalning av sådan skatt i enlighet med det
-landets tillämpning av rådets direktiv 2008/9/EG av den 12
-februari 2008 om fastställande av närmare regler för
-återbetalning enligt direktiv 2006/112/EG av mervärdesskatt
-till beskattningsbara personer som inte är etablerade i den
+det EU-land där återbetalning av mervärdesskatt söks, och som
+vill få återbetalning av sådan skatt i enlighet med det landets
+tillämpning av rådets direktiv 2008/9/EG av den 12 februari
+2008 om fastställande av närmare regler för återbetalning
+enligt direktiv 2006/112/EG av mervärdesskatt till
+beskattningsbara personer som inte är etablerade i den
 återbetalande medlemsstaten men i en annan medlemsstat, ska
 rikta en ansökan om återbetalning till det landet.
 
 Sökanden ska ge in ansökan till Skatteverket genom den
 elektroniska portal som inrättats för detta ändamål.
-Lag (2009:1333).
+Lag (2011:283).
 
-32 § En ansökan enligt 31 § ska ha kommit in till
-Skatteverket senast den 30 september kalenderåret efter
+32 § En ansökan enligt 31 § ska ha kommit in till Skatteverket
+senast den 30 september kalenderåret efter
 återbetalningsperioden.
 
-En ansökan ska anses ha givits in endast om sökanden har
-lämnat samtliga uppgifter som krävs enligt tillämpningen av
-artiklarna 8, 9 och 11 i rådets direktiv 2008/9/EG i det EG-
-land som ansökan riktas till.
+En ansökan ska anses ha givits in endast om sökanden har lämnat
+samtliga uppgifter som krävs enligt tillämpningen av artiklarna
+8, 9 och 11 i rådets direktiv 2008/9/EG i det EU-land som
+ansökan riktas till.
 
 Skatteverket ska utan dröjsmål skicka en elektronisk
 bekräftelse till sökanden om vilket datum ansökan kom in till
-verket. Lag (2009:1333).
+verket. Lag (2011:283).
 
 33 § Skatteverket ska besluta att inte vidarebefordra en
-ansökan till det EG-land som ansökan riktats till, om
-sökanden under återbetalningsperioden i Sverige inte är
-skattskyldig i egenskap av säljare för sådan omsättning som
-anges i 1 kap. 1 § första stycket 1 eller har rätt till
-återbetalning av ingående skatt enligt 10 kap. 9, 11, 11 c,
-11 d, 11 e eller 12 §.
+ansökan till det EU-land som ansökan riktats till, om sökanden
+under återbetalningsperioden i Sverige inte är skattskyldig i
+egenskap av säljare för sådan omsättning som anges i 1 kap. 1 §
+första stycket 1 eller har rätt till återbetalning av ingående
+skatt enligt 10 kap. 9, 11, 11 c, 11 d, 11 e eller 12 §.
 
-Skatteverket ska på elektronisk väg underrätta sökanden om
-ett beslut enligt första stycket. Lag (2009:1333).
+Skatteverket ska på elektronisk väg underrätta sökanden om ett
+beslut enligt första stycket. Lag (2011:283).
 
 Återbetalning i övriga fall
 
@@ -5590,13 +5570,13 @@ enligt 19 kap. 17 och 18 §§. Lag (2009:1333).
 
 3 § Ett beslut i en fråga som avser återbetalning av ingående
 skatt till en utländsk företagare som varken är etablerad i
-något EG-land eller ansöker om återbetalning i den form som
+något EU-land eller ansöker om återbetalning i den form som
 anges i 10 kap. 17 § eller 31 § första stycket
-skattebetalningslagen (1997:483), ska på begäran av den
-sökande omprövas, om beslutet inneburit att hans ansökan inte
-helt har bifallits. Detsamma gäller om den sökande begär
-återbetalning av ytterligare ingående skatt för en period för
-vilken beslut meddelats. Lag (2009:1333).
+skattebetalningslagen (1997:483), ska på begäran av den sökande
+omprövas, om beslutet inneburit att hans ansökan inte helt har
+bifallits. Detsamma gäller om den sökande begär återbetalning
+av ytterligare ingående skatt för en period för vilken beslut
+meddelats. Lag (2011:283).
 
 4 § En fråga som avser återbetalning av ingående skatt får
 inte omprövas enligt 3 § om den har avgjorts av en allmän
