@@ -1,5 +1,3 @@
-
-
 1 § I denna förordning finns kompletterande föreskrifter om
 sådan behandling av personuppgifter som omfattas av lagen
 (2006:469) om behandling av personuppgifter vid Inspektionen
@@ -13,13 +11,12 @@ automatiserad behandling till Arbetsförmedlingen.
 3 § Arbetsförmedlingen får för de ändamål som anges i 5 § lagen
 (2006:469) om behandling av personuppgifter vid Inspektionen
 för arbetslöshetsförsäkringen ha direktåtkomst till följande
-uppgifter ur statistik- och tillsynsdatabasen avseende de
-medlemmar i arbetslöshetskassorna som får
-arbetslöshetsersättning:
+uppgifter ur statistik- och tillsynsdatabasen om en person som
+får arbetslöshetsersättning:
 
-1. personnummer, postnummer och arbetslöshetskassans beteckning
-samt, i förekommande fall, beteckningen på den avdelning hos
-kassan som medlemmen tillhör,
+1. personnummer, postnummer, arbetslöshetskassans beteckning
+och, i förekommande fall, beteckningen på den avdelning hos
+kassan som personen tillhör,
 
 2. år och veckonummer för början på den aktuella
 ersättningsperioden,
@@ -38,29 +35,36 @@ efter utbetalningstillfället,
 8. utbetalat bruttobelopp per vecka som utbetalningen avser,
 
 9. för en person som för första gången kvalificerat sig för
-rätt till ersättning, uppgift om detta skett med stöd av 12 §
-första stycket 1 lagen (1997:238) om arbetslöshetsförsäkring
-eller med stöd av 12 § första stycket 2 samma lag,
+rätt till ersättning, uppgift om huruvida detta skett med stöd
+av 12 § första stycket 1 eller 2 lagen (1997:238) om
+arbetslöshetsförsäkring,
 
-10. om medlemmen utför eller deklarerar deltidsarbete,
+10. om personen utför eller deklarerar deltidsarbete,
 
-11. om 35 § första eller andra stycket lagen (1997:238) om
-arbetslöshetsförsäkring tillämpas,
+11. om 35 eller 35 a § lagen om arbetslöshetsförsäkring
+tillämpas,
 
 12. om dagpenning lämnas i form av grundbelopp eller
-inkomstrelaterad ersättning samt uppgift om ersättningens
+inkomstrelaterad ersättning och uppgift om ersättningens
 storlek,
 
-13. om en medlem, som har mindre än 70 ersättningsdagar kvar av
-ersättningsperioden, av kassan bedöms komma att uppfylla
+13. om en person som har mindre än 70 ersättningsdagar kvar av
+ersättningsperioden av kassan bedöms komma att uppfylla
 villkoren för en ny ersättningsperiod,
 
-14. om en medlem har beslut om bisyssla, det antal timmar per
-vecka bisysslan omfattar samt inkomsten per vecka av bisysslan,
-samt
+14. om personen har beslut om bisyssla, det antal timmar per
+vecka bisysslan omfattar och inkomsten per vecka av bisysslan,
+och
 
-15. om en medlem bedriver studier under den period som
-arbetslöshetsersättning lämnas.
+15. om personen bedriver studier under den period som
+arbetslöshetsersättning lämnas. Förordning (2011:543).
+
+3 a § Personuppgifter som får behandlas enligt 5 § andra
+stycket lagen (2006:469) om behandling av personuppgifter vid
+Inspektionen för arbetslöshetsförsäkringen får lämnas ut på
+medium för automatiserad behandling, om det i det enskilda
+fallet bedöms lämpligt ur integritetssynpunkt.
+Förordning (2011:543).
 
 4 § Inspektionen för arbetslöshetsförsäkringen får meddela de
 närmare föreskrifter som behövs för verkställigheten av lagen
