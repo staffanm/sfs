@@ -28,7 +28,7 @@ Boggitryck              Den sammanlagda statiska vikt som hjulen i en boggi
                         för över till vägbanan.
 
 Bruttovikt på fordon    Den sammanlagda statiska vikt som samtliga hjul, band
-                         eller medar på ett fordon vid ett visst tillfälle för
+                        eller medar på ett fordon vid ett visst tillfälle för
                         över till vägbanan.
 
 Buss                    En bil som är inrättad huvudsakligen för
@@ -105,11 +105,6 @@ Lastbil                 1. En bil som är inrättad huvudsakligen för
 
                         Lastbilar delas in i lätta och tunga lastbilar.
 
-/Upphör att gälla U:2011-07-20/
-Lekfordon               Ett fordon som skall anses som leksak enligt
-                        lagen (1992:1327) om leksakers säkerhet.
-
-/Träder i kraft I:2011-07-20/
 Lekfordon               Ett fordon som ska anses som leksak enligt
                         lagen (2011:579) om leksakers säkerhet.
 
@@ -122,7 +117,7 @@ Lätt motorcykel         1. En motorcykel som drivs av förbränningsmotor med
                         nettoeffekt av högst 11 kilowatt.
 
                         2. En motorcykel med annan motor än förbränningsmotor
-                         som har en nettoeffekt av högst 11 kilowatt.
+                        som har en nettoeffekt av högst 11 kilowatt.
 
 Lätt släpfordon         1. Ett släpfordon med en totalvikt av högst 750
                         kilogram.
@@ -212,7 +207,7 @@ Motorcykel              1. Ett motorfordon på två hjul eller tre symmetriskt
                         dock inte moped.
 
                         Vid beräkningen av en motorcykels massa skall i fråga
-                         om ett eldrivet fordon batterierna inte räknas in.
+                        om ett eldrivet fordon batterierna inte räknas in.
 
                         Motorcyklar delas in i lätta och tunga motorcyklar.
 
