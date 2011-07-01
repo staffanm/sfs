@@ -1,40 +1,33 @@
-
-
-
 Tillämpningsområde
 
-1 § Denna förordning skall tillämpas i de fall en vara inte får
-föras in i eller ut ur landet utan särskilt tillstånd
-(importlicens eller exportlicens) enligt föreskrifter som
+1 § Denna förordning gäller för de fall en vara inte får föras
+in i eller ut ur landet utan särskilt tillstånd (importlicens
+eller exportlicens) enligt föreskrifter som
 
-1. har beslutats av Europeiska gemenskapen (EG) eller
-Europeiska kol- och stålgemenskapen (EKSG),
+1. har meddelats av Europeiska unionen (EU),
 
-2. har beslutats av regeringen, eller
+2. har meddelats av regeringen, eller
 
-3. efter regeringens bemyndigande har beslutats av Statens
-jordbruksverk, Fiskeriverket eller Kommerskollegium
-(licensmyndigheter).
-
+3. efter regeringens bemyndigande har meddelats av Statens
+jordbruksverk eller Kommerskollegium (licensmyndigheter).
 Förordningen gäller dock inte sådana varor som import- eller
 exportregleras enligt de författningar som anges i bilaga 1.
-Förordningen gäller inte heller import- eller exportregleringar
-i de förordningar som avses i lagen (1994:1710) om EG:s
-förordningar om jordbruksprodukter och lagen (1994:1709) om
-EG:s förordningar om den gemensamma fiskeripolitiken.
+Förordningen gäller inte heller import- eller
+exportregleringar i de EU-förordningar som avses i lagen
+(1994:1710) om EG:s förordningar om jordbruksprodukter och
+lagen (1994:1709) om EG:s förordningar om den gemensamma
+fiskeripolitiken. (Förordning 2011:662).
 
 Licensmyndigheter
 
 2 § Statens jordbruksverk är licensmyndighet för de varor i
 Kombinerade nomenklaturen enligt rådets förordning (EEG) nr
 2658/87 av den 23 juli 1987 om tulltaxe- och
-statistiknomenklaturen och om Gemensamma tulltaxan1, som anges
-i bilaga 2.
-
-Fiskeriverket är licensmyndighet för de varor i Kombinerade
-nomenklaturen som anges i bilaga 3.
+statistiknomenklaturen och om Gemensamma tulltaxan som anges i
+bilaga 2.
 
 Kommerskollegium är licensmyndighet för övriga varor.
+(Förordning 2011:662).
 
 3 § Trots vad som föreskrivs i 2 § är, om inte något annat är
 särskilt föreskrivet, Kommerskollegium licensmyndighet för
@@ -77,7 +70,7 @@ exportregleringar. Förordning (1999:543).
 Ansvarsbestämmelser
 
 8 § Bestämmelser om påföljd för olovlig import eller export av
-varor och för försök till det finns i lagen (2000:1278) om
+varor och för försök till det finns i lagen (2000:1225) om
 straff för smuggling. Förordning (2000:1278).
 
 Överklagande
@@ -167,31 +160,38 @@ Kap. 24         Tobak samt varor tillverkade av tobaksersättning
 
 Kap. 31         Gödselmedel
 
-B. Följande varor upptagna i kapitel 5, 12, 15, 16, 22, 25, 28,
-35 och 38 i Kombinerade nomenklaturen, nämligen
+B. Följande varor upptagna i kapitel 3, 5, 12, 15, 16, 22, 25,
+28, 35 och 38 i Kombinerade nomenklaturen, nämligen
 
-HS-             Varuslag
-nr
+HS-nr           Varuslag
 
-0504            Tarmar, blåsor och magar av djur (andra än fiskar),
-                hela eller i bitar, färska, kylda, frysta, saltade, i
-                saltlake, torkade eller rökta
+0301–0307       Fisk samt kräftdjur, blötdjur och andra
+                ryggradslösa vattendjur
+
+0504            Tarmar, blåsor och magar av djur (andra än
+                fiskar), hela eller i bitar, färska, kylda,
+                frysta, saltade, i saltlake, torkade eller
+                rökta
 
 ur 0506         Mjöl av ben eller kvicke
 
-ur 0507         Mjöl av sköldpadd, horn, hovar, klövar, naglar, klor
-                och näbbar
+ur 0507         Mjöl av sköldpadd, horn, hovar, klövar, naglar,
+                klor och näbbar
 
 ur 0508         Skal av blötdjur, obearbetade eller enkelt
-                preparerade men inte tillformade; mjöl och avfall av
-                blötdjursskal
+                preparerade men inte tillformade; mjöl och
+                avfall av blötdjursskal
 
 ur 0511         Animaliska produkter från andra djur än fisk,
-                kräftdjur, blötdjur eller andra ryggradslösa vattendjur
-                med undantag för senor, avklipp och liknande avfall
-                av oberedda hudar och skinn, inte nämnda eller
-                inbegripna någon annanstans; döda djur av sådana slag
-                som omfattas av kap. 1, olämpliga som livsmedel
+                kräftdjur, blötdjur eller andra ryggradslösa
+                vattendjur med undantag för senor, avklipp och
+                liknande avfall av oberedda hudar och skinn,
+                inte nämnda eller inbegripna någon annanstans;
+                döda djur av sådana slag som omfattas av kap.
+                1, olämpliga som livsmedel; produkter av fisk
+                eller av kräftdjur, blötdjur eller ryggradslösa
+                vattendjur; döda djur av sådana slag som
+                omfattas av kap. 3, olämpliga som livsmedel
 
 1201            Sojabönor, även sönderdelade
 
@@ -322,6 +322,12 @@ ur 0511         Animaliska produkter från andra djur än fisk,
 1603            Extrakter och safter av kött, fisk, kräftdjur,
                 blötdjur eller andra ryggradslösa vattendjur
 
+1604            Fisk, beredd eller konserverad; kaviar och
+                kaviarersättning som framställts av fiskrom
+
+1605            Kräftdjur, blötdjur och andra ryggradslösa
+                vattendjur, beredda eller konserverade
+
 2201            Vatten, inbegripet naturligt eller konstgjort
                 mineralvatten samt kolsyrat vatten, utan tillsats av socker
                 eller annat sötningsmedel eller av aromämne; is och snö
@@ -380,25 +386,6 @@ ur 3809         Beredda glätt- och appreturmedel av sådana slag som
 
 ur 3824         Beredda bindemedel för gjutformar eller gjutkärnor
                 på basis av stärkelse eller stärkelseprodukter
+Förordning (2011:662).
 
-Bilaga 3
-
-Varor för vilka Fiskeriverket är licensmyndighet
-
-HS-             Varuslag
-nr
-
-0301-           Fisk samt kräftdjur, blötdjur och andra ryggradslösa
-                vattendjur
-
-0307
-
-ur 0511         Produkter av fisk eller av kräftdjur, blötdjur eller
-                ryggradslösa vattendjur; döda djur av sådana slag som
-                omfattas av kap. 3, olämpliga som livsmedel
-
-1604            Fisk, beredd eller konserverad; kaviar och
-                kaviarersättning som framställts av fiskrom
-
-1605            Kräftdjur, blötdjur och andra ryggradslösa
-                vattendjur, beredda eller konserverade
+Bilaga 3 Har upphävts genom förordning (2011:662).
