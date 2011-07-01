@@ -1,6 +1,5 @@
 
 
-/Träder i kraft I:2012-01-01/
 AVDELNING I. INNEHÅLL, TILLÄMPNING OCH DEFINITIONER
 
 1 kap. Lagens innehåll
@@ -1782,7 +1781,7 @@ c) lagen (1990:659) om särskild löneskatt på vissa
 förvärvsinkomster,
 
 d) lagen (1990:661) om avkastningsskatt på pensionsmedel i
-fall som avses i 2 § första stycket 14 och 68 den lagen,
+fall som avses i 2 § första stycket 14 och 610 den lagen,
 
 e) lagen (1991:687) om särskild löneskatt på
 pensionskostnader,
@@ -1812,6 +1811,7 @@ b) lagen (1991:591) om särskild inkomstskatt för utomlands
 bosatta artister m.fl., och
 
 7. beskattning utomlands.
+Lag (2011:1289).
 
 15 kap. Kontrolluppgift om intäkt i inkomstslaget tjänst
 
@@ -2085,10 +2085,20 @@ som har öppnats före den 1 januari 1985, om räntan understiger
 person, räntan för var och en av dem understiger 100 kronor,
 
 2. om den sammanlagda räntan på konton i annat fall än som
-avses i 1 understiger 100 kronor under året för en person, och
+avses i 1 understiger 100 kronor under året för en person,
 
 3. för skogskonto, skogsskadekonto, upphovsmannakonto och
-pensionssparkonto.
+pensionssparkonto, och
+
+4. för tillgångar på ett investeringssparkonto, om kontot vid
+tidpunkten när avkastningen överfördes eller betalades in till
+kontot innehades av en obegränsat skattskyldig fysisk person
+eller ett obegränsat skattskyldigt dödsbo.
+
+Första stycket 4 gäller inte ränta och annan avkastning på
+tillgångar som avses i 42 kap. 38 § eller ränta som avses i
+42 kap. 42 § andra stycket 3 inkomstskattelagen (1999:1229).
+Lag (2011:1289).
 
 Kontrolluppgiftens innehåll
 
@@ -2178,7 +2188,18 @@ eller betalat ut ränta, utdelning eller annan avkastning.
 Undantag från skyldigheten att lämna kontrolluppgift
 
 4 § Kontrolluppgift ska inte lämnas om ränta, utdelning eller
-annan avkastning på tillgångar på pensionssparkonto.
+annan avkastning på
+
+1. tillgångar på pensionssparkonto, och
+
+2. tillgångar på ett investeringssparkonto, om kontot vid
+tidpunkten när avkastningen överfördes eller betalades in till
+kontot innehades av en obegränsat skattskyldig fysisk person
+eller ett obegränsat skattskyldigt dödsbo.
+
+Första stycket 2 gäller inte ränta, utdelning och annan
+avkastning på tillgångar som avses i 42 kap. 38 §
+inkomstskattelagen (1999:1229). Lag (2011:1289).
 
 Kontrolluppgiftens innehåll
 
@@ -2207,7 +2228,9 @@ För vem och av vem ska kontrolluppgift lämnas?
 2 § Kontrolluppgift ska lämnas för fysiska personer och
 dödsbon.
 
-3 § Kontrolluppgift om avyttring genom inlösen ska lämnas av
+3 § Kontrolluppgift om avyttring genom inlösen eller avyttring
+som avses i 44 kap. 8 a § inkomstskattelagen (1999:1229) ska
+lämnas av
 
 1. sådana fondbolag som avses i 1 kap. 1 § första stycket 7
 lagen (2004:46) om investeringsfonder eller av ett
@@ -2229,7 +2252,7 @@ försäljning och inlösen av andelar, ska kontrolluppgiften i
 stället lämnas av värdepappersinstitutet.
 
 Om en andel är förvaltarregistrerad ska i stället förvaltaren
-lämna kontrolluppgiften.
+lämna kontrolluppgiften. Lag (2011:1289).
 
 4 § Kontrolluppgift om annan avyttring än inlösen av andelar i
 en investeringsfond eller i ett sådant fondföretag som avses i
@@ -2242,8 +2265,14 @@ fall detta medverkar vid avyttringen.
 
 Undantag från skyldigheten att lämna kontrolluppgift
 
-5 § Kontrolluppgift ska inte lämnas om avyttring av tillgångar
-på pensionssparkonto.
+5 § Kontrolluppgift ska inte lämnas om avyttring av
+
+1. tillgångar på pensionssparkonto, och
+
+2. tillgångar på ett investeringssparkonto, om kontot vid
+tidpunkten för avyttringen innehades av en obegränsat
+skattskyldig fysisk person eller ett obegränsat skattskyldigt
+dödsbo. Lag (2011:1289).
 
 Kontrolluppgiftens innehåll
 
@@ -2253,9 +2282,12 @@ Kontrolluppgiftens innehåll
 
 2. slag av fond,
 
-3. fondens identifikationsuppgifter, och
+3. fondens identifikationsuppgifter,
 
-4. om fonden är marknadsnoterad.
+4. om fonden är marknadsnoterad, och
+
+5. om det är fråga om en avyttring som avses i 44 kap. 8 a §
+inkomstskattelagen (1999:1229).
 
 Om den uppgiftsskyldige saknar uppgift om ersättning vid
 avyttring, ska andelens marknadsvärde på avyttringsdagen
@@ -2266,7 +2298,7 @@ då avyttringen registrerades användas.
 Om uppgift saknas om anskaffningsutgift, ska uppgift lämnas om
 ersättningen vid avyttringen efter avdrag för utgifterna för
 avyttringen i stället för kapitalvinsten eller
-kapitalförlusten.
+kapitalförlusten. Lag (2011:1289).
 
 21 kap. Kontrolluppgift om avyttring av fordringsrätter och
 andra delägarrätter än andelar i investeringsfonder och
@@ -2294,9 +2326,7 @@ dödsbon.
 
 1. värdepappersinstitut i de fall de medverkar vid avyttring
 av delägarrätt eller fordringsrätt och kontrolluppgift inte
-ska lämnas av dem som avses i
-
-26,
+ska lämnas av dem som avses i 27,
 
 2. värdepappersinstitut i de fall de registrerar en option
 eller en termin eller på annat sätt medverkar vid utfärdandet
@@ -2309,17 +2339,31 @@ terminsaffären,
 insättningsgaranti eller lagen (1999:158) om investerarskydd,
 
 5. den som har betalat ut ersättning vid avyttring genom
-inlösen, och
+inlösen,
 
 6. försäkringsgivare som har betalat ut ersättning på grund av
 en sådan försäkring som ett värdepappersbolag har tecknat för
 skadeståndsskyldighet som det kan komma att ådra sig när
-tjänster utförs i rörelsen.
+tjänster utförs i rörelsen, och
+
+7. den som för eller har fört ett investeringssparkonto vid
+avyttring som avses i 44 kap. 8 a § inkomstskattelagen
+(1999:1229). Lag (2011:1289).
 
 Undantag från skyldigheten att lämna kontrolluppgift
 
-4 § Kontrolluppgift ska inte lämnas om avyttring av tillgångar
-på pensionssparkonto.
+4 § Kontrolluppgift ska inte lämnas om avyttring av
+
+1. tillgångar på pensionssparkonto, och
+
+2. tillgångar på ett investeringssparkonto, om kontot vid
+tidpunkten för avyttringen innehades av en obegränsat
+skattskyldig fysisk person eller ett obegränsat skattskyldigt
+dödsbo.
+
+Första stycket 2 gäller inte avyttring av tillgångar som avses
+i 42 kap. 38 § inkomstskattelagen (1999:1229).
+Lag (2011:1289).
 
 Kontrolluppgiftens innehåll
 
@@ -2331,16 +2375,19 @@ försäljningsprovision och liknande utgifter,
 2. antalet delägarrätter eller fordringsrätter,
 
 3. delägarrätternas eller fordringsrätternas slag och sort,
-samt
 
 4. den kontanta ersättningen vid sådana byten av andelar som
 avses i 48 a kap. 2 § och 49 kap. 2 § inkomstskattelagen
-(1999:1229).
+(1999:1229), samt
+
+5. om det är fråga om en avyttring som avses i 44 kap. 8 a §
+inkomstskattelagen samt den ersättning som avses i den
+paragrafen.
 
 Om ett terminsavtal slutförs genom att den ena parten säljer
 en tillgång samtidigt som samma part förvärvar en mindre
 tillgång av samma slag, får uppgift lämnas om
-bruttoersättningen vid försäljningen.
+bruttoersättningen vid försäljningen. Lag (2011:1289).
 
 6 § Om en utbetalning avser även annat än ersättning för
 delägarrätter eller fordringsrätter och den uppgiftsskyldige
@@ -2384,10 +2431,19 @@ hyresrätt (4 §),
 
  skattereduktion för förmån av hushållsarbete (13 §),
 
- elcertifikat (14 §), och
+ elcertifikat (14 §),
 
  utsläppsrätter, utsläppsminskningsenheter och certifierade
-utsläppsminskningar (15 §).
+utsläppsminskningar (15 §),
+
+ schablonintäkt vid innehav av ett investeringssparkonto
+(16 §),
+
+ schablonintäkt vid innehav av andelar i investeringsfonder
+och fondföretag (1721 §§), och
+
+ gåva (22 §).
+Lag (2011:1289).
 
 Överlåtelse av privatbostadsrätt och andelar i vissa
 bostadsföretag
@@ -2507,8 +2563,8 @@ Kontrolluppgift ska lämnas för fysiska personer och dödsbon av
 försäkringsgivare och pensionssparinstitut.
 
 I kontrolluppgiften ska uppgift lämnas om betalda premier och
-gjorda inbetalningar som avdrag får göras för enligt 59 kap. 2
-§ inkomstskattelagen (1999:1229).
+gjorda inbetalningar som avdrag får göras för enligt 59 kap.
+2 § inkomstskattelagen (1999:1229).
 
 9 § Kontrolluppgift ska lämnas om
 
@@ -2555,17 +2611,14 @@ Underlag för avkastningsskatt på livförsäkringar
 
 12 § Kontrolluppgift ska lämnas om sådan försäkring eller
 sådant avtal om tjänstepension som avses i 2 § första stycket
-68 lagen (1990:661) om avkastningsskatt på pensionsmedel.
+610 lagen (1990:661) om avkastningsskatt på pensionsmedel.
 
 Kontrolluppgift ska lämnas för juridiska personer och fysiska
 personer av försäkringsgivare och tjänstepensionsinstitut.
 
-I kontrolluppgiften ska uppgift lämnas om värdet av
-försäkringen eller avtalet om tjänstepension vid närmast
-föregående års utgång. Värdet av försäkringen respektive
-värdet av avtalet om tjänstepension ska beräknas enligt
-bestämmelserna i 3 § åttonde respektive tionde stycket lagen
-om avkastningsskatt på pensionsmedel.
+I kontrolluppgiften ska uppgift lämnas om kapitalunderlag för
+försäkringen respektive avtalet om tjänstepension beräknat
+enligt 3 a3 c §§ lagen om avkastningsskatt på pensionsmedel.
 
 Kontrolluppgiften ska också innehålla uppgift om huruvida
 
@@ -2574,6 +2627,7 @@ kapitalförsäkring, eller
 
 2. avtalet om tjänstepension är jämförbart med en
 pensionsförsäkring eller en kapitalförsäkring.
+Lag (2011:1289).
 
 Skattereduktion för förmån av hushållsarbete
 
@@ -2613,6 +2667,74 @@ Statens energimyndighet.
 I kontrolluppgiften ska uppgift lämnas om antalet avyttrade
 utsläppsrätter, utsläppsminskningsenheter och certifierade
 utsläppsminskningar.
+
+Schablonintäkt för investeringssparkonto
+
+16 § Kontrolluppgift ska lämnas om sådan schablonintäkt för
+investeringssparkonto som avses i 42 kap. 36 §
+inkomstskattelagen (1999:1229).
+
+Kontrolluppgift ska lämnas för fysiska personer och dödsbon av
+den som för eller har fört investeringssparkontot.
+
+I kontrolluppgiften ska uppgift lämnas om storleken på
+schablonintäkten.
+
+Schablonintäkt vid innehav av andelar i investeringsfonder och
+fondföretag
+
+17 § Kontrolluppgift ska lämnas om schablonintäkt vid innehav
+av andelar i en investeringsfond eller i ett sådant
+fondföretag som driver verksamhet i Sverige enligt 1 kap. 7
+eller 9 § lagen (2004:46) om investeringsfonder.
+Lag (2011:1289).
+
+18 § Kontrolluppgift ska lämnas för fysiska personer och
+dödsbon. Lag (2011:1289).
+
+19 § Kontrolluppgift ska lämnas av
+
+1. sådana fondbolag som avses i 1 kap. 1 § första stycket 7
+lagen (2004:46) om investeringsfonder eller av ett
+förvaringsinstitut, om förvaltningen av investeringsfonden
+eller fondföretaget har övergått till institutet,
+
+2. värdepappersbolag och kreditinstitut som förvaltar
+specialfonder enligt 1 kap. 5 § lagen om investeringsfonder,
+
+3. förvaltningsbolag som driver verksamhet i Sverige enligt
+1 kap. 6 eller 8 § lagen om investeringsfonder, och
+
+4. fondföretag som driver verksamhet i Sverige enligt 1 kap. 7
+eller 9 § lagen om investeringsfonder.
+
+Om ett förvaltningsbolag eller ett fondföretag har slutit
+avtal med ett värdepappersinstitut om att ombesörja
+försäljning och inlösen av andelar, ska kontrolluppgiften i
+stället lämnas av värdepappersinstitutet.
+
+Om en andel är förvaltarregistrerad ska i stället förvaltaren
+lämna kontrolluppgiften. Lag (2011:1289).
+
+20 § Kontrolluppgift ska inte lämnas om schablonintäkt vid
+innehav av tillgångar på ett pensionssparkonto eller ett
+investeringssparkonto. Lag (2011:1289).
+
+21 § I kontrolluppgiften ska uppgift lämnas om storleken på
+sådan schablonintäkt som avses i 42 kap. 43 §
+inkomstskattelagen (1999:1229). Lag (2011:1289).
+
+Gåva
+
+22 § Kontrolluppgift ska lämnas om sådan gåva som avses i
+67 kap. 20 och 21 §§ inkomstskattelagen (1999:1229), om den
+som har lämnat gåvan är känd.
+
+Kontrolluppgift ska lämnas för den som har gett gåvan av den
+som tagit emot gåvan.
+
+I kontrolluppgiften ska uppgift lämnas om det gåvobelopp som
+har tagits emot under året. Lag (2011:1289).
 
 23 kap. Kontrolluppgift om utländska förhållanden
 
@@ -2662,15 +2784,15 @@ uppgifter lämnas:
 Begränsat skattskyldiga
 
 2 § Kontrolluppgifter enligt 15 kap., 16 kap. 1 § om
-ersättning som avses i 16 kap. 3 § 4 samt 4 § 1 a, 2 a och 3
-a, 17, 19, 20 och 21 kap. samt 22 kap. 2, 3 och 911 §§ ska
-även lämnas för fysiska personer som är begränsat
+ersättning som avses i 16 kap. 3 § 4 samt 4 § 1 a, 2 a och
+3 a, 17, 19, 20 och 21 kap. samt 22 kap. 2, 3, 911 och 17
+21 §§ ska även lämnas för fysiska personer som är begränsat
 skattskyldiga.
 
 Kontrolluppgift enligt 22 kap. 10 § ska också avse
 omständigheter som medför eller kan medföra avskattning enligt
 5 § första stycket 6, 6 a eller 7 lagen (1991:586) om särskild
-inkomstskatt för utomlands bosatta.
+inkomstskatt för utomlands bosatta. Lag (2011:1289).
 
 3 § Kontrolluppgifter enligt 16 kap. 1 § om ersättning som
 avses i 16 kap. 3 § 4 ska även lämnas för juridiska personer
@@ -2719,6 +2841,14 @@ pensionsförsäkringsavtalet.
 
 En kopia av försäkringsavtalet ska lämnas in tillsammans med
 åtagandet.
+
+Förbindelse och åtagande att lämna kontrolluppgift
+
+7 § En utländsk gåvomottagare som gör en sådan ansökan som
+avses i 9 § lagen (2011:1269) om godkännande av gåvomottagare
+vid skattereduktion för gåva, ska samtidigt ge in ett åtagande
+om att lämna kontrolluppgifter enligt 22 kap. 22 §.
+Lag (2011:1289).
 
 24 kap. Övriga bestämmelser om kontrolluppgifter
 
@@ -3400,11 +3530,9 @@ fatta beslut om säkerhet för slutlig skatt.
 
 När ska en skalbolagsdeklaration lämnas?
 
-4 § En skalbolagsdeklaration ska ha kommit in till
-Skatteverket senast 30 dagar efter det att andelen eller
-delägarrätten har avyttrats eller, i fråga om ett svenskt
-handelsbolag eller en i utlandet delägarbeskattad juridisk
-person, avyttringen eller tillträdet.
+4 § En skalbolagsdeklaration ska ha kommit in till Skatteverket
+senast 60 dagar efter det att andelen eller delägarrätten har
+avyttrats eller tillträtts. Lag (2011:1512).
 
 28 kap. Preliminär inkomstdeklaration
 
@@ -3483,7 +3611,7 @@ c) 2 § lagen (1990:659) om särskild löneskatt på vissa
 förvärvsinkomster,
 
 d) lagen (1990:661) om avkastningsskatt på pensionsmedel i de
-fall som avses i 2 § första stycket 14 och 68 den lagen,
+fall som avses i 2 § första stycket 14 och 610 den lagen,
 
 e) lagen (1991:687) om särskild löneskatt på
 pensionskostnader,
@@ -3500,7 +3628,7 @@ h) lagen (2007:1398) om kommunal fastighetsavgift,
 3. bestämmande av skattereduktion, samt
 
 4. beräkning av pensionsgrundande inkomst enligt 59 kap.
-socialförsäkringsbalken.
+socialförsäkringsbalken. Lag (2011:1289).
 
 30 kap. Vem ska lämna en inkomstdeklaration?
 
@@ -3512,16 +3640,18 @@ Fysiska personer
 annat fall än som avses i 2 har uppgått till sammanlagt minst
 42,3 procent av prisbasbeloppet under beskattningsåret,
 
-2. sådan intäkt i inkomstslaget tjänst som avses i 11 kap. 45
-§, 50 kap. 7 § samt 57 kap. 20 och 21 §§ inkomstskattelagen
+2. sådan intäkt i inkomstslaget tjänst som avses i 11 kap.
+45 §, 50 kap. 7 § samt 57 kap. 20 och 21 §§ inkomstskattelagen
 (1999:1229) eller intäkt av passiv näringsverksamhet har
 uppgått till sammanlagt minst 100 kronor under
 beskattningsåret,
 
 3. intäkterna i inkomstslaget kapital, med undantag för sådan
 ränta, utdelning eller annan avkastning som kontrolluppgift
-ska lämnas om enligt 17 eller 19 kap., har uppgått till
-sammanlagt minst 100 kronor under beskattningsåret,
+ska lämnas om enligt 17 eller 19 kap. och för sådan
+schablonintäkt som kontrolluppgift har lämnats om enligt
+22 kap. 16 § eller 1721 §§, har uppgått till sammanlagt minst
+200 kronor under beskattningsåret,
 
 4. han eller hon är begränsat skattskyldig och den
 skattepliktiga intäkten har uppgått till sammanlagt minst
@@ -3532,6 +3662,7 @@ fastighetsavgift, avkastningsskatt på pensionsmedel eller
 särskild löneskatt på pensionskostnader ska fastställas, eller
 
 6. uppgift om skalbolag enligt 31 kap. 14 § ska lämnas.
+Lag (2011:1289).
 
 Dödsbon
 
@@ -3543,14 +3674,17 @@ inkomstdeklaration, om
 
 1. de skattepliktiga intäkterna, med undantag för sådan ränta,
 utdelning eller annan avkastning som kontrolluppgift ska
-lämnas om enligt 17 eller 19 kap., har uppgått till sammanlagt
-minst 100 kronor under beskattningsåret,
+lämnas om enligt 17 eller 19 kap. och för sådan schablonintäkt
+som kontrolluppgift har lämnats om enligt 22 kap. 16 § eller
+1721 §§, har uppgått till sammanlagt minst 100 kronor under
+beskattningsåret,
 
 2. underlag för statlig fastighetsskatt, kommunal
 fastighetsavgift, avkastningsskatt på pensionsmedel eller
 särskild löneskatt på pensionskostnader ska fastställas, eller
 
 3. uppgift om skalbolag enligt 31 kap. 14 § ska lämnas.
+Lag (2011:1289).
 
 Andra juridiska personer än dödsbon
 
@@ -3571,15 +3705,12 @@ enligt 63 kap. 11 § den lagen,
 3. andra juridiska personer än sådana som avses i 1 och 2, med
 undantag för dödsbon och svenska handelsbolag, om de
 skattepliktiga intäkterna under beskattningsåret har uppgått
-till sammanlagt minst 100 kronor,
+till sammanlagt minst 200 kronor, och
 
 4. andra juridiska personer än dödsbon för vilka underlag för
 statlig fastighetsskatt, kommunal fastighetsavgift,
 avkastningsskatt på pensionsmedel eller särskild löneskatt på
-pensionskostnader ska fastställas, och
-
-5. fondbolag, förvaltningsbolag och förvaringsinstitut för
-varje av bolaget eller institutet förvaltad investeringsfond.
+pensionskostnader ska fastställas. Lag (2011:1289).
 
 Skattefri inkomst
 
@@ -3608,11 +3739,10 @@ om och godkänna eller lämna (4 och 5 §§),
  uppgift som ska lämnas om inkomstslaget tjänst (6 §),
 
  uppgifter som ska lämnas om inkomstslaget näringsverksamhet
-
 (715 §§),
 
- uppgifter som ska lämnas om inkomstslaget kapital (1619
-§§),
+ uppgifter som ska lämnas om inkomstslaget kapital (16
+19 §§),
 
  uppgift om tillkommande belopp (20 §),
 
@@ -3620,8 +3750,8 @@ om och godkänna eller lämna (4 och 5 §§),
 
  uppgifter för beräkning av egenavgifter (25 och 26 §§),
 
- uppgifter som fåmansföretag samt företagsledare och delägare
-ska lämna (2729 §§),
+ uppgifter som fåmansföretag samt företagsledare, delägare
+och närstående ska lämna (2729 §§),
 
  uppgift om tillskott och uttag (30 §),
 
@@ -3629,9 +3759,11 @@ ska lämna (2729 §§),
 
  uppgift som ekonomiska föreningar ska lämna (32 §),
 
- uppgifter om skattereduktion för hushållsarbete (33 §), och
+ uppgifter om skattereduktion för hushållsarbete och gåva
+(33 §), och
 
  uppgifter om prissättningsbesked (34 §).
+Lag (2011:1289).
 
 Samtliga inkomstdeklarationer
 
@@ -4058,19 +4190,17 @@ Uppgift som ekonomiska föreningar ska lämna
 är en ekonomisk förening enligt 1 kap. 1 § första eller tredje
 stycket lagen (1987:667) om ekonomiska föreningar.
 
-Skattereduktion för hushållsarbete
+Skattereduktion för hushållsarbete och gåva
 
-33 § Den som begär skattereduktion för hushållsarbete enligt
-67 kap.
-
-1119 §§ inkomstskattelagen (1999:1229) ska lämna uppgift om
-underlaget för skattereduktionen.
+33 § Den som begär skattereduktion för hushållsarbete eller
+gåva enligt 67 kap. 1126 §§ inkomstskattelagen (1999:1229)
+ska lämna uppgift om underlaget för skattereduktionen.
 
 I fråga om förmån av sådant arbete som räknas som
 hushållsarbete enligt 67 kap. 13 a och 13 b §§
 inkomstskattelagen ska även sådana uppgifter som avses i 9 a §
 lagen (2009:194) om förfarandet vid skattereduktion för
-hushållsarbete lämnas.
+hushållsarbete lämnas. Lag (2011:1289).
 
 Prissättningsbesked
 
@@ -4355,6 +4485,15 @@ utlandet som avses i 23 kap. 1 § ska till den
 kontrolluppgiftsskyldige lämna de uppgifter som behövs för att
 kontrolluppgiftsskyldigheten ska kunna fullgöras.
 
+Investeringssparkonto
+
+8 a § Den som för eller har fört ett investeringssparkonto ska
+till den som är skyldig att lämna kontrolluppgift enligt
+20 kap. 3 § med anledning av en avyttring som avses i 44 kap.
+8 a § inkomstskattelagen (1999:1229), lämna de uppgifter som
+behövs för att kontrolluppgiftsskyldigheten ska kunna
+fullgöras. Lag (2011:1289).
+
 Uppgifter om anskaffningsutgift för andelar i
 investeringsfonder
 
@@ -4374,14 +4513,19 @@ fondbolaget eller förvaltningsbolaget uppgifter om den
 genomsnittliga anskaffningsutgiften för de andelar som
 flyttas.
 
+Första och andra styckena gäller inte andelar i en
+investeringsfond efter det att andelarna har förtecknats på
+ett investeringssparkonto. Lag (2011:1289).
+
 När ska uppgifter till den kontrolluppgiftsskyldige lämnas?
 
 10 § Uppgifter som avses i 6 och 7 §§ ska lämnas senast
 månaden efter det att skyldigheten att lämna kontrolluppgift
 uppkom, dock inte senare än den 15 januari påföljande år.
 
-Uppgifter som avses i 8 och 9 §§ ska lämnas snarast och senast
-den 15 januari året efter det år som uppgiften gäller.
+Uppgifter som avses i 89 §§ ska lämnas snarast och senast den
+15 januari året efter det år som uppgiften gäller.
+Lag (2011:1289).
 
 Anmälan om uteblivna informationsuppgifter
 
@@ -4643,15 +4787,20 @@ Fastställda formulär
 
 1. kontrolluppgifter,
 
-2. åtagande enligt 23 kap. 6 § om att lämna kontrolluppgifter
-om pensionsförsäkringar och sådana avtal om tjänstepension som
-är jämförbara med en pensionsförsäkring,
+2. åtagande
+
+a) enligt 23 kap. 6 § om att lämna kontrolluppgifter om
+pensionsförsäkringar och sådana avtal om tjänstepension som är
+jämförbara med en pensionsförsäkring, och
+
+b) enligt 23 kap. 7 § om att lämna kontrolluppgifter om gåvor,
 
 3. deklarationer,
 
 4. särskilda uppgifter, och
 
 5. periodiska sammanställningar.
+Lag (2011:1289).
 
 Uppgifter som ska undertecknas
 
@@ -5609,11 +5758,14 @@ Avgifter som undantas från betalningssäkring
 2. lagen (1999:291) om avgift till registrerat trossamfund.
 
 Betalningssäkring enligt överenskommelse med en annan stat
+m.m.
 
 4 § Om det följer av en överenskommelse mellan Sverige och en
-annan stat, får betalningssäkring även användas för att
-säkerställa betalning av utländsk skatt, avgift, särskild
-avgift eller ränta.
+annan stat eller av lagen (2011:1537) om bistånd med
+indrivning av skatter och avgifter inom Europeiska unionen,
+får betalningssäkring även användas för att säkerställa
+betalning av utländsk skatt, avgift, särskild avgift eller
+ränta. Lag (2011:1545).
 
 Beslut om betalningssäkring
 
@@ -6699,8 +6851,8 @@ Innehåll
 
  hur vissa avgifter ska beräknas (8 §),
 
- beräkning av om skatt ska betalas eller tillgodoräknas (9
-§), och
+ beräkning av om skatt ska betalas eller tillgodoräknas
+(9 §), och
 
  besked om slutlig skatt (10 §).
 
@@ -6721,7 +6873,7 @@ underlaget för att ta ut skatt eller avgift enligt
 2. lagen (1984:1052) om statlig fastighetsskatt,
 
 3. lagen (1990:661) om avkastningsskatt på pensionsmedel i
-fall som avses i 2 § första stycket 14 och 68 den lagen,
+fall som avses i 2 § första stycket 14 och 610 den lagen,
 
 4. lagen (1991:687) om särskild löneskatt på
 pensionskostnader,
@@ -6729,6 +6881,7 @@ pensionskostnader,
 5. lagen (1994:1744) om allmän pensionsavgift, och
 
 6. lagen (2007:1398) om kommunal fastighetsavgift.
+Lag (2011:1289).
 
 Undantag från skattskyldighet vid vistelse utomlands
 
@@ -6948,10 +7101,11 @@ Innehåll
 
 1 § I detta kapitel finns bestämmelser om
 
- ansvar när skatteavdrag inte har gjorts med rätt belopp (26
-§§),
+ ansvar när skatteavdrag inte har gjorts med rätt belopp (2
+6 §§),
 
- ansvar när anmälan om F-skatt inte har gjorts (79 §§),
+ ansvar när anmälan om F-skatt i anställningsförhållande inte
+har gjorts (79 §§),
 
  betalningsmottagarens ansvar för arbetsgivaravgifter (10 §),
 
@@ -6963,12 +7117,10 @@ Innehåll
 
  ansvar för näringsidkare i en mervärdesskattegrupp (23 §),
 
- ansvar för den som har avyttrat ett skalbolag (24 §),
-
- ansvar vid fusion, delning eller annan ombildning av
-investeringsfonder (25 §), och
+ ansvar för den som har avyttrat ett skalbolag (24 §), och
 
  indrivning och preskription (26 och 27 §§).
+Lag (2011:1289).
 
 Ansvar när skatteavdrag inte har gjorts med rätt belopp
 
@@ -7031,8 +7183,8 @@ person som i sin tur betalar ersättning till en delägare.
 
 Regressrätt
 
-9 § En utbetalare som har betalat skatt eller avgift enligt 7
-§ har rätt att kräva mottagaren på beloppet.
+9 § En utbetalare som har betalat skatt eller avgift enligt
+7 § har rätt att kräva mottagaren på beloppet.
 
 Om arbetet har utförts av någon annan än mottagaren och
 skatteavdrag inte gjordes med rätt belopp när ersättningen
@@ -7198,20 +7350,7 @@ anspråk innan Skatteverket beslutar om betalningsskyldighet
 för den som har avyttrat andelen eller den aktiebaserade
 delägarrätten.
 
-Ansvar vid fusion, delning eller annan ombildning av
-investeringsfonder
-
-25 § Om en investeringsfond har fusionerats eller delats
-enligt 8 kap. 1, 24 eller 25 § lagen (2004:46) om
-investeringsfonder, övergår rättigheter och skyldigheter när
-det gäller skatter och avgifter som avser tiden före
-ombildningen till den eller de nybildade fonderna. Vid delning
-fördelas rättigheterna och skyldigheterna mellan de nybildade
-fonderna i förhållande till fondernas värde vid delningen.
-
-Första stycket gäller även vid en gränsöverskridande fusion
-enligt 8 kap. 17 § lagen om investeringsfonder och när en
-specialfond ombildas till en värdepappersfond.
+25 § Har upphävts genom lag (2011:1289).
 
 Indrivning och preskription
 
@@ -8053,18 +8192,18 @@ Innehåll
 
  kostnadsränta vid omprövning och överklagande (811 §§),
 
- kostnadsränta när befrielse från skatt på energi upphör (12
-§),
+ kostnadsränta när befrielse från skatt på energi upphör
+(12 §),
 
  kostnadsränta vid för sen betalning (13 §),
 
- minskning av och befrielse från kostnadsränta (14 och 15
-§§),
+ minskning av och befrielse från kostnadsränta (14 och
+15 §§),
 
  intäktsränta (16 och 17 §§),
 
- en annan startdag för ränteberäkningen på grund av helg (18
-§), och
+ en annan startdag för ränteberäkningen på grund av helg
+(18 §), och
 
  ränteberäkning utanför skattekontot (19 och 20 §§).
 
@@ -8121,8 +8260,8 @@ Innan kostnadsräntan beräknas ska avräkning göras för
 
 1. särskilda avgifter, och
 
-2. skatt enligt 2 § första stycket 6 och 7 lagen (1990:661) om
-avkastningsskatt på pensionsmedel.
+2. skatt enligt 2 § första stycket  69 lagen (1990:661) om
+avkastningsskatt på pensionsmedel. Lag (2011:1289).
 
 Kostnadsränta vid anstånd
 
@@ -8160,8 +8299,9 @@ skatt ska betalas, ska kostnadsränta beräknas från och med den
 13 i andra månaden efter beskattningsåret, om inte annat
 följer av 4 § andra stycket.
 
-För skatt enligt 2 § första stycket 6 och 7 lagen (1990:661)
-om avkastningsskatt på pensionsmedel gäller dock 8 §.
+För skatt enligt 2 § första stycket 69 lagen (1990:661) om
+avkastningsskatt på pensionsmedel gäller dock 8 §.
+Lag (2011:1289).
 
 Överskjutande ingående mervärdesskatt och överskjutande
 punktskatt
@@ -8816,6 +8956,7 @@ följande uppställning:
 
 Beslut som gäller               överklagas till den
                                 förvaltningsrätt
+
 1. ett svenskt handelsbolag     inom vars domkrets bolaget
                                 enligt uppgift i
                                 handelsregistret hade sitt
@@ -9567,9 +9708,14 @@ f) kontrolluppgifter och
 informationsuppgifter           uppgifter som avser kalenderåret
                                 2013
 
-g) åtagande                     pensionsförsäkringsavtal och
+g) åtagande:
+
+ enligt 23 kap. 6 §            pensionsförsäkringsavtal och
                                 avtal om tjänstepension som har
                                 ingåtts efter utgången av 2012
+
+ enligt 23 kap. 7 §            åtaganden som lämnas efter
+                                utgången av 2012
 
 h) särskilda uppgifter:
 
@@ -9591,6 +9737,7 @@ j) ersättning för kostnader
 för ombud, biträde eller
 utredning                       kostnader i ärenden och mål som
                                 inleds efter utgången av 2011.
+Lag (2011:1289).
 
 2. Den som vid utgången av 2011 har ett skattekonto enligt
 skattebetalningslagen (1997:483) ska vid ingången av 2012
@@ -9825,9 +9972,10 @@ kontrolluppgifter ska vid ingången av 2013 även anses ha gett
 in en förbindelse enligt 23 kap. 5 §.
 
 Den som före utgången av 2012 har gett in ett åtagande enligt
-13 kap. 2 § lagen om självdeklarationer och kontrolluppgifter
-ska vid ingången av 2013 även anses ha gett in ett åtagande
-enligt 23 kap. 6 §.
+13 kap. 2 eller 2 a § lagen om självdeklarationer och
+kontrolluppgifter ska vid ingången av 2013 även anses ha gett
+in ett åtagande enligt 23 kap. 6 respektive 7 §.
+Lag (2011:1289).
 
 23. Lagen (2003:643) om allmänt ombud hos Skatteverket ska
 upphöra att gälla vid utgången av 2011. Lagen gäller dock
@@ -9854,3 +10002,9 @@ under 2012. I detta fall ska dock bestämmelserna om när en
 inkomstdeklaration ska lämnas i 32 kap. och betalning av
 slutlig skatt i 62 kap. tillämpas som om räkenskapsåret hade
 avslutats den 30 april 2013.
+
+2011:1512
+
+Denna lag träder i kraft den 2 januari 2012 och tillämpas på
+avyttringar som skett under beskattningsår som börjar efter den
+31 januari 2012.
