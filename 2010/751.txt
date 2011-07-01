@@ -1,6 +1,5 @@
 
 
-/Träder i kraft I:2010-08-01/
 1 kap. Tillämpningsområde och definitioner
 
 Lagens tillämpningsområde
@@ -55,8 +54,8 @@ tillhandahållare av betaltjänster:
 bank- och finansieringsrörelse,
 
 2. institut för elektroniska pengar och de företag som har
-undantagits från tillstånd enligt lagen (2002:149) om
-utgivning av elektroniska pengar,
+undantagits från tillståndsplikt enligt lagen (2011:755) om
+elektroniska pengar,
 
 3. betalningsinstitut och de fysiska eller juridiska personer
 som har undantagits från tillståndsplikt enligt 2 kap. 3 §,
@@ -71,7 +70,7 @@ tillståndsplikt enligt nationella bestämmelser som genomför
 Europaparlamentets och rådets direktiv 2007/64/EG om
 betaltjänster på den inre marknaden och om ändring av
 direktiven 97/7/EG, 2002/65/EG, 2005/60/EG och 2006/48/EG samt
-upphävande av direktiv 97/5/EG ,
+upphävande av direktiv 97/5/EG,
 
 6. Europeiska centralbanken och nationella centralbanker i
 andra EES-länder, när de inte agerar i egenskap av monetär
@@ -81,6 +80,7 @@ eller offentlig myndighet,
 har rätt att tillhandahålla betaltjänster, och
 
 8. filialer till kreditinstitut från länder utanför EES.
+Lag (2011:775).
 
 4 § I denna lag betyder
 
@@ -118,8 +118,8 @@ den avsedda mottagaren av medel vid en betalningstransaktion,
 betalningsmottagare ger sin betaltjänstleverantör om att en
 betalningstransaktion ska genomföras,
 
-9. betalningssystem: ett generellt betalsystem enligt 1 kap. 3
-§ andra stycket lagen (2004:297) om bank- och
+9. betalningssystem: ett generellt betalsystem enligt 1 kap.
+3 § andra stycket lagen (2004:297) om bank- och
 finansieringsrörelse,
 
 10. betalningstransaktion: insättning, uttag eller överföring
@@ -151,8 +151,8 @@ driva sådan verksamhet som avses i denna lag,
 (2004:297) om bank- och finansieringsrörelse,
 
 19. medel: sedlar och mynt, kontotillgodohavanden samt
-elektroniska pengar enligt lagen (2002:149) om utgivning av
-elektroniska pengar,
+elektroniska pengar enligt lagen (2011:755) om elektroniska
+pengar,
 
 20. penningöverföring: en betaltjänst där medel tas emot från
 en betalare, utan att något betalkonto öppnas i betalarens
@@ -192,7 +192,7 @@ betaltjänstanvändare eller dennes betalkonto,
 
 27. valuteringsdag: den referenstidpunkt som används av en
 betaltjänstleverantör för att beräkna räntan på de medel som
-debiterats eller krediterats ett betalkonto.
+debiterats eller krediterats ett betalkonto. Lag (2011:775).
 
 5 § Ett betalningsinstitut och ett annat företag ska anses ha
 nära förbindelser, om
@@ -314,8 +314,8 @@ Undantag från tillståndsplikt
 bank- och finansieringsrörelse,
 
 2. institut för elektroniska pengar och de företag som har
-undantagits från tillstånd enligt lagen (2002:149) om
-utgivning av elektroniska pengar,
+undantagits från tillståndsplikt enligt lagen (2011:755) om
+elektroniska pengar,
 
 3. statliga och kommunala myndigheter, när de inte ägnar sig
 åt myndighetsutövning,
@@ -334,6 +334,7 @@ eller offentlig myndighet,
 har rätt att tillhandahålla betaltjänster, och
 
 7. filialer till kreditinstitut från länder utanför EES.
+Lag (2011:775).
 
 3 § En fysisk eller juridisk person får ansöka hos
 Finansinspektionen om att undantas från tillståndsplikt enligt
@@ -466,8 +467,8 @@ Bemyndiganden
 
 10 § Regeringen eller den myndighet som regeringen bestämmer
 får meddela föreskrifter om vad som utgör tillräckliga styr-
-och kontrollformer för verksamheten med betaltjänster enligt 6
-§ första stycket 2.
+och kontrollformer för verksamheten med betaltjänster enligt
+6 § första stycket 2.
 
 3 kap. Särskilda bestämmelser om betalningsinstituts och
 registrerade betaltjänstleverantörers rörelse
@@ -502,14 +503,20 @@ exponeringar och föreskrifter meddelade med stöd av 13 kap. 1
 
 Ett betalningsinstitut som tillhör samma grupp som ett annat
 betalningsinstitut, eller ett kreditinstitut,
-värdepappersföretag, fondbolag eller försäkringsföretag får
-inte vid beräkning av kapitalbasen ta med sådana poster som
-ingår i beräkningen av något av dessa företags kapitalbas.
+värdepappersföretag, fondbolag, försäkringsföretag eller
+institut för elektroniska pengar får inte vid beräkning av
+kapitalbasen ta med sådana poster som ingår i beräkningen av
+något av dessa företags kapitalbas.
+
+Ett betalningsinstitut som driver annan verksamhet i enlighet
+med 5 § får inte vid beräkningen av kapitalbasen ta med sådana
+poster som ingår i beräkningen av kapitalbasen i sådan annan
+verksamhet.
 
 För ett betalningsinstitut som har bytt redovisningsvaluta
 gäller att kapitalbasen inte får understiga det högsta av de
 belopp som följer av 6 och 7 §§ lagen (2000:35) om byte av
-redovisningsvaluta i finansiella företag.
+redovisningsvaluta i finansiella företag. Lag (2011:775).
 
 3 § Kapitalkravet enligt 2 § beräknas enligt en metod som
 utgår från
@@ -1420,7 +1427,7 @@ Första stycket hindrar dock inte att en betaltjänstleverantör
 kommer överens med en betaltjänstanvändare som inte är
 konsument om avvikelser från bestämmelserna.
 
-5 kap.  Genomförande av betaltjänster
+5 kap. Genomförande av betaltjänster
 
 Avgifter
 
@@ -1443,11 +1450,13 @@ ett visst betalningsinstrument.
 En betalningsmottagare får inte ta ut någon avgift av
 betalaren vid användning av ett betalningsinstrument.
 
-Betalningsinstrument som avser låga belopp
+Elektroniska pengar och betalningsinstrument som avser låga
+belopp
 
-2 § För sådana betalningsinstrument som  avses i 4 kap. 19 §
-första stycket får betaltjänstleverantören och
-betaltjänstanvändaren i ramavtal komma överens om
+2 § För elektroniska pengar och sådana betalningsinstrument
+som avses i 4 kap. 19 § första stycket får
+betaltjänstleverantören och betaltjänstanvändaren i ramavtal
+komma överens om
 
 1. att leverantören inte behöver underrätta användaren att
 betalningsordern har avvisats, om det av sammanhanget klart
@@ -1456,11 +1465,11 @@ framgår att den inte har utförts,
 2. att betalaren inte får återkalla betalningsordern efter att
 ha godkänt att den genomförs,
 
-3. andra tidsgränser för genomförandet än de som anges i 1822
-§§, eller
+3. andra tidsgränser för genomförandet än de som anges i
+1822 §§, eller
 
 4. att det inte ska vara möjligt att spärra
-betalningsinstrumentet.
+betalningsinstrumentet. Lag (2011:775).
 
 Godkännande av en betalningstransaktion
 
@@ -1962,8 +1971,8 @@ polismyndighet eller Åklagarmyndigheten.
 
 Utlämnande av uppgifter enligt andra stycket får ske trots
 3 kap. 12 § denna lag, 1 kap. 10 § lagen (2004:297) om bank-
-och finansieringsrörelse eller 4 kap. 4 § lagen (2002:149) om
-utgivning av elektroniska pengar.
+och finansieringsrörelse eller 3 kap. 12 § lagen (2011:755) om
+elektroniska pengar. Lag (2011:775).
 
 6 § Uppgifter ur ett register som avses i 1 § som har lämnats
 till en polismyndighet eller Åklagarmyndigheten i enlighet med
