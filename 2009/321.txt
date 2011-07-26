@@ -213,14 +213,15 @@ begär det               Namn, adress, den studerandes länskod,
                         läroanstaltens länskod.
 
 Kommun                  Personnummer, samordningsnummer,
-                        särskilt identifikationsnummer som getts
-                        av Centrala studiestödsnämnden,
-                        kommunkod, läroanstaltens kod, studieväg,
-                        klass, studietid, tid för studieavbrott
-                        och närvaro på läroanstalten i fråga om
-                        studerande som har fått studiehjälp och
-                        som ansökt om stöd enligt 5 kap. 33 §
-                        skollagen (1985:1100) samt namn, adress,
+                        särskilt identifikationsnummer som
+                        getts av Centrala studiestödsnämnden,
+                        kommunkod, läroanstaltens kod,
+                        studieväg, klass, studietid, tid för
+                        studieavbrott och närvaro på
+                        läroanstalten i fråga om studerande som
+                        har fått studiehjälp och som ansökt om
+                        stöd enligt 15 kap. 32 § skollagen
+                        (2010:800) samt namn, adress,
                         personnummer och samordningsnummer för
                         betalningsmottagare av studiehjälpen.
 
@@ -255,7 +256,7 @@ Centrala studiestödsnämnden får utan den registrerades
 samtycke också lämna ut personuppgifter elektroniskt på annat
 sätt än genom direktåtkomst i den utsträckning det behövs för
 att någon annan ska kunna lämna ut personuppgifter
-elektroniskt till myndigheten. Förordning (2009:942).
+elektroniskt till myndigheten. Förordning (2011:920).
 
 Gallring
 
