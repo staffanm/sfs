@@ -1,7 +1,7 @@
 
 
-1 § Denna förordning är meddelad med stöd av 8 kap. 13 §
-regeringsformen.
+1 § Denna förordning är meddelad med stöd av 8 kap. 7 §
+regeringsformen. Förordning (2011:700).
 
 Definitioner
 
@@ -21,19 +21,25 @@ Skyldighet att ha ett miljöledningssystem
 
 3 § En myndighet som anges i bilaga 1 ska inom ramen för sitt
 ordinarie uppdrag ha ett miljöledningssystem som integrerar
-miljöhänsyn i myndighetens verksamhet så att man beaktar
-verksamhetens direkta och indirekta miljöpåverkan på ett
+miljöhänsyn i myndighetens verksamhet så att man tar hänsyn
+till verksamhetens direkta och indirekta miljöpåverkan på ett
 systematiskt sätt.
 
-En myndighet vars verksamhet medför en betydande
-miljöpåverkan bör registrera sig enligt Europarlamentets och
-rådets förordning (EG) nr 761/2001 av den 19 mars 2001 (EMAS)
-eller certifiera sig enligt standarden ISO 14001.
+En myndighet vars verksamhet medför en betydande miljöpåverkan
+bör
 
+1. registrera sig enligt Europaparlamentets och rådets
+förordning (EG) nr 1221/2009 av den 25 november 2009 om
+frivilligt deltagande för organisationer i gemenskapens
+miljölednings- och miljörevisionsordning (Emas) och om
+upphävande av förordning (EG) nr 761/2001 och kommissionens
+beslut 2001/681/EG och 2006/193/EG, eller
+
+2. certifiera sig enligt standarden ISO 14001.
 Om det av bilaga 1 framgår att myndigheten får ha ett
 förenklat miljöledningssystem, är det tillräckligt att
 miljöledningssystemet avser verksamhetens direkta
-miljöpåverkan.
+miljöpåverkan. Förordning (2011:700).
 
 Miljöutredning
 
@@ -198,12 +204,12 @@ denna förordning.
 
 Bilaga 1
 
-Denna bilaga innehåller en förteckning över de myndigheter
-som enligt 3 § ska ha ett miljöledningssystem.
+Denna bilaga innehåller en förteckning över de myndigheter som
+enligt 3 § ska ha ett miljöledningssystem.
 
 Beteckningen "(F)" efter myndighetens namn innebär att
-myndigheten får ha ett sådant förenklat miljöledningssystem
-som avses i 3 § tredje stycket.
+myndigheten får ha ett sådant förenklat miljöledningssystem som
+avses i 3 § tredje stycket.
 
 Myndigheter som hör till Arbetsmarknadsdepartementet
 
@@ -213,21 +219,17 @@ Arbetsförmedlingen
 
 Arbetsmiljöverket
 
+Diskrimineringsombudsmannen
+
 Institutet för arbetsmarknadspolitisk utvärdering (F)
 
 Rådet för Europeiska socialfonden i Sverige (F)
 
 Myndigheter som hör till Finansdepartementet
 
-Arbetsgivarverket
-
-E-delegationen
-
 Ekonomistyrningsverket
 
 Finansinspektionen (F)
-
-Fortifikationsverket
 
 Kammarkollegiet
 
@@ -237,21 +239,11 @@ Kronofogdemyndigheten
 
 Lotteriinspektionen (F)
 
-länsstyrelserna
-
 Riksgäldskontoret (F)
 
 Skatteverket
 
-Statens bostadskreditnämnd (F)
-
-Statens fastighetsverk
-
-Statens tjänstepensionsverk
-
 Statistiska centralbyrån
-
-Statskontoret
 
 Tullverket
 
@@ -271,35 +263,9 @@ Totalförsvarets forskningsinstitut
 
 Totalförsvarets rekryteringsmyndighet
 
-Myndigheter som hör till Integrations- och
-jämställdhetsdepartementet
+Myndigheter som hör till Justitiedepartementet
 
 Allmänna reklamationsnämnden (F)
-
-Diskrimineringsombudsmannen
-
-Konsumentverket
-
-Ungdomsstyrelsen
-
-Myndigheter som hör till Jordbruksdepartementet
-
-Fiskeriverket
-
-Livsmedelsverket
-
-Sametinget
-
-Skogsstyrelsen
-
-Statens jordbruksverk
-
-
-Statens veterinärmedicinska anstalt
-
-Sveriges lantbruksuniversitet
-
-Myndigheter som hör till Justitiedepartementet
 
 Brottsförebyggande rådet (F)
 
@@ -312,6 +278,8 @@ Domstolsverket
 Ekobrottsmyndigheten
 
 Justitiekanslern (F)
+
+Konsumentverket
 
 Kriminalvården
 
@@ -372,22 +340,30 @@ Statens musiksamlingar
 
 Talboks- och punktskriftsbiblioteket (F)
 
-Myndigheter som hör till Miljödepartementet
+Myndigheter som hör till Landsbygdsdepartementet
 
-Boverket
+Livsmedelsverket
+
+Sametinget
+
+Skogsstyrelsen
+
+Statens jordbruksverk
+
+Statens veterinärmedicinska anstalt
+
+Sveriges lantbruksuniversitet
+
+Myndigheter som hör till Miljödepartementet
 
 Forskningsrådet för miljö, areella näringar och
 samhällsbyggande
 
+Havs- och vattenmyndigheten
+
 Kemikalieinspektionen
 
-Lantmäteriet
-
 Naturvårdsverket
-
-Statens geotekniska institut
-
-Statens va-nämnd (F)
 
 Strålsäkerhetsmyndigheten
 
@@ -413,8 +389,6 @@ Patent- och registreringsverket
 
 Post- och telestyrelsen
 
-Rymdstyrelsen
-
 Sjöfartsverket
 
 Statens energimyndighet
@@ -425,7 +399,7 @@ Sveriges geologiska undersökning
 
 Tillväxtverket
 
-Transportanalys
+Trafikanalys
 
 Trafikverket
 
@@ -435,15 +409,25 @@ Verket för innovationssystem (Vinnova)
 
 Myndigheter som hör till Socialdepartementet
 
+Arbetsgivarverket
+
 Barnombudsmannen (F)
 
+Boverket
+
 Forskningsrådet för arbetsliv och socialvetenskap (F)
+
+Fortifikationsverket
 
 Försäkringskassan
 
 Hälso- och sjukvårdens ansvarsnämnd (F)
 
+Lantmäteriet
+
 Läkemedelsverket
+
+länsstyrelserna
 
 Myndigheten för handikappolitisk samordning (Handisam) (F)
 
@@ -457,9 +441,21 @@ Socialstyrelsen
 
 Statens beredning för medicinsk utvärdering (F)
 
+Statens bostadskreditnämnd (F)
+
+Statens fastighetsverk
+
 Statens folkhälsoinstitut
 
+Statens geotekniska institut
+
 Statens institutionsstyrelse
+
+Statens tjänstepensionsverk
+
+Statens va-nämnd (F)
+
+Statskontoret
 
 Tandvårds- och läkemedelsförmånsverket
 
@@ -533,6 +529,8 @@ Operahögskolan i Stockholm (F)
 
 Polarforskningssekretariatet
 
+Rymdstyrelsen
+
 Sameskolstyrelsen (F)
 
 Specialpedagogiska skolmyndigheten
@@ -548,6 +546,8 @@ Stockholms dramatiska högskola (F)
 Södertörns högskola
 
 Umeå universitet
+
+Ungdomsstyrelsen
 
 Uppsala universitet
 
@@ -567,8 +567,8 @@ Folke Bernadotteakademien (F)
 
 Inspektionen för strategiska produkter (F)
 
-Institutet för utvärdering av internationellt
-utvecklingsarbete (Sadev) (F)
+Institutet för utvärdering av internationellt utvecklingsarbete
+(Sadev) (F)
 
 Kommerskollegium
 
@@ -581,7 +581,7 @@ Styrelsen för ackreditering och teknisk kontroll
 Styrelsen för internationellt utvecklingssamarbete
 
 Svenska institutet
-Förordning (2010:1928).
+Förordning (2011:639).
 
 
 Bilaga 2
