@@ -216,11 +216,12 @@ Skyldighet att lämna särskild självdeklaration
 
 7 § Särskild självdeklaration ska lämnas av
 
-1. aktiebolag och ekonomiska föreningar samt sådana stiftelser,
-andra liknande subjekt eller andra tillgångsmassor som enligt
-stiftelseförordnande eller motsvarande bestämmelse har till
-huvudsakligt ändamål att tillgodose viss släkts, vissa släkters
-eller bestämda fysiska personers ekonomiska intressen,
+1. aktiebolag och ekonomiska föreningar samt sådana
+stiftelser, andra liknande subjekt eller andra tillgångsmassor
+som enligt stiftelseförordnande eller motsvarande bestämmelse
+har till huvudsakligt ändamål att tillgodose viss släkts,
+vissa släkters eller bestämda fysiska personers ekonomiska
+intressen,
 
 2. sådana ideella föreningar som avses i 7 kap. 7 §
 inkomstskattelagen (1999:1229) och av sådana trossamfund som
@@ -239,13 +240,14 @@ statlig fastighetsskatt, kommunal fastighetsavgift,
 avkastningsskatt på pensionsmedel eller särskild löneskatt på
 pensionskostnader ska fastställas,
 
-5. fondbolag eller förvaringsinstitut för varje av bolaget
-eller institutet förvaltad investeringsfond, samt
+5. fondbolag, förvaltningsbolag eller förvaringsinstitut för
+varje av bolaget eller institutet förvaltad investeringsfond,
+samt
 
-6. ombudet för en sådan generalrepresentation som avses i 1
-kap. 12 § lagen (1998:293) om utländska försäkringsgivares
+6. ombudet för en sådan generalrepresentation som avses i
+1 kap. 12 § lagen (1998:293) om utländska försäkringsgivares
 verksamhet i Sverige för skadeförsäkringsföretag som bedriver
-sin verksamhet genom representationen. Lag (2007:1409).
+sin verksamhet genom representationen. Lag (2011:938).
 
 Skattefri inkomst
 
@@ -1210,7 +1212,7 @@ depån eller kontot.
 10 kap. Kontrolluppgift om avyttring av delägarrätter och
 fordringsrätter
 
-Andelar i en investeringsfond
+Andelar i investeringsfonder och fondföretag
 
 1 § Kontrolluppgift skall lämnas om avyttring av andelar i en
 investeringsfond eller i ett sådant fondföretag som driver
@@ -1222,9 +1224,10 @@ dödsbon.
 
 3 § Kontrolluppgift om avyttring genom inlösen ska lämnas av
 
-1. sådana fondbolag som avses i 1 kap. 1 § första stycket 7
-lagen (2004:46) om investeringsfonder eller, om förvaltningen
-av fonden har övergått till ett förvaringsinstitut, av detta,
+1. sådana fondbolag som avses i 1 kap. 1 § första stycket
+7 lagen (2004:46) om investeringsfonder eller av ett
+förvaringsinstitut, om förvaltningen av investeringsfonden
+eller fondföretaget har övergått till institutet,
 
 2. värdepappersbolag och kreditinstitut som förvaltar
 specialfonder enligt 1 kap. 5 § lagen om investeringsfonder,
@@ -1232,16 +1235,16 @@ specialfonder enligt 1 kap. 5 § lagen om investeringsfonder,
 3. förvaltningsbolag som driver verksamhet här i landet enligt
 1 kap. 6 eller 8 § lagen om investeringsfonder, och
 
-4. fondföretag som driver verksamhet här i landet enligt 1 kap.
-7 eller 9 § lagen om investeringsfonder.
+4. fondföretag som driver verksamhet här i landet enligt
+1 kap. 7 eller 9 § lagen om investeringsfonder.
 
-Om ett fondföretag har slutit avtal med ett
-värdepappersinstitut om att ombesörja försäljning och inlösen
-av andelar ska kontrolluppgiften i stället lämnas av
-värdepappersinstitutet.
+Om ett förvaltningsbolag eller ett fondföretag har slutit
+avtal med ett värdepappersinstitut om att ombesörja
+försäljning och inlösen av andelar, ska kontrolluppgiften i
+stället lämnas av värdepappersinstitutet.
 
 Om en andel är förvaltarregistrerad ska i stället förvaltaren
-lämna kontrolluppgiften. Lag (2008:281).
+lämna kontrolluppgiften. Lag (2011:938).
 
 4 § Kontrolluppgift om annan avyttring än inlösen av andelar i
 en investeringsfond eller ett sådant fondföretag som avses i 1
@@ -1513,28 +1516,7 @@ Livförsäkring
 
 8 § Har upphävts genom lag (2008:1044).
 
-8 a § /Upphör att gälla U:2011-04-01/
-Kontrolluppgift ska lämnas om sådan försäkring eller
-sådant avtal om tjänstepension som avses i 2 § första stycket
-7-9 lagen (1990:661) om avkastningsskatt på pensionsmedel.
-
-Kontrolluppgift ska lämnas för juridiska personer och fysiska
-personer av försäkringsgivare, understödsföreningar och
-tjänstepensionsinstitut.
-
-I kontrolluppgiften ska uppgift lämnas om värdet av
-försäkringen eller avtalet om tjänstepension vid närmast
-föregående års utgång. Värdet av försäkringen respektive värdet
-av avtalet om tjänstepension ska beräknas i enlighet med
-bestämmelserna i 3 § åttonde respektive tionde stycket lagen om
-avkastningsskatt på pensionsmedel. Kontrolluppgiften ska också
-innehålla uppgift om försäkringen är en pensionsförsäkring
-eller en kapitalförsäkring, eller om avtalet om tjänstepension
-är jämförbart med en pensionsförsäkring eller en
-kapitalförsäkring. Lag (2008:1044).
-
-8 a § /Träder i kraft I:2011-04-01/
-Kontrolluppgift ska lämnas om sådan försäkring eller
+8 a § Kontrolluppgift ska lämnas om sådan försäkring eller
 sådant avtal om tjänstepension som avses i 2 § första stycket
 68 lagen (1990:661) om avkastningsskatt på pensionsmedel.
 
@@ -1864,19 +1846,21 @@ detta till Skatteverket. Lag (2003:674).
 Uppgiftsskyldighet vid registrering av andelar i
 investeringsfonder
 
-7 § Fondbolag som skall föra eller låta föra ett register
-enligt 4 kap. 11 § lagen (2004:46) om investeringsfonder skall,
-då en förvaltare skall föras in i registret enligt 4 kap. 12 §
-den lagen, lämna förvaltaren uppgifter om den genomsnittliga
-anskaffningsutgiften för de andelar i en investeringsfond som
-tillhör en andelsägare och som har registrerats på förvaltaren
-i stället för andelsägaren.
+7 § Fondbolag och förvaltningsbolag som ska föra eller låta
+föra ett register över andelsinnehavare i en investeringsfond
+ska, då en förvaltare ska föras in i registret enligt 4 kap.
+12 § lagen (2004:46) om investeringsfonder, lämna förvaltaren
+uppgifter om den genomsnittliga anskaffningsutgiften för de
+andelar i en investeringsfond som tillhör en andelsägare och
+som har registrerats på förvaltaren i stället för
+andelsägaren.
 
-Vid byte av en förvaltare eller om förvaltaren inte längre
-skall vara införd i registret, skall den förvaltare som
-andelarna i investeringsfonden flyttas från lämna den nya
-förvaltaren eller fondbolaget uppgifter om den genomsnittliga
-anskaffningsutgiften för de andelar som flyttas. Lag (2004:72).
+Vid byte av en förvaltare eller om förvaltaren inte längre ska
+vara införd i ett register, ska den förvaltare som andelarna i
+investeringsfonden flyttas från lämna den nya förvaltaren,
+fondbolaget eller förvaltningsbolaget uppgifter om den
+genomsnittliga anskaffningsutgiften för de andelar som
+flyttas. Lag (2011:938).
 
 Anmälningsskyldighet om nedsättning av utländsk skatt
 
@@ -2464,3 +2448,8 @@ fortsätter att driva sin verksamhet enligt lagen (1972:262) om
 understödsföreningar med stöd av 7 § lagen (2010:2044) om
 införande av försäkringsrörelselagen (2010:2043) gäller
 fortfarande 11 kap. 77 b och 8 a §§ i dess äldre lydelser.
+
+2011:938
+
+Denna lag träder i kraft den 1 augusti 2011 och tillämpas
+första gången vid 2012 års taxering.
