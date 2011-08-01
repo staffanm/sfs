@@ -1,5 +1,3 @@
-
-
 ALLMÄNNA BESTÄMMELSER
 
 Lagens tillämpningsområde
@@ -24,7 +22,15 @@ Lagen gäller inte för behandling av personuppgifter som företas
 med stöd av lagen (1998:620) om belastningsregister, lagen
 (1998:621) om misstankeregister, lagen (2000:344) om Schengens
 informationssystem eller lagen (2006:444) om
-passagerarregister. Lag (2006:446).
+passagerarregister.
+
+I lagen (2000:343) om internationellt polisiärt samarbete och i
+föreskrifter som regeringen har meddelat i anslutning till den
+lagen, finns det särskilda bestämmelser om behandling av
+personuppgifter som följer av internationella överenskommelser.
+Om det i dessa författningar finns avvikande bestämmelser, ska
+de tillämpas i stället för bestämmelserna i denna lag.
+Lag (2011:901).
 
 2 § Bestämmelserna i 10-36 §§ gäller endast automatiserad
 behandling av uppgifter.
@@ -34,7 +40,7 @@ Definitioner
 3 § I denna lag avses med
 
 underrättelseverksamhet: polisverksamhet som består i att
-samla, be-arbeta och analysera information för att klarlägga om
+samla, bearbeta och analysera information för att klarlägga om
 brottslig verksamhet har utövats eller kan komma att utövas och
 som inte utgör förundersökning enligt 23 kap. rättegångsbalken,
 
@@ -51,10 +57,15 @@ beslut om förundersökning eller om särskilda åtgärder för att
 förebygga, förhindra eller upptäcka brott,
 
 DNA-analys: varje förfarande som kan användas för analys av
-deoxyribonukleinsyra.
+deoxyribonukleinsyra i humant material,
+
+DNA-profil: resultatet av en DNA-analys som presenteras i form
+av siffror eller bokstäver, och
+
+fingeravtryck: fingeravtryck eller handavtryck.
 
 De begrepp som i övrigt används i denna lag har samma betydelse
-som i personuppgiftslagen (1998:204).
+som i personuppgiftslagen (1998:204). Lag (2011:901).
 
 Personuppgiftsansvarig
 
@@ -255,69 +266,72 @@ Regeringen, eller den myndighet som regeringen bestämmer, får
 meddela föreskrifter om att uppgifter får bevaras för
 historiska, statistiska och vetenskapliga ändamål.
 
-Register med uppgifter om DNA-analyser i brottmål
+Register över DNA-profiler
 
 Ändamål
 
-22 § Uppgifter om resultat av DNA-analyser får behandlas endast
-för att underlätta identifiering av personer i samband med
-utredning av brott. Rikspolisstyrelsen får föra register (DNA-
-register, utredningsregister och spårregister) i enlighet med
-23-27 §§ över de uppgifter som behandlas.
+22 § DNA-profiler får behandlas endast för att underlätta
+identifiering av personer i samband med utredning av brott.
+Rikspolisstyrelsen får föra register över DNA-profiler (DNA-
+registret, utredningsregistret och spårregistret) i enlighet
+med 23–27 §§.
 
-Sådana uppgifter som avses i första stycket får även behandlas
-i förundersökningar och särskilda undersökningar.
-Lag (2005:877).
+DNA-profiler får även behandlas i förundersökningar och
+särskilda undersökningar eller om behandlingen behövs för att
+fullgöra förpliktelser som följer av internationella åtaganden.
+Lag (2011:901).
 
-DNA-register
+DNA-registret
 
-23 § Ett DNA-register får innehålla uppgifter om resultatet av
-DNA-analyser som har gjorts med stöd av bestämmelserna i 28
-kap. rättegångsbalken och som avser personer som
+23 § DNA-registret får innehålla DNA-profiler från prov som har
+tagits med stöd av 28 kap. rättegångsbalken och som avser
+personer som
 
 1. genom lagakraftvunnen dom har dömts till annan påföljd än
 böter, eller
 
 2. har godkänt ett strafföreläggande som avser villkorlig dom.
-Lag (2005:877).
+Lag (2011:901).
 
-24 § Registreringen av ett analysresultat skall begränsas till
-uppgifter som ger information om den registrerades identitet.
-Analysresultat som kan ge upplysning om den registrerades
-personliga egenskaper får inte registreras.
+24 § En DNA-profil som registreras får endast ge information om
+identitet och inte om personliga egenskaper.
 
-Utöver vad som sägs i första stycket får DNA-registret endast
-innehålla upplysningar som visar i vilket ärende analysen har
-gjorts och vem analysen avser.
+Utöver DNA-profiler får DNA-registret innehålla uppgifter om
+vem analysen avser och i vilket ärende profilen har tagits fram
+samt brottskod. Lag (2011:901).
 
-Utredningsregister
+Utredningsregistret
 
-24 a § Ett utredningsregister får innehålla uppgifter om
-resultatet av DNA-analyser som har gjorts med stöd av
-bestämmelserna i 28 kap. rättegångsbalken och som avser
-personer som är skäligen misstänkta för ett brott på vilket
+24 a § Utredningsregistret får innehålla DNA-profiler från prov
+som har tagits med stöd av 28 kap. rättegångsbalken och som
+avser personer som är skäligen misstänkta för brott på vilket
 fängelse kan följa.
 
-Vad som anges i 24 § gäller också vid registrering i
-utredningsregistret. Lag (2006:877).
+Bestämmelserna i 24 § gäller också vid registrering i
+utredningsregistret. Lag (2011:901).
 
-Spårregister
+Spårregistret
 
-25 § Ett spårregister får innehålla uppgifter om DNA-analyser
-som har gjorts under utredning av brott och som inte kan
-hänföras till en identifierbar person. Utöver uppgifter om
-analysresultat får ett spårregister endast innehålla
-upplysningar som visar i vilket ärende analysen har gjorts.
+25 § Spårregistret får innehålla DNA-profiler som har tagits
+fram under utredning av brott och som inte kan hänföras till en
+identifierbar person. Utöver DNA-profiler får spårregistret
+innehålla upplysningar som visar i vilket ärende profilen har
+tagits fram och brottskod. Lag (2011:901).
 
-26 § Uppgifter i spårregister får endast jämföras med
-analysresultat
+26 § DNA-profiler i spårregistret får jämföras med DNA-profiler
 
 1. som inte kan hänföras till en identifierbar person,
 
 2. som finns i DNA-registret, eller
 
 3. som kan hänföras till en person som är skäligen misstänkt
-för brott. Lag (2005:877).
+för brott.
+
+DNA-profiler i spårregistret får också jämföras i andra fall om
+det är nödvändigt för att fullgöra en internationell
+överenskommelse som Sverige efter riksdagens godkännande har
+tillträtt eller om det följer av en EU-rättsakt.
+Lag (2011:901).
 
 Gallring
 
@@ -352,17 +366,10 @@ folkmord,
 5. försök till brott som avses i 1, 3 eller 4.
 Lag (2010:61).
 
-27 a § Ett prov för DNA-analys som har tagits med stöd av
-bestämmelserna i 28 kap. 12-12 b §§ rättegångsbalken skall
+27 a § Ett prov för DNA-analys som har tagits med stöd av 28
+kap. rättegångsbalken, eller på begäran av en annan stat, ska
 förstöras senast sex månader efter det att provet togs.
-
-Om uppgifterna i utredningsregistret skall gallras vid en
-tidigare tidpunkt enligt 27 §, skall även det prov som avser
-den registrerade förstöras senast vid samma tidpunkt.
-
-Om provet har tagits från någon som inte är skäligen misstänkt
-för brott, skall provet förstöras så snart målet eller ärendet
-slutligt har avgjorts. Lag (2005:877).
+Lag (2011:901).
 
 Användningen av prover för DNA-analys
 
@@ -381,7 +388,9 @@ får användas för identifiering av okända personer även i andra
 fall.
 
 Sådana uppgifter som avses i första stycket får även behandlas
-i förundersökningar och särskilda undersökningar.
+i förundersökningar och särskilda undersökningar eller om
+behandlingen behövs för att fullgöra förpliktelser som följer
+av internationella åtaganden. Lag (2011:901).
 
 Innehåll
 
@@ -406,22 +415,39 @@ unga lagöverträdare. Lag (2006:900).
 
 Gallring
 
-31 § Uppgifter i fingeravtrycks eller signalementsregister om
-en misstänkt person skall gallras när förundersökning eller
-åtal mot personen läggs ned eller när åtal ogillas. Uppgifterna
-får dock bevaras längre om andra uppgifter om den registrerade
-skall behandlas med stöd av 10 eller 11 §. När dessa uppgifter
-gallras skall även uppgifter i fingeravtrycks- och
+31 § Uppgifter i fingeravtrycks- eller signalementsregister om
+en misstänkt person ska gallras när förundersökning eller åtal
+mot personen läggs ned eller när åtal ogillas. Uppgifterna får
+dock bevaras längre om andra uppgifter om den registrerade ska
+behandlas med stöd av 10 eller 11 §. När dessa uppgifter
+gallras ska även uppgifter i fingeravtrycks- och
 signalementsregister gallras.
 
-Om den registrerade döms skall uppgifterna i registret gallras
+Om den registrerade döms ska uppgifterna i registret gallras
 senast vid den tidpunkt då uppgifterna gallras ur
 belastningsregistret enligt lagen (1998:620) om
 belastningsregister.
 
+Uppgifter som inte kan hänföras till en identifierbar person
+ska gallras senast trettio år efter registreringen. Sådana
+uppgifter ska dock gallras senast sjuttio år efter
+registreringen om uppgifterna hänför sig till utredningar om
+
+1. mord eller dråp enligt 3 kap. 1 eller 2 § brottsbalken,
+
+2. folkrättsbrott enligt 22 kap. 6 § andra stycket
+brottsbalken,
+
+3. folkmord enligt 1 § lagen (1964:169) om straff för folkmord,
+
+4. terroristbrott enligt 3 § 1 eller 2 jämförd med 2 § lagen
+(2003:148) om straff för terroristbrott, eller
+
+5. försök till brott som avses i 1, 3 eller 4.
+
 Regeringen får meddela föreskrifter om gallring av uppgifter om
 den som har lämnat fingeravtryck enligt lagen (1991:572) om
-särskild utlänningskontroll.
+särskild utlänningskontroll. Lag (2011:901).
 
 SÄPO-registret
 
@@ -503,8 +529,9 @@ Schengens informationssystem. Lag (2000:349).
 2. För de personregister som den 24 oktober 1998 förs med
 Datainspektionens tillstånd gäller bestämmelserna i datalagen
 (1973:289) till och med den 30 juni 2012. För ett sådant
-register ska dock 68 §§ gälla från ikraftträdandet.
-Lag (2009:1303).
+register ska dock 6–8 §§ gälla från ikraftträdandet. För
+fingeravtrycksregister ska dock samtliga bestämmelser i lagen
+gälla från och med den 1 augusti 2011. Lag (2011:901).
 
 2005:877
 
