@@ -25,6 +25,10 @@ gods. Lag (2007:452).
 finns i järnvägstrafiklagen (1985:192) och i lagen (1985:193)
 om internationell järnvägstrafik.
 
+2 a § Om behörighet för förare av järnvägsfordon finns
+bestämmelser i lagen (2011:725) om behörighet för lokförare.
+Lag (2011:726).
+
 Tillsynsmyndighet
 
 3 § Den myndighet som regeringen bestämmer
@@ -35,14 +39,37 @@ meddelade med stöd av lagen.
 Definitioner
 
 4 § I denna lag och i föreskrifter som meddelas med stöd av
-lagen förstås med
+lagen betyder
 
-delsystem: del av järnvägssystem,
+ackrediterat organ: organ för bedömning av överensstämmelse
+som är ackrediterat för uppgiften enligt Europaparlamentets
+och rådets förordning (EG) nr 765/2008 av den 9 juli 2008 om
+krav för ackreditering och marknadskontroll i samband med
+saluföring av produkter och upphävande av förordning (EEG) nr
+339/93,
+
+delsystem: del av järnvägssystem vilken kan hänföras till
+någon av de kategorier av delsystem som förtecknas i bilaga II
+till Europaparlamentets och rådets direktiv 2008/57/EG av den
+17 juni 2008 om driftskompatibiliteten hos järnvägssystemet
+inom gemenskapen,
 
 EES: Europeiska ekonomiska samarbetsområdet,
 
 fordonsinnehavare: den som i egenskap av ägare eller med
-nyttjanderätt varaktigt nyttjar ett järnvägsfordon,
+nyttjanderätt varaktigt använder eller upplåter ett
+järnvägsfordon och är registrerad som fordonsinnehavare i det
+nationella fordonsregistret,
+
+fordonstyp: fordon med identisk teknisk konstruktion som är
+registrerade i det europeiska registret över godkända
+fordonstyper,
+
+försäkran om överensstämmelse: sådan försäkran om att ett
+järnvägsfordon överensstämmer med en redan godkänd fordonstyp
+som är utformad i enlighet med kommissionens förordning (EU)
+nr 201/2011 av den 1 mars 2011 om utformningen av försäkran om
+överensstämmelse med en godkänd typ av järnvägsfordon,
 
 infrastrukturförvaltare: den som förvaltar
 järnvägsinfrastruktur och driver anläggningar som hör till
@@ -54,14 +81,15 @@ minst en nationsgräns och vars främsta syfte är att befordra
 passagerare mellan stationer i skilda stater inom EES samt
 Schweiz,
 
-järnvägsfordon: rullande materiel som kan framföras på
-järnvägsspår,
+järnvägsfordon: drivfordon och annan rullande materiel som kan
+framföras på järnvägsspår och som består av ett eller flera
+delsystem eller delar av delsystem,
 
 järnvägsföretag: den som med stöd av licens eller särskilt
 tillstånd tillhandahåller dragkraft och utför järnvägstrafik,
 
-järnvägsinfrastruktur:  för järnvägstrafik avsedda spår-,
-signal- och säkerhetsanläggningar,
+järnvägsinfrastruktur: spår-, signal- och
+säkerhetsanläggningar avsedda för järnvägstrafik,
 trafikledningsanläggningar, anordningar för elförsörjning av
 trafiken samt övriga fasta anordningar som behövs för
 anläggningarnas bestånd, drift eller brukande,
@@ -72,16 +100,25 @@ samma infrastrukturförvaltare,
 järnvägssystem: järnvägsinfrastruktur och järnvägsfordon samt
 drift och förvaltning av infrastrukturen och fordonen,
 
+regleringsorgan: organ som utsetts enligt artikel 30 i
+Europaparlamentets och rådets direktiv 2001/14/EG av den 26
+februari 2001 om tilldelning av infrastrukturkapacitet och
+uttag av avgifter för utnyttjande av järnvägsinfrastruktur,
+
 trafikhuvudman: den som är trafikhuvudman enligt lagen
 (1997:734) om ansvar för viss kollektiv persontrafik,
 
 tågläge: den infrastrukturkapacitet som, enligt vad som anges
 i en tågplan, får tas i anspråk för att framföra
-järnvägsfordon, utom arbetsfordon, från en plats till en
-annan under en viss tidsperiod,
+järnvägsfordon, utom arbetsfordon, från en plats till en annan
+under en viss tidsperiod,
 
 tågplan: plan över användning av järnvägsinfrastruktur under
-en viss angiven period. Lag (2009:694).
+en viss angiven period,
+
+underhållsansvarig enhet: den enhet som har ansvaret för
+underhållet av ett järnvägsfordon och som är registrerad som
+sådan i fordonsregistret enligt 8 kap. 8 a §. Lag (2011:1118).
 
 Bemyndigande
 
@@ -126,10 +163,11 @@ inte tilldela någon arbetsuppgifter av betydelse för säkerheten
 utan att denne har genomgått läkarundersökning som utvisar att
 det inte finns några hinder av hälsoskäl.
 
-Den som har arbetsuppgifter av betydelse för säkerheten skall
-regelbundet genomgå läkarundersökning. Verksamhetsutövare får
-avstänga den som inte följer ett åläggande att genomgå
-undersökning från sådana arbetsuppgifter.
+Den som har arbetsuppgifter av betydelse för säkerheten ska
+regelbundet och i övrigt vid behov genomgå läkarundersökning.
+Verksamhetsutövare får avstänga den som inte följer ett
+åläggande att genomgå undersökning från sådana arbetsuppgifter.
+Lag (2011:726).
 
 5 § Infrastrukturförvaltares och järnvägsföretags verksamhet
 skall omfattas av ett säkerhetsstyrningssystem.
@@ -191,42 +229,44 @@ tekniska specifikationer för driftskompatibilitet.
 
 Delsystem
 
-9 § Ett delsystem får tas i bruk endast om det uppfyller kraven
-i 8 §.
+9 § Ett delsystem får tas i bruk endast om det uppfyller
+kraven i 8 §.
 
-Kraven skall anses uppfyllda om den som tar ett delsystem i
+Kraven ska anses uppfyllda om den som tar ett delsystem i
 bruk, eller dennes etablerade ombud i EES eller i Schweiz,
 avgett en förklaring om att delsystemet överensstämmer med
 föreskrivna krav (EG-kontrollförklaring). Kontrollen av
-delsystemet och bedömningen av överensstämmelse skall vara
+delsystemet och bedömningen av överensstämmelse ska vara
 utförd av ett organ som anmälts för detta ändamål enligt lagen
-(1992:1119) om teknisk kontroll.
+(2011:791) om ackreditering och teknisk kontroll.
 
 Med kontroll och bedömning enligt andra stycket likställs
 kontroll och bedömning av ett organ som anmälts för samma
 ändamål av en annan stat inom EES eller av Schweiz.
+Lag (2011:799).
 
 Komponenter
 
-10 § En komponent som är nödvändig för driftskompatibilitet får
-släppas ut på marknaden och användas i delsystemen endast om
-den medger att driftskompatibiliteten hos det transeuropeiska
-järnvägssystemet uppnås och den uppfyller kraven i 8 § första
-stycket.
+10 § En komponent som är nödvändig för driftskompatibilitet
+får släppas ut på marknaden och användas i delsystemen endast
+om den medger att driftskompatibiliteten hos det
+transeuropeiska järnvägssystemet uppnås och den uppfyller
+kraven i 8 § första stycket.
 
-Kraven skall anses uppfyllda om tillverkaren, dennes etablerade
+Kraven ska anses uppfyllda om tillverkaren, dennes etablerade
 ombud i EES eller i Schweiz eller den som släpper ut en
 komponent på marknaden, avgett en försäkran om att komponenten
 överensstämmer med tillämpliga tekniska specifikationer och är
-lämplig för avsedd användning (EG-försäkran). Bedömningen av
-överensstämmelse och lämplighet skall i de fall regeringen
+lämplig för avsedd användning (EG-försäkran). Om regeringen
 eller, efter regeringens bemyndigande, tillsynsmyndigheten
-föreskriver vara utförd av ett organ som anmälts för detta
-ändamål enligt lagen (1992:1119) om teknisk kontroll.
+föreskriver detta, ska bedömningen av överensstämmelse och
+lämplighet vara utförd av ett organ som anmälts för detta
+ändamål enligt lagen (2011:791) om ackreditering och teknisk
+kontroll.
 
-Med en bedömning enligt andra stycket likställs en bedömning av
-ett organ som anmälts för samma ändamål av en annan stat inom
-EES eller av Schweiz.
+Med en bedömning enligt andra stycket likställs en bedömning
+av ett organ som anmälts för samma ändamål av en annan stat
+inom EES eller av Schweiz. Lag (2011:799).
 
 Beslut om undantag
 
@@ -243,7 +283,7 @@ driftskompatibilitetssynpunkt.
 får tillsynsmyndigheten besluta enligt 11 § endast i de fall
 som regeringen föreskriver.
 
-Tillsynsmyndighetens godkännande
+Tillsynsmyndighetens godkännande av delsystem
 
 13 § Delsystem får tas i bruk endast efter godkännande av
 tillsynsmyndigheten, såvida inte något annat är särskilt
@@ -257,61 +297,189 @@ museijärnvägsfordon eller järnvägsfordon och
 järnvägsinfrastruktur vid sådana fristående järnvägsnät som
 avses i 1 kap. 1 a § första stycket. Lag (2007:452).
 
-13 a § När ett godkänt delsystem skall moderniseras eller
-byggas om, skall en beskrivning av det planerade arbetet lämnas
-in till tillsynsmyndigheten. Om myndigheten bedömer att den
-övergripande säkerhetsnivån påverkas, får det moderniserade
-eller ombyggda delsystemet tas i bruk endast efter ett nytt
-godkännande av myndigheten. Lag (2007:452).
+13 a § När ett godkänt delsystem ska moderniseras eller byggas
+om, ska en beskrivning av det planerade arbetet lämnas in till
+tillsynsmyndigheten. Om myndigheten bedömer att den
+övergripande säkerhetsnivån påverkas negativt, får det
+moderniserade eller ombyggda delsystemet tas i bruk endast
+efter ett nytt godkännande av myndigheten. Detsamma gäller om
+tillsynsmyndigheten bedömer att arbetet är av sådan omfattning
+att det krävs ett nytt godkännande för att delsystemet ska få
+tas i bruk. Lag (2011:1118).
 
-13 b § Järnvägsfordon skall vara märkta med en
-identifikationskod med en innehavarbeteckning.
-Tillsynsmyndigheten skall tilldela fordonet en sådan kod och en
-sådan beteckning i samband med att det godkänns för
-ibruktagande enligt 13 § och fordonsinnehavaren skall se till
-att fordonet märks med dessa. För fordon som redan är godkända
-för ibruktagande och som inte har tilldelats en
-identifikationskod eller innehavarbeteckning, skall
-fordonsinnehavaren ansöka särskilt om detta hos
-tillsynsmyndigheten. Lag (2007:452).
+13 b § Ny beteckning 22 § genom lag (2011:1118).
+
+Villkor
+
+14 § Ett godkännande enligt 13 § får förenas med de villkor
+som behövs från säkerhets- och driftskompatibilitetssynpunkt.
+
+Om ett godkänt delsystem ändras utan att delsystemet
+moderniseras eller byggs om och ändringen påverkar
+förhållanden som reglerats i villkoren, ska ändringen anmälas
+till tillsynsmyndigheten. Lag (2011:1118).
+
+Tillsynsmyndighetens godkännande av järnvägsfordon
+
+Järnvägsfordon som överensstämmer med tekniska specifikationer
+för driftskompatibilitet
+
+15 § Ett järnvägsfordon som överensstämmer med tillämpliga
+tekniska specifikationer för driftskompatibilitet och vars
+delsystem redan är godkända enligt 13 §, ska godkännas för att
+tas i bruk utan ytterligare prövning. Lag (2011:1118).
+
+16 § Ett järnvägsfordon som överensstämmer med tillämpliga
+tekniska specifikationer för driftskompatibilitet utan att
+omfattas av 15 §, ska godkännas för att tas i bruk enligt 13 §
+om den sökande visar upp
+
+1. EG-kontrollförklaringar enligt 9 § för det eller de
+delsystem fordonet består av,
+
+2. dokumentation som visar att de delsystem fordonet består av
+är tekniskt kompatibla med varandra och med
+järnvägsinfrastrukturen, och
+
+3. dokumentation som visar att fordonet uppfyller nationella
+särkrav om säkerhet och driftskompatibilitet.
+Lag (2011:1118).
+
+Järnvägsfordon som inte överensstämmer med tekniska
+specifikationer för driftskompatibilitet
+
+17 § Ett järnvägsfordon som inte, eller endast till viss del,
+överensstämmer med tekniska specifikationer för
+driftskompatibilitet ska prövas för godkännande enligt 13 §.
+Lag (2011:1118).
+
+Godkännande av järnvägsfordon i en annan stat inom EES eller i
+Schweiz
+
+18 § Ett sådant godkännande att ta ett järnvägsfordon i bruk
+som beslutats av en behörig instans i en annan stat inom EES
+eller i Schweiz gäller i Sverige om inte något annat är
+särskilt föreskrivet.
+
+Regeringen eller den myndighet som regeringen bestämmer får
+meddela föreskrifter om krav för kompletterande godkännande
+enligt första stycket. Lag (2011:1118).
+
+19 § Regeringen meddelar föreskrifter om inom vilken tid
+tillsynsmyndigheten ska fatta beslut i ett ärende som avser
+krav för kompletterande godkännande enligt 18 §.
+
+Om tillsynsmyndigheten inte fattar beslut inom den tid som
+avses i första stycket, ska fordonet anses godkänt för att tas
+i bruk. Lag (2011:1118).
+
+Godkännande av fordonstyper
+
+20 § När tillsynsmyndigheten godkänner ett järnvägsfordon för
+att tas i bruk, ska myndigheten även godkänna fordonstypen. Om
+sökanden begär det får tillsynsmyndigheten godkänna en
+fordonstyp utan att samtidigt godkänna ett visst
+järnvägsfordon.
+
+Ett typgodkännande ska registreras i det europeiska registret
+över godkända fordonstyper.
+
+Om de föreskrifter som legat till grund för ett typgodkännande
+ändras, får tillsynsmyndigheten besluta att typgodkännandet
+ska förnyas för att vara giltigt. Lag (2011:1118).
+
+Godkännande av fordon som överensstämmer med en godkänd
+fordonstyp
+
+21 § Ett järnvägsfordon som överensstämmer med en tidigare
+godkänd fordonstyp, ska godkännas utan ytterligare kontroll om
+sökanden visar upp en försäkran om överensstämmelse.
+
+I bilagan till kommissionens förordning (EU) nr 201/2011 finns
+bestämmelser om försäkran om överensstämmelse.
+Lag (2011:1118).
+
+Märkning av järnvägsfordon
+
+22 § Järnvägsfordon ska vara märkta med ett europeiskt
+fordonsnummer, en innehavarbeteckning och en beteckning om
+driftskompatibilitet.
+
+Tillsynsmyndigheten ska tilldela järnvägsfordonet ett sådant
+nummer och sådana beteckningar i samband med att fordonet
+godkänns för att tas i bruk.
+
+Den som ansöker om godkännande att ta ett fordon i bruk
+ansvarar för att märka fordonet. Lag (2011:1118).
+
+Underhåll av järnvägsfordon
+
+23 § För att ett järnvägsfordon ska få tas i bruk, ska det ha
+utsetts en underhållsansvarig enhet för fordonet.
+
+En underhållsansvarig enhet med ansvar för underhåll av
+godsvagnar ska ha ett tillstånd av tillsynsmyndigheten eller
+ett certifikat utfärdat av ett organ som är ackrediterat för
+uppgiften.
+
+Kraven i första och andra styckena gäller inte för
+museijärnvägsfordon eller för sådana järnvägsfordon som endast
+används på sådana järnvägsnät som avses i 1 kap. 1 a §.
+Lag (2011:1118).
+
+24 § En underhållsansvarig enhet ska ha
+
+1. ett ledningssystem för underhåll som säkerställer att de
+järnvägsfordon enheten ansvarar för är i säkert skick, och
+
+2. tillräcklig kompetens och tillräckliga resurser inom
+organisationen för att klara uppgiften. Lag (2011:1118).
 
 Bemyndigande
 
-14 § Regeringen eller, efter regeringens bemyndigande,
-tillsynsmyndigheten får meddela föreskrifter om
+25 § Regeringen eller den myndighet som regeringen bestämmer
+får meddela föreskrifter om
 
 1. säkerhet enligt 1-5 §§ samt om undantag från dessa
 bestämmelser för verksamhet vid sådana fristående järnvägsnät
 som avses i 1 kap. 1 a § första stycket,
 
 1 a. säkerhetsrapport enligt 5 a § samt om undantag från denna
-bestämmelse för verksamhet vid sådana järnvägsnät som avses i 1
-kap. 1 a §,
+bestämmelse för verksamhet vid sådana järnvägsnät som avses i
+1 kap. 1 a §,
 
-2. att händelser som är av betydelse för spårtrafikens säkerhet
-skall rapporteras också i andra fall än som anges i 6 § första
+2. att händelser som är av betydelse för spårtrafikens
+säkerhet ska rapporteras också i andra fall än som anges i 6 §
+första stycket,
+
+3. krav på säkerhet, tillförlitlighet, tillgänglighet, hälsa,
+miljöskydd och teknisk kompatibilitet enligt 8 § första
 stycket,
 
-3. krav angående säkerhet, tillförlitlighet, tillgänglighet,
-hälsa, miljöskydd och teknisk kompatibilitet enligt 8 § första
-stycket,
-
-4. tekniska specifikationer för driftskompatibilitet enligt 8 §
-andra stycket samt övriga villkor för projektering, byggnation,
-ombyggnation, modernisering, drift, underhåll och brukande av
-järnvägsinfrastruktur och järnvägsfordon,
+4. tekniska specifikationer för driftskompatibilitet enligt
+8 § andra stycket samt övriga villkor för projektering,
+byggnation, ombyggnation, modernisering, drift, underhåll och
+brukande av järnvägsinfrastruktur och järnvägsfordon,
 
 5. EG-kontrollförklaring enligt 9 §,
 
-6. EG-försäkran enligt 10 §, och
+6. EG-försäkran enligt 10 §,
 
 7. godkännande enligt 13 § och om undantag från kravet på
-godkännande, krav på nytt godkännande enligt 13 a § samt om
-undantag från krav på identifikationskoder och
-innehavarbeteckningar enligt 13 b §.
+sådant godkännande samt om krav på nytt godkännande enligt
+13 a §,
+
+8. godkännande av järnvägsfordon och fordonstyper enligt
+15-17, 20 och 21 §§ och om undantag från kravet på godkännande
+samt om godkännande av en serie identiskt lika fordon,
+
+9. undantag från kravet på märkning enligt 22 §, och
+
+10. underhållsansvariga enheter enligt 23 och 24 §§ och om
+undantag från krav på sådan enhet.
 
 Regeringen får meddela föreskrifter om i vilka fall
-tillsynsmyndigheten får besluta enligt 12 §. Lag (2007:452).
+tillsynsmyndigheten får besluta enligt 12 §. Lag (2011:1118).
 
 3 kap. Tillstånd för järnvägsverksamhet
 
@@ -385,14 +553,15 @@ järnvägsinfrastruktur,
 3. trafik i samband med underhåll av järnvägsinfrastruktur,
 eller
 
-4. till sin omfattning obetydlig trafik med museijärnvägsfordon
-eller annan liknande materiel.
+4. trafik med museijärnvägsfordon eller till sin omfattning
+obetydlig trafik med annan liknande materiel.
 
-Särskilt tillstånd skall endast beviljas den som uppfyller de
+Särskilt tillstånd ska endast beviljas den som uppfyller de
 krav som anges i 2 § första stycket och 3 § första stycket.
-Kraven får dock anpassas till verksamhetens art och omfattning.
-I tillståndet skall tillsynsmyndigheten ange hur kraven
-anpassats och för vilken verksamhet tillståndet gäller.
+Kraven får dock anpassas till verksamhetens art och
+omfattning. I tillståndet ska tillsynsmyndigheten ange hur
+kraven anpassats och för vilken verksamhet tillståndet gäller.
+Lag (2011:1118).
 
 Tillstånd för verksamhetsutövare som organiserar järnvägstrafik
 
@@ -452,6 +621,30 @@ tillsynsmyndigheten får meddela föreskrifter om prövningen av
 säkerhetsintyg enligt 3 § och säkerhetstillstånd enligt 7 §
 samt om omprövning av tillstånd eller villkor enligt 9 §.
 Lag (2007:452).
+
+Tillstånd eller certifikat till underhållsansvariga enheter
+
+11 § Tillstånd eller certifikat till en underhållsansvarig
+enhet som avses i 2 kap. 23 § andra stycket får ges endast
+till sådan enhet som uppfyller kraven i kommissionens
+förordning (EU) nr 445/2011 av den 10 maj 2011 om ett
+certifieringssystem för enheter som ansvarar för underhåll av
+godsvagnar och om ändring av förordning (EG) nr 653/2007,
+kraven i denna lag och föreskrifter som har meddelats med stöd
+av lagen. Lag (2011:1118).
+
+12 § Om en underhållsansvarig enhet som har tillstånd eller
+certifikat för uppgiften är ett järnvägsföretag eller en
+infrastrukturförvaltare, ska tillsynsmyndigheten kontrollera
+att de krav som avses i 11 § är uppfyllda och föra in
+uppgifter om det i järnvägsföretagets säkerhetsintyg enligt
+3 § eller infrastrukturförvaltarens säkerhetstillstånd enligt
+7 §. Lag (2011:1118).
+
+13 § Ett tillstånd eller certifikat som avses i 2 kap. 23 §
+andra stycket och som har beviljats av en behörig myndighet
+eller ett ackrediterat organ i en annan stat inom EES eller i
+Schweiz, gäller i Sverige. Lag (2011:1118).
 
 4 kap. Redovisning av järnvägsverksamhet m.m.
 
@@ -972,6 +1165,12 @@ Allmänna bestämmelser
 av lagen och de föreskrifter och villkor som har meddelats med
 stöd av lagen.
 
+1 a § Tillsyn enligt 1, 3 och 4 §§ över sådana
+underhållsansvariga enheter som har certifierats av ett
+ackrediterat organ utövas av det organ som har certifierat
+enheten, när det gäller funktioner som omfattas av
+certifieringen. Lag (2011:1118).
+
 2 § För tillsynen av elektriska anläggningar finns särskilda
 bestämmelser i ellagen (1997:857).
 
@@ -1047,6 +1246,17 @@ tillsynsmyndigheten återkalla tillståndet om det finns grundad
 anledning att anta att en tillfredsställande finansiell
 omstrukturering inte kan åstadkommas inom rimlig tid.
 
+Återkallelse av godkännande
+
+6 a § Tillsynsmyndigheten får återkalla ett godkännande enligt
+2 kap. 13 § om förutsättningarna för godkännandet inte längre
+är uppfyllda eller om delsystemet inte längre uppfyller
+föreskrivna krav i fråga om säkerhet eller
+driftskompatibilitet.
+
+Ett beslut om återkallelse får begränsas att gälla för en viss
+tid. Lag (2011:1118).
+
 Marknadskontroll
 
 7 § Om det kan antas att en komponent som är nödvändig för
@@ -1063,12 +1273,33 @@ kompletterande kontroller av delsystemet, även om delsystemet
 
 Register
 
-8 § Tillsynsmyndigheten skall föra och ge offentlighet åt
-register över järnvägsinfrastruktur och järnvägsfordon.
+8 § Tillsynsmyndigheten ska föra och ge offentlighet åt ett
+register över järnvägsinfrastruktur.
 
-Den som bedriver verksamhet som omfattas av denna lag skall
-till tillsynsmyndigheten lämna de uppgifter som behövs för att
-föra sådana register. Lag (2007:452).
+Den som bedriver verksamhet som omfattas av denna lag ska till
+tillsynsmyndigheten lämna de uppgifter som behövs för att föra
+ett sådant register samt anmäla förändringar i verksamheten
+eller järnvägsinfrastrukturen som kan kräva ändringar i
+registret. Lag (2011:1118).
+
+8 a § Tillsynsmyndigheten ska föra ett register över
+järnvägsfordon.
+
+Den som bedriver verksamhet som omfattas av denna lag ska till
+tillsynsmyndigheten lämna de uppgifter som behövs för att föra
+ett sådant register samt anmäla förändringar i verksamheten
+som kan kräva ändringar i registret.
+
+Tillsynsmyndigheten ska, utan hinder av sekretess, lämna
+uppgifter ur registret på begäran av
+
+1. Statens haverikommission,
+
+2. en järnvägssäkerhetsmyndighet, ett olycksutredande organ
+eller ett regleringsorgan i ett annat land inom EES eller i
+Schweiz, samt
+
+3. Europeiska järnvägsbyrån (ERA). Lag (2011:1118).
 
 Prövning av tvister
 
@@ -1101,13 +1332,16 @@ inom EES samt Schweiz. Lag (2009:694).
 
 Bemyndigande
 
-10 § Regeringen eller, efter regeringens bemyndigande,
-tillsynsmyndigheten får meddela föreskrifter om vilka uppgifter
-som skall lämnas enligt 3 a § och 8 § andra stycket och om
-register enligt 8 § första stycket samt de föreskrifter som
-behövs för prövning av tvister. Regeringen eller den myndighet
-som regeringen bestämmer får meddela föreskrifter om vilka
-uppgifter som skall lämnas enligt 3 b §. Lag (2007:452).
+10 § Regeringen eller den myndighet som regeringen bestämmer
+får meddela föreskrifter om
+
+1. vilka uppgifter som ska lämnas enligt 3 a §, 3 b §, 8 §
+andra stycket och 8 a § andra stycket,
+
+2. register enligt 8 och 8 a §§ samt om undantag från krav på
+registrering, och
+
+3. prövning av tvister enligt 9 §. Lag (2011:1118).
 
 11 § Regeringen eller den myndighet som regeringen bestämmer
 får meddela föreskrifter om avgifter för tillsyn, registrering
@@ -1253,19 +1487,35 @@ som förtär sådana drycker i strid med 9 kap. 2 § finns
 bestämmelser i lagen (1958:205) om förverkande av
 alkoholhaltiga drycker m.m.
 
-11 kap. Överklagande
+11 kap. Omprövning och överklagande
 
-1 § Tillsynsmyndighetens beslut i enskilt fall enligt denna lag
+1 § Tillsynsmyndigheten ska ompröva ett beslut om att inte
+godkänna ett delsystem enligt 2 kap. 13 §, om den sökande
+begär det. Begäran om omprövning ska ha kommit in till
+myndigheten inom en månad från den dag då sökanden fick del av
+beslutet.
+
+Tillsynsmyndigheten ska fatta beslut i omprövningsärendet
+senast två månader efter det att begäran om omprövning kom in
+till myndigheten. Lag (2011:1118).
+
+2 § Tillsynsmyndighetens beslut i enskilt fall enligt denna lag
 eller enligt föreskrifter som meddelats med stöd av lagen får
 överklagas hos allmän förvaltningsdomstol.
 
 Prövningstillstånd krävs vid överklagande till kammarrätten.
+Lag (2011:1118).
 
-2 § Ett beslut enligt denna lag eller enligt föreskrifter som
+3 § Beslut som ett ackrediterat organ fattar med stöd av 8
+kap. 1 a § eller kommissionens förordning nr 445/2011 om ett
+certifieringssystem för enheter som ansvarar för underhåll,
+får överklagas hos tillsynsmyndigheten. Lag (2011:1118).
+
+4 § Ett beslut enligt denna lag eller enligt föreskrifter som
 meddelats med stöd av lagen gäller omedelbart, om inte något
 annat anges i beslutet. Ett beslut om återkallelse av tillstånd
 gäller dock inte förrän det vunnit laga kraft, om inte något
-annat anges i beslutet.
+annat anges i beslutet. Lag (2011:1118).
 
 Övergångsbestämmelser
 
@@ -1369,3 +1619,18 @@ föreskrifter.
 Denna lag träder i kraft den 1 januari 2011. Äldre föreskrifter
 gäller för trafikeringsavtal som avser trafik under
 tågplaneperioden 2011.
+
+2011:1118
+
+1. Denna lag träder i kraft den 1 december 2011.
+
+2. Godkännande av delsystem och järnvägsfordon som har
+meddelats enligt äldre föreskrifter gäller fortfarande.
+
+3. Äldre föreskrifter gäller för prövning av mål eller ärenden
+som har inletts före ikraftträdandet.
+
+4. Regeringen eller den myndighet som regeringen bestämmer får
+meddela föreskrifter om när järnvägsfordon som vid lagens
+ikraftträdande redan är tagna i bruk, senast ska ha tilldelats
+en underhållsansvarig enhet enligt 2 kap. 23 §.
