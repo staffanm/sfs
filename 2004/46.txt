@@ -4,21 +4,21 @@
 
 Definitioner
 
-1 § I denna lag förstås med
+1 § I denna lag betyder
 
-1. behörig myndighet: utländsk myndighet som har behörighet att
-utöva tillsyn över fondföretag eller förvaltningsbolag,
+1. behörig myndighet: utländsk myndighet som har behörighet
+att utöva tillsyn över fondföretag eller förvaltningsbolag,
 
-2. derivatinstrument: optioner, terminer och swappar samt andra
-likartade finansiella instrument,
+2. derivatinstrument: optioner, terminer och swappar samt
+andra likartade finansiella instrument,
 
 3. EES: Europeiska ekonomiska samarbetsområdet,
 
-4. egna medel: detsamma som i artikel 1a.15 i rådets direktiv
-85/611/EEG av den 20 december 1985 om samordning av lagar och
-andra författningar som avser företag för kollektiva
-investeringar i överlåtbara värdepapper (fondföretag), senast
-ändrat genom Europaparlamentets och rådets direktiv 2005/1/EG,
+4. egna medel: detsamma som i artikel 2.1 l i
+Europaparlamentets och rådets direktiv 2009/65/EG av den 13
+juli 2009 om samordning av lagar och andra författningar som
+avser företag för kollektiva investeringar i överlåtbara
+värdepapper (fondföretag),
 
 5. filial: ett avdelningskontor med självständig förvaltning,
 varvid även ett fondbolags, ett förvaltningsbolags eller ett
@@ -35,24 +35,19 @@ enligt 4 § att driva fondverksamhet,
 
 8. fondföretag: ett utländskt företag
 
-a) som i sitt hemland har tillstånd för verksamhet där det enda
-syftet är att göra kollektiva investeringar i sådana tillgångar
-som anges i 5 kap. 1 § andra stycket eller 6 kap. 2 § andra
-stycket, med kapital från allmänheten eller från en särskilt
-angiven och avgränsad krets investerare,
+a) som i sitt hemland har tillstånd för verksamhet där det
+enda syftet är att göra kollektiva investeringar i sådana
+tillgångar som anges i 5 kap. 1 § andra stycket eller 6 kap.
+2 § andra stycket, med kapital från allmänheten eller från en
+särskilt angiven och avgränsad krets investerare,
 
 b) som tillämpar principen om riskspridning, och
 
 c) vars andelar på begäran av innehavarna återköps eller
 inlöses med medel ur företagets tillgångar,
 
-9. fondföretags hemland:
-
-a) om fondföretaget är bildat på kontraktsrättslig grund, det
-land där förvaltningsbolaget har sitt säte,
-
-b) om fondföretaget är bildat på associationsrättslig grund,
-det land där bolaget har sitt säte,
+9. fondföretags hemland: det land där fondföretaget har fått
+sådant tillstånd som avses i 8 a,
 
 10. fondverksamhet: förvaltning av en investeringsfond,
 försäljning och inlösen av andelar i fonden samt därmed
@@ -61,12 +56,12 @@ sammanhängande administrativa åtgärder,
 11. företagsgrupp: grupp för sammanställd redovisning enligt
 rådets sjunde direktiv 83/349/EEG av den 13 juni 1983 grundat
 på artikel 54.3 g i fördraget om sammanställd redovisning,
-senast ändrat genom rådets direktiv 2006/99/EG, eller grupp som
-enligt erkända internationella redovisningsregler ska lämna
-motsvarande redovisning,
+senast ändrat genom Europaparlamentets och rådets direktiv
+2009/49/EG, eller grupp som enligt erkända internationella
+redovisningsregler ska lämna motsvarande redovisning,
 
-12. förvaltningsbolag: ett utländskt företag som i sitt hemland
-har tillstånd att förvalta fondföretag,
+12. förvaltningsbolag: ett utländskt företag som i sitt
+hemland har tillstånd att förvalta fondföretag,
 
 13. förvaltningsbolags hemland: det land där bolaget har sitt
 säte,
@@ -78,32 +73,66 @@ in- och utbetalningar avseende fonden,
 15. investeringsfond: värdepappersfond eller specialfond,
 
 16. kvalificerat innehav: ett direkt eller indirekt ägande i
-ett företag, om innehavet representerar 10 procent eller mer av
-kapitalet eller av samtliga röster eller annars möjliggör ett
-väsentligt inflytande över ledningen av företaget,
+ett företag, om innehavet beräknat på det sätt som anges i
+1 a § representerar 10 procent eller mer av kapitalet eller
+av samtliga röster eller annars möjliggör ett väsentligt
+inflytande över ledningen av företaget,
 
-17. penningmarknadsinstrument: statsskuldväxlar, bankcertifikat
-samt sådana andra finansiella instrument som normalt omsätts på
-penningmarknaden, är likvida och har ett värde som vid varje
-tidpunkt exakt kan fastställas,
+17. matarfond: en värdepappersfond vars medel placeras i
+enlighet med tillstånd enligt 5 a kap. 6 §,
 
-18. specialfond: en fond vars andelar kan lösas in på begäran
-av andelsägare och som består av finansiella tillgångar, om den
-bildats genom kapitaltillskott från allmänheten eller från en
-särskilt angiven och avgränsad krets investerare och ägs av dem
-som skjutit till kapital samt förvaltas enligt bestämmelserna i
-6 kap.,
+18. matarfondföretag: ett fondföretag som i sitt hemland har
+sådant tillstånd som avses i artikel 58 i Europaparlamentets
+och rådets direktiv 2009/65/EG,
 
-19. startkapital: detsamma som i artikel 1a.14 i rådets
-direktiv 85/611/EEG,
+19. mottagarfond: en värdepappersfond som
 
-20. värdepappersfond: en fond vars andelar kan lösas in på
+a) har minst en matarfond eller ett matarfondföretag bland
+sina andelsägare,
+
+b) inte är en matarfond, och
+
+c) vars medel inte placeras i en matarfond eller ett
+matarfondföretag,
+
+20. mottagarfondföretag: ett fondföretag som
+
+a) i sitt hemland har sådant tillstånd som avses i artikel 5 i
+Europaparlamentets och rådets direktiv 2009/65/EG,
+
+b) har minst en matarfond eller ett matarfondföretag bland
+sina andelsägare,
+
+c) inte är ett matarfondföretag, och
+
+d) inte placerar medel i en matarfond eller ett
+matarfondföretag,
+
+21. reglerad marknad: detsamma som i 1 kap. 5 § 20 lagen
+(2007:528) om värdepappersmarknaden,
+
+22. penningmarknadsinstrument: statsskuldväxlar,
+bankcertifikat samt sådana andra finansiella instrument som
+normalt omsätts på penningmarknaden, är likvida och har ett
+värde som vid varje tidpunkt exakt kan fastställas,
+
+23. specialfond: en fond vars andelar kan lösas in på begäran
+av andelsägare och som består av finansiella tillgångar, om
+den bildats genom kapitaltillskott från allmänheten eller från
+en särskilt angiven och avgränsad krets investerare och ägs av
+dem som skjutit till kapital samt förvaltas enligt
+bestämmelserna i 6 kap.,
+
+24. startkapital: detsamma som i artikel 2.1 k i
+Europaparlamentets och rådets direktiv 2009/65/EG,
+
+25. värdepappersfond: en fond vars andelar kan lösas in på
 begäran av andelsägare och som består av finansiella
 tillgångar, om den bildats genom kapitaltillskott från
 allmänheten och ägs av dem som skjutit till kapital samt
-förvaltas enligt bestämmelserna i 5 kap., och
+förvaltas enligt bestämmelserna i 5 kap. eller 5 a kap., och
 
-21. överlåtbart värdepapper:
+26. överlåtbart värdepapper:
 
 a) aktier och andra värdepapper som motsvarar aktier samt
 depåbevis för aktier,
@@ -117,7 +146,63 @@ c) värdepapper av annat slag som ger rätt att förvärva sådana
 eller utbyte.
 
 Överlåtbart värdepapper omfattar inte tekniker och instrument
-som avses i 5 kap. 1 § tredje stycket. Lag (2008:282).
+som avses i 5 kap. 1 § tredje stycket.
+
+Med återköp eller inlösen av andelar enligt första stycket 8,
+23 och 25 jämställs att andelarna är upptagna till handel på
+en reglerad marknad, om det är säkerställt att andelarnas
+noterade värde inte i väsentlig mån avviker från det värde som
+avses i 4 kap. 10 § tredje stycket. Lag (2011:882).
+
+1 a § Vid bedömningen av om ett innehav utgör ett kvalificerat
+innehav enligt 1 § första stycket 16 ska följande bestämmelser
+i 4 kap. lagen (1991:980) om handel med finansiella instrument
+tillämpas:
+
+ 2 § första stycket 1 om depåbevis,
+
+ 4 § första stycket, andra stycket 18 samt tredje och femte
+styckena om beräkning av innehavet,
+
+ 5 § andra stycket om beräkning av antalet aktier eller
+röstetal,
+
+ 12 § 1 och 2 om undantag för aktier som innehas för clearing
+och avveckling eller förvaltas för någon annans räkning,
+
+ 13 § om aktier som ingår i handelslager,
+
+ 14 § om aktier som innehas av marknadsgaranter, samt
+
+ 16 och 17 §§ om undantag för vissa moderföretag.
+
+Vid bedömningen ska också tillämpas föreskrifter
+
+ om aktier som innehas av marknadsgaranter, som har meddelats
+med stöd av 7 kap. 1 § 3 lagen om handel med finansiella
+instrument eller 23 kap. 15 § 1 lagen (2007:528) om
+värdepappersmarknaden, och
+
+ om undantag för vissa moderföretag, som har meddelats med
+stöd av 7 kap. 1 § 4 lagen om handel med finansiella
+instrument.
+
+Aktier som ett värdepappersinstitut som avses i 1 kap. 5 § 27
+lagen om värdepappersmarknaden eller ett kreditinstitut som
+avses i 1 kap. 5 § 17 samma lag och som driver
+finansieringsrörelse, innehar till följd av verksamhet enligt
+2 kap. 1 § 6 samma lag ska dock inte beaktas vid bedömningen,
+under förutsättning att
+
+1. rösträtten inte utnyttjas eller används på annat sätt för
+att ingripa i emittentens förvaltning, samt
+
+2. aktierna avyttras inom ett år från förvärvet.
+
+Tredje stycket ska tillämpas även på aktier som innehas under
+motsvarande förutsättningar av ett utländskt
+värdepappersföretag eller av ett utländskt kreditinstitut som
+driver finansieringsrörelse. Lag (2011:882).
 
 2 § Ett fondbolag och ett annat företag skall anses ha nära
 förbindelser, om
@@ -158,9 +243,7 @@ Allmänna bestämmelser om tillståndsplikt
 4 § Ett svenskt aktiebolag får av Finansinspektionen ges
 tillstånd att driva fondverksamhet. Bolaget kan därutöver ges
 tillstånd för diskretionär portföljförvaltning avseende
-finansiella instrument och att utföra visst arbete eller vissa
-funktioner på uppdrag av ett fondbolag, ett förvaltningsbolag
-eller ett fondföretag. Lag (2007:562).
+finansiella instrument. Lag (2011:882).
 
 5 § Tillstånd för fondverksamhet som avser specialfonder får
 ges av Finansinspektionen även till värdepappersbolag och
@@ -171,142 +254,229 @@ kap. 1 § 4 lagen (2007:528) om värdepappersmarknaden.
 För sådan fondverksamhet som avses i första stycket ska
 följande bestämmelser tillämpas:
 
-- 2 kap. 1 § 2, 5 och 6, 2 § tredje stycket, 7 § första
-stycket, 9 §, 17-20 §§ och 21 § första stycket,
+ 2 kap. 1 § 2, 5 och 6, 2 § tredje stycket, 7 § första
+stycket, 9 §, samt 17 och 17 b21 §§,
 
-- 3 kap.,
+ 3 kap.,
 
-- 4 kap.,
+ 4 kap.,
 
-- 6 kap.,
+ 6 kap.,
 
-- 8 kap.,
+ 8 kap. 24 och 25 §§,
 
-- 9 kap.,
+ 9 kap.,
 
-- 10 kap. 1 § första och andra styckena samt 2 §, och
+ 10 kap. 1 § första och andra styckena samt 2 §, och
 
-- 12 kap. 1-4 samt 7-14 §§.
+ 12 kap. 14 samt 714 §§.
 
 Ett värdepappersbolag eller ett svenskt kreditinstitut får
 inleda sin fondverksamhet så snart tillstånd enligt första
-stycket har getts. Lag (2008:282).
+stycket har getts. Lag (2011:882).
 
 Utländska företags verksamhet i Sverige
 
-6 § Ett förvaltningsbolag som hör hemma inom EES och som i sitt
-hemland har tillstånd att driva verksamhet enligt
-bestämmelserna i rådets direktiv 85/611/EEG, får
+6 § Ett förvaltningsbolag som hör hemma inom EES och som i
+sitt hemland har tillstånd att driva sådan verksamhet som
+avses i Europaparlamentets och rådets direktiv 2009/65/EG, får
 
 1. driva verksamhet från filial i Sverige med början två
 månader efter det att Finansinspektionen från en behörig
-myndighet i förvaltningsbolagets hemland har fått en
-underrättelse med sådant innehåll som anges i 2 kap. 12 § eller
-dessförinnan, om Finansinspektionen tillåter det,
+myndighet i förvaltningsbolagets hemland har tagit emot en
+underrättelse som innehåller
+
+a) en plan för den avsedda verksamheten i Sverige med uppgift
+om filialens organisation och vilka tjänster som ska erbjudas,
+och
+
+b) uppgift om filialens adress och ansvariga ledning, och
 
 2. driva verksamhet genom att från sitt hemland erbjuda och
 tillhandahålla tjänster i Sverige med början så snart
 Finansinspektionen från en behörig myndighet i
-förvaltningsbolagets hemland har fått en sådan underrättelse
-som avses i 2 kap. 15 § andra stycket.
+förvaltningsbolagets hemland har tagit emot en underrättelse
+som innehåller en plan för den avsedda verksamheten med
+uppgift om vilka tjänster som ska erbjudas.
 
-Om det behövs skall Finansinspektionen upplysa
-förvaltningsbolaget om de bestämmelser som gäller för
-verksamheten här i landet. Om bolaget skall driva verksamhet
-från filial skall sådana upplysningar lämnas innan verksamheten
-påbörjas.
+Om de tjänster som ska erbjudas enligt första stycket
+innefattar förvaltning av en värdepappersfond, ska
+verksamhetsplanen också innehålla uppgift om
 
-Ett förvaltningsbolag får driva verksamhet i Sverige bara i den
-utsträckning verksamheten omfattas av förvaltningsbolagets
-verksamhetstillstånd i hemlandet.
+1. förvaltningsbolagets system för riskhantering, och
 
-7 § Ett fondföretag som hör hemma inom EES får marknadsföra och
-sälja andelar i företaget här i landet utan tillstånd enligt
-denna lag om företaget
+2. vilka åtgärder förvaltningsbolaget vidtagit för att
+uppfylla kraven i 6 c §.
 
-1. i sitt hemland har tillstånd att driva verksamhet enligt
-bestämmelserna i rådets direktiv 85/611/EEG, och
+Finansinspektionen får besluta att verksamhet får påbörjas
+tidigare än vad som anges i första stycket 1.
 
-2. vidtar nödvändiga åtgärder för att här i landet kunna
+Ett förvaltningsbolag får driva verksamhet i Sverige bara i
+den utsträckning verksamheten omfattas av förvaltningsbolagets
+verksamhetstillstånd i hemlandet. Lag (2011:882).
 
-- göra utbetalningar till andelsägarna,
+6 a § Om ett förvaltningsbolag avser att ändra något som
+angetts i en underrättelse enligt 6 § efter det att
+verksamheten inletts, ska bolaget skriftligen underrätta
+Finansinspektionen innan ändringen genomförs. Har bolaget
+inrättat en filial enligt 6 § första stycket 1, ska en sådan
+underrättelse lämnas minst en månad innan ändringen genomförs.
+Lag (2011:882).
 
-- lösa in andelar och
+6 b § Ett förvaltningsbolag som får driva verksamhet i Sverige
+enligt 6 § får av Finansinspektionen ges tillstånd att
+förvalta en värdepappersfond. Tillstånd ges i form av
+godkännande av fondbestämmelserna enligt 4 kap. 9 §. Tillstånd
+ska ges om
 
-- lämna den information som företaget enligt reglerna i
+1. förvaltningsbolaget i sitt hemland har tillstånd att
+förvalta fondföretag av motsvarande slag som den
+värdepappersfond som ska förvaltas,
+
+2. förvaltningsbolaget till Finansinspektionen har lämnat det
+avtal med förvaringsinstitutet som avses i 3 kap. 4 § och, i
+förekommande fall, uppgifter om uppdrag som lämnats till någon
+annan att förvalta värdepappersfonden eller sköta därmed
+sammanhängande administration,
+
+3. fondbestämmelserna uppfyller kraven i 4 kap. 8 och 9 §§,
+och
+
+4. det finns skäl att anta att bolaget kommer att driva
+verksamheten enligt denna lag och andra författningar som
+gäller för förvaltning av en värdepappersfond.
+
+Uppgifter enligt första stycket 2 behöver inte lämnas om
+förvaltningsbolaget redan förvaltar en värdepappersfond och
+tidigare lämnat samma uppgifter till Finansinspektionen.
+
+Om ett förvaltningsbolag avser att göra ändringar av betydelse
+beträffande något som avses i första stycket 2 efter det att
+verksamheten inletts, ska bolaget underrätta
+Finansinspektionen om detta. Lag (2011:882).
+
+6 c § Ett förvaltningsbolag som förvaltar en värdepappersfond
+efter tillstånd enligt 6 b § ska vidta nödvändiga åtgärder för
+att här i landet kunna
+
+ göra utbetalningar till andelsägarna,
+
+ lösa in andelar,
+
+ lämna den information som bolaget är skyldigt att
+tillhandahålla, och
+
+ hantera klagomål. Lag (2011:882).
+
+6 d § För den förvaltning av en värdepappersfond som ett
+förvaltningsbolag utför efter att ha fått tillstånd enligt
+6 b § gäller 2 kap. 15 c §, 3 kap., 4 kap. 13 och 823 §§, 5
+kap. 1 och 325 §§, 5 a kap., 8 kap. och 9 kap. Det som anges
+där om fondbolag ska i stället gälla förvaltningsbolaget.
+
+Vid sådan förvaltning som avses i första stycket ska det som
+anges i 9 kap. 1 § första stycket 1 i stället avse fall när
+förvaltningsbolagets tillstånd återkallats av behörig
+myndighet i bolagets hemland eller Finansinspektionen enligt
+12 kap. 15 § tredje stycket beslutat att bolaget inte längre
+får förvalta en värdepappersfond. Lag (2011:882).
+
+7 § Ett fondföretag som hör hemma inom EES och i sitt hemland
+har sådant tillstånd som avses i Europaparlamentets och rådets
+direktiv 2009/65/EG får marknadsföra andelar i företaget här i
+landet utan tillstånd enligt denna lag. Verksamheten får
+inledas den dag behörig myndighet i företagets hemland har
+meddelat företaget att en underrättelse om marknadsföringen
+lämnats över till Finansinspektionen.
+
+Ett fondföretag som driver verksamhet enligt första stycket
+ska vidta nödvändiga åtgärder för att här i landet kunna
+
+ göra utbetalningar till andelsägarna,
+
+ lösa in andelar och
+
+ lämna den information som företaget enligt reglerna i
 hemlandet är skyldigt att tillhandahålla.
 
-Ett företag som vill driva verksamhet med stöd av första
-stycket skall anmäla detta till Finansinspektionen.
-Verksamheten får påbörjas två månader efter det att anmälan har
-gjorts. Om förutsättningarna enligt första stycket inte är
-uppfyllda, får dock inspektionen dessförinnan förbjuda att
-verksamheten påbörjas. Inspektionen skall i sådant fall
-underrätta behörig myndighet i företagets hemland om sitt
-beslut.
-
-Om det behövs skall Finansinspektionen, när anmälan enligt
-andra stycket har tagits emot, upplysa fondföretaget om de
-bestämmelser som gäller för verksamheten här i landet.
+Om fondföretaget avser att ändra något som angetts i
+underrättelsen om marknadsföring efter det att verksamheten
+inletts, ska företaget skriftligen underrätta
+Finansinspektionen innan ändringen genomförs. Fondföretaget
+ska även underrätta Finansinspektionen om ändringar i
+handlingar som lämnats tillsammans med underrättelsen.
+Lag (2011:882).
 
 8 § Ett förvaltningsbolag som inte hör hemma inom EES eller
-som, om det hör hemma inom EES, inte omfattas av rådets
-direktiv 85/611/EEG får efter tillstånd av Finansinspektionen
-driva fondverksamhet från filial i Sverige.
+som, om det hör hemma inom EES, inte omfattas av
+Europaparlamentets och rådets direktiv 2009/65/EG får efter
+tillstånd av Finansinspektionen driva verksamhet från filial i
+Sverige.
 
 Tillstånd får ges bara om
 
-1. bolaget i sitt hemland driver likartad verksamhet,
+1. bolaget i sitt hemland driver motsvarande verksamhet,
 
-2. bolaget i sitt hemland står under betryggande tillsyn av en
-myndighet eller annat behörigt organ och den myndigheten eller
-det organet har medgett att bolaget etablerar sig i Sverige,
-samt
+2. bolaget står under betryggande tillsyn av en behörig
+myndighet i hemlandet och den myndigheten har tillåtit att
+bolaget etablerar sig i Sverige, och
 
-3. det finns skäl att anta att den planerade verksamheten här i
-landet kommer att drivas på ett sätt som är förenligt med 2
-kap. 1 § 2-6 samt 2 och 4 §§.
+3. det finns skäl att anta att den planerade verksamheten
+kommer att drivas på ett sätt som är förenligt med 2 kap. 1 §
+24 och 6 samt 2 och 4 §§.
 
-Ett förvaltningsbolag får även ges tillstånd att utföra visst
-arbete eller vissa funktioner på uppdrag av ett fondbolag, ett
-annat förvaltningsbolag eller ett fondföretag.
+En ansökan om tillstånd ska innehålla en plan för den avsedda
+verksamheten. Lag (2011:882).
 
 9 § Ett fondföretag som inte hör hemma inom EES eller som, om
-det hör hemma inom EES, inte omfattas av rådets direktiv
-85/611/EEG får efter tillstånd av Finansinspektionen
-marknadsföra och sälja andelar i företaget här i landet, från
-filial eller utan att inrätta filial.
+det hör hemma inom EES, inte omfattas av Europaparlamentets
+och rådets direktiv 2009/65/EG får efter tillstånd av
+Finansinspektionen marknadsföra andelar i företaget här i
+landet, från filial eller utan att inrätta filial.
 
 Tillstånd får ges bara om
 
-1. företaget i sitt hemland driver likartad verksamhet,
+1. företaget i sitt hemland driver motsvarande verksamhet,
 
-2. företaget i sitt hemland står under betryggande tillsyn av
-en myndighet eller annat behörigt organ och den myndigheten
-eller det organet har medgett att företaget etablerar sig i
-Sverige,
+2. företaget står under betryggande tillsyn av en behörig
+myndighet i hemlandet och den myndigheten har tillåtit att
+företaget etablerar sig i Sverige,
 
 3. företaget vidtar nödvändiga åtgärder för att här i landet
 kunna
 
-- göra utbetalningar till andelsägarna,
+ göra utbetalningar till andelsägarna,
 
-- lösa in andelar och
+ lösa in andelar och
 
-- lämna den information som företaget enligt reglerna i
-hemlandet är skyldigt att tillhandahålla, samt
+ lämna den information som företaget är skyldigt att
+tillhandahålla, och
 
-4. det finns skäl att anta att den planerade verksamheten här i
-landet kommer att drivas på ett sätt som är förenligt med
-bestämmelserna i denna lag och andra författningar som reglerar
-företagets verksamhet.
+4. det finns skäl att anta att den planerade verksamheten här
+i landet kommer att drivas på ett sätt som är förenligt med
+bestämmelserna i denna lag och andra författningar som
+reglerar företagets verksamhet. Lag (2011:882).
 
 10 § För förvaltningsbolags och fondföretags verksamhet i
-Sverige tillämpas 2 kap. 17 §, 19 § första stycket, 20 § och
-21 § första stycket på motsvarande sätt.
+Sverige tillämpas 2 kap. 19 § första stycket och 2021 §§ på
+motsvarande sätt.
+
+Utöver det som anges i första stycket tillämpas på motsvarande
+sätt
+
+ 2 kap. 17 b § för förvaltningsbolags verksamhet i Sverige
+enligt 6 § första stycket 1 eller 8 §,
+
+ 4 kap. 20 § för fondföretags verksamhet i Sverige enligt
+7 §, och
+
+ 2 kap. 17 b § första stycket samt det som anges om faktablad
+i 4 kap. 16 a, 20 och 21 §§ för fondföretags verksamhet i
+Sverige enligt 9 §.
 
 För filialer till förvaltningsbolag och fondföretag gäller i
 övrigt lagen (1992:160) om utländska filialer m.m.
+Lag (2011:882).
 
 11 § Ett fondföretag får här i landet använda samma beteckning
 för sin verksamhet som företaget använder i sitt hemland.
@@ -327,32 +497,46 @@ fondverksamhet får ges bara om
 kommer att drivas enligt bestämmelserna i denna lag och andra
 författningar som reglerar bolagets verksamhet,
 
-3. det finns skäl att anta att den som har eller kan förväntas
-komma att få ett kvalificerat innehav i bolaget
+3. den som har eller kan förväntas komma att få ett
+kvalificerat innehav i bolaget bedöms lämplig att utöva ett
+väsentligt inflytande över ledningen av ett fondbolag,
 
-a) inte kommer att motverka att verksamheten drivs på ett sätt
-som är förenligt med denna lag och andra författningar som
-reglerar bolagets verksamhet, och
-
-b) även i övrigt är lämplig att utöva ett väsentligt inflytande
-över ledningen av ett fondbolag,
-
-4. den som skall ingå i bolagets styrelse eller vara
-verkställande direktör, eller vara ersättare för någon av dem,
-har tillräcklig insikt och erfarenhet för att delta i ledningen
-av ett fondbolag och även i övrigt är lämplig för en sådan
-uppgift,
+4. den som ska ingå i styrelsen för bolaget eller vara
+verkställande direktör i det, eller vara ersättare för någon
+av dem, har tillräcklig insikt och erfarenhet för att delta i
+ledningen av ett fondbolag och även i övrigt är lämplig för en
+sådan uppgift,
 
 5. fondbestämmelserna godkänts för den eller de
 investeringsfonder som bolaget avser att förvalta, och
 
-6. bolaget uppfyller de villkor som i övrigt anges i denna lag.
+6. bolaget uppfyller de villkor som i övrigt anges i denna
+lag. Lag (2011:882).
 
-2 § Tillstånd enligt 1 § får inte ges om någon som i väsentlig
-utsträckning har åsidosatt sina skyldigheter i
-näringsverksamhet eller andra ekonomiska angelägenheter eller
-gjort sig skyldig till allvarlig brottslighet har eller kan
-förväntas komma att få ett kvalificerat innehav i bolaget.
+2 § Vid bedömningen enligt 1 § 3 av om en innehavare är
+lämplig ska dennes anseende och kapitalstyrka beaktas. Det ska
+också beaktas om det finns skäl att anta att
+
+1. innehavaren kommer att motverka att fondbolagets verksamhet
+drivs på ett sätt som är förenligt med kraven i denna lag och
+andra författningar som reglerar bolagets verksamhet, eller
+
+2. innehavet har samband med eller kan öka risken för
+
+a) penningtvätt enligt 1 kap. 5 § 6 lagen (2009:62) om
+åtgärder mot penningtvätt och finansiering av terrorism, eller
+
+b) brott enligt 2 § 2, 3 § eller 4 § lagen (2002:444) om
+straff för finansiering av särskilt allvarlig brottslighet i
+vissa fall, såvitt avser brott enligt 2 § lagen (2003:148) om
+straff för terroristbrott.
+
+Om den som kommer att ha ett kvalificerat innehav i bolaget är
+ett blandat finansiellt holdingföretag ska det vid bedömningen
+av innehavarens anseende särskilt beaktas om dess ledning
+uppfyller de krav som ställs på ledningen i ett sådant företag
+enligt 5 kap. 16 § lagen (2006:531) om särskild tillsyn över
+finansiella konglomerat.
 
 Om bolaget har eller kan förväntas komma att få nära
 förbindelser med någon annan, får tillstånd ges bara om
@@ -361,10 +545,10 @@ förbindelserna inte hindrar en effektiv tillsyn av bolaget.
 Om förvaringsinstitutet är en i Sverige etablerad filial till
 ett kreditinstitut med säte i ett annat land inom EES, får
 Finansinspektionen som ett villkor för tillståndet föreskriva
-att de tillgångar som ingår i en investeringsfond skall
-förvaras här i landet. Detta gäller dock inte om tillgångarna
-skall förvaras hos ett utländskt förvaringsinstitut enligt 3
-kap. 2 § tredje stycket.
+att de tillgångar som ingår i en investeringsfond ska förvaras
+här i landet. Detta gäller dock inte om tillgångarna ska
+förvaras hos ett utländskt förvaringsinstitut enligt 3 kap.
+2 § tredje stycket. Lag (2011:882).
 
 3 § För fondbolag gäller det som är föreskrivet om aktiebolag
 i allmänhet om inte annat följer av denna lag.
@@ -529,84 +713,215 @@ besluta om ändring av kapitalkravet enligt första stycket.
 
 Filialverksamhet inom EES
 
-12 § Vill ett fondbolag som förvaltar värdepappersfonder
-inrätta en filial inom EES, skall bolaget underrätta
-Finansinspektionen innan verksamheten påbörjas. Underrättelsen
-skall innehålla
+12 § Avser ett fondbolag som förvaltar värdepappersfonder att
+inrätta en filial i ett annat land inom EES, ska bolaget
+underrätta Finansinspektionen innan verksamheten påbörjas.
+Underrättelsen ska innehålla
 
-1. information om bolagets plan för filialverksamheten, med
-uppgift om filialens organisation och vilka tjänster som skall
-erbjudas, och
+1. en plan för den avsedda verksamheten med uppgift om
+filialens organisation och vilka tjänster som ska erbjudas,
+och
 
-2. uppgift om i vilket land filialen skall inrättas samt om
+2. uppgift om i vilket land filialen ska inrättas samt om
 filialens adress och ansvariga ledning.
+
+Om de tjänster som ska erbjudas innefattar förvaltning av ett
+fondföretag som avses i Europaparlamentets och rådets direktiv
+2009/65/EG i det land där filialen ska inrättas, ska planen
+också innehålla uppgift om
+
+1. fondbolagets system för riskhantering, och
+
+2. åtgärder som fondbolaget vidtagit för att i fondföretagets
+hemland kunna
+
+ göra utbetalningar till andelsägarna,
+
+ lösa in andelar,
+
+ lämna den information som bolaget är skyldigt att
+tillhandahålla, samt
+
+ hantera klagomål. Lag (2011:882).
 
 13 § Finner Finansinspektionen i fall som avses i 12 § att det
 inte finns skäl att ifrågasätta fondbolagets administrativa
-struktur eller finansiella situa-tion, skall inspektionen inom
-tre månader från det att underrättelsen togs emot lämna över
-den till behörig myndighet i det land där filialen skall
-inrättas. Inspektionen skall samtidigt lämna uppgift om det
-investerarskydd som gäller för fondbolagets kunder.
+struktur eller finansiella situation, ska inspektionen inom
+två månader från det att underrättelsen togs emot lämna över
+den till behörig myndighet i det land där filialen ska
+inrättas. Tillsammans med underrättelsen ska inspektionen
+lämna uppgift om det investerarskydd som gäller för
+fondbolagets kunder.
 
-Finansinspektionen skall underrätta fondbolaget när
-inspektionen lämnar över underrättelsen.
+Om underrättelsen avser sådana tjänster som anges i 12 § andra
+stycket, ska Finansinspektionen även lämna över ett intyg om
+att fondbolaget har tillstånd att driva sådan verksamhet som
+avses i Europaparlamentets och rådets direktiv 2009/65/EG. I
+intyget ska omfattningen av fondbolagets tillstånd beskrivas
+och uppgift lämnas om huruvida det finns några begränsningar
+för vilka slag av värdepappersfonder som bolaget får förvalta.
 
-Om Finansinspektionen finner att det inte finns förutsättningar
-för att lämna över den underrättelse som avses i första
-stycket, skall inspektionen meddela beslut om det inom två
-månader från det att underrättelsen togs emot.
+Finansinspektionen ska underrätta fondbolaget när inspektionen
+lämnar över underrättelsen.
 
-14 § Om ett fondbolag som avses i 12 § skall ändra något av de
-förhållanden som angetts i fondbolagets underrättelse till
-Finansinspektionen efter det att filialen inrättats, skall
-fondbolaget skriftligen underrätta inspektionen minst en månad
-innan ändringen genomförs.
+Om Finansinspektionen finner att det inte finns
+förutsättningar för att lämna över den underrättelse som avses
+i första stycket, ska inspektionen meddela beslut om det inom
+två månader från det att underrättelsen togs emot.
+Lag (2011:882).
 
-Om Finansinspektionen finner att ändringen inte får göras,
-skall inspektionen meddela beslut om det inom en månad från det
-att underrättelsen kom in till inspektionen. Behörig myndighet
-i det andra landet skall genast underrättas om beslutet.
+14 § Om ett fondbolag som avses i 12 § ska ändra något som
+angetts i fondbolagets underrättelse till Finansinspektionen
+efter det att filialen inrättats, ska fondbolaget skriftligen
+underrätta inspektionen minst en månad innan ändringen
+genomförs.
+
+Om Finansinspektionen finner att ändringen inte får göras, ska
+inspektionen meddela beslut om det inom en månad från det att
+underrättelsen kom in till inspektionen. Behörig myndighet i
+det andra landet ska omedelbart underrättas om beslutet.
 
 Vid ändring av investerarskydd som avses i 13 § första stycket
-skall Finansinspektionen underrätta behörig myndighet i det
-land där filialen finns om ändringen.
+ska Finansinspektionen underrätta behörig myndighet i det land
+där filialen finns om ändringen. Detsamma gäller vid ändring
+av de uppgifter som lämnats i det intyg som avses i 13 § andra
+stycket. Lag (2011:882).
 
 Gränsöverskridande verksamhet inom EES
 
-15 § Vill ett fondbolag som förvaltar värdepappersfonder
-erbjuda och tillhandahålla tjänster inom EES utan att inrätta
-filial där, skall bolaget underrätta Finansinspektionen innan
-verksamheten påbörjas. Detsamma gäller om bolaget avser att
-ändra en sådan verksamhet.
+15 § Avser ett fondbolag som förvaltar värdepappersfonder att
+erbjuda och tillhandahålla tjänster i ett annat land inom EES
+utan att inrätta filial där, ska bolaget underrätta
+Finansinspektionen innan verksamheten påbörjas. Underrättelsen
+ska innehålla
 
-Underrättelsen skall innehålla uppgift om i vilket land
-verksamheten skall drivas och information om bolagets plan för
-verksamheten med uppgift om vilka tjänster som skall erbjudas.
-Finansinspektionen skall inom en månad från det att
-underrättelsen togs emot lämna över den och verksamhetsplanen
-till behörig myndighet i det land där verksamheten skall
-drivas. Inspektionen skall samtidigt lämna uppgift om det
-investerarskydd som gäller för fondbolagets kunder.
+1. en plan för den avsedda verksamheten med uppgift om vilka
+tjänster som ska erbjudas, och
+
+2. uppgift om i vilket land verksamheten ska drivas.
+
+Om de tjänster som ska erbjudas innefattar förvaltning av ett
+fondföretag som avses i Europaparlamentets och rådets direktiv
+2009/65/EG i det land där verksamheten ska drivas, ska planen
+också innehålla uppgift om
+
+1. fondbolagets system för riskhantering, och
+
+2. åtgärder som fondbolaget vidtagit för att i fondföretagets
+hemland kunna
+
+ göra utbetalningar till andelsägarna,
+
+ lösa in andelar,
+
+ lämna den information som bolaget är skyldigt att
+tillhandahålla, och
+
+ hantera klagomål. Lag (2011:882).
+
+15 a § Finansinspektionen ska inom en månad från det att en
+underrättelse som avses i 15 § togs emot lämna över den till
+behörig myndighet i det land där verksamheten ska drivas.
+Tillsammans med underrättelsen ska inspektionen lämna uppgift
+om det investerarskydd som gäller för fondbolagets kunder.
+
+Om underrättelsen avser sådana tjänster som anges i 15 § andra
+stycket, ska Finansinspektionen även lämna över ett intyg om
+att fondbolaget har tillstånd att driva sådan verksamhet som
+avses i Europaparlamentets och rådets direktiv 2009/65/EG. I
+intyget ska omfattningen av fondbolagets tillstånd beskrivas
+och uppgift lämnas om huruvida det finns några begränsningar
+för vilka slag av värdepappersfonder som bolaget får förvalta.
+Lag (2011:882).
+
+15 b § Om ett fondbolag som avses i 15 § ska ändra något som
+angetts i fondbolagets underrättelse till Finansinspektionen
+efter det att verksamheten påbörjats, ska fondbolaget
+skriftligen underrätta inspektionen innan ändringen genomförs.
+
+Vid ändring av de uppgifter som lämnats i det intyg som avses
+i 15 a § andra stycket ska Finansinspektionen underrätta
+behörig myndighet i det land där verksamheten drivs om
+ändringen. Lag (2011:882).
+
+15 c § Avser ett fondbolag som förvaltar värdepappersfonder
+att marknadsföra andelar i en sådan fond i ett annat land inom
+EES, ska bolaget underrätta Finansinspektionen innan
+verksamheten påbörjas. Bestämmelser om vilka uppgifter och
+handlingar som underrättelsen ska innehålla finns i
+kommissionens förordning (EU) nr 584/2010 av den 1 juli 2010
+om genomförande av Europaparlamentets och rådets direktiv
+2009/65/EG vad gäller den skriftliga anmälans och
+fondföretagsintygets form och innehåll, elektronisk
+kommunikation mellan behöriga myndigheter i samband med
+anmälan, förfaranden för kontroller på plats och utredningar
+samt informationsutbyte mellan behöriga myndigheter.
+
+Finansinspektionen ska inom tio arbetsdagar från det att en
+fullständig underrättelse togs emot lämna över den till
+behörig myndighet i det land där verksamheten ska drivas.
+Tillsammans med underrättelsen ska inspektionen även lämna ett
+intyg om att värdepappersfonden uppfyller kraven i
+Europaparlamentets och rådets direktiv 2009/65/EG.
+Finansinspektionen ska meddela fondbolaget när inspektionen
+lämnar över underrättelsen.
+
+Fondbolaget ska offentliggöra de handlingar som lämnats
+tillsammans med underrättelsen. Lag (2011:882).
 
 Övriga fall av filialverksamhet utomlands
 
-16 § I andra fall än som avses i 12 § skall ett fondbolag som
+16 § I andra fall än som avses i 12 § ska ett fondbolag som
 planerar att inrätta en filial utomlands ansöka om tillstånd
-hos Finansinspektionen. Ett sådant tillstånd skall ges om det
+hos Finansinspektionen. Ett sådant tillstånd ska ges om det
 finns skäl att anta att den planerade verksamheten kommer att
 drivas enligt bestämmelserna i denna lag och andra
 författningar som reglerar bolagets verksamhet.
 
-Ansökan om tillstånd skall innehålla den information som anges
-i 12 §.
+Ansökan om tillstånd ska innehålla den information som anges i
+12 § första stycket. Lag (2011:882).
 
-Sundhetskrav
+Krav på organisation av verksamheten
 
-17 § Ett fondbolag skall driva sin verksamhet så att
-allmänhetens förtroende för fondmarknaden upprätthålls och
-enskildas kapitalinsatser inte otillbörligen äventyras samt i
-övrigt så att verksamheten kan anses sund.
+17 § Ett fondbolag ska ha sunda rutiner för
+
+1. förvaltning av verksamheten och redovisning,
+
+2. intern kontroll, och
+
+3. drift och förvaltning av sina informationssystem.
+
+Fondbolaget ska särskilt
+
+ upprätta och tillämpa regler för styrelseledamöters och
+anställdas egna affärer med finansiella instrument,
+
+ dokumentera samtliga transaktioner som bolaget har genomfört
+för en investeringsfonds räkning eller för ett sådant
+fondföretags räkning som avses i 12 § andra stycket eller 15 §
+andra stycket, och
+
+ ha en organisation som minskar risken för intressekonflikter
+som kan påverka fondandelsägares eller andra kunders intressen
+negativt. Lag (2011:882).
+
+17 a § Ett fondbolag som förvaltar ett fondföretag som avses i
+12 § andra stycket eller 15 § andra stycket ska vidta åtgärder
+för att säkerställa att verksamheten drivs enligt tillämpliga
+bestämmelser om fondföretagets bildande och drift i
+fondföretagets hemland. Lag (2011:882).
+
+Uppföranderegler
+
+17 b § Ett fondbolag ska driva sin verksamhet på ett
+hederligt, rättvist och professionellt sätt och även i övrigt
+så att allmänhetens förtroende för fondmarknaden upprätthålls.
+
+Fondbolaget ska ha tillräckliga resurser och rutiner för att
+verksamheten ska kunna fungera väl. Bolaget ska vidta alla
+rimliga åtgärder för att förhindra att fondandelsägares
+intressen påverkas negativt av intressekonflikter.
+Lag (2011:882).
 
 Förvärvsförbud vid insyn i daglig handel
 
@@ -733,6 +1048,27 @@ förvaringsinstitutet dess ansvar enligt denna lag.
 3 § Förvaringsinstitutet får inte för en investeringsfond ta
 upp eller bevilja lån eller gå i borgen.
 
+4 § Förvaringsinstitutet ska med fondbolaget ingå ett
+skriftligt avtal som reglerar förhållandet mellan parterna,
+exempelvis det informationsutbyte och den samordning som krävs
+för att institutet och bolaget ska kunna uppfylla kraven i
+denna lag och andra författningar. Avtalet ska innehålla
+åtminstone sådana uppgifter som anges i artiklarna 3033, 35
+och 37 i kommissionens direktiv 2010/43/EU av den 1 juli 2010
+om genomförande av Europaparlamentets och rådets direktiv
+2009/65/EG när det gäller organisatoriska krav,
+intressekonflikter, uppföranderegler, riskhantering och
+innehållet i avtalet mellan ett förvaringsinstitut och ett
+förvaltningsbolag.
+
+Avtalet får omfatta flera investeringsfonder. I avtalet ska
+anges vilka investeringsfonder som omfattas.
+
+I ett avtal som ingås mellan ett förvaringsinstitut och ett
+förvaltningsbolag som förvaltar en värdepappersfond efter
+tillstånd enligt 1 kap. 6 b § ska det föreskrivas att svensk
+lag är tillämplig på avtalet. Lag (2011:882).
+
 4 kap. Allmänna bestämmelser för investeringsfonder
 
 Investeringsfondens rättsliga ställning
@@ -770,31 +1106,39 @@ investeringsfond som bolaget förvaltar.
 
 Uppdragsavtal
 
-4 § Ett fondbolag får uppdra åt någon annan att utföra visst
-arbete eller vissa funktioner som ingår i fondverksamheten i
-syfte att effektivisera bolagets verksamhet. Ett sådant uppdrag
-får inte vara av sådan omfattning eller karaktär att
-fondbolaget lämnar ifrån sig all verksamhet eller så stor del
-av verksamheten att fondbolaget inte längre har möjlighet att
-ta till vara andelsägarnas gemensamma intressen eller i övrigt
-inte kan uppfylla de skyldigheter som följer av denna lag. Ett
-lämnat uppdrag fråntar aldrig fondbolaget dess ansvar enligt
-denna lag.
+4 § I syfte att effektivisera ett fondbolags verksamhet får
+bolaget uppdra åt någon annan att utföra visst arbete eller
+vissa funktioner som ingår i fondverksamheten eller motsvarande
+verksamhet som avser fondföretag som har sådant tillstånd som
+avses i Europaparlamentets och rådets direktiv 2009/65/EG. Ett
+sådant uppdrag får inte vara av sådan omfattning eller karaktär
+att fondbolaget lämnar ifrån sig all verksamhet eller så stor
+del av verksamheten att fondbolaget inte längre har möjlighet
+att ta till vara andelsägarnas gemensamma intressen eller i
+övrigt inte kan uppfylla de skyldigheter som följer av denna
+lag. Ett lämnat uppdrag fråntar aldrig fondbolaget dess ansvar
+enligt denna lag.
 
 Uppdragstagaren måste ha tillfredsställande sakkunskap och
 kompetens med hänsyn till uppdragets innehåll.
 
-Fondbolaget skall i avtalet med uppdragstagaren förbehålla sig
-rätten att övervaka den anförtrodda verksamheten, att ge de
-anvisningar som behövs för en sund förvaltning samt att med
-omedelbar verkan säga upp avtalet, om en sådan uppsägning är i
-andelsägarnas gemensamma intresse.
+Fondbolaget ska i ett avtal med uppdragstagaren som avser
+förvaltningen av en investeringsfond eller av ett fondföretag
+som har sådant tillstånd som avses i Europaparlamentets och
+rådets direktiv 2009/65/EG eller därmed sammanhängande
+administration förbehålla sig rätten att övervaka den
+anförtrodda verksamheten, att ge de anvisningar som behövs för
+en sund förvaltning samt att med omedelbar verkan säga upp
+avtalet, om en sådan uppsägning är i andelsägarnas gemensamma
+intresse. Lag (2011:882).
 
 5 § Omfattar ett uppdrag enligt 4 § att någon för fondbolagets
-räkning skall förvalta tillgångarna i en investeringsfond,
-skall avtalet innehålla riktlinjer för placering av fondmedlen.
-Fondbolaget skall tillförsäkra sig en rätt att regelbundet se
-över och vid behov ändra dessa riktlinjer.
+räkning ska förvalta tillgångarna i en investeringsfond eller
+i ett fondföretag som har sådant tillstånd som avses i
+Europaparlamentets och rådets direktiv 2009/65/EG, ska avtalet
+innehålla riktlinjer för placering av fondmedlen. Fondbolaget
+ska tillförsäkra sig en rätt att regelbundet se över och vid
+behov ändra dessa riktlinjer.
 
 Ett förvaltningsuppdrag får ges till
 
@@ -812,114 +1156,169 @@ tillstånd att driva verksamhet motsvarande den som avses i 1,
 a) företaget står under tillsyn av behörig myndighet i
 hemlandet,
 
-b) företaget har tillstånd att driva verksamhet motsvarande den
-som avses i 1, och
+b) företaget har tillstånd att driva verksamhet motsvarande
+den som avses i 1, och
 
 c) ett samarbete kan ske mellan Finansinspektionen och behörig
-myndighet i hemlandet. Lag (2007:562).
+myndighet i hemlandet. Lag (2011:882).
 
 6 § Ett förvaltningsuppdrag får inte ges till
 förvaringsinstitutet eller något annat företag vars intressen
 kan komma i konflikt med fondbolagets eller andelsägarnas
 intressen.
 
-7 § Om ett fondbolag vill uppdra åt någon annan att utföra
-visst arbete eller vissa funktioner enligt 4 eller 5 § skall
-bolaget anmäla detta och ge in uppdragsavtalet till
-Finansinspektionen.
+7 § Avser ett fondbolag att uppdra åt någon annan att för
+bolagets räkning förvalta en investeringsfond eller ett
+fondföretag som har sådant tillstånd som avses i
+Europaparlamentets och rådets direktiv 2009/65/EG eller sköta
+därmed sammanhängande administration ska bolaget anmäla detta
+och ge in uppdragsavtalet till Finansinspektionen.
 
 Om Finansinspektionen finner att ett uppdragsavtal strider mot
 denna lag, eller att avtalet hindrar en effektiv tillsyn av
-fondbolaget, skall inspektionen förelägga fondbolaget att hos
-motparten begära de ändringar som behövs för att avtalet skall
-uppfylla lagens krav.
+fondbolaget, ska inspektionen förelägga fondbolaget att hos
+motparten begära de ändringar som behövs för att avtalet ska
+uppfylla lagens krav. Lag (2011:882).
 
 Fondbestämmelser
 
-8 § För varje investeringsfond skall det finnas
-fondbestämmelser som upprättas av fondbolaget.
+8 § För varje investeringsfond ska det finnas fondbestämmelser
+som upprättas av fondbolaget.
 
-Fondbestämmelserna skall ange
+Fondbestämmelserna ska ange
 
 1. namnet på fonden, fondbolaget och förvaringsinstitutet,
 
 2. grunderna för fondens placeringsinriktning och för
 placeringen av fondmedlen, med särskild upplysning om huruvida
-medel skall placeras i sådana derivatinstrument som anges i 5
+medel ska placeras i sådana derivatinstrument som anges i 5
 kap. 12 §,
 
-3. om utdelning skall ske och, i så fall, grunderna och sättet
+3. vilka andelsklasser som ska finnas och vilka villkor som är
+förenade med dem,
+
+4. om utdelning ska ske och, i så fall, grunderna och sättet
 för utdelning,
 
-4. grunderna för beräkning av fondens och fondandelarnas värde,
-inklusive de värderingsprinciper som används vid värderingen av
-onoterade tillgångar och sådana derivatinstrument som anges i 5
-kap. 12 § andra stycket,
+5. grunderna för beräkning av fondens och fondandelarnas
+värde, inklusive de värderingsprinciper som används vid
+värderingen av onoterade tillgångar och sådana
+derivatinstrument som anges i 5 kap. 12 § andra stycket,
 
-5. grunderna för beräkning av försäljnings- och inlösenpris för
-fondandelarna,
+6. grunderna för beräkning av försäljnings- och inlösenpris
+för fondandelarna,
 
-6. var och hur försäljning och inlösen av fondandelar skall
-ske,
+7. var och hur försäljning och inlösen av fondandelar ska ske,
 
-7. grunderna för beräkning av fondbolagets och
+8. grunderna för beräkning av fondbolagets och
 förvaringsinstitutets ersättning från fonden,
 
-8. fondbolagets avgifter för försäljning, förvaltning och
+9. fondbolagets avgifter för försäljning, förvaltning och
 inlösen av andelar,
 
-9. hur pantsättning av fondandelar skall gå till,
+10. hur pantsättning av fondandelar ska gå till,
 
-10. fondens räkenskapsår,
+11. fondens räkenskapsår,
 
-11. när och var försäljnings- och inlösenspriset för
-fondandelarna samt fondens halvårsredogörelse och årsberättelse
-skall offentliggöras, samt
+12. när och var försäljnings- och inlösenpriset för
+fondandelarna samt fondens halvårsredogörelse och
+årsberättelse ska offentliggöras, samt
 
-12. var ändringar av fondbestämmelserna skall tillkännages.
+13. var ändringar av fondbestämmelserna ska tillkännages.
 
 För fonder där fondmedlen placeras enligt bestämmelserna i 5
-kap. 8 §, skall dessutom anges de emittenter eller garanter som
-gett ut eller garanterat sådana skuldförbindelser som
+kap. 8 §, ska det dessutom anges de emittenter eller garanter
+som gett ut eller garanterat sådana skuldförbindelser som
 fondmedlen till mer än 35 procent av fondens värde avses att
 placeras i.
 
-För specialfonder skall anges om fonden riktar sig till
+För specialfonder ska det anges om fonden riktar sig till
 allmänheten eller till en avgränsad krets investerare. I det
-senare fallet skall kretsen anges. Fondbestämmelserna skall
-även innehålla upplysning om
+senare fallet ska kretsen anges. Fondbestämmelserna ska även
+innehålla upplysning om
 
 1. i vilka avseenden fonden avviker från vad som gäller för
 värdepappersfonder,
 
 2. vilken risknivå som eftersträvas, och
 
-3. vilket riskmått som används.
+3. vilket riskmått som används. Lag (2011:882).
 
-9 § Fondbestämmelserna och ändringar i dem skall godkännas av
-Finansinspektionen. Godkännande får ges bara om bestämmelserna
-eller ändringarna är skäliga för fondandelsägarna.
+9 § Fondbestämmelserna och ändringar i dem ska godkännas av
+Finansinspektionen.
+
+Fondbestämmelser för en ny fond ska godkännas om
+bestämmelserna är skäliga för fondandelsägarna.
+
+Ändringar i fondbestämmelserna ska godkännas om
+
+1. bestämmelserna även efter ändringarna är skäliga för
+andelsägarna,
+
+2. ändringarna inte strider mot andelsägarnas gemensamma
+intresse, och
+
+3. en underrättelse som ska lämnas till andelsägare enligt
+9 a § uppfyller kraven i andra stycket den paragrafen.
+
+Finansinspektionen ska underrätta fondbolaget om sitt beslut
+med anledning av ansökan om godkännande av fondbestämmelser
+eller ändringar i dem inom två månader från det att en
+fullständig ansökan har lämnats in till inspektionen.
+Lag (2011:882).
+
+9 a § Vid godkännande av fondbestämmelser eller ändringar i
+dem får Finansinspektionen besluta att fondbestämmelserna inte
+får tillämpas förrän en viss tid förflutit efter beslutet om
+godkännande.
 
 Vid godkännande av ändringar i fondbestämmelserna får
-Finansinspektionen föreskriva att andelsägarna skall
-underrättas om ändringarna och bestämma att dessa inte skall
-tillämpas förrän en viss tid, dock högst tre månader, förflutit
-efter beslutet om godkännande.
+Finansinspektionen besluta att berörda fondandelsägare ska
+underrättas om ändringarna. En sådan underrättelse ska
+innehålla lämplig information om syftet med ändringarna och
+vilka konsekvenser de kan få för andelsägarna. I förekommande
+fall ska underrättelsen även innehålla information om rätten
+till inlösen enligt 9 b §. Lag (2011:882).
+
+9 b § Om en ändring av fondbestämmelserna är av väsentlig
+betydelse för fondandelsägare, ska Finansinspektionen besluta
+att berörda andelsägare ska ha rätt att få sina fondandelar
+inlösta innan de ändrade fondbestämmelserna börjar tillämpas,
+utan att andra avgifter tas ut än vad som motsvarar
+kostnaderna för att avveckla värdepapper med anledning av
+begärd inlösen. Möjlighet att begära inlösen ska ges under
+minst 30 dagar från dagen för underrättelse enligt 9 a §.
+Lag (2011:882).
 
 Fondandelar och inlösen av fondandelar
 
-10 § Andelarna i en investeringsfond skall vara lika stora och
-medföra lika rätt till den egendom som ingår i fonden. En
-fondandel får inte utfärdas innan betalning för andelen har
-tillförts fonden.
+10 § Andelarna i en investeringsfond ska vara lika stora och
+medföra lika rätt till den egendom som ingår i fonden, om inte
+annat följer av andra stycket.
+
+I en investeringsfond får det finnas andelar av olika slag
+(andelsklasser). Andelsklasser i en och samma fond får vara
+förenade med olika villkor för utdelning, avgifter, lägsta
+teckningsbelopp samt i vilken valuta andelarna tecknas och
+inlöses. Andelarna i en andelsklass ska vara lika stora och
+medföra lika rätt till den egendom som ingår i fonden.
 
 Värdet av en fondandel är fondens värde delat med antalet
-fondandelar. Fondens värde beräknas enligt de grunder som anges
-i fondbestämmelserna. Den egendom som ingår i fonden skall
+fondandelar. Om det finns andelsklasser ska värdet av en
+fondandel dock bestämmas med beaktande av de villkor som är
+förenade med andelsklassen.
+
+Fondens värde beräknas enligt de grunder som anges i
+fondbestämmelserna. Den egendom som ingår i fonden ska
 värderas med ledning av gällande marknadsvärde.
 
-Fondbolaget skall fortlöpande och minst en gång varje vecka
+Fondbolaget ska fortlöpande och minst en gång varje vecka
 beräkna och på lämpligt sätt offentliggöra fondandelsvärdet.
+Lag (2011:882).
+
+10 a § Fondbolaget får utfärda en fondandel bara om det är
+säkerställt att betalning tillförs investeringsfonden inom
+rimlig tid. Lag (2011:882).
 
 11 § Fondbolaget ska föra eller låta föra ett register över
 samtliga innehavare av andelar i fonden. I fråga om
@@ -936,47 +1335,72 @@ tillämplig på andelarna i fonden, ska den som för registret
 anteckna inskränkningar enligt 13 kap. 19 § första stycket 4
 eller 14 kap. 21 § första stycket 4 föräldrabalken där.
 
-Fondbolaget ska till varje fondandelsägare skriftligen bekräfta
-att dennes fondandelsinnehav har registrerats. Av bekräftelsen
-ska det framgå investeringsfondens beteckning samt namnen på
-fondbolaget och förvaringsinstitutet. Vidare ska det framgå var
-informationsbroschyren och faktabladet enligt 15 § samt
-årsberättelsen och halvårsredogörelsen enligt 18 § finns att
-tillgå. Lag (2008:912).
+Fondbolaget ska till varje fondandelsägare skriftligen
+bekräfta att dennes fondandelsinnehav har registrerats. Av
+bekräftelsen ska det framgå investeringsfondens och, i
+förkommande fall, andelsklassens beteckning samt namnen på
+fondbolaget och förvaringsinstitutet. Vidare ska det framgå
+var informationsbroschyren enligt 15 §, faktabladet enligt
+15 a § samt årsberättelsen och halvårsredogörelsen enligt
+18 § finns att tillgå. Lag (2011:882).
 
-12 § Har en fondandelsägare lämnat sina andelar för förvaltning
-till någon som har fått tillstånd till registrering som
-förvaltare, får förvaltaren på andelsägarens uppdrag anges i
-det register som avses i 11 § första stycket i stället för
-andelsägaren. I registret skall det särskilt anmärkas att
-fondandelen förvaltas för någon annans räkning. Förvaltaren
-skall till andelsägaren lämna den information förvaltaren får
-från fondbolaget, om inte andelsägaren avstått från sådan
-information.
+12 § Har en fondandelsägare lämnat sina andelar för
+förvaltning till någon som har fått tillstånd till
+registrering som förvaltare, får förvaltaren på andelsägarens
+uppdrag anges i det register som avses i 11 § första stycket i
+stället för andelsägaren. I registret ska det särskilt
+anmärkas att fondandelen förvaltas för någon annans räkning.
+Förvaltaren ska skyndsamt till andelsägaren eller den som
+förvaltaren har antecknat i andelsägarens ställe lämna den
+information förvaltaren får från fondbolaget, om inte
+andelsägaren avstått från sådan information. Information som
+avser ändring av fondbestämmelser enligt 9 b § eller 5 a kap.
+7 § eller som avser fusion enligt 8 kap. 8 § ska dock alltid
+lämnas till andelsägaren eller den som förvaltaren har
+antecknat i andelsägarens ställe.
 
 Om registret förs av någon annan än en central
-värdepappersförvarare, skall Finansinspektionen pröva frågor om
+värdepappersförvarare, ska Finansinspektionen pröva frågor om
 tillstånd till registrering som förvaltare.
 
 Ett tillstånd att registreras som förvaltare får förenas med
 särskilda villkor för att tillgodose allmänna och enskilda
-intressen. Ett tillstånd skall återkallas av
-Finansinspektionen, om ett villkor för tillståndet har
-åsidosatts och avvikelsen är betydande eller om
-förutsättningarna för tillståndet inte längre uppfylls.
+intressen. Ett tillstånd ska återkallas av Finansinspektionen,
+om ett villkor för tillståndet har åsidosatts och avvikelsen
+är betydande eller om förutsättningarna för tillståndet inte
+längre uppfylls. Lag (2011:882).
 
-13 § En fondandel skall, på begäran av dess ägare, omedelbart
+13 § En fondandel ska, på begäran av dess ägare, omedelbart
 lösas in om det finns medel tillgängliga i investeringsfonden.
 Om medel för inlösen behöver anskaffas genom försäljning av
-egendom som ingår i fonden, skall försäljning ske och inlösen
-verkställas så snart som möjligt. Skulle en sådan försäljning
-kunna väsentligt missgynna övriga andelsägares intresse, får
-fondbolaget efter anmälan till Finansinspektionen avvakta med
-försäljningen.
+egendom som ingår i fonden, ska försäljning ske och inlösen
+verkställas så snart som möjligt.
+
+Första stycket gäller dock inte om fondandelarna är upptagna
+till handel på en reglerad marknad och det är säkerställt att
+andelarnas noterade värde inte i väsentlig mån avviker från
+det värde som avses i 10 § tredje stycket.
 
 Under den tid som ett förvaringsinstitut förvaltar en
 investeringsfond enligt 9 kap. 1 § första eller andra stycket
-får fondandelar inte säljas eller lösas in.
+eller 5 a kap. 34 eller 42 § får fondandelar inte säljas eller
+lösas in. Lag (2011:882).
+
+13 a § Ett fondbolag får senarelägga försäljning och inlösen
+av fondandelar, om det finns särskilda skäl för åtgärden och
+den är motiverad av hänsyn till fondandelsägarnas intresse.
+
+Fondbolaget ska utan dröjsmål underrätta Finansinspektionen
+samt berörda investerare och andelsägare om åtgärden. Bolaget
+ska också underrätta behöriga myndigheter i andra länder inom
+EES där fondandelar marknadsförs.
+
+Fondbolaget ska sedan orsakerna till senareläggningen upphört
+underrätta Finansinspektionen om detta. Lag (2011:882).
+
+13 b § Finansinspektionen får besluta att ett fondbolag ska
+senarelägga försäljning och inlösen av fondandelar om det är i
+fondandelsägarnas eller allmänhetens intresse. Lag (2011:882).
 
 14 § Är lagen (1998:1479) om kontoföring av finansiella
 instrument inte tillämplig på andelarna i fonden, tillämpas i
@@ -989,42 +1413,34 @@ Information om investeringsfonder
 
 Informationsbroschyr och faktablad
 
-15 § För varje investeringsfond skall det finnas en aktuell
-informationsbroschyr och ett aktuellt faktablad.
+15 § För varje investeringsfond ska det finnas en aktuell
+informationsbroschyr.
 
-Informationsbroschyren skall innehålla
+Informationsbroschyren ska innehålla
 
 1. fondbestämmelserna,
 
-2. de ytterligare uppgifter som behövs för att man skall kunna
+2. de ytterligare uppgifter som behövs för att man ska kunna
 bedöma fonden och den risk som är förenad med att investera i
 den,
 
 3. en tydlig och lättbegriplig förklaring av fondens
-riskprofil, och
+riskprofil,
 
 4. uppgifter om det arbete eller de funktioner som fondbolaget
-får uppdra åt någon annan att utföra enligt 4 och 5 §§.
+får uppdra åt någon annan att utföra enligt 4 och 5 §§,
 
-Faktabladet skall på ett lättbegripligt sätt och i
-sammanfattning innehålla den grundläggande information som
-behövs för att man skall kunna bedöma fonden och den risk som
-är förenad med att investera i den. Bladet får bifogas
-informationsbroschyren som en löstagbar del.
+5. uppgifter om vilka tillgångsslag fondmedlen får placeras i,
+och
 
-16 § I informationsbroschyren och faktabladet för en
-investeringsfond ska det dessutom anges
-
-1. i vilka tillgångsslag fondmedlen får placeras, och
-
-2. om fondmedlen får placeras i derivatinstrument och, i så
-fall, i vilket syfte och hur det möjliga resultatet av
+6. för det fall fondmedlen får placeras i derivatinstrument,
+uppgifter om i vilket syfte och hur det möjliga resultatet av
 användningen av derivatinstrument kan påverka fondens
-riskprofil.
+riskprofil. Lag (2011:882).
 
-I informationsbroschyren och faktabladet samt i allt övrigt
-reklammaterial avseende fonden ska följande uppgifter anges på
-en framträdande plats:
+16 § I informationsbroschyren och i allt övrigt
+marknadsföringsmaterial avseende fonden ska följande uppgifter
+anges på en framträdande plats:
 
 1. fondens placeringsinriktning, för det fall medel i fonden
 placeras i andra tillgångar än överlåtbara värdepapper och
@@ -1041,8 +1457,32 @@ skuldförbindelser som fondmedlen till mer än 35 procent av
 fondens värde placerats i eller avses att placeras i.
 
 Om fonden är en specialfond, ska detta framgå av
-informationsbroschyren, faktabladet och allt övrigt
-reklammaterial avseende fonden. Lag (2008:282).
+informationsbroschyren och allt övrigt marknadsföringsmaterial
+avseende fonden. Lag (2011:882).
+
+16 a § För varje investeringsfond ska det finnas ett aktuellt
+faktablad.
+
+Faktabladet ska på ett lättbegripligt sätt och i
+sammanfattning innehålla den grundläggande information som
+behövs för att investerare ska kunna bedöma fonden och den
+risk som är förenad med att investera i den.
+
+Innehållet i faktabladet ska vara rättvisande och tydligt och
+får inte vara vilseledande. Det ska stämma överens med
+relevanta delar i informationsbroschyren.
+
+Bestämmelser om hur faktabladet för en värdepappersfond ska
+vara utformat och om dess innehåll finns i kommissionens
+förordning (EU) nr 583/2010 av den 1 juli 2010 om genomförande
+av Europaparlamentets och rådets direktiv 2009/65/EG rörande
+basfakta för investerare och villkor som ska uppfyllas när
+faktablad med basfakta för investerare eller prospekt
+tillhandahålls på annat varaktigt medium än papper eller på en
+webbplats. Det som anges i förordningen ska i tillämpliga
+delar gälla också för faktablad för en specialfond. Om fonden
+är en specialfond ska detta framgå av faktabladet.
+Lag (2011:882).
 
 17 § Fondbolaget skall, på begäran av en andelsägare eller den
 som avser att köpa andelar i en investeringsfond, lämna
@@ -1084,16 +1524,25 @@ ska revisorn delta i granskningen. Lag (2010:842).
 Tillgång till information
 
 20 § Informationsbroschyren, faktabladet, den senaste
-årsberättelsen och, i förekommande fall, den halvårsredogörelse
-som publicerats därefter skall på begäran lämnas eller skickas
-kostnadsfritt till den som avser att köpa andelar i en
-investeringsfond. Denne skall även utan begäran erbjudas
-faktabladet innan avtal ingås.
+årsberättelsen och, i förekommande fall, den
+halvårsredogörelse som publicerats därefter ska på begäran
+kostnadsfritt tillhandahållas den som avser att köpa andelar i
+en investeringsfond. Denne ska, med undantag för de fall som
+avses i 8 kap. 22 a § lagen (2007:528) om
+värdepappersmarknaden, även utan begäran tillhandahållas
+faktabladet i god tid innan avtal ingås.
 
-Om fondbolaget genom reklam eller liknande erbjuder allmänheten
-att köpa andelar i en investeringsfond, skall det av
-erbjudandet framgå att det finns ett faktablad och en
-informationsbroschyr och var dessa finns att tillgå.
+Om fondbolaget genom marknadsföring erbjuder allmänheten att
+köpa andelar i en investeringsfond, ska det av erbjudandet
+framgå att det finns ett faktablad och en informationsbroschyr
+och var dessa finns att tillgå.
+
+Om information som anges i 16 och 16 a §§, 5 a kap. 24 § samt
+andra stycket denna paragraf inte lämnas, ska även
+marknadsföringslagen (2008:486) tillämpas, med undantag av
+bestämmelserna i 2936 §§ om marknadsstörningsavgift. Sådan
+information ska anses vara väsentlig enligt 10 § tredje
+stycket den lagen. Lag (2011:882).
 
 21 § Informationsbroschyrer, faktablad, årsberättelser och
 halvårsredogörelser skall ges in till Finansinspektionen så
@@ -1126,7 +1575,6 @@ närmast föregående kalenderåret, redovisade per fondandel. I
 informationen skall det anges hur stor del av beloppen som
 avser förvaltningskostnader, inklusive kostnader för förvaring
 av fondtillgångarna.
-
 
 5 kap. Förvaltning av värdepappersfonder
 
@@ -1274,7 +1722,6 @@ I en värdepappersfond får det inte ingå överlåtbara värdepapper
 och penningmarknadsinstrument som getts ut av emittenter i en
 och samma företagsgrupp till sammanlagt mer än 20 procent av
 fondens värde. Lag (2008:282).
-
 
 7 § Bestämmelserna i 6 § gäller inte för en värdepappersfond
 vars medel enligt fondbestämmelserna skall placeras i aktier
@@ -1503,9 +1950,10 @@ aktier med sådan rösträtt som gör det möjligt för fondbolaget
 att utöva ett väsentligt inflytande över ledningen av ett
 företag.
 
-Om ett fondbolag förvaltar flera värdepappersfonder eller
-specialfonder, gäller bestämmelsen i första stycket det
-sammanlagda aktieinnehavet i fonderna.
+Om ett fondbolag förvaltar flera värdepappersfonder,
+fondföretag eller specialfonder, gäller bestämmelsen i första
+stycket det sammanlagda aktieinnehavet i fonderna och
+fondföretagen. Lag (2011:882).
 
 21 § Bestämmelserna i 6 § första stycket och andra stycket 3
 samt 11 och 14 §§ får inte tillämpas så att exponeringar mot
@@ -1537,8 +1985,10 @@ Undantag för nya fonder
 
 24 § Finansinspektionen får för en värdepappersfond tillåta
 avvikelser från de villkor som anges i 6, 7, 8, 11, 14, 16, 21
-eller 22 § under sex månader från det att verksamheten
-påbörjades.
+eller 22 § och från fondbestämmelserna under sex månader från
+det att verksamheten påbörjades, ändrade fondbestämmelser
+började tillämpas eller en fusion genomfördes.
+Lag (2011:882).
 
 Rättelse
 
@@ -1546,6 +1996,565 @@ Rättelse
 överskrida någon av gränserna i detta kapitel skall rättelse
 vidtas så snart det lämpligen kan ske. Skälig hänsyn skall då
 tas till fondandelsägarnas intressen.
+
+5 a kap. Matarfonder och mottagarfonder
+
+Placeringsbestämmelser
+
+1 § Bestämmelserna i 5 kap. 1 andra stycket, 312 och 1522 §§
+gäller inte för en matarfond. I stället ska bestämmelserna i
+denna paragraf tillämpas.
+
+Medel i en matarfond får placeras i andelar i
+
+ en värdepappersfond som inte är en matarfond och vars medel
+inte placeras i en matarfond eller ett matarfondföretag, eller
+
+ ett fondföretag som har sådant tillstånd som avses i
+Europaparlamentets och rådets direktiv 2009/65/EG och som inte
+är ett matarfondföretag och vars medel inte placeras i en
+matarfond eller ett matarfondföretag.
+
+Placeringen ska uppgå till minst 85 procent av matarfondens
+värde. Lag (2011:882).
+
+2 § Utöver placering enligt 1 § får det i en matarfond ingå
+
+ likvida medel som behövs för förvaltningen av fonden, och
+
+ derivatinstrument som avses i 5 kap. 1 § tredje stycket och
+12 §. Derivatinstrument får användas bara i syfte att skydda
+värdet på tillgångarna i matarfonden. Lag (2011:882).
+
+3 § Vid tillämpning av 5 kap. 13 § andra stycket ska en
+matarfonds sammanlagda exponeringar som hänför sig till
+derivatinstrument läggas samman med
+
+1. mottagarfondens eller mottagarfondföretagets motsvarande
+exponeringar, i proportion till matarfondens placeringar i
+mottagarfonden eller mottagarfondföretaget, eller
+
+2. mottagarfondens eller mottagarfondföretagets högsta möjliga
+exponeringar hänförliga till derivatinstrument enligt
+fondbestämmelserna, i proportion till matarfondens placeringar
+i mottagarfonden eller mottagarfondföretaget. Lag (2011:882).
+
+Mottagarfondföretag och matarfondföretag
+
+4 § Det som anges om en mottagarfond eller ett fondbolag som
+förvaltar en mottagarfond i 57, 9, 1114, 16, 20, 2325, 29
+31, 33, 3739, 41, 42, 45 och 46 §§ gäller på motsvarande sätt
+för ett mottagarfondföretag eller ett förvaltningsbolag som
+förvaltar ett mottagarfondföretag.
+
+Det som anges om en matarfond eller ett fondbolag som
+förvaltar en matarfond i 18, 22, 47, 50, 51, 53 och 54 §§
+gäller på motsvarande sätt för ett matarfondföretag eller ett
+förvaltningsbolag som förvaltar ett matarfondföretag.
+Lag (2011:882).
+
+Ansökan och tillstånd
+
+5 § Avser ett fondbolag att placera en värdepappersfonds medel
+enligt 1 § ska bolaget ansöka om Finansinspektionens tillstånd
+till detta.
+
+Följande handlingar ska lämnas tillsammans med ansökan:
+
+1. nya eller ändrade fondbestämmelser för fonden,
+
+2. den avsedda mottagarfondens fondbestämmelser,
+
+3. fondernas informationsbroschyrer och faktablad,
+
+4. det avtal eller de rutiner som avses i 9 och 11 §§,
+
+5. det avtal mellan förvaringsinstituten som avses i 16 §,
+
+6. det avtal mellan revisorerna som avses i 20 §,
+
+7. i förekommande fall, den underrättelse som ska lämnas till
+andelsägarna enligt 7 §, och
+
+8. om fondmedlen ska placeras i ett fondföretag, intyg från
+behörig myndighet i företagets hemland om att det uppfyller
+kraven i 1 § andra stycket. Lag (2011:882).
+
+6 § Tillstånd att placera medel enligt 1 § ges av
+Finansinspektionen i form av godkännande av fondbestämmelserna
+enligt 4 kap. 9 § första stycket. Tillstånd ska ges om kraven
+i detta kapitel är uppfyllda och fondbestämmelserna i övrigt
+uppfyller kraven i 4 kap. 8 § och 9 § andra eller tredje
+stycket.
+
+Om ansökan avser en ändring av fondbestämmelserna som innebär
+att placering ska ske i en annan mottagarfond eller att en
+värdepappersfonds placeringsinriktning ändras till sådan som
+avses i 1 §, ska Finansinspektionen underrätta fondbolaget om
+sitt beslut inom 15 arbetsdagar från det att en fullständig
+ansökan lämnats in. Om ansökan avser fondbestämmelser för en
+ny fond eller fondbestämmelser som ändras på annat sätt än som
+en följd av den nya placeringsinriktningen ska
+Finansinspektionen underrätta fondbolaget om sitt beslut inom
+den frist som anges i 4 kap. 9 § fjärde stycket. Lag (2011:882).
+
+Underrättelse till andelsägarna
+
+7 § Om Finansinspektionen har godkänt ändring av
+fondbestämmelserna som avses i 6 § andra stycket första
+meningen, har fondandelsägarna rätt att få sina fondandelar
+inlösta innan de ändrade fondbestämmelserna börjar tilllämpas,
+utan att andra avgifter tas ut än vad som motsvarar
+kostnaderna för att avveckla värdepapper med anledning av
+begärd inlösen. Möjlighet att begära inlösen ska ges under
+minst 30 dagar från dagen för underrättelse enligt andra
+stycket.
+
+Fondbolaget ska underrätta andelsägarna om den ändrade
+placeringsinriktningen. Av underrättelsen ska det framgå
+
+1. att Finansinspektionen har godkänt ändringen av
+fondbestämmelserna,
+
+2. när de ändrade fondbestämmelserna ska börja tillämpas, och
+
+3. att andelsägarna har rätt till inlösen på sätt som anges i
+första stycket.
+
+Tillsammans med underrättelsen ska fondbolaget lämna
+matarfondens och mottagarfondens faktablad.
+Lag (2011:882).
+
+Informationsutbyte och samordning
+
+8 § Om matarfonden och mottagarfonden förvaltas av skilda
+fondbolag, ska det fondbolag som förvaltar mottagarfonden till
+det fondbolag som förvaltar matarfonden lämna den information
+som behövs för att det senare ska kunna uppfylla kraven i
+denna lag och andra författningar som reglerar bolagets
+verksamhet. Lag (2011:882).
+
+9 § För att säkerställa sådant utbyte av information som avses
+i 8 § och övrig samordning mellan matarfonden och
+mottagarfonden, ska det finnas ett avtal mellan fondbolagen.
+Avtalet ska innehålla åtminstone sådana uppgifter som anges i
+artiklarna 813 i kommissionens direktiv 2010/44/EU av den 1
+juli 2010 om genomförandet av Europaparlamentets och rådets
+direktiv 2009/65/EG när det gäller vissa bestämmelser avseende
+fusioner mellan fonder, master/feederfondföretag och
+anmälningsförfarande.
+
+Avtalet ska på begäran kostnadsfritt tillhandahållas
+andelsägarna i matarfonden.
+
+Placeringen av medel enligt 1 § får inte ske förrän avtalet
+har börjat gälla. Lag (2011:882).
+
+10 § Om en matarfonds medel placeras i en mottagarfond, ska
+det i det avtal som avses i 9 § föreskrivas att svensk lag är
+tillämplig på avtalet och att svenska domstolar ska pröva
+tvister med anledning av avtalet.
+
+Om en matarfonds medel placeras i ett mottagarfondföretag, ska
+det i det avtal som avses i 9 § föreskrivas antingen
+
+1. att svensk lag är tillämplig på avtalet och att svenska
+domstolar ska pröva tvister med anledning av avtalet, eller
+
+2. att lagstiftningen i mottagarfondföretagets hemland är
+tillämplig på avtalet och att det landets domstolar ska pröva
+tvister med anledning av avtalet. Lag (2011:882).
+
+11 § Om matarfonden och mottagarfonden förvaltas av samma
+fondbolag, ska fondbolaget upprätta skriftliga rutiner som
+säkerställer samordning mellan fonderna. Rutinerna ska
+innehålla åtminstone sådana uppgifter som anges i artiklarna
+1519 i kommissionens direktiv 2010/44/EU. Lag (2011:882).
+
+12 § Ett fondbolag som förvaltar en matarfond ska till
+förvaringsinstitutet för fonden vidarebefordra sådan
+information om mottagarfonden som institutet behöver för att
+kunna fullgöra sina skyldigheter. Lag (2011:882).
+
+13 § Ett fondbolag som förvaltar en matarfond ska effektivt
+övervaka förvaltningen av mottagarfonden. Fondbolaget får då
+förlita sig på den information som det får från det fondbolag
+som förvaltar mottagarfonden, mottagarfondens
+förvaringsinstitut eller revisor, om det inte finns anledning
+att ifrågasätta informationens tillförlitlighet.
+Lag (2011:882).
+
+Ersättningar
+
+14 § Om ett fondbolag som förvaltar en matarfond eller någon
+som handlar på uppdrag av fondbolaget tar emot provision eller
+annan ersättning i samband med placering av matarfondens medel
+i andelar i mottagarfonden, ska denna ersättning tillföras
+matarfondens tillgångar. Lag (2011:882).
+
+Förvaringsinstitut
+
+15 § Om matarfonden och mottagarfonden har skilda
+förvaringsinstitut, ska förvaringsinstituten utbyta den
+information och ha den samordning som behövs för att de ska
+kunna fullgöra sina skyldigheter. Lag (2011:882).
+
+16 § För att säkerställa sådant utbyte av information och
+sådan samordning som avses i 15 § ska det finnas ett avtal
+mellan förvaringsinstituten för matarfonden och
+mottagarfonden. Avtalet ska innehålla åtminstone sådana
+uppgifter som anges i artikel 24 i kommissionens direktiv
+2010/44/EU.
+
+Placeringen av medel enligt 1 § får inte ske förrän avtalet
+har börjat gälla. Lag (2011:882).
+
+17 § Om en matarfonds medel placeras i en mottagarfond, ska
+det i det avtal som avses i 16 § föreskrivas att svensk lag är
+tillämplig på avtalet och att svenska domstolar ska pröva
+tvister med anledning av avtalet.
+
+Om en matarfonds medel placeras i ett mottagarfondföretag, ska
+det i det avtal som avses i 16 § föreskrivas att det lands lag
+som är tillämpligt på det avtal som avses i 9 § ska tillämpas
+även på avtalet enligt 16 § och att domstolarna i det landet
+ska pröva tvister med anledning av avtalet.
+
+Om det saknas förutsättningar för avtal enligt 9 § ska det, i
+stället för vad som anges i andra stycket, i ett avtal enligt
+16 § föreskrivas antingen
+
+1. att svensk lag är tillämplig på avtalet och att svenska
+domstolar ska pröva tvister med anledning av avtalet, eller
+
+2. att lagstiftningen i mottagarfondföretagets hemland är
+tillämplig på avtalet och att det landets domstolar ska pröva
+tvister med anledning av avtalet. Lag (2011:882).
+
+18 § Förvaringsinstitutet för en mottagarfond ska omedelbart
+underrätta Finansinspektionen, det fondbolag som förvaltar
+matarfonden och förvaringsinstitutet för matarfonden om det
+upptäcker fel eller försummelser i förvaltningen av
+mottagarfonden som bedöms få negativa konsekvenser för
+matarfonden. Lag (2011:882).
+
+Revisorer
+
+19 § Om de fondbolag som förvaltar matarfonden respektive
+mottagarfonden har olika revisorer, ska revisorerna utbyta den
+information och ha den samordning som behövs för att de ska
+kunna fullgöra sina skyldigheter. Lag (2011:882).
+
+20 § För att säkerställa sådant utbyte av information och
+sådan samordning som avses i 19 § ska det finnas ett avtal
+mellan revisorerna för matarfonden och mottagarfonden. Avtalet
+ska innehålla åtminstone sådana uppgifter som anges i artikel
+27 i kommissionens direktiv 2010/44/EU.
+
+Placeringen av medel enligt 1 § får inte ske förrän avtalet
+har börjat gälla. Lag (2011:882).
+
+21 § Om en matarfonds medel placeras i en mottagarfond, ska
+det i det avtal som avses i 20 § föreskrivas att svensk lag är
+tillämplig på avtalet och att svenska domstolar ska pröva
+tvister med anledning av avtalet.
+
+Om en matarfonds medel placeras i ett mottagarfondföretag, ska
+det i det avtal som avses i 20 § föreskrivas att det lands lag
+som är tillämpligt på det avtal som avses i 9 § ska tillämpas
+även på avtalet enligt 20 § och att domstolarna i det landet
+ska pröva tvister med anledning av avtalet.
+
+Om det saknas förutsättningar för avtal enligt 9 § ska det, i
+stället för vad som anges i andra stycket, i ett avtal enligt
+20 § föreskrivas antingen
+
+1. att svensk lag är tillämplig på avtalet och att svenska
+domstolar ska pröva tvister med anledning av avtalet, eller
+
+2. att lagstiftningen i mottagarfondföretagets hemland är
+tillämplig på avtalet och att det landets domstolar ska pröva
+tvister med anledning av avtalet. Lag (2011:882).
+
+22 § Om en matarfond har ett annat räkenskapsår än
+mottagarfonden, ska den revisor som granskar räkenskaperna för
+mottagarfonden upprätta en särskild granskningsrapport som
+omfattar tiden från utgången av mottagarfondens räkenskapsår
+till utgången av matarfondens räkenskapsår. Lag (2011:882).
+
+23 § I revisionsberättelsen för en matarfond ska
+revisionsberättelsen för mottagarfonden beaktas. I
+revisionsberättelsen ska det anges om det finns avvikelser i
+revisionsberättelsen för mottagarfonden och vilka konsekvenser
+de får för matarfonden. Lag (2011:882).
+
+Information om matarfonder och mottagarfonder
+
+24 § I allt marknadsföringsmaterial avseende matarfonden ska
+det anges att fondmedlen till minst 85 procent av fondens
+värde placeras i andelar i en mottagarfond. Lag (2011:882).
+
+25 § Ett fondbolag som förvaltar en matarfond ska på begäran
+kostnadsfritt lämna eller skicka mottagarfondens
+informationsbroschyr, årsberättelse och halvårsredogörelse i
+pappersform till matarfondens andelsägare och den som avser
+att köpa andelar i matarfonden. Lag (2011:882).
+
+26 § Om en matarfonds medel placeras i ett
+mottagarfondföretag, ska det fondbolag som förvaltar
+matarfonden ge in mottagarfondföretagets aktuella
+informationsbroschyr, faktablad, årsberättelse och
+halvårsredogörelse till Finansinspektionen. Lag (2011:882).
+
+Finansinspektionens underrättelseskyldighet
+
+27 § Finansinspektionen ska underrätta det fondbolag som
+förvaltar en matarfond om varje ingripande enligt 12 kap. mot
+det fondbolag som förvaltar mottagarfonden eller enligt 15
+kap. lagen (2004:297) om bank- och finansieringsrörelse mot
+förvaringsinstitutet för mottagarfonden med anledning av
+åsidosättande av kraven i detta kapitel.
+
+Finansinspektionen ska även underrätta det fondbolag som
+förvaltar en matarfond om en revisors rapport enligt 10 kap.
+8 § som gäller det fondbolag som förvaltar mottagarfonden.
+
+Om ett matarfondföretags medel placeras i en mottagarfond, ska
+Finansinspektionen underrätta behörig myndighet i
+matarfondföretagets hemland om ingripanden eller en revisors
+rapport som avses i första och andra styckena. Lag (2011:882).
+
+28 § Om en behörig myndighet har underrättat
+Finansinspektionen om ett ingripande eller en revisors rapport
+som rör ett mottagarfondföretag, ska inspektionen omedelbart
+underrätta varje fondbolag som förvaltar en berörd matarfond.
+Lag (2011:882).
+
+Senareläggning av försäljning och inlösen av fondandelar
+
+29 § Ett fondbolag som förvaltar en matarfond får senarelägga
+försäljning och inlösen av andelar i fonden under den tid som
+andelar i mottagarfonden är föremål för sådan senareläggning.
+I sådana fall gäller 4 kap. 13 a § andra och tredje styckena.
+Lag (2011:882).
+
+Upplösning av en mottagarfond
+
+30 § En matarfond ska upplösas om mottagarfonden upplöses,
+såvida inte Finansinspektionen, efter ansökan av det fondbolag
+som förvaltar matarfonden, godkänner att
+
+1. matarfondens medel placeras i en annan mottagarfond enligt
+6 §, eller
+
+2. fondbestämmelserna ändras på annat sätt enligt 4 kap. 9 §.
+Lag (2011:882).
+
+31 § Underrättelse om att matarfonden ska upplösas eller en
+fullständig ansökan enligt 30 § 1 eller 2 ska ges in till
+Finansinspektionen senast två månader från det att fondbolaget
+som förvaltar matarfonden fått information om att
+mottagarfonden ska upplösas.
+
+Om fondbolaget fått sådan information mer än fem månader före
+den dag då upplösningen av mottagarfonden ska inledas, ska
+underrättelsen eller den fullständiga ansökan dock ges in
+senast tre månader före den dag då upplösningen av
+mottagarfonden ska inledas. Lag (2011:882).
+
+32 § Finansinspektionen ska underrätta fondbolaget om sitt
+beslut i en fråga som avses i 30 § 1 eller 2 inom 15
+arbetsdagar från det att en fullständig ansökan har lämnats
+in. Lag (2011:882).
+
+33 § Fondbolaget som förvaltar matarfonden ska underrätta det
+fondbolag som förvaltar mottagarfonden om Finansinspektionens
+beslut i en fråga som avses i 30 § 1 eller 2. Lag (2011:882).
+
+34 § Om matarfonden ska upplösas enligt 30 § ska förvaltningen
+övertas av förvaringsinstitutet. Övertagandet får ske tidigast
+tre månader från det att de ändrade förhållandena kungjorts
+enligt 35 §, om inte Finansinspektionen beslutar att
+övertagandet får ske tidigare. Lag (2011:882).
+
+35 § Information om att matarfonden ska upplösas och
+förvaltningen övertas av förvaringsinstitutet ska utan
+dröjsmål kungöras av fondbolaget i Post- och Inrikes Tidningar
+samt finnas att tillgå hos fondbolaget och
+förvaringsinstitutet.
+
+Finansinspektionen får i ett enskilt fall besluta om undantag
+från kravet på kungörande, om det finns särskilda skäl för
+det. Lag (2011:882).
+
+36 § Ett förvaringsinstitut som har övertagit förvaltningen av
+en matarfond enligt 34 § ska snarast upplösa fonden genom att
+sälja tillgångarna i fonden och skifta ut nettobehållningen
+till fondandelsägarna.
+
+För förvaringsinstitutets förvaltning av matarfonden gäller 9
+kap. 3 §, 5 § andra stycket och 6 § i tillämpliga delar.
+Lag (2011:882).
+
+37 § Medel som tillfaller matarfonden när mottagarfonden
+upplöses får bestå av pengar eller finansiella instrument. De
+tillgångar som mottagits får förvaltas till dess matarfonden
+ska upplösas eller fondmedlen placeras i enlighet med
+tillstånd som avses i 30 § 1 eller 2. Lag (2011:882).
+
+Fusion eller delning av en mottagarfond
+
+38 § En matarfond ska upplösas om mottagarfonden fusioneras
+eller delas, såvida inte Finansinspektionen, efter ansökan av
+det fondbolag som förvaltar matarfonden, godkänner att
+
+1. matarfondens medel placeras i en annan mottagarfond enligt
+6 §, eller
+
+2. fondbestämmelserna ändras på annat sätt enligt 4 kap. 9 §.
+
+Om det fondbolag som förvaltar matarfonden avser att efter
+fusionen eller delningen placera matarfondens medel i samma
+mottagarfond och ändring av fondbestämmelserna inte krävs, ska
+fondbolaget i stället för det som anges i första stycket
+anmäla detta till Finansinspektionen. Lag (2011:882).
+
+39 § Underrättelse om att matarfonden ska upplösas, en
+fullständig ansökan enligt 38 § första stycket 1 eller 2,
+eller en anmälan enligt 38 § andra stycket ska ges in till
+Finansinspektionen senast en månad från det att fondbolaget
+som förvaltar matarfonden fått information om att
+mottagarfonden ska fusioneras eller delas.
+
+Om fondbolaget fått sådan information mer än fyra månader före
+den dag då fusionen eller delningen ska genomföras, ska
+underrättelsen, den fullständiga ansökan eller anmälan dock
+ges in senast tre månader före den dag då fusionen eller
+delningen ska genomföras. Lag (2011:882).
+
+40 § Finansinspektionen ska underrätta fondbolaget om sitt
+beslut i en fråga som avses i 38 § första stycket 1 eller 2
+inom 15 arbetsdagar från det att en fullständig ansökan har
+lämnats in. Lag (2011:882).
+
+41 § Fondbolaget som förvaltar matarfonden ska underrätta det
+fondbolag som förvaltar mottagarfonden om Finansinspektionens
+beslut i en fråga som avses i 38 § första stycket 1 eller 2.
+Lag (2011:882).
+
+42 § Om matarfonden ska upplösas enligt 38 § ska förvaltningen
+övertas av förvaringsinstitutet. Övertagandet får ske tidigast
+tre månader från det att de ändrade förhållandena kungjorts
+enligt 43 §, om inte Finansinspektionen beslutar att
+övertagandet får ske tidigare.
+
+Fondbolaget ska utan dröjsmål underrätta det fondbolag som
+förvaltar mottagarfonden om beslutet att upplösa matarfonden.
+Lag (2011:882).
+
+43 § Information om att matarfonden ska upplösas och
+förvaltningen övertas av förvaringsinstitutet ska utan
+dröjsmål kungöras av fondbolaget i Post- och Inrikes Tidningar
+samt finnas att tillgå hos fondbolaget och
+förvaringsinstitutet.
+
+Finansinspektionen får i ett enskilt fall besluta om undantag
+från kravet på kungörande, om det finns särskilda skäl för
+det. Lag (2011:882).
+
+44 § Ett förvaringsinstitut som har övertagit förvaltningen av
+en matarfond enligt 42 § ska snarast upplösa fonden genom att
+sälja tillgångarna i fonden och skifta ut nettobehållningen
+till fondandelsägarna.
+
+För förvaringsinstitutets förvaltning av matarfonden gäller 9
+kap. 3 §, 5 § andra stycket och 6 § i tillämpliga delar.
+Lag (2011:882).
+
+45 § Fondbolaget som förvaltar matarfonden ska begära inlösen
+av fondandelarna i mottagarfonden om Finansinspektionen har
+avslagit en ansökan om godkännande som avses i 38 § första
+stycket 1 eller 2 eller inte har meddelat beslut i frågan
+senast arbetsdagen före den sista dag då andelar i
+mottagarfonden får lösas in innan fusionen eller delningen
+genomförs.
+
+Sådan inlösen ska också ske om matarfonden ska upplösas enligt
+38 § eller om det behövs för att säkerställa andelsägarnas
+rätt till inlösen av andelar i matarfonden enligt 7 § eller 4
+kap. 9 b §. Lag (2011:882).
+
+46 § Medel som tillfaller matarfonden när andelar i
+mottagarfonden inlöses enligt 45 § får bestå av pengar eller
+finansiella instrument. De tillgångar som mottagits får
+förvaltas till dess matarfonden ska upplösas eller fondmedlen
+placeras i enlighet med tillstånd som avses i 38 § första
+stycket 1 eller 2. Lag (2011:882).
+
+Särskilda bestämmelser om mottagarfonder och
+mottagarfondföretag
+
+47 § En mottagarfond som har minst två matarfonder som
+andelsägare behöver inte vara öppen för kapitaltillskott från
+allmänheten. Lag (2011:882).
+
+48 § Ett mottagarfondföretag vars andelar inte marknadsförs
+här i landet på annat sätt än att de innehas av en eller flera
+matarfonder behöver inte uppfylla kraven i 1 kap. 7 §.
+
+Ett fondbolag som inte marknadsför andelar i en mottagarfond i
+ett annat land inom EES på annat sätt än att de innehas av ett
+eller flera matarfondföretag behöver inte uppfylla kraven i 2
+kap. 15 c § första stycket. Lag (2011:882).
+
+49 § Ett fondbolag som förvaltar en mottagarfond ska till
+Finansinspektionen lämna uppgift om varje matarfond eller
+matarfondföretag vars medel placeras i mottagarfonden.
+
+Om en sådan uppgift avser ett matarfondföretag, ska
+Finansinspektionen lämna uppgiften till behörig myndighet i
+matarfondföretagets hemland. Lag (2011:882).
+
+50 § Ett fondbolag som förvaltar en mottagarfond får inte ta
+ut någon avgift av matarfonden för försäljning eller inlösen
+av andelar i mottagarfonden. Lag (2011:882).
+
+51 § Ett fondbolag som förvaltar en mottagarfond ska på
+begäran lämna den information som avses i 4 kap. 20 § även
+till förvaringsinstitutet och revisorn för matarfonden.
+Lag (2011:882).
+
+52 § En fusion eller en delning av en mottagarfond får
+genomföras tidigast 60 dagar från det att den information som
+avses i 8 kap. 8 eller 25 § lämnats till
+
+1. andelsägarna i mottagarfonden, och
+
+2. behörig myndighet i matarfondföretagets hemland, om
+mottagarfonden har ett matarfondföretag som andelsägare.
+Lag (2011:882).
+
+53 § Om en mottagarfond ska delas har det fondbolag som
+förvaltar en matarfond rätt att lösa in andelarna i
+mottagarfonden innan delningen genomförs. Fondbolaget ska ges
+möjlighet att begära inlösen under minst 30 dagar från dagen
+för underrättelsen om delningen enligt 8 kap. 25 §.
+Lag (2011:882).
+
+54 § En mottagarfond får upplösas enligt 9 kap. 2 § tidigast
+tre månader från det att det kungjorts enligt 9 kap. 4 §
+första stycket att förvaltningen av fonden ska övertas av
+förvaringsinstitutet och en underrättelse om övertagandet
+lämnats till
+
+1. det fondbolag som förvaltar matarfonden,
+
+2. Finansinspektionen, om mottagarfonden har en matarfond som
+andelsägare, och
+
+3. behörig myndighet i matarfondföretagets hemland, om
+mottagarfonden har ett matarfondföretag som andelsägare.
+Lag (2011:882).
 
 6 kap. Förvaltning av specialfonder
 
@@ -1571,10 +2580,23 @@ föremål för handel på någon finansiell marknad och inte medför
 en skyldighet att leverera eller ta emot den underliggande
 tillgången.
 
+3 § Om medel i en specialfond till minst 85 procent av fondens
+värde ska placeras i andelar i en investeringsfond tillämpas
+5 a kap. 5 § första stycket och andra stycket 16, 6 § första
+stycket, 8 §, 9 §, 1116 §§, 1820 §§, 2225 §§, 27 § första
+och andra styckena, 29 §, 30 § 2, 31 §, 3337 §§, 38 § första
+stycket 2 och andra stycket, 39 §, 4146 §§, 49 § första
+stycket, 50 och 51 §§, 52 § 1, 53 § samt 54 § 1 och 2. Det som
+anges om en värdepappersfond eller en matarfond ska avse
+specialfonden och det som anges om en mottagarfond ska avse
+den investeringsfond som specialfondens medel placeras i.
+Hänvisningar till placering enligt 1 § ska avse en
+specialfonds placering enligt denna paragraf. Lag (2011:882).
+
 Risknivå
 
-3 § Ett fondbolag skall för varje specialfond beräkna och till
-Finansinspektionen redovisa fondens risknivå.
+4 § Ett fondbolag skall för varje specialfond beräkna och till
+Finansinspektionen redovisa fondens risknivå. Lag (2011:882).
 
 7 kap. Portföljförvaltning avseende finansiella instrument
 
@@ -1608,59 +2630,428 @@ bestämmelserna i 8 kap. 1, 9-12, 14, 21-23, 26, 27 och 34 §§
 samt 35 § första stycket lagen (2007:528) om
 värdepappersmarknaden. Lag (2007:562).
 
-8 kap. Sammanläggning och delning av en investeringsfond m.m.
+8 kap. Fusion och delning av investeringsfonder m.m.
 
-1 § Ett fondbolag får, efter tillstånd av Finansinspektionen,
-lägga samman investeringsfonder. Tillstånd till en
-sammanläggning skall lämnas om
+Vad en fusion innebär
 
-1. åtgärden kan anses förenlig med fondandelsägarnas intressen,
+1 § Två eller flera värdepappersfonder får läggas samman genom
+att samtliga tillgångar och skulder i en eller flera av
+fonderna överförs till en annan fond mot vederlag till
+andelsägarna i den eller de överlåtande fonderna (fusion). Vid
+fusionen upplöses den eller de överlåtande fonderna.
 
-2. de fonder som skall läggas samman har placeringsinriktning
-och fondbestämmelser som är likartade, samt
+Fusion kan ske
 
-3. sammanläggningen inte är olämplig från allmän synpunkt.
+1. mellan den övertagande värdepappersfonden på ena sidan och
+en eller flera överlåtande värdepappersfonder på den andra
+(absorption), eller
 
-Ett fondbolag får, efter tillstånd av Finansinspektionen, dela
-en investeringsfond. Tillstånd till en delning skall lämnas om
-åtgärden kan anses förenlig med fondandelsägarnas intressen.
+2. mellan två eller flera överlåtande värdepappersfonder genom
+att de bildar en ny övertagande värdepappersfond
+(kombination). Lag (2011:882).
 
-Ett fondbolag som har fått tillstånd till en sammanläggning
-eller en delning skall genast underrätta andelsägarna om den
-planerade åtgärden och Finansinspektionens beslut. Denna
-information skall också finnas att tillgå hos fondbolaget och
-förvaringsinstitutet. En sammanläggning eller delning får
-verkställas tidigast tre månader från dagen för
-Finansinspektionens beslut.
+Fusionsvederlag
 
-2 § En värdepappersfond får inte ombildas till en
-specialfond. Lag (2009:360).
+2 § Vederlaget till andelsägarna i den eller de överlåtande
+värdepappersfonderna (fusionsvederlaget) ska bestå av andelar
+i den övertagande värdepappersfonden. Om det behövs för att
+genomföra fusionen, får fusionsvederlaget även bestå av
+pengar. Den delen av vederlaget får dock uppgå till högst tio
+procent av värdet av andelsägarnas andelar i den överlåtande
+fonden. Lag (2011:882).
+
+Fusionsplan
+
+3 § Det eller de fondbolag som förvaltar de värdepappersfonder
+som ska ingå i fusionen ska upprätta en fusionsplan som är
+gemensam för fonderna.
+
+Fusionsplanen ska innehålla uppgifter om
+
+1. vilka fonder som ska ingå i fusionen och vilket slag av
+fusion enligt 1 § andra stycket som avses,
+
+2. bakgrunden till och syftet med fusionen,
+
+3. fusionens sannolika konsekvenser för fondandelsägarna,
+
+4. vilka metoder som ska användas för värdering av tillgångar
+och skulder vid tidpunkten för beräkning av
+utbytesförhållandet enligt 4 §,
+
+5. vilken metod som ska användas för beräkning av det
+utbytesförhållande som avses i 4 §,
+
+6. den planerade tidpunkten för genomförandet av fusionen, och
+
+7. tillämpliga regler för överföring av tillgångar och utbyte
+av fondandelar.
+
+Vid kombination ska fusionsplanen även innehålla den
+övertagande värdepappersfondens fondbestämmelser.
+Lag (2011:882).
+
+4 § Det eller de fondbolag som avses i 3 § ska fastställa
+tidpunkten för beräkning av utbytesförhållandet mellan andelar
+i den överlåtande och den övertagande värdepappersfonden samt,
+i förekommande fall, kontant ersättning. Tidpunkten ska
+fastställas till en dag som infaller före den dag då fusionen
+genomförs. Lag (2011:882).
+
+Utlåtande av förvaringsinstitut
+
+5 § Varje förvaringsinstitut för de värdepappersfonder som ska
+ingå i fusionen ska i ett utlåtande för var och en av de
+fonder vars tillgångar institutet förvarar bekräfta att
+uppgifterna i fusionsplanen enligt 3 § andra stycket 1, 6 och
+7 är förenliga med bestämmelserna i denna lag och fondernas
+fondbestämmelser. Lag (2011:882).
+
+Revisorsgranskning
+
+6 § En revisor ska granska
+
+1. de metoder som ska användas för värdering av tillgångar och
+skulder vid tidpunkten för beräkning av utbytesförhållandet
+enligt 4 §,
+
+2. den kontanta ersättningen per andel, och
+
+3. den metod som ska användas för beräkning av det
+utbytesförhållande som avses i 4 §.
+
+Revisorn ska upprätta ett yttrande över granskningen.
+
+När fusionen har genomförts ska revisorn lämna uppgifter om
+det fastställda utbytesförhållandet till Finansinspektionen.
+
+Den revisor som utför granskningen ska vara en auktoriserad
+eller godkänd revisor eller ett registrerat revisionsbolag.
+Lag (2011:882).
+
+7 § Det eller de fondbolag som förvaltar de värdepappersfonder
+som ska ingå i fusionen ska på begäran lämna revisorns
+yttrande enligt 6 § kostnadsfritt till andelsägarna i de
+överlåtande och övertagande värdepappersfonderna.
+Lag (2011:882).
+
+Information till fondandelsägare
+
+8 § När tillstånd till fusionen har getts ska de fondbolag som
+förvaltar värdepappersfonderna som ingår i fusionen
+tillhandahålla lämplig och rättvisande information om fusionen
+till andelsägarna i fonderna.
+
+Av informationen ska det framgå
+
+1. bakgrunden till och syftet med fusionen,
+
+2. de konsekvenser fusionen kan få för andelsägarna,
+
+3. vilka rättigheter andelsägarna har i samband med fusionen
+enligt 11 §, och
+
+4. uppgifter om förfarandet och den planerade tidpunkten för
+genomförandet av fusionen.
+
+Tillsammans med informationen till andelsägarna i en
+överlåtande värdepappersfond ska den övertagande
+värdepappersfondens faktablad lämnas. Om faktabladet ändrats i
+samband med fusionen ska det också lämnas till andelsägarna i
+den övertagande värdepappersfonden.
+
+Informationen enligt förstatredje styckena ska även
+tillhandahållas den som innan fusionen genomförs tecknar
+andelar i någon av värdepappersfonderna samt den som begär
+sådan information som avses i 4 kap. 20 § första stycket.
+Lag (2011:882).
+
+Tillstånd till fusion
+
+9 § Det fondbolag som förvaltar en överlåtande
+värdepappersfond ska ansöka om tillstånd till fusion hos
+Finansinspektionen.
+
+Följande handlingar ska lämnas tillsammans med ansökan:
+
+1. fusionsplan enligt 3 §,
+
+2. utlåtande av förvaringsinstitut enligt 5 §,
+
+3. revisorns yttrande enligt 6 §, och
+
+4. den information som ska tillhandahållas andelsägarna enligt
+8 §.
+
+Om en ansökan inte är fullständig, ska Finansinspektionen
+senast tio arbetsdagar från det att en ansökan har lämnats in
+begära att fondbolaget kompletterar den. Lag (2011:882).
+
+10 § Finansinspektionen ska ge tillstånd till en fusion om
+
+1. kraven enligt 3, 5, 6, 8 och 9 §§ är uppfyllda, och
+
+2. andelarna i den övertagande värdepappersfonden får
+marknadsföras i de länder där andelarna i den överlåtande
+värdepappersfonden marknadsförs enligt 2 kap. 15 c §.
+
+Finansinspektionen ska inom 20 arbetsdagar från det att en
+fullständig ansökan har lämnats in underrätta fondbolaget om
+sitt beslut i tillståndsfrågan. Lag (2011:882).
+
+Fondandelsägarnas rättigheter vid en fusion
+
+11 § Andelsägarna i de värdepappersfonder som ska ingå i en
+fusion har rätt att få sina fondandelar inlösta innan fusionen
+genomförs, utan att andra avgifter tas ut än vad som motsvarar
+kostnaderna för att avveckla värdepapper med anledning av
+begärd inlösen.
+
+I stället för inlösen av fondandelarna får andelsägarna låta
+byta dessa mot andelar i en annan värdepappersfond eller ett
+annat fondföretag med liknande placeringsinriktning som
+förvaltas av samma fondbolag eller av ett bolag som direkt
+eller indirekt har samma ledning eller ägare som fondbolaget.
+
+Möjlighet att begära inlösen eller utbyte av fondandelar
+enligt första och andra styckena ska ges under minst 30 dagar
+från den dag information om fusionen lämnas till andelsägarna
+enligt 8 §. Möjligheten ska upphöra senast fem arbetsdagar
+före dagen för beräkning av utbytesförhållandet enligt 4 §.
+Lag (2011:882).
+
+Senareläggning av försäljning och inlösen av fondandelar
+
+12 § Finansinspektionen får, efter ansökan av ett fondbolag
+eller utan sådan ansökan, tillåta eller kräva att ett
+fondbolag senarelägger försäljning och inlösen av andelar i en
+värdepappersfond som ingår i en fusion, om det är motiverat
+med hänsyn till fondandelsägarnas intressen. En sådan
+senareläggning får inte påverka andelsägarnas rättigheter
+enligt 11 §.
+
+Finansinspektionen ska underrätta behörig myndighet i ett land
+där fondandelar marknadsförs enligt 2 kap. 15 c § om sitt
+beslut. Fondbolaget ska underrätta andelsägarna om beslutet.
+
+Så snart orsakerna till senareläggningen upphört ska
+fondbolaget anmäla detta till Finansinspektionen.
+Lag (2011:882).
+
+Kostnader i samband med en fusion
+
+13 § Värdepappersfonder som ingår i en fusion och andelsägarna
+i fonderna får inte belastas med kostnader som uppkommer i
+samband med förberedandet och genomförandet av fusionen.
+Lag (2011:882).
+
+Fusionens rättsverkningar
+
+14 § En fusion får genomföras tidigast tre månader från det
+att Finansinspektionen gett tillstånd till fusionen.
+
+Vid genomförandet av fusionen inträder följande
+rättsverkningar.
+
+1. Den överlåtande värdepappersfondens tillgångar och skulder
+överförs till den övertagande värdepappersfonden.
+
+2. Andelsägarna i den överlåtande värdepappersfonden blir
+andelsägare i den övertagande värdepappersfonden och har, i
+förekommande fall, rätt till kontant utbetalning av
+fusionsvederlag.
+
+3. Den överlåtande värdepappersfonden upplöses.
+Lag (2011:882).
+
+15 § En fusion som fått rättsverkan enligt 14 § får inte
+förklaras ogiltig. Lag (2011:882).
+
+Underrättelse och offentliggörande
+
+16 § Det fondbolag som förvaltar den övertagande
+värdepappersfonden ska underrätta förvaringsinstitutet för
+fonden när överföringen av tillgångar och skulder enligt 14 §
+andra stycket 1 har slutförts.
+
+Fondbolaget ska underrätta Finansinspektionen när fusionen har
+genomförts och offentliggöra genomförandet på sin webbplats.
+Lag (2011:882).
+
+Gränsöverskridande fusion
+
+17 § En värdepappersfond får läggas samman med ett fondföretag
+som i sitt hemland har sådant tillstånd som avses i
+Europaparlamentets och rådets direktiv 2009/65/EG
+(gränsöverskridande fusion). Lag (2011:882).
+
+18 § Vid en gränsöverskridande fusion mellan en överlåtande
+värdepappersfond och ett övertagande fondföretag gäller
+följande bestämmelser i detta kapitel:
+
+1 § om vad en fusion innebär,
+
+2 § om fusionsvederlag,
+
+3 § om fusionsplan,
+
+5 § om utlåtande av förvaringsinstitut,
+
+6 och 7 §§ om revisorsgranskning,
+
+8 § om information till fondandelsägare,
+
+9 och 1921 §§ om tillstånd till fusion,
+
+11 § om fondandelsägarnas rättigheter vid en fusion,
+
+12 § om senareläggning av försäljning och inlösen av
+fondandelar,
+
+13 § om kostnader i samband med en fusion, och
+
+14 § andra stycket och 15 § om fusionens rättsverkningar.
+
+Det som anges om en övertagande värdepappersfond eller ett
+fondbolag som förvaltar en sådan fond i 13 och 5 §§, 8 §
+tredje stycket första meningen och 14 § andra stycket gäller
+på motsvarande sätt för ett övertagande fondföretag eller ett
+förvaltningsbolag som förvaltar ett sådant fondföretag.
+Lag (2011:882).
+
+19 § Tillsammans med en ansökan enligt 9 § ska det övertagande
+fondföretagets informationsbroschyr och faktablad samt den
+information som ska tillhandahållas dess andelsägare lämnas.
+Lag (2011:882).
+
+20 § Finansinspektionen ska omedelbart lämna över en kopia av
+den fullständiga ansökan enligt 9 § till behörig myndighet i
+det övertagande fondföretagets hemland. Lag (2011:882).
+
+21 § Finansinspektionen ska godkänna att en överlåtande
+värdepappersfond får ingå i en gränsöverskridande fusion om
+
+1. kraven enligt 3, 5, 6, 8, 9 och 19 §§ är uppfyllda,
+
+2. behörig myndighet i det övertagande fondföretagets hemland
+inte har meddelat att den har invändningar mot den information
+som ska lämnas till andelsägarna i fondföretaget, och
+
+3. andelarna i det övertagande fondföretaget får marknadsföras
+i de länder där andelarna i den överlåtande värdepappersfonden
+marknadsförs enligt 2 kap. 15 c § samt här i landet.
+
+Finansinspektionen ska inom 20 arbetsdagar från det att en
+fullständig ansökan har lämnats in underrätta fondbolaget om
+sitt beslut.
+
+Finansinspektionen ska underrätta behörig myndighet i det
+övertagande fondföretagets hemland om beslutet.
+Lag (2011:882).
+
+22 § Vid en gränsöverskridande fusion där en värdepappersfond
+är övertagande fond gäller följande bestämmelser i detta
+kapitel:
+
+4 § om tidpunkt för beräkning av utbytesförhållande,
+
+7 § om revisorns yttrande,
+
+8 och 23 §§ om information till fondandelsägare,
+
+11 § om fondandelsägarnas rättigheter vid en fusion,
+
+12 § om senareläggning av försäljning och inlösen av
+fondandelar,
+
+13 § om kostnader i samband med en fusion,
+
+14 § första stycket om tidpunkt för genomförande av en fusion,
+samt
+
+16 § om underrättelse och offentliggörande. Lag (2011:882).
+
+23 § Finansinspektionen ska, efter det att behörig myndighet i
+det överlåtande fondföretagets hemland överlämnat en kopia av
+ansökan om tillstånd till fusionen, bedöma om informationen
+till andelsägarna i den övertagande värdepappersfonden
+uppfyller kraven i 8 §. Finansinspektionen får senast 15
+arbetsdagar från det att kopian av ansökan överlämnats begära
+att det fondbolag som förvaltar den övertagande
+värdepappersfonden förtydligar informationen. Inspektionen ska
+omgående underrätta behörig myndighet i det överlåtande
+fondföretagets hemland om en sådan begäran.
+
+Finansinspektionen ska senast 20 arbetsdagar från det att
+fondbolaget har lämnat in kompletterande information
+underrätta behörig myndighet i det överlåtande fondföretagets
+hemland om huruvida informationen uppfyller kraven.
+Lag (2011:882).
+
+Fusion av specialfonder
+
+24 § Ett fondbolag får, efter tillstånd av Finansinspektionen,
+lägga samman specialfonder. Tillstånd får även ges till en
+fusion mellan en eller flera överlåtande specialfonder och en
+övertagande värdepappersfond.
+
+Bestämmelserna om fusion av värdepappersfonder i 116 §§
+gäller på motsvarande sätt för en fusion som avses i första
+stycket. Lag (2011:882).
+
+Delning av investeringsfonder
+
+25 § Ett fondbolag får, efter tillstånd av Finansinspektionen,
+dela en investeringsfond. Tillstånd till en delning ska lämnas
+om åtgärden kan anses förenlig med fondandelsägarnas
+intressen.
+
+Ett fondbolag som har fått tillstånd till en delning ska
+genast underrätta andelsägarna om den planerade åtgärden och
+Finansinspektionens beslut. Denna information ska också finnas
+att tillgå hos fondbolaget och förvaringsinstitutet. En
+delning får genomföras tidigast tre månader från dagen för
+Finansinspektionens beslut. Lag (2011:882).
+
+Ombildningsförbud
+
+26 § En värdepappersfond får inte ombildas till en
+specialfond. Lag (2011:882).
 
 9 kap. Upphörande och överlåtelse av förvaltningen av en
 investeringsfond
 
-1 § Ett fondbolags förvaltning av en investeringsfond skall
+1 § Ett fondbolags förvaltning av en investeringsfond ska
 omedelbart tas över av fondens förvaringsinstitut om
 
-1. Finansinspektionen har återkallat fondbolagets tillstånd att
-driva fondverksamhet,
+1. Finansinspektionen har återkallat fondbolagets tillstånd
+att driva fondverksamhet,
 
-2. fondbolaget har trätt i likvidation, eller
+2. beslut har fattats om att fondbolaget ska gå i
+tvångslikvidation, eller
 
 3. fondbolaget har försatts i konkurs.
 
 Om ett fondbolag vill upphöra med förvaltningen av en
-investeringsfond, skall förvaltningen övertas av
+investeringsfond, ska förvaltningen övertas av
 förvaringsinstitutet vid den tidpunkt då verksamheten upphör.
+
+Har en investeringsfond varken andelsägare eller
+fondförmögenhet får fondbolaget, i stället för det som anges i
+andra stycket, efter tillstånd av Finansinspektionen avveckla
+fonden. Fondbolaget ska tillsammans med en ansökan om sådant
+tillstånd lämna ett intyg från bolagets revisor om att fonden
+saknar andelsägare och inte har några tillgångar eller
+skulder.
 
 Ett fondbolag får efter tillstånd av Finansinspektionen
 överlåta förvaltningen av en investeringsfond till ett annat
 fondbolag.
 
-Ett övertagande enligt andra eller tredje stycket får ske
+Ett övertagande enligt andra eller fjärde stycket får ske
 tidigast tre månader från det att de ändrade förhållandena
 kungjorts enligt 4 §, om inte Finansinspektionen beslutar att
-övertagandet får ske tidigare.
+övertagandet får ske tidigare. Lag (2011:882).
 
 2 § Ett förvaringsinstitut som har övertagit förvaltningen av
 en investeringsfond från ett fondbolag skall snarast överlåta
@@ -1719,17 +3110,19 @@ Tillsynen och dess omfattning
 förvaltningsbolag som avses i 1 kap. 6 och 8 §§, fondföretag
 som avses i 1 kap. 7 och 9 §§ samt förvaringsinstitut.
 
-För fondbolag och svenska förvaringsinstitut omfattar tillsynen
-att verksamheten drivs enligt denna lag, andra författningar
-som reglerar företagets verksamhet, fondbestämmelserna,
-företagets bolagsordning, stadgar eller reglemente och interna
-instruktioner som har sin grund i en författning som reglerar
-företagets verksamhet.
+För fondbolag och svenska förvaringsinstitut omfattar
+tillsynen att verksamheten drivs enligt denna lag, andra
+författningar som reglerar företagets verksamhet,
+fondbestämmelserna, företagets bolagsordning, stadgar eller
+reglemente och interna instruktioner som har sin grund i en
+författning som reglerar företagets verksamhet.
 
 För förvaltningsbolag och fondföretag samt förvaringsinstitut
 som driver verksamhet från filial i Sverige omfattar tillsynen
 att företaget följer de lagar och andra författningar som
-gäller för företagets verksamhet i Sverige. Lag (2008:282).
+gäller för företagets verksamhet i Sverige samt, när en
+värdepappersfond förvaltas enligt 1 kap. 6 b §, det som anges
+i fondbestämmelserna. Lag (2011:882).
 
 2 § Fondbolag, förvaltningsbolag och fondföretag som avses i
 1 § första stycket samt förvaringsinstitut ska lämna
@@ -1767,27 +3160,31 @@ undersökning hos
 1. ett fondbolag,
 
 2. ett förvaltningsbolag eller fondföretag som driver
-verksamhet från filial i Sverige, samt
+verksamhet i Sverige, samt
 
 3. ett förvaringsinstitut.
 
 Finansinspektionen får även genomföra en undersökning hos ett
-företag som har fått i uppdrag av ett fondbolag att utföra
+företag som har fått i uppdrag av ett fondbolag eller ett
+förvaltningsbolag som driver verksamhet i Sverige att utföra
 visst arbete eller vissa funktioner, om det behövs för
-tillsynen av fondbolaget. Lag (2008:282).
+tillsynen av fondbolaget eller förvaltningsbolaget.
+Lag (2011:882).
 
-Samarbete med behöriga myndigheter
+Samarbete mellan behöriga myndigheter
 
-5 § Efter anmälan till Finansinspektionen får en behörig
-myndighet i ett annat land inom EES genomföra en undersökning
-hos filialen till ett sådant förvaltningsbolag som avses i 1
-kap. 6 §. Lag (2008:282).
+5 § Finansinspektionen ska i sin tillsynsverksamhet samarbeta
+och utbyta information med behöriga myndigheter i den
+utsträckning som följer av Europaparlamentets och rådets
+direktiv 2009/65/EG. Lag (2011:882).
 
-6 § Finansinspektionen ska till en behörig myndighet i ett
-annat land inom EES lämna de uppgifter som den myndigheten
-behöver för sin tillsyn över ett förvaltningsbolag och ett
-fondföretag som driver verksamhet enligt 1 kap. 6 eller 7 §.
-Lag (2008:282).
+6 § Finansinspektionen ska inom ramen för sin befogenhet,
+efter begäran från en behörig myndighet i ett annat land inom
+EES, lämna eller kontrollera information som behövs för att
+den utländska myndigheten ska kunna utöva sin tillsyn enligt
+Europaparlamentets och rådets direktiv 2009/65/EG. Den
+utländska myndigheten får närvara vid en undersökning som
+utförs av Finansinspektionen. Lag (2011:882).
 
 6 a § Finansinspektionen ska inom ramen för sin befogenhet,
 efter begäran från en behörig myndighet i ett annat land,
@@ -1862,65 +3259,102 @@ utgör ett kvalificerat innehav, krävs tillstånd av
 Finansinspektionen för förvärvet. Detsamma gäller ett förvärv
 som innebär att ett kvalificerat innehav ökas
 
-1. så att det uppgår till eller överstiger 20, 33 eller 50
-procent av aktiekapitalet eller röstetalet för samtliga aktier,
-eller
+1. så att det uppgår till eller överstiger 20, 30 eller 50
+procent av aktiekapitalet eller röstetalet för samtliga
+aktier, eller
 
 2. så att fondbolaget blir dotterbolag.
 
-Tillstånd enligt första stycket ska inhämtas före förvärvet. Om
-förvärvet har gjorts genom bodelning, arv, testamente eller
-bolagsskifte eller på något annat liknande sätt, krävs i
-stället tillstånd för att förvärvaren ska få behålla aktierna.
-Förvärvaren ska då ansöka om tillstånd inom sex månader efter
-förvärvet. Lag (2008:282).
+Tillstånd enligt första stycket ska inhämtas före förvärvet.
+Ansökan om tillstånd ska göras skriftligen. Om förvärvet har
+gjorts genom bodelning, arv, testamente, bolagsskifte eller på
+annat liknande sätt, krävs i stället tillstånd för att
+förvärvaren ska få behålla aktierna. Förvärvaren ska då ansöka
+om tillstånd inom sex månader efter förvärvet.
 
-2 § Frågan om tillstånd får avgöras först efter samråd med
-behörig myndighet i ett annat land inom EES, om ett förvärv
-enligt 1 § första stycket skulle innebära att ett fondbolag
-blir dotterbolag eller kommer under kontroll av
+Finansinspektionen ska inom två arbetsdagar från det att en
+fullständig ansökan kom in till inspektionen skicka en
+bekräftelse till förvärvaren om att ansökan har tagits emot.
+Lag (2011:882).
 
-1. ett i det landet auktoriserat förvaltningsbolag,
-kreditinstitut, företag för elektroniska pengar eller
-försäkringsföretag,
+2 § Frågan om tillstånd enligt 1 § till förvärv i ett
+fondbolag får avgöras först efter samråd med behörig myndighet
+i ett annat land inom EES, om förvärvaren är
+
+1. ett i det landet auktoriserat värdepappersföretag,
+kreditinstitut, företag för elektroniska pengar,
+försäkringsföretag eller ett förvaltningsbolag som omfattas av
+Europaparlamentets och rådets direktiv 2009/65/EG,
 
 2. ett moderföretag till ett sådant företag som avses i 1,
 eller
 
 3. en fysisk eller juridisk person som kontrollerar ett sådant
-företag som avses i 1. Lag (2008:282).
+företag som avses i 1. Lag (2011:882).
 
-3 § Tillstånd ska ges till förvärv som avses i 1 §, om det
-finns skäl att anta att förvärvaren
+3 § Tillstånd ska ges till förvärv som avses i 1 §, om
+förvärvaren bedöms lämplig att utöva ett väsentligt inflytande
+över ledningen av ett fondbolag och det kan antas att det
+tilltänkta förvärvet är ekonomiskt sunt. Hänsyn ska tas till
+förvärvarens sannolika påverkan på verksamheten i fondbolaget.
 
-1. inte kommer att motverka att verksamheten drivs på ett sätt
-som är förenligt med denna lag och andra författningar som
-reglerar bolagets verksamhet, och
+Vid bedömningen enligt första stycket ska förvärvarens
+anseende och kapitalstyrka beaktas. Det ska också beaktas
 
-2. även i övrigt är lämplig att utöva ett väsentligt inflytande
-över ledningen av ett fondbolag.
+1. om den som till följd av förvärvet kommer att ingå i
+styrelsen för fondbolaget eller vara verkställande direktör i
+detta bolag eller vara ersättare för någon av dem, har
+tillräcklig insikt och erfarenhet för att delta i ledningen av
+ett fondbolag och även i övrigt är lämplig för en sådan
+uppgift,
 
-Tillstånd får inte ges, om förvärvaren i väsentlig mån har
-åsidosatt sina skyldigheter i näringsverksamhet eller i andra
-ekonomiska angelägenheter eller gjort sig skyldig till
-allvarlig brottslighet.
+2. om det finns skäl att anta att förvärvaren kommer att
+motverka att fondbolagets verksamhet drivs på ett sätt som är
+förenligt med denna lag och andra författningar som reglerar
+bolagets verksamhet, och
+
+3. om det finns skäl att anta att förvärvet har samband med
+eller kan öka risken för
+
+a) penningtvätt enligt 1 kap. 5 § 6 lagen (2009:62) om
+åtgärder mot penningtvätt och finansiering av terrorism, eller
+
+b) brott enligt 2 § 2, 3 § eller 4 § lagen (2002:444) om
+straff för finansiering av särskilt allvarlig brottslighet i
+vissa fall, såvitt avser brott enligt 2 § lagen (2003:148) om
+straff för terroristbrott.
+
+Om förvärvaren är ett blandat finansiellt holdingföretag, ska
+det vid bedömningen av förvärvarens anseende särskilt beaktas
+om dess ledning uppfyller de krav som ställs på ledningen i
+ett sådant företag enligt 5 kap. 16 § lagen (2006:531) om
+särskild tillsyn över finansiella konglomerat.
 
 Om förvärvet skulle leda till nära förbindelser mellan
 fondbolaget och någon annan, ska tillstånd ges bara om
 förbindelserna inte hindrar en effektiv tillsyn av bolaget.
+Lag (2011:882).
 
-Finansinspektionen får besluta en viss tid inom vilken ett
-förvärv ska genomföras.
+3 a § Finansinspektionens beslut i en fråga om tillstånd till
+förvärv som avses i 1 § ska meddelas inom 60 arbetsdagar från
+det att den bekräftelse som avses i 1 § tredje stycket
+skickades (bedömningsperioden). Om Finansinspektionen begär
+kompletterande uppgifter, får bedömningsperioden förlängas.
 
-Finansinspektionen ska meddela beslut i ett ärende enligt denna
-paragraf inom tre månader från det att ansökan om tillstånd
-gjordes. Lag (2008:282).
+Finansinspektionen ska anses ha beviljat tillstånd till
+förvärvet, om inspektionen inte inom bedömningsperioden har
+meddelat beslut i fråga om ansökan.
 
-4 § Den som avser att avyttra ett kvalificerat innehav eller en
-så stor del av ett kvalificerat innehav att innehavet därigenom
-kommer att understiga någon av de i 1 § första stycket angivna
-gränserna, ska underrätta Finansinspektionen om detta.
-Lag (2008:282).
+Om Finansinspektionen beviljar tillstånd till ett förvärv, får
+inspektionen besluta en viss tid inom vilken förvärvet ska
+genomföras. Inspektionen får besluta att förlänga tiden.
+Lag (2011:882).
+
+4 § Den som har beslutat att avyttra ett kvalificerat innehav
+eller en så stor del av ett kvalificerat innehav att innehavet
+därigenom kommer att understiga någon av de i 1 § första
+stycket angivna gränserna, ska skriftligen underrätta
+Finansinspektionen om detta. Lag (2011:882).
 
 5 § När ett fondbolag får kännedom om ett förvärv eller en
 avyttring av aktier i bolaget som kräver tillstånd enligt 1 §
@@ -1947,24 +3381,40 @@ kvalificerat
 
 1. om ägaren motverkar eller kan antas komma att motverka att
 fondbolagets verksamhet drivs på ett sätt som är förenligt med
-denna lag eller andra författningar som reglerar bolagets
-verksamhet, eller
+kraven i denna lag och andra författningar som reglerar
+bolagets verksamhet,
 
 2. om ägaren i väsentlig utsträckning har åsidosatt sina
 skyldigheter i näringsverksamhet eller i andra ekonomiska
 angelägenheter eller gjort sig skyldig till allvarlig
-brottslighet.
+brottslighet,
+
+3. om ägaren är ett blandat finansiellt holdingföretag och
+dess ledning inte uppfyller de krav som ställs på ledningen i
+ett sådant företag enligt 5 kap. 16 § lagen (2006:531) om
+särskild tillsyn över finansiella konglomerat, eller
+
+4. om det finns skäl att anta att innehavet har samband med
+eller kan öka risken för
+
+a) penningtvätt enligt 1 kap. 5 § 6 lagen (2009:62) om
+åtgärder mot penningtvätt och finansiering av terrorism, eller
+
+b) brott enligt 2 § 2, 3 § eller 4 § lagen (2002:444) om
+straff för finansiering av särskilt allvarlig brottslighet i
+vissa fall, såvitt avser brott enligt 2 § lagen (2003:148) om
+straff för terroristbrott.
 
 Om den som har ett kvalificerat innehav av aktier inte har
 ansökt om tillstånd till ett förvärv som avses i 1 §, får
-Finansinspektionen besluta att innehavaren vid stämman inte får
-företräda aktierna till den del de omfattas av ett krav på
+Finansinspektionen besluta att innehavaren vid stämman inte
+får företräda aktierna till den del de omfattas av ett krav på
 tillstånd.
 
 Om någon i strid med ett beslut av Finansinspektionen har ett
 kvalificerat innehav av aktier, får innehavaren inte företräda
 aktierna vid stämman till den del innehavet står i strid med
-beslutet. Lag (2008:282).
+beslutet. Lag (2011:882).
 
 8 § Finansinspektionen får förelägga en ägare som avses i 7 §
 första stycket att avyttra så stor del av aktierna att
@@ -2063,16 +3513,17 @@ sådan verksamhet som tillståndet avser.
 I de fall som avses i första stycket 1, 2 och 4 får i stället
 varning meddelas om det är tillräckligt. Lag (2008:282).
 
+4 a § Innan Finansinspektionen återkallar tillståndet för ett
+fondbolag som förvaltar fondföretag som avses i 2 kap. 12 §
+andra stycket eller 15 § andra stycket, ska inspektionen
+samråda med behörig myndighet i fondföretagets hemland.
+Lag (2011:882).
+
 5 § Finansinspektionen ska omedelbart underrätta behöriga
 myndigheter i de andra länder inom EES där ett fondbolag
-utbjuder andelar i en värdepappersfond som bolaget förvaltar,
-när
-
-1. någon åtgärd enligt 1, 3 eller 4 § har vidtagits mot
-bolaget, och
-
-2. uppskov med inlösen av fondandelar enligt 4 kap. 13 § första
-stycket har anmälts till inspektionen. Lag (2008:282).
+marknadsför andelar i en värdepappersfond som bolaget
+förvaltar, när någon åtgärd enligt 1, 3 eller 4 § har
+vidtagits mot bolaget. Lag (2011:882).
 
 6 § Om en behörig myndighet har underrättat Finansinspektionen
 om att ett fondbolag överträtt föreskrifter som gäller i det
@@ -2143,25 +3594,31 @@ Ingripande mot förvaltningsbolag och fondföretag
 15 § Om ett förvaltningsbolag som driver verksamhet i Sverige
 efter anmälan enligt 1 kap. 6 § åsidosätter sina skyldigheter
 enligt denna lag eller andra författningar som reglerar
-bolagets verksamhet i Sverige, får Finansinspektionen förelägga
-bolaget att göra rättelse.
+bolagets verksamhet i Sverige eller fondbestämmelserna för en
+värdepappersfond som förvaltas enligt 1 kap. 6 b §, får
+Finansinspektionen förelägga bolaget att göra rättelse.
 
 Om förvaltningsbolaget inte följer föreläggandet, ska
 Finansinspektionen underrätta behörig myndighet i bolagets
 hemland.
 
-Om rättelse inte sker, får Finansinspektionen förbjuda
-förvaltningsbolaget att påbörja nya transaktioner i Sverige.
-Innan ett förbud meddelas ska inspektionen underrätta behörig
+Om rättelse inte sker, får Finansinspektionen vidta sådana
+åtgärder som avses i 1 § andra stycket första meningen eller
+förbjuda förvaltningsbolaget att påbörja nya transaktioner i
+Sverige. Inspektionen får också besluta att bolaget inte
+längre får förvalta en värdepappersfond. Innan en åtgärd
+enligt detta stycke vidtas ska inspektionen underrätta behörig
 myndighet i bolagets hemland. I brådskande fall får
-inspektionen meddela ett förbud utan föregående underrättelse
-till hemlandsmyndigheten. Denna och Europeiska gemenskapernas
-kommission ska då underrättas så snart som möjligt.
+inspektionen dock vidta en sådan åtgärd utan föregående
+föreläggande enligt första stycket eller underrättelse till
+hemlandsmyndigheten. Denna och Europeiska kommissionen ska då
+underrättas så snart som möjligt.
 
-Om Finansinspektionen har meddelat ett förbud enligt tredje
-stycket utan föregående underrättelse till hemlandsmyndigheten
-och kommissionen därefter har beslutat att förbudet ska
-undanröjas, ska inspektionen göra det. Lag (2008:282).
+Om Finansinspektionen har vidtagit en åtgärd enligt tredje
+stycket utan föregående föreläggande eller underrättelse till
+hemlandsmyndigheten och kommissionen därefter har beslutat att
+åtgärden ska undanröjas, ska inspektionen göra det.
+Lag (2011:882).
 
 16 § Om ett förvaltningsbolag som driver verksamhet i Sverige
 efter anmälan enligt 1 kap. 6 § har fått sitt
@@ -2169,17 +3626,31 @@ verksamhetstillstånd återkallat i hemlandet, ska
 Finansinspektionen genast förbjuda bolaget att påbörja nya
 transaktioner i Sverige. Lag (2008:282).
 
-17 § Om ett fondföretag som driver verksamhet i Sverige efter
-anmälan enligt 1 kap. 7 § åsidosätter sina skyldigheter enligt
-denna lag eller andra författningar som reglerar företagets
-verksamhet i Sverige, får Finansinspektionen förelägga
-företaget att göra rättelse. Om rättelse inte sker, får
-inspektionen förbjuda företaget att påbörja nya transaktioner i
-Sverige.
+17 § Om ett fondföretag som driver verksamhet i Sverige enligt
+1 kap. 7 § åsidosätter sina skyldigheter enligt denna lag
+eller andra författningar som reglerar företagets verksamhet i
+Sverige, får Finansinspektionen förelägga företaget att göra
+rättelse. Om rättelse inte sker, får inspektionen förbjuda
+företaget att påbörja nya transaktioner i Sverige.
 
 Finansinspektionen ska underrätta behörig myndighet i
 företagets hemland om åtgärder som vidtagits med stöd av denna
-paragraf. Lag (2008:282).
+paragraf. Lag (2011:882).
+
+17 a § Om Finansinspektionen har skäl att anta att ett
+fondföretag som driver verksamhet i Sverige enligt 1 kap. 7 §
+vid marknadsföringen åsidosätter sina skyldigheter enligt
+Europaparlamentets och rådets direktiv 2009/65/EG i annat fall
+än som avses i 17 §, ska Finansinspektionen underrätta behörig
+myndighet i företagets hemland.
+
+Om rättelse inte sker och detta innebär att investerares
+intressen i Sverige skadas, får Finansinspektionen förelägga
+fondföretaget att göra rättelse eller förbjuda fondföretaget
+att påbörja nya transaktioner i Sverige. Innan en sådan åtgärd
+vidtas ska Finansinspektionen underrätta behörig myndighet i
+företagets hemland. Europeiska kommissionen ska omedelbart
+underrättas när en sådan åtgärd vidtagits. Lag (2011:882).
 
 18 § Om ett förvaltningsbolag eller ett fondföretag som driver
 verksamhet i Sverige med stöd av tillstånd enligt 1 kap. 8
@@ -2213,44 +3684,85 @@ med vite. Lag (2008:282).
 
 13 kap. Bemyndiganden
 
-1 § Regeringen eller den myndighet som regeringen bestämmer får
-meddela föreskrifter om
+1 § Regeringen eller den myndighet som regeringen bestämmer
+får meddela föreskrifter om
 
 1. vilka poster som får räknas in i startkapitalet enligt 2
 kap. 4 §,
 
-2. vilka poster som får räknas in i egna medel enligt 2 kap. 8,
-9 och 11 §§,
+2. vilka poster som får räknas in i egna medel enligt 2 kap.
+8, 9 och 11 §§,
 
-3. vilka sundhetskrav som ska uppfyllas av ett fondbolag enligt
-2 kap. 17 §,
+3. på vilket språk underrättelsen enligt 2 kap. 15 c § första
+stycket ska skrivas,
 
-4. kriterier för de finansiella tillgångar som medel i en
-värdepappersfond får placeras i enligt 5 kap. 1 § andra stycket
-första meningen,
+4. hur fondbolaget ska offentliggöra handlingarna enligt 2
+kap. 15 c § tredje stycket,
 
-5. vilka tekniker och instrument ett fondbolag får använda
+5. vad ett fondbolag ska iaktta för att uppfylla
+skyldigheterna i 2 kap. 17 och 17 b §§,
+
+6. vilken information som ska lämnas i underrättelsen till
+andelsägare enligt 4 kap. 9 a § och på vilket sätt
+underrättelsen ska lämnas,
+
+7. tillhandahållande av informationsbroschyr och faktablad
+enligt 4 kap. 20 §,
+
+8. på vilket språk informationen enligt 4 kap. 20 § ska
+tillhandahållas,
+
+9. kriterier för de finansiella tillgångar som medel i en
+värdepappersfond får placeras i enligt 5 kap. 1 § andra
+stycket första meningen,
+
+10. vilka tekniker och instrument ett fondbolag får använda
 enligt 5 kap. 1 § tredje stycket samt villkor och gränser för
 sådan användning,
 
-6. kriterier för indexfonder enligt 5 kap. 7 §,
+11. det system för riskhantering som ett fondbolag ska ha
+enligt 5 kap. 2 § första och andra styckena,
 
-7. hur beräkning och redovisning av en specialfonds risknivå
-ska utföras enligt 6 kap. 3 §,
+12. kriterier för indexfonder enligt 5 kap. 7 §,
 
-8. vilka åtgärder som ett fondbolag ska vidta om det tar emot
+13. beräkning av exponeringar enligt 5 kap. 13 och 14 §§,
+
+14. på vilket sätt underrättelsen till andelsägarna enligt 5 a
+kap. 7 § ska lämnas,
+
+15. vilka fel och försummelser som ska rapporteras enligt 5 a
+kap. 18 §,
+
+16. förutsättningar för överföring av finansiella instrument
+och förvaltning enligt 5 a kap. 37 och 46 §§,
+
+17. hur beräkning och redovisning av en specialfonds risknivå
+ska utföras enligt 6 kap. 4 §,
+
+18. vilka åtgärder som ett fondbolag ska vidta om det tar emot
 medel med redovisningsskyldighet enligt 7 kap. 1 §,
 
-9. vilka åtgärder som ett fondbolag ska vidta för att uppfylla
-de krav som följer av bestämmelserna i 7 kap. 3 §,
+19. vilka åtgärder som ett fondbolag ska vidta för att
+uppfylla de krav som följer av bestämmelserna i 7 kap. 3 §,
 
-10. vilka upplysningar som fondbolag, förvaltningsbolag,
+20. vad informationen enligt 8 kap. 8 § ska innehålla, hur den
+ska utformas, på vilket sätt den ska tillhandahållas och vad
+som ska bifogas informationen,
+
+21. på vilket språk de handlingar som ska lämnas tillsammans
+med ansökan enligt 8 kap. 19 § ska upprättas,
+
+22. vilka upplysningar som fondbolag, förvaltningsbolag,
 fondföretag samt förvaringsinstitut ska lämna till
 Finansinspektionen enligt 10 kap. 2 § första stycket och när
 upplysningarna ska lämnas, och
 
-11. sådana avgifter för tillsyn som avses i 10 kap. 11 §.
-Lag (2008:282).
+23. sådana avgifter för tillsyn som avses i 10 kap. 11 §.
+Lag (2011:882).
+
+2 § Regeringen får meddela föreskrifter om handläggningen av
+tillståndsärenden enligt 11 kap. 1, 3 och 3 a §§.
+Lag (2011:882).
 
 14 kap. Överklagande
 
@@ -2290,7 +3802,7 @@ det att en sådan förklaring har meddelats av domstol, skall det
 anses som att beslut enligt 2 kap. 13 § tredje stycket har
 meddelats. Lag (2008:282).
 
-Ikraftträdande- och övergångsbestämmelser
+Övergångsbestämmelser
 
 2004:46
 
@@ -2317,3 +3829,50 @@ bestämmelser, om någon omständighet som föranleder frågan om
 ingripande hänför sig till tiden före ikraftträdandet av denna
 lag. Detta gäller dock inte om en tilllämpning av de nya
 bestämmelserna skulle leda till ett mindre strängt ingripande.
+
+2011:882
+
+1. Denna lag träder i kraft den 1 augusti 2011.
+
+2. Ett fondföretag som vid lagens ikraftträdande driver
+verksamhet som inte fordrar tillstånd enligt äldre lydelse av
+1 kap. 9 §, men för vilken tillstånd krävs enligt den nya
+lydelsen av paragrafen, får fortsätta att driva verksamheten
+fram till den 31 december 2011 eller, om en ansökan om
+tillstånd dessförinnan har getts in, till dess att ansökan har
+prövats slutligt.
+
+3. För investeringsfonder vars fondbestämmelser har godkänts
+senast den 31 juli 2011 får äldre bestämmelser om faktablad
+tillämpas fram till den 1 juli 2012. För sådana
+investeringsfonder behöver faktabladet inte upprättas enligt
+bestämmelserna i kommissionens förordning (EU) nr 583/2010
+förrän den 1 juli 2012.
+
+4. Bestämmelserna i 5 a kap. 9, 16 och 20 §§ ska inte gälla
+för specialfonder vars placeringsinriktning innebär att
+fondens medel placeras i en viss investeringsfond enligt 6
+kap. 3 § och vars fondbestämmelser har godkänts av
+Finansinspektionen före ikraftträdandet. Om fondbestämmelserna
+ändras efter ikraftträdandet så att specialfondens medel ska
+placeras i en annan investeringsfond, ska dock bestämmelserna
+gälla.
+
+5. I fråga om ansökningar om tillstånd enligt 2 kap. 1 § eller
+11 kap. 1 § som har kommit in till Finansinspektionen före
+lagens ikraftträdande ska äldre bestämmelser gälla.
+
+6. Den som vid lagens ikraftträdande innehar aktier i ett
+fondbolag i sådan omfattning att han eller hon skulle ha varit
+skyldig att ansöka om tillstånd enligt 11 kap. 1 § första
+stycket om aktierna hade förvärvats efter lagens
+ikraftträdande ska, om tillstånd inte tidigare har meddelats,
+anmäla sitt innehav till Finansinspektionen senast den 1
+november 2011.
+
+7. En fråga om ingripande enligt 12 kap. 15 eller 17 a §
+bedöms enligt äldre bestämmelser om någon omständighet som
+föranleder frågan om ingripande hänför sig till tiden före
+ikraftträdandet av denna lag. Detta gäller dock inte om en
+tillämpning av de nya bestämmelserna skulle leda till ett
+mindre strängt ingripande.
