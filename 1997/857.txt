@@ -56,9 +56,13 @@ kilovolt. Lag (2009:892).
 överföring av el och för anslutning till en ledning eller ett
 ledningsnät.
 
-5 a § Med intäktsram avses i denna lag de samlade intäkter
-som en nätkoncessionshavare högst får uppbära genom
-nättariffer under en tillsynsperiod. Lag (2009:892).
+5 a § Med intäktsram avses i denna lag de samlade intäkter som
+en nätkoncessionshavare högst får uppbära från nätverksamheten
+under en tillsynsperiod. Lag (2011:712).
+
+5 b § Med stamnätsföretag avses i denna lag den som innehar
+nätkoncession för stamnätet eller största delen därav.
+Lag (2011:712).
 
 6 § Med elleverantör avses den som yrkesmässigt levererar el
 som har producerats av honom själv eller någon annan.
@@ -178,11 +182,12 @@ område får beviljas endast den som dessutom är lämplig att
 bedriva nätverksamhet inom det begärda området.
 
 Nätkoncession för en utlandsförbindelse får beviljas och
-innehas av endast den som innehar nätkoncession för stamnätet
-eller största delen därav eller en juridisk person där denne
-har ett bestämmande inflytande. Nätkoncession får dock beviljas
-även andra om ledningen är av mindre betydelse för det samlade
-överföringsnätet till utlandet. Lag (1998:1651).
+innehas av endast ett stamnätsföretag eller en juridisk person
+där ett sådant företag har ett bestämmande inflytande.
+
+Nätkoncession får dock beviljas även andra om ledningen är av
+mindre betydelse för det samlade överföringsnätet till
+utlandet. Lag (2011:712).
 
 Villkor för nätkoncession
 
@@ -430,7 +435,9 @@ Lag (2005:404).
 Avgränsning av nätverksamhet
 
 1 a § En juridisk person som bedriver nätverksamhet får inte
-bedriva produktion av eller handel med el.
+bedriva produktion av eller handel med el. Ett stamnätsföretag
+får inte heller bedriva produktion av eller handel med
+naturgas.
 
 Utan hinder av första stycket får produktion av el bedrivas
 tillsammans med nätverksamhet av samma juridiska person, om
@@ -439,9 +446,10 @@ produktionen
 1. uteslutande är avsedd att täcka nätförluster, eller
 
 2. sker tillfälligt i syfte att ersätta utebliven el vid
-elavbrott. Lag (2005:1110).
+elavbrott. Lag (2011:712).
 
 1 b § Ett företag som bedriver nätverksamhet och som ingår i
+
 en koncern vars samlade elnät har minst 100 000 elanvändare
 ska till sin organisation och sitt beslutsfattande vara
 åtskilt från företag som bedriver produktion av eller handel
@@ -482,6 +490,68 @@ eller motsvarande organ i ett dotterföretag. Lag (2009:1045).
 nätmyndigheten får meddela föreskrifter om de villkor som ska
 gälla för att kraven enligt 1 b och 1 d §§ ska vara
 uppfyllda. Lag (2009:1045).
+
+1 f § Ett stamnätsföretag ska vara oberoende av företag som
+bedriver produktion av eller handel med el eller naturgas.
+Lag (2011:712).
+
+1 g § Den som ensam eller tillsammans med någon annan utövar
+kontroll över ett företag som bedriver produktion av eller
+handel med el eller naturgas, får inte utöva kontroll över
+eller någon rättighet gentemot ett stamnätsföretag.
+
+Den som ensam eller tillsammans med någon annan utövar
+kontroll över ett stamnätsföretag, får inte utöva kontroll
+över eller någon rättighet gentemot ett företag som bedriver
+produktion av eller handel med el eller naturgas.
+
+Den som ensam eller tillsammans med någon annan får utse
+ledamöter till styrelsen eller motsvarande organ hos ett
+stamnätsföretag, får inte utöva kontroll över eller någon
+rättighet gentemot ett företag som bedriver produktion av
+eller handel med el. Lag (2011:712).
+
+1 h § Det som anges i 1 g § gäller inte kontroll eller
+rättighet som utövas av staten genom regeringen.
+
+Det som anges i 1 g § första och andra styckena om företag som
+bedriver produktion av eller handel med el gäller inte en
+elanvändare som själv producerar eller levererar el eller
+ensam eller tillsammans med någon annan kontrollerar ett
+företag som bedriver sådan verksamhet, förutsatt att
+elanvändaren är nettoförbrukare och värdet av den el som denne
+säljer till någon annan är obetydligt i förhållande till övrig
+näringsverksamhet.
+
+Vid tillämpningen av andra stycket ska elanvändaren anses vara
+nettoförbrukare om den genomsnittliga elförbrukningen är
+större än produktionen per år räknat. I produktionen ska vid
+beräkningen ingå den el elanvändaren själv producerar och
+dennes andel i den el som produceras av ett företag som
+elanvändaren kontrollerar ensam eller tillsammans med någon
+annan. Lag (2011:712).
+
+1 i § Bestämmelserna i 1 f och 1 g §§ hindrar inte att ett
+stamnätsföretag bedriver sådan produktion av el som avses i
+1 a § andra stycket eller ingår i samma koncern som ett
+företag som bedriver produktion av el som uteslutande är
+knuten till driften av stamnätsföretagets ledningsnät.
+Lag (2011:712).
+
+1 j § En styrelseledamot, verkställande direktör,
+firmatecknare eller annan person med liknande ställning i ett
+stamnätsföretag får inte samtidigt ha en motsvarande ställning
+i ett företag som bedriver produktion av eller handel med el
+med undantag för ett sådant produktionsföretag som avses i
+1 i §. Lag (2011:712).
+
+1 k § Om ett stamnätsföretag ingår i en koncern där en annan
+del bedriver produktion av eller handel med el, får åtgärder
+som vidtas av företag i koncernen för att säkerställa att
+kraven i 1 f, 1 g och 1 j §§ är uppfyllda inte innebära att
+personal eller kommersiellt känsliga uppgifter överförs från
+stamnätsföretaget till ett företag som bedriver produktion av
+eller handel med el. Lag (2011:712).
 
 Redovisning av nätverksamhet
 
@@ -760,23 +830,37 @@ diskriminerande och marknadsorienterat sätt. Lag (2005:404).
 
 Upprättande av övervakningsplan
 
-17 § Den som har nätkoncession skall upprätta en
-övervakningsplan och se till att övervakningsplanen följs.
+17 § Ett företag som bedriver nätverksamhet och som ingår i
+samma koncern som ett företag som bedriver produktion av eller
+handel med el ska upprätta en övervakningsplan och se till att
+planen följs.
 
-Av övervakningsplanen skall det framgå vilka åtgärder som skall
+Av övervakningsplanen ska det framgå vilka åtgärder som ska
 vidtas för att motverka diskriminerande beteende gentemot
-övriga aktörer på elmarknaden. I planen skall särskilt anges de
+övriga aktörer på elmarknaden. I planen ska särskilt anges de
 särskilda skyldigheter som de anställda har för att detta mål
-skall uppnås.
-
-Koncessionshavaren skall årligen upprätta en rapport över de
-åtgärder som vidtagits enligt planen. Rapporten skall
-offentliggöras samt ges in till nätmyndigheten.
+ska uppnås.
 
 Regeringen eller, efter regeringens bemyndigande,
-nätmyndigheten får meddela närmare föreskrifter om innehållet i
-övervakningsplanen och om offentliggörandet av den årliga
-rapporten. Lag (2005:404).
+nätmyndigheten får meddela föreskrifter om innehållet i
+övervakningsplanen. Lag (2011:712).
+
+17 a § Ett nätföretag som är skyldigt att upprätta en
+övervakningsplan enligt 17 § ska utse en övervakningsansvarig,
+som självständigt ska bevaka att planen upprättas och följs.
+Nätföretaget ska se till att den övervakningsansvarige har de
+befogenheter och tillgång till den information som krävs för
+att utföra uppdraget.
+
+Den övervakningsansvarige ska årligen upprätta en rapport över
+de åtgärder som vidtagits enligt övervakningsplanen och ge in
+rapporten till nätmyndigheten. Nätföretaget ska offentliggöra
+rapporten.
+
+Regeringen eller, efter regeringens bemyndigande,
+nätmyndigheten får meddela föreskrifter om utseende av
+övervakningsansvarig och dennes uppgifter samt om
+offentliggörandet av den årliga rapporten. Lag (2011:712).
 
 Lättnader i kraven på nätkoncessionshavare i vissa fall
 
@@ -807,6 +891,14 @@ Lag (2010:164).
 
 22 § Ett bindande besked enligt 20 eller 21 § får förenas med
 villkor. Dessa ska framgå av beskedet. Lag (2010:164).
+
+Kommunikation med elanvändare och allmänheten
+
+23 § Om ett nätföretag och ett företag som bedriver produktion
+av eller handel med el ingår i samma koncern, ska företagen
+när de vänder sig till enskilda elanvändare eller allmänheten
+ange sin identitet på ett sådant sätt att det tydligt framgår
+vilken verksamhet företaget bedriver. Lag (2011:712).
 
 4 kap. Nättariffer
 
@@ -1115,11 +1207,19 @@ nät. Lag (2009:892).
 intäktsram till nätmyndigheten tillsammans med de uppgifter
 som krävs för att pröva förslaget. Lag (2009:892).
 
-3 § Beslut om fastställande av intäktsramen ska meddelas
+3 § /Upphör att gälla U:2012-01-01/
+Beslut om fastställande av intäktsramen ska meddelas
 senast två månader innan tillsynsperioden börjar.
 
 Det ska framgå av beslutet vilka uppgifter och metoder som
 har använts vid fastställandet av ramen. Lag (2009:892).
+
+3 § /Träder i kraft I:2012-01-01/
+Nätmyndigheten ska meddela beslut om fastställande av
+intäktsramen senast två månader innan tillsynsperioden börjar.
+
+Det ska framgå av beslutet vilka uppgifter och metoder som har
+använts vid fastställandet av ramen. Lag (2011:712).
 
 4 § En tillsynsperiod ska vara fyra kalenderår, om det inte
 finns särskilda skäl för en annan tidsperiod. Lag (2009:892).
@@ -1176,7 +1276,8 @@ kapitalbasen ska beräknas. Lag (2009:892).
 
 Omprövning av intäktsramen under tillsynsperioden
 
-10 § På ansökan av nätkoncessionshavaren om omprövning kan
+10 § /Upphör att gälla U:2012-01-01/
+På ansökan av nätkoncessionshavaren om omprövning kan
 den beslutande myndigheten ändra en fastställd intäktsram
 under tillsynsperioden, om det finns omständigheter som
 bedöms medföra en väsentlig ökning av intäktsramen vid en
@@ -1187,7 +1288,18 @@ En ansökan om omprövning enligt första stycket ska lämnas in
 till nätmyndigheten. Ansökan ska handläggas skyndsamt.
 Lag (2009:892).
 
-11 § Den beslutande myndigheten ska ändra en fastställd
+10 § /Träder i kraft I:2012-01-01/
+På ansökan av nätkoncessionshavaren om omprövning kan
+nätmyndigheten ändra en fastställd intäktsram under
+tillsynsperioden, om det finns omständigheter som bedöms
+medföra en väsentlig ökning av intäktsramen vid en omprövning
+enligt 12 § eller om det annars finns särskilda skäl.
+
+En ansökan om omprövning ska handläggas skyndsamt.
+Lag (2011:712).
+
+11 § /Upphör att gälla U:2012-01-01/
+Den beslutande myndigheten ska ändra en fastställd
 intäktsram under tillsynsperioden om
 
 1. den nätkoncessionshavare som beslutet gäller har lämnat
@@ -1200,9 +1312,24 @@ har inverkat på intäktsramens storlek, eller
 
 3. det annars finns särskilda skäl. Lag (2009:892).
 
+11 § /Träder i kraft I:2012-01-01/
+Nätmyndigheten ska ändra en fastställd intäktsram under
+tillsynsperioden om
+
+1. den nätkoncessionshavare som beslutet gäller har lämnat
+oriktiga eller bristfälliga uppgifter som i mer än ringa
+omfattning har inverkat på intäktsramens storlek,
+
+2. beslutet har fattats på ett uppenbart felaktigt eller
+ofullständigt underlag och detta i mer än ringa omfattning har
+inverkat på intäktsramens storlek, eller
+
+3. det annars finns särskilda skäl. Lag (2011:712).
+
 Omprövning av intäktsramen efter tillsynsperioden
 
-12 § En nätkoncessionshavare får inom fyra månader efter
+12 § /Upphör att gälla U:2012-01-01/
+En nätkoncessionshavare får inom fyra månader efter
 tillsynsperiodens slut ansöka om att intäktsramen för
 perioden ska ökas.
 
@@ -1210,7 +1337,15 @@ En ansökan enligt första stycket ska lämnas in till
 nätmyndigheten. Ansökan ska handläggas skyndsamt.
 Lag (2009:892).
 
-13 § Den beslutande myndigheten ska ompröva den fastställda
+12 § /Träder i kraft I:2012-01-01/
+En nätkoncessionshavare får inom fyra månader efter
+tillsynsperiodens slut ansöka hos nätmyndigheten om att
+intäktsramen för perioden ska ökas.
+
+Ansökan ska handläggas skyndsamt. Lag (2011:712).
+
+13 § /Upphör att gälla U:2012-01-01/
+Den beslutande myndigheten ska ompröva den fastställda
 intäktsramen efter tillsynsperiodens slut, om det finns skäl
 att anta att ramen är större än vad som är motiverat av
 senare kända förhållanden och avvikelsen inte är ringa.
@@ -1224,7 +1359,23 @@ tiden. Har en sådan underrättelse inte skett får myndigheten
 inte meddela ett omprövningsbeslut som är till nackdel för
 nätkoncessionshavaren. Lag (2009:892).
 
-14 § Vid omprövning enligt 12 eller 13 § ska den beslutande
+13 § /Träder i kraft I:2012-01-01/
+Nätmyndigheten ska ompröva den fastställda intäktsramen
+efter tillsynsperiodens slut, om det finns skäl att anta att
+ramen är större än vad som är motiverat av senare kända
+förhållanden och avvikelsen inte är ringa.
+
+Om det inte finns särskilda hinder, ska ett beslut i frågan om
+ändring av intäktsramen meddelas senast tio månader efter
+tillsynsperiodens slut. Om nätmyndigheten avser att meddela
+beslut vid en senare tidpunkt, ska nätkoncessionshavaren
+underrättas om det inom den nämnda tiden. Har en sådan
+underrättelse inte skett får myndigheten inte meddela ett
+omprövningsbeslut som är till nackdel för
+nätkoncessionshavaren. Lag (2011:712).
+
+14 § /Upphör att gälla U:2012-01-01/
+Vid omprövning enligt 12 eller 13 § ska den beslutande
 myndigheten kontrollera om de antaganden som legat till grund
 för beslutet om fastställande av intäktsram överensstämmer
 med det faktiska utfallet under perioden. Vid bedömningen ska
@@ -1233,9 +1384,19 @@ metoder som myndigheten har använt vid fastställandet av
 intäktsramen och som framgår av beslutet om fastställande.
 Lag (2009:892).
 
+14 § /Träder i kraft I:2012-01-01/
+Vid omprövning enligt 12 eller 13 § ska nätmyndigheten
+kontrollera om de antaganden som legat till grund för beslutet
+om fastställande av intäktsram överensstämmer med det faktiska
+utfallet under perioden. Vid bedömningen ska myndigheten
+tillämpa 69 §§ och utgå från de uppgifter och metoder som
+myndigheten har använt vid fastställandet av intäktsramen och
+som framgår av beslutet om fastställande. Lag (2011:712).
+
 Omprövning under eller efter tillsynsperioden
 
-15 § Om en allmän förvaltningsdomstol har ändrat ett beslut
+15 § /Upphör att gälla U:2012-01-01/
+Om en allmän förvaltningsdomstol har ändrat ett beslut
 om intäktsram för en nätkoncessionshavare och grunden för
 ändring av det beslutet är tilllämplig även för en annan
 nätkoncessionshavare, ska den beslutande myndigheten, efter
@@ -1246,15 +1407,36 @@ En ansökan om omprövning ska ha kommit in till nätmyndigheten
 inom tre månader efter det att domstolens avgörande vunnit
 laga kraft. Lag (2009:892).
 
-16 § Den beslutande myndigheten ska ompröva ett beslut om
+15 § /Träder i kraft I:2012-01-01/
+Om en allmän förvaltningsdomstol har ändrat ett beslut om
+intäktsram för en nätkoncessionshavare och grunden för ändring
+av det beslutet är tillämplig även för en annan
+nätkoncessionshavare, ska nätmyndigheten, efter ansökan av den
+senare nätkoncessionshavaren, ompröva det beslut om intäktsram
+som gäller för denne.
+
+En ansökan om omprövning ska ha kommit in till nätmyndigheten
+inom tre månader efter det att domstolens avgörande vunnit
+laga kraft. Lag (2011:712).
+
+16 § /Upphör att gälla U:2012-01-01/
+Den beslutande myndigheten ska ompröva ett beslut om
 intäktsramen för en tillsynsperiod, om myndigheten eller en
 allmän förvaltningsdomstol har beslutat om ändring i fråga om
 en tidigare tillsynsperiod och det avgörandet har vunnit laga
 kraft. Lag (2009:892).
 
+16 § /Träder i kraft I:2012-01-01/
+Nätmyndigheten ska ompröva ett beslut om intäktsramen för
+en tillsynsperiod, om myndigheten eller en allmän
+förvaltningsdomstol har beslutat om ändring i fråga om en
+tidigare tillsynsperiod och det avgörandet har vunnit laga
+kraft. Lag (2011:712).
+
 Periodisering
 
-17 § Om det finns särskilda skäl, får den beslutande
+17 § /Upphör att gälla U:2012-01-01/
+Om det finns särskilda skäl, får den beslutande
 myndigheten på ansökan av en nätkoncessionshavare medge att
 delar av intäkter under tillsynsperioden tas med i
 intäktsredovisningen först för senare perioder.
@@ -1263,9 +1445,21 @@ En ansökan enligt första stycket ska ha kommit in till
 nätmyndigheten senast tre månader efter den tillsynsperiod då
 intäkterna uppkommit. Lag (2009:892).
 
+17 § /Träder i kraft I:2012-01-01/
+Om det finns särskilda skäl, får nätmyndigheten på
+ansökan av en nätkoncessionshavare medge att delar av intäkter
+under tillsynsperioden tas med i intäktsredovisningen först
+för senare perioder.
+
+En ansökan enligt första stycket ska ha kommit in till
+nätmyndigheten senast tre månader efter den tillsynsperiod då
+intäkterna uppkommit. Lag (2011:712).
+
+/Rubriken upphör att gälla U:2012-01-01/
 Beslutande myndighet m.m.
 
-18 § Nätmyndigheten är beslutande myndighet enligt 3, 1013
+18 § /Upphör att gälla U:2012-01-01 genom lag (2011:712)./
+Nätmyndigheten är beslutande myndighet enligt 3, 1013
 och 1517 §§. När det gäller intäkter från en stamledning är
 dock regeringen beslutande myndighet.
 
@@ -1276,32 +1470,35 @@ Regeringen ska förkasta eller godta förslaget.
 Regeringens beslut ska offentliggöras. Nätmyndighetens
 förslag ska framgå av beslutet. Lag (2009:892).
 
+Verkan av beslut
+
 19 § Ett beslut av nätmyndigheten enligt 3, 1113, 15 och
 16 §§ ska gälla utan hinder av att det överklagas.
 Lag (2009:892).
 
 Avvikelser från intäktsramen
 
-20 § Om en nätkoncessionshavares samlade intäkter genom
-nättariffer under tillsynsperioden har avvikit från
+20 § Om en nätkoncessionshavares samlade intäkter från
+nätverksamheten under tillsynsperioden har avvikit från
 intäktsramen, ska det belopp med vilket intäkterna överstigit
-eller understigit intäktsramen minska respektive öka ramen
-för den påföljande tillsynsperioden. Lag (2009:892).
+eller understigit intäktsramen minska respektive öka ramen för
+den påföljande tillsynsperioden. Lag (2011:712).
 
-21 § Om en nätkoncessionshavares samlade intäkter genom
-nättariffer under tillsynsperioden har överstigit
+21 § Om en nätkoncessionshavares samlade intäkter från
+nätverksamheten under tillsynsperioden har överstigit
 intäktsramen med mer än fem procent, ska ett
 överdebiteringstillägg beräknat enligt andra stycket minska
 intäktsramen för den påföljande tillsynsperioden.
 
-Beräkningen av överdebiteringstillägget ska grundas på den
-del av nätkoncessionshavarens samlade intäkter genom
-nättariffer som överstiger intäktsramen.
+Beräkningen av överdebiteringstillägget ska grundas på den del
+av nätkoncessionshavarens samlade intäkter från
+nätverksamheten som överstiger intäktsramen.
+
 Överdebiteringstillägget ska beräknas efter en räntesats som
 motsvarar den genomsnittliga referensränta enligt 9 §
 räntelagen (1975:635) som under tillsynsperioden fastställts
 av Riksbanken med ett tillägg av femton procentenheter.
-Lag (2009:892).
+Lag (2011:712).
 
 Särskilt om intäkter från olika nät
 
@@ -1443,28 +1640,7 @@ Innan föreskrifterna meddelas ska samråd ske med
 systemansvariga i länder vars elsystem är förbundna med det
 svenska stamnätet. Lag (2009:582).
 
-2 § /Upphör att gälla U:2011-07-01/
-Den systemansvariga myndigheten får, i den utsträckning det
-behövs för att kunna utöva systemansvaret, beordra
-elproducenter att, mot marknadsmässig ersättning, öka eller
-minska produktionen av el.
-
-Om systemansvaret inte kan utövas genom åtgärder som nämns i
-första stycket, får den systemansvariga myndigheten, i den
-utsträckning det behövs för att kunna utöva systemansvaret,
-beordra innehavare av nätkoncession att begränsa eller avbryta
-överföring av el till elanvändare. I den utsträckning
-systemansvaret så medger skall begränsning och avbrytande av
-överföringen genomföras så rättvist som möjligt. Därvid skall,
-i den utsträckning det är möjligt, koncessionshavarens
-åtaganden beträffande leveranssäkerhet beaktas.
-
-Närmare föreskrifter om den systemansvariga myndighetens
-befogenheter enligt första och andra styckena meddelas av
-regeringen.
-
-2 § /Träder i kraft I:2011-07-01/
-Den systemansvariga myndigheten får, i den utsträckning
+2 § Den systemansvariga myndigheten får, i den utsträckning
 det behövs för att kunna utöva systemansvaret, beordra
 elproducenter att, mot marknadsmässig ersättning, öka eller
 minska produktionen av el.
@@ -1655,30 +1831,28 @@ Regeringen eller den myndighet som regeringen bestämmer
 meddelar närmare föreskrifter om elleverantörernas
 informationsskyldighet enligt tredje stycket. Lag (2009:580).
 
-6 § En elleverantör, som skall börja leverera el i en
-uttagspunkt skall omedelbart anmäla detta till berörd
-innehavare av nätkoncession. Anmälan skall även innehålla en
-uppgift om vem som har åtagit sig balansansvaret i
-uttagspunkten.
+6 § En elleverantör, som ska börja leverera el i en
+uttagspunkt eller överta leveranserna till en elanvändare i
+dennes uttagspunkt, ska anmäla detta till berörd innehavare av
+nätkoncession. Anmälan ska även innehålla en uppgift om vem
+som har åtagit sig balansansvaret i uttagspunkten. En anmälan
+om att börja leverera el ska göras omedelbart.
 
-En elleverantör som övertar leveranserna till en elanvändare i
-dennes uttagspunkt får bara göra detta från och med den första
-dagen i en kalendermånad. I ett sådant fall skall en anmälan
-enligt första stycket ske senast den femtonde dagen i
-kalendermånaden före övertagandet.
+En elleverantör får överta leveranserna till en elanvändare i
+dennes uttagspunkt fjorton dagar efter anmälan enligt första
+stycket.
 
 Bestämmelserna i första och andra styckena gäller inte de
 elleverantörer som avses i 7 §.
 
 En innehavare av nätkoncession som tar emot en anmälan enligt
-första stycket skall sända underrättelser i anledning därav
+första stycket ska sända underrättelser i anledning därav
 enligt de närmare föreskrifter som meddelas av regeringen
 eller, efter regeringens bemyndigande, nätmyndigheten.
-
 Regeringen eller, efter regeringens bemyndigande,
-nätmyndigheten får meddela närmare föreskrifter om
+nätmyndigheten får meddela ytterligare föreskrifter om
 elleverantörers skyldigheter enligt första stycket.
-Lag (2006:926).
+Lag (2011:712).
 
 7 § En elleverantör som avser att under en angiven tid leverera
 en fastställd mängd el till en elanvändare skall anmäla detta
@@ -1721,24 +1895,28 @@ nätkoncessionshavaren och enligt de villkor som den anvisade
 leverantören tillämpar. Lag (2009:580).
 
 9 § Den som övertar balansansvaret i en elanvändares
-uttagspunkt får bara göra det från och med den första dagen i
-en kalendermånad. Den elleverantör som enligt 5 § första
-stycket är leveransskyldig i uttagspunkten skall enligt de
-närmare föreskrifter som regeringen eller, efter regeringens
-bemyndigande, nätmyndigheten meddelar underrätta berörd
-innehavare av nätkoncession om övertagandet senast en månad
-innan det skall ske.
+uttagspunkt efter en anmälan enligt 6 § första stycket får
+göra det från och med den dag då elleverantören övertar
+leveranserna.
+
+I andra fall får balansansvaret bara övertas från och med den
+första dagen i en kalendermånad. Den elleverantör som enligt
+5 § första stycket är leveransskyldig i uttagspunkten ska
+enligt de närmare föreskrifter som regeringen eller, efter
+regeringens bemyndigande, nätmyndigheten meddelar underrätta
+berörd innehavare av nätkoncession om övertagandet senast en
+månad innan det ska ske.
 
 Den systemansvariga myndigheten får, om det finns särskilda
 skäl, i det enskilda fallet medge att balansansvaret i en
-uttagspunkt skall börja gälla tidigare än vad som följer av
-första stycket.
+uttagspunkt ska börja gälla tidigare än vad som följer av
+andra stycket.
 
 En innehavare av nätkoncession som tar emot en anmälan enligt
-första stycket skall sända underrättelser i anledning därav
+andra stycket ska sända underrättelser i anledning därav
 enligt de närmare föreskrifter som meddelas av regeringen
 eller, efter regeringens bemyndigande, nätmyndigheten.
-Lag (1999:770).
+Lag (2011:712).
 
 10 § En innehavare av nätkoncession ska enligt de närmare
 föreskrifter som meddelas av regeringen eller av den
@@ -2232,11 +2410,140 @@ och försäkringsmöjligheter, den skadeståndsskyldiges
 förutsättningar att förutse och hindra skadan samt andra
 särskilda omständigheter.
 
-
 12 § Konsumenten skall underrätta motparten om anspråk på
 ersättning inom två år från det att skadan inträffade. Gör han
 inte det, har han förlorat sin rätt till ersättning för den
 uppkomna skadan.
+
+Uppgifter i avtal
+
+13 § Ett avtal mellan en konsument och en elleverantör ska
+innehålla uppgifter om
+
+1. elleverantörens namn, adress, telefonnummer och webbplats,
+
+2. elleverantörens åtagande gentemot konsumenten,
+
+3. när avtalet träffas och vid vilken tidpunkt elleverantören
+planerar att överta leveranserna till konsumenten,
+
+4. var konsumenten kan finna information om elleverantörens
+priser och övriga villkor,
+
+5. villkoren för fakturering och betalning,
+
+6. den tid som avtalet löper eller om det löper tills vidare,
+
+7. vad som gäller avseende förlängning av ett avtal som löper
+under viss tid,
+
+8. villkoren för uppsägning av avtalet,
+
+9. hur ersättningen beräknas vid uppsägning i förtid av ett
+avtal som löper under viss tid,
+
+10. villkoren för ersättning om elleverantören inte uppfyller
+sitt åtagande enligt avtalet, och
+11. hur elleverantören på sin webbplats samt på begäran på
+annat sätt tillhandahåller den ytterligare konsumentrelaterade
+information som anges i 18 §.
+
+Information om avtalsvillkoren och uppgifterna enligt första
+stycket ska lämnas till konsumenten innan avtalet ingås eller
+bekräftas. Lag (2011:712).
+
+14 § Ett avtal mellan en konsument och en nätkoncessionshavare
+ska innehålla uppgifter om
+
+1. nätkoncessionshavarens namn, adress, telefonnummer och
+webbplats,
+
+2. nätkoncessionshavarens åtagande gentemot konsumenten,
+
+3. när avtalet träffas,
+
+4. var konsumenten kan finna information om
+nätkoncessionshavarens priser och övriga villkor,
+
+5. villkoren för fakturering och betalning,
+
+6. villkoren för uppsägning av avtalet,
+
+7. villkoren för ersättning om nätkoncessionshavaren inte
+uppfyller sitt åtagande enligt avtalet, och
+
+8. hur nätkoncessionshavaren på sin webbplats samt på begäran
+på annat sätt tillhandahåller den ytterligare
+konsumentrelaterade information som anges i 18 §.
+Lag (2011:712).
+
+Betalningssätt
+
+15 § En elleverantör får inte missgynna en konsument endast på
+grund av det betalningssätt konsumenten har valt.
+
+Om en elleverantör eller en nätkoncessionshavare tillämpar ett
+system med förskottsbetalning för konsumenter, ska detta vara
+skäligt och grundat på den förväntade förbrukningen.
+Lag (2011:712).
+
+Ändrade avtalsvillkor
+
+16 § En elleverantör som avser att ändra villkoren för ett
+avtal som löper tills vidare med en konsument ska underrätta
+konsumenten om ändringen. Underrättelse ska ske genom ett
+särskilt meddelande till konsumenten. Av meddelandet ska det
+framgå att konsumenten har rätt att säga upp avtalet.
+
+De nya villkoren får inte börja tillämpas förrän tidigast två
+månader efter det att meddelandet har skickats.
+Lag (2011:712).
+
+Prishöjningar
+
+17 § När en prishöjning har skett ska konsumenten underrättas
+om detta i den nästkommande fakturan från elleverantören. Det
+ska framgå när prisändringen trädde i kraft och hur priset
+ändrats. Lag (2011:712).
+
+Information om konsumentens rättigheter
+
+18 § Elleverantörer och nätkoncessionshavare som träffar avtal
+med konsumenter ska på sina webbplatser lämna tydlig
+information om
+
+1. konsumentens rättigheter,
+
+2. hur konsumenten ska gå till väga för att lämna klagomål,
+och
+
+3. vilka organ konsumenten kan vända sig till för information
+eller tvistlösning.
+
+På konsumentens begäran ska informationen lämnas på annat
+sätt.
+
+Elleverantörer och nätkoncessionshavare ska på eller i samband
+med fakturor till konsumenter och i reklam som vänder sig till
+konsumenter antingen lämna den information som följer av
+första stycket eller hänvisa till att informationen finns på
+webbplatsen och på begäran tillhandahålls på annat sätt.
+Lag (2011:712).
+
+Byte av elleverantör
+
+19 § Ett byte av elleverantör ska genomföras utan särskild
+kostnad för konsumenten.
+
+Vid byte av elleverantör ska konsumenten få en slutfaktura
+inom sex veckor från den dag då den frånträdande
+elleverantörens leverans upphörde. Lag (2011:712).
+
+Hantering av klagomål
+
+20 § Elleverantörer och nätkoncessionshavare ska ha
+fastställda rutiner för hanteringen av klagomål från
+konsumenter. Lag (2011:712).
 
 12 kap. Tillsyn m.m.
 
@@ -2253,24 +2560,32 @@ föreskrifter och villkor som har meddelats med stöd av lagen
 utövas av nätmyndigheten.
 
 Tillsynen enligt andra stycket omfattar inte bestämmelserna i
-7, 10 och 11 kap. och inte heller efterlevnaden av
-elleverantörernas skyldigheter enligt 8 kap. 1-4 §§, 5 § första
-och andra styckena och 6-11 a §§.
+7 och 10 kap. samt 11 kap. 112 §§ och inte heller
+efterlevnaden av elleverantörernas skyldigheter enligt 8 kap.
+14 §§, 5 § första och andra styckena och 611 a §§.
 
 Nätmyndigheten är tillsynsmyndighet enligt Europaparlamentets
-och rådets förordning (EG) nr 1228/2003 av den 26 juni 2003 om
-villkor för tillträde till nät för gränsöverskridande elhandel.
-Lag (2006:926).
-
-1 a § Ärenden om undantag enligt artikel 7.1, 7.2 och 7.3 i
-rådets förordning (EG) nr 1228/2003 av den 26 juni 2003 om
+och rådets förordning (EG) nr 714/2009 av den 13 juli 2009 om
 villkor för tillträde till nät för gränsöverskridande elhandel
-prövas av regeringen.
+och om upphävande av förordning (EG) nr 1228/2003.
+Lag (2011:712).
 
-Nätmyndigheten skall utreda ärenden som anges i första stycket
+1 a § Ärenden om undantag enligt artikel 17.1, 17.2 och 17.3 i
+förordning (EG) nr 714/2009 prövas av regeringen.
+
+Nätmyndigheten ska utreda ärenden som anges i första stycket
 och därefter, med eget yttrande, överlämna ärendet till
-regeringens prövning. Nätmyndigheten skall därvid offentliggöra
-sitt yttrande. Lag (2005:404).
+regeringens prövning. Nätmyndigheten ska i samband med
+överlämnandet offentliggöra sitt yttrande.
+
+I fall som avses i artikel 17.5 i förordning (EG) nr 714/2009
+ska regeringen meddela beslut efter yttrande från byrån för
+samarbete mellan energitillsynsmyndigheter. Lag (2011:712).
+
+1 b § I ett beslut av nätmyndigheten enligt sådana riktlinjer
+som har antagits med stöd av förordning (EG) nr 714/2009 ska
+det anges att beslutet kan komma att ändras eller upphävas
+efter begäran av Europeiska kommissionen. Lag (2011:712).
 
 2 § En tillsynsmyndighet har rätt att på begäran få de
 upplysningar och ta del av de handlingar som behövs för
@@ -2284,10 +2599,16 @@ behövs för att trygga efterlevnaden av de föreskrifter och
 villkor som omfattas av tillsynen. Ett föreläggande får
 förenas med vite.
 
-Ett föreläggande som avser elsäkerhet eller driftsäkerheten
-hos det nationella elsystemet eller som avser riktigheten av
-lämnade uppgifter enligt 8 kap. 11 b § gäller omedelbart.
-Lag (2010.164).
+Ett föreläggande gäller omedelbart, om det
+
+1. avser elsäkerhet eller driftsäkerheten hos det nationella
+elsystemet,
+
+2. avser riktigheten av lämnade uppgifter enligt 8 kap.
+11 b §, eller
+
+3. har meddelats med anledning av en anmälan enligt 14 §
+första stycket. Lag (2011:712).
 
 3 a § Om nätmyndigheten avser att utöva tillsyn över en
 nätkoncessionshavares nättariff skall koncessionshavaren
@@ -2437,6 +2758,29 @@ månaden efter den då förseningsavgiften betalades in till och
 med den månad då återbetalning görs. I fråga om räntans storlek
 tillämpas 19 kap. 14 § skattebetalningslagen (1997:483).
 Lag (1998:1651).
+
+Tidsfrister
+
+14 § Nätmyndigheten ska fatta beslut i ett ärende inom två
+månader från det att en anmälan kom in till myndigheten om
+anmälan
+
+1. har lämnats in av någon som har ett intresse i saken, och
+
+2. innehåller ett påstående att en nätkoncessionshavare inte
+följer bestämmelser som omfattas av nätmyndighetens tillsyn
+enligt 1 §.
+
+Om nätmyndigheten behöver ytterligare tid för att avgöra
+ärendet får myndigheten förlänga tiden med två månader eller,
+om sökanden medger det, med den ytterligare tid som kan
+behövas för att ärendet ska kunna avgöras.
+
+Bestämmelserna i första och andra styckena gäller inte
+nätkoncessionshavarens skyldigheter enligt 3 kap. 6 § första
+stycket, 7 § första stycket, 11 § första och andra styckena,
+14 § första stycket och 15 § första stycket samt 4 kap. 10 §
+första och tredje styckena. Lag (2011:712).
 
 13 kap. Övriga bestämmelser
 
@@ -2760,3 +3104,15 @@ avser tid före den 1 januari 2012.
 1517 §§ delgivningslagen (1970:428) har fattats före den 1
 april 2011 eller om en handling har skickats eller lämnats före
 denna tidpunkt.
+
+2011:712
+
+1. Denna lag träder i kraft den 1 oktober 2011 i fråga om 8
+kap. 6 och 9 §§, den 1 januari 2012 i fråga om 5 kap. 3 och
+1018 §§ och i övrigt den 1 augusti 2011.
+
+2. Ett stamnätsföretag som har ansökt om certifiering enligt
+lagen (2011:710) om certifiering av stamnätsföretag för el får
+bedriva verksamhet utan hinder av 3 kap. 1 f och 1 §§ till
+dess att ett slutligt beslut i frågan om certifiering har
+vunnit laga kraft, dock längst till och med den 2 mars 2012.
