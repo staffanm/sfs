@@ -3,10 +3,10 @@
 Tillämpningsområde
 
 1 § Denna förordning gäller utöver personuppgiftslagen
-(1998:204) vid automatiserad behandling av personuppgifter i
-Migrationsverkets, Rikspolisstyrelsens och polismyndigheternas
-samt utlandsmyndigheternas verksamhet enligt utlännings- och
-medborgarskapslagstiftningen.
+(1998:204) vid automatiserad behandling av personuppgifter
+i Migrationsverkets, Rikspolisstyrelsens och
+polismyndigheternas samt utlandsmyndigheternas verksamhet
+enligt utlännings- och medborgarskapslagstiftningen.
 
 Med verksamhet enligt utlännings- och
 medborgarskapslagstiftningen enligt första stycket avses
@@ -14,7 +14,8 @@ medborgarskapslagstiftningen enligt första stycket avses
 1. verksamhet som gäller utlänningars vistelse i och
 avlägsnande från landet,
 
-2. verksamhet som gäller utlänningars rätt att arbeta i landet,
+2. verksamhet som gäller utlänningars rätt att arbeta i
+landet,
 
 3. mottagande av asylsökande och vissa andra utlänningar,
 
@@ -22,16 +23,27 @@ avlägsnande från landet,
 enligt lag eller annan författning handläggs av
 Migrationsverket,
 
-5. verksamhet som avser förvärv, förlust eller bibehållande av
-svenskt medborgarskap,
+5. verksamhet som avser förvärv, förlust eller bibehållande
+av svenskt medborgarskap,
 
 6. verksamhet som gäller ersättning för och bosättning av
-utlänningar som enligt lag eller annan författning handläggs av
-Migrationsverket.
+utlänningar som enligt lag eller annan författning
+handläggs av Migrationsverket.
+
+I Europaparlamentets och rådets förordning (EG) nr 767/2008
+av den 9 juli 2008 om informationssystemet för viseringar
+(VIS) och utbytet mellan medlemsstaterna av uppgifter om
+viseringar för kortare vistelse (VIS-förordningen) finns
+bestämmelser om behandling av personuppgifter i VIS för
+viseringsmyndigheter, myndigheter som ansvarar för kontroll
+av personers gränspassage, myndigheter som ansvarar för
+kontroll av utlänningars rätt att uppehålla sig i
+medlemsstaten samt för den centrala utlänningsmyndigheten.
+Bestämmelser om behandling av personuppgifter som
+kompletterar VIS-förordningen finns i 15 §.
 
 En registrerad har inte rätt att motsätta sig behandling av
-personuppgifter enligt denna förordning.
-Förordning (2007:506).
+personuppgifter enligt denna förordning. Förordning (2011:957).
 
 Personuppgiftsansvar
 
@@ -303,9 +315,12 @@ Direktåtkomst
 
 Rättelse och skadestånd
 
-15 § Bestämmelserna i personuppgiftslagen (1998:204) om
-rättelse och skadestånd tillämpas vid behandling av
-personuppgifter enligt denna förordning.
+15 § Bestämmelserna i 28 och 48 §§ personuppgiftslagen
+(1998:204) om rättelse och om skadestånd tillämpas vid
+behandling av personuppgifter enligt denna förordning.
+Detsamma gäller vid behandling av personuppgifter enligt
+VIS-förordningen i den mån inte något annat följer av den
+förordningen. Förordning (2011:957).
 
 Överklagande
 
