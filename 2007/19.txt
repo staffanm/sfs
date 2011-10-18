@@ -1,24 +1,37 @@
-
-
-
 Allmänna bestämmelser
 
-1 § Denna förordning innehåller bestämmelser om kontroll över
-förekomsten och hanteringen av PCB-produkter samt om
+1 § Denna förordning innehåller bestämmelser om kontroll
+över förekomsten och hanteringen av PCB-produkter samt om
 inventering, avlägsnande och bortskaffande av PCB-produkter och
 varor eller utrustning som innehåller eller har förorenats med
 PCB-produkter.
 
-För PCB-varor som är avfall finns bestämmelser i
-avfallsförordningen (2001:1063) och förordningen (2002:1060) om
-avfallsförbränning. För oljor som innehåller PCB finns också
-bestämmelser i förordningen (1993:1268) om spillolja.
+För PCB-varor som är avfall finns det bestämmelser i
+avfallsförordningen (2011:927) och förordningen (2002:1060) om
+avfallsförbränning. Förordning (2011:1003).
 
 2 § Bestämmelserna i denna förordning gäller endast om
 motsvarande bestämmelser inte redan följer av
-Europaparlamentets och rådets förordning (EG) nr 850/2004 av
+
+1. Europaparlamentets och rådets förordning (EG) nr 850/2004 av
 den 29 april 2004 om långlivade organiska föroreningar och om
-ändring av direktiv 79/117/EEG.
+ändring av direktiv 79/117/EEG,
+
+2. Europaparlamentets och rådets förordning (EG) nr 1907/2006 av
+den 18 december 2006 om registrering, utvärdering, godkännande
+och begränsning av kemikalier (Reach), inrättande av en
+europeisk kemikaliemyndighet, ändring av direktiv 1999/45/EG och
+upphävande av rådets förordning (EEG) nr 793/93 och
+kommissionens förordning (EG) nr 1488/94 samt rådets direktiv
+76/769/EEG och kommissionens direktiv 91/155/EEG, 93/67/EEG,
+93/105/EG och 2000/21/EG,
+
+3. Europaparlamentets och rådets förordning (EG) nr 689/2008 av
+den 17 juni 2008 om export och import av farliga kemikalier,
+eller
+
+4. Europaparlamentets och rådets förordning (EG) nr 1013/2006 av
+den 14 juni 2006 om transport av avfall. Förordning (2011:44).
 
 Definitioner
 
@@ -70,12 +83,25 @@ Förbud mot och villkor för viss hantering
 En PCB-vara får inte importeras från eller exporteras till
 länder som inte är medlemmar i Europeiska unionen.
 
-Naturvårdsverket får i det enskilda fallet besluta hur en vara
-som importerats i strid mot denna förordning skall hanteras.
+Naturvårdsverket får i det enskilda fallet besluta hur en
+vara som importerats i strid mot denna förordning ska
+hanteras.
+
+En PCB-vara som ska användas för laboratorieforskning eller
+som referensstandard får undantas från förbuden i första och
+andra styckena. Förordning (2010:963).
 
 8 § En transformator eller en sådan kondensator som har högre
 effekt än två kilovoltampere (reaktivt) får inte användas om
 den innehåller en PCB-produkt.
+
+8 a § Naturvårdsverket får i det enskilda fallet ge dispens
+från förbudet i 8 §, om det finns särskilda skäl och dispensen
+är förenlig med rådets direktiv 96/59/EG av den 16 september
+1996 om bortskaffande av polyklorerade bifenyler och
+polyklorerade terfenyler (PCB/PCT), ändrat genom
+Europaparlamentets och rådets förordning (EG) nr 596/2009.
+Förordning (2011:691).
 
 9 § En transformator får inte fyllas på med en PCB-produkt.
 
@@ -120,10 +146,15 @@ utrustning som kan antas innehålla en sådan produkt, och
 
 Dekontaminering
 
-14 § Den som avser att efter den 31 december 2010 inneha en
-utrustning som omfattas av anmälningsplikt enligt 11 § skall se
-till att utrustningen innan dess har dekontaminerats på sätt
-som följer av 15 §.
+14 § Den som innehar en utrustning som omfattas av
+anmälningsplikt enligt 11 § ska omgående se till att
+utrustningen dekontamineras på det sätt som följer av 15 §.
+Förordning (2011:691).
+
+14 a § Naturvårdsverket får i det enskilda fallet ge dispens
+från dekontamineringskravet i 14 §, om det finns särskilda
+skäl och dispensen är förenlig med rådets direktiv 96/59/EG.
+Förordning (2011:691).
 
 15 § En utrustning som omfattas av anmälningsplikt enligt 11 §
 får dekontamineras genom att den PCB-produkt som finns i
@@ -149,6 +180,21 @@ Naturvårdsverket får meddela närmare föreskrifter om
 dekontaminering. Frågor om tillstånd att dekontaminera PCB-
 varor prövas av Naturvårdsverket.
 
+15 a § I ett ärende om tillstånd enligt 15 § ska
+Naturvårdsverket besluta i ärendet inom sex månader från det
+att en fullständig ansökan kom in till verket. Om det är
+nödvändigt på grund av utredningen i ärendet, får tiden
+förlängas. En sådan förlängning får inte göras mer än en gång
+i ärendet. Förlängningen får inte avse mer än två månader
+utöver de ursprungliga sex månaderna. Sökanden ska informeras
+om förlängningen och skälen för den innan den ursprungliga
+tidsfristen har gått ut.
+
+Bestämmelser om att ett mottagningsbevis ska skickas till
+sökanden när en fullständig ansökan har kommit in och om
+innehållet i ett sådant bevis finns i 8 § lagen (2009:1079)
+om tjänster på den inre marknaden. Förordning (2010:50).
+
 Inventering och avlägsnande av PCB-produkter i byggnader och
 anläggningar
 
@@ -163,40 +209,69 @@ vilka åtgärder som planeras för att säkerställa att
 förekommande PCB-produkt, när den blir avfall, sorteras ut och
 hanteras som farligt avfall.
 
-17 § Den som äger en industribyggnad som har uppförts eller
-renoverats åren 1956-1973 där fogmassa eller halkskyddad
-golvmassa, som innehåller mer än 0,050 viktprocent (500 vikt-
-ppm) av en sådan PCB-produkt som anges i 3 § 1-5 eller en
-blandning av sådana ämnen, har använts skall se till att PCB-
-produkten avlägsnas senast den 30 juni 2013. Med
-industribyggnad avses byggnad som är indelad som
-industribyggnad enligt fastighetstaxeringslagen (1979:1152).
+17 § Den som äger en byggnad eller anläggning där fogmassa
+eller halkskyddad golvmassa har använts vid uppförande eller
+renovering och där halten av sådana PCB-produkter som anges i
+3 § 1–5 uppgår till mer än 0,0500 viktprocent (500 vikt-ppm),
+ska se till att massan avlägsnas senast
 
-Den som äger en annan byggnad än som avses i första stycket
-eller en annan anläggning som har uppförts eller renoverats
-åren 1956-1969 där sådan fogmassa eller golvmassa som anges i
-första stycket har använts, skall se till att PCB-produkten
-avlägsnas senast den 30 juni 2011. Om fog- eller golvmassan har
-använts inomhus får den dock avlägsnas senast den 30 juni 2013.
+1. den 30 juni 2014, om byggnaden eller anläggningen har
+uppförts eller renoverats någon gång under åren 1956–1969 och
+annat inte följer av 2 eller 3,
 
-Den som äger en annan byggnad än som avses i första stycket
-eller en annan anläggning som har uppförts eller renoverats
-åren 1970-1973 där sådan fogmassa eller golvmassa som anges i
-första stycket har använts, skall se till att PCB-produkten
-avlägsnas senast den 30 juni 2013.
+2. den 30 juni 2016, om
 
-Om en byggnad eller anläggning som omfattas av första-tredje
-styckena skall byggas om eller renoveras under de närmast
-följande åren efter det att PCB-produkten skulle ha avlägsnats
-enligt vad som följer av första-tredje styckena får
-tillsynsmyndigheten medge att avlägsnandet sker i samband med
-ombyggnaden eller renoveringen.
+a) massan finns i en industribyggnad som har uppförts eller
+renoverats någon gång under åren 1956–1973,
 
-18 § Innan en åtgärd enligt 17 § vidtas skall ägaren anmäla
-åtgärden till tillsynsmyndigheten. Anmälan skall innehålla de
-uppgifter som tillsynsmyndigheten behöver för att bedöma
-åtgärdens effekt på människors hälsa och miljön. Anmälan skall
-göras senast tre veckor innan åtgärden påbörjas.
+b) byggnaden eller anläggningen har uppförts eller renoverats
+någon gång under åren 1970–1973, eller
+
+c) massan har använts inomhus, eller
+
+3. i samband med renovering, ombyggnad eller rivning, om
+massan har använts för att ersätta en PCB-produkt som har
+avlägsnats efter utgången av 1998.
+
+Med industribyggnad avses i första stycket en byggnad som är
+indelad som industribyggnad enligt fastighetstaxeringslagen
+(1979:1152). Förordning (2010:963).
+
+17 a § Den som äger en byggnad eller anläggning som
+innehåller fogmassa eller halkskyddad golvmassa där halten av
+sådana PCB-produkter som anges i 3 § 1–5 uppgår till 0,0050–
+0,0500 viktprocent (50–500 vikt-ppm), ska se till att massan
+avlägsnas senast i samband med renovering, ombyggnad eller
+rivning. Förordning (2010:963).
+
+17 b § Trots 17 § får tillsynsmyndigheten medge att fogmassa
+eller halkskyddad golvmassa avlägsnas vid en senare tidpunkt,
+om
+
+1. en ombyggnad, renovering eller rivning planeras under de
+närmast följande åren,
+
+2. massan sitter mycket svåråtkomligt,
+
+3. det är nödvändigt för att en samhällsviktig verksamhet
+inte ska försvåras på ett betydande sätt, eller
+
+4. det finns andra särskilda skäl.
+
+Tillsynsmyndigheten ska i samband med ett dispensbeslut
+enligt första stycket förelägga byggnadens eller
+anläggningens ägare att avlägsna massan senast vid en viss
+tidpunkt som myndigheten ska ange i föreläggandet.
+Myndigheten ska skicka föreläggandet till
+inskrivningsmyndigheten för anteckning i fastighetsregistret
+enligt 26 kap. 15 § miljöbalken. Förordning (2010:963).
+
+18 § Innan en åtgärd enligt 17, 17 a eller 17 b § vidtas ska
+ägaren anmäla åtgärden till tillsynsmyndigheten. Anmälan ska
+innehålla de uppgifter som tillsynsmyndigheten behöver för
+att bedöma åtgärdens effekt på människors hälsa och miljön.
+Anmälan ska göras senast tre veckor innan åtgärden påbörjas.
+Förordning (2010:963).
 
 19 § Bestämmelserna i 16-18 §§ skall inte tillämpas på sådana
 en- och tvåbostadshus och till dem hörande komplementbyggnader
@@ -208,41 +283,39 @@ produkt skall avlägsnas.
 
 Bortskaffande
 
-21 § En PCB-vara som är avfall skall genast överlämnas för
-bortskaffande enligt avfallsförordningen (2001:1063). Det som
-är föreskrivet där om PCB skall också tillämpas i fråga om PCB-
-produkter.
+21 § En PCB-vara som är avfall ska genast överlämnas för
+bortskaffande enligt avfallsförordningen (2011:927).
 
 Vid bortskaffande av en PCB-vara får endast de
-bortskaffningsförfaranden tillämpas som i bilaga 5 till
-avfallsförordningen (2001:1063) betecknas D 9 eller D 10.
+bortskaffningsförfaranden tillämpas som i bilaga 3 till
+avfallsförordningen betecknas D 9 eller D 10.
 
 Bestämmelser om förbränning finns i förordningen (2002:1060) om
-avfallsförbränning. Det som är föreskrivet där om PCB skall
-också tillämpas i fråga om PCB-produkter. Andra
+avfallsförbränning. Det som är föreskrivet där om PCB ska också
+tillämpas i fråga om PCB-produkter. Andra
 bortskaffningsförfaranden får tillämpas endast om de i
 jämförelse med förbränning har likvärdiga miljömässiga
 säkerhetskrav och följer kvalificerade tekniska krav med bästa
-möjliga teknik.
+möjliga teknik. Förordning (2011:1003).
 
 22 § Naturvårdsverket får meddela närmare föreskrifter om
 tillämpning av bortskaffningsförfarandena.
 
-23 § Den som bortskaffar PCB-varor skall föra ett register över
-de PCB-varor som bortskaffas. Av registret skall varornas
-mängd, ursprung, art och innehåll av PCB-produkt framgå.
-Registret skall vara tillgängligt för allmänheten.
+23 § Den som bortskaffar PCB-varor ska föra ett register över
+de PCB-varor som bortskaffas. Av registret ska varornas mängd,
+ursprung, art och innehåll av PCB-produkt framgå. Registret ska
+vara tillgängligt för allmänheten.
 
-Den som bortskaffar PCB-varor skall utfärda ett
-mottagningsbevis för de PCB-varor som tas emot för
-bortskaffande. Av beviset skall de mottagna varornas mängd, art
-och innehåll av PCB-produkt framgå. Beviset skall lämnas till
-den som överlämnat varorna för bortskaffande.
+Den som bortskaffar PCB-varor ska utfärda ett mottagningsbevis
+för de PCB-varor som tas emot för bortskaffande. Av beviset ska
+de mottagna varornas mängd, art och innehåll av PCB-produkt
+framgå. Beviset ska lämnas till den som överlämnat varorna för
+bortskaffande.
 
-Det som sägs i första och andra styckena gäller inte om
-motsvarande förpliktelser följer av avfallsförordningen
-(2001:1063) eller av bestämmelser som meddelats med stöd av den
-förordningen eller motsvarande äldre bestämmelser.
+Första och andra styckena gäller inte om motsvarande
+förpliktelser följer av avfallsförordningen (2011:927) eller av
+föreskrifter som har meddelats med stöd av den förordningen
+eller motsvarande äldre föreskrifter. Förordning (2011:1003).
 
 24 § Den som har tagit emot PCB-varor för bortskaffande enligt
 denna förordning skall se till att varorna skaffas bort utan
@@ -250,36 +323,51 @@ dröjsmål.
 
 Märkning
 
-25 § Den som innehar en PCB-produkt eller utrustning som
-innehåller eller kan antas innehålla en PCB-produkt skall se
-till att produkten eller utrustningen är tydligt märkt med
-uppgift om att den innehåller en PCB-produkt. Sådan märkning
-skall också finnas på en förpackning eller annat emballage till
-produkten eller utrustningen.
+25 § Den som innehar en PCB-vara ska se till att den är
+tydligt märkt med uppgift om att den innehåller en PCB-
+produkt. Märkningen ska finnas
 
-Om en utrustning omfattas av anmälningsplikt enligt 11 § skall
+1. direkt på varan, och
+
+2. direkt på varans förpackning eller annat emballage som
+varan är förpackad i, eller
+
+3. om märkning enligt 1 och 2 inte är möjlig med hänsyn till
+det praktiska genomförandet eller kostnaderna för märkningen,
+i sådan anslutning till varan att märkningen är väl synlig
+för den som ska reparera, byta ut eller avlägsna varan.
+
+Om en PCB-vara omfattas av anmälningsplikt enligt 11 § ska
 även dörrarna till den lokal där utrustningen förvaras vara
-märkta med uppgift om att det där finns en PCB-produkt.
+märkta med uppgift att det där finns en PCB-produkt.
 
-Det som sägs i första och andra styckena gäller inte fogmassa
-eller halkskyddad golvmassa som använts i byggnader eller andra
-anläggningar.
+Första och andra styckena gäller inte fogmassa eller
+halkskyddad golvmassa som har använts i byggnader eller
+anläggningar. Förordning (2010:963).
 
 26 § Efter ett byte som avses i 15 § skall utrustningen vara
 märkt på det sätt som anges i bilagan till denna förordning.
 
 Tillsyn, ansvar och överklagande
 
-27 § I förordningen (1998:900) om tillsyn enligt miljöbalken
-och förordningen (1998:940) om avgifter för prövning och
-tillsyn enligt miljöbalken finns bestämmelser om tillsyn och
-avgifter.
+27 § Bestämmelser om tillsyn finns i 26 kap. miljöbalken och i
+miljötillsynsförordningen (2011:13). Bestämmelser om det
+operativa tillsynsansvar som hör samman med denna förordning
+finns i 26 kap. 3 § tredje stycket miljöbalken samt 2 kap. 4
+och 29–32 §§ miljötillsynsförordningen.
+
+Bestämmelser om avgifter finns i förordningen (1998:940) om
+avgifter för prövning och tillsyn enligt miljöbalken.
+Förordning (2011:44).
 
 28 § I 29 kap. miljöbalken finns bestämmelser om straff och
 förverkande.
 
 29 § I 19 kap. 1 § miljöbalken finns bestämmelser om
 överklagande.
+
+Ett beslut om förlängd handläggningstid enligt 15 a § får
+inte överklagas. Förordning (2010:50).
 
 Uppdatering av vissa uppgifter
 
@@ -299,6 +387,15 @@ sådana PCB-varor som inte omfattas av anmälningsplikt enligt
 
 Naturvårdsverket skall regelbundet uppdatera sådana
 förteckningar som avses i första stycket 1.
+
+
+Övergångsbestämmelser
+
+2010:50
+
+Denna förordning träder i kraft den 1 april 2010 och
+tillämpas endast i fråga om ansökningar som har kommit in
+till Naturvårdsverket efter ikraftträdandet.
 
 
 Bilaga
