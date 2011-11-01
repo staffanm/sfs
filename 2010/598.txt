@@ -32,12 +32,20 @@ avfall: ämne eller föremål som innehavaren gör sig av med
 eller avser eller är skyldig att göra sig av med,
 
 restprodukter: material som kvarstår efter en slutförd
-process, vars huvudsyfte inte är att producera detta material,
+process, vars huvudsyfte inte är att producera detta material
+och där processen inte avsiktligt ändrats för att producera
+materialet,
 
-säljställe: försäljningsställe för biodrivmedel där bränslet
-finns tillgängligt för allmänheten genom en eller flera
-bränslepumpar avsedda för tankning direkt i det fordon där
-bränslet är avsett att förbrukas.
+produktionskedja: den produktionsprocess som börjar med odling
+av biomassan, inbegripet framställning av gödsel för odlingen,
+och som pågår fram till och med användningen av biodrivmedlet
+eller det flytande biobränslet.
+
+Om biodrivmedlet eller det flytande biobränslet framställs av
+avfall eller av andra restprodukter än sådana från jordbruk,
+vattenbruk, fiske och skogsbruk avses bara den del av
+produktionsprocessen som börjar med omhändertagandet av
+avfallet eller restprodukterna. Lag (2011:1065).
 
 3 § Endast energi från biodrivmedel och flytande biobränslen
 som uppfyller hållbarhetskriterierna i 2 kap. 15 §§ får
@@ -60,9 +68,7 @@ som hållbara ska användningen av dessa bränslen medföra en
 minskning av utsläppen av växthusgaser med minst 35 procent i
 förhållande till utsläppen om fossila bränslen i stället hade
 använts. Den minskning som ska ske avser de utsläpp som
-uppstår under den process som börjar med odling av biomassan,
-inbegripet framställning av gödsel för odlingen, och som pågår
-fram till förbränningen av biobränslet.
+uppstår under produktionskedjan.
 
 För att biodrivmedel och flytande biobränslen ska anses som
 hållbara ska användningen av dessa bränslen från och med den 1
@@ -78,9 +84,9 @@ av utsläppen av växthusgaser med minst 60 procent i
 förhållande till utsläppen om fossila bränslen i stället hade
 använts.
 
-Regeringen eller den myndighet som regeringen bestämmer
-meddelar närmare föreskrifter om hur minskningen av utsläppen
-av växthusgaser ska beräknas.
+Regeringen eller den myndighet som regeringen bestämmer får
+meddela ytterligare föreskrifter om hur minskningen av
+utsläppen av växthusgaser ska beräknas. Lag (2011:1065).
 
 2 § För att biodrivmedel eller flytande biobränslen ska anses
 som hållbara får inte dessa bränslen produceras av råvaror
@@ -116,9 +122,10 @@ b) om produktion av råvaror till biodrivmedel och flytande
 biobränslen inte påverkar de syften som gäller för ett sådant
 område som anges under första stycket d.
 
-Regeringen eller den myndighet som regeringen bestämmer
-meddelar närmare föreskrifter om kriterier och geografisk
+Regeringen eller den myndighet som regeringen bestämmer får
+meddela ytterligare föreskrifter om kriterier och geografisk
 räckvidd för de områden som anges i första stycket ac.
+Lag (2011:1065).
 
 3 § För att biodrivmedel eller flytande biobränslen ska anses
 som hållbara får inte dessa bränslen produceras av råvaror
@@ -134,9 +141,10 @@ Första stycket gäller dock inte om produktion av råvaror till
 biodrivmedel och flytande biobränslen inte påverkar de syften
 som gäller för ett sådant område som anges i första stycket.
 
-Regeringen eller den myndighet som regeringen bestämmer
-meddelar närmare föreskrifter om kriterier och geografisk
+Regeringen eller den myndighet som regeringen bestämmer får
+meddela ytterligare föreskrifter om kriterier och geografisk
 räckvidd för de områden som anges i första stycket.
+Lag (2011:1065).
 
 4 § För att biodrivmedel eller flytande biobränslen ska anses
 som hållbara får inte dessa bränslen produceras av råvaror
@@ -160,15 +168,20 @@ värden.
 Första stycket gäller dock inte om ändrad markanvändning inom
 ett område som anges under c medför att kraven i 1 § uppfylls.
 
+Regeringen eller den myndighet som regeringen bestämmer får
+meddela ytterligare föreskrifter om kriterier och geografisk
+räckvidd för de områden som anges i första stycket.
+Lag (2011:1065).
+
 5 § För att biodrivmedel eller flytande biobränslen ska anses
 som hållbara får inte dessa bränslen produceras av råvaror
 från mark som den 1 januari 2008 var torvmark, såvida det inte
 visas att odling och skörd eller avverkning av råvaran inte
 medför dränering av tidigare odikad mark.
 
-Regeringen eller den myndighet som regeringen bestämmer
-meddelar närmare föreskrifter om kriterier och geografisk
-räckvidd för de områden som avses.
+Regeringen eller den myndighet som regeringen bestämmer får
+meddela ytterligare föreskrifter om kriterier och geografisk
+räckvidd för de områden som avses. Lag (2011:1065).
 
 6 § För att biodrivmedel eller flytande biobränslen, som har
 producerats av jordbruksråvaror som odlats i Europeiska
@@ -186,47 +199,120 @@ förordning (EG) nr 1782/2003, och
 b) de rättsakter som anges i bilaga II till förordningen,
 punkterna 15 och 9.
 
-3 kap. Rapportering
+3 kap. Rapportering, hållbarhetsbesked och kontrollsystem
 
-1 § Rapporteringsskyldig är den som yrkesmässigt
+1 § Rapporteringsskyldig är den som
 
-a) levererar biodrivmedel till ett eget eller någon annans
-säljställe i Sverige,
+a) enligt 4 kap. lagen (1994:1776) om skatt på energi är
+skattskyldig för bränsle som helt eller delvis utgörs av
+biodrivmedel eller flytande biobränsle, eller
 
-b) använder biodrivmedel som inte erhållits via säljställe,
+b) i yrkesmässig verksamhet använder flytande biobränsle som
+varken utgör eller ingår i bränsle som är skattepliktigt
+enligt lagen om skatt på energi.
 
-c) använder flytande biobränsle, eller
-
-d) levererar flytande biobränsle till användare i Sverige som
-inte yrkesmässigt använder flytande biobränsle.
-
-Den som är rapporteringsskyldig ska till tillsynsmyndigheten
-rapportera den mängd hållbart biodrivmedel och hållbart
-flytande biobränsle, som har levererats eller använts. I
-rapporten ska den rapporteringsskyldige också visa att de
-levererade eller använda biodrivmedlen och flytande
-biobränslena är hållbara.
-
-Uppgifterna i rapporten ska granskas av en oberoende
-granskare. Granskningen ska säkerställa att uppgifterna är
-korrekta och tillförlitliga. Det sker genom granskning av det
-system som den rapporteringsskyldige använder, en utvärdering
-av provtagningsmetod samt provtagningens frekvens och
-tillförlitlighet. Systemet ska vara korrekt, tillförlitligt
-och skyddat mot bedrägeri. Granskaren ska i ett intyg avge ett
-utlåtande om rapporten. Intyget ska av den
-rapporteringsskyldige ges in till tillsynsmyndigheten.
-
-Tillsynsmyndigheten ska i ett särskilt beslut fastställa om de
-biodrivmedel och flytande biobränslen som omfattas av
-rapporten är att anse som hållbara.
-
-Regeringen får meddela föreskrifter om undantag från
-rapporteringsskyldigheten enligt andra stycket.
+Regeringen eller den myndighet som regeringen bestämmer får
+meddela föreskrifter om undantag från
+rapporteringsskyldigheten enligt första stycket.
 
 Regeringen eller den myndighet som regeringen bestämmer
-meddelar närmare föreskrifter om rapportering enligt andra
-stycket och granskning enligt tredje stycket.
+meddelar närmare föreskrifter om rapporteringsskyldigheten.
+Lag (2011:1065).
+
+1 a § Den som är rapporteringsskyldig ska genom ett
+kontrollsystem säkerställa att de biodrivmedel och flytande
+biobränslen som ska rapporteras är att anse som hållbara.
+
+Den rapporteringsskyldige ska genom överenskommelser, direkt
+eller indirekt, med samtliga aktörer i hela produktionskedjan
+och genom stickprov hos dessa aktörer säkerställa att kravet i
+första stycket uppfylls.
+
+En rapporteringsskyldigs kontrollsystem ska granskas av en
+oberoende granskare. Granskaren ska kontrollera att
+kontrollsystemet är korrekt, tillförlitligt och skyddat mot
+bedrägerier. Granskningen ska också innehålla en utvärdering
+av den metod för stickprov som ska ingå i kontrollsystemet och
+stickprovens frekvens. Dessutom ska granskningen innehålla en
+utvärdering av de uppgifter som den rapporteringsskyldige har
+lämnat om sitt kontrollsystem.
+
+Den oberoende granskaren ska i ett intyg avge ett utlåtande om
+kontrollsystemet.
+
+Regeringen eller den myndighet som regeringen bestämmer får
+meddela ytterligare föreskrifter om kontrollsystem och
+granskning av sådana system. Lag (2011:1065).
+
+1 b § Den som är rapporteringsskyldig ska till
+tillsynsmyndigheten ge in en beskrivning av sitt
+kontrollsystem tillsammans med den oberoende granskarens
+intyg.
+
+Tillsynsmyndigheten ska i ett särskilt beslut fastställa om
+den rapporteringsskyldiges kontrollsystem uppfyller kraven
+enligt 1 a § (hållbarhetsbesked).
+
+Ett hållbarhetsbesked gäller tills vidare men ska omprövas.
+
+Regeringen eller den myndighet som regeringen bestämmer
+meddelar närmare föreskrifter om beskrivning av kontrollsystem
+samt fastställande och omprövning av hållbarhetsbesked.
+
+Regeringen eller den myndighet som regeringen bestämmer får
+meddela ytterligare föreskrifter om styrkande av hållbarhet
+hos biodrivmedel och flytande biobränslen. Lag (2011:1065).
+
+1 c § Den som har beviljats ett hållbarhetsbesked ska utan
+dröjsmål anmäla väsentliga ändringar i sitt kontrollsystem
+till tillsynsmyndigheten.
+
+Regeringen eller den myndighet som regeringen bestämmer
+meddelar närmare föreskrifter om anmälningar enligt första
+stycket. Lag (2011:1065).
+
+1 d § Ett hållbarhetsbesked ska återkallas helt eller delvis
+av tillsynsmyndigheten om
+
+a) den rapporteringsskyldige eller någon som ingår i den
+rapporteringsskyldiges produktionskedja bryter mot åtagandena
+i kontrollsystemet på ett sådant sätt att det med fog kan
+antas att de biodrivmedel och flytande biobränslen som
+rapporteras inte kan anses vara hållbara,
+
+b) den rapporteringsskyldige eller någon som ingår i den
+rapporteringsskyldiges produktionskedja bryter mot åtagandena
+i kontrollsystemet på ett sådant sätt att hållbarheten hos de
+biodrivmedel och flytande biobränslen som den
+rapporteringsskyldige rapporterar inte kan bedömas på ett
+tillfredsställande sätt, eller
+
+c) det är uppenbart att de biodrivmedel och flytande
+biobränslen som rapporteras inte kan anses som hållbara trots
+att åtagandena i kontrollsystemet iakttas.
+
+Återkallelse får inte ske vid ringa felaktigheter.
+
+Ett beslut om återkallelse gäller omedelbart. Lag (2011:1065).
+
+1 e § Den som är rapporteringsskyldig ska till
+tillsynsmyndigheten rapportera den mängd
+
+a) hållbart biodrivmedel och hållbart flytande biobränsle, som
+utgör eller ingår i bränsle för vilket den
+rapporteringsskyldiges skattskyldighet har inträtt enligt 5
+kap. lagen (1994:1776) om skatt på energi, och
+
+b) hållbart flytande biobränsle som avses i 1 § första stycket
+b och som den rapporteringsskyldige har använt.
+
+Om en rapporteringsskyldig har vidtagit sådana åtgärder som
+nämns i artikel 18.3 andra stycket i direktiv 2009/28/EG ska
+dessa åtgärder rapporteras till tillsynsmyndigheten.
+
+Regeringen eller den myndighet som regeringen bestämmer
+meddelar närmare föreskrifter om rapporteringsskyldigheten
+enligt första och andra styckena. Lag (2011:1065).
 
 2 § Den som är rapporteringsskyldig enligt denna lag ska
 anmäla detta till tillsynsmyndigheten. En anmälan ska göras
