@@ -1,5 +1,3 @@
-
-
 1 kap. Tillämpningsområde, definitioner och valuta.
 
 Lagens tillämpningsområde
@@ -222,9 +220,9 @@ beskattningsår: i fråga om
 a) skatt som avses i inkomstskattelagen (1999:1229), lagen
 (1984:1052) om statlig fastighetsskatt, lagen (1990:661) om
 avkastningsskatt på pensionsmedel i fall som avses i 2 §
-första stycket 14 och lagen (1991:687) om särskild löneskatt
+första stycket 1–4 och lagen (1991:687) om särskild löneskatt
 på pensionskostnader samt avgift som avses i lagen (2007:1398)
-om kommunal fastighetsavgift, beskattningsår enligt 1 kap. 13
+om kommunal fastighetsavgift, beskattningsår enligt 1 kap. 13–
 15 §§ inkomstskattelagen,
 
 b) mervärdesskatt, beskattningsår enligt 1 kap. 14 §
@@ -238,7 +236,7 @@ mervärdesskattelagen eller, om skatteredovisningen inte sker
 för redovisningsperioder, det kalenderår under vilket den
 skattepliktiga händelsen inträffat,
 
-d) skatt som inte avses i ac, det kalenderår för vilket
+d) skatt som inte avses i a–c, det kalenderår för vilket
 skatten ska betalas,
 
 grupphuvudman: den som enligt 6 a kap. 4 §
@@ -311,14 +309,14 @@ anges i 2 a kap. 3 § första stycket 1 och 2 nämnda lag,
 
 4. den som utan att omfattas av 19 kap. 1 §
 mervärdesskattelagen har rätt till återbetalning av ingående
-mervärdesskatt enligt 10 kap. 9 och 1113 §§ samma lag,
+mervärdesskatt enligt 10 kap. 9 och 11–13 §§ samma lag,
 
 5. den som gör sådant unionsinternt förvärv som är undantaget
 från skatteplikt enligt 3 kap. 30 d § första stycket
 mervärdesskattelagen,
 
 5 a. en utländsk företagare som är etablerad i ett annat EU-
-land och har rätt till återbetalning enligt 10 kap. 13 §§
+land och har rätt till återbetalning enligt 10 kap. 1–3 §§
 mervärdesskattelagen utan att omfattas av 19 kap. 1 § samma
 lag och inte heller ska registreras enligt 2, 4 eller 5,
 
@@ -685,22 +683,22 @@ från skatteavdrag som avses i 10 eller 11 §.
 
 Första stycket 2 och 3 gäller inte, om
 
- ett sådant beslut om skattskyldighet enligt
+– ett sådant beslut om skattskyldighet enligt
 inkomstskattelagen (1999:1229) för mottagaren som avses i
 5 a § tredje stycket lagen (1991:591) om särskild inkomstskatt
 för utomlands bosatta artister m.fl. har visats upp för
 utbetalaren eller denne fått kännedom om att ett sådant
 beslut finns, eller
 
- ersättningen betalas ut för näringsverksamhet som
+– ersättningen betalas ut för näringsverksamhet som
 mottagaren bedriver från ett fast driftställe här i landet.
 
 Första stycket 2 gäller inte heller, om ersättningen
 
- ska beskattas enligt 3 kap. 18 § första stycket 1
+– ska beskattas enligt 3 kap. 18 § första stycket 1
 inkomstskattelagen (1999:1229), eller
 
- är skattepliktig enligt lagen (1991:586) om särskild
+– är skattepliktig enligt lagen (1991:586) om särskild
 inkomstskatt för utomlands bosatta och skatteavdrag inte ska
 göras enligt den lagen. Lag (2009:1063).
 
@@ -1040,7 +1038,7 @@ avgift till registrerat trossamfund,
 annat avdrag än grundavdrag, och att
 
 5. arbetstagaren medges skattereduktion för allmän
-pensionsavgift och ar betsinkomst enligt 67 kap. 49 §§
+pensionsavgift och ar betsinkomst enligt 67 kap. 4–9 §§
 inkomstskattelagen (1999:1229).
 
 Skattetabellerna ska ange skatteavdraget med utgångspunkt
@@ -1514,10 +1512,10 @@ dennes skalbolagsdeklaration.  Lag (2003:227).
 
 När en skalbolagsdeklaration skall lämnas
 
-8 b § En skalbolagsdeklaration skall lämnas inom 30 dagar efter
-det att andelen eller delägarrätten har avyttrats eller, i
-fråga om handelsbolag, avyttringen eller tillträdet.
-Lag (2002:538).
+8 b § En skalbolagsdeklaration ska ha kommit in till
+Skatteverket senast 60 dagar efter det att andelen eller
+delägarrätten har avyttrats eller tillträtts.
+Lag (2011:1511).
 
 Vad en skalbolagsdeklaration skall ta upp
 
@@ -1816,7 +1814,7 @@ När en skattedeklaration skall lämnas
 
 18 § Den som är skyldig att redovisa mervärdesskatt eller som
 ska registreras enligt 3 kap. 1 § 4, 5 eller 5 a ska, om inte
-annat följer av 1924 §§, lämna skattedeklaration enligt
+annat följer av 19–24 §§, lämna skattedeklaration enligt
 följande uppställning.
 
 Deklaration     ska avse         punktskatter   och mervärdesskatt
@@ -1826,25 +1824,25 @@ Skatteverket    avgifter för     perioden
 senast          redovisnings-
                 perioden,
 
-12 februari     januari          december       oktoberdecember
+12 februari     januari          december       oktober–december
 
 12 mars         februari         januari
 
 12 april        mars             februari
 
-12 maj          april            mars           januarimars
+12 maj          april            mars           januari–mars
 
 12 juni         maj              april
 
 12 juli         juni             maj
 
-17 augusti      juli             juni           apriljuni
+17 augusti      juli             juni           april–juni
 
 12 september    augusti          juli
 
 12 oktober      september        augusti
 
-12 november     oktober          september      juliseptember
+12 november     oktober          september      juli–september
 
 12 december     november         oktober
 
@@ -2080,7 +2078,7 @@ lämnas in senast 35 dagar efter förvärvet. Lag (2007:1377).
 tobaksskatt, lagen (1994:1564) om alkoholskatt, lagen
 (1994:1776) om skatt på energi eller lagen (1984:409) om
 skatt på gödselmedel och som inte ska registreras enligt 3
-kap. 1 § första stycket 7 b eller fh, ska redovisa skatten i
+kap. 1 § första stycket 7 b eller f–h, ska redovisa skatten i
 en särskild skattedeklaration för varje skattepliktig
 händelse. Deklarationen ska lämnas in senast fem dagar efter
 den skattepliktiga händelsen. För den som är skattskyldig
@@ -2189,22 +2187,7 @@ ska tillämpa den nya perioden till och med utgången av det
 fjärde kalenderkvartalet som följer efter den tidpunkt när
 bytet av period gjordes. Lag (2009:1335).
 
-35 a § /Upphör att gälla U:2012-01-01/
-Skatteverket ska besluta att den periodiska
-sammanställningen ska göras för varje kalenderkvartal i
-stället för vad som föreskrivs i 35 § 1, om
-
-1. den som är skyldig att lämna sammanställningen begär det,
-och
-
-2. det sammanlagda värdet av omsättning och överföringar av
-varor enligt 33 § första stycket 1 inte överstiger 1 000 000
-kronor exklusive mervärdesskatt för det innevarande
-kalenderkvartalet eller för något av de fyra närmast
-föregående kalenderkvartalen. Lag (2009:1335).
-
-35 a § /Träder i kraft I:2012-01-01/
-Skatteverket ska besluta att den periodiska
+35 a § Skatteverket ska besluta att den periodiska
 sammanställningen ska göras för varje kalenderkvartal i
 stället för vad som föreskrivs i 35 § 1, om
 
@@ -2452,8 +2435,8 @@ gäller får meddelas även efter denna tid, om det av material
 som är tillgängligt för Skatteverket framgår att det
 beslut som omprövas är felaktigt. Lag (2003:222).
 
-17 § Bestämmelserna om omprövning i 21 kap. 1, 36 och
-814 §§, 15 § första stycket samt 1620 §§ gäller även för
+17 § Bestämmelserna om omprövning i 21 kap. 1, 3–6 och
+8–14 §§, 15 § första stycket samt 16–20 §§ gäller även för
 beskattningsbeslut avseende skatt enligt mervärdesskattelagen
 (1994:200) som redovisas enligt bestämmelserna i detta kapitel
 eller enligt motsvarande bestämmelser i ett annat EU-land.
@@ -2475,7 +2458,7 @@ Bestämmelserna i 22 kap. 1 § första stycket andra meningen, 2 §
 avses i första stycket. Lag (2003:664).
 
 19 § Bestämmelserna om överklagande i 22 kap. 1 § första
-stycket, 24 §§, 6 § första stycket samt 7, 9, 11 och 13 §§
+stycket, 2–4 §§, 6 § första stycket samt 7, 9, 11 och 13 §§
 gäller även för beskattningsbeslut avseende skatt enligt
 mervärdesskattelagen (1994:200) som redovisas enligt
 bestämmelserna i detta kapitel eller enligt motsvarande
@@ -2496,10 +2479,10 @@ i detta kapitel, endast följande bestämmelser i denna lag: 1
 kap. 1 och 3 §§, 2 kap. 5 och 6 §§ samt 7 § första stycket,
 10 kap. 37 §, 11 kap. 1, 2 och 20 §§, 12 kap. 6 och 7 §§, 12 §
 första stycket och 13 §, 13 kap. 1 § första stycket, 14 kap.
-1 §, 2 § första stycket och 48 §§, 16 kap. 6 § andra stycket
+1 §, 2 § första stycket och 4–8 §§, 16 kap. 6 § andra stycket
 första meningen samt tredje och fjärde styckena samt 13 §, 17
-kap. 2, 3 och 811 §§, 18 kap. 8 och 9 §§ samt 10 § andra
-stycket, 20 kap. 15 §§ och 23 kap. 59 §§. Lag (2011:288).
+kap. 2, 3 och 8–11 §§, 18 kap. 8 och 9 §§ samt 10 § andra
+stycket, 20 kap. 1–5 §§ och 23 kap. 5–9 §§. Lag (2011:288).
 
 22 § Om Skatteverket begär det, skall näringsidkaren göra
 sådant underlag som avses i 14 kap. 2 § första stycket
@@ -2633,29 +2616,7 @@ Lag (1999:315).
 
 Slutlig skatt
 
-9 § /Upphör att gälla U:2011-12-31/
-Skatteverket fattar varje år beslut om skattens storlek
-enligt den årliga taxeringen (grundläggande beslut om slutlig
-skatt). Slutlig skatt kan be stämmas också genom
-omprövningsbeslut och till följd av beslut av dom stol.
-
-Med slutlig skatt avses summan av skatter och avgifter enligt
-10 § minskad med skattereduktion enligt följande ordning.
-
-1. lagen (2008:826) om skattereduktion för kommunal
-fastighetsavgift,
-
-2. lagen (2003:1204) om skattereduktion för vissa
-miljöförbättrande in stallationer i småhus,
-
-3. 67 kap. 219 §§ inkomstskattelagen (1999:1229), och
-
-4. lagen (2005:1137) om skattereduktion för virke från
-stormfälld skog vid 20062008 års taxeringar.
-Lag (2009:196).
-
-9 § /Träder i kraft I:2011-12-31/
-Skatteverket fattar varje år beslut om skattens storlek
+9 § Skatteverket fattar varje år beslut om skattens storlek
 enligt den årliga taxeringen (grundläggande beslut om slutlig
 skatt). Slutlig skatt kan bestämmas också genom
 omprövningsbeslut och till följd av beslut av domstol.
@@ -2669,10 +2630,10 @@ fastighetsavgift,
 2. lagen (2003:1204) om skattereduktion för vissa
 miljöförbättrande installationer i småhus,
 
-3. 67 kap. 126 §§ inkomstskattelagen (1999:1229), och
+3. 67 kap. 1–26 §§ inkomstskattelagen (1999:1229), och
 
 4. lagen (2005:1137) om skattereduktion för virke från
-stormfälld skog vid 20062008 års taxeringar.
+stormfälld skog vid 2006–2008 års taxeringar.
 Lag (2011:1282).
 
 Vad som ingår i slutlig skatt
@@ -2772,66 +2733,7 @@ sättas ned med mellanskillnaden. Lag (1997:1032).
 
 Besked om slutlig skatt
 
-14 § /Upphör att gälla U:2011-12-31/
-Sedan den slutliga skatten har bestämts ska Skatteverket
-göra en avstämning av skattekontot.
-
-Innan avstämning görs ska Skatteverket
-
-1. från den slutliga skatten göra avdrag för
-
-a) debiterad F-skatt och särskild A-skatt,
-
-b) avdragen A-skatt,
-
-c) A-skatt som ska betalas på grund av beslut enligt 12 kap.
-1 § andra stycket,
-
-d) skatt som överförts från stat med vilken Sverige har
-ingått överenskommelse om uppbörd och överföring av skatt,
-
-e) skatt som betalats enligt lagen (1991:586) om särskild
-inkomstskatt för utomlands bosatta eller enligt lagen
-(1991:591) om särskild inkomstskatt för utomlands bosatta
-artister m.fl. för den tid under beskattningsåret då den
-skattskyldige varit obegränsat skattskyldig i Sverige,
-
-f) skatt som betalats enligt lagen om särskild inkomstskatt
-för utomlands bosatta, om den skattskyldige enligt 4 § den
-lagen har begärt att bli beskattad enligt inkomstskattelagen
-(1999:1229),
-
-g) skatt som betalats enligt lagen om särskild inkomstskatt
-för utomlands bosatta artister m.fl., om Skatteverket har
-meddelat beslut enligt 5 a § tredje stycket den lagen om
-skattskyldighet enligt inkomstskattelagen,
-
-h) skatt som avser sådana återbetalningar som ska göras
-enligt rådets direktiv 2003/48/EG av den 3 juni 2003 om
-beskattning av inkomster från sparande i form av
-räntebetalningar, senast ändrat genom rådets beslut
-2004/587/EG,
-
-i) beslutad jämställdhetsbonus enligt 14 § första stycket
-lagen (2008:313) om jämställdhetsbonus,
-
-2. till den slutliga skatten lägga
-
-a) skatt som betalats tillbaka enligt 18 kap. 3 § första
-stycket,
-
-b) skatt som överförts till en annan stat enligt 18 kap. 5 §
-första stycket,
-
-c) skattetillägg och förseningsavgift enligt taxeringslagen
-(1990:324), och
-
-d) preliminär skattereduktion enligt 17 § lagen (2009:194) om
-förfarandet vid skattereduktion för hushållsarbete.
-Lag (2009:1063).
-
-14 § /Träder i kraft I:2011-12-31/
-Sedan den slutliga skatten har bestämts ska Skatteverket
+14 § Sedan den slutliga skatten har bestämts ska Skatteverket
 göra en avstämning av skattekontot.
 
 Innan avstämning görs ska Skatteverket
@@ -3164,23 +3066,7 @@ Om dödsboet har skiftats, ansvarar dödsbodelägarna för skatten
 i den omfattning som föreskrivs i 21 kap. ärvdabalken.
 Lag (2004:1345).
 
-/Rubriken upphör att gälla U:2011-12-31/
-Ansvar vid fusion, delning eller annan ombildning av
-investeringsfonder
-
-9 a § /Upphör att gälla U:2011-12-31 genom lag (2011:1282)./
-Efter en fusion eller en delning av investeringsfonder
-enligt 8 kap. 1, 24 och 25 §§ lagen (2004:46) om
-investeringsfonder övergår rättigheter och skyldigheter när
-det gäller skatt som avser tiden före ombildningen till den
-eller de nybildade fonderna. Vid delning fördelas
-rättigheterna och skyldigheterna mellan de nybildade fonderna
-i förhållande till fondernas värde vid delningen.
-
-Det som sägs i första stycket gäller även vid en
-gränsöverskridande fusion enligt 8 kap. 17 § lagen om
-investeringsfonder och när en specialfond ombildas till en
-värdepappersfond. Lag (2011:936).
+9 a § Har upphävts genom lag (2011:1282).
 
 Regress
 
@@ -3431,7 +3317,7 @@ avsändare enligt lagen om tobaksskatt, lagen om alkoholskatt
 eller lagen om skatt på energi.
 
 I övrigt gäller för skatterevision bestämmelserna om
-taxeringsrevision i 3 kap. 914 c §§ taxeringslagen
+taxeringsrevision i 3 kap. 9–14 c §§ taxeringslagen
 (1990:324). Lag (2009:1506).
 
 Utlämnande av uppgifter
@@ -4168,7 +4054,7 @@ tjänster utan mervärdesskatt eller punktskatt, får utöva den
 rätten genom en ansökan om återbetalning av skatten. Detta
 gäller dock endast om inte det förfarande för rätt till
 återbetalning av skatt är tillämpligt som gäller vid förvärv
-enligt 10 kap. 58 §§ mervärdesskattelagen (1994:200), 31 d §
+enligt 10 kap. 5–8 §§ mervärdesskattelagen (1994:200), 31 d §
 lagen (1994:1563) om tobaksskatt, 31 d § lagen (1994:1564) om
 alkoholskatt eller 9 kap. 1 § lagen (1994:1776) om skatt på
 energi.
@@ -4283,24 +4169,7 @@ Grunder för ränteberäkning
 tillgodoföras ränta (intäktsränta) enligt bestämmelserna i detta
 kapitel.
 
-2 § /Upphör att gälla U:2011-12-31/
-Ränteberäkningen ska grundas på den sammanlagda
-skatteskuld eller skattefordran enligt denna lag som den
-skattskyldige har varje dag.
-
-Till den del skatteskulden gäller skatt som avses i 4, 5 eller
-7 § beräknas kostnadsränta inte för tiden från och med den 13
-februari till och med den 3 maj taxeringsåret på belopp upp
-till och med 20 000 kronor.
-
-I skatteskuld eller skattefordran ska inte ingå skatt enligt
-2 § första stycket 6 och 7 lagen (1990:661) om avkastningsskatt
-på pensionsmedel för tiden från och med den 13 februari
-taxeringsåret till och med den förfallodag som anges i 16
-kap. 6 §. Lag (2011:75).
-
-2 § /Träder i kraft I:2011-12-31/
-Ränteberäkningen ska grundas på den sammanlagda skatteskuld
+2 § Ränteberäkningen ska grundas på den sammanlagda skatteskuld
 eller skattefordran enligt denna lag som den skattskyldige har
 varje dag.
 
@@ -4309,8 +4178,8 @@ Till den del skatteskulden gäller skatt som avses i 4, 5 eller
 februari till och med den 3 maj taxeringsåret på belopp upp
 till och med 20 000 kronor.
 
-I skatteskuld eller skattefordran ska inte ingå skatt enligt 2
-§ första stycket 69 lagen (1990:661) om avkastningsskatt på
+I skatteskuld eller skattefordran ska inte ingå skatt enligt
+2 § första stycket 6–9 lagen (1990:661) om avkastningsskatt på
 pensionsmedel för tiden från och med den 13 februari
 taxeringsåret till och med den förfallodag som anges i 16 kap.
 6 §. Lag (2011:1282).
@@ -4869,7 +4738,7 @@ för territoriellt samarbete     hade sitt säte den 1 november
                                 rörde den avlidne
 
 5. någon annan juridisk         inom vars domkrets styrelsen
-person än som avses i 14       hade sitt säte eller, om sådant
+person än som avses i 1–4       hade sitt säte eller, om sådant
                                 saknas, förvaltningen utövades
                                 den 1 november året före det år
                                 då beslutet fattades
@@ -6006,6 +5875,11 @@ fusioner, delningar och andra ombildningar som sker före den
 3. Bestämmelserna i 11 kap. 9 § och 19 kap. 2 § i sina nya
 lydelser tillämpas första gången i fråga om slutlig skatt
 enligt 2013 års taxering.
+
+2011:1511
+
+Denna lag träder i kraft den 31 december 2011 och tillämpas på
+avyttringar som skett efter ikraftträdandet.
 
 
 
