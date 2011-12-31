@@ -41,8 +41,7 @@ huvudsakliga verksamhet består i att äga eller förvalta fast
 egendom, tillhandahålla datatjänster eller driva annan
 liknande verksamhet som har samband med den huvudsakliga
 verksamheten i ett eller flera kreditinstitut,
-värdepappersbolag, institut för elektroniska pengar eller
-motsvarande utländska företag,
+värdepappersbolag eller motsvarande utländska företag,
 
 2. behörig myndighet: Finansinspektionen eller en annan
 myndighet inom EES som utövar tillsyn över institut, institut
@@ -55,28 +54,27 @@ balansräkningen, derivatavtal som redovisas som skulder eller
 åtaganden utanför balansräkningen,
 
 5. finansiellt holdingföretag: ett finansiellt institut som
-inte är ett blandat finansiellt holdingföretag enligt 1 kap.
-3 § 3 lagen (2006:531) om särskild tillsyn över finansiella
+inte är ett blandat finansiellt holdingföretag enligt 1 kap. 3
+§ 3 lagen (2006:531) om särskild tillsyn över finansiella
 konglomerat och
 
 a) som har minst ett dotterföretag som är kreditinstitut,
-värdepappersbolag, institut för elektroniska pengar eller
-motsvarande utländskt företag, och
+värdepappersbolag eller motsvarande utländskt företag, och
 
 b) vars dotterföretag uteslutande eller huvudsakligen utgörs
 av sådana företag som avses i a eller finansiella institut,
 
 6. finansiellt institut: ett svenskt eller utländskt företag
-som inte är kreditinstitut, värdepappersbolag, institut för
-elektroniska pengar eller motsvarande utländskt företag och
-vars huvudsakliga verksamhet är att
+som inte är kreditinstitut, värdepappersbolag eller
+motsvarande utländskt företag och vars huvudsakliga verksamhet
+är att
 
 a) förvärva eller inneha aktier eller andelar,
 
 b) driva en eller flera av de verksamheter som anges i 7 kap.
-1 § andra stycket 210 och 12 lagen (2004:297) om bank- och
-finansieringsrörelse, utan att vara tillståndspliktigt enligt
-2 kap. 1 § samma lag, eller
+1 § andra stycket 210, 12 och 15 lagen (2004:297) om bank-
+och finansieringsrörelse, utan att vara tillståndspliktigt
+enligt 2 kap. 1 § samma lag, eller
 
 c) driva värdepappersrörelse utan att vara tillståndspliktigt
 enligt 2 kap. 1 § lagen (2007:528) om värdepappersmarknaden,
@@ -94,20 +92,20 @@ annat finansiellt holdingföretag som är etablerat inom EES,
 
 9. holdingföretag med blandad verksamhet: ett svenskt eller
 utländskt moderföretag som inte är kreditinstitut,
-värdepappersbolag, institut för elektroniska pengar,
-motsvarande utländskt företag, finansiellt holdingföretag
-eller ett blandat finansiellt holdingföretag enligt 1 kap.
-3 § 3 lagen om särskild tillsyn över finansiella konglomerat,
-men som har minst ett dotterföretag som är kreditinstitut,
-värdepappersbolag, institut för elektroniska pengar eller
-motsvarande utländskt företag,
+värdepappersbolag, motsvarande utländskt företag, finansiellt
+holdingföretag eller ett blandat finansiellt holdingföretag
+enligt 1 kap. 3 § 3 lagen om särskild tillsyn över finansiella
+konglomerat, men som har minst ett dotterföretag som är
+kreditinstitut, värdepappersbolag eller motsvarande utländskt
+företag,
 
 10. institut: kreditinstitut och värdepappersbolag,
 
 11. kapitalkravsdirektivet: Europaparlamentets och rådets
 direktiv 2006/49/EG av den 14 juni 2006 om kapitalkrav för
-värdepappersföretag och kreditinstitut (omarbetning), ändrat
-genom Europaparlamentets och rådets direktiv 2008/23/EG,
+värdepappersföretag och kreditinstitut (omarbetning), senast
+ändrat genom Europaparlamentets och rådets direktiv
+2010/78/EU,
 
 12. kreditinstitut: bank, kreditmarknadsföretag och Svenska
 skeppshypotekskassan,
@@ -116,9 +114,15 @@ skeppshypotekskassan,
 direktiv 2006/48/EG av den 14 juni 2006 om rätten att starta
 och driva verksamhet i kreditinstitut (omarbetning), senast
 ändrat genom Europaparlamentets och rådets direktiv
-2007/44/EG,
+2010/78/EU,
 
-14. moderinstitut inom EES: ett institut eller motsvarande
+14. medverkande institut: institut, annat än det institut som
+är originator, som upprättar och förvaltar ett
+tillgångsbaserat certifikatprogram eller någon annan
+värdepapperisering och som förvärvar exponeringar från tredje
+man,
+
+15. moderinstitut inom EES: ett institut eller motsvarande
 utländskt företag som auktoriserats inom EES och som
 
 a) har ett institut, ett finansiellt institut eller ett
@@ -126,33 +130,49 @@ motsvarande utländskt företag som dotterföretag eller som har
 ett ägarintresse i ett sådant företag, och
 
 b) inte är dotterföretag till ett annat institut eller ett
-motsvarande utländskt företag som auktoriserats inom EES
-eller till ett finansiellt holdingföretag som är etablerat
-inom EES,
+motsvarande utländskt företag som auktoriserats inom EES eller
+till ett finansiellt holdingföretag som är etablerat inom EES,
 
-15. operativa risker: risker för förluster till följd av inte
-ändamålsenliga eller inte fungerande interna förfaranden
-eller system eller på grund av mänskliga fel eller yttre
-händelser, samt rättsliga risker,
+16. operativa risker: risker för förluster till följd av inte
+ändamålsenliga eller inte fungerande interna förfaranden eller
+system eller på grund av mänskliga fel eller yttre händelser,
+samt rättsliga risker,
 
-16. riskvikt: en procentsats som beskriver en risknivå hos en
+17. originator: ett företag som
+
+a) självt eller via anknutna företag, direkt eller indirekt,
+var part i det ursprungliga avtal som gav upphov till de
+förpliktelser eller potentiella förpliktelser för gäldenären,
+eller den potentiella gäldenären, som ligger till grund för
+den exponering som värdepapperiseras, eller
+
+b) förvärvar tredje mans exponeringar, tar upp dem i sin
+balansräkning och därefter värdepapperiserar dem,
+
+18. riskvikt: en procentsats som beskriver en risknivå hos en
 exponering,
 
-17. värdepapperisering: en transaktion eller ett program
+19. värdepapperisering: en transaktion eller ett program
 varigenom den kreditrisk som är förenad med en exponering
 eller en grupp exponeringar delas upp i delar, och som har
 följande egenskaper:
 
-a) betalningarna inom ramen för transaktionen eller
-programmet är beroende av utvecklingen av exponeringen eller
-gruppen av exponeringar, och
+a) betalningarna inom ramen för transaktionen eller programmet
+är beroende av utvecklingen av exponeringen eller gruppen av
+exponeringar, och
 
 b) prioriteringen av delarna avgör hur förluster fördelas
-under den tid transaktionen eller programmet pågår, och
+under den tid transaktionen eller programmet pågår,
 
-18. värdepappersbolag: ett svenskt aktiebolag som har fått
+20. värdepappersbolag: ett svenskt aktiebolag som har fått
 tillstånd att driva värdepappersrörelse enligt lagen om
-värdepappersmarknaden. Lag (2009:364).
+värdepappersmarknaden, och
+
+21. återvärdepapperisering: en värdepapperisering i vilken den
+risk som är förenad med en underliggande grupp av exponeringar
+delas upp i delar och minst en av de underliggande
+exponeringarna är en värdepapperiseringsposition.
+Lag (2011:772).
 
 4 § Ett institut, ett finansiellt holdingföretag eller ett
 holdingföretag med blandad verksamhet är moderföretag och en
@@ -276,25 +296,29 @@ Av 7 kap. 8 § framgår att ett institut som efter tillstånd av
 Finansinspektionen överskrider gränsvärdena för stora
 exponeringar, skall uppfylla ett särskilt kapitalkrav.
 
-I 7 kap. 11 § lagen (2004:297) om bank- och
+-I 7 kap. 11 § lagen (2004:297) om bank- och
 finansieringsrörelse finns det ytterligare bestämmelser som rör
 beräkningen av kapitalbaskravet.
 
-2 § Finansinspektionen skall besluta att ett institut skall ha
-en viss minsta storlek på sin kapitalbas som är större än vad
-som krävs enligt 1 § första stycket 1, om
+2 § Finansinspektionen ska besluta att ett institut ska ha en
+viss minsta storlek på sin kapitalbas som är större än vad som
+krävs enligt 1 § första stycket 1, om
 
-1. institutet inte uppfyller något av kraven i 6 kap. 1-3, 4 a,
-4 b och 5 §§ lagen (2004:297) om bank- och finansieringsrörelse
-eller 8 kap. 3-8 §§ lagen (2007:528) om värdepappersmarknaden,
-och
+1. institutet inte uppfyller något av kraven i 6 kap. 13,
+4 a, 4 b och 5 §§ lagen (2004:297) om bank- och
+finansieringsrörelse eller 8 kap. 38 §§ lagen (2007:528) om
+värdepappersmarknaden, och
 
 2. det inte är troligt att någon annan åtgärd är tillräcklig
-för att få institutet att rätta till bristerna inom rimlig tid.
+för att få institutet att rätta till bristerna inom rimlig
+tid, eller
 
-Första stycket skall inte tillämpas, om överträdelsen är så
-allvarlig att verksamhetstillståndet i stället skall
-återkallas. Lag (2007:570)
+3. det i samband med en kapitalutvärdering bedöms nödvändigt
+för att täcka risker som institutet är exponerat för.
+
+Första stycket ska inte tillämpas, om överträdelsen är så
+allvarlig att verksamhetstillståndet i stället ska återkallas.
+Lag (2011:884).
 
 Kapitalkravet för kreditrisker
 
@@ -304,12 +328,12 @@ enligt 4 kap.
 
 Kapitalkravet för marknadsrisker
 
-4 § För marknadsrisker krävs ett kapital som uppgår till summan
-av kapitalkraven för
+4 § För marknadsrisker krävs ett kapital som uppgår till
+summan av kapitalkraven för
 
 1. motpartsrisker för verksamhet i handelslagret,
 
-2. avvecklingsrisker för verksamhet i handelslagret,
+2. avvecklingsrisker för hela verksamheten,
 
 3. positionsrisker (ränte- och aktiekursrisk) för verksamhet i
 handelslagret, och
@@ -317,7 +341,7 @@ handelslagret, och
 4. valutakursrisker och råvarurisker i hela verksamheten.
 
 Något kapitalkrav behöver inte beräknas för positioner som
-dragits av från kapitalbasen.
+dragits av från kapitalbasen. Lag (2011:752).
 
 5 § Kapitalkravet för marknadsrisker beräknas enligt någon av
 de metoder som anges i 5 kap., om inte något annat följer av
@@ -446,15 +470,17 @@ Primärt kapital
 2 § I det primära kapitalet får följande ingå:
 
 1. Eget kapital enligt 5 kap. 4 § lagen (1995:1559) om
-årsredovisning i kreditinstitut och värdepappersbolag,
+årsredovisning i kreditinstitut och värdepappersbolag, om det
+helt kan täcka förluster i en fortlevnadssituation och om det
+vid konkurs eller likvidation prioriteras efter alla andra
+krav,
 
 a) för bankaktiebolag, kreditmarknadsbolag och
-värdepappersbolag dock inte kumulativa preferensaktier och
-uppskrivningsfonder,
+värdepappersbolag, dock inte uppskrivningsfonder,
 
-b) för sparbanker dock endast reservfonder,
+b) för sparbanker, dock endast reservfonder,
 
-c) för medlemsbanker och kreditmarknadsföreningar dock inte
+c) för medlemsbanker och kreditmarknadsföreningar, dock inte
 förlagsinsatser och uppskrivningsfonder,
 
 2. För Svenska skeppshypotekskassan: kassans reservfond.
@@ -467,19 +493,20 @@ periodiseringsfond.
 belopp som svarar mot bankens eller företagets reserver till
 följd av avskrivning på egendom som upplåtits till nyttjande.
 
-Från summan av posterna enligt första stycket skall räknas av
+Från summan av posterna enligt första stycket ska följande
+räknas av
 
 1. förluster under löpande räkenskapsår,
 
 2. immateriella anläggningstillgångar enligt bilaga 1 till
-lagen om årsredovisning i kreditinstitut och värdepappersbolag,
-punkten 9 under rubriken tillgångar, och
+lagen om årsredovisning i kreditinstitut och
+värdepappersbolag, punkten 9 under rubriken tillgångar, och
 
 3. den nettovinst som hos ett institut som är originator till
-en värdepapperisering uppkommer till följd av kapitalisering av
-framtida inkomster av de värdepapperiserade tillgångarna och
-som ger en kreditförstärkning till positioner i
-värdepapperiseringen.
+en värdepapperisering uppkommer till följd av kapitalisering
+av framtida inkomster av de värdepapperiserade tillgångarna
+och som ger en kreditförstärkning till positioner i
+värdepapperiseringen. Lag (2011:752).
 
 Supplementärt kapital
 
@@ -592,19 +619,32 @@ till att kapitalkravet för marknadsrisker beräknas enligt detta
 kapitel, skall även exponeringar som ingår i handelslagret
 beaktas.
 
-2 § Ett kapitalkrav för kreditrisker skall även beräknas för
-exponeringar som ett institut har värdepapperiserat om det
+2 § Ett kapitalkrav för kreditrisker ska beräknas även för
+exponeringar som ett institut har värdepapperiserat eller för
+instrument som sålts från handelslagret till ett
+specialföretag för värdepapperisering, om värdepapperiseringen
+eller försäljningen fått till följd att institutet inte
+behöver inneha någon kapitalbas för den risk som är förenad
+med dessa instrument, och institutet
 
 1. inte i samband med värdepapperiseringen har överfört en
-betydande kreditrisk till tredje man, eller
+betydande kreditrisk till tredje man,
 
 2. har gett stöd till värdepapperiseringen utöver sina
-avtalsmässiga förpliktelser.
+avtalsmässiga förpliktelser, eller
+
+3. inte tillämpar riskvikten 1 250 procent på samtliga
+positioner i värdepapperiseringen eller räknar av dessa
+positioner från kapitalbasen.
 
 Om ett institut medverkar vid en värdepapperisering av ett
-annat instituts exponeringar skall det, om det har gett stöd
-till värdepapperiseringen utöver sina avtalsmässiga
-förpliktelser, beräkna ett kapitalkrav för exponeringarna.
+annat instituts exponeringar, ska det beräkna ett kapitalkrav
+för exponeringarna, om det har gett stöd till
+värdepapperiseringen utöver sina avtalsmässiga förpliktelser.
+Detsamma gäller om ett institut har sålt instrument från sitt
+handelslager till ett specialföretag för värdepapperisering
+med följden att någon kapitalbas inte behöver innehas för den
+risk som är förenad med dessa instrument. Lag (2011:752).
 
 3 § Ett institut som skall beräkna ett kapitalkrav enligt 2 §
 första stycket 2 eller andra stycket skall offentliggöra att
@@ -724,13 +764,13 @@ förhöjd kapitalbas.
 Kreditvärderingsföretags kreditvärderingar
 
 12 § Ett kreditvärderingsföretag får ansöka hos
-Finansinspektionen om att det skall godkännas. När ett
+Finansinspektionen om att det ska godkännas. När ett
 kreditvärderingsföretag godkänts får dess kreditvärderingar
 användas av institut för att bestämma riskvikter. Ett
 godkännande får avse kreditvärderingar i syfte att bestämma
 
-1. riskvikter för positioner i värdepapperiseringar eller vissa
-exponeringar som institutet har värdepapperiserat, eller
+1. riskvikter för positioner i värdepapperiseringar eller
+vissa exponeringar som institutet har värdepapperiserat, eller
 
 2. riskvikter för andra exponeringsklasser enligt
 schablonmetoden.
@@ -748,11 +788,19 @@ berättigat intresse av kreditvärderingarna.
 
 Om ett kreditvärderingsföretag har godkänts av en utländsk
 behörig myndighet för ett av syftena i första stycket, får
-Finansinspektionen godkänna kreditvärderingsföretaget i samma
-syfte utan att göra någon egen prövning enligt andra stycket.
+Finansinspektionen godkänna kreditvärderingsföretaget för
+samma syfte utan att göra någon egen prövning enligt andra
+stycket.
 
-När förutsättningarna i andra eller tredje stycket inte längre
-är uppfyllda, skall Finansinspektionen återkalla godkännandet.
+Om ett kreditvärderingsföretag är registrerat som ett
+kreditvärderingsinstitut enligt Europaparlamentets och rådets
+förordning (EG) nr 1060/2009 av den 16 september 2009 om
+kreditvärderingsinstitut, ska kraven i andra stycket 1 och 2
+anses vara uppfyllda.
+
+När förutsättningarna i andra, tredje eller fjärde stycket
+inte längre är uppfyllda, ska Finansinspektionen återkalla
+godkännandet. Lag (2011:752).
 
 13 § Finansinspektionen skall genom ett beslut dela in de
 godkända kreditvärderingsföretagens kreditvärderingar i
@@ -965,7 +1013,13 @@ kapitalbas.
 7 kap. Stora exponeringar
 
 1 § Detta kapitel tillämpas inte på Svenska
-skeppshypotekskassan.
+skeppshypotekskassan och sådana värdepappersbolag som avses i
+2 kap. 8 och 9 §§. Lag (2011:752).
+
+1 a § När ett institut beräknar värdet på sina exponeringar
+mot ett annat institut enligt detta kapitel, avses med
+sistnämnda institut även motsvarande utländska företag.
+Lag (2011:752).
 
 2 § Vid tillämpning av 3 och 5 §§ skall kapitalbasen beräknas
 enligt 3 kap.
@@ -974,80 +1028,191 @@ enligt 3 kap.
 en grupp av kunder med inbördes anknytning får inte överstiga
 25 procent av institutets kapitalbas.
 
-Om en kund eller en grupp av kunder med inbördes anknytning är
-moderföretag eller dotterföretag till institutet eller
-dotterföretag till moderföretaget, får värdet av exponeringen
-inte överstiga 20 procent av institutets kapitalbas.
+Om kunden är ett institut eller om det i gruppen av kunder med
+inbördes anknytning ingår ett eller flera institut, får värdet
+av institutets exponeringar vara högst 25 procent av
+institutets kapitalbas eller högst 150 miljoner euro. Summan
+av exponeringsvärdena gentemot en grupps alla kunder med
+inbördes anknytning som inte är institut får inte heller
+överstiga 25 procent av institutets kapitalbas.
+
+Om beloppet 150 miljoner euro överstiger 25 procent av
+institutets kapitalbas, får värdet på exponeringen inte
+överstiga ett av institutet bestämt gränsvärde på högst 100
+procent av institutets kapitalbas. Lag (2011:752).
 
 4 § Med en grupp av kunder med inbördes anknytning avses två
-eller flera fysiska eller juridiska personer som, om inte annat
-visas, utgör en helhet från risksynpunkt därför att
+eller flera fysiska eller juridiska personer som, om inte
+annat visas, utgör en helhet från risksynpunkt därför att
 
-1. någon av dem har, direkt eller indirekt, ägarinflytande över
-en eller flera av de övriga i gruppen, eller
+1. någon av dem har, direkt eller indirekt, ägarinflytande
+över den eller de andra i gruppen, eller
 
-2. de utan att stå i sådant förhållande som avses i 1 har sådan
-inbördes anknytning att någon eller samtliga av de övriga kan
-befaras råka i betalningssvårigheter om en av dem drabbas av
-finansiella problem.
+2. de utan att stå i sådant förhållande som avses i 1 har
+sådan inbördes anknytning att någon av de övriga kan befaras
+råka i finansierings- eller betalningssvårigheter om en av dem
+drabbas av finansiella problem.
 
 Med kund avses i fråga om placeringar i finansiella instrument
 emittenten eller, om instrumentet har andra finansiella
 instrument som underliggande tillgång, emittenten av denna
 tillgång och i fråga om andra fordringar eller åtaganden den
-som svarar för fordringen eller åtagandet.
+som svarar för fordringen eller åtagandet. Lag (2011:752).
 
-5 § Det sammanlagda värdet av ett instituts stora exponeringar
-får inte överstiga 800 procent av institutets kapitalbas.
-
-En stor exponering är en exponering som ett institut har
+5 § En stor exponering är en exponering som ett institut har
 gentemot en kund eller en grupp av kunder med inbördes
 anknytning när värdet av exponeringen är 10 procent eller mer
-av institutets kapitalbas.
+av institutets kapitalbas. Lag (2011:752).
 
 6 § Vid beräkningen av ett instituts exponeringar enligt 3 och
-5 §§ skall följande exponeringar inte räknas in:
+5 §§ ska följande exponeringar inte räknas in:
 
-1. exponeringar som vid valutatransaktioner uppkommer i samband
-med normal avveckling av en transaktion under två dygn efter
-betalning,
+1. exponeringar som vid valutatransaktioner uppkommer i
+samband med normal avveckling av en transaktion under två
+bankdagar efter betalning,
 
 2. exponeringar som vid köp eller försäljning av finansiella
 instrument uppkommer i samband med normal avveckling av en
-transaktion under fem vardagar efter den tidpunkt då antingen
+transaktion under fem bankdagar efter den tidpunkt då antingen
 betalning har skett eller de finansiella instrumenten har
 levererats,
 
-3. exponeringar som ett institut har mot ett annat
+3. exponeringar som uppkommer genom kundaktiviteter, om
+exponeringarna inte varar längre än från en bankdag till nästa
+och uppkommer i samband med
+
+a) penningöverföring, däribland betaltjänster, clearing och
+avveckling av valutor samt korrespondentbanktjänster, eller
+
+b) clearing, avveckling eller förvaring av finansiella
+instrument,
+
+4. intradagexponeringar som uppkommer i samband med
+tillhandahållande av tjänsten penningöverföring, däribland
+betaltjänster, clearing och avveckling i valutor samt
+korrespondentbanktjänster, om exponeringen är mot den som
+tillhandahåller tjänsten i fråga och som står under tillsyn av
+behörig myndighet,
+
+5. exponeringar som ett institut har mot ett annat
 koncernföretag, om företagen är föremål för gruppbaserad
 tillsyn som utövas av en behörig myndighet eller likvärdig
 tillsyn i tredje land, och
 
-4. poster som räknats av från institutets kapitalbas.
+6. poster som räknats av från institutets kapitalbas.
 
 Andra poster än de som anges i första stycket får helt eller
 delvis undantas från beräkningarna enligt 3 och 5 §§, om
-kreditrisken är låg.
+kreditrisken är låg. Lag (2011:752).
 
 7 § Under de förutsättningar som framgår av föreskrifter
-meddelade med stöd av 13 kap. 1 § 30 får ett institut uppskatta
-exponeringens värde
+meddelade med stöd av 13 kap. 1 § 32 får ett institut
+uppskatta exponeringens värde
 
 1. med stöd av internmetoden, eller
 
 2. med beaktande av ett kreditriskskydds riskreducerande
 effekt.
 
-Om ett institut utnyttjar möjligheten i första stycket, skall
+Om ett institut utnyttjar möjligheten i första stycket, ska
 den del av exponeringen som täcks av en säkerhet behandlas som
-en exponering mot emittenten av säkerheten och inte mot kunden.
+en exponering mot emittenten av säkerheten och inte mot
+kunden. Lag (2011:752).
 
-8 § Värdet av ett instituts exponeringar i handelslagret mot en
-kund eller en grupp av kunder med inbördes anknytning får,
-efter tillstånd av Finansinspektionen, överstiga de gränsvärden
-som anges i 3 och 5 §§, om institutet uppfyller det särskilda
-kapitalkrav och de övriga villkor som framgår av föreskrifter
-meddelade med stöd av 13 kap. 1 § 31.
+8 § Värdet av ett instituts exponeringar i handelslagret mot
+en kund eller en grupp av kunder med inbördes anknytning får,
+efter tillstånd av Finansinspektionen, överstiga de
+gränsvärden som anges i 3 §, om institutet uppfyller det
+särskilda kapitalkrav och de övriga villkor som framgår av
+föreskrifter meddelade med stöd av 13 kap. 1 § 33.
+Lag (2011:752).
+
+7 a kap. Exponeringar mot värdepapperiseringar
+
+1 § Ett kreditinstitut får exponera sig mot en
+värdepapperisering bara om originatorn, ett medverkande
+institut eller den ursprungliga långivaren har åtagit sig att
+fortlöpande behålla ett ekonomiskt intresse om minst 5 procent
+netto i värdepapperiseringen och underrättat kreditinstitutet
+om åtagandet.
+
+Finansinspektionen får meddela undantag från kravet i första
+stycket på att behålla ett ekonomiskt intresse.
+Lag (2011:752).
+
+2 § Ett kreditinstitut ska innan det investerar i en
+värdepapperisering ha en heltäckande och grundlig förståelse
+för investeringen och ha skriftliga interna riktlinjer och
+instruktioner i den omfattning som behövs för att möjliggöra
+analys och dokumentation av kreditinstitutets positioner.
+
+Såväl före som efter det att ett kreditinstitut har investerat
+i en värdepapperisering, ska institutet kunna redovisa för
+Finansinspektionen att kraven enligt första stycket är
+uppfyllda när investeringen görs. Lag (2011:752).
+
+3 § Ett kreditinstitut ska ha rutiner för att löpande övervaka
+information om utvecklingen av sina
+värdepapperiseringspositioners underliggande exponeringar. Ett
+kreditinstitut ska ha en grundlig förståelse för alla
+strukturella drag hos värdepapperiseringen som kan ha en
+väsentlig inverkan på resultatet av kreditinstitutets
+exponeringar mot värdepapperiseringstransaktionen.
+Lag (2011:752).
+
+4 § När ett moderkreditinstitut inom EES eller ett finansiellt
+holdingföretag inom EES, eller ett dotterföretag till ett
+sådant institut eller företag, i egenskap av originator eller
+medverkande institut värdepapperiserar exponeringar från flera
+kreditinstitut eller finansiella institut som omfattas av
+gruppbaserad tillsyn får kravet i 1 § uppfyllas på gruppnivå,
+om de institut eller finansiella institut som gett upphov till
+de värdepapperiserade exponeringarna
+
+1. har åtagit sig att följa de krav som anges i 5 §, och
+
+2. har lämnat den information som anges i 6 §. Lag (2011:752).
+
+5 § Medverkande institut och kreditinstitut som är
+originatorer ska tillämpa samma kriterier för kreditgivning i
+fråga om exponeringar som ska värdepapperiseras som de
+tillämpar i fråga om de exponeringar som avses utgöra egna
+positioner.
+
+När det gäller ägarandelar eller emissionsgarantier i
+värdepapperiseringsemissioner som köpts från tredje part ska
+ett kreditinstitut tillämpa samma analysstandarder oavsett om
+andelarna eller garantierna är avsedda att ingå i
+handelslagret eller i den övriga verksamheten.
+
+Om kraven i första och andra styckena inte är uppfyllda, får
+en originator som är ett kreditinstitut inte utesluta de
+värdepapperiserade exponeringarna från beräkningen av sitt
+kapitalkrav för kreditrisker enligt 4 kap. 2 §.
+Lag (2011:752).
+
+6 § Medverkande institut och kreditinstitut som är
+originatorer ska upplysa investerare om nivån på sina
+åtaganden enligt 1 § och säkerställa att framtida investerare
+har tillgång till all relevant information om utvecklingen av
+värdepapperiseringspositionernas underliggande exponeringar
+samt om kassaflöden och säkerheter för värdepapperiseringen.
+Informationen om kassaflöden och säkerheter ska vara så
+omfattande att det blir möjligt att stresstesta dem.
+
+Vad som enligt första stycket är relevant information ska
+fastställas den dag då värdepapperiseringen sker, och därefter
+justeras om det behövs med anledning av värdepapperiseringens
+art. Lag (2011:752).
+
+7 § Om ett kreditinstitut inte uppfyller kraven i 2, 3 eller
+6 §, ska Finansinspektionen besluta att en förhöjd riskvikt ska
+gälla för relevanta värdepapperiseringspositioner.
+Lag (2011:752).
+
+8 § Finansinspektionen får besluta att tillfälligt upphäva de
+krav som avses i 1 och 4 §§ under perioder av allmänna
+likviditetsstörningar på marknaden. Lag (2011:752).
 
 8 kap. Offentliggörande av information
 
@@ -1058,24 +1223,37 @@ bygger på kreditinstitutsdirektivet eller
 kapitalkravsdirektivet. För finansiella företagsgrupper finns
 bestämmelser i 9 kap.
 
-2 § Ett institut skall offentliggöra information som rör dess
-kapitaltäckning och dess strategier, system och målsättningar
-för hantering av dess risker och exponeringar. Sådan
-information som inte är väsentlig, som utgör en
+2 § Ett institut ska offentliggöra information som
+
+1. rör dess kapitaltäckning, och
+
+2. ger en heltäckande bild av dess
+
+a) strategier,
+
+b) system,
+
+c) målsättningar för hantering av risker och exponeringar, och
+
+d) riskprofil.
+
+Sådan information som inte är väsentlig, som utgör en
 företagshemlighet eller som är konfidentiell behöver dock inte
 offentliggöras.
 
-Om ett institut inte offentliggör information med motiveringen
-att den utgör en företagshemlighet eller är konfidentiell,
-skall det ange skälet till det samt i stället offentliggöra mer
-allmänna upplysningar om det som informationskravet gäller.
+Om ett institut beslutar att inte offentliggöra information
+därför att den utgör en företagshemlighet eller är
+konfidentiell, ska institutet offentliggöra beslutet och
+skälen för det och dessutom offentliggöra mer allmänna
+upplysningar om det som informationskravet gäller.
+Lag (2011:752).
 
-3 § Styrelsen i ett institut skall se till att det finns
-skriftliga riktlinjer och instruktioner för hur institutet
-skall uppfylla kraven på offentliggörande av information enligt
-2 § och för hur det skall utvärdera om den offentliggjorda
-informationen är tillfredsställande, vilket skall inkludera hur
-informationen kontrolleras samt hur ofta den offentliggörs.
+3 § Styrelsen i ett institut ska se till att det finns
+skriftliga riktlinjer och instruktioner för hur institutet ska
+uppfylla kraven på offentliggörande av information enligt 2 §
+och utvärdera om den offentliggjorda informationen är
+tillfredsställande, offentliggörs tillräckligt ofta och ger en
+heltäckande bild av institutets riskprofil. Lag (2011:752).
 
 9 kap. Finansiella företagsgrupper
 
@@ -1114,8 +1292,8 @@ skall även ett anknutet företag som är dotterföretag eller som
 det finns ägarintresse i anses ingå i gruppen.
 
 2 § Om det framgår av föreskrifter meddelade med stöd av 13
-kap. 1 § 33, skall bestämmelserna om finansiella
-företagsgrupper gälla även för
+kap. 1 § 40, ska bestämmelserna om finansiella företagsgrupper
+gälla även för
 
 1. ett institut eller ett finansiellt holdingföretag
 hemmahörande inom EES och de institut, institut för
@@ -1136,10 +1314,10 @@ elektroniska pengar, motsvarande utländska företag eller
 finansiella institut, som det inledningsvis nämnda institutet
 eller holdingföretaget utövar ett väsentligt inflytande över.
 
-Om bestämmelserna om finansiella företagsgrupper skall gälla
-för företag som avses i första stycket, skall även ett anknutet
-företag som är dotterföretag eller som det finns ägarintresse i
-anses ingå i gruppen.
+Om bestämmelserna om finansiella företagsgrupper ska gälla för
+företag som avses i första stycket, ska även ett anknutet
+företag som är dotterföretag eller som det finns ägarintresse
+i anses ingå i gruppen. Lag (2011:752).
 
 3 § För en finansiell företagsgrupp skall ansvaret för att de
 gruppbaserade kraven uppfylls åligga det institut
@@ -1216,19 +1394,20 @@ hemland har tillstånd att förvalta investeringsfonder.
 
 7 § Ett institut som är moderinstitut inom EES eller vars
 moderföretag är ett finansiellt moderholdingföretag inom EES
-skall uppfylla kraven i 8 kap. om offentliggörande av
+ska uppfylla kraven i 8 kap. om offentliggörande av
 information på gruppnivå. Om ett moderinstitut har ett
-betydande dotterföretag som är institut, skall även
+betydande dotterföretag som är institut, ska även
 dotterföretaget offentliggöra sådan information om bland annat
 kapitalbasen och kapitalkravet samt institutets riskhantering
 som framgår av föreskrifter meddelade med stöd av 13 kap. 1 §
-35.
+42.
 
-Finansinspektionen får efter ansökan i ett enskilt fall besluta
-om undantag från första stycket, om ett institut omfattas av
-information som skall offentliggöras av ett moderföretag
-utanför EES och den informationen är likvärdig med den
-information som skall offentliggöras enligt denna lag.
+Finansinspektionen får efter ansökan i ett enskilt fall
+besluta om undantag från första stycket, om ett institut
+omfattas av information som ska offentliggöras av ett
+moderföretag utanför EES och den informationen är likvärdig
+med den information som ska offentliggöras enligt denna lag.
+Lag (2011:752).
 
 8 § Om det inte ingår något kreditinstitut i den finansiella
 företagsgruppen och de värdepappersföretag som ingår i gruppen
@@ -1276,7 +1455,7 @@ denna lag eller föreskrifter meddelade med stöd av denna lag.
 
 Konsolidering
 
-10 § Vid upprättande av den redovisning som avses i 9 § skall
+10 § Vid upprättande av den redovisning som avses i 9 § ska
 
 1. dotterföretagen konsolideras fullständigt,
 
@@ -1284,9 +1463,9 @@ Konsolidering
 med tillämpning av klyvningsmetoden enligt 7 kap. 30 §
 årsredovisningslagen (1995:1554), och
 
-3. konsolideringen i de övriga fall som avses i 1 eller 2 § ske
-på det sätt som framgår av föreskrifter meddelade med stöd av
-13 kap. 1 § 37.
+3. konsolideringen i de övriga fall som avses i 1 eller 2 §
+ske på det sätt som framgår av föreskrifter meddelade med stöd
+av 13 kap. 1 § 44. Lag (2011:752).
 
 Beräkning av kapitalbas m.m.
 
@@ -1380,39 +1559,39 @@ I 11 kap. finns bestämmelser om tillsyn över ett institut vars
 moderföretag är ett institut eller ett finansiellt
 holdingföretag som har sitt huvudkontor utanför EES.
 
-3 § När Finansinspektionen enligt 2 § första stycket 3-5 skall
+3 § När Finansinspektionen enligt 2 § första stycket 35 ska
 utöva tillsynen, får inspektionen komma överens med övriga
 berörda behöriga myndigheter om att en annan behörig myndighet
-inom EES än inspektionen skall ansvara för tillsynen.
-Finansinspektionen får ingå en sådan överenskommelse, om det är
-olämpligt att inspektionen ansvarar för tillsynen med hänsyn
-till de institut det gäller och den relativa betydelsen av
-deras verksamheter i de olika länderna.
+inom EES än inspektionen ska ansvara för tillsynen.
+Finansinspektionen får ingå en sådan överenskommelse, om det
+är olämpligt att inspektionen ansvarar för tillsynen med
+hänsyn till de institut det gäller och den relativa betydelsen
+av deras verksamheter i de olika länderna.
 
-I ett sådant fall skall moderinstitutet inom EES, det
+I ett sådant fall ska moderinstitutet inom EES, det
 finansiella moderholdingföretaget inom EES eller det institut
 som har den största balansomslutningen, beroende på vad som är
 tillämpligt, ges tillfälle att yttra sig innan
-Finansinspektionen och de övriga berörda behöriga myndigheterna
-ingår överenskommelsen. Europeiska gemenskapernas kommission
-skall underrättas om sådana överenskommelser.
+Finansinspektionen och de övriga berörda behöriga
+myndigheterna ingår överenskommelsen. Europeiska kommissionen
+ska underrättas om sådana överenskommelser. Lag (2011:752).
 
 4 § Om det skulle vara olämpligt med hänsyn till de institut
 det gäller och den relativa betydelsen av deras verksamheter i
 de olika länderna, att tillsynen utövas av den myndighet som
-enligt artikel 126.1 och 126.2 i kreditinstitutsdirektivet
-skall utöva tillsynen över en finansiell företagsgrupp, får
-Finansinspektionen komma överens med de övriga berörda behöriga
-myndigheterna om att inspektionen eller någon annan behörig
-myndighet skall ansvara för tillsynen.
+enligt artikel 126.1 och 126.2 i kreditinstitutsdirektivet ska
+utöva tillsynen över en finansiell företagsgrupp, får
+Finansinspektionen komma överens med de övriga berörda
+behöriga myndigheterna om att inspektionen eller någon annan
+behörig myndighet ska ansvara för tillsynen.
 
-I ett sådant fall skall moderinstitutet inom EES, det
+I ett sådant fall ska moderinstitutet inom EES, det
 finansiella moderholdingföretaget inom EES eller det institut
 som har den största balansomslutningen, beroende på vad som är
 tillämpligt, ges tillfälle att yttra sig innan
-Finansinspektionen och de övriga berörda behöriga myndigheterna
-ingår överenskommelsen. Europeiska gemenskapernas kommission
-skall underrättas om sådana överenskommelser.
+Finansinspektionen och de övriga berörda behöriga
+myndigheterna ingår överenskommelsen. Europeiska kommissionen
+ska underrättas om sådana överenskommelser. Lag (2011:752).
 
 Ansökningar om tillstånd
 
@@ -1462,6 +1641,67 @@ gäller i Sverige. Det är bindande för det berörda institutet
 och för Finansinspektionen samt skall ligga till grund för
 inspektionens tillsyn.
 
+Beslut på gruppnivå om kapitalbasen
+
+6 a § När Finansinspektionen ansvarar för tillsynen över en
+finansiell företagsgrupp som består av ett moderinstitut inom
+EES eller ett institut vars moderföretag är ett finansiellt
+moderholdingföretag inom EES, ska inspektionen lämna en
+rapport som innehåller en riskvärdering av gruppen till övriga
+behöriga myndigheter.
+
+Inom fyra månader från det att Finansinspektionen har lämnat
+en sådan rapport som avses i första stycket, ska inspektionen
+försöka komma överens med övriga behöriga myndigheter om
+vilket beslut som bör fattas i fråga om huruvida nivån på
+gruppens kapitalbas är tillräcklig. Överenskommelsen ska
+grundas på en bedömning av gruppens finansiella situation och
+riskprofil och den nivå på gruppens kapitalbas som krävs för
+att tillämpa 2 kap. 2 § på var och en av enheterna inom
+gruppen och på gruppnivå.
+
+Finansinspektionen ska härefter fatta ett beslut i enlighet
+med överenskommelsen. Beslutet och skälen för det ska
+redovisas skriftligt och skickas till övriga behöriga
+myndigheter och till moderinstitutet inom EES.
+
+Om en överenskommelse inte kan nås, ska Finansinspektionen på
+begäran av någon av de övriga behöriga myndigheterna samråda
+med Europeiska bankmyndigheten. Inspektionen får även samråda
+med Europeiska bankmyndigheten på eget initiativ.
+Lag (2011:752).
+
+6 b § Om en överenskommelse enligt 6 a § inte har träffats
+inom fyra månader, ska Finansinspektionen, med beaktande av de
+behöriga myndigheternas bedömning av risken hos
+dotterföretagen, ensam fatta ett beslut på gruppnivå.
+
+Om Finansinspektionen ansvarar för tillsynen över
+dotterföretag till ett moderinstitut inom EES eller till ett
+finansiellt moderholdingföretag inom EES, ska inspektionen
+fatta ett sådant beslut som avses i 6 a § tredje stycket på
+individuell nivå eller undergruppsnivå. Inför beslutet ska
+inspektionen beakta synpunkter som framförts av den utländska
+behöriga myndighet som ansvarar för den gruppvisa tillsynen.
+Lag (2011:752).
+
+6 c § Ett sådant beslut som avses i 6 a § som fattas av en
+utländsk behörig myndighet efter en överenskommelse med övriga
+behöriga myndigheter eller på grund av att de behöriga
+myndigheterna inte har kommit överens inom fyra månader gäller
+i Sverige. Beslutet är bindande för det berörda institutet och
+för Finansinspektionen, och det ska ligga till grund för
+inspektionens tillsyn. Lag (2011:752).
+
+6 d § Beslut som fattats enligt 6 a eller 6 b § ska omprövas
+årligen. Ett beslut enligt 6 a § om tillämpning av 2 kap. 2 §
+får även, i undantagsfall, omprövas om en behörig myndighet
+som ansvarar för tillsynen av dotterföretag till ett
+moderinstitut inom EES eller ett finansiellt
+moderholdingföretag inom EES skriftligen begär det hos
+Finansinspektionen och samtidigt anger skälen för begäran.
+Lag (2011:752).
+
 Företags uppgiftsskyldighet till Finansinspektionen
 
 7 § Följande företag skall till Finansinspektionen lämna de
@@ -1489,12 +1729,19 @@ förutsättningarna i 4 kap. 12 § är uppfyllda.
 
 Samarbete och utbyte av information med utländska myndigheter
 
-9 § Finansinspektionen skall i sin tillsynsverksamhet samarbeta
-och utbyta information med utländska behöriga myndigheter och
-med myndigheter inom EES som har tillsyn över
-försäkringsföretag i den utsträckning som följer av
-kreditinstitutsdirektivet och kapitalkravsdirektivet.
+9 § Finansinspektionen ska i sin tillsynsverksamhet samarbeta
+och utbyta information med andra behöriga myndigheter och med
+myndigheter inom EES som har tillsyn över försäkringsföretag i
+den utsträckning som följer av kreditinstitutsdirektivet och
+kapitalkravsdirektivet.
 
+Om en kritisk situation uppstår i Sverige som kan äventyra
+likviditeten på finansmarknaden eller stabiliteten i det
+finansiella systemet i någon stat inom EES, ska
+Finansinspektionen i sin tillsynsverksamhet samarbeta och
+utbyta information även med övriga berörda myndigheter inom
+EES i den utsträckning som följer av kreditinstitutsdirektivet
+och kapitalkravsdirektivet. Lag (2011:752).
 
 10 § Finansinspektionen skall, efter begäran från en utländsk
 behörig myndighet, inom ramen för sin befogenhet lämna eller
@@ -1516,18 +1763,19 @@ information som behövs för tillsynen över de dotterföretag som
 är institut (samlad information).
 
 12 § Ett institut och ett finansiellt holdingföretag som avses
-i 9 kap. 3 § skall upprätta och ge in den gruppbaserade
-redovisningen till Finansinspektionen för de räkenskapsperioder
-och vid de tidpunkter som framgår av föreskrifter meddelade med
-stöd av 13 kap. 1 § 40. I fråga om en finansiell företagsgrupp
-enligt 9 kap. 2 §, skall redovisningen upprättas och ges in av
-de företag som anges i föreskrifter meddelade med stöd av 13
-kap. 1 § 41.
+i 9 kap. 3 § ska upprätta och ge in den gruppbaserade
+redovisningen till Finansinspektionen för de
+räkenskapsperioder och vid de tidpunkter som framgår av
+föreskrifter meddelade med stöd av 13 kap. 1 § 47. I fråga om
+en finansiell företagsgrupp enligt 9 kap. 2 §, ska
+redovisningen upprättas och ges in av de företag som anges i
+föreskrifter meddelade med stöd av 13 kap. 1 § 48.
 
-Ett holdingföretag med blandad verksamhet skall upprätta och ge
+Ett holdingföretag med blandad verksamhet ska upprätta och ge
 in den samlade informationen till Finansinspektionen för de
 räkenskapsperioder och vid de tidpunkter som framgår av
-föreskrifter meddelade med stöd av 13 kap. 1 § 40.
+föreskrifter meddelade med stöd av 13 kap. 1 § 47.
+Lag (2011:752).
 
 13 § Ett företag som ingår i en finansiell företagsgrupp och
 övriga dotterföretag till ett institut eller ett holdingföretag
@@ -1552,18 +1800,21 @@ informationen som företagen är skyldiga att lämna.
 
 Rapportering av stora exponeringar
 
-15 § Ett institut och det företag i en finansiell företagsgrupp
-som enligt 11 § skall upprätta den gruppbaserade redovisningen
-skall fortlöpande rapportera stora exponeringar till
-Finansinspektionen.
+15 § Ett institut och det företag i en finansiell
+företagsgrupp som enligt 11 § ska upprätta den gruppbaserade
+redovisningen ska fortlöpande rapportera stora exponeringar
+till Finansinspektionen.
 
 Om ett instituts eller en finansiell företagsgrupps
 exponeringar överstiger något av de i 7 kap. angivna
-gränsvärdena, skall institutet eller det företag som enligt
-12 § skall upprätta den gruppbaserade redovisningen omgående
-anmäla detta till Finansinspektionen. Inspektionen får i ett
-beslut ange en viss tid inom vilken exponeringarna skall sänkas
-till de tillåtna gränsvärdena.
+gränsvärdena, ska institutet eller det företag som enligt 12 §
+ska upprätta den gruppbaserade redovisningen omgående anmäla
+detta till Finansinspektionen. Inspektionen får i ett beslut
+ange en viss tid inom vilken exponeringarna ska sänkas till de
+tillåtna gränsvärdena. Om 7 kap. 3 § tredje stycket är
+tillämpligt, får Finansinspektionen i varje enskilt fall
+besluta att institutet får överskrida gränsvärdet på 100
+procent. Lag (2011:752).
 
 Rapportering av kapitalbas och kapitalkrav
 
@@ -1647,23 +1898,23 @@ likvärdig, skall inspektionen höra övriga berörda behöriga
 myndigheter inom EES. Inspektionen skall också före
 ställningstagandet ha rådfrågat den Europeiska bankkommittén.
 
-3 § Om tillsynen inte bedöms likvärdig, skall
-Finansinspektionen tillämpa bestämmelserna om finansiella
-företagsgrupper i 9 och 10 kap. som om moderföretaget haft sitt
-huvudkontor inom EES.
+3 § Om tillsynen inte bedöms likvärdig, ska Finansinspektionen
+tillämpa bestämmelserna om finansiella företagsgrupper i 9 och
+10 kap. som om moderföretaget haft sitt huvudkontor inom EES.
 
 Efter att ha hört övriga berörda behöriga myndigheter får
 Finansinspektionen i stället besluta att använda sig av andra
 tillsynsmetoder som säkerställer att instituten i
 företagsgruppen är föremål för tillräcklig tillsyn.
-Inspektionen får därvid förelägga en ägare till institutet att
-inrätta ett finansiellt holdingföretag med huvudkontor inom EES
-och tillämpa bestämmelserna i denna lag på instituten i den
-företagsgrupp som leds av detta holdingföretag.
+Inspektionen får då förelägga en ägare till institutet att
+inrätta ett finansiellt holdingföretag med huvudkontor inom
+EES och tillämpa bestämmelserna i denna lag på instituten i
+den företagsgrupp som leds av detta holdingföretag.
 
-Finansinspektionen skall underrätta de berörda behöriga
-myndigheterna och Europeiska gemenskapernas kommission när
-sådana andra tillsynsmetoder som anges i andra stycket används.
+Finansinspektionen ska underrätta de berörda behöriga
+myndigheterna och Europeiska kommissionen när sådana andra
+tillsynsmetoder som anges i andra stycket används.
+Lag (2011:752).
 
 12 kap. Ingripanden och ansvarsbestämmelse
 
@@ -1696,13 +1947,13 @@ lag, får inspektionen förelägga vite.
 Förseningsavgift
 
 4 § Om ett institut, ett finansiellt holdingföretag eller ett
-holdingföretag med blandad verksamhet med huvudkontor i Sverige
-inte i tid lämnar upplysningar enligt föreskrifter meddelade
-med stöd av 13 kap. 1 § 39, 42 och 43, får Finansinspektionen
-besluta att företaget skall betala en förseningsavgift med
-högst 100 000 kronor.
+holdingföretag med blandad verksamhet med huvudkontor i
+Sverige inte i tid lämnar upplysningar enligt föreskrifter
+meddelade med stöd av 13 kap. 1 § 46, 49 och 50, får
+Finansinspektionen besluta att företaget ska betala en
+förseningsavgift med högst 100 000 kronor.
 
-Avgiften tillfaller staten.
+Avgiften tillfaller staten. Lag (2011:752).
 
 5 § Förseningsavgiften skall betalas till Finansinspektionen
 inom trettio dagar efter det att beslutet vunnit laga kraft
@@ -1729,58 +1980,58 @@ oaktsamhet bryter mot ett meddelandeförbud enligt 10 kap. 19 §.
 
 13 kap. Bemyndiganden
 
-1 § Regeringen eller den myndighet som regeringen bestämmer får
-meddela föreskrifter om
+1 § Regeringen eller den myndighet som regeringen bestämmer
+får meddela föreskrifter om
 
-1. vilka positioner som skall ingå i handelslagret enligt 1
-kap. 7 § och omfattningen av dessa,
+1. vilka positioner som ska ingå i handelslagret enligt 1 kap.
+7 § och omfattningen av dessa,
 
 2. vilka positioner som får ingå i handelslagret enligt 1 kap.
 9 § och villkoren för det,
 
-3. vilka åtgärder ett institut skall vidta för att dess
-riktlinjer och instruktioner skall uppfylla kraven i 1 kap.
-10 § första stycket,
+3. vilka åtgärder ett institut ska vidta för att dess
+riktlinjer och instruktioner ska uppfylla kraven i 1 kap. 10 §
+första stycket,
 
 4. villkoren för att beräkna kapitalkravet enligt 2 kap. 6 §
-och hur kapitalkravet enligt den paragrafen skall beräknas,
+och hur kapitalkravet enligt den paragrafen ska beräknas,
 
 5. beräkningen av fasta omkostnader enligt 2 kap. 10 §,
 
 6. villkoren för att räkna in poster i kapitalbasen och räkna
 av poster från densamma enligt 3 kap., omfattningen av dessa
-poster och hur kapitalbasen i övrigt skall beräknas enligt
-samma kapitel,
+poster och hur kapitalbasen i övrigt ska beräknas enligt samma
+kapitel,
 
 7. hur ett institut som har tillstånd att använda en
-internmetod för kreditrisker skall beräkna förväntade
+internmetod för kreditrisker ska beräkna förväntade
 förlustbelopp och de avsättningar och värderegleringar som
 gjorts för att täcka förlusterna samt hur förväntade
-förlustbelopp för aktieexponeringar och positiva eller negativa
-belopp som uppkommer vid en jämförelse mellan förväntade
-förlustbelopp i övrigt och gjorda avsättningar och
-värderegleringar skall behandlas enligt 3 kap. 9 § när
+förlustbelopp för aktieexponeringar och positiva eller
+negativa belopp som uppkommer vid en jämförelse mellan
+förväntade förlustbelopp i övrigt och gjorda avsättningar och
+värderegleringar ska behandlas enligt 3 kap. 9 § när
 kapitalbasens storlek beräknas,
 
 8. när ett institut som värdepapperiserat sina tillgångar och
-ett medverkande institut skall beräkna ett kapitalkrav för
+ett medverkande institut ska beräkna ett kapitalkrav för
 exponeringarna enligt 4 kap. 2 §,
 
-9. vilka krav ett institut skall uppfylla för att få tillstånd
+9. vilka krav ett institut ska uppfylla för att få tillstånd
 att använda metoden med interna modeller enligt 4 kap. 4 §
 andra stycket,
 
-10. hur ett institut som använder schablonmetoden enligt 4 kap.
-5 § skall beräkna de riskvägda exponeringsbeloppen och vilka
-förutsättningar som skall vara uppfyllda för att ett
-exportkreditorgans kreditvärderingar skall få användas för att
+10. hur ett institut som använder schablonmetoden enligt 4
+kap. 5 § ska beräkna de riskvägda exponeringsbeloppen och
+vilka förutsättningar som ska vara uppfyllda för att ett
+exportkreditorgans kreditvärderingar ska få användas för att
 bestämma riskvikter enligt 4 kap. 6 §,
 
 11. hur ett institut som har tillstånd att använda
-internmetoden skall beräkna de riskvägda exponeringsbeloppen
+internmetoden ska beräkna de riskvägda exponeringsbeloppen
 enligt 4 kap. 7 §,
 
-12. vilka krav ett institut skall uppfylla för att få tillstånd
+12. vilka krav ett institut ska uppfylla för att få tillstånd
 att använda internmetoden enligt 4 kap. 7 §,
 
 13. i vilken omfattning moder- och dotterföretag får betraktas
@@ -1791,115 +2042,143 @@ schablon- och internmetoderna eller införa en internmetod
 stegvis enligt 4 kap. 9 §,
 
 15. vilka krav kreditvärderingsföretagens metoder och
-kreditvärderingar skall uppfylla för att
-kreditvärderingsföretagen skall godkännas enligt 4 kap. 12 §,
+kreditvärderingar ska uppfylla för att
+kreditvärderingsföretagen ska godkännas enligt 4 kap. 12 §,
 
 16. hur ett institut får använda kreditvärderingar gjorda av
 kreditvärderingsföretag för att beräkna de riskvägda
 exponeringsbeloppen,
 
-17. vilka kreditriskskydd som får användas för att reducera ett
-riskvägt exponeringsbelopp, under vilka förutsättningar olika
-kreditriskskydd får beaktas och hur kreditriskskyddets
-riskreducerande effekter skall beräknas enligt 4 kap. 15 § för
+17. vilka kreditriskskydd som får användas för att reducera
+ett riskvägt exponeringsbelopp, under vilka förutsättningar
+olika kreditriskskydd får beaktas och hur kreditriskskyddets
+riskreducerande effekter ska beräknas enligt 4 kap. 15 § för
 ett institut som använder schablonmetoden eller den
 grundläggande internmetoden för exponeringen,
 
 18. hur kapitalkravet för motpartsrisker som ingår i
-marknadsrisker skall beräknas enligt 5 kap. 1 §,
+marknadsrisker ska beräknas enligt 5 kap. 1 §,
 
 19. hur ett institut som använder någon av schablonmetoderna
 för positionsrisk, avvecklingsrisk, valutakursrisk eller
-råvarurisk skall beräkna kapitalkravet för marknadsrisker
-enligt 5 kap. 2 §,
+råvarurisk ska beräkna kapitalkravet för marknadsrisker enligt
+5 kap. 2 §,
 
-20. vilka krav som skall vara uppfyllda för att ett institut
-skall få tillstånd att använda egna riskberäkningsmodeller
-enligt 5 kap. 3 §,
+20. vilka krav som ska vara uppfyllda för att ett institut ska
+få tillstånd att använda egna riskberäkningsmodeller enligt
+5 kap. 3 §,
 
-21. hur ett institut som använder basmetoden skall beräkna
+21. hur ett institut som använder basmetoden ska beräkna
 kapitalkravet enligt 6 kap. 2 §,
 
-22. hur ett institut som använder schablonmetoden för operativa
-risker skall beräkna kapitalkravet enligt 6 kap. 3 och 5 §§,
+22. hur ett institut som använder schablonmetoden för
+operativa risker ska beräkna kapitalkravet enligt 6 kap. 3 och
+5 §§,
 
 23. vilka krav som ställs på ett institut som använder
 schablonmetoden för operativa risker enligt 6 kap. 4 §,
 
-24. vilka villkor ett institut skall uppfylla för att få
-använda en annan beräkningsgrund för vissa affärsområden enligt
-6 kap. 5 §,
+24. vilka villkor ett institut ska uppfylla för att få använda
+en annan beräkningsgrund för vissa affärsområden enligt 6 kap.
+5 §,
 
-25. vilka krav som skall vara uppfyllda för att ett institut
-skall få tillstånd att använda internmätningsmetoden enligt 6
-kap. 7 §,
+25. vilka krav som ska vara uppfyllda för att ett institut ska
+få tillstånd att använda internmätningsmetoden enligt 6 kap.
+7 §,
 
 26. i vilken omfattning moder- och dotterföretag får betraktas
 som en enhet enligt 6 kap. 7 § andra stycket,
 
-27. vilka krav som skall vara uppfyllda för att ett institut
-skall få tillstånd att kombinera olika metoder för operativ
-risk enligt 6 kap. 8 §,
+27. vilka krav som ska vara uppfyllda för att ett institut ska
+få tillstånd att kombinera olika metoder för operativ risk
+enligt 6 kap. 8 §,
 
-28. hur exponeringarna skall värderas vid beräkningen av ett
+28. hur exponeringarna ska värderas vid beräkningen av ett
 instituts exponeringar enligt 7 kap. 3 och 5 §§,
 
-29. vilka poster som helt eller delvis får undantas vid
+29. under vilka förutsättningar en grupp av kunder med
+inbördes anknytning föreligger enligt 7 kap. 4 § första
+stycket och hur instituten ska analysera sina exponeringar för
+att avgöra om det föreligger en grupp av kunder med inbördes
+anknytning,
+
+30. vilka exponeringar som ska anses utgöra exponeringar
+enligt 7 kap. 6 § första stycket 3,
+
+31. vilka poster som helt eller delvis får undantas vid
 beräkningen av ett instituts stora exponeringar enligt 7 kap.
 6 § andra stycket,
 
-30. under vilka förutsättningar ett institut i de fall som
-avses i 7 kap. 7 § får beräkna en exponerings värde med stöd av
-internmetoden eller med beaktande av kreditriskskydd och vilka
-krav ett institut som använder någon av dessa beräkningsmetoder
-skall uppfylla,
+32. under vilka förutsättningar ett institut i de fall som
+avses i 7 kap. 7 § får beräkna en exponerings värde med stöd
+av internmetoden eller med beaktande av kreditriskskydd och
+vilka krav ett institut som använder någon av dessa
+beräkningsmetoder ska uppfylla,
 
-31. vilket särskilt kapitalkrav och vilka övriga villkor ett
-institut skall uppfylla enligt 7 kap. 8 §,
+33. vilket särskilt kapitalkrav och vilka övriga villkor ett
+institut ska uppfylla enligt 7 kap. 8 §,
 
-32. vilken information som skall offentliggöras enligt 8 kap.
-2 §, vid vilken tidpunkt, på vilken plats och med vilka intervall
-informationen skall lämnas och hur informationens riktighet
-skall kontrolleras,
+34. vad som ska utgöra ett behållande av ett ekonomiskt
+intresse netto och när undantag från behållande av ett
+ekonomiskt intresse får göras enligt 7 a kap. 1 §,
 
-33. i vilka fall bestämmelserna om finansiella företagsgrupper
-skall gälla enligt 9 kap. 2 §,
+35. vilka krav som ett institut ska uppfylla enligt 7 a kap.
+2 § innan det får ta position i en värdepapperisering,
 
-34. under vilka förutsättningar tillstånd att räkna in vissa
+36. vilka krav som ett institut löpande ska uppfylla enligt
+7 a kap. 3 § efter det att institutet investerat i en
+värdepapperisering,
+
+37. vilken information som ska lämnas av medverkande institut
+eller originator enligt 7 a kap. 6 §,
+
+38. vilken förhöjd riskvikt som ska gälla för
+värdepapperiseringen enligt 7 a kap. 7 §,
+
+39. vilken information som ska offentliggöras enligt 8 kap.
+2 §, vid vilken tidpunkt, på vilken plats och med vilka
+intervall informationen ska lämnas och hur informationens
+riktighet ska kontrolleras,
+
+40. i vilka fall bestämmelserna om finansiella företagsgrupper
+ska gälla enligt 9 kap. 2 §,
+
+41. under vilka förutsättningar tillstånd att räkna in vissa
 dotterföretag enligt 9 kap. 4 § får ges,
 
-35. vilken information som skall offentliggöras enligt 9 kap.
+42. vilken information som ska offentliggöras enligt 9 kap.
 7 §, vid vilken tidpunkt, på vilken plats och med vilka
-intervall informationen skall lämnas och hur informationens
-riktighet skall kontrolleras,
+intervall informationen ska lämnas och hur informationens
+riktighet ska kontrolleras,
 
-36. hur gruppbaserad redovisning enligt 9 kap. 9 § skall
+43. hur gruppbaserad redovisning enligt 9 kap. 9 § ska
 upprättas för sådana institut som tillämpar Europaparlamentets
 och rådets förordning (EG) nr 1606/2002 av den 19 juli 2002 om
 tillämpning av internationella redovisningsstandarder,
 
-37. hur konsolideringen skall ske enligt 9 kap. 10 §,
+44. hur konsolideringen ska ske enligt 9 kap. 10 §,
 
-38. hur kapitalbasen skall beräknas enligt 9 kap. 11 §,
+45. hur kapitalbasen ska beräknas enligt 9 kap. 11 §,
 
-39. innehållet, utformningen och omfattningen av den
-redovisning eller information som skall lämnas enligt 10 kap.
+46. innehållet, utformningen och omfattningen av den
+redovisning eller information som ska lämnas enligt 10 kap.
 11 §,
 
-40. vilka räkenskapsperioder den gruppbaserade redovisningen
-och den samlade informationen skall avse och vid vilka
+47. vilka räkenskapsperioder den gruppbaserade redovisningen
+och den samlade informationen ska avse och vid vilka
 tidpunkter den gruppbaserade redovisningen och den samlade
-informationen skall ges in enligt 10 kap. 12 §,
+informationen ska ges in enligt 10 kap. 12 §,
 
-41. vilka företag som enligt 10 kap. 12 § skall upprätta och ge
-in den gruppbaserade redovisningen om det finns en finansiell
+48. vilka företag som enligt 10 kap. 12 § ska upprätta och ge
+in den gruppbaserade redovisningen, om det finns en finansiell
 företagsgrupp enligt 9 kap. 2 §,
 
-42. omfattningen och fullgörandet av skyldigheten att
+49. omfattningen och fullgörandet av skyldigheten att
 rapportera stora exponeringar enligt 10 kap. 15 §, och
 
-43. omfattningen och fullgörandet av skyldigheten att
+50. omfattningen och fullgörandet av skyldigheten att
 rapportera kapitalbas och kapitalkrav enligt 10 kap. 16 §.
+Lag (2011:752).
 
 2 § Regeringen får meddela föreskrifter om
 
@@ -1920,3 +2199,13 @@ Prövningstillstånd krävs vid överklagande till kammarrätten.
 
 Finansinspektionen får bestämma att ett beslut skall gälla
 omedelbart.
+
+Övergångsbestämmelser
+
+2011:752
+
+Denna lag träder i kraft den 30 juni 2011 i fråga om 1 kap.
+3 §, 3 kap. 2 §, 4 kap. 12 §, 7 kap. 1, 1 a, och 38 §§, 7 a
+kap., 9 kap. 2, 7 och 10 §§, 10 kap. 3, 4, 6 a6 d, 9, 12 och
+15 §§, 11 kap. 3 §, 12 kap. 4 § samt 13 kap. 1 § och i övrigt
+den 31 december 2011.
