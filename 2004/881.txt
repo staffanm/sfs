@@ -41,35 +41,35 @@ Län                     Kommuner        Landsting
 
 Stockholms              19,03           10,05
 
-Uppsala                 19,63           9,45
+Uppsala                 19,14           9,94
 
 Södermanlands           19,93           9,15
 
-Östergötlands           19,10           9,98
+Östergötlands           18,68           10,40
 
-Jönköpings              19,28           9,80
+Jönköpings              18,95           10,13
 
 Kronobergs              20,16           8,92
 
-Kalmar                  20,77           8,31
+Kalmar                  20,36           8,72
 
 Blekinge                19,24           9,84
 
 Skåne                   19,70           9,38
 
-Hallands                19,48           9,60
+Hallands                19,28           9,80
 
-Västra Götalands        19,84           9,24
+Västra Götalands        19,41           9,67
 
 Värmlands               20,45           8,63
 
-Örebro                  19,37           9,71
+Örebro                  19,03           10,05
 
-Västmanlands            20,07           9,01
+Västmanlands            20,19           8,89
 
 Dalarnas                19,76           9,32
 
-Gävleborgs              19,35           9,73
+Gävleborgs              19,09           9,99
 
 Västernorrlands         20,74           8,34
 
@@ -85,45 +85,44 @@ kommuner.
 
 För en kommun som inte ingår i ett landsting är skattesatsen
 9,48 procent vid beräkning av inkomstutjämningsbidrag för
-landsting. Förordning (2010:1337).
+landsting. Förordning (2011:1136).
 
-3 § Vid beräkning av inkomstutjämningsavgifter för kommuner
-och för landsting ska följande länsvisa skattesatser
-tillämpas.
+3 § Vid beräkning av inkomstutjämningsavgifter för kommuner och
+för landsting ska följande länsvisa skattesatser tillämpas.
 
 Län                     Kommuner        Landsting
 
 Stockholms              16,96           9,53
 
-Uppsala                 17,56           8,93
+Uppsala                 17,07           9,42
 
 Södermanlands           17,86           8,63
 
-Östergötlands           17,03           9,46
+Östergötlands           16,61           9,88
 
-Jönköpings              17,21           9,28
+Jönköpings              16,88           9,61
 
 Kronobergs              18,09           8,40
 
-Kalmar                  18,70           7,79
+Kalmar                  18,29           8,20
 
 Blekinge                17,17           9,32
 
 Skåne                   17,63           8,86
 
-Hallands                17,41           9,08
+Hallands                17,21           9,28
 
-Västra Götalands        17,77           8,72
+Västra Götalands        17,34           9,15
 
 Värmlands               18,38           8,11
 
-Örebro                  17,30           9,19
+Örebro                  16,96           9,53
 
-Västmanlands            18,00           8,49
+Västmanlands            18,12           8,37
 
 Dalarnas                17,69           8,80
 
-Gävleborgs              17,28           9,21
+Gävleborgs              17,02           9,47
 
 Västernorrlands         18,67           7,82
 
@@ -139,7 +138,7 @@ kommuner.
 
 För en kommun som inte ingår i ett landsting är skattesatsen
 8,95 procent vid beräkning av inkomstutjämningsavgift för
-landsting. Förordning (2010:1337).
+landsting. Förordning (2011:1136).
 
 4 § Inkomstutjämningsbidrag och inkomstutjämningsavgift anges i
 kronor per invånare i kommunen respektive landstinget och
@@ -158,45 +157,9 @@ utvecklingen av nettoprisindex.
 
 Kommuner
 
-/Rubriken upphör att gälla U:2011-07-01/
-Förskoleverksamhet och skolbarnsomsorg
-
-/Rubriken träder i kraft I:2011-07-01/
 Förskola, fritidshem och annan pedagogisk verksamhet
 
-6 § /Upphör att gälla U:2011-07-01/
-En kommuns standardkostnad för förskoleverksamhet och
-skolbarnsomsorg beräknas genom att en åldersersättning
-multipliceras med ett volymindex och två korrigeringsfaktorer.
-
-Åldersersättningen beräknas enligt följande. Andelen barn i
-kommunen delas in i följande åldersgrupper: 1-3, 4-5, 6 och 7-9
-år. Andelen barn i kommunen i respektive åldersgrupp
-multipliceras med en genomsnittlig kostnad per barn i
-förskoleverksamhet och skolbarnsomsorg i respektive
-åldersgrupp, varefter produkterna summeras.
-
-Den enligt andra stycket beräknade åldersersättningen
-multipliceras med ett volymindex. Volymindex beräknas för
-kommunen utifrån föräldrarnas förvärvsfrekvens, kommunens
-skattekraft och befolkningstäthet. Värdena för respektive
-variabel multipliceras med de parametervärden som anges i
-bilagan till denna förordning.
-
-Den första korrigeringsfaktorns värde bestäms så att den
-genomsnittliga åldersersättning som vägts med befolkningen den
-31 december två år före utjämningsåret överensstämmer med den
-genomsnittliga standardkostnad för förskoleverksamhet och
-skolbarnsomsorg som anges i bilagan till denna förordning.
-
-Den andra korrigeringsfaktorns värde bestäms så att den
-genomsnittliga standardkostnad som vägts med befolkningen den
-31 december två år före utjämningsåret överensstämmer med den
-genomsnittliga standardkostnad för förskoleverksamhet och
-skolbarnsomsorg som anges i bilagan till denna förordning.
-
-6 § /Träder i kraft I:2011-07-01/
-En kommuns standardkostnad för förskola, fritidshem och
+6 § En kommuns standardkostnad för förskola, fritidshem och
 sådan pedagogisk verksamhet som avses i 25 kap. skollagen
 (2010:800) beräknas genom att en åldersersättning
 multipliceras med ett volymindex och två korrigeringsfaktorer.
@@ -601,25 +564,28 @@ Standardkostnaden beräknas för respektive län, varefter hälften
 av standardkostnaden tillförs kommunerna i länet och hälften
 landstinget, med undantag av Stockholms län där kommunernas
 andel motsvarar 40 procent och landstingets andel motsvarar 60
-procent av standardkostnaden.
+procent av standardkostnaden. Standardkostnaden för Gotlands
+kommun motsvarar redovisade nettokostnader. Hälften av
+standardkostnaden fördelas i kommunernas utjämningssystem och
+hälften i landstingens utjämningssystem.
 
-Den del av standardkostnaden som tillförs kommunerna fördelas
-mellan kommunerna efter deras andel av de totala kostnaderna i
-länet för kollektivtrafiken år 2002, dock med följande
-undantag:
+Fördelningen av kommunernas andel av standardkostnaden mellan
+kommunerna i länet görs på följande sätt:
 
-1. I Skåne län och Stockholms län fördelas kommunernas andel av
-standardkostnaden med lika stora belopp per invånare mellan
-kommunerna.
+1. För kommunerna i Södermanlands län, Kronobergs län, Blekinge
+län, Värmlands län, Västmanlands län, Dalarnas län,
+Västernorrlands län, Västerbottens län och Norrbottens län görs
+fördelningen efter deras andel av de totala kostnaderna i länet
+för kollektivtrafiken år 2002.
 
-2. Standardkostnaden för Gotlands kommun motsvarar redovisade
-nettokostnader. Hälften av standardkostnaden fördelas i
-kommunernas utjämningssystem och hälften i landstingens
-utjämningssystem.
+2. För kommunerna i Stockholms län, Uppsala län, Östergötlands
+län, Jönköpings län, Kalmar län, Skåne län, Hallands län,
+Västra Götalands län, Örebro län och Gävleborgs län görs
+fördelningen med lika stora belopp per invånare.
 
-3. För kommunerna i Västra Götalands län och Jämtlands län
-fattar regeringen särskilda beslut om varje kommuns andel av de
-totala kostnaderna i respektive län.
+3. För kommunerna i Jämtlands län fattar regeringen särskilda
+beslut om varje kommuns andel av de totala kostnaderna i länet.
+Förordning (2011:1136).
 
 Beräkningsmetoder och närmare detaljer för kostnadsutjämningen
 
@@ -698,67 +664,49 @@ Den för landet genomsnittliga standardkostnaden i kronor
 per invånare före uppräkning till utjämningsårets
 kostnadsnivå för var och en av följande verksamheter är:
 
-/Upphör att gälla U:2011-07-01/
-Förskoleverksamhet och
-skolbarnsomsorg                         5 885
-
-/Träder i kraft I:2011-07-01/
-Förskola, fritidshem och annan          5 885
-pedagogisk verksamhet
+Förskola, fritidshem och annan
+pedagogisk verksamhet                   6 133
 
 Förskoleklass och grundskola
 
- Förskoleklass                         507
+ Förskoleklass                         516
 
- Grundskola                            8 115
+ Grundskola                            8 166
 
-Gymnasieskola                           3 916
+Gymnasieskola                           3 925
 
 Individ- och familjeomsorg
 
- Barn- och ungdomsvård                 1 363
+ Barn- och ungdomsvård                 1 366
 
- Övrig individ- och familjeomsorg      1 921
+ Övrig individ- och familjeomsorg      2 043
 
-Äldreomsorg                             8 684
+Äldreomsorg                             8 869
 
-Beloppen avser år 2009.
+Beloppen avser år 2010.
 
 Landsting
 
-Den för landet genomsnittliga standardkostnaden före
-uppräkning till utjämningsårets kostnadsnivå för hälso- och
-sjukvård är 18 315 kronor per invånare. Beloppet avser år
-2009.
+Den för landet genomsnittliga standardkostnaden före uppräkning
+till utjämningsårets kostnadsnivå för hälso- och sjukvård är
+18 656 kronor per invånare. Beloppet avser år 2010.
 
 Delat huvudmannaskap
 
-Den för landet genomsnittliga standardkostnaden före
-uppräkning till utjämningsårets kostnadsnivå för
-kollektivtrafik är 1 585 kronor per invånare. Beloppet
-avser år 2009.
+Den för landet genomsnittliga standardkostnaden före uppräkning
+till utjämningsårets kostnadsnivå för kollektivtrafik är 1 646
+kronor per invånare. Beloppet avser år 2010.
 
 Nettoprisindex
 
-Uppräkning till utjämningsårets kostnadsnivå sker med hjälp
-av utvecklingen av nettoprisindex. Som genomsnittlig
-procentuell förändring i nettoprisindex för respektive år
-används följande: 2003 (1,5), 2004 (0,1), 2005 (0,1), 2006
-(1,1), 2007 (2,7), 2008 (2,7), 2009 (-0,8), 2010 (1,6) och
-2011 (0,8).
+Uppräkning till utjämningsårets kostnadsnivå sker med hjälp av
+utvecklingen av nettoprisindex. Som genomsnittlig procentuell
+förändring i nettoprisindex för respektive år används följande:
+2003 (1,5), 2004 (0,1), 2005 (0,1), 2006 (1,1), 2007 (2,7),
+2008 (2,7), 2009 (-0,8), 2010 (1,8), 2011 (2,0) och 2012 (0,9).
 
-/Upphör att gälla U:2011-07-01/
-Följande verksamheters och kostnadsslags standardkostnad
-räknas upp till utjämningsårets kostnadsnivå med hjälp av
-nettoprisindex året före utjämningsåret samt
-utjämningsåret: förskoleverksamhet och skolbarnsomsorg,
-förskoleklass och grundskola, gymnasieskola, individ- och
-familjeomsorg, äldreomsorg, löner, hälso- och sjukvård samt
-kollektivtrafik.
-
-/Träder i kraft I:2011-07-01/
-Följande verksamheters och kostnadsslags standardkostnad
-räknas upp till utjämningsårets kostnadsnivå med hjälp av
+Följande verksamheters och kostnadsslags standardkostnad räknas
+upp till utjämningsårets kostnadsnivå med hjälp av
 nettoprisindex året före utjämningsåret samt utjämningsåret:
 förskola, fritidshem och annan pedagogisk verksamhet,
 förskoleklass och grundskola, gymnasieskola, individ- och
@@ -770,13 +718,9 @@ utjämningsårets kostnadsnivå med hjälp av nettoprisindex år
 2003 t.o.m. utjämningsåret: bebyggelsestruktur.
 
 Följande kostnadsslags standardkostnad räknas inte upp till
-utjämningsårets kostnadsnivå: barn och ungdomar med
-utländsk bakgrund samt befolkningsförändringar.
+utjämningsårets kostnadsnivå: barn och ungdomar med utländsk
+bakgrund samt befolkningsförändringar.
 
-/Upphör att gälla U:2011-07-01/
-Förskoleverksamhet och skolbarnsomsorg
-
-/Träder i kraft I:2011-07-01/
 Förskola, fritidshem och annan pedagogisk verksamhet
 
 Okorrigerad åldersrelaterad ersättning = 42 827 x andelen barn
@@ -1008,10 +952,6 @@ har baserats på underlag från år 2004.
 
 Lönekostnadsandelen för var och en av följande verksamheter är:
 
-/Upphör att gälla U:2011-07-01/
-Förskoleverksamhet och skolbarnsomsorg  0,81
-
-/Träder i kraft I:2011-07-01/
 Förskola, fritidshem och annan          0,81
 pedagogisk verksamhet
 
@@ -1051,4 +991,4 @@ invånardistansen + 1 926,383 x andelen boende i tätort med mer
 arbetspendlar över kommungräns.
 
 Med invånardistansen avses det genomsnittliga avståndet mellan
-invånarna i länet. Förordning (2011:680).
+invånarna i länet. Förordning (2011:1136).
