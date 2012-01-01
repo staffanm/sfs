@@ -128,44 +128,79 @@ Uppgifter i ett verksamhetsregister
 
 A Mål
 
-1.      målnummer
-2.      målkategori och målprefix
-3.      målgrupp och måltyp
-4.      sakkod och typkod
-5.      saken (ärendemening)
-6.      inkommandedatum
-7.      registreringsdatum och registreringskod
-8.      målsamband
-9.      författning
-10.     taxeringsår
-11.     typ av taxering
-12.     kommun
-13.     om körkort:
-        - körkortsklass
-        - körkortstillstånd
-        - utfärdandeland
+1. målnummer
 
-14.     förtur
-15.     prövningstillstånd
-16.     om underinstansens avgörande:
-        - underinstans
-        - målnummer och prefix
-        - avgörandedatum
-        - avgörandetyp
-        - rättens sammansättning
-        - förhandlingstid
-        - förhörstid
+2. målkategori och målprefix
 
-17.     om fastighet m.m.:
-        - geografisk enhet
-        - fastighetsbeteckning
-        - gatuadress
-        - ort
-        - SNI-kod
-        - geografiska x- och y-koordinater
+3. målgrupp och måltyp
 
-18.     uppskattad förhandlingstid
-19.     avgörandedatum
+4. sakkod och typkod
+
+5. saken (ärendemening)
+
+6. inkommandedatum
+
+7. registreringsdatum och registreringskod
+
+8. målsamband
+
+9. författning
+
+10. beskattningsår
+
+11. typ av beskattningsbeslut
+
+12. taxeringsår
+
+13. typ av taxering
+
+14. kommun
+
+15. om körkort:
+
+ körkortsklass
+
+ körkortstillstånd
+
+ utfärdandeland
+
+16. förtur
+
+17. prövningstillstånd
+
+18. om underinstansens avgörande:
+
+ underinstans
+
+ målnummer och prefix
+
+ avgörandedatum
+
+ avgörandetyp
+
+ rättens sammansättning
+
+ förhandlingstid
+
+ förhörstid
+
+19. om fastighet m.m.:
+
+ geografisk enhet
+
+ fastighetsbeteckning
+
+ gatuadress
+
+ ort
+
+ SNI-kod
+
+ geografiska x- och y-koordinater
+
+20. uppskattad förhandlingstid
+
+21. avgörandedatum
 
 B Aktörer
 
@@ -347,7 +382,7 @@ F Övriga uppgiftear
 
 1.      tekniska och administrativa uppgifter som behövs för att
         tillgodose ändamålen med registret
-Förordning (2003:601).
+Förordning (2011:1460).
 
 Bilaga 2
 
