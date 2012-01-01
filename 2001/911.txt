@@ -51,20 +51,20 @@ värdepappersbolag,
 verksamhet,
 
  lagen (1998:293) om utländska försäkringsgivares och
-tjänstepensions-instituts verksamhet i Sverige,
+tjänstepensionsinstituts verksamhet i Sverige,
 
  lagen (1998:1479) om kontoföring av finansiella instrument,
 
  bokföringslagen (1999:1078),
 
- lagen (1999:1309) om system för avveckling av förpliktelser på
-finansmarknaden,
+ lagen (1999:1309) om system för avveckling av förpliktelser
+på finansmarknaden,
 
  lagen (2000:35) om byte av redovisningsvaluta i finansiella
 företag,
 
- lagen (2000:1087) om anmälningsskyldighet för vissa innehav av
-finansiella instrument,
+ lagen (2000:1087) om anmälningsskyldighet för vissa innehav
+av finansiella instrument,
 
  lagen (2003:1223) om utgivning av säkerställda obligationer,
 
@@ -73,6 +73,8 @@ finansiella instrument,
  lagen (2004:297) om bank- och finansieringsrörelse,
 
  lagen (2004:299) om inlåningsverksamhet,
+
+ lagen (2004:575) om europabolag,
 
  lagen (2005:405) om försäkringsförmedling,
 
@@ -93,7 +95,7 @@ kapitaltäckning och stora exponeringar,
  försäkringsrörelselagen (2010:2043), och
 
  lagen (2011:755) om elektroniska pengar.
-Förordning (2011:756).
+Lag (2011:1178).
 
 4 § Avgift enligt 3 § ska betalas enligt följande
 avgiftsklasser och med följande belopp:
@@ -498,6 +500,14 @@ bestämmelser.
 2. I fråga om ansökningar eller anmälningar som har kommit
 in till Finansinspektionen före ikraftträdandet gäller
 äldre bestämmelser.
+
+2011:1178
+
+1. Denna förordning träder i kraft den 1 januari 2012.
+
+2. I fråga om ansökningar eller anmälningar som har kommit in
+till Finansinspektionen före ikraftträdandet gäller äldre
+bestämmelser.
 
 
 Bilaga
@@ -1056,6 +1066,11 @@ Lagen (2004:299) om inlåningsverksamhet
 Registrering av företag som driver verksamhet enligt lagen
 (2004:299) om inlåningsverksamhet (7 §)                         J
 
+Lagen (2004:575) om europabolag
+
+Tillstånd till flyttning av ett europabolags säte till en
+annan stat (9 a §)                                              J
+
 Lagen (2005:405) om försäkringsförmedling
 
 Tillstånd för fysisk person att utöva försäkringsförmedling
@@ -1201,7 +1216,7 @@ internmätningsmetod för att beräkna kapitalkravet för
 operativa risker som tidigare godkänts av Finansinspektionen
 (6 kap. 6 §)                                                    JS
 
-
+Tillstånd att byta från schablonmetoden till basmetoden
 (6 kap. 9 §)                                                    GN
 
 Tillstånd att byta från internmätningsmetoden till
@@ -1426,11 +1441,11 @@ Anmälan om uppdragsavtal (3 kap. 28 §)                          D
 
 Försäkringsrörelselagen (2010:2043)
 
-Undantag från försäkringsrörelselagen gällande
-direkt skadeförsäkringsrörelse (1 kap. 19 §)                    G
+Undantag från försäkringsrörelselagen gällande direkt
+skadeförsäkringsrörelse (1 kap. 19 §)                           G
 
-Undantag från försäkringsrörelselagen gällande
-direkt livförsäkringsrörelse (1 kap. 20 §)                      G
+Undantag från försäkringsrörelselagen gällande direkt
+livförsäkringsrörelse (1 kap. 20 §)                             G
 
 Undantag från försäkringsrörelselagen gällande
 verksamhet i utlandet (1 kap. 21 §)                             G
@@ -1448,8 +1463,8 @@ av tillstånd (2 kap. 8, 15 och 17 §§)                           Q
 Godkännande av ändring av bolagsordning eller stadgar
 som innebär utvidgning av tillstånd (2 kap. 9 §)                L
 
-Godkännande av annan ändring av bolagsordning eller stadgar
-(2 kap. 9 §)                                                    F
+Godkännande av annan ändring av bolagsordning eller
+stadgar (2 kap. 9 §)                                            F
 
 Godkännande av ändring av bolagsordning i samband med
 ombildning från icke-vinstutdelande till vinstutdelande
@@ -1457,8 +1472,8 @@ livförsäkringsbolag (2 kap. 9 och 11 kap. 20 §§)                R
 
 Underrättelse om sekundäretablering (3 kap. 1 §)                G
 
-Underrättelse om ändrade förhållanden vid sekundäretablering
-(3 kap. 6 §)                                                    D
+Underrättelse om ändrade förhållanden vid
+sekundäretablering (3 kap. 6 §)                                 D
 
 Underrättelse om uppdrag att från en sekundäretablering
 meddela tjänstepensionsförsäkring (3 kap. 8 §)                  G
@@ -1496,8 +1511,8 @@ Undantag från begränsningsreglerna i 6 kap. 14 §                I
 
 Undantag från begränsningsreglerna i 6 kap. 21 § 1 och 2        G
 
-Tillstånd att räkna in vissa poster i kapitalbasen (7 kap.
-3 §)                                                            G
+Tillstånd att räkna in vissa poster i kapitalbasen
+(7 kap. 3 §)                                                    G
 
 Tillstånd att använda statistiska metoder (7 kap. 7 §)          G
 
@@ -1512,25 +1527,29 @@ Undantag från gruppbaserad redovisning (9 kap. 7 och 8 §§)      H
 Tillstånd att verkställa överlåtelseavtal (10 kap. 5 och
 17 §§)                                                          L
 
+Undantag från krav på att vissa befattningshavare ska vara
+bosatta inom EES (11 kap. 1 § andra stycket 1)                  E
+
 Minskning av aktiekapitalet utan tillstånd från allmän
 domstol (11 kap. 23 §)                                          G
 
-Tillstånd att verkställa fusionsplan (11 kap. 33 §, 12 kap.
-82 § och 13 kap. 33 §)                                          L
+Tillstånd att verkställa fusionsplan
+(11 kap. 33 §, 12 kap. 82 § och 13 kap. 33 §)                   L
 
 Undantag från begränsning för uttaxering (12 kap. 2 §)          G
 
 Beslut om att annan än den som angetts i 12 kap. 6 §
 första och andra styckena får vara stiftare                     F
 
-Tillstånd till återbetalning av garantikapital (12 kap. 66 §)   G
+Tillstånd till återbetalning av garantikapital
+(12 kap. 66 §)                                                  G
 
 Beslut om högre förlagsinsatser (13 kap. 9 §)                   G
 
 Förhandsgranskning av interna modeller (14 kap. 17 §)           RAC
 
-Tillstånd att förvärva kvalificerade aktieinnehav (15 kap.
-1 §)                                                            N
+Tillstånd att förvärva kvalificerade aktieinnehav
+(15 kap. 1 §)                                                   N
 
 Beslut om förlängning av tid inom vilken förvärv ska
 genomföras (15 kap. 10 §)                                       C
@@ -1579,4 +1598,4 @@ Tillstånd för ett företag utanför EES att inrätta filial
 i Sverige (3 kap. 28 §)                                         O
 
 Anmälan om uppdragsavtal (3 kap. 29 §)                          D
-Förordning (2011:960).
+Förordning (2011:1178).
