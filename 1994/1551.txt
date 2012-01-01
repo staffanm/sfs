@@ -409,7 +409,7 @@ Lag (2000:1296).
 
 3 § Tull och skatt enligt 1 § ska tas ut med följande belopp.
 
-tull            skatt
+                tull            skatt
 
 spritdryck      4 kr/liter      253 kr/liter
 
@@ -419,14 +419,14 @@ vin             1 kr/liter      30 kr/liter
 
 starköl         3 kr/liter      16 kr/liter
 
-cigaretter      34 öre/styck    172 öre/styck
+cigaretter      34 öre/styck    185 öre/styck
 
-cigarrer        86 öre/styck    192 öre/styck
+cigarrer        86 öre/styck    207 öre/styck
 
-röktobak        428 kr/kg       2 132 kr/kg
+röktobak        428 kr/kg       2 285 kr/kg
 
-snus            104 kr/kg       614 kr/kg
-Lag (2008:1384).
+snus            104 kr/kg       680 kr/kg
+Lag (2011:1291).
 
 4 § Tullverket ska publicera den beloppsgräns som avses i 1 § 2
 uttryckt i svenska kronor i Tullverkets författningssamling.
@@ -511,3 +511,9 @@ Denna lag träder i kraft den 1 januari 2008. Äldre bestämmelser
 gäller fortfarande för varor som dessförinnan anmälts eller
 borde ha anmälts till tullförfarandet övergång till fri
 omsättning.
+
+2011:1291
+
+Denna lag träder i kraft den 1 januari 2012. Äldre
+bestämmelser gäller fortfarande för förhållanden som hänför
+sig till tiden före ikraftträdandet.
