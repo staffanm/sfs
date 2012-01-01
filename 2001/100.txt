@@ -308,10 +308,10 @@ Fiske                                   Havs- och vattenmyndigheten
 
 KULTUR OCH FRITID
 Bibliotek                               Kungl. biblioteket
-Kulturmiljövård                         Statens kulturråd
-Museer                                  Statens kulturråd
-Studieförbund                           Statens kulturråd
-Samhällets kulturutgifter               Statens kulturråd
+Kulturmiljövård                         Myndigheten för kulturanalys
+Museer                                  Myndigheten för kulturanalys
+Studieförbund                           Myndigheten för kulturanalys
+Samhällets kulturutgifter               Myndigheten för kulturanalys
 
 LEVNADSFÖRHÅLLANDEN
 
@@ -358,7 +358,7 @@ Inkvartering                            Tillväxtverket
 OFFENTLIG EKONOMI
 Finanser för den kommunala sektorn      SCB
 Statlig upplåning och statsskuld        Riksgäldskontoret
-Taxering                                SCB
+Beskattning                             SCB
 Utfallet av statsbudgeten               Ekonomistyrningsverket
 
 PRISER OCH KONSUMTION
@@ -443,4 +443,4 @@ Högskoleväsende                         Högskoleverket
 Studiestöd                              Centrala studiestödsnämnden
 Forskning                               SCB
 Befolkningens utbildning                SCB
-Förordning (2011:943).
+Förordning (2011:1457).
