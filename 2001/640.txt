@@ -44,20 +44,19 @@ Uppgifter om saken och andra liknande uppgifter om ett mål får
 inte användas som sökbegrepp tillsammans med uppgifter om
 parter eller andra aktörer i ett mål. Förordning (2003:600).
 
-5 § Uppgifter skall gallras ur ett register
+5 § Uppgifter ska gallras ur ett register
 
-- i mål enligt skatte-, taxerings-, folkbokförings- och
-bilregisterförfattningarna, författningar om skattebetalning
-samt lagen (1989:479) om ersättning för kostnader i ärenden och
-mål om skatt, m.m. senast nio år efter avgörandeåret, och
+ i mål enligt skatte-, skatteförfarande-, fastighetstaxerings-,
+folkbokförings- och bilregisterförfattningarna senast nio år
+efter avgörandeåret, och
 
-- i övriga mål senast fem år efter avgörandeåret.
+ i övriga mål senast fem år efter avgörandeåret.
 
-Innan uppgifterna gallras skall förvaltningsrätten se till att
-de bevaras på annat sätt i den omfattning som skulle följa av
+Innan uppgifterna gallras ska förvaltningsrätten se till att de
+bevaras på annat sätt i den omfattning som skulle följa av
 förordningen (1979:575) om protokollföring m.m. vid de allmänna
 förvaltningsdomstolarna, om förvaltningsrätten inte hade använt
-sig av automatiserad behandling. Förordning (2009:887).
+sig av automatiserad behandling. Förordning (2011:1459).
 
 Rättsfallsregister
 
@@ -105,6 +104,8 @@ Förordning (2009:887).
 
 Övergångsbestämmelser
 
+2001:640
+
 1. Denna förordning träder i kraft den 1 oktober 2001, då
 förordningen (1994:90) om registerföring vid länsrätt med hjälp
 av automatisk databehandling skall upphöra att gälla.
@@ -113,6 +114,15 @@ av automatisk databehandling skall upphöra att gälla.
 omständighet som yrkandet hänför sig till har inträffat efter
 det att förordningen har trätt i kraft beträffande den aktuella
 behandlingen.
+
+2011:1459
+
+1. Denna förordning träder i kraft den 1 januari 2012.
+
+2. Äldre bestämmelser gäller fortfarande för mål enligt de
+författningar som avses i 5 § första stycket första
+strecksatsen i dess äldre lydelse.
+
 
 Bilaga 1
 
@@ -238,36 +248,48 @@ domstolen
 
 24. uppgift om målsamband
 
-25. taxeringsår
+25. beskattningsår
 
-26. typ av taxering
+26. typ av beskattningsbeslut
 
-27. fastighetsbeteckning
+27. taxeringsår
 
-28. kommun
+28. typ av taxering
 
-29. om körkort:
-    - körkortsklass
-    - körkortstillstånd
-    - utfärdandeland
+29. fastighetsbeteckning
 
-30. förtur
+30. kommun
 
-31. handläggningsåtgärd/handläggningsstatus
+31. om körkort:
 
-32. om tillsynsmyndighet eller någon annan som skall höras:
-    - egenskap
-    - namn, tjänstetitel, myndighet och
-      myndighetsnummer/organisationsnummer
-    - postadress
-    - telefonnummer, e-postadress e.d.
-    - diarienummer och diariebeteckning
+ körkortsklass
 
-33. bevakning
+ körkortstillstånd
 
-34. tekniska och administrativa uppgifter som behövs för att
+ utfärdandeland
+
+32. förtur
+
+33. handläggningsåtgärd/handläggningsstatus
+
+34. om tillsynsmyndighet eller någon annan som ska höras:
+
+ egenskap
+
+ namn, tjänstetitel, myndighet och
+myndighetsnummer/organisationsnummer
+
+ postadress
+
+ telefonnummer, e-postadress e.d.
+
+ diarienummer och diariebeteckning
+
+35. bevakning
+
+36. tekniska och administrativa uppgifter som behövs för att
 tillgodose ändamålen med registret
-Förordning (2003:600).
+Förordning (2011:1459).
 
 Bilaga 2
 
