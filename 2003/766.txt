@@ -31,7 +31,7 @@ arbetsuppgifter,
 7. arbetssökande, arbetsgivare, arbetsställe och vilken
 bransch den registrerade är verksam i,
 
-8. preliminärskatt, inkomsttaxering och fastighetstaxering,
+8. preliminärskatt, inkomstbeskattning och fastighetstaxering,
 
 9. hyra för hyreslägenhet eller avgift för
 bostadsrättslägenhet,
@@ -134,7 +134,7 @@ medborgarskapslagstiftningen, och
 
 43. att den registrerade eller dennes make eller sambo får
 vårdnadsbidrag enligt lagen (2008:307) om kommunalt
-vårdnadsbidrag. Förordning (2010:1723).
+vårdnadsbidrag. Förordning (2011:1465).
 
 Direktåtkomst
 
@@ -178,6 +178,27 @@ registrerades identitet kontrolleras genom en säker metod för
 identifiering.
 
 Utlämnande på medium för automatiserad behandling
+
+4 a § För handläggning av ärenden om sjukpenning,
+sjukersättning och aktivitetsersättning får uppgift om namn,
+personnummer eller samordningsnummer, ärendebeteckning,
+hälsotillstånd och arbetsförmåga i socialförsäkringsdatabasen
+lämnas ut på medium för automatiserad behandling till
+vårdgivare. Förordning (2011:480).
+
+4 b § För handläggning av ärenden om bostadstillägg och
+äldreförsörjningsstöd får personnummer eller samordningsnummer
+i socialförsäkringsdatabasen lämnas ut på medium för
+automatiserad behandling till en försäkringsinrättning som
+administrerar avtalspensioner eller motsvarande ersättningar
+som följer av kollektivavtal. Förordning (2011:480).
+
+4 c § För beräkning och kontroll av sjukpenninggrundande
+inkomst, bostadsbidrag, underhållsstöd, bostadstillägg och
+äldreförsörjningsstöd får personnummer eller samordningsnummer
+i socialförsäkringsdatabasen lämnas ut på medium för
+automatiserad behandling till Skatteverket.
+Förordning (2011:1522).
 
 5 § För tillhandahållande av information om fastställd
 dagpenning och för redovisning av utbetalade aktivitetsstöd och
