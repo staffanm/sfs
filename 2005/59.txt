@@ -68,15 +68,15 @@ för distanskommunikation.
 För distansavtal om finansiella tjänster eller om överlåtelse
 eller emission av finansiella instrument gäller 3 kap.
 
-2 § Bestämmelserna om informationsskyldighet i 68 §§, om
-ångerrätt i 916 §§, om lagval i 5 kap. 2 § och om risken för
+2 § Bestämmelserna om informationsskyldighet i 6-8 §§, om
+ångerrätt i 9-16 §§, om lagval i 5 kap. 2 § och om risken för
 vissa meddelanden i 5 kap. 3 § gäller inte distansavtal som
 även är ett sådant avtal som avses i lagen (2011:914) om
 konsumentskydd vid avtal om tidsdelat boende eller långfristig
 semesterprodukt. Lag (2011:918).
 
 3 § Bestämmelserna om informationsskyldighet i 7 § och om
-ångerrätt i 916 §§ gäller inte distansavtal där näringsidkaren
+ångerrätt i 9-16 §§ gäller inte distansavtal där näringsidkaren
 på en bestämd dag eller under en bestämd tidsperiod skall
 tillhandahålla
 
@@ -90,13 +90,13 @@ tillhandahålla
 fritidsaktivitet.
 
 Bestämmelserna om informationsskyldighet i 7 § och om ångerrätt
-i 916 §§ gäller inte heller distansavtal om försäljning av
+i 9-16 §§ gäller inte heller distansavtal om försäljning av
 livsmedel eller andra varor för ett hushålls löpande
 förbrukning, om varorna skall levereras till en konsuments
 bostad eller arbetsplats i ett distributionssystem med
 regelbunden utkörning.
 
-4 § Bestämmelserna om ångerrätt i 916 §§ gäller inte
+4 § Bestämmelserna om ångerrätt i 9-16 §§ gäller inte
 distansavtal om
 
 1. en tjänst och fullgörandet har påbörjats med konsumentens
@@ -178,7 +178,7 @@ Information när ett avtal har ingåtts
 
 7 § När ett distansavtal har ingåtts skall näringsidkaren
 snarast därefter ge konsumenten en bekräftelse med den
-information som avses i 6 § första stycket 15. Gäller avtalet
+information som avses i 6 § första stycket 1-5. Gäller avtalet
 en vara skall informationen ges senast vid leveransen, om inte
 varan skall levereras till någon annan än konsumenten.
 Informationen skall ges i en handling eller i någon annan
@@ -351,29 +351,29 @@ Med finansiella instrument avses detsamma som i lagen
 detta kapitel om finansiella instrument gäller också andra
 finansiella produkter.
 
-2 § Bestämmelserna om ångerrätt i 712 §§ gäller inte
+2 § Bestämmelserna om ångerrätt i 7-12 §§ gäller inte
 distansavtal om
 
 1. finansiell tjänst eller överlåtelse av finansiellt
 instrument och priset beror på sådana svängningar på
-finansmarknaden som näringsidkaren inte kan påverka och som kan
-inträffa under ångerfristen,
+finansmarknaden som näringsidkaren inte kan påverka och som
+kan inträffa under ångerfristen,
 
 2. deltagande i emission eller annan likartad aktivitet och
 priset för den rättighet som aktiviteten avser efter
-teckningstidens utgång kommer att bero på sådana svängningar på
-finansmarknaden som sägs i punkten 1,
+teckningstidens utgång kommer att bero på sådana svängningar
+på finansmarknaden som sägs i 1,
 
 3. kredit som är förenad med panträtt i fast egendom, tomträtt
-eller bostadsrätt eller som är förenad med motsvarande rätt i
-byggnad som inte hör till fastighet, eller
+eller bostadsrätt eller liknande rätt eller som är förenad med
+motsvarande rätt i byggnad som inte hör till fastighet, eller
 
 4. försäkring med en avtalad giltighetstid om en månad eller
 mindre.
 
 Bestämmelserna om ångerrätt gäller inte heller om båda parter
-på konsumentens begäran har fullgjort sina förpliktelser enligt
-distansavtalet.
+på konsumentens begäran har fullgjort sina förpliktelser
+enligt distansavtalet. Lag (2012:68).
 
 Information innan ett avtal ingås
 
@@ -431,7 +431,7 @@ avtalet och om vilken domstol som är behörig,
 tillhandahålls och på vilket språk näringsidkaren åtar sig att
 kommunicera under avtalstiden,
 
- 16. hur klagomål i fråga om avtalet behandlas och vilka
+16. hur klagomål i fråga om avtalet behandlas och vilka
 möjligheter som finns att få en tvist med näringsidkaren
 prövad utanför domstol, och
 
@@ -455,8 +455,8 @@ näringsidkaren ge konsumenten informationen i denna form
 snarast efter det att avtalet har ingåtts.
 
 Om distansavtalet avser en betaltjänst enligt lagen (2010:751)
-om betaltjänster gäller inte första stycket 14, 11, 12 och
-1416. Lag (2010:761).
+om betaltjänster gäller inte första stycket 1-4, 11, 12 och
+14-16. Lag (2010:761).
 
 Särskilda informationskrav vid telefonförsäljning
 
@@ -467,7 +467,7 @@ dennes relation till näringsidkaren. Näringsidkaren skall då
 också informera om samtalets syfte. Om konsumenten uttryckligen
 samtycker till det, behöver näringsidkaren inte ge all den
 information som anges i 3 § första stycket utan endast
-information enligt 3 § första stycket 36, 8 och 15.
+information enligt 3 § första stycket 3-6, 8 och 15.
 Näringsidkaren skall dock upplysa konsumenten om att
 ytterligare information finns tillgänglig på begäran samt ange
 vad denna information avser. Det som sägs i 3 § andra stycket
@@ -529,12 +529,11 @@ vad näringsidkaren får kräva enligt 11 §. Tiden skall räknas
 från den dag då näringsidkaren tog emot konsumentens meddelande
 om att avtalet frånträds.
 
-11 § Näringsidkaren får kräva att konsumenten betalar för den
-del av en finansiell tjänst som har tillhandahållits enligt
-distansavtalet. Näringsidkaren har också rätt till ersättning
-för skäliga kostnader för tjänsten för tiden före det att
-näringsidkaren tar emot konsumentens meddelande om att avtalet
-frånträds men inte för tiden därefter.
+11 § Näringsidkaren har rätt till ersättning för den tjänst som
+har tillhandahållits enligt distansavtalet innan ångerrätten
+utövades. Ersättningen får inte överstiga ett belopp som står i
+proportion till omfattningen av den tillhandahållna tjänsten,
+jämförd med den fullständiga tjänsten enligt avtalet.
 
 Näringsidkaren får inte kräva betalning enligt första stycket,
 om näringsidkaren
@@ -544,7 +543,7 @@ stycket 8 om vad konsumenten kan komma att få betala vid
 utövande av ångerrätten, eller
 
 2. utan begäran från konsumenten har påbörjat fullgörandet av
-avtalet innan ångerfristen har löpt ut.
+avtalet innan ångerfristen har löpt ut. Lag (2012:68).
 
 Anknytande avtal
 
@@ -558,8 +557,8 @@ konsumenten får åläggas någon påföljd för detta.
 Förhållandet till ångerrätten enligt konsumentkreditlagen
 
 13 § I fråga om kreditavtal enligt konsumentkreditlagen
-(2010:1846) tilllämpas 2125 §§ den lagen i stället för
-712 §§. Lag (2010:1854).
+(2010:1846) tilllämpas 21-25 §§ den lagen i stället för
+7-12 §§. Lag (2010:1854).
 
 4 kap. Hemförsäljningsavtal
 
@@ -586,14 +585,14 @@ tjänst som omfattas av konsumentens begäran eller som har ett
 direkt samband med den varan eller tjänsten.
 
 2 § Bestämmelserna om informationsskyldighet i 3 och 4 §§, om
-ångerrätt i 510 §§, om lagval i 5 kap. 2 § och om risken för
+ångerrätt i 5-10 §§, om lagval i 5 kap. 2 § och om risken för
 vissa meddelanden i 5 kap. 3 § gäller inte
 hemförsäljningsavtal som även är ett sådant avtal som avses i
 lagen (2011:914) om konsumentskydd vid avtal om tidsdelat
 boende eller långfristig semesterprodukt.
 
 Bestämmelserna om informationsskyldighet i 3 och 4 §§ och om
-ångerrätt i 510 §§ gäller inte heller hemförsäljningsavtal om
+ångerrätt i 5-10 §§ gäller inte heller hemförsäljningsavtal om
 försäljning av livsmedel eller andra varor för ett hushålls
 löpande förbrukning, om varorna ska levereras till en
 konsuments bostad eller arbetsplats i ett distributionssystem
@@ -701,8 +700,8 @@ denna rätt till ersättning när ersättningsvaran levereras.
 Förhållandet till ångerrätten enligt konsumentkreditlagen
 
 9 a § I fråga om kreditavtal enligt konsumentkreditlagen
-(2010:1846) tilllämpas 2125 §§ den lagen i stället för
-59 §§. Lag (2010:1854).
+(2010:1846) tilllämpas 21-25 §§ den lagen i stället för
+5-9 §§. Lag (2010:1854).
 
 Kreditavtal
 
@@ -782,3 +781,10 @@ hemförsäljningsavtal skall upphöra att gälla.
 
 3. I fråga om försäkringsavtal som har förnyats efter
 ikraftträdandet gäller den nya lagen.
+
+2012:68
+
+1. Denna lag träder i kraft den 1 mars 2012.
+
+2. I fråga om avtal som har ingåtts före ikraftträdandet
+gäller äldre bestämmelser.
