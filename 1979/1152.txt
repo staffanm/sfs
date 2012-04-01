@@ -217,7 +217,9 @@ Specialbyggnad  Med specialbyggnad avses
                 Distributions-
                 byggnad         Byggnad som ingår i överförings- eller
                                 distributionsnätet för gas, värme,
-                                elektricitet eller vatten.
+                                elektricitet eller vatten samt gasturbin
+                                och annan byggnad som används för att
+                                upprätthålla balansen i elsystemet.
 
                 Värmecentral    Byggnad för produktion och distribution av
                                 varmvatten för uppvärmning, dock inte sådan
@@ -284,7 +286,7 @@ annan
 
 Övrig byggnad   Byggnad som inte ska utgöra någon av de tidigare nämnda
                 byggnadstyperna.
-Lag (2010:97).
+Lag (2012:89).
 
 3 § Byggnadstypen skall bestämmas med hänsyn till det ändamål
 som byggnad till övervägande del är inrättad för och det sätt
@@ -514,24 +516,23 @@ betesmark, produktiv skogsmark, skogligt impediment eller
 myndigheter, får uppdelas i taxeringsenheter efter de olika
 myndigheternas förvaltningsområden.
 
-10 § Marksamfällighet eller anläggningssamfällighet ska
-utgöra en taxeringsenhet, om den förvaltas av juridisk
-person. Detta gäller dock inte om fastigheterna, som har del
-i samfälligheten, uteslutande eller så gott som uteslutande
-är småhusfastigheter eller ägarlägenhetsfastigheter. Detta
-gäller inte heller samfällighet, som avser enskild väg eller
-dike eller som har ett ringa ekonomiskt värde.
+10 § Marksamfällighet eller anläggningssamfällighet ska utgöra
+en taxeringsenhet, om den förvaltas av juridisk person. Detta
+gäller dock inte om fastigheterna, som har del i
+samfälligheten, uteslutande eller så gott som uteslutande är
+småhusfastigheter eller ägarlägenhetsfastigheter. Detta gäller
+inte heller samfällighet, som avser enskild väg eller dike
+eller som har ett ringa ekonomiskt värde.
 
-I en elproduktionsenhet får inte kraftverksbyggnad, mark
-eller markanläggning ingå som tillhör mer än ett av följande
-slag av kraftverk: vattenkraftverk, kärnkraftverk,
-kraftvärmeverk, kondenskraftverk, gasturbin eller
-vindkraftverk.
+I en elproduktionsenhet får inte kraftverksbyggnad, mark eller
+markanläggning ingå som tillhör mer än ett av följande slag av
+kraftverk: vattenkraftverk, kärnkraftverk, kraftvärmeverk,
+kondenskraftverk eller vindkraftverk.
 
 Regleringsanläggning huvudsakligen avsedd för
 vattenkraftsändamål ska inte utgöra en taxeringsenhet utan
 beaktas vid taxeringen av de vattenkraftverk som har nytta av
-anläggningen. Lag (2009:105).
+anläggningen. Lag (2012:89).
 
 11 § har upphävts genom lag (1990:1382).
 
@@ -673,20 +674,21 @@ Lag (2001:1218).
 värderingsenhet skall endast omfatta egendom som ingår i en enda
 taxeringsenhet.
 
-2 § Varje småhus, ägarlägenhet, hyreshus, industribyggnad
-och övrig byggnad med värde av minst 50 000 kronor ska utgöra
-en värderingsenhet, om inte annat anges i 3 eller 5 §.
+2 § Varje småhus, ägarlägenhet, hyreshus, kraftverksbyggnad,
+industribyggnad och övrig byggnad med värde av minst 50 000
+kronor ska utgöra en värderingsenhet, om inte annat anges i 3
+eller 5 §.
 
 Komplementhus på småhusenheten ska i regel ingå i samma
 värderingsenhet som det mest värdefulla småhuset på
 taxeringsenheten.
 
-Småhus, hyreshus, industribyggnader och övriga byggnader
-vilkas värde inte uppgår till 50 000 kronor, ska ingå i samma
+Småhus, hyreshus, industribyggnader och övriga byggnader vilkas
+värde inte uppgår till 50 000 kronor, ska ingå i samma
 värderingsenhet som den mest värdefulla byggnaden inom samma
 tomt. Uppgår den mest värdefulla byggnadens värde inte till
 50 000 kronor ska samtliga byggnader inom tomten utgöra en
-värderingsenhet. Lag (2009:105).
+värderingsenhet. Lag (2012:89).
 
 3 § Är ett hyreshus inrättat för både bostäder och lokaler
 skall bostadsdelen och lokaldelen utgöra skilda
@@ -717,7 +719,7 @@ värderingsenhet om det väsentligt underlättar värderingen.
 ändamål får byggnaden indelas i två eller flera värderingsenheter om det
 underlättar värderingen. Lag (1992:1666).
 
-6 § har upphävts genom lag (1992:1666).
+6 § Har upphävts genom lag (1992:1666).
 
 7 § Varje tomt skall utgöra en värderingsenhet, om inte annat anges i
 andra - fjärde styckena.
@@ -734,7 +736,7 @@ Obebyggd tomtmark för hyreshus skall indelas i värderingsenheter så att
 tomtmark med byggrätt för bostäder och för lokaler utgör skilda
 värderingsenheter. Lag (1992:1666).
 
-8 § har upphävts genom lag (1994:1909).
+8 § Har upphävts genom lag (1994:1909).
 
 9 § All täktmark som avser samma slags fyndighet inom en taxeringsenhet
 skall utgöra en värderingsenhet.
@@ -767,11 +769,11 @@ kraftverket ingå. I värderingsenheten skall också ingå andelar
 i de regleringsanläggningar som hör till kraftverket till den
 del de avser markanläggning. Lag (1999:630).
 
-14 § För kärnkraftverk, kraftvärmeverk, kondenskraftverk,
-gasturbin och vindkraftverk (värmekraftverk) skall det för
-varje aggregat för produktion av elkraft bildas en
-värderingsenhet som avser byggnad och en värderingsenhet
-som avser mark. Lag (1999:630).
+14 § För kärnkraftverk, kraftvärmeverk, kondenskraftverk och
+vindkraftverk (värmekraftverk) ska det för varje aggregat för
+produktion av elkraft bildas en värderingsenhet som avser
+byggnad och en värderingsenhet som avser mark.
+Lag (2012:89).
 
 7 kap. Allmänna värderingsregler
 
@@ -938,26 +940,23 @@ Lag (1999:630).
 
 Egendom för vilken värde inte bestäms
 
-16 § För egendom som anges under punkterna 1 - 6 skall inte
-bestämmas något värde
+16 § Något värde ska inte bestämmas för följande egendom:
 
-1. byggnad eller byggnader inom samma tomt, om
-byggnadsbeståndets sammanlagda taxeringsvärde ej skulle uppgå
-till 50 000 kronor
+1. Byggnad eller byggnader inom samma tomt, om
+byggnadsbeståndets sammanlagda taxeringsvärde inte skulle
+uppgå till 50 000 kronor.
 
-2. övrig mark och vattentäckt område som inte är täktmark
+2. Övrig mark och vattentäckt område som inte är täktmark.
 
-3. markanläggning som används för sådant ändamål som avses i 3
-kap.
+3. Markanläggning som används för sådant ändamål som avses i
+3 kap.
 
-4. egendom som avses i 2 kap. 3 § jordabalken
+4. Egendom som avses i 2 kap. 3 § jordabalken.
 
-5. aggregat tillhörande kondenskraftverk som inte varit i drift
-under året före taxeringsåret eller som varaktigt tagits ur
-drift
+5. Kondenskraftverk.
 
-6. outbyggd fallrätt för vilken det inte finns tillstånd till
-utbyggnad. Lag (2001:1218).
+6. Outbyggd fallrätt för vilken det inte finns tillstånd till
+utbyggnad. Lag (2012:89).
 
 8 kap. Riktvärde för småhus
 
@@ -1448,7 +1447,7 @@ impediment bestämmas för skilda förhållanden för värdefaktorn
 storlek. Med storlek avses de skogliga impedimentens areal.
 Lag (2009:1407).
 
-15 kap. Riktvärde för kraftverksbyggnad och tillhörande mark16
+15 kap. Riktvärde för kraftverksbyggnad och tillhörande mark
 
 Allmänt
 
@@ -1456,16 +1455,16 @@ Allmänt
 mark för elproduktion med vattenkraft.
 
 Till ett värmekraftverk hänförs kraftverksbyggnad och mark för
-elproduktion med kärnkraft, kraftvärme, kondenskraft, gasturbin
-och vindkraft.
+elproduktion med kärnkraft, kraftvärme, kondenskraft och
+vindkraft.
 
 Med mark avses i detta kapitel tomtmark, övrig mark, fallrätt
 och markanläggning som ingår i elproduktionsenhet.
 
-Av bestämmelsen 1 kap. 4 a § andra stycket följer att vad som
-sägs om mark i denna lag gäller också annat utrymme som ingår i
-en fastighet eller är samfällt för flera fastigheter.
-Lag (2003:1201).
+Av 1 kap. 4 a § andra stycket följer att vad som sägs om mark
+i denna lag gäller också annat utrymme som ingår i en
+fastighet eller är samfällt för flera fastigheter.
+Lag (2012:89).
 
 Vattenkraftverk
 
@@ -1482,16 +1481,16 @@ vattenkraftverket och för mark som hör till verket.
 Riktvärden skall bestämmas utan beaktande av andels- och
 ersättningskraft. Lag (1999:630).
 
-3 § I en riktvärdeangivelse enligt 7 kap. 3 § skall värden
-per kilowattimme anges för ett normkraftverk och för mark till
-ett sådant verk. Med ett normkraftverk avses ett kraftverk som
-har tagits i drift under år 1955, som har en
-normalårsproduktion på 500 miljoner kilowattimmar, som har en
-genomsnittlig utnyttjandetid på 5 000 timmar per år och som
-saknar möjlighet till flerårsreglering samt levererar sin
-elproduktion till stamnätet i inmatningspunkt Forsse-Hjälta.
-Värdena i en riktvärdeangivelse får endast bestämmas till
-belopp i en fastställd värdeserie. Lag (1999:630).
+3 § I en riktvärdeangivelse enligt 7 kap. 3 § ska värden per
+kilowattimme anges för ett normkraftverk och för mark till ett
+sådant verk. Med ett normkraftverk avses ett kraftverk som har
+tagits i drift under år 1955, som har en normalårsproduktion
+på 500 miljoner kilowattimmar, som har en genomsnittlig
+utnyttjandetid på 4 500 timmar per år och som saknar möjlighet
+till flerårsreglering samt levererar sin elproduktion till
+stamnätet i inmatningspunkt Forsse-Hjälta. Värdena i en
+riktvärdeangivelse får endast bestämmas till belopp i en
+fastställd värdeserie. Lag (2012:89).
 
 4 § Riktvärdet för ett vattenkraftverk bestäms för skilda
 förhållanden för en eller flera av följande värdefaktorer.
@@ -1603,16 +1602,17 @@ per kilowatt installerad effekt anges för var och en av de
 skilda klasserna av värdefaktorn typ av värmekraftverk som
 avses i 12 §. Lag (1999:630).
 
-12 § Totalvärdet i nybyggt skick för ett värmekraftverk bestäms
-för skilda förhållanden för följande värdefaktorer.
+12 § Totalvärdet i nybyggt skick för ett värmekraftverk
+bestäms för skilda förhållanden för följande värdefaktorer.
 
 Effekt          Med effekt avses aggregatets installerade effekt
                 i kilowatt.
 
 Typ av
 värmekraftverk  Med typ av värmekraftverk avses om elproduktionen
-                sker med kärnkraft, kraftvärme, kondenskraft,
-                gasturbin eller vindkraft.
+                sker med kärnkraft, kraftvärme, kondenskraft
+                eller vindkraft.
+Lag (2012:89).
 
 13 § För ett nybyggt värmekraftverk skall värdet per kilowatt
 installerad effekt i en riktvärdeangivelse bestämmas med
@@ -1639,9 +1639,16 @@ fastighetstaxering sker. Lag (1999:630).
 
 16 kap. Särskild fastighetstaxering
 
-1 § Vid särskild fastighetstaxering fastställs nästföregående
-års fastighetstaxering oförändrad om ny taxering enligt 2-5 §§
-inte skall ske. Lag (2001:1218).
+1 § Vid särskild fastighetstaxering fastställs det föregående
+årets fastighetstaxering oförändrad om ny taxering enligt
+25 §§ inte ska ske och det för mottagande taxeringsenhet inte
+ska bestämmas något värde av sådan andels- eller
+ersättningskraft som avses i 15 kap. 8 och 9 §§.
+
+Om värde av andels- eller ersättningskraft ska bestämmas för
+mottagande taxeringsenhet vid särskild fastighetstaxering, ska
+det föregående årets fastighetstaxering i övrigt lämnas
+oförändrad. Lag (2012:89).
 
 Nytaxeringsgrunder
 
@@ -1690,28 +1697,26 @@ den värdeökning som den återstående skogen undergått på grund
 av tillväxt under den löpande taxeringsperioden.
 Lag (2001:1218).
 
-4 § Ny taxering av taxeringsenhet skall ske om under löpande
+4 § Ny taxering av taxeringsenhet ska ske om under löpande
 taxeringsperiod taxeringsenhetens värde ökat eller minskat
 
 1. genom beslut att anta, ändra eller upphäva en detaljplan
-eller områdesbestämmelser
+eller områdesbestämmelser,
 
 2. genom annat beslut av myndighet om beslutet innebär ändring
-i rätten att förfoga över eller i övrigt använda enheten
+i rätten att förfoga över eller i övrigt använda enheten,
+eller
 
 3. genom att avgift till allmän va-anläggning eller allmän
 fjärrvärmeanläggning (anslutningsavgift) eller ersättning för
-gatukostnader erlagts för enheten
+gatukostnader erlagts för enheten.
 
-4. genom att driftsförhållandena ändrats för ett
-kondenskraftverk.
-
-Ny taxering skall ske endast om taxeringsenhetens
-taxeringsvärde på grund av förändringen bör ändras med minst en
-femtedel, dock minst 25 000 kronor. Om förändringen medför en
-ökning eller minskning av taxeringsvärdet med mindre än 100 000
-kronor skall ny taxering ske endast efter framställning av
-taxeringsenhetens ägare. Lag (2001:1218).
+Ny taxering ska ske endast om taxeringsenhetens taxeringsvärde
+på grund av förändringen bör ändras med minst en femtedel, dock
+minst 25 000 kronor. Om förändringen medför en ökning eller
+minskning av taxeringsvärdet med mindre än 100 000 kronor ska
+ny taxering ske endast efter framställning av taxeringsenhetens
+ägare. Lag (2012:89).
 
 4 a § Ny taxering av taxeringsenhet skall ske om
 taxeringsenhetens värde har förändrats under löpande
@@ -1988,6 +1993,21 @@ eller ombud samt
 6. för annan än här ovan nämnd juridisk person, som inte längre består,
 av den som senast haft att förvalta dess angelägenheter. Lag
 (1988:1283).
+
+2 a § Skyldigheten att lämna deklaration eller annan uppgift
+enligt denna lag får fullgöras genom ett deklarationsombud. I
+fråga om deklarationsombud och beslut om sådant ombud
+tillämpas bestämmelserna i skatteförfarandelagen (2011:1244)
+om
+
+1. behörig företrädare i 4 kap. 1 § och deklarationsombud i
+6 kap. 48 §§,
+
+2. föreläggande i 37 kap. 3 § och 44 kap.,
+
+3. omprövning och överklagande i 66 och 67 kap., samt
+
+4. besluts verkställbarhet i 68 kap. 1 och 3 §§. Lag (2012:89).
 
 3 § Allmän och förenklad fastighetsdeklaration och förslag
 till fastighetstaxering skall avfattas på blankett enligt
@@ -3324,3 +3344,12 @@ den upphävda plan- och bygglagen (1987:10).
 
 2. Den nya bestämmelsen i 17 kap. 7 § tillämpas på kostnader i
 ärenden och mål som inleds efter utgången av 2011.
+
+2012:89
+
+1. Denna lag träder i kraft den 1 april 2012.
+
+2. Bestämmelserna i 2 kap. 2 §, 4 kap. 10 §, 6 kap. 2 och
+14 §§, 7 kap. 16 §, 15 kap. 1, 3 och 12 §§ samt 16 kap. 1 och
+4 §§ i sina nya lydelser tilllämpas första gången vid 2013 års
+fastighetstaxering.
