@@ -1,6 +1,5 @@
 
 
-
 Inledande bestämmelse
 
 1 § Denna förordning gäller utöver personuppgiftslagen
@@ -315,23 +314,29 @@ C Händelser
         - utbetalt belopp
 
 8.      om överklagande:
-        - datum
-        - person som överklagat
-        - vad som överklagats
-        - resultat av överklagande
 
-9.      brottspåföljd eller andra uppgifter som behövs för
+         datum
+
+         person som överklagat
+
+         vad som överklagats
+
+         resultat av överklagande
+
+9.      brottsmisstanke
+
+10.     brottspåföljd eller andra uppgifter som behövs för
         fullgörande av underrättelseskyldighet
 
-10.     samband med andra händelser i det aktuella målet
+11.     samband med andra händelser i det aktuella målet
 
-11.     hänvisning till andra löpnummer
+12.     hänvisning till andra löpnummer
 
-12.     datum för händelseregistrering
+13.     datum för händelseregistrering
 
-13.     målstatus
+14.     målstatus
 
-14.     gallringsbar eller ej
+15.     gallringsbar eller ej
 
 D Planering
 
@@ -363,7 +368,7 @@ F Övriga uppgifter
 
 1.      tekniska och administrativa uppgifter som behövs för att
         tillgodose ändamålen med registret
-Förordning (2003:599).
+Förordning (2012:112).
 
 Bilaga 2
 
