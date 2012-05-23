@@ -45,25 +45,25 @@ av passagerare eller gods,
 
 EG-typgodkännande:
 
--ett förfarande genom vilket en medlemsstat intygar att en
+ ett förfarande genom vilket en medlemsstat intygar att en
 förbränningsmotortyp eller en motorfamilj uppfyller de
 relevanta kraven i Europaparlamentets och rådets direktiv
 97/68/EG av den 16 december 1997 om tillnärmning av
 medlemsstaternas lagstiftning om åtgärder mot utsläpp av gas-
 och partikelformiga föroreningar från förbränningsmotorer som
 ska monteras i mobila maskiner som inte är avsedda att användas
-för transporter på väg, senast ändrat genom kommissionens
-direktiv 2010/26/EU, eller
+för transporter på väg, senast ändrat genom Europaparlamentets
+och rådets direktiv 2011/88/EU, eller
 
--en handling genom vilken en medlemsstat intygar att en
+ en handling genom vilken en medlemsstat intygar att en
 motortyp eller en motorfamilj som en separat teknisk enhet
 eller en traktortyp uppfyller de tekniska kraven i
 Europaparlamentets och rådets direktiv 2000/25/EG av den 22 maj
 2000 om åtgärder mot utsläpp av gas- och partikelformiga
 föroreningar från motorer avsedda för jordbruks- och
 skogsbrukstraktorer och om ändring i rådets direktiv
-74/150/EEG, senast ändrat genom kommissionens direktiv
-2010/22/EU,
+74/150/EEG, senast ändrat genom Europaparlamentets och rådets
+direktiv 2011/87/EU,
 
 motortyp: en kategori av motorer utan inbördes skillnader i
 fråga om väsentliga motoregenskaper,
@@ -78,18 +78,19 @@ sammanlagda årliga produktion uppgår till mindre än 5 000
 motorer,
 
 motorproduktionsdag: den dag när motorn går igenom den sista
-kontrollen efter det att den lämnat produktionsbanan och är
-klar att levereras eller att ställas i lager,
+kontrollen efter det att den lämnat produktionsbanan (på detta
+stadium är motorn klar att levereras eller att ställas i
+lager),
 
 handhållen motor: en motor som ska användas i utrustning som
 
--bärs av operatören eller manövreras i skiftande lägen,
+ bärs av operatören eller manövreras i skiftande lägen,
 
--har en torrvikt som understiger 20 kilogram och som används
+ har en torrvikt som understiger 20 kilogram och som används
 genom att operatören stödjer, bär eller lägeskontrollerar
 utrustningen, eller
 
--är en generator eller pump och hela enheten har en torrvikt
+ är en generator eller pump och hela enheten har en torrvikt
 som understiger 20 kilogram,
 
 hjälpmotor: motor installerad i eller på ett motorfordon, men
@@ -143,7 +144,7 @@ det föregående stegets utsläppsgränsvärden.
 
 I övrigt har termer och uttryck som används i lagen (1998:1707)
 om åtgärder mot buller och avgaser från mobila maskiner samma
-betydelse i denna förordning. Förordning (2011:199).
+betydelse i denna förordning. Förordning (2012:231).
 
 Avgasreningskrav
 
@@ -173,18 +174,7 @@ Förordning (2000:761).
 
 Förfarandet vid EG-typgodkännande i Sverige
 
-4 § /Upphör att gälla U:2011-08-01/
-Transportstyrelsen skall fullgöra uppgifter som
-godkännandemyndighet enligt direktiv 97/68/EG och direktiv
-2000/25/EG. Utseende och anmälan av en teknisk tjänst skall
-dock ske enligt bestämmelserna om anmälda organ enligt lagen
-(1992:1119) om teknisk kontroll.
-
-Transportstyrelsen får meddela föreskrifter om förfarandet
-för EG-typgodkännande. Förordning (2008:1197).
-
-4 § /Träder i kraft I:2011-08-01/
-Transportstyrelsen ska fullgöra uppgifter som
+4 § Transportstyrelsen ska fullgöra uppgifter som
 godkännandemyndighet enligt direktiv 97/68/EG och direktiv
 2000/25/EG. Utseende och anmälan av en teknisk tjänst ska dock
 ske enligt bestämmelserna om anmälda organ enligt lagen
@@ -199,8 +189,8 @@ meddela ett EG-typgodkännande. Förordning (2008:1197).
 
 5 a § Förbränningsmotorer med kompressionständning som är
 avsedda att användas för andra ändamål än framdrivning av
-lokomotiv eller motorvagnar får släppas ut på marknaden inom
-ramen för ett flexibelt system. Förordning (2005:1104).
+motorvagnar får släppas ut på marknaden inom ramen för ett
+flexibelt system. Förordning (2012:231).
 
 Märkning
 
@@ -485,27 +475,39 @@ Kravnivå    Motoreffekt Dag för nya        Dag för registrering
             P (kW)      typgodkännandena   eller utsläppande på
                                            marknadenb
 
-Steg Ic     130=P=560                      30 juni 2001
-            75=P<130    31 december 2000   30 juni 2001
-            37=P<75     31 december 2000   30 juni 2001
+Steg Ic     130<_P<_560                    30 juni 2001
 
-Steg IId    130=P=560   31 december 2000   31 december 2001e
-            75=P<130    31 december 2001   31 december 2002f
-            37=P<75     31 december 2002   31 december 2003
-            18=P<37     31 december 2000   31 december 2001
+            75<_P<130   31 december 2000   30 juni 2001
 
-Steg III A  130<-P<-560 31 december 2005   31 december 2005
-            75<-P<130   31 december 2005   31 december 2006
-            37<-P<75    31 december 2006   31 december 2007
-            19<-P<37    31 december 2005   31 december 2006
+            37<_P<75    31 december 2000   30 juni 2001
 
-Steg III B  130<-P<-560 31 december 2009   31 december 2010
-            75<-P<130  31 december 2010   31 december 2011
-            56<-P<75   31 december 2010   31 december 2011
-            37<-P<56   31 december 2011   31 december 2012
+Steg IId    130<_P<_560 31 december 2000   31 december 2001e
 
-Steg IV     130<-P<-560 31 december 2012   31 december 2013
-            56<-P<130  30 september 2013  30 september 2014
+            75<_P<130   31 december 2001   31 december 2002f
+
+            37<_P<75    31 december 2002   31 december 2003
+
+            18<_P<37    31 december 2000   31 december 2001
+
+Steg III A  130<_P?560  31 december 2005   31 december 2005
+
+            75<_P<130   31 december 2005   31 december 2006
+
+            37<_P<75    31 december 2006   31 december 2007
+
+            19<_P<37    31 december 2005   31 december 2006
+
+Steg III Bg 130<_P<_560 31 december 2009   31 december 2010
+
+            75<_P<130   31 december 2010   31 december 2011
+
+            56<_P<75    31 december 2010   31 december 2011
+
+            37<_P<56    31 december 2011   31 december 2012
+
+Steg IVg    130<_P<_560 31 december 2012   31 december 2013
+
+            56<_P<130   30 september 2013  30 september 2014
 
 a EG-typgodkännande får inte längre meddelas om inte
 avgaskraven för aktuell kravnivå är uppfyllda.
@@ -516,16 +518,23 @@ uppfyllda. För motorer tillverkade före angivet datum ska
 avgaskraven för den aktuella kravnivån skjutas upp med två år.
 
 c Typgodkännanden enligt direktiv 97/68/EG, enligt direktiv
-88/77/EEG eller enligt FN-ECE:s föreskrifter nr 49.02 och nr 96
-ska anses som likvärdiga. Denna giltighet ska dock upphöra med
-verkan från det obligatoriska genomförandet av steg II.
+88/77/EEG eller enligt FN-ECE:s föreskrifter nr 49.02 och nr
+96, ska anses som likvärdiga. Denna giltighet ska dock upphöra
+med verkan från det obligatoriska genomförandet av steg II.
 
-d Typgodkännande enligt direktiv 97/68/EG, steg II ska anses
+d Typgodkännande enligt direktiv 97/68/EG, steg II, ska anses
 som likvärdigt.
 
 e För kompletta traktorer är tidpunkten den 30 juni 2002.
 
 f För kompletta traktorer är tidpunkten den 30 juni 2003.
+
+g För traktorer i kategorierna T2, T4.1 och C2, enligt
+respektive definition i kapitel A punkt A.1 andra strecksatsen,
+kapitel B tillägg 1 del I punkt 1.1 och kapitel A punkt A.2 i
+bilaga II till direktiv 2003/37/EG, ska datumen för steg III B
+och steg IV skjutas upp med tre år. Fram till dessa datum ska
+de krav som anges i steg III A fortsätta att gälla.
 
 2 Gränsvärden
 
@@ -620,7 +629,7 @@ fastställts av Europeiska unionen för typgodkännandet.
 
 Motorn skall uppfylla hållbarhetskrav som stämmer överens med
 de krav som fastställts i den ordning som sägs i 3.
-Förordning (2011:199).
+Förordning (2012:231).
 
 Bilaga 2
 
