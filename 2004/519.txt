@@ -49,10 +49,10 @@ saluföring av produkter och upphävande av förordning (EEG) nr
 339/93,
 
 delsystem: del av järnvägssystem vilken kan hänföras till
-någon av de kategorier av delsystem som förtecknas i bilaga II
-till Europaparlamentets och rådets direktiv 2008/57/EG av den
-17 juni 2008 om driftskompatibiliteten hos järnvägssystemet
-inom gemenskapen,
+någon av de kategorier av delsystem som förtecknas i bilaga
+II till Europaparlamentets och rådets direktiv 2008/57/EG av
+den 17 juni 2008 om driftskompatibiliteten hos
+järnvägssystemet inom gemenskapen,
 
 EES: Europeiska ekonomiska samarbetsområdet,
 
@@ -68,8 +68,8 @@ fordonstyper,
 försäkran om överensstämmelse: sådan försäkran om att ett
 järnvägsfordon överensstämmer med en redan godkänd fordonstyp
 som är utformad i enlighet med kommissionens förordning (EU)
-nr 201/2011 av den 1 mars 2011 om utformningen av försäkran om
-överensstämmelse med en godkänd typ av järnvägsfordon,
+nr 201/2011 av den 1 mars 2011 om utformningen av försäkran
+om överensstämmelse med en godkänd typ av järnvägsfordon,
 
 infrastrukturförvaltare: den som förvaltar
 järnvägsinfrastruktur och driver anläggningar som hör till
@@ -81,9 +81,9 @@ minst en nationsgräns och vars främsta syfte är att befordra
 passagerare mellan stationer i skilda stater inom EES samt
 Schweiz,
 
-järnvägsfordon: drivfordon och annan rullande materiel som kan
-framföras på järnvägsspår och som består av ett eller flera
-delsystem eller delar av delsystem,
+järnvägsfordon: drivfordon och annan rullande materiel som
+kan framföras på järnvägsspår och som består av ett eller
+flera delsystem eller delar av delsystem,
 
 järnvägsföretag: den som med stöd av licens eller särskilt
 tillstånd tillhandahåller dragkraft och utför järnvägstrafik,
@@ -105,20 +105,21 @@ Europaparlamentets och rådets direktiv 2001/14/EG av den 26
 februari 2001 om tilldelning av infrastrukturkapacitet och
 uttag av avgifter för utnyttjande av järnvägsinfrastruktur,
 
-trafikhuvudman: den som är trafikhuvudman enligt lagen
-(1997:734) om ansvar för viss kollektiv persontrafik,
+regional kollektivtrafikmyndighet: den som är regional
+kollektivtrafikmyndighet enligt lagen (2010:1065) om
+kollektivtrafik,
 
 tågläge: den infrastrukturkapacitet som, enligt vad som anges
 i en tågplan, får tas i anspråk för att framföra
-järnvägsfordon, utom arbetsfordon, från en plats till en annan
-under en viss tidsperiod,
+järnvägsfordon, utom arbetsfordon, från en plats till en
+annan under en viss tidsperiod,
 
 tågplan: plan över användning av järnvägsinfrastruktur under
 en viss angiven period,
 
 underhållsansvarig enhet: den enhet som har ansvaret för
 underhållet av ett järnvägsfordon och som är registrerad som
-sådan i fordonsregistret enligt 8 kap. 8 a §. Lag (2011:1118).
+sådan i fordonsregistret enligt 8 kap. 8 a §. Lag (2012:436).
 
 Bemyndigande
 
@@ -513,32 +514,31 @@ stat inom EES eller i Schweiz gäller i Sverige.
 
 Säkerhetsintyg
 
-3 § Säkerhetsintyg skall, uppdelat i en A-del och en B-del,
+3 § Säkerhetsintyg ska, uppdelat i en A-del och en B-del,
 beviljas järnvägsföretag som
 
 1. kan antas komma att uppfylla kraven i 2 kap. 5 § första
 stycket och i föreskrifter om säkerhetsstyrningssystem som
-meddelats med stöd av 2 kap. 14 § 1 (A-del),
+har meddelats med stöd av 2 kap. 25 § 1 (A-del),
 
-1 a. kan antas komma att uppfylla kraven i 2 kap. 1-4 §§ och
-5 § andra stycket samt i föreskrifter som meddelats med stöd av
-2 kap. 14 § 1 (ingår i B-del),
+1 a. kan antas komma att uppfylla kraven i 2 kap. 14 §§ och
+5 § andra stycket samt i föreskrifter som har meddelats med
+stöd av 2 kap. 25 § 1 (ingår i B-del),
 
-2. använder järnvägsfordon som uppfyller kraven i 2 kap. (ingår
-i B-del), samt
-
+2. använder järnvägsfordon som uppfyller kraven i 2 kap.
+(ingår i B-del), och
 3. visar att försäkring eller annat likvärdigt arrangemang
-täcker den skadeståndsskyldighet som kan uppkomma till följd av
-den trafik som säkerhetsintyget gäller (ingår i B-del).
+täcker den skadeståndsskyldighet som kan uppkomma till följd
+av den trafik som säkerhetsintyget gäller (ingår i B-del).
 
-Kraven i första stycket får anpassas till verksamhetens art och
-omfattning. I intyget skall tillsynsmyndigheten ange hur kraven
-anpassats och för vilken verksamhet intyget gäller.
+Kraven i första stycket får anpassas till verksamhetens art
+och omfattning. I intyget ska tillsynsmyndigheten ange hur
+kraven anpassats och vilken verksamhet intyget gäller för.
 
-A-delen av ett säkerhetsintyg utfärdat i en annan stat inom EES
-eller i Schweiz gäller i Sverige om järnvägsföretaget här
+A-delen av ett säkerhetsintyg utfärdat i en annan stat inom
+EES eller i Schweiz gäller i Sverige om järnvägsföretaget här
 ansöker om att få utföra samma typ av transporttjänster som
-prövats i det intyget. Lag (2007:452).
+prövats i det intyget. Lag (2012:445).
 
 Särskilt tillstånd
 
@@ -583,19 +583,19 @@ Säkerhetstillstånd för infrastrukturförvaltare
 anläggningar som hör till infrastrukturen krävs ett
 säkerhetstillstånd. Lag (2007:452).
 
-8 § Säkerhetstillstånd enligt 7 § skall beviljas den som
+8 § Säkerhetstillstånd enligt 7 § ska beviljas den som
 
 1. med hänsyn till yrkeskunnande, ekonomisk förmåga och gott
 anseende kan anses lämplig att förvalta järnvägsinfrastruktur
 och driva anläggningar som hör till infrastrukturen, samt
 
-2. kan antas komma att uppfylla kraven i 2 kap. 1-5 §§ och i
-föreskrifter som meddelats med stöd av 2 kap. 14 § 1.
+2. kan antas komma att uppfylla kraven i 2 kap. 15 §§ och i
+föreskrifter som har meddelats med stöd av 2 kap. 25 § 1.
 
-Kraven i första stycket får anpassas till verksamhetens art och
-omfattning. I tillståndet skall tillsynsmyndigheten ange hur
-kraven anpassats och för vilken verksamhet tillståndet gäller.
-Lag (2007:452).
+Kraven i första stycket får anpassas till verksamhetens art
+och omfattning. I tillståndet ska tillsynsmyndigheten ange
+hur kraven anpassats och för vilken verksamhet tillståndet
+gäller. Lag (2012:445).
 
 Villkor, giltighetstid och omprövning
 
