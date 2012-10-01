@@ -4,43 +4,26 @@ Definitioner
 
 1 § I denna förordning avses med
 
-1. Schablonberäkningsområde: Ett område där den samlade
-inmatningen och det samlade uttaget av el skall mätas och
-beräknas. Ett schablonberäkningsområde får bara omfatta
-ledningsnät som omfattas av nätkoncession för område och
-ledningar som organisatoriskt och tekniskt ingår i ett sådant
-nät.
+1. Schablonberäkningsområde: Ett område där den samlade inmatningen och det samlade uttaget av el ska mätas och beräknas. Ett schablonberäkningsområde får bara omfatta ledningsnät som omfattas av nätkoncession för område och ledningar som organisatoriskt och tekniskt ingår i ett sådant nät.
 
-2. Inmatningspunkt: Den punkt där en elproduktionsanläggning
-för in el i ett schablonberäkningsområde respektive ledning som
-omfattas av nätkoncession för linje (region- eller
-stamledning).
+2. Inmatningspunkt: Den punkt där en elproduktionsanläggning för in el i ett schablonberäkningsområde respektive ledning som omfattas av nätkoncession för linje (region- eller stamledning).
 
-3. Uttagspunkt: Den punkt där en elanvändare tar ut el för
-förbrukning.
+3. Uttagspunkt: Den punkt där en elanvändare tar ut el för förbrukning.
 
 4. Gränspunkt: Den punkt där
 
 a. olika schablonberäkningsområden ansluter till varandra,
 
-b. schablonberäkningsområde ansluter till ledning med
-nätkoncession för linje (region- eller stamnät),
+b. schablonberäkningsområde ansluter till ledning med nätkoncession för linje (region- eller stamnät),
 
-c. ledningsnät med nätkoncession för linje (region- eller
-stamnät), som har olika nättariffer, ansluter till varandra,
-eller
+c. ledningsnät med nätkoncession för linje (region- eller stamnät), som har olika nättariffer, ansluter till varandra, eller
 
-d. nätkoncessionsområden eller ledningsnät med nätkoncession
-för linje (region- eller stamnät) som har olika nättariffer
-ansluter till varandra.
+d. nätkoncessionsområden eller ledningsnät med nätkoncession för linje (region- eller stamnät) som har olika nättariffer ansluter till varandra.
 
-5. Förbrukningsprofil: Den totala mängd el som registreras per
-timme i schablonberäkningsområdet med avdrag för sådan
-förbrukning och produktion som avräknas efter timregistrerande
-mätning och rapportering.
+5. Förbrukningsprofil: Den totala mängd el som registreras per timme i schablonberäkningsområdet för sådan förbrukning i uttagspunkter vars mätvärden rapporteras månadsvis, samt nätförluster.
 
-6. Andelstal: Den andel av en förbrukningsprofil som belöper på
-varje elleverantör, elproducent och balansansvarig.
+6. Andelstal: Den andel av en förbrukningsprofil som belöper på varje elleverantör, elproducent och balansansvarig.
+Förordning (2012:511).
 
 Allmänna bestämmelser
 
@@ -91,20 +74,14 @@ nätkoncessionshavarna inte kan komma överens i frågan.
 
 Nätmyndighetens beslut får inte överklagas.
 
-6 § Mätning i uttagspunkt och inmatningspunkt skall, för de
-elanvändare och elproducenter som inte omfattas av bestämmelsen
-i 3 kap. 10 § andra stycket ellagen, avse överförd el under
-varje timme. Mätning i gränspunkt skall avse överförd el under
-varje timme.
+6 § Mätning i uttagspunkt och inmatningspunkt ska, för de elanvändare och elproducenter som inte omfattas av 3 kap. 10 § andra stycket ellagen (1997:857), avse överförd el under varje timme. Mätning i gränspunkt ska avse överförd el under varje timme.
 
-Om en elproducent eller elanvändare begär det, skall mätningen
-i inmatningspunkten respektive uttagspunkten ske med kortare
-tidsintervall än en timme.
+Om en elproducent eller elanvändare begär det, ska mätningen i inmatningspunkten respektive uttagspunkten ske med kortare tidsintervall än en timme.
 
-Om en nätkund som omfattas av bestämmelsen i 3 kap. 10 § andra
-stycket ellagen begär annan mätning än den
-nätkoncessionshavaren tillämpar skall nätkoncessionshavaren
-utföra sådan mätning.
+Om en elanvändare som omfattas av 3 kap. 10 § andra stycket ellagen begär annan mätning än den nätkoncessionshavaren tillämpar ska nätkoncessionshavaren utföra sådan mätning.
+
+Om elanvändaren enligt 3 kap. 11 § andra stycket ellagen ingått ett avtal om leverans av el som förutsätter att den överförda elen ska mätas varje timme, ska mätning i uttagspunkten ske med registrering per timme. Rapporteringen av mätresultaten för uttagspunkten får ske enligt 8 och 9 §§ eller 15–18 a §§.
+Förordning (2012:511).
 
 7 § Styrelsen för ackreditering och teknisk kontroll meddelar
 föreskrifter om krav på och kontroll av mätutrustning och
@@ -250,9 +227,12 @@ inmatning.
 samlade produktionen per balansansvarig skall rapporteras till
 Affärsverket svenska kraftnät.
 
-16 § Mätresultatet i en uttagspunkt för en elanvändare som
-ingår i en förbrukningsprofil skall avse överförd el under
-högst en kalendermånad. Förordning (2006:1590).
+16 § Mätresultatet i en uttagspunkt som ingår i en förbrukningsprofil ska rapporteras per månad och avse
+
+1. mätvärden registrerade per timme för de uttagspunkter för vilka elanvändaren enligt 3 kap. 11 § andra stycket ellagen (1997:857) ingått ett avtal om leverans av el som förutsätter att den överförda elen mäts på detta sätt, och
+
+2. mätvärden registrerade under högst en kalendermånad i övriga fall.
+Förordning (2012:511).
 
 17 § Nätkoncessionshavare skall rapportera mätresultat enligt
 16 § till
@@ -278,6 +258,15 @@ inmatning,
 
 5. Affärsverket svenska kraftnät avseende den samlade
 förbrukningen respektive produktionen per balansansvarig.
+
+18 a § Nätkoncessionshavare får i stället för att rapportera enligt 8 och 9 §§ månadsvis rapportera samlade timmätvärden för den del av förbrukningsprofilen inom schablonberäkningsområdet som registreras per timme till
+
+1. den elleverantör som levererat el i uttagspunkterna,
+
+2. den som är balansansvarig för leverans av el i uttagspunkterna, och
+
+3. Affärsverket svenska kraftnät per balansansvarig.
+Förordning (2012:511).
 
 19 § Nätmyndigheten får meddela föreskrifter om tidpunkter för
 avläsning och rapportering, utformningen av rapporter samt
@@ -310,3 +299,7 @@ Förordning (2011:964).
 
 Denna förordning träder i kraft den 1 februari 2007. Äldre
 lydelse av 16 § får tillämpas till och med den 30 juni 2009.
+
+2012:511
+
+Denna förordning träder i kraft den 1 april 2013 i fråga om 18 a § och i övrigt den 1 oktober 2012.
