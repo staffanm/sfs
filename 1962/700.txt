@@ -72,7 +72,7 @@ föreskrivet för brottet enligt lagen på gärningsorten.
 
 De inskränkningar av svensk domsrätt som anges i andra och
 tredje styckena gäller inte för brott som avses i 6 kap.
-16 §§, 8 § tredje stycket och 12 § eller försök till sådana
+1-6 §§, 8 § tredje stycket och 12 § eller försök till sådana
 brott, om brottet begåtts mot en person som inte fyllt arton
 år. Inte heller gäller inskränkningarna för brott som avses i
 4 kap. 1 a § eller 16 kap. 10 a § första stycket 1 och femte
@@ -2113,7 +2113,7 @@ böter eller fängelse i högst sex månader.
 Med barn avses en person vars pubertetsutveckling inte är
 fullbordad eller som är under arton år. Är
 pubertetsutvecklingen fullbordad, ska ansvar för gärning
-enligt första stycket 25 dömas ut bara om det av bilden
+enligt första stycket 2-5 dömas ut bara om det av bilden
 och omständigheterna kring den framgår att den avbildade
 personen är under arton år.
 
@@ -2665,14 +2665,16 @@ brott mot tystnadsplikt till böter eller fängelse i högst ett år.
 Den som av oaktsamhet begår gärning som avses i första stycket, dömes till
 böter. I ringa fall skall dock ej dömas till ansvar. Lag (1980:102).
 
-4 § Den som har valts till sådant uppdrag hos staten eller hos en kommun
-med vilket följer myndighetsutövning får av rätten skiljas från uppdraget,
-om han har begått brott för vilket är stadgat fängelse i två år eller
-däröver och han genom brottet har visat sig uppenbarligen olämplig att
-inneha uppdraget.
+4 § Den som har valts till sådant uppdrag hos staten eller hos
+en kommun med vilket följer myndighetsutövning får av rätten
+skiljas från uppdraget, om han har begått brott för vilket är
+stadgat fängelse i två år eller däröver och han genom brottet
+har visat sig uppenbarligen olämplig att inneha uppdraget.
 
-Med uppdrag hos staten eller hos kommun likställs uppdrag hos andra
-sådana arbetsgivare som avses i 2 § andra stycket 1. Lag (1988:942).
+Med uppdrag hos staten eller hos kommun likställs uppdrag hos
+styrelse, verk, nämnd, kommitté eller annan sådan myndighet som
+hör till staten eller till kommun, landsting eller
+kommunalförbund. Lag (2012:625).
 
 5 § Utan hinder av vad som annars är föreskrivet får åklagare
 åtala brott varigenom följande personer har åsidosatt vad som
@@ -2691,7 +2693,7 @@ inom totalförsvaret, m.m. eller som annars fullgör lagstadgad
 tjänsteplikt,
 
 5. den som utan att inneha anställning eller uppdrag som avses
-i 14 utövar myndighet.
+i 1-4 utövar myndighet.
 
 Utan hinder av bestämmelserna i första stycket ska dock gälla
 
@@ -2945,7 +2947,7 @@ civilpersoner att tjänstgöra hos deras motparts väpnade
 styrkor eller att i strid mot folkrätten beröva civilpersoner
 friheten,
 
-7. att, i andra fall än som anges i 16, godtyckligt och i
+7. att, i andra fall än som anges i 1-6, godtyckligt och i
 stor omfattning förstöra eller tillägna sig egendom som
 åtnjuter ett särskilt folkrättsligt skydd.
 
@@ -2980,7 +2982,7 @@ döms, om gärningen inte är att bedöma som folkrättsbrott, för
 olovlig befattning med kemiska vapen till fängelse i högst
 fyra år.
 
-Som kemiska vapen enligt första stycket 13 ska anses sådant
+Som kemiska vapen enligt första stycket 1-3 ska anses sådant
 som definieras som kemiska vapen i Förenta nationernas
 konvention om förbud mot utveckling, produktion, innehav och
 användning av kemiska vapen samt om deras förstöring.
@@ -4571,10 +4573,10 @@ Vid brott som avses i följande bestämmelser ska de i 1 §
 bestämda tiderna räknas från den dag målsäganden fyller eller
 skulle ha fyllt arton år:
 
-1. 6 kap. 46 §§ och 8 § tredje stycket eller försök till
+1. 6 kap. 4-6 §§ och 8 § tredje stycket eller försök till
 sådana brott,
 
-2. 6 kap. 13 och 12 §§ eller försök till sådana brott, om
+2. 6 kap. 1-3 och 12 §§ eller försök till sådana brott, om
 brottet begåtts mot en person som inte fyllt arton år,
 
 3. 16 kap. 10 a § första och femte styckena eller försök till
