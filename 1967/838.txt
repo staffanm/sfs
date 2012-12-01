@@ -1,6 +1,5 @@
 
 
-
 Patentansökan och diarium
 
 1 § Svensk patentansökan ges in till patent- och
@@ -67,8 +66,7 @@ om grunden för sökandens rätt.
 Ansökningsavgiften som föreskrivs i 45 § skall betalas i
 samband med ansökan. Förordning (2007:519).
 
-2 a § /Träder i kraft I:2008-08-01/
-En patentansökan får överföras elektroniskt till
+2 a § En patentansökan får överföras elektroniskt till
 Patentverket. Den ska i sådana fall vara undertecknad med en
 elektronisk signatur. Patentverket får meddela föreskrifter om
 elektronisk överföring av patentansökningar till Patentverket.
@@ -91,18 +89,7 @@ Patentverket får ta upp en ansökan till prövning innan
 lämna in översättningen innan ansökningen blir allmänt tillgänglig
 enligt 22 § patentlagen. Förordning (1993:1312).
 
-4 § /Upphör att gälla U:2008-08-01/
-Beskrivningen, patentkraven och sammandraget skall vara
-utförda i svart maskinskrift eller svart tryck på vitt papper i
-format A 4 (210 ¥ 297 mm). Ritningar skall vara utförda med
-mörka, företrädesvis svarta linjer mot ljus, företrädesvis vit
-botten på hållbart material i format A 4. Beskrivningen och
-därtill hörande ritningar liksom patentkraven och sammandraget
-skall vara utförda i form som lämpar sig för mångfaldigande.
-Förordning (2007:519).
-
-4 § /Träder i kraft I:2008-08-01/
-Beskrivningen, patentkraven och sammandraget ska vara
+4 § Beskrivningen, patentkraven och sammandraget ska vara
 utförda med svart text i standardtypsnitt mot vit bakgrund.
 Ritningar ska vara utförda med mörka, företrädesvis svarta
 linjer mot ljus, företrädesvis vit bakgrund. Beskrivningen och
@@ -142,7 +129,7 @@ sökandens vetskap om ursprunget påverkar inte prövningen av
 ansökan eller de rättigheter som följer av ett meddelat patent.
 Förordning (2004:162).
 
-6 §  Har upphävts genom förordning (2007:519).
+6 § Har upphävts genom förordning (2007:519).
 
 7 § Patentverket för diarium över inkomna patentansökningar.
 
@@ -152,62 +139,68 @@ I diariet antecknas för varje ansökan
 
 1. ansökans diarienummer,
 
-2. de klasser till vilka ansökan hänförts,
+2. ansvarig handläggare,
 
-3. ansvarig handläggare,
+3. sökandens namn och adress,
 
-4. sökandens namn och adress,
+4. om sökanden företräds av ombud, ombudets namn och adress,
 
-5. om sökanden företräds av ombud, ombudets namn och adress,
-
-6. uppfinnarens namn och adress,
-
-7. uppfinningens benämning,
-
-8. uppgift om ansökan är en svensk patentansökan, en
+5. uppgift om ansökan är en svensk patentansökan, en
 internationell patentansökan eller en omvandlad europeisk
 patentansökan,
 
-9. om ansökan är en svensk patentansökan, ansökans
+6. om ansökan är en svensk patentansökan, ansökans
 ingivningsdag enligt 8 b eller 8 c § patentlagen (1967:837),
 
-10. om ansökan är en internationell patentansökan, den
+7. om ansökan är en internationell patentansökan, den
 internationella ingivningsdagen samt den dag ansökan
 fullföljdes enligt 31 § patentlagen eller kom in enligt 38 §
 samma lag,
 
-11. om ansökan är en omvandlad europeisk patentansökan, den dag
-ansökan gavs in för handläggning enligt den europeiska
+8. om ansökan är en omvandlad europeisk patentansökan, den
+dag ansökan gavs in för handläggning enligt den europeiska
 patentkonventionen eller, i förekommande fall, den dag som
-fastställts som ingivningsdag för den europeiska patentansökan
-samt den dag ansökan kom in till Patentverket för omvandling,
+fastställts som ingivningsdag för den europeiska
+patentansökan samt den dag ansökan kom in till Patentverket
+för omvandling,
 
-12. om prioritet begärts, var den åberopade tidigare ansökan
+9. om prioritet begärts, var den åberopade tidigare ansökan
 getts in, dagen för denna ansökan och ansökans nummer,
 
-13. om ansökan har erhållits genom delning eller utbrytning,
+10. om ansökan har erhållits genom delning eller utbrytning,
 stamansökans diarienummer,
 
-14. om det genom delning eller utbrytning från ansökan har
+11. om det genom delning eller utbrytning från ansökan har
 uppkommit en ny ansökan, den avdelade eller utbrutna ansökans
 diarienummer,
 
-15. om ansökan blivit allmänt tillgänglig enligt 22 § tredje
+12. om ansökan blivit allmänt tillgänglig enligt 22 § tredje
 stycket patentlagen, dagen för detta,
 
-16. om panträtt upplåtits i ansökan, dagen för pantupplåtelsen,
-dagen för ansökan om registrering samt panthavarens namn och
-adress,
+13. om panträtt upplåtits i ansökan, dagen för
+pantupplåtelsen, dagen för ansökan om registrering samt
+panthavarens namn och adress,
 
-17. om ansökan är en internationell patentansökan, det
+14. om ansökan är en internationell patentansökan, det
 internationella ansökningsnumret,
 
-18. om ansökan är en omvandlad europeisk patentansökan, den
+15. om ansökan är en omvandlad europeisk patentansökan, den
 europeiska patentansökans nummer,
 
-19. i ärendet inkomna skrifter och betalade avgifter, och
+16. i ärendet inkomna skrifter och betalade avgifter, och
 
-20. i ärendet fattade beslut. Förordning (2007:519).
+17. i ärendet fattade beslut.
+
+När ansökningshandlingarna i patentärendet blivit allmänt
+tillgängliga enligt 22 § patentlagen ska i diariet för varje
+ansökan antecknas
+
+1. de klasser till vilka ansökan hänförts,
+
+2. uppfinnarens namn och adress, och
+
+3. uppfinningens benämning.
+Förordning (2011:449).
 
 8 § Har upphävts genom förordning (2007:1120).
 
@@ -607,7 +600,14 @@ patentverket anlita sakkunnig, som ej är anställd hos verket.
 eller dylikt eller att låta utföra undersökning eller försök, om så
 behövs för bedömning av den patentsökta uppfinningen.
 
-29 §  Har upphävts genom förordning (2007:838).
+29 § Den som söker patent på en uppfinning, som han eller hon
+har sökt patent på vid en utländsk patentmyndighet, ska
+redovisa vad den myndigheten har upplyst honom eller henne i
+fråga om uppfinningens nyhet eller patenterbarhet i övrigt.
+Patentverket får förelägga sökanden att ge in en bestyrkt
+avskrift av vad som på så sätt upplysts eller en försäkran om
+att något besked inte har lämnats i sådant avseende.
+Förordning (2009:1155).
 
 29 a § När Patentverket bedömer att patent kan meddelas, skall
 verket, innan underrättelse enligt 19 § första stycket patentlagen
@@ -1052,23 +1052,23 @@ Diarium över europeiska patentansökningar
 
 59 § Patentverket för ett särskilt diarium över europeiska
 patentansökningar beträffande vilka översättning som avses i
-88 § patentlagen (1967:837) har kommit in till patentverket.
+88 § patentlagen (1967:837) har kommit in till Patentverket.
 Diariet är tillgängligt för allmänheten.
 
 I diariet antecknas för varje ansökan dess nummer vid det
 europeiska patentverket, sökandens namn och adress samt dagen
 då översättningen eller rättelse av översättningen kom in
 liksom om översättningen eller rättelsen har kungjorts. I
-övrigt antecknas den dag som fastställts som ingivningsdag för
-ansökningen, sådana uppgifter som avses i 7 § tredje stycket
-5-7, 12 och 16 samt om ansökningen är en europeisk avdelad
-ansökan.
+övrigt antecknas den dag som fastställts som ingivningsdag
+för ansökningen, uppfinnarens namn och adress, uppfinningens
+benämning, sådana uppgifter som avses i 7 § tredje stycket 4,
+9 och 13 samt om ansökningen är en europeisk avdelad ansökan.
 
 Om det ges in en översättning som avses i 82 § första stycket
 patentlagen, ska detta antecknas i diariet liksom om
 översättningen har kungjorts. Detsamma gäller rättelse av en
-sådan översättning som kommer in innan patentet har antecknats
-i patentregistret. Förordning (2008:130).
+sådan översättning som kommer in innan patentet har
+antecknats i patentregistret. Förordning (2011:449).
 
 Översättning av europeiskt patent och europeisk patentansökan
 
@@ -1214,90 +1214,115 @@ Avgift till patentmyndigheten enligt 36 eller 37 § patentlagen  1 000
 Återupptagningsavgift enligt 15 § tredje stycket eller 19 §
 andra stycket patentlagen                                         500
 
-Meddelandeavgift enligt 19 § andra stycket patentlagen och
-avgift enligt 82 § patentlagen:
+Meddelandeavgift enligt 19 § andra stycket patentlagen
+och avgift enligt 82 § patentlagen:
 
-Grundavgift för offentliggörande                                1 100
+Grundavgift för offentliggörande                        1 400
 
-- tilläggsavgift för offentliggörande för varje påbörjad
-sida som ansökan omfattar utöver åtta sidor (antalet sidor
-beräknas efter publiceringsformat)                                155
+- tilläggsavgift för offentliggörande för varje
+  påbörjad sida som ansökan omfattar utöver åtta
+  sidor (antalet sidor beräknas efter
+  publiceringsformat)                                     175
 
 - tilläggsavgift för varje patentkrav, som tillkommit
-efter ingivningsdagen för ansökan, om antalet krav därmed
-överstiger det antal för vilket ansökningsavgift har
-betalats                                                          150
+  efter ingivningsdagen för ansökan, om antalet krav
+  därmed överstiger det antal för vilket
+  ansökningsavgift har betalats                           150
 
-Avgift för ändring av översättning som getts in enligt 60 §       900
+Avgift för ändring av översättning som getts in
+enligt 60 §                                               900
 
-Förklaringsavgift enligt 72 § patentlagen                         500
+Förklaringsavgift enligt 72 § patentlagen               1 000
 
-Avgift enligt 88 § första stycket eller 91 § andra stycket
-patentlagen                                                       200
+Avgift enligt 88 § första stycket eller 91 § andra
+stycket patentlagen                                       500
 
-Registreringsavgift enligt 104 § patentlagen                      500
-
+Registreringsavgift enligt 104 § patentlagen              500
 
 Avdelning B
 
-Årsavgifter för patentansökningar och patent skall erläggas med
+Årsavgifter för patentansökningar och patent ska betalas med
 följande belopp
 
-År      Kronor
-1       200
-2       250
-3       350
-4       700
-5       900
-6       1 100
-7       1 350
-8       1 600
-9       1 900
-10      2 250
-11      2 500
-12      2 700
-13      2 850
-14      3 050
-15      3 300
-16      3 550
-17      3 800
-18      4 050
-19      4 300
-20      4 500
+År                      Kronor
 
-Årsavgift, som enligt 41 § tredje stycket eller 42 § tredje
-stycket patentlagen erläggs senare än när årsavgiften förföll
-till betalning, utgår med 20 procents förhöjning.
+1                       300
 
+2                       450
+
+3                       550
+
+4                       1 000
+
+5                       1 300
+
+6                       1 600
+
+7                       1 800
+
+8                       2 200
+
+9                       2 500
+
+10                      2 800
+
+11                      3 100
+
+12                      3 400
+
+13                      3 800
+
+14                      4 100
+
+15                      4 400
+
+16                      4 700
+
+17                      5 000
+
+18                      5 400
+
+19                      5 700
+
+20                      6 000
+
+En årsavgift, som enligt 41 § tredje stycket eller 42 § tredje
+stycket patentlagen betalas senare än när den förföll till
+betalning, ska höjas med 20 procent.
 
 Avdelning C
 
-I ärende rörande meddelat patent utgår följande avgifter        Kronor
+I ärenden om meddelat patent utgår följande avgifter
 
-Förklaringsavgift enligt 72 § patentlagen                       500
+                                                        Kronor
 
-Registreringsavgift enligt 104 § patentlagen                    500
+Förklaringsavgift enligt 72 § patentlagen               1 000
+
+Registreringsavgift enligt 104 § patentlagen              500
 
 Ansökan om anteckning
-av ny eller ändrad innehavare                                   300
-av licens                                                       300
-av adressändring                                                300
+
+av ny eller ändrad innehavare                             500
+
+av licens                                                 500
+
+av adressändring                                          500
 
 Ansökan om begränsning eller upphävande av patent
-enligt 40 a § patentlagen                                       8 500
+enligt 40 a § patentlagen                               8 500
 
+Avdelning D                                             Kronor
 
-Avdelning D                                                     Kronor
+Avgift för ansökan om tilläggsskydd enligt 105 §
+första stycket patentlagen                              5 000
 
-Avgift för ansökan om tilläggsskydd enligt 105 § första
-stycket patentlagen                                             5 000
+Avgift för ansökan om förlängd giltighetstid för
+ett tilläggsskydd enligt 105 § första stycket
+patentlagen                                             3 000
 
-Avgift för ansökan om förlängd giltighetstid för ett
-tilläggsskydd enligt 105 § första stycket patentlagen           3 000
-
-Årsavgifter för tilläggsskydd enligt 105 § andra stycket
-patentlagen, för varje påbörjat år                              10 000
-Förordning (2007:519).
+Årsavgifter för tilläggsskydd enligt 105 § andra
+stycket patentlagen, för varje påbörjat år              10 000
+Förordning (2012:620).
 
 Övergångsbestämmelser
 
@@ -1462,3 +1487,26 @@ lydelse.
 beträffande vilka kungörelse om att patentet meddelats
 publicerats i den europeiska patenttidningen efter
 ikraftträdandet.
+
+2009:1155
+
+1. Denna förordning träder i kraft den 1 januari 2010.
+
+2. Föreskrifterna i avdelning B i bilagan gäller även
+årsavgift för avgiftsår som börjat löpa före ikraftträdandet
+om avgiften förfaller till betalning efter denna tidpunkt. Om
+årsavgiften har betalats i förskott gäller dock äldre
+föreskrifter.
+
+2011:449
+
+Denna förordning träder i kraft den 1 juli 2011. Äldre
+bestämmelser tillämpas för patentansökningar som inkommit
+före ikraftträdandet.
+
+2012:620
+
+1. Denna förordning träder i kraft den 1 december 2012.
+
+2. Äldre föreskrifter gäller för årsavgifter som betalas före
+den 1 december 2012.
