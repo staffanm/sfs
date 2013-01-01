@@ -44,8 +44,8 @@ Läkemedelsförmånernas innehåll
 
 5 § Med läkemedelsförmåner enligt denna lag avses ett skydd
 mot höga kostnader vid inköp av sådana förmånsberättigade
-varor som avses i 15 och 18 §§. Förmånerna innebär en
-reducering av den enskildes kostnader för sådana varor.
+varor som avses i 15-18 §§. Förmånerna innebär en reducering
+av den enskildes kostnader för sådana varor.
 
 Kostnadsreduceringen beräknas på den sammanlagda kostnaden för
 varor som den förmånsberättigade köper under ett år räknat
@@ -53,36 +53,44 @@ från det första inköpstillfället. Reduceringen lämnas vid
 varje inköpstillfälle på grundval av den sammanlagda kostnaden
 för de dittills och vid tillfället inköpta varorna.
 
-Så länge den sammanlagda kostnaden inte överstiger 1
-100 kronor lämnas ingen kostnadsreducering. När den
+Den förmånsberättigade ska under ettårsperioden sammanlagt
+inte betala mer än ett belopp som motsvarar 0,05 gånger
+prisbasbeloppet enligt 2 kap. 6 och 7 §§
+socialförsäkringsbalken, avrundat nedåt till närmaste
+femtiotal kronor (kostnadstaket).
+
+Så länge den sammanlagda kostnaden för varor enligt andra
+stycket inte överstiger ett belopp som motsvarar 0,5 gånger
+kostnadstaket lämnas ingen kostnadsreducering. När den
 sammanlagda kostnaden överstiger detta belopp, utgör
 kostnadsreduceringen
 
-1. 50 procent av den del som överstiger 1 100 kronor men inte
-2 100 kronor,
+1. 50 procent av den del som överstiger 0,5 gånger men inte
+0,954 gånger kostnadstaket,
 
-2. 75 procent av den del som överstiger 2 100 kronor men inte
-3 900 kronor,
+2. 75 procent av den del som överstiger 0,954 gånger men inte
+1,773 gånger kostnadstaket, och
 
-3. 90 procent av den del som överstiger 3 900 kronor men inte
-5 400 kronor, samt
+3. 90 procent av den del som överstiger 1,773 gånger men inte
+2,454 gånger kostnadstaket.
 
-4. hela den del av den sammanlagda kostnaden som överstiger
-5 400 kronor.
+När den sammanlagda kostnaden överstiger ett belopp som
+motsvarar 2,454 gånger kostnadstaket är den förmånsberättigade
+befriad från att betala ytterligare kostnader under den
+resterande delen av ettårsperioden.
 
-Vad som sägs i andra och tredje styckena gäller inte för
-sådana varor som avses i 18 § 3, som är kostnadsfria enligt
-19 §.
+Vad som sägs i andra-femte styckena gäller inte för varor som
+avses i 18 § 3, som är kostnadsfria enligt 19 §.
 
 Har en förälder eller har föräldrar gemensamt flera barn under
-18 år i sin vård, tillämpas bestämmelserna i andra och tredje
+18 år i sin vård, tillämpas bestämmelserna i andra-femte
 styckena gemensamt för barnen. Kostnadsreducering gäller under
 ett år räknat från första inköpstillfället även för barn som
 under denna tid fyller 18 år. Med förälder avses även
-fosterförälder. Som förälder räknas även den som en förälder
-stadigvarande sammanbor med och som är eller har varit gift
-med eller har eller har haft barn med föräldern.
-Lag (2011:1577).
+familjehemsförälder. Som förälder räknas även den som en
+förälder stadigvarande sammanbor med och som är eller har
+varit gift med eller har eller har haft barn med föräldern.
+Lag (2012:927).
 
 6 § Föreskrifterna i 5 § tillämpas i fråga om ett läkemedel som
 ingår i läkemedelsförmånerna om det har förskrivits för
@@ -192,8 +200,7 @@ läkemedelsförmånerna utan hinder av att inköpspris och
 försäljningspris inte har fastställts för läkemedlet.
 Lag (2009:373).
 
-16 a § /Träder i kraft I:2013-01-01/
-Ett receptbelagt läkemedel mot en smittsam sjukdom
+16 a § Ett receptbelagt läkemedel mot en smittsam sjukdom
 (vaccin) får inte ingå i läkemedelsförmånerna, om sjukdomen
 omfattas av ett nationellt vaccinationsprogram enligt
 smittskyddslagen (2004:168) och vaccinet är avsett för samma
@@ -409,3 +416,10 @@ flyttar inom gemenskapen.
 2. Äldre föreskrifter gäller fortfarande för inköp av
 förmånsberättigade varor, om det första inköpstillfället
 inträffat före den 1 januari 2012.
+
+2012:927
+
+1. Denna lag träder i kraft den 1 januari 2013.
+
+2. Äldre föreskrifter gäller fortfarande för kostnadsbefrielse
+som har uppkommit före den 1 januari 2013.
