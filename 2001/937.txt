@@ -15,89 +15,39 @@ betydelse som i dessa lagar.
 
 2 § I förordningen finns bestämmelser om
 
- riksnormen och skälig levnadsnivå avseende särskilda
+- riksnormen och skälig levnadsnivå avseende särskilda
 boendeformer för äldre (2 kap.),
 
- vad som avses med hem för vård eller boende och familjehem
+- vad som avses med hem för vård eller boende och familjehem
 (3 kap. 1 och 2 §§),
 
- verksamheten vid hem för vård eller boende (3 kap. 39 §§),
+- verksamheten vid hem för vård eller boende (3 kap. 3-9 §§),
 
- inskrivning i och utskrivning från hem för vård eller
-boende (3 kap. 1016 §§),
+- inskrivning i och utskrivning från hem för vård eller
+boende (3 kap. 10-16 §§),
 
- hem som drivs av Statens institutionsstyrelse (3 kap. 17
+- hem som drivs av Statens institutionsstyrelse (3 kap. 17
 och 18 §§),
 
- vissa tillsynsfrågor som gäller barn och unga (3 kap. 19
+- vissa tillsynsfrågor som gäller barn och unga (3 kap. 19
 och 20 §§),
 
- tillståndspliktig verksamhet och verksamhet som står under
+- tillståndspliktig verksamhet och verksamhet som står under
 Socialstyrelsens tillsyn (4 kap.),
 
- vissa uppgifter för socialnämnden (5 kap.),
+- vissa uppgifter för socialnämnden (5 kap.),
 
- avgifter vid vissa stöd- och hjälpinsatser samt vid vård av
+- avgifter vid vissa stöd- och hjälpinsatser samt vid vård av
 barn (6 kap.),
 
- sammanställningar av personuppgifter och gallring (7 kap.),
+- sammanställningar av personuppgifter och gallring (7 kap.),
 
- vissa bemyndiganden (8 kap.). Förordning (2009:1142).
+- vissa bemyndiganden (8 kap.). Förordning (2009:1142).
 
 2 kap. Riksnormen och skälig levnadsnivå avseende särskilda
 boendeformer för äldre
 
-1 § /Upphör att gälla U:2013-01-01/
-Riksnormen för beräkning av skäliga kostnader enligt 4 kap.
-3 § första stycket 1 socialtjänstlagen (2001:453) grundar sig
-på Konsumentverkets senaste pris- och konsumtionsundersökningar
-och delas upp på olika hushållstyper och åldersintervaller.
-
-Riksnormen för ett hushåll under 2012 utgör summan av de
-personliga kostnaderna för samtliga medlemmar i hushållet och
-de gemensamma hushållskostnaderna beräknade enligt följande
-tabeller.
-
-Personliga kostnader i kronor per hemmavarande barn och
-skolungdom
-
-ej lunch 5 dagar/vecka
-
-under 1 år      12 år          3 år            46 år
-
-1 590           1 780           1 530           1 710
-
-med lunch
-
-under     12 år   3 år   46 år   710   1114   1518   1920
-1 år                               år     år      år      år
-
-1 720     1 960    1 710  1 960    2 390  2 810   3 220   3 250
-
-Personliga kostnader i kronor  vuxna
-
-Ensamstående            Sambor
-
-2 920                   5 270
-
-Gemensamma hushållskostnader i kronor  medlemmar i hushållet
-
-1 pers.  2 pers.  3 pers.  4 pers.  5 pers.  6 pers.  7 pers.
-
-920      1 030    1 300    1 480    1 690    1 930    2 100
-
-För hushåll med fler än 7 personer beräknas kostnaden för
-varje tillkommande hushållsmedlem som skillnaden mellan
-hushåll med 6 respektive 7 personer.
-
-För en vuxen person som inte är att anse som sambo, men som
-ingår i hushållsgemenskap med flera personer, beräknas normen
-såsom personliga kostnader för ensamstående plus kvoten av de
-gemensamma kostnaderna för hushållet och antalet medlemmar i
-hushållet. Förordning (2011:1604).
-
-1 § /Träder i kraft I:2013-01-01/
-Riksnormen för beräkning av skäliga kostnader enligt 4 kap.
+1 § Riksnormen för beräkning av skäliga kostnader enligt 4 kap.
 3 § första stycket 1 socialtjänstlagen (2001:453) grundar sig
 på Konsumentverkets senaste pris- och konsumtionsundersökningar
 och delas upp på olika hushållstyper och åldersintervaller.
@@ -112,28 +62,28 @@ skolungdom
 
 ej lunch 5 dagar/vecka
 
-under 1 år      12 år          3 år            46 år
+under 1 år      1-2 år          3 år            4-6 år
 
 1 610           1 800           1 550           1 730
 
 med lunch
 
-under     12 år   3 år   46 år   710   1114   1518   1920
+under     1-2 år   3 år   4-6 år   7-10   11-14   15-18   19-20
 1 år                               år     år      år      år
 
 1 740     1 980    1 730  1 980    2 410  2 840   3 250   3 280
 
-Personliga kostnader i kronor  vuxna
+Personliga kostnader i kronor - vuxna
 
 Ensamstående            Sambor
 
 2 950                   5 320
 
-Gemensamma hushållskostnader i kronor  medlemmar i hushållet
+Gemensamma hushållskostnader i kronor - medlemmar i hushållet
 
 1 pers.  2 pers.  3 pers.  4 pers.  5 pers.  6 pers.  7 pers.
 
-930   1 040    1 310    1 490    1 710    1 950    2 120
+930      1 040    1 310    1 490    1 710    1 950    2 120
 
 För hushåll med fler än 7 personer beräknas kostnaden för varje
 tillkommande hushållsmedlem som skillnaden mellan hushåll med 6
@@ -439,7 +389,7 @@ Verksamhet som står under Socialstyrelsens tillsyn
 
 4 § För sådan enskild verksamhet som enligt 13 kap. 1 § andra
 stycket socialtjänstlagen (2001:453) står under
-Socialstyrelsens tillsyn ska bestämmelserna i 3 kap. 35 och
+Socialstyrelsens tillsyn ska bestämmelserna i 3 kap. 3-5 och
 8 §§ denna förordning gälla på motsvarande sätt.
 Förordning (2009:1142).
 
@@ -503,25 +453,7 @@ och andra närstående ska ordnas,
 vårdnadshavares syn på genomförandet av den planerade vården.
 Förordning (2007:1316).
 
-1 b § Den socialnämnd som har fattat beslut om vård av ett barn
-enligt socialtjänstlagen (2001:453) skall noga följa vården av
-barnet. Detsamma gäller barn och unga som efter ansökan av
-nämnden beretts vård med stöd av lagen (1990:52) med särskilda
-bestämmelser om vård av unga. Nämnden skall följa vården främst
-genom
-
-1. regelbundna personliga besök i det hem där den unge vistas,
-
-2. enskilda samtal med den unge,
-
-3. samtal med den eller dem som tagit emot den unge i sitt hem,
-och
-
-4. samtal med vårdnadshavarna.
-
-Uppföljningen skall omfatta den unges hälsa, utveckling,
-sociala beteende och skolgång samt relationer till anhöriga och
-andra närstående. Förordning (2003:304).
+1 b § Har upphävts genom förordning (2012:782).
 
 1 c § För att följa situationen för vuxna placerade i
 familjehem bör den socialnämnd som är ansvarig för en sådan
