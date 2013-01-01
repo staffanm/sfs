@@ -2813,8 +2813,24 @@ eller
 misstänktes personliga förhållanden eller till vad målet rör.
 
 Om den misstänkte biträds av försvarare som han själv har utsett, skall
-inte vid sidan av denne någon offentlig försvarare förordnas. Lag
-(1983:920).
+inte vid sidan av denne någon offentlig försvarare förordnas.
+Lag (1983:920).
+
+3 b § En offentlig försvarare ska förordnas för en tidigare
+tilltalad om
+
+1. han eller hon är i behov av försvarare med hänsyn till att
+åklagaren enligt 58 kap. 6 a § beslutat eller har möjlighet
+att besluta att återuppta en förundersökning eller att låta en
+pågående förundersökning även avse frågan om den tidigare
+tilltalades delaktighet i brottet, eller
+
+2. det annars finns synnerliga skäl.
+
+Vid bedömningen av om den tidigare tilltalade är i behov av
+försvarare ska rätten beakta brottets beskaffenhet, den
+tidigare tilltalades personliga förhållanden och vilka
+utredningsåtgärder som ska vidtas. Lag (2012:659).
 
 4 §  Offentlig försvarare förordnas av rätten; har rätten skilt saken
 från sig, äge den, till dess talan av den misstänkte fullföljts eller
@@ -2823,6 +2839,11 @@ högre rätt.
 
 Fråga om förordnande av offentlig försvarare skall upptagas, då
 framställning därom göres eller rätten eljest finner anledning därtill.
+
+4 a § En framställan om förordnande av en offentlig försvarare
+enligt 3 b § ska göras hos den domstol som enligt 58 kap. 4 §
+första stycket är behörig att pröva ansökan om resning.
+Lag (2012:659).
 
 5 § Till offentlig försvarare ska förordnas en advokat som är
 lämplig för uppdraget. Om det finns särskilda skäl, får till
@@ -3024,29 +3045,7 @@ vidkännas kostnad eller olägenhet.
 Förundersökningen skall bedrivas så skyndsamt omständigheterna medgiva.
 Finnes ej längre anledning till dess fullföljande, skall den nedläggas.
 
-4 a § /Upphör att gälla U:2013-01-01/
-En förundersökning får vidare läggas ned
-
-1. om fortsatt utredning skulle kräva kostnader som inte står i
-rimligt förhållande till sakens betydelse och det dessutom kan
-antas att brottets straffvärde inte överstiger fängelse i tre
-månader, eller
-
-2. om det kan antas att åtal för brottet inte skulle komma att
-ske till följd av bestämmelser om åtalsunderlåtelse i 20 kap.
-eller om särskild åtalsprövning samt något väsentligt allmänt
-eller enskilt intresse ej åsidosätts genom att
-förundersökningen läggs ned.
-
-Om förutsättningar för att lägga ned en förundersökning enligt
-första stycket föreligger redan innan en sådan har inletts, får
-det beslutas att förundersökning inte ska inledas.
-
-Beslut enligt denna paragraf meddelas av åklagare.
-Lag (2012:45).
-
-4 a § /Träder i kraft I:2013-01-01/
-En förundersökning får vidare läggas ned
+4 a § En förundersökning får vidare läggas ned
 
 1. om fortsatt utredning skulle kräva kostnader som inte står
 i rimligt förhållande till sakens betydelse och det dessutom
@@ -3072,11 +3071,15 @@ särskild åtalsprövning. Detsamma gäller beslut att inte inleda
 förundersökning i motsvarande fall. Övriga beslut enligt denna
 paragraf meddelas av åklagare. Lag (2012:46).
 
-5 § Skall enligt 21 kap. 3 a § offentlig försvarare utses för den
-misstänkte, åligger det undersökningsledaren att göra anmälan om det hos
-rätten. Undersökningsledaren skall också göra anmälan hos rätten, om
-målsäganden begär att få ett målsägandebiträde eller om det annars finns
-anledning att förordna ett sådant biträde. Lag (1988:610).
+5 § Ska enligt 21 kap. 3 a eller 3 b § en offentlig försvarare
+utses för den misstänkte eller den tidigare tilltalade, ska
+undersökningsledaren göra anmälan om det hos rätten.
+Undersökningsledaren ska också göra anmälan hos rätten, om
+målsäganden begär att få ett målsägandebiträde eller om det
+annars finns anledning att förordna ett sådant biträde.
+
+Om det inte pågår någon förundersökning ska anmälan enligt
+första stycket göras av åklagaren. Lag (2012:659).
 
 6 § Under förundersökningen må förhör hållas med envar, som antages
 kunna lämna upplysning av betydelse för utredningen.
@@ -9528,6 +9531,24 @@ Rätten får förordna att, till dess annat föreskrivs, vidare
 åtgärder för verkställighet av domen inte skall äga rum.
 Lag (1999:84).
 
+6 a § Åklagaren ska återuppta en förundersökning om det i en
+ansökan om resning åberopas eller om det på annat sätt kommer
+fram en omständighet eller ett bevis som inte tidigare lagts
+fram och det är sannolikt att omständigheten eller beviset
+utgör grund för resning. Förundersökningen ska dock inte
+återupptas om det saknas behov av utredningsåtgärder.
+
+Om förundersökningen inte är avslutad ska åklagaren, under de
+förutsättningar som anges i första stycket, i stället besluta
+att förundersökningen även ska avse frågan om den tidigare
+tilltalades delaktighet i brottet. Lag (2012:659).
+
+6 b § I ett ärende om resning får rätten förelägga åklagaren
+att vidta en viss utredningsåtgärd, om det enligt 6 a § finns
+förutsättningar att återuppta förundersökningen eller besluta
+att en pågående förundersökning även ska avse frågan om den
+tidigare tilltalades delaktighet i brottet. Lag (2012:659).
+
 7 § Beviljas resning, skall rätten samtidigt förordna att målet åter
 skall tas upp vid den domstol, som sist dömt i målet. Om resning
 beviljas i tvistemål eller i brottmål till den tilltalades förmån och
@@ -9543,6 +9564,23 @@ ersätta motparten eller, om åklagaren är motpart, staten kostnaderna i
 resningsärendet. Har resning sökts av åklagaren, får kostnaderna utgå av
 allmänna medel. Bifalls ansökningen, skall kostnadsfrågan prövas i
 samband med målet efter dess återupptagande. Lag (1988:1451).
+
+8 a § Om en offentlig försvarare har förordnats enligt 21 kap.
+3 b § och det inte ges in någon resningsansökan till domstol,
+får den tidigare tilltalade åläggas att ersätta staten för det
+som har betalats av allmänna medel i ersättning till
+försvararen.
+
+Om en åtgärd som avses i 6 a § har vidtagits i syfte att
+utreda om det finns grund för resning till men för den
+tidigare tilltalade och det inte ges in någon resningsansökan
+till domstol, får den tidigare tilltalade tillerkännas
+ersättning av allmänna medel för sådana skäliga kostnader som
+avses i 31 kap. 2 §.
+
+Frågan om ersättning för kostnader enligt första och andra
+styckena prövas av den domstol som enligt 4 § första stycket
+är behörig att pröva resningsansökan. Lag (2012:659).
 
 9 §  Avser dom i brottmål även annat än ansvar, gälle beträffande
 resning i denna del av målet vad om resning i tvistemål är stadgat;
@@ -10080,3 +10118,12 @@ ikraftträdandet tillämpas inte 31 kap. 9 a §.
 1517 §§ delgivningslagen (1970:428) har fattats före den 1
 april 2011 eller om en handling har skickats eller lämnats före
 denna tidpunkt.
+
+2012:659
+
+1. Denna lag träder i kraft den 1 januari 2013.
+
+2. Bestämmelserna i rättshjälpslagen (1996:1619) gäller
+fortfarande för det fall ett rättshjälpsbiträde har utsetts
+för en tidigare tilltalad i ett resningsförfarande före
+ikraftträdandet. 
