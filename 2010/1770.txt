@@ -1,0 +1,946 @@
+
+
+1 kap. Inledande bestämmelser
+
+1 § Denna förordning innehåller bestämmelser om den svenska
+infrastrukturen för tillgång till och utbyte av geografisk
+miljöinformation som har elektronisk form och som är användbar
+för verksamheter och åtgärder som kan påverka människors hälsa
+eller miljön. När det gäller skyldigheter för kommuner och
+enskilda organ är förordningen meddelad
+
+1. med stöd av 7 § lagen (2010:1767) om geografisk
+miljöinformation i fråga om 6 kap. 1 och 2 §§,
+
+2. med stöd av 8 § lagen om geografisk miljöinformation i fråga
+om 4 kap. 10-15 §§ och 5 kap. 2 och 3 §§,
+
+3. med stöd av 9 § lagen om geografisk miljöinformation i fråga
+om 2 kap. 2, 3 och 7 §§, 3 kap. 19 och 21 §§, 4 kap. 1, 2, 4-6
+och 8 §§ samt 5 kap. 1 och 4 §.
+
+I övrigt är förordningen meddelad med stöd av 8 kap. 13 §
+regeringsformen.
+
+2 § I fråga om behandling av personuppgifter enligt denna
+förordning gäller inte 2 § personuppgiftslagen (1998:204).
+
+3 § I denna förordning avses med
+
+e-handelstjänst: en tjänst som gör det möjligt att elektroniskt
+via Internet eller andra elektroniska gränssnitt få tillgång
+till geografisk miljöinformation och
+informationshanteringstjänster mot betalning, och
+
+fullgöra informationsansvar: att i fråga om geografisk
+miljöinformation som avser svenska förhållanden fullgöra
+informationsansvar enligt 5 § lagen (2010:1767) om geografisk
+miljöinformation.
+
+Termer och uttryck i denna förordning har i övrigt samma
+betydelse som i lagen om geografisk miljöinformation. Med
+rumsliga datamängder avses detsamma som geografisk
+miljöinformation. Med nättjänster och rumsliga datatjänster
+avses detsamma som informationshanteringstjänster.
+
+2 kap. Samordning
+
+Den övergripande samordningen
+
+1 § Lantmäteriet ska samordna den svenska infrastrukturen för
+tillgång till och utbyte av geografisk miljöinformation genom
+att se till att
+
+1. det i Sverige finns ett sammanhängande system för
+informationen,
+
+2. det på Internet fortlöpande finns en fungerande ingång till
+systemet,
+
+3. informationshanteringstjänster samordnas så att systemet kan
+fungera väl, och
+
+4. systemet är samordnat med det system för geografisk
+miljöinformation som finns inom Europeiska unionen.
+
+Lantmäteriet ska vara kontaktpunkt för Europeiska kommissionen
+i frågor som rör den svenska infrastrukturen för tillgång till
+och utbyte av geografisk miljöinformation.
+
+De informationsansvarigas samordning
+
+2 § Den eller de som är informationsansvariga enligt något av
+de trettiotre informationsteman som anges i 3 kap. ska
+
+1. hålla sig informerade om var det finns sådan geografisk
+miljöinformation som hör till temat, och
+
+2. underrätta Lantmäteriet om förhållanden som har betydelse
+för det sammanhängande systemet för informationen och
+informationsansvarets fördelning.
+
+Om ett tema är fördelat på två eller flera
+informationsansvariga, ska de samordna sitt arbete, utse någon
+att vara samordnare och underrätta Lantmäteriet om vem som är
+samordnare för temat.
+
+3 § Om geografisk miljöinformation beskriver eller
+lägesbestämmer något som sträcker sig över gränsen till ett
+annat land och beskrivningen eller lägesbestämningen inte
+stämmer överens med det andra landets beskrivning eller
+lägesbestämning, ska den som är ansvarig för informationen
+enligt 3 kap. vidta åtgärder inom sitt kompetensområde för att
+tillsammans med den eller dem som är ansvariga i det andra
+landet se till att informationen blir överensstämmande.
+
+Information som en myndighet inte har informationsansvar för
+
+4 § Om det hos en förvaltningsmyndighet finns geografisk
+miljöinformation som myndigheten inte är informationsansvarig
+för enligt denna förordning, ska myndigheten underrätta
+Lantmäteriet om detta.
+
+Rapportering och annan information till Europeiska kommissionen
+
+5 § Lantmäteriet ska svara för den rapportering till Europeiska
+kommissionen som avser hur det svenska sammanhängande systemet
+för geografisk miljöinformation är uppbyggt och används.
+
+Rapporteringen ska ske vart tredje år och innehålla uppdaterade
+uppgifter om
+
+1. hur de informationsansvariga är samordnade med varandra och
+med andra användare av systemet och hur de
+informationsansvariga och användarna har bidragit till
+samordningen,
+
+2. hur informationens kvalitet säkras,
+
+3. användningen av systemet,
+
+4. avtal om samarbete mellan informationsansvariga, och
+
+5. kostnader och vinster med systemet.
+
+6 § Lantmäteriet ska ge Europeiska kommissionen de uppgifter
+som kommissionen begär för sin analys av hur
+informationssystemen i Europeiska unionen fungerar tillsammans
+och av vad som bör göras för att ordna en fungerande samverkan.
+
+7 § Vid fullgörandet av skyldigheterna enligt 5 och 6 §§ ska
+Lantmäteriet följa kommissionens beslut (2009/442/EG) av den 5
+juni 2009 om genomförande av Europaparlamentets och rådets
+direktiv 2007/2/EG när det gäller övervakning och rapportering.
+
+8 § De informationsansvariga enligt 3 kap. ska inom sina
+ansvarsområden ge Lantmäteriet de uppgifter som behövs för att
+Lantmäteriet ska kunna fullgöra sitt ansvar enligt 5 och 6 §§.
+
+9 § Lantmäteriet får meddela de föreskrifter som behövs för
+verkställigheten av 8 §.
+
+3 kap. Informationsansvarets fördelning
+
+Koordinatbaserade referenssystem för lägesbestämning
+
+1 § I fråga om koordinater i geodetiska referenssystem som
+behövs för att entydigt lägesbestämma information ska
+informationsansvar fullgöras av Lantmäteriet.
+
+Geografiska rutnätssystem
+
+2 § I fråga om geografiska rutnätssystem där rutnäten är
+harmoniserade med flera upplösningar, med gemensam utgångspunkt
+och med standardiserad placering och storlek på rutorna, ska
+informationsansvar fullgöras av Lantmäteriet.
+
+Ortnamn och andra geografiska namn
+
+3 § I fråga om namn på administrativa områden, regioner,
+platser, trakter, tätorter och annan bebyggelse, namn på
+geografiska och topografiska företeelser av allmänt eller
+historiskt intresse samt andra ortnamn eller geografiska namn
+ska informationsansvar fullgöras av Lantmäteriet.
+
+Administrativa indelningar
+
+4 § För administrativa enheter på lokal, regional och nationell
+nivå som är åtskilda av administrativa gränser ska
+informationsansvar fullgöras av
+
+1. Lantmäteriet i fråga om riksgräns samt läns- och
+kommungränser, och
+
+2. Sjöfartsverket i fråga om de baslinjer och landområden som
+ligger till grund för beräkningen av territorialhavet,
+territorialgränsen och gränsen för Sveriges ekonomiska zon.
+
+Adresser
+
+5 § I fråga om uppgifter i form av belägenhetsadresser,
+postnummer och postorter ska informationsansvar fullgöras av
+Lantmäteriet.
+
+Fastighetsområden
+
+6 § I fråga om uppgifter om fastigheters och samfälligheters
+områden ska informationsansvar fullgöras av Lantmäteriet.
+
+Infrastruktur för transport
+
+7 § För väg-, järnvägs-, luft- och sjötransportnät med
+tillhörande infrastruktur samt länkar mellan de olika näten ska
+informationsansvar fullgöras av
+
+1. Luftfartsverket i fråga om lufttransportnät och flygplatser,
+
+2. Sjöfartsverket i fråga om farleder, fartygsstråk och
+allmänna hamnar,
+
+3. Trafikverket i fråga om järnvägsnät, järnvägsstationer,
+bangårdar, vägnät, färjeöverfarter och vägserviceanläggningar,
+och
+
+4. Transportstyrelsen i fråga om trafikföreskrifter som gäller
+vägnätet.
+
+Informationsansvaret omfattar även det nät som avses i
+Europaparlamentets och rådets beslut nr 1692/96/EG av den 23
+juli 1996 om gemenskapens riktlinjer för utbyggnad av det
+transeuropeiska transportnätet.
+
+Vattenområden, avrinningsområden och annan hydrografi
+
+8 § För kustvattenområden och inlandsytvatten med tillhörande
+avrinningsområden och delavrinningsområden (hydrografiska
+element), ska informationsansvar fullgöras av
+
+1. Lantmäteriet i fråga om strandlinjer, våtmarker och
+inlandsytvatten, och
+
+2. Sveriges meteorologiska och hydrologiska institut i fråga om
+kustvattenområden, avrinningsområden och nätverk för att
+beskriva flöden.
+
+Skyddade områden
+
+9 § För områden som är utsedda eller förvaltas inom ramen för
+internationell lagstiftning, Europeiska unionens lagstiftning
+eller svensk lagstiftning för att uppnå specifika
+miljövårdsmål ska informationsansvar fullgöras av
+
+1. Havs- och vattenmyndigheten i fråga om områden som skyddas
+eller bör skyddas enligt konventionen om skydd av
+Östersjöområdets marina miljö (SÖ 1996:22) eller konventionen
+för skydd av den marina miljön i Nordostatlanten (SÖ 1994:25),
+
+2. Naturvårdsverket i fråga om nationalparker, naturreservat,
+kulturreservat, naturminnen, djur- och växtskyddsområden,
+biotopskyddsområden beslutade av en kommun eller länsstyrelse,
+särskilda skyddade områden förtecknade enligt 7 kap. 27 §
+första stycket 1 eller 2 miljöbalken, vattenskyddsområden,
+områden med naturvårdsavtal där Naturvårdsverket eller
+länsstyrelsen är avtalspart samt områden som skyddas eller bör
+skyddas enligt andra internationella åtaganden än de
+konventioner som avses i 1,
+
+3. Riksantikvarieämbetet i fråga om fasta fornlämningar,
+byggnadsminnen och kyrkliga kulturminnen enligt lagen
+(1988:950) om kulturminnen m.m. samt statliga byggnadsminnen
+enligt förordningen (1988:1229) om statliga byggnadsminnen
+m.m., och
+
+4. Skogsstyrelsen i fråga om naturvårdsavtalsområden där
+Skogsstyrelsen är avtalspart och biotopskyddsområden beslutade
+av Skogsstyrelsen. Förordning (2012:771).
+
+Höjd- och djupförhållanden
+
+10 § För digitala höjdmodeller för mark-, is- och havsyta
+inklusive höjd på land, djup under vatten och kustlinje ska
+informationsansvar fullgöras av
+
+1. Lantmäteriet i fråga om höjdgitter och höjdkurvor, och
+
+2. Sjöfartsverket i fråga om djup i havsområden, insjöar och
+vattenleder.
+
+Marktäcket
+
+11 § För det fysiska och biologiska marktäcket på jordytan ska
+informationsansvar fullgöras av Lantmäteriet i fråga om anlagda
+ytor, jordbruksmark, skog, våtmarker och vatten.
+
+Bilder på jordytan (ortofoto)
+
+12 § För georefererade bilddata på jordytan (ortofoto) från
+satelliter eller flygburna sensorer ska informationsansvar
+fullgöras av Lantmäteriet i fråga om georefererade bilddata som
+ingår i det nationella bildförsörjningsprogrammet.
+
+Geologiska förhållanden
+
+13 § För berggrund, jordlager, grundvatten, landformer och
+andra geologiska förhållanden indelade efter sammansättning,
+egenskaper och struktur ska informationsansvar fullgöras av
+Sveriges geologiska undersökning i fråga om berggrund,
+jordtäcke, grundvatten, geofysik och geokemi.
+
+Statistiska enheter
+
+14 § För enheter för spridning och användning av statistisk
+information (statistiska enheter) ska informationsansvar
+fullgöras av
+
+1. Lantmäteriet i fråga om län och kommuner,
+
+2. Statistiska centralbyrån i fråga om statistikrutor samt
+områden enligt Europeiska unionens gemensamma nomenklatur för
+statistiska territoriella enheter (NUTS) och områden för
+Europeiska kommissionens stadsanalys (Urban Audit), och
+
+3. Sveriges meteorologiska och hydrologiska institut i fråga om
+avrinningsområden.
+
+Byggnaders läge
+
+15 § I fråga om byggnaders geografiska läge ska
+informationsansvar fullgöras av Lantmäteriet.
+
+Markens sammansättning
+
+16 § För jordmåner och jordarter och deras egenskaper i fråga
+om djup, textur, struktur, innehåll av partiklar och organiskt
+material, stenighet, erosion samt i förekommande fall
+genomsnittlig lutning och beräknad vattenhållande förmåga, ska
+informationsansvar fullgöras av Sveriges geologiska
+undersökning i fråga om jordarter.
+
+Mark- och vattenanvändning
+
+17 § För mark- och vattenanvändning indelad efter nuvarande och
+framtida planerad funktion eller socioekonomisk användning ska
+informationsansvar fullgöras av Statens jordbruksverk i fråga
+om jordbruksmark som ger rätt till stöd som finansieras helt
+eller delvis av Europeiska unionen.
+
+Förhållandet mellan människors hälsa och miljön
+
+18 § För information om de effekter på människors hälsa eller
+välbefinnande som har ett direkt eller ett indirekt samband med
+miljöns kvalitet (geografisk fördelning av dominansen av
+patologier) ska informationsansvar fullgöras av
+
+1. Försäkringskassan i fråga om ohälsotal på riks-, läns- och
+kommunnivå,
+
+2. Myndigheten för samhällsskydd och beredskap i fråga om
+olyckor,
+
+3. Socialstyrelsen i fråga om skador, sjukdomar och
+dödsorsaker,
+
+4. Sveriges geologiska undersökning i fråga om radiometriska
+mätningar samt kemisk sammansättning av grundvatten, mark,
+havssediment och sjösediment, och
+
+5. Trafikverket i fråga om bullerutbredning för järnvägstrafik
+och vägtrafik enligt förordningen (2004:675) om
+omgivningsbuller.
+
+Anläggningar och platser för allmännyttiga och offentliga
+tjänster
+
+19 § För anläggningar för hantering av avloppsvatten,
+anläggningar för avfallshantering, anläggningar för
+energiförsörjning, anläggningar för vattenförsörjning,
+räddningstjänstens anläggningar, skolor, sjukhus och andra
+allmännyttiga och offentliga tjänster ska informationsansvar
+fullgöras av
+
+1. länsstyrelsen i fråga om
+
+a) områden där dispens har getts från dumpningsförbudet i
+15 kap. 33 § miljöbalken,
+
+b) områden för utvinningsavfall,
+
+c) anläggningar för hantering av farligt avfall som är
+tillståndspliktiga
+enligt miljöbalken,
+
+d) återvinningscentraler och miljöstationer som är
+tillståndspliktiga enligt miljöbalken,
+
+e) anläggningar för behandling eller deponering av avloppsslam
+som är tillståndspliktiga enligt miljöbalken, och
+
+f) avloppsreningsanläggningar som är tillståndspliktiga enligt
+miljöbalken,
+
+2. Myndigheten för samhällsskydd och beredskap i fråga om
+brandstationer, skyddsrum och ljudsändare för utomhusvarning,
+
+3. Socialstyrelsen i fråga om hem för vård eller behandling,
+äldreboende, sjukhus och vårdcentraler,
+
+4. SOS Alarm Sverige AB i fråga om SOS-centraler,
+
+5. Statens skolverk i fråga om skolenheter för förskoleklass,
+grundskolan, specialskolan, sameskolan, grundsärskolan,
+gymnasieskolan och gymnasiesärskolan,
+
+6. Statistiska centralbyrån i fråga om polisstationer, lokaler
+för förskolan samt myndighets- och kommunkontor,
+
+7. Svenska kraftnät i fråga om stamnät för el inklusive
+anläggningar, och
+
+8. Trafikverket i fråga om sådana bullerskydd, erosionsskydd,
+översvämningsskydd och anläggningar för ras- eller
+skredvarning som ansluter till vägar och järnvägar.
+Förordning (2012:771).
+
+Anläggningar och platser för miljöövervakning
+
+20 § För placering och användning av anläggningar och platser
+för miljöövervakning som genomförs av offentliga myndigheter
+eller för deras räkning ska informationsansvar fullgöras av
+
+1. Havs- och vattenmyndigheten i fråga om
+
+a) nationell miljöövervakning av sjöar, vattendrag och den
+marina miljön, och
+
+b) miljöövervakning av badvatten som omfattas av
+badvattenförordningen (2008:218),
+
+2. länsstyrelsen i fråga om regional miljöövervakning av luft,
+landmiljön, sjöar, vattendrag och den marina miljön,
+
+3. Naturvårdsverket i fråga om
+
+a) nationell miljöövervakning av luft och landmiljön, och
+
+b) nationell biogeografisk uppföljning av särskilda skyddade
+områden förtecknade enligt 7 kap. 27 § första stycket 2
+miljöbalken,
+
+4. Skogsstyrelsen i fråga om skogliga observationsytor och
+uppföljning av biologisk mångfald i skog med höga naturvärden,
+
+5. Sveriges geologiska undersökning i fråga om övervakning av
+grundvatten, havssediment och sjösediment, och
+
+6. Sveriges lantbruksuniversitet i fråga om nationell
+övervakning av skogarnas tillstånd och förändring.
+Förordning (2012:771).
+
+Produktions- och industrianläggningar samt upplagsplatser
+
+21 § För verksamheter som avses i 9, 11 eller 12 kap.
+miljöbalken ska, om inte annat följer av 22 §,
+informationsansvar fullgöras av
+
+1. länsstyrelsen i fråga om verksamheter som är
+tillståndspliktiga enligt 9 kap. 6 § miljöbalken,
+vattenverksamheter enligt 11 kap. miljöbalken, grus och
+krossberg,
+
+2. Myndigheten för samhällsskydd och beredskap i fråga om
+verksamheter enligt lagen (1999:381) om åtgärder för att
+förebygga och begränsa följderna av allvarliga
+kemikalieolyckor,
+
+3. Statens energimyndighet i fråga om sådana anläggningar för
+energiförsörjning från förnybara energikällor som inte är
+tillståndspliktiga eller anmälningspliktiga enligt miljöbalken,
+
+4. Svenska kraftnät i fråga om dammsäkerhet,
+
+5. Sveriges geologiska undersökning i fråga om gruvor och
+upplagsplatser, och
+
+6. Sveriges meteorologiska och hydrologiska institut i fråga om
+dammars miljöpåverkan.
+
+Anläggningar i jordbruk eller vattenbruk
+
+22 § För vattenbruksanläggningar,
+jordbruksproduktionsanläggningar, bevattningssystem, växthus,
+djurstallar och annan jordbruksutrustning ska
+informationsansvar fullgöras av Statens jordbruksverk i fråga
+om vattenbruksföretag och produktionsplatser för djurhållning.
+Förordning (2012:771).
+
+Befolkningsfördelning
+
+23 § För geografisk fördelning av människor, med
+befolkningskaraktäristika och sysselsättningsgrader, i rutnät,
+regioner, administrativa enheter eller andra analysenheter ska
+informationsansvar fullgöras av Statistiska centralbyrån i
+fråga om befolkningsstatistik.
+
+Förhållanden som motiverar en särskild förvaltning, reglering
+eller rapportering
+
+24 § För områden som förvaltas, regleras eller används för
+rapportering på internationell, europeisk, nationell, regional
+och lokal nivå, som avfallsdeponier, skyddsområden runt
+dricksvattentäkter, områden som är känsliga för
+nitratbelastning, reglerade farleder till havs och i större
+inlandsvatten, områden för dumpning av avfall, områden med
+bullerrestriktioner, områden med tillstånd för prospektering
+och gruvbrytning, avrinningsdistrikt, relevanta enheter för
+rapportering och områden med kustförvaltning ska
+informationsansvar fullgöras av
+
+1. Havs- och vattenmyndigheten i fråga om
+
+a) gränser för områden med fredning av fisk eller förbud mot
+fiske samt
+andra förvaltningsgränser för fiske, och
+
+b) fiskvatten, områden känsliga för övergödning och
+skyddsområden runt vattentäkter,
+
+2. länsstyrelsen i fråga om avfallsdeponier, områden med
+förorenad mark, målområden för kalkning och musselvatten,
+
+3. Statens jordbruksverk i fråga om känsliga områden enligt
+5 § förordningen (1998:915) om miljöhänsyn i jordbruket,
+
+4. Sveriges geologiska undersökning i fråga om områden med
+tillstånd för prospektering och gruvbrytning, och
+
+5. Sveriges meteorologiska och hydrologiska institut i fråga
+om vattenförekomster och avrinningsområden.
+Förordning (2012:771).
+
+Översvämningar, jordskred, erosion, laviner, skogsbränder eller
+andra risker som uppstår genom naturens inverkan
+
+25 § För sårbara områden klassificerade efter atmosfäriska,
+hydrologiska, seismiska och vulkaniska fenomen, bränder samt
+andra risker som uppstår genom naturens inverkan och som på ett
+allvarligt sätt kan påverka samhället  ska informationsansvar
+fullgöras av
+
+1. Myndigheten för samhällsskydd och beredskap i fråga om
+översiktlig stabilitetskartering och översiktlig
+översvämningskartering,
+
+2. Statens geotekniska institut i fråga om skredrisker för Göta
+älvdalen och stranderosion,
+
+3. Sveriges geologiska undersökning i fråga om berggrund,
+jordarter, grundvatten och maringeologi, och
+
+4. Sveriges meteorologiska och hydrologiska institut i fråga om
+vattenflödesstatistik.
+
+Atmosfäriska förhållanden
+
+26 § För fysikaliska förhållanden i atmosfären ska
+informationsansvar fullgöras av Sveriges meteorologiska och
+hydrologiska institut i fråga om atmosfäriska modeller.
+
+Meteorologiska och hydrologiska förhållanden
+
+27 § För nederbörd, temperatur, vindhastighet, vindriktning och
+andra meteorologiska förhållanden samt vattenföring och andra
+hydrologiska förhållanden ska informationsansvar fullgöras av
+
+1. Myndigheten för samhällsskydd och beredskap i fråga om
+brandriskvärden för vegetation,
+
+2. Sveriges meteorologiska och hydrologiska institut i fråga om
+meteorologiska och hydrologiska förhållanden, och
+
+3. Trafikverket i fråga om meteorologiska förhållanden från
+Trafikverkets informationssystem.
+
+Fysikaliska förhållanden i hav och annat saltvatten
+
+28 § I fråga om strömmar, salthalt, våghöjd och andra
+geografiska, oceanografiska och fysikaliska förhållanden i
+oceaner och havsområden, indelade i områden och delområden med
+likartade egenskaper, ska informationsansvar fullgöras av
+Sveriges meteorologiska och hydrologiska institut.
+
+Områden som har relativt homogena ekologiska förhållanden med
+likartade egenskaper (biogeografiska regioner)
+
+29 § För områden som har relativt homogena ekologiska
+förhållanden med likartade egenskaper (biogeografiska
+regioner) ska informationsansvar fullgöras av
+
+1. Havs- och vattenmyndigheten i fråga om limnisk
+ekoregionindelning,
+
+2. Lantmäteriet i fråga om nationella inventeringar av
+vegetation,
+
+3. Naturvårdsverket i fråga om biogeografiska regioner,
+naturgeografiska regioner och myrregionindelning, och
+
+4. Skogsstyrelsen i fråga om skoglig regionindelning.
+Förordning (2012:771).
+
+Livsmiljöer och naturtyper
+
+30 § För geografiska områden som kännetecknas av särskilda
+ekologiska förhållanden, processer, strukturer och
+livsstödjande funktioner och som är fysiska livsmiljöer för
+organismer som lever där ska informationsansvar fullgöras av
+
+1. Havs- och vattenmyndigheten i fråga om sammanställningar av
+nationellt särskilt värdefulla limniska och marina områden,
+
+2. Lantmäteriet i fråga om nationella inventeringar av
+vegetation,
+
+3. länsstyrelsen i fråga om regionala naturtypsinventeringar,
+
+4. Naturvårdsverket i fråga om nationella inventeringar av
+våtmarker, naturtyper i och utanför skyddade områden samt
+naturtyper i särskilt utpekade skyddsvärda områden,
+
+5. Skogsstyrelsen i fråga om nationella inventeringar av
+skogsbiotoper med höga naturvärden, och
+
+6. Statens jordbruksverk i fråga om den nationella
+inventeringen av ängs- och betesmark. Förordning (2012:771).
+
+Arters utbredning
+
+31 § För geografisk fördelning i rutnät, regioner,
+administrativa enheter eller andra analytiska enheter av djur-
+och växtarters förekomst ska informationsansvar fullgöras av
+
+1. Havs- och vattenmyndigheten i fråga om nationella
+sammanställningar av fiskförekomster, och
+
+2. Naturvårdsverket i fråga om nationella sammanställningar av
+artförekomster. Förordning (2012:771).
+
+Energiresurser
+
+32 § För energiresurser, med förekommande djup- eller
+höjdinformation om resursens omfattning, ska informationsansvar
+fullgöras av
+
+1. Statens energimyndighet i fråga om vindförhållanden,
+
+2. Sveriges geologiska undersökning i fråga om fyndigheter av
+energimineral, olja, naturgas, kol och energitorv samt
+förutsättningar för geotermi, och
+
+3. Sveriges lantbruksuniversitet i fråga om biomassa i växande
+träd.
+
+Mineralfyndigheter
+
+33 § För malm, industrimineraler och andra mineralfyndigheter,
+med förekommande djup- eller höjdinformation om resursens
+omfattning, ska informationsansvar fullgöras av Sveriges
+geologiska undersökning i fråga om berggrundsgeologi, grus,
+krossberg, mineral och bergartsresurser.
+
+4 kap. Informationsansvarets innebörd
+
+1 § Den som har informationsansvar enligt denna förordning ska
+se till att den information, de informationshanteringstjänster
+och de metadata som omfattas av informationsansvaret finns
+tillgängliga och är användbara i det sammanhängande systemet
+för geografisk miljöinformation. Informationsansvaret ska
+fullgöras enligt detta kapitel.
+
+2 § Tillgängliggörandet ska ske elektroniskt via Internet genom
+
+1. att anpassa den geografiska miljöinformationen till kraven i
+de genomförandebestämmelser som avses i 3 §, eller
+
+2. de omvandlingstjänster som avses i 4 § 4.
+
+3 § Ytterligare bestämmelser om den information enligt 3 kap.
+som ska tillgängliggöras och om dess användbarhet i det
+sammanhängande systemet för geografisk miljöinformation finns
+i kommissionens förordning (EU) nr 1089/2010 av den 23
+november 2010 om genomförande av Europaparlamentets och rådets
+direktiv 2007/2/EG vad gäller interoperabilitet för rumsliga
+datamängder och datatjänster. Förordning (2012:771).
+
+Informationshanteringstjänster
+
+4 § Informationshanteringstjänsterna ska göra det möjligt
+
+1. att söka efter geografisk miljöinformation och att söka
+efter andra informationshanteringstjänster med utgångspunkt i
+innehållet i motsvarande metadata samt att visa innehållet i
+metadata (söktjänster),
+
+2. att se geografisk miljöinformation och, i fråga om sådan
+information som presenteras i form av kartor eller liknande,
+navigera i den, zooma in och ut i den, panorera i den och att
+se på den genom att lägga olika informationslager på varandra
+och var för sig samt att hitta förklarande information och det
+relevanta innehållet i de metadata som rör informationen
+(visningstjänster),
+
+3. att ladda ned och, om det är lämpligt, få direkt åtkomst
+till kopior av geografisk miljöinformation eller delar av den
+(nedladdningstjänster),
+
+4. att omvandla geografisk miljöinformation så att den utan
+regelbundet återkommande manuella åtgärder blir användbar i det
+sammanhängande systemet (omvandlingstjänster), och
+
+5. att komma i kontakt med andra informationshanteringstjänster
+och e-handelstjänster så att man kan använda dem
+(förbindelsetjänster).
+
+5 § Söktjänster enligt 4 § 1 ska innebära att man kan söka
+geografisk miljöinformation med sökkriterier som avser
+
+1. nyckelord,
+
+2. klassificering av geografisk miljöinformation och
+informationshanteringstjänster,
+
+3. informationens kvalitet och validitet,
+
+4. uppgifter om hur den geografiska miljöinformationen
+uppfyller sådana bestämmelser som avses i 3 §,
+
+5. geografiskt läge,
+
+6. de villkor som gäller för att få tillgång till och använda
+geografisk miljöinformation och informationshanteringstjänster,
+
+7. vem eller vilka som är informationsansvariga, och
+
+8. vem eller vilka som upprättar, förvaltar, underhåller eller
+distribuerar geografisk miljöinformation eller
+informationshanteringstjänster.
+
+6 § Omvandlingstjänster enligt 4 § 4 ska kunna kombineras med
+de övriga informationshanteringstjänsterna på ett sätt som är
+förenligt med sådana bestämmelser som avses i 3 §.
+
+7 § Ytterligare bestämmelser om söktjänster, visningstjänster,
+nedladdningstjänster och omvandlingstjänster finns i
+kommissionens förordning (EG) nr 976/2009 av den 19 oktober
+2009 om genomförande av Europaparlamentets och rådets direktiv
+2007/2/EG med avseende på nättjänster. Där finns också
+bestämmelser om när och hur tjänsterna ska finnas
+tillgängliga.
+
+För den information som anges i 3 kap. 14-33 §§ behöver
+söktjänster, visningstjänster, nedladdningstjänster och
+omvandlingstjänster inte finnas förrän metadata för
+informationen har tagits fram. Förordning (2012:771).
+
+8 § Förbindelsetjänster behöver finnas tillgängliga enligt
+1-6 §§ först vid den tidpunkt och på det sätt som följer av
+sådana bestämmelser om förbindelsetjänster som meddelas av
+Europeiska kommissionen enligt artikel 16 i Europaparlamentets
+och rådets direktiv 2007/2/EG. Förordning (2012:771).
+
+Metadata
+
+9 § Metadata för viss geografisk miljöinformation eller en viss
+informationshanteringstjänst ska innehålla uppgifter om
+
+1. hur informationen uppfyller sådana bestämmelser som avses i
+3 §,
+
+2. de avgifter och andra villkor som gäller för att få tillgång
+till och använda informationen eller
+informationshanteringstjänsten,
+
+3. informationens kvalitet och validitet,
+
+4. vem eller vilka som är informationsansvariga,
+
+5. vem eller vilka som upprättar, förvaltar, underhåller eller
+distribuerar informationen eller
+informationshanteringstjänsten,
+
+6. begränsningar för allmänhetens möjligheter att via
+informationshanteringstjänster få tillgång till informationen
+eller informationshanteringstjänsten, i den mån sådana
+begränsningar finns, och
+
+7. skälen för de begränsningar som avses i 6.
+
+Metadata ska vara fullständiga och aktuella samt hålla en så
+hög kvalitet att de gör det möjligt att finna, inventera och
+utnyttja informationen eller informationshanteringstjänsten.
+
+10 § Ytterligare bestämmelser om metadata finns i kommissionens
+förordning (EG) nr 1205/2008 av den 3 december 2008 om
+genomförande av Europaparlamentets och rådets direktiv
+2007/2/EG om metadata.
+
+Avgifter och andra villkor
+
+11 § Söktjänsterna ska tillhandahållas utan avgift.
+
+12 § Visningstjänster enligt 4 § 2 ska tillhandahållas utan
+avgift. En sådan visningstjänst får dock tillhandahållas mot en
+avgift, om tjänsten avser stora volymer av geografisk
+miljöinformation som uppdateras ofta och en avgift behövs för
+att täcka de kostnader som uppdatering och annat underhåll av
+informationen medför.
+
+13 § En nedladdningstjänst eller förbindelsetjänst får
+tillhandahållas mot en avgift endast om kostnaden för tjänsten
+och den information som förmedlas genom tjänsten inte täcks på
+annat sätt.
+
+14 § Om en myndighet får ta ut avgifter enligt 12 eller 13 §,
+får de samlade intäkterna från sådana avgifter tillsammans med
+de samlade intäkterna från avgifter för geografisk
+miljöinformation som myndigheten tillhandahåller inte överstiga
+de totala kostnaderna för insamling, framställning,
+reproduktion och spridning av informationen och tjänsterna,
+inklusive en rimlig avkastning på investeringar.
+
+15 § Den som är informationsansvarig och tar ut en avgift för
+tillhandahållandet av en visningstjänst, nedladdningstjänst
+eller förbindelsetjänst ska se till att det finns en e-
+handelstjänst.
+
+16 § Trots 11-13 §§ får
+
+1. geografisk miljöinformation och
+informationshanteringstjänster som görs tillgängliga genom en
+visningstjänst vara utformade på ett sätt som hindrar
+vidareutnyttjande för kommersiella ändamål, och
+
+2. ett tillhandahållande av geografisk miljöinformation eller
+en informationshanteringstjänst förenas med villkor om
+friskrivning och licensavtal om hur informationen eller
+informationshanteringstjänsten får användas.
+
+Verkställighetsföreskrifter
+
+17 § Lantmäteriet får meddela de föreskrifter som behövs för
+verkställigheten av 1-6 och 9 §§ samt förordning (EG) nr
+976/2009 och förordning (EG) nr 1205/2008.
+
+5 kap. Samarbete
+
+1 § De som är informationsansvariga enligt denna förordning ska
+samarbeta genom att ge varandra tillgång till geografisk
+miljöinformation och informationshanteringstjänster så att
+informationen och tjänsterna kan användas när offentliga
+uppgifter som kan påverka miljön utförs. Ett sådant samarbete
+ska också ske med
+
+1. dem som är informationsansvariga enligt motsvarande
+bestämmelser i andra länder i Europeiska unionen,
+
+2. Europeiska unionens institutioner samt organ som har
+inrättats genom internationella avtal där Europeiska
+gemenskapen och Europeiska unionens medlemsstater är parter,
+och
+
+3. myndigheter, kommuner och enskilda organ inom Europeiska
+unionen som utan att vara informationsansvariga fullgör
+offentliga uppgifter som kan påverka miljön.
+
+Om samarbetet inte kan ske i det sammanhängande systemet för
+geografisk miljöinformation ska det ordnas genom avtal eller
+andra informationshanteringstjänster än de som ingår i det
+sammanhängande systemet.
+
+2 § För samarbetet enligt 1 § får de som har informationsansvar
+enligt denna förordning ta ut avgifter och ställa upp andra
+villkor för tillgången till och användningen av geografisk
+miljöinformation och informationshanteringstjänster. Avgifterna
+och villkoren ska vara förenliga med 4 kap. 11, 12 och 16 §§.
+
+3 § Avgifter som tas ut med stöd av 2 §
+
+1. får endast avse kostnader som inte täcks på annat sätt,
+
+2. ska vara förenliga med syftet att underlätta ordnandet och
+upprätthållandet av det sammanhängande systemet för geografisk
+miljöinformation, och
+
+3. får inte vara högre än vad som behövs för att det samlade
+avgiftsuttaget ska täcka kostnaderna för uppbyggnad, drift,
+uppdatering och utveckling av tjänsterna och den information
+som förmedlas genom tjänsterna samt för att fortlöpande kunna
+tillhandahålla informationen och tjänsterna.
+
+4 § Avgifter enligt 2 § får inte tas ut för att fullgöra en
+skyldighet att rapportera till någon av Europeiska unionens
+institutioner.
+
+5 § De som har informationsansvar enligt denna förordning får
+ingå avtal med dem som är samarbetsparter enligt 1 § om de
+närmare formerna och villkoren för samarbetet.
+
+Lantmäteriet får ingå sådana samarbetsavtal även i frågor som
+avser någon annan informationsansvarigs samarbete, om
+Lantmäteriet och den informationsansvarige är överens om det.
+
+6 § Bestämmelser om samarbetet med Europeiska unionens
+institutioner och med organ som har inrättats genom
+internationella avtal där Europeiska gemenskapen och Europeiska
+unionens medlemsstater är parter finns i kommissionens
+förordning (EU) nr 268/2010 av den 29 mars 2010 om genomförande
+av Europaparlamentets och rådets direktiv 2007/2/EG vad avser
+tillgången för gemenskapens institutioner och organ till
+medlemsstaternas rumsliga datamängder och datatjänster på
+harmoniserade villkor.
+
+6 kap. Frivillig medverkan
+
+1 § Den som inte är informationsansvarig enligt denna
+förordning får efter ansökan frivilligt medverka i det
+sammanhängande systemet för geografisk miljöinformation genom
+att göra information och informationshanteringstjänster
+tillgängliga i systemet, om medverkan
+
+1. avser geografisk miljöinformation,
+
+2. innebär att metadata tillhandahålls som uppfyller kraven i
+4 kap. 9 § och förordning (EG) nr 1205/2008,
+
+3. informationen och informationshanteringstjänsterna är
+användbara i systemet, och
+
+4. innebär att den medverkande uppfyller de skyldigheter i
+övrigt som gäller för informationsansvariga.
+
+2 § Frågor om frivillig medverkan enligt 1 § prövas av
+Lantmäteriet.
+
+
+Övergångsbestämmelser
+
+2010:1770
+
+1. Denna förordning träder i kraft den 1 januari 2011.
+
+2. Rapportering enligt 2 kap. 5 § ska första gången göras
+senast den 15 maj 2013.
+
+3. För den information som anges i 3 kap. 14-33 §§ och
+anslutande informationshanteringstjänster behöver metadata
+trots 4 kap. 1 § finnas först den 3 december 2013.
+
+4. Information behöver göras tillgänglig enligt 4 kap. 1 och
+2 §§ först vid den tidpunkt som inträffar
+
+a) två år efter att de bestämmelser som avses i 4 kap. 3 § har
+antagits, om informationen har genomgått en omfattande
+omstrukturering eller nyinsamlats efter denna förordnings
+ikraftträdande, eller
+
+b) sju år efter att de bestämmelser som avses i 4 kap. 3 § har
+antagits, om informationen inte omfattas av a.
