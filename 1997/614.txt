@@ -354,20 +354,47 @@ investeringsverksamhet.
 hur utfallet förhåller sig till den budget som fastställts för
 den löpande verksamheten.
 
-4 § Om kostnaderna för ett visst räkenskapsår överstiger
-intäkterna, skall det i förvaltningsberättelsen för det året
-anges när och på vilket sätt man avser att göra den i 8 kap.
-5 a § kommunallagen (1991:900) föreskrivna reg-leringen av det
-negativa resultatet. Om fullmäktige har beslutat att en sådan
-reglering inte skall ske, skall upplysning lämnas om detta.
-Därvid skall skälen till beslutet anges.
+3 a § Förvaltningsberättelsen ska innehålla upplysningar om
+dels årets resultat efter balanskravsjusteringar, dels detta
+resultat med justering för förändring av
+resultatutjämningsreserven (balanskravsresultat).
 
-Upplysning skall också lämnas om hur tidigare räkenskapsårs
-negativa resultat har reglerats. Lag (2004:776).
+Balanskravsjusteringar görs genom att följande uppgifter inte
+beaktas vid beräkningen av årets resultat:
 
-5 § Förvaltningsberättelsen skall innehålla en utvärdering av
-om målen för en god ekonomisk hushållning har uppnåtts.
-Lag (2004:776).
+1. realisationsvinster som inte står i överensstämmelse med
+god ekonomisk hushållning,
+
+2. realisationsförluster till följd av försäljning som står i
+överensstämmelse med god ekonomisk hushållning,
+
+3. orealiserade förluster i värdepapper, och
+
+4. återföring av orealiserade förluster i värdepapper.
+Lag (2012:799).
+
+4 § Om balanskravsresultatet enligt 3 a § för ett visst
+räkenskapsår är negativt, ska det i förvaltningsberättelsen
+för det året anges när och på vilket sätt man avser att göra
+den i 8 kap. 5 a § kommunallagen (1991:900) föreskrivna
+regleringen av det negativa balanskravsresultatet.
+
+Om fullmäktige har beslutat att en sådan reglering inte ska
+ske, ska upplysning lämnas om detta. Därvid ska skälen till
+beslutet anges.
+
+Upplysning ska också lämnas om hur tidigare räkenskapsårs
+negativa balanskravsresultat har reglerats och om det
+balanskravsresultat som återstår att reglera.
+Lag (2012:799).
+
+5 § Förvaltningsberättelsen ska innehålla en utvärdering av
+om målen och riktlinjerna enligt 8 kap. 5 § andra stycket
+kommunallagen (1991:900) har uppnåtts och följts.
+
+Förvaltningsberättelsen ska även innehålla en utvärdering av
+kommunens eller landstingets ekonomiska ställning.
+Lag (2012:799).
 
 5 kap. Resultaträkning och balansräkning
 
@@ -429,7 +456,7 @@ II. Materiella anläggningstillgångar
 
 III. Finansiella anläggningstillgångar
 
-B.Bidrag till statlig infrastruktur
+B. Bidrag till statlig infrastruktur
 
 C. Omsättningstillgångar
 
@@ -443,7 +470,13 @@ IV. Kassa och bank
 
 Eget kapital, avsättningar och skulder
 
-A. Eget kapital, därav årets resultat
+A. Eget kapital
+
+I. Årets resultat
+
+II. Resultatutjämningsreserv
+
+III. Övrigt eget kapital
 
 B. Avsättningar
 
@@ -463,11 +496,11 @@ Panter och ansvarsförbindelser
 
 2. Ansvarsförbindelser
 
-a)Pensionsförpliktelser som inte har upptagits bland
+a) Pensionsförpliktelser som inte har upptagits bland
 skulderna eller avsättningarna
 
-b)Övriga ansvarsförbindelser
-Lag (2009:1319).
+b) Övriga ansvarsförbindelser
+Lag (2012:799).
 
 Postindelningen i resultat- och balansräkningarna
 
