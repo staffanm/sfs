@@ -31,9 +31,9 @@ stället för personuppgiftslagen (1998:204).
 En registrerad har inte rätt att motsätta sig sådan behandling
 som är tillåten enligt denna lag.
 
-3 § När personuppgifter behandlas enligt denna lag eller enligt
-andra föreskrifter i det ämne som regleras i lagen gäller
-personuppgiftslagens (1998:204) bestämmelser om
+3 § När personuppgifter behandlas enligt denna lag eller
+enligt andra föreskrifter i det ämne som regleras i lagen
+gäller personuppgiftslagens (1998:204) bestämmelser om
 
 1. definitioner i 3 §,
 
@@ -46,16 +46,18 @@ som sägs i första stycket i och tredje stycket,
 
 5. överföring av personuppgifter till tredje land i 33-35 §§,
 
-6. personuppgiftsombud, m.m. i 36 § andra stycket och 38-41 §§,
+6. personuppgiftsombud, m.m. i 36 § andra stycket och
+38-41 §§,
 
-7. upplysningar till allmänheten om vissa behandlingar i 42 §,
+7. upplysningar till allmänheten om vissa behandlingar i 42 §
+med den begränsning som anges i 3 kap. 2 a § i denna lag,
 
 8. tillsynsmyndighetens befogenheter i 43 och 47 §§, och
 
 9. straff i 49 §.
 
 Vid behandling av personuppgifter som inte sker i databaser
-gäller även 22 § personuppgiftslagen.
+gäller även 22 § personuppgiftslagen. Lag (2012:845).
 
 Ändamål
 
@@ -207,8 +209,7 @@ En handling som upprättats i ett ärende får behandlas i
 databasen och får innehålla sådana uppgifter om de är
 nödvändiga för ärendets handläggning.
 
-4 a § /Träder i kraft I:2013-01-01/
-I databasen får uppgifter och handlingar behandlas som
+4 a § I databasen får uppgifter och handlingar behandlas som
 ingår i det datoriserade system som avses i artikel 1 i
 Europaparlamentets och rådets beslut nr 1152/2003/EG av den 16
 juni 2003 om datorisering av uppgifter om förflyttningar och
@@ -266,9 +267,8 @@ Regeringen meddelar närmare föreskrifter om vilka uppgifter
 direktåtkomst enligt första stycket får omfatta.
 Lag (2007:329).
 
-8 § /Upphör att gälla U:2013-01-01/
-Kronofogdemyndigheten får ha direktåtkomst till uppgifter
-som avses i 3 § 15, 8, 10 och 11. Direktåtkomst till
+8 § Kronofogdemyndigheten får ha direktåtkomst till uppgifter
+som avses i 3 § 1-5, 8, 10 och 11. Direktåtkomst till
 uppgifter som avses i 3 § 4, 5, 8, 10 och 11 får endast avse
 den som
 
@@ -283,35 +283,7 @@ skuldsanering, eller
 Kronofogdemyndigheten.
 
 Tullverket får ha direktåtkomst till uppgifter som avses i 3 §
-15, 10 och 11. Åtkomsten får endast avse den som är eller kan
-antas vara gäldenär enligt tullagstiftningen, skyldig att
-betala skatt för vara vid import eller föremål för Tullverkets
-kontrollverksamhet enligt lagen (1998:506) om
-punktskattekontroll av transporter m.m. av alkoholvaror,
-tobaksvaror och energiprodukter.
-
-Regeringen meddelar närmare föreskrifter om vilka uppgifter
-direktåtkomst enligt första och andra styckena får omfatta.
-Lag (2011:531).
-
-8 § /Träder i kraft I:2013-01-01/
-Kronofogdemyndigheten får ha direktåtkomst till uppgifter
-som avses i 3 § 15, 8, 10 och 11. Direktåtkomst till
-uppgifter som avses i 3 § 4, 5, 8, 10 och 11 får endast avse
-den som
-
-1. har ansökt om skuldsanering,
-
-2. är registrerad som gäldenär hos Kronofogdemyndigheten,
-
-3. är make eller likställd med make till den som har ansökt om
-skuldsanering, eller
-
-4. är make eller likställd med make till gäldenär hos
-Kronofogdemyndigheten.
-
-Tullverket får ha direktåtkomst till uppgifter som avses i 3 §
-15, 10 och 11. Åtkomsten får endast avse den som är eller
+1-5, 10 och 11. Åtkomsten får endast avse den som är eller
 kan antas vara gäldenär enligt tullagstiftningen, skyldig att
 betala skatt för vara vid import eller föremål för Tullverkets
 kontrollverksamhet enligt lagen (1998:506) om
@@ -368,26 +340,7 @@ anges i 12 §, gallras senast sju år efter utgången av det
 kalenderår då den beskattningperiod som uppgifterna eller
 handlingarna kan hänföras till gick ut.
 
-12 § /Upphör att gälla U:2013-01-01/
-Uppgifter och handlingar som avser
-
-1. revision ska gallras tio år efter utgången av det
-kalenderår då revisionen avslutades, och
-
-2. fastighetstaxering ska gallras tolv år efter utgången av
-det taxeringsår som uppgifterna eller handlingarna kan
-hänföras till.
-
-Uppgifter och handlingar om godkända upplagshavare,
-registrerade varumottagare, tillfälligt registrerade
-varumottagare, registrerade avsändare eller godkända
-skatteupplag enligt lagen (1994:1563) om tobaksskatt, lagen
-(1994:1564) om alkoholskatt samt lagen (1994:1776) om skatt
-på energi ska gallras sju år efter utgången av det kalenderår
-då aktören avregistrerades. Lag (2009:1508).
-
-12 § /Träder i kraft I:2013-01-01/
-Uppgifter och handlingar som avser
+12 § Uppgifter och handlingar som avser
 
 1. revision ska gallras tio år efter utgången av det
 kalenderår då revisionen avslutades, och
@@ -430,12 +383,12 @@ tryckfrihetsförordningen. Lag (2003:670).
 
 3 kap. Enskildas rättigheter
 
-Information till den registrerade
+Information till den registrerade m.fl.
 
 1 § Vid tillämpningen av denna lag gäller bestämmelserna om
 information till den registrerade i 23 och 25-27 §§
-personuppgiftslagen (1998:204), med den begränsning som anges i
-2 §.
+personuppgiftslagen (1998:204), med de begränsningar som anges
+i 2 och 2 a §§. Lag (2012:845).
 
 2 § Information som skall lämnas enligt 26 §
 personuppgiftslagen (1998:204) behöver inte omfatta uppgift i
@@ -447,11 +400,20 @@ Om informationen inte innehåller handling som avses i första
 stycket, skall det av informationen framgå att handlingen
 behandlas i databasen.
 
+2 a § Vid behandling av personuppgifter på grund av samarbete
+enligt lagen (2012:843) om administrativt samarbete inom
+Europeiska unionen i fråga om beskattning tillämpas inte 23,
+25, 26, 28 och 42 §§ personuppgiftslagen (1998:204) om sådana
+begränsningar är nödvändiga med hänsyn till ett intresse som
+anges i 8 a § f personuppgiftslagen. Lag (2012:845).
+
 Rättelse och skadestånd
 
-3 § Bestämmelserna i personuppgiftslagen (1998:204) om rättelse
-och skadestånd gäller vid behandling av personuppgifter enligt
-denna lag eller anslutande författningar.
+3 § Bestämmelserna i personuppgiftslagen (1998:204) om
+rättelse och skadestånd gäller vid behandling av
+personuppgifter enligt denna lag eller anslutande
+författningar, med den begränsning som anges i 2 a § i fråga
+om rättelse. Lag (2012:845).
 
 Överklagande
 
