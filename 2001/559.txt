@@ -112,20 +112,31 @@ Lätt buss               En buss med en totalvikt av högst 3,5 ton.
 
 Lätt lastbil            En lastbil med en totalvikt av högst 3,5 ton.
 
-Lätt motorcykel         1. En motorcykel som drivs av förbränningsmotor med
-                        en slagvolym om högst 125 kubikcentimeter och en
-                        nettoeffekt av högst 11 kilowatt.
+Lätt motorcykel         1. En motorcykel på två eller fyra hjul
 
-                        2. En motorcykel med annan motor än förbränningsmotor
-                        som har en nettoeffekt av högst 11 kilowatt.
+                        a) som drivs av förbränningsmotor med en
+                        slagvolym om högst 125 kubikcentimeter,
+                        en nettoeffekt av högst 11 kilowatt och
+                        ett förhållande mellan nettoeffekt och
+                        tjänstevikt som inte överstiger 0,1
+                        kilowatt/kilogram,
 
-Lätt släpfordon         1. Ett släpfordon med en totalvikt av högst 750
-                        kilogram.
+                        b) med annan motor än förbränningsmotor
+                        som har en nettoeffekt av högst 11
+                        kilowatt och ett förhållande mellan
+                        nettoeffekt och tjänstevikt som inte
+                        överstiger 0,1 kilowatt/kilogram.
 
-                        2. Ett släpfordon med en totalvikt över 750 kilogram
-                        under förutsättning att denna inte överstiger
-                        dragfordonets tjänstevikt och att dragfordonets och
-                        släpfordonets sammanlagda totalvikt inte överstiger
+                        2. En motorcykel på tre hjul med en
+                        nettoeffekt av högst 15 kilowatt.
+
+Lätt släpfordon         1. Ett släpfordon med en totalvikt av
+                        högst 750 kilogram.
+
+                        2. Ett släpfordon med en totalvikt
+                        över 750 kilogram under förutsättning
+                        att dragfordonets och släpfordonets
+                        sammanlagda totalvikt inte överstiger
                         3,5 ton.
 
 Lätt terrängvagn        En terrängvagn vars tjänstevikt är högst 2 ton.
@@ -406,14 +417,23 @@ Tung buss               En buss med en totalvikt över 3,5 ton.
 
 Tung lastbil            En lastbil med en totalvikt över 3,5 ton.
 
-Tung motorcykel         En motorcykel vars motor har en slagvolym som
-                        överstiger 125 kubikcentimeter eller en nettoeffekt
-                        som överstiger 11 kilowatt.
+Tung motorcykel         1. En motorcykel på två eller fyra hjul
+                        vars motor har en slagvolym som överstiger
+                        125 kubikcentimeter, en netto-effekt som
+                        överstiger 11 kilowatt eller ett
+                        förhållande mellan nettoeffekt och
+                        tjänstevikt som överstiger 0,1
+                        kilowatt/kilogram.
 
-Tung terrängvagn        En terrängvagn med en tjänstevikt över 2 ton.
+                        2. En motorcykel på tre hjul med en
+                        nettoeffekt som överstiger 15 kilowatt.
 
-Tungt släpfordon        Ett annat släpfordon än ett lätt släpfordon.
-Lag (2011:913).
+Tungt släpfordon        Ett annat släpfordon än ett lätt
+                        släpfordon.
+
+Tung terrängvagn        En terrängvagn med en tjänstevikt över
+                        2 ton.
+Lag (2012:875).
 
 2 a § Oavsett vad som anges i 2 § ska ett fordon som
 registreras med stöd av ett godkännande enligt en EG-rättsakt
