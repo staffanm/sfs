@@ -10,10 +10,20 @@ Lagens tillämpningsområde
 
 1 § I denna lag finns bestämmelser om värdepappersmarknaden.
 
-I 2-11 kap. finns särskilda bestämmelser om
-värdepappersrörelse, i 12-18 kap. om börsverksamhet m.m. och i
-19-21 kap. om clearingverksamhet. I 22-26 kap. finns vissa
-gemensamma bestämmelser.
+I 2–11 kap. finns särskilda bestämmelser om värdepappersrörelse, i 12–18 kap. om börsverksamhet m.m. och i 19–21 kap. om clearingverksamhet. I 22–26 kap. finns vissa gemensamma bestämmelser.
+
+För sådan clearingverksamhet som avses i 5 § 6 b gäller endast följande bestämmelser i denna lag:
+
+– 1 kap. 11 och 12–14 §§ om tystnadsplikt, uppgiftsskyldighet, meddelandeförbud och ansvar,
+
+– 23 kap. 1 § första och andra styckena, 2 §, 4 § första stycket samt 7, 11, 12 och 14 §§ om tillsyn,
+
+– 25 kap. 1, 2, 6, 8–11, 17 samt 25–29 §§ om ingripanden, och
+
+– 26 kap. 1 § om överklagande.
+
+Ytterligare bestämmelser om sådan clearingverksamhet som avses i 5 § 6 b finns i Europaparlamentets och rådets förordning (EU) nr 648/2012 om OTC-derivat, centrala motparter och transaktionsregister och lagen (2013:287) med kompletterande bestämmelser till EU:s förordning om OTC-derivat, centrala motparter och transaktionsregister.
+Lag (2013:288).
 
 2 § För utländska företags verksamhet i Sverige gäller
 bestämmelserna i denna lag i tillämpliga delar. För filialer
@@ -169,17 +179,17 @@ d) tillhandahålla investeringsrådgivning till kund avseende dessa instrument e
 
 4. clearingdeltagare: den som får delta i clearingverksamheten hos en clearingorganisation,
 
-5. clearingorganisation: ett företag som har fått tillstånd enligt 19 kap. att driva clearingverksamhet,
+5. clearingorganisation: ett företag som har fått tillstånd enligt 19 kap. eller förordning (EU) nr 648/2012 att driva clearingverksamhet,
 
 6. clearingverksamhet: fortlöpande verksamhet som består i att
 
 a) på clearingdeltagarnas vägnar göra avräkningar i fråga om deras förpliktelser att leverera finansiella instrument eller att betala i svensk eller utländsk valuta,
 
-b) genom att träda in som part eller som garant ta över ansvaret för att förpliktelserna fullgörs, eller
+b) träda in som motpart till både köpare och säljare av finansiella instrument, eller
 
 c) på annat väsentligt sätt ansvara för att förpliktelserna avvecklas genom överförande av likvid eller instrument,
 
-7. direktivet om marknader för finansiella instrument: Europaparlamentets och rådets direktiv 2004/39/EG av den 21 april 2004 om marknader för finansiella instrument och om ändring av rådets direktiv 85/611/EEG och 93/6/EEG och Europaparlamentets och rådets direktiv 2000/12/EG samt upphävande av rådets direktiv 93/22/EEG, senast ändrat genom Europaparlamentets och rådets direktiv 2010/78/EU,
+7. direktivet om marknader för finansiella instrument: Europaparlamentets och rådets direktiv 2004/39/EG av den 21 april 2004 om marknader för finansiella instrument och om ändring av rådets direktiv 85/611/EEG och 93/6/ EEG och Europaparlamentets och rådets direktiv 2000/12/EG samt upphävande av rådets direktiv 93/22/EEG, senast ändrat genom Europaparlamentets och rådets direktiv 2010/78/EU,
 
 8. EES: Europeiska ekonomiska samarbetsområdet,
 
@@ -189,7 +199,9 @@ c) på annat väsentligt sätt ansvara för att förpliktelserna avvecklas genom
 
 11. genomförandeförordningen: kommissionens förordning (EG) nr 1287/ 2006 av den 10 augusti 2006 om genomförande av Europaparlamentets och rådets direktiv 2004/39/EG vad gäller dokumenteringsskyldigheter för värdepappersföretag, transaktionsrapportering, överblickbarhet på marknaden, upptagande av finansiella instrument till handel samt definitioner för tillämpning av det direktivet,
 
-12. handelsplattform: ett multilateralt handelssystem (Multilateral Trading Facility, MTF) inom EES som drivs av ett värdepappersinstitut eller en börs och som sammanför ett flertal köp- och säljintressen i finansiella instrument från tredje man – inom systemet och i enlighet med icke skönsmässiga regler – så att detta leder till avslut,
+12. handelsplattform: ett multilateralt handelssystem (Multilateral Trading Facility, MTF) inom EES som drivs av ett värdepappersinstitut eller en börs och som sammanför ett flertal köp- och säljintressen i finansiella instrument från tredje man – inom systemet och i enlighet med icke skönsmässiga regler
+
+– så att detta leder till avslut,
 
 13. hemland: det land där ett företag har fått tillstånd att driva sådan verksamhet som avses i denna lag,
 
@@ -229,8 +241,8 @@ c) för en clearingorganisation de verksamheter som anges i 20 kap. 7 §,
 
 28. värdepappersrörelse: verksamhet som består i att yrkesmässigt tillhandahålla investeringstjänster eller utföra investeringsverksamhet, och
 
-29. öppenhetsdirektivet: Europaparlamentets och rådets direktiv 2004/109/EG av den 15 december 2004 om harmonisering av insynskraven angående upplysningar om emittenter vars värdepapper är upptagna till handel på en reglerad marknad och om ändring av direktiv 2001/34/EG, senast ändrat genom Europaparlamentets och rådets direktiv 2010/78/EU.
-Lag (2012:197).
+29. öppenhetsdirektivet: Europaparlamentets och rådets direktiv 2004/109/ EG av den 15 december 2004 om harmonisering av insynskraven angående upplysningar om emittenter vars värdepapper är upptagna till handel på en reglerad marknad och om ändring av direktiv 2001/34/EG, senast ändrat genom Europaparlamentets och rådets direktiv 2010/78/EU.
+Lag (2013:288).
 
 5 a § Vid bedömningen av om ett innehav utgör ett
 kvalificerat innehav enligt 5 § 18 ska följande bestämmelser
@@ -3433,29 +3445,17 @@ Clearingverksamheten skall drivas under förhållanden som
 stämmer överens med denna lag och andra författningar och med
 god sed på värdepappersmarknaden.
 
-Krav på säkerhet m.m.
+Krav på säkerhet
 
-3 § En clearingorganisation som inträder som part i handeln
-eller garanterar förpliktelser skall se till att det vid
-clearingverksamheten ställs betryggande säkerhet för gjorda
-åtaganden och att sådan säkerhet vidmakthålls så länge
-åtagandet består. Vid annan clearingverksamhet skall
-clearingorganisationen se till att det ställs säkerhet för
-gjorda åtaganden i den utsträckning det behövs.
-
-En säkerhet skall anses betryggande, om det kan antas att
-åtagandet kan avvecklas utan att ytterligare kapital behöver
-skjutas till.
+3 § En clearingorganisation ska se till att parterna ställer säkerhet för gjorda åtaganden i den utsträckning det behövs.
+Lag (2013:288).
 
 4 § En clearingorganisation får besluta att efterge kravet på
 säkerhet, om det är uppenbart att säkerhet inte behövs. Ett
 sådant beslut får inte tillämpas innan det har godkänts av
 Finansinspektionen.
 
-5 § Om en clearingorganisation träder in som part i handeln,
-skall organisationen se till att dess riskmässiga ställning i
-handeln är balanserad. Uppstår obalans skall organisationen
-omedelbart vidta åtgärder för att återställa jämvikten.
+5 § Har upphävts genom lag (2013:288).
 
 Tillstånd till förvärv av egendom i vissa fall
 
@@ -4615,3 +4615,9 @@ Lag (2012:375).
 1. Denna lag träder i kraft den 1 juli 2012.
 
 2. För sådana skuldförbindelser som avses i 16 kap. 3 § 3 och som redan upptagits till handel på en reglerad marknad före den 31 december 2010 ska äldre bestämmelser gälla under skuldförbindelsernas återstående löptid, när det gäller tillämpligheten av informationskrav på emittenten enligt 16 kap.
+
+2013:288
+
+1. Denna lag träder i kraft den 1 juni 2013.
+
+2. En clearingorganisation som vid ikraftträdandet har tillstånd att driva sådan clearingverksamhet som avses i 1 kap. 5 § 6 b får, om en ansökan om auktorisation enligt artikel 14 i förordning (EU) nr 648/2012 har getts in i enlighet med artikel 89.3 i samma förordning, fortsätta att driva denna verksamhet enligt äldre bestämmelser till dess att ansökan har prövats slutligt. Om auktorisation vägras, ska clearingorganisationen upphöra med verksamheten.
