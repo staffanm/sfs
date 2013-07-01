@@ -245,22 +245,22 @@ Kapitlets innehåll
 
 1 § I detta kapitel finns bestämmelser om
 
-- huvudmän inom skolväsendet (2-8 §§),
+ huvudmän inom skolväsendet (28 §§),
 
-- ledningen av utbildningen (9-12 §§),
+ ledningen av utbildningen (912 §§),
 
-- lärare och förskollärare (13-24 §§),
+ lärare och förskollärare (1323 §§),
 
-- elevhälsa (25-28 §§),
+ elevhälsa (2528 §§),
 
-- studie- och yrkesvägledning (29 och 30 §§),
+ studie- och yrkesvägledning (29 och 30 §§),
 
-- registerkontroll av personal (31-33 §§),
+ registerkontroll av personal (3133 §§),
 
-- kompetensutveckling (34 §), och
+ kompetensutveckling (34 §), och
 
-- lokaler och utrustning och tillgång till skolbibliotek
-(35 och 36 §§).
+ lokaler och utrustning och tillgång till skolbibliotek (35
+och 36 §§). Lag (2013:530).
 
 Huvudmän inom skolväsendet
 
@@ -456,27 +456,39 @@ till en lärare eller förskollärare som
 
 2. med tillfredsställande resultat har genomfört en
 introduktionsperiod om minst ett läsår eller motsvarande på
-heltid inom undervisning som i huvudsak svarar mot examen, och
+heltid inom undervisning som i huvudsak svarar mot examen,
+och
 
 3. i övrigt är lämplig att bedriva undervisning.
 
+Introduktionsperioden enligt första stycket 2 ska i stället
+vara en termin  eller motsvarande på heltid om läraren
+
+1. har en examen på forskarnivå eller motsvarande utländsk
+examen, och
+
+2. har undervisat som lärare vid ett universitet, vid en
+högskola, inom skolväsendet eller inom motsvarande utbildning
+i Sverige eller i ett annat land.
+
 Skolverket ska efter ansökan komplettera en lärares eller
-förskollärares legitimation med ytterligare behörighet, om han
-eller hon med tillfredsställande resultat gått ytterligare
-behörighetsgrundande utbildning. Lag (2011:189).
+förskollärares legitimation med ytterligare behörighet, om
+han eller hon med tillfredsställande resultat gått
+ytterligare behörighetsgrundande utbildning. Lag (2013:530).
 
 16 a § Beteckningen legitimerad lärare respektive legitimerad
 förskollärare får i skolväsendet bara användas av den som har
 fått legitimation som lärare eller förskollärare.
 Lag (2011:189).
 
-16 b § Regeringen eller den myndighet som regeringen bestämmer
-får meddela föreskrifter om introduktionsperioden och
-lämplighetsprövningen enligt 16 § första stycket 2 och 3.
+16 b § Regeringen eller den myndighet som regeringen
+bestämmer får meddela föreskrifter om introduktionsperioden
+och lämplighetsprövningen enligt 16 § första stycket 2 och
+3.
 
 Regeringen får meddela föreskrifter om avgifter i samband med
-ansökan om legitimation, komplettering av legitimation och
-utnämning till lektor. Lag (2011:189).
+ansökan om legitimation och komplettering av legitimation.
+Lag (2013:530).
 
 17 § Lärare som inte uppfyller kraven i 13 § får trots det
 bedriva
@@ -556,7 +568,12 @@ anställas för högst ett år i sänder.
 
 22 § Varje huvudman ska sträva efter att för undervisningen
 anställa lärare och förskollärare som har forskarutbildning.
-Lag (2011:189).
+Huvudmännen ska också sträva efter att inrätta karriärsteg
+för särskilt yrkesskickliga lärare.
+
+Regeringen meddelar föreskrifter om statsbidrag till huvudmän
+i syfte att stimulera att dessa inrättar karriärstegen
+förstelärare och lektor. Lag (2013:530).
 
 Varning och återkallelse av legitimation
 
@@ -596,42 +613,14 @@ eller andra stycket 2, får Lärarnas ansvarsnämnd avstå från att
 meddela en varning eller återkallelse av legitimationen.
 
 Om Lärarnas ansvarsnämnd meddelar en varning eller beslutar att
-återkalla en legitimation, ska nämnden underrätta Statens
+återkalla en legitimation, ska nämnden underrätta Statens§
 skolverk och den legitimerades arbetsgivare om detta. Detsamma
 gäller om en allmän förvaltningsdomstol efter överklagande
 beslutar att meddela en varning, återkalla legitimationen eller
 undanröja nämndens beslut om varning eller återkallelse.
 Lag (2011:189).
 
-Lektor
-
-24 § Statens skolverk ska efter ansökan besluta att en
-legitimerad lärare ska benämnas lektor, om han eller hon har
-
-1. avlagt minst licentiatexamen inom ett ämne som helt eller i
-huvudsak motsvarar ett undervisningsämne eller som avser
-ämnesdidaktik eller har avlagt motsvarande utländsk examen, och
-
-2. under minst fyra års tjänstgöring som lärare visat
-pedagogisk skicklighet.
-
-Skolverket ska efter ansökan besluta att en legitimerad
-förskollärare ska benämnas lektor, om han eller hon har
-
-1. avlagt minst licentiatexamen inom ett område som omfattas av
-förskolans uppdrag eller har avlagt motsvarande utländsk
-examen, och
-
-2. under minst fyra års tjänstgöring har visat pedagogisk
-skicklighet.
-
-Benämningen lektor ska i skolväsendet förbehållas lärare som
-avses i första stycket och förskollärare som avses i andra
-stycket.
-
-Regeringen eller den myndighet som regeringen bestämmer får
-meddela föreskrifter i fråga om pedagogisk skicklighet enligt
-första stycket 2 och andra stycket 2. Lag (2011:189).
+24 § Har upphävts genom lag (2013:530).
 
 Elevhälsa
 
@@ -1373,13 +1362,10 @@ Avstängning i de frivilliga skolformerna
 vuxenutbildning, särskild utbildning för vuxna och utbildning
 i svenska för invandrare får huvudmannen besluta att helt
 eller delvis stänga av en elev om
-
 1. eleven med otillåtna hjälpmedel eller på annat sätt
 försöker vilseleda vid bedömningen av elevens måluppfyllelse
 och kunskaper,
-
 2. eleven stör eller hindrar utbildningens bedrivande,
-
 3. eleven utsätter någon annan elev eller av utbildningen
 berörd person för kränkande behandling, eller
 
@@ -2508,19 +2494,11 @@ godkänt en plan för undervisningen.
 
 Undervisningstid
 
-5 § /Upphör att gälla U:2013-07-01/
-Den totala undervisningstiden för varje elev ska vara
-minst 6 665 timmar.
-
-Ytterligare bestämmelser om fördelning av undervisningstiden
-(timplan) finns i bilaga 1.
-
-5 § /Träder i kraft I:2013-07-01/
-Den totala undervisningstiden för varje elev i
+5 § Den totala undervisningstiden för varje elev i
 grundskolan ska vara minst 6 785 timmar.
 
 Bestämmelser om fördelning av undervisningstiden (timplan)
-finns i bilaga 1. Förordning (2013:248).
+finns i bilaga 1. Lag (2013:248).
 
 Bemyndiganden
 
@@ -2815,7 +2793,6 @@ skolenhet inom sin grundskola.
 
 Kommunen får annars frångå elevens vårdnadshavares önskemål
 endast om
-
 1. den önskade placeringen skulle medföra betydande
 organisatoriska eller ekonomiska svårigheter för kommunen,
 eller
@@ -2831,9 +2808,7 @@ rätt att gå kvar där om inte något annat följer av 30 § andra
 stycket. Detsamma ska gälla den som har tagits emot i
 förskoleklassen och som ska fortsätta sin utbildning i
 grundskolan vid samma skolenhet.
-
 Skolskjuts i hemkommunen
-
 32 § Elever i grundskola med offentlig huvudman har rätt till
 kostnadsfri skolskjuts från en plats i anslutning till
 elevens hem till den plats där utbildningen bedrivs och
@@ -3070,23 +3045,14 @@ bredda elevens kunskaper i ett eller flera ämnen eller
 
 Undervisningstid
 
-7 § /Upphör att gälla U:2013-07-01/
-Den totala undervisningstiden för varje elev i
-grundsärskolan ska vara minst 6 665 timmar.
-
-Regeringen eller den myndighet som regeringen bestämmer får
-meddela föreskrifter om fördelning av undervisningstiden
-(timplan).
-
-7 § /Träder i kraft I:2013-07-01/
-Den totala undervisningstiden för varje elev i
+7 § Den totala undervisningstiden för varje elev i
 grundsärskolan ska vara minst 6 785 timmar. För en elev i
 inriktningen träningsskolan ska den totala undervisningstiden
 dock vara minst 6 665 timmar.
 
 Regeringen eller den myndighet som regeringen bestämmer får
 meddela föreskrifter om fördelning av undervisningstiden
-(timplan). Förordning (2013:248).
+(timplan). Lag (2013:248).
 
 8 § Huvudmannen för utbildningen avgör om en elev som tas
 emot i grundsärskolan huvudsakligen ska läsa ämnen eller
@@ -3562,21 +3528,12 @@ Lag (2011:876).
 
 Undervisningstid
 
-5 § /Upphör att gälla U:2013-07-01/
-Den totala undervisningstiden för varje elev i
-specialskolan ska vara minst 7 845 timmar.
-
-Regeringen eller den myndighet som regeringen bestämmer
-meddelar föreskrifter om fördelning av undervisningstiden
-(timplan).
-
-5 § /Träder i kraft I:2013-07-01/
-Den totala undervisningstiden för varje elev i
+5 § Den totala undervisningstiden för varje elev i
 specialskolan ska vara minst 7 965 timmar.
 
 Regeringen eller den myndighet som regeringen bestämmer
 meddelar föreskrifter om fördelning av undervisningstiden
-(timplan). Förordning (2013:248).
+(timplan). Lag (2013:248).
 
 Bemyndiganden
 
@@ -3883,21 +3840,12 @@ bredda elevens kunskaper i ett eller flera ämnen.
 
 Undervisningstid
 
-5 § /Upphör att gälla U:2013-07-01/
-Den totala undervisningstiden för varje elev ska vara
-minst 4 200 timmar.
-
-Regeringen eller den myndighet som regeringen bestämmer
-meddelar föreskrifter om fördelning av undervisningstiden
-(timplan).
-
-5 § /Träder i kraft I:2013-07-01/
-Den totala undervisningstiden för varje elev i sameskolan
+5 § Den totala undervisningstiden för varje elev i sameskolan
 ska vara minst 4 320 timmar.
 
 Regeringen eller den myndighet som regeringen bestämmer
 meddelar föreskrifter om fördelning av undervisningstiden
-(timplan). Förordning (2013:248).
+(timplan). Lag (2013:248).
 
 6 § Regeringen eller den myndighet som regeringen bestämmer
 får meddela föreskrifter om
@@ -4366,7 +4314,6 @@ Lag (2010:1997).
 
 Utbildning anpassad för elever med vissa
 funktionsnedsättningar
-
 9 § För ungdomar med ett svårt rörelsehinder får de kommuner
 som regeringen beslutar anordna speciellt anpassad utbildning
 (gymnasieskola med Rh-anpassad utbildning) i sin
@@ -4409,12 +4356,10 @@ anpassad utbildning.
 
 13 § Regeringen meddelar föreskrifter om urval bland mottagna
 sökande.
-
 14 § Antagningsorganisationen får vara gemensam för
 gymnasieskolan, gymnasiesärskolan, kommunal vuxenutbildning på
 gymnasial nivå och särskild utbildning för vuxna på gymnasial
 nivå.
-
 Antagningsorganisationen får vara gemensam för gymnasieskola
 anordnad av kommuner, landsting och enskilda huvudmän.
 Lag (2012:109).
@@ -5815,7 +5760,6 @@ meddela föreskrifter om modersmålsundervisning. Sådana
 föreskrifter får innebära att modersmålsundervisning ska
 erbjudas i ett språk bara om ett visst antal elever önskar
 sådan undervisning i det språket. Lag (2012:109).
-
 Utvecklingssamtal
 
 20 § Minst en gång varje termin ska rektorn se till att eleven
@@ -5855,13 +5799,11 @@ i 3 kap. 16 § om vem som beslutar om betyg. Lag (2012:109).
 beteckningarna A, B, C, D eller E användas. Högsta betyg
 betecknas med A och lägsta betyg med E. Betyg ska sättas med
 hjälp av de kunskapskrav som har föreskrivits för en kurs.
-
 För den elev som inte har uppnått kraven för betyget E, ska
 betyg inte sättas.
 
 Regeringen eller den myndighet som regeringen bestämmer
 meddelar föreskrifter om kunskapskrav. Lag (2012:109).
-
 24 § Som betyg på gymnasiesärskolearbetet ska beteckningen E
 användas om eleven har nått målen för gymnasiesärskolearbetet.
 För den elev som inte har nått målen för
@@ -5947,18 +5889,19 @@ Stöd till inackordering
 
 32 § Hemkommunen ska lämna ekonomiskt stöd till elever i en
 gymnasiesärskola med offentlig huvudman som behöver
-inackordering på grund av skolgången.
-
-Denna skyldighet gäller dock inte elever som har tagits emot i
-andra hand till ett nationellt program enligt 19 kap. 39 §.
+inackordering på grund av skolgången. Denna skyldighet gäller
+till och med första kalenderhalvåret det år eleven fyller
+20 år. Skyldigheten gäller dock inte elever som har tagits
+emot i andra hand till ett nationellt program enligt 19 kap.
+39 §.
 
 Stödet ska avse boende, fördyrat uppehälle och resor till och
 från hemmet. Det ska ges kontant eller på annat sätt som ska
 framgå av beslutet om stöd. Om stödet ges kontant, ska det
-lämnas med lägst 1/30 av prisbasbeloppet enligt 2 kap. 6 och
+lämnas med lägst 1/30 av prisbasbeloppet enligt 2 kap. 6 och
 7 §§ socialförsäkringsbalken för varje hel kalendermånad som
 eleven bor inackorderad. Beloppet får avrundas till närmast
-lägre hela tiotal kronor. Lag (2012:109).
+lägre hela tiotal kronor. Lag (2013:530).
 
 Urval
 
@@ -7182,7 +7125,6 @@ meddelar ytterligare föreskrifter om behörighetsvillkor.
 Första och andra styckena gäller inte intagna i
 kriminalvårdsanstalt. Av 24 kap. 10 § framgår att
 Kriminalvården ansvarar för deras utbildning. Lag (2012:109).
-
 Betyg
 
 Tillämpliga bestämmelser
@@ -7219,7 +7161,6 @@ elevens kunskaper i förhållande till uppställda kunskapskrav i
 ämnesplaner.
 
 Kunskapskrav ska finnas för varje kurs där betyg ska sättas.
-
 Regeringen eller den myndighet som regeringen bestämmer
 meddelar föreskrifter om kunskapskrav. Lag (2012:109).
 
@@ -7233,7 +7174,6 @@ kunskapskrav. En utvecklingsstörning får dock bara beaktas om
 det finns synnerliga skäl. De kunskapskrav som rör säkerhet och
 de som hänvisar till lagar, förordningar eller myndigheters
 föreskrifter ska dock alltid uppfyllas. Lag (2012:109).
-
 20 b § Om det saknas underlag för bedömning av en elevs
 kunskaper i en kurs på grund av elevens bristande deltagande,
 ska betyg inte sättas på kursen. Lag (2012:109).
@@ -8327,14 +8267,7 @@ rätt till bidrag enligt 25 kap. 10 §.
 Kommunens tillsyn enligt första stycket omfattar inte tillsyn
 över att bestämmelserna i 6 kap. följs.
 
-5 § /Upphör att gälla U:2013-06-01/
-Socialstyrelsen har tillsyn över elevhemsboende vid Rh-
-anpassad utbildning, specialskolan och viss utbildning för
-elever med utvecklingsstörning som bedrivs enligt avtal med
-staten.
-
-5 § /Träder i kraft I:2013-06-01/
-Inspektionen för vård och omsorg utövar tillsyn över
+5 § Inspektionen för vård och omsorg utövar tillsyn över
 elevhemsboende vid Rh-anpassad utbildning, specialskolan och
 viss utbildning för elever med utvecklingsstörning som bedrivs
 enligt avtal med staten. Lag (2012:958).
@@ -8574,7 +8507,6 @@ Skolväsendets överklagandenämnd
 1 § För prövning av överklaganden av vissa beslut på
 skolväsendets område ska det finnas en särskild nämnd,
 Skolväsendets överklagandenämnd.
-
 Sammansättning
 
 2 § Nämnden ska bestå av en ordförande och fem andra
@@ -8616,7 +8548,6 @@ ställföreträdare. En sådan ställföreträdare ska vara eller ha
 varit ordinarie domare. För varje annan ledamot ska det finnas
 ett tillräckligt antal ersättare som ska utses för samma tid
 som ledamoten. Lag (2011:189).
-
 Beslutförhet
 
 6 § Lärarnas ansvarsnämnd är beslutför med ordföranden och
@@ -8632,7 +8563,6 @@ först. Lag (2011:189).
 Beslut av ordföranden
 
 7 § Ordföranden får ensam fatta beslut
-
 1. som inte innefattar slutligt avgörande i sak, dock inte
 beslut om föreläggande att genomgå läkarundersökning enligt
 27 kap. 13 §,
@@ -8791,16 +8721,13 @@ Beslut av Statens skolverk
 3 § Beslut av Statens skolverk får överklagas hos allmän
 förvaltningsdomstol om beslutet gäller
 
-1. vitesföreläggande enligt 26 kap. 27 §,
+1. vitesföreläggande enligt 26 kap. 27 §,
 
 2. avslag på en ansökan om lärar- eller
-förskollärarlegitimation enligt 2 kap. 16 §,
+förskollärarlegitimation enligt 2 kap. 16 §, eller
 
-3. avslag på en ansökan om komplettering av legitimation enligt
-2 kap. 16 §, eller
-
-4. avslag på en ansökan om utnämning till lektor enligt 2 kap.
-24 §. Lag (2011:189).
+3. avslag på en ansökan om komplettering av legitimation
+enligt 2 kap. 16 §. Lag (2013:530).
 
 Beslut av Lärarnas ansvarsnämnd
 
@@ -8896,17 +8823,7 @@ eller
 
 Beslut av Sameskolstyrelsen
 
-8 § /Upphör att gälla U:2013-07-01/
-Beslut av Sameskolstyrelsen får överklagas hos allmän
-förvaltningsdomstol i fråga om
-
-1. föreläggande för vårdnadshavare att fullgöra sina
-skyldigheter enligt 7 kap. 23 §, eller
-
-2. kostnadsfria resor enligt 13 kap. 16 § första stycket.
-
-8 § /Träder i kraft I:2013-07-01/
-Beslut av Sameskolstyrelsen får överklagas hos allmän
+8 § Beslut av Sameskolstyrelsen får överklagas hos allmän
 förvaltningsdomstol i fråga om
 
 1. föreläggande för vårdnadshavare att fullgöra sina
@@ -9038,23 +8955,7 @@ barnet.
 
 Beslut av Sameskolstyrelsen
 
-15 § /Upphör att gälla U:2013-07-01/
-Beslut av Sameskolstyrelsen får överklagas hos
-Skolväsendets överklagandenämnd i fråga om
-
-1. barns mottagande i sameskolan enligt 7 kap. 7 §,
-
-2. åtgärder enligt 13 kap. 16 § andra stycket för en elev som
-inte bor hemma, eller
-
-3. rätt till utbildning för någon som avses i 29 kap. 2 §
-andra stycket 3.
-
-Beslut som avses i första stycket 1 får överklagas endast av
-barnet.
-
-15 § /Träder i kraft I:2013-07-01/
-Beslut av Sameskolstyrelsen får överklagas hos
+15 § Beslut av Sameskolstyrelsen får överklagas hos
 Skolväsendets överklagandenämnd i fråga om
 
 1. barns mottagande i sameskolan enligt 7 kap. 7 §,
@@ -9139,35 +9040,7 @@ Kapitlets innehåll
 
 Bosättning
 
-2 § /Upphör att gälla U:2013-07-01/
-Med bosatt i landet avses i denna lag den som ska vara
-folkbokförd här enligt folkbokföringslagen (1991:481).
-
-Som bosatt i landet ska vid tillämpningen av denna lag anses
-även den som inte är folkbokförd här men som
-
-1. omfattas av 1 § första eller tredje stycket lagen
-(1994:137) om mottagande av asylsökande m.fl.,
-
-2. vistas här med stöd av tidsbegränsat uppehållstillstånd
-enligt 5 kap. 15 § utlänningslagen (2005:716),
-
-3. har rätt till utbildning eller annan verksamhet enligt
-denna lag till följd av EU-rätten, avtalet om Europeiska
-ekonomiska samarbetsområdet (EES) eller avtalet mellan
-Europeiska unionen och dess medlemsstater, å ena sidan, och
-Schweiz, å andra sidan, om fri rörlighet för personer, eller
-
-4. är familjemedlem till en person som tillhör en främmande
-makts beskickning eller lönade konsulat eller dess betjäning
-eller som avses i 4 § lagen (1976:661) om immunitet och
-privilegier i vissa fall och som inte omfattas av 3.
-
-Begränsningar i rätten till utbildning för dem som avses i
-andra stycket följer av 3 §.
-
-2 § /Träder i kraft I:2013-07-01/
-Med bosatt i landet avses i denna lag den som ska vara
+2 § Med bosatt i landet avses i denna lag den som ska vara
 folkbokförd här enligt folkbokföringslagen (1991:481).
 
 Som bosatt i landet ska vid tillämpningen av denna lag anses
@@ -9204,20 +9077,7 @@ andra stycket 5.
 Begränsningar i rätten till utbildning för dem som avses i
 andra stycket följer av 3 §. Lag (2013:298).
 
-3 § /Upphör att gälla U:2013-07-01/
-De personer som avses i 2 § andra stycket 1 och 2 har
-rätt till utbildning i gymnasieskola och gymnasiesärskola
-endast om de har påbörjat utbildningen innan de fyllt 18 år.
-De har inte rätt till utbildning i kommunal vuxenutbildning,
-särskild utbildning för vuxna eller utbildning i svenska för
-invandrare.
-
-De personer som avses i 2 § andra stycket 4 har endast rätt
-till utbildning i grundskola, grundsärskola, specialskola och
-sameskola.
-
-3 § /Träder i kraft I:2013-07-01/
-De personer som avses i 2 § andra stycket 1 och 2 har
+3 § De personer som avses i 2 § andra stycket 1 och 2 har
 rätt till utbildning i gymnasieskola och gymnasiesärskola
 endast om de har påbörjat utbildningen innan de fyllt 18 år.
 De har inte rätt till utbildning i kommunal vuxenutbildning,
@@ -9234,16 +9094,7 @@ specialskola, sameskola och, om de påbörjar utbildningen
 innan de fyllt 18 år, gymnasieskola och gymnasiesärskola.
 Lag (2013:298).
 
-4 § /Upphör att gälla U:2013-07-01/
-En person som avses i 2 § andra stycket 1 ska anses som
-bosatt i Sverige även om ett beslut om avvisning eller
-utvisning har meddelats. Detta gäller fram till dess att
-personen lämnar Sverige under förutsättning att han eller hon
-inte håller sig undan så att ett sådant beslut inte kan
-verkställas.
-
-4 § /Träder i kraft I:2013-07-01/
-Bestämmelsen i 9 kap. 4 § andra stycket gäller inte i
+4 § Bestämmelsen i 9 kap. 4 § andra stycket gäller inte i
 fråga om vårdnadshavare för barn som avses i 2 § andra
 stycket 5. Lag (2013:298).
 
@@ -9714,48 +9565,20 @@ eller en högre årskurs i specialskolan.
 2. Bestämmelserna i 28 kap. 8 och 15 §§ i sina nya lydelser
 tillämpas för tid från och med den 1 juli 2011.
 
+2013:530
 
-Bilaga 1 /Upphör att gälla U:2013-07-01/
+1. Denna lag träder i kraft den 1 juli 2013.
 
-Timplan för grundskolan
+2. De upphävda bestämmelserna i 2 kap. 24 § första, andra och
+fjärde styckena gäller fortfarande för ansökningar som har
+getts in till Statens skolverk före ikraftträdandet.
 
-Undervisningstid i timmar om 60 minuter för ämnen och
-ämnesgrupper totalt
+3. Bestämmelsen i 28 kap. 3 § i sin äldre lydelse gäller
+fortfarande för ansökningar som har getts in till Statens
+skolverk före ikraftträdandet.
 
-Ämnen
 
-Bild                                            230
-Hem- och konsumentkunskap                       118
-Idrott och hälsa                                500
-Musik                                           230
-Slöjd                                           330
-
-Svenska eller svenska som andraspråk            1 490
-Engelska                                        480
-Matematik                                       900
-
-Geografi                                        885
-Historia
-Religionskunskap
-Samhällskunskap
-
-Biologi                                         800
-Fysik
-Kemi
-Teknik
-
-Språkval                                        320
-
-Elevens val                                     382
-
-Totalt garanterat antal timmar                  6 665
-
-Därav skolans val                               600
-
-Vid skolans val får antalet timmar i timplanen för ett ämne
-eller en ämnesgrupp minskas med högst 20 procent.
-
-Bilaga 1 /Träder i kraft I:2013-07-01/
+Bilaga 1
 
 Timplan för grundskolan
 
@@ -9794,7 +9617,7 @@ Därav skolans val                               600
 Vid skolans val får antalet timmar i timplanen för ett ämne
 eller en ämnesgrupp minskas med högst 20 procent. Antalet
 timmar för svenska eller svenska som andraspråk, engelska och
-matematik får dock inte minskas. Förordning (2013:248).
+matematik får dock inte minskas. Lag (2013:248).
 
 
 Bilaga 2
