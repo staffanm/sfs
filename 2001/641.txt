@@ -1,5 +1,3 @@
-
-
 Inledande bestämmelse
 
 1 § Denna förordning gäller utöver personuppgiftslagen
@@ -58,15 +56,13 @@ Myndigheter som enligt 3 § andra stycket har direktåtkomst till
 ett register får som sökbegrepp inte använda uppgifter om
 parter eller andra aktörer i ett mål. Förordning (2003:601).
 
-6 § Uppgifter skall gallras ur ett register enligt de
+6 § Uppgifter ska gallras ur ett register enligt de
 gallringsföreskrifter från Riksarkivet som gäller för
 domstolarna.
 
-Om uppgifter gallras skall domstolen dessförinnan se till att
-de bevaras på annat sätt i den omfattning som skulle följa av
-förordningen (1979:575) om protokollföring m.m. vid de allmänna
-förvaltningsdomstolarna, om domstolen inte hade använt sig av
-automatiserad behandling.
+Innan uppgifter gallras ska domstolen se till att de bevaras
+i skrift i den omfattning som Domstolsverket föreskriver.
+Förordning (2013:402).
 
 Rättsfallsregister
 
@@ -158,11 +154,11 @@ A Mål
 
 15. om körkort:
 
- körkortsklass
+– körkortsklass
 
- körkortstillstånd
+– körkortstillstånd
 
- utfärdandeland
+– utfärdandeland
 
 16. förtur
 
@@ -170,33 +166,33 @@ A Mål
 
 18. om underinstansens avgörande:
 
- underinstans
+– underinstans
 
- målnummer och prefix
+– målnummer och prefix
 
- avgörandedatum
+– avgörandedatum
 
- avgörandetyp
+– avgörandetyp
 
- rättens sammansättning
+– rättens sammansättning
 
- förhandlingstid
+– förhandlingstid
 
- förhörstid
+– förhörstid
 
 19. om fastighet m.m.:
 
- geografisk enhet
+– geografisk enhet
 
- fastighetsbeteckning
+– fastighetsbeteckning
 
- gatuadress
+– gatuadress
 
- ort
+– ort
 
- SNI-kod
+– SNI-kod
 
- geografiska x- och y-koordinater
+– geografiska x- och y-koordinater
 
 20. uppskattad förhandlingstid
 
