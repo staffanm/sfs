@@ -17,26 +17,26 @@ bokstäver.
 Avdelningarna är indelade i underavdelningar, som betecknas
 med romerska siffror.
 
-3 § Övergripande bestämmelser finns i 17 kap. (avdelning A).
+3 § Övergripande bestämmelser finns i 1-7 kap. (avdelning A).
 
 Vidare finns bestämmelser om
 
- familjeförmåner i 822 kap. (avdelning B),
+- familjeförmåner i 8-22 kap. (avdelning B),
 
- förmåner vid sjukdom eller arbetsskada i 2347 kap.
+- förmåner vid sjukdom eller arbetsskada i 23-47 kap.
 (avdelning C),
 
- särskilda förmåner vid funktionshinder i 4852 kap.
+- särskilda förmåner vid funktionshinder i 48-52 kap.
 (avdelning D),
 
- förmåner vid ålderdom i 5374 kap. (avdelning E),
+- förmåner vid ålderdom i 53-74 kap. (avdelning E),
 
- förmåner till efterlevande i 7592 kap. (avdelning F), och
+- förmåner till efterlevande i 75-92 kap. (avdelning F), och
 
- bostadsstöd i 93103 e kap. (avdelning G).
+- bostadsstöd i 93-103 e kap. (avdelning G).
 
 Vissa gemensamma bestämmelser om förmånerna, handläggningen
-och organisationen finns i 104117 kap. (avdelning H).
+och organisationen finns i 104-117 kap. (avdelning H).
 Lag (2011:1513).
 
 4 § I avdelning A finns
@@ -64,7 +64,8 @@ Innehåll
 
 - prisbasbelopp m.m. i 6-10 §§, och
 
-- definitioner och förklaringar i 11-16 §§.
+- definitioner och förklaringar i 11-17 §§.
+Lag (2012:834).
 
 Socialförsäkringens administration, m.m.
 
@@ -108,7 +109,6 @@ stater kan medföra begränsningar i tillämpligheten av
 bestämmelserna i denna balk. Lag (2010:1312).
 
 Prisbasbelopp m.m.
-
 
 6 § Vissa beräkningar som anges i denna balk ska grundas på
 ett prisbasbelopp eller förhöjt prisbasbelopp som beräknas
@@ -171,6 +171,12 @@ Familjehemsförälder
 tagit emot ett barn för stadigvarande vård och fostran i ett
 enskilt hem som inte tillhör någon av barnets föräldrar eller
 någon annan som har vårdnaden om barnet.
+
+Avgiftspliktig
+
+17 § Med avgiftspliktig ersättning och avgiftspliktig inkomst
+avses detsamma som i 2 kap. 10-11 §§ respektive 3 kap. 3-8 §§
+socialavgiftslagen (2000:980). Lag (2012:834).
 
 II  Socialförsäkringsskyddet
 
@@ -349,7 +355,7 @@ och grundnivå,                          (11 och 12 kap.)
 
 2. barnbidrag,                          (15 och 16 kap.)
 
-3. underhållsstöd,                      (1719 kap.)
+3. underhållsstöd,                      (17-19 kap.)
 
 4. adoptionsbidrag,                     (21 kap.)
 
@@ -362,11 +368,11 @@ Avdelning C Förmåner vid sjukdom eller arbetsskada
 7. rehabilitering, bidrag till
 arbetshjälpmedel, särskilt bidrag
 och rehabiliteringspenning i
-särskilda fall,                         (2931 a kap.)
+särskilda fall,                         (29-31 a kap.)
 
 8. sjukersättning och
 aktivitetsersättning i form av
-garantiersättning,                      (33 och 3537 kap.)
+garantiersättning,                      (33 och 35-37 kap.)
 
 Avdelning D Särskilda förmåner vid funktionshinder
 
@@ -379,7 +385,7 @@ Avdelning D Särskilda förmåner vid funktionshinder
 Avdelning E Förmåner vid ålderdom
 
 12. garantipension,                     (55, 56, 65-67 och
-                                        6971 kap.)
+                                        69-71 kap.)
 
 13. särskilt pensionstillägg,           (73 kap.)
 
@@ -394,11 +400,11 @@ omställningspension,                    (77, 81 och 85 kap.)
 
 Avdelning G Bostadsstöd
 
-17. bostadsbidrag,                      (9598 kap.)
+17. bostadsbidrag,                      (95-98 kap.)
 
-18. bostadstillägg, och                 (100103 kap.)
+18. bostadstillägg, och                 (100-103 kap.)
 
-19. boendetillägg.                      (103 a103 e kap.)
+19. boendetillägg.                      (103 a-103 e kap.)
 Lag (2011:1513).
 
 10 § När det gäller förmåner till efterlevande enligt 9 § 15
@@ -459,9 +465,9 @@ stycket gäller inte för sådana statsanställda och deras
 familjemedlemmar som avses i 4 och 8 §§.
 
 Tidsbegränsningen och kravet på medgivande gäller inte heller
-för familjeförmåner enligt 9 § 14 till biståndsarbetare m.fl.
+för familjeförmåner enligt 9 § 1-4 till biståndsarbetare m.fl.
 och studerande eller deras familjemedlemmar som avses i
-68 §§. Lag (2011:1513).
+6-8 §§. Lag (2011:1513).
 
 16 § I 110 kap. 45 § finns bestämmelser om när den försäkrade
 är skyldig att anmäla till Försäkringskassan att han eller
@@ -660,7 +666,7 @@ gälla under den tid för vilken förmånen lämnas.
 
 10 § Försäkringen enligt 6 § fortsätter att gälla efter
 efterskyddstiden enligt 8 § så länge bestämmelserna i 26 kap.
-1116 a §§ om sjukpenninggrundande inkomst vid förvärvsavbrott
+11-16 a §§ om sjukpenninggrundande inkomst vid förvärvsavbrott
 (SGI-skyddad tid) är tillämpliga på personen. Lag (2011:1075).
 
 11 § Försäkringen för pensioner eller skadeersättningar som
@@ -1467,7 +1473,7 @@ en sjukpenninggrundande inkomst för föräldern.
 22 § För hel föräldrapenning motsvarar sjukpenningnivån
 förälderns beräkningsunderlag för sjukpenning på normalnivån
 enligt 28 kap. 7 § 1 grundat på en sjukpenninggrundande
-inkomst beräknad enligt 2531 §§.
+inkomst beräknad enligt 25-31 §§.
 
 Om hel föräldrapenning på sjukpenningnivån inte överstiger 225
 kronor om dagen lämnas i stället föräldrapenning på grundnivån
@@ -2816,15 +2822,7 @@ månaden, om inte annat följer av 21-31 §§.
 
 Utfyllnadsbidrag efter avräkning för underhåll
 
-21 § /Upphör att gälla U:2013-01-01/
-Om det finns anledning att anta att en bidragsskyldig
-förälder i rätt ordning betalar underhåll till barnet med
-minst det belopp som skulle ha fastställts som
-betalningsbelopp enligt 19 kap. 10-17 samt 26 och 27 §§, ska
-det sist avsedda beloppet räknas av från underhållsstödet.
-
-21 § /Träder i kraft I:2013-01-01/
-Om det finns anledning att anta att en bidragsskyldig
+21 § Om det finns anledning att anta att en bidragsskyldig
 förälder i rätt ordning betalar underhåll till barnet med
 minst det belopp som skulle ha fastställts som
 betalningsbelopp enligt 19 kap. 10-17 samt 21, 26 och 27 §§,
@@ -2865,15 +2863,7 @@ underhållsbidrag till barnet och detta kan läggas boföräldern
 till last, lämnas inte underhållsstöd med högre belopp än
 underhållsbidraget.
 
-24 § /Upphör att gälla U:2013-01-01/
-Om sökanden begär det, lämnas underhållsstöd med 1 273
-kronor i månaden med avräkning för det betalningsbelopp som
-skulle ha fastställts, om 19 kap. 10-17 samt 26 och 27 §§
-hade tillämpats på inkomsten för den av föräldrarna som inte
-är boförälder.
-
-24 § /Träder i kraft I:2013-01-01/
-Om sökanden begär det, lämnas underhållsstöd med 1 273
+24 § Om sökanden begär det, lämnas underhållsstöd med 1 273
 kronor i månaden med avräkning för det betalningsbelopp som
 skulle ha fastställts om 19 kap. 10-17 samt 21, 26 och 27 §§
 hade tillämpats på inkomsten för den av föräldrarna som inte
@@ -2881,16 +2871,7 @@ hade tillämpats på inkomsten för den av föräldrarna som inte
 
 Växelvist boende
 
-25 § /Upphör att gälla U:2013-01-01/
-Vid växelvist boende lämnas underhållsstöd för var och
-en av föräldrarna med hälften av 1 273 kronor i månaden.
-
-Från detta belopp avräknas hälften av det betalningsbelopp
-som skulle ha fastställts, om 19 kap. 10-17 samt 26 och 27 §§
-hade tillämpats på inkomsten för föräldern.
-
-25 § /Träder i kraft I:2013-01-01/
-Vid växelvist boende lämnas underhållsstöd för var och en
+25 § Vid växelvist boende lämnas underhållsstöd för var och en
 av föräldrarna med hälften av 1 273 kronor i månaden.
 
 Från detta belopp avräknas hälften av det betalningsbelopp som
@@ -3054,7 +3035,7 @@ och att minska underhållsstödet enligt 29 § ska delges
 boföräldern.
 
 43 § Vid tillämpning av 41 § andra stycket och 42 § får
-kungörelsedelgivning enligt 4751 §§ delgivningslagen
+kungörelsedelgivning enligt 47-51 §§ delgivningslagen
 (2010:1932) inte användas. Lag (2010:1938).
 
 19 kap.  Bidragsskyldigas betalningsskyldighet mot
@@ -3393,7 +3374,7 @@ underhållsbidrag som överstiger underhållsstödet.
 
 Omprövning och ändring av betalningsskyldighet
 
-34 § Betalningsbelopp enligt 1017, 21, 26 och 27 §§ ska
+34 § Betalningsbelopp enligt 10-17, 21, 26 och 27 §§ ska
 omprövas när det finns ett nytt beslut om slutlig skatt och
 när grunden för tillämplig procentsats enligt 17 § ändras.
 
@@ -3407,7 +3388,7 @@ betalningsbeloppet från och med månaden efter den månad då
 före den dag då Försäkringskassan fick kännedom om ändringen.
 Lag (2011:1434).
 
-35 § Betalningsskyldighet som bestämts enligt 1627 §§ för
+35 § Betalningsskyldighet som bestämts enligt 16-27 §§ för
 viss tid kan på ansökan av den bidragsskyldige eller på
 initiativ av Försäkringskassan jämkas om det beslut om skatt
 som legat till grund för Försäkringskassans bedömning ändrats
@@ -3476,25 +3457,7 @@ ekonomiska förhållanden eller andra särskilda förhållanden.
 42 § Det belopp som beslutet om anstånd avser ska betalas
 före belopp som avser senare tid.
 
-43 § /Upphör att gälla U:2013-01-01/
-En bidragsskyldig som har en skuld till staten på grund
-av att han eller hon har haft anstånd ska, sedan
-anståndsbeslutet har upphört, betala ett belopp som motsvarar
-1,5 gånger det betalningsbelopp som följer av 2-5, 10-17 och
-21-27 §§ eller, om betalningsskyldigheten för något barn har
-upphört, skulle ha fastställts enligt dessa paragrafer, dock
-minst 150 kronor per barn och månad. Den bidragsskyldige
-behöver dock inte betala ett belopp som är högre än att den
-bidragsskyldige får behålla vad han eller hon behöver för
-sitt eget och familjens underhåll enligt bestämmelserna i
-7 kap. 4 och 5 §§ utsökningsbalken.
-
-För belopp som överstiger det den bidragsskyldige är skyldig
-att betala ska på ansökan av honom eller henne nytt beslut om
-anstånd meddelas.
-
-43 § /Träder i kraft I:2013-01-01/
-En bidragsskyldig som har en skuld till staten på grund
+43 § En bidragsskyldig som har en skuld till staten på grund
 av att han eller hon har haft anstånd ska, sedan anståndet har
 löpt ut, betala skulden månadsvis i delposter (avbetalning)
 med en tolftedel av ett belopp som motsvarar 1,5 gånger det
@@ -3556,17 +3519,7 @@ första hand avräknas på upplupen ränta.
 
 Indrivning
 
-49 § /Upphör att gälla U:2013-01-01/
-Försäkringskassan ska utan dröjsmål vidta åtgärder för
-att driva in fordringen, om den bidragsskyldige inte fullgör
-sin betalningsskyldighet.
-
-Beslut om betalningsskyldighet enligt 16-27 §§ och ränta
-enligt 47 och 48 §§ får verkställas enligt bestämmelserna i
-utsökningsbalken.
-
-49 § /Träder i kraft I:2013-01-01/
-Försäkringskassan ska utan dröjsmål vidta åtgärder för
+49 § Försäkringskassan ska utan dröjsmål vidta åtgärder för
 att driva in fordringen, om den bidragsskyldige inte fullgör
 sin betalningsskyldighet.
 
@@ -3871,7 +3824,7 @@ vid sjukdom och arbetsskada.
 
 Vidare finns bestämmelser om
 
-- sjukpenning m.m. i 2428 a kap.,
+- sjukpenning m.m. i 24-28 a kap.,
 
 - rehabilitering och rehabiliteringsersättning i 29-31 a kap.,
 
@@ -3879,7 +3832,7 @@ Vidare finns bestämmelser om
 
 - förmåner vid arbetsskada m.m. i 38-44 kap., och
 
-- särskilda förmåner vid smitta, sjukdom eller skada i 4547
+- särskilda förmåner vid smitta, sjukdom eller skada i 45-47
 kap. Lag (2011:1513).
 
 Försäkring och ansökan, m.m.
@@ -3944,7 +3897,7 @@ balk:
 
 - närståendepenning. Lag (2011:1513).
 
-25 kap.  Allmänna bestämmelser om sjukpenninggrundande
+25 kap. Allmänna bestämmelser om sjukpenninggrundande
 inkomst och årsarbetstid
 
 Innehåll
@@ -4121,20 +4074,7 @@ för arbete om ersättningen betalas ut från
 2. en europeisk ekonomisk intressegruppering till en medlem i
 intressegrupperingen.
 
-Ersättning från utländsk arbetsgivare
-
-15 § Som inkomst av annat förvärvsarbete räknas lön eller
-annan ersättning som den försäkrade får från en arbetsgivare
-som är bosatt utomlands eller är en utländsk juridisk person,
-om
-
-- arbetsgivaren inte har sådant fast driftställe i Sverige
-som avses i 2 kap. 29 § inkomstskattelagen (1999:1229), och
-
-- arbetsgivaren och den försäkrade har slutit avtal som avses
-i 2 kap. 8 § socialavgiftslagen (2000:980) att
-arbetsgivaravgifter inte ska betalas på lönen eller
-ersättningen.
+15 § Har upphävts genom lag (2012:834).
 
 Undantag för vissa inkomster
 
@@ -4450,7 +4390,7 @@ i form av
 
 3. rehabiliteringsersättning, eller
 
-4. ersättning från arbetsskadeförsäkringen enligt 3842 kap.
+4. ersättning från arbetsskadeförsäkringen enligt 38-42 kap.
 som motsvarar ersättning enligt 1-3 eller någon annan jämförbar
 ekonomisk förmån.
 
@@ -4475,14 +4415,14 @@ Studier, periodiskt ekonomiskt stöd, arbetsmarknadspolitiska
 19 § Vid sjukdom gäller det som föreskrivs i andra stycket för
 en försäkrad som
 
- bedriver studier som avses i 11 §,
+- bedriver studier som avses i 11 §,
 
- får periodiskt ekonomiskt stöd som avses i 12 §,
+- får periodiskt ekonomiskt stöd som avses i 12 §,
 
- deltar i ett arbetsmarknadspolitiskt program och får
+- deltar i ett arbetsmarknadspolitiskt program och får
 aktivitetsstöd eller utvecklingsersättning, eller
 
- deltar i aktiviteter enligt en etableringsplan.
+- deltar i aktiviteter enligt en etableringsplan.
 
 Under den tid som avses i första stycket ska sjukpenningen för
 den försäkrade beräknas på en sjukpenninggrundande inkomst som
@@ -5633,16 +5573,7 @@ kapitel. Lag (2011:1513).
 
 Rätten till sjukpenning i särskilda fall
 
-3 § /Upphör att gälla U:2013-01-01/
-En försäkrad som helt eller delvis har fått tidsbegränsad
-sjukersättning under det högsta antalet månader som sådan
-ersättning kan betalas ut enligt 4 kap. 31 § lagen (2010:111)
-om införande av socialförsäkringsbalken har i de fall och
-under de närmare förutsättningar som anges i detta kapitel
-rätt till sjukpenning i särskilda fall. Lag (2011:1513).
-
-3 § /Träder i kraft I:2013-01-01/
-En försäkrad som helt eller delvis har fått tidsbegränsad
+3 § En försäkrad som helt eller delvis har fått tidsbegränsad
 sjukersättning under det högsta antalet månader som sådan
 ersättning kan betalas ut enligt 4 kap. 31 § lagen (2010:111)
 om införande av socialförsäkringsbalken har i de fall och under
@@ -5662,13 +5593,7 @@ Med sjukdom likställs, förutom vad som föreskrivs i 27 kap.
 2 § andra stycket, även annan nedsättning av den fysiska
 eller psykiska prestationsförmågan. Lag (2011:1513).
 
-5 § /Upphör att gälla U:2013-01-01/
-Rätten till sjukpenning i särskilda fall inträder från och
-med dagen efter den då rätten till sådan tidsbegränsad
-sjukersättning som avses i 3 § har upphört. Lag (2011:1513).
-
-5 § /Träder i kraft I:2013-01-01/
-Rätten till sjukpenning i särskilda fall inträder från och
+5 § Rätten till sjukpenning i särskilda fall inträder från och
 med dagen efter den då rätten till sådan tidsbegränsad
 sjukersättning eller aktivitetsersättning som avses i 3 § har
 upphört. Lag (2011:1514).
@@ -6190,17 +6115,7 @@ av detta kapitel. Lag (2011:1513).
 
 Rätten till rehabiliteringspenning i särskilda fall
 
-3 § /Upphör att gälla U:2013-01-01/
-En försäkrad som helt eller delvis har fått tidsbegränsad
-sjukersättning under det högsta antalet månader som sådan
-ersättning kan betalas ut enligt 4 kap. 31 § lagen (2010:111)
-om införande av socialförsäkringsbalken har i de fall och
-under de närmare förutsättningar som anges i detta kapitel
-rätt till rehabiliteringspenning i särskilda fall.
-Lag (2011:1513).
-
-3 § /Träder i kraft I:2013-01-01/
-En försäkrad som helt eller delvis har fått tidsbegränsad
+3 § En försäkrad som helt eller delvis har fått tidsbegränsad
 sjukersättning under det högsta antalet månader som sådan
 ersättning kan betalas ut enligt 4 kap. 31 § lagen (2010:111)
 om införande av socialförsäkringsbalken har i de fall och under
@@ -6222,14 +6137,7 @@ Med sjukdom likställs, förutom vad som föreskrivs i 27 kap. 2 §
 andra stycket, även annan nedsättning av den fysiska eller
 psykiska prestationsförmågan. Lag (2011:1513).
 
-5 § /Upphör att gälla U:2013-01-01/
-Rätten till rehabiliteringspenning i särskilda fall
-inträder från och med dagen efter den då rätten till sådan
-tidsbegränsad sjukersättning som avses i 3 § har upphört.
-Lag (2011:1513).
-
-5 § /Träder i kraft I:2013-01-01/
-Rätten till rehabiliteringspenning i särskilda fall
+5 § Rätten till rehabiliteringspenning i särskilda fall
 inträder från och med dagen efter den då rätten till sådan
 tidsbegränsad sjukersättning eller aktivitetsersättning som
 avses i 3 § har upphört. Lag (2011:1514).
@@ -9243,7 +9151,7 @@ assistansersättning ska den kommun som enligt 16, 16 c eller
 16 d § lagen (1993:387) om stöd och service till vissa
 funktionshindrade har ansvar för insatser åt den försäkrade
 höras i ärendet, om det inte är obehövligt.
-Beslut om assistansersättning och beslut enligt 1719 §§ ska
+Beslut om assistansersättning och beslut enligt 17-19 §§ ska
 sändas till kommunen. Lag (2011:332).
 
 22 § För den som beviljats assistansersättning ska den kommun
@@ -10055,7 +9963,7 @@ kronor.
 28 § Regeringen eller den myndighet som regeringen bestämmer
 meddelar närmare föreskrifter om inkomstbasbeloppet.
 
-59 kap.  Pensionsgrundande inkomst
+59 kap. Pensionsgrundande inkomst
 
 Innehåll
 
@@ -10130,29 +10038,29 @@ Inkomst av anställning
 Lön och kostnadsersättning
 
 8 § Som inkomst av anställning räknas lön eller annan
-ersättning i pengar eller annan skattepliktig förmån som en
+ersättning i pengar eller annan avgiftspliktig förmån som en
 försäkrad har fått som arbetstagare i allmän eller enskild
 tjänst.
 
 Med lön likställs kostnadsersättning som inte undantas vid
 beräkning av skatteavdrag enligt 10 kap. 3 § 9 eller 10
-skatteförfarandelagen (2011:1244). Lag (2011:1434).
+skatteförfarandelagen (2011:1244). Lag (2012:834).
 
 Uppdragsinkomst m.m.
 
-9 § Som inkomst av anställning räknas, även om mottagaren
-inte har varit anställd hos den som betalat ut ersättningen,
+9 § Som inkomst av anställning räknas, även om mottagaren inte
+har varit anställd hos den som betalat ut ersättningen,
 följande:
 
-1. ersättning i pengar eller annan skattepliktig förmån för
+1. ersättning i pengar eller annan avgiftspliktig förmån för
 utfört arbete, dock inte pension, och
 
-2. tillfällig förvärvsinkomst av verksamhet som inte
-bedrivits självständigt.
+2. tillfällig förvärvsinkomst av verksamhet som inte bedrivits
+självständigt.
 
-I fall som anges i första stycket likställs den som har
-utfört arbetet med en arbetstagare och den som betalat ut
-ersättningen med en arbetsgivare.
+I fall som anges i första stycket likställs den som har utfört
+arbetet med en arbetstagare och den som betalat ut ersättningen
+med en arbetsgivare. Lag (2012:834).
 
 Rabatt m.m.
 
@@ -10264,7 +10172,7 @@ anställning. Vidare gäller det som anges i 15-21 §§.
 Ersättning till den som är godkänd för F-skatt
 
 15 § Som inkomst av annat förvärvsarbete räknas sådan
-ersättning för utfört arbete som anges i 810 §§ och som har
+ersättning för utfört arbete som anges i 8-10 §§ och som har
 betalats ut till en mottagare som var godkänd för F-skatt när
 ersättningen bestämdes eller betalades ut.
 
@@ -10299,7 +10207,7 @@ F-skatt var oriktig. Lag (2011:1434).
 Viss ersättning från privatpersoner
 
 19 § Som inkomst av annat förvärvsarbete räknas ersättning
-för arbete som avses i 810 §§ om
+för arbete som avses i 8-10 §§ om
 
 1. utbetalaren var en fysisk person eller ett dödsbo,
 
@@ -10327,20 +10235,7 @@ för arbete om ersättningen har betalats ut från
 2. en europeisk ekonomisk intressegruppering till en medlem i
 intressegrupperingen.
 
-Ersättning från utländsk arbetsgivare
-
-21 § Som inkomst av annat förvärvsarbete räknas lön eller
-annan ersättning som den försäkrade har fått från en
-arbetsgivare som är bosatt utomlands eller är en utländsk
-juridisk person, om
-
-- arbetsgivaren inte har sådant fast driftställe i Sverige
-som avses i 2 kap. 29 § (1999:1229) inkomstskattelagen, och
-
-- den försäkrade och arbetsgivaren har slutit avtal som avses
-i 2 kap. 8 § socialavgiftslagen (2000:980) att
-arbetsgivaravgifter inte ska betalas på lönen eller
-ersättningen.
+21 § Har upphävts genom lag (2012:834).
 
 Undantag för vissa inkomster
 
@@ -10483,17 +10378,26 @@ Lag (2011:1434).
 försäkrade enligt inkomstskattelagen (1999:1229) inte är
 skattskyldig för i Sverige, bestäms med ledning av en
 kontrolluppgift eller uppgifter i en arbetsgivardeklaration
-enligt skatteförfarandelagen (2011:1244). Lag (2011:1434).
+enligt skatteförfarandelagen (2011:1244). Om underlaget för
+arbetsgivaravgifter på inkomsten beräknats enligt 2 kap. 25 a §
+socialavgiftslagen (2000:980), ska den pensionsgrundande
+inkomsten bestämmas med ledning av detta underlag.
+
+Pensionsgrundande inkomst av annat förvärvsarbete, som den
+försäkrade enligt inkomstskattelagen inte är skattskyldig för i
+Sverige, bestäms med ledning av de uppgifter som den försäkrade
+har lämnat i en sådan inkomstdeklaration som avses i 30 kap. 1
+och 5 §§ skatteförfarandelagen. Lag (2012:834).
 
 Värdering av skattepliktiga förmåner
 
 35 § Skattepliktiga förmåner ska tas upp till ett värde som
-bestäms i enlighet med 11 kap. 411 §§ skatteförfarandelagen
+bestäms i enlighet med 11 kap. 4-11 §§ skatteförfarandelagen
 (2011:1244).
 
 Avvikelse får ske från det förmånsvärde som Skatteverket
 bestämt enligt 2 kap. 10 a första stycket 1 och andra stycket
-samt 10 b10 d §§ socialavgiftslagen (2000:980) om det finns
+samt 10 b-10 d §§ socialavgiftslagen (2000:980) om det finns
 skäl till detta. Lag (2011:1434).
 
 Avdrag för kostnader och allmän pensionsavgift
@@ -12818,7 +12722,7 @@ prisbasbelopp motsvarar beräkningsunderlaget summan av
 till minst 1,354 prisbasbelopp men inte överstiger 2,8275
 prisbasbelopp motsvarar beräkningsunderlaget summan av
 
- 1,935 prisbasbelopp och
+- 1,935 prisbasbelopp och
 
 - produkten av den del av beräkningsunderlaget som överstiger
 1,34 prisbasbelopp och 0,60. Lag (2011:1075).
@@ -15224,7 +15128,7 @@ Förmånstiden
 
 10 § Efterlevandelivränta får lämnas utan ansökan.
 
-Bestämmelserna i 77 kap. 1618 §§ om barnpension och
+Bestämmelserna i 77 kap. 16-18 §§ om barnpension och
 omställningspension tillämpas även i fråga om barnlivränta
 respektive omställningslivränta. Lag (2012:599).
 
@@ -15500,28 +15404,15 @@ Innehåll
 socialförsäkringsförmåner i form av bidrag som är relaterade
 till kostnader för bostad (bostadsstöd).
 
-2 § /Upphör att gälla U:2013-01-01/
-Förmåner enligt denna avdelning är
+2 § Förmåner enligt denna avdelning är
 
- bostadsbidrag till barnfamiljer eller personer i åldern
-1828 år,
-
- bostadstillägg till den som får sjukersättning, pension
-eller vissa liknande förmåner, och
-
- boendetillägg till den som har fått tidsbegränsad
-sjukersättning. Lag (2011:1513).
-
-2 § /Träder i kraft I:2013-01-01/
-Förmåner enligt denna avdelning är
-
- bostadsbidrag till barnfamiljer eller personer i åldern 1828
+- bostadsbidrag till barnfamiljer eller personer i åldern 18-28
 år,
 
- bostadstillägg till den som får sjukersättning, pension eller
+- bostadstillägg till den som får sjukersättning, pension eller
 vissa liknande förmåner, och
 
- boendetillägg till den som har fått tidsbegränsad
+- boendetillägg till den som har fått tidsbegränsad
 sjukersättning eller aktivitetsersättning. Lag (2011:1514).
 
 3 § I detta kapitel finns inledande bestämmelser om
@@ -15529,11 +15420,11 @@ bostadsstöd.
 
 Vidare finns bestämmelser om
 
- bostadsbidrag i 9498 kap.,
+- bostadsbidrag i 94-98 kap.,
 
- bostadstillägg i 99103 kap., och
+- bostadstillägg i 99-103 kap., och
 
- boendetillägg i 103 a103 e kap.
+- boendetillägg i 103 a-103 e kap.
 Lag (2011:1513).
 
 Försäkring och ansökan, m.m.
@@ -15780,17 +15671,17 @@ Innehåll
 
 1 § I detta kapitel finns bestämmelser om
 
- bidragsgrundande inkomst i 213 §§,
+- bidragsgrundande inkomst i 2-13 §§,
 
- kostnader för bostad i 14 §,
+- kostnader för bostad i 14 §,
 
- beräkning av bostadsbidrag till barnfamiljer i 1518 och
-2023 §§,
+- beräkning av bostadsbidrag till barnfamiljer i 15-18 och
+20-23 §§,
 
- beräkning av bostadsbidrag till hushåll utan barn i
-2428 §§, och
+- beräkning av bostadsbidrag till hushåll utan barn i
+24-28 §§, och
 
- undantag när bidragsbehov saknas i 29 §.
+- undantag när bidragsbehov saknas i 29 §.
 Lag (2011:1520).
 
 Bidragsgrundande inkomst
@@ -15866,7 +15757,7 @@ inkomstskattelagen.
 
 Underskott i inkomstslaget kapital ska minskas med gjorda
 avdrag i inkomstslaget, dock inte med avdrag som avses i första
-stycket 13.
+stycket 1-3.
 
 Uppkommer ett överskott vid beräkningen ska detta minskas med
 schablonintäkt enligt 42 kap. 36 och 43 §§ samt 47 kap. 11 b §
@@ -15950,7 +15841,7 @@ Vissa andra inkomster
 
 13 § Med vissa andra inkomster enligt 2 § 6 avses följande:
 
-1. inkomst som på grund av 3 kap. 913 §§ inkomstskattelagen
+1. inkomst som på grund av 3 kap. 9-13 §§ inkomstskattelagen
 (1999:1229) eller skatteavtal inte ska tas upp som intäkt i
 inkomstslaget näringsverksamhet, tjänst eller kapital,
 
@@ -16001,11 +15892,11 @@ Bidrag till kostnader för bostad
 för bostad med 50 procent av den del av bostadskostnaden per
 månad som för familjer med
 
- ett barn överstiger 1 400 kronor men inte 5 300 kronor,
+- ett barn överstiger 1 400 kronor men inte 5 300 kronor,
 
- två barn överstiger 1 400 kronor men inte 5 900 kronor, och
+- två barn överstiger 1 400 kronor men inte 5 900 kronor, och
 
- tre eller flera barn överstiger 1 400 kronor men inte 6 600
+- tre eller flera barn överstiger 1 400 kronor men inte 6 600
 kronor.
 
 Högre bostadskostnad än som anges i första stycket får
@@ -16049,11 +15940,11 @@ Särskilt bidrag
 
 22 § Bostadsbidrag lämnas månadsvis som särskilt bidrag med
 
- 1 300 kronor till familjer med ett barn,
+- 1 300 kronor till familjer med ett barn,
 
- 1 750 kronor till familjer med två barn, och
+- 1 750 kronor till familjer med två barn, och
 
- 2 350 kronor till familjer med tre eller flera barn.
+- 2 350 kronor till familjer med tre eller flera barn.
 Lag (2012:599).
 
 Umgängesbidrag
@@ -16271,7 +16162,7 @@ Vidare finns bestämmelser om
 
 - förmåner som kan ge rätt till bostadstillägg i 3-5 §§,
 
- undantag från rätten till bostadstillägg i 6 §,
+- undantag från rätten till bostadstillägg i 6 §,
 
 - bostadskostnader i 7 och 8 §§,
 
@@ -16429,7 +16320,7 @@ omprövning av bidragsgrundande inkomst av annan anledning än
 som anges i 103 kap. 3 §, året före det år bostadstillägget
 avser,
 
-4. del av förmögenhet enligt 1013 §§, och
+4. del av förmögenhet enligt 10-13 §§, och
 
 5. vissa andra inkomster enligt 15 §.
 Lag (2012:599).
@@ -16472,7 +16363,7 @@ förmögenhet vid beräkning av vissa förmåner.
 Vissa andra inkomster
 
 15 § Med vissa andra inkomster enligt 7 § 5 avses detsamma som
-i 97 kap. 13 § första stycket 13, 5 och 6 samt ersättning
+i 97 kap. 13 § första stycket 1-3, 5 och 6 samt ersättning
 från avtalsgruppsjukförsäkringar för sjukdomsfall som
 inträffat före år 1991. Lag (2010:352).
 
@@ -16647,7 +16538,7 @@ hade kunnat fattas.
 som avses i 97 kap. 13 § 1 ska den inkomsten tas upp efter
 avdrag för de skatter och avgifter som följer av
 bestämmelserna i 1 och 2 om inkomsten inte hade undantagits
-från beskattning i Sverige på grund av 3 kap. 913 §§
+från beskattning i Sverige på grund av 3 kap. 9-13 §§
 inkomstskattelagen (1999:1229) eller skatteavtal.
 
 5. Bostadstillägg enligt 21 §.
@@ -16734,11 +16625,11 @@ boendetillägg i 103 b kap.
 
 Vidare finns bestämmelser om
 
- rätten till boendetillägg i 103 c kap.,
+- rätten till boendetillägg i 103 c kap.,
 
- beräkning av boendetillägg i 103 d kap., och
+- beräkning av boendetillägg i 103 d kap., och
 
- särskilda handläggningsregler för boendetillägg i 103 e kap.
+- särskilda handläggningsregler för boendetillägg i 103 e kap.
 Lag (2011:1513).
 
 103 b kap. Allmänna bestämmelser om boendetillägg
@@ -16752,13 +16643,7 @@ Lag (2011:1513).
 
 Inledande bestämmelse
 
-2 § /Upphör att gälla U:2013-01-01/
-Boendetillägg är ett kompletterande bidrag till boendet
-för en försäkrad som har fått tidsbegränsad sjukersättning.
-Lag (2011:1513).
-
-2 § /Träder i kraft I:2013-01-01/
-Boendetillägg är ett kompletterande bidrag till boendet för
+2 § Boendetillägg är ett kompletterande bidrag till boendet för
 en försäkrad som har fått tidsbegränsad sjukersättning eller
 aktivitetsersättning. Lag (2011:1514).
 
@@ -16785,29 +16670,20 @@ Innehåll
 
 Vidare finns bestämmelser om
 
- förmåner som kan ge rätt till boendetillägg i 4 §,
+- förmåner som kan ge rätt till boendetillägg i 4 §,
 
- undantag från rätten till boendetillägg i 5 §,
+- undantag från rätten till boendetillägg i 5 §,
 
- förmånstiden i 68 §§,
+- förmånstiden i 6-8 §§,
 
- behållande av rätten till boendetillägg i 9 §, och
+- behållande av rätten till boendetillägg i 9 §, och
 
- upphörande av rätten till boendetillägg i 10 §.
+- upphörande av rätten till boendetillägg i 10 §.
 Lag (2011:1513).
 
 Inledande bestämmelser
 
-2 § /Upphör att gälla U:2013-01-01/
-En försäkrad som helt eller delvis har fått tidsbegränsad
-sjukersättning under det högsta antalet månader som sådan
-ersättning kan betalas ut enligt 4 kap. 31 § lagen (2010:111)
-om införande av socialförsäkringsbalken har i de fall och
-under de närmare förutsättningar som anges i detta kapitel
-rätt till ett boendetillägg. Lag (2011:1513).
-
-2 § /Träder i kraft I:2013-01-01/
-En försäkrad som helt eller delvis har fått tidsbegränsad
+2 § En försäkrad som helt eller delvis har fått tidsbegränsad
 sjukersättning under det högsta antalet månader som sådan
 ersättning kan betalas ut enligt 4 kap. 31 § lagen (2010:111)
 om införande av socialförsäkringsbalken har i de fall och under
@@ -16816,13 +16692,7 @@ ett boendetillägg. Detta gäller även för en försäkrad vars rätt
 till aktivitetsersättning upphör på grund av att han eller hon
 fyller 30 år. Lag (2011:1514).
 
-3 § /Upphör att gälla U:2013-01-01/
-Rätten till boendetillägg inträder från och med månaden
-efter den då rätten till sådan tidsbegränsad sjukersättning
-som avses i 2 § har upphört. Lag (2011:1513).
-
-3 § /Träder i kraft I:2013-01-01/
-Rätten till boendetillägg inträder från och med månaden
+3 § Rätten till boendetillägg inträder från och med månaden
 efter den då rätten till sådan tidsbegränsad sjukersättning
 eller aktivitetsersättning som avses i 2 § har upphört.
 Lag (2011:1514).
@@ -16832,7 +16702,7 @@ Förmåner som kan ge rätt till boendetillägg
 4 § Boendetillägg kan lämnas till den som omfattas av 2 § och
 som
 
-1. får sjukpenning enligt 2728 a kap.,
+1. får sjukpenning enligt 27-28 a kap.,
 
 2. får rehabiliteringspenning enligt 31 eller 31 a kap., eller
 
@@ -16865,7 +16735,7 @@ tid då
 1. han eller hon förvärvsarbetar,
 
 2. en sådan situation föreligger som anges i 26 kap. 11, 12
-eller 1418 §§ som grund för SGI-skydd, eller
+eller 14-18 §§ som grund för SGI-skydd, eller
 
 3. han eller hon deltar i ett arbetsmarknadspolitiskt program
 och får aktivitetsstöd eller står till arbetsmarknadens
@@ -16886,33 +16756,33 @@ Innehåll
 
 1 § I detta kapitel finns bestämmelser om
 
- ersättningsnivåer i 24 §§,
+- ersättningsnivåer i 2-4 §§,
 
- bidragsgrundande inkomst i 5 och 6 §§,
+- bidragsgrundande inkomst i 5 och 6 §§,
 
- minskning av boendetillägg i 7 §,
+- minskning av boendetillägg i 7 §,
 
- andelsberäkning vid partiell ersättning i 8 §, och
+- andelsberäkning vid partiell ersättning i 8 §, och
 
- samordning med bostadsbidrag och bostadstillägg i 9 §.
+- samordning med bostadsbidrag och bostadstillägg i 9 §.
 Lag (2011:1513).
 
 Ersättningsnivåer
 
 2 § Helt boendetillägg lämnas för år räknat med högst
 
- 84 000 kronor till en ogift försäkrad, och
+- 84 000 kronor till en ogift försäkrad, och
 
- 42 000 kronor till en gift försäkrad.
+- 42 000 kronor till en gift försäkrad.
 Lag (2011:1513).
 
 3 § Beloppen enligt 2 § ska höjas med
 
- 12 000 kronor till hushåll med ett barn,
+- 12 000 kronor till hushåll med ett barn,
 
- 18 000 kronor till hushåll med två barn, och
+- 18 000 kronor till hushåll med två barn, och
 
- 24 000 kronor till hushåll med tre eller flera barn.
+- 24 000 kronor till hushåll med tre eller flera barn.
 
 Med barn avses sådana barn som enligt 96 kap. berättigar till
 bostadsbidrag. Lag (2011:1513).
@@ -16952,7 +16822,7 @@ eller 43 kap. Lag (2011:1513).
 
 Minskning av boendetillägg
 
-7 § Boendetillägget enligt 24 §§ ska minskas med 70 procent
+7 § Boendetillägget enligt 2-4 §§ ska minskas med 70 procent
 av den bidragsgrundande inkomsten enligt 5 och 6 §§ som
 överstiger 58 400 kronor. Lag (2011:1513).
 
@@ -16974,7 +16844,7 @@ lämnas som
 
 1. preliminärt bostadsbidrag enligt 98 kap., och
 
-2. bostadstillägg till make enligt 100102 kap.
+2. bostadstillägg till make enligt 100-102 kap.
 
 Om boendetillägg lämnas till båda makarna ska boendetillägget
 till vardera maken minskas med halva det preliminära
@@ -16986,9 +16856,9 @@ Innehåll
 
 1 § I detta kapitel finns bestämmelser om
 
- omprövning vid ändrade förhållanden i 24 §§, och
+- omprövning vid ändrade förhållanden i 2-4 §§, och
 
- utbetalning av boendetillägg i 5 §. Lag (2011:1513).
+- utbetalning av boendetillägg i 5 §. Lag (2011:1513).
 
 Omprövning vid ändrade förhållanden
 
@@ -17002,11 +16872,11 @@ kap. 6 § ändras.
 Det som anges i första stycket gäller också när ändring sker
 av
 
- förmånsnivån i de förmåner som anges i 103 c kap. 4 §,
+- förmånsnivån i de förmåner som anges i 103 c kap. 4 §,
 
- preliminärt bostadsbidrag enligt 98 kap., eller
+- preliminärt bostadsbidrag enligt 98 kap., eller
 
- bostadstillägg till make enligt 100102 kap.
+- bostadstillägg till make enligt 100-102 kap.
 Lag (2011:1513).
 
 4 § En ändring av boendetillägget ska gälla från och med
@@ -17981,7 +17851,7 @@ förlängas utan att ansökan om detta har gjorts.
 Ytterligare bestämmelser om att förmåner i vissa fall lämnas
 utan ansökan finns beträffande
 
-1. sjukersättning och aktivitetsersättning i 36 kap. 2527 §§,
+1. sjukersättning och aktivitetsersättning i 36 kap. 25-27 §§,
 
 2. tilläggspension i 56 kap. 6 §,
 
@@ -18302,6 +18172,8 @@ förekommande fall om att utbildningen har avbrutits.
 Lag (2010:467).
 
 36 § Har upphävts genom lag (2012:931).
+
+Huvudman för en skola
 
 37 § Huvudmannen för en skola ska lämna de uppgifter som
 behövs i fråga om förlängt barnbidrag.
@@ -18780,7 +18652,8 @@ delar för beslut om efterlevandepension och efterlevandestöd.
 
 Innehåll
 
-1 § I detta kapitel finns allmänna bestämmelser i 2 §.
+1 § /Upphör att gälla U:2013-07-01/
+I detta kapitel finns allmänna bestämmelser i 2 §.
 
 Vidare finns bestämmelser om
 
@@ -18807,20 +18680,48 @@ Slutligen finns särskilda bestämmelser om
 
 - förmåner till efterlevande i 37-40 §§.
 
+1 § /Träder i kraft I:2013-07-01/
+I detta kapitel finns allmänna bestämmelser i 2 §.
+
+Vidare finns bestämmelser om
+
+- ändring av beslut i 3-6 §§,
+
+- omprövning av beslut i 7-9 §§,
+
+- överklagande av Försäkringskassans och Pensionsmyndighetens
+beslut i 10-15 §§,
+
+- överklagande av allmän förvaltningsdomstols beslut i 16 och
+17 §§,
+
+- tidsfrister för begäran om omprövning och överklagande i 19
+och 20 §§,
+
+- handlingar till fel myndighet i 20 a §, och
+
+- avvisningsbeslut i 21 §.
+
+Slutligen finns särskilda bestämmelser om
+
+- allmän ålderspension i 22-36 §§, och
+
+- förmåner till efterlevande i 37-40 §§. Lag (2013:82).
+
 Allmänna bestämmelser
 
 2 § Beslut i ärenden om förmåner enligt denna balk får
 ändras, omprövas och överklagas med tillämpning av
-bestämmelserna i 321 §§, om inget annat följer av
-bestämmelserna i 2240 §§.
+bestämmelserna i 3-21 §§, om inget annat följer av
+bestämmelserna i 22-40 §§.
 
 Det som anges i första stycket gäller även beslut i
 ärenden
 
- enligt 19 kap. om bidragsskyldigas betalningsskyldighet
+- enligt 19 kap. om bidragsskyldigas betalningsskyldighet
 mot Försäkringskassan, och
 
- om utfärdande av intyg för tillämpning av
+- om utfärdande av intyg för tillämpning av
 Europaparlamentets och rådets förordning (EG) nr 883/2004
 av den 29 april 2004 om samordning av de sociala
 trygghetssystemen. Lag (2010:1312).
@@ -18951,7 +18852,8 @@ kammarrätten.
 ombudet får vid överklagande av domstols beslut föra talan
 även till förmån för enskild part.
 
-18 § Bestämmelserna i 33 § fjärde stycket
+18 § /Upphör att gälla U:2013-07-01 genom lag (2013:82)./
+Bestämmelserna i 33 § fjärde stycket
 förvaltningsprocesslagen (1971:291) gäller inte
 avvisningsbeslut i ärenden enligt denna balk.
 
@@ -18991,14 +18893,14 @@ Särskilda bestämmelser om allmän ålderspension
 
 Ändring och omprövning av beslut
 
-22 § Bestämmelserna om ändring i 36 §§ tillämpas inte i
+22 § Bestämmelserna om ändring i 3-6 §§ tillämpas inte i
 ärenden om allmän ålderspension. I 26 § förvaltningslagen
 (1986:223) finns bestämmelser om rättelse av skrivfel och
 liknande.
 
 I fråga om omprövning av Pensionsmyndighetens och
 Skatteverkets beslut i ärenden om allmän ålderspension
-tillämpas endast 7 § andra stycket samt 9, 21 och 2331 §§.
+tillämpas endast 7 § andra stycket samt 9, 21 och 23-31 §§.
 
 När det gäller omprövning av ett beslut om pensionsgrundande
 inkomst ska vad som i de i andra stycket angivna
@@ -19101,9 +19003,10 @@ försäkrade. Lag (2011:1434).
 
 Överklagande
 
-32 § Vid överklagande av Pensionsmyndighetens, Skatteverkets
+32 § /Upphör att gälla U:2013-07-01/
+Vid överklagande av Pensionsmyndighetens, Skatteverkets
 och allmän förvaltningsdomstols beslut i ärenden om allmän
-ålderspension tillämpas 1018, 20, 21 och 3336 §§.
+ålderspension tillämpas 10-18, 20, 21 och 33-36 §§.
 
 Bestämmelserna om det allmänna ombudet tillämpas dock inte i
 fråga om beslut som avser premiepension.
@@ -19114,6 +19017,21 @@ bestämmelserna, utom 35 §, föreskrivs om Pensionsmyndigheten
 och det allmänna ombudet i stället avse Skatteverket och det
 allmänna ombudet hos Skatteverket enligt 67 kap. 3 §
 skatteförfarandelagen (2011:1244). Lag (2011:1434).
+
+32 § /Träder i kraft I:2013-07-01/
+Vid överklagande av Pensionsmyndighetens, Skatteverkets
+och allmän förvaltningsdomstols beslut i ärenden om allmän
+ålderspension tillämpas 10-17, 20, 21 och 33-36 §§.
+
+Bestämmelserna om det allmänna ombudet tillämpas dock inte i
+fråga om beslut som avser premiepension.
+
+När det gäller överklagande av beslut om pensionsgrundande
+inkomst ska vad som i de i första och andra styckena angivna
+bestämmelserna, utom 35 §, föreskrivs om Pensionsmyndigheten
+och det allmänna ombudet i stället avse Skatteverket och det
+allmänna ombudet hos Skatteverket enligt 67 kap. 3 §
+skatteförfarandelagen (2011:1244). Lag (2013:82).
 
 33 § Om den som ett beslut om allmän ålderspension avser har
 avlidit, får även någon annan som är berörd av beslutet
@@ -19843,7 +19761,7 @@ sjukersättning under det högsta antalet månader som sådan
 ersättning kan betalas ut enligt 4 kap. 31 § lagen (2010:111)
 om införande av socialförsäkringsbalken.
 
-4. Bestämmelserna i 28 a, 31 a och 103 b103 e kap. tillämpas
+4. Bestämmelserna i 28 a, 31 a och 103 b-103 e kap. tillämpas
 även för en försäkrad vars rätt till tidsbegränsad
 sjukersättning har upphört före den 1 januari 2012. Ersättning
 enligt dessa bestämmelser kan dock lämnas tidigast från och
@@ -19891,6 +19809,12 @@ oktober 2012.
 3. Den nya bestämmelsen i 101 kap. 11 § tillämpas första
 gången på beslut om bostadstillägg som fattas efter den 31
 oktober 2012.
+
+2012:834
+
+Denna lag träder i kraft den 1 januari 2013 och tillämpas på
+ersättning som betalas ut respektive inkomst som uppbärs efter
+den 31 december 2012.
 
 2012:896
 
@@ -19950,3 +19874,10 @@ ikraftträdandet.
 2. Föreskrifterna i 51 kap. 16 § första stycket 1 och andra
 stycket ska inte tillämpas när en personlig assistent har
 anställts före ikraftträdandet.
+
+2013:82
+
+1. Denna lag träder i kraft den 1 juli 2013.
+
+2. Äldre föreskrifter gäller för beslut som har meddelats
+före ikraftträdandet.
