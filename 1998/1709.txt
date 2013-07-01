@@ -2,27 +2,7 @@
 
 Allmänna bestämmelser
 
-1 § /Upphör att gälla U:2013-04-23/
-Denna förordning innehåller avgaskrav för
-
-1. motorer som installeras i mobila maskiner som inte är
-avsedda att användas för transporter på väg,
-
-2. hjälpmotorer som monteras i fordon avsedda för passagerar-
-eller godstransport på väg,
-
-3. motorer avsedda för lokomotiv och motorvagnar,
-
-4. utbytesmotorer för motorer som avses i 1-3, samt
-
-5. motorer avsedda för traktorer.
-
-Förordningen gäller inte motorer som driver motorfordon,
-fartyg, luftfartyg och fritidsfordon såsom snöskotrar,
-terrängmotorcyklar och terrängfordon. Förordning (2005:1104).
-
-1 § /Träder i kraft I:2013-04-23/
-Denna förordning innehåller avgaskrav för
+1 § Denna förordning innehåller avgaskrav för
 
 1. motorer som installeras i mobila maskiner som inte är
 avsedda att användas för transporter på väg,
@@ -42,8 +22,7 @@ terrängmotorcyklar och terrängfordon. I förordningen finns
 dock en bestämmelse om typgodkännande av motorer avsedda för
 fartyg i inlandssjöfart. Förordning (2013:150).
 
-1 a § /Träder i kraft I:2013-04-23/
-Denna förordning är meddelad
+1 a § Denna förordning är meddelad
 
 1. med stöd av 1 § lagen (1998:1707) om åtgärder mot buller
 och avgaser från mobila maskiner i fråga om 5 §,
@@ -58,131 +37,147 @@ från mobila maskiner i fråga om 9 §, och
 4. i övrigt med stöd av 8 kap. 7 § regeringsformen.
 Förordning (2013:150).
 
+Uttryck i förordningen
+
 2 § I denna förordning avses med
 
-mobil maskin som inte är avsedd att användas för transporter på
-väg: en mobil maskin, en transportabel industriell utrustning
-eller ett mobilt fordon med eller utan karosseri som drivs med
-hjälp av en förbränningsmotor enligt avsnitt 1.1 i bilaga 1
-till denna förordning,
+hjälpmotor: motor installerad i eller på ett motorfordon, men
+som inte har att göra med framdrivningen av fordonet,
+
+lokomotiv: självgående rälsfordon avsett att flytta eller
+driva vagnar utformade för att transportera gods, passagerare
+eller annan utrustning,
+
+mobil maskin som inte är avsedd att användas för transporter
+på väg: en mobil maskin, en transportabel industriell
+utrustning eller ett mobilt fordon med eller utan karosseri
+som drivs med hjälp av en förbränningsmotor enligt avsnitt
+1.1 i bilaga 1 till denna förordning,
+
+motorvagn: självgående rälsfordon särskilt avsett för
+transport av passagerare eller gods,
 
 traktor: traktor enligt definitionen i Europaparlamentets och
-rådets direktiv 2003/37/EG av den 26 maj 2003 om typgodkännande
-av jordbruks- eller skogsbrukstraktorer, av släpvagnar och
-utbytbara dragna maskiner till sådana traktorer samt av system,
-komponenter och separata tekniska enheter till dessa fordon och
-om upphävande av direktiv 74/150/EEG, senast ändrat genom
-kommissionens direktiv 2010/62/EG,
+rådets direktiv 2003/37/EG av den 26 maj 2003 om
+typgodkännande av jordbruks- eller skogsbrukstraktorer, av
+släpvagnar och utbytbara dragna maskiner till sådana
+traktorer samt av system, komponenter och separata tekniska
+enheter till dessa fordon och om upphävande av direktiv
+74/150/EEG, senast ändrat genom kommissionens direktiv
+2010/62/EU, och
 
-lokomotiv: självgående rälsfordon avsett att flytta eller driva
-vagnar utformade för att transportera gods, passagerare eller
-annan utrustning,
+utbytesmotor: nybyggd motor avsedd att ersätta en motor i en
+maskin, tillhandahållen endast för detta ändamål, och som
+uppfyller de gränsvärden som den motor den ersätter skulle
+uppfylla när den ursprungligen sattes på marknaden.
+Förordning (2013:501).
 
-motorvagn: självgående rälsfordon särskilt avsett för transport
-av passagerare eller gods,
+2 a § Med handhållen motor avses i denna förordning en motor
+som ska användas i utrustning som
 
-EG-typgodkännande:
+1. bärs av operatören eller manövreras i skiftande lägen,
 
- ett förfarande genom vilket en medlemsstat intygar att en
+2. har en torrvikt som understiger 20 kilogram och som
+används genom att operatören stödjer, bär eller
+lägeskontrollerar utrustningen, eller
+
+3. är en generator eller pump och hela enheten har en
+torrvikt som understiger 20 kilogram. Förordning (2013:501).
+
+2 b § I denna förordning avses med
+
+motortyp: en kategori av motorer utan inbördes skillnader i
+fråga om väsentliga motoregenskaper,
+
+motorfamilj: en motortillverkares gruppering av två eller
+flera motortyper vilka genom sin konstruktion förväntas ha
+likartade egenskaper vad gäller avgasutsläpp och som var och
+en uppfyller kraven i denna förordning,
+
+små motorfamiljer: motorfamiljer med gnisttändning vars
+sammanlagda årliga produktion uppgår till mindre än 5 000
+motorer, och
+
+traktortyp: traktorer som inte uppvisar några väsentliga
+skillnader i fråga om egenskaper. Förordning (2013:501).
+
+2 c § Med motorproduktionsdag avses i denna förordning den
+dag när motorn går igenom den sista kontrollen efter det att
+den lämnat produktionsbanan och är klar att levereras eller
+att ställas i lager. Förordning (2013:501).
+
+2 d § Med EG-typgodkännande avses i denna förordning
+
+1. ett förfarande genom vilket en medlemsstat intygar att en
 förbränningsmotortyp eller en motorfamilj uppfyller de
 relevanta kraven i Europaparlamentets och rådets direktiv
 97/68/EG av den 16 december 1997 om tillnärmning av
 medlemsstaternas lagstiftning om åtgärder mot utsläpp av gas-
 och partikelformiga föroreningar från förbränningsmotorer som
-ska monteras i mobila maskiner som inte är avsedda att användas
-för transporter på väg, senast ändrat genom Europaparlamentets
-och rådets direktiv 2011/88/EU, eller
+ska monteras i mobila maskiner som inte är avsedda att
+användas för transporter på väg, senast ändrat genom
+Europaparlamentets och rådets direktiv 2012/46/EU, eller
 
- en handling genom vilken en medlemsstat intygar att en
+2. en handling genom vilken en medlemsstat intygar att en
 motortyp eller en motorfamilj som en separat teknisk enhet
 eller en traktortyp uppfyller de tekniska kraven i
-Europaparlamentets och rådets direktiv 2000/25/EG av den 22 maj
-2000 om åtgärder mot utsläpp av gas- och partikelformiga
+Europaparlamentets och rådets direktiv 2000/25/EG av den 22
+maj 2000 om åtgärder mot utsläpp av gas- och partikelformiga
 föroreningar från motorer avsedda för jordbruks- och
-skogsbrukstraktorer och om ändring i rådets direktiv
-74/150/EEG, senast ändrat genom Europaparlamentets och rådets
-direktiv 2011/87/EU,
+skogsbrukstraktorer och om ändring av rådets direktiv
+74/150/EEG, senast ändrat genom Kommissionens direktiv
+2011/87/EU. Förordning (2013:501).
 
-motortyp: en kategori av motorer utan inbördes skillnader i
-fråga om väsentliga motoregenskaper,
+2 e § I denna förordning avses med
 
-motorfamilj: en motortillverkares gruppering av två eller flera
-motortyper vilka genom sin konstruktion förväntas ha likartade
-egenskaper vad gäller avgasutsläpp och som var och en uppfyller
-kraven i denna förordning,
+godkännandemyndighet: en behörig myndighet i en medlemsstat
+som ansvarar för samtliga delar av förfarandet vid
+typgodkännande av en motor eller en motorfamilj, som har
+behörighet att utfärda och återkalla intyg om typgodkännande
+och att sköta dels kontakterna med godkännandemyndigheterna i
+övriga medlemsstater, dels kontrollen av tillverkarens
+åtgärder för att åstadkomma produktionsöverensstämmelse,
+och
 
-små motorfamiljer: motorfamiljer med gnisttändning vars
-sammanlagda årliga produktion uppgår till mindre än 5 000
-motorer,
+teknisk tjänst: en organisation eller ett organ som har
+utsetts till provlaboratorium för att utföra provning och
+inspektion för godkännandemyndighetens räkning.
+Förordning (2013:501).
 
-motorproduktionsdag: den dag när motorn går igenom den sista
-kontrollen efter det att den lämnat produktionsbanan (på detta
-stadium är motorn klar att levereras eller att ställas i
-lager),
-
-handhållen motor: en motor som ska användas i utrustning som
-
- bärs av operatören eller manövreras i skiftande lägen,
-
- har en torrvikt som understiger 20 kilogram och som används
-genom att operatören stödjer, bär eller lägeskontrollerar
-utrustningen, eller
-
- är en generator eller pump och hela enheten har en torrvikt
-som understiger 20 kilogram,
-
-hjälpmotor: motor installerad i eller på ett motorfordon, men
-som inte har att göra med framdrivningen av fordonet,
-
-utbytesmotor: nybyggd motor avsedd att ersätta en motor i en
-maskin, tillhandahållen endast för detta ändamål, och som
-uppfyller de gränsvärden som den motor den ersätter skulle
-uppfylla när den ursprungligen sattes på marknaden,
-
-traktortyp: traktorer som inte uppvisar några väsentliga
-skillnader i fråga om egenskaper,
-
-släppa ut på marknaden: att mot betalning eller kostnadsfritt
-göra en motor tillgänglig på marknaden för första gången, för
-distribution eller användning inom Europeiska ekonomiska
-samarbetsområdet,
+2 f § I denna förordning avses med
 
 tillverkare: den fysiska eller juridiska person som inför
 godkännandemyndigheten ansvarar för samtliga delar av
 förfarandet vid typgodkännande och för kontroll av
-produktionsöverensstämmelse (det är inte nödvändigt att
-tillverkaren är direkt engagerad i samtliga stadier av motorns
-eller traktortypens konstruktion),
+produktionsöverensstämmelse, även om denna person inte är
+direkt engagerad i samtliga stadier av motorns eller
+traktortypens konstruktion,
 
 utrustningstillverkare: tillverkaren av en typ av mobila
-maskiner som inte är avsedda att användas på väg,
+maskiner som inte är avsedda att användas på väg, och
 
-små motortillverkare: tillverkare av motorer med gnisttändning
-vars sammanlagda årliga produktion uppgår till mindre än 25 000
-motorer,
+små motortillverkare: tillverkare av motorer med
+gnisttändning vars sammanlagda årliga produktion uppgår till
+mindre än 25 000 motorer. Förordning (2013:501).
 
-godkännandemyndighet: en behörig myndighet i en medlemsstat som
-ansvarar för samtliga delar av förfarandet vid typgodkännande
-av en motor eller en motorfamilj, som har behörighet att
-utfärda och återkalla intyg om typgodkännande och att sköta
-dels kontakterna med godkännandemyndigheterna i övriga
-medlemsstater, dels kontrollen av tillverkarens åtgärder för
-att åstadkomma produktionsöverensstämmelse,
+2 g § I denna förordning avses med
 
-teknisk tjänst: en organisation eller ett organ som har utsetts
-till provlaboratorium för att utföra provning och inspektion
-för godkännandemyndighetens räkning, och
+släppa ut på marknaden: att mot betalning eller kostnadsfritt
+göra en motor tillgänglig på marknaden för första gången, för
+distribution eller användning inom Europeiska ekonomiska
+samarbetsområdet, och
 
 flexibelt system: ett förfarande som ger en
-utrustningstillverkare möjlighet att under perioden mellan två
-gränsvärdessteg släppa ut ett begränsat antal motorer på
-marknaden som är avsedda att installeras i mobila maskiner som
-inte är avsedda att användas på väg och som uppfyller endast
-det föregående stegets utsläppsgränsvärden.
+utrustningstillverkare möjlighet att under perioden mellan
+två gränsvärdessteg släppa ut ett begränsat antal motorer på
+marknaden som är avsedda att installeras i mobila maskiner
+som inte är avsedda att användas på väg och som uppfyller
+endast det föregående stegets utsläppsgränsvärden.
+Förordning (2013:501).
 
-I övrigt har termer och uttryck som används i lagen (1998:1707)
-om åtgärder mot buller och avgaser från mobila maskiner samma
-betydelse i denna förordning. Förordning (2012:231).
+2 h § I övrigt har ord och uttryck i denna förordning samma
+betydelse som i lagen (1998:1707) om åtgärder mot buller och
+avgaser från mobila maskiner. Förordning (2013:501).
 
 Avgasreningskrav
 
@@ -221,13 +216,7 @@ ske enligt bestämmelserna om anmälda organ enligt lagen
 Transportstyrelsen får meddela föreskrifter om förfarandet för
 EG-typgodkännande. Förordning (2011:820).
 
-5 § /Upphör att gälla U:2013-04-23/
-Om en motortyp eller en motorfamilj uppfyller kraven i
-bilaga 1 till denna förordning skall Transportstyrelsen
-meddela ett EG-typgodkännande. Förordning (2008:1197).
-
-5 § /Träder i kraft I:2013-04-23/
-Vid prövningen av en fråga om ett EG-typgodkännande ska
+5 § Vid prövningen av en fråga om ett EG-typgodkännande ska
 Transportstyrelsen typgodkänna en motortyp eller motorfamilj,
 om
 
