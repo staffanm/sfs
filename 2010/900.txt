@@ -1277,7 +1277,6 @@ Meddelanden till samfälligheter och bostadsrättshavare
 samfällighet får skickas till
 
 1. en ledamot av den styrelse som finns för samfälligheten,
-
 2. den som är utsedd att förvalta samfällighetens angelägenheter, eller
 
 3. om det inte finns någon styrelse eller förvaltare, någon av samfällighetens
@@ -2049,29 +2048,41 @@ Byggprodukters lämplighet
 19 § En byggprodukt får ingå i ett byggnadsverk endast om den
 är lämplig för den avsedda användningen.
 
-En byggprodukt ska anses lämplig, om den
+En byggprodukt ska anses lämplig om den
 
 1. har sådana egenskaper att det byggnadsverk som produkten
 ska ingå i kan uppfylla de tekniska egenskapskrav som avses i
-4 § första stycket 16 när byggnadsverket är projekterat och
-uppfört på rätt sätt, eller
+4 § första stycket 16, 8 och 9 när byggnadsverket är
+projekterat och uppfört på rätt sätt, eller
 
 2. uppfyller kraven i föreskrifter som har meddelats med stöd
-av 16 kap. 6 §. Lag (2011:335).
+av 16 kap. 6 §. Lag (2013:306).
 
 Utsläppande på marknaden
 
-20 § En byggprodukt får släppas ut på marknaden för avsedd
-användning endast om den är lämplig enligt 19 §.
+20 § Bestämmelser om villkor för att släppa ut och
+tillhandahålla byggprodukter på marknaden finns i
+Europaparlamentets och rådets förordning (EU) nr 305/2011 av
+den 9 mars 2011 om fastställande av harmoniserade villkor för
+saluföring av byggprodukter och om upphävande av rådets
+direktiv 89/106/EEG.
 
-21 § För byggprodukter som ska vara CE-märkta enligt
-föreskrifter som har meddelats med stöd av 16 kap. 6 § första
-stycket 2 gäller bestämmelserna om märkning i
-Europaparlamentets och rådets förordning (EG) nr 765/2008 av
-den 9 juli 2008 om krav för ackreditering och marknadskontroll
-i samband med saluföring av produkter och upphävande av
-förordning (EEG) nr 339/93 och lagen (2011:791) om
-ackreditering och teknisk kontroll. Lag (2011:795).
+En byggprodukt som inte omfattas av förordning (EU) nr
+305/2011 får säljas här i landet för avsedd användning endast
+om den är lämplig enligt 19 §. Lag (2013:306).
+
+21 § Bestämmelserna om märkning i Europaparlamentets och
+rådets förordning (EG) nr 765/2008 av den 9 juli 2008 om krav
+för ackreditering och marknadskontroll i samband med
+saluföring av produkter och upphävande av förordning (EEG) nr
+338/93 och lagen (2011:791) om ackreditering och teknisk
+kontroll gäller för byggprodukter som ska vara CE-märkta
+enligt 
+
+1. förordning (EU) nr 305/2011, eller 
+
+2. föreskrifter som har meddelats med stöd av 16 kap. 6 § 
+första stycket 2. Lag (2013:306).
 
 Typgodkännande och tillverkningskontroll
 
@@ -2098,6 +2109,12 @@ Ett visst materialslag eller en viss konstruktion eller
 anordning som är typgodkänd ska anses uppfylla de tekniska
 egenskapskrav som avses i 4 § i de avseenden som
 typgodkännandet gäller. Lag (2011:795).
+
+22 a § När CE-märkning ska vara den enda märkning som styrker
+en byggprodukts överensstämmelse med angivna prestanda i
+enlighet med artikel 8.3 i förordning (EU) nr 305/2011, får
+typgodkännande inte meddelas och redan meddelade
+typgodkännanden ska upphöra att gälla. Lag (2013:306).
 
 23 § Ett typgodkännande enligt 22 § får förenas med ett villkor om att
 tillverkningen av produkten fortlöpande kontrolleras (tillverkningskontroll).
@@ -2448,9 +2465,7 @@ uppenbart att lov inte kan ges. Lag (2011:335).
 förhandsbesked
 inte avgöras utan att sökanden och fastighetsägaren har underrättats om vad
 andra har tillfört ärendet och fått tillfälle att yttra sig över det.
-
-27 § Byggnadsnämnden ska handlägga ärenden om lov och förhandsbesked
-skyndsamt
+27 § Byggnadsnämnden ska handlägga ärenden om lov och förhandsbesked skyndsamt
 och meddela sitt beslut om lov eller förhandsbesked inom tio veckor från det att
 den fullständiga ansökningen kom in till nämnden. Om det är nödvändigt på grund
 av utredningen i ärendet, får tiden förlängas en gång med högst tio veckor
@@ -3124,31 +3139,37 @@ nämnden också handlägga den frågan skyndsamt.
 
 1 § Detta kapitel innehåller bestämmelser om
 
-1. tillsynen allmänt, möjlighet att få ett ingripandebesked samt skyldighet att
-ge tillträde och lämna upplysningar för tillsynen,
+1. tillsynen allmänt, möjlighet att få ett ingripandebesked
+samt skyldighet att ge tillträde och lämna upplysningar för
+tillsynen,
 
 2. tillsynen över kommunala beslut och regionplanebeslut,
 
-3. förelägganden som behövs för att regler, domar och beslut ska följas,
+3. förelägganden som behövs för att regler, domar och beslut
+ska följas,
 
-4. genomförande på den försumliges bekostnad och förbud mot fortsatt arbete
-eller användning av byggnadsverk,
+4. genomförande på den försumliges bekostnad och förbud mot
+fortsatt arbete eller användning av byggnadsverk,
 
 5. ingripanden mot kontrollanter och kontrollansvariga,
 
-6. att förelägganden och förbud får förenas med vite eller ska genomföras
-omedelbart,
+6. att förelägganden och förbud får förenas med vite eller
+ska genomföras omedelbart,
 
 7. handräckning,
 
-8. anteckningar av förelägganden och förbud i fastighetsregistret samt verkan av
-förelägganden och förbud vid ägarbyte,
+8. anteckningar av förelägganden och förbud i
+fastighetsregistret samt verkan av förelägganden och förbud
+vid ägarbyte,
 
 9. byggsanktionsavgifter,
 
-10. överlåtelse av egendom efter en överträdelse, och
+10. överlåtelse av egendom efter en överträdelse,
 
-11. tystnadsplikt.
+11. tystnadsplikt, och
+
+12. avgift vid tillsyn.
+Lag (2013:306).
 
 Allmänt om tillsynen
 
@@ -3191,30 +3212,58 @@ Tillträde och upplysningar
 
 8 § För att fullgöra sina uppgifter enligt denna lag har
 
-1. byggnadsnämnden och länsstyrelsen samt den som på nämndens eller
-länsstyrelsens uppdrag utför ett arbete rätt att få tillträde till fastigheter
-och byggnadsverk samt att där vidta de åtgärder som behövs för att utföra
-arbetet,
+1. byggnadsnämnden och länsstyrelsen samt den som på nämndens
+eller länsstyrelsens uppdrag utför ett arbete rätt att få
+tillträde till fastigheter och byggnadsverk samt att där
+vidta de åtgärder som behövs för att utföra arbetet,
 
-2. en tillsynsmyndighet rätt att på begäran få de upplysningar och handlingar
-från byggherren som behövs för tillsynen över bygg-, rivnings- och markåtgärder,
-och
+2. en tillsynsmyndighet rätt att på begäran få de
+upplysningar och handlingar från byggherren som behövs för
+tillsynen över bygg-, rivnings- och markåtgärder, och
 
-3. en tillsynsmyndighet rätt att hos den som tillverkar, importerar, saluför
-eller använder byggprodukter som omfattas av tillsynen
+3. en tillsynsmyndighet rätt att hos den som tillverkar eller
+representerar den som tillverkar och hos den som importerar
+eller saluför byggprodukter som omfattas av tillsynen
 
 a) få tillgång till produkter för kontroll,
 
-b) på begäran få de upplysningar och handlingar som behövs, och
+b) på begäran få de upplysningar och handlingar som behövs,
+och
 
-c) få tillträde till områden, lokaler och andra utrymmen, dock inte bostäder.
+c) få tillträde till områden, lokaler och andra utrymmen,
+dock inte bostäder.
 
-En myndighet som framställer kartor för samhällets behov har för att fullgöra
-sin kartläggningsuppgift också en sådan rätt till tillträde som anges i första
-stycket 1, dock inte till bostäder. Om det behövs för att tillsynsmyndigheten
-ska kunna ta del av innehållet i ett utländskt certifikat, intyg eller annan
-handling, ska handlingen på myndighetens begäran visas i översättning till
-svenska. Översättningen behöver inte vara auktoriserad.
+En myndighet som framställer kartor för samhällets behov har
+för att fullgöra sin kartläggningsuppgift också en sådan rätt
+till tillträde som anges i första stycket 1, dock inte till
+bostäder. Om det behövs för att tillsynsmyndigheten ska kunna
+ta del av innehållet i ett utländskt certifikat, intyg eller
+annan handling, ska handlingen på myndighetens begäran visas
+i översättning till svenska. Översättningen behöver inte vara
+auktoriserad. Lag (2013:306).
+
+8 a § En tillsynsmyndighet som ska övervaka och utvärdera
+tekniska bedömningsorgan enligt artikel 29.3 i förordning
+(EU) nr 305/2011 har rätt att hos bedömningsorganen
+
+1. på begäran få de upplysningar och handlingar som behövs,
+och
+
+2. få tillträde till lokaler.
+Lag (2013:306).
+
+8 b § Den som tillverkar eller representerar den som
+tillverkar och den som importerar eller saluför byggprodukter
+ska efter beslut från tillsynsmyndigheten ersätta myndigheten
+för kostnader vid provtagning och undersökning av prov, om en
+produkt vid tillsyn enligt 2 § visar sig inte uppfylla
+gällande krav. Lag (2013:306).
+
+8 c § Den som tillverkar eller representerar den som
+tillverkar och den som importerar eller saluför byggprodukter
+ska få ersättning från tillsynsmyndigheten för produkter som
+ska kontrolleras enligt 8 § första stycket 3, om det finns
+särskilda skäl för det. Lag (2013:306).
 
 9 § Polismyndigheterna ska lämna det biträde som behövs för
 tillträde enligt 8 §.
@@ -3359,25 +3408,27 @@ till skydd mot olycksfall.
 
 Produktförelägganden
 
-25 § Tillsynsmyndigheten får i det enskilda fallet besluta om det föreläggande
-eller förbud som från skyddssynpunkt behövs för att bestämmelsen om
-byggprodukter i 8 kap. 20 § eller en bestämmelse som har meddelats med stöd av
-16 kap. 6 § ska följas.
+25 § Tillsynsmyndigheten får i det enskilda fallet besluta om
+det föreläggande eller förbud som från skyddssynpunkt behövs
+för att bestämmelsen om byggprodukter i 8 kap. 20 § andra
+stycket ska följas. Lag (2013:306).
 
-26 § Om en byggprodukt har CE-märkts trots att den inte överensstämmer med de
-krav som gäller för CE-märkning, får tillsynsmyndigheten förelägga tillverkaren,
-importören eller den som saluför byggprodukten att
+26 § Om en byggprodukt som omfattas av förordning (EU) nr
+305/2011 inte uppfyller de krav som fastställs i förordningen
+eller om tillsynsmyndigheten har tillräckliga skäl att anta
+att produkten inte uppfyller förordningens krav får
+myndigheten vidta de åtgärder som följer av artiklarna
+5659.
 
-1. upphöra med CE-märkningen,
+Om en byggprodukt inte uppfyller de krav som följer av
+föreskrifter meddelade med stöd av 16 kap. 6 § 2 får
+tillsynsmyndigheten vidta de åtgärder som följer av
+artiklarna 1921 i förordning (EG) nr 765/2008.
 
-2. upphöra med användningen av CE-märkningen,
-
-3. återkalla osålda produkter, eller
-
-4. ta bort CE-märkningen.
-
-Ett sådant föreläggande gäller så länge som produkten inte överensstämmer med
-kraven.
+Tillsynsmyndigheten får i det enskilda fallet besluta om det
+föreläggande som behövs för att de krav på byggprodukter som
+avses i första och andra styckena ska uppfyllas.
+Lag (2013:306).
 
 Genomförande på bekostnad av den som fått ett föreläggande
 
@@ -3563,11 +3614,13 @@ byggprodukter, ska tillsynsmyndigheten ta ut en särskild avgift
 (byggsanktionsavgift) enligt föreskrifter som har meddelats med stöd av 16 kap.
 12 §.
 
-52 § Byggsanktionsavgiftens storlek ska framgå av de föreskrifter som har
-meddelats med stöd av 16 kap. 12 §. Avgiften får uppgå till högst 50
-prisbasbelopp enligt 2 kap. 6 och 7 §§ socialförsäkringsbalken. När avgiftens
-storlek bestäms, ska hänsyn tas till överträdelsens allvar och betydelsen av den
-bestämmelse som överträdelsen avser.
+52 § Byggsanktionsavgiftens storlek ska framgå av de
+föreskrifter som regeringen har meddelat med stöd av 16 kap.
+12 §. Avgiften får uppgå till högst 50 prisbasbelopp enligt
+2 kap. 6 och 7 §§ socialförsäkringsbalken. När regeringen
+meddelar föreskrifter om avgiftens storlek, ska hänsyn tas
+till överträdelsens allvar och betydelsen av den bestämmelse
+som överträdelsen avser. Lag (2013:307).
 
 53 § En byggsanktionsavgift ska tas ut även om överträdelsen inte har skett
 uppsåtligen eller av oaktsamhet.
@@ -3579,9 +3632,18 @@ genom någon annan fullgöra sin skyldighet,
 
 2. att överträdelsen berott på en omständighet som den avgiftsskyldige inte har
 kunnat eller bort förutse eller kunnat påverka, eller
-
 3. vad den avgiftsskyldige har gjort för att undvika att en överträdelse skulle
 inträffa.
+
+53 a § En byggsanktionsavgift får i ett enskilt fall sättas
+ned om avgiften inte står i rimlig proportion till den
+överträdelse som har begåtts. Avgiften får sättas ned till
+hälften eller en fjärdedel.
+
+Vid prövningen enligt första stycket ska det särskilt beaktas
+om överträdelsen inte har skett uppsåtligen eller av
+oaktsamhet eller om överträdelsen av andra skäl kan anses
+vara av mindre allvarlig art. Lag (2013:307).
 
 54 § En byggsanktionsavgift ska inte tas ut om rättelse sker innan frågan om
 sanktion eller ingripande enligt detta kapitel har tagits upp till överläggning
@@ -3669,6 +3731,13 @@ utnyttja informationen.
 I det allmännas verksamhet tillämpas i stället offentlighets- och
 sekretesslagen
 (2009:400).
+
+Avgift vid tillsyn
+
+66 § Den myndighet som ska övervaka och utvärdera tekniska
+bedömningsorgan i enlighet med artikel 29.3 i förordning (EU)
+nr 305/2011 ska ha rätt att ta ut avgift för att täcka
+kostnaderna för övervakning och utvärdering. Lag (2013:306).
 
 12 kap. Byggnadsnämnden
 
@@ -4381,29 +4450,39 @@ anläggningar än byggnader och allmänna platser.
 
 Föreskrifter om byggprodukter
 
-6 § Regeringen eller den myndighet som regeringen bestämmer får meddela
-föreskrifter om
+6 § Regeringen eller den myndighet som regeringen bestämmer
+får meddela föreskrifter om
 
-1. vad som krävs för att en byggprodukt enligt 8 kap. 19 § ska anses lämplig för
-att ingå i ett byggnadsverk,
+1. vad som krävs för att en byggprodukt enligt 8 kap. 19 §
+ska anses lämplig för att ingå i ett byggnadsverk,
 
-2. märkning av byggprodukter enligt 8 kap. 21 § som förutsättning för att de ska
-få släppas ut på marknaden och användas,
+2. märkning av byggprodukter enligt 8 kap. 21 § 2 som
+förutsättning för att de ska få släppas ut på marknaden och
+användas,
 
-3. typgodkännanden och tillverkningskontroll enligt 8 kap. 22 och 23 §§,
+3. typgodkännanden och tillverkningskontroll enligt 8 kap.
+22 och 23 §§,
 
-4. att en byggprodukt måste vara typgodkänd enligt 8 kap. 22 § för att få
-användas i ett byggnadsverk, och
+4. att en byggprodukt måste vara typgodkänd enligt 8 kap. 22 §
+för att få användas i ett byggnadsverk,
 
-5. bestyrkande av överensstämmelse med gällande krav på byggprodukter och att, i
-fråga om byggprodukter som har liten betydelse med hänsyn till hälsa och
-säkerhet, det för ett sådant bestyrkande är tillräckligt att tillverkaren har
-utfärdat en försäkran om byggprodukternas överensstämmelse med allmänt erkänd
-och tillämpad teknik.
+5. på vilket eller vilka språk prestandadeklarationer,
+bruksanvisningar och säkerhetsföreskrifter enligt artiklarna
+7.4, 11.6, 13.4 och 14.2 i förordning (EU) nr 305/2011 ska
+tillhandahållas,
 
-Föreskrifter enligt första stycket 4 får endast avse typgodkännande som
-behövs
-till skydd för liv, personlig säkerhet eller hälsa.
+6. på vilket eller vilka språk tillverkarna, importörerna och
+distributörerna ska förse tillsynsmyndigheten med information
+och dokumentation enligt artiklarna 11.8, 13.9 och 14.5 i
+förordning (EU) nr 305/2011,
+
+7. sådan ersättning som anges i 11 kap. 8 b och 8 c §§, och
+
+8. avgift vid tillsyn enligt 11 kap. 66 §.
+
+Föreskrifter enligt första stycket 4 får endast avse
+typgodkännande som behövs till skydd för liv, personlig
+säkerhet eller hälsa. Lag (2013:306).
 
 Föreskrifter om bygglov
 
@@ -4589,3 +4668,9 @@ om byggande av järnväg i den lydelse lagarna hade före den 1 januari
 Denna lag träder i kraft den 1 januari 2013. Bestämmelserna i
 15 kap. 10 § i sin nya lydelse tillämpas dock för tid från och
 med den 2 maj 2011.
+
+2013:307
+
+Denna lag träder i kraft den 1 juli 2013. Bestämmelserna i
+11 kap. 53 a § tillämpas dock för tid från och med den 2 maj
+2011.
