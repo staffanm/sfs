@@ -425,12 +425,11 @@ för vården av patienten göras tillgängliga.
 
 Skydd för identitet i vissa fall
 
-6 § /Upphör att gälla U:2014-01-01/
-Av 14 § lagen (1996:1156) om receptregister följer att
-Apotekens Service Aktiebolag ska lämna ut vissa uppgifter till
-landstingen om förskrivning av läkemedel och andra varor och
-att uppgifter om patientens identitet ska vara krypterade vid
-utlämnandet.
+6 § I 14 § lagen (1996:1156) om receptregister finns
+bestämmelser om att E-hälsomyndigheten ska lämna ut vissa
+uppgifter till landstingen om förskrivning av läkemedel och
+andra varor och att uppgifter om patientens identitet ska
+vara krypterade vid utlämnandet.
 
 Uppgifter som avses i första stycket får inte behandlas i
 syfte att röja en patients identitet utan att patienten
@@ -440,25 +439,7 @@ Uppgifter om en patients identitet som har dokumenterats inom
 hälso- och sjukvården och som landstingen ska sambearbeta med
 sådana uppgifter som avses i första stycket, ska vara
 krypterade så att patientens identitet skyddas vid
-behandlingen. Lag (2010:413).
-
-6 § /Träder i kraft I:2014-01-01/
-I 14 § lagen (1996:1156) om receptregister finns
-bestämmelser om att Myndigheten för hälso- och
-vårdinfrastruktur ska lämna ut vissa uppgifter till
-landstingen om förskrivning av läkemedel och andra varor och
-att uppgifter om patientens identitet ska vara krypterade vid
-utlämnandet.
-
-Uppgifter som avses i första stycket får inte behandlas i
-syfte att röja en patients identitet utan att patienten
-samtycker till det.
-
-Uppgifter om en patients identitet som har dokumenterats inom
-hälso- och sjukvården och som landstingen ska sambearbeta med
-sådana uppgifter som avses i första stycket, ska vara
-krypterade så att patientens identitet skyddas vid
-behandlingen. Lag (2013:622).
+behandlingen. Lag (2013:1024).
 
 5 kap. Grundläggande bestämmelser om utlämnande av uppgifter
 och handlingar samt viss uppgiftsskyldighet
