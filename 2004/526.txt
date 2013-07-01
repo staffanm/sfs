@@ -36,13 +36,13 @@ ackreditering och teknisk kontroll för att bedöma
 överensstämmelse och lämplighet hos komponenter som är
 nödvändiga för driftskompatibilitet och delsystem,
 
-europeisk specifikation: sådan gemensam teknisk specifikation,
-sådant europeiskt tekniskt godkännande eller sådan nationell
-standard som genomför europeisk standard som anges i artikel
-1.8-12 i rådets direktiv 93/38/EEG av den 14 juni 1993 om
-samordning av upphandlingsförfarandet för enheter som har
-verksamhet inom vatten-, energi-, transport- och
-telekommunikationssektorerna,
+europeisk specifikation: sådan gemensam teknisk
+specifikation, sådant europeiskt tekniskt godkännande eller
+sådan nationell standard som genomför europeisk standard som
+anges i artikel 1.812 i rådets direktiv 93/38/EEG av den 14
+juni 1993 om samordning av upphandlingsförfarandet för
+enheter som har verksamhet inom vatten-, energi-, transport-
+och telekommunikationssektorerna,
 
 transeuropeiska järnvägssystemet: de transeuropeiska
 järnvägssystemen för konventionell trafik och för
@@ -58,15 +58,16 @@ Europaparlamentets och rådets beslut nr 1692/96/EG av den 23
 juni 1996 om gemenskapens riktlinjer för utbyggnad av det
 transeuropeiska transportnätet,
 
-transeuropeiska järnvägssystemet för konventionell trafik: det
-järnvägssystem som beskrivs i bilaga I punkt 1 till direktiv
-2008/57/EG och som omfattar den järnvägsinfrastruktur som
-avses i artikel 10.3 i Europaparlamentets och rådets beslut nr
-1692/96/EG,
+transeuropeiska järnvägssystemet för konventionell trafik:
+det järnvägssystem som beskrivs i bilaga I punkt 1 till
+direktiv 2008/57/EG och som omfattar den
+järnvägsinfrastruktur som avses i artikel 10.3 i
+Europaparlamentets och rådets beslut nr 1692/96/EG,
 
 väsentliga krav: de krav som beskrivs i bilaga III till
 direktiv 2008/57/EG om driftskompatibiliteten hos
-järnvägssystemet inom gemenskapen. Förordning (2011:1117).
+järnvägssystemet inom gemenskapen, ändrat genom kommissionens
+direktiv 2013/9/EU. Förordning (2013:318).
 
 4 § Transportstyrelsen får meddela föreskrifter om vilka fordon
 som är arbetsfordon, vilka fordon som är museijärnvägsfordon
@@ -136,11 +137,14 @@ vidta lämpliga åtgärder och rapportera tillbaka till den
 myndighet eller det organ som har utfärdat
 säkerhetsrekommendationen. Förordning (2008:1287).
 
-2 § Frågor om namn på trafikplats för järnväg prövas av
-Transportstyrelsen. Innan ett namn fastställs eller ändras skall
-Transportstyrelsen samråda med kommunen samt med berörda
-infrastrukturförvaltare och järnvägsföretag.
-Förordning (2008:1287).
+2 § Transportstyrelsen beslutar om namn på trafikplats för
+järnväg. Transportstyrelsen får också meddela föreskrifter om
+namn på sådan trafikplats.
+
+Innan ett namn fastställs eller ändras ska Transportstyrelsen
+höra Lantmäteriet, berörda länsstyrelser, kommuner, regionala
+kollektivtrafikmyndigheter, infrastrukturförvaltare och
+järnvägsföretag. Förordning (2013:318).
 
 3 § Transportstyrelsen får efter samråd med Socialstyrelsen
 meddela ytterligare föreskrifter om hälsokraven enligt 2 kap.
@@ -227,9 +231,8 @@ järnvägsfordon. Förordning (2011:1117).
 
 6 § Varje delsystem och varje däri ingående komponent som är
 nödvändig för driftskompatibilitet ska uppfylla de väsentliga
-krav som anges i bilaga III till direktiv 2008/57/EG om
-driftskompatibiliteten hos järnvägssystemet inom gemenskapen.
-Förordning (2011:394).
+krav som anges i bilaga III till direktiv 2008/57/EG, ändrat
+genom kommissionens direktiv 2013/9/EU. Förordning (2013:318).
 
 7 § Varje delsystem skall överensstämma med de tekniska
 specifikationer för driftskompatibilitet och med de andra krav
@@ -288,46 +291,70 @@ dessa. Förordning (20008:1287).
 
 Undantag från tekniska specifikationer
 
-11 § Transportstyrelsen får, när det gäller delsystem som ingår
-i det transeuropeiska järnvägssystemet, besluta att inte
-tillämpa en sådan teknisk specifikation för
-driftskompatibilitet som avses i 5 § första stycket endast för
-projekt som gäller
+11 § Transportstyrelsen får, när det gäller delsystem som
+ingår i det transeuropeiska järnvägssystemet, besluta att
+inte tillämpa en sådan teknisk specifikation som avses i 5 §
+första stycket endast för projekt som gäller
 
-1. en ny linje, modernisering eller ombyggnad av en befintlig
-linje om projektet är långt framskridet eller ett avtal om ett
-sådant projekt håller på att genomföras när den tekniska
-specifikationen för driftskompatibilitet offentliggörs i
-Europeiska unionens officiella tidning,
+1. ett nytt delsystem eller en modernisering eller ombyggnad
+av ett befintligt delsystem om projektet vid tidpunkten för
+publicering av den tekniska specifikationen för
+driftskompatibilitet i Europeiska unionens officiella tidning
+är långt framskridet eller omfattas av ett avtal som håller
+på att genomföras,
 
-2. modernisering eller ombyggnad av en befintlig linje om
-lastprofilen, spårvidden, spåravståndet eller den elektriska
-spänningen i tillämpliga tekniska specifikationer för
-driftskompatibilitet är inkompatibla med vad som gäller för
-den befintliga linjen,
+2. en modernisering eller ombyggnad av ett befintligt
+delsystem om lastprofilen, spårvidden eller spåravståndet
+eller den elektriska spänningen enligt tillämpliga tekniska
+specifikationer för driftskompatibilitet är inkompatibla med
+vad som gäller för det befintliga delsystemet,
 
-3. modernisering, utvidgning eller ombyggnad av en befintlig
-linje om användningen av tillämpliga tekniska specifikationer
-för driftskompatibilitet hotar projektets lönsamhet eller
-driftskompatibiliteten hos det svenska järnvägssystemet, eller
+3. en modernisering, utvidgning eller ombyggnad av ett
+befintligt delsystem om tillämpningen av den tekniska
+specifikationen för driftskompatibilitet skulle hota
+projektets lönsamhet eller driftskompatibiliteten hos det
+svenska järnvägssystemet,
 
 4. att snabbt återupprätta järnvägsförbindelserna efter en
-olycka eller en naturkatastrof och tillämpliga tekniska
-specifikationer för driftskompatibilitet då inte kan användas
-av tekniska eller ekonomiska skäl. Förordning (2011:1117).
+olyckshändelse eller en naturkatastrof och det inte är
+tekniskt eller ekonomiskt möjligt att göra detta om tekniska
+specifikationer för driftskompatibilitet helt eller delvis
+ska tillämpas,
 
-12 § Har upphävts genom förordning (2007:453).
+5. för fordon till eller från tredjeland där spårvidden
+avviker från den spårvidd som används för gemenskapens
+huvudjärnvägsnät. Förordning (2013:318).
 
-13 § Innan Transportstyrelsen beslutar om undantag enligt 11 §
-ska styrelsen anmäla ett utkast till ett sådant beslut till
-Europeiska kommissionen. Anmälan ska lämnas in på ett sådant
-sätt och innehålla ett underlag med sådana uppgifter som anges
-i bilaga IX till direktiv 2008/57/EG. Förordning (2011:1117).
+12 § Transportstyrelsen ska till Europeiska kommissionen
+överlämna en förteckning över alla för styrelsen kända långt
+framskridna projekt som genomförs på svenskt territorium och
+för vilka ett undantag från en teknisk specifikation för
+driftskompatibilitet enligt 11 § 1 skulle kunna aktualiseras.
+Förteckningen ska överlämnas till kommissionen senast ett år
+efter det att den tekniska specifikationen för
+driftskompatibilitet trädde i kraft. Förordning (2013:318).
 
-14 § Om Europeiska gemenskapernas kommission beslutar att inte
-tillåta ett undantag får beslut enligt 11 § inte meddelas. Vid
-beslut enligt 11 § 2 och 3 skall en rekommendation från
-kommissionen beaktas. Förordning (2007:453).
+13 § Innan Transportstyrelsen fattar beslut enligt 11 § 2, 3
+eller 5 ska styrelsen överlämna en begäran om undantag till
+Europeiska kommissionen. Begäran ska innehålla de uppgifter
+som anges i bilaga IX till direktiv 2008/57/EG.
+Förordning (2013:318).
+
+13 a § Innan Transportstyrelsen fattar beslut enligt 11 § 1
+eller 4 ska styrelsen överlämna ett underlag till Europeiska
+kommissionen. Underlaget ska innehålla de uppgifter som anges
+i bilaga IX till direktiv 2008/57/EG. Förordning (2013:318).
+
+14 § Om Europeiska kommissionen beslutar att inte tillåta ett
+undantag får beslut enligt 11 § 2, 3 eller 5 inte meddelas.
+Om Europeiska kommissionen inte fattat ett beslut i ärendet
+inom sex månader från det att en begäran med fullständigt
+underlag lämnats in, ska det anses att begäran godtagits.
+
+Om Europeiska kommissionen, när det gäller undantag enligt
+11 § 1 eller 4, utfärdar en rekommendation om vilka
+specifikationer som ska tillämpas, ska Transportstyrelsen
+beakta denna rekommendation. Förordning (2013:318).
 
 Godkännande av delsystem
 
@@ -338,24 +365,25 @@ Förordning (2011:1117).
 
 14 b § Ett delsystem som inte alls eller endast till viss del
 omfattas av krav på tekniska specifikationer för
-driftskompatibilitet och som har godkänts för att tas i bruk i
-en annan stat inom EES eller i Schweiz ska godkännas enligt 2
-kap. 13 § järnvägslagen (2004:519), om sökanden visar upp
+driftskompatibilitet och som har godkänts för att tas i bruk
+i en annan stat inom EES eller i Schweiz ska godkännas enligt
+2 kap. 13 § järnvägslagen (2004:519), om sökanden visar upp
 dokumentation som styrker att delsystemet
 
 1. uppfyller de väsentliga krav som anges i bilaga III till
-direktiv 2008/57/EG,
+direktiv 2008/57/EG, ändrat genom kommissionens direktiv
+2013/9/EU,
 
 2. är tekniskt kompatibelt med det järnvägssystem det ska
-integreras i,
-och
+integreras i, och
 
-3. kan användas på ett för järnvägssäkerheten betryggande sätt
-i järnvägssystemet.
+3. kan användas på ett för järnvägssäkerheten betryggande
+sätt i järnvägssystemet.
 
-Transportstyrelsen får meddela föreskrifter om vilka uppgifter
-och handlingar som ska ges in samt om det krävs tester för att
-styrelsen ska kunna pröva ansökan. Förordning (2011:1117).
+Transportstyrelsen får meddela föreskrifter om vilka
+uppgifter och handlingar som ska ges in samt om det krävs
+tester för att styrelsen ska kunna pröva ansökan.
+Förordning (2013:318).
 
 Nytt godkännande av moderniserade eller ombyggda delsystem
 
@@ -566,6 +594,21 @@ dras tillbaka eller återkallas. Förordning (2011:1117).
 samtidigt, ska Transportstyrelsen samarbeta med motsvarande
 myndigheter i övriga berörda länder i syfte att underlätta
 förfarandet. Förordning (2011:1117).
+
+24 a § En försäkran om överensstämmelse ska
+
+1. för fordon som överensstämmer med en teknisk specifikation
+för driftskompatibilitet fastställas enligt de
+kontrollförfaranden som anges i specifikationen, och
+
+2. för fordon som inte överensstämmer med en teknisk
+specifikation för driftskompatibilitet fastställas i enlighet
+med de kontrollförfaranden som anges i modulerna D eller E i
+rådets beslut 93/465/EEG av den 22 juli 1993 om moduler för
+olika stadier i förfaranden vid bedömning av överensstämmelse
+samt regler för anbringande och användning av EG-märkning om
+överensstämmelse, avsedda att användas i tekniska
+harmoniseringsdirektiv. Förordning (2013:318).
 
 Märkning av järnvägsfordon
 
