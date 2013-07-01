@@ -2,17 +2,10 @@
 
 Inledande bestämmelser
 
-1 § /Upphör att gälla U:2014-01-01/
-För de ändamål som anges i 6 § får Apotekens Service
-Aktiebolag med hjälp av automatiserad behandling föra ett
-register över förskrivningar av läkemedel och andra varor för
-människor (receptregister). Lag (2009:370).
-
-1 § /Träder i kraft I:2014-01-01/
-För de ändamål som anges i 6 § får Myndigheten för hälso-
-och vårdinfrastruktur med hjälp av automatiserad behandling
-föra ett register över förskrivningar av läkemedel och andra
-varor för människor (receptregister). Lag (2013:619).
+1 § För de ändamål som anges i 6 § får E-hälsomyndigheten med
+hjälp av automatiserad behandling föra ett register över
+förskrivningar av läkemedel och andra varor för människor
+(receptregister). Lag (2013:1021).
 
 2 § Vad som sägs om landsting i denna lag gäller också kommuner som
 inte ingår i ett landsting.
@@ -36,88 +29,16 @@ uttryckligt samtycke till behandlingen. Lag (2009:370).
 
 Personuppgiftsansvar
 
-5 § /Upphör att gälla U:2014-01-01/
-Apotekens Service Aktiebolag är personuppgiftsansvarigt
-för receptregistret. Lag (2009:370).
-
-5 § /Träder i kraft I:2014-01-01/
-Myndigheten för hälso- och vårdinfrastruktur är
-personuppgiftsansvarig för receptregistret. Lag (2013:619).
+5 § E-hälsomyndigheten är personuppgiftsansvarig för
+receptregistret. Lag (2013:1021).
 
 Ändamål med personuppgiftsbehandlingen
 
-6 § /Upphör att gälla U:2014-01-01/
-Personuppgifterna i receptregistret får behandlas om det
-är nödvändigt för
-
-1. expediering av läkemedel och andra varor som förskrivits,
-
-2. registrering av underlaget för tillämpningen av
-bestämmelserna om läkemedelsförmåner vid köp av läkemedel
-m.m.,
-
-3. debiteringen till landstingen,
-
-4. ekonomisk uppföljning och framställning av statistik hos
-Apotekens
-Service Aktiebolag,
-
-5. registrering och redovisning till landstingen av uppgifter
-för ekonomisk och medicinsk uppföljning samt för framställning
-av statistik,
-
-6. registrering och redovisning till förskrivare, till
-verksamhetschefer enligt hälso- och sjukvårdslagen (1982:763)
-och till läkemedelskommittéer enligt lagen (1996:1157) om
-läkemedelskommittéer av uppgifter för medicinsk uppföljning,
-utvärdering och kvalitetssäkring i hälso- och sjukvården,
-
-7. registrering och redovisning till Socialstyrelsen av
-uppgifter för epidemiologiska undersökningar, forskning och
-framställning av statistik inom hälso- och sjukvårdsområdet,
-
-8. registrering av recept och blanketter som används för flera
-uttag, samt registrering av dosrecept och elektroniska recept,
-
-9. registrering och redovisning till Inspektionen för vård och
-omsorg av uppgifter om enskild läkares eller tandläkares
-förskrivning av narkotiskt läkemedel eller annat särskilt
-läkemedel, för inspektionens tillsyn över hälso- och
-sjukvårdspersonal enligt patientsäkerhetslagen (2010:659), och
-
-10. registrering och redovisning av uppgifter för Tandvårds-
-och läkemedelsförmånsverkets tillsyn över utbyte av läkemedel
-enligt 21 § lagen (2002:160) om läkemedelsförmåner m.m.
-
-Behandling av personuppgifter för ändamål som avses i första
-stycket 2 och 8, med undantag för registrering av elektroniska
-recept, får endast ske i fråga om den som har lämnat sitt
-samtycke till behandlingen. För ändamål som avses i första
-stycket 3 får uppgifter som kan hänföras till en enskild
-person inte omfatta annat än inköpsdag, kostnad,
-kostnadsreducering och patientens personnummer.
-
-För ändamål som avses i första stycket 4, 6 och 10 får inga
-uppgifter redovisas som kan hänföras till en enskild person.
-Ändamålen enligt första stycket 5 får inte, med undantag för
-utlämnande av uppgifter enligt 14 §, omfatta några åtgärder
-som innebär att uppgifter som kan hänföras till någon enskild
-patient redovisas. Dock får uppgifter som kan hänföras till en
-enskild förskrivare ingå i redovisning enligt första stycket 6
-till samma förskrivare och till verksamhetschefen vid den
-enhet där förskrivaren tjänstgör samt i redovisning enligt
-första stycket 9 till Inspektionen för vård och omsorg.
-
-Förskrivningsorsak får redovisas endast för de ändamål som
-avses i första stycket 5 och 6. Lag (2012:942).
-
-6 § /Träder i kraft I:2014-01-01/
-Personuppgifterna i receptregistret får behandlas om det
+6 § Personuppgifterna i receptregistret får behandlas om det
 är nödvändigt för
 
 1. expediering av läkemedel och andra varor som
 förskrivits,
-
 2. registrering av underlaget för tillämpningen
 av bestämmelserna om läkemedelsförmåner vid köp av läkemedel
 m.m.,
@@ -125,7 +46,7 @@ m.m.,
 3. debiteringen till landstingen,
 
 4. ekonomisk uppföljning och framställning av statistik hos
-Myndigheten för hälso- och vårdinfrastruktur,
+E-hälsomyndigheten,
 
 5. registrering och redovisning till landstingen av uppgifter
 för ekonomisk och medicinsk uppföljning samt för
@@ -178,7 +99,7 @@ enligt första stycket 9 till Inspektionen för vård och
 omsorg.
 
 Förskrivningsorsak får redovisas endast för de ändamål som
-avses i första stycket 5 och 6. Lag (2013:619).
+avses i första stycket 5 och 6. Lag (2013:1021).
 
 Personuppgiftsbehandling för annat ändamål
 
@@ -240,10 +161,9 @@ själv. Lag (2009:370).
 
 Skyldighet att lämna uppgifter till öppenvårdsapoteken
 
-12 § /Upphör att gälla U:2014-01-01/
-Apotekens Service Aktiebolag ska, för de ändamål som
-anges i 6 § första stycket 1, 2 respektive 8, till
-öppenvårdsapoteken lämna ut
+12 § E-hälsomyndigheten ska, för de ändamål som anges i 6 §
+första stycket 1, 2 respektive 8, till öppenvårdsapoteken
+lämna ut
 
 1. underlag för expediering av läkemedel och andra varor som
 förskrivits,
@@ -252,92 +172,45 @@ förskrivits,
 läkemedelsförmåner vid köp av läkemedel m.m., respektive
 
 3. uppgifter om dosrecept, recept för flera uttag och
-elektroniska recept. Lag (2009:370).
-
-12 § /Träder i kraft I:2014-01-01/
-Myndigheten för hälso- och vårdinfrastruktur ska, för de
-ändamål som anges i 6 § första stycket 1, 2 respektive 8,
-till öppenvårdsapoteken lämna ut
-
-1. underlag för expediering av läkemedel och andra varor som
-förskrivits,
-
-2. underlag för tillämpningen av bestämmelserna om
-läkemedelsförmåner vid köp av läkemedel m.m., respektive
-
-3. uppgifter om dosrecept, recept för flera uttag och
-elektroniska recept. Lag (2013:619).
+elektroniska recept. Lag (2013:1021).
 
 Skyldighet att lämna uppgifter till hälso- och
 sjukvårdspersonalen
 
-13 § /Upphör att gälla U:2014-01-01/
-Apotekens Service Aktiebolag ska lämna ut uppgifter om
-dosrecept till den som har legitimation för yrke inom hälso-
-och sjukvården och som i sin verksamhet inom vården har behov
-av sådana uppgifter. Lag (2009:370).
-
-13 § /Träder i kraft I:2014-01-01/
-Myndigheten för hälso- och vårdinfrastruktur ska lämna
-ut uppgifter om dosrecept till den som har legitimation för
-yrke inom hälso- och sjukvården och som i sin verksamhet inom
-vården har behov av sådana uppgifter. Lag (2013:619).
+13 § E-hälsomyndigheten ska lämna ut uppgifter om dosrecept
+till den som har legitimation för yrke inom hälso- och
+sjukvården och som i sin verksamhet inom vården har behov av
+sådana uppgifter. Lag (2013:1021).
 
 Skyldighet att lämna uppgifter till landstingen
 
-14 § /Upphör att gälla U:2014-01-01/
-Apotekens Service Aktiebolag ska, för de ändamål som
-avses i 6 § första stycket 3 och 5, till det landsting som
-enligt 22 § lagen (2002:160) om läkemedelsförmåner m.m. ska
-ersätta kostnaderna för läkemedelsförmåner, lämna ut uppgifter
-om uttag av förskrivna läkemedel och andra varor som omfattas
-av nämnda lag.
+14 § E-hälsomyndigheten ska, för de ändamål som avses i 6 §
+första stycket 3 och 5, till det landsting som enligt 22 §
+lagen (2002:160) om läkemedelsförmåner m.m. ska ersätta
+kostnaderna för läkemedelsförmåner, lämna ut uppgifter om
+uttag av förskrivna läkemedel och andra varor som omfattas av
+nämnda lag.
 
 Vid utlämnande av uppgifter för de ändamål som avses i 6 §
 första stycket 5 ska uppgifter om patientens identitet vara
 krypterade på ett sådant sätt att dennes identitet skyddas. I
 4 kap. 6 § andra stycket patientdatalagen (2008:355) finns
 bestämmelser om att detta skydd för patientens identitet ska
-bestå hos landstingen. Lag (2010:411).
-
-14 § /Träder i kraft I:2014-01-01/
-Myndigheten för hälso- och vårdinfrastruktur ska, för de
-ändamål som avses i 6 § första stycket 3 och 5, till det
-landsting som enligt 22 § lagen (2002:160) om
-läkemedelsförmåner m.m. ska ersätta kostnaderna för
-läkemedelsförmåner, lämna ut uppgifter om uttag av förskrivna
-läkemedel och andra varor som omfattas av nämnda lag.
-
-Vid utlämnande av uppgifter för de ändamål som avses i 6 §
-första stycket 5 ska uppgifter om patientens identitet vara
-krypterade på ett sådant sätt att dennes identitet skyddas. I
-4 kap. 6 § andra stycket patientdatalagen (2008:355) finns
-bestämmelser om att detta skydd för patientens identitet ska
-bestå hos landstingen. Lag (2013:619).
+bestå hos landstingen. Lag (2013:1021).
 
 Skyldighet att lämna uppgifter till förskrivare och
 verksamhetschef
 
-15 § /Upphör att gälla U:2014-01-01/
-Apotekens Service Aktiebolag ska, till den förskrivare
-som gjort förskrivningen och till verksamhetschefen vid den
-enhet där förskrivaren tjänstgör, lämna sådan redovisning av
-uppgifter som avses i 6 § första stycket 6. Lag (2009:370).
-
-15 § /Träder i kraft I:2014-01-01/
-Myndigheten för hälso- och vårdinfrastruktur ska, till
-den förskrivare som gjort förskrivningen och till
-verksamhetschefen vid den enhet där förskrivaren tjänstgör,
-lämna sådan redovisning av uppgifter som avses i 6 § första
-stycket 6. Lag (2013:619).
+15 § E-hälsomyndigheten ska, till den förskrivare som gjort
+förskrivningen och till verksamhetschefen vid den enhet där
+förskrivaren tjänstgör, lämna sådan redovisning av uppgifter
+som avses i 6 § första stycket 6. Lag (2013:1021).
 
 Skyldighet att lämna uppgifter till Socialstyrelsen
 
-16 § /Upphör att gälla U:2014-01-01/
-Apotekens Service Aktiebolag ska, för de ändamål som
-anges i 6 § första stycket 7, till Socialstyrelsen lämna ut
-uppgifter om
-
+16 § E-hälsomyndigheten ska, för de ändamål som anges i 6 §
+första stycket 7, till Socialstyrelsen lämna ut uppgifter
+om
 1. inköpsdag, vara, mängd, dosering, kostnad och
 kostnadsreducering enligt lagen (2002:160) om
 läkemedelsförmåner m.m.,
@@ -345,59 +218,27 @@ läkemedelsförmåner m.m.,
 2. patientens personnummer och folkbokföringsort, samt
 
 3. förskrivarens yrke, specialitet och arbetsplatskod.
-Lag (2009:370).
-
-16 § /Träder i kraft I:2014-01-01/
-Myndigheten för hälso- och vårdinfrastruktur ska, för de
-ändamål som anges i 6 § första stycket 7, till
-Socialstyrelsen lämna ut uppgifter om
-
-1. inköpsdag, vara, mängd, dosering, kostnad och
-kostnadsreducering enligt lagen (2002:160) om
-läkemedelsförmåner m.m.,
-
-2. patientens personnummer och folkbokföringsort, samt
-
-3. förskrivarens yrke, specialitet och arbetsplatskod.
-Lag (2013:619).
+Lag (2013:1021).
 
 Skyldighet att lämna uppgifter till Inspektionen för vård och
 omsorg
 
-17 § /Upphör att gälla U:2014-01-01/
-Apotekens Service Aktiebolag ska, för de ändamål som
-anges i 6 § första stycket 9, till Inspektionen för vård och
-omsorg lämna ut uppgifter om en enskild läkares eller
-tandläkares förskrivning av narkotiskt läkemedel eller annat
-särskilt läkemedel. Lag (2012:942).
-
-17 § /Träder i kraft I:2014-01-01/
-Myndigheten för hälso- och vårdinfrastruktur ska, för de
-ändamål som anges i 6 § första stycket 9, till Inspektionen
-för vård och omsorg lämna ut uppgifter om en enskild läkares
-eller tandläkares förskrivning av narkotiskt läkemedel eller
-annat särskilt läkemedel. Lag (2013:619).
+17 § E-hälsomyndigheten ska, för de ändamål som anges i 6 §
+första stycket 9, till Inspektionen för vård och omsorg lämna
+ut uppgifter om en enskild läkares eller tandläkares
+förskrivning av narkotiskt läkemedel eller annat särskilt
+läkemedel. Lag (2013:1021).
 
 Skyldighet att lämna uppgifter till Tandvårds- och
 läkemedelsförmånsverket
 
-18 § /Upphör att gälla U:2014-01-01/
-Apotekens Service Aktiebolag ska, för det ändamål som
-avses i 6 § första stycket 10, till Tandvårds- och
+18 § E-hälsomyndigheten ska, för det ändamål som avses i 6 §
+första stycket 10, till Tandvårds- och
 läkemedelsförmånsverket lämna ut administrativa uppgifter,
 uppgifter om inköpsdag, vara, mängd, kostnad och
 kostnadsreducering enligt lagen (2002:160) om
 läkemedelsförmåner m.m. redovisade per öppenvårdsapotek.
-Lag (2010:269).
-
-18 § /Träder i kraft I:2014-01-01/
-Myndigheten för hälso- och vårdinfrastruktur ska, för
-det ändamål som avses i 6 § första stycket 10, till
-Tandvårds- och läkemedelsförmånsverket lämna ut
-administrativa uppgifter, uppgifter om inköpsdag, vara,
-mängd, kostnad och kostnadsreducering enligt lagen (2002:160)
-om läkemedelsförmåner m.m. redovisade per öppenvårdsapotek.
-Lag (2013:619).
+Lag (2013:1021).
 
 Gallring
 
@@ -411,39 +252,8 @@ Lag (2009:370).
 
 Information
 
-20 § /Upphör att gälla U:2014-01-01/
-Apotekens Service Aktiebolag ska se till att den
-enskilde får information om personuppgiftsbehandlingen.
-
-Informationen ska innehålla upplysningar om
-
-1. vem som är personuppgiftsansvarig,
-
-2. ändamålen med registret,
-
-3. vilka uppgifter registret får innehålla,
-
-4.  de tystnadsplikts- och säkerhetsbestämmelser som gäller
-för registret,
-
-5. rätten att ta del av uppgifter enligt 26 §
-personuppgiftslagen (1998:204),
-
-6. rätten till rättelse av oriktiga eller missvisande
-uppgifter enligt 24 §,
-
-7. rätten till skadestånd enligt 24 §,
-
-8. de begränsningar i fråga om sökbegrepp och bevarande av
-uppgifter som gäller för registret, och
-
-9. att registreringen inte är frivillig med undantag för
-ändamål enligt 6 § första stycket 2 och 8. Lag (2009:370).
-
-20 § /Träder i kraft I:2014-01-01/
-Myndigheten för hälso- och vårdinfrastruktur ska se till
-att den enskilde får information om
-personuppgiftsbehandlingen.
+20 § E-hälsomyndigheten ska se till att den enskilde får
+information om personuppgiftsbehandlingen.
 
 Informationen ska innehålla upplysningar om
 
@@ -468,86 +278,40 @@ uppgifter enligt 24 §,
 uppgifter som gäller för registret, och
 
 9. att registreringen inte är frivillig med undantag för
-ändamål enligt 6 § första stycket 2 och 8. Lag (2013:619).
+ändamål enligt 6 § första stycket 2 och 8.
+Lag (2013:1021).
 
-/Rubriken upphör att gälla U:2014-01-01/
-Tystnadsplikt
-
-/Rubriken träder i kraft I:2014-01-01/
 Sekretess
 
-21 § /Upphör att gälla U:2014-01-01/
-Den som arbetar eller har arbetat inom Apotekens Service
-Aktiebolag får inte obehörigen röja eller utnyttja vad han
-eller hon i sin verksamhet har fått veta om en
-
-1. enskilds hälsotillstånd eller personliga förhållanden,
-
-2. enskilds affärs- eller driftsförhållanden, eller
-
-3. sådan metod för kryptering som avses i 14 § andra stycket.
-
-Som obehörigt röjande anses inte att någon fullgör sådan
-uppgiftsskyldighet som följer av lag eller förordning.
-Lag (2010:411).
-
-21 § /Träder i kraft I:2014-01-01/
-I offentlighets- och sekretesslagen (2009:400) finns
+21 § I offentlighets- och sekretesslagen (2009:400) finns
 bestämmelser om begränsningar i rätten att lämna ut
 uppgifter. Lag (2013:619).
 
 Behörighetstilldelning
 
-22 § /Upphör att gälla U:2014-01-01/
-Apotekens Service Aktiebolag ska bestämma villkor för
-tilldelning av behörighet för åtkomst till helt eller delvis
-automatiskt behandlade uppgifter om patienter. Behörigheten
-ska begränsas till vad som behövs för att den som arbetar hos
-Apotekens Service Aktiebolag ska kunna fullgöra sina
-arbetsuppgifter där.
-
-Regeringen, eller den myndighet som regeringen bestämmer, får
-meddela föreskrifter om tilldelning av behörighet för åtkomst
-till helt eller delvis automatiskt behandlade uppgifter.
-Lag (2009:370).
-
-22 § /Träder i kraft I:2014-01-01/
-Myndigheten för hälso- och vårdinfrastruktur ska
-bestämma villkor för tilldelning av behörighet för åtkomst
-till helt eller delvis automatiskt behandlade uppgifter om
-patienter. Behörigheten ska begränsas till vad som behövs för
-att den som arbetar hos Myndigheten för hälso- och
-vårdinfrastruktur ska kunna fullgöra sina arbetsuppgifter
+22 § E-hälsomyndigheten ska bestämma villkor för tilldelning
+av behörighet för åtkomst till helt eller delvis automatiskt
+behandlade uppgifter om patienter. Behörigheten ska begränsas
+till vad som behövs för att den som arbetar hos
+E-hälsomyndigheten ska kunna fullgöra sina arbetsuppgifter
 där.
 
 Regeringen, eller den myndighet som regeringen bestämmer, får
 meddela föreskrifter om tilldelning av behörighet för åtkomst
 till helt eller delvis automatiskt behandlade uppgifter.
-Lag (2013:619).
+Lag (2013:1021).
 
 Åtkomstkontroll
 
-23 § /Upphör att gälla U:2014-01-01/
-Apotekens Service Aktiebolag ska se till att åtkomst
-till helt eller delvis automatiskt behandlade uppgifter om
-patienter, dokumenteras så att de kan kontrolleras. Bolaget
-ska systematiskt och återkommande kontrollera om någon
-obehörigen kommer åt sådana uppgifter.
+23 § E-hälsomyndigheten ska se till att åtkomst till helt
+eller delvis automatiskt behandlade uppgifter om patienter,
+dokumenteras så att de kan kontrolleras. Myndigheten ska
+systematiskt och återkommande kontrollera om någon obehörigen
+kommer åt sådana uppgifter.
 
 Regeringen, eller den myndighet som regeringen bestämmer, får
 meddela föreskrifter om dokumentation och kontroll.
-Lag (2009:370).
-
-23 § /Träder i kraft I:2014-01-01/
-Myndigheten för hälso- och vårdinfrastruktur ska se till
-att åtkomst till helt eller delvis automatiskt behandlade
-uppgifter om patienter, dokumenteras så att de kan
-kontrolleras. Myndigheten ska systematiskt och återkommande
-kontrollera om någon obehörigen kommer åt sådana uppgifter.
-
-Regeringen, eller den myndighet som regeringen bestämmer, får
-meddela föreskrifter om dokumentation och kontroll.
-Lag (2013:619).
+Lag (2013:1021).
 
 Rättelse och skadestånd
 
@@ -557,22 +321,13 @@ personuppgifter enligt denna lag. Lag (2009:370).
 
 Avgifter
 
-25 § /Upphör att gälla U:2014-01-01/
-Apotekens Service Aktiebolag får ta ut avgifter av
+25 § E-hälsomyndigheten får ta ut avgifter av
 öppenvårdsapoteken för att täcka kostnaderna för att föra
 receptregistret.
 
 Regeringen, eller den myndighet som regeringen bestämmer, får
-meddela föreskrifter om avgifternas storlek. Lag (2009:370).
-
-25 § /Träder i kraft I:2014-01-01/
-Myndigheten för hälso- och vårdinfrastruktur får ta ut
-avgifter av öppenvårdsapoteken för att täcka kostnaderna för
-att föra receptregistret.
-
-Regeringen, eller den myndighet som regeringen bestämmer, får
 meddela ytterligare föreskrifter om avgifterna.
-Lag (2013:619).
+Lag (2013:1021).
 
 Ytterligare bemyndigande
 
