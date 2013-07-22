@@ -151,12 +151,19 @@ Allmänt
 2 § Bestämmelserna om prospekt i denna lag tillämpas inte, om
 de överlåtbara värdepapperen utgörs av
 
-1. andelar i en investeringsfond eller i ett sådant fondföretag
-som avses i 1 kap. 7 eller 9 § lagen (2004:46) om
-investeringsfonder, eller
+1. andelar
+
+a) i en värdepappersfond eller i ett sådant fondföretag som
+avses i 1 kap. 7 § lagen (2004:46) om värdepappersfonder,
+eller
+
+b) i en specialfond eller i en sådan alternativ
+investeringsfond som avses i 4 kap. 2 eller 3 § lagen
+(2013:561) om förvaltare av alternativa investeringsfonder,
+eller
 
 2. penningmarknadsinstrument med kortare löptid än ett år.
-Lag (2007:535).
+Lag (2013:564).
 
 3 § Prospekt behöver inte upprättas, om de överlåtbara
 värdepapperen
@@ -1500,22 +1507,38 @@ Undantag för vissa moderföretag
 av ett dotterföretag inte räknas in i moderföretagets innehav i
 sådana fall som avses i 16 och 17 §§. Lag (2007:365).
 
-16 § Ett moderföretag till ett fondbolag behöver inte lägga
-samman sitt innehav av aktier med aktier som ingår i en
-investeringsfond som förvaltas av bolaget enligt lagen
-(2004:46) om investeringsfonder, om bolaget utnyttjar
-rösträtten för aktierna oberoende av moderföretaget.
+16 § Ett moderföretag till ett fondbolag eller till en svensk
+AIF-förvaltare behöver inte lägga samman sitt innehav av
+aktier med aktier som ingår i en värdepappersfond eller ett
+fondföretag som förvaltas av bolaget enligt lagen (2004:46)
+om värdepappersfonder eller en specialfond som förvaltas av
+AIF-förvaltaren enligt lagen (2013:561) om förvaltare av
+alternativa investeringsfonder eller en motsvarande utländsk
+EES-baserad fond som AIF-förvaltaren förvaltar, om bolaget
+eller AIF-förvaltaren utnyttjar rösträtten för aktierna
+oberoende av moderföretaget.
 
-Första stycket ska också tillämpas på moderföretag till ett
-sådant förvaltningsbolag som avses i 1 kap. 6 § första stycket
-lagen om investeringsfonder, i fråga om aktier som bolaget
-förvaltar i enlighet med bestämmelserna i Europaparlamentets
-och rådets direktiv 2009/65/EG av den 13 juli 2009 om
-samordning av lagar och andra författningar som avser företag
-för kollektiva investeringar i överlåtbara värdepapper
-(fondföretag). Detsamma gäller aktier som förvaltas av ett
-motsvarande förvaltningsbolag som inte har säte i en stat inom
-EES. Lag (2011:880).
+Första stycket ska också tillämpas på moderföretag till
+
+1. ett sådant förvaltningsbolag som avses i 1 kap. 6 § första
+stycket lagen om värdepappersfonder, i fråga om aktier som
+bolaget förvaltar i enlighet med bestämmelserna i
+Europaparlamentets och rådets direktiv 2009/65/EG av den 13
+juli 2009 om samordning av lagar och andra författningar som
+avser företag för kollektiva investeringar i överlåtbara
+värdepapper (fondföretag), eller
+
+2. en sådan EES-baserad AIF-förvaltare som avses i 5 kap. 1
+eller 2 § lagen om förvaltare av alternativa
+investeringsfonder, i fråga om aktier som ingår i en
+specialfond som förvaltaren förvaltar enligt den lagen eller
+en motsvarande utländsk EES-baserad fond.
+
+Första stycket ska också tillämpas på aktier som förvaltas av
+ett förvaltningsbolag eller en AIF-förvaltare som inte har
+säte i en stat inom EES som motsvarar ett sådant bolag eller
+en sådan förvaltare som avses i andra stycket.
+Lag (2013:564).
 
 17 § Ett moderföretag till ett värdepappersinstitut som har
 tillstånd enligt 2 kap. 1 § 4 lagen (2007:528) om
@@ -1704,8 +1727,6 @@ stycket 2.
 Om en begäran från en utländsk myndighet enligt 6 § avser en
 fråga som rör reglering som motsvarar den i 2, 2 b eller 4
 kap., gäller inte första stycket 2. Lag (2010:1860).
-
-Årlig information
 
 1 b § Har upphävts genom lag (2012:378).
 
