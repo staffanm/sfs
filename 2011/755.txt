@@ -282,27 +282,29 @@ Institutets kapitalbas får inte underskrida det högsta av
 dessa belopp.
 
 Vid beräkningen av kapitalbasen och dess sammansättning ska
-3 kap. lagen (2006:1371) om kapitaltäckning och stora
-exponeringar och de föreskrifter som har meddelats med stöd av
-13 kap. 1 § 6 den lagen tillämpas. Därutöver gäller följande
-vid beräkningen:
+3 kap. lagen (2006:1371) om kapitaltäckning och stora
+exponeringar och de föreskrifter som har meddelats med stöd
+av 13 kap. 1 § 6 den lagen tillämpas. Därutöver gäller
+följande vid beräkningen:
 
 1. Ett institut för elektroniska pengar som tillhör samma
 grupp som ett annat institut för elektroniska pengar, eller
-ett betalningsinstitut, kreditinstitut, värdepappersföretag,
-fondbolag eller försäkringsföretag får vid beräkning av
-kapitalbasen inte ta med sådana poster som ingår i beräkningen
-av något av dessa företags kapitalbas.
+ett betalningsinstitut, ett kreditinstitut, ett
+värdepappersföretag, ett fondbolag, en AIF-förvaltare som
+förvaltar specialfonder eller ett försäkringsföretag får vid
+beräkning av kapitalbasen inte ta med sådana poster som ingår
+i beräkningen av något av dessa företags kapitalbas.
 
 2. Ett institut för elektroniska pengar som bedriver annan
 verksamhet i enlighet med 5 § får vid beräkningen av
-kapitalbasen inte ta med sådana poster som ingår i beräkningen
-av kapitalbasen i den andra verksamheten.
+kapitalbasen inte ta med sådana poster som ingår i
+beräkningen av kapitalbasen i den andra verksamheten.
 
 3. För ett institut för elektroniska pengar som har bytt
-redovisningsvaluta får kapitalbasen inte understiga det högsta
-av de belopp som följer av 6 och 7 §§ lagen (2000:35) om byte
-av redovisningsvaluta i finansiella företag.
+redovisningsvaluta får kapitalbasen inte understiga det
+högsta av de belopp som följer av 6 och 7 §§ lagen (2000:35)
+om byte av redovisningsvaluta i finansiella företag.
+Lag (2013:584).
 
 3 § Kapitalkravet uppgår till två procent av genomsnittligt
 utestående skulder hänförliga till elektroniska pengar.
@@ -430,20 +432,7 @@ i minst fem år.
 
 Revision, redovisning m.m.
 
-10 § /Upphör att gälla U:2013-06-01/
-Ett institut för elektroniska pengar ska ha minst en
-revisor som utses av stämman. Bara den som är auktoriserad
-eller godkänd revisor får vara revisor. Minst en revisor som
-stämman utsett ska vara auktoriserad revisor eller godkänd
-revisor som har avlagt revisorsexamen.
-
-Ett institut för elektroniska pengar som även driver annan
-verksamhet än utgivning av elektroniska pengar enligt 1 kap.
-2 § 2 ska lämna separata redovisningsuppgifter över den
-verksamhet som omfattar utgivning av elektroniska pengar.
-
-10 § /Träder i kraft I:2013-06-01/
-Ett institut för elektroniska pengar ska ha minst en
+10 § Ett institut för elektroniska pengar ska ha minst en
 revisor som utses av stämman. Bara den som är auktoriserad
 eller godkänd revisor får vara revisor. Minst en revisor som
 stämman utsett ska vara auktoriserad revisor.
@@ -1249,7 +1238,6 @@ ytterligare information behöver lämnas enligt 3 ska
 inspektionen meddela tillstånd oavsett om institutet har
 ansökt om tillstånd eller inte. Finansinspektionen ska
 informera det berörda institutet innan tillstånd meddelas.
-
 6. Den som inlett verksamhet med utgivning av elektroniska
 pengar före den 30 april 2011 i enlighet med bestämmelserna om
 undantag från tillståndsplikt i 2 kap. 6 § lagen (2002:149) om
