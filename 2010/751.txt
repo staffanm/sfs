@@ -266,13 +266,14 @@ kuponger, resecheckar, postanvisningar eller
 utbetalningsavier,
 
 2. består av icke yrkesmässig insamling och leverans av
-kontanter inom ramen för ideell verksamhet eller välgörenhet,
+kontanter inom ramen för ideell verksamhet eller
+välgörenhet,
 
 3. genomförs mellan deltagare i ett system för avveckling av
 betalningar eller värdepapper,
 
-4. genomförs mellan betaltjänstleverantörer, deras ombud eller
-filialer för egen räkning,
+4. genomförs mellan betaltjänstleverantörer, deras ombud
+eller filialer för egen räkning,
 
 5. uteslutande sker i kontanter direkt från betalaren till
 betalningsmottagaren, utan medverkan av någon mellanhand,
@@ -280,18 +281,19 @@ betalningsmottagaren, utan medverkan av någon mellanhand,
 6. sker från betalaren till betalningsmottagaren genom en
 handelskommissionär, eller
 
-7. avser förvaltning, inlösen eller försäljning av finansiella
-instrument, vilka genomförs av de personer som deltar i ett
-system för avveckling enligt 3 samt av värdepappersföretag,
-kreditinstitut, fondbolag, förvaltningsbolag som
-tillhandahåller investeringstjänster samt andra företag som
-har tillstånd att förvara finansiella instrument.
+7. avser förvaltning, inlösen eller försäljning av
+finansiella instrument, vilka genomförs av de personer som
+deltar i ett system för avveckling enligt 3 samt av
+värdepappersföretag, kreditinstitut, fondbolag,
+förvaltningsbolag, AIF-förvaltare, i fråga om specialfonder,
+som tillhandahåller investeringstjänster samt andra företag
+som har tillstånd att förvara finansiella instrument.
 
 Denna lag gäller inte heller transaktioner som genomförs
 mellan ett moderföretag och dess dotterföretag eller mellan
 dotterföretag till ett och samma moderföretag, utom när en
 annan betaltjänstleverantör än ett företag i samma grupp
-medverkar som mellanhand.
+medverkar som mellanhand. Lag (2013:582).
 
 2 kap. Tillståndsplikt för tillhandahållande av betaltjänster
 
@@ -491,32 +493,33 @@ betaltjänsterna enligt 1 kap. 2 § 14.
 Kapitalkrav
 
 2 § Ett betalningsinstitut ska vid varje tidpunkt ha en
-kapitalbas som motsvarar minst startkapitalet enligt 1 § eller
-ett kapitalkrav beräknat enligt 3 eller 4 §.
+kapitalbas som motsvarar minst startkapitalet enligt 1 §
+eller ett kapitalkrav beräknat enligt 3 eller 4 §.
 Betalningsinstitutets kapitalbas får inte underskrida det
 högsta av dessa två belopp.
 
-Vid beräkningen av kapitalbasen och dess sammansättning gäller
-3 kap. lagen (2006:1371) om kapitaltäckning och stora
-exponeringar och föreskrifter meddelade med stöd av 13 kap.
-1 § 6 samma lag.
+Vid beräkningen av kapitalbasen och dess sammansättning
+gäller 3 kap. lagen (2006:1371) om kapitaltäckning och stora
+exponeringar och föreskrifter meddelade med stöd av 13 kap.
+1 § 6 samma lag.
 
 Ett betalningsinstitut som tillhör samma grupp som ett annat
-betalningsinstitut, eller ett kreditinstitut,
-värdepappersföretag, fondbolag, försäkringsföretag eller
+betalningsinstitut, eller ett kreditinstitut, ett
+värdepappersföretag, ett fondbolag, ett försäkringsföretag,
+en AIF-förvaltare som förvaltar specialfonder eller ett
 institut för elektroniska pengar får inte vid beräkning av
 kapitalbasen ta med sådana poster som ingår i beräkningen av
 något av dessa företags kapitalbas.
 
 Ett betalningsinstitut som driver annan verksamhet i enlighet
-med 5 § får inte vid beräkningen av kapitalbasen ta med sådana
-poster som ingår i beräkningen av kapitalbasen i sådan annan
-verksamhet.
+med 5 § får inte vid beräkningen av kapitalbasen ta med
+sådana poster som ingår i beräkningen av kapitalbasen i sådan
+annan verksamhet.
 
 För ett betalningsinstitut som har bytt redovisningsvaluta
 gäller att kapitalbasen inte får understiga det högsta av de
 belopp som följer av 6 och 7 §§ lagen (2000:35) om byte av
-redovisningsvaluta i finansiella företag. Lag (2011:775).
+redovisningsvaluta i finansiella företag. Lag (2013:582).
 
 3 § Kapitalkravet enligt 2 § beräknas enligt en metod som
 utgår från
@@ -630,21 +633,7 @@ och 8 kap. i minst fem år.
 
 Revision och redovisning
 
-9 § /Upphör att gälla U:2013-06-01/
-Ett betalningsinstitut ska ha minst en revisor som utses
-av stämman. Bara den som är auktoriserad eller godkänd revisor
-får vara revisor. Minst en revisor som stämman utsett ska vara
-auktoriserad revisor eller godkänd revisor som har avlagt
-revisorsexamen.
-
-Ett europakooperativ ska upprätta årsredovisning och, i
-förekommande fall, koncernredovisning i enlighet med de
-bestämmelser i lagen (1995:1559) om årsredovisning i
-kreditinstitut och värdepappersbolag som är tillämpliga på
-betalningsinstitut som drivs i ekonomisk förening.
-
-9 § /Träder i kraft I:2013-06-01/
-Ett betalningsinstitut ska ha minst en revisor som utses
+9 § Ett betalningsinstitut ska ha minst en revisor som utses
 av stämman. Bara den som är auktoriserad eller godkänd
 revisor får vara revisor. Minst en revisor som stämman utsett
 ska vara auktoriserad revisor.
@@ -1265,7 +1254,6 @@ Uppsägning av ramavtal
 omedelbar verkan, såvida inte parterna har kommit överens om
 en uppsägningstid. Betaltjänstleverantören får inte göra
 gällande en längre uppsägningstid för användaren än en månad.
-
 Om leverantören säger upp ett ramavtal som ingåtts på obestämd
 tid, ska uppsägningstiden vara minst två månader.
 
