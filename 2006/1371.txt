@@ -4,20 +4,7 @@
 
 Lagens tillämpningsområde
 
-1 § /Upphör att gälla U:2013-07-22/
-Denna lag innehåller bestämmelser om kapitaltäckning och
-stora exponeringar för kreditinstitut och värdepappersbolag.
-
-Av 2 kap. 10 och 10 a §§ lagen (2004:46) om
-investeringsfonder framgår att vissa bestämmelser i denna lag
-gäller även för fondbolag.
-
-Av 3 kap. 2 § lagen (2010:751) om betaltjänster framgår att
-vissa bestämmelser i denna lag gäller även för
-betalningsinstitut. Lag (2010:763).
-
-1 § /Träder i kraft I:2013-07-22/
-Denna lag innehåller bestämmelser om kapitaltäckning och
+1 § Denna lag innehåller bestämmelser om kapitaltäckning och
 stora exponeringar för kreditinstitut och
 värdepappersbolag.
 
@@ -32,6 +19,14 @@ betalningsinstitut.
 Av 7 kap. 6 § lagen (2013:561) om förvaltare av alternativa
 investeringsfonder framgår att vissa bestämmelser i denna lag
 gäller även för AIF-förvaltare. Lag (2013:578).
+
+1 a § De bestämmelser om finansiella företagsgrupper i 9 och
+10 kap. som gäller för institut tillämpas också för en svensk
+förvaltare av alternativa investeringsfonder (AIF-förvaltare)
+enligt 1 kap. 3 § lagen (2013:561) om förvaltare av
+alternativa investeringsfonder. Vid den tillämpningen gäller
+dock kapitalkraven i 7 kap. i den nämnda lagen.
+Lag (2013:671).
 
 Särskilda bestämmelser för europabolag och europakooperativ
 
@@ -63,18 +58,29 @@ värdepappersbolag eller motsvarande utländska företag,
 
 2. behörig myndighet: Finansinspektionen eller en annan
 myndighet inom EES som utövar tillsyn över institut, institut
-för elektroniska pengar eller motsvarande utländska företag,
+för elektroniska pengar eller motsvarande utländska
+företag,
+3. blandat finansiellt holdingföretag: ett
+moderföretag som inte är ett reglerat företag och som
+tillsammans med sina dotterföretag, varav minst ett är ett
+reglerat företag med huvudkontor inom EES, och andra företag
+utgör ett finansiellt konglomerat,
 
-3. EES: Europeiska ekonomiska samarbetsområdet,
+4. blandat finansiellt moderholdingföretag inom EES: ett inom
+EES etablerat blandat finansiellt holdingföretag, som inte är
+dotterföretag till ett institut eller ett motsvarande
+utländskt företag som auktoriserats inom EES eller till ett
+finansiellt holdingföretag eller blandat finansiellt
+holdingföretag som är etablerat inom EES,
 
-4. exponeringar: poster som redovisas som tillgång i
+5. EES: Europeiska ekonomiska samarbetsområdet,
+
+6. exponeringar: poster som redovisas som tillgång i
 balansräkningen, derivatavtal som redovisas som skulder eller
 åtaganden utanför balansräkningen,
 
-5. finansiellt holdingföretag: ett finansiellt institut som
-inte är ett blandat finansiellt holdingföretag enligt 1 kap. 3
-§ 3 lagen (2006:531) om särskild tillsyn över finansiella
-konglomerat och
+7. finansiellt holdingföretag: ett finansiellt institut som
+inte är ett blandat finansiellt holdingföretag och
 
 a) som har minst ett dotterföretag som är kreditinstitut,
 värdepappersbolag eller motsvarande utländskt företag, och
@@ -82,65 +88,64 @@ värdepappersbolag eller motsvarande utländskt företag, och
 b) vars dotterföretag uteslutande eller huvudsakligen utgörs
 av sådana företag som avses i a eller finansiella institut,
 
-6. finansiellt institut: ett svenskt eller utländskt företag
+8. finansiellt institut: ett svenskt eller utländskt företag
 som inte är kreditinstitut, värdepappersbolag eller
-motsvarande utländskt företag och vars huvudsakliga verksamhet
-är att
+motsvarande utländskt företag och vars huvudsakliga
+verksamhet är att
 
 a) förvärva eller inneha aktier eller andelar,
 
-b) driva en eller flera av de verksamheter som anges i 7 kap.
-1 § andra stycket 210, 12 och 15 lagen (2004:297) om bank-
+b) driva en eller flera av de verksamheter som anges i 7 kap.
+1 § andra stycket 210, 12 och 15 lagen (2004:297) om bank-
 och finansieringsrörelse, utan att vara tillståndspliktigt
-enligt 2 kap. 1 § samma lag, eller
+enligt 2 kap. 1 § samma lag, eller
 
 c) driva värdepappersrörelse utan att vara tillståndspliktigt
-enligt 2 kap. 1 § lagen (2007:528) om värdepappersmarknaden,
+enligt 2 kap. 1 § lagen (2007:528) om
+värdepappersmarknaden,
 
-7. finansiellt instrument: ett avtal som ger upphov till en
-finansiell tillgång för en part samtidigt som en annan part
-får en finansiell skuld eller utfärdar ett
-egetkapitalinstrument,
+9. finansiellt instrument: ett avtal
+som ger upphov till en finansiell tillgång för en part
+samtidigt som en annan part får en finansiell skuld eller
+utfärdar ett egetkapitalinstrument,
 
-8. finansiellt moderholdingföretag inom EES: ett inom EES
+10. finansiellt moderholdingföretag inom EES: ett inom EES
 etablerat finansiellt holdingföretag, som inte är
 dotterföretag till ett institut eller ett motsvarande
 utländskt företag som auktoriserats inom EES eller till ett
-annat finansiellt holdingföretag som är etablerat inom EES,
+annat finansiellt holdingföretag eller ett blandat
+finansiellt holdingföretag som är etablerat inom EES,
 
-9. holdingföretag med blandad verksamhet: ett svenskt eller
+11. holdingföretag med blandad verksamhet: ett svenskt eller
 utländskt moderföretag som inte är kreditinstitut,
 värdepappersbolag, motsvarande utländskt företag, finansiellt
-holdingföretag eller ett blandat finansiellt holdingföretag
-enligt 1 kap. 3 § 3 lagen om särskild tillsyn över finansiella
-konglomerat, men som har minst ett dotterföretag som är
-kreditinstitut, värdepappersbolag eller motsvarande utländskt
-företag,
+holdingföretag eller ett blandat finansiellt holdingföretag,
+men som har minst ett dotterföretag som är kreditinstitut,
+värdepappersbolag eller motsvarande utländskt företag,
 
-10. institut: kreditinstitut och värdepappersbolag,
+12. institut: kreditinstitut och värdepappersbolag,
 
-11. kapitalkravsdirektivet: Europaparlamentets och rådets
+13. kapitalkravsdirektivet: Europaparlamentets och rådets
 direktiv 2006/49/EG av den 14 juni 2006 om kapitalkrav för
 värdepappersföretag och kreditinstitut (omarbetning), senast
 ändrat genom Europaparlamentets och rådets direktiv
 2010/78/EU,
 
-12. kreditinstitut: bank, kreditmarknadsföretag och Svenska
+14. kreditinstitut: bank, kreditmarknadsföretag och Svenska
 skeppshypotekskassan,
 
-13. kreditinstitutsdirektivet: Europaparlamentets och rådets
+15. kreditinstitutsdirektivet: Europaparlamentets och rådets
 direktiv 2006/48/EG av den 14 juni 2006 om rätten att starta
 och driva verksamhet i kreditinstitut (omarbetning), senast
-ändrat genom Europaparlamentets och rådets direktiv
-2010/78/EU,
+ändrat genom Europaparlamentets och rådets direktiv 2011/89/EU,
 
-14. medverkande institut: institut, annat än det institut som
+16. medverkande institut: institut, annat än det institut som
 är originator, som upprättar och förvaltar ett
 tillgångsbaserat certifikatprogram eller någon annan
 värdepapperisering och som förvärvar exponeringar från tredje
 man,
 
-15. moderinstitut inom EES: ett institut eller motsvarande
+17. moderinstitut inom EES: ett institut eller motsvarande
 utländskt företag som auktoriserats inom EES och som
 
 a) har ett institut, ett finansiellt institut eller ett
@@ -148,15 +153,16 @@ motsvarande utländskt företag som dotterföretag eller som har
 ett ägarintresse i ett sådant företag, och
 
 b) inte är dotterföretag till ett annat institut eller ett
-motsvarande utländskt företag som auktoriserats inom EES eller
-till ett finansiellt holdingföretag som är etablerat inom EES,
+motsvarande utländskt företag som auktoriserats inom EES
+eller till ett finansiellt holdingföretag eller blandat
+finansiellt holdingföretag som är etablerat inom EES,
 
-16. operativa risker: risker för förluster till följd av inte
-ändamålsenliga eller inte fungerande interna förfaranden eller
-system eller på grund av mänskliga fel eller yttre händelser,
-samt rättsliga risker,
+18. operativa risker: risker för förluster till följd av inte
+ändamålsenliga eller inte fungerande interna förfaranden
+eller system eller på grund av mänskliga fel eller yttre
+händelser, samt rättsliga risker,
 
-17. originator: ett företag som
+19. originator: ett företag som
 
 a) självt eller via anknutna företag, direkt eller indirekt,
 var part i det ursprungliga avtal som gav upphov till de
@@ -167,63 +173,66 @@ den exponering som värdepapperiseras, eller
 b) förvärvar tredje mans exponeringar, tar upp dem i sin
 balansräkning och därefter värdepapperiserar dem,
 
-18. riskvikt: en procentsats som beskriver en risknivå hos en
+20. riskvikt: en procentsats som beskriver en risknivå hos en
 exponering,
 
-19. värdepapperisering: en transaktion eller ett program
+21. värdepapperisering: en transaktion eller ett program
 varigenom den kreditrisk som är förenad med en exponering
 eller en grupp exponeringar delas upp i delar, och som har
 följande egenskaper:
 
-a) betalningarna inom ramen för transaktionen eller programmet
-är beroende av utvecklingen av exponeringen eller gruppen av
-exponeringar, och
+a) betalningarna inom ramen för transaktionen eller
+programmet är beroende av utvecklingen av exponeringen eller
+gruppen av exponeringar, och
 
 b) prioriteringen av delarna avgör hur förluster fördelas
 under den tid transaktionen eller programmet pågår,
 
-20. värdepappersbolag: ett svenskt aktiebolag som har fått
+22. värdepappersbolag: ett svenskt aktiebolag som har fått
 tillstånd att driva värdepappersrörelse enligt lagen om
 värdepappersmarknaden, och
 
-21. återvärdepapperisering: en värdepapperisering i vilken den
-risk som är förenad med en underliggande grupp av exponeringar
-delas upp i delar och minst en av de underliggande
-exponeringarna är en värdepapperiseringsposition.
-Lag (2011:772).
+23. återvärdepapperisering: en värdepapperisering i vilken
+den risk som är förenad med en underliggande grupp av
+exponeringar delas upp i delar och minst en av de
+underliggande exponeringarna är en
+värdepapperiseringsposition. Lag (2013:671).
 
-4 § Ett institut, ett finansiellt holdingföretag eller ett
-holdingföretag med blandad verksamhet är moderföretag och en
-annan juridisk person är dotterföretag, om moderföretaget
+4 § Ett institut, ett finansiellt holdingföretag, ett blandat
+finansiellt holdingföretag eller ett holdingföretag med
+blandad verksamhet är moderföretag och en annan juridisk
+person är dotterföretag, om moderföretaget
 
-1. innehar mer än hälften av rösterna för samtliga aktier eller
-andelar i den juridiska personen,
+1. innehar mer än hälften av rösterna för samtliga aktier
+eller andelar i den juridiska personen,
 
 2. äger aktier eller andelar i den juridiska personen och på
-grund av avtal med andra delägare i denna förfogar över mer än
-hälften av rösterna för samtliga aktier eller andelar,
+grund av avtal med andra delägare i denna förfogar över mer
+än hälften av rösterna för samtliga aktier eller andelar,
 
 3. äger aktier eller andelar i den juridiska personen och har
 rätt att utse eller avsätta mer än hälften av ledamöterna i
 dess styrelse eller motsvarande ledningsorgan, eller
 
 4. äger aktier eller andelar i den juridiska personen och har
-rätt att ensamt utöva ett bestämmande inflytande över denna på
-grund av avtal med den juridiska personen eller på grund av
-bestämmelse i dess bolagsordning, bolagsavtal eller därmed
+rätt att ensamt utöva ett bestämmande inflytande över denna
+på grund av avtal med den juridiska personen eller på grund
+av bestämmelse i dess bolagsordning, bolagsavtal eller därmed
 jämförbara stadgar.
 
-Vidare är en juridisk person dotterföretag till moderföretaget,
-om ett annat dotterföretag till moderföretaget eller
-moderföretaget tillsammans med ett eller flera andra
-dotterföretag eller flera andra dotterföretag tillsammans
+Vidare är en juridisk person dotterföretag till
+moderföretaget, om ett annat dotterföretag till
+moderföretaget eller moderföretaget tillsammans med ett eller
+flera andra dotterföretag eller flera andra dotterföretag
+tillsammans
 
-1. innehar mer än hälften av rösterna för samtliga aktier eller
-andelar i den juridiska personen,
+1. innehar mer än hälften av rösterna för samtliga aktier
+eller andelar i den juridiska personen,
 
 2. äger aktier eller andelar i den juridiska personen och på
-grund av avtal med andra delägare i denna förfogar över mer än
-hälften av rösterna för samtliga aktier eller andelar, eller
+grund av avtal med andra delägare i denna förfogar över mer
+än hälften av rösterna för samtliga aktier eller andelar,
+eller
 
 3. äger aktier eller andelar i den juridiska personen och har
 rätt att utse eller avsätta mer än hälften av ledamöterna i
@@ -231,12 +240,13 @@ dess styrelse eller motsvarande ledningsorgan.
 
 Om ett dotterföretag äger aktier eller andelar i en juridisk
 person och på grund av avtal med den juridiska personen eller
-på grund av bestämmelse i dess bolagsordning, bolagsavtal eller
-därmed jämförbara stadgar har rätt att ensamt utöva ett
+på grund av bestämmelse i dess bolagsordning, bolagsavtal
+eller därmed jämförbara stadgar har rätt att ensamt utöva ett
 bestämmande inflytande över den juridiska personen, är även
 denna dotterföretag till moderföretaget.
 
-Moderföretag och dotterföretag utgör tillsammans en koncern.
+Moderföretag och dotterföretag utgör tillsammans en
+koncern. Lag (2013:671).
 
 5 § Det finns ett ägarintresse om
 
@@ -717,27 +727,30 @@ exponeringsklass. Institutet uppskattar självt värdet på fler
 av de riskfaktorer som ingår i formlerna enligt den avancerade
 internmetoden än enligt den grundläggande metoden.
 
-8 § Tillstånd för ett institut att använda en internmetod skall
+8 § Tillstånd för ett institut att använda en internmetod ska
 ges om förutsättningarna i 9 § är uppfyllda och om
 
 1. institutet har ett för ändamålet lämpligt utformat
-riskhanteringssystem för kreditrisker som uppfyller kraven i 6
-kap. 2 och 5 §§ lagen (2004:297) om bank- och
-finansieringsrörelse samt 8 kap. 4 och 8 §§ lagen (2007:528) om
-värdepappersmarknaden,
+riskhanteringssystem för kreditrisker som uppfyller kraven i
+6 kap. 2 och 5 §§ lagen (2004:297) om bank- och
+finansieringsrörelse samt 8 kap. 4 och 8 §§ lagen (2007:528)
+om värdepappersmarknaden,
 
-2. institutets riskklassificeringssystem är tillförlitligt och
-tillräckligt integrerat med institutets övriga verksamhet, och
+2. institutets riskklassificeringssystem är tillförlitligt
+och tillräckligt integrerat med institutets övriga
+verksamhet, och
 
 3. institutet dokumenterar sitt riskklassificeringssystem och
 motiven för dess utformning.
 
-Om ett moderinstitut inom EES och dess dotterföretag eller ett
-finansiellt moderholdingföretag inom EES och dess dotterföretag
-använder internmetoden enhetligt, får företagen i den
-omfattning som framgår av föreskrifter meddelade med stöd av 13
-kap. 1 § 13 betraktas som en enhet vid bedömningen av om kraven
-i första stycket är uppfyllda. Lag (2007:570)
+Om ett moderinstitut inom EES och dess dotterföretag, ett
+finansiellt moderholdingföretag inom EES och dess
+dotterföretag eller ett blandat finansiellt
+moderholdingföretag inom EES och dess dotterföretag använder
+internmetoden enhetligt, får företagen i den omfattning som
+framgår av föreskrifter meddelade med stöd av 13 kap. 1 § 13
+betraktas som en enhet vid bedömningen av om kraven i första
+stycket är uppfyllda. Lag (2013:671).
 
 9 § När ett institut använder internmetoden för beräkning av
 riskvägda exponeringsbelopp skall det använda metoden för alla
@@ -970,23 +983,25 @@ Vid tillämpning av internmätningsmetoden beräknas kapitalkravet
 för operativa risker med stöd av institutets eget
 riskmätningssystem.
 
-7 § Tillstånd att använda internmätningsmetoden skall ges, om
+7 § Tillstånd att använda internmätningsmetoden ska ges, om
 
 1. institutet har ett för ändamålet lämpligt utformat
-riskhanteringssystem för operativa risker som uppfyller kraven
-i 6 kap. 2 och 5 §§ lagen (2004:297) om bank- och
-finansieringsrörelse samt 8 kap. 4 och 8 §§ lagen (2007:528) om
-värdepappersmarknaden, och
+riskhanteringssystem för operativa risker som uppfyller
+kraven i 6 kap. 2 och 5 §§ lagen (2004:297) om bank- och
+finansieringsrörelse samt 8 kap. 4 och 8 §§ lagen (2007:528)
+om värdepappersmarknaden, och
 
 2. institutets riskmätningssystem är tillförlitligt och
 tillräckligt integrerat med institutets övriga verksamhet.
 
-Om ett moderinstitut inom EES och dess dotterföretag eller ett
-finansiellt moderholdingföretag inom EES och dess dotterföretag
-använder en internmätningsmetod enhetligt, får företagen i den
-omfattning som framgår av föreskrifter meddelade med stöd av 13
-kap. 1 § 26 betraktas som en enhet vid bedömningen av om kraven
-i första stycket är uppfyllda. Lag (2007:570)
+Om ett moderinstitut inom EES och dess dotterföretag eller
+ett finansiellt moderholdingföretag inom EES och dess
+dotterföretag eller ett blandat finansiellt
+moderholdingföretag inom EES och dess dotterföretag använder
+en internmätningsmetod enhetligt, får företagen i den
+omfattning som framgår av föreskrifter meddelade med stöd av
+13 kap. 1 § 26 betraktas som en enhet vid bedömningen av om
+kraven i första stycket är uppfyllda. Lag (2013:671).
 
 Kombination av olika metoder
 
@@ -1178,18 +1193,20 @@ väsentlig inverkan på resultatet av kreditinstitutets
 exponeringar mot värdepapperiseringstransaktionen.
 Lag (2011:752).
 
-4 § När ett moderkreditinstitut inom EES eller ett finansiellt
-holdingföretag inom EES, eller ett dotterföretag till ett
+4 § När ett moderkreditinstitut inom EES, ett finansiellt
+holdingföretag inom EES, ett blandat finansiellt
+holdingföretag inom EES eller ett dotterföretag till ett
 sådant institut eller företag, i egenskap av originator eller
-medverkande institut värdepapperiserar exponeringar från flera
-kreditinstitut eller finansiella institut som omfattas av
-gruppbaserad tillsyn får kravet i 1 § uppfyllas på gruppnivå,
-om de institut eller finansiella institut som gett upphov till
-de värdepapperiserade exponeringarna
+medverkande institut värdepapperiserar exponeringar från
+flera kreditinstitut eller finansiella institut som omfattas
+av gruppbaserad tillsyn får kravet i 1 § uppfyllas på
+gruppnivå, om de institut eller finansiella institut som gett
+upphov till de värdepapperiserade exponeringarna
 
 1. har åtagit sig att följa de krav som anges i 5 §, och
 
-2. har lämnat den information som anges i 6 §. Lag (2011:752).
+2. har lämnat den information som anges i 6 §.
+Lag (2013:671).
 
 5 § Medverkande institut och kreditinstitut som är
 originatorer ska tillämpa samma kriterier för kreditgivning i
@@ -1279,84 +1296,87 @@ En finansiell företagsgrupp
 
 1 § En finansiell företagsgrupp består av
 
-1. ett institut eller ett finansiellt holdingföretag
-hemmahörande inom EES och de dotterföretag som är institut,
-institut för elektroniska pengar, motsvarande utländska företag
-eller finansiella institut, eller
+1. ett institut, ett finansiellt holdingföretag eller ett
+blandat finansiellt holdingföretag hemmahörande inom EES och
+de dotterföretag som är institut, institut för elektroniska
+pengar, motsvarande utländska företag eller finansiella
+institut, eller
 
-2. ett institut eller ett finansiellt holdingföretag
-hemmahörande inom EES och de institut, institut för
-elektroniska pengar, motsvarande utländska företag eller
-finansiella institut som det inledningsvis nämnda institutet
-eller holdingföretaget har ägarintresse i och som leds
-tillsammans med ett eller flera andra företag, om ägarnas
-ansvar är begränsat till den andel av kapitalet som dessa
-innehar, eller
+2. ett institut, ett finansiellt holdingföretag eller ett
+blandat finansiellt holdingföretag hemmahörande inom EES och
+de institut, institut för elektroniska pengar, motsvarande
+utländska företag eller finansiella institut som det
+inledningsvis nämnda institutet eller holdingföretaget har
+ägarintresse i och som leds tillsammans med ett eller flera
+andra företag, om ägarnas ansvar är begränsat till den andel
+av kapitalet som dessa innehar, eller
 
-3. ett institut eller ett finansiellt holdingföretag
-hemmahörande inom EES och de institut, institut för
-elektroniska pengar, motsvarande utländska företag eller
-finansiella institut som det inledningsvis nämnda institutet
-eller holdingföretaget har en gemensam eller i huvudsak
-gemensam ledning med, eller
+3. ett institut, ett finansiellt holdingföretag eller ett
+blandat finansiellt holdingföretag hemmahörande inom EES och
+de institut, institut för elektroniska pengar, motsvarande
+utländska företag eller finansiella institut som det
+inledningsvis nämnda institutet eller holdingföretaget har en
+gemensam eller i huvudsak gemensam ledning med, eller
 
-4. ett institut eller ett finansiellt holdingföretag
-hemmahörande inom EES och dotterföretag enligt 1 samt företag
-som det finns ägarintresse i enligt 2 eller gemensam eller i
-huvudsak gemensam ledning med enligt 3.
+4. ett institut, ett finansiellt holdingföretag eller ett
+blandat finansiellt holdingföretag hemmahörande inom EES och
+dotterföretag enligt 1 samt företag som det finns
+ägarintresse i enligt 2 eller gemensam eller i huvudsak
+gemensam ledning med enligt 3.
 
 När en finansiell företagsgrupp finns enligt första stycket,
-skall även ett anknutet företag som är dotterföretag eller som
-det finns ägarintresse i anses ingå i gruppen.
+ska även ett anknutet företag som är dotterföretag eller som
+det finns ägarintresse i anses ingå i gruppen. Lag (2013:671).
 
-2 § Om det framgår av föreskrifter meddelade med stöd av 13
-kap. 1 § 40, ska bestämmelserna om finansiella företagsgrupper
-gälla även för
+2 § Om det framgår av föreskrifter meddelade med stöd av
+13 kap. 1 § 40, ska bestämmelserna om finansiella
+företagsgrupper gälla även för
 
-1. ett institut eller ett finansiellt holdingföretag
-hemmahörande inom EES och de institut, institut för
-elektroniska pengar, motsvarande utländska företag eller
-finansiella institut som det finns andra ägarintressen i än
-sådana som anges i 1 § första stycket 2,
+1. ett institut, ett finansiellt holdingföretag eller ett
+blandat finansiellt holdingföretag hemmahörande inom EES och
+de institut, institut för elektroniska pengar, motsvarande
+utländska företag eller finansiella institut som det finns
+andra ägarintressen i än sådana som anges i 1 § första
+stycket 2,
 
-2. ett institut eller ett finansiellt holdingföretag
-hemmahörande inom EES och de institut, institut för
-elektroniska pengar, motsvarande utländska företag eller
-finansiella institut, som det inledningsvis nämnda institutet
-eller holdingföretaget har andra former av kapitalbindningar
-till, eller
+2. ett institut, ett finansiellt holdingföretag eller ett
+blandat finansiellt holdingföretag hemmahörande inom EES och
+de institut, institut för elektroniska pengar, motsvarande
+utländska företag eller finansiella institut, som det
+inledningsvis nämnda institutet eller holdingföretagen har
+andra former av kapitalbindningar till, eller
 
-3. ett institut eller ett finansiellt holdingföretag
-hemmahörande inom EES och de institut, institut för
-elektroniska pengar, motsvarande utländska företag eller
-finansiella institut, som det inledningsvis nämnda institutet
-eller holdingföretaget utövar ett väsentligt inflytande över.
+3. ett institut, ett finansiellt holdingföretag eller ett
+blandat finansiellt holdingföretag hemmahörande inom EES och
+de institut, institut för elektroniska pengar, motsvarande
+utländska företag eller finansiella institut, som det
+inledningsvis nämnda institutet eller holdingföretagen utövar
+ett väsentligt inflytande över.
 
-Om bestämmelserna om finansiella företagsgrupper ska gälla för
-företag som avses i första stycket, ska även ett anknutet
+Om bestämmelserna om finansiella företagsgrupper ska gälla
+för företag som avses i första stycket, ska även ett anknutet
 företag som är dotterföretag eller som det finns ägarintresse
-i anses ingå i gruppen. Lag (2011:752).
+i anses ingå i gruppen. Lag (2013:671).
 
-3 § För en finansiell företagsgrupp skall ansvaret för att de
+3 § För en finansiell företagsgrupp ska ansvaret för att de
 gruppbaserade kraven uppfylls åligga det institut
 
-1. som inte är dotterföretag till ett annat institut eller ett
-svenskt finansiellt holdingföretag, eller
+1. som inte är dotterföretag till ett annat institut, ett
+svenskt finansiellt holdingföretag eller ett svenskt blandat
+finansiellt holdingföretag, eller
 
-2. vars moderföretag är ett finansiellt holdingföretag som inte
-är dotterföretag till ett institut eller ett svenskt
-finansiellt holdingföretag.
+2. vars moderföretag är ett sådant finansiellt holdingföretag
+eller blandat finansiellt holdingföretag som inte är
+dotterföretag till ett institut, ett svenskt finansiellt
+holdingföretag eller ett svenskt blandat finansiellt
+holdingföretag.
 
-Om ett finansiellt holdingföretag som avses i första stycket 2
-är moderföretag till både ett kreditinstitut och ett
-värdepappersbolag, är det kreditinstitutet som skall ansvara
+Om ett sådant finansiellt holdingföretag eller blandat
+finansiellt holdingföretag som avses i första stycket 2 är
+moderföretag till både ett kreditinstitut och ett
+värdepappersbolag, är det kreditinstitutet som ska ansvara
 för att de gruppbaserade kraven är uppfyllda.
-
-Om holdingföretaget är moderföretag till två eller flera
-kreditinstitut eller till två eller flera värdepappersbolag,
-skall det kreditinstitut respektive det värdepappersbolag som
-har den största balansomslutningen ansvara för att de
-gruppbaserade kraven uppfylls.
+Lag (2013:671).
 
 4 § Ett institut får, efter tillstånd av Finansinspektionen,
 räkna in dotterföretag vid beräkning av kapitalkraven enligt 2
@@ -1393,26 +1413,7 @@ samt 8 kap. 4 § första stycket och 5 § lagen om
 värdepappersmarknaden om riskhantering och genomlysning.
 Lag (2007:570).
 
-6 § /Upphör att gälla U:2013-07-22/
-Bestämmelserna i 5 § skall tillämpas även på den del av en
-finansiell företagsgrupp som består av
-
-1. ett institut och de utländska institut, finansiella institut
-eller förvaltningsbolag i ett land utanför EES som är
-dotterföretag till institutet eller som institutet har
-ägarintresse i, eller
-
-2. ett institut vars moderföretag är ett finansiellt
-holdingföretag och de utländska institut, finansiella institut
-eller förvaltningsbolag i ett land utanför EES som är
-dotterföretag till holdingföretaget eller som holdingföretaget
-har ägarintresse i.
-
-Med förvaltningsbolag avses ett utländskt företag som i sitt
-hemland har tillstånd att förvalta investeringsfonder.
-
-6 § /Träder i kraft I:2013-07-22/
-Bestämmelserna i 5 § ska tillämpas även på den del av en
+6 § Bestämmelserna i 5 § ska tillämpas även på den del av en
 finansiell företagsgrupp som består av
 
 1. ett institut och de utländska institut, finansiella
@@ -1421,31 +1422,33 @@ institut eller förvaltningsbolag i ett land utanför EES som
 ägarintresse i, eller
 
 2. ett institut vars moderföretag är ett finansiellt
-holdingföretag och de utländska institut, finansiella
-institut eller förvaltningsbolag i ett land utanför EES som
-är dotterföretag till holdingföretaget eller som
-holdingföretaget har ägarintresse i.
+holdingföretag eller ett blandat finansiellt holdingföretag
+och de utländska institut, finansiella institut eller
+förvaltningsbolag i ett land utanför EES som är dotterföretag
+till holdingföretaget eller som holdingföretaget har
+ägarintresse i.
 
 Med förvaltningsbolag avses ett utländskt företag som i sitt
 hemland har tillstånd att förvalta värdepappersfonder.
-Lag (2013:578).
+Lag (2013:671).
 
 7 § Ett institut som är moderinstitut inom EES eller vars
 moderföretag är ett finansiellt moderholdingföretag inom EES
-ska uppfylla kraven i 8 kap. om offentliggörande av
+eller ett blandat finansiellt moderholdingföretag inom EES
+ska uppfylla kraven i 8 kap. om offentliggörande av
 information på gruppnivå. Om ett moderinstitut har ett
 betydande dotterföretag som är institut, ska även
-dotterföretaget offentliggöra sådan information om bland annat
-kapitalbasen och kapitalkravet samt institutets riskhantering
-som framgår av föreskrifter meddelade med stöd av 13 kap. 1 §
-42.
+dotterföretaget offentliggöra sådan information om bland
+annat kapitalbasen och kapitalkravet samt institutets
+riskhantering som framgår av föreskrifter meddelade med stöd
+av 13 kap. 1 § 42.
 
 Finansinspektionen får efter ansökan i ett enskilt fall
 besluta om undantag från första stycket, om ett institut
 omfattas av information som ska offentliggöras av ett
 moderföretag utanför EES och den informationen är likvärdig
-med den information som ska offentliggöras enligt denna lag.
-Lag (2011:752).
+med den information som ska offentliggöras enligt denna
+lag. Lag (2013:671).
 
 8 § Om det inte ingår något kreditinstitut i den finansiella
 företagsgruppen och de värdepappersföretag som ingår i gruppen
@@ -1521,12 +1524,14 @@ för exponeringar som överstiger gränsvärdena för stora
 exponeringar tillämpas 7 kap. 8 §. Stora exponeringar skall
 beräknas enligt 7 kap.
 
-Ledningen i ett finansiellt holdingföretag
+Ledningen i ett finansiellt holdingföretag eller ett
+blandat finansiellt holdingföretag
 
 13 § Den som ingår i ledningen för ett finansiellt
-holdingföretag skall ha tillräcklig insikt och erfarenhet för
-att delta i ledningen av företaget och även i övrigt vara
-lämplig för en sådan uppgift.
+holdingföretag eller ett blandat finansiellt holdingföretag
+ska ha tillräcklig insikt och erfarenhet för att delta i
+ledningen av företaget och även i övrigt vara lämplig för en
+sådan uppgift. Lag (2013:671).
 
 Undantag från de gruppbaserade kraven för vissa företag
 
@@ -1552,6 +1557,33 @@ första stycket 2 eller 3, skall moderföretaget till
 Finansinspektionen lämna de upplysningar som inspektionen
 behöver för sin tillsyn över institutet.
 
+15 § Om ett blandat finansiellt holdingföretag omfattas av
+likvärdiga bestämmelser om tillsyn av finansiella
+företagsgrupper och tillsyn av konglomerat, särskilt med
+avseende på tillsyn på grund av riskbedömning, får
+Finansinspektionen, efter samråd med de övriga berörda
+behöriga myndigheter som ansvarar för tillsyn av
+dotterföretag, medge undantag från detta kapitel så att det
+blandade finansiella holdingföretaget bara behöver tillämpa
+de relevanta bestämmelserna för konglomerat.
+
+Om ett blandat finansiellt holdingföretag omfattas av
+likvärdiga bestämmelser om tillsyn av finansiella
+företagsgrupper och om extra tillsyn över försäkringsföretag
+som ingår i en försäkringsgrupp, särskilt med avseende på
+tillsyn på grund av riskbedömning, får Finansinspektionen,
+efter samråd med de berörda myndigheter som ansvarar för
+tillsyn av försäkringsföretag, medge undantag från detta
+kapitel så att det blandade finansiella holdingföretaget bara
+behöver tillämpa de relevanta bestämmelserna för den största
+sektorn enligt 2 kap. 3 § lagen (2006:531) om särskild
+tillsyn över finansiella konglomerat.
+
+Finansinspektionen ska underrätta Europeiska bankmyndigheten
+och Europeiska värdepappers- och marknadsmyndigheten om
+beslut som inspektionen fattar enligt första stycket.
+Lag (2013:671).
+
 10 kap. Tillsyn
 
 Tillämpliga tillsynsregler
@@ -1564,55 +1596,62 @@ lag.
 
 Tillsynsansvaret för en finansiell företagsgrupp
 
-2 § Finansinspektionen skall utöva tillsyn över en finansiell
-företagsgrupp som avses i 9 kap. 1 eller 2 §, om
+2 § Finansinspektionen ska utöva tillsyn över en finansiell
+företagsgrupp som avses i 9 kap. 1 eller 2 §, om
 
 1. det i toppen av den finansiella företagsgruppen finns ett
 institut,
 
-2. det finansiella holdingföretaget är moderföretag till ett
+2. det finansiella holdingföretaget eller det blandade
+finansiella holdingföretaget är moderföretag till ett
 institut men inte till något motsvarande utländskt företag,
 
-3. det finansiella holdingföretaget är etablerat i Sverige och
-är moderföretag till institut och motsvarande utländska
+3. det finansiella holdingföretaget eller det blandade
+finansiella holdingföretaget är etablerat i Sverige och är
+moderföretag till institut och motsvarande utländska
 företag,
 
-4. det finns två eller flera finansiella holdingföretag med
-huvudkontor i olika stater inom EES, däribland Sverige, som är
-moderföretag till både institut och motsvarande utländska
-företag och ett institut är det dotterföretag som har den
-största balansomslutningen, eller
+4. det finns två eller flera finansiella holdingföretag,
+eller två eller flera blandade finansiella holdingföretag,
+med huvudkontor i olika stater inom EES, däribland Sverige,
+som är moderföretag till både institut och motsvarande
+utländska företag och ett institut är det dotterföretag som
+har den största balansomslutningen, eller
 
-5. det finansiella holdingföretaget är moderföretag till två
-eller flera institut och motsvarande utländska företag, som
-inte är auktoriserade i den stat inom EES där holdingföretaget
-är etablerat, och ett institut har den största
+5. det finansiella holdingföretaget eller det blandade
+finansiella holdingföretaget är moderföretag till två eller
+flera institut och motsvarande utländska företag, som inte är
+auktoriserade i den stat inom EES där holdingföretaget är
+etablerat, och ett institut har den största
 balansomslutningen.
 
-Finansinspektionen skall även utöva tillsynen om inspektionen
+Finansinspektionen ska även utöva tillsynen om inspektionen
 tillsammans med övriga berörda behöriga myndigheter kommer
 överens om det i enlighet med bestämmelserna i 4 §.
 
-I 11 kap. finns bestämmelser om tillsyn över ett institut vars
-moderföretag är ett institut eller ett finansiellt
-holdingföretag som har sitt huvudkontor utanför EES.
+I 11 kap. finns bestämmelser om tillsyn över ett institut
+vars moderföretag är ett institut, ett finansiellt
+holdingföretag eller ett blandat finansiellt holdingföretag
+som har sitt huvudkontor utanför EES. Lag (2013:671).
 
 3 § När Finansinspektionen enligt 2 § första stycket 35 ska
 utöva tillsynen, får inspektionen komma överens med övriga
-berörda behöriga myndigheter om att en annan behörig myndighet
-inom EES än inspektionen ska ansvara för tillsynen.
+berörda behöriga myndigheter om att en annan behörig
+myndighet inom EES än inspektionen ska ansvara för tillsynen.
 Finansinspektionen får ingå en sådan överenskommelse, om det
 är olämpligt att inspektionen ansvarar för tillsynen med
-hänsyn till de institut det gäller och den relativa betydelsen
-av deras verksamheter i de olika länderna.
+hänsyn till de institut det gäller och den relativa
+betydelsen av deras verksamheter i de olika länderna.
 
 I ett sådant fall ska moderinstitutet inom EES, det
+finansiella moderholdingföretaget inom EES, det blandade
 finansiella moderholdingföretaget inom EES eller det institut
-som har den största balansomslutningen, beroende på vad som är
-tillämpligt, ges tillfälle att yttra sig innan
+som har den största balansomslutningen, beroende på vad som
+är tillämpligt, ges tillfälle att yttra sig innan
 Finansinspektionen och de övriga berörda behöriga
 myndigheterna ingår överenskommelsen. Europeiska kommissionen
-ska underrättas om sådana överenskommelser. Lag (2011:752).
+och Europeiska bankmyndigheten ska underrättas om sådana
+överenskommelser. Lag (2013:671).
 
 4 § Om det skulle vara olämpligt med hänsyn till de institut
 det gäller och den relativa betydelsen av deras verksamheter i
@@ -1636,24 +1675,25 @@ Ansökningar om tillstånd
 5 § När Finansinspektionen ansvarar för tillsynen över en
 finansiell företagsgrupp som består av ett moderinstitut inom
 EES eller ett institut vars moderföretag är ett finansiellt
+moderholdingföretag inom EES eller ett blandat finansiellt
 moderholdingföretag inom EES, får moderföretagen och
 dotterföretagen i gruppen gemensamt ansöka om tillstånd hos
 inspektionen om att använda metoden med interna modeller,
-internmetoden för kreditrisker, egna riskberäkningsmodeller för
-marknadsrisker eller internmätningsmetoden för operativa
+internmetoden för kreditrisker, egna riskberäkningsmodeller
+för marknadsrisker eller internmätningsmetoden för operativa
 risker. Om ett institut ingår i en motsvarande utländsk grupp
 enligt en offentlig reglering som bygger på
 kreditinstitutsdirektivet eller kapitalkravsdirektivet, får
-institutet göra en sådan ansökan hos den behöriga myndighet som
-ansvarar för tillsynen.
+institutet göra en sådan ansökan hos den behöriga myndighet
+som ansvarar för tillsynen.
 
-När Finansinspektionen prövar en ansökan enligt första stycket
-tillämpas denna lag. Inspektionen får dock även tillämpa
-bestämmelser som enligt författningar i en annan stat inom EES
-gäller för den metod som ansökan avser. När ansökan har getts
-in till inspektionen gäller detta dock bara om det är
-nödvändigt för en effektiv tillsyn över institut eller
-motsvarande utländska företag.
+När Finansinspektionen prövar en ansökan enligt första
+stycket tillämpas denna lag. Inspektionen får dock även
+tillämpa bestämmelser som enligt författningar i en annan
+stat inom EES gäller för den metod som ansökan avser. När
+ansökan har getts in till inspektionen gäller detta dock bara
+om det är nödvändigt för en effektiv tillsyn över institut
+eller motsvarande utländska företag. Lag (2013:671).
 
 6 § Finansinspektionen ska inom sex månader från det att en
 komplett ansökan enligt 5 § har getts in komma överens med de
@@ -1698,9 +1738,10 @@ Beslut på gruppnivå om kapitalbasen
 6 a § När Finansinspektionen ansvarar för tillsynen över en
 finansiell företagsgrupp som består av ett moderinstitut inom
 EES eller ett institut vars moderföretag är ett finansiellt
+moderholdingföretag inom EES eller ett blandat finansiellt
 moderholdingföretag inom EES, ska inspektionen lämna en
-rapport som innehåller en riskvärdering av gruppen till övriga
-behöriga myndigheter.
+rapport som innehåller en riskvärdering av gruppen till
+övriga behöriga myndigheter.
 
 Inom fyra månader från det att Finansinspektionen har lämnat
 en sådan rapport som avses i första stycket, ska inspektionen
@@ -1709,7 +1750,7 @@ vilket beslut som bör fattas i fråga om huruvida nivån på
 gruppens kapitalbas är tillräcklig. Överenskommelsen ska
 grundas på en bedömning av gruppens finansiella situation och
 riskprofil och den nivå på gruppens kapitalbas som krävs för
-att tillämpa 2 kap. 2 § på var och en av enheterna inom
+att tillämpa 2 kap. 2 § på var och en av enheterna inom
 gruppen och på gruppnivå.
 
 Finansinspektionen ska härefter fatta ett beslut i enlighet
@@ -1721,35 +1762,37 @@ Om en överenskommelse inte kan nås, ska Finansinspektionen på
 begäran av någon av de övriga behöriga myndigheterna samråda
 med Europeiska bankmyndigheten. Inspektionen får även samråda
 med Europeiska bankmyndigheten på eget initiativ.
-Lag (2011:752).
+Lag (2013:671).
 
-6 b § Om en överenskommelse enligt 6 a § inte har träffats inom
-fyra månader, ska Finansinspektionen, med beaktande av de
-behöriga myndigheternas bedömning av risken hos
+6 b § Om en överenskommelse enligt 6 a § inte har träffats
+inom fyra månader, ska Finansinspektionen, med beaktande av
+de behöriga myndigheternas bedömning av risken hos
 dotterföretagen, ensam fatta ett beslut på gruppnivå.
 
-Om Finansinspektionen ansvarar för tillsynen över dotterföretag
-till ett moderinstitut inom EES eller till ett finansiellt
-moderholdingföretag inom EES, ska inspektionen fatta ett sådant
-beslut som avses i 6 a § tredje stycket på individuell nivå
-eller undergruppsnivå. Inför beslutet ska inspektionen beakta
-synpunkter som framförts av den utländska behöriga myndighet
-som ansvarar för den gruppvisa tillsynen.
+Om Finansinspektionen ansvarar för tillsynen över
+dotterföretag till ett moderinstitut inom EES eller till ett
+finansiellt moderholdingföretag inom EES eller till ett
+blandat finansiellt moderholdingföretag inom EES, ska
+inspektionen fatta ett sådant beslut som avses i 6 a § tredje
+stycket på individuell nivå eller undergruppsnivå. Inför
+beslutet ska inspektionen beakta synpunkter som framförts av
+den utländska behöriga myndighet som ansvarar för den
+gruppvisa tillsynen.
 
-Om någon eller några av de berörda behöriga myndigheterna, inom
-fyra månader från det att Finansinspektionen har lämnat sin
-rapport enligt 6 a §, har hänskjutit ärendet till Europeiska
-bankmyndigheten i enlighet med artikel 19 i förordning (EU) nr
-1093/2010, ska inspektionen skjuta upp sitt beslut enligt
-första stycket och invänta det beslut som Europeiska
-bankmyndigheten kan komma att fatta enligt artikel 19.3 i samma
-förordning. Finansinspektionen ska följa ett beslut i saken
-från Europeiska bankmyndigheten.
+Om någon eller några av de berörda behöriga myndigheterna,
+inom fyra månader från det att Finansinspektionen har lämnat
+sin rapport enligt 6 a §, har hänskjutit ärendet till
+Europeiska bankmyndigheten i enlighet med artikel 19 i
+förordning (EU) nr 1093/2010, ska inspektionen skjuta upp
+sitt beslut enligt första stycket och invänta det beslut som
+Europeiska bankmyndigheten kan komma att fatta enligt artikel
+19.3 i samma förordning. Finansinspektionen ska följa ett
+beslut i saken från Europeiska bankmyndigheten.
 
 Finansinspektionen får inte hänskjuta ett ärende till
 Europeiska bankmyndigheten efter det att fyramånadersperioden
 har löpt ut eller ett gemensamt beslut har fattats.
-Lag (2012:196).
+Lag (2013:671).
 
 6 c § Ett sådant beslut som avses i 6 a § som fattas av en
 utländsk behörig myndighet efter en överenskommelse med övriga
@@ -1760,33 +1803,36 @@ för Finansinspektionen, och det ska ligga till grund för
 inspektionens tillsyn. Lag (2011:752).
 
 6 d § Beslut som fattats enligt 6 a eller 6 b § ska omprövas
-årligen. Ett beslut enligt 6 a § om tillämpning av 2 kap. 2 §
+årligen. Ett beslut enligt 6 a § om tillämpning av 2 kap. 2 §
 får även, i undantagsfall, omprövas om en behörig myndighet
 som ansvarar för tillsynen av dotterföretag till ett
 moderinstitut inom EES eller ett finansiellt
+moderholdingföretag inom EES eller ett blandat finansiellt
 moderholdingföretag inom EES skriftligen begär det hos
 Finansinspektionen och samtidigt anger skälen för begäran.
-Lag (2011:752).
+Lag (2013:671).
 
 Företags uppgiftsskyldighet till Finansinspektionen
 
-7 § Följande företag skall till Finansinspektionen lämna de
+7 § Följande företag ska till Finansinspektionen lämna de
 upplysningar om sin verksamhet och därmed sammanhängande
 omständigheter som inspektionen begär för tillsynen:
 
-1. företag som ingår i en finansiell företagsgrupp enligt denna
-lag eller enligt en utländsk offentlig reglering som bygger på
-kreditinstitutsdirektivet eller kapitalkravsdirektivet,
+1. företag som ingår i en finansiell företagsgrupp enligt
+denna lag eller enligt en utländsk offentlig reglering som
+bygger på kreditinstitutsdirektivet  eller
+kapitalkravsdirektivet,
 
-2. andra dotterföretag till ett institut eller ett finansiellt
+2. andra dotterföretag till ett institut eller ett
+finansiellt holdingföretag eller ett blandat finansiellt
 holdingföretag än de som avses i 1, och
 
-3. ett holdingföretag med blandad verksamhet och dotterföretag
-till ett holdingföretag med blandad verksamhet.
+3. ett holdingföretag med blandad verksamhet och
+dotterföretag till ett holdingföretag med blandad verksamhet.
 
 Om företaget inte lämnar upplysningarna till
 Finansinspektionen, får inspektionen förelägga företaget att
-göra det.
+göra det. Lag (2013:671).
 
 8 § Ett kreditvärderingsföretag skall lämna Finansinspektionen
 de upplysningar om sin verksamhet och därmed sammanhängande
@@ -1837,20 +1883,21 @@ Ett holdingföretag med blandad verksamhet skall lämna den
 information som behövs för tillsynen över de dotterföretag som
 är institut (samlad information).
 
-12 § Ett institut och ett finansiellt holdingföretag som avses
-i 9 kap. 3 § ska upprätta och ge in den gruppbaserade
-redovisningen till Finansinspektionen för de
-räkenskapsperioder och vid de tidpunkter som framgår av
-föreskrifter meddelade med stöd av 13 kap. 1 § 47. I fråga om
-en finansiell företagsgrupp enligt 9 kap. 2 §, ska
-redovisningen upprättas och ges in av de företag som anges i
-föreskrifter meddelade med stöd av 13 kap. 1 § 48.
+12 § Ett sådant institut, finansiellt holdingföretag och
+blandat finansiellt holdingföretag som avses i 9 kap. 3 § ska
+upprätta och ge in den gruppbaserade redovisningen till
+Finansinspektionen för de räkenskapsperioder och vid de
+tidpunkter som framgår av föreskrifter meddelade med stöd av
+13 kap. 1 § 47. I fråga om en finansiell företagsgrupp enligt
+9 kap. 2 §, ska redovisningen upprättas och ges in av de
+företag som anges i föreskrifter meddelade med stöd av
+13 kap. 1 § 48.
 
 Ett holdingföretag med blandad verksamhet ska upprätta och ge
 in den samlade informationen till Finansinspektionen för de
 räkenskapsperioder och vid de tidpunkter som framgår av
-föreskrifter meddelade med stöd av 13 kap. 1 § 47.
-Lag (2011:752).
+föreskrifter meddelade med stöd av 13 kap. 1 § 47.
+Lag (2013:671).
 
 13 § Ett företag som ingår i en finansiell företagsgrupp och
 övriga dotterföretag till ett institut eller ett holdingföretag
@@ -1951,13 +1998,14 @@ som tillsynen avser.
 
 11 kap. Moderföretag utanför EES
 
-1 § Om ett institut inte står under gruppbaserad tillsyn enligt
-artikel 125 eller 126 i kreditinstitutsdirektivet och dess
-moderföretag är ett utländskt institut eller ett finansiellt
-holdingföretag som har sitt huvudkontor utanför EES gäller 2
-och 3 §§ för det fall Finansinspektionen enligt 10 kap. 2-4 §§
+1 § Om ett institut inte står under gruppbaserad tillsyn
+enligt artikel 125 eller 126 i kreditinstitutsdirektivet och
+dess moderföretag är ett utländskt institut eller ett sådant
+finansiellt holdingföretag eller blandat finansiellt
+holdingföretag som har sitt huvudkontor utanför EES, gäller 2
+och 3 §§ för det fall Finansinspektionen enligt 10 kap. 24 §§
 skulle ha utövat tillsynen över gruppen om de bestämmelserna
-hade gällt.
+hade gällt. Lag (2013:671).
 
 2 § Finansinspektionen ska kontrollera om den gruppbaserade
 tillsyn som utövas av tillsynsmyndigheten i tredje land är
@@ -1974,23 +2022,25 @@ myndigheter inom EES. Inspektionen ska också före
 ställningstagandet ha rådfrågat Europeiska bankmyndigheten.
 Lag (2012:196).
 
-3 § Om tillsynen inte bedöms likvärdig, ska Finansinspektionen
-tillämpa bestämmelserna om finansiella företagsgrupper i 9 och
-10 kap. som om moderföretaget haft sitt huvudkontor inom EES.
+3 § Om tillsynen inte bedöms likvärdig, ska
+Finansinspektionen tillämpa bestämmelserna om finansiella
+företagsgrupper i 9 och 10 kap. som om moderföretaget haft
+sitt huvudkontor inom EES.
 
 Efter att ha hört övriga berörda behöriga myndigheter får
 Finansinspektionen i stället besluta att använda sig av andra
 tillsynsmetoder som säkerställer att instituten i
 företagsgruppen är föremål för tillräcklig tillsyn.
 Inspektionen får då förelägga en ägare till institutet att
-inrätta ett finansiellt holdingföretag med huvudkontor inom
-EES och tillämpa bestämmelserna i denna lag på instituten i
-den företagsgrupp som leds av detta holdingföretag.
+inrätta ett finansiellt holdingföretag eller ett blandat
+finansiellt holdingföretag med huvudkontor inom EES och
+tillämpa bestämmelserna i denna lag på instituten i den
+företagsgrupp som leds av detta holdingföretag.
 
 Finansinspektionen ska underrätta de berörda behöriga
 myndigheterna, Europeiska kommissionen och Europeiska
 bankmyndigheten när sådana andra tillsynsmetoder som anges i
-andra stycket används. Lag (2012:196).
+andra stycket används. Lag (2013:671).
 
 12 kap. Ingripanden och ansvarsbestämmelse
 
@@ -2009,27 +2059,31 @@ Om ett institut bryter mot denna lag eller föreskrifter
 meddelade med stöd av lagen, gäller dessutom bestämmelserna om
 ingripande i de lagar som reglerar institutens verksamhet.
 
-2 § Finansinspektionen skall förelägga ett finansiellt
-holdingföretag eller ett holdingföretag med blandad verksamhet
-att vidta åtgärder för att göra rättelse, om holdingföretaget
-inte uppfyller de krav som ställs på det enligt denna lag eller
-föreskrifter meddelade med stöd av lagen. Ett sådant
-föreläggande skall också riktas mot ett finansiellt
-holdingföretag, vars ledning inte uppfyller kraven i denna lag.
+2 § Finansinspektionen ska förelägga ett finansiellt
+holdingföretag, ett blandat finansiellt holdingföretag eller
+ett holdingföretag med blandad verksamhet att vidta åtgärder
+för att göra rättelse, om holdingföretaget inte uppfyller de
+krav som ställs på det enligt denna lag eller föreskrifter
+meddelade med stöd av lagen. Ett sådant föreläggande ska
+också riktas mot ett finansiellt holdingföretag eller ett
+blandat finansiellt holdingföretag, vars ledning inte
+uppfyller kraven i denna lag. Lag (2013:671).
 
 3 § Om Finansinspektionen meddelar föreläggande enligt denna
 lag, får inspektionen förelägga vite.
 
 Förseningsavgift
 
-4 § Om ett institut, ett finansiellt holdingföretag eller ett
-holdingföretag med blandad verksamhet med huvudkontor i
-Sverige inte i tid lämnar upplysningar enligt föreskrifter
-meddelade med stöd av 13 kap. 1 § 46, 49 och 50, får
-Finansinspektionen besluta att företaget ska betala en
-förseningsavgift med högst 100 000 kronor.
+4 § Om ett institut, ett finansiellt holdingföretag, ett
+blandat finansiellt holdingföretag eller ett holdingföretag
+med blandad verksamhet med huvudkontor i Sverige inte i tid
+lämnar upplysningar enligt föreskrifter meddelade med stöd av
+13 kap. 1 § 46, 49 och 50, får Finansinspektionen besluta att
+företaget ska betala en förseningsavgift med högst 100 000
+kronor.
 
-Avgiften tillfaller staten. Lag (2011:752).
+Avgiften tillfaller staten.
+Lag (2013:671).
 
 5 § Förseningsavgiften skall betalas till Finansinspektionen
 inom trettio dagar efter det att beslutet vunnit laga kraft
@@ -2285,3 +2339,11 @@ Denna lag träder i kraft den 30 juni 2011 i fråga om 1 kap.
 kap., 9 kap. 2, 7 och 10 §§, 10 kap. 3, 4, 6 a6 d, 9, 12 och
 15 §§, 11 kap. 3 §, 12 kap. 4 § samt 13 kap. 1 § och i övrigt
 den 31 december 2011.
+
+2013:671
+
+1. Denna lag träder i kraft den 1 augusti 2013.
+
+2. Äldre bestämmelser gäller fortfarande för den
+rapporteringsskyldighet som avser tiden före den 1 januari
+2014.
