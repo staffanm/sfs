@@ -24,16 +24,18 @@ verksamheten får i fråga om arbetssökande och andra personer
 som omfattas av verksamheten endast följande personuppgifter
 behandlas:
 
-1. namn, person- eller samordningsnummer, adress, e-
-postadress, telefonnummer och andra kontakt- och
+1. namn, person- eller samordningsnummer, adress,
+e-postadress, telefonnummer och andra kontakt- och
 identifieringsuppgifter,
 
 2. löne- och kontouppgifter,
 
 3. medborgarskap och födelseland,
 
-4. uppgifter om arbetslöshet, inskrivningstid hos
-Arbetsförmedlingen och tillhörighet till arbetslöshetskassa,
+4. uppgifter om arbetslöshet, tidsperiod då en person är
+eller har varit anmäld hos den offentliga arbetsförmedlingen
+och tillhörighet till arbetslöshetskassa enligt
+registrering,
 
 5. uppgifter om inresedatum till Sverige, ansökan om
 uppehållstillstånd, folkbokföringsdatum, arbetstillstånd och
@@ -46,10 +48,11 @@ arbetsgivare, språkkunskaper, speciell kompetens och andra
 uppgifter som har betydelse vid arbetssökning,
 
 7. uppgifter om behov av språk-, syn- eller teckentolk,
-arbetshjälpmedel eller av särskild anpassning av insatser,
+arbetshjälpmedel eller särskild anpassning av insatser,
 
-8. uppgifter om tidpunkter, händelser och innehåll i kontakter
-med Arbetsförmedlingen och kompletterande aktörer,
+8. uppgifter om tidpunkter, händelser och innehåll i
+kontakter med den offentliga arbetsförmedlingen och
+kompletterande aktörer,
 
 9. uppgifter om den arbetssökande som rapporteras in av en
 kompletterande aktör, en myndighet eller en arbetsgivare,
@@ -60,8 +63,8 @@ beslut om nystartsjobb,
 
 11. uppgifter om anvisning till arbetsmarknadspolitiska
 program eller insatser eller beslut om nystartsjobb, typ av
-program eller insats, ersättning från arbetslöshetskassa eller
-för deltagande i arbetsmarknadspolitiska program eller
+program eller insats, ersättning från arbetslöshetskassa
+eller för deltagande i arbetsmarknadspolitiska program eller
 insatser och om samordning med andra förmåner,
 
 12. uppgifter om etableringsersättning, etableringstillägg,
@@ -75,8 +78,8 @@ för bosättning av vissa nyanlända invandrare och förordningen
 (2010:409) om etableringssamtal och etableringsinsatser för
 vissa nyanlända invandrare,
 
-13. uppgifter om sökta arbeten, anvisningar till arbete och
-resultatet av anvisningarna,
+13. uppgifter om sökta arbeten, anvisningar att söka arbete
+och resultatet av anvisningarna,
 
 14. uppgifter om att den arbetssökande verkställer eller har
 verkställt ett fängelsestraff, huruvida verkställigheten sker
@@ -88,19 +91,20 @@ frigivning, och
 15. andra uppgifter som har lämnats i ett ärende eller som är
 absolut nödvändiga för handläggningen av ett ärende.
 
-Första stycket gäller även behandling av personuppgifter om en
-arbetssökandes barn, make, maka eller sambo eller annan
+Första stycket gäller även behandling av personuppgifter om
+en arbetssökandes barn, make, maka eller sambo eller annan
 närstående person, för det fall uppgifterna har betydelse i
 ett ärende om etableringsersättning enligt förordningen om
 ersättning till vissa nyanlända invandrare, om bosättning
 enligt förordningen om mottagande för bosättning av vissa
 nyanlända invandrare eller om etableringsinsatser enligt
 förordningen om etableringssamtal och etableringsinsatser för
-vissa nyanlända invandrare. Personuppgifter som avses i första
-stycket och som avser en arbetssökandes barn, make, maka eller
-sambo eller annan närstående person får även behandlas i andra
-ärenden om uppgifterna är absolut nödvändiga för
-handläggningen av ärendet. Förordning (2011:544).
+vissa nyanlända invandrare. Personuppgifter som avses i
+första stycket och som avser en arbetssökandes barn, make,
+maka eller sambo eller annan närstående person får även
+behandlas i andra ärenden om uppgifterna är absolut
+nödvändiga för handläggningen av ärendet.
+Förordning (2013:685).
 
 3 a § För publicering av ansökningar om anställning enligt 4 §
 2 lagen (2002:546) om behandling av personuppgifter i den
@@ -215,13 +219,13 @@ verksamheten, och
 till vissa nyanlända invandrare. Förordning (2010:2034).
 
 6 a § För tillhandahållande av information till
-Försäkringskassan enligt 5 § 1 lagen (2002:546) om behandling
+Försäkringskassan enligt 5 § 1 lagen (2002:546) om behandling
 av personuppgifter i den arbetsmarknadspolitiska verksamheten
-får, utöver vad som anges i 6 §, även följande personuppgifter
-behandlas:
+får, utöver vad som anges i 6 §, även följande
+personuppgifter behandlas:
 
-1. uppgifter om vilka personer som är registrerade som
-arbetssökande,
+1. uppgifter om vilka personer som är anmälda som
+arbetssökande hos den offentliga arbetsförmedlingen,
 
 2. uppgifter om arbetssökandes registrerade arbetsutbud,
 
@@ -232,33 +236,37 @@ helt eller delvis arbetslösa,
 yrkesfiskare,
 
 5. uppgifter om vilka arbetssökande som är registrerade som
-deltagare i arbetsmarknadspolitiska program som berättigar till
-aktivitetsstöd, utvecklingsersättning eller ersättning från en
-kommun,
+deltagare i arbetsmarknadspolitiska program som berättigar
+till aktivitetsstöd, utvecklingsersättning eller ersättning
+från en kommun,
 
-6. uppgifter om sådant program, som avses i 5, som är stöd till
+6. uppgifter om sådant program enligt 5 som är stöd till
 start av näringsverksamhet,
 
 7. uppgifter om vilka arbetssökande som är registrerade som
 förvärvsarbetande,
 
-8. uppgifter om huruvida intyg enligt 48 § lagen (1997:238) om
-arbetslöshetsförsäkring är registrerat för arbetssökande,
+8. uppgifter om huruvida intyg enligt 48 § lagen (1997:238)
+om arbetslöshetsförsäkring är registrerat för
+arbetssökande,
+9. uppgifter om vilka arbetssökande som
+enligt registrering inte står till arbetsmarknadens
+förfogande,
 
-9. uppgifter om vilka arbetssökande som enligt registrering
-inte står till arbetsmarknadens förfogande,
+10. uppgifter om vilka personer som inte längre är anmälda
+som arbetssökande hos den offentliga arbetsförmedlingen och
+om huruvida skälet till detta är att de fått förvärvsarbete,
+avbrutit kontakten med den offentliga arbetsförmedlingen
+eller påbörjat annan utbildning än
+arbetsmarknadsutbildning,
 
-10. uppgifter om vilka personer som enligt registrering inte
-längre är aktuella som arbetssökande vid den offentliga
-arbetsförmedlingen och om skälet till detta är att de fått
-förvärvsarbete, avbrutit kontakten med arbetsförmedlingen eller
-påbörjat annan utbildning än arbetsmarknadsutbildning,
+11. uppgifter om arbetssökandes
+tillhörighet till arbetslöshetskassa enligt registrering,
+och
 
-11. uppgifter om arbetssökandes tillhörighet till
-arbetslöshetskassa enligt registrering, samt
-
-12. uppgifter om från och med vilken tidpunkt omständigheterna
-i 1-10 gäller enligt registrering. Förordning (2007:817).
+12. uppgifter om från och med vilken tidpunkt
+omständigheterna i 110 gäller enligt registrering.
+Förordning (2013:685).
 
 7 § För tillhandahållande av information till Skatteverket
 enligt 5 § 2 lagen (2002:546) om behandling av personuppgifter
@@ -271,17 +279,17 @@ utbetalning av stöd till nystartsjobb genom kreditering på en
 arbetsgivares skattekonto. Förordning (2010:2034).
 
 7 a § För tillhandahållande av information till Inspektionen
-för arbetslöshetsförsäkringen enligt 5 § 3 lagen (2002:546) om
-behandling av personuppgifter i den arbetsmarknadspolitiska
-verksamheten får följande personuppgifter behandlas för sådan
-verksamhet som avser tillsyn:
+för arbetslöshetsförsäkringen enligt 5 § 3 lagen (2002:546)
+om behandling av personuppgifter i den
+arbetsmarknadspolitiska verksamheten får följande
+personuppgifter behandlas för verksamhet som avser tillsyn:
 
 1. namn, person- eller samordningsnummer samt postnummer,
 
 2. uppgift om huruvida den arbetssökande är utrikes född,
 
 3. uppgift om arbetslöshet och tillhörighet till
-arbetslöshetskassa,
+arbetslöshetskassa enligt registrering,
 
 4. uppgift om arbets- och uppehållstillstånd,
 
@@ -289,65 +297,70 @@ arbetslöshetskassa,
 anställningsform och varaktighet samt uppgifter om körkort,
 körkortsklass och tillgång till bil, utbildning,
 arbetslivserfarenhet, tidigare arbetsgivare, speciell
-kompetens, språkkunskaper och andra uppgifter som har betydelse
-vid arbetssökning,
+kompetens, språkkunskaper och andra uppgifter som har
+betydelse vid arbetssökning,
 
-6. uppgifter om tidpunkter, händelser och innehåll i kontakter
-med Arbetsförmedlingen eller en kompletterande aktör,
+6. uppgifter om tidpunkter, händelser och innehåll i
+kontakter med Arbetsförmedlingen eller en kompletterande
+aktör,
 
-7. uppgifter om anvisning till arbetsmarknadspolitiska program,
-typ av program, utbetald ersättning från arbetslöshetskassa
-eller för deltagande i arbetsmarknadspolitiska program, de
-tidsperioder utbetalningarna avser och om samordning med andra
-förmåner,
+7. uppgifter om anvisning till arbetsmarknadspolitiska
+program, typ av program, utbetald ersättning från
+arbetslöshetskassa eller för deltagande i
+arbetsmarknadspolitiska program, de tidsperioder
+utbetalningarna avser och om samordning med andra förmåner,
 
-8. uppgifter om sökta arbeten, anvisningar till arbete och
-resultatet av gjorda anvisningar,
+8. uppgifter om sökta arbeten, anvisningar att söka arbete
+och resultatet av anvisningarna,
 
-9. uppgifter ur de arbetssökandes handlingsplaner, och
+9. uppgifter ur de arbetssökandes individuella
+handlingsplaner, och
 
-10. sådana uppgifter som avses i 16 § förordningen (2000:628)
-om den arbetsmarknadspolitiska verksamheten, med undantag för
-andra adressuppgifter än postnummer. Förordning (2010:2034).
+10. uppgifter som avses i 16 § förordningen (2000:628) om den
+arbetsmarknadspolitiska verksamheten, med undantag för andra
+adressuppgifter än postnummer. Förordning (2013:685).
 
 7 b § För tillhandahållande av information till Inspektionen
-för arbetslöshetsförsäkringen enligt 5 § 3 lagen (2002:546) om
-behandling av personuppgifter i den arbetsmarknadspolitiska
-verksamheten får följande personuppgifter behandlas för sådan
-verksamhet som avser utfärdande av intyg:
+för arbetslöshetsförsäkringen enligt 5 § 3 lagen (2002:546)
+om behandling av personuppgifter i den
+arbetsmarknadspolitiska verksamheten får följande
+personuppgifter behandlas för verksamhet som avser utfärdande
+av intyg:
 
-1. uppgift om huruvida den sökande är anmäld hos den offentliga
-arbetsförmedlingen och om datum för anmälan,
+1. uppgift om huruvida den sökande är anmäld som
+arbetssökande hos den offentliga arbetsförmedlingen och om
+datum för anmälan,
 
-2. uppgift om till vilken arbetslöshetskassa den sökande hör,
-och
+2. uppgift om arbetssökandes tillhörighet till
+arbetslöshetskassa enligt registrering, och
 
-3. uppgift om ansvarig handläggare hos Arbetsförmedlingen samt
-om Arbetsförmedlingens telefonnummer. Förordning (2010:2034).
+3. uppgift om ansvarig handläggare hos Arbetsförmedlingen
+samt om Arbetsförmedlingens telefonnummer.
+Förordning (2013:685).
 
 7 c § För tillhandahållande av information till
-Kronofogdemyndigheten enligt 5 § 4 lagen (2002:546) om
+Kronofogdemyndigheten enligt 5 § 4 lagen (2002:546) om
 behandling av personuppgifter i den arbetsmarknadspolitiska
 verksamheten får följande personuppgifter behandlas:
 
 1. namn och person- eller samordningsnummer,
 
-2. från och med vilken dag en person är anmäld hos eller inte
-längre är registrerad som arbetssökande hos den offentliga
+2. från och med vilken dag en person är anmäld eller inte
+längre anmäld som arbetssökande hos den offentliga
 arbetsförmedlingen, och
 
 3. arbetssökandes tillhörighet till arbetslöshetskassa enligt
-registrering. Förordning (2010:2034).
+registrering. Förordning (2013:685).
 
-7 d § För tillhandahållande av information till en socialnämnd
-enligt 5 § 5 lagen (2002:546) om behandling av personuppgifter
-i den arbetsmarknadspolitiska verksamheten får följande
-personuppgifter behandlas:
+7 d § För tillhandahållande av information till en
+socialnämnd enligt 5 § 5 lagen (2002:546) om behandling av
+personuppgifter i den arbetsmarknadspolitiska verksamheten
+får följande personuppgifter behandlas:
 
 1. namn och person- eller samordningsnummer,
 
-2. från och med vilken dag en person är anmäld hos eller inte
-längre är registrerad som arbetssökande hos den offentliga
+2. från och med vilken dag en person är anmäld eller inte
+längre anmäld som arbetssökande hos den offentliga
 arbetsförmedlingen,
 
 3. arbetssökandes tillhörighet till arbetslöshetskassa enligt
@@ -361,7 +374,7 @@ invandrare,
 omfattning etableringsersättning har beviljats, och
 
 6. om ett beslut om etableringsersättning har ändrats.
-Förordning (2010:2034).
+Förordning (2013:685).
 
 7 e § För tillhandahållande av information till
 Migrationsverket enligt 5 § 6 lagen (2002:546) om behandling av
@@ -377,22 +390,22 @@ följande personuppgifter behandlas:
 4. under vilken tidsperiod och i vilken omfattning ersättning
 lämnas eller har lämnats. Förordning (2010:2034).
 
-7 f § För tillhandahållande av information till kompletterande
-aktörer enligt 5 § 7 lagen (2002:546) om behandling av
-personuppgifter i den arbetsmarknadspolitiska verksamheten får
-följande personuppgifter behandlas:
+7 f § För tillhandahållande av information till
+kompletterande aktörer enligt 5 § 7 lagen (2002:546) om
+behandling av personuppgifter i den arbetsmarknadspolitiska
+verksamheten får följande personuppgifter behandlas:
 
-1. namn, person- eller samordningsnummer, adress, telefonnummer
-och e-postadress,
+1. namn, person- eller samordningsnummer, adress,
+telefonnummer och e-postadress,
 
 2. uppgift om arbetsutbud, önskemål om typ av arbete,
-arbetstid, arbetsort, anställningsform och varaktighet, uppgift
-om körkort och tillgång till bil, utbildning,
+arbetstid, arbetsort, anställningsform och varaktighet,
+uppgift om körkort och tillgång till bil, utbildning,
 arbetslivserfarenhet och tidigare arbetsgivare, speciell
 kompetens samt andra uppgifter som har betydelse vid
 arbetssökning,
 
-3. uppgifter om anvisningar till arbete och
+3. uppgifter om anvisningar att söka arbete och
 arbetsmarknadspolitiska program samt uppgifter om att en
 anvisning avbrutits,
 
@@ -400,15 +413,15 @@ anvisning avbrutits,
 arbetshjälpmedel eller om behov av anpassning av insatsen på
 grund av funktionsnedsättning,
 
-5. uppgifter om sådana omständigheter som berättigar den
+5. uppgifter om omständigheter som berättigar den
 kompletterande aktören till resultatbaserad ersättning,
 
-6. uppgifter som ingår i en handlingsplan eller en
-etableringsplan, och
+6. uppgifter som ingår i en individuell handlingsplan eller
+en etableringsplan, och
 
 7. andra uppgifter som är absolut nödvändiga för att den
 kompletterande aktören ska kunna utföra sitt uppdrag.
-Förordning (2010:2034).
+Förordning (2013:685).
 
 8 § Personuppgifter som får behandlas enligt 37 f §§ får
 avskiljas för behandling i en arbetsmarknadspolitisk databas
@@ -489,8 +502,7 @@ bestämmelser om vård av unga, lagen (1991:1128) om psykiatrisk
 tvångsvård, lagen (1991:1129) om rättspsykiatrisk vård eller
 smittskyddslagen (2004:168). Förordning (2004:268).
 
-10 a § /Träder i kraft I:2013-09-01/
-Begränsningarna i 910 §§ för vilka personuppgifter
+10 a § Begränsningarna i 910 §§ för vilka personuppgifter
 som får behandlas i en databas gäller inte uppgifter som har
 lämnats av den arbetssökande i en aktivitetsrapport enligt
 förordningen (2000:628) om den arbetsmarknadspolitiska
@@ -661,18 +673,7 @@ kommer åt sådana uppgifter.
 Arbetsförmedlingen får meddela föreskrifter om dokumentation
 och kontroll enligt första stycket. Förordning (2011:179).
 
-20 d § /Upphör att gälla U:2014-01-01/
-Utöver den begränsning av åtkomst som gäller enligt 11 §
-lagen (2002:546) om behandling av personuppgifter i den
-arbetsmarknadspolitiska verksamheten, ska åtkomsten till
-personuppgifter i system där det är tekniskt möjligt begränsas
-till de personer som behöver få tillgång till uppgifterna för
-att fullgöra sina arbetsuppgifter, i den utsträckning det
-bedöms nödvändigt med hänsyn till känsligheten hos de uppgifter
-som ska behandlas. Förordning (2011:179).
-
-20 d § /Träder i kraft I:2014-01-01/
-Utöver den begränsning av åtkomst som gäller enligt 11 §
+20 d § Utöver den begränsning av åtkomst som gäller enligt 11 §
 lagen (2002:546) om behandling av personuppgifter i den
 arbetsmarknadspolitiska verksamheten, ska åtkomsten till
 personuppgifter begränsas till de personer som behöver få
