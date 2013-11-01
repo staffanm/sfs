@@ -840,12 +840,17 @@ i kallelsen till stämman. Den som har uteslutits ur föreningen saknar rätt
 att få ärenden behandlade vid stämman även om han ännu inte har avgått ur
 föreningen.
 
-7 § Styrelsen kallar till föreningsstämma. Om en stämma som skall hållas
-enligt denna lag, enligt stadgarna eller enligt ett stämmobeslut inte
-sammankallas i föreskriven ordning, skall länsstyrelsen på anmälan av en
-styrelseledamot, verkställande direktören, en revisor eller någon
-röstberättigad genast på föreningens bekostnad sammankalla stämman i den
-ordning som sägs i 8 §.
+7 § Styrelsen kallar till föreningsstämma.
+
+Om en föreningsstämma som ska hållas enligt denna lag,
+stadgarna eller ett stämmobeslut inte sammankallas på
+föreskrivet sätt, ska Bolagsverket efter ansökan genast kalla
+till föreningsstämma i enlighet med 8 §. Om kallelse inte kan
+ske på det sätt som anges i 8 §, får Bolagsverket kalla till
+föreningsstämma på något annat lämpligt sätt. En ansökan får
+göras av en styrelseledamot, den verkställande direktören, en
+revisor eller en röstberättigad. Föreningen ska ersätta
+kostnaderna för kallelsen. Lag (2013:736).
 
 8 § Kallelse till en föreningsstämma får utfärdas tidigast fyra veckor före
 stämman. Kallelsen skall utfärdas senast två veckor före ordinarie och en
@@ -1054,7 +1059,6 @@ Talan ska väckas inom tre månader från dagen för beslutet.
 Väcks inte talan inom denna tid, är rätten till talan förlorad.
 
 Talan får väckas senare än vad som sägs i andra stycket, när
-
 1. beslutet är sådant att det inte lagligen kan fattas ens med
 alla medlemmarnas samtycke,
 
@@ -1076,7 +1080,6 @@ registreringsmyndigheten för registrering, om beslutet har
 upphävts eller ändrats genom en dom som har vunnit laga kraft
 eller rätten genom beslut under rättegången har förordnat att
 föreningsstämmans beslut inte får verkställas.
-
 I fråga om ett beslut att godkänna en fusionsplan som avser en
 gränsöverskridande fusion gäller, utöver vad som sägs i andra
 stycket, att talan inte får väckas efter det att Bolagsverket
@@ -1084,7 +1087,6 @@ eller allmän domstol genom ett beslut som har vunnit laga kraft
 har lämnat tillstånd till verkställande av fusionsplanen enligt
 12 kap. 15 eller 16 §. Tredje stycket ska inte tillämpas i
 fråga om en sådan fusion. Lag (2008:3).
-
 18 § Om styrelsen vill väcka talan mot föreningen, skall styrelsen
 sammankalla en föreningsstämma för val av ställföreträdare att föra
 föreningens talan i tvisten. Stämning delges med den valde
@@ -1119,23 +1121,27 @@ revisorn.
 Föreningsstämman kan utse en eller flera revisorssuppleanter. Bestämmelserna
 i denna lag om revisorer gäller i tillämpliga delar om revisorssuppleanter.
 
-2 § Varje röstberättigad har rätt att föreslå att det hos länsstyrelsen på-
-kallas att en revisor (medrevisor) utses att delta i revisionen tillsammans
-med de övriga revisorerna. Förslaget skall framställas på en föreningsstämma
-där revisorsval skall ske eller där förslaget enligt kallelsen till stämman
-skall behandlas. Om förslaget har biträtts av minst en tiondel av samtliga
-röstberättigade eller en tredjedel av de på stämman närvarande
-röstberättigade, skall styrelsen inom en vecka göra framställning hos
-länsstyrelsen om att en medrevisor utses. Försummas detta får varje
-röstberättigad göra sådan framställning. Medrevisorn skall tjänstgöra för
-tiden till och med ordinarie föreningsstämma under nästa räkenskapsår.
+2 § Varje röstberättigad har rätt att föreslå att det hos
+Bolagsverket begärs att en revisor (medrevisor) utses att
+delta i revisionen tillsammans med de övriga revisorerna.
+Förslaget ska framställas på en föreningsstämma där
+revisorsval ska ske eller där förslaget enligt kallelsen till
+stämman ska behandlas. Om förslaget har biträtts av minst en
+tiondel av samtliga röstberättigade eller en tredjedel av de
+på stämman närvarande röstberättigade, ska styrelsen inom en
+vecka ansöka hos Bolagsverket om att en medrevisor utses. Om
+styrelsen försummar detta, får varje röstberättigad göra en
+sådan ansökan. Medrevisorn ska tjänstgöra för tiden till och
+med ordinarie föreningsstämma under nästa räkenskapsår.
 
-Innehavare av förlagsandelar kan begära hos styrelsen att en medrevisor
-utses. Begärs detta av innehavare som företräder förlagsinsatser till ett
-sammanlagt belopp motsvarande minst en tiondel av det totalt inbetalda
-insatskapitalet, skall styrelsen senast inom två månader göra framställning
-hos länsstyrelsen om att en medrevisor utses. Försummas detta får varje
-innehavare av en förlagsandel göra sådan framställning.
+Innehavare av förlagsandelar kan begära hos styrelsen att en
+medrevisor utses. Om detta begärs av innehavare som
+företräder förlagsinsatser till ett sammanlagt belopp
+motsvarande minst en tiondel av det totalt inbetalda
+insatskapitalet, ska styrelsen inom två månader ansöka hos
+Bolagsverket om att en medrevisor utses. Om styrelsen
+försummar detta, får varje innehavare av en förlagsandel göra
+en sådan ansökan. Lag (2013:736).
 
 3 § Revisorer som inte är auktoriserade eller godkända ska
 vara bosatta inom Europeiska ekonomiska samarbetsområdet, om
@@ -1219,18 +1225,21 @@ ska en auktoriserad eller en godkänd revisor utses, om minst
 en tiondel av samtliga röstberättigade begär det vid en
 föreningsstämma där revisorsval ska ske. Lag (2013:219).
 
-6 § I fråga om andra föreningar än som avses i 5 § får länsstyrelsen, om
-det är påkallat av särskilda omständigheter, besluta att minst en revisor
-skall vara auktoriserad revisor eller godkänd revisor.
+6 § I fråga om andra föreningar än dem som avses i 5 § får
+Bolagsverket, om det är påkallat av särskilda omständigheter,
+besluta att minst en revisor ska vara auktoriserad revisor
+eller godkänd revisor.
 
-Om det finns skäl till det, får länsstyrelsen samtidigt förordna en
-auktoriserad revisor eller en godkänd revisor att med övriga revisorer
-delta i revisionen. Uppdragstiden för revisorn skall bestämmas så att
-uppdraget upphör när annan behörig revisor har blivit utsedd i
-föreskriven ordning.
+Om det finns skäl till det, får Bolagsverket samtidigt utse
+en auktoriserad revisor eller en godkänd revisor att delta i
+revisionen tillsammans med övriga revisorer. Uppdragstiden
+för revisorn ska bestämmas så att uppdraget upphör när en
+annan behörig revisor har blivit utsedd i föreskriven
+ordning.
 
-Innan länsstyrelsen meddelar beslut som avses i denna paragraf, skall
-föreningen beredas tillfälle att yttra sig.
+Innan Bolagsverket meddelar ett beslut som avses i denna
+paragraf, ska föreningen ges tillfälle att yttra sig.
+Lag (2013:736).
 
 7 § Den får inte vara revisor som
 
@@ -1325,31 +1334,34 @@ första stycket får inte delta i revisionen, om inte minst två
 år har förflutit sedan han eller hon lämnade
 revisionsuppdraget. Lag (2009:566).
 
-9 § På anmälan skall länsstyrelsen förordna behörig revisor, om
+9 § Efter ansökan ska Bolagsverket utse en behörig revisor,
+om
 
-1. någon auktoriserad revisor eller godkänd revisor inte är utsedd enligt
-5 § första--tredje styckena,
+1. någon auktoriserad revisor eller godkänd revisor inte är
+utsedd enligt 5 § förstatredje styckena,
 
-2. en revisor är obehörig enligt 3 § första stycket eller 7 § första eller
-andra stycket, eller
+2. en revisor är obehörig enligt 3 § första stycket eller 7 §
+första eller andra stycket, eller
 
-3. en bestämmelse i stadgarna om antalet revisorer eller om revisors
-behörighet har åsidosatts.
+3. en bestämmelse i stadgarna om antalet revisorer eller om
+revisors behörighet har åsidosatts.
 
-Var och en kan göra anmälan enligt första stycket. Styrelsen är skyldig att
-göra anmälan, om inte rättelse utan dröjsmål sker genom den som utser
-revisor.
+Var och en kan göra en ansökan enligt första stycket.
+Styrelsen är skyldig att göra en ansökan, om inte rättelse
+utan dröjsmål sker genom den som utser revisor.
 
-Har föreningsstämman underlåtit att på begäran enligt 5 § fjärde stycket
-utse en auktoriserad eller godkänd revisor och gör någon röstberättigad
-inom en månad från stämman framställning till länsstyrelsen, skall denna
-förordna en sådan revisor.
+Om föreningsstämman, trots en begäran enligt 5 § femte
+stycket, inte har utsett någon auktoriserad eller godkänd
+revisor och om en röstberättigad inom en månad från
+föreningsstämman ansöker om det hos Bolagsverket, ska
+Bolagsverket utse en sådan revisor.
 
-Förordnande enligt denna paragraf skall meddelas efter det att föreningen
-har hörts och avse tid till dess att annan revisor har blivit utsedd i
-föreskriven ordning. Vid förordnande på grund av att en revisor är
-obehörig enligt 3 § första stycket eller 7 § första eller andra stycket
-skall länsstyrelsen entlediga den obehörige revisorn.
+Ett förordnande enligt denna paragraf ska meddelas efter det
+att föreningen har hörts och avse tiden till dess att en
+annan revisor har blivit utsedd i föreskriven ordning. Vid
+förordnande på grund av att en revisor är obehörig enligt 3 §
+första stycket eller 7 § första eller andra stycket ska
+Bolagsverket entlediga den obehöriga revisorn. Lag (2013:736).
 
 10 § Revisorerna skall i den omfattning som följer av god revisionssed
 granska föreningens årsredovisning jämte räkenskaperna samt styrelsens
@@ -1509,61 +1521,67 @@ att på begäran lämna upplysningar om föreningens
 angelägenheter till de förtroendevalda revisorerna i kommunen
 eller landstinget. Lag (2009:435).
 
-17 § Varje röstberättigad kan väcka förslag om att länsstyrelsen skall utse
-granskare för särskild granskning av föreningens förvaltning och räkenskaper
-under viss förfluten tid eller av vissa åtgärder eller förhållanden i
-föreningen.
+17 § Varje röstberättigad kan föreslå att Bolagsverket ska
+utse granskare för särskild granskning av föreningens
+förvaltning och räkenskaper under viss förfluten tid eller av
+vissa åtgärder eller förhållanden i föreningen.
 
-Förslaget skall framställas på en ordinarie föreningsstämma eller på en
-stämma där ärendet enligt kallelsen skall behandlas. Om förslaget har
-biträtts av minst en tiondel av samtliga röstberättigade eller en tredjedel
-av de närvarande röstberättigade, skall styrelsen inom en vecka göra
-framställning hos länsstyrelsen om att granskare skall utses. Försummas
-detta får varje röstberättigad göra sådan framställning. Länsstyrelsen
-får förordna en eller flera granskare.
+Förslaget ska framställas på en ordinarie föreningsstämma
+eller på en stämma där ärendet enligt kallelsen ska
+behandlas. Om förslaget har biträtts av minst en tiondel av
+samtliga röstberättigade eller en tredjedel av de närvarande
+röstberättigade, ska styrelsen inom en vecka ansöka hos
+Bolagsverket om att granskare ska utses. Om styrelsen
+försummar detta, får varje röstberättigad göra en sådan
+ansökan. Bolagsverket får utse en eller flera granskare.
 
-Innehavare av förlagsandelar kan begära hos styrelsen att granskare utses.
-Begärs detta av innehavare som företräder förlagsinsatser till ett
-sammanlagt belopp motsvarande minst en tiondel av det totalt inbetalda
-insatskapitalet, skall styrelsen senast inom två månader göra framställning
-härom hos länsstyrelsen. Försummas detta får varje innehavare av en
-förlagsandel göra sådan framställning. Länsstyrelsen får förordna en eller
-flera granskare.
+Innehavare av förlagsandelar kan begära hos styrelsen att
+granskare utses. Om detta begärs av innehavare som företräder
+förlagsinsatser till ett sammanlagt belopp motsvarande minst
+en tiondel av det totalt inbetalda insatskapitalet, ska
+styrelsen inom två månader ansöka hos Bolagsverket om att
+granskare utses. Om styrelsen försummar detta, får varje
+innehavare av en förlagsandel göra en sådan ansökan.
+Bolagsverket får utse en eller flera granskare.
 
-Vad som sägs i 3 § första och tredje styckena, 4, 7, 11, 15 och 16 §§ samt
-13 kap. 2 och 4--6 §§ om revisor tillämpas även i fråga om granskare.
+Det som sägs i 3 § första och tredje styckena, 4, 7, 11, 15
+och 16 §§ samt 13 kap. 2 och 46 §§ om revisor ska tillämpas
+även i fråga om granskare.
 
-Yttrande över granskningen skall avges till föreningsstämman. Yttrandet
-skall hållas tillgängligt för och sändas till medlemmar och andra
-röstberättigade enligt 7 kap. 8 § fjärde stycket samt läggas fram på
-stämman. På samma sätt skall yttrandet dessutom hållas tillgängligt för
-och sändas till innehavare av förlagsandelar, om granskaren har utsetts
-på begäran av en sådan innehavare.
+Ett yttrande över granskningen ska avges till
+föreningsstämman. Yttrandet ska hållas tillgängligt för och
+sändas till medlemmar och andra röstberättigade enligt 7 kap.
+8 § fjärde stycket samt läggas fram på stämman. På samma sätt
+ska yttrandet dessutom hållas tillgängligt för och sändas
+till innehavare av förlagsandelar, om granskaren har utsetts
+på begäran av en sådan innehavare. Lag (2013:736).
 
 18 § En förening som enligt 5 § första eller tredje stycket
-eller enligt länsstyrelsens beslut skall ha en auktoriserad
-eller en godkänd revisor, skall för registrering anmäla vem som
-har utsetts till revisor.
+eller enligt Bolagsverkets beslut ska ha en auktoriserad
+eller en godkänd revisor, ska för registrering anmäla vem som
+har utsetts till revisor. Anmälan behöver inte göras om
+revisorn har utsetts av Bolagsverket.
 
-Anmälan skall innehålla uppgift om revisorns postadress. Om
-postadressen avviker från revisorns hemvist, skall även
-hemvistet anges. Anmälan skall vidare innehålla uppgift om
+Anmälan ska innehålla uppgift om revisorns postadress. Om
+postadressen avviker från revisorns hemvist, ska även
+hemvisten anges. Anmälan ska vidare innehålla uppgift om
 revisorns personnummer eller, om sådant saknas, födelsedatum.
-Är revisorn ett registrerat revisionsbolag, skall anmälan även
-innehålla uppgift om bolagets organisationsnummer och om vem
-som är huvudansvarig för revisionen.
+Om revisorn är ett registrerat revisionsbolag, ska anmälan
+även innehålla uppgift om bolagets organisationsnummer och om
+vem som är huvudansvarig för revisionen.
 
-Anmälan skall göras första gången genast efter det att
+Anmälan ska göras första gången genast efter det att
 skyldighet för föreningen att ha en auktoriserad eller en
-godkänd revisor har uppkommit och därefter genast efter det att
-någon ändring har inträffat i ett förhållande som har anmälts
-eller skall anmälas för registrering. Om skyldigheten att ha en
-auktoriserad eller en godkänd revisor enligt 5 § första eller
-tredje stycket eller 6 § första stycket upphör, skall detta
-anmälas senast när föreningen har valt en ny revisor.
+godkänd revisor har uppkommit och därefter genast efter det
+att någon ändring har inträffat i ett förhållande som har
+anmälts eller ska anmälas för registrering. Om skyldigheten
+att ha en auktoriserad eller en godkänd revisor enligt 5 §
+första eller tredje stycket eller 6 § första stycket upphör,
+ska detta anmälas senast när föreningen har valt en ny
+revisor.
 
 Rätt att göra anmälan har även den som anmälan gäller.
-Lag (2006:868).
+Lag (2013:736).
 
 9 kap. Har upphävts genom lag (1999:1094).
 
@@ -1991,18 +2009,18 @@ Föreskrifterna i 7 kap. 4 § andra stycket 3 och tredje stycket om beslut
 på föreningsstämma om ansvarsfrihet för styrelseledamöterna och
 verkställande direktören skall tillämpas på likvidatorerna.
 
-15 § När likvidatorerna har lagt fram slutredovisningen, är föreningen
-upplöst. Detta förhållande skall genast anmälas för registrering.
+15 § När likvidatorerna har lagt fram slutredovisningen, är
+föreningen upplöst. Detta förhållande ska genast anmälas för
+registrering.
 
-En tiondel av samtliga röstberättigade kan dock begära hos likvidatorerna
-att en föreningsstämma inkallas för att behandla frågan huruvida talan
-skall väckas enligt 13 kap. 5 §. Därvid tillämpas 7 kap. 7 § andra
-meningen.
+En tiondel av samtliga röstberättigade kan dock begära hos
+likvidatorerna att en föreningsstämma sammankallas för att
+behandla frågan om huruvida talan ska väckas enligt 13 kap.
+5 §. I så fall ska 7 kap. 7 § andra stycket tilllämpas.
 
-Om likvidatorerna finner att föreningen är på obestånd och inte kan betala
-likvidationskostnaderna, skall de ansöka om att föreningen försätts i
-konkurs.
-
+Om likvidatorerna finner att föreningen är på obestånd och
+inte kan betala likvidationskostnaderna, ska de ansöka om att
+föreningen försätts i konkurs. Lag (2013:736).
 16 § Om det efter föreningens upplösning enligt 15 § visar sig att
 föreningen har tillgångar eller om talan väcks mot föreningen eller
 det av  någon annan orsak uppkommer behov av en likvidationsåtgärd, skall
@@ -2192,7 +2210,6 @@ en ungefärlig beloppsuppgift om resultatet lämnas. Uppgifterna
 ska avse tiden från utgången av nämnda räkenskapsår till en dag
 som infaller tidigast tre månader innan fusionsplanen
 upprättas.
-
 Om det inte finns något särskilt som hindrar det, ska det i
 redogörelsen enligt andra stycket även lämnas motsvarande
 uppgifter för samma rapportperiod under det närmast föregående
@@ -2200,7 +2217,6 @@ räkenskapsåret. Begrepp och termer ska så långt det är möjligt
 stämma överens med dem som har använts i den senast framlagda
 årsredovisningen eller, i förekommande fall,
 koncernredovisningen.
-
 Till fusionsplanen ska det även fogas
 
 1. ett av revisorerna avgivet yttrande över den redogörelse som
@@ -2394,11 +2410,11 @@ medverkan vid gränsöverskridande fusioner. Lag (2008:3).
 
 Fusionens rättsverkningar
 
-18 § När en anmälan om fusion enligt 17 § registreras, inträder
-följande rättsverkningar.
+18 § När en anmälan om fusion enligt 17 § registreras,
+inträder följande rättsverkningar.
 
 1. Överlåtande förenings tillgångar och skulder med undantag
-för skadeståndsanspråk enligt 13 kap. 1-3 §§ som har samband
+för skadeståndsanspråk enligt 13 kap. 13 §§ som har samband
 med fusionen övergår till den övertagande föreningen.
 
 2. Överlåtande förening upplöses.
@@ -2408,17 +2424,17 @@ med fusionen övergår till den övertagande föreningen.
 4. Medlemmarna i överlåtande förening blir medlemmar i den
 övertagande föreningen.
 
-Trots bestämmelserna i första stycket kan en tiondel av
-samtliga röstberättigade i en överlåtande förening hos
-styrelsen påkalla föreningsstämma för att behandla frågan
-huruvida talan ska väckas enligt 13 kap. 5 §. I så fall ska 7
-kap. 7 § andra meningen tillämpas.
+Trots första stycket kan en tiondel av samtliga
+röstberättigade i en överlåtande förening hos styrelsen
+begära att en föreningsstämma sammankallas för att behandla
+frågan om huruvida talan ska väckas enligt 13 kap. 5 §. I så
+fall ska  7 kap. 7 § andra stycket tillämpas.
 
 Om stämman beslutar att väcka talan enligt andra stycket, ska
-den samtidigt förordna att föreningen ska träda i likvidation.
+den samtidigt besluta att föreningen ska träda i likvidation.
 Vid genomförandet av likvidationen ska 11 kap. tillämpas.
 Likvidatorerna behöver dock inte ansöka om kallelse på okända
-borgenärer. Lag (2008:3).
+borgenärer. Lag (2013:736).
 
 Frågan om fusion faller
 
@@ -3113,26 +3129,25 @@ Lag (1994:1827).
 registret sedan en dom om hävande av firmaregistreringen har vunnit laga
 kraft.
 
-6 § Myndighets beslut i tillståndsärenden enligt 6 kap. 3 eller
-4 §, 8 kap. 3-5 §§ eller 10 kap. 6 § femte stycket får
+6 § Myndighets beslut i tillståndsärenden enligt 6 kap. 3
+eller 4 §, 8 kap. 35 §§ eller 10 kap. 6 § femte stycket får
 överklagas till regeringen.
 
-Ett beslut av registreringsmyndigheten som innebär att anmälan
-har skrivits av eller registrering har vägrats enligt 4 § andra
-stycket överklagas hos allmän förvaltningsdomstol inom två
-månader från beslutets dag. Detsamma gäller ett beslut av
-registreringsmyndigheten som avses i 4 a §, 11 kap. 18 §, 12
-kap. 19 § eller 16 kap. 2 § samt beslut i ett tillståndsärende
-enligt 12 kap. 11 § eller beslut att vägra utfärda intyg enligt
-12 kap. 36 §.
+Ett beslut av Bolagsverket som innebär att anmälan har
+skrivits av eller registrering har vägrats enligt 4 § andra
+stycket överklagas till allmän förvaltningsdomstol inom två
+månader från dagen för beslutet. Detsamma gäller ett beslut
+av Bolagsverket som avses i 4 a §, 7 kap. 7 §, 8 kap. 2, 6, 9
+eller 17 §, 11 kap. 18 §, 12 kap. 19 § eller 16 kap. 2 § samt
+beslut i ett tillståndsärende enligt 12 kap. 11 § eller
+beslut att vägra utfärda ett intyg enligt 12 kap. 36 §.
 
-Länsstyrelsens beslut enligt denna lag överklagas i övriga fall
-hos allmän förvaltningsdomstol. Detsamma gäller Skatteverkets
-beslut enligt 12 kap. 13 § om hinder mot verkställande av
-fusionsplan.
+Skatteverkets beslut enligt 12 kap. 13 § om hinder mot
+verkställande av fusionsplan överklagas till allmän
+förvaltningsdomstol.
 
 Prövningstillstånd krävs vid överklagande till kammarrätten.
-Lag (2008:3).
+Lag (2013:736).
 
 7 § Beslut av Bolagsverket i ärende enligt 11 kap. 4 a, 6 b,
 6 c eller 13 § överklagas till tingsrätten i den ort där
@@ -3152,33 +3167,12 @@ Till böter döms den som
 
 1. uppsåtligen eller av oaktsamhet underlåter att föra medlemsförteckning
 eller hålla sådan förteckning tillgänglig enligt 3 kap. 6 §, eller
-
 2. uppsåtligen eller av oaktsamhet bryter mot 14 kap. 3 § första stycket.
 
 I fall som avses i 8 kap. 16 § första stycket skall inte följa ansvar
 enligt 20 kap. 3 § brottsbalken.
 
-1 a § /Upphör att gälla U:2013-07-01 genom lag (2013:432)./
-Den som
-
-1. lämnar osann uppgift i en handling enligt denna lag som
-upprättas i elektronisk form,
-
-2. i ett ärende enligt denna lag oriktigt intygar att en
-elektronisk handling överensstämmer med originalet, eller
-
-3. lämnar osann uppgift eller förtiger sanningen i en försäkran
-som enligt förordning som ansluter till denna lag lämnas på
-heder och samvete och som upprättas i elektronisk form,
-
-döms, om åtgärden innebär fara i bevishänseende, till böter
-eller fängelse i högst sex månader.
-
-Det som sägs i första stycket gäller också den som begår en
-sådan gärning som avses i första stycket 3 av grov oaktsamhet.
-
-Om brott som avses i första stycket är att anse som grovt, döms
-till fängelse i högst två år. Lag (2008:83).
+1 a § Har upphävts genom lag (2013:432).
 
 2 § Registreringsmyndigheten kan vid vite förelägga
 verkställande direktören eller styrelseledamot att fullgöra
@@ -3430,3 +3424,10 @@ kommit in till tingsrätten före ikraftträdandet.
 
 2. Äldre bestämmelser gäller fortfarande i fråga om
 skyldigheter enligt skattebetalningslagen (1997:483).
+
+2013:736
+
+1. Denna lag träder i kraft den 1 november 2013.
+
+2. Äldre föreskrifter gäller fortfarande för överklagande av
+beslut som länsstyrelsen har meddelat före ikraftträdandet.
