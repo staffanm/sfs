@@ -1325,9 +1325,11 @@ Förordning (2008:1283).
 får inte lämnas ut för ett fordon om användningsförbud råder
 för det enligt 6 kap. 1 § vägtrafikskattelagen (2006:227), 8 §
 lagen (2006:228) med särskilda bestämmelser om fordonsskatt,
+
 18 § bilskrotningslagen (1975:343) eller 25 § lagen (1997:1137)
 om vägavgift för vissa tunga fordon. Detsamma gäller om
 fordonets registreringsskyltar har tagits om hand enligt 5 kap.
+
 8 § taxitrafiklagen (2012:211) och fordonet är anmält för
 användning i taxitrafik enligt den lagen.
 
@@ -2633,7 +2635,6 @@ skattebetalningslagen (1997:483).
 Trafikverket och uppgift om att sökanden ska avlägga förarprov
 hos annan än Trafikverket i ärenden om registrering som
 inletts före ikraftträdandet gäller äldre bestämmelser.
-
 2012:7
 
 1. Denna förordning träder i kraft den 19 januari 2013.
@@ -2650,7 +2651,6 @@ före ikraftträdandet gäller äldre bestämmelser.
 
 Denna förordning träder i kraft den 1 januari 2013 i fråga om 4 kap.
 12 a § och 5 kap. 1 a § samt i övrigt den 1 juni 2012.
-
 
 Bilaga 1
 
@@ -2736,10 +2736,10 @@ Antal ägare
 
 Avgifter
 
-- vägavgift enligt lagen (1997:1137) om vägavgift för vissa
+ vägavgift enligt lagen (1997:1137) om vägavgift för vissa
 tunga fordon
 
-- övriga avgifter som rör fordon
+ övriga avgifter som rör fordon
 
 Avregistrering
 
@@ -2756,23 +2756,23 @@ föreläggandet
 
 Försäkring
 
-- företag
+ företag
 
-- datum för tecknande
+ datum för tecknande
 
-- försäkring saknas
+ försäkring saknas
 
 Högsta totalvikten på ett släpfordon för att det ska få dras
-av en bil som framförs av förare med körkortsbehörighet B
+av en bil som framförs av förare med körkortsbehörighet B
 
 Importör som för in motorfordon för yrkesmässig försäljning
 till återförsäljare och vars verksamhet har större omfattning
-eller sådan importör för vilken Transportstyrelsen enligt
-20 kap. 4 § denna förordning har meddelat föreskrifter om
-eller i ett enskilt fall beslutat att förordningen ska
-gälla
-Innehav av fordon på grund av kreditköp med förbehåll
-om återtaganderätt
+eller sådan importör för vilken Transportstyrelsen enligt 20
+kap. 4 § denna förordning har meddelat föreskrifter om eller
+i ett enskilt fall beslutat att förordningen ska gälla
+
+Innehav av fordon på grund av kreditköp med förbehåll om
+återtaganderätt
 
 Innehav av fordon med nyttjanderätt för en bestämd tid om
 minst ett år
@@ -2783,28 +2783,28 @@ Påställning
 
 Registrering
 
-- datum för registrering i Sverige
+ datum för registrering i Sverige
 
-- datum för första registrering utomlands för
-privatimporterat fordon
+ datum för första registrering av importerat fordon oavsett
+första registreringsland
 
 Registreringsbevis med kontrollnummer
 
 Registreringsskylt
 
-- ersättningsskylt
+ ersättningsskylt
 
-- stulen skylt
+ stulen skylt
 
-- omhändertagen skylt
+ omhändertagen skylt
 
 Skatter
 
-- fordonsskatt
+ fordonsskatt
 
-- saluvagnsskatt
+ saluvagnsskatt
 
-- skattebefrielse enligt lagen (1976:661) om immunitet och
+ skattebefrielse enligt lagen (1976:661) om immunitet och
 privilegier i vissa fall
 
 Tillverkare av motorfordon som yrkesmässigt tillverkas inom
@@ -3054,7 +3054,7 @@ Transportstyrelsens tillsyn enligt 5 kap. 3 a § fordonslagen
 
 Uppgifter som behövs av administrativa skäl vid handläggningen
 av frågor om fordonsregistrering
-Förordning (2013:77).
+Förordning (2013:987).
 
 Bilaga 2
 
