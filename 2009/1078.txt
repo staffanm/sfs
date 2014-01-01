@@ -1,41 +1,30 @@
-
-
 Inledande bestämmelser
 
-1 § Denna förordning kompletterar bestämmelserna i lagen
-(2009:1079) om tjänster på den inre marknaden. Förordningen
-syftar till att genomföra Europaparlamentets och rådets
-direktiv 2006/123/EG av den 12 december 2006 om tjänster på
-den inre marknaden (tjänstedirektivet), Kommissionens beslut
-2008/49/EG av den 12 december 2007 om genomförandet av
-informationssystemet för den inre marknaden (IMI) med
-avseende på skyddet av personuppgifter och Kommissionens
-beslut 2009/739/EG av den 2 oktober 2009 om rutiner för
-utbyte av information på elektronisk väg mellan
-medlemsstaterna enligt kapitel VI i Europaparlamentets och
-rådets direktiv 2006/123/EG om tjänster på den inre
-marknaden.
+1 § Denna förordning innehåller bestämmelser om tjänster som 
+omfattas av Europaparlamentets och rådets direktiv 
+2006/123/EG av den 12 december 2006 om tjänster på den inre 
+marknaden (tjänstedirektivet). Förordningen kompletterar 
+Europarlamentets och rådets förordning (EU) nr 1024/2012 av 
+den 25 oktober 2012 om administrativt samarbete genom 
+informationssystemet för den inre marknaden och om upphävande 
+av kommissionens beslut 2008/49/EG (IMI-förordningen). 
 
-De definitioner som används i förordningen har samma innebörd
-som i lagen (2009:1079) om tjänster på den inre marknaden.
+De definitioner som används i förordningen har samma innebörd 
+som i lagen (2009:1079) om tjänster på den inre marknaden. 
 
-Bestämmelser om tyst beviljande, handläggningstider och
-godtagande av intyg m.m. från andra länder inom Europeiska
-ekonomiska samarbetsområdet (EES) finns i andra
-författningar.
+Bestämmelser om tyst beviljande, handläggningstider och 
+godtagande av intyg m.m. från andra länder inom Europeiska 
+ekonomiska samarbetsområdet (EES) finns i andra 
+författningar. Förordning (2013:1124).
 
 Anmälan av krav
 
-2 § En statlig behörig myndighet som avser att fatta beslut
-om krav som avses i artiklarna 15.7 och 39.5 andra stycket
-tjänstedirektivet ska anmäla förslaget till Kommerskollegium
-och ange skälen till kraven. Kommerskollegium ska anmäla
-förslag till Europeiska gemenskapernas kommission
-(kommissionen).
-
-Regeringskansliet beslutar om anmälan till Kommerskollegium
-av förslag till lag eller förordning som avser krav enligt
-första stycket.
+2 § En behörig myndighet som avser att fatta beslut om krav 
+som avses i artikel 15.7 och artikel 39.5 andra stycket i 
+tjänstedirektivet ska anmäla förslaget till Kommerskollegium 
+och ange skälen till kraven. Kommerskollegium ska anmäla 
+förslaget till Europeiska kommissionen (kommissionen). 
+Förordning (2013:1124).
 
 3 § Kommerskollegium ska så snart som möjligt underrätta
 Regeringskansliet och Tillväxtverket om anmälningar av krav
@@ -174,35 +163,28 @@ efterfrågas av tjänstemottagare där.
 
 Informationssystemet för den inre marknaden
 
-10 § Informationssystemet för den inre marknaden (Internal
-Market Information System, IMI) ska användas för utbyte av
-information på elektronisk väg för myndighetssamarbetet
-mellan behöriga myndigheter inom EES.
+10 § En behörig myndighet ska vid registrering i 
+informationssystemet för den inre marknaden (IMI) utse två 
+eller flera fysiska personer som användare i IMI enligt 
+följande:
 
-Kommerskollegium är samordnande myndighet för
-myndighetssamarbetet enligt tjänstedirektivet i Sverige. Den
-samordnande myndigheten ska underlätta för behöriga
-myndigheter i Sverige och andra länder inom EES att samarbeta
-i IMI, besvara frågor när en svensk behörig myndighet saknas,
-bistå behöriga myndigheter från ett annat land inom EES att
-hitta rätt myndighet i Sverige samt underrätta kommissionen i
-de fall då andra länder inom  EES inte uppfyller sina
-skyldigheter i fråga om ömsesidigt bistånd.
-
-Den samordnande myndigheten får utse delegerade samordnare i
-IMI som bistår behöriga myndigheter.
-
-11 § En behörig myndighet ska vid registrering i
-informationssystemet IMI utse två eller flera fysiska
-personer som användare i IMI enligt följande:
-
- minst en användare som är handläggare med behörighet att
+– minst en användare som är handläggare med behörighet att 
 skicka och besvara förfrågningar, och
 
- en användare som är lokal dataadministratör med ansvar för
-den lokala datahanteringen hos myndigheten.
+– en användare som är lokal dataadministratör med ansvar för 
+den lokala datahanteringen hos myndigheten. 
+Förordning (2013:1124).
 
 Informationsutbyte mellan myndigheter
+
+11 § Kommerskollegium är samordnande myndighet för 
+myndighetssamarbetet enligt tjänstedirektivet i Sverige. Den 
+samordnande myndigheten ska besvara frågor när en svensk 
+behörig myndighet saknas, bistå behöriga myndigheter från ett 
+annat land inom EES att hitta rätt myndighet i Sverige samt 
+underrätta kommissionen i de fall då andra länder inom EES 
+inte uppfyller sina skyldigheter i fråga om ömsesidigt 
+bistånd. Förordning (2013:1124).
 
 12 § En behörig myndighet i Sverige får begära information av
 en behörig myndighet i ett annat land inom EES där en
@@ -259,11 +241,12 @@ informera tjänsteleverantören om detta.
 
 Underrättelse om varning
 
-15 § Konsumentverket är samordnande myndighet för varningar i
-informationssystemet IMI (varningssamordnare).
+15 § Konsumentverket är samordnande myndighet för varningar 
+(varningssamordnare) enligt 10 och 14 §§ lagen (2009:1079) om 
+tjänster på den inre marknaden. 
 
-Konsumentverket ska för detta disponera en elektronisk
-brevlåda kopplad till IMI.
+Konsumentverket ska använda IMI och disponera en elektronisk 
+brevlåda kopplad till IMI. Förordning (2013:1124).
 
 16 § En behörig myndighet som får kännedom om en
 tjänsteverksamhet som kan medföra allvarlig skada för
@@ -296,16 +279,16 @@ ska den behöriga myndigheten föreslå att varningen avslutas
 när det inte längre finns risk för allvarlig skada för
 människors hälsa eller säkerhet eller på miljön.
 
-20 § Varningar, ytterligare information, frågor,
-återkallelser av varningar, rättelser av information och
-förslag att avsluta en varning eller invändningar mot förslag
-att avsluta en varning ska sändas genom informationssystemet
-IMI.
+20 § Varningar, ytterligare information, frågor, 
+återkallelser av varningar, rättelser av information och 
+förslag att avsluta en varning eller invändningar mot förslag 
+att avsluta en varning ska sändas genom IMI. 
+Förordning (2013:1124).
 
 Verkställighetsföreskrifter
 
-21 § Kommerskollegium får meddela föreskrifter om
-informationsutbyte i informationssystemet IMI.
+21 § Kommerskollegium får meddela föreskrifter om 
+informationsutbyte i IMI. Förordning (2013:1124).
 
 22 § Tillväxtverket får meddela föreskrifter om den
 elektroniska information som ska tillhandahållas
