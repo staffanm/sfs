@@ -95,11 +95,15 @@ som
 
 2. är permitterad utan lön,
 
-3. är tjänstledig utan lön, eller
+3. är tjänstledig utan lön,
 
 4. har rätt till etableringsersättning enligt lagen
 (2010:197) om etableringsinsatser för vissa nyanlända
-invandrare.
+invandrare, eller
+
+5. deltar i korttidsarbete som berättigar arbetsgivaren till
+preliminärt stöd enligt lagen (2013:948) om stöd vid
+korttidsarbete.
 
 Ersättning enligt grundförsäkringen lämnas inte till personer
 som enligt 37 § första stycket lagen (1997:239) om
@@ -109,7 +113,7 @@ tid av ett år från uteslutningen.
 Regeringen eller den myndighet som regeringen bestämmer
 meddelar föreskrifter om undantag från första stycket samt om
 de villkor för rätt till ersättning som i sådana fall ska
-gälla. Lag (2013:152).
+gälla. Lag (2013:958).
 
 11 § En sökande som avvisar en anvisning till jobbgarantin
 för ungdomar har inte rätt till ersättning. Lag (2013:152).
@@ -152,11 +156,17 @@ eller ekonomiskt skadestånd som motsvarar lön.
 
 Tid med avgångsvederlag beräknas med utgångspunkt i
 avgångsvederlagets storlek i förhållande till den sökandes
-genomsnittliga inkomst per månad i anställningen under en viss
-period. Tid med ekonomiskt skadestånd som motsvarar lön
+genomsnittliga inkomst per månad i anställningen under en
+viss period. Tid med ekonomiskt skadestånd som motsvarar lön
 beräknas till det antal månader som ersättningen avser.
 Regeringen eller den myndighet som regeringen bestämmer får
-meddela närmare föreskrifter om beräkningen. Lag (2006:470).
+meddela närmare föreskrifter om beräkningen.
+
+Tid med arbetstidsminskning eller partiell arbetsbefrielse
+som berättigar arbetsgivaren till preliminärt stöd enligt
+lagen (2013:948) om stöd vid korttidsarbete ska dock inte
+jämställas med förvärvsarbete enligt första stycket 2.
+Lag (2013:958). Lag (2013:958).
 
 13 a § I den mån det behövs för att uppfylla
 arbetsvillkoret jämställs med förvärvsarbete även tid då
@@ -198,8 +208,8 @@ Ramtid och överhoppningsbar tid
 
 15 a § Med ramtid avses de tolv månader som närmast föregått
 den månad när den sökande anmält sig som arbetslös hos den
-offentliga arbetsförmedlingen. Om anmälningsmånaden innehåller
-förvärvsarbete, tid med föräldrapenning eller
+offentliga arbetsförmedlingen. Om anmälningsmånaden
+innehåller förvärvsarbete, tid med föräldrapenning eller
 totalförsvarsplikt i sådan omfattning att den kan
 tillgodoräknas i ett arbetsvillkor, ska den dock ingå i
 ramtiden.
@@ -207,10 +217,13 @@ ramtiden.
 Av 1617 a §§ följer att viss tid är överhoppningsbar vid
 fastställande av ramtiden.
 
-En månad som innehåller förvärvsarbete, tid med föräldrapenning
-eller totalförsvarsplikt i sådan omfattning att den kan
-tillgodoräknas i ett arbetsvillkor är dock inte
-överhoppningsbar. Lag (2010:2030).
+En månad som innehåller förvärvsarbete, tid med
+föräldrapenning eller totalförsvarsplikt i sådan omfattning
+att den kan tillgodoräknas i ett arbetsvillkor är dock inte
+överhoppningsbar.
+
+Tredje stycket gäller inte för en sökande som avses i 16 d §.
+Lag (2013:958).
 
 15 b § För en sökande som deltar i ett
 arbetsmarknadspolitiskt program med aktivitetsstöd och som
@@ -296,6 +309,19 @@ särskilt anställningsstöd, eller
 (2010:197) om etableringsinsatser för vissa nyanlända
 invandrare. Lag (2010:2030).
 
+16 d § När ramtid ska bestämmas räknas inte heller månader då
+den sökande har deltagit i korttidsarbete för vilket
+preliminärt stöd har lämnats enligt lagen (2013:948) om stöd
+vid korttidsarbete, om det inte är förmånligare för sökanden
+att sådan tid räknas med.
+
+Om sökanden har deltagit i korttidsarbete under en
+sammanhängande period och arbetsgivaren har fått preliminärt
+stöd för någon del av denna period men ansökan om sådant stöd
+ännu inte har lämnats in eller prövats för aktuell månad, ska
+ramtid enligt första stycket bestämmas på samma sätt som när
+preliminärt stöd har lämnats för månaden. Lag (2013:958).
+
 17 § När ramtid ska bestämmas räknas inte heller tid då den
 sökande
 
@@ -308,11 +334,11 @@ lagen (1994:1809) om totalförsvarsplikt.
 Tid som enligt 13 a § har jämställts med förvärvsarbete ska
 dock räknas in i ramtiden. Lag (2010:2030).
 
-17 a § Tid som enligt 16, 16 a, 16 b, 16 c, 17 eller 23 § inte
+17 a § Tid som enligt 16, 16 a, 16 b, 16 c, 16 d, 17 eller 23 § inte
 ska räknas in i ramtiden får omfatta högst fem år.
 
 Detta gäller dock inte för en sökande som avses i 16 c § första
-stycket 1. Lag (2010:2031).
+stycket 1. Lag (2013:958).
 
 18 § Regeringen eller den myndighet som regeringen bestämmer
 meddelar närmare föreskrifter om fastställande av ramtid och
@@ -1189,7 +1215,6 @@ före den 1 januari 1999 gäller 22 § i sin äldre lydelse.
 gäller dock fortfarande för sökande som vid ikraftträdandet
 uppfyllt villkoren och ansöker om ersättning senast den 31 mars
 2001.
-
 3. Bestämmelsen om ersättningsperiodens längd i 22 § skall dock
 gälla i dess äldre lydelse för den som före ikraftträdandet har
 fyllt 57 år och har rätt till ersättning på grund av en
@@ -1288,7 +1313,6 @@ Ansökan om rätt till ersättning måste dock ha kommit in till
 arbetslöshetskassan senast vid utgången av februari 2007. Vid
 fastställande av dagpenning för den som har uppfyllt villkoren
 enligt 19 § skall den upphävda 30 a § tillämpas.
-
 7. För den som karenstiden enligt 21 § har börjat löpa innan
 lagen träder i kraft skall, vid beräkning av sökandens
 normalarbetstid under den första ersättningsperioden därefter,
