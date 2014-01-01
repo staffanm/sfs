@@ -2,7 +2,7 @@
 
 Allmän bestämmelse
 
-1 § Statistiska centralbyrån skall varje utjämningsår beräkna
+1 § Statistiska centralbyrån ska varje utjämningsår beräkna
 
 1. skatteutjämningsunderlag, standardkostnad och
 strukturkostnad enligt 3 § lagen (2004:773) om
@@ -21,16 +21,16 @@ kommunalekonomisk utjämning,
 kommunalekonomisk utjämning,
 
 6. strukturbidrag enligt 11 och 12 §§ lagen om
-kommunalekonomisk utjämning,'
-
-7. införandebidrag enligt 13 och 14 §§ lagen om
 kommunalekonomisk utjämning,
+
+7. införandebidrag enligt 13 § lagen om kommunalekonomisk
+utjämning,
 
 8. regleringsbidrag enligt 15 § lagen om kommunalekonomisk
 utjämning, och
 
 9. regleringsavgift enligt 16 § lagen om kommunalekonomisk
-utjämning.
+utjämning. Förordning (2013:976).
 
 Inkomstutjämning
 
@@ -45,9 +45,9 @@ Uppsala                 19,14           9,94
 
 Södermanlands           19,93           9,15
 
-Östergötlands           18,68           10,40
+Östergötlands           18,93           10,15
 
-Jönköpings              19,29           9,79
+Jönköpings              19,14           9,94
 
 Kronobergs              20,16           8,92
 
@@ -71,7 +71,7 @@ Dalarnas                19,99           9,09
 
 Gävleborgs              19,31           9,77
 
-Västernorrlands         20,74           8,34
+Västernorrlands         21,04           8,04
 
 Jämtlands               20,52           8,56
 
@@ -85,14 +85,16 @@ kommuner.
 
 För en kommun som inte ingår i ett landsting är skattesatsen
 9,48 procent vid beräkning av inkomstutjämningsbidrag för
-landsting. Förordning (2012:704).
+landsting. Förordning (2013:976).
 
 3 § Vid beräkning av inkomstutjämningsavgifter för kommuner
-och för landsting ska följande länsvisa skattesatser
-tillämpas.
+och för landsting för den del av det uppräknade
+skatteunderlaget som överstiger 125 procent av den uppräknade
+medelskattekraften multiplicerad med antalet invånare i
+kommunen respektive landstinget ska följande länsvisa
+skattesatser tillämpas.
 
-Län
-                        Kommuner        Landsting
+Län                     Kommuner        Landsting
 
 Stockholms              16,96           9,53
 
@@ -100,9 +102,9 @@ Uppsala                 17,07           9,42
 
 Södermanlands           17,86           8,63
 
-Östergötlands           16,61           9,88
+Östergötlands           16,86           9,63
 
-Jönköpings              17,22           9,27
+Jönköpings              17,07           9,42
 
 Kronobergs              18,09           8,40
 
@@ -126,7 +128,7 @@ Dalarnas                17,92           8,57
 
 Gävleborgs              17,24           9,25
 
-Västernorrlands         18,67           7,82
+Västernorrlands         18,97           7,52
 
 Jämtlands               18,45           8,04
 
@@ -134,13 +136,80 @@ Västerbottens           18,48           8,01
 
 Norrbottens             18,38           8,11
 
-För en kommun som inte ingår i ett landsting är skattesatsen
-17,54 procent vid beräkning av inkomstutjämningsavgift för
-kommuner.
+För en kommun som inte ingår i ett landsting är skattesatsen,
+för den del av det uppräknade skatteunderlaget som överstiger
+125 procent av den uppräknade medelskattekraften
+multiplicerad med antalet invånare i kommunen, 17,54 procent
+vid beräkning av inkomstutjämningsavgift för kommuner.
 
-För en kommun som inte ingår i ett landsting är skattesatsen
-8,95 procent vid beräkning av inkomstutjämningsavgift för
-landsting. Förordning (2012:704).
+För en kommun som inte ingår i ett landsting är skattesatsen,
+för den del av det uppräknade skatteunderlaget som överstiger
+125 procent av den uppräknade medelskattekraften
+multiplicerad med antalet invånare i kommunen, 8,95 procent
+vid beräkning av inkomstutjämningsavgift för landsting.
+Förordning (2013:976).
+
+3 a § Vid beräkning av inkomstutjämningsavgifter för kommuner
+och för landsting för den del av det uppräknade
+skatteunderlaget som utgör högst 125 procent av den
+uppräknade medelskattekraften multiplicerad med antalet
+invånare i kommunen respektive landstinget ska följande
+länsvisa skattesatser tillämpas.
+
+Län                     Kommuner        Landsting
+
+Stockholms              11,80           6,90
+
+Uppsala                 11,91           6,79
+
+Södermanlands           12,70           6,00
+
+Östergötlands           11,70           7,00
+
+Jönköpings              11,91           6,79
+
+Kronobergs              12,93           5,77
+
+Kalmar                  13,13           5,57
+
+Blekinge                12,33           6,37
+
+Skåne                   12,47           6,23
+
+Hallands                12,05           6,65
+
+Västra Götalands        12,18           6,52
+
+Värmlands               13,22           5,48
+
+Örebro                  11,80           6,90
+
+Västmanlands            12,96           5,74
+
+Dalarnas                12,76           5,94
+
+Gävleborgs              12,08           6,62
+
+Västernorrlands         13,81           4,89
+
+Jämtlands               13,29           5,41
+
+Västerbottens           13,32           5,38
+
+Norrbottens             13,22           5,48
+
+För en kommun som inte ingår i ett landsting är skattesatsen,
+för den del av det uppräknade skatteunderlaget som utgör
+högst 125 procent av den uppräknade medelskattekraften
+multiplicerad med antalet invånare i kommunen, 12,38 procent
+vid beräkning av inkomstutjämningsavgift för kommuner.
+
+För en kommun som inte ingår i ett landsting är skattesatsen,
+för den del av det uppräknade skatteunderlaget som utgör
+högst 125 procent av den uppräknade medelskattekraften
+multiplicerad med antalet invånare i kommunen, 6,32 procent
+vid beräkning av inkomstutjämningsavgift för landsting.
+Förordning (2013:976).
 
 4 § Inkomstutjämningsbidrag och inkomstutjämningsavgift anges i
 kronor per invånare i kommunen respektive landstinget och
@@ -163,82 +232,90 @@ Förskola, fritidshem och annan pedagogisk verksamhet
 
 6 § En kommuns standardkostnad för förskola, fritidshem och
 sådan pedagogisk verksamhet som avses i 25 kap. skollagen
-(2010:800) beräknas genom att en åldersersättning
-multipliceras med ett volymindex och två korrigeringsfaktorer.
+(2010:800) beräknas genom att två åldersersättningar för barn
+i åldersgrupperna 15 år respektive 612 år summeras. Summan
+multipliceras med en korrigeringsfaktor.
 
-Åldersersättningen beräknas enligt följande. Andelen barn i
-kommunen delas in i följande åldersgrupper: 1-3, 4-5, 6 och 7-
-9 år. Andelen barn i kommunen i respektive åldersgrupp
-multipliceras med en genomsnittlig kostnad per barn i
-förskola, fritidshem och annan pedagogisk verksamhet i
-respektive åldersgrupp, varefter produkterna summeras.
-
-Den enligt andra stycket beräknade åldersersättningen
-multipliceras med ett volymindex. Volymindex beräknas för
-kommunen utifrån föräldrarnas förvärvsfrekvens, kommunens
-skattekraft och befolkningstäthet. Värdena för respektive
-variabel multipliceras med de parametervärden som anges i
-bilagan till denna förordning.
-
-Den första korrigeringsfaktorns värde bestäms så att den
-genomsnittliga åldersersättning som vägts med befolkningen den
-31 december två år före utjämningsåret överensstämmer med den
-genomsnittliga standardkostnad för förskola, fritidshem och
-annan pedagogisk verksamhet som anges i bilagan till denna
+Åldersersättningarna beräknas enligt följande. Andelen barn i
+kommunen i respektive åldersgrupp multipliceras med den
+beräknade genomsnittskostnaden per barn i respektive
+åldersgrupp i landet. Genomsnittskostnaden per barn i
+respektive åldersgrupp beräknas utifrån den genomsnittliga
+standardkostnaden för förskola, fritidshem och annan
+pedagogisk verksamhet, som anges i bilagan till denna
 förordning.
 
-Den andra korrigeringsfaktorns värde bestäms så att den
-genomsnittliga standardkostnad som vägts med befolkningen den
-31 december två år före utjämningsåret överensstämmer med den
-genomsnittliga standardkostnad för förskola, fritidshem och
-annan pedagogisk verksamhet som anges i bilagan till denna
-förordning. Förordning (2011:680).
+För åldersgruppen 15 år korrigeras skillnader i vistelsetid
+genom ett tilllägg till eller avdrag från åldersersättningen.
+Tillägg och avdrag för skillnader i vistelsetid baseras på
+den genomsnittliga vistelsetiden år 2005 för den kommungrupp
+som kommunen tillhörde enligt 2005 års kommungruppsindelning,
+och reduceras med 50 procent. För åldersgruppen 612 år
+korrigeras skillnader i inskrivningsgrad genom ett tillägg
+till eller avdrag från åldersersättningen. Tillägg och avdrag
+för skillnader i inskrivningsgrad baseras på den
+genomsnittliga andelen inskrivna 612-åringar i fritidshem
+för den kommungrupp som kommunen tillhörde enligt 2011 års
+kommungruppsindelning. Samtliga kommuner får därefter ett
+invånarbaserat avdrag från tilläggen till eller avdragen från
+respektive åldersersättning, som beräknas så att summan av
+avdragen från respektive åldersersättning motsvarar summan av
+tilläggen till denna.
+
+Korrigeringsfaktorns värde bestäms så att den genomsnittliga
+standardkostnaden, som vägts med befolkningen den 31 december
+två år före utjämningsåret, överensstämmer med den
+genomsnittliga standardkostnaden för förskola, fritidshem och
+annan pedagogisk verksamhet, som anges i bilagan till denna
+förordning. Förordning (2013:976).
 
 Förskoleklass och grundskola
 
-7 § En kommuns standardkostnad för förskoleklass och grundskola
-beräknas genom att andelen barn i kommunen i åldersgrupperna 6
-och 7-15 år multipliceras med den beräknade
+7 § En kommuns standardkostnad för förskoleklass och
+grundskola beräknas genom att andelen barn i kommunen i
+åldersgrupperna 6 och 715 år multipliceras med den beräknade
 genomsnittskostnaden per barn i respektive åldersgrupp i
-landet. Genomsnittskostnaden per barn i åldersgruppen 6
-respektive 7-15 år beräknas utifrån den genomsnittliga
-standardkostnad för förskoleklassen respektive grundskolan som
-anges i bilagan till denna förordning.
+landet. Genomsnittskostnaden per barn i respektive
+åldersgrupp beräknas utifrån den genomsnittliga
+standardkostnaden för förskoleklass respektive grundskola,
+som anges i bilagan till denna förordning.
 
-För kostnader som avser modersmålsundervisning och undervisning
-i svenska som andraspråk beräknas ett tillägg till den enligt
-första stycket beräknade kostnaden. Tillägget beräknas utifrån
-andelen barn med utländsk bakgrund i åldersgruppen 7-15 år i
-kommunen multiplicerad med en genomsnittlig kostnad per barn i
-åldersgruppen 7-15 år i landet för modersmålsundervisning och
-undervisning i svenska som andraspråk. Från detta tillägg görs
-avdrag för den genomsnittliga ersättningen per invånare för
+För kostnader som avser modersmålsundervisning och
+undervisning i svenska som andraspråk beräknas ett tillägg
+till den enligt första stycket beräknade kostnaden. Tillägget
+beräknas utifrån andelen barn med utländsk bakgrund i
+åldersgruppen 715 år i kommunen multiplicerad med en
+genomsnittlig kostnad per barn i åldersgruppen 715 år i
+landet för modersmålsundervisning och undervisning i svenska
+som andraspråk. Från detta tillägg görs avdrag för den
+genomsnittliga ersättningen per invånare för
 modersmålsundervisning och svenska som andraspråk.
 
 Kommuner som har merkostnader för små skolor och skolskjutsar
 får ett tillägg till den enligt första stycket beräknade
-kostnaden. Tillägget beräknas utifrån en teoretisk organisation
-av skolor i olika storlekar och kostnadsklasser, med elevernas
-geografiska spridning i kommunen åren 1997, 1999 och 2001 som
-grund. Samtliga kommuner får ett invånarbaserat avdrag, som
-beräknas så att summan av avdragen motsvarar summan av
-tilläggen.
+kostnaden. Tillägget beräknas utifrån en teoretisk
+organisation av skolor i olika storlekar och kostnadsklasser,
+med elevernas geografiska spridning i kommunen år 2009 som
+grund. Samtliga kommuner får därefter ett invånarbaserat
+avdrag, som beräknas så att summan av avdragen motsvarar
+summan av tilläggen. Förordning (2013:976).
 
 Gymnasieskola
 
-8 § En kommuns standardkostnad för gymnasieskola beräknas genom
-att andelen ungdomar i kommunen i åldersgruppen 16-18 år
-multipliceras med den beräknade genomsnittskostnaden per
+8 § En kommuns standardkostnad för gymnasieskola beräknas
+genom att andelen ungdomar i kommunen i åldersgruppen 1618
+år multipliceras med den beräknade genomsnittskostnaden per
 invånare i den åldersgruppen i landet. Genomsnittskostnaden
-beräknas utifrån den genomsnittliga standardkostnad för
-gymnasieskolan som anges i bilagan till denna förordning.
+beräknas utifrån den genomsnittliga standardkostnaden för
+gymnasieskola, som anges i bilagan till denna förordning.
 
 Kommuner som har merkostnader för resor och inackordering av
-gymnasieelever får ett tillägg till den enligt första stycket
-beräknade kostnaden. Tillägget beräknas utifrån en teoretiskt
-bestämd placering av skolor med hänsyn till befolkningens
-bosättningsmönster år 2001 samt utifrån en beräknad kostnad för
-resor och inackordering. Samtliga kommuner får därefter ett
+gymnasieelever samt för små gymnasieskolor får ett tillägg
+till den enligt första stycket beräknade kostnaden. Tillägget
+beräknas utifrån en teoretiskt bestämd placering av skolor
+med hänsyn till befolkningens bosättningsmönster år 2009 samt
+utifrån en beräknad kostnad för resor, inackordering och små
+gymnasieskolor. Samtliga kommuner får därefter ett
 invånarbaserat avdrag, som beräknas så att summan av avdragen
 motsvarar summan av tilläggen.
 
@@ -246,99 +323,116 @@ Kommuner får ett tillägg till eller avdrag från den enligt
 första stycket beräknade kostnaden på grund av elevernas
 programval. Tillägget eller avdraget beräknas utifrån den
 genomsnittliga kostnaden två år före och tre år före
-utjämningsåret för de program som kommunens elever har valt.
+utjämningsåret för de program som kommunens elever har
+valt. Förordning (2013:976).
 
 Individ- och familjeomsorg
 
 9 § En kommuns standardkostnad för individ- och familjeomsorg
-beräknas med hjälp av två modeller, en för barn- och
-ungdomsvård och en för ekonomiskt bistånd, missbrukarvård och
-övrig verksamhet.
-
-10 § Kommunens standardkostnad för barn- och ungdomsvård
-beräknas utifrån
-
-1. andelen barn till ensamstående föräldrar,
-
-2. andelen barn med utländsk bakgrund,
-
-3. andelen lagförda ungdomar, och
-
-4. kommunens folkmängd.
+beräknas utifrån andelen arbetslösa utan ersättning, andelen
+lågutbildade personer födda i Sverige i åldern 2040 år,
+roten ur tätortsbefolkningen i kommunen, andelen av
+befolkningen boende i flerfamiljshus byggda 19651975 och
+andelen av befolkningen som fått ekonomiskt bistånd under en
+längre tid än sex månader.
 
 Värdena för respektive variabel multipliceras med de
 parametervärden som anges i bilagan till denna förordning.
 
-11 § Kommunens standardkostnad för ekonomiskt bistånd,
-missbrukarvård och övrig verksamhet beräknas utifrån
-
-1. andelen ensamstående kvinnor med barn,
-
-2. andelen flyktingar och övriga utrikes födda,
-
-3. andelen arbetslösa utan arbetslöshetsersättning,
-
-4. andelen män i åldersgruppen 25-64 år med låg inkomst, och
-
-5. ett täthetsindex.
-
-Värdena för respektive variabel multipliceras med de
-parametervärden som anges i bilagan till denna förordning.
-
-12 § Standardkostnaderna för respektive modell multipliceras
-med en korrigeringsfaktor, varefter summan av produkterna
-bildar standardkostnaden för individ- och familjeomsorg.
+Standardkostnaden för modellen multipliceras med en
+korrigeringsfaktor, varefter produkten utgör
+standardkostnaden för individ- och familjeomsorg.
 Korrigeringsfaktorns värde bestäms så att den genomsnittliga
-standardkostnaden som vägts med befolkningen den 31 december
-två år före utjämningsåret överensstämmer med den
-genomsnittliga standardkostnaden för barn- och ungdomsvård
-respektive ekonomiskt bistånd, missbrukarvård och övrig
-verksamhet som anges i bilagan till denna förordning.
+standardkostnaden, som vägts med befolkningen den 31 december
+två år före utjämningsåret, överensstämmer med den
+genomsnittliga standardkostnaden för individ- och
+familjeomsorg, som anges i bilagan till denna förordning.
+Förordning (2013:976).
+
+10 § Har upphävts genom förordning (2013:976).
+
+11 § Har upphävts genom förordning (2013:976).
+
+12 § Har upphävts genom förordning (2013:976).
 
 Barn och ungdomar med utländsk bakgrund
 
 13 § En kommuns standardkostnad för barn och ungdomar med
-utländsk bakgrund beräknas utifrån andelen barn och ungdomar i
-åldern 0-19 år som är födda eller som har minst en förälder
+utländsk bakgrund beräknas utifrån andelen barn och ungdomar
+i åldern 019 år som är födda eller som har minst en förälder
 född utanför Norden och de länder som var medlemmar i EU år
 2003.
 
-Kommuner får ett tillägg på 75 kronor per invånare för varje
-procentenhet som andelen barn och ungdomar med utländsk
-bakgrund överstiger den genomsnittliga andelen för landet.
+Andelen barn och ungdomar med utländsk bakgrund beräknas på
+församlingsnivå per den 31 december 2009.
+
+Ersättning beräknas utifrån de församlingar som har en högre
+andel barn och ungdomar med utländsk bakgrund jämfört med
+riksgenomsnittet. Ersättningen beräknas som 75 kronor per
+invånare i dessa församlingar för varje procentenhet som
+andelen barn och ungdomar med utländsk bakgrund i
+församlingarna överstiger den genomsnittliga andelen för
+landet. Förordning (2013:976).
 
 Äldreomsorg
 
-14 § En kommuns standardkostnad för äldreomsorg beräknas enligt
-följande. En normkostnad beräknas per kön och civilstånd för
-var och en av åldersgrupperna 65-69, 70-74, 75-79, 80-84, 85-89
-samt 90 år och äldre fördelade på födda inom och utanför
-Norden. Andelen invånare i kommunen i respektive grupp
-multipliceras med kommunens normkostnad för gruppen, varefter
-produkterna summeras.
+14 § En kommuns standardkostnad för äldreomsorg beräknas
+utifrån summan av följande komponenter:
 
-En kommuns normkostnad för respektive grupp beräknas genom att
-en genomsnittlig kostnad per person i landet fördelade på
-ålder, kön, civilstånd, yrkesbakgrund och födelseland
-multipliceras med antalet personer i kommunen i respektive
-grupp år 2002.
+ en korrigerad åldersersättning baserad på civilstånd,
 
-Summan av en kommuns totala normkostnad multipliceras med en
-korrigeringsfaktor, varefter produkten, efter tillägg och
-avdrag enligt fjärde stycket, utgör standardkostnaden för
-äldreomsorg. Korrigeringsfaktorns värde bestäms så att den
-genomsnittliga standardkostnaden som vägts med befolkningen den
-31 december två år före utjämningsåret överensstämmer med den
-genomsnittliga standardkostnad för äldreomsorg som anges i
-bilagan till denna förordning.
+ korrigering för skillnader i dödlighet,
 
-De glesbygdskommuner som anges i bilagan till denna förordning
-får ett tillägg på fem procent till den enligt första, andra
-och tredje styckena beräknade standardkostnaden. Ett tillägg
-ges för merkostnader för hemtjänst, som beräknas utifrån de
-äldres geografiska spridning i kommunen år 2001. Samtliga
+ tillägg för personer födda utanför Norden,
+
+ tillägg för institutionsboende i glesbygd, och
+
+ tillägg för hemtjänst i glesbygd.
+
+Den korrigerade åldersersättningen beräknas enligt följande.
+Andelen gifta respektive ej gifta personer i kommunen i
+åldersgrupperna 6579, 8089 samt 90 år och äldre
+multipliceras med en genomsnittlig kostnad per person för
+respektive grupp. Därefter summeras produkterna. Summan
+multipliceras med en korrigeringsfaktor, vars värde bestäms
+så att den genomsnittliga standardkostnaden som vägts med
+befolkningen den 31 december två år före utjämningsåret,
+överensstämmer med den genomsnittliga standardkostnaden för
+äldreomsorg, som anges i bilagan till denna förordning.
+
+För kommuner som har fler avlidna personer än förväntat under
+en femårsperiod beräknas ett tillägg, som baseras på
+åldersersättningen per person i åldersgruppen 65 år och
+äldre. Med förväntat antal avlidna avses hur många personer
+som förväntas avlida per kommun om dödligheten skulle vara
+lika stor per ålder som riksgenomsnittet. För övriga kommuner
+beräknas på motsvarande sätt i stället ett avdrag, med den
+skillnaden att avdraget reduceras med 50 procent. Samtliga
+kommuner får därefter ett invånarbaserat avdrag från
+tillägget eller avdraget för skillnader i dödlighet, som
+beräknas så att summan av avdragen för skillnader i dödlighet
+motsvarar summan av tilläggen för skillnader i dödlighet.
+
+För andelen personer i åldersgruppen 65 år och äldre som är
+födda utanför Norden beräknas för varje kommun ett tillägg,
+som uppgår till fem procent av genomsnittskostnaden per
+person i åldersgruppen 65 år och äldre. Samtliga kommuner får
+därefter ett invånarbaserat avdrag, som beräknas så att
+summan av avdragen motsvarar summan av tilläggen.
+
+För de kommuner som har en glesbygdsfaktor som är lägre än
+0,8 beräknas ett tillägg för institutionsboende i glesbygd.
+Glesbygdsfaktorn baseras på tätortsgrad och antalet invånare
+per kvadratkilometer. Närmare anvisningar om beräkningarna
+ges i bilagan till denna förordning. Samtliga kommuner får
+därefter ett invånarbaserat avdrag, som beräknas så att
+summan av avdragen motsvarar summan av tilläggen.
+
+Ett tillägg ges för hemtjänst i glesbygd som beräknas utifrån
+de äldres geografiska spridning i kommunen år 2009. Samtliga
 kommuner får därefter ett invånarbaserat avdrag, som beräknas
 så att summan av avdragen motsvarar summan av tilläggen.
+Förordning (2013:976).
 
 Befolkningsförändringar
 
@@ -349,20 +443,21 @@ befolkningsförändringar beräknas för
 mer än två procent,
 
 2. kommuner som under en femårsperiod haft en minskning av
-antalet barn och ungdomar i åldersgruppen 7-18 år, förutsatt
+antalet barn och ungdomar i åldersgruppen 718 år, förutsatt
 att minskningen överstiger motsvarande minskning i landet med
 minst två procentenheter,
 
-3. kommuner som under en femårsperiod haft en ökning av antalet
-barn och ungdomar i åldersgruppen 7-18 år, förutsatt att
-ökningen överstiger ökningen i landet med minst fem
-procentenheter, och
+3. kommuner som under en femårsperiod haft en ökning av
+antalet barn och ungdomar i åldersgrupperna 15 år och 718
+år, förutsatt att ökningen överstiger ökningen i landet med
+minst två procentenheter för respektive åldersgrupp, och
 
 4. kommuner som under en fyraårsperiod haft en ökning av
-antalet invånare med i genomsnitt minst 1,2 procent per år och
-där folkmängden från och med den 1 november två år före
+antalet invånare med i genomsnitt minst 1,2 procent per år
+och där folkmängden från och med den 1 november två år före
 utjämningsåret till och med den 1 november året före
 utjämningsåret ökat med minst 1,2 procent.
+Förordning (2013:976).
 
 16 § Befolkningsminskning under en tioårsperiod är skillnaden
 mellan befolkningen den 31 december tolv år före utjämningsåret
@@ -389,19 +484,22 @@ femårsperioden, skall den del av befolkningsminskningen i
 kommunen som överstiger två procentenheter multipliceras med 12
 300 kronor per person.
 
-18 § Befolkningsökning under en femårssperiod i åldersgruppen
-7-18 år är skillnaden mellan befolkningen i den aktuella
-åldersgruppen den 31 december sju år före utjämningsåret och
-befolkningen den 31 december två år före utjämningsåret.
+18 § Befolkningsökning under en femårsperiod i
+åldersgrupperna 15 år och 718 år är skillnaden mellan
+befolkningen i de aktuella åldersgrupperna den 31 december
+sju år före utjämningsåret och befolkningen den 31 december
+två år före utjämningsåret.
 
 Den del av befolkningsökningen under en femårsperiod i
-åldersgruppen 7-18 år som överstiger befolkningsökningen i
-landet under samma period i åldersgruppen 7-18 år med fem
-procentenheter multipliceras med 12 000 kronor per person. Har
-antalet personer i landet i åldersgruppen 7-18 år minskat under
-femårsperioden, skall den del av befolkningsökningen i kommunen
-som överstiger fem procentenheter multipliceras med 12 000
-kronor per person.
+åldersgrupperna 15 år och 718 år som överstiger
+befolkningsökningen i landet under samma period i
+åldersgrupperna 15 år och 718 år med två procentenheter
+multipliceras med 12 000 kronor per person. Har antalet
+personer i landet i åldersgrupperna 15 år och 718 år
+minskat under femårsperioden, ska den del av
+befolkningsökningen i kommunen som överstiger två
+procentenheter multipliceras med 12 000 kronor per person.
+Förordning (2013:976).
 
 19 § Befolkningsökning under en fyraårsperiod är skillnaden
 mellan befolkningen den 1 november sex år före utjämningsåret
@@ -419,86 +517,95 @@ Förordning (2005:810).
 
 Bebyggelsestruktur
 
-20 § En kommuns standardkostnad för bebyggelsestruktur beräknas
-som summan av de beräknade standardkostnaderna i 2004 års
-kostnadsutjämning för gator och vägar, uppvärmningskostnader
-samt administration, resor och räddningstjänst och av
-standardkostnaden för byggkostnader som anges i bilagan till
-denna förordning.
+20 § En kommuns standardkostnad för bebyggelsestruktur
+beräknas utifrån summan av följande komponenter:
 
-Vid beräkningen av standardkostnaderna för gator och vägar samt
-administration, resor och räddningstjänst ska underlaget
-uppdateras enligt anvisningar i bilagan till denna förordning.
-Förordning (2007:1271).
+ gator och vägar,
+
+ uppvärmningskostnader,
+
+ byggkostnader,
+
+ administration, samt
+
+ räddningstjänst.
+
+Komponenterna gator och vägar respektive
+uppvärmningskostnader utgörs av den beräknade
+standardkostnaden för gator och vägar respektive
+uppvärmningskostnader i 2004 års kostnadsutjämning.
+Komponenten byggkostnader baseras på variablerna
+byggnadsarbetarlön och klimat. Komponenten administration
+baseras på variablerna invånardistans och folkmängd.
+Komponenten räddningstjänst baseras på variablerna
+invånardistans och lokalt befolkningsunderlag. Närmare
+anvisningar om beräkningarna ges i bilagan till denna
+förordning. Förordning (2013:976).
 
 Löner
 
 20 a § En kommuns standardkostnad för löner beräknas utifrån
-ett löneindex som är baserat på medellönen för kommunanställda
-i angränsande kommuner, köpeskillingen för småhus i kommunen
-och förvärvsarbetsgraden i kommunen. För kommuner med ett värde
-på löneindex som överstiger 100 beräknas ett tillägg
-motsvarande hälften av produkten av den del av löneindexet som
-överstiger 100 och en justerad lönekostnad. Samtliga kommuner
-får därefter ett invånarbaserat avdrag, som beräknas så att
-summan av avdragen motsvarar summan av tilläggen.
+ett löneindex som är baserat på andelen av befolkningen över
+15 år som inte arbetar i kommun eller landsting, det
+genomsnittliga priset för en bostadsrätt i länet och det
+genomsnittliga taxeringsvärdet för småhus i kommunen. För
+kommuner med ett värde på löneindex som överstiger 100
+beräknas ett tillägg motsvarande produkten av den del av
+indexet som överstiger 100 och en justerad lönekostnad,
+dividerad med 100. Samtliga kommuner får därefter ett
+invånarbaserat avdrag, som beräknas så att summan av avdragen
+motsvarar summan av tillläggen.
 
 En kommuns justerade lönekostnad beräknas på följande sätt.
-Kommunens standardkostnad för förskoleverksamhet och
-skolbarnsomsorg, förskoleklass och grundskola, gymnasieskola,
-individ- och familjeomsorg, uppdelad på barn- och ungdomsvård
-och övrig individ- och familjeomsorg, samt äldreomsorg
+Kommunens standardkostnad för förskola, fritidshem och annan
+pedagogisk verksamhet, förskoleklass och grundskola,
+gymnasieskola, individ- och familjeomsorg samt äldreomsorg
 multipliceras med lönekostnadsandelen för respektive
-verksamhet, varefter produkterna summeras. Lönekostnadsandelen
-för vardera verksamheten anges i bilagan till denna förordning.
-Förordning (2007:1271).
+verksamhet, varefter produkterna summeras.
+Lönekostnadsandelen för respektive verksamhet anges i bilagan
+till denna förordning. Förordning (2013:976).
 
 Landsting
 
 Hälso- och sjukvård
 
 21 § Ett landstings standardkostnad för hälso- och sjukvård
-beräknas utifrån befolkningens vårdbehov och hälso- och
-sjukvård i glesbygd.
+beräknas utifrån kostnaderna för befolkningens vårdbehov och
+hälso- och sjukvård i glesbygd. Förordning (2013:976).
 
-Kostnaden för befolkningens vårdbehov beräknas med hjälp av två
-modeller, en för vårdtunga grupper och en för den övriga
-befolkningen.
+22 § Har upphävts genom förordning (2013:976).
 
-22 § I modellen för vårdtunga grupper beräknas
-genomsnittskostnaden för behandlingen av följande
-sjukdomstillstånd: elakartad tumörsjukdom, cerebrovaskulär
-sjukdom, inflammatorisk ledsjukdom, artros, ischemisk
-hjärtsjukdom och hjärtsvikt, höftfraktur, schizofreni, övriga
-psykoser och hiv.
+23 § Kostnaden för befolkningens vårdbehov beräknas utifrån
+summan av en modell för hela befolkningen och en separat
+beräkning för kostnader för hiv-smittade personer.
 
-I modellen beräknas de genomsnittliga kostnaderna för
-behandlingen av vart och ett av de olika sjukdomstillstånden
-efter kön och följande åldersgrupper: 0-19, 20-49, 50-74,
-75-79, 80-89 samt 90 år och äldre. För varje landsting
-multipliceras antalet personer i respektive vårdgrupp med
-nämnda kostnader för vart och ett av de olika
-sjukdomstillstånden efter kön och angivna åldersgrupper.
-
-23 § I modellen för den övriga befolkningen delas den övriga
-befolkningen in i olika grupper utifrån kön, åldersgrupperna 0,
-1-4, 5-9, 10-14, 15-19, 20-24, 25-29, 30-39, 40-49, 50-59, 60-
-69, 70-74 och 75 år och äldre, civilstånd,
-sysselsättningsstatus, inkomst och boendetyp. I varje landsting
-multipliceras antalet personer i respektive grupp med den
+I modellen delas befolkningen in i olika grupper utifrån kön,
+åldersgrupperna 0, 14, 59, 1014, 1519, 2024, 2529,
+3039, 4049, 5059, 6069, 7074 och 75 år och äldre,
+civilstånd, sysselsättningsstatus, inkomst och boendetyp. I
+varje landsting multipliceras antalet personer i respektive
+grupp den 31 december tre år före utjämningsåret med den
 genomsnittliga kostnaden för gruppen.
 
-24 § Summan av den beräknade kostnaden för vårdtunga grupper
-och för övriga grupper divideras med antal invånare i
-landstinget den 31 december två år före utjämningsåret.
+Kostnaderna för hiv-smittade personer beräknas genom att det
+antagna antalet hiv-smittade per 10 000 invånare för varje
+landsting multipliceras med en uppskattad kostnad per
+hiv-smittad person som anges i bilagan till denna
+förordning. Förordning (2013:976).
+
+24 § Summan av den beräknade kostnaden för de olika grupperna
+i modellen för hela befolkningen och kostnaden för
+hiv-smittade personer divideras med antalet invånare i
+landstinget den 31 december tre år före utjämningsåret.
 
 Ett landstings kostnader enligt första stycket multipliceras
 med en korrigeringsfaktor, varefter produkten utgör kostnaden
-för befolkningens vårdbehov. Korrigeringsfaktorns värde bestäms
-så att den genomsnittliga standardkostnad som vägts med
-befolkningen den 31 december två år före utjämningsåret
-överensstämmer med den genomsnittliga standardkostnad för
-hälso- och sjukvård som anges i bilagan till denna förordning.
+för befolkningens vårdbehov. Korrigeringsfaktorns värde
+bestäms så att den genomsnittliga standardkostnaden, som
+vägts med befolkningen den 31 december två år före
+utjämningsåret, överensstämmer med den genomsnittliga
+standardkostnaden för hälso- och sjukvård, som anges i
+bilagan till denna förordning. Förordning (2013:976).
 
 25 § Ett landstings kostnader för hälso- och sjukvård i
 glesbygd beräknas utifrån en teoretiskt bestämd placering av
@@ -539,19 +646,18 @@ Löner
 25 b § Ett landstings standardkostnad för löner beräknas
 utifrån ett löneindex som är baserat på lönerna i länets
 privata sektor och läkarnas faktiska lönenivå i landstinget.
-För landsting med ett värde på löneindex som överstiger 100
-beräknas ett tillägg motsvarande hälften av produkten av den
-del av löneindexet som överstiger 100 och en justerad
-lönekostnad. Samtliga landsting får därefter ett invånarbaserat
-avdrag, som beräknas så att summan av avdragen motsvarar summan
-av tilläggen.
-
+För landsting med ett löneindex som överstiger 100 beräknas
+ett tillägg motsvarande produkten av den del av löneindexet
+som överstiger 100 och en justerad lönekostnad, dividerad med
+100. Samtliga landsting får därefter ett invånarbaserat
+avdrag, som beräknas så att summan av avdragen motsvarar
+summan av tilläggen.
 
 Ett landstings justerade lönekostnad beräknas genom att
 landstingets standardkostnad för hälso- och sjukvård
 multipliceras med lönekostnadsandelen för verksamheten.
 Lönekostnadsandelen för hälso- och sjukvård anges i bilagan
-till denna förordning. Förordning (2007:1271).
+till denna förordning. Förordning (2013:976).
 
 Delat huvudmannaskap
 
@@ -559,18 +665,18 @@ Kollektivtrafik
 
 26 § Standardkostnaden för kollektivtrafik beräknas utifrån
 variablerna gleshet, arbetspendling och tätortsstruktur.
-Värdena för respektive variabel multipliceras med
-parametervärden som anges i bilagan till denna förordning.
+Värdena för respektive variabel multipliceras med de
+parametervärden, som anges i bilagan till denna förordning.
 
 Standardkostnaden beräknas för respektive län, varefter
 hälften av standardkostnaden tillförs kommunerna i länet och
-hälften landstinget, med undantag av Stockholms län där
+hälften landstinget, med undantag för Stockholms län där
 kommunernas andel motsvarar 40 procent och landstingets andel
 motsvarar 60 procent av standardkostnaden.
 
 Standardkostnaden för Gotlands kommun motsvarar redovisade
-nettokostnader. Hälften av standardkostnaden fördelas i
-kommunernas utjämningssystem och hälften i landstingens
+nettokostnader år 2009. Hälften av standardkostnaden fördelas
+i kommunernas utjämningssystem och hälften i landstingens
 utjämningssystem.
 
 Fördelningen av kommunernas andel av standardkostnaden mellan
@@ -580,34 +686,23 @@ kommunerna i länet görs på följande sätt:
 län, Västmanlands län, Dalarnas län, Västernorrlands län,
 Västerbottens län och Norrbottens län görs fördelningen efter
 deras andel av de totala kostnaderna i länet för
-kollektivtrafiken år 2002.
+kollektivtrafiken år 2009.
 
 2. För kommunerna i Stockholms län, Uppsala län, Östergötlands
 län, Jönköpings län, Kalmar län, Skåne län, Hallands län,
 Västra Götalands län, Örebro län och Gävleborgs län görs
 fördelningen med lika stora belopp per invånare.
 
-3. För kommunerna i Södermanlands län och Jämtlands län fattar
-regeringen särskilda beslut om varje kommuns andel av de
-totala kostnaderna i länet. Förordning (2012:704).
+3. För kommunerna i Södermanlands län och Jämtlands län
+fattar regeringen särskilda beslut om varje kommuns andel av
+de totala kostnaderna i länet. Förordning (2013:976).
 
 Beräkningsmetoder och närmare detaljer för kostnadsutjämningen
 
 27 § För beräkningarna gäller i övrigt de beräkningsmetoder och
 närmare detaljer som anges i bilagan till denna förordning.
 
-Strukturbidrag och införandebidrag
-
-28 § Vid beräkning av bidragsminskning enligt 3 § lagen
-(2004:773) om kommunalekonomisk utjämning skall till
-regleringsbidrag och regleringsavgift enligt 15 respektive
-16 §§ denna lag läggas
-
-1. den sammanlagda summan för strukturbidrag enligt 11 § tredje
-stycket och 12 § tredje stycket samma lag, och
-
-2. den sammanlagda summan för införandebidrag enligt 13 och
-14 §§ samma lag.
+28 § Har upphävts genom förordning (2013:976).
 
 Uppgiftslämnande
 
@@ -656,6 +751,13 @@ fjärde styckena till och med utjämningsåret 2013.
 tidigare års taxeringar anses som beslut om slutlig skatt
 enligt 56 kap. 2 § skatteförfarandelagen (2011:1244).
 
+2013:976
+
+1. Denna förordning träder i kraft den 1 januari 2014.
+
+2. Äldre föreskrifter gäller fortfarande i fråga om bidrag
+och avgifter som avser tiden före ikraftträdandet.
+
 
 Bilaga
 
@@ -673,52 +775,55 @@ Genomsnittlig standardkostnad
 Kommuner
 
 Den för landet genomsnittliga standardkostnaden i kronor per
-invånare före uppräkning till utjämningsårets kostnadsnivå för
-var och en av följande verksamheter är:
+invånare före uppräkning till utjämningsårets kostnadsnivå
+för var och en av följande verksamheter är:
 
 Förskola, fritidshem och annan
-pedagogisk verksamhet                   6 493
+
+pedagogisk verksamhet
+
+ Förskola                      5 447
+
+ Familjedaghem                 190
+
+ Fritidshem                    1 153
 
 Förskoleklass och grundskola
 
-- Förskoleklass                         527
+ Förskoleklass                 549
 
-- Grundskola                            8 303
+ Grundskola                    8 576
 
-Gymnasieskola                           3 928
+Gymnasieskola                   3 858
 
-Individ- och familjeomsorg
+Individ- och familjeomsorg      3 626
 
-- Barn- och ungdomsvård                 1 450
+Äldreomsorg                     9 284
 
-- Övrig individ- och familjeomsorg      2 065
-
-Äldreomsorg                             9 077
-
-Beloppen avser år 2011.
+Beloppen avser år 2012.
 
 Landsting
 
 Den för landet genomsnittliga standardkostnaden före
 uppräkning till utjämningsårets kostnadsnivå för hälso- och
-sjukvård är 19 060 kronor per invånare. Beloppet avser år
-2011.
+sjukvård är 19 710 kronor per invånare. Beloppet avser år
+2012.
 
 Delat huvudmannaskap
 
 Den för landet genomsnittliga standardkostnaden före
 uppräkning till utjämningsårets kostnadsnivå för
-kollektivtrafik är 1 843 kronor per invånare. Beloppet avser
-år 2011.
+kollektivtrafik är 1 901 kronor per invånare. Beloppet avser
+år 2012.
 
 Nettoprisindex
 
-Uppräkning till utjämningsårets kostnadsnivå sker med hjälp av
-utvecklingen av nettoprisindex. Som genomsnittlig procentuell
-förändring i nettoprisindex för respektive år används
-följande: 2003 (1,5), 2004 (0,1), 2005 (0,1), 2006 (1,1), 2007
-(2,7), 2008 (2,7), 2009 (-0,8), 2010 (1,8), 2011 (2,0), 2012
-(1,4) och 2013 (0,9).
+Uppräkning till utjämningsårets kostnadsnivå sker med hjälp
+av utvecklingen av nettoprisindex. Som genomsnittlig
+procentuell förändring i nettoprisindex för respektive år
+används följande: 2003 (1,5), 2004 (0,1), 2005 (0,1), 2006
+(1,1), 2007 (2,7), 2008 (2,7), 2009 (-0,8), 2010 (1,8), 2011
+(2,0), 2012 (1,2), 2013 (-0,1) och 2014 (1,0).
 
 Följande verksamheters och kostnadsslags standardkostnad
 räknas upp till utjämningsårets kostnadsnivå med hjälp av
@@ -733,42 +838,15 @@ utjämningsårets kostnadsnivå med hjälp av nettoprisindex år
 2003 t.o.m. utjämningsåret: bebyggelsestruktur.
 
 Följande kostnadsslags standardkostnad räknas inte upp till
-utjämnings-årets kostnadsnivå: barn och ungdomar med utländsk
+utjämningsårets kostnadsnivå: barn och ungdomar med utländsk
 bakgrund samt befolkningsförändringar.
-Förskola, fritidshem och annan pedagogisk verksamhet
-
-Okorrigerad åldersrelaterad ersättning = 42 827 x andelen barn
-1-3 år + 41 863 x andelen barn 4-5 år + 26 547 x andelen barn
-6 år + 15 273 x andelen barn 7-9 år.
-
-Volymindex = 0,023 + 0,116 x andelen föräldrar som
-förvärvsarbetar mer än 28 timmar/vecka + 0,194 x skattekraften
-+ 0,402 x täthetsindex.
-
-Täthetsindex = (andel som bor i tätorter med fler än 199
-invånare) x (befolkning i tätorter med fler än 199 invånare) /
-(ytan för tätorter med fler än 199 invånare) / 100.
-
-Täthetsindex får vara högst 0,23 och lägst 0,05.
-
-Skattekraften beräknas som kommunens skatteunderlag per
-invånare i förhållande till riksgenomsnittet. För kommuner
-vars relativa skattekraft överstiger 1,27 eller understiger
-0,82 används värdet 1,27 respektive 0,82. Volymindex avrundas
-till tre decimaler.
-
-En kommuns skattekraft beräknas som medelvärdet enligt
-besluten om slutlig skatt enligt 56 kap. 2 §
-skatteförfarandelagen (2011:1244) för treårsperioden t.o.m.
-året före utjämningsåret. Uppgifter om en kommuns skattekraft
-hämtas från Skatteverket och Statistiska centralbyrån.
 
 Förskoleklass och grundskola
 
 Genomsnittlig ersättning för modersmålsundervisning och
-undervisning i svenska som andraspråk är 6 739 kronor per elev
-som är född utanför Sverige, Norge och Danmark eller där båda
-föräldrarna är födda utanför dessa länder.
+undervisning i svenska som andraspråk är 8 040 kronor per
+elev som är född utanför Sverige, Norge och Danmark eller där
+båda föräldrarna är födda utanför dessa länder.
 
 Gymnasieskola
 
@@ -778,8 +856,8 @@ per hemkommun och gymnasieprogram.
 Programvalsfaktorn för respektive kommun beräknas enligt
 följande för åren två respektive tre år före utjämningsåret:
 ((summering av (antal elever per program x landets
-genomsnittskostnad per program)) - relationstal (antal 16-18-
-åringar x gymnasiets genomsnittskostnad i landet per 16-18-
+genomsnittskostnad per program)) - relationstal (antal 1618-
+åringar x gymnasiets genomsnittskostnad i landet per 1618-
 åring)) / befolkningen den 31 december två respektive tre år
 före utjämningsåret.
 
@@ -791,30 +869,39 @@ Skolverkets statistik.
 
 Individ- och familjeomsorg
 
-Standardkostnad för ekonomiskt bistånd = (-342,282 + 284,686 x
-andelen ensamstående kvinnor i åldersgruppen 18-44 år med barn
-i åldersgruppen 0-17 år + 47,825 x andelen flyktingar och nära
-anhöriga till flyktingar samt övriga utrikes födda från länder
-utanför Norden och de länder som var medlemmar i EU 2003 + 1
-118,847 x andelen arbetslösa utan arbetslöshetsersättning +
-3,549 x andelen män i åldersgruppen 25-64 år med låg inkomst +
-1,774 x roten ur antalet boende i tätort) x korrigeringsfaktor.
+Standardkostnad för individ- och familjeomsorg = 806,375 + 28
+386,169 x andelen arbetslösa utan ersättning + 19 391,413 x
+andelen lågutbildade personer födda i Sverige i åldern 2040
+år + 1,628 x roten ur tätortsbefolkningen i kommunen + 2
+284,891 x andelen av befolkningen boende i flerfamiljshus
+byggda 19651975 + 87 497,080 x andelen av befolkningen som
+fått ekonomiskt bistånd under en längre tid än sex månader x
+korrigeringsfaktorn.
 
-Standardkostnad för barn- och ungdomsvård = (-173,803 + 183,109
-x andelen barn till ensamstående föräldrar 0-12 år + 1 207,573
-x andelen lagförda ungdomar 15-17 år + 246,085 x andelen barn
-med utländsk bakgrund + 1,142 x roten ur kommunens folkmängd
-upp till 75 000) x korrigeringsfaktor.
+Variabeln roten ur tätortsbefolkningen i kommunen avser år
+2010 och ska uppdateras vart femte år.
 
 Äldreomsorg
 
-Följande kommuner får ett tillägg på fem procent till den
-enligt 14 § första, andra och tredje styckena beräknade
-kostnaden: Torsby, Malung-Sälen, Orsa, Vansbro, Älvdalen, Ånge,
-Berg, Bräcke, Härjedalen, Krokom, Ragunda, Strömsund, Åre,
-Bjurholm, Dorotea, Lycksele, Malå, Norsjö, Sorsele, Storuman,
-Vilhelmina, Vindeln, Åsele, Arjeplog, Arvidsjaur, Jokkmokk,
-Pajala, Överkalix och Övertorneå.
+Genomsnittlig kostnad per person:
+
+ Gift (6579 år)       6 948
+
+ Gift (8089 år)       47 954
+
+ Gift (90w)           129 050
+
+ Ej gift (6579 år)    27 875
+
+ Ej gift (8089 år)    124 042
+
+ Ej gift (90w)        258 227
+
+Tillägget för institutionsboende i glesbygd = den korrigerade
+åldersersättningen x (0,08 - kommunens glesbygdsfaktor / 10).
+
+Variabeln tätortsgrad i glesbygdsfaktorn avser år 2010 och
+ska uppdateras vart femte år.
 
 Befolkningsförändringar
 
@@ -849,6 +936,9 @@ Bebyggelsestruktur
 
 Gator och vägar
 
+Tillägget för gator och vägar utgörs av summan av ett
+ortstillägg och ett klimattillägg.
+
 Om inget annat anges får samtliga kommuner i Värmlands län,
 Dalarnas län, Gävleborgs län, Västernorrlands län, Jämtlands
 län, Västerbottens län och Norrbottens län ett ortstillägg på
@@ -857,116 +947,173 @@ invånare.
 
 Undantag:
 
-- Följande kommuner får 56 kronor per invånare: Södertälje,
-Uppsala, Eskilstuna, Linköping, Norrköping, Jönköping, Växjö,
-Kalmar, Karlskrona, Helsingborg, Kristianstad, Lund, Halmstad,
-Borås, Örebro och Västerås.
+ Följande kommuner får ett ortstillägg på 56 kronor per
+invånare: Södertälje, Uppsala, Eskilstuna, Linköping,
+Norrköping, Jönköping, Växjö, Kalmar, Karlskrona,
+Helsingborg, Kristianstad, Lund, Halmstad, Borås, Örebro och
+Västerås.
 
-- Följande kommuner får 111 kronor per invånare: Nacka,
-Sundbyberg, Solna, Lidingö, Malmö, Härryda, Partille, Öckerö,
-Mölndal, Karlstad, Falun, Gävle, Sundsvall, Örnsköldsvik,
-Härjedalen, Östersund, Skellefteå, Umeå, Åsele och Luleå.
+ Följande kommuner får ett ortstillägg på 111 kronor per
+invånare: Nacka, Sundbyberg, Solna, Lidingö, Malmö, Härryda,
+Partille, Öckerö, Mölndal, Karlstad, Falun, Gävle, Sundsvall,
+Örnsköldsvik, Härjedalen, Östersund, Skellefteå, Umeå, Åsele
+och Luleå.
 
-- Göteborgs kommun får 167 kronor per invånare.
+ Göteborgs kommun får ett ortstillägg på 167 kronor per
+invånare.
 
-- Stockholms kommun får 501 kronor per invånare.
+ Stockholms kommun får ett ortstillägg på 501 kronor per
+invånare.
+
+Om inget annat anges får samtliga kommuner ett klimattillägg
+på 45 kronor per invånare.
+
+Undantag:
+
+ Följande kommuner får ett klimattillägg på 67 kronor per
+invånare: kommunerna i Dalarnas län och Gävleborgs län samt
+Eksjö, Gislaved, Gnosjö, Nässjö, Sävsjö, Tranås, Vaggeryd,
+Vetlanda, Värnamo, Lessebo, Ljungby, Tingsryd, Uppvidinge,
+Emmaboda, Hultsfred, Högsby, Nybro, Vimmerby, Bengtsfors,
+Bollebygd, Borås, Svenljunga, Tranemo, Ulricehamn, Arvika,
+Eda, Filipstad, Hagfors, Munkfors, Storfors, Sunne, Torsby,
+Årjäng, Degerfors, Hällefors, Karlskoga, Lindesberg,
+Ljusnarsberg, Nora, Fagersta, Norberg och Skinnskatteberg.
+
+ Följande kommuner får ett klimattillägg på 22 kronor per
+invånare: kommunerna i Blekinge län, Skåne län och Hallands
+län samt Göteborg, Härryda, Kungälv, Lysekil, Munkedal,
+Mölndal, Orust, Partille, Sotenäs, Stenungsund, Strömstad,
+Tanum, Tjörn, Uddevalla och Öckerö.
+
+ Följande kommuner får ett klimattillägg på 89 kronor per
+invånare: kommunerna i Västernorrlands län, Jämtlands län,
+Västerbottens län och Norrbottens län.
+
+Uppvärmningskostnader
+
+Tillägget eller avdraget för uppvärmningskostnader baseras på
+ett energiindex som speglar skillnader i
+uppvärmningskostnader i kommunägda fastigheter.
+
+Kommuner som har ett energiindex som överstiger 1,0 får ett
+tillägg som beräknas enligt följande. (Index - 1) x (67 x
+6,1). Kommuner som har ett energiindex som understiger 1,0
+får ett avdrag som beräknas på motsvarande sätt.
 
 Byggkostnader
 
-Standardkostnaden anges efter kommunens länstillhörighet med
-undantag för kommuner som ingår i Stor-Malmö och Stor-Göteborg.
+Tillägget eller avdraget för byggkostnader anges efter
+kommunens länstillhörighet med undantag för kommuner som
+ingår i regionerna Stor-Malmö och Stor-Göteborg.
+Länstillhörigheten avser år 2006.
 
-Län/region              Belopp, kr per invånare
+Län/region                      Belopp, kr per invånare
 
-Stockholms              105
+Stockholms                      105
 
-Uppsala                 21
+Uppsala                         21
 
-Södermanlands           -28
+Södermanlands                   -28
 
-Östergötlands           -70
+Östergötlands                   -70
 
-Jönköpings              -77
+Jönköpings                      -77
 
-Kronobergs              -93
+Kronobergs                      -93
 
-Kalmar                  -89
+Kalmar                          -89
 
-Gotlands                -115
+Gotlands                        -115
 
-Blekinge                -118
+Blekinge                        -118
 
-Stor-Malmö              38
+Stor-Malmö                      38
 
-Övriga Skåne            -8
+Övriga Skåne                    -8
 
-Övriga Hallands         -111
+Övriga Hallands                 -111
 
-Stor-Göteborg           -36
+Stor-Göteborg                   -36
 
-Övriga Västra Götalands -93
+Övriga Västra Götalands         -93
 
-Värmlands               -73
+Värmlands                       -73
 
-Örebro                  -12
+Örebro                          -12
 
-Västmanlands            -15
+Västmanlands                    -15
 
-Dalarnas                -41
+Dalarnas                        -41
 
-Gävleborgs              28
+Gävleborgs                      28
 
-Västernorrlands         52
+Västernorrlands                 52
 
-Jämtlands               37
+Jämtlands                       37
 
-Västerbottens           102
+Västerbottens                   102
 
-Norrbottens             45
+Norrbottens                     45
 
-Till Stor-Malmö räknas Burlövs, Eslövs, Höörs, Kävlinge, Lomma,
-Lunds, Malmö, Skurups, Staffanstorps, Svedala, Trelleborgs och
-Vellinge kommuner.
+Till Stor-Malmö räknas Burlövs, Eslövs, Höörs, Kävlinge,
+Lomma, Lunds, Malmö, Skurups, Staffanstorps, Svedala,
+Trelleborgs och Vellinge kommuner.
 
 Till Stor-Göteborg räknas Ale, Alingsås, Göteborgs, Härryda,
-Kungsbacka, Kungälvs, Lerums, Lilla Edets, Mölndals, Partille,
-Stenungsunds, Tjörns och Öckerö kommuner.
+Kungsbacka, Kungälvs, Lerums, Lilla Edets, Mölndals,
+Partille, Stenungsunds, Tjörns och Öckerö kommuner.
 
-Administration, resor och räddningstjänst
+Administration
 
-Standardkostnaden beräknas efter följande förutsättningar:
+Tillägget för administration beräknas efter följande
+förutsättningar och uppdateras inte:
 
-Inv./km²        Folkmängd       Tätortsgrad     Bidrag
+Invånar-  Folkmängd     Lönekostnad     Politisk        Tillägg
+distans                 för administ-   verksamhet
+                        rativ personal
 
-<6              <10 000         <0,6            1 420
+>350      07 999       900             400             1 300
 
-<6              <10 000         0,6-0,8         1 086
+          8 00019 999  250             125             375
 
-<6              10 000-20 000   <0,6            1 002
+          20 000       250             125             375
 
-<6              10 000-20 000   0,6-0,8         668
+<350      07 999       300             175             475
 
-6-10            <10 000         <0,6            557
+          8 00019 999  0               0               0
 
-6-10            <10 000         0,6-0,8         334
+          20 000       0               0               0
 
-6-10            10 000-20 000   <0,6            390
+Räddningstjänst
 
-6-10            10 000-20 000   0,6-0,8         167
+Tillägget för räddningstjänst beräknas efter följande
+förutsättningar och uppdateras inte:
+
+Invånar-        Lokalt          Kostnad         Tillägg
+distans         befolknings-
+                underlag
+
+>300            07 999         1 248           500
+
+                8 00019 999    1 023           250
+
+                20 000         884             150
 
 Löner
 
 Kommuner
 
-Löneindex = 100 x ((11 253 + 0,38468 x medellönen för
-kommunanställda i angränsande kommuner + 228,91897 x
-köpeskillingen för småhus i kommunen + 1 444,58829 x
-förvärvsarbetsgraden i kommunen) / genomsnittlig medellön i
-riket). Förvärvsarbetsgraden är andelen av befolkningen 16 år
-och äldre som är förvärvsarbetande. Beräkningen för löneindex
-har baserats på underlag från år 2004.
+Löneindex = 100 x (21 256,664 + 2 645,990 x andelen av
+befolkningen över 15 år som inte arbetar i kommun eller
+landsting + 0,294 x det genomsnittliga priset för en
+bostadsrätt i länet + 0,388 x det genomsnittliga
+taxeringsvärdet för småhus i kommunen) / standardiserad
+genomsnittlig kommunlön. Beräkningen för löneindex har
+baserats på underlag från 2009.
 
-Lönekostnadsandelen för var och en av följande verksamheter är:
+Lönekostnadsandelen för var och en av följande verksamheter
+är:
 
 Förskola, fritidshem och annan          0,81
 pedagogisk verksamhet
@@ -975,11 +1122,7 @@ Förskoleklass och grundskola            0,75
 
 Gymnasieskola                           0,68
 
-Individ- och familjeomsorg
-
-- Barn- och ungdomsvård                 0,79
-
-- Övrig individ- och familjeomsorg      0,38
+Individ- och familjeomsorg              0,55
 
 Äldreomsorg                             0,81
 
@@ -995,16 +1138,20 @@ Lönekostnadsandelen för hälso- och sjukvård är 0,72.
 
 Hälso- och sjukvård
 
-Uppgifter om genomsnittliga kostnader för vårdtunga grupper och
-för den övriga befolkningen hämtas från Skåne läns landsting
-och avser år 2004.
+Uppgifter om genomsnittliga kostnader för befolkningen hämtas
+från Skåne läns landsting och avser 2008.
+
+Kostnaden per hiv-smittad person är 47 200.
 
 Kollektivtrafik
 
-Standardkostnad per län = -1 177,719 + 36,956 x roten ur
-invånardistansen + 1 926,383 x andelen boende i tätort med mer
-än 11 000 invånare + 3 336,552 x andelen personer som
+Standardkostnad per län = -1 203,797 + 35,012 x roten ur
+invånardistansen + 1 291,634 x andelen boende i tätort med
+mer än 11 000 invånare + 7 401,420 x andelen personer som
 arbetspendlar över kommungräns.
 
-Med invånardistansen avses det genomsnittliga avståndet mellan
-invånarna i länet. Förordning (2012:704).
+Med invånardistansen avses det genomsnittliga avståndet
+mellan invånarna i länet.
+
+Variabeln roten ur invånardistansen avser år 2010 och ska
+uppdateras vart femte år. Förordning (2013:976). 
