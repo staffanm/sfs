@@ -479,12 +479,12 @@ Transporter     Luftfartsverket                 x               x
                 Trafikverket                    x               x
                 Transportstyrelsen              x               x
 
-Farliga ämnen   Kustbevakningen                 x               x
+Farliga ämnen   Folkhälsomyndigheten            x               x
+                Kustbevakningen                 x               x
                 Livsmedelsverket                x               x
                 Myndigheten för samhällsskydd
                 och beredskap                   x               x
                 Rikspolisstyrelsen              x               x
-                Smittskyddsinstitutet           x               x
                 Socialstyrelsen                 x               x
                 Statens jordbruksverk           x               x
                 Statens veterinärmedicinska
@@ -510,4 +510,4 @@ och vård        och beredskap                   x               x
                 Socialstyrelsen                 x               x
                 Transportstyrelsen              x               x
                 Tullverket                      x               x
-Förordning (2012:586).
+Förordning (2013:904).
