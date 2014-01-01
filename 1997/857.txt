@@ -1235,9 +1235,7 @@ visas att ansökan om prövning kommit in till nätmyndigheten
 senare än två år efter det att nätkoncessionshavaren sänt ett
 skriftligt ställningstagande till berörd part under dennes
 senaste kända adress. Lag (2010:164).
-
 Rätt till uppgifter om nättariffer m.m.
-
 11 § Den som har nätkoncession skall på begäran utan dröjsmål
 lämna skriftlig uppgift om sin nättariff.
 
@@ -2182,29 +2180,30 @@ skadestånd som enligt andra bestämmelser i denna lag eller
 annan lag betalas på grund av samma elavbrott.
 Lag (2005:1110).
 
-10 § Om överföringen av el avbryts helt under en sammanhängande
-period om minst tolv timmar har elanvändaren rätt till
-avbrottsersättning.
+10 § Om uttagspunkten är elektriskt frånkopplad i en eller
+flera faser från spänningssatt koncessionerat nät under en
+sammanhängande period om minst tolv timmar har elanvändaren
+rätt till avbrottsersättning.
 
 Elanvändaren har inte rätt till avbrottsersättning om
 
 1. avbrottet beror på elanvändarens försummelse,
 
 2. överföringen av el avbryts för att vidta åtgärder som är
-motiverade av elsäkerhetsskäl eller för att upprätthålla en god
-drift- och leveranssäkerhet och avbrottet inte pågår längre än
-åtgärden kräver,
+motiverade av elsäkerhetsskäl eller för att upprätthålla en
+god drift- och leveranssäkerhet och avbrottet inte pågår
+längre än åtgärden kräver,
 
-3. avbrottet är hänförligt till ett fel i en koncessionshavares
-ledningsnät och felet beror på ett hinder utanför den
-koncessionshavarens kontroll som koncessionshavaren inte
-skäligen kunde förväntas ha räknat med och vars följder
-koncessionshavaren inte heller skäligen kunde ha undvikit eller
-övervunnit, eller
+3. avbrottet är hänförligt till ett fel i en
+koncessionshavares ledningsnät och felet beror på ett hinder
+utanför den koncessionshavarens kontroll som
+koncessionshavaren inte skäligen kunde förväntas ha räknat
+med och vars följder koncessionshavaren inte heller skäligen
+kunde ha undvikit eller övervunnit, eller
 
-4. avbrottet är hänförligt till ett fel i ett ledningsnät vars
-ledningar har en spänning om 220 kilovolt eller mer.
-Lag (2005:1110).
+4. avbrottet är hänförligt till ett fel i ett ledningsnät
+vars ledningar har en spänning om 220 kilovolt eller mer.
+Lag (2013:884).
 
 11 § Avbrottsersättning skall betalas av den som har koncession
 för det elnät till vilket elanvändaren är direkt ansluten.
@@ -2440,7 +2439,6 @@ uppfyller sitt åtagande enligt avtalet, och
 på annat sätt tillhandahåller den ytterligare
 konsumentrelaterade information som anges i 18 §.
 Lag (2011:712).
-
 Betalningssätt
 
 15 § En elleverantör får inte missgynna en konsument endast på
@@ -2469,7 +2467,6 @@ Prishöjningar
 om detta i den nästkommande fakturan från elleverantören. Det
 ska framgå när prisändringen trädde i kraft och hur priset
 ändrats. Lag (2011:712).
-
 Information om konsumentens rättigheter
 
 18 § Elleverantörer och nätkoncessionshavare som träffar avtal
