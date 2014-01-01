@@ -93,16 +93,16 @@ Den genomsnittliga kostnaden per insats ska uppdateras årligen.
 Förordning (2010:1338).
 
 6 § Personalkostnadsindexet beräknas dels utifrån
-kostnadsuppgifter från räkenskapssammandraget 2011, dels
+kostnadsuppgifter från räkenskapssammandraget 2012, dels
 utifrån den kostnad som beräknats enligt 4 § första stycket.
 Beräkningen görs på följande sätt.
 
 Ett belopp motsvarande 70 procent av skillnaden mellan en
-beräknad personalkostnad per kommun för år 2011 och den
+beräknad personalkostnad per kommun för år 2012 och den
 personalkostnad som ingår i den i första stycket sistnämnda
 kostnaden, adderas till sistnämnda kostnad. Den erhållna
 summan divideras med den i första stycket sistnämnda
-kostnaden. Förordning (2012:703).
+kostnaden. Förordning (2013:875).
 
 7 § För beräkningarna gäller i övrigt de beräkningsmetoder och
 närmare detaljer som anges i bilagan till denna förordning.
@@ -160,10 +160,10 @@ Befolkningsuppgifter hämtas från Statistiska centralbyråns
 
 Nettoprisindex
 
-Uppräkning till utjämningsårets kostnadsnivå sker med hjälp av
-utvecklingen av nettoprisindex. Som genomsnittlig procentuell
-förändring i nettoprisindex för respektive år används
-följande: 2012 (1,4) och 2013 (0,9).
+Uppräkning till utjämningsårets kostnadsnivå sker med hjälp
+av utvecklingen av nettoprisindex. Som genomsnittlig
+procentuell förändring i nettoprisindex för respektive år
+används följande: 2013 (-0,1) och 2014 (1,0).
 
 Genomsnittskostnaden
 
@@ -324,7 +324,7 @@ S = Standardkostnad enligt tidigare beräkning.
 Beräknade personalkostnader
 
 Lönekostnader inklusive personalomkostnadspålägg (PO-pålägg)
-för anställda som är 26 till 64 år 2011 enligt Sveriges
+för anställda som är 26 till 64 år 2012 enligt Sveriges
 Kommuner och Landstings cirkulär 11:57.
 
 Tillkommer 85 procent av köp av verksamhet, övriga interna
@@ -344,8 +344,9 @@ personalkostnader.
 
 Steg 2
 
-Personalkostnader ingående i den första delen av den beräknade
-standardkostnaden beräknas utgöra 85 procent = 0,85 x S.
+Personalkostnader ingående i den första delen av den
+beräknade standardkostnaden beräknas utgöra 85 procent = 0,85
+x S.
 
 Steg 3
 
@@ -354,8 +355,9 @@ personalkostnader ersätts med 70 procent = (Lönekostnaden (A)
 x PO-pålägg + 0,85 x (B+C+D+E)  0,85 x (F+G+J) + 0,85 x 0,20
 x ((H/0,20)  G)  (0,85 x S)) x 0,7.
 
-Indexet erhålls genom att standardkostnaden adderas med värdet
-av steg 3 dividerat med standardkostnaden = (S + steg 3) / S.
+Indexet erhålls genom att standardkostnaden adderas med
+värdet av steg 3 dividerat med standardkostnaden = (S +
+steg 3) / S.
 
 Slutlig standardkostnad
 
@@ -369,4 +371,4 @@ ska överensstämma med kommunernas sammanlagda
 nettokostnader, uppräknade till utjämningsårets prisnivå.
 Produkten divideras med antalet invånare = S x PK-IX x
 nettoprisindex x korrigeringsfaktorn / antalet invånare i
-kommunen. Förordning (2012:703).
+kommunen. Förordning (2013:875).
