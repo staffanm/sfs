@@ -1322,19 +1322,23 @@ tryckt skrift, den som har tillhandahållit eller avsett
 att tillhandahålla en framställning för offentliggörande i
 ett radioprogram eller en teknisk upptagning och den som
 har framträtt i en sådan framställning.
+
 Vad som föreskrivs i första stycket om anställda och
 uppdragstagare gäller inte verkställande direktör, vice
 verkställande direktör, styrelseledamot eller
 styrelsesuppleant i organet.
+
 I 14 kap. 1 § finns bestämmelser om ansvar för vissa
 överträdelser av förbuden i första stycket 2 och 3.
 Lag (2010:1348).
+
 3 § Av 7 kap. 3 § första stycket 1 och 4 § 1-8
-tryckfrihetsförordningen samt 5 kap. 1 § första stycket och 3
-§ första stycket 1 yttrandefrihetsgrundlagen framgår att det
+tryckfrihetsförordningen samt 5 kap. 1 § första stycket och 3 §
+första stycket 1 yttrandefrihetsgrundlagen framgår att det
 i vissa fall inte är tillåtet att meddela och offentliggöra
 uppgifter när detta utgör vissa brott mot rikets säkerhet
 eller vissa andra brott riktade mot staten.
+
 Av 7 kap. 5 § 3 tryckfrihetsförordningen och 5 kap. 1 §
 första stycket yttrandefrihetsgrundlagen framgår att det, när
 riket är i krig eller omedelbar krigsfara, inte är tillåtet
@@ -3946,6 +3950,7 @@ sådant meddelande. Detsamma gäller innehavaren av ett
 abonnemang som använts för ett elektroniskt meddelande när det
 är fråga om uppgift om något annat än innehållet i meddelandet.
 Lag (2012:288).
+
 Annan allmän samfärdsel
 
 3 § Sekretess gäller hos myndighet som handhar allmän
@@ -3986,6 +3991,34 @@ Sekretessen gäller inte beslut i ärende.
 För uppgift i en allmän handling gäller sekretessen i högst
 femtio år. Lag (2012:235).
 
+Infrastrukturavgift
+
+Verksamhet som avser infrastrukturavgift
+
+5 a § Sekretess gäller i verksamhet som avser bestämmande av
+infrastrukturavgift på väg eller fastställande av underlag
+för bestämmande av sådan avgift för uppgift om en enskilds
+personliga eller ekonomiska förhållanden.
+
+I beslut om infrastrukturavgift gäller dock sekretessen
+endast för uppgift om vilken betalstation bilen har passerat
+och tidpunkten för denna passage.
+
+För uppgift i en allmän handling gäller sekretessen i högst
+tjugo år. Lag (2014:57).
+
+Mål hos domstol
+
+5 b § Sekretessen enligt 5 a § gäller för uppgift i mål hos
+domstol, om det kan antas att den enskilde lider skada eller
+men om uppgiften röjs. Detsamma gäller uppgift som med
+anledning av ett överklagande hos domstol registreras hos en
+annan myndighet enligt 5 kap. 2 § första stycket 3 eller 4.
+Får en domstol i ett mål från en annan myndighet en
+sekretessreglerad uppgift och saknar uppgiften betydelse i
+målet, blir dock sekretessbestämmelsen tillämplig på
+uppgiften även hos domstolen. Lag (2014:57).
+
 Färdtjänst
 
 Tillstånd för färdtjänst
@@ -4020,7 +4053,9 @@ Sekretessen gäller inte beslut i ärende.
 
 För uppgift i en allmän handling gäller sekretessen i högst
 femtio år. Lag (2010:520).
+
 Certifikatregistret
+
 9 § Sekretess gäller hos Transportstyrelsen i verksamhet som
 avser förande av eller uttag ur certifikatregistret för
 uppgift som rör brott eller en enskilds hälsotillstånd, om
@@ -4140,10 +4175,10 @@ högst tjugo år. Lag (2009:612).
 
 Rätten att meddela och offentliggöra uppgifter
 
-14 § Den tystnadsplikt som följer av 1, 2 och 6 §§ inskränker
-rätten enligt 1 kap. 1 § tryckfrihetsförordningen och 1 kap.
-1 och 2 §§ yttrandefrihetsgrundlagen att meddela och
-offentliggöra uppgifter.
+14 § Den tystnadsplikt som följer av 1, 2, 5 a och 6 §§
+inskränker rätten enligt 1 kap. 1 § tryckfrihetsförordningen
+och 1 kap. 1 och 2 §§ yttrandefrihetsgrundlagen att meddela
+och offentliggöra uppgifter. Lag (2014:57).
 
 30 kap. Sekretess till skydd för enskild i verksamhet som
 avser tillsyn m.m. i fråga om näringslivet
@@ -5324,7 +5359,6 @@ på grund av avtalet.
 Om sekretess gäller enligt första stycket, får de
 sekretessbrytande bestämmelserna i 10 kap. 15-27 §§ och 28 §
 första stycket inte tillämpas i strid med avtalet.
-
 
 För uppgift i en allmän handling gäller sekretessen i högst
 tjugo år.
@@ -7413,16 +7447,6 @@ Service aktiebolag
 
 Ingenjörshögskolan i            all verksamhet
 Jönköping aktiebolag
-
-/Upphör att gälla U:2014-03-01/
-Institutet för                  prövning av frågor om
-professionell utveckling        tillhandahållande och
-av läkare i Sverige             fördelning av platser till
-(IPULS)                         specialistkompetenskurser som
-                                ingår i läkares
-                                vidareutbildning och som
-                                anordnas med statliga medel
-                                (SFS 2010:660)
 
 Internationella                 all verksamhet
 Handelshögskolan i
