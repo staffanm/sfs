@@ -1,0 +1,430 @@
+Syfte och tillämpningsområde
+
+1 § Syftet med denna lag är att skapa förutsättningar för att
+använda standardiserad fordonsutrustning i elektroniska
+vägtullssystem enligt Europaparlamentets och rådets direktiv
+2004/52/EG av den 29 april 2004 om driftskompatibilitet
+mellan elektroniska vägtullssystem i gemenskapen och
+kommissionens beslut 2009/750/EG av den 6 oktober 2009 om
+definitionen av det europeiska systemet för elektroniska
+vägtullar och tekniska uppgifter för detta (EETS-beslutet).
+
+2 § Denna lag gäller endast elektroniska vägtullssystem där
+fordonsutrustning används.
+
+Lagens bestämmelser om betalningsförmedlare gäller endast
+förmedlare som är registrerade enligt denna lag eller i
+enlighet med EETS-beslutet i den stat inom Europeiska
+ekonomiska samarbetsområdet (EES) där förmedlaren är
+etablerad.
+
+Lagens bestämmelser om väganvändare gäller endast
+väganvändare som har träffat avtal med en sådan
+betalningsförmedlare som avses i andra stycket.
+
+3 § Denna lag ska inte tillämpas på ett mindre och helt
+lokalt elektroniskt vägtullssystem om kostnaderna för att
+uppfylla de föreskrivna kraven inte står i proportion till
+fördelarna.
+
+Den som avser att inrätta ett sådant system som avses i
+första stycket ska anmäla detta till den myndighet som
+regeringen bestämmer.
+
+Definitioner
+
+4 § I denna lag avses med
+
+1. anmält organ: ett organ som har anmälts enligt 7–9 §§
+lagen (2011:791) om ackreditering och teknisk kontroll eller
+motsvarande bestämmelser i en annan stat inom EES eller i
+Turkiet,
+
+2. avgiftsupptagare: en myndighet eller en juridisk person
+som genom ett elektroniskt vägtullssystem tar upp vägtullar
+för fordonstrafik i ett vägtullsområde,
+
+3. betalningsförmedlare: en juridisk person som förmedlar
+betalning av vägtull från en väganvändare till en
+avgiftsupptagare,
+
+4. elektroniskt vägtullssystem: ett tekniskt och
+administrativt system för att ta upp vägtullar i ett
+vägtullsområde med stöd av fordonsutrustning,
+
+5. fordonsutrustning: en komplett uppsättning maskinvaru- och
+programvarukomponenter som behövs för att kunna använda ett
+elektroniskt vägtullssystem och som är installerade i ett
+fordon för insamling, lagring, bearbetning, fjärrmottagning
+och överföring av data,
+
+6. färdvägsdeklaration: en sådan uppgift till en
+avgiftsupptagare som bekräftar att ett fordon har framförts
+inom dennes vägtullsområde,
+
+7. teknisk utrustning: all teknisk utrustning och alla
+tekniska komponenter, inklusive mjukvara, i ett elektroniskt
+vägtullssystem som behövs för att säkerställa
+driftskompatibilitet mellan elektroniska vägtullssystem,
+
+8. väganvändare: en fysisk eller juridisk person som har
+träffat avtal med en betalningsförmedlare om förmedling av
+vägtull till avgiftsupptagare,
+
+9. vägtull: en avgift eller skatt som betalas för
+fordonstrafik i ett vägtullsområde,
+
+10. vägtullsområde: en väg, gata, led eller färja som är att
+anse som en väg, ett torg eller ett annat område, där ett
+elektroniskt vägtullssystem används.
+
+I övrigt har de termer som används i denna lag samma
+betydelse som i lagen (2001:559) om vägtrafikdefinitioner och
+förordningen (2001:651) om vägtrafikdefinitioner.
+
+Betalningsförmedlare
+
+5 § En juridisk person som är etablerad i Sverige ska, efter
+ansökan hos den myndighet som regeringen bestämmer,
+registreras som betalningsförmedlare om den juridiska
+personen
+
+1. innehar föreskriven certifiering,
+
+2. har föreskriven och godkänd teknisk utrustning,
+
+3. har kompetens i fråga om elektroniska vägtullssystem eller
+motsvarande system,
+
+4. har lämplig finansiell ställning,
+
+5. har upprättat och kan upprätthålla en global
+riskhanteringsplan, och
+
+6. har gott anseende.
+
+6 § En betalningsförmedlare ska inom två år från
+registreringen träffa avtal om förmedling av vägtull med
+avgiftsupptagare för samtliga vägtullsområden som omfattas av
+denna lag eller av Europaparlamentets och rådets direktiv
+2004/52/EG av den 29 april 2004 om driftskompatibilitet
+mellan elektroniska vägtullssystem i gemenskapen.
+
+Betalningsförmedlaren ska upprätthålla den fullständiga
+täckning av vägtullsområden som avses i första stycket. Om
+täckningen skulle ändras ska fullständig täckning
+återupprättas inom sex månader.
+
+7 § En betalningsförmedlare ska
+
+1. när ett avtal om förmedling av vägtull träffas med en
+väganvändare informera denne om den behandling av
+personuppgifter som avtalet medför och om väganvändarens
+rättigheter enligt personuppgiftslagen (1998:204),
+
+2. informera väganvändarna om sin täckning enligt 6 § och
+eventuella förändringar av den,
+
+3. vid behov förse de väganvändare med vilka avtal om
+förmedling av vägtull har träffats med fordonsutrustning som
+uppfyller föreskrivna tekniska krav och visa att utrustningen
+uppfyller kraven,
+
+4. tillhandahålla lämpliga tjänster och tekniskt stöd för
+anpassning av fordonsutrustning,
+
+5. ansvara för de fasta parametrar för klassificering av ett
+fordon som är lagrade i fordonsutrustningen eller hos
+betalningsförmedlaren,
+
+6. se till att variabla parametrar för klassificering av ett
+fordon kan ställas in manuellt genom fordonsutrustningen,
+
+7. föra en förteckning över fordonsutrustning som inte längre
+är godkänd och som hänför sig till ett avtal mellan
+förmedlaren och en väganvändare,
+
+8. offentliggöra sina villkor för att träffa avtal med en
+väganvändare, och
+
+9. samarbeta med avgiftsupptagare vid indrivning av
+vägtullar.
+
+8 § I en faktura till en väganvändare ska
+betalningsförmedlaren specificera vägtullarna. Tidpunkt och
+plats för avgiftspliktens inträde samt typ av vägtull ska
+anges, om inte väganvändaren har godkänt att uppgifterna
+utelämnas. Vidare ska vägtullarna redovisas separat från
+betalningsförmedlarens egen avgift.
+
+9 § Om förutsättningarna i 5 § 1, 4, 5 eller 6 inte längre är
+uppfyllda eller om den registrerade begär det ska
+registreringen som betalningsförmedlare återkallas.
+
+Avgiftsupptagare
+
+10 § En avgiftsupptagare ska se till att de elektroniska
+vägtullssystem som denne ansvarar för alltid uppfyller
+föreskrivna tekniska krav som gör det möjligt att använda
+standardiserad utrustning i fordonen.
+
+Vid en brist i systemet, som beror på avgiftsupptagaren, ska
+denne se till att en väganvändare kan passera vägtullsområdet
+säkert med minsta möjliga fördröjning och utan att det bedöms
+som en underlåtenhet att betala vägtull.
+
+11 § En avgiftsupptagare ska i en områdesdeklaration ange de
+allmänna villkor som ska vara uppfyllda för att en
+betalningsförmedlare ska få verka i avgiftsupptagarens
+vägtullsområde.
+
+12 § En avgiftsupptagare ska ge en betalningsförmedlare som
+uppfyller villkoren i 11 § och eventuella särskilda villkor
+rätt att verka i avgiftsupptagarens vägtullsområde.
+
+Avgiftsupptagaren ska på sin webbplats tillhandahålla en
+offentlig förteckning över betalningsförmedlare med vilka
+denne har träffat avtal om förmedling av vägtull.
+
+13 § En avgiftsupptagare ska acceptera registrering av
+fordons passager genom godkänd fordonsutrustning som är i
+drift och som hänför sig till en betalningsförmedlare med
+vilken denne har ett avtal om förmedling av vägtull.
+
+14 § En avgiftsupptagare ska vid behov samarbeta med
+
+1. en betalningsförmedlare för att utföra tester av
+avgiftsupptagarens elektroniska vägtullssystem, och
+
+2. en betalningsförmedlare, tillverkare eller ett anmält
+organ för att bedöma om viss teknisk utrustning är lämplig
+att använda i avgiftsupptagarens elektroniska vägtullssystem.
+
+Väganvändare
+
+15 § En väganvändare ska se till att
+
+1. korrekta användar- och fordonsuppgifter lämnas till
+betalningsförmedlaren,
+
+2. fordonsutrustningen är i drift då fordonet framförs inom
+ett vägtullsområde, och
+
+3. fordonsutrustningen används enligt betalningsförmedlarens
+anvisningar.
+
+Om en väganvändare inte fullgör sina skyldigheter enligt
+första stycket, får betalningsförmedlaren bestämma att
+väganvändarens fordonsutrustning inte längre är godkänd.
+
+Vägtull
+
+Om vägtull
+
+16 § En avgiftsupptagare får inte debitera en väganvändare
+enligt denna lag en högre vägtull än den som debiteras
+motsvarande andra användare av vägen.
+
+Om en betalningsförmedlares klassificering av ett fordon
+skiljer sig från avgiftsupptagarens, ska avgiftsupptagarens
+klassificering gälla. Detta gäller dock inte om det visas att
+avgiftsupptagarens klassificering av fordonet är felaktig.
+
+Betalningsskyldighet
+
+17 § En betalningsförmedlare som har träffat avtal med en
+väganvändare om förmedling av vägtull är, i stället för
+väganvändaren, betalningsskyldig för en vägtull som avser ett
+fordon som är försett med fordonsutrustning tillhandahållen
+av betalningsförmedlaren. Om en färdvägsdeklaration inte har
+skickats, är dock betalningsförmedlaren och väganvändaren
+solidariskt betalningsskyldiga för vägtullen.
+
+Betalningsförmedlaren är inte betalningsskyldig enligt första
+stycket om fordonsutrustningen inte är godkänd och passagen
+sker efter det att en sådan förteckning som avses i 7 § 7 har
+skickats till den berörda avgiftsupptagaren.
+
+18 § En väganvändares betalning av vägtull till sin
+betalningsförmedlare sker med befriande verkan.
+
+Färdvägsdeklarationer
+
+19 § I vägtullssystem baserade på korthållskommunikation ska
+en avgiftsupptagare, eller den som för avgiftsupptagarens
+räkning tar upp vägtullar, underrätta varje
+betalningsförmedlare om godkända färdvägsdeklarationer för
+deras respektive väganvändare.
+
+20 § Om en betalningsförmedlare får kännedom om att en
+godkänd färdvägsdeklaration saknas för ett fordons passage av
+en betalstation, ska betalningsförmedlaren informera den
+berörda väganvändaren om bristen och ge denne möjlighet att
+reglera sin skuld innan indrivning får ske.
+
+Särredovisning
+
+21 § En myndighet eller en juridisk person som både är
+avgiftsupptagare och betalningsförmedlare ska hålla
+verksamheterna åtskilda och redovisa dessa separat.
+
+Tekniska krav
+
+22 § Ett elektroniskt vägtullssystem och den
+fordonsutrustning som ska användas i systemet ska uppfylla
+föreskrivna tekniska krav.
+
+23 § Ett anmält organ ska bedöma om kraven i 22 § är
+uppfyllda.
+
+En avgiftsupptagare eller ett anmält organ ska bedöma om viss
+teknisk utrustning är lämplig att använda i
+avgiftsupptagarens elektroniska vägtullssystem.
+
+Förlikningsorgan
+
+24 § Den myndighet som regeringen bestämmer ska vara
+förlikningsorgan. Förlikningsorganet ska, på begäran av en
+betalningsförmedlare eller en avgiftsupptagare, medla mellan
+parterna
+
+1. om en överenskommelse om rätt för betalningsförmedlaren
+att verka i avgiftsupptagarens vägtullsområde inte kan nås,
+eller
+
+2. vid tvist om en sådan ingången överenskommelse som avses i
+1.
+
+Medlingen ska särskilt syfta till att säkerställa att sådana
+villkor som avses i 11 § och eventuella särskilda villkor
+inte är diskriminerande och att de på ett lämpligt sätt
+avspeglar parternas kostnader och risker.
+
+Personuppgiftsansvar
+
+25 § I fråga om behandling av personuppgifter finns
+bestämmelser i personuppgiftslagen (1998:204).
+
+En avgiftsupptagare, eller den som för avgiftsupptagarens
+räkning tar upp vägtullar, är personuppgiftsansvarig enligt
+personuppgiftslagen för den behandling av personuppgifter som
+en underrättelse enligt 19 § innebär.
+
+En betalningsförmedlare är personuppgiftsansvarig enligt
+personuppgiftslagen för den behandling av personuppgifter som
+verksamheten innebär.
+
+Vägtullsregistret
+
+26 § Den myndighet som regeringen bestämmer ska föra ett
+register över vägtullsområden och betalningsförmedlare
+(vägtullsregistret).
+
+Den myndighet som avses i första stycket är
+personuppgiftsansvarig för registret enligt
+personuppgiftslagen (1998:204).
+
+27 § Vägtullsregistret ska ha till ändamål att inom ramen för
+det europeiska systemet för elektroniska vägtullar
+tillhandahålla uppgifter om vägtullsområden och
+betalningsförmedlare.
+
+Registret ska innehålla uppgifter om betalningsförmedlare som
+har registrerats enligt 5 § och för varje vägtullsområde
+uppgifter om
+
+1. avgiftsupptagare,
+
+2. den teknik som används i vägtullssystemet,
+
+3. det geografiska område som omfattas av vägtull,
+
+4. typ av vägtull och vägtullsstruktur,
+
+5. fordon som omfattas av vägtull och parametrar för
+klassificering av fordon,
+
+6. krav på färdvägsdeklarationer,
+
+7. områdesdeklarationen, och
+
+8. de betalningsförmedlare som avgiftsupptagaren har ingått
+avtal om förmedling av vägtull med.
+
+Tillsyn
+
+28 § Den myndighet som regeringen bestämmer utövar tillsyn
+över att avgiftsupptagare på enskild väg och
+betalningsförmedlare följer denna lag och föreskrifter som
+har meddelats i anslutning till lagen samt över att den
+tekniska utrustningen i ett vägtullssystem uppfyller
+föreskrivna krav.
+
+I personuppgiftslagen (1998:204) finns bestämmelser om
+tillsyn över behandlingen av personuppgifter.
+
+29 § Tillsynsmyndigheten har rätt att på begäran få de
+upplysningar och ta del av de handlingar som behövs för
+tillsynen.
+
+Tillsynsmyndigheten har också rätt att, i den utsträckning
+det behövs för tillsynen, på begäran få tillträde till
+anläggningar, lokaler och andra utrymmen som har anknytning
+till användandet av ett elektroniskt vägtullssystem. Denna
+rätt omfattar inte bostäder.
+
+30 § Tillsynsmyndigheten får meddela de förelägganden och
+förbud som behövs för att denna lag och de föreskrifter som
+meddelats i anslutning till lagen ska följas.
+
+Om tillsynsmyndigheten meddelar förelägganden eller förbud
+enligt denna lag, får dessa förenas med vite.
+
+31 § Om det finns skäl att tro att teknisk utrustning som är
+CE-märkt inte överensstämmer med de tekniska kraven enligt
+denna lag eller föreskrifter som har meddelats i anslutning
+till lagen, ska tillsynsmyndigheten förelägga tillverkaren,
+en avgiftsupptagare eller en betalningsförmedlare att
+
+1. endast använda utrustningen på visst angivet sätt,
+
+2. upphöra med användningen av utrustningen, eller
+
+3. återkalla utrustningen.
+
+Om teknisk utrustning som är CE-märkt inte överensstämmer med
+de tekniska kraven enligt denna lag eller föreskrifter som
+har meddelats i anslutning till lagen ska tillsynsmyndigheten
+förelägga tillverkaren att se till att utrustningen
+överensstämmer med kraven.
+
+Ett föreläggande gäller så länge som produkten inte
+överensstämmer med de tekniska kraven och får förenas med
+vite.
+
+Överklagande
+
+32 § Beslut enligt 5 och 9 §§, en myndighets beslut enligt 23 §
+andra stycket samt tillsynsmyndighetens beslut enligt denna lag
+eller enligt föreskrifter som har meddelats med stöd av lagen
+får överklagas till allmän förvaltningsdomstol.
+
+Prövningstillstånd krävs vid överklagande till kammarrätt.
+
+Bemyndiganden
+
+33 § Regeringen eller den myndighet som regeringen bestämmer
+får meddela föreskrifter om
+
+1. kraven för registrering som betalningsförmedlare,
+
+2. tekniska krav på ett elektroniskt vägtullssystem och den
+fordonsutrustning som ska användas i systemet,
+
+3. parametrar för klassificering av fordon,
+
+4. tillsyn, och
+
+5. avgifter för ärendehantering, registrering och tillsyn
+enligt denna lag och enligt föreskrifter som har meddelats
+med stöd av lagen.
