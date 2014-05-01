@@ -1,5 +1,3 @@
-
-
 Inledande bestämmelser
 
 1 § Denna lag gäller kärnteknisk verksamhet, m.m.
@@ -150,46 +148,74 @@ meddela föreskrifter om undantag eller i det enskilda fallet ge
 dispens från kravet på godkännande som avses i andra stycket 1.
 Lag (2006:339).
 
-5 a § Det är förbjudet att utan särskilt tillstånd här i
-landet slutförvara använt kärnbränsle eller kärnavfall från
-en kärnteknisk anläggning eller en annan kärnteknisk
-verksamhet i ett annat land. Detsamma gäller sådan lagring
-som sker i avvaktan på slutförvaring (mellanlagring).
-Tillstånd får ges endast om det finns synnerliga skäl och
-genomförandet av det program som avses i 12 § inte försvåras.
+5 a § Det är förbjudet att utan särskilt tillstånd av
+regeringen eller den myndighet som regeringen bestämmer
 
-Tillstånd enligt denna lag får inte avse transporter av
-använt kärnbränsle eller kärnavfall till platser eller länder
-som anges i 20 a § strålskyddslagen (1988:220).
-Lag (2010:948).
+1. i Sverige slutförvara eller i avvaktan på slutförvaring
+mellanlagra kärnavfall eller kärnämne som inte är avsett
+användas på nytt, om avfallet eller ämnet kommer från en
+kärnteknisk anläggning eller annan kärnteknisk verksamhet i
+ett annat land, eller
+
+2. utomlands slutförvara kärnavfall eller kärnämne som inte
+är avsett att användas på nytt, om avfallet eller ämnet
+kommer från en kärnteknisk anläggning eller annan kärnteknisk
+verksamhet i Sverige.
+
+Tillståndsplikten enligt första stycket 2 gäller inte
+
+1. kärnavfall eller kärnämne som efter behandling eller
+upparbetning i Sverige ska slutförvaras i det land där
+avfallet har uppkommit eller ämnet har sitt ursprung, eller
+
+2. sådant använt kärnbränsle från forskningsreaktorer som i
+enlighet med tillämpliga internationella avtal sänds till ett
+land som tar emot bränsle för forskningsreaktorer eller
+tillverkar sådant bränsle. Lag (2014:141).
 
 5 b § Vid prövning av ärenden enligt denna lag ska 2 kap. och
-5 kap. 3 §  miljöbalken tillämpas.
+5 kap. 3 § miljöbalken tillämpas. Vid prövning av tillstånd
+att uppföra, inneha och driva en ny kärnkraftsreaktor ska
+även 17 kap. 6 a § miljöbalken tillämpas.
 
-Vid prövning av tillstånd att uppföra, inneha och driva en ny
-kärnkraftsreaktor ska även 17 kap. 6 a § miljöbalken
-tillämpas.
+Ett tillstånd enligt denna lag får inte avse transporter av
+använt kärnbränsle eller kärnavfall till platser eller länder
+som anges i 20 a § strålskyddslagen (1988:220).
 
-Bestämmelser om att tillstånd krävs för vissa verksamheter
-och åtgärder finns i 7 kap. 28 a29 b §§ miljöbalken.
-Lag (2010:948).
+Ett tillstånd enligt 5 a § första stycket 1 får ges endast om
+det finns synnerliga skäl och genomförandet av det program
+som avses i 12 § inte försvåras. Ett tillstånd enligt 5 a §
+första stycket 2 får ges endast om det mellan Sverige och det
+andra landet finns ett avtal om slutförvaring och fördelarna
+med slutförvaring i det andra landet från
+kärnsäkerhetssynpunkt tydligt överväger fördelarna med
+slutförvaring i Sverige. Lag (2014:141).
 
 5 c § En miljökonsekvensbeskrivning ska ingå i en ansökan om
 tillstånd att uppföra, inneha eller driva en kärnteknisk
 anläggning. I fråga om förfarandet för att upprätta
 miljökonsekvensbeskrivningen och kraven på denna samt planer
 och planeringsunderlag gäller 6 kap. miljöbalken.
+Lag (2014:141).
 
-Regeringen eller den myndighet som regeringen bestämmer får
-meddela föreskrifter om att det i andra ärenden om tillstånd
-enligt denna lag ska upprättas en miljökonsekvensbeskrivning.
+5 d § Regeringen får meddela föreskrifter om vad som krävs
+för att ett sådant avtal om slutförvaring som avses i 5 b §
+tredje stycket ska kunna godtas som grund för ett
+tillstånd. Lag (2014:141).
 
-Regeringen eller den myndighet som regeringen bestämmer
+5 e § Regeringen eller den myndighet som regeringen bestämmer
+får meddela föreskrifter om att det ska upprättas en
+miljökonsekvensbeskrivning även i andra ärenden om tillstånd
+enligt denna lag än sådana som avses i 5 c §. Lag (2014:141).
+
+5 f § Regeringen eller den myndighet som regeringen bestämmer
 meddelar närmare föreskrifter om innehållet i och
-utformningen av en ansökan om tillstånd till kärnteknisk
-verksamhet. Lag (2010:948).
+utformningen av en ansökan om tillstånd enligt denna lag.
+Lag (2014:141).
 
-6 § Har upphävts genom lag (2006:339).
+6 § Bestämmelser om att tillstånd krävs för vissa
+verksamheter och åtgärder finns i 7 kap. 28 a–29 b §§
+miljöbalken. Lag (2014:141).
 
 7 § Ett tillstånd får begränsas till att avse en viss tid. Om
 tillståndet avser transport av använt kärnbränsle eller
@@ -349,13 +375,13 @@ utvecklingsverksamheten. Lag ( 1992:1536).
 skyldig att
 
 1. svara för kostnaderna för de åtgärder som avses i
-1012 §§, och
+10–12 §§, och
 
 2. ha en organisation för verksamheten med ekonomiska,
 administrativa och personella resurser som är tillräckliga
 för att kunna fullgöra
 
-a) de åtgärder som avses i 1012 §§,
+a) de åtgärder som avses i 10–12 §§,
 
 b) åtgärder som följer av villkor eller föreskrifter som har
 meddelats med stöd av denna lag, och
@@ -517,7 +543,7 @@ med uppsåt eller av oaktsamhet
 1. bedriver kärnteknisk verksamhet utan tillstånd enligt 5 §
 första stycket eller 5 a § första stycket,
 
-2. åsidosätter sin anmälningsskyldighet enligt 7 a7 c §§,
+2. åsidosätter sin anmälningsskyldighet enligt 7 a–7 c §§,
 eller
 
 3. åsidosätter villkor eller föreskrifter som meddelats med
@@ -538,7 +564,7 @@ med uppsåt eller av oaktsamhet
 1. bedriver kärnteknisk verksamhet utan tillstånd enligt 5 §
 första stycket eller 5 a § första stycket,
 
-2. åsidosätter sin anmälningsskyldighet enligt 7 a7 c §§,
+2. åsidosätter sin anmälningsskyldighet enligt 7 a–7 c §§,
 eller
 
 3. åsidosätter villkor eller föreskrifter som meddelats med
@@ -605,7 +631,7 @@ har beslutat enligt artikel 6.1 och 6.2,
 d) upprätthålla ett system för bokföring och kontroll av
 kärnämne eller ge kommissionen eller kommissionens
 inspektörer tillgång till dokumentation och driftrapporter
-enligt det som följer av artiklarna 79, 24.2 och 30.2,
+enligt det som följer av artiklarna 7–9, 24.2 och 30.2,
 
 e) lämna bokföringsrapporter enligt det som följer av
 artiklarna 10, 25 och 30.2,
