@@ -418,50 +418,7 @@ som ingår i slutlig skatt               avgiften ska betalas för.
 Med beskattningsår för fysisk person avses dock i fråga om
 preliminär skatt alltid kalenderår.
 
-5 § /Upphör att gälla U:2014-01-01/
-Om en juridisk persons beskattningsår har en annan slutdag
-än den 31 december, den 30 april, den 30 juni eller den
-31 augusti gäller andra och tredje styckena.
-
-I stället för det egentliga beskattningsåret avses med
-beskattningsår den av följande perioder som går ut närmast
-efter det egentliga beskattningsåret:
-
- 1 januari31 december,
-
- 1 maj30 april,
-
- 1 juli30 juni, eller
-
- 1 september31 augusti.
-
-Detta gäller vid tillämpning av
-
- 28 kap. 3 § andra stycket (när en preliminär
-inkomstdeklaration ska lämnas),
-
- 32 kap. 2 § (när en inkomstdeklaration ska lämnas),
-
- 49 kap. 10, 12 och 15 §§ (normalt tillgängligt
-kontrollmaterial),
-
- 55 kap. 2 § första stycket (debitering av preliminär skatt),
-
- 56 kap. 10 § (besked om slutlig skatt),
-
- 62 kap. 4 § första stycket och 5 § (betalning av preliminär
-skatt),
-
- 65 kap. 5, 6, 9, 17 och 18 §§ (beräkning av ränta),
-
- 66 kap. 13 och 26 §§ (omprövning av beslut om debitering av
-preliminär skatt), samt
-
- 67 kap. 15 § (överklagande av beslut om debitering av
-preliminär skatt).
-
-5 § /Träder i kraft I:2014-01-01/
-Om en juridisk persons beskattningsår har en annan
+5 § Om en juridisk persons beskattningsår har en annan
 slutdag än den 31 december, den 30 april, den 30 juni eller
 den 31 augusti gäller andra och tredje styckena.
 
@@ -1179,42 +1136,7 @@ ersättning för arbete
 
 Begränsade belopp
 
-4 § /Upphör att gälla U:2014-01-01/
-Skatteavdrag ska inte göras från ersättning för arbete om
-
-1. ersättningen understiger 100 kronor,
-
-2. det kan antas att den ersättning som utbetalaren sammanlagt
-kommer att betala ut till mottagaren under kalenderåret
-understiger 1 000 kronor,
-
-3. det kan antas att den ersättning som utbetalaren sammanlagt
-kommer att betala ut till mottagaren under kalenderåret
-understiger 10 000 kronor och
-
-a) utbetalaren är en fysisk person eller ett dödsbo,
-
-b) ersättningen inte utgör utgift i en näringsverksamhet som
-utbetalaren bedriver,
-
-c) utbetalaren och mottagaren inte har träffat en sådan
-överenskommelse som avses i 25 kap. 13 § 4
-socialförsäkringsbalken om att ersättningen ska anses som
-inkomst av anställning, samt
-
-d) det inte är fråga om sådan ersättning till en förmyndare,
-god man eller förvaltare som avses i 12 kap. 16 §
-föräldrabalken, eller
-
-4. ersättningen betalas ut till en idrottsutövare av en sådan
-ideell förening som avses i 7 kap. 7 § första stycket
-inkomstskattelagen (1999:1229) och som har till huvudsakligt
-syfte att främja idrottslig verksamhet och det kan antas att
-det som föreningen sammanlagt kommer att betala ut under
-kalenderåret understiger ett halvt prisbasbelopp.
-
-4 § /Träder i kraft I:2014-01-01/
-Skatteavdrag ska inte göras från ersättning för arbete
+4 § Skatteavdrag ska inte göras från ersättning för arbete
 om
 
 1. ersättningen understiger 100 kronor,
@@ -1280,8 +1202,8 @@ artister m.fl., ska skatteavdrag inte göras enligt
 bestämmelserna i detta kapitel utan enligt bestämmelserna i
 13 kap.
 
-Bestämmelserna i detta kapitel gäller dock, med undantag för 6
-§, om
+Bestämmelserna i detta kapitel gäller dock, med undantag för
+6 §, om
 
 1. Skatteverket enligt 5 a § tredje stycket lagen om särskild
 inkomstskatt för utomlands bosatta artister m.fl. har meddelat
@@ -1322,7 +1244,9 @@ ska tas ut och om Skatteverket träffar överenskommelse med
 behörig myndighet i den andra staten om att skatten ska tas ut
 där, får verket besluta att skatteavdrag enligt denna lag inte
 ska göras.
+
 Mottagare som är godkänd för F-skatt
+
 11 § Skatteavdrag ska inte göras om den som tar emot
 ersättning för arbete är godkänd för F-skatt antingen när
 ersättningen bestäms eller när den betalas ut.
@@ -1537,9 +1461,9 @@ kännedom om dem.
 
 Värdering av förmåner
 
-9 § Förmåner ska värderas enligt bestämmelserna i 61 kap. 217
-§§ inkomstskattelagen (1999:1229) om inte annat följer av 10
-eller 11 §.
+9 § Förmåner ska värderas enligt bestämmelserna i 61 kap.
+217 §§ inkomstskattelagen (1999:1229) om inte annat följer av
+10 eller 11 §.
 
 10 § Värdet av förmån av bostad i Sverige som inte är
 semesterbostad eller bostad som avses i 61 kap. 3 a §
@@ -1551,6 +1475,7 @@ Om Skatteverket har bestämt värdet av en bostadsförmån vid
 beräkning av underlag för arbetsgivaravgifter enligt 2 kap.
 10 c § socialavgiftslagen, ska detta värde användas i
 underlaget för beräkning av skatteavdrag.
+
 11 § Om Skatteverket har bestämt värdet av en bilförmån eller
 kostförmån vid beräkning av underlag för arbetsgivaravgifter
 enligt 2 kap. 10 b § socialavgiftslagen (2000:980), ska detta
@@ -1596,6 +1521,7 @@ som får dra av utgifterna vid beskattningen, och
 2. utgifterna kan beräknas uppgå till minst 10 procent av
 mottagarens ersättning från utbetalaren under
 beskattningsåret.
+
 Utgifterna ska beräknas enligt sådan schablon som avses i
 2 kap. 21 § tredje stycket socialavgiftslagen (2000:980). Om
 Skatteverket har bestämt hur utgifterna ska beräknas enligt
@@ -1603,7 +1529,6 @@ Skatteverket har bestämt hur utgifterna ska beräknas enligt
 beräkning användas.
 
 Skatteavdrag från ersättning för arbete till en fysisk person
-
 16 § Från ersättning för arbete som betalas ut till en fysisk
 person ska skatteavdrag göras i enlighet med beslut om
 preliminär A-skatt. Ett beslut om att skatteavdrag ska göras
@@ -1616,8 +1541,8 @@ beskattningsåret.
 
 Allmän eller särskild skattetabell
 
-17 § Skatteavdrag ska, om inte annat föreskrivs i 18 eller 19
-§, göras enligt en allmän skattetabell i fråga om sådan
+17 § Skatteavdrag ska, om inte annat föreskrivs i 18 eller
+19 §, göras enligt en allmän skattetabell i fråga om sådan
 ersättning som är mottagarens huvudinkomst. Om ersättningen
 inte är regelbunden, ska skatteavdrag dock göras enligt en
 särskild skattetabell för engångsbelopp enligt 12 kap. 6 §.
@@ -1626,13 +1551,16 @@ särskild skattetabell för engångsbelopp enligt 12 kap. 6 §.
 för sjukpenning m.m., om ersättningen för arbete är sådan som
 avses i 11 kap. 24 §, 30 § första stycket eller 31 § eller
 15 kap. 8 § inkomstskattelagen (1999:1229).
+
 Första stycket gäller inte om ersättningen är vårdbidrag
 enligt 22 kap. socialförsäkringsbalken.
+
 19 § Skatteavdrag ska göras enligt en särskild skattetabell
 för sjömän om ersättningen är sjöinkomst och mottagarens
 huvudinkomst. Om ersättningen inte är regelbunden, ska
 skatteavdrag dock göras enligt en särskild skattetabell för
 engångsbelopp enligt 12 kap. 6 §.
+
 Skatteavdrag med 30 procent
 
 20 § Från ersättning för arbete som betalas ut till en fysisk
@@ -1648,9 +1576,7 @@ vecka,
 3. redovisas i en förenklad arbetsgivardeklaration, eller
 
 4. är sådan som avses i 10 kap. 13 § och mottagaren är godkänd
-för
-
-F-skatt.
+för F-skatt.
 
 Obligatorisk förhöjning av skatteavdrag
 
@@ -1663,6 +1589,7 @@ vilket skatteavdrag som ska göras,
 2. den som ska ta emot ersättningen inte har visat upp ett
 beslut om preliminär A-skatt trots att utbetalaren har begärt
 detta, och
+
 3. ersättningen är mottagarens huvudinkomst.
 
 Ett förhöjt skatteavdrag ska göras enligt den skattetabell som
@@ -2529,48 +2456,7 @@ den person som anges i rapporten.
 
 Innehåll
 
-1 § /Upphör att gälla U:2014-01-01/
-I detta kapitel finns bestämmelser om skyldighet att
-lämna kontrolluppgift om
-
- överlåtelse av privatbostadsrätt och andelar i vissa
-bostadsföretag (2 och 3 §§),
-
- upplåtelse av privatbostad eller bostad som innehas med
-hyresrätt (4 §),
-
- samfällighet (5 och 6 §§),
-
- räntebidrag (7 §),
-
- pensionsförsäkringar och pensionssparkonton (8 och 9 §§),
-
- avskattning av pensionsförsäkring (10 §),
-
- tjänstepensionsavtal (11 §),
-
- underlag för avkastningsskatt på livförsäkringar (12 §),
-
- skattereduktion för förmån av hushållsarbete (13 §),
-
- elcertifikat (14 §),
-
- utsläppsrätter, utsläppsminskningsenheter och certifierade
-utsläppsminskningar (15 §),
-
- schablonintäkt vid innehav av ett investeringssparkonto
-(16 §),
-
- schablonintäkt vid innehav av andelar i investeringsfonder
-och fondföretag (1721 §§),
-
- gåva (22 §), och
-
- investeraravdrag (23 och 24 §§).
-Lag (2013:772).
-
-1 § /Träder i kraft I:2014-01-01/
-I detta kapitel finns bestämmelser om skyldighet att
+1 § I detta kapitel finns bestämmelser om skyldighet att
 lämna kontrolluppgift om
 
  överlåtelse av privatbostadsrätt och andelar i vissa
@@ -3086,9 +2972,7 @@ enligt de lagar som anges i 14 kap. 1 § 1,
 
 2. bestämmande av underlag för att ta ut egenavgifter enligt
 3 kap. socialavgiftslagen (2000:980),
-
 3. registrering av skatteavdrag,
-
 4. bestämmande av skattereduktion,
 
 5. beräkning av pensionsgrundande inkomst enligt 59 kap.
@@ -3138,6 +3022,7 @@ att vara skyldig att göra det,
 
 4. den som är skyldig att jämka ingående mervärdesskatt enligt
 8 a kap. eller 9 kap. 913 §§ mervärdesskattelagen,
+
 5. den som är skattskyldig för punktskatt enligt någon av de
 lagar som anges i 3 kap. 15 §, och
 
@@ -3145,6 +3030,7 @@ lagar som anges i 3 kap. 15 §, och
 inkomstskatt för utomlands bosatta eller lagen (1991:591) om
 särskild inkomstskatt för utomlands bosatta artister m.fl. och
 som ska redovisa och betala skatt enligt 13 kap. 6 och 7 §§.
+
 Vilken sorts skattedeklaration ska lämnas?
 
 Arbetsgivardeklaration
@@ -3160,6 +3046,7 @@ redovisningsperiod, behöver deklaration dock inte lämnas för
 den perioden. Det gäller även om bara en förenklad
 arbetsgivardeklaration enligt 4 § ska lämnas för
 redovisningsperioden.
+
 Förenklad arbetsgivardeklaration
 
 4 § En fysisk person eller ett dödsbo som har betalat ut
@@ -3580,22 +3467,7 @@ december                        17 januari
 
 Särskild deklarationstidpunkt
 
-33 § /Upphör att gälla U:2014-01-01/
-Den som har en redovisningsperiod som är längre än en
-kalendermånad ska redovisa skatten i en skattedeklaration som
-ska ha kommit in till Skatteverket senast den 26 i andra
-månaden efter redovisningsperiodens utgång, med undantag för
-december då deklarationen i stället ska ha kommit in senast
-den 27.
-
-Första stycket gäller inte den som enligt 11, 12 eller 13 §
-har kalenderkvartal som redovisningsperiod för mervärdesskatt.
-
-Första stycket gäller inte heller sådan period som avses i
-29 § andra stycket.
-
-33 § /Träder i kraft I:2014-01-01/
-Den som har en redovisningsperiod som är längre än en
+33 § Den som har en redovisningsperiod som är längre än en
 kalendermånad ska, om inte annat följer av 33 a eller 33 b §,
 redovisa skatten i en skattedeklaration som ska ha kommit in
 till Skatteverket senast den 26 i andra månaden efter
@@ -3609,8 +3481,7 @@ mervärdesskatt.
 Första stycket gäller inte heller sådan period som avses i
 29 § andra stycket. Lag (2013:1068).
 
-33 a § /Träder i kraft I:2014-01-01/
-Fysiska personer och dödsbon som har beskattningsår
+33 a § Fysiska personer och dödsbon som har beskattningsår
 som redovisningsperiod och ska lämna inkomstdeklaration, ska
 lämna mervärdesskattedeklaration senast den 12 maj året efter
 utgången av beskattningsåret.
@@ -3627,8 +3498,7 @@ med tillämpningen av artikel 196 i rådets direktiv
 2006/112/EG av den 28 november 2006 om ett gemensamt system
 för mervärdesskatt. Lag (2013:1068).
 
-33 b § /Träder i kraft I:2014-01-01/
-Juridiska personer, med undantag för dödsbon och
+33 b § Juridiska personer, med undantag för dödsbon och
 handelsbolag, som har beskattningsår som redovisningsperiod
 och ska lämna inkomstdeklaration, ska lämna
 mervärdesskattedeklaration enligt följande uppställning:
@@ -3654,8 +3524,7 @@ redovisningsperioden genomfört sådana omsättningar, förvärv
 eller överföringar som avses i 33 a § andra stycket.
 Lag (2013:1068).
 
-33 c § /Träder i kraft I:2014-01-01/
-Skatteverket ska besluta att
+33 c § Skatteverket ska besluta att
 mervärdesskattedeklaration ska ha kommit in senast vid den
 tidpunkt som anges i 33 § i stället för vid den tidpunkt som
 anges i 33 a eller 33 b §, om
@@ -3668,8 +3537,7 @@ Ett beslut enligt första stycket ska gälla minst två på
 varandra följande redovisningsperioder, om inte särskilda
 skäl talar emot det. Lag (2013:1068).
 
-33 d § /Träder i kraft I:2014-01-01/
-Om deklarationstidpunkten för mervärdesskatt för den
+33 d § Om deklarationstidpunkten för mervärdesskatt för den
 som har beskattningsår som redovisningsperiod ändras från
 eller till vad som gäller enligt 33 a eller 33 b §, ska den
 nya deklarationstidpunkten gälla från ingången av
@@ -3684,8 +3552,7 @@ Skatteverket får dock besluta att den nya
 deklarationstidpunkten ska gälla från en senare tidpunkt.
 Lag (2013:1068).
 
-33 e § /Träder i kraft I:2014-01-01/
-Den som saknar möjlighet att lämna
+33 e § Den som saknar möjlighet att lämna
 mervärdesskattedeklaration i rätt tid på grund av ett beslut
 enligt 33 c § ska lämna deklarationen senast den 12 i månaden
 efter beslutet, i januari eller augusti senast den 17.
@@ -3971,33 +3838,7 @@ Lag (2011:1289).
 
 Andra juridiska personer än dödsbon
 
-4 § /Upphör att gälla U:2014-01-01/
-En inkomstdeklaration ska lämnas av
-
-1. aktiebolag, ekonomiska föreningar och sådana stiftelser,
-andra liknande subjekt eller andra tillgångsmassor som enligt
-stiftelseförordnande eller motsvarande bestämmelse har till
-huvudsakligt ändamål att tillgodose viss släkts, vissa
-släkters eller bestämda fysiska personers ekonomiska
-intressen,
-
-2. sådana ideella föreningar och registrerade trossamfund som
-avses i 7 kap. 7 och 14 §§ inkomstskattelagen (1999:1229), om
-intäkterna under beskattningsåret har överstigit grundavdraget
-enligt 63 kap. 11 § den lagen,
-
-3. andra juridiska personer än sådana som avses i 1 och 2, med
-undantag för dödsbon och svenska handelsbolag, om de
-skattepliktiga intäkterna under beskattningsåret har uppgått
-till sammanlagt minst 200 kronor, och
-
-4. andra juridiska personer än dödsbon för vilka underlag för
-statlig fastighetsskatt, kommunal fastighetsavgift,
-avkastningsskatt på pensionsmedel eller särskild löneskatt på
-pensionskostnader ska fastställas. Lag (2011:1289).
-
-4 § /Träder i kraft I:2014-01-01/
-En inkomstdeklaration ska lämnas av
+4 § En inkomstdeklaration ska lämnas av
 
 1. aktiebolag, ekonomiska föreningar och sådana stiftelser,
 andra liknande subjekt eller andra tillgångsmassor som enligt
@@ -4530,9 +4371,7 @@ uppställning:
 
 Om beskattningsåret går         ska deklaration ha kommit in
 ut den                          senast den
-
 31 december                     1 juli
-
 30 april                        1 november
 
 30 juni                         15 december
@@ -4615,7 +4454,6 @@ pensionsutfästelse m.m.
 4 § Skatteverket får besluta om undantag från skyldigheten att
 lämna särskilda uppgifter enligt 3 § om uppgifterna inte
 behövs för kontroll av undantag från skattskyldigheten.
-
 Ett beslut om undantag ska avse en viss tid och får
 återkallas.
 
@@ -4661,7 +4499,6 @@ som äger en ersättningsbostad i utlandet med ett
 uppskovsbelopp enligt 47 kap. inkomstskattelagen (1999:1229),
 ska lämna särskilda uppgifter om sådana förhållanden som avses
 i 31 kap. 18 §.
-
 Redare
 
 8 § Redare ska för tillämpning av 64 kap. 2 § och 67 kap. 3 §
@@ -4672,7 +4509,6 @@ näringsverksamhet,
 
 2. vilka entreprenörer som redaren ska anlita för sin
 verksamhet, och
-
 3. övriga förhållanden som Skatteverket behöver känna till för
 att kunna bestämma vilka fartområden fartygen avses gå i.
 
@@ -4952,15 +4788,7 @@ uppgifter
 
 Ansökan om anstånd
 
-1 § /Upphör att gälla U:2014-01-01/
-Anstånd kan beviljas efter ansökan från den som ska lämna
-deklaration eller särskilda uppgifter.
-
-Anstånd enligt 3 § kan dock beviljas efter ansökan från den
-som i näringsverksamhet lämnar deklarationshjälp.
-
-1 § /Träder i kraft I:2014-01-01/
-Anstånd kan beviljas efter ansökan från den som ska lämna
+1 § Anstånd kan beviljas efter ansökan från den som ska lämna
 deklaration eller särskilda uppgifter.
 
 Anstånd enligt 3 eller 6 § kan dock beviljas efter ansökan
@@ -5000,15 +4828,7 @@ annan juridisk person än ett dödsbo anstånd med att lämna
 
 Skattedeklaration
 
-5 § /Upphör att gälla U:2014-01-01/
-Om det finns särskilda skäl, ska Skatteverket bevilja en
-deklarationsskyldig anstånd med att lämna skattedeklaration.
-
-Om förhållandena har ändrats så att det inte längre finns
-förutsättningar för anståndet, ska anståndet återkallas.
-
-5 § /Träder i kraft I:2014-01-01/
-Om det finns särskilda skäl, ska Skatteverket bevilja en
+5 § Om det finns särskilda skäl, ska Skatteverket bevilja en
 deklarationsskyldig anstånd med att lämna skattedeklaration
 om inte annat följer av andra eller tredje stycket.
 
@@ -5024,8 +4844,7 @@ Om förhållandena har ändrats så att det inte längre finns
 förutsättningar för anståndet, ska anståndet återkallas.
 Lag (2013:1068).
 
-6 § /Träder i kraft I:2014-01-01/
-Anstånd med att lämna mervärdesskattedeklaration ska
+6 § Anstånd med att lämna mervärdesskattedeklaration ska
 beviljas för fysiska personer och dödsbon som ska lämna
 mervärdesskattedeklaration i enlighet med 26 kap. 33 a § och
 som anlitar deklarationshjälp, om hjälpen lämnas i en
@@ -5226,7 +5045,8 @@ och 16 §§), och
 
 Definitioner
 
-2 § I denna lag avses med
+2 § /Upphör att gälla U:2014-06-13/
+I denna lag avses med
 
 kassaregister: kassaapparat, kassaterminal, kassasystem och
 liknande apparatur för registrering av försäljning av varor
@@ -5253,6 +5073,42 @@ Näringsverksamhet som huvudsakligen avser annan verksamhet än
 restaurang-, frisör- eller tvätteriverksamhet ska dock inte
 anses som sådan verksamhet. Lag (2013:27).
 
+2 § /Träder i kraft I:2014-06-13/
+I denna lag avses med
+
+kassaregister: kassaapparat, kassaterminal, kassasystem och
+liknande apparatur för registrering av försäljning av varor
+och tjänster mot kontant betalning eller mot betalning med
+kontokort,
+
+torg- och marknadshandel: all handel utom sådan som en
+näringsidkare stadigvarande bedriver i permanenta lokaler
+eller i omedelbar anslutning till dessa,
+
+distansavtal: avtal som ingås inom ramen för ett av
+näringsidkaren organiserat system för att träffa avtal på
+distans, om kommunikationen uteslutande sker på distans,
+
+hemförsäljningsavtal: avtal som ingås vid ett hembesök eller
+under en av näringsidkaren organiserad utflykt till en plats
+utanför dennes fasta försäljningsställe,
+
+restaurangverksamhet: näringsverksamhet som avser restaurang,
+pizzabutik och annat liknande avhämtningsställe, gatukök,
+kafé, personalmatsal, catering och centralkök,
+
+frisörverksamhet: näringsverksamhet som avser hårvård, samt
+
+tvätteriverksamhet: näringsverksamhet som avser rengöring av
+textilier eller därmed jämförbara material samt sådan
+uthyrning, färgning, lagning eller ändring av textilier eller
+därmed jämförbara material som sker i samband med den
+näringsverksamheten.
+
+Näringsverksamhet som huvudsakligen avser annan verksamhet än
+restaurang-, frisör- eller tvätteriverksamhet ska dock inte
+anses som sådan verksamhet. Lag (2014:18).
+
 Generell dokumentationsskyldighet
 
 3 § Den som är uppgiftsskyldig enligt 1535 kap. ska i skälig
@@ -5269,60 +5125,7 @@ Vem ska använda kassaregister?
 mot kontant betalning eller mot betalning med kontokort ska
 använda kassaregister.
 
-5 § /Upphör att gälla U:2014-01-01/
-Skyldigheten att använda kassaregister gäller inte för den
-som
-
-1. bara i obetydlig omfattning säljer varor eller tjänster mot
-kontant betalning eller mot betalning med kontokort,
-
-2. är befriad från skattskyldighet enligt inkomstskattelagen
-(1999:1229) för inkomst från sådan försäljning som avses i 4 §,
-
-3. bedriver taxitrafik enligt taxitrafiklagen (2012:211),
-
-4. säljer varor eller tjänster genom sådana distansavtal eller
-hemförsäljningsavtal som avses i distans- och
-hemförsäljningslagen (2005:59),
-
-5. säljer varor eller tjänster med hjälp av en varuautomat eller
-annan liknande automat eller i en automatiserad affärslokal,
-
-6. anordnar automatspel enligt lagen (1982:636) om anordnande av
-visst automatspel eller enligt lotterilagen (1994:1000), eller
-
-7. bedriver torg- och marknadshandel.
-
-Undantaget i första stycket 7 gäller inte för den som enligt
-8 kap. 1 § första stycket alkohollagen (2010:1622) har tillstånd
-för servering till allmänheten. Lag (2012:227).
-
-5 § /Träder i kraft I:2014-01-01/
-Skyldigheten att använda kassaregister gäller inte för
-den som
-
-1. bara i obetydlig omfattning säljer varor eller tjänster
-mot kontant betalning eller mot betalning med kontokort,
-
-2. är befriad från skattskyldighet enligt inkomstskattelagen
-(1999:1229) för inkomst från sådan försäljning som avses i
-4 §,
-
-3. bedriver taxitrafik enligt taxitrafiklagen (2012:211),
-
-4. säljer varor eller tjänster genom sådana distansavtal
-eller hemförsäljningsavtal som avses i distans- och
-hemförsäljningslagen (2005:59),
-
-5. säljer varor eller tjänster med hjälp av en varuautomat
-eller annan liknande automat eller i en automatiserad
-affärslokal, eller
-
-6. anordnar automatspel enligt lagen (1982:636) om anordnande
-av visst automatspel eller enligt lotterilagen (1994:1000).
-Lag (2013:384).
-
-5 § /Träder i kraft I:2014-01-02/
+5 § /Upphör att gälla U:2014-06-13/
 Skyldigheten att använda kassaregister gäller inte för
 den som
 
@@ -5351,6 +5154,35 @@ försäljning i obetydlig omfattning ska det särskilt beaktas
 om försäljningen normalt uppgår till eller kan antas komma
 att uppgå till sammanlagt högst fyra prisbasbelopp under ett
 beskattningsår. Lag (2013:1081).
+
+5 § /Träder i kraft I:2014-06-13/
+Skyldigheten att använda kassaregister gäller inte för
+den som
+
+1. bara i obetydlig omfattning säljer varor eller tjänster
+mot kontant betalning eller mot betalning med kontokort,
+
+2. är befriad från skattskyldighet enligt inkomstskattelagen
+(1999:1229) för inkomst från sådan försäljning som avses i
+4 §,
+
+3. bedriver taxitrafik enligt taxitrafiklagen (2012:211),
+
+4. säljer varor eller tjänster genom distansavtal eller
+hemförsäljningsavtal,
+
+5. säljer varor eller tjänster med hjälp av en varuautomat
+eller annan liknande automat eller i en automatiserad
+affärslokal, eller
+
+6. anordnar automatspel enligt lagen (1982:636) om anordnande
+av visst automatspel eller enligt lotterilagen (1994:1000).
+
+Vid bedömningen enligt första stycket 1 av om det är fråga om
+försäljning i obetydlig omfattning ska det särskilt beaktas
+om försäljningen normalt uppgår till eller kan antas komma
+att uppgå till sammanlagt högst fyra prisbasbelopp under ett
+beskattningsår. Lag (2014:18).
 
 6 § Vid tillämpningen av 4 och 5 §§ ska självständiga
 verksamheter inom ramen för en näringsverksamhet bedömas var
@@ -5967,7 +5799,6 @@ skattetillägg eller kontrollavgift, och
 
 2. föreläggandet avser utredning av en fråga som har samband
 med den misstänkta gärningen.
-
 Om den som ska föreläggas är en juridisk person, gäller första
 stycket även ställföreträdare för den juridiska personen.
 
@@ -5989,8 +5820,8 @@ Innehåll
 
  eftersökande och omhändertagande av handlingar (411 §§),
 
- försegling av lokal, förvaringsplats eller annat utrymme (12
-§),
+ försegling av lokal, förvaringsplats eller annat utrymme
+(12 §),
 
  beslut om bevissäkring (1316 §§), och
 
@@ -6002,8 +5833,8 @@ Definitioner
 
 1. revision i den reviderades verksamhetslokaler enligt 3 §,
 
-2. eftersökande och omhändertagande av handlingar enligt 411
-§§, samt
+2. eftersökande och omhändertagande av handlingar enligt
+411 §§, samt
 
 3. försegling av lokal, förvaringsplats eller annat utrymme
 enligt 12 §.
@@ -6065,6 +5896,7 @@ kontroll än revision inte har följts och det finns särskild
 anledning att anta att handlingen finns hos den som har
 förelagts, får handlingen eftersökas och tas om hand för
 granskning.
+
 9 § Hos den som inte får revideras men som kan föreläggas att
 lämna uppgift enligt 37 kap. 10 § får handling som han eller
 hon kan föreläggas att lämna uppgift om eftersökas och tas om
@@ -7082,8 +6914,10 @@ redovisas av den skattskyldige, ska beslut om skatten fattas
 för varje skattepliktig ersättning för sig med ledning av
 innehållet i en sådan särskild skattedeklaration som avses i
 26 kap. 9 § och andra tillgängliga uppgifter.
+
 Vad som föreskrivs i 53 kap. 2 § första stycket och 4 § gäller
 även sådan särskild skattedeklaration som avses i 26 kap. 9 §.
+
 2 § Skatteverket får inom den tid och på det sätt som gäller
 för omprövning besluta att den som är skattskyldig enligt
 lagen (1991:586) om särskild inkomstskatt för utomlands
@@ -7419,7 +7253,6 @@ utomlands bosatta eller lagen (1991:591) om särskild
 inkomstskatt för utomlands bosatta artister m.fl. som har
 betalats för den tid under beskattningsåret då den som
 beslutet gäller har varit obegränsat skattskyldig i Sverige,
-
 6. skatt enligt lagen om särskild inkomstskatt för utomlands
 bosatta som har betalats, om en begäran har gjorts enligt 4 §
 den lagen,
@@ -7482,14 +7315,12 @@ punktskatt har bestämts till noll kronor på grund av att
 deklaration inte har lämnats eller skatt eller avgift inte har
 redovisats och om uppgifterna i ärendet inte talar för något
 annat får skönsbeskattning ske enligt schablon.
-
 Vid skönsbeskattning enligt schablon ska skatten eller
 avgiften bestämmas till det högsta av de belopp, beräknat per
 kalendermånad, som har bestämts för skatten eller avgiften vid
 någon av de tre närmast föregående redovisningsperioderna
 multiplicerat med antalet kalendermånader i den
 redovisningsperiod som skönsbeskattningen omfattar.
-
 Första och andra styckena gäller inte
 
 1. beslut om mervärdesskatt eller punktskatt, om bara
@@ -7535,7 +7366,6 @@ När ställd säkerhet får tas i anspråk
 3 § Ställd säkerhet får tas i anspråk om den slutliga skatten
 inte betalas. Om flera säkerheter har ställts, ska skatten
 fördelas proportionellt mellan säkerheterna.
-
 Ersättning för säkerhet som inte behöver tas i anspråk
 
 4 § Om säkerheten inte behöver tas i anspråk, ska Skatteverket
@@ -7629,6 +7459,7 @@ Om mottagaren i sin tur betalar ersättning till den som utför
 arbetet, avses med skatten och avgifterna på ersättningen i
 stället skatteavdrag och arbetsgivaravgifter på den
 ersättningen.
+
 Andra stycket gäller inte om mottagaren är ett svenskt
 handelsbolag eller en i utlandet delägarbeskattad juridisk
 person som i sin tur betalar ersättning till en delägare.
@@ -7686,10 +7517,12 @@ juridiska personen har gjorts ansvarig för.
 Betalningsskyldigheten är knuten till den tidpunkt vid vilken
 skatten ursprungligen skulle ha dragits av eller anmälan
 skulle ha gjorts.
+
 13 § Om en företrädare för en juridisk person uppsåtligen
 eller av grov oaktsamhet inte har betalat skatt eller avgift,
 är företrädaren tillsammans med den juridiska personen skyldig
 att betala skatten eller avgiften.
+
 Betalningsskyldigheten är knuten till den tidpunkt vid vilken
 skatten eller avgiften ursprungligen skulle ha betalats.
 
@@ -7707,6 +7540,7 @@ tillsammans med den juridiska personen skyldig att betala
 beloppet. Detsamma gäller om de oriktiga uppgifterna har lett
 till att ingående mervärdesskatt eller punktskatt har betalats
 tillbaka med ett för högt belopp.
+
 15 § Om det finns särskilda skäl, får företrädaren helt eller
 delvis befrias från betalningsskyldigheten.
 
@@ -7864,16 +7698,7 @@ registreras på förfallodagen.
 Överskjutande ingående mervärdesskatt eller överskjutande
 punktskatt
 
-4 § /Upphör att gälla U:2014-01-01/
-Om överskjutande ingående mervärdesskatt eller
-överskjutande punktskatt redovisas i månaden efter
-redovisningsperioden, ska den registreras den 12, i januari
-den 17, i denna månad. Överskjutande skatt som redovisas
-senare ska registreras den dag då redovisningen senast ska
-lämnas.
-
-4 § /Träder i kraft I:2014-01-01/
-Om överskjutande ingående mervärdesskatt eller
+4 § Om överskjutande ingående mervärdesskatt eller
 överskjutande punktskatt redovisas efter
 redovisningsperiodens utgång men före den månad då
 redovisningen senast ska lämnas, ska den registreras den 12,
@@ -8032,36 +7857,7 @@ näringsverksamhet, eller
 
 När ska övriga skatter och avgifter betalas?
 
-8 § /Upphör att gälla U:2014-01-01/
-Slutlig skatt beräknad enligt 56 kap. 9 § ska betalas
-senast den förfallodag som infaller närmast efter det att
-90 dagar har gått från den dag då beslut om slutlig skatt
-fattades.
-
-Följande skatter och avgifter ska vara betalda senast den
-förfallodag som infaller närmast efter det att 30 dagar har
-gått från den dag beslut fattades:
-
-1. annan skatt än F-skatt och särskild A-skatt samt avgifter
-som har bestämts genom ett omprövningsbeslut eller efter ett
-beslut av domstol,
-
-2. förseningsavgift och skattetillägg som har bestämts genom
-ett omprövningsbeslut eller efter ett beslut av domstol samt
-kontrollavgift,
-
-3. särskild inkomstskatt som har beslutats enligt 54 kap. 2 §,
-samt
-
-4. skatt och avgift som ska betalas enligt ett beslut om
-ansvar enligt 59 kap.
-
-Slutlig skatt enligt andra stycket 1 samt förseningsavgift och
-skattetillägg enligt andra stycket 2 behöver dock inte betalas
-före den förfallodag som anges i första stycket.
-
-8 § /Träder i kraft I:2014-01-01/
-Slutlig skatt beräknad enligt 56 kap. 9 § ska betalas
+8 § Slutlig skatt beräknad enligt 56 kap. 9 § ska betalas
 senast den förfallodag som infaller närmast efter det att 90
 dagar har gått från den dag då beslut om slutlig skatt
 fattades.
@@ -8274,14 +8070,7 @@ efter ansökan. Skatteverket får dock bevilja anstånd enligt
 
 Deklarationsanstånd
 
-3 § /Upphör att gälla U:2014-01-01/
-Om Skatteverket beviljar anstånd med att lämna
-skattedeklaration enligt 36 kap. 5 §, får verket också bevilja
-motsvarande anstånd med betalning av den skatt och de avgifter
-som ska redovisas i deklarationen.
-
-3 § /Träder i kraft I:2014-01-01/
-Om Skatteverket beviljar anstånd med att lämna
+3 § Om Skatteverket beviljar anstånd med att lämna
 skattedeklaration enligt 36 kap. 5 §, får verket också
 bevilja motsvarande anstånd med betalning av den skatt och de
 avgifter som ska redovisas i deklarationen.
@@ -8834,6 +8623,7 @@ Basräntan ska fastställas på grundval av 125 procent av
 räntesatsen för sexmånaders statsskuldväxlar och gälla från
 och med kalendermånaden närmast efter fastställandet.
 Basräntan får dock beräknas till lägst 1,25 procent.
+
 4 § Kostnadsränta beräknas, om inte annat föreskrivs, efter en
 räntesats som motsvarar basräntan.
 
@@ -8907,6 +8697,7 @@ månaden efter beskattningsåret eller senare eller slutlig
 skatt ska betalas, ska kostnadsränta beräknas från och med den
 13 i andra månaden efter beskattningsåret, om inte annat
 följer av 4 § andra stycket.
+
 För skatt enligt 2 § första stycket 69 lagen (1990:661) om
 avkastningsskatt på pensionsmedel gäller dock 8 §.
 Lag (2011:1289).
@@ -9159,6 +8950,7 @@ länge beslutet i den fråga som har föranlett skattetillägget
 inte har fått laga kraft.
 
 Förlängd tid för omprövning av skatt på ackumulerad inkomst
+
 10 § En begäran om omprövning som avser särskild
 skatteberäkning för ackumulerad inkomst och föranleds av ett
 beslut i ett ärende eller mål, får komma in inom ett år från
@@ -9328,71 +9120,7 @@ meddelas inom sex månader från utgången av beskattningsåret.
 
 Efterbeskattning  omprövning till nackdel efter tvåårsfristen
 
-27 § /Upphör att gälla U:2014-01-01/
-Ett beslut om omprövning till nackdel för den som
-beslutet gäller av ett beslut om skatt eller avgift som avses
-i 2 kap. 2 § får meddelas inom sex år från utgången av det
-kalenderår då beskattningsåret har gått ut (efterbeskattning)
-om
-
-1. ett beslut har blivit felaktigt eller inte fattats på grund
-av att den uppgiftsskyldige
-
-a) under förfarandet har lämnat oriktig uppgift till ledning
-för egen beskattning,
-
-b) har lämnat oriktig uppgift i ett mål om egen beskattning,
-
-c) inte har lämnat en deklaration eller låtit bli att lämna en
-begärd uppgift, eller
-
-d) inte har lämnat begärt varuprov,
-
-2. en felräkning, felskrivning eller något annat uppenbart
-förbiseende ska rättas,
-
-3. kontrolluppgift som ska lämnas utan föreläggande har
-saknats eller varit felaktig och den som uppgiften ska lämnas
-för inte har varit skyldig att lämna inkomstdeklaration,
-
-4. det föranleds av ett beslut i ett ärende eller mål
-
-a) om en annan skatt eller avgift som avses i 2 kap. 2 §,
-eller samma skatt eller avgift som avses i 2 kap. 2 §, men för
-en annan redovisningsperiod, ett annat beskattningsår eller en
-annan person,
-
-b) om fastighetstaxering,
-
-c) om utländsk skatt eller om obligatoriska utländska
-socialförsäkringsavgifter som avses i 62 kap. 6 §
-inkomstskattelagen (1999:1229),
-
-d) enligt lagen (2005:807) om ersättning för viss
-mervärdesskatt för kommuner, landsting, kommunalförbund och
-samordningsförbund,
-
-e) om huruvida en inkomst ska beskattas enligt
-inkomstskattelagen eller enligt lagen (1991:586) om särskild
-inkomstskatt för utomlands bosatta eller lagen (1991:591) om
-särskild inkomstskatt för utomlands bosatta artister m.fl.,
-eller
-
-f) om Skatteverkets prissättningsbesked enligt lagen
-(2009:1289) om prissättningsbesked vid internationella
-transaktioner eller beslut om ändring av sådant
-prissättningsbesked,
-
-5. en förening eller ett registrerat trossamfund inte har
-genomfört en investering inom den tid som föreskrivs i ett
-sådant beslut som avses i 7 kap. 12 § inkomstskattelagen eller
-inte har följt ett annat villkor i beslutet, eller
-
-6. det föranleds av en uppgift om skalbolag enligt 31 kap.
-14 §. Lag (2012:387).
-
-27 § /Träder i kraft I:2014-01-01/
-Ett beslut om omprövning till nackdel för den som
+27 § Ett beslut om omprövning till nackdel för den som
 beslutet gäller av ett beslut om skatt eller avgift som avses
 i 2 kap. 2 § får meddelas inom sex år från utgången av det
 kalenderår då beskattningsåret har gått ut (efterbeskattning)
@@ -10238,9 +9966,9 @@ b) minst 2 000 kronor för andra betalningsskyldiga, och
 2. den betalningsskyldige har uppmanats att betala beloppet.
 
 En fordran på en betalningsskyldig som avses i första stycket
-1 a ska också lämnas för indrivning, om ett belopp på minst 2
-000 kronor har varit obetalt under en längre tid trots att den
-betalningsskyldige har uppmanats att betala beloppet.
+1 a ska också lämnas för indrivning, om ett belopp på minst
+2 000 kronor har varit obetalt under en längre tid trots att
+den betalningsskyldige har uppmanats att betala beloppet.
 
 2 § Om det finns särskilda skäl får Skatteverket
 
@@ -10248,6 +9976,7 @@ betalningsskyldige har uppmanats att betala beloppet.
 
 2. lämna en fordran för indrivning även om förutsättningarna
 enligt 1 § inte är uppfyllda.
+
 3 § Vid indrivning får verkställighet enligt utsökningsbalken
 ske.
 
@@ -10351,7 +10080,6 @@ punktskatt:
                                 beskattningsår, den
                                 redovisningsperiod som börjar
                                 den 1 februari 2012
-
  för förvärv och händelser
 som medför skattskyldighet
 och som inte ska hänföras
@@ -10454,7 +10182,7 @@ den uppgiftsskyldige vidtar efter ikraftträdandet.
 
 Det som föreskrivs i första stycket c gäller även
 skattetillägg på grund av att skatteavdrag, som ska göras
-efter utgången av 2011, inte har gjorts.
+efter utgången av 2011, inte ha
 
 11. Bestämmelserna om skattekonton i 61 kap. 3 och 7 §§, om
 betalning av skatter och avgifter i 62 kap. 1016 §§, om
@@ -10484,6 +10212,7 @@ i övergångsbestämmelserna till lagen (2007:1251) om ändring i
 inkomstskattelagen. Uppgift ska också lämnas om verksamheten
 inte drivs vidare på sätt som anges i punkt 9 andra stycket i
 övergångsbestämmelserna till nämnda lag.
+
 Det som sägs i första stycket gäller även för den som under
 2007 har avyttrat en sådan andel som avses i 50 kap. 7 § och
 57 kap. 21 § inkomstskattelagen och som enligt punkten 2 i
@@ -10498,7 +10227,6 @@ första eller andra stycket. Uppgift enligt första och andra
 styckena ska lämnas när skyldigheten att lämna
 inkomstdeklaration fullgörs för det beskattningsår då sådan
 omständighet har inträffat som utlöser uppgiftsskyldigheten.
-
 Om en ändring i ett beslut om slutlig skatt föranleds av en
 uppgift som har lämnats eller skulle ha lämnats enligt första
 och andra styckena, får efterbeskattning ske enligt 66 kap.
@@ -10556,10 +10284,10 @@ inletts före utgången av 2011.
 
 Den upphävda lagen gäller också fortfarande för tvångsåtgärder
 som avser skatt, tull och avgift som inte ska tas ut enligt
-skatteförfarandelagen för beskattningsår,
-redovisningsperioder, förvärv och skattepliktiga händelser som
-har påbörjats, avslutats, genomförts respektive inträffat före
-utgången av 2011.
+skatteförfarandelagen för beskattningsår, redovisningsperioder,
+förvärv och skattepliktiga händelser som har påbörjats,
+avslutats, genomförts respektive inträffat före utgången av
+2011.
 
 18. Skattebetalningslagen (1997:483) ska upphöra att gälla vid
 utgången av 2011. Den upphävda lagen gäller dock fortfarande,
@@ -10569,9 +10297,11 @@ skattepliktiga händelser som har påbörjats, avslutats,
 genomförts respektive inträffat före den tidpunkt då
 skatteförfarandelagen enligt punkten 1 ska tillämpas för
 första gången.
+
 Överklagandeförbudet i 22 kap. 2 § första stycket 4 den
 upphävda lagen gäller inte vitesförelägganden som meddelas
 efter utgången av 2011.
+
 19. F-skatt och särskild A-skatt som enligt 11 kap. 3 §
 skattebetalningslagen (1997:483) ska debiteras senast den
 18 januari 2012 ska för den som har ett brutet räkenskapsår
@@ -10596,24 +10326,7 @@ skattebetalningslagen ska gälla som sista dag för betalningen.
 i fråga om skatt enligt lagen (1984:409) om skatt på
 gödselmedel som hänför sig till tiden före den 1 januari 2010.
 
-21. /Upphör att gälla U:2014-01-02/
-Lagen (1998:514) om särskild skattekontroll av torg- och
-marknadshandel m.m., lagen (2006:575) om särskild
-skattekontroll i vissa branscher och lagen (2007:592) om
-kassaregister m.m. ska upphöra att gälla vid utgången av 2011.
-De upphävda lagarna gäller dock fortfarande för kontroller som
-har inletts före utgången av 2011.
-
-Överklagandeförbuden i 7 § andra stycket lagen om särskild
-skattekontroll av torg- och marknadshandel m.m., 19 § första
-stycket lagen om särskild skattekontroll i vissa branscher och
-32 § första stycket lagen om kassaregister m.m. gäller inte
-vitesförelägganden som meddelas efter utgången av 2011.
-Vitesförelägganden som meddelas efter den tidpunkten gäller
-omedelbart.
-
-21. /Träder i kraft I:2014-01-02/
-Lagen (1998:514) om särskild skattekontroll av torg- och
+21. Lagen (1998:514) om särskild skattekontroll av torg- och
 marknadshandel m.m., lagen (2006:575) om särskild
 skattekontroll i vissa branscher och lagen (2007:592) om
 kassaregister m.m. ska upphöra att gälla vid utgången av
