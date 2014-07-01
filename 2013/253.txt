@@ -1,52 +1,49 @@
-
-
-/Träder i kraft I:2013-06-18/
 1 § Denna förordning gäller verksamheter med förbränning av
 fast eller flytande avfall i en förbränningsanläggning och
 verksamheter med behandling av avloppsvatten från rening av
 rökgaser från en förbränningsanläggning. Förordningen
 innehåller bestämmelser om
 
- förordningens tillämpning (220 §§),
+– förordningens tillämpning (2–20 §§),
 
- avfall och restprodukter (2126 §§),
+– avfall och restprodukter (21–26 §§),
 
- vissa förebyggande åtgärder (2730 §§),
+– vissa förebyggande åtgärder (27–30 §§),
 
- skorsten, temperatur, stödbrännare, absoluta
-begränsningsvärden och värmeåtervinning (3137 §§),
+– skorsten, temperatur, stödbrännare, absoluta
+begränsningsvärden och värmeåtervinning (31–37 §§),
 
- mätningar och mätresultat (3853 §§),
+– mätningar och mätresultat (38–53 §§),
 
- beräkningar av dioxiner och furaner (54 §),
+– beräkningar av dioxiner och furaner (54 §),
 
- beräkningar vid procentuell syrehalt (55 §),
+– beräkningar vid procentuell syrehalt (55 §),
 
- utsläpp till luft från avfallsförbränningsanläggningar
-(5666 §§),
+– utsläpp till luft från avfallsförbränningsanläggningar
+(56–66 §§),
 
- utsläpp till luft från samförbränning i cementugnar
-(6770 §§),
+– utsläpp till luft från samförbränning i cementugnar
+(67–70 §§),
 
- blandningsberäkning vid samförbränning (7179 §§),
+– blandningsberäkning vid samförbränning (71–79 §§),
 
- utsläpp till luft från energianläggningar (8096 §§),
+– utsläpp till luft från energianläggningar (80–96 §§),
 
- utsläpp till luft från industrianläggningar (9799 §§),
+– utsläpp till luft från industrianläggningar (97–99 §§),
 
- utsläpp genom avloppsvatten (100103 §§),
+– utsläpp genom avloppsvatten (100–103 §§),
 
- ändring av en verksamhet (104 §),
+– ändring av en verksamhet (104 §),
 
- dispenser (105 §),
+– dispenser (105 §),
 
- uppgifter i miljörapport (106 §), och
+– uppgifter i miljörapport (106 §), och
 
- information till Naturvårdsverket och Europeiska
-kommissionen (107109 §§).
+– information till Naturvårdsverket och Europeiska
+kommissionen (107–109 §§).
 
 Förordningen är meddelad med stöd av 9 kap. 5 § miljöbalken i
-fråga om 1747 och 49103 §§, med stöd av 9 kap. 6 §
+fråga om 17–47 och 49–103 §§, med stöd av 9 kap. 6 §
 miljöbalken i fråga om 104 § och i övrigt med stöd av 8 kap.
 7 § regeringsformen.
 
@@ -434,7 +431,7 @@ organiska ämnen i restprodukterna.
 29 § En förbränningsanläggning ska ha en utformning och
 verksamheten på den bedrivas så att
 
-1. om ett begränsningsvärde för utsläpp enligt 56100 §§
+1. om ett begränsningsvärde för utsläpp enligt 56–100 §§
 överskrids
 
 a) förbränning av avfall aldrig oavbrutet fortsätter med
@@ -528,15 +525,15 @@ förbränningskammaren.
 
 Under perioder som avses i första stycket 2 får stödbrännaren
 inte eldas med ett bränsle som kan orsaka större utsläpp än
-vad som uppkommer vid förbränning av sådana gasoljor som
-anges i 2 § 5 och 8 förordningen (1998:946) om svavelhaltigt
-bränsle.
+vad som uppkommer vid förbränning av dieselbränslen som anges
+i 4 och 5 §§ svavelförordningen (2014:509).
 
 Ett tillståndsvillkor eller föreläggandevillkor som i fråga
 om en viss avfallskategori eller en viss termisk process
 avviker från det som sägs i första och andra styckena får
 tillämpas, om det inte medför mer restprodukter eller högre
 halter av förorenande organiska ämnen i restprodukterna.
+Förordning (2014:512).
 
 Absoluta begränsningsvärden
 
@@ -704,7 +701,7 @@ tallium, arsenik, bly, krom, koppar, nickel och zink, och
 tolv driftmånader och därefter minst en gång per halvår mäta
 dioxiner och furaner.
 
-Mätningar enligt första stycket 24 ska göras med ofiltrerade
+Mätningar enligt första stycket 2–4 ska göras med ofiltrerade
 stickprov. I fråga om suspenderat material ska mätningarna
 göras på det sätt som krävs enligt föreskrifter som har
 meddelats med stöd av 9 kap. 5 § miljöbalken om kontroll av
@@ -889,7 +886,7 @@ uppmätts vid den uppmätta syrehalten.
 
 Utsläpp till luft från avfallsförbränningsanläggningar
 
-56 § Begränsningsvärdena i 5766 §§ avser normal torr gas med
+56 § Begränsningsvärdena i 57–66 §§ avser normal torr gas med
 11 procents syrehalt. Vid förbränning av spillolja avser
 begränsningsvärdena dock 3 procents syrehalt.
 
@@ -1042,7 +1039,7 @@ kubikmeter normal torr gas.
 
 Utsläpp till luft från samförbränning i cementugnar
 
-67 § Begränsningsvärdena i 6870 §§ avser normal torr gas med
+67 § Begränsningsvärdena i 68–70 §§ avser normal torr gas med
 10 procents syrehalt.
 
 68 § Från en cementugn som är en samförbränningsanläggning
@@ -1098,14 +1095,14 @@ per kubikmeter normal torr gas.
 Blandningsberäkning vid samförbränning
 
 71 § I fråga om sådana utsläpp till luft från
-samförbränningsanläggningar som avses i 8093 och 97 §§ ska
+samförbränningsanläggningar som avses i 80–93 och 97 §§ ska
 det tal som anger högsta tillåtna föroreningsmängd bestämmas
 genom en blandningsberäkning som ska innehålla
 
 1. de avfallsflödesvärden som avses i 72 §,
 
 2. de avfallsgränsvärden för den aktuella föroreningen som
-anges i 8193 och 97 §§,
+anges i 81–93 och 97 §§,
 
 3. ett standardsyreavfallsvärde för spillolja, om spillolja
 förbränns i anläggningen, som beräknas genom att
@@ -1122,7 +1119,7 @@ standardsyreavfallsvärden beräknade enligt 4,
 
 6. de processflödesvärden som avses i 73 §,
 
-7. de processgränsvärden som följer av 7476 och 79 §§,
+7. de processgränsvärden som följer av 74–76 och 79 §§,
 
 8. ett bränsleprocessvärde för varje bränsle, som beräknas
 genom att processflödesvärdet för bränslet multipliceras med
@@ -1142,7 +1139,7 @@ samförbränningsvärdet med samförbränningsflödesvärdet efter
 det att alla värden normaliserats till samma syrehalt i
 enlighet med 55 §.
 
-Vid tillämpningen av denna paragraf och 7279 §§ ska avfall
+Vid tillämpningen av denna paragraf och 72–79 §§ ska avfall
 som avses i 17 § betraktas som annat bränsle än avfall.
 
 72 § Vid blandningsberäkning enligt 71 § ska ett
@@ -1174,25 +1171,25 @@ syrehalt inte är angiven för begränsningsvärdet, den syrehalt
 som gasen har utan spädning genom tillförsel av luft som inte
 behövs för processen.
 
-74 § Processgränsvärden som anges i 8193 och 97 §§ eller som
+74 § Processgränsvärden som anges i 81–93 och 97 §§ eller som
 bestäms enligt denna förordning ska avse milligram per
 kubikmeter normal torr gas med sex procents syrehalt, om
 bränslet är fast, och tre procents syrehalt, om bränslet är
 flytande.
 
-Avfallsgränsvärden i 8193 och 97 §§ eller som bestäms enligt
+Avfallsgränsvärden i 81–93 och 97 §§ eller som bestäms enligt
 denna förordning ska avse milligram per kubikmeter normal
 torr gas med elva procents syrehalt. Vid förbränning av
 spillolja avser avfallsgränsvärdena dock normal torr gas med
 tre procents syrehalt.
 
 75 § Vid blandningsberäkning enligt 71 § ska som
-processgränsvärde användas det tal som anges i 8193 och 97
+processgränsvärde användas det tal som anges i 81–93 och 97
 §§. Om ett tillståndsvillkor eller föreläggandevillkor anger
 ett strängare processgränsvärde, ska dock det värdet
 användas.
 
-Om processgränsvärdet inte framgår av 8193 och 97 §§, ska
+Om processgränsvärdet inte framgår av 81–93 och 97 §§, ska
 
 1. det processgränsvärde som har bestämts i ett
 tillståndsvillkor eller föreläggandevillkor användas, eller
@@ -1226,7 +1223,7 @@ processgränsvärde tillämpas. Om tillståndsvillkoret anger det
 begränsningsvärde som en blandningsberäkning enligt 71 § ger
 och detta framgår av tillståndsvillkoret, ska
 verksamhetsutövaren tillämpa villkorets begränsningsvärde i
-stället för det som följer av 7176, 7993 och 97 §§.
+stället för det som följer av 71–76, 79–93 och 97 §§.
 
 78 § I fråga om utsläpp som inte omfattas av ett
 tillståndsvillkor som avses i 77 § ska tillsynsmyndigheten i
@@ -1239,14 +1236,14 @@ föreläggandevillkoren anger det begränsningsvärde som en
 blandningsberäkning enligt 71 § ger och detta framgår av
 föreläggandevillkoret, ska verksamhetsutövaren tillämpa
 villkorets begränsningsvärde i stället för det som följer av
-7176, 7993 och 97 §§.
+71–76, 79–93 och 97 §§.
 
-79 § De processgränsvärden som anges i 8192 §§ ska inte
+79 § De processgränsvärden som anges i 81–92 §§ ska inte
 tillämpas på gasturbiner eller ottomotorer.
 
 Sammanlagda utsläpp från energianläggningar
 
-80 § Vid tillämpningen av bestämmelserna i 8192 §§ ska två
+80 § Vid tillämpningen av bestämmelserna i 81–92 §§ ska två
 eller flera separata samförbränningsanläggningar anses vara
 en enda samförbränningsanläggning, om
 
@@ -1327,7 +1324,7 @@ genomsnitt under varje dygn inte innehålla mer svaveldioxid
 än det antal milligram per kubikmeter normal torr gas som
 bestäms genom en blandningsberäkning enligt 71 § med
 avfallsgränsvärdet 50 och det processgränsvärde som följer av
-7578 §§.
+75–78 §§.
 
 86 § Från en energianläggning med en installerad tillförd
 effekt som är 50 megawatt eller högre, dock högst 100
@@ -1408,7 +1405,7 @@ timme,
 2. avfallsgränsvärdet 200, om anläggningen inte omfattas av
 1, och
 
-3. det processgränsvärde som följer av 7578 §§.
+3. det processgränsvärde som följer av 75–78 §§.
 
 90 § Från en energianläggning med en installerad tillförd
 effekt som är 50 megawatt eller högre, dock högst 100
@@ -1496,22 +1493,22 @@ genomsnitt under varje dygn inte innehålla
 1. mer kolmonoxid än det antal milligram per kubikmeter
 normal torr gas som bestäms genom en blandningsberäkning
 enligt 71 § med avfallsgränsvärdet 50 och det
-processgränsvärde som följer av 7578 §§,
+processgränsvärde som följer av 75–78 §§,
 
 2. mer totalt organiskt kol än det antal milligram per
 kubikmeter normal torr gas som bestäms genom en
 blandningsberäkning enligt 71 § med avfallsgränsvärdet 10 och
-det processgränsvärde som följer av 7578 §§,
+det processgränsvärde som följer av 75–78 §§,
 
 3. mer väteklorid än det antal milligram per kubikmeter
 normal torr gas som bestäms genom en blandningsberäkning
 enligt 71 § med avfallsgränsvärdet 10 och det
-processgränsvärde som följer av 7578 §§, och
+processgränsvärde som följer av 75–78 §§, och
 
 4. mer vätefluorid än det antal milligram per kubikmeter
 normal torr gas som bestäms genom en blandningsberäkning
 enligt 71 § med avfallsgränsvärdet 1 och det
-processgränsvärde som följer av 7578 §§.
+processgränsvärde som följer av 75–78 §§.
 
 Tungmetaller, dioxiner och furaner från energianläggningar
 
@@ -1548,44 +1545,44 @@ genomsnitt under varje dygn inte innehålla
 1. mer stoft än det antal milligram per kubikmeter normal
 torr gas som bestäms genom en blandningsberäkning enligt 71 §
 med avfallsgränsvärdet 10 och det processgränsvärde som
-följer av 7578 §§,
+följer av 75–78 §§,
 
 2. mer kväveoxider än det antal milligram per kubikmeter
 normal torr gas som bestäms genom en blandningsberäkning
 enligt 71 § med
 
 a) avfallsgränsvärdet 400 och det processgränsvärde som
-följer av 7578 §§, om anläggningen är en 2002-anläggning
+följer av 75–78 §§, om anläggningen är en 2002-anläggning
 vars förbränningskapacitet är högst 6 ton per timme, eller
 
 b) avfallsgränsvärdet 200 och det processgränsvärde som
-följer av 7578 §§, om anläggningen inte omfattas av a,
+följer av 75–78 §§, om anläggningen inte omfattas av a,
 
 3. mer svaveldioxid än det antal milligram per kubikmeter
 normal torr gas som bestäms genom en blandningsberäkning
 enligt 71 § med avfallsgränsvärdet 50 och det
-processgränsvärde som följer av 7578 §§,
+processgränsvärde som följer av 75–78 §§,
 
 4. mer totalt organiskt kol än det antal milligram per
 kubikmeter normal torr gas som bestäms genom en
 blandningsberäkning enligt 71 § med avfallsgränsvärdet 10 och
-det processgränsvärde som följer av 7578 §§,
+det processgränsvärde som följer av 75–78 §§,
 
 5. mer väteklorid än det antal milligram per kubikmeter
 normal torr gas som bestäms genom en blandningsberäkning
 enligt 71 § med avfallsgränsvärdet 10 och det
-processgränsvärde som följer av 7578 §§,
+processgränsvärde som följer av 75–78 §§,
 
 6. mer vätefluorid än det antal milligram per kubikmeter
 normal torr gas som bestäms genom en blandningsberäkning
 enligt 71 § med avfallsgränsvärdet 1 och det
-processgränsvärde som följer av 7578 §§, eller
+processgränsvärde som följer av 75–78 §§, eller
 
 7. mer antimon, arsenik, bly, krom, kobolt, koppar, mangan,
 nickel eller vanadin än sammanlagt det antal milligram per
 kubikmeter normal torr gas som bestäms genom en
 blandningsberäkning enligt 71 § med avfallsgränsvärdet 0,5
-och det processgränsvärde som följer av 7578 §§.
+och det processgränsvärde som följer av 75–78 §§.
 
 98 § Från en industrianläggning får utsläpp till luft i
 genomsnitt under varje period som är minst 30 minuter och
@@ -1637,7 +1634,7 @@ vid varje mätning som görs för att kontrollera
 föroreningshalten och 30 milligram per liter vid 95 procent
 av alla sådana mätningar.
 
-101 § Ett begränsningsvärde i 100 § 210 får överskridas vid
+101 § Ett begränsningsvärde i 100 § 2–10 får överskridas vid
 högst
 
 1. ett stickprov per år, eller
@@ -1658,7 +1655,7 @@ slutrenade avloppsvattnet från behandlingsanläggningen som
 kan hänföras till den del av avloppsvattnet som kommer från
 reningen av rökgaser. Beräkningen ska göras med hjälp av
 massbalansberäkningar och med utgångspunkt i resultaten av de
-mätningar av utsläpp till luft som görs enligt 4244 och 50
+mätningar av utsläpp till luft som görs enligt 42–44 och 50
 §§.
 
 103 § Avloppsvatten får inte spädas ut för att uppfylla
@@ -1785,7 +1782,7 @@ b) processgränsvärdet 30 gälla i stället för det som sägs i
 83 § 2 och 3 samt 84 § 2,
 
 c) processgränsvärdet 850 gälla i stället för det som sägs i
-86 § 24,
+86 § 2–4,
 
 d) processgränsvärdet 400 med linjär minskning till 200 gälla
 i stället för det som sägs i 87 § 3 a och den linjära
