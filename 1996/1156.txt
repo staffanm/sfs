@@ -1,5 +1,3 @@
-
-
 Inledande bestämmelser
 
 1 § För de ändamål som anges i 6 § får E-hälsomyndigheten med
@@ -39,6 +37,7 @@ receptregistret. Lag (2013:1021).
 
 1. expediering av läkemedel och andra varor som
 förskrivits,
+
 2. registrering av underlaget för tillämpningen
 av bestämmelserna om läkemedelsförmåner vid köp av läkemedel
 m.m.,
@@ -72,11 +71,16 @@ och omsorg av uppgifter om enskild läkares eller tandläkares
 förskrivning av narkotiskt läkemedel eller annat särskilt
 läkemedel, för inspektionens tillsyn över hälso- och
 sjukvårdspersonal enligt patientsäkerhetslagen (2010:659),
-och
 
 10. registrering och redovisning av uppgifter för Tandvårds-
 och läkemedelsförmånsverkets tillsyn över utbyte av läkemedel
-enligt 21 § lagen (2002:160) om läkemedelsförmåner m.m.
+enligt 21 § lagen (2002:160) om läkemedelsförmåner m.m.,
+eller
+
+11. registrering och redovisning av uppgifter för
+Läkemedelsverkets tillsyn över öppenvårdsapotekens
+tillhandahållandeskyldighet enligt 2 kap. 6 § första stycket
+3 lagen (2009:366) om handel med läkemedel.
 
 Behandling av personuppgifter för ändamål som avses i första
 stycket 2 och 8, med undantag för registrering av
@@ -99,7 +103,7 @@ enligt första stycket 9 till Inspektionen för vård och
 omsorg.
 
 Förskrivningsorsak får redovisas endast för de ändamål som
-avses i första stycket 5 och 6. Lag (2013:1021).
+avses i första stycket 5 och 6. Lag (2014:464).
 
 Personuppgiftsbehandling för annat ändamål
 
@@ -110,9 +114,9 @@ personuppgiftslagen (1998:204). Lag (2009:370).
 
 Registerinnehåll
 
-8 § I den utsträckning det behövs för ändamålen enligt 6 § får
-receptregistret innehålla följande uppgifter som kan hänföras
-till enskilda personer:
+8 § I den utsträckning det behövs för ändamålen enligt 6 §
+får receptregistret innehålla följande uppgifter som kan
+hänföras till enskilda personer:
 
 1. inköpsdag, vara, mängd, dosering, kostnad och
 kostnadsreducering enligt lagen (2002:160) om
@@ -126,12 +130,14 @@ postnumret i patientens bostadsadress,
 4. förskrivarens namn, yrke, specialitet, arbetsplats,
 arbetsplatskod och förskrivarkod,
 
-5. samtycke enligt 6 § andra stycket, och
+5. samtycke enligt 6 § andra stycket,
 
-6. administrativa uppgifter.
+6. uppgift om att farmaceuten har motsatt sig utbyte av ett
+förskrivet läkemedel och skälen för det, och
 
-Förskrivningsorsak ska anges med en kod.
-Lag (2010:411).
+7. administrativa uppgifter.
+
+Förskrivningsorsak ska anges med en kod. Lag (2014:465).
 
 Sökbegrepp
 
@@ -235,10 +241,19 @@ läkemedelsförmånsverket
 18 § E-hälsomyndigheten ska, för det ändamål som avses i 6 §
 första stycket 10, till Tandvårds- och
 läkemedelsförmånsverket lämna ut administrativa uppgifter,
-uppgifter om inköpsdag, vara, mängd, kostnad och
-kostnadsreducering enligt lagen (2002:160) om
-läkemedelsförmåner m.m. redovisade per öppenvårdsapotek.
-Lag (2013:1021).
+uppgifter om inköpsdag, vara, mängd, kostnad,
+kostnadsreducering och uppgifter om att farmaceuten har
+motsatt sig utbyte samt skälen för det enligt lagen
+(2002:160) om läkemedelsförmåner m.m. E-hälsomyndigheten ska
+redovisa uppgifterna per öppenvårdsapotek. Lag (2014:465).
+
+Skyldighet att lämna uppgifter till Läkemedelsverket
+
+18 a § E-hälsomyndigheten ska, för det ändamål som anges i
+6 § första stycket 11, till Läkemedelsverket lämna ut
+administrativa uppgifter samt uppgifter om inköpsdag, vara,
+mängd och dosering, redovisade per öppenvårdsapotek.
+Lag (2014:464).
 
 Gallring
 

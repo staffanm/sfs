@@ -123,17 +123,17 @@ meddela föreskrifter om hur inköpspris och försäljningspris
 ska fastställas. Lag (2009:373).
 
 7 a § Ett öppenvårdsapotek får köpa in läkemedel, som inte är
-utbytbara mot generiska läkemedel, till priser som
+utbytbara enligt 21 § första stycket, till priser som
 understiger det inköpspris som Tandvårds- och
 läkemedelsförmånsverket har fastställt enligt 7 §.
-Lag (2009:373).
+Lag (2014:460).
 
 7 b § Ett öppenvårdsapotek får köpa in och sälja
 parallellimporterade läkemedel, som är utbytbara enligt 21 §
-första stycket, till priser som understiger det inköpspris
+andra stycket, till priser som understiger det inköpspris
 respektive försäljningspris som Tandvårds- och
 läkemedelsförmånsverket har fastställt enligt 7 §.
-Lag (2009:373).
+Lag (2014:460).
 
 8 § Den som marknadsför ett läkemedel eller en vara som avses
 i 18 § får ansöka om att läkemedlet eller varan ska ingå i
@@ -174,7 +174,18 @@ har även rätt till överläggningar med myndigheten. Om
 överläggningar inte begärs, eller om överläggningarna inte
 leder till en överenskommelse, kan myndigheten fastställa det
 nya inköpspriset eller försäljningspriset på grundval av
-tillgänglig utredning. Lag (2009:373).
+tillgänglig utredning.
+
+Regeringen eller den myndighet som regeringen bestämmer får
+meddela föreskrifter om förutsättningar för ändring av
+inköpspris och försäljningspris för ett läkemedel som ingår i
+läkemedelsförmånerna om det
+
+1. har gått 15 år efter det att läkemedlet godkänts för
+försäljning, eller
+
+2. finns läkemedel som är utbytbara mot läkemedlet och som
+marknadsförs till öppenvårdsapotek i Sverige. Lag (2014:460).
 
 14 § Ett fastställt inköpspris och försäljningspris för ett
 läkemedel eller en vara som avses i 18 § ska inte längre
@@ -261,28 +272,33 @@ Lag (2006:829).
 
 Utbyte av läkemedel
 
-21 § Om ett läkemedel som inte är ett generiskt läkemedel
-ingår i läkemedelsförmånerna och har förskrivits, och det
-enbart finns parallellimporterade läkemedel som är utbytbara
-mot det läkemedlet, ska ett öppenvårdsapotek, med de undantag
-som följer av tredje stycket, byta ut det förskrivna
-läkemedlet mot ett tillgängligt parallellimporterat läkemedel
-som har ett lägre fastställt försäljningspris än det
-förskrivna läkemedlet.
+21 § Ett öppenvårdsapotek ska byta ut ett läkemedel som har
+förskrivits inom läkemedelsförmånerna mot det tillgängliga
+läkemedel inom förmånerna som det är utbytbart mot och som
+har lägst fastställt försäljningspris.
 
-Om ett läkemedel som ingår i läkemedelsförmånerna har
-förskrivits, och det finns läkemedel som är utbytbara mot det
-läkemedlet, ska ett öppenvårdsapotek, med de undantag som
-följer av tredje stycket, byta ut det förskrivna läkemedlet
-mot det tillgängliga läkemedel som har lägst fastställt
-försäljningspris.
+Ett öppenvårdsapotek ska byta ut ett läkemedel som har
+förskrivits inom läkemedelsförmånerna mot något av de
+läkemedel inom förmånerna som är tillgängliga och har ett
+lägre fastställt försäljningspris, när det finns utbytbarhet
+enbart mellan
+
+1. ett läkemedel och ett eller flera av dess
+parallellimporterade läkemedel, eller
+
+2. ett läkemedels parallellimporterade läkemedel.
 
 Ett läkemedel får inte bytas ut om
 
 1. den som utfärdat receptet på medicinska grunder har
-motsatt sig ett utbyte, eller
+motsatt sig ett utbyte,
 
-2. patienten betalar mellanskillnaden mellan det
+2. expedierande farmaceut på öppenvårdsapoteket har motsatt
+sig utbyte av läkemedel med hänsyn till att det finns
+anledning att anta att ett utbyte skulle innebära betydande
+olägenhet för patienten, eller
+
+3. patienten betalar mellanskillnaden mellan det
 försäljningspris som fastställts för det förskrivna
 läkemedlet och lägsta försäljningspris för det utbytbara
 läkemedel som finns tillgängligt. Om något annat utbytbart
@@ -297,7 +313,13 @@ läkemedel. När utbyte sker, ska öppenvårdsapoteket
 skriftligen underrätta den som utfärdat receptet.
 
 Regeringen, eller den myndighet som regeringen bestämmer, får
-meddela föreskrifter om utbyte av läkemedel. Lag (2009:373).
+meddela föreskrifter om utbyte av läkemedel. Lag (2014:461).
+
+21 a § Den som har ett godkännande för försäljning av ett
+läkemedel som har lägst fastställt försäljningspris enligt 21 §
+första stycket och har bekräftat att läkemedlet ska vara
+tillgängligt ska tillhandahålla läkemedlet till
+öppenvårdsapoteken. Lag (2014:460).
 
 Kostnader för förmåner m.m.
 
@@ -347,6 +369,53 @@ villkor som har meddelats i anslutning till lagen ska
 efterlevas. Beslut om föreläggande eller förbud får förenas
 med vite. Lag (2009:373).
 
+Sanktionsavgifter
+
+25 a § Tandvårds- och läkemedelsförmånsverket får ta ut en
+sanktionsavgift av den
+
+1. som har tillstånd att bedriva öppenvårdsapotek om
+öppenvårdsapoteket inte byter ut läkemedel enligt
+bestämmelserna i 21 § eller enligt föreskrifter som har
+meddelats med stöd av 21 §, eller
+
+2. som har ett godkännande för försäljning som inte
+tillhandahåller ett läkemedel enligt 21 a § eller enligt
+föreskrifter som har meddelats i anslutning till 21 a §.
+
+Tandvårds- och läkemedelsförmånsverket får besluta att ta ut
+sanktionsavgift av någon endast om denne, inom fem år från
+det att överträdelsen ägde rum, har delgetts en underrättelse
+om att myndigheten överväger att fatta ett sådant beslut.
+Innan en sanktionsavgift tas ut ska den som avgiften gäller
+ges tillfälle att yttra sig.
+
+Sanktionsavgiften tillfaller staten. Lag (2014:460).
+
+25 b § Sanktionsavgift får tas ut med ett belopp som
+fastställs med hänsyn till överträdelsens allvar.
+
+Regeringen får meddela föreskrifter om hur sanktionsavgiftens
+storlek ska fastställas. Lag (2014:460).
+
+25 c § Befrielse från sanktionsavgift ska medges helt eller
+delvis om det är oskäligt att ta ut sanktionsavgift. Vid
+denna bedömning ska särskilt beaktas
+
+1. om överträdelsen berott på en omständighet som den
+avgiftsskyldige inte förutsåg eller borde ha förutsett eller
+inte kunnat påverka,
+
+2. vad den avgiftsskyldige har gjort för att undvika
+överträdelsen, och
+
+3. om överträdelsen i övrigt framstår som ursäktlig.
+Lag (2014:460).
+
+25 d § Sanktionsavgift får inte tas ut för en överträdelse
+som redan omfattas av ett vitesföreläggande eller
+vitesförbud. Lag (2014:460).
+
 Överklagande m.m.
 
 26 § Beslut som Tandvårds- och läkemedelsförmånsverket eller
@@ -357,11 +426,11 @@ får överklagas hos allmän förvaltningsdomstol.
 Prövningstillstånd krävs vid överklagande till kammarrätten.
 Lag (2008:655).
 
-27 § Ett beslut som Tandvårds- och läkemedelsförmånsverket
-eller allmän förvaltningsdomstol meddelar enligt denna lag
-eller enligt en föreskrift som har meddelats med stöd av lagen
-ska gälla omedelbart, om inte annat förordnas. Lag (2008:655).
-
+27 § Andra beslut än beslut om sanktionsavgift som Tandvårds-
+och läkemedelsförmånsverket eller allmän förvaltningsdomstol
+meddelar enligt denna lag eller enligt en föreskrift som har
+meddelats med stöd av lagen ska gälla omedelbart, om inte
+annat beslutas. Lag (2014:460).
 
 Ikraftträdande- och övergångsbestämmelser
 
@@ -432,3 +501,15 @@ inträffat före den 1 januari 2012.
 
 2. Äldre föreskrifter gäller fortfarande för kostnadsbefrielse
 som har uppkommit före den 1 januari 2013.
+
+2014:460
+
+1. Denna lag träder i kraft den 1 juli 2014.
+
+2. Bestämmelserna om sanktionsavgift ska tillämpas endast på
+överträdelser som har ägt rum efter det att de nya
+bestämmelserna har trätt i kraft. Bestämmelsen i 25 a §
+första stycket 1 tillämpas, i fråga om överträdelser på grund
+av att farmaceut har motsatt sig utbyte, endast på
+överträdelser som har begåtts från och med den 1 januari
+2015.
