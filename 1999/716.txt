@@ -4,25 +4,43 @@ Definitioner
 
 1 § I denna förordning avses med
 
-1. Schablonberäkningsområde: Ett område där den samlade inmatningen och det samlade uttaget av el ska mätas och beräknas. Ett schablonberäkningsområde får bara omfatta ledningsnät som omfattas av nätkoncession för område och ledningar som organisatoriskt och tekniskt ingår i ett sådant nät.
+1. Schablonberäkningsområde: Ett område där den samlade
+inmatningen och det samlade uttaget av el ska mätas och
+beräknas. Ett schablonberäkningsområde får bara omfatta
+ledningsnät som omfattas av nätkoncession för område och
+ledningar som organisatoriskt och tekniskt ingår i ett sådant
+nät.
 
-2. Inmatningspunkt: Den punkt där en elproduktionsanläggning för in el i ett schablonberäkningsområde respektive ledning som omfattas av nätkoncession för linje (region- eller stamledning).
+2. Inmatningspunkt: Den punkt där en elproduktionsanläggning
+för in el i ett schablonberäkningsområde respektive ledning
+som omfattas av nätkoncession för linje (region- eller
+stamledning).
 
-3. Uttagspunkt: Den punkt där en elanvändare tar ut el för förbrukning.
+3. Uttagspunkt: Den punkt där en elanvändare tar ut el för
+förbrukning.
 
 4. Gränspunkt: Den punkt där
 
 a. olika schablonberäkningsområden ansluter till varandra,
 
-b. schablonberäkningsområde ansluter till ledning med nätkoncession för linje (region- eller stamnät),
+b. schablonberäkningsområde ansluter till ledning med
+nätkoncession för linje (region- eller stamnät),
 
-c. ledningsnät med nätkoncession för linje (region- eller stamnät), som har olika nättariffer, ansluter till varandra, eller
+c. ledningsnät med nätkoncession för linje (region- eller
+stamnät), som har olika nättariffer, ansluter till varandra,
+eller
 
-d. nätkoncessionsområden eller ledningsnät med nätkoncession för linje (region- eller stamnät) som har olika nättariffer ansluter till varandra.
+d. nätkoncessionsområden eller ledningsnät med nätkoncession
+för linje (region- eller stamnät) som har olika nättariffer
+ansluter till varandra.
 
-5. Förbrukningsprofil: Den totala mängd el som registreras per timme i schablonberäkningsområdet för sådan förbrukning i uttagspunkter vars mätvärden rapporteras månadsvis, samt nätförluster.
+5. Förbrukningsprofil: Den totala mängd el som registreras per
+timme i schablonberäkningsområdet för sådan förbrukning i
+uttagspunkter vars mätvärden rapporteras månadsvis, samt
+nätförluster.
 
-6. Andelstal: Den andel av en förbrukningsprofil som belöper på varje elleverantör, elproducent och balansansvarig.
+6. Andelstal: Den andel av en förbrukningsprofil som belöper
+på varje elleverantör, elproducent och balansansvarig.
 Förordning (2012:511).
 
 Allmänna bestämmelser
@@ -74,14 +92,26 @@ nätkoncessionshavarna inte kan komma överens i frågan.
 
 Nätmyndighetens beslut får inte överklagas.
 
-6 § Mätning i uttagspunkt och inmatningspunkt ska, för de elanvändare och elproducenter som inte omfattas av 3 kap. 10 § andra stycket ellagen (1997:857), avse överförd el under varje timme. Mätning i gränspunkt ska avse överförd el under varje timme.
+6 § Mätning i uttagspunkt och inmatningspunkt ska, för de
+elanvändare och elproducenter som inte omfattas av 3 kap. 10 §
+andra stycket ellagen (1997:857), avse överförd el under varje
+timme. Mätning i gränspunkt ska avse överförd el under varje
+timme.
 
-Om en elproducent eller elanvändare begär det, ska mätningen i inmatningspunkten respektive uttagspunkten ske med kortare tidsintervall än en timme.
+Om en elproducent eller elanvändare begär det, ska mätningen i
+inmatningspunkten respektive uttagspunkten ske med kortare
+tidsintervall än en timme.
 
-Om en elanvändare som omfattas av 3 kap. 10 § andra stycket ellagen begär annan mätning än den nätkoncessionshavaren tillämpar ska nätkoncessionshavaren utföra sådan mätning.
+Om en elanvändare som omfattas av 3 kap. 10 § andra stycket
+ellagen begär annan mätning än den nätkoncessionshavaren
+tillämpar ska nätkoncessionshavaren utföra sådan mätning.
 
-Om elanvändaren enligt 3 kap. 11 § andra stycket ellagen ingått ett avtal om leverans av el som förutsätter att den överförda elen ska mätas varje timme, ska mätning i uttagspunkten ske med registrering per timme. Rapporteringen av mätresultaten för uttagspunkten får ske enligt 8 och 9 §§ eller 15–18 a §§.
-Förordning (2012:511).
+Om elanvändaren enligt 3 kap. 11 § andra stycket ellagen
+ingått ett avtal om leverans av el som förutsätter att den
+överförda elen ska mätas varje timme, ska mätning i
+uttagspunkten ske med registrering per timme. Rapporteringen
+av mätresultaten för uttagspunkten får ske enligt 8 och 9 §§
+eller 1518 a §§. Förordning (2012:511).
 
 7 § Styrelsen för ackreditering och teknisk kontroll meddelar
 föreskrifter om krav på och kontroll av mätutrustning och
@@ -115,7 +145,10 @@ Om en mottagare av rapporter begär det, skall
 nätkoncessionshavaren sända rapporter med tätare tidsintervall
 än de av nätmyndigheten föreskrivna tidpunkterna.
 
-9 § Innehavare av nätkoncession ska sända slutliga rapporter om de rättade resultaten av sina mätningar. Rapporterna, som ska visa mätresultaten för varje timme på dygnet, ska sändas enligt följande.
+9 § Innehavare av nätkoncession ska sända slutliga rapporter
+om de rättade resultaten av sina mätningar. Rapporterna, som
+ska visa mätresultaten för varje timme på dygnet, ska sändas
+enligt följande.
 
 1. Mätresultaten i uttagspunkten sänds till
 
@@ -123,36 +156,60 @@ a) berörd elanvändare,
 
 b) den som levererat el i uttagspunkten.
 
-2. Mätresultatet avseende den samlade förbrukningen inom schablonberäkningsområde eller inom ledningsnät som omfattas av nätkoncession för linje (region- och stamnät) uppdelat per elleverantör och balansansvarig sänds i berörda delar till
+2. Mätresultatet avseende den samlade förbrukningen inom
+schablonberäkningsområde eller inom ledningsnät som omfattas
+av nätkoncession för linje (region- och stamnät) uppdelat per
+elleverantör och balansansvarig sänds i berörda delar till
 
 a) den elleverantör som levererat el i uttagspunkterna,
 
-b) den som är balansansvarig för leverans av el i uttagspunkterna.
+b) den som är balansansvarig för leverans av el i
+uttagspunkterna.
 
-3. Mätresultaten i gränspunkten sänds till nätkoncessionshavare för det angränsande nätet.
+3. Mätresultaten i gränspunkten sänds till
+nätkoncessionshavare för det angränsande nätet.
 
-4. Mätresultaten i inmatningspunkt sänds till den elproducent som matat in el i inmatningspunkt.
+4. Mätresultaten i inmatningspunkt sänds till den elproducent
+som matat in el i inmatningspunkt.
 
-5. Mätresultatet avseende den samlade inmatade produktionen uppdelat per elproducent och balansansvarig sänds i berörda delar till
+5. Mätresultatet avseende den samlade inmatade produktionen
+uppdelat per elproducent och balansansvarig sänds i berörda
+delar till
 
 a) den som matat in el i inmatningspunkterna,
 
-b) den som är balansansvarig för produktion av el i inmatningspunkterna.
+b) den som är balansansvarig för produktion av el i
+inmatningspunkterna.
 
-6. Mätresultatet avseende den samlade förbrukningen respektive den samlade produktionen per balansansvarig sänds i berörda delar till
+6. Mätresultatet avseende den samlade förbrukningen respektive
+den samlade produktionen per balansansvarig sänds i berörda
+delar till
 
 a) Affärsverket svenska kraftnät,
 
 b) den som är balansansvarig.
 
-Till Affärsverket svenska kraftnät ska också rapporter sändas som visar
+Till Affärsverket svenska kraftnät ska också rapporter sändas
+som visar
 
-1. mätresultaten för varje timme på dygnet av det samlade flödet i gränspunkten, och
+1. mätresultaten för varje timme på dygnet av det samlade
+flödet i gränspunkten, och
 
-2. mätresultatet i varje inmatningspunkt där el matas in från en produktionsanläggning enligt lagen (2011:1200) om elcertifikat eller som har rätt till tilldelning av ursprungsgarantier enligt lagen (2010:601) om ursprungsgarantier för el.
+2. mätresultatet i varje inmatningspunkt där el matas in från
+en produktionsanläggning enligt lagen (2011:1200) om
+elcertifikat eller som har rätt till tilldelning av
+ursprungsgarantier enligt lagen (2010:601) om
+ursprungsgarantier för el.
 
-Föreskrifter om särskild mätning, beräkning och rapportering av viss elproduktion finns i förordningen (2011:1480) om elcertifikat och i förordningen (2010:853) om ursprungsgarantier för el.
-Förordning (2011:1483).
+Föreskrifter om särskild mätning, beräkning och rapportering
+av viss elproduktion finns i förordningen (2011:1480) om
+elcertifikat och i förordningen (2010:853) om
+ursprungsgarantier för el. Förordning (2011:1483).
+
+9 a § På begäran ska mätresultatet i en uttagspunkt eller en
+inmatningspunkt sändas till det företag som den berörda
+elanvändaren eller elproducenten har utsett.
+Förordning (2014:350).
 
 10 § Nätmyndigheten får meddela föreskrifter om
 
@@ -227,12 +284,16 @@ inmatning.
 samlade produktionen per balansansvarig skall rapporteras till
 Affärsverket svenska kraftnät.
 
-16 § Mätresultatet i en uttagspunkt som ingår i en förbrukningsprofil ska rapporteras per månad och avse
+16 § Mätresultatet i en uttagspunkt som ingår i en
+förbrukningsprofil ska rapporteras per månad och avse
 
-1. mätvärden registrerade per timme för de uttagspunkter för vilka elanvändaren enligt 3 kap. 11 § andra stycket ellagen (1997:857) ingått ett avtal om leverans av el som förutsätter att den överförda elen mäts på detta sätt, och
+1. mätvärden registrerade per timme för de uttagspunkter för
+vilka elanvändaren enligt 3 kap. 11 § andra stycket ellagen
+(1997:857) ingått ett avtal om leverans av el som förutsätter
+att den överförda elen mäts på detta sätt, och
 
-2. mätvärden registrerade under högst en kalendermånad i övriga fall.
-Förordning (2012:511).
+2. mätvärden registrerade under högst en kalendermånad i
+övriga fall. Förordning (2012:511).
 
 17 § Nätkoncessionshavare skall rapportera mätresultat enligt
 16 § till
@@ -259,14 +320,22 @@ inmatning,
 5. Affärsverket svenska kraftnät avseende den samlade
 förbrukningen respektive produktionen per balansansvarig.
 
-18 a § Nätkoncessionshavare får i stället för att rapportera enligt 8 och 9 §§ månadsvis rapportera samlade timmätvärden för den del av förbrukningsprofilen inom schablonberäkningsområdet som registreras per timme till
+18 a § Nätkoncessionshavare får i stället för att rapportera
+enligt 8 och 9 §§ månadsvis rapportera samlade timmätvärden
+för den del av förbrukningsprofilen inom
+schablonberäkningsområdet som registreras per timme till
 
 1. den elleverantör som levererat el i uttagspunkterna,
 
-2. den som är balansansvarig för leverans av el i uttagspunkterna, och
+2. den som är balansansvarig för leverans av el i
+uttagspunkterna, och
 
 3. Affärsverket svenska kraftnät per balansansvarig.
 Förordning (2012:511).
+
+18 b § På begäran ska mätresultatet i en uttagspunkt sändas
+till det företag som den berörda elanvändaren har utsett.
+Förordning (2014:350).
 
 19 § Nätmyndigheten får meddela föreskrifter om tidpunkter för
 avläsning och rapportering, utformningen av rapporter samt
@@ -302,4 +371,5 @@ lydelse av 16 § får tillämpas till och med den 30 juni 2009.
 
 2012:511
 
-Denna förordning träder i kraft den 1 april 2013 i fråga om 18 a § och i övrigt den 1 oktober 2012.
+Denna förordning träder i kraft den 1 april 2013 i fråga om
+18 a § och i övrigt den 1 oktober 2012. 
