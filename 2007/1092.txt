@@ -1,5 +1,3 @@
-
-
 1 kap. Lagens innehåll och tillämpningsområde samt allmänna
 bestämmelser
 
@@ -17,6 +15,8 @@ bestämmelser (1 kap.),
 - upphandlingsförfaranden (4 kap.),
 
 - ramavtal (5 kap.),
+
+- elektronisk auktion (5 a kap.),
 
 - tekniska specifikationer och särskilda kontraktsvillkor i
 förfrågningsunderlag m.m. (6 kap.),
@@ -39,11 +39,15 @@ m.m. (8 kap.),
 - anbud som omfattar varor med ursprung i tredje land (14
 kap.),
 
-- upphandling som inte omfattas av direktivet (15 kap.) och
+- upphandling som inte omfattas av direktivet (15 kap.),
 
-- överprövning, skadestånd m.m. (16 kap.).
+- avtalsspärr, överprövning och skadestånd (16 kap.),
 
-Till lagen hör följande bilagor
+- upphandlingsskadeavgift (17 kap.), och
+
+- tillsyn (18 kap.).
+
+Till lagen hör följande bilagor:
 
 - Förteckning över byggentreprenadkontrakt (bilaga 1)
 
@@ -52,37 +56,50 @@ Till lagen hör följande bilagor
 - Förteckning över tjänstekontrakt (B-tjänster) (bilaga 3)
 
 - Definition av vissa tekniska specifikationer (bilaga 4)
+Lag (2010:572).
 
 Lagens tillämpningsområde
 
 2 § Denna lag gäller för upphandling av byggentreprenader,
-varor och tjänster för verksamhet inom områdena vatten, energi,
-transporter och posttjänster enligt 4-10 §§. Lagen gäller också
-då en upphandlande enhet anordnar projekttävlingar. Vad som
-avses med upphandling och upphandlande enhet framgår av 2 kap.
-23 § respektive 20 §.
+varor och tjänster för verksamhet inom områdena vatten,
+energi, transporter och posttjänster enligt 4–10 §§. Lagen
+gäller också då en upphandlande enhet anordnar
+projekttävlingar. Vad som avses med upphandling och
+upphandlande enhet framgår av 2 kap. 23 § respektive 20 §.
 
-Endast 15 och 16 kap. tillämpas i fråga om upphandling som
+Endast 15 kap. tillämpas i fråga om upphandling som
 
-1. avser tjänster enligt bilaga 3 (B-tjänster),
+1. avser tjänster enligt bilaga 3 (B-tjänster), eller
 
 2. avser andra kontrakt, vars värde understiger de
-tröskelvärden som anges i lagen, eller
-
-3. omfattas av sekretess eller andra särskilda begränsningar
-med hänsyn till rikets säkerhet.
+tröskelvärden som anges i lagen.
 
 I fråga om upphandling som avser tjänster som anges i bilaga 2
 (A-tjänster) tillämpas inte 13 kap.
 
-En upphandling som avser både A-tjänster och B-tjänster skall
+En upphandling som avser både A-tjänster och B-tjänster ska
 anses vara en upphandling av A-tjänster om värdet av A-
-tjänsterna överstiger värdet av B-tjänsterna. I annat fall
-skall upphandlingen i sin helhet anses vara en upphandling av
-B- tjänster.
+tjänsterna överstiger värdet av B-tjänsterna. I annat fall ska
+upphandlingen i sin helhet anses vara en upphandling av B-
+tjänster.
+
+Regeringen tillkännager i Svensk författningssamling CPV-
+referensnummer för byggentreprenadkontrakt samt CPC- och CPV-
+referensnummer för A-tjänster och B-tjänster.
+Lag (2011:1031).
 
 3 § Det finns bestämmelser om offentlig upphandling i lagen
 (2007:1091) om offentlig upphandling.
+
+Upphandling på försvars- och säkerhetsområdet
+
+3 a § Denna lag gäller inte för upphandling som
+
+1. omfattas av lagen (2011:1029) om upphandling på försvars-
+och säkerhetsområdet, eller
+
+2. är undantagen enligt 1 kap. 7, 8, 9 eller 10 § den lagen.
+Lag (2011:1031).
 
 Verksamheter som omfattas av lagen
 
@@ -189,22 +206,26 @@ ensamrätt att sälja eller hyra ut föremålet för kontraktet och
 villkor som den upphandlande enheten.
 
 En upphandlande enhet är skyldig att på begäran av Europeiska
-gemenskapernas kommission anmäla de varukategorier och
-verksamheter som den anser vara undantagna enligt första
-stycket.
+kommissionen anmäla de varukategorier och verksamheter som den
+anser vara undantagna enligt första stycket. Lag (2010:572).
 
 Verksamhet i tredje land samt anmälan till kommissionen
 
 13 § Denna lag gäller inte vid upphandling som görs för att i
-ett land som inte är bundet av avtalet om Europeiska ekonomiska
-samarbetsområdet (EES) utöva sådan verksamhet som omfattas av
-lagens tillämpningsområde enligt 4-10 §§ utan fysisk användning
-av något nät eller geografiskt område i ett eller flera EES-
-länder.
+ett land som inte är bundet av avtalet om Europeiska
+ekonomiska samarbetsområdet (EES) utöva sådan verksamhet som
+omfattas av lagens tillämpningsområde enligt 4-10 §§ utan
+fysisk användning av något nät eller geografiskt område i ett
+eller flera EES-länder.
 
 En upphandlande enhet är skyldig att på begäran av Europeiska
-gemenskapernas kommission anmäla de verksamheter som den anser
-vara undantagna enligt första stycket.
+kommissionen anmäla de verksamheter som den anser vara
+undantagna enligt första stycket. Lag (2010:572).
+
+Undantag på grund av sekretess
+
+13 a § Bestämmelserna i denna lag gäller inte för upphandling
+som omfattas av sekretess. Lag (2011:1031).
 
 Upphandling enligt andra internationella regler
 
@@ -268,15 +289,15 @@ och det i den handling som upprättats för bildandet av
 företaget anges att de upphandlande enheter som det består av
 kommer att ingå i det under minst samma tid.
 
-18 § På begäran av Europeiska gemenskapernas kommission skall
-en upphandlande enhet som tilldelat ett kontrakt med
-tillämpning av något av undantagen i 15 eller 17 § lämna
-uppgifter till kommissionen om namnen på de berörda företagen
-eller samriskföretagen och om de berörda kontraktens art och
-värde samt tillhandahålla det underlag som kommissionen anser
-vara nödvändigt för att visa att relationerna mellan företaget
-eller samriskföretaget och den upphandlande enheten motsvarar
-kraven i 15-17 §§.
+18 § På begäran av Europeiska kommissionen ska en upphandlande
+enhet som tilldelat ett kontrakt med tillämpning av något av
+undantagen i 15 eller 17 § lämna uppgifter till kommissionen
+om namnen på de berörda företagen eller samriskföretagen och
+om de berörda kontraktens art och värde samt tillhandahålla
+det underlag som kommissionen anser vara nödvändigt för att
+visa att relationerna mellan företaget eller samriskföretaget
+och den upphandlande enheten motsvarar kraven i 15-17 §§.
+Lag (2010:572).
 
 Särskilda undantag
 
@@ -347,9 +368,9 @@ områdena vatten, energi, transporter och posttjänster, senast
 verksamheten är direkt konkurrensutsatt på marknader med fritt
 tillträde.
 
-Europeiska gemenskapernas kommission prövar efter begäran från
-en upphandlande enhet om förutsättningarna enligt första
-stycket är uppfyllda för viss verksamhet.
+Europeiska kommissionen prövar efter begäran från en
+upphandlande enhet om förutsättningarna enligt första stycket
+är uppfyllda för viss verksamhet. Lag (2010:572).
 
 Allmänna bestämmelser
 
@@ -360,6 +381,10 @@ likvärdigt och icke-diskriminerande sätt samt genomföra
 upphandlingar på ett öppet sätt. Vid upphandlingar skall vidare
 principerna om ömsesidigt erkännande och proportionalitet
 iakttas.
+
+24 a § Upphandlande enheter bör beakta miljöhänsyn och sociala
+hänsyn vid upphandling om upphandlingens art motiverar detta.
+Lag (2010:572).
 
 Kontrakt som rör mer än en verksamhet
 
@@ -476,6 +501,11 @@ CPV-nomenklaturen har dessa företräde.
 tråd eller radiovågor, på optisk väg eller via andra
 elektromagnetiska överföringsmedier.
 
+6 a § Med elektronisk auktion avses en upprepad process med
+hjälp av elektroniska medel för att presentera nya lägre
+priser eller nya värden för vissa delar av anbuden.
+Lag (2010:572).
+
 7 § Med erkända organ avses sådana provnings- och
 kalibreringslaboratorier samt organ för inspektion och
 certifiering som uppfyller tillämpliga europeiska standarder.
@@ -486,6 +516,14 @@ som en upphandlande enhet tillhandahåller en leverantör.
 9 § Med förhandlat förfarande avses ett förfarande där den
 upphandlande enheten inbjuder utvalda leverantörer och
 förhandlar om kontraktsvillkoren med en eller flera av dem.
+
+9 a § Med inköpscentral avses en upphandlande myndighet som
+
+1. ingår ramavtal om byggentreprenader, varor eller tjänster
+som är avsedda för upphandlande enheter, eller
+
+2. medverkar vid en upphandling i egenskap av ombud åt flera
+upphandlande enheter. Lag (2010:572).
 
 10 § Med kontrakt avses ett skriftligt avtal med ekonomiska
 villkor som
@@ -560,8 +598,8 @@ vinnande bidrag.
 
 15 § Med publikt nät avses ett nät som är avsett för att
 tillhandahålla tjänster för allmänheten inom de verksamheter
-som omfattas av lagens tillämpningsområde enligt 1 kap. 4-10
-§§.
+som omfattas av lagens tillämpningsområde enligt 1 kap.
+4-10 §§.
 
 16 § Med ramavtal avses ett avtal som ingås mellan en eller
 flera upphandlande enheter och en eller flera leverantörer i
@@ -658,8 +696,8 @@ leverantörer får lämna anbud.
 
 Definitioner som gäller endast 15 kap.
 
-26 § Med direktupphandling avses ett förfarande utan krav på
-anbud.
+26 § Med direktupphandling avses en upphandling utan krav på
+anbud i viss form. Lag (2010:572).
 
 27 § Med förenklat förfarande avses ett förfarande där alla
 leverantörer har rätt att delta, deltagande leverantörer skall
@@ -676,10 +714,10 @@ flera anbudsgivare.
 
 Tröskelvärdenas storlek
 
-1 § Denna lag skall tillämpas på kontrakt vilkas värde beräknas
+1 § Denna lag ska tillämpas på kontrakt vilkas värde beräknas
 uppgå till minst de belopp (tröskelvärden) som Europeiska
-gemenskapernas kommission vid varje tid har beslutat eller
-lämnat meddelande om, om kontraktet avser
+kommissionen vid varje tid har beslutat eller lämnat
+meddelande om, om kontraktet avser
 
 1. varu- eller tjänstekontrakt, eller
 
@@ -691,7 +729,8 @@ tröskelvärdena i euro och svenska kronor.
 Särskilda bestämmelser om tröskelvärden vid projekttävlingar
 finns i 13 kap. 2 och 3 §§.
 
-Värdet av kontraktet skall beräknas exklusive mervärdesskatt.
+Värdet av kontraktet ska beräknas exklusive mervärdesskatt.
+Lag (2010:572).
 
 Beräkning av värdet av ett kontrakt
 
@@ -829,8 +868,8 @@ ramavtalets löptid.
 
 1 § Vid upphandling skall öppet, selektivt eller förhandlat
 förfarande användas. Tilldelning av kontrakt skall föregås av
-annonsering enligt 7 kap. 1 § om inte något annat följer av 2
-§.
+annonsering enligt 7 kap. 1 § om inte något annat följer av
+2 §.
 
 Tilldelning av kontrakt utan föregående annonsering
 
@@ -843,14 +882,14 @@ eller inte lämnats några lämpliga anbud och de ursprungliga
 villkoren för kontraktet inte ändrats väsentligt,
 
 2. det gäller ett kontrakt som är avsett endast för
-forsknings-, experiment-, studie- eller utvecklingsändamål, och
-kontraktet inte syftar till vinst eller till att täcka
+forsknings-, experiment-, studie- eller utvecklingsändamål,
+och kontraktet inte syftar till vinst eller till att täcka
 forsknings- och utvecklingskostnader och under förutsättning
 att det inte försämrar möjligheten till konkurrens vid en
 senare kontraktstilldelning som i första hand har något sådant
 syfte,
 
-3. det som skall upphandlas av tekniska eller konstnärliga skäl
+3. det som ska upphandlas av tekniska eller konstnärliga skäl
 eller på grund av ensamrätt kan fullgöras av endast en viss
 leverantör,
 
@@ -873,20 +912,18 @@ oproportionerliga tekniska svårigheter avseende drift och
 underhåll,
 
 6. det gäller kompletterande byggentreprenader eller tjänster
-som inte ingår i det ursprungliga projektet eller ingår i det
-ursprungliga kontraktet, om
+som inte ingår i det ursprungliga projektet eller det
+ursprungliga kontraktet, om kompletteringarna på grund av
+oförutsedda omständigheter krävs för att kontraktet ska kunna
+fullgöras, och under förutsättning att de ska utföras av den
+ursprungliga leverantören, och om
 
-a) kompletteringarna på grund av oförutsedda omständigheter
-krävs för att kontraktet skall kunna fullgöras,
-
-b) de skall utföras av den ursprungliga leverantören,
-
-c) de inte utan stora tekniska eller ekonomiska olägenheter för
-den upphandlande enheten kan skiljas från det ursprungliga
+a) de inte utan stora tekniska eller ekonomiska olägenheter
+för den upphandlande enheten kan skiljas från det ursprungliga
 kontraktet, eller
 
-d) de kan avskiljas och är absolut nödvändiga för att det
-ursprungliga kontraktet skall kunna fullgöras,
+b) de, även om de kan avskiljas, är absolut nödvändiga för att
+det ursprungliga kontraktet ska kunna fullgöras,
 
 7. det gäller en ny byggentreprenad, som är en upprepning av
 tidigare byggentreprenader under förutsättning
@@ -900,8 +937,8 @@ c) att det nya kontraktet är i överensstämmelse med det
 ursprungliga projektet,
 
 d) att värdet av det nya kontraktet ingått i beräkningen av
-värdet av det ursprungliga projektet enligt bestämmelserna i 3
-kap., samt
+värdet av det ursprungliga projektet enligt bestämmelserna i
+3 kap., och
 
 e) att det i samband med den ursprungliga upphandlingen
 annonserats att det nu avsedda förfarandet kunde komma att
@@ -922,6 +959,7 @@ marknadspriset, eller
 villkor genom att köpa i samband med att en leverantör upphört
 med sin verksamhet eller trätt i likvidation eller försatts i
 konkurs eller är föremål för motsvarande förfarande.
+Lag (2011:1031).
 
 Projekttävling
 
@@ -934,6 +972,12 @@ skall tilldelas vinnaren eller en av vinnarna av tävlingen.
 Om en tävling avslutats med att fler än en vinnare utsetts,
 skall vinnarna inbjudas att delta i förhandlingar.
 
+Inköpscentraler
+
+4 § En upphandlande enhet får anskaffa byggentreprenader,
+varor och tjänster med hjälp av en inköpscentral.
+Lag (2010:572).
+
 5 kap. Ramavtal
 
 Tillämpliga bestämmelser
@@ -941,6 +985,155 @@ Tillämpliga bestämmelser
 1 § En upphandlande enhet får ingå ramavtal med tillämpning av
 bestämmelserna om upphandling av byggentreprenader, varor och
 tjänster i denna lag.
+
+5 a kap. Elektronisk auktion
+
+Tillämpningsområdet
+
+1 § En upphandlande enhet får, om förfrågningsunderlaget kan
+fastställas med tillräcklig grad av exakthet, som en
+avslutande del av ett upphandlingsförfarande genomföra en
+elektronisk auktion vid
+
+1. öppet förfarande,
+
+2. selektivt förfarande,
+
+3. förhandlat förfarande med föregående annonsering,
+
+4. förenklat förfarande, och
+
+5. urvalsförfarande.
+Lag (2010:572).
+
+2 § Den elektroniska auktionen ska möjliggöra en rangordning
+på grund av automatiska utvärderingsmetoder och ska grundas på
+
+1. priser, när kontraktet ska tilldelas den leverantör som
+erbjudit det lägsta priset, eller
+
+2. priser eller nya värden på de delar av anbuden som angetts
+i förfrågningsunderlaget, när kontraktet ska tilldelas den
+leverantör som har lämnat det ekonomiskt mest fördelaktiga
+anbudet. Lag (2010:572).
+
+3 § Om elektronisk auktion kommer att användas, ska den
+upphandlande enheten ange det i annonsen om upphandling.
+Lag (2010:572).
+
+Förfrågningsunderlag
+
+4 § Av förfrågningsunderlaget ska bl.a. framgå
+
+1. de delar av anbuden, vars värden kan kvantifieras och
+uttryckas i siffror eller procenttal, som kommer att vara
+föremål för den elektroniska auktionen,
+
+2. de eventuella gränserna för de värden som kan presenteras,
+baserade på en bedömning av specifikationerna för föremålet
+för upphandlingen,
+
+3. vilka uppgifter som kommer att göras tillgängliga för
+anbudsgivarna under den elektroniska auktionen och när detta
+kommer att ske,
+
+4. relevanta uppgifter om genomförandet av den elektroniska
+auktionen,
+
+5. på vilka villkor anbudsgivarna kan lämna anbud, däribland
+de minsta skillnader mellan anbuden som kan ha bestämts, och
+
+6. relevanta uppgifter om den elektroniska utrustning som
+används och om anslutningen till denna utrustning.
+Lag (2010:572).
+
+Första utvärdering av anbud
+
+5 § Innan en upphandlande enhet inleder en elektronisk
+auktion, ska enheten genomföra en första fullständig
+utvärdering av anbuden i enlighet med tilldelningskriterierna
+och den fastställda viktningen för dessa. Lag (2010:572).
+
+Inbjudan att lämna nya priser eller värden m.m.
+
+6 § Alla anbudsgivare som har lämnat godtagbara anbud ska
+bjudas in med elektroniska medel att lämna nya priser eller
+värden.
+
+En inbjudan ska innehålla alla relevanta upplysningar för
+individuell anslutning till den elektroniska utrustning som
+används och uppgift om vid vilken tidpunkt den elektroniska
+auktionen kommer att inledas, genomföras och avslutas.
+Lag (2010:572).
+
+7 § Vid tilldelning av kontrakt på grundval av det ekonomiskt
+mest fördelaktiga anbudet ska inbjudan åtföljas av resultatet
+av en fullständig bedömning av den berörda anbudsgivarens
+anbud som gjorts i enlighet med viktningen av
+tilldelningskriterierna. Lag (2010:572).
+
+8 § I inbjudan ska anges den matematiska formel som används
+för att vid den elektroniska auktionen automatiskt bestämma
+rangordningen med hänsyn till de nya priser och nya värden som
+lämnas under auktionen.
+
+Den matematiska formeln ska innefatta den i annonsen eller i
+förfrågningsunderlaget angivna viktningen av alla de kriterier
+som fastställts för att bestämma vilket anbud som är det
+ekonomiskt mest fördelaktiga. Om kriterieviktningen angetts
+som intervall ska dessa i förväg fastställas till ett bestämt
+värde.
+
+Om alternativa anbud är tillåtna ska separata formler ges för
+varje anbud. Lag (2010:572).
+
+9 § Den elektroniska auktionen får inte inledas tidigare än
+två arbetsdagar efter den dag då inbjudan har skickats ut.
+Lag (2010:572).
+
+10 § Den elektroniska auktionen får genomföras i flera på
+varandra följande etapper. Lag (2010:572).
+
+Upplysningar till anbudsgivarna
+
+11 § Under varje etapp i en elektronisk auktion ska den
+upphandlande enheten omedelbart meddela varje anbudsgivare
+tillräckliga upplysningar för att de ska ha kännedom om sin
+plats i rangordningen.
+
+Den upphandlande enheten får också lämna andra upplysningar om
+priser eller värden, under förutsättning att detta har angetts
+i förfrågningsunderlaget.
+
+Den upphandlande enheten får lämna upplysningar om antalet
+deltagare i den elektroniska auktionen. Lag (2010:572).
+
+Avslutande av en elektronisk auktion
+
+12 § En elektronisk auktion ska avslutas av den upphandlande
+enheten
+
+1. vid den tidpunkt då auktionen enligt inbjudan att delta i
+auktionen ska avslutas,
+
+2. när det inte längre lämnas några nya priser eller nya
+värden som motsvarar angivna krav på minsta skillnader, eller
+
+3. då det antal auktionsetapper som fastställts i inbjudan att
+delta i auktionen har genomförts.
+
+I det fall som avses i första stycket 2 ska den upphandlande
+enheten i inbjudan att delta i auktionen ange hur långt efter
+det att den har tagit emot det sista budet som den kommer att
+avsluta auktionen.
+
+I det fall som avses i första stycket 3 ska tidsplanen för
+varje etapp i auktionen anges i inbjudan att delta i
+auktionen. Lag (2010:572).
+
+13 § När den elektroniska auktionen har avslutats, ska den
+upphandlande enheten tilldela kontraktet på grundval av
+resultatet av den elektroniska auktionen. Lag (2010:572).
 
 6 kap. Tekniska specifikationer och särskilda kontraktsvillkor
 i förfrågningsunderlag m.m.
@@ -1212,14 +1405,21 @@ tre år, är det tillräckligt med en annons i början av perioden.
 Annonsering om resultatet av en upphandling (efterannonsering)
 
 6 § En upphandlande enhet som har tilldelat ett kontrakt eller
-ingått ett ramavtal skall till Europeiska gemenskapernas
-kommission skicka en annons om upphandlingsresultatet senast
-två månader efter det att kontraktet tilldelats eller
-ramavtalet ingåtts (efterannonsering).
+ingått ett ramavtal ska till Europeiska kommissionen skicka en
+annons om upphandlingsresultatet senast två månader efter det
+att kontraktet tilldelats eller ramavtalet ingåtts
+(efterannonsering).
 
 Bestämmelserna i första stycket gäller inte för tilldelning av
 kontrakt som görs med stöd av ett ramavtal som ingåtts i
-enlighet med denna lag.
+enlighet med denna lag. Lag (2010:572).
+
+Annonsering vid förhandsinsyn
+
+7 § En upphandlande enhet som avser att tilldela ett kontrakt
+genom förhandlat förfarande utan föregående annonsering enligt
+4 kap. 2 eller 3 § får skicka en annons om sin avsikt till
+Europeiska kommissionen (förhandsinsyn). Lag (2010:572).
 
 8 kap. Tidsfrister för att komma in med anbudsansökningar och
 anbud m.m.
@@ -1302,24 +1502,24 @@ dag då annonsen skickades för publicering eller inbjudan enligt
 14 § skickades till samtliga anbudssökande.
 
 7 § Tidsfristerna för att komma in med anbud vid öppet
-förfarande enligt 2 och 5 §§ får, utöver vad som följer av 6 §,
-förkortas med fem dagar, om den upphandlande enheten med
+förfarande enligt 2 och 5 §§ får, utöver vad som följer av
+6 §, förkortas med fem dagar, om den upphandlande enheten med
 elektroniska medel ger fri, direkt och fullständig tillgång
 till förfrågningsunderlaget från den dag då annonsen om
-upphandlingen skickades till Europeiska gemenskapernas
-kommission för publicering.
+upphandlingen skickades till Europeiska kommissionen för
+publicering.
 
-Tidsfristen för att komma in med anbud vid selektivt förfarande
-eller förhandlat förfarande enligt 4 § andra stycket får
-förkortas med fem dagar, om den upphandlande enheten ger fri,
-direkt och fullständig tillgång med elektroniska medel till
-förfrågningsunderlaget från den dag då annonsen om
-upphandlingen skickades till Europeiska gemenskapernas
-kommission för publicering. Tidsfristen får dock aldrig vara
+Tidsfristen för att komma in med anbud vid selektivt
+förfarande eller förhandlat förfarande enligt 4 § andra
+stycket får förkortas med fem dagar, om den upphandlande
+enheten ger fri, direkt och fullständig tillgång med
+elektroniska medel till förfrågningsunderlaget från den dag då
+annonsen om upphandlingen skickades till Europeiska
+kommissionen för publicering. Tidsfristen får dock aldrig vara
 kortare än den minsta tid som anges i 4 § andra stycket.
 
 Den Internetadress där förfrågningsunderlaget finns
-tillgängligt skall anges i annonsen.
+tillgängligt ska anges i annonsen. Lag (2010:572).
 
 Minsta tillåtna tidsfrist
 
@@ -1347,6 +1547,7 @@ lämnas annat än efter ett besök på plats.
 
 Första och andra styckena gäller inte om tidsfristen angetts
 efter en överenskommelse enligt 4 § första stycket.
+
 
 Tillhandahållande av förfrågningsunderlag vid öppet förfarande
 
@@ -1480,17 +1681,18 @@ förfrågningsunderlaget, och
 
 Regler för kommunikation
 
-1 § Anbudsansökningar och anbud skall lämnas skriftligen om
-inte något annat följer av andra eller tredje stycket.
+1 § Anbudsansökningar och anbud ska lämnas skriftligen om inte
+något annat följer av tredje stycket.
 
 En upphandlande enhet får bestämma att anbudsansökningar och
-anbud skall lämnas med något elektroniskt medel.
+anbud ska lämnas med ett elektroniskt medel eller på något
+annat sätt.
 
 Enheten får tillåta att en anbudsansökan görs per telefon.
 
-Enheten skall i en annons ange hur anbudsansökningar får lämnas
+Enheten ska i en annons ange hur anbudsansökningar får lämnas
 och i en annons eller ett förfrågningsunderlag ange hur anbud
-får lämnas.
+får lämnas. Lag (2010:572).
 
 2 § Vid kommunikation med elektroniska medel skall dessa vara
 icke-diskriminerande, allmänt tillgängliga och möjliga att
@@ -1522,8 +1724,8 @@ Skyldighet att lämna in intyg m.m.
 4 § Vid användning av elektroniska medel enligt 1 § skall
 anbudssökande och anbudsgivare före utgången av tidsfristen för
 att lämna anbudsansökan eller anbud i annan form lämna in
-sådana handlingar som avses i 10 kap. 4 § och 11 kap. 11 och 12
-§§ om de inte finns tillgängliga i elektronisk form.
+sådana handlingar som avses i 10 kap. 4 § och 11 kap. 11 och
+12 §§ om de inte finns tillgängliga i elektronisk form.
 
 Bekräftelse av ansökan om att få lämna anbud
 
@@ -1577,15 +1779,19 @@ Information till leverantörer
 
 Underrättelse om beslut
 
-9 § En upphandlande enhet skall snarast möjligt skriftligen
+9 § En upphandlande enhet ska snarast möjligt skriftligen
 underrätta anbudssökandena och anbudsgivarna om de beslut som
-fattats om att sluta ett ramavtal eller att tilldela ett
-kontrakt och om skälen för besluten.
+har fattats om att sluta ett ramavtal eller att tilldela ett
+kontrakt och om skälen för besluten. I underrättelsen ska
+enheten ange den period under vilken avtal enligt 16 kap. 1 §
+inte får ingås (avtalsspärr).
 
-En sådan underrättelse skall lämnas även när en upphandlande
+En skriftlig underrättelse ska snarast möjligt lämnas till
+anbudssökandena och anbudsgivarna även när en upphandlande
 enhet beslutar att avbryta en upphandling för vilken det har
 gått ut inbjudan att lämna anbud samt vid beslut att göra om
-upphandlingen.
+upphandlingen. I underrättelsen ska skälen för beslutet anges.
+Lag (2011:1031).
 
 Upplysningar på begäran av en leverantör
 
@@ -1672,21 +1878,19 @@ den dag då kontraktet tilldelades.
 
 Omständigheter som skall medföra uteslutning av leverantörer
 
-1 § En upphandlande enhet som är en upphandlande myndighet
-skall utesluta en leverantör från att delta i ett
+1 § En upphandlande enhet som är en upphandlande myndighet ska
+utesluta en leverantör från att delta i ett
 kvalificeringssystem eller en upphandling, om myndigheten får
 kännedom om att leverantören enligt en lagakraftvunnen dom är
 dömd för brott som innefattar
 
-1. sådan brottslighet som avses i artikel 2.1 i rådets
-gemensamma åtgärd 98/733/RIF av den 21 december 1998 beslutad
-av rådet på grundval av artikel K 3 i fördraget om Europeiska
-unionen om att göra deltagande i en kriminell organisation i
-Europeiska unionens medlemsstater till ett brott,
+1. sådan brottslighet som avses i artikel 2 i rådets rambeslut
+2008/841/RIF av den 24 oktober 2008 om kampen mot organiserad
+brottslighet,
 
 2. bestickning enligt definitionen i artikel 3 i rådets akt av
-den 26 maj 1997 om utarbetande på grundval av artikel K 3.2 c i
-fördraget om Europeiska unionen av konventionen om kamp mot
+den 26 maj 1997 om utarbetande på grundval av artikel K 3.2 c
+i fördraget om Europeiska unionen av konventionen om kamp mot
 korruption som tjänstemän i Europeiska gemenskaperna eller
 Europeiska unionens medlemsstater är delaktiga i, respektive
 artikel 3.1 i rådets gemensamma åtgärd 98/742/RIF av den 22
@@ -1701,22 +1905,22 @@ finansiella intressen, eller
 
 4. penningtvätt enligt definitionen i artikel 1 i rådets
 direktiv 91/308/EEG av den 10 juni 1991 om åtgärder för att
-förhindra att det finansiella systemet används för tvättning av
-pengar, ändrat genom Europaparlamentets och rådets direktiv
+förhindra att det finansiella systemet används för tvättning
+av pengar, ändrat genom Europaparlamentets och rådets direktiv
 2001/97/EG.
 
-Är leverantören en juridisk person, skall leverantören
-uteslutas om en företrädare för den juridiska personen har
-dömts för brottet.
+Är leverantören en juridisk person, ska leverantören uteslutas
+om en företrädare för den juridiska personen har dömts för
+brottet.
 
-Om det finns grundad anledning anta att en leverantör skall
+Om det finns grundad anledning anta att en leverantör ska
 uteslutas med stöd av första stycket, får myndigheten begära
 att leverantören visar att det inte finns någon grund för
 uteslutning.
 
 Om det finns särskilda skäl, får en upphandlande myndighet
 avstå från att utesluta en leverantör som dömts för
-brottslighet enligt första stycket.
+brottslighet enligt första stycket. Lag (2011:1031).
 
 Omständigheter som får medföra uteslutning av leverantörer
 
@@ -1724,8 +1928,8 @@ Omständigheter som får medföra uteslutning av leverantörer
 får på de grunder som anges i 1 § utesluta en leverantör från
 att delta i ett kvalificeringssystem eller en upphandling.
 
-3 § En upphandlande enhet får, utöver vad som följer av 1 och 2
-§§, utesluta en leverantör från att delta i ett
+3 § En upphandlande enhet får, utöver vad som följer av 1 och
+2 §§, utesluta en leverantör från att delta i ett
 kvalificeringssystem eller i en upphandling, om leverantören
 
 1. är i konkurs eller likvidation, är under tvångsförvaltning
@@ -1742,21 +1946,22 @@ yrkesutövningen,
 och den upphandlande enheten kan visa detta,
 
 5. inte har fullgjort sina åligganden avseende
-socialförsäkringsavgifter eller skatt i det egna landet eller i
-det land där upphandlingen sker, eller
+socialförsäkringsavgifter eller skatt i det egna landet eller
+i det land där upphandlingen sker, eller
 
-6. i något väsentligt hänseende har låtit bli att lämna begärda
-upplysningar eller lämnat felaktiga upplysningar som begärts
-med stöd av denna bestämmelse.
+6. i något väsentligt hänseende har låtit bli att lämna
+begärda upplysningar eller lämnat felaktiga upplysningar som
+begärts med stöd av bestämmelserna i 10 eller 11 kap.
 
 Är leverantören en juridisk person, får leverantören uteslutas
 om en företrädare för den juridiska personen har dömts för
-brott som avses i första stycket 3 eller gjort sig skyldig till
-sådant fel som avses i första stycket 4.
+brott som avses i första stycket 3 eller gjort sig skyldig
+till sådant fel som avses i första stycket 4.
 
-Enheten får begära att en leverantör visar att det inte finns
-någon grund för att utesluta leverantören med stöd av första
-stycket 1, 2, 3 eller 5.
+Enheten får, utom i de fall som avses i 5 §, begära att en
+leverantör visar att det inte finns någon grund för att
+utesluta leverantören med stöd av första stycket 1, 2, 3 eller
+5. Lag (2010:572).
 
 Intyg och bevis angående leverantör
 
@@ -1777,6 +1982,12 @@ Om en leverantör är registrerad i en officiell förteckning över
 godkända leverantörer i ett land inom EES, får det antas att
 leverantören uppfyller de förutsättningar som anges i 1 § eller
 i 3 § första stycket 1-5.
+
+5 § Vid kontroll av om en leverantör har fullgjort sina
+åligganden avseende socialförsäkringsavgifter eller skatt i
+Sverige enligt 3 § första stycket 5 ska den upphandlande
+enheten inhämta uppgifter om detta från behörig myndighet.
+Lag (2010:572).
 
 11 kap. Kvalificering och urvalsbedömning
 
@@ -1806,21 +2017,21 @@ kapitel samt 12 kap. tillämpas.
 
 Fastställande av kriterier och regler för kvalificeringssystem
 
-3 § Den upphandlande enheten skall ange kriterier och regler
-för urval till ett kvalificeringssystem, och i den utsträckning
-som framgår av 10 kap., grunder för uteslutning från ett sådant
-system. Detta kan göras genom en hänvisning till andra företags
-kvalificeringssystem.
+3 § Den upphandlande enheten ska ange kriterier och regler för
+urval till ett kvalificeringssystem, och i den utsträckning
+som framgår av 10 kap., grunder för uteslutning från ett
+sådant system. Detta kan göras genom en hänvisning till andra
+företags kvalificeringssystem.
 
-Kriterierna och reglerna skall tillhandahållas den leverantör
+Kriterierna och reglerna ska tillhandahållas den leverantör
 som begär det.
 
-En leverantör kan när som helst kan ansöka om att bli
+En leverantör kan när som helst ansöka om att bli
 kvalificerad.
 
 Kriterierna och villkoren för urval får vid behov uppdateras.
-Berörda leverantörer skall underrättas om de ändringar som
-gjorts.
+Berörda leverantörer ska underrättas om de ändringar som
+gjorts. Lag (2010:572).
 
 Tekniska specifikationer
 
@@ -1830,14 +2041,15 @@ tillämpas i fråga om sådana specifikationer.
 
 Tillgång till andra företags kapacitet
 
-5 § När de kriterier och regler för kvalificering som avses i 3
-§ innefattar krav som rör leverantörernas ekonomiska, tekniska
-eller yrkesmässiga kapacitet får en leverantör vid behov
-åberopa andra företags kapacitet, förmåga eller kunnande.
-Leverantören skall genom att tillhandahålla ett åtagande från
-företagen i fråga eller på annat sätt visa att leverantören
-kommer att förfoga över nödvändiga resurser under hela den
-period under vilken kvalificeringssystemet är giltigt.
+5 § När de kriterier och regler för kvalificering som avses i
+3 § innefattar krav som rör leverantörernas ekonomiska,
+tekniska eller yrkesmässiga kapacitet får en leverantör vid
+behov åberopa andra företags kapacitet, förmåga eller
+kunnande. Leverantören skall genom att tillhandahålla ett
+åtagande från företagen i fråga eller på annat sätt visa att
+leverantören kommer att förfoga över nödvändiga resurser under
+hela den period under vilken kvalificeringssystemet är
+giltigt.
 
 Förteckning över leverantörer
 
@@ -1907,27 +2119,50 @@ leverantörer.
 Standarder för miljöledning
 
 12 § När det gäller byggentreprenad- eller tjänstekontrakt kan
-en upphandlande enhet, när det behövs, kräva att leverantörerna
-anger de åtgärder för miljöledning som de kommer att tillämpa
-när kontraktet fullgörs, för att därigenom kontrollera deras
-tekniska förmåga.
+en upphandlande enhet, när det behövs, kräva att
+leverantörerna anger de åtgärder för miljöledning som de
+kommer att tillämpa när kontraktet fullgörs, för att därigenom
+kontrollera deras tekniska förmåga.
 
 Om den upphandlande enheten i ett sådant fall kräver att få
 tillgång till ett av ett oberoende organ upprättat certifikat
 som intygar att leverantören uppfyller vissa
-miljöledningsstandarder, skall enheten hänvisa till
-Europaparlamentets och rådets förordning (EG) nr 761/2001 av
-den 19 mars 2001 om frivilligt deltagande för organisationer i
-gemenskapens miljölednings- och miljöredovisningsordning (EMAS)
-eller till miljöledningsstandarder som bygger på relevanta
-europeiska eller internationella standarder.
-Miljöledningsstandarderna skall vara certifierade av organ som
-uppfyller gemenskapslagstiftningen eller relevanta europeiska
+miljöledningsstandarder, ska enheten hänvisa till
+Europaparlamentets och rådets förordning (EG) nr 1221/2009 av
+den 25 november 2009 om frivilligt deltagande för
+organisationer i gemenskapens miljölednings- och
+miljörevisionsordning (Emas) och om upphävande av förordning
+(EG) nr 761/2001 och kommissionens beslut 2001/681/EG och
+2006/193/EG eller till miljöledningsstandarder som bygger på
+relevanta europeiska eller internationella standarder.
+Miljöledningsstandarderna ska vara certifierade av organ som
+uppfyller unionslagstiftningen eller relevanta europeiska
 eller internationella standarder för certifiering.
 
-Enheten skall godta likvärdiga intyg från andra organ som är
-etablerade inom EES. Den skall även godta andra bevis på
+Enheten ska godta likvärdiga intyg från andra organ som är
+etablerade inom EES. Den ska även godta andra bevis på
 likvärdiga miljöledningsåtgärder som lämnas av leverantörerna.
+Lag (2011:697).
+
+Begränsad kontroll
+
+13 § En upphandlande enhet får begränsa kontrollen av sådana
+handlingar som rör leverantörens lämplighet till de
+anbudssökande och anbudsgivare som anges i andra och tredje
+styckena. Leverantören ska ges skälig tid att komma in med de
+begärda handlingarna.
+
+I ett öppet förfarande ska uppgifterna enligt första stycket
+begäras in och kontrolleras när det gäller den eller de
+anbudsgivare som enheten avser att tilldela kontraktet eller
+ramavtalet. Kontrollen ska göras innan anbudsgivarna
+underrättas om tilldelningsbeslutet enligt 9 kap. 9 § första
+stycket.
+
+I ett selektivt eller förhandlat förfarande ska uppgifterna
+enligt första stycket begäras in och kontrolleras när det
+gäller de anbudssökande som enheten avser att bjuda in att
+lämna anbud respektive att förhandla. Lag (2010:572).
 
 12 kap. Tilldelning av kontrakt
 
@@ -2009,12 +2244,12 @@ lågt på grund av att anbudsgivaren har fått statligt stöd, får
 enheten begära en förklaring av anbudsgivaren. Kan
 anbudsgivaren inte efter en sådan begäran och inom en skälig
 tidsfrist som angetts av den upphandlande enheten visa att det
-är fråga om ett med EG-fördraget förenligt stöd, får anbudet
+är fråga om ett med EUF-fördraget förenligt stöd, får anbudet
 förkastas.
 
 En upphandlande enhet som förkastar ett anbud enligt första
-stycket skall underrätta Europeiska gemenskapernas kommission
-om det.
+stycket ska underrätta Europeiska kommissionen om det.
+Lag (2010:572).
 
 13 kap. Projekttävlingar på tjänsteområdet
 
@@ -2033,11 +2268,11 @@ det belopp som framgår av 2 §.
 Tröskelvärden för projekttävlingar
 
 2 § Tröskelvärdet vid projekttävlingar är de värden som
-Europeiska gemenskapernas kommission vid varje tid har beslutat
-eller lämnat meddelande om.
+Europeiska kommissionen vid varje tid har beslutat eller
+lämnat meddelande om.
 
 Regeringen tillkännager i Svensk författningssamling
-tröskelvärdena i euro och svenska kronor.
+tröskelvärdena i euro och svenska kronor. Lag (2010:572).
 
 3 § Tröskelvärdet vid projekttävlingar som ingår i en
 tjänsteupphandling skall beräknas till värdet av
@@ -2067,9 +2302,9 @@ Kommunikation och information
 bestämmelserna i 9 kap. 1-6 §§ och 7 § första stycket tillämpas
 på motsvarande sätt på projekttävlingar.
 
-7 § Resultatet av en projekttävling skall sändas till
-Europeiska gemenskapernas kommission inom två månader efter det
-att projekttävlingen har avslutats.
+7 § Resultatet av en projekttävling ska sändas till Europeiska
+kommissionen inom två månader efter det att projekttävlingen
+har avslutats. Lag (2010:572).
 
 Juryn och dess sammansättning
 
@@ -2110,13 +2345,14 @@ ledamöterna i juryn och tävlingsdeltagarna.
 Tillämpningsområdet
 
 1 § För anbud som omfattar varor med ursprung i tredje land,
-med vilket Europeiska gemenskapen inte har slutit avtal som
-tillförsäkrar företag från gemenskapen jämförbart och faktiskt
-tillträde till marknaden i detta tredje land, tillämpas 2 och 3
-§§.
+med vilket Europeiska unionen inte har slutit avtal som
+tillförsäkrar företag från unionen jämförbart och faktiskt
+tillträde till marknaden i detta tredje land, tillämpas 2 och
+3 §§.
 
-Bestämmelserna i 1-3 §§ tillämpas inte om något annat följer av
-åtaganden som gemenskapen eller Sverige har med tredje land.
+Bestämmelserna i 1-3 §§ tillämpas inte om något annat följer
+av åtaganden som unionen eller Sverige har med tredje land.
+Lag (2010:572).
 
 Anbud som omfattar varor med ursprung i tredje land får
 förkastas
@@ -2147,87 +2383,123 @@ kap. 2 § andra stycket.
 
 Tillämpliga bestämmelser
 
-2 § Vid upphandling enligt detta kapitel tillämpas även 1 kap.,
-2 kap., 5 kap. och 16 kap. 1-10 §§.
+2 § Vid upphandling enligt detta kapitel tillämpas även
+
+– 1 kap. (lagens innehåll och tillämpningsområde samt allmänna
+bestämmelser),
+
+– 2 kap. (definitioner),
+
+– 4 kap. 4 § (inköpscentraler),
+
+– 5 kap. (ramavtal),
+
+– 6 kap. 4 § (uppgifter om ursprung, tillverkning m.m.),
+
+– 6 kap. 7 § (miljömärken),
+
+– 6 kap. 14 § (särskilda villkor för fullgörande av kontrakt),
+
+– 8 kap. 12 § (om någon annan än den upphandlande enheten ska
+lämna ut förfrågningsunderlaget),
+
+– 16 kap. (avtalsspärr, överprövning och skadestånd),
+
+– 17 kap. (upphandlingsskadeavgift), och
+
+– 18 kap. (tillsyn).
 
 Vid upphandling som avser tjänster som anges i bilaga 3 (B-
-tjänster) tilllämpas även 6 kap. 1-8 §§, om värdet av
-kontraktet uppgår till minst tilllämpligt tröskelvärde i 3 kap.
+tjänster) tillämpas även 6 kap. 1–3, 5, 6 och 8 §§, när värdet
+av kontraktet uppgår till minst tillämpligt tröskelvärde i 3
+kap.
+
+Ett särskilt kvalificeringssystem enligt 11 kap. 2 § får
+tillämpas vid användning av urvalsförfarande för tilldelning
+av kontrakt eller ramavtal enligt detta kapitel.
 
 En upphandlande enhet får publicera annonser om upphandlingar
 på det sätt som gäller för upphandlingar enligt 7 kap.
+Lag (2011:1031).
 
 Upphandlingsförfaranden
 
-3 § En upphandling enligt detta kapitel skall göras genom
+3 § En upphandling enligt detta kapitel ska göras genom
 förenklat förfarande eller urvalsförfarande.
 
-Direktupphandling får dock användas om kontraktets värde är
-lågt eller om det finns synnerliga skäl. Den upphandlande
-enheten skall vid behov besluta riktlinjer för användning av
-sådant förfarande.
+Direktupphandling får dock användas om kontraktets värde
+uppgår till högst 26 procent av det tröskelvärde som avses i
+3 kap. 1 § första stycket 1. Vidare får direktupphandling
+användas i tillämplig omfattning i de fall då
+förutsättningarna för tilldelning av kontrakt utan föregående
+annonsering som avses i 4 kap. 2 och 3 §§ är uppfyllda eller
+om det finns synnerliga skäl. Den upphandlande enheten ska
+besluta riktlinjer för användning av direktupphandling.
+Lag (2014:475).
 
-Annonsering vid förenklat förfarande
+Beräkning av värdet av ett kontrakt
 
-4 § Vid förenklat förfarande skall den upphandlande enheten
+3 a § Värdet av ett kontrakt ska uppskattas till det totala
+belopp som ska betalas enligt kontraktet. En upphandling får
+inte delas upp i syfte att kringgå bestämmelserna i denna lag.
+
+Vid beräkningen ska options- och förlängningsklausuler beaktas
+som om de utnyttjats.
+
+Vid beräkningen ska den upphandlande enheten beakta
+direktupphandlingar av samma slag gjorda av enheten under
+räkenskapsåret. Lag (2010:572).
+
+Annonsering
+
+4 § Vid förenklat förfarande ska den upphandlande enheten
 begära anbud genom annons i en elektronisk databas, som är
 allmänt tillgänglig, eller genom annons i annan form som
 möjliggör effektiv konkurrens.
 
-Begäran om anbud utan föregående annonsering
+Vid urvalsförfarande ska den upphandlande enheten publicera en
+ansökningsinbjudan genom en annons i en elektronisk databas
+som är allmänt tillgänglig. Enheten får i sin inbjudan ange
+det antal leverantörer som den avser att bjuda in. Antalet ska
+bestämmas med hänsyn till arten av det som ska upphandlas och
+vara tillräckligt stort för att effektiv konkurrens ska
+uppnås. Lag (2010:572).
 
-5 § En upphandlande enhet får utan föregående annonsering
-begära anbud genom att skicka en skrivelse till endast en
-leverantör om
+Innehåll i en annons m.m.
 
-1. det vid annonserat förenklat förfarande inte lämnats några
-anbud eller inte lämnats några lämpliga anbud och under
-förutsättning att kontraktsvillkoren i förfrågningsunderlaget
-inte ändras väsentligt,
+5 § En annons om upphandling enligt 4 § ska innehålla uppgift
+om föremålet för upphandlingen och kontaktuppgifter till den
+upphandlande enheten.
 
-2. det gäller varor som framställs enbart för forsknings-,
-utvecklings-, experiment- eller studieändamål och under
-förutsättning att framställningen inte sker i vinstsyfte eller
-för att täcka forsknings- och utvecklingskostnader,
+Vid förenklat förfarande ska det dessutom framgå
 
-3. det som skall upphandlas av tekniska eller konstnärliga skäl
-eller på grund av ensamrätt kan levereras av endast en viss
-leverantör, eller
+1. hur anbud får lämnas,
 
-4. det gäller ytterligare leveranser från den ursprungliga
-leverantören, avsedda antingen som delersättning för eller
-tillägg till tidigare leveranser och ett byte av leverantör
-skulle medföra oskäliga tekniska eller ekonomiska olägenheter.
+2. den dag då anbud senast ska ha kommit in, och
 
-Annonsering vid urvalsförfarande
+3. den dag till och med vilken anbudet ska vara bindande.
 
-6 § Vid tillämpning av urvalsförfarande skall den upphandlande
-enheten publicera en ansökningsinbjudan genom annons i en
-elektronisk databas, som är allmänt tillgänglig.
+Vid urvalsförfarande ska annonsen med ansökningsinbjudan
+innehålla uppgift om
 
-Av inbjudan skall det framgå
+1. hur en anbudsansökan får lämnas, och
 
-1. hur en anbudsansökan får lämnas och
+2. den dag ansökan senast ska ha kommit in.
+Lag (2010:572).
 
-2. den dag ansökan senast skall ha kommit in.
+Annonsering vid förhandsinsyn
 
-Enheten får i sin inbjudan ange det antal leverantörer som den
-avser att bjuda in. Antalet skall bestämmas med hänsyn till
-arten av det som skall upphandlas och vara tillräckligt stort
-för att effektiv konkurrens skall uppnås.
+5 a § En upphandlande enhet som avser att tilldela ett
+kontrakt genom direktupphandling enligt 3 § andra stycket får
+annonsera sin avsikt i en elektronisk databas som är allmänt
+tillgänglig (förhandsinsyn).
 
-Förfrågningsunderlag
+Regeringen meddelar föreskrifter om innehållet i en annons om
+förhandsinsyn. Lag (2010:572).
 
-7 § Bestämmelserna i 6 kap. 4 och 7 §§ om uppgifter i de
-tekniska specifikationerna respektive miljömärken gäller vid
-upphandling som avses i detta kapitel.
+6 § Har upphävts genom lag (2010:572).
 
-Av förfrågningsunderlaget skall det framgå om ett anbud kan
-komma att antas utan föregående förhandling.
-
-En leverantör som inte särskilt tillfrågats har rätt att på
-begäran få förfrågningsunderlaget på samma villkor som andra
-leverantörer.
+7 § Har upphävts genom lag (2010:572).
 
 Kommunikationsmedel vid upphandling
 
@@ -2237,21 +2509,17 @@ avses i detta kapitel.
 
 Tidsfrister för att lämna anbudsansökningar och anbud
 
-9 § Anbudssökande och anbudsgivare skall ges skälig tid att
-komma in med ansökningar eller anbud. Tiden för att få komma in
-med anbudsansökningar får dock aldrig vara kortare än tio dagar
-från den dag då ansökningsinbjudan blev publicerad enligt 6 §.
+9 § Anbudssökande och anbudsgivare ska ges skälig tid att
+komma in med ansökningar respektive anbud. Tiden för att komma
+in med anbudsansökningar får dock aldrig vara kortare än tio
+dagar från den dag då ansökningsinbjudan blev publicerad
+enligt 4 § andra stycket. Lag (2010:572).
 
-Innehåll i annonser, m.m.
-
-10 § I en annons enligt 4 §, en skrivelse enligt 5 § eller ett
-förfrågningsunderlag enligt 7 § skall det anges
-
-1. hur anbud får lämnas,
-
-2. den dag då anbud senast skall ha kommit in, och
-
-3. den dag till och med vilken anbudet skall vara bindande.
+10 § Den upphandlande enheten ska vid förenklat förfarande och
+urvalsförfarande lämna ut kompletterande upplysningar om
+förfrågningsunderlaget senast sex dagar före angiven sista dag
+för att komma in med anbud, förutsatt att sådana upplysningar
+begärts i god tid. Lag (2011:1031).
 
 Mottagande och öppnande av anbud
 
@@ -2292,22 +2560,50 @@ förhållanden som avses i första och andra styckena skall i
 förfrågningsunderlaget, annonsen eller skrivelsen ange på
 vilket sätt leverantören kan lämna upplysningarna.
 
-Särskilda villkor för fullgörande av kontrakt
+13 a § Vid kontroll av om en leverantör har fullgjort sina
+åligganden avseende socialförsäkringsavgifter eller skatt i
+Sverige enligt 10 kap. 3 § första stycket 5 ska den
+upphandlande enheten inhämta uppgifter om detta från behörig
+myndighet. Lag (2010:572).
 
-14 § En upphandlande enhet får ställa särskilda sociala,
-miljömässiga och andra villkor för hur kontrakt skall
-fullgöras. Dessa skall anges i annonsen om upphandling, i
-ansökningsinbjudan eller i förfrågningsunderlaget.
+Begränsad kontroll
+
+13 b § En upphandlande enhet får begränsa kontrollen av sådana
+handlingar som rör leverantörens lämplighet till de
+anbudssökande och anbudsgivare som anges i andra och tredje
+styckena. Leverantören ska ges skälig tid att komma in med de
+begärda handlingarna.
+
+I ett förenklat förfarande ska uppgifterna enligt första
+stycket begäras in och kontrolleras när det gäller den eller
+de anbudsgivare som enheten avser att bjuda in till
+förhandling eller, om ingen förhandling sker, den eller de
+anbudsgivare som enheten avser tilldela kontraktet eller
+ramavtalet. Kontrollen ska göras innan anbudsgivarna bjuds in
+till förhandling respektive underrättas om
+tilldelningsbeslutet enligt 19 §.
+
+I ett urvalsförfarande ska uppgifterna enligt första stycket
+begäras in och kontrolleras när det gäller de anbudssökande
+som enheten avser att bjuda in att lämna anbud respektive att
+förhandla. Lag (2010:572).
+
+14 § Har upphävts genom lag (2010:572).
 
 Prövning av anbudsansökningar och anbud
 
-15 § En upphandlande enhet skall pröva alla de
-anbudsansökningar och anbud som har kommit in i rätt tid, om
-inte något annat följer av andra stycket eller 13 §.
+15 § En upphandlande enhet ska pröva alla de anbudsansökningar
+och anbud som har kommit in i rätt tid, om inte något annat
+följer av 13 §. Lag (2010:572).
 
-En upphandlande enhet får förkasta en ansökan eller ett anbud
-av samma skäl som en enhet får utesluta en anbudssökande eller
-anbudsgivare enligt 13 § första och andra styckena.
+Tillgång till andra företags kapacitet
+
+15 a § En leverantör får vid behov när det gäller ett visst
+kontrakt åberopa andra företags kapacitet. Leverantören ska
+genom att tillhandahålla ett åtagande från de andra företagen
+eller på annat sätt visa att leverantören kommer att förfoga
+över nödvändiga resurser när kontraktet ska fullgöras.
+Lag (2010:572).
 
 Alternativa grunder för tilldelning av kontrakt
 
@@ -2317,6 +2613,8 @@ Alternativa grunder för tilldelning av kontrakt
 upphandlande enheten, eller
 
 2. det anbud som har lägst pris.
+
+
 
 Bedömningen av vilket anbud som är det ekonomiskt mest
 fördelaktiga skall göras enligt 12 kap. 1 § andra stycket.
@@ -2334,30 +2632,32 @@ förfrågningsunderlaget.
 
 Onormalt låga anbud
 
-17 § Den upphandlande enheten får förkasta ett anbud om den
+17 § En upphandlande enhet får förkasta ett anbud om den
 finner att priset är onormalt lågt. Anbudet får dock förkastas
-först sedan enheten skriftligen begärt förklaring till det låga
-anbudet och inte fått tillfredsställande svar.
+först sedan enheten skriftligen begärt en förklaring till det
+låga anbudet och inte fått tillfredsställande svar.
+Lag (2010:572).
 
 Dokumentation, underrättelse och förvaring av handlingar
 
-18 § En upphandlande enhet skall anteckna skälen för sina
-beslut och annat av betydelse vid upphandlingen. Detta gäller
-dock inte vid tilldelning av kontrakt som avser lågt värde.
+18 § En upphandlande enhet ska anteckna skälen för sina
+beslut och annat av betydelse vid upphandlingen om
+upphandlingens värde överstiger 100 000 kronor.
+Lag (2014:475).
 
-19 § Vid förenklat förfarande och urvalsförfarande skall den
-upphandlande enheten till anbudssökande och anbudsgivare lämna
-underrättelse om de beslut som avses i 9 kap. 9 § och sådana
-upplysningar som avses i 9 kap. 10 §.
+19 § Vid förenklat förfarande och urvalsförfarande ska den
+upphandlande enheten snarast möjligt skriftligen underrätta
+anbudssökandena och anbudsgivarna om de beslut som avses i
+9 kap. 9 § och lämna sådana upplysningar som avses i 9 kap.
+10 §.
 
-Vid direktupphandling och vid tilldelning av kontrakt som avses
-i 1 kap. 2 § andra stycket 3 skall den upphandlande enheten,
-när beslut om leverantör och anbud fattats, underrätta
-anbudsgivarna om beslutet snarast möjligt.
+Vid direktupphandling ska den upphandlande enheten, när beslut
+om leverantör och anbud fattats, underrätta anbudsgivarna om
+beslutet snarast möjligt.
 
 En anbudsgivare är bunden av sitt anbud även om anbudsgivaren
 har fått sådan underrättelse eller sådana upplysningar som
-avses i första stycket.
+avses i första stycket. Lag (2011:1031).
 
 20 § När en upphandling har avslutats skall en upphandlande
 enhet som inte omfattas av arkivlagen (1990:782) på betryggande
@@ -2373,192 +2673,398 @@ B-tjänster
 
 21 § Om ett kontrakt som avser tjänster enligt bilaga 3 (B-
 tjänster) uppgår till minst tillämpligt tröskelvärde i 3 kap.,
-skall den upphandlande enheten senast inom 60 dagar efter det
-att kontraktet tilldelats meddela Europeiska gemenskapernas
-kommission om det. I meddelandet skall den upphandlande enheten
-ange om den godkänner att meddelandet publiceras.
+ska den upphandlande enheten senast inom 60 dagar efter det
+att kontraktet tilldelats meddela Europeiska kommissionen om
+det. Lag (2010:572).
 
-Upphandling som rör rikets säkerhet m.m.
+Undantag vid upphandling som rör rikets säkerhet m.m.
 
-22 § I fråga om kontrakt som avses i 1 kap. 2 § andra stycket 3
-får regeringen i enskilda fall meddela beslut om
-
-1. undantag från bestämmelserna om annonsering i detta kapitel,
-och
-
-2. de undantag i övrigt från bestämmelserna i detta kapitel som
-är nödvändiga med hänsyn till försvars- och säkerhetspolitiska
-intressen.
-
-Härutöver får regeringen i enskilda fall överlåta till en
-upphandlande enhet att själv besluta om sådana undantag som
-avses i första stycket.
+22 § Har upphävts genom lag (2011:1031).
 
 Projekttävlingar
 
-23 § Bestämmelserna i 13 kap. 1 § första stycket, 4, 6 och 8-10
-§§ gäller även för projekttävlingar som understiger
-tröskelvärdet i 13 kap. 2 §, om inte tävlingen avser lågt
-värde.
+23 § Bestämmelserna i 13 kap. 1 § första stycket, 4, 6 och 8-
+10 §§ gäller även för projekttävlingar som understiger
+tröskelvärdet i 13 kap. 2 §, om tävlingens värde uppgår till
+högst det i 3 § andra stycket angivna värdet.
 
-Vid anordnande av projekttävlingar skall 3 § tillämpas. En
-projekttävling skall annonseras enligt 4 eller 6 §.
+Vid anordnande av projekttävlingar ska 3 § tillämpas. En
+projekttävling ska annonseras enligt 4 eller 5 §.
 
-Om ett kontrakt enligt tävlingsreglerna skall tilldelas
-vinnaren eller en av vinnarna, skall vinnaren respektive
-vinnarna inbjudas att delta i förhandlingar.
+Om ett kontrakt enligt tävlingsreglerna ska tilldelas vinnaren
+eller en av vinnarna, ska vinnaren respektive vinnarna bjudas
+in att delta i förhandlingar. Lag (2010:572).
 
-16 kap. Överprövning, skadestånd m.m.
+16 kap. Avtalsspärr, överprövning och skadestånd
+
+Avtalsspärr
+
+Allmänna bestämmelser om avtalsspärr
+
+1 § Om en upphandlande enhet är skyldig att skicka en
+underrättelse om tilldelningsbeslut enligt 9 kap. 9 § första
+stycket eller 15 kap. 19 § och underrättelsen har skickats med
+ett elektroniskt medel, får den upphandlande enheten inte ingå
+avtal (avtalsspärr) förrän tio dagar har gått från det att
+underrättelsen skickades.
+
+Om underrättelsen har skickats på annat sätt än med ett
+elektroniskt medel till en eller flera anbudssökande eller
+anbudsgivare, får avtal inte ingås förrän 15 dagar har gått
+från utskickandet.
+
+Om en upphandlande enhet i underrättelsen har angett en längre
+avtalsspärr än den föreskrivna minimifristen, får avtal inte
+ingås förrän efter utgången av den angivna perioden.
+Lag (2011:1031).
+
+Undantag från avtalsspärr
+
+2 § Avtalsspärr gäller inte
+
+1. vid tilldelning av kontrakt efter upphandling utan
+föregående annonsering med stöd av 4 kap. 2 eller 3 §, eller
+
+2. vid direktupphandling enligt 15 kap. 3 § andra stycket.
+Lag (2011:1031).
+
+Avtalsspärr vid förhandsinsyn
+
+3 § Vid förhandsinsyn enligt 7 kap. 7 § eller 15 kap. 5 a §
+får den upphandlande enheten inte ingå avtal förrän tio dagar
+har gått från det att annonsen om förhandsinsyn publicerats.
+Lag (2011:1031).
 
 Överprövning
 
-1 § En leverantör som anser sig ha lidit eller kan komma att
-lida skada enligt 2 § får i en framställning till allmän
-förvaltningsdomstol ansöka om åtgärder enligt den paragrafen.
+Allmänna bestämmelser om överprövning
 
-Vid direktupphandling får en ansökan enligt första stycket inte
-prövas efter den tidpunkt då det finns ett avtal om
-upphandlingen.
+4 § Efter ansökan av en leverantör som anser sig ha lidit
+eller kunna komma att lida skada får allmän
+förvaltningsdomstol överpröva
 
-Vid tillämpning av ett annat förfarande än som avses i andra
-stycket får en ansökan inte prövas efter den tidpunkt då det
-finns ett kontrakt. Den får dock prövas till dess att tio dagar
-gått från det att
+1. en upphandling, och
 
-1. den upphandlande enheten lämnat underrättelse enligt 9 kap.
-9 § till anbudssökandena eller anbudsgivarna, eller
-
-2. rätten, om den har fattat ett interimistiskt beslut, upphävt
-det beslutet.
-
-Det som sägs i tredje stycket andra meningen gäller inte vid
-tilldelning av kontrakt som
-
-1. avses i 1 kap. 2 § andra stycket 3, om det har gjorts ett
-undantag från bestämmelsen med stöd av 15 kap. 22 §, eller
-
-2. det är absolut nödvändigt att genomföra upphandlingen med
-sådan synnerlig brådska som är orsakad av omständigheter som
-inte kunnat förutses av den upphandlande enheten och inte
-heller kan hänföras till denna.
-
-Felaktig upphandling
-
-2 § Om den upphandlande enheten har brutit mot de grundläggande
-principerna i 1 kap. 24 § eller någon annan bestämmelse i denna
-lag och detta har medfört att leverantören lidit eller kan
-komma att lida skada, skall rätten besluta att upphandlingen
-skall göras om eller att den får avslutas först sedan rättelse
-gjorts. Rätten får vid vite förbjuda den upphandlande enheten
-att fortsätta upphandlingen utan att avhjälpa bristerna.
-
-Rätten får omedelbart besluta att upphandlingen inte får
-avslutas innan något annat har beslutats. Rätten får dock låta
-bli att fatta ett sådant interimistiskt beslut, om den skada
-eller olägenhet som åtgärden skulle medföra kan bedömas vara
-större än skadan för leverantören.
-
-3 § Ett mål som avser åtgärder enligt 2 § får inte avgöras
-slutligt så länge medlingsförfarande enligt 12 och 13 §§ pågår.
+2. giltigheten av ett avtal som har slutits mellan en
+upphandlande enhet och en leverantör. Lag (2011:1031).
 
 Behörig domstol
 
-4 § En ansökan enligt 1 § skall göras hos den förvaltningsrätt
-i vars domkrets den upphandlande enheten har sitt hemvist.
+5 § Har upphävts genom lag (2011:1031).
+
+5 § En ansökan om överprövning ska göras hos den
+förvaltningsrätt i vars domkrets den upphandlande enheten har
+sin hemvist.
 
 Prövningstillstånd krävs vid överklagande till kammarrätten.
-Lag (2009:854).
+Lag (2011:1031).
+
+Överprövning av en upphandling
+
+6 § Om den upphandlande enheten har brutit mot de
+grundläggande principerna i 1 kap. 24 § eller någon annan
+bestämmelse i denna lag och detta har medfört att leverantören
+har lidit eller kan komma att lida skada, ska rätten besluta
+att upphandlingen ska göras om eller att den får avslutas
+först sedan rättelse har gjorts.
+
+Överprövning av en upphandling får inte ske efter det att
+avtal har slutits mellan den upphandlande enheten och en
+leverantör. Lag (2011:1031).
+
+7 § Om den upphandlande enheten under pågående överprövning av
+en upphandling ingår ett avtal i strid med 1, 3, 8, 9 eller
+10 §, ska rätten, på yrkande av leverantören, överpröva
+avtalets giltighet i enlighet med 13–15 §§. Lag (2011:1031).
+
+Förlängd avtalsspärr
+
+8 § Om en ansökan om överprövning av en upphandling har
+gjorts, fortsätter avtalsspärr enligt 1 eller 3 § att gälla
+under handläggningen i förvaltningsrätten (förlängd
+avtalsspärr).
+
+Rätten får besluta att någon förlängd avtalsspärr inte ska
+gälla. Lag (2011:1031).
+
+Interimistiskt beslut vid överprövning av en upphandling
+
+9 § I fall då avtalsspärr enligt 1, 3 eller 8 § inte gäller
+får rätten besluta att den upphandlande enheten inte får ingå
+avtal innan något annat har bestämts.
+
+Rätten får avstå från att fatta beslut enligt första stycket,
+om den skada eller olägenhet som åtgärden skulle medföra kan
+bedömas vara större än skadan för leverantören.
+Lag (2011:1031).
+
+Tiodagarsfrist
+
+10 § När en förlängd avtalsspärr gäller enligt 8 §, får den
+upphandlande enheten inte ingå avtal förrän tio dagar har gått
+från det att förvaltningsrätten har avgjort målet.
+
+När en förvaltningsrätt eller en kammarrätt har fattat ett
+beslut enligt 9 §, får avtal inte ingås förrän tio dagar har
+gått från det att domstolen har avgjort målet eller upphävt
+beslutet.
+
+När Högsta förvaltningsdomstolen har fattat ett beslut enligt
+9 § och beslutat att återförvisa målet till lägre instans, får
+avtal inte ingås förrän tio dagar har gått från beslutet om
+återförvisning.
+
+Rätten får besluta att någon tiodagarsfrist inte ska gälla.
+Lag (2011:1031).
+
+Tidsfrister för ansökan om överprövning av en upphandling
+
+11 § En ansökan om överprövning av en upphandling ska ha
+kommit in till förvaltningsrätten före utgången av en sådan
+avtalsspärr som avses i 1 eller 3 §. Lag (2011:1031).
+
+12 § En ansökan om överprövning av ett beslut att avbryta en
+upphandling ska ha kommit in till förvaltningsrätten innan tio
+dagar har gått från det att den upphandlande enheten med ett
+elektroniskt medel har skickat en underrättelse om beslutet
+och angett skälen för detta.
+
+Om underrättelsen har skickats på annat sätt än med ett
+elektroniskt medel till en eller flera anbudssökande eller
+anbudsgivare, ska en ansökan om överprövning ha kommit in till
+förvaltningsrätten innan 15 dagar har gått från utskickandet.
+Lag (2010:572).
+
+Överprövning av ett avtals giltighet
+
+13 § Rätten ska besluta att ett avtal som har slutits mellan
+en upphandlande enhet och en leverantör är ogiltigt, om
+avtalet har slutits utan föregående annonsering enligt 7 kap.
+1, 2, 3, 4 eller 5 §, 13 kap. 5 § eller 15 kap. 4 §.
+
+Ett avtal ska också förklaras ogiltigt, om det har slutits i
+strid med bestämmelserna om avtalsspärr i 1, 3 eller 8 §, ett
+interimistiskt beslut enligt 9 § eller tiodagarsfristen i 10 §
+eller om avtalet har slutits före en underrättelse om
+tilldelningsbeslut enligt 9 kap. 9 § första stycket eller
+15 kap. 19 §. För ogiltighet i sådana fall krävs dessutom att
+de grundläggande principerna i 1 kap. 24 § eller någon annan
+bestämmelse i denna lag har överträtts och detta har medfört
+att leverantören har lidit eller kan komma att lida skada.
+Lag (2011:1031).
+
+14 § Om det finns tvingande hänsyn till ett allmänintresse,
+ska rätten besluta att avtalet får bestå trots att
+förutsättningarna för ogiltighet enligt 13 § är uppfyllda.
+Lag (2011:1031).
+
+15 § Bestämmelserna om ogiltighet i 13 § ska inte tillämpas om
+en upphandlande enhet genom förhandsinsyn enligt 7 kap. 7 §
+eller 15 kap. 5 a § har meddelat sin avsikt att upphandla och
+har iakttagit avtalsspärren vid förhandsinsyn enligt 3 §.
+Lag (2011:1031).
+
+Interimistiskt beslut vid överprövning av ett avtals giltighet
+
+16 § Rätten får besluta att ett avtal inte får fullgöras till
+dess något annat har bestämts.
+
+Rätten får avstå från att fatta beslut enligt första stycket,
+om den skada eller olägenhet som åtgärden skulle medföra kan
+bedömas vara större än skadan för leverantören.
+Lag (2011:1031).
+
+Tidsfrister för ansökan om överprövning av ett avtals
+giltighet
+
+17 § En ansökan om överprövning av ett avtals giltighet ska,
+om inte annat följer av andra stycket, ha kommit in till
+förvaltningsrätten inom sex månader från det att avtalet
+slöts.
+
+Ansökan ska dock ha kommit in till förvaltningsrätten innan 30
+dagar har gått från det att
+
+1. Europeiska kommissionen har publicerat en annons enligt
+7 kap. 6 § eller ett meddelande enligt 15 kap. 21 §, eller
+
+2. den upphandlande enheten skriftligen har underrättat
+anbudssökandena och anbudsgivarna om att avtalet har slutits
+samt har lämnat en sammanfattning av sådana upplysningar som
+avses i 9 kap. 10 §. Lag (2011:1031).
+
+Beräkning av vissa tider
+
+18 § Vid beräkningen av längden av en avtalsspärr samt av
+tiodagarsfrister enligt 10 § och tidsfrister för ansökan om
+överprövning ska 2 § lagen (1930:173) om beräkning av
+lagstadgad tid tillämpas. Lag (2011:1031).
 
 Förbud mot överklagande
 
-5 § Ett beslut som denna lag är tillämplig på får inte
+19 § Ett beslut som denna lag är tillämplig på får inte
 överklagas med stöd av 10 kap. kommunallagen (1991:900).
+Lag (2011:1031).
 
 Skadestånd
 
-6 § En upphandlande enhet som inte följt bestämmelserna i denna
-lag skall ersätta därigenom uppkommen skada för leverantör.
+20 § En upphandlande enhet som inte har följt bestämmelserna i
+denna lag ska ersätta därigenom uppkommen skada för en
+leverantör.
 
-7 § Anbudsgivare eller anbudssökande som deltagit i en
-upphandling är berättigad till ersättning för kostnader för att
-förbereda anbud och i övrigt delta i upphandlingen, om
-åsidosättandet av bestämmelserna i denna lag menligt har
-påverkat hans eller hennes möjligheter att tilldelas
-kontraktet.
+Rätten till skadestånd inbegriper ersättning till en
+anbudssökande eller anbudsgivare som har deltagit i en
+upphandling och som har haft kostnader för att förbereda anbud
+och i övrigt delta i upphandlingen, om åsidosättandet av
+bestämmelserna i denna lag menligt har påverkat hans eller
+hennes möjligheter att tilldelas kontraktet. Lag (2010:572).
 
-8 § Talan om skadestånd skall väckas vid allmän domstol inom
-ett år från den tidpunkt som följer av 1 § andra-fjärde
-styckena. Väcks inte talan i tid, är rätten till skadestånd
-förlorad.
+21 § Talan om skadestånd ska väckas vid allmän domstol inom
+ett år från den tidpunkt då avtal har slutits mellan den
+upphandlande enheten och en leverantör eller har förklarats
+ogiltigt enligt 13 § genom ett avgörande som har vunnit laga
+kraft. Väcks inte talan i tid, är rätten till skadestånd
+förlorad. Lag (2011:1031).
 
-Tillsyn
+17 kap. Upphandlingsskadeavgift
 
-9 § Regeringen meddelar föreskrifter om vilken myndighet som
+Allmänna bestämmelser om upphandlingsskadeavgift
+
+1 § Allmän förvaltningsdomstol får besluta att en upphandlande
+enhet ska betala en särskild avgift (upphandlingsskadeavgift)
+om
+
+1. allmän förvaltningsdomstol i ett avgörande som har vunnit
+laga kraft fastställt att ett avtal får bestå, trots att det
+har slutits i strid med bestämmelserna om avtalsspärr i
+16 kap. 1, 3 eller 8 §,
+
+2. allmän förvaltningsdomstol i ett avgörande som har vunnit
+laga kraft fastställt att ett avtal får bestå av tvingande
+hänsyn till ett allmänintresse enligt 16 kap. 14 §, eller
+
+3. enheten har slutit avtal med en leverantör utan föregående
+annonsering enligt 7 kap. 1, 2, 3, 4 eller 5 §, 13 kap. 5 §,
+eller 15 kap. 4 eller 6 §. Lag (2011:1031).
+
+2 § Tillsynsmyndigheten ska hos allmän förvaltningsdomstol
+ansöka om att en upphandlande enhet ska betala
+upphandlingsskadeavgift i de fall som anges i 1 § 1 och 2.
+
+Tillsynsmyndigheten får hos allmän förvaltningsdomstol ansöka
+om att en upphandlande enhet ska betala
+upphandlingsskadeavgift i de fall som avses i 1 § 3.
+Lag (2010:572).
+
+Behörig domstol
+
+3 § En ansökan om att en upphandlande enhet ska betala
+upphandlingsskadeavgift ska göras hos den förvaltningsrätt i
+vars domkrets den upphandlande enheten har sin hemvist.
+
+Prövningstillstånd krävs vid överklagande till kammarrätten.
+Lag (2010:572).
+
+Avgiftens storlek
+
+4 § Upphandlingsskadeavgiften ska uppgå till lägst 10 000
+kronor och högst 10 000 000 kronor. Avgiften får inte
+överstiga tio procent av kontraktsvärdet.
+
+Beräkningen av kontraktsvärdet ska ske enligt 3 kap. 2 och
+3 §§ eller 15 kap. 3 a §. Lag (2010:572).
+
+5 § Vid fastställande av upphandlingsskadeavgiftens storlek
+ska särskild hänsyn tas till hur allvarlig överträdelsen är.
+
+I ringa fall ska någon avgift inte beslutas. Avgiften får
+efterges, om det finns synnerliga skäl. Lag (2010:572).
+
+Tidsfrister för ansökan om avgift
+
+6 § En ansökan om upphandlingsskadeavgift enligt 1 § 1 eller 2
+ska ha kommit in till förvaltningsrätten inom sex månader från
+den tidpunkt då det avgörande som ansökan grundas på har
+vunnit laga kraft. Lag (2010:572).
+
+7 § När en ansökan om upphandlingsskadeavgift grundas på 1 § 3
+och en eller flera leverantörer har ansökt om överprövning av
+avtalets giltighet inom de tidsfrister som anges i 16 kap.
+17 §, får ansökan inte göras förrän fristen har löpt ut och
+samtliga beslut med anledning av överprövningen har vunnit
+laga kraft. Ansökan ska ha kommit in till förvaltningsrätten
+inom sex månader från den tidpunkt då samtliga beslut med
+anledning av överprövningen har vunnit laga kraft.
+
+När ingen leverantör har ansökt om överprövning av avtalets
+giltighet inom de tidsfrister som anges i 16 kap. 17 §, ska
+ansökan ha kommit in till förvaltningsrätten inom ett år från
+det att avtalet slöts. Lag (2011:1031).
+
+Betalning av avgift m.m.
+
+8 § Upphandlingsskadeavgiften tillfaller staten. Lag (2010:572).
+
+9 § Upphandlingsskadeavgift ska betalas till
+tillsynsmyndigheten inom 30 dagar från det att avgörandet
+beträffande avgiften har vunnit laga kraft eller inom den
+längre tid som anges i avgörandet.
+
+Om avgiften inte betalas i tid, ska tillsynsmyndigheten lämna
+den obetalda avgiften till indrivning. Bestämmelser om
+indrivning finns i lagen (1993:891) om indrivning av statliga
+fordringar m.m. Lag (2010:572).
+
+10 § En beslutad upphandlingsskadeavgift faller bort, om
+avgörandet beträffande avgiften inte har kunnat verkställas
+inom fem år från det att avgörandet har vunnit laga kraft.
+Lag (2010:572).
+
+18 kap. Tillsyn
+
+Allmänna bestämmelser om tillsyn
+
+1 § Regeringen meddelar föreskrifter om vilken myndighet som
 utövar tillsyn över upphandling enligt denna lag.
+Lag (2010:572).
 
-Vid sin tillsyn får myndigheten inhämta alla nödvändiga
-upplysningar från upphandlande enheter. Upplysningarna skall i
-första hand inhämtas genom skriftligt förfarande. Om det på
-grund av materialets omfång, brådska eller något annat
-förhållande är lämpligare, får upplysningarna inhämtas genom
-besök hos den upphandlande enheten.
+2 § Vid sin tillsyn får myndigheten inhämta alla nödvändiga
+upplysningar för sin tillsynsverksamhet från upphandlande
+enheter eller den som kan antas vara en upphandlande enhet.
+Upplysningarna ska i första hand inhämtas genom skriftligt
+förfarande. Om det på grund av materialets omfång, brådska
+eller något annat förhållande är lämpligare, får
+upplysningarna inhämtas genom besök hos den upphandlande
+enheten. Lag (2010:572).
 
-10 § En upphandlande enhet är skyldig att tillhandahålla de
+3 § En upphandlande enhet och den som kan antas vara en
+upphandlande enhet är skyldig att tillhandahålla de
 upplysningar som tillsynsmyndigheten begär för sin tillsyn.
+Lag (2010:572).
 
-Granskning
+Föreläggande
 
-11 § En upphandlande enhet kan på egen begäran få sina rutiner
-för upphandling granskade av en oberoende granskare i syfte att
-bedöma om rutinerna stämmer överens med Europeiska
-gemenskapernas upphandlingsregler och denna lag.
+4 § Om det behövs för att tillsynsmyndigheten ska kunna utöva
+sin tillsyn enligt denna lag, får myndigheten förelägga en
+upphandlande enhet eller den som kan antas vara en
+upphandlande enhet att lämna uppgift, att visa upp en handling
+eller att lämna över en kopia av handlingen.
 
-Granskaren skall genomföra granskningen enligt europeisk
-standard och, efter att ha försäkrat sig om att eventuella
-brister rättats till, utfärda ett intyg om att rutinerna
-stämmer överens med denna lag.
+Ett föreläggande enligt första stycket får överklagas hos
+allmän förvaltningsdomstol.
 
-Styrelsen för ackreditering och teknisk kontroll ackrediterar
-granskare. Vid ackrediteringen tillämpas bestämmelserna i lagen
-(1992:1119) om teknisk kontroll.
+När ett föreläggande överklagas, är tillsynsmyndigheten
+motpart hos allmän förvaltningsdomstol. Lag (2010:572).
 
-Kostnaderna för granskningen skall betalas av den upphandlande
-enheten.
+Behörig domstol
 
-Medling
+5 § Tillsynsmyndighetens föreläggande enligt 4 § får
+överklagas hos den förvaltningsrätt i vars domkrets den som
+föreläggandet riktar sig till har sin hemvist.
 
-12 § Även om en ansökan enligt 1 § har gjorts, får en
-anbudsgivare eller anbudssökande som anser sig ha lidit eller
-kan komma att lida skada på grund av att en upphandlande enhet
-under pågående upphandling inte följer bestämmelserna i denna
-lag begära medling hos Europeiska gemenskapernas kommission.
-Framställning om medling kan också ges in till
-tillsynsmyndigheten, som omedelbart skall överlämna
-framställningen till kommissionen.
+Prövningstillstånd krävs vid överklagande till kammarrätten.
+Lag (2010:572).
 
-13 § Den upphandlande enheten skall meddela Europeiska
-gemenskapernas kommission om den vill delta i
-medlingsförfarandet och dessutom om någon ansökan har gjorts
-enligt 1 § eller talan om skadestånd väckts.
-
-Var och en av deltagarna i ett medlingsförfarande skall
-godkänna den medlare som kommissionen valt samt utse
-ytterligare en medlare vardera.
-
-Medlarna får anlita högst två experter. Kommissionen och
-deltagarna har rätt att inte godkänna de experter som anlitas
-av medlarna.
-
-Den som har begärt medling, upphandlande enhet, anbudssökande
-eller anbudsgivare som deltagit i upphandlingen skall ges
-tillfälle att muntligen eller skriftligen delta i medlingen.
-
-14 § Om inte något annat avtalas skall deltagarna i ett
-medlingsförfarande bära sina egna kostnader och i lika delar
-bära övriga kostnader för förfarandet.
-
-Deltagarna har rätt att när som helst begära att
-medlingsförfarandet skall ställas in.
 
 Övergångsbestämmelser
 
@@ -2573,11 +3079,139 @@ påbörjas efter utgången av år 2008.
 skall tillämpas på upphandlingar som har påbörjats före
 ikraftträdandet.
 
-Bilaga 1 är inte med här
+2010:572
 
-Bilaga 2 är inte med här
+1. Denna lag träder i kraft den 15 juli 2010.
 
-Bilaga 3 är inte med här
+2. Äldre bestämmelser gäller för upphandlingar som har
+påbörjats före ikraftträdandet.
+
+2011:1031
+
+1. Denna lag träder i kraft den 1 november 2011.
+
+2. Äldre bestämmelser gäller för upphandlingar som har
+påbörjats före ikraftträdandet.
+
+2014:475
+
+1. Denna lag träder i kraft den 1 juli 2014.
+
+2. Äldre bestämmelser gäller för upphandlingar som har
+påbörjats före ikraftträdandet.
+
+
+Bilaga 1 är inte med här. Bilagan införd genom lag (2011:1031).
+
+Bilaga 2
+
+Förteckning över tjänstekontrakt (A-tjänster)
+
+Kategori        Beskrivning
+
+1               Underhålls- och reparationstjänster
+
+2               Landtransport, med undantag av järnvägstransport
+                som omfattas av kategori 18, även säkerhets- och
+                kurirtransporter, med undantag av postbefordran
+
+3               Flygtransport av passagerare och gods, med
+                undantag av postbefordran
+
+4               Postbefordran på land, med undantag av
+                järnvägstransport som omfattas av kategori 18,
+                och i luften
+
+5               Telekommunikationstjänster
+
+6               Finansiella tjänster:
+
+                a) Försäkringstjänster
+
+                b) Bank- och investeringstjänster, med undantag
+                av finansiella tjänster i samband med utfärdande,
+                förvärv, försäljning eller överföring av
+                värdepapper eller andra finansiella instrument
+                samt riksbankstjänster. Dessutom undantas
+                tjänster som avser förvärv eller hyra, oavsett
+                finansieringsvillkor, av mark, befintliga
+                byggnader eller annan fast egendom eller som
+                avser rättigheter till sådan egendom. Finansiella
+                tjänster som tillhandahålls samtidigt med, före
+                eller efter köpe- eller hyreskontraktet,
+                oberoende av form, ska dock omfattas av detta
+                direktiv.
+
+7               Databehandlingstjänster och därmed sammanhängande
+                tjänster
+
+8               Forsknings- och utvecklingstjänster, med undantag
+                av forsknings- och utvecklingstjänster som inte
+                uteslutande är till förmån för den upphandlande
+                enheten i dess egen verksamhet, under
+                förutsättning att dessa tjänster helt finansieras
+                av den upphandlande enheten
+
+9               Redovisnings-, revisions- och bokföringstjänster
+
+10              Marknads- och opinionsundersökningar
+
+11              Organisationskonsulttjänster, med undantag av
+                medlings- och förlikningstjänster, och därmed
+                sammanhängande tjänster
+
+12              Arkitekttjänster, tekniska konsulttjänster och
+                integrerade tekniska tjänster, stadsplanering
+                och landskapsarkitektur, därmed sammanhängande
+                vetenskapliga och tekniska konsulttjänster,
+                teknisk provning och analys
+
+13              Reklamtjänster
+
+14              Fastighetsstädning och fastighetsförvaltning
+
+15              Förlags- och tryckeritjänster mot arvode eller
+                på kontrakt
+
+16              Avlopps- och renhållningstjänster, sanering och
+                liknande tjänster
+Lag (2011:1031).
+
+Bilaga 3
+
+Förteckning över tjänstekontrakt (B-tjänster)
+
+Kategori        Beskrivning
+
+17              Hotell- och restaurangtjänster
+
+18              Järnvägstransport
+
+19              Sjötransport
+
+20              Hjälptjänster och tjänster i anslutning till
+                transporter
+
+21              Juridiska tjänster
+
+22              Rekrytering och urval av personal, med undantag
+                av anställningskontrakt
+
+23              Spanings- och säkerhetstjänster, med undantag
+                av säkerhetstransporter
+
+24              Undervisning och yrkesutbildning
+
+25              Hälsovård och socialtjänster
+
+26              Fritids- och idrottsverksamhet samt
+                kulturverksamhet, med undantag av kontrakt som
+                avser förvärv, utveckling, produktion eller
+                samproduktion av program som utförs av radio-
+                och TV-bolag samt kontrakt om sändningstider
+
+27              Övriga tjänster
+Lag (2011:1031).
 
 
 Bilaga 4
