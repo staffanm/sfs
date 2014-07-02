@@ -2765,7 +2765,6 @@ uppsägningen, när avtalet avser en lokal.
 Skall ett hyresavtal för bestämd tid sägas upp för att upphöra att gälla
 och är inte längre uppsägningstid avtalad, skall uppsägningen ske senast
 
-
 1. en dag i förväg om hyrestiden är längst två veckor,
 
 2. en vecka i förväg om hyrestiden är längre än två veckor men längst
@@ -3225,8 +3224,8 @@ bestämd i hyresavtalet eller, om avtalet innehåller
 förhandlingsklausul enligt hyresförhandlingslagen (1978:304),
 i förhandlingsöverenskommelse. Detta gäller dock inte
 ersättning för kostnader som hänför sig till lägenhetens
-uppvärmning, förseende med varmvatten eller elektrisk ström
-eller avgifter för vatten och avlopp
+uppvärmning, nedkylning, förseende med varmvatten eller
+elektrisk ström eller avgifter för vatten och avlopp
 
 1. om hyresavtalet innehåller förhandlingsklausul och
 beräkningsgrunden för ersättningens storlek har fastställts
@@ -3236,13 +3235,14 @@ enligt 22 eller 25 § hyresförhandlingslagen,
 2. om lägenheten är belägen i ett en- eller tvåfamiljshus
 eller inom en ägarlägenhetsfastighet, eller
 
-3. om kostnaden för nyttigheten påförs hyresgästen efter
-individuell mätning.
+3. i fråga om avgifter för vatten och avlopp, om avgiften
+påförs hyresgästen efter individuell mätning.
 
-I fråga om bostadslägenheter, som hyrs ut i andra hand eller
-som av upplåtaren innehas med bostadsrätt, får trots vad som
-sägs i första stycket avtalas att hyran ska anknytas till den
-hyra eller årsavgift som upplåtaren betalar.
+I fråga om bostadslägenheter som hyrs ut i andra hand eller
+som upplåtaren innehar med bostadsrätt får det trots första
+stycket avtalas att hyran ska anknytas till den hyra,
+årsavgift eller avgift för andrahandsupplåtelse som
+upplåtaren betalar.
 
 Hyran för lokaler ska också vara till beloppet bestämd i
 avtalet till den del den inte omfattar ersättning som avses i
@@ -3251,21 +3251,28 @@ förbehåll i avtalet om att hyran ska utgå med ett belopp som
 står i visst förhållande till hyresgästens rörelseintäkter
 eller som bestäms enligt en skriftlig överenskommelse mellan
 å ena sidan hyresvärden eller hyresvärden och en organisation
-av fastighetsägare, i vilken hyresvärden ärmedlem, och å
-andra sidan en organisation av hyresgäster. Är avtalet
-träffat för bestämd tid och är hyrestiden minst tre år,
+av fastighetsägare, i vilken hyresvärden är medlem, och å
+andra sidan en organisation av hyresgäster. Om avtalet är
+träffat för bestämd tid och hyrestiden är minst tre år,
 gäller dessutom förbehåll om att hyran ska utgå med belopp
 som bestäms enligt en annan beräkningsgrund än som nu har
 angetts.
 
-Har avtal träffats i strid med första eller tredje stycket,
-ska hyran utgå med ett belopp som är skäligt med hänsyn
-främst till parternas avsikter och övriga förhållanden när
-avtalet träffades.
+Om en kostnad som hänför sig till lägenhetens uppvärmning,
+nedkylning eller förseende med varmvatten eller elektrisk
+ström kan påföras hyresgästen efter individuell mätning, ska
+beräkningen av ersättning för kostnaden, trots första och
+tredje styckena, ta sin utgångspunkt i den uppmätta
+förbrukningen.
+
+Har avtal träffats i strid med första, tredje eller fjärde
+stycket, ska hyran utgå med ett belopp som är skäligt med
+hänsyn främst till parternas avsikter och övriga förhållanden
+när avtalet träffades.
 
 Om ogiltighet av avtal om hyra för bostadslägenhet i vissa
 fall när förhandlingsordning gäller finns bestämmelser i
-hyresförhandlingslagen. Lag (2009:180).
+hyresförhandlingslagen. Lag (2014:337).
 
 20 § Har avtal ej träffats om tiden för betalning av hyra som skall utgå
 i pengar, skall hyran betalas senast sista vardagen före varje
@@ -3664,75 +3671,84 @@ Hyresrättens förverkande
 42 § Hyresrätten är förverkad och hyresvärden berättigad att
 säga upp avtalet att upphöra i förtid,
 
-1. om hyresgästen, när det gäller en bostadslägenhet, dröjer med att
-betala hyran mer än en vecka efter förfallodagen och annat inte
-följer av 55 d § femte-sjunde styckena,
+1. om hyresgästen, när det gäller en bostadslägenhet, dröjer
+med att betala hyran mer än en vecka efter förfallodagen och
+annat inte följer av 55 d § femtesjunde styckena,
 
-2. om hyresgästen, när det gäller en lokal, dröjer med att betala
-hyran mer än två vardagar efter förfallodagen,
+2. om hyresgästen, när det gäller en lokal, dröjer med att
+betala hyran mer än två vardagar efter förfallodagen,
 
-3. om hyresgästen utan behövligt samtycke eller tillstånd överlåter
-hyresrätten eller annars sätter någon annan i sitt ställe eller upplåter
-lägenheten i andra hand och inte efter tillsägelse utan dröjsmål
-antingen vidtar rättelse eller ansöker om tillstånd och får ansökan
-beviljad,
+3. om hyresgästen utan behövligt samtycke eller tillstånd
+överlåter hyresrätten eller annars sätter någon annan i sitt
+ställe eller upplåter lägenheten i andra hand och inte efter
+tillsägelse utan dröjsmål antingen vidtar rättelse eller
+ansöker om tillstånd och får ansökan beviljad,
 
-4. om lägenheten används i strid med 23 eller 41 § och hyresgästen
-inte efter tillsägelse vidtar rättelse utan dröjsmål,
+4. om lägenheten används i strid med 23 eller 41 § och
+hyresgästen inte efter tillsägelse vidtar rättelse utan
+dröjsmål,
 
 5. om hyresgästen eller någon annan, till vilken hyresrätten
-överlåtits eller lägenheten upplåtits, genom vårdslöshet är vållande
-till att ohyra förekommer i lägenheten eller genom underlåtenhet
-att underrätta hyresvärden om detta bidrar till att ohyran sprids i
-fastigheten,
+överlåtits eller lägenheten upplåtits, genom vårdslöshet är
+vållande till att ohyra förekommer i lägenheten eller genom
+att inte underrätta hyresvärden om detta bidrar till att
+ohyran sprids i fastigheten,
 
-6. om lägenheten på annat sätt vanvårdas eller hyresgästen eller
-annan, till vilken hyresrätten överlåtits eller lägenheten upplåtits,
-åsidosätter något av vad som skall iakttas enligt 25 § vid
-användning av lägenheten eller inte håller den tillsyn som krävs
-enligt nämnda paragraf och rättelse inte utan dröjsmål sker efter
-tillsägelse,
+6. om lägenheten på annat sätt vanvårdas eller hyresgästen
+eller någon annan, till vilken hyresrätten överlåtits eller
+lägenheten upplåtits, åsidosätter något av det som ska
+iakttas enligt 25 § vid användning av lägenheten eller inte
+håller den tillsyn som krävs enligt nämnda paragraf och
+rättelse inte utan dröjsmål sker efter tillsägelse,
 
 7. om i strid med 26 § tillträde till lägenheten vägras och
 hyresgästen inte kan visa giltig ursäkt,
 
-8. om hyresgästen åsidosätter avtalsenlig skyldighet, som går utöver
-hans skyldigheter enligt detta kapitel, och det måste anses vara av
-synnerlig vikt för hyresvärden att skyldigheten fullgörs, eller
+8. om hyresgästen åsidosätter en avtalsenlig skyldighet som
+går utöver hyresgästens skyldigheter enligt detta kapitel och
+det måste anses vara av synnerlig vikt för hyresvärden att
+skyldigheten fullgörs, eller
 
-9. om lägenheten helt eller till väsentlig del används för sådan
-näringsverksamhet eller liknande verksamhet som är brottslig eller
-där brottsligt förfarande ingår till en inte oväsentlig del eller
-används för tillfälliga sexuella förbindelser mot ersättning.
+9. om lägenheten helt eller till väsentlig del används för
+sådan näringsverksamhet eller liknande verksamhet som är
+brottslig eller där brottsligt förfarande ingår till en inte
+oväsentlig del eller används för tillfälliga sexuella
+förbindelser mot ersättning.
 
-I fall då hyran skall betalas i förskott för längre tid än en månad
-gäller vad som anges i första stycket 2 endast om hyresgästen dröjer
+I fall då hyran ska betalas i förskott för längre tid än en
+månad gäller första stycket 2 endast om hyresgästen dröjer
 med att betala den på kalendermånaden belöpande hyran mer än
-två vardagar efter månadens början eller, i fråga om hyran för
-första kalendermånaden under hyresförhållandet, efter
+två vardagar efter månadens början eller, i fråga om hyran
+för första kalendermånaden under hyresförhållandet, efter
 förfallodagen.
 
-Uppsägning av ett hyresavtal som gäller bostadslägenhet enligt
-första stycket 6 på grund av störningar i boendet får inte ske förrän
-socialnämnden underrättas enligt 25 § andra stycket.
+Uppsägning av ett hyresavtal som gäller bostadslägenhet
+enligt första stycket 6 på grund av störningar i boendet får
+inte ske förrän socialnämnden underrättas enligt 25 § andra
+stycket.
 
-Är det fråga om särskilt allvarliga störningar i boendet gäller vad
-som sägs i första stycket 6 även om någon tillsägelse om rättelse
+Om det är fråga om särskilt allvarliga störningar i boendet
+gäller första stycket 6 även om någon tillsägelse om rättelse
 inte har skett. Vid sådana störningar får uppsägning av ett
 hyresavtal som gäller bostadslägenhet ske utan föregående
-underrättelse till socialnämnden. En kopia av uppsägningen skall
-dock skickas till socialnämnden. Vad som nu har föreskrivits om
-särskilt allvarliga störningar gäller inte om det är någon till vilken
-lägenheten har upplåtits i andra hand med hyresvärdens samtycke
-eller hyresnämndens tillstånd som åsidosätter något av vad som
-skall iakttas enligt 25 § vid användning av lägenheten eller inte
-håller den tillsyn som krävs enligt nämnda paragraf.
+underrättelse till socialnämnden. En kopia av uppsägningen
+ska dock skickas till socialnämnden. Det som nu har
+föreskrivits om särskilt allvarliga störningar gäller inte om
+det är någon till vilken lägenheten har upplåtits i andra
+hand med hyresvärdens samtycke eller hyresnämndens tillstånd
+som åsidosätter något av det som ska iakttas enligt 25 § vid
+användning av lägenheten eller inte håller den tillsyn som
+krävs enligt nämnda paragraf.
 
-Hyresrätten är inte förverkad, om det som ligger hyresgästen till
-last är av ringa betydelse.
+Hyresrätten är inte förverkad, om det som ligger hyresgästen
+till last är av ringa betydelse. Vid bedömningen ska det
+särskilt beaktas om det som ligger hyresgästen till last har
+sin grund i att en närstående eller tidigare närstående har
+utsatt hyresgästen eller någon i hyresgästens hushåll för
+brott.
 
-Sägs avtalet upp på grund av förverkande, har hyresvärden rätt till
-skadestånd. Lag (2006:928).
+Sägs avtalet upp på grund av förverkande, har hyresvärden
+rätt till skadestånd. Lag (2014:335).
 
 43 § Är hyresrätten förverkad på grund av förhållande som avses i
 42 § första stycket 1--4, 6 eller 7 men sker rättelse innan
@@ -3870,10 +3886,10 @@ Regeringen eller den myndighet som regeringen bestämmer
 fastställer formulär till överenskommelser som avses i första
 stycket 2. Lag (2009:180).
 
-46 § Om hyresvärden har sagt upp hyresavtalet eller, i fall
-som avses i SFS 2009:180 3 § tredje stycket 2, anmodat
-hyresgästen att flytta, har hyresgästen rätt till förlängning
-av avtalet, utom när
+46 § Om hyresvärden har sagt upp hyresavtalet eller, i ett
+fall som avses i 3 § tredje stycket 2, anmodat hyresgästen
+att flytta, har hyresgästen rätt till förlängning av avtalet,
+utom när
 
 1. hyresrätten är förverkad utan att hyresvärden har sagt upp
 avtalet att upphöra i förtid,
@@ -3884,7 +3900,7 @@ i så hög grad att avtalet skäligen inte bör förlängas,
 3. huset ska rivas och det inte är oskäligt mot hyresgästen
 att hyresförhållandet upphör,
 
-4. huset ska undergå större ombyggnad och det inte är
+4. huset ska genomgå en större ombyggnad och det inte är
 uppenbart att hyresgästen kan sitta kvar i lägenheten utan
 nämnvärd olägenhet för genomförandet av ombyggnaden samt det
 inte är oskäligt mot hyresgästen att hyresförhållandet
@@ -3894,46 +3910,53 @@ upphör,
 inte är oskäligt mot hyresgästen att hyresförhållandet
 upphör,
 
-6. avtalet avser en lägenhet i ett en-eller tvåfamiljshus
+6. avtalet avser en lägenhet i ett en- eller tvåfamiljshus
 eller inom en ägarlägenhetsfastighet och upplåtelsen inte
 ingår i en affärsmässigt bedriven uthyrningsverksamhet samt
 upplåtaren har sådant intresse att förfoga över lägenheten
 att hyresgästen skäligen bör flytta,
 
 7. avtalet avser en lägenhet som upplåtits av någon som
-innehade den med bostadsrätt och lägenheten alltjämt innehas
-med sådan rätt samt bostadsrättshavaren har sådant intresse
-att förfoga över lägenheten att hyresgästen skäligen bör
-flytta,
+innehade den med bostadsrätt och lägenheten fortfarande
+innehas med sådan rätt samt bostadsrättshavaren har sådant
+intresse att förfoga över lägenheten att hyresgästen skäligen
+bör flytta,
 
-8. hyresförhållandet beror av sådan anställning i statlig
-eller kommunal verksamhet som är förenad med bostadstvång
-eller av anställning inom lantbruket eller av annan
-anställning, om den är av sådan art att det är nödvändigt för
+8. hyresförhållandet beror av en anställning i statlig eller
+kommunal verksamhet som är förenad med bostadstvång eller av
+en anställning inom lantbruket eller av en annan anställning,
+om den är av sådan art att det är nödvändigt för
 arbetsgivaren att förfoga över lägenheten för upplåtelse åt
 anställningens innehavare, samt anställningen har upphört,
 
-9. hyresförhållandet beror av annan anställning än som avses
-i 8 och som upphört och det inte är oskäligt mot hyresgästen
-att även hyresförhållandet upphör samt, om hyresförhållandet
-har varat längre än tre år, hyresvärden har synnerliga skäl
-för att upplösa hyresförhållandet, eller
+9. hyresförhållandet beror av en annan anställning än som
+avses i 8 och som upphört och det inte är oskäligt mot
+hyresgästen att även hyresförhållandet upphör samt, om
+hyresförhållandet har varat längre än tre år, hyresvärden har
+synnerliga skäl för att upplösa hyresförhållandet, eller
 
 10. det i annat fall inte strider mot god sed i
 hyresförhållanden eller av någon annan anledning är oskäligt
 mot hyresgästen att hyresförhållandet upphör.
 
+Om hyresvärden inte har meddelat hyresgästen att avtalet kan
+sägas upp för det fall rättelse inte sker eller om
+hyresgästens åsidosättande har sin grund i att en närstående
+eller tidigare närstående har utsatt hyresgästen eller någon
+i hyresgästens hushåll för brott, ska detta vid
+skälighetsbedömningen enligt första stycket 2 beaktas som
+skäl för en förlängning av avtalet.
+
 Om hyresvärdens intresse blir tillgodosett genom att
 hyresgästen lämnar endast en del av lägenheten och avtalet
-lämpligen kan förlängas såvitt avser lägenheten i övrigt, har
-hyresgästen trots vad som sägs i första stycket rätt till
-sådan förlängning.
+lämpligen kan förlängas för lägenheten i övrigt, har
+hyresgästen trots första stycket rätt till sådan förlängning.
 
-Lämnar en bostadshyresgäst sin lägenhet eller en del av den
-med anledning av att huset ska undergå större ombyggnad, ska
-hyresgästen om möjligt beredas tillfälle att efter
+Om en bostadshyresgäst lämnar sin lägenhet eller en del av
+den med anledning av att huset ska genomgå en större
+ombyggnad, ska hyresgästen om möjligt ges tillfälle att efter
 ombyggnaden hyra en likvärdig lägenhet i huset.
-Lag (2009:180).
+Lag (2014:335).
 
 47 § Har lägenheten hyrts av flera gemensamt och har de på
 grund av att en av dem sagt upp hyresavtalet eller till följd av annan
@@ -4487,19 +4510,20 @@ Vite som förelagts med stöd av detta kapitel får inte förvandlas till
 fängelse. Lag (1984:694).
 
 63 § Ett meddelande som avses i 10 §, 11 §, 14 §, 18 e §, 24 §,
-25 § andra stycket, 33 §, 42 § första stycket 3, 4 eller 6,
-44 §, 54 § eller 54 a § skall anses lämnat när det har avsänts
-i rekommenderat brev till mottagarens vanliga adress. I fall
-som avses i 24 § är det dock tillräckligt att meddelandet är
-avsänt på annat ändamålsenligt sätt.
+25 § andra stycket, 33 §, 42 § första stycket 3, 4 eller
+6, 44 §, 46 § andra stycket, 54 § eller 54 a § ska anses
+lämnat när det har avsänts i ett rekommenderat brev till
+mottagarens vanliga adress. I fall som avses i 24 § är det
+dock tillräckligt att meddelandet är avsänt på något annat
+ändamålsenligt sätt.
 
-Har hyresgästen eller hyresvärden lämnat uppgift om en adress
-dit meddelanden till honom skall sändas, anses den som hans
-vanliga adress. Hyresgästen får dock alltid sända meddelanden
-till den som är behörig att ta emot hyra på hyresvärdens
-vägnar. Har hyresgästen inte lämnat någon särskild
-adressuppgift, får hyresvärden sända meddelanden till den
-uthyrda lägenhetens adress. Lag (1997:62).
+Om hyresgästen eller hyresvärden har lämnat uppgift om en
+adress dit meddelanden ska sändas, anses den som hans eller
+hennes vanliga adress. Hyresgästen får dock alltid sända
+meddelanden till den som är behörig att ta emot hyra på
+hyresvärdens vägnar. Har hyresgästen inte lämnat någon
+särskild adressuppgift, får hyresvärden sända meddelanden
+till den uthyrda lägenhetens adress. Lag (2014:335).
 
 64 § Om en hyresvärd inte på begäran lämnar ut de uppgifter om hyran för
 hans lägenheter som kan behövas för en prövning enligt 55 § första
@@ -5379,30 +5403,7 @@ innehålla uppgift om överlåtarens, upplåtarens eller
 förvärvarens namn och, där sådant finns, person- eller
 organisationsnummer. Lag (2000:226).
 
-11 a § /Upphör att gälla U:2013-07-01/
-Om en ansökan om inskrivning ges in i form av ett
-elektroniskt dokument, får en fångeshandling eller annan
-handling som avses i 20 kap. 6 § 1, 21 kap. 2 § första stycket
-1 eller 23 kap. 2 § första stycket 1 eller en handling som
-avses i 7 kap. 5 § fjärde stycket äktenskapsbalken eller 23 §
-andra stycket sambolagen (2003:376) ges in elektroniskt enligt
-föreskrifter som regeringen eller den myndighet som regeringen
-bestämmer får meddela.
-
-Om en fångeshandling eller annan handling som avses i första
-stycket ges in elektroniskt, skall den elektroniska handlingens
-överensstämmelse med originalet vara bestyrkt enligt
-föreskrifter som regeringen eller den myndighet som regeringen
-bestämmer får meddela.
-
-Den som oriktigt intygar att den elektroniska handlingen
-överensstämmer med originalet döms, om åtgärden innebär fara i
-bevishänseende, till böter eller fängelse i högst sex månader
-eller, om brottet är att anse som grovt, till fängelse i högst
-två år. Lag (2006:142).
-
-11 a § /Träder i kraft I:2013-07-01/
-Om en ansökan om inskrivning ges in i form av ett
+11 a § Om en ansökan om inskrivning ges in i form av ett
 elektroniskt dokument, får en fångeshandling eller annan
 handling som avses i 20 kap. 6 § 1, 21 kap. 2 § första
 stycket 1 eller 23 kap. 2 § första stycket 1 eller en
@@ -5608,13 +5609,7 @@ bekräftelse som avses i 10 § tredje stycket förvaltningslagen
 på ett meddelande som inte är underskrivet, får myndigheten
 bortse från meddelandet. Lag (2008:153).
 
-26 c § /Upphör att gälla U:2013-07-01/
-Frågor om utdömande av vite, som har förelagts med stöd
-av bestämmelserna i 19-21 kap., prövas av
-inskrivningsmyndigheten. Lag (2008:153).
-
-26 c § /Träder i kraft I:2013-07-01/
-Frågor om utdömande av vite som har förelagts med stöd
+26 c § Frågor om utdömande av vite som har förelagts med stöd
 av 19, 20, 21 eller 23 kap. prövas av
 inskrivningsmyndigheten. Lag (2013:489).
 
@@ -6586,17 +6581,7 @@ fastighetsägarens samtycke nedsättas efter annan inskriven rättighet
 (nedsättning). Bestämmelsen i 4 § andra stycket äger därvid motsvarande
 tillämpning.
 
-6 § /Upphör att gälla U:2013-07-01/
-Inskrivning får på ansökan av rättighetshavaren dödas helt eller
-till viss del (dödning). Har rättigheten upphört helt eller till viss
-del, får inskrivningen på ansökan av fastighetsägaren dödas till
-motsvarande del.
-
-Inskrivning får avföras, om det är uppenbart att den inskrivna
-rättigheten icke gäller i fastigheten. Lag (1975:1085).
-
-6 § /Träder i kraft I:2013-07-01/
-En inskrivning får på ansökan av rättighetshavaren dödas
+6 § En inskrivning får på ansökan av rättighetshavaren dödas
 helt eller till viss del (dödning). Om rättigheten har
 upphört helt eller till viss del, ska rättighetshavaren göra
 en sådan ansökan inom tre månader. Får
@@ -7292,3 +7277,23 @@ gäller äldre bestämmelser.
 
 2. Äldre föreskrifter gäller fortfarande för inskrivningar av
 rättigheter som har upphört före den 1 juli 2013.
+
+2014:335
+
+1. Denna lag träder i kraft den 1 juli 2014.
+
+2. De nya bestämmelserna tillämpas även i fråga om hyresavtal
+som har ingåtts före ikraftträdandet. De tillämpas dock inte
+i mål och ärenden som har inletts före ikraftträdandet.
+
+2014:337
+
+1. Denna lag träder i kraft den 2 juli 2014.
+
+2. Innehåller ett hyresavtal som har ingåtts före
+ikraftträdandet villkor som strider mot 12 kap. 19 § i dess
+nya lydelse, gäller villkoret mot hyresgästen till utgången
+av år 2016 eller, om avtalet inte kan sägas upp till
+upphörande vid den tidpunkten, till den senare tidpunkt då
+avtalet på grund av uppsägning tidigast kan frånträdas av
+båda parter.
