@@ -1,23 +1,19 @@
-
-
 1 § Denna förordning är meddelad
 
-1. med stöd av 9 kap. 4 a § miljöbalken i fråga om 10 §,
+1. med stöd av 4 kap. 9 § miljöbalken i fråga om 10 §,
 
 2. med stöd av 9 kap. 6 § och 15 kap. 28 § miljöbalken i
-fråga om 9, 1125, 2741, 45, 46, 4854, 58, 59, 64, 67, 68
+fråga om 9, 11–25, 27–41, 45, 46, 48–54, 58, 59, 64, 67, 68
 och 70 §§,
 
-3. med stöd av 26 kap. 19 § miljöbalken i fråga om 4244
-§§,
-
+3. med stöd av 26 kap. 19 § miljöbalken i fråga om 42–44 §§,
 4. med stöd av 26 kap. 20 § miljöbalken i fråga om 47 §,
 
-5. med stöd av 27 kap. 2 § miljöbalken i fråga om 5557 §§,
+5. med stöd av 27 kap. 2 § miljöbalken i fråga om 55–57 §§,
 och
 
 6. i övrigt med stöd av 8 kap. 7 eller 11 §
-regeringsformen.
+regeringsformen. Förordning (2014:432).
 
 Ord och uttryck i förordningen
 
@@ -32,11 +28,14 @@ som har injekterats i en underjordisk geologisk formation,
 lagringsplats: en avgränsad volym inom en geologisk formation
 som används för geologisk lagring av koldioxid med
 tillhörande ytanläggningar och injekteringsanläggningar,
+
+lagringskomplex: lagringsplatsen och det omgivande geologiska
+område som kan påverka lagringsintegriteten och säkerheten,
 och
 
-lagringskomplex: lagringsplatsen och det omgivande
-geologiska område som kan påverka lagringsintegriteten och
-säkerheten.
+tillsynsmyndighet: den myndighet som enligt
+miljötillsynsförordningen (2011:13) utövar tillsyn över
+geologisk lagring av koldioxid. Förordning (2014:432).
 
 3 § Med hydraulisk enhet avses i denna förordning ett hålrum
 som
@@ -141,7 +140,7 @@ Bedömning av lagringsplatsens lämplighet
 lagring av koldioxid ska göra en bedömning av den geologiska
 formationens lämplighet som lagringsplats och skaffa sig den
 kunskap och information som behövs för att göra bedömningen.
-Bedömningen ska göras enligt 1225 §§ och
+Bedömningen ska göras enligt 12–25 §§ och
 
 1. omfatta en beskrivning och en bedömning av
 lagringskomplexet och dess omgivande område, och
@@ -218,7 +217,7 @@ tillgänglig för lagring, och
 
 Den kunskap som avses i första stycket ska dokumenteras.
 Kunskap om lagringskomplexets geovetenskapliga och
-geomekaniska egenskaper enligt första stycket 17 ska ingå i
+geomekaniska egenskaper enligt första stycket 1–7 ska ingå i
 modellen.
 
 14 § En modell enligt 12 § ska göras med datoriserade
@@ -343,13 +342,13 @@ Riskbedömning i lämplighetsbedömningen
 
 21 § Bedömningen av lagringsplatsens lämplighet ska innehålla
 en bedömning och beskrivning av risker, en
-exponeringsbedömning och en effektbedömning enligt 2225 §§.
+exponeringsbedömning och en effektbedömning enligt 22–25 §§.
 
 Vid bedömningen ska hänsyn tas till alla faktorer som har
 betydelse för bedömningens träffsäkerhet.
 
 22 § Beskrivningen av risker ska göras med hjälp av kunskap
-från den dynamiska modelleringen enligt 1619 §§ och från
+från den dynamiska modelleringen enligt 16–19 §§ och från
 simuleringarna enligt 20 §. Riskbeskrivningen ska omfatta
 hela skalan av möjliga driftsförhållanden för att pröva
 lagringskomplexets säkerhet och ska innehålla en redogörelse
@@ -482,8 +481,8 @@ kontinentalsockeln,
 
 32 § Den övervakningsplan som avses i 27 § första stycket 2
 ska avse hanteringen av de risker som identifierats i
-riskbedömningen enligt 2125 §§. Planen ska uppfylla kraven i
-3337 §§.
+riskbedömningen enligt 21–25 §§. Planen ska uppfylla kraven i
+33–37 §§.
 
 33 § I övervakningsplanen ska det finnas detaljerad
 information om vilken övervakning som ska ske under
@@ -598,7 +597,7 @@ injekteras i lagringsplatsen utan att ha
 
 1. analyserat koldioxidströmmens sammansättning och
 förekomsten i den av frätande ämnen och andra ämnen som har
-betydelse för riskbedömningen enligt 2125 §§, och
+betydelse för riskbedömningen enligt 21–25 §§, och
 
 2. gjort en riskbedömning av koldioxidströmmen med hänsyn
 till de nivåer av andra ämnen än koldioxid som avses i 39 §
@@ -744,7 +743,7 @@ Förutsättningar för ansvarsöverföring
 
 52 § Det ansvar som avses i 51 § 2 ska tas över av
 tillsynsmyndigheten när den har beslutat att
-ansvarsöverföring ska ske och skyldigheterna i 5355 §§ är
+ansvarsöverföring ska ske och skyldigheterna i 53–55 §§ är
 uppfyllda.
 
 53 § Innan ansvarsöverföringen sker ska alla tillgängliga
@@ -827,7 +826,7 @@ Europeiska kommissionen och ge den möjlighet att yttra sig.
 63 § När Europeiska kommissionen har yttrat sig över utkastet
 till beslut eller meddelat att den inte kommer att yttra sig
 och när tillsynsmyndigheten är övertygad om att
-förutsättningarna i 51 § första stycket och 5355 §§ är
+förutsättningarna i 51 § första stycket och 53–55 §§ är
 uppfyllda, ska tillsynsmyndigheten slutligt besluta i frågan
 om ansvarsöverföring. Beslutet ska innehålla skälen för
 avvikelse från synpunkter som kommissionen har lämnat.
