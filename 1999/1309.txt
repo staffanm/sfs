@@ -1,11 +1,14 @@
-
-
 Tillämpningsområde och definitioner
 
-1 § Denna lag gäller för anmälan och godkännande av system för
-clearing och avveckling av förpliktelser att betala eller att
-leverera finansiella instrument (avvecklingssystem) på
-finansmarknaden. Lag (2011:733).
+1 § Denna lag gäller för anmälan och godkännande av system
+för clearing och avveckling av förpliktelser att betala eller
+att leverera finansiella instrument (avvecklingssystem) på
+finansmarknaden.
+
+I Europaparlamentets och rådets förordning (EU) nr 648/2012
+av den 4 juli 2012 om OTC-derivat, centrala motparter och
+transaktionsregister finns särskilda regler om clearing och
+centrala motparter. Lag (2014:483).
 
 2 § I denna lag avses med
 
@@ -108,7 +111,7 @@ finansieringsrörelse,
 om värdepappersmarknaden,
 
 7. utländska företag som i hemlandet driver sådan verksamhet
-som avses i 36, samt
+som avses i 3–6, samt
 
 8. annan juridisk person som för egen räkning avvecklar
 förpliktelser att leverera finansiella instrument i systemet.
@@ -165,6 +168,23 @@ Ett överföringsuppdrag får inte återkallas av en deltagare i
 ett anmält avvecklingssystem eller av tredje man efter den
 tidpunkt som anges i de regler som gäller för systemet eller
 för ett samverkande system. Lag (2011:733).
+
+Säkerheter vid samverkande system
+
+13 a § En administratör, dock inte en sådan central motpart
+som avses i förordning (EU) nr 648/2012, som ställer säkerhet
+till en annan administratör genom pantavtal med anledning av
+ett samverkande system får inte medge panthavaren rätt att
+förfoga över panten på annat sätt än att panthavaren får
+realisera den på grund av pantsättarens konkurs eller
+avtalsbrott.
+
+Om säkerhetsställandet i stället görs genom en
+säkerhetsöverlåtelse (återköpsavtal), ska den
+säkerhetsställande administratören se till att den överlåtna
+egendomen eller motsvarande egendom återförs till
+administratören om förvärvaren försätts i konkurs.
+Lag (2014:483).
 
 Tillsyn m.m.
 
@@ -254,3 +274,10 @@ bestämmelser.
 
 2. Äldre föreskrifter gäller för beslut som har meddelats
 före ikraftträdandet.
+
+2014:483
+
+1. Denna lag träder i kraft den 1 augusti 2014.
+
+2. För pantavtal eller avtal om säkerhetsöverlåtelse som har
+ingåtts före ikraftträdandet gäller äldre bestämmelser.
