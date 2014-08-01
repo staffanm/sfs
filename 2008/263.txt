@@ -14,18 +14,16 @@ försäljningen av värmen.
 
 2 § I denna lag avses med
 
-fjärrvärmeföretag: juridisk person som bedriver
-fjärrvärmeverksamhet,
+avtal om fjärrvärme: avtal om distribution i rörledning av en värmebärare för uppvärmning och om försäljning av den distribuerade värmen,
 
-fjärrvärmekund: den som ingått ett avtal om fjärrvärme med ett
-fjärrvärmeföretag,
+fjärrvärmeföretag: juridisk person som bedriver fjärrvärmeverksamhet,
 
-konsument: fjärrvärmekund som är en fysisk person och som
-använder fjärrvärme i huvudsak utanför näringsverksamhet,
+fjärrvärmekund: den som ingått ett avtal om fjärrvärme med ett fjärrvärmeföretag,
 
-avtal om fjärrvärme: avtal om distribution i rörledningar av en
-värmebärare för uppvärmning och om försäljning av den
-distribuerade värmen.
+konsument: fjärrvärmekund som är en fysisk person och som använder fjärrvärme i huvudsak utanför näringsverksamhet,
+
+prima värme: värme från hetvatten eller annan värmebärare för uppvärmning som i anslutningspunkten har en sådan temperatur och sådant tryck att den är möjlig att mata in på framledningen utan att ytterligare värmeenergi eller pumpenergi behöver tillföras.
+Lag (2014:444).
 
 3 § Det som föreskrivs i denna lag i fråga om fjärrvärmeföretag
 ska gälla även fysiska personer som bedriver
@@ -55,46 +53,7 @@ Avtalet om fjärrvärme
 
 Uppgifter i ett avtal om fjärrvärme
 
-6 § /Upphör att gälla U:2014-06-01/
-Ett avtal om fjärrvärme ska innehålla uppgifter om
-
-1. fjärrvärmeföretagets åtagande gentemot fjärrvärmekunden,
-
-2. priset för fjärrvärmen och hur det bestäms,
-
-3. var fjärrvärmekunden kan finna information om
-fjärrvärmeföretagets priser för fjärrvärme,
-
-4. den tid som avtalet löper,
-
-5. i fråga om avtal som löper under en viss tid, vad som
-gäller med avseende på förlängning av avtalet,
-
-6. mätning av mängden levererad värmeenergi och rapportering
-av mätresultaten till kunden samt debitering av kunden,
-
-7. avtalet tillåter fjärrvärmeföretaget att göra en ensidig
-ändring av ett avtalsvillkor och om förutsättningarna för att
-fjärrvärmeföretaget ska få göra en sådan ändring,
-
-8. villkoren för uppsägning av avtalet,
-
-9. fjärrvärmeföretagets ersättningsansvar om det inte
-uppfyller avtalet,
-
-10. vem som svarar för kostnader för en återställning efter
-
-a) en anslutning till fjärrvärmeverksamheten,
-
-b) ett underhåll av rörledningarna, eller
-
-c) ett borttagande av anslutningen, och
-
-11. möjligheten att begära förhandling och att ansöka om
-medling enligt denna lag. Lag (2011:934).
-
-6 § /Träder i kraft I:2014-06-01/
-Ett avtal om fjärrvärme ska innehålla uppgifter om
+6 § Ett avtal om fjärrvärme ska innehålla uppgifter om
 
 1. fjärrvärmeföretagets åtagande gentemot fjärrvärmekunden,
 
@@ -163,13 +122,11 @@ Regeringen eller den myndighet som regeringen bestämmer
 meddelar närmare föreskrifter om debitering.
 Lag (2011:934).
 
-6 c § /Träder i kraft I:2014-06-01/
-Ett fjärrvärmeföretag får inte debitera någon avgift
+6 c § Ett fjärrvärmeföretag får inte debitera någon avgift
 för att tillhandahålla fjärrvärmekunderna fakturor och
 faktureringsinformation om energianvändningen. Lag (2014:272).
 
-6 d § /Träder i kraft I:2014-06-01/
-Fjärrvärmeföretag som ingår avtal med konsumenter
+6 d § Fjärrvärmeföretag som ingår avtal med konsumenter
 ska på sina webbplatser lämna tydlig information om oberoende
 användarrådgivning där kunderna kan få råd om tillgängliga
 energieffektivitetsåtgärder och jämförelseprofiler.
@@ -483,7 +440,7 @@ Har ett meddelande om anspråk på ersättning lämnats in för
 befordran med post eller avsänts på annat ändamålsenligt sätt,
 anses en underrättelse om anspråket ha skett när detta gjordes.
 
-Förhandling om tillträde till rörledningar
+Tillträde till rörledningar
 
 37 § Om ett fjärrvärmeföretag får en begäran om tillträde till
 rörledningarna från någon som vill sälja värme till
@@ -495,6 +452,30 @@ ett tillträde med den som begärt det.
 
 Om någon överenskommelse inte kan träffas om tillträde, ska
 fjärrvärmeföretaget ange skälen för att tillträde inte medges.
+
+37 a § Om någon som vill sälja värme till fjärrvärmeverksamheten har begärt tillträde till rörledningar enligt 37 § och en överenskommelse inte kan träffas, ska fjärrvärmeföretaget medge ett reglerat tillträde till rörledningarna om den som begärt tillträde efterfrågar det.
+
+Skyldigheten att medge ett reglerat tillträde gäller endast prima värme på framledningen och endast om den anläggning som ska anslutas inte redan är eller har varit ansluten för inmatning till fjärrvärmeföretagets rörledningar.
+
+Fjärrvärmeföretaget har ingen skyldighet att medge ett reglerat tillträde om företaget kan visa att det finns risk för att det lider skada genom tillträdet. Om ett reglerat tillträde inte medges, ska fjärrvärmeföretaget skriftligen underrätta den som begärt tillträde om de skäl som åberopas.
+Lag (2014:444).
+
+37 b § Ett fjärrvärmeföretag som har en skyldighet att medge reglerat tillträde enligt 37 a § ska erbjuda den som begärt tillträde ett skriftligt avtalsförslag av vilket det ska framgå i vilken punkt och när anslutning kan ske och vilka tekniska åtgärder som krävs för anslutning. Villkoren i förslaget ska vara skäliga.
+
+Fjärrvärmeföretaget har rätt att ta ut en skälig avgift för att täcka kostnaderna för att ta fram ett förslag enligt första stycket. Innan avtalsförslaget tas fram, ska fjärrvärmeföretaget lämna uppgift om avgiftens storlek om den som begärt tillträde efterfrågar det.
+Lag (2014:444).
+
+37 c § Ett avtal om reglerat tillträde ska gälla i tio år.
+
+Den som har begärt tillträde till rörledningarna ska betala investeringskostnaden för anslutningen.
+
+Fjärrvärmeföretaget ska ta emot värme i skälig omfattning från den som får tillträde till rörledningarna och betala ersättning för den inmatade värmen. Ersättningen ska motsvara fjärrvärmeföretagets nytta av värmen.
+Lag (2014:444).
+
+37 d § Tvister om reglerat tillträde enligt 37 a–c §§ prövas av tillsynsmyndigheten.
+
+En fråga om skyldighet för ett fjärrvärmeföretag att medge reglerat tillträde enligt 37 a § ska dock inte prövas om ansökan kommit in till tillsynsmyndigheten senare än två år efter det att fjärrvärmeföretaget sänt ett skriftligt ställningstagande till den som begärt tillträde under dennes senast kända adress.
+Lag (2014:444).
 
 Kommunala fjärrvärmeföretag
 
@@ -657,48 +638,9 @@ tillsynen. En sådan begäran får förenas med vite.
 
 Överklagande
 
-54 § Beslut om föreläggande vid vite enligt 16 § andra stycket
-och 52 § andra stycket, begäran enligt 53 § som har förenats
-med vite samt om förseningsavgift får överklagas hos allmän
-förvaltningsdomstol.
+54 § Beslut om föreläggande vid vite enligt 16 § andra stycket och 52 § andra stycket, beslut enligt 37 d §, begäran enligt 53 § som har förenats med vite samt beslut om förseningsavgift får överklagas till allmän förvaltningsdomstol.
 
 Prövningstillstånd krävs vid överklagande till kammarrätten.
 
 Andra beslut enligt denna lag får inte överklagas.
-
-
-Övergångsbestämmelser
-
-2008:263
-
-1. Denna lag träder i kraft den 1 juli 2008.
-
-2. Bestämmelserna i 17-26 §§ tillämpas på sådana ensidiga
-ändringar av avtalsvillkor som ska börja gälla efter den 30
-juni 2008.
-
-3. I fråga om sådana ensidiga ändringar av avtalsvillkor som
-ska börja gälla efter den 30 juni 2008 är fjärrvärmeföretaget,
-utöver vad som följer av 19 §, skyldigt att förhandla om
-fjärrvärmekunden begär förhandling senast den 22 juli 2008.
-
-4. Bestämmelserna i 27-31 §§ tillämpas på sådana avbrott i
-distributionen som inträffar efter den 30 juni 2008.
-
-5. Bestämmelserna i 41 § tillämpas första gången för det
-räkenskapsår som börjar närmast efter den 30 juni 2008.
-
-6. Bestämmelserna i 44-51 §§ tillämpas på årsrapporter och
-yttranden över granskning av årsrapporter som avser
-räkenskapsår som börjar närmast efter den 30 juni 2008.
-
-2011:934
-
-Denna lag träder i kraft den 1 januari 2012 i fråga om 6 § och
-i övrigt den 1 januari 2015.
-
-2011:1423
-
-Denna lag träder i kraft den 1 januari 2012 och tillämpas på
-ränta som hänför sig till tid från och med den 1 januari
-2013.
+Lag (2014:444).
