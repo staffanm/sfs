@@ -186,7 +186,7 @@ koncernredovisning skall kunna upprättas. Lag (1999:1112).
 
 Årsredovisningens delar
 
-1 § En årsredovisning skall bestå av
+1 § En årsredovisning ska bestå av
 
 1. en balansräkning,
 
@@ -196,8 +196,8 @@ koncernredovisning skall kunna upprättas. Lag (1999:1112).
 
 4. en förvaltningsberättelse.
 
-I årsredovisningen för ett större företag skall det även ingå
-en finansieringsanalys. Lag (2006:871).
+I årsredovisningen för ett större företag ska det även ingå
+en kassaflödesanalys. Lag (2014:542).
 
 Överskådlighet och god redovisningssed
 
@@ -1584,11 +1584,10 @@ sambruksföreningar. Lag (1999:1112).
 uppgift om hur stiftelsens ändamål har främjats under
 räkenskapsåret. Lag (1999:1112).
 
-Finansieringsanalys
+Kassaflödesanalys
 
-5 § I finansieringsanalysen skall redovisas företagets
-finansiering och kapitalinvesteringar under räkenskapsåret.
-Lag (1999:1112).
+5 § I kassaflödesanalysen ska företagets in- och utbetalningar
+under räkenskapsåret redovisas. Lag (2014:542).
 
 Bolagsstyrningsrapport
 
@@ -1759,7 +1758,7 @@ ringa betydelse. Lag (2010:686).
 
 Koncernredovisningens delar
 
-4 § Koncernredovisningen skall bestå av
+4 § Koncernredovisningen ska bestå av
 
 1. en koncernbalansräkning,
 
@@ -1769,7 +1768,8 @@ Koncernredovisningens delar
 
 4. en förvaltningsberättelse, och
 
-5. en finansieringsanalys. Lag (2006:871).
+5. en kassaflödesanalys.
+Lag (2014:542).
 
 Dotterföretag som skall omfattas av koncernredovisningen
 
@@ -2153,7 +2153,7 @@ skälen för detta. Uppgift enligt 5 kap. 18 § skall anges
 särskilt för varje företag för vilket ägarandelar redovisas med
 tillämpning av denna paragraf. Lag (1999:1112).
 
-Förvaltningsberättelse och finansieringsanalys
+Förvaltningsberättelse och kassaflödesanalys
 
 31 § Förvaltningsberättelse och finansieringsanalys för
 koncernen ska upprättas med tillämpning av 6 kap. 1 § och
@@ -2175,6 +2175,29 @@ avses i andra stycket, behöver upplysningarna inte lämnas också
 i koncernredovisningen. I sådana fall ska dock
 förvaltningsberättelsen för koncernen innehålla en uppgift om
 den plats i rapporten där upplysningarna lämnas. Lag (2009:34).
+
+31 § /Träder i kraft I:2014-08-01/
+Förvaltningsberättelse och kassaflödesanalys för
+koncernen ska upprättas med tillämpning av 6 kap. 1 och
+2 a5 §§. Det som sägs i 6 kap. 1 § om mindre företag ska
+i stället avse mindre koncerner.
+
+Om moderbolaget är ett aktiebolag och bolagets eller något av
+dess dotterföretags andelar, teckningsoptioner eller
+skuldebrev är upptagna till handel på en reglerad marknad,
+ska det i förvaltningsberättelsen lämnas upplysning om de
+viktigaste inslagen i koncernens system för intern kontroll
+och riskhantering i samband med upprättandet av
+koncernredovisningen.
+
+Om moderbolaget har upprättat en bolagsstyrningsrapport som
+inte utgör en del av förvaltningsberättelsen och det i
+rapporten har tagits med sådana upplysningar om koncernen som
+avses i andra stycket, behöver upplysningarna inte lämnas
+också i koncernredovisningen. I sådana fall ska dock
+förvaltningsberättelsen för koncernen innehålla en uppgift om
+den plats i rapporten där upplysningarna lämnas.
+Lag (2014:542).
 
 Koncernredovisning i moderföretag som omfattas av IAS-
 förordningen
@@ -3281,3 +3304,10 @@ den 31 december 2010.
 Denna lag träder i kraft den 1 januari 2012 och tillämpas på
 ränta som hänför sig till tid från och med den 1 januari
 2013.
+
+2014:542
+
+1. Denna lag träder i kraft den 1 augusti 2014.
+
+2. Äldre föreskrifter får tillämpas för det räkenskapsår som
+har inletts närmast före ikraftträdandet.
