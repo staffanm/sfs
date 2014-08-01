@@ -890,16 +890,7 @@ följd för varje försäkringsföretag. Vid varje anteckning ska
 detta nummer anges liksom datum för anteckningen och för dess
 kungörande i Post- och Inrikes Tidningar.
 
-15 § /Upphör att gälla U:2014-05-01/
-Beslut och andra förhållanden som anmäls för registrering
-i försäkringsregistret ska antecknas i registret så snart som
-möjligt efter det att anmälan kommit in till Bolagsverket. Om
-det framgår att beslutet ska ha verkan först vid en viss
-senare tidpunkt, ska dock anteckning i registret göras i så
-nära anslutning som möjligt till denna tidpunkt.
-
-15 § /Träder i kraft I:2014-05-01/
-Beslut och andra förhållanden som anmäls för
+15 § Beslut och andra förhållanden som anmäls för
 registrering i försäkringsregistret ska antecknas i registret
 så snart som möjligt efter det att anmälan har kommit in till
 Bolagsverket. Ändringar av den information som finns i
@@ -1445,32 +1436,32 @@ och Schweiz,
 3. de krav som ska gälla för deltagande i ledningen av ett
 försäkringsföretag enligt 2 kap. 4 § första stycket 4,
 
-4. de risker som hänför sig till varje försäkringsklass enligt
-2 kap. 11 och 12 §§ samt om beteckningar för grupper av
-försäkringsklasser enligt 2 kap. 11 §,
+4. de risker som hänför sig till varje försäkringsklass
+enligt 2 kap. 11 och 12 §§ samt om beteckningar för grupper
+av försäkringsklasser enligt 2 kap. 11 §,
 
 5. vad en verksamhetsplan enligt 2 kap. 18 § ska innehålla,
 
-6. vad en verksamhetsplan enligt 3 kap. 1 § första stycket 1 i
-övrigt ska innehålla,
+6. vad en verksamhetsplan enligt 3 kap. 1 § första stycket 1
+i övrigt ska innehålla,
 
-7. vilka åtgärder som ett försäkringsföretag ska vidta för att
-uppfylla de krav på soliditet, likviditet och riskhantering
-som avses i 4 kap. 1 §,
+7. vilka åtgärder som ett försäkringsföretag ska vidta för
+att uppfylla de krav på soliditet, likviditet och
+riskhantering som avses i 4 kap. 1 §,
 
 8. vilken information enligt 4 kap. 2 § som ett
 försäkringsföretag ska lämna till försäkringstagarna, till
-andra ersättningsberättigade på grund av försäkringar och till
-dem som erbjuds att teckna en försäkring i företaget,
+andra ersättningsberättigade på grund av försäkringar och
+till dem som erbjuds att teckna en försäkring i företaget,
 
-9. vilka åtgärder som ett försäkringsföretag ska vidta för att
-uppfylla de krav på god försäkringsstandard som avses i 4 kap.
-3 §,
+9. vilka åtgärder som ett försäkringsföretag ska vidta för
+att uppfylla de krav på god försäkringsstandard som avses i 4
+kap. 3 §,
 
 10. villkor för upplåning enligt 4 kap. 5 §,
 
 11. de försäkringstekniska avsättningarnas innehåll och
-beräkning enligt 5 kap. 1-7 och 9 §§,
+beräkning enligt 5 kap. 17 och 9 §§,
 
 12. villkoren för behörighet att tjänstgöra som aktuarie
 enligt 5 kap. 14 § första stycket,
@@ -1480,7 +1471,7 @@ internationella organisationer som ska omfattas av 6 kap. 3 §
 2 och 4,
 
 14. i vilka stater de rättssubjekt som anges ska vara belägna
-eller ha sitt säte i enligt 6 kap. 3 § 3, 8 och 10-13,
+eller ha sitt säte i enligt 6 kap. 3 § 3, 8 och 1013,
 
 15. förutsättningarna för användningen av tillgångar utgivna
 av ett specialföretag enligt 6 kap. 3 § 14,
@@ -1510,16 +1501,16 @@ enligt 7 kap. 2, 4 och 5 §§ samt 9 kap. 4 §,
 24. motsvarande höjning av beräkningskriterierna för
 solvensmarginalen i fråga om återförsäkring för andra
 försäkringsklasser än de motsvarande klasserna i 2 kap. 11 §
-första stycket klasserna 11-13 enligt 7 kap. 7 § andra
+första stycket klasserna 1113 enligt 7 kap. 7 § andra
 stycket,
 
 25. beräkning av kostnader för utförd assistans och annan
-beräkning av solvensmarginalen för sjukränta enligt 7 kap. 7-
-11 §§,
+beräkning av solvensmarginalen för sjukränta enligt 7 kap.
+711 §§,
 
 26. beräkning av solvensmarginal för återförsäkring av
-livförsäkring enligt bestämmelserna för livförsäkring i 7 kap.
-12 §,
+livförsäkring enligt bestämmelserna för livförsäkring i 7
+kap. 12 §,
 
 27. beräkning av solvensmarginalen för sjuk- och
 olycksfallsförsäkring enligt 7 kap. 13 §,
@@ -1530,8 +1521,8 @@ kap. 18 § första stycket,
 29. vad en redogörelse enligt 8 kap. 2 § ska innehålla,
 
 30. omfattningen av skyldigheten enligt 8 kap. 5 § att lämna
-information om placeringsriktlinjer och vilka försäkringar som
-inte ska omfattas av den skyldigheten,
+information om placeringsriktlinjer och vilka försäkringar
+som inte ska omfattas av den skyldigheten,
 
 31. vilka uppgifter som placeringsriktlinjer enligt 8 kap. 6 §
 ska innehålla,
@@ -1550,15 +1541,24 @@ enligt 9 kap. 6 §,
 35. vilka upplysningar ett försäkringsföretag ska lämna till
 Finansinspektionen enligt 14 kap. 5 §,
 
-36. grunderna för bedömningen av tillförlitligheten hos
+36. att vissa uppgifter som enligt 14 kap. 5 § ska lämnas
+till Finansinspektionen i stället ska lämnas till Statistiska
+centralbyrån,
+
+37. grunderna för bedömningen av tillförlitligheten hos
 interna modeller enligt 14 kap. 17 § första stycket, och
 
-37. innehållet i en finansiell saneringsplan enligt 16 kap. 4
-§.
+38. innehållet i en finansiell saneringsplan enligt 16 kap.
+4 §.
 
 Finansinspektionen får meddela föreskrifter om
-verkställigheten av försäkringsrörelselagen i den utsträckning
-som denna förordning inte innehåller sådana bestämmelser.
+verkställigheten av försäkringsrörelselagen i den
+utsträckning som denna förordning inte innehåller sådana
+bestämmelser. Förordning (2014:504).
+
+2 a § Innan Finansinspektionen meddelar föreskrifter med stöd
+av 2 § 36, ska inspektionen ge Riksbanken och Statistiska
+centralbyrån tillfälle att yttra sig. Förordning (2014:504).
 
 Aktuarie
 
