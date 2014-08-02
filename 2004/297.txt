@@ -54,8 +54,8 @@ värdepappersbolag eller motsvarande utländska företag,
 3. bankaktiebolag: ett aktiebolag som har fått tillstånd att
 driva bankrörelse,
 
-4. behörig myndighet: en utländsk myndighet som har behörighet
-att utöva tillsyn över utländska kreditinstitut,
+4. behörig myndighet: en utländsk myndighet som har
+behörighet att utöva tillsyn över utländska kreditinstitut,
 
 5. EES: Europeiska ekonomiska samarbetsområdet,
 
@@ -80,46 +80,53 @@ tillståndspliktigt enligt 2 kap. 1 §,
 8. hemland: det land där ett företag har fått tillstånd till
 rörelse som avses i denna lag,
 
-9. kapitalbas: detsamma som i 3 kap. lagen (2006:1371) om
-kapitaltäckning och stora exponeringar,
+9. kapitalbas: detsamma som avses i artikel 72 i
+Europaparlamentets och rådets förordning (EU) nr 575/2013 av
+den 26 juni 2013 om tillsynskrav för kreditinstitut och
+värdepappersföretag och om ändring av förordning (EU) nr
+648/2012,
 
 10. kreditinstitut: bank och kreditmarknadsföretag,
 
-11. kreditmarknadsbolag: ett aktiebolag som har fått tillstånd
-att driva finansieringsrörelse,
+11. kapitaltäckningsdirektivet: Europaparlamentets och rådets
+direktiv 2013/36/EU av den 26 juni 2013 om behörighet att
+utöva verksamhet i kreditinstitut och om tillsyn av
+kreditinstitut och värdepappersföretag, om ändring av
+direktiv 2002/87/EG och om upphävande av direktiv 2006/48/EG
+och 2006/49/EG,
 
-12. kreditmarknadsförening: en ekonomisk förening som har fått
+12. kreditmarknadsbolag: ett aktiebolag som har fått
 tillstånd att driva finansieringsrörelse,
 
-13. kreditmarknadsföretag: kreditmarknadsbolag och
+13. kreditmarknadsförening: en ekonomisk förening som har
+fått tillstånd att driva finansieringsrörelse,
+
+14. kreditmarknadsföretag: kreditmarknadsbolag och
 kreditmarknadsförening,
 
-14. kvalificerat innehav: ett direkt eller indirekt ägande i
+15. kvalificerat innehav: ett direkt eller indirekt ägande i
 ett företag, om innehavet beräknat på det sätt som anges i
 5 a § representerar tio procent eller mer av kapitalet eller
 av samtliga röster eller annars möjliggör ett väsentligt
 inflytande över ledningen av företaget,
 
-15. medlemsbank: en ekonomisk förening som avses i lagen
+16. medlemsbank: en ekonomisk förening som avses i lagen
 (1995:1570) om medlemsbanker,
 
-16. sparbank: ett företag som avses i sparbankslagen
+17. sparbank: ett företag som avses i sparbankslagen
 (1987:619),
 
-17. startkapital: det kapital som definieras i artikel 57 a
-och b i Europaparlamentets och rådets direktiv 2006/48/EG av
-den 14 juni 2006 om rätten att starta och driva verksamhet i
-kreditinstitut (omarbetning), senast ändrat genom
-Europaparlamentets och rådets direktiv 2010/78/EU,
+18. startkapital: det kapital som för kreditinstitut avses i
+artikel 4.51 i förordning (EU) nr 575/2013,
 
-18. utländskt bankföretag: ett utländskt företag som i
+19. utländskt bankföretag: ett utländskt företag som i
 hemlandet har tillstånd att driva bankrörelse,
 
-19. utländskt kreditföretag: ett utländskt företag som i
+20. utländskt kreditföretag: ett utländskt företag som i
 hemlandet har tillstånd att driva finansieringsrörelse, och
 
-20. utländskt kreditinstitut: ett utländskt bankföretag och
-ett utländskt kreditföretag. Lag (2011:768).
+21. utländskt kreditinstitut: ett utländskt bankföretag och
+ett utländskt kreditföretag. Lag (2014:982).
 
 5 a § Vid bedömningen av om ett innehav utgör ett
 kvalificerat innehav enligt 5 § 14 ska följande bestämmelser
@@ -223,19 +230,19 @@ bestämmelser. Lag (2005:932).
 
 Reglers tillämpning på andra företag än kreditinstitut
 
-8 § Om ett kreditinstitut ingår i en finansiell företagsgrupp
-enligt 9 kap. 1 § lagen (2006:1371) om kapitaltäckning och
-stora exponeringar, ska bestämmelserna i 69, 13 och 15 kap.
-denna lag samt bestämmelserna i lagen om kapitaltäckning och
-stora exponeringar om ett instituts rörelse och om tillsyn
-över ett institut, gälla i tillämpliga delar för övriga
-företag i företagsgruppen. Begränsningarna i fråga om ett
-instituts rörelse ska avse företagen i företagsgruppen
+8 § Om ett kreditinstitut står under tillsyn på gruppnivå i
+enlighet med artiklarna 1123 i förordning (EU) nr 575/2013,
+ska bestämmelserna i 69, 13 och 15 kap. denna lag samt
+bestämmelserna i lagen (2014:968) om särskild tillsyn över
+kreditinstitut och värdepappersbolag om ett instituts rörelse
+och om tillsyn över ett institut, gälla i tillämpliga delar
+för övriga företag i företagsgruppen. Begränsningarna i fråga
+om ett instituts rörelse ska avse företagen i företagsgruppen
 gemensamt.
 
 Om det finns särskilda skäl får ett företag undantas från
 bestämmelserna i första stycket. Frågor om sådana undantag
-prövas av Finansinspektionen. Lag (2013:455).
+prövas av Finansinspektionen. Lag (2014:982).
 
 Bank i firman m.m.
 
@@ -257,7 +264,10 @@ i sin firma eller annars i sin rörelse. Lag (2011:460).
 Tystnadsplikt
 
 10 § Enskildas förhållanden till kreditinstitut får inte
-obehörigen röjas.
+obehörigen röjas. Detsamma gäller en uppgift i en anmälan
+eller en utsaga om en misstänkt överträdelse av en
+bestämmelse som gäller för kreditinstitutets verksamhet, om
+uppgiften kan avslöja anmälarens identitet.
 
 I det allmännas verksamhet tillämpas i stället bestämmelserna
 i offentlighets- och sekretesslagen (2009:400).
@@ -268,7 +278,7 @@ som bryter mot förbudet i första stycket.
 I 5 a § kreditupplysningslagen (1973:1173) finns bestämmelser
 som innebär att vad som gäller om tystnadsplikt enligt första
 stycket inte hindrar att uppgifter i vissa fall utväxlas för
-kreditupplysningsändamål. Lag (2009:504).
+kreditupplysningsändamål. Lag (2014:982).
 
 Uppgiftsskyldighet
 
@@ -429,13 +439,15 @@ författningar som reglerar företagets verksamhet,
 3. den som har eller kan förväntas komma att få ett
 kvalificerat innehav i företaget bedöms lämplig att utöva ett
 väsentligt inflytande över ledningen av ett kreditinstitut,
-och
 
 4. den som ska ingå i styrelsen för företaget eller vara
 verkställande direktör i det, eller vara ersättare för någon
 av dem, har tillräcklig insikt och erfarenhet för att delta i
 ledningen av ett kreditinstitut och även i övrigt är lämplig
-för en sådan uppgift.
+för en sådan uppgift, och
+
+5. styrelsen i sin helhet har tillräckliga kunskaper och
+erfarenheter för att leda företaget.
 
 Vid bedömningen enligt första stycket 3 av om en innehavare
 är lämplig ska dennes anseende och kapitalstyrka beaktas. Det
@@ -462,15 +474,15 @@ Om den som kommer att ha ett kvalificerat innehav i företaget
 finansiellt holdingföretag, ska det vid bedömningen av
 innehavarens anseende särskilt beaktas om dess ledning
 uppfyller de krav som ställs på ledningen i ett sådant
-företag enligt 9 kap. 13 § lagen (2006:1371) om
-kapitaltäckning och stora exponeringar respektive 5 kap. 16 §
-lagen (2006:531) om särskild tillsyn över finansiella
-konglomerat.
+företag enligt 3 kap. 5 § lagen (2014:968) om särskild
+tillsyn över kreditinstitut och värdepappersbolag respektive
+5 kap. 16 § lagen (2006:531) om särskild tillsyn över
+finansiella konglomerat.
 
 Om företaget har eller kan förväntas komma att få nära
 förbindelser med någon annan, får tillstånd ges bara om
-förbindelserna inte hindrar en effektiv tillsyn av företaget.
-Lag (2009:361).
+förbindelserna inte hindrar en effektiv tillsyn av
+företaget. Lag (2014:982).
 
 Godkännande av bolagsordning m.m.
 
@@ -776,6 +788,15 @@ risker som det är eller kan komma att bli exponerat för.
 Kreditinstitutet skall utvärdera dessa metoder för att
 säkerställa att de är heltäckande. Lag (2006:1387).
 
+2 a § Ett kreditinstitut ska tillhandahålla ändamålsenliga
+rapporteringssystem för anställda som vill göra anmälningar
+om misstänkta överträdelser av bestämmelser som gäller för
+kreditinstitutets verksamhet.
+
+Personuppgiftslagen (1998:204) gäller vid behandling av
+personuppgifter inom ramen för sådana rapporteringssystem som
+avses i första stycket. Lag (2014:982).
+
 Genomlysning
 
 3 § Ett kreditinstituts rörelse skall organiseras och drivas på
@@ -805,6 +826,13 @@ Styrelsens ansvar
 
 4 b § Styrelsen i ett kreditinstitut ansvarar för att kraven i
 1-3 §§ uppfylls. Lag (2006:1387).
+
+Rörlig ersättning
+
+4 c § Den rörliga ersättningen till en anställd vars funktion
+eller totala ersättningsnivå innebär att han eller hon kan ha
+en väsentlig inverkan på ett kreditinstituts riskprofil får
+inte vara större än den fasta ersättningen. Lag (2014:982).
 
 Riktlinjer och instruktioner
 
@@ -903,13 +931,14 @@ Innehav av egendom i allmänhet
 
 2 § Ett kreditinstitut får inneha bara
 
-1. egendom som behövs för att driva sådan verksamhet som avses
-i 1 §,
+1. egendom som behövs för att driva sådan verksamhet som
+avses i 1 §,
 
 2. egendom som förvärvats till skyddande av fordran enligt
-3-8 §§, och
+38 §§, och
 
-3. aktier och andelar med de begränsningar som anges i 9-11 §§.
+3. aktier och andelar med de begränsningar som anges i
+tillsynsförordningen. Lag (2014:982).
 
 Innehav av egendom för att skydda en fordran
 
@@ -968,48 +997,11 @@ skydda en fordran.
 
 Innehav av aktier och andelar
 
-9 § Ett kreditinstituts kvalificerade innehav av aktier eller
-andelar i andra företag än kreditinstitut, utländska
-kreditinstitut, företag för elektroniska pengar,
-värdepappersföretag, finansiella institut, anknutna företag och
-försäkringsföretag inklusive återförsäkringsföretag får
-sammanlagt uppgå till högst 60 procent av kapitalbasen i
-kreditinstitutet. Ett sådant innehav i ett enskilt företag får
-uppgå till högst 15 procent av kapitalbasen i kreditinstitutet.
+9 § Har upphävts genom lag (2014:982).
 
-Aktier eller andelar som har förvärvats i strid med första
-stycket skall snarast avyttras.
+10 § Har upphävts genom lag (2014:982).
 
-Har aktier eller andelar förvärvats inom ramen för de gränser
-som anges i första stycket och förändras därefter förhållandet
-mellan de kvalificerade innehaven och kapitalbasen så att
-gränserna överskrids, skall institutet så snart det är lämpligt
-avyttra överskjutande aktier och andelar. Lag (2006:543).
-
-10 § Vid beräkningen enligt 9 § första stycket av ett
-kreditinstituts kvalificerade innehav räknas inte
-
-1. aktier eller andelar som ett kreditinstitut tillfälligt
-innehar vid medverkan i rekonstruktion eller som ett led i att
-skydda en fordran enligt 3-8 §§, eller
-
-2. aktier eller andelar som ett kreditinstitut tillfälligt
-innehar som ett normalt led i emissionsverksamhet eller i eget
-namn för någon annans räkning.
-
-11 § De i 9 § första stycket angivna gränserna får överskridas
-om
-
-1. det belopp med vilket det kvalificerade innehavet
-överskrider gränserna täcks av institutets kapitalbas, och
-
-2. det görs avdrag för motsvarande del av kapitalbasen vid
-beräkningen av kapitalbaskraven i 2 kap. 1 § lagen (2006:1371)
-om kapitaltäckning och stora exponeringar.
-
-Om båda de gränser som anges i 9 § första stycket överskrids,
-skall det största belopp som någon gräns överskrids med, täckas
-på det sätt som beskrivs i första stycket. Lag (2006:1387).
+11 § Har upphävts genom lag (2014:982).
 
 Tillstånd för förvärv av egendom i vissa fall
 
@@ -1081,15 +1073,17 @@ banken.
 Finansinspektionen prövar om en delegat eller en anställd har
 sådan ledande ställning som avses i första stycket 2 och 3.
 
-6 § Institutets styrelse skall behandla ärenden som avses i 5
-§. Den skall vidare i en förteckning föra in uppgifter om de
+6 § Institutets styrelse skall behandla ärenden som avses i
+5 §. Den skall vidare i en förteckning föra in uppgifter om de
 avtal som har träffats.
 
 9 kap. Kapitalbasens storlek, motbok och omyndigas medel
 
 1 § Bestämmelser om kapitaltäckning och stora exponeringar
-finns i lagen (2006:1371) om kapitaltäckning och stora
-exponeringar. Lag (2006:1387).
+finns i Europaparlamentets och rådets förordning (EU) nr
+575/2013, lagen (2014:968) om särskild tillsyn över
+kreditinstitut och värdepappersbolag och lagen (2014:966) om
+kapitalbuffertar. Lag (2014:982).
 
 2 § En medlemsbank eller ett kreditmarknadsföretag som enligt 3
 kap. 7 § andra stycket har medgetts att påbörja sin rörelse med
@@ -1120,15 +1114,7 @@ Kapitalbasens storlek enligt första och andra styckena skall
 beräknas efter den kurs som gällde vid beslut om tillstånd
 enligt 3 kap.
 
-3 § Ett kreditinstituts kapitalbas får inte understiga det
-belopp som enligt 3 kap. 5-7 §§ krävdes när rörelsen
-påbörjades.
-
-Om en medlemsbank eller ett kreditmarknadsföretag med stöd av
-2 § första stycket får ha en lägre kapitalbas än motsvarande fem
-miljoner euro, gäller i stället att kapitalbasen inte får
-understiga det högsta av de belopp som enligt nämnda stycke
-krävts för institutet.
+3 § Har upphävts genom lag (2014:982).
 
 Motbok
 
@@ -1162,26 +1148,7 @@ föräldrabalken. Lag (2008:913).
 10 kap. Särskilda associationsrättsliga bestämmelser för
 bankaktiebolag
 
-1 § /Upphör att gälla U:2014-08-01/
-För bankaktiebolag gäller föreskrifterna för aktiebolag i
-allmänhet, om inte något annat följer av denna lag eller är
-särskilt föreskrivet. Hänvisningar i aktiebolagslagen
-(2005:551) till bestämmelser i samma lag ska i förekommande
-fall avse de bestämmelser i denna lag som gäller i stället
-för eller utöver bestämmelserna i aktiebolagslagen.
-
-I fråga om bankaktiebolag ska det som föreskrivs om
-Bolagsverket i följande bestämmelser i stället gälla
-Finansinspektionen:
-
-1. 2 kap. 1 § tredje stycket samt 8 kap. 9 och 30 §§ samt
-37 § andra stycket aktiebolagslagen, och
-
-2. 23 kap. 21 a § aktiebolagslagen.
-Lag (2013:455).
-
-1 § /Träder i kraft I:2014-08-01/
-För bankaktiebolag gäller föreskrifterna för aktiebolag i
+1 § För bankaktiebolag gäller föreskrifterna för aktiebolag i
 allmänhet, om inte något annat följer av denna lag eller är
 särskilt föreskrivet. Hänvisningar i aktiebolagslagen
 (2005:551) till bestämmelser i samma lag ska i förekommande
@@ -1232,8 +1199,7 @@ ledamöter. Flertalet av ledamöterna skall vara personer som
 inte är anställda i banken eller i företag som ingår i en
 koncern där banken är moderbolag. Lag (2005:932).
 
-5 a § /Träder i kraft I:2014-08-01/
-Skyldigheten enligt 8 kap. 46 a § aktiebolagslagen
+5 a § Skyldigheten enligt 8 kap. 46 a § aktiebolagslagen
 (2005:551) för styrelsen i ett publikt aktiebolag att årligen
 fastställa en skriftlig arbetsordning för sitt arbete gäller
 även för styrelsen i ett bankaktiebolag som är ett privat
@@ -1259,6 +1225,47 @@ Lag (2005:932).
 i ett bankaktiebolag lämna uppgift till stämman om vilka
 uppdrag den som valet gäller innehar i andra företag.
 Lag (2005:932).
+
+8 a § Den som är ledamot i styrelsen för ett bankaktiebolag
+eller är dess verkställande direktör får utöver detta uppdrag
+ha det antal uppdrag som styrelseledamot eller verkställande
+direktör i andra företag som bedöms lämpligt med hänsyn till
+omständigheterna i det enskilda fallet samt till arten,
+omfattningen och komplexiteten hos bolagets verksamhet.
+
+Om ett bankaktiebolag är betydande i fråga om storlek, intern
+organisation samt verksamhetens art, omfattning och
+komplexitet, får en styrelseledamot eller verkställande
+direktör endast inneha en av följande kombinationer av
+uppdrag:
+
+1. ett uppdrag som verkställande direktör och två uppdrag som
+styrelseledamot, eller
+
+2. fyra uppdrag som styrelseledamot.
+Lag (2014:982).
+
+8 b § Vid tillämpningen av 8 a § andra stycket ska
+
+1. uppdrag inom samma koncern eller i företag där
+bankaktiebolaget har ett kvalificerat innehav räknas som ett
+enda uppdrag, och
+
+2. uppdrag i verksamheter och organisationer som inte
+huvudsakligen har ett kommersiellt syfte inte beaktas.
+
+Om styrelseledamoten representerar svenska staten gäller inte
+8 a § andra stycket.
+
+En styrelseledamot eller verkställande direktör i ett
+bankaktiebolag som är betydande får, efter tillstånd av
+Finansinspektionen, ha ytterligare ett uppdrag som
+styrelseledamot utöver de som anges i 8 a § andra stycket 1
+eller 2. Lag (2014:982).
+
+8 c § Den som är styrelseledamot eller verkställande direktör
+i ett bankaktiebolag ska avsätta tillräckligt med tid för att
+kunna utföra sitt uppdrag. Lag (2014:982).
 
 Revision
 
@@ -1338,6 +1345,7 @@ betryggande säkerhet för sina fordringar. Att en insättare
 motsätter sig ansökan utgör dock inte något hinder, om
 inspektionens yttrande ger grund för att ge tillstånd.
 Lag (2005:932).
+
 15 § I stället för 20 kap. 30 § aktiebolagslagen (2005:551)
 skall bestämmelserna i denna paragraf tillämpas.
 
@@ -1632,11 +1640,12 @@ sin firma. Detsamma gäller ett bankaktiebolag som senare har
 
 Skadestånd
 
-37 § Vad som i 29 kap. 1-3 §§ aktiebolagslagen (2005:551)
+37 § Vad som i 29 kap. 13 §§ aktiebolagslagen (2005:551)
 föreskrivs om ansvar vid överträdelse av där angivna
-bestämmelser gäller för bankaktiebolag även vid överträdelse av
-denna lag och lagen (2006:1371) om kapitaltäckning och stora
-exponeringar. Lag (2006:1387).
+bestämmelser gäller för bankaktiebolag även vid överträdelse
+av denna lag, förordning (EU) nr 575/2013, lagen (2014:968)
+om särskild tillsyn över kreditinstitut och värdepappersbolag
+och lagen (2014:966) om kapitalbuffertar. Lag (2014:982).
 
 Särskilda bestämmelser för europabolag
 
@@ -1808,6 +1817,48 @@ förrättas i en kreditmarknadsförening lämna uppgift till
 stämman om vilka uppdrag den som valet gäller innehar i andra
 företag.
 
+6 a § Den som är ledamot i styrelsen för en
+kreditmarknadsförening eller är dess verkställande direktör
+får utöver detta uppdrag ha det antal uppdrag som
+styrelseledamot eller verkställande direktör i andra företag
+som bedöms lämpligt med hänsyn till omständigheterna i det
+enskilda fallet samt till arten, omfattningen och
+komplexiteten hos föreningens verksamhet.
+
+Om en kreditmarknadsförening är betydande i fråga om storlek,
+intern organisation samt verksamhetens art, omfattning och
+komplexitet, får en styrelseledamot eller verkställande
+direktör endast inneha en av följande kombinationer av
+uppdrag:
+
+1. ett uppdrag som verkställande direktör och två uppdrag som
+styrelseledamot, eller
+
+2. fyra uppdrag som styrelseledamot.
+Lag (2014:982).
+
+6 b § Vid tillämpningen av 6 a § andra stycket ska
+
+1. uppdrag inom samma koncern eller i företag där
+kreditmarknadsföreningen har ett kvalificerat innehav räknas
+som ett enda uppdrag, och
+
+2. uppdrag i verksamheter och organisationer som inte
+huvudsakligen har ett kommersiellt syfte inte beaktas.
+
+Om styrelseledamoten representerar svenska staten, gäller
+inte 6 a § andra stycket.
+
+En styrelseledamot eller verkställande direktör i en
+kreditmarknadsförening som är betydande får, efter tillstånd
+av Finansinspektionen, ha ytterligare ett uppdrag som
+styrelseledamot utöver de som anges i 6 a § andra stycket 1
+eller 2. Lag (2014:982).
+
+6 c § Den som är styrelseledamot eller verkställande direktör
+i en kreditmarknadsförening ska avsätta tillräckligt med tid
+för att kunna utföra sitt uppdrag. Lag (2014:982).
+
 Föreningsstämma
 
 7 § Utöver vad som föreskrivs om upplysningsplikt i 7 kap. 11 §
@@ -1958,12 +2009,14 @@ Finansinspektionen förlänga denna frist. Lag (2009:711).
 
 Skadestånd
 
-20 § Vad som i 13 kap. 1-3 §§ lagen (1987:667) om ekonomiska
-föreningar föreskrivs om ansvar vid överträdelse av den lagen,
-av tillämplig lag om årsredovisning och av stadgarna gäller
-beträffande kreditmarknadsföreningar även vid överträdelse av
-denna lag och lagen (2006:1371) om kapitaltäckning och stora
-exponeringar. Lag (2006:1387).
+20 § Vad som i 13 kap. 13 §§ lagen (1987:667) om ekonomiska
+föreningar föreskrivs om ansvar vid överträdelse av den
+lagen, av tillämplig lag om årsredovisning och av stadgarna
+gäller beträffande kreditmarknadsföreningar även vid
+överträdelse av denna lag, förordning (EU) nr 575/2013, lagen
+(2014:968) om särskild tillsyn över kreditinstitut och
+värdepappersbolag och lagen (2014:966) om kapitalbuffertar.
+Lag (2014:982).
 
 Särskilda bestämmelser för europakooperativ
 
@@ -2152,21 +2205,33 @@ verksamhet här i landet.
 
 Upplysningar från och undersökningar hos ett kreditinstitut
 
-3 § Ett kreditinstitut och sådana utländska kreditinstitut som
-inrättat filial enligt 4 kap. 4 § skall lämna
-Finansinspektionen de upplysningar om sin verksamhet och därmed
-sammanhängande omständigheter som inspektionen begär.
+3 § Ett kreditinstitut och sådana utländska kreditinstitut
+som inrättat filial i Sverige ska lämna Finansinspektionen de
+upplysningar om sin verksamhet och därmed sammanhängande
+omständigheter som inspektionen begär.
 
-3 a § /Upphör att gälla U:2014-08-01/
-Regeringen eller den myndighet som regeringen bestämmer
+Finansinspektionen får även begära sådana upplysningar som
+avses i första stycket av personer som är anställda hos de
+institut som avses i första stycket samt av personer som är
+anställda i företag som avses i 6 kap. 1 § lagen (2014:968)
+om särskild tillsyn över kreditinstitut och
+värdepappersbolag. Lag (2014:982).
+
+3 a § Regeringen eller den myndighet som regeringen bestämmer
 meddelar föreskrifter om att vissa uppgifter som enligt 3 §
 ska lämnas till Finansinspektionen i stället ska lämnas till
 Statistiska centralbyrån. Lag (2014:487).
 
 4 § Finansinspektionen får när inspektionen anser att det är
-nödvändigt genomföra en undersökning hos ett kreditinstitut och
-sådana utländska kreditinstitut som inrättat filial enligt 4
-kap. 4 §.
+nödvändigt genomföra en undersökning hos ett kreditinstitut
+och sådana utländska kreditinstitut som inrättat filial i
+Sverige.
+
+Innan en undersökning genomförs hos ett utländskt
+kreditinstitut som har inrättat filial enligt 4 kap. 1 §, ska
+Finansinspektionen samråda med behörig myndighet i det land
+inom EES som har auktoriserat det utländska
+kreditinstitutet. Lag (2014:982).
 
 Upplysningar från och undersökningar hos andra företag
 
@@ -2185,18 +2250,27 @@ tillsyn över institutet.
 
 Samarbete och utbyte av information
 
-6 a § Finansinspektionen ska i sin tillsynsverksamhet samarbeta
-och utbyta information med utländska behöriga myndigheter och
-Europeiska bankmyndigheten i den utsträckning som följer av
-Sveriges medlemskap i Europeiska unionen. Lag (2012:193).
+6 a § Finansinspektionen ska i sin tillsynsverksamhet
+samarbeta och utbyta information med utländska behöriga
+myndigheter, Europeiska bankmyndigheten, Europeiska
+systemrisknämnden och Europeiska värdepappers- och
+marknadsmyndigheten i den utsträckning som följer av Sveriges
+medlemskap i Europeiska unionen. Lag (2014:982).
 
 6 b § Finansinspektionen får hänskjuta frågor som rör ett
 förfarande av en annan behörig myndighet inom EES till
 Europeiska bankmyndigheten för tvistlösning i de fall som
-framgår av artiklarna 42, 129.1 och 132.1 i Europaparlamentets
-och rådets direktiv 2006/48/EG. Lag (2012:193).
+framgår av artiklarna 112.2, 116 och 133 i
+kapitaltäckningsdirektivet. Lag (2014:982).
 
-7 § Finansinspektionen skall i samarbete med behörig
+6 c § /Träder i kraft I:den dag regeringen bestämmer/
+Finansinspektionen får även hänskjuta sådana frågor som
+avses i 6 b § till Europeiska bankmyndigheten för
+tvistlösning i enlighet med artiklarna 41.2, 43.5, 50.4 och
+51.2 i kapitaltäckningsdirektivet. Lag (2014:982).
+
+7 § /Upphör att gälla U:den dag regeringen bestämmer/
+Finansinspektionen skall i samarbete med behörig
 hemlandsmyndighet utöva tillsyn över att likviditeten är
 tillfredsställande i en här i landet inrättad filial till ett
 utländskt kreditinstitut som avses i 4 kap. 1 §.
@@ -2205,6 +2279,13 @@ Efter anmälan till Finansinspektionen kan en behörig myndighet
 i ett annat land inom EES genomföra en undersökning hos
 filialen och hos en filial till ett sådant företag som avses i
 4 kap. 3 §.
+
+7 § /Träder i kraft I:den dag regeringen bestämmer/
+Efter anmälan till Finansinspektionen kan en behörig
+myndighet i ett annat land inom EES genomföra en undersökning
+hos en i Sverige inrättad filial till utländskt
+kreditinstitut som avses i 4 kap. 1 § och hos en filial till
+ett sådant företag som avses i 4 kap. 3 §. Lag (2014:982).
 
 8 § Finansinspektionen skall lämna de uppgifter som en behörig
 myndighet i ett annat land inom EES behöver för sin tillsyn
@@ -2256,13 +2337,14 @@ Upprättande av särskild balansräkning
 11 § Styrelsen i en sparbank, en medlemsbank eller i en
 kreditmarknadsförening är skyldig att genast låta upprätta en
 särskild balansräkning, om det finns skäl att anta att
-institutet inte kan uppfylla kravet på kapitaltäckning enligt
-lagen (2006:1371) om kapitaltäckning och stora exponeringar.
+institutet inte kan uppfylla kapitalbaskravet enligt 2 kap.
+1 § lagen (2014:968) om särskild tillsyn över kreditinstitut
+och värdepappersbolag.
 
-Balansräkningen skall granskas av institutets revisor. Om
-granskningen visar att kravet inte är uppfyllt, skall
+Balansräkningen ska granskas av institutets revisor. Om
+granskningen visar att kravet inte är uppfyllt, ska
 institutets styrelse genast underrätta Finansinspektionen.
-Lag (2006:1387).
+Lag (2014:982).
 
 Sammankallande av styrelse eller stämma
 
@@ -2322,14 +2404,7 @@ upplysningar om stiftelsen som inspektionen begär.
 
 Avgifter till Finansinspektionen
 
-16 § /Upphör att gälla U:2014-08-01/
-Kreditinstitut och utländska kreditinstitut med filial här
-i landet skall med årliga avgifter bekosta Finansinspektionens
-verksamhet. Detsamma gäller sådana företag som avses i 4 kap.
-3 § och som har filial här i landet.
-
-16 § /Upphör att gälla U:2014-08-01/
-Kreditinstitut och utländska kreditinstitut med filial
+16 § Kreditinstitut och utländska kreditinstitut med filial
 här i landet ska med årliga avgifter bekosta
 Finansinspektionens verksamhet samt Statistiska centralbyråns
 verksamhet enligt lagen (2014:484) om en databas för
@@ -2379,7 +2454,8 @@ styrelsen för kreditinstitutet eller vara verkställande
 direktör i det, eller vara ersättare för någon av dem, har
 tillräcklig insikt och erfarenhet för att delta i ledningen
 av ett kreditinstitut och även i övrigt är lämplig för en
-sådan uppgift,
+sådan uppgift samt om styrelsen i sin helhet har tillräckliga
+kunskaper och erfarenheter för att leda institutet,
 
 2. om det finns skäl att anta att förvärvaren kommer att
 motverka att kreditinstitutets rörelse drivs på ett sätt som
@@ -2402,15 +2478,15 @@ Om förvärvaren är ett finansiellt holdingföretag eller ett
 blandat finansiellt holdingföretag ska det vid bedömningen av
 förvärvarens anseende särskilt beaktas om dess ledning
 uppfyller de krav som ställs på ledningen i ett sådant
-företag enligt 9 kap. 13 § lagen (2006:1371) om
-kapitaltäckning och stora exponeringar respektive 5 kap. 16 §
-lagen (2006:531) om särskild tillsyn över finansiella
-konglomerat.
+företag enligt 3 kap. 5 § lagen (2014:968) om särskild
+tillsyn över kreditinstitut och värdepappersbolag respektive
+5 kap. 16 § lagen (2006:531) om särskild tillsyn över
+finansiella konglomerat.
 
 Om förvärvet skulle leda till nära förbindelser mellan
 kreditinstitutet och någon annan, får tillstånd ges bara om
 förbindelserna inte hindrar en effektiv tillsyn av
-institutet. Lag (2009:361).
+institutet. Lag (2014:982).
 
 2 a § Frågan om tillstånd enligt 2 § får avgöras först efter
 samråd med behörig myndighet i ett annat land inom EES om
@@ -2491,10 +2567,10 @@ brottslighet,
 3. om innehavaren är ett finansiellt holdingföretag eller ett
 blandat finansiellt holdingföretag och dess ledning inte
 uppfyller de krav som ställs på ledningen i ett sådant
-företag enligt 9 kap. 13 § lagen (2006:1371) om
-kapitaltäckning och stora exponeringar respektive 5 kap. 16 §
-lagen (2006:531) om särskild tillsyn över finansiella
-konglomerat, eller
+företag enligt 3 kap. 5 § lagen (2014:968) om särskild
+tillsyn över kreditinstitut och värdepappersbolag respektive
+5 kap. 16 § lagen (2006:531) om särskild tillsyn över
+finansiella konglomerat, eller
 
 4. om det finns skäl att anta att innehavet har samband med
 eller kan öka risken för
@@ -2517,7 +2593,7 @@ den del de omfattas av ett krav på tillstånd.
 Om någon i strid med ett beslut av Finansinspektionen har ett
 kvalificerat innehav av aktier eller andelar, får innehavaren
 inte företräda aktierna eller andelarna vid stämman till den
-del innehavet står i strid med beslutet. Lag (2009:361).
+del innehavet står i strid med beslutet. Lag (2014:982).
 
 7 § Finansinspektionen får förelägga en ägare som avses i 6 §
 första stycket att avyttra så stor del av aktierna eller
@@ -2557,51 +2633,95 @@ Finansinspektionen får även besluta att den eller de som
 omfattas av ett beslut enligt första stycket inte får företräda
 aktierna eller andelarna vid stämman. I så fall skall
 bestämmelserna i 9 § tillämpas.
+
 15 kap. Ingripanden
 
 Ingripande mot kreditinstitut
 
 1 § Om ett kreditinstitut har åsidosatt sina skyldigheter
-enligt denna lag, andra författningar som reglerar institutets
-verksamhet, institutets bolagsordning, stadgar eller reglemente
-eller interna instruktioner som har sin grund i författningar
-som reglerar institutets verksamhet, skall Finansinspektionen
-ingripa.
-Ingripande sker genom utfärdande av föreläggande att inom viss
-tid begränsa rörelsen i något avseende, minska riskerna i den
-eller vidta någon annan åtgärd för att komma till rätta med
-situationen, förbud att verkställa beslut eller genom
-anmärkning. Om överträdelsen är allvarlig skall
-kreditinstitutets tillstånd återkallas eller, om det är
-tillräckligt, varning meddelas.
+enligt denna lag, andra författningar som reglerar
+institutets verksamhet, institutets bolagsordning, stadgar
+eller reglemente eller interna instruktioner som har sin
+grund i författningar som reglerar institutets verksamhet,
+ska Finansinspektionen ingripa.
 
-Finansinspektionen får avstå från ingripande om en överträdelse
-är ringa eller ursäktlig, om institutet gör rättelse eller om
-någon annan myndighet har vidtagit åtgärder mot institutet och
-dessa åtgärder bedöms tillräckliga. Lag (2006:1387).
+Finansinspektionen ska då utfärda ett föreläggande att inom
+viss tid begränsa eller minska riskerna i rörelsen i något
+avseende, begränsa eller helt underlåta utdelning eller
+räntebetalningar eller vidta någon annan åtgärd för att komma
+till rätta med situationen, meddela ett förbud att verkställa
+beslut eller genom att göra en anmärkning. Om överträdelsen
+är allvarlig ska kreditinstitutets tillstånd återkallas
+eller, om det är tillräckligt, varning meddelas.
 
-2 § Om någon som ingår i ett kreditinstituts styrelse eller är
-dess verkställande direktör inte uppfyller de krav som anges i
-3 kap. 2 § 4, skall Finansinspektionen återkalla institutets
-tillstånd. Det får dock ske bara om inspektionen först beslutat
-att anmärka på att personen ingår i styrelsen eller är
-verkställande direktör och om han eller hon, sedan en av
-inspektionen bestämd tid om högst tre månader har gått,
-fortfarande finns kvar i styrelsen eller som verkställande
-direktör.
+Finansinspektionen ska även ingripa genom att utfärda ett
+föreläggande i enlighet med andra stycket, om det är
+sannolikt att ett kreditinstitut inom tolv månader inte
+längre kommer att uppfylla sina skyldigheter enligt denna lag
+eller andra författningar som reglerar institutets
+verksamhet. Lag (2014:982).
 
-I stället för att återkalla tillståndet, får Finansinspektionen
-besluta att en styrelseledamot eller verkställande direktör
-inte längre får vara det. Finansinspektionen får då förordna en
-ersättare. Ersättarens uppdrag gäller till dess institutet
-utsett en ny styrelseledamot eller verkställande direktör.
+1 a § Vid valet av sanktion ska Finansinspektionen ta hänsyn
+till hur allvarlig överträdelsen är och hur länge den pågått.
+Särskild hänsyn ska tas till överträdelsens art,
+överträdelsens konkreta och potentiella effekter på det
+finansiella systemet, skador som uppstått och graden av
+ansvar.
 
-3 § Finansinspektionen skall återkalla ett kreditinstituts
+Finansinspektionen får avstå från ingripande om en
+överträdelse är ringa eller ursäktlig, om kreditinstitutet
+gör rättelse eller om någon annan myndighet har vidtagit
+åtgärder mot institutet och dessa åtgärder bedöms
+tillräckliga. Lag (2014:982).
+
+1 b § Utöver det som anges i 1 a § ska i försvårande riktning
+beaktas om kreditinstitutet tidigare har begått en
+överträdelse. Vid denna bedömning bör särskild vikt fästas
+vid om överträdelserna är likartade och den tid som har gått
+mellan de olika överträdelserna.
+
+I förmildrande riktning ska beaktas om institutet
+
+1. i väsentlig mån genom ett aktivt samarbete har underlättat
+Finansinspektionens utredning, och
+
+2. snabbt upphört med överträdelsen sedan den anmälts till
+eller påtalats av Finansinspektionen. Lag (2014:982).
+
+1 c § I lagen (2014:968) om särskild tillsyn över
+kreditinstitut och värdepappersbolag finns bestämmelser om
+möjlighet att ingripa genom beslut om särskilt kapitalbaskrav
+och särskilt likviditetskrav.
+
+I lagen (2014:966) om kapitalbuffertar finns bestämmelser om
+ingripande mot ett kreditinstitut som inte uppfyller
+kapitalbaskraven enligt den lagen. Lag (2014:982).
+
+2 § Om någon som ingår i ett kreditinstituts styrelse eller
+är dess verkställande direktör inte uppfyller de krav som
+anges i 3 kap. 2 § 4, ska Finansinspektionen återkalla
+institutets tillstånd. Det får dock ske bara om inspektionen
+först beslutat att anmärka på personen eller personerna och
+om denne eller dessa, sedan en av inspektionen bestämd tid om
+högst tre månader har gått, fortfarande finns kvar i
+styrelsen eller som verkställande direktör
+
+Första stycket gäller också om styrelsen i sin helhet inte
+uppfyller de krav som anges i 3 kap. 2 § 5.
+
+I stället för att återkalla tillståndet, får
+Finansinspektionen besluta att en styrelseledamot eller
+verkställande direktör inte längre får vara det.
+Finansinspektionen får då förordna en ersättare. Ersättarens
+uppdrag gäller till dess institutet utsett en ny
+styrelseledamot eller verkställande direktör. Lag (2014:982).
+
+3 § Finansinspektionen ska återkalla ett kreditinstituts
 tillstånd om institutet
 
-1. inte har anmälts för registrering inom föreskriven tid eller
-anmälan har avskrivits eller avslagits genom ett beslut som har
-vunnit laga kraft,
+1. inte har anmälts för registrering inom föreskriven tid
+eller anmälan har avskrivits eller avslagits genom ett beslut
+som har vunnit laga kraft,
 
 2. inte inom ett år från det tillstånd beviljades har börjat
 driva sådan rörelse som tillståndet avser,
@@ -2611,13 +2731,16 @@ driva sådan rörelse som tillståndet avser,
 4. har överlåtit hela sin rörelse,
 
 5. under en sammanhängande tid av sex månader inte har drivit
-sådan rörelse som tillståndet avser, eller
+sådan rörelse som tillståndet avser,
 
-6. försatts i konkurs eller om beslut fattats om att institutet
-skall träda i tvångslikvidation.
+6. försatts i konkurs eller om beslut fattats om att
+institutet ska träda i tvångslikvidation, eller
 
-I fall som avses i första stycket 2 och 5 får i stället varning
-meddelas om det är tillräckligt. Lag (2005:1055).
+7. har fått tillståndet genom att lämna falska uppgifter
+eller på något annat otillbörligt sätt.
+
+I fall som avses i första stycket 2, 5 och 7 får i stället
+varning meddelas, om det är tillräckligt. Lag (2014:982).
 
 4 § Om tillståndet återkallas får Finansinspektionen bestämma
 hur avvecklingen av rörelsen skall ske.
@@ -2625,75 +2748,88 @@ hur avvecklingen av rörelsen skall ske.
 Ett beslut om återkallelse får förenas med förbud att fortsätta
 rörelsen.
 
-5 § Har Finansinspektionen av en behörig myndighet underrättats
-om att ett svenskt kreditinstitut överträtt föreskrifter som
-gäller i det landet för sådana institut, skall inspektionen
-vidta de åtgärder som anges i 1-4 §§ mot institutet, om det
-föreligger någon omständighet som avses där. Inspektionen skall
-underrätta den behöriga myndigheten om vilka åtgärder som
-vidtas.
+5 § Har Finansinspektionen av en behörig myndighet
+underrättats om att ett svenskt kreditinstitut överträtt
+föreskrifter som gäller i det landet för sådana institut, ska
+inspektionen genast vidta de åtgärder som anges i 14 §§ mot
+institutet, om det föreligger någon omständighet som avses
+där. Inspektionen ska genast underrätta den behöriga
+myndigheten om vilka åtgärder som vidtas. Lag (2014:982).
 
 6 § Har upphävts genom lag (2013:455).
 
-Straffavgift
+Sanktionsavgift
 
 7 § Om ett kreditinstitut har meddelats beslut om anmärkning
-eller varning enligt 1 §, får Finansinspektionen besluta att
-institutet ska betala en straffavgift.
+eller varning enligt 1 § eller varning enligt 3 § första
+stycket 7 jämfört med andra stycket, får Finansinspektionen
+besluta att institutet ska betala en sanktionsavgift.
 
-Avgiften tillfaller staten. Lag (2013:455).
+Avgiften tillfaller staten. Lag (2014:982).
 
-8 § Straffavgiften skall fastställas till lägst femtusen kronor
-och högst femtio miljoner kronor.
+8 § Sanktionsavgiften ska fastställas till högst
 
-Avgiften får inte överstiga tio procent av kreditinstitutets
-omsättning närmast föregående räkenskapsår. Om överträdelsen
-har skett under institutets första verksamhetsår eller om
-uppgifter om omsättningen annars saknas eller är bristfälliga,
-får den uppskattas.
+1. tio procent av kreditinstitutets omsättning närmast
+föregående räkenskapsår,
+
+2. två gånger den vinst som erhållits till följd av
+regelöverträdelsen, om beloppet går att fastställa, eller
+
+3. två gånger de kostnader som undvikits till följd av
+regelöverträdelsen, om beloppet går att fastställa.
+
+Sanktionsavgiften får inte bestämmas till ett lägre belopp än
+5 000 kronor. Om överträdelsen har skett under institutets
+första verksamhetsår eller om uppgifter om omsättningen
+annars saknas eller är bristfälliga, får den uppskattas.
 
 Avgiften får inte vara så stor att institutet därefter inte
-uppfyller kraven enligt 6 kap. 1 §.
+uppfyller kraven enligt 6 kap. 1 §. Lag (2014:982).
 
-9 § När straffavgiftens storlek fastställs, skall särskild
-hänsyn tas till hur allvarlig den överträdelse är som föranlett
-anmärkningen eller varningen och hur länge överträdelsen har
-pågått.
+9 § När sanktionsavgiftens storlek fastställs, ska särskild
+hänsyn tas till sådana omständigheter som anges i 1 a och
+1 b §§ samt till institutets finansiella ställning och, om
+det går att fastställa, den vinst som institutet erhållit
+till följd av regelöverträdelsen eller de kostnader som
+undvikits. Lag (2014:982).
 
 Förseningsavgift
 
 10 § Om ett kreditinstitut underlåter att i tid lämna de
-upplysningar som föreskrivits med stöd av 16 kap. 1 § 5, får
-Finansinspektionen besluta att institutet skall betala en
-förseningsavgift med högst 100 000 kronor.
+upplysningar som föreskrivits med stöd av 16 kap. 1 § första
+stycket 7, får Finansinspektionen besluta att institutet ska
+betala en förseningsavgift med högst 100 000 kronor.
 
-Avgiften tillfaller staten. Lag (2005:197).
+Avgiften tillfaller staten. Lag (2014:982).
 
-Verkställighet av beslut om straffavgift och förseningsavgift
+Verkställighet av beslut om sanktionsavgift och
+förseningsavgift
 
-11 § Straffavgiften eller förseningsavgiften skall betalas till
-Finansinspektionen inom trettio dagar efter det att beslutet om
-den vunnit laga kraft eller den längre tid som anges i
-beslutet.
+11 § Sanktionsavgiften eller förseningsavgiften ska betalas
+till Finansinspektionen inom trettio dagar efter det att
+beslutet om den vunnit laga kraft eller den längre tid som
+anges i beslutet. Lag (2014:982).
 
-12 § Finansinspektionens beslut att påföra straffavgift eller
-förseningsavgift får verkställas utan föregående dom eller
-utslag om avgiften inte har betalts inom den tid som anges i
-11 §.
+12 § Finansinspektionens beslut att påföra sanktionsavgift
+eller förseningsavgift får verkställas utan föregående dom
+eller utslag om avgiften inte har betalts inom den tid som
+anges i 11 §. Lag (2014:982).
 
-13 § Om straffavgiften eller förseningsavgiften inte betalas
-inom den tid som anges i 11 §, skall Finansinspektionen lämna
-den obetalda avgiften för indrivning. Bestämmelser om
+13 § Om sanktionsavgiften eller förseningsavgiften inte
+betalas inom den tid som anges i 11 §, ska Finansinspektionen
+lämna den obetalda avgiften för indrivning. Bestämmelser om
 indrivning av statliga fordringar finns i lagen (1993:891) om
-indrivning av statliga fordringar m.m.
+indrivning av statliga fordringar m.m. Lag (2014:982).
 
-14 § En straffavgift eller förseningsavgift som påförts faller
-bort i den utsträckning verkställighet inte har skett inom fem
-år från det att beslutet vann laga kraft.
+14 § En sanktionsavgift eller förseningsavgift som påförts
+faller bort i den utsträckning verkställighet inte har skett
+inom fem år från det att beslutet vann laga kraft.
+Lag (2014:982).
 
 Ingripande mot utländska kreditinstitut och andra företag
 
-15 § Finansinspektionen får förelägga ett institut eller ett
+15 § /Upphör att gälla U:den dag regeringen bestämmer/
+Finansinspektionen får förelägga ett institut eller ett
 företag, som tillhör någon av följande kategorier att göra
 rättelse om det inte driver sin rörelse enligt de bestämmelser
 som avses i 1 §, nämligen
@@ -2715,6 +2851,23 @@ behöriga myndigheten i företagets hemland. I brådskande fall
 får inspektionen meddela förbud utan föregående underrättelse
 till hemlandsmyndigheten. Denna skall då underrättas så snart
 det kan ske.
+
+15 § /Träder i kraft I:den dag regeringen bestämmer/
+Om ett utländskt kreditinstitut som driver verksamhet i
+Sverige enligt 4 kap. 1, 2 eller 3 § inte driver sin
+verksamhet i enlighet med de bestämmelser som avses i 1 §
+eller om det finns en väsentlig risk för att bestämmelserna
+inte följs, ska Finansinspektionen underrätta den behöriga
+myndigheten i institutets hemland.
+
+I brådskande fall får inspektionen, i avvaktan på åtgärder
+som vidtas av hemlandets behöriga myndigheter, själv vidta
+åtgärder mot institutet i syfte att värna den finansiella
+stabiliteten i Sverige. Åtgärderna ska stå i proportion till
+syftet och upphöra så snart de inte längre behövs eller
+hemmedlemsstatens myndigheter vidtar en sådan
+rekonstruktionsåtgärd som avses i artikel 3 i direktiv
+2001/24/EG. Lag (2014:982).
 
 16 § Om ett kreditinstitut som driver verksamhet här enligt 4
 kap. 1 eller 2 §, har fått sitt verksamhetstillstånd återkallat
@@ -2807,28 +2960,37 @@ enligt denna lag, får inspektionen förelägga vite.
 får meddela föreskrifter om
 
 1. vilken information ett kreditinstitut ska lämna till sina
-kunder eller till dem som institutet erbjuder sina tjänster,
+kunder eller till dem som institutet erbjuder sina
+tjänster,
 
-2. vilka poster som får räknas in i startkapitalet enligt 3
+2. de krav som ska gälla för deltagande i
+ledningen av ett kreditinstitut enligt 3 kap. 2 § första
+stycket 4 och 5 och 14 kap. 2 § andra stycket 1,
+
+3. vilka poster som får räknas in i startkapitalet enligt 3
 kap. 57 §§,
 
-3. vilka åtgärder som ett kreditinstitut ska vidta för att
+4. vilka åtgärder som ett kreditinstitut ska vidta för att
 uppfylla de krav på soliditet och likviditet, riskhantering,
 genomlysning, system för hantering av uppgifter om insättare
 och deras insättningar, sundhet samt riktlinjer och
 instruktioner som avses i 6 kap. 15 §§,
 
-4. vilka begränsningar som gäller när ett bankaktiebolag eller
-ett kreditmarknadsbolag tar emot egna aktier eller aktier i
-sitt moderbolag som pant enligt 10 kap. 12 §,
+5. kreditinstituts mångfaldspolicy vid tillsättandet av
+styrelse samt resurser för introduktion och utbildning av
+styrelseledamöter,
 
-5. vilka upplysningar som ett kreditinstitut och sådana
-utländska kreditinstitut som har inrättat filial enligt 4 kap.
-4 § ska lämna till Finansinspektionen för dess
-tillsynsverksamhet, och
+6. vilka begränsningar som gäller när ett bankaktiebolag
+eller ett kreditmarknadsbolag tar emot egna aktier eller
+aktier i sitt moderbolag som pant enligt 10 kap. 12 §,
 
-6. sådana avgifter för tillsyn som avses i 13 kap. 16 §.
-Lag (2011:830).
+7. vilka upplysningar som ett kreditinstitut och sådana
+utländska kreditinstitut som inrättat filial i Sverige ska
+lämna till Finansinspektionen för dess tillsynsverksamhet,
+och
+
+8. sådana avgifter för tillsyn som avses i 13 kap. 16 §.
+Lag (2014:982).
 
 2 § Regeringen får meddela föreskrifter om handläggningen av
 tillståndsärenden enligt 14 kap. 1, 2 och 2 b §§.
@@ -2983,3 +3145,12 @@ till Bolagsverket före ikraftträdandet.
 
 2. Äldre bestämmelser gäller för ärenden som har kommit in
 till Finansinspektionen före ikraftträdandet.
+
+2014:982
+
+1. Denna lag träder i kraft den dag regeringen bestämmer i
+fråga om 13 kap. 6 c och 7 §§ samt 15 kap. 15 § och i övrigt
+den 2 augusti 2014.
+
+2. Äldre föreskrifter gäller för överträdelser som inträffat
+före ikraftträdandet.
