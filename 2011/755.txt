@@ -1,5 +1,3 @@
-
-
 1 kap. Tillämpningsområde och definitioner
 
 Lagens tillämpningsområde
@@ -141,7 +139,7 @@ har rätt att ge ut elektroniska pengar, och
 6. filialer till kreditinstitut från länder utanför EES.
 
 Särskilda bestämmelser om utländska företag finns i 3 kap.
-2628 §§.
+26–28 §§.
 
 3 § En svensk juridisk person får ansöka hos
 Finansinspektionen om att undantas från tillståndsplikt enligt
@@ -222,9 +220,9 @@ lämplig för en sådan uppgift och har tillräcklig insikt och
 erfarenhet.
 
 I fråga om europabolag och europakooperativ som har ett sådant
-förvaltningssystem som avses i artiklarna 3942 i rådets
+förvaltningssystem som avses i artiklarna 39–42 i rådets
 förordning (EG) nr 2157/2001 av den 8 oktober 2001 om stadga
-för europabolag eller artiklarna 3741 i rådets förordning
+för europabolag eller artiklarna 37–41 i rådets förordning
 (EG) nr 1435/2003 av den 22 juli 2003 om stadga för europeiska
 kooperativa föreningar (SCE-föreningar) ska bestämmelserna som
 avser styrelsen i första stycket 4 om lämplighetsprövning
@@ -282,10 +280,11 @@ Institutets kapitalbas får inte underskrida det högsta av
 dessa belopp.
 
 Vid beräkningen av kapitalbasen och dess sammansättning ska
-3 kap. lagen (2006:1371) om kapitaltäckning och stora
-exponeringar och de föreskrifter som har meddelats med stöd
-av 13 kap. 1 § 6 den lagen tillämpas. Därutöver gäller
-följande vid beräkningen:
+Europaparlamentets och rådets förordning (EU) nr 575/2013 av
+den 26 juni 2013 om tillsynskrav för kreditinstitut och
+värdepappersföretag och om ändring av förordning (EU) nr
+648/2012 tillämpas. Därutöver gäller följande vid
+beräkningen:
 
 1. Ett institut för elektroniska pengar som tillhör samma
 grupp som ett annat institut för elektroniska pengar, eller
@@ -304,7 +303,7 @@ beräkningen av kapitalbasen i den andra verksamheten.
 redovisningsvaluta får kapitalbasen inte understiga det
 högsta av de belopp som följer av 6 och 7 §§ lagen (2000:35)
 om byte av redovisningsvaluta i finansiella företag.
-Lag (2013:584).
+Lag (2014:989).
 
 3 § Kapitalkravet uppgår till två procent av genomsnittligt
 utestående skulder hänförliga till elektroniska pengar.
@@ -362,7 +361,7 @@ för betalningstransaktioner.
 
 Ett institut för elektroniska pengar och en registrerad
 utgivare får i sin verksamhet med betaltjänster bevilja kredit
-för sådana betaltjänster som avses i 1 kap. 2 § 24 och 6
+för sådana betaltjänster som avses i 1 kap. 2 § 2–4 och 6
 lagen (2010:751) om betaltjänster om
 
 1. krediten endast utnyttjas i samband med genomförande av en
@@ -427,15 +426,13 @@ Bevarande av uppgifter
 
 9 § Ett institut för elektroniska pengar ska bevara samtliga
 relevanta uppgifter som rör sådana förhållanden som regleras i
-2 kap. 1, 6 och 7 §§ samt 18, 1025 och 29 §§ i detta kapitel
+2 kap. 1, 6 och 7 §§ samt 1–8, 10–25 och 29 §§ i detta kapitel
 i minst fem år.
 
-/Rubriken träder i kraft I:2014-08-01/
 Arbetsordning och instruktioner om arbetsfördelningen mellan
 bolagsorganen
 
-9 a § /Träder i kraft I:2014-08-01/
-Skyldigheten enligt 8 kap. 46 a § aktiebolagslagen
+9 a § Skyldigheten enligt 8 kap. 46 a § aktiebolagslagen
 (2005:551) för styrelsen i ett publikt aktiebolag att årligen
 fastställa en skriftlig arbetsordning för sitt arbete gäller
 även för styrelsen i ett institut för elektroniska pengar
@@ -542,8 +539,8 @@ med förbudet, ska undersökningsledaren eller åklagaren besluta
 att förbudet ska upphöra.
 
 I fråga om europabolag och europakooperativ som har ett sådant
-förvaltningssystem som avses i artiklarna 3942 i rådets
-förordning (EG) nr 2157/2001 eller artiklarna 3741 i rådets
+förvaltningssystem som avses i artiklarna 39–42 i rådets
+förordning (EG) nr 2157/2001 eller artiklarna 37–41 i rådets
 förordning (EG) nr 1435/2003 ska det som anges om
 styrelseledamöter i första stycket tillämpas på ledamöter i
 tillsynsorganet.
@@ -735,7 +732,7 @@ sig i Sverige, och
 
 2. det finns skäl att anta att den planerade verksamheten
 kommer att drivas på ett sätt som är förenligt med 2 kap.
-6 och 7 §§ och 14 §§ detta kapitel.
+6 och 7 §§ och 1–4 §§ detta kapitel.
 
 Uppdragsavtal
 
@@ -840,8 +837,7 @@ behöriga myndigheten i det land där företaget har sitt säte om
 utgivare ska lämna Finansinspektionen de upplysningar om sin
 verksamhet som inspektionen begär.
 
-2 a § /Träder i kraft I:2014-08-01/
-Regeringen eller den myndighet som regeringen bestämmer
+2 a § Regeringen eller den myndighet som regeringen bestämmer
 meddelar föreskrifter om att vissa uppgifter som enligt 2 §
 ska lämnas till Finansinspektionen i stället ska lämnas till
 Statistiska centralbyrån. Lag (2014:495).
@@ -856,7 +852,7 @@ undersökning hos
 2. en registrerad utgivare, och
 
 3. utländska företag som ger ut elektroniska pengar i Sverige
-enligt 3 kap. 2628 §§.
+enligt 3 kap. 26–28 §§.
 
 Om det behövs för tillsynen av ett institut för elektroniska
 pengar eller en registrerad utgivare, får Finansinspektionen
@@ -923,13 +919,7 @@ ett företag som har en likartad förbindelse med institutet.
 
 Avgifter till Finansinspektionen
 
-7 § /Upphör att gälla U:2014-08-01/
-Institut för elektroniska pengar och registrerade utgivare
-ska med avgifter bidra till att täcka kostnaderna för
-Finansinspektionens verksamhet.
-
-7 § /Träder i kraft I:2014-08-01/
-Institut för elektroniska pengar och registrerade
+7 § Institut för elektroniska pengar och registrerade
 utgivare ska med avgifter bidra till att täcka kostnaderna
 för Finansinspektionens verksamhet samt Statistiska
 centralbyråns verksamhet enligt lagen (2014:484) om en
@@ -987,8 +977,8 @@ andra styckena gäller också en ställföreträdare för
 verkställande direktör.
 
 I fråga om europabolag och europakooperativ som har ett sådant
-förvaltningssystem som avses i artiklarna 3942 i rådets
-förordning (EG) nr 2157/2001 eller artiklarna 3741 i rådets
+förvaltningssystem som avses i artiklarna 39–42 i rådets
+förordning (EG) nr 2157/2001 eller artiklarna 37–41 i rådets
 förordning (EG) nr 1435/2003 ska bestämmelserna som avser
 styrelsen i första stycket om återkallelse av tillstånd
 tillämpas på tillsynsorganet.
@@ -1020,7 +1010,7 @@ utgivning av elektroniska pengar, eller
 att institutet ska gå i tvångslikvidation.
 
 Om det är tillräckligt får varning meddelas i stället för
-återkallelse i de fall som avses i första stycket 14.
+återkallelse i de fall som avses i första stycket 1–4.
 
 12 § Om tillståndet återkallas får Finansinspektionen besluta
 om hur avvecklingen av verksamheten ska ske.
@@ -1031,7 +1021,7 @@ fortsätta verksamheten.
 13 § Om en behörig myndighet i ett annat land har underrättat
 Finansinspektionen om att ett institut för elektroniska pengar
 har överträtt föreskrifter i det landet, ska inspektionen
-vidta de åtgärder som anges i  811 §§ mot institutet, om det
+vidta de åtgärder som anges i  8–11 §§ mot institutet, om det
 föreligger någon omständighet som anges där. Inspektionen ska
 underrätta den behöriga myndigheten om vilka åtgärder som
 vidtas.
@@ -1103,7 +1093,7 @@ Ingripande mot utländska företag
 
 21 § Finansinspektionen får förelägga ett utländskt företag
 som ger ut elektroniska pengar eller tillhandahåller
-betaltjänster i enlighet med 3 kap. 2628 §§ att göra rättelse
+betaltjänster i enlighet med 3 kap. 26–28 §§ att göra rättelse
 om utgivningen av elektroniska pengar eller tillhandahållandet
 av betaltjänster i Sverige inte bedrivs enligt gällande
 bestämmelser om åtgärder mot penningtvätt och finansiering av
@@ -1142,7 +1132,7 @@ utan föregående underrättelse till myndigheten i företagets
 hemland. Denna ska dock underrättas så snart det kan ske.
 
 22 § Om ett utländskt företag som driver verksamhet enligt
-3 kap. 2628 §§ har fått sitt verksamhetstillstånd indraget i
+3 kap. 26–28 §§ har fått sitt verksamhetstillstånd indraget i
 hemlandet, ska Finansinspektionen genast förbjuda företaget
 att ge ut elektroniska pengar eller påbörja nya
 betalningstransaktioner här i landet.
