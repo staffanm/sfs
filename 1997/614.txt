@@ -1,5 +1,3 @@
-
-
 1 kap. Inledande bestämmelser
 
 Lagens tillämpningsområde
@@ -256,7 +254,7 @@ ställningen vid räkenskapsårets slut.
 
 Årsredovisningens delar
 
-2 § Årsredovisningen skall bestå av
+2 § Årsredovisningen ska bestå av
 
 1. en förvaltningsberättelse,
 
@@ -264,15 +262,16 @@ ställningen vid räkenskapsårets slut.
 
 3. en balansräkning,
 
-4. en finansieringsanalys, och
+4. en kassaflödesanalys, och
 
 5. en sammanställd redovisning som omfattar även kommunal
-verksamhet som bedrivs genom annan juridisk person.
+verksamhet som bedrivs genom en annan juridisk person.
 
-Resultaträkningen, balansräkningen och finansieringsanalysen
-får kompletteras med upplysningar i noter. I så fall skall
+Resultaträkningen, balansräkningen och kassaflödesanalysen
+får kompletteras med upplysningar i noter. I så fall ska
 hänvisning göras vid de poster i resultaträkningen eller
-balansräkningen till vilka upplysningarna hänför sig.
+balansräkningen som upplysningarna hänför sig till.
+Lag (2014:560).
 
 Årsredovisningens form
 
@@ -442,65 +441,65 @@ Balansräkningen ska ställas upp i följande form.
 
 Tillgångar
 
-A. Anläggningstillgångar
+A.      Anläggningstillgångar
 
-I. Immateriella anläggningstillgångar
+I.      Immateriella anläggningstillgångar
 
-II. Materiella anläggningstillgångar
+II.     Materiella anläggningstillgångar
 
-1. Mark, byggnader och tekniska anläggningar
+1.      Mark, byggnader och tekniska anläggningar
 
-2. Maskiner och inventarier
+2.      Maskiner och inventarier
 
-3. Övriga materiella anläggningstillgångar
+3.      Övriga materiella anläggningstillgångar
 
-III. Finansiella anläggningstillgångar
+III.    Finansiella anläggningstillgångar
 
-B. Bidrag till statlig infrastruktur
+B.      Bidrag till infrastruktur
 
-C. Omsättningstillgångar
+C.      Omsättningstillgångar
 
-I. Förråd m.m.
+I.      Förråd m.m.
 
-II. Fordringar
+II.     Fordringar
 
-III. Kortfristiga placeringar
+III.    Kortfristiga placeringar
 
-IV. Kassa och bank
+IV.     Kassa och bank
 
 Eget kapital, avsättningar och skulder
 
-A. Eget kapital
+A.      Eget kapital
 
-I. Årets resultat
+I.      Årets resultat
 
-II. Resultatutjämningsreserv
+II.     Resultatutjämningsreserv
 
-III. Övrigt eget kapital
+III.    Övrigt eget kapital
 
-B. Avsättningar
+B.      Avsättningar
 
-I. Avsättningar för pensioner och liknande förpliktelser
+I.      Avsättningar för pensioner och liknande förpliktelser
 
-II. Andra avsättningar
+II.     Andra avsättningar
 
-C. Skulder
+C.      Skulder
 
-I. Långfristiga skulder
+I.      Långfristiga skulder
 
-II. Kortfristiga skulder
+II.     Kortfristiga skulder
 
 Panter och ansvarsförbindelser
 
-1. Panter och därmed jämförliga säkerheter
+1.      Panter och därmed jämförliga säkerheter
 
-2. Ansvarsförbindelser
+2.      Ansvarsförbindelser
 
-a) Pensionsförpliktelser som inte har upptagits bland
+        a)      Pensionsförpliktelser som inte har upptagits bland
 skulderna eller avsättningarna
 
-b) Övriga ansvarsförbindelser
-Lag (2012:799).
+        b)      Övriga ansvarsförbindelser
+Lag (2014:568).
 
 Postindelningen i resultat- och balansräkningarna
 
@@ -547,13 +546,14 @@ Om det finns särskilda skäl och är förenligt med god
 redovisningssed, behöver omräkning eller ändring enligt andra
 stycket inte göras. Skälen för detta skall anges i en not.
 
-Bidrag till statlig infrastruktur
+Bidrag till infrastruktur
 
 7 § Efter kommunens eller landstingets beslut ska sådana
-bidrag som avses i 2 kap. 1 § lagen (2009:47) om vissa
-kommunala befogenheter tas upp i balansräkningen under posten
-Bidrag till statlig infrastruktur eller redovisas som en
-kostnad i resultaträkningen.
+bidrag som avses i 2 kap. 1 § och sådana bidrag till
+inrättande av forskningsinfrastruktur som avses i 2 § andra
+stycket lagen (2009:47) om vissa kommunala befogenheter tas
+upp i balansräkningen under posten Bidrag till infrastruktur
+eller redovisas som en kostnad i resultaträkningen.
 
 Varje bidrag som redovisas i balansräkningen ska upplösas med
 årliga enhetliga belopp under högst 25 år. Upplösningen ska
@@ -566,7 +566,7 @@ varje projekt anges det sammanlagda beloppet och vad bidraget
 avser. Därutöver ska i not till balansräkningen anges den
 valda tiden för bidragets upplösning, hur mycket av bidraget
 som upplösts och i balansräkningen upptaget belopp.
-Lag (2009:1319).
+Lag (2014:568).
 
 6 kap. Värdering
 
@@ -715,10 +715,11 @@ kronor.
 
 Uppgifter enligt första och andra styckena får lämnas i not.
 
-7 kap. Finansieringsanalys
+7 kap. Kassaflödesanalys
 
-1 § I finansieringsanalysen skall kommunens eller landstingets
-finansiering och investeringar under räkenskapsåret redovisas.
+1 § I kassaflödesanalysen ska kommunens eller landstingets
+in- och utbetalningar under räkenskapsåret redovisas.
+Lag (2014:560).
 
 8 kap. Sammanställd redovisning
 
@@ -832,6 +833,13 @@ första gången avseende räkenskapsåret 2005.
 Denna lag träder i kraft den 1 januari 2010 och tillämpas i
 fråga om bidrag till statlig infrastruktur som har beslutats
 efter den 28 februari 2009.
+
+2014:560
+
+1. Denna lag träder i kraft den 1 augusti 2014.
+
+2. Äldre föreskrifter får tillämpas för det räkenskapsår som
+har inletts närmast före ikraftträdandet.
 
 
 Innehållsförteckning
