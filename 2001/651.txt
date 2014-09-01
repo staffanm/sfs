@@ -32,14 +32,26 @@ Cykelfält               Ett särskilt körfält som genom
                         vägmarkering anvisats för cyklande och
                         förare av moped klass II
 
-Cykelöverfart           En del av en väg som är avsedd att
-                        användas av cyklande eller förare av moped
-                        klass II för att korsa en körbana eller en
-                        cykelbana och som anges med vägmarkering.
+Cykelpassage            En del av en väg som är avsedd att
+                        användas av cyklande eller förare av
+                        moped klass II för att korsa en körbana
+                        eller en cykelbana och som kan anges
+                        med vägmarkering.
 
-                        En cykelöverfart är bevakad om trafiken
+                        En cykelpassage är bevakad om trafiken
                         regleras med trafiksignaler eller av en
                         polisman och i annat fall obevakad
+
+Cykelöverfart           En del av en väg som är avsedd att
+                        användas av cyklande eller förare av
+                        moped klass II för att korsa en körbana
+                        eller en cykelbana och som anges med
+                        vägmarkering och vägmärke.
+
+                        Vid en cykelöverfart ska trafikmiljön
+                        vara utformad så att det säkras att
+                        fordon inte förs med högre hastighet än
+                        30 kilometer i timmen.
 
 EG-motorfordon          Ett fordon som är avsett att användas på
                         väg, oavsett om det är färdigbyggt eller
@@ -275,7 +287,7 @@ fordonstillverkare      En fordonstillverkare som innehar ett
                         eller vägmärke. Ett övergångsställe är bevakat
                         om trafiken regleras med trafiksignaler eller
                         av en polisman och i annat fall obevakat
-Förordning (2012:299).
+Förordning (2014:1037).
 
 3 § Transportstyrelsen beslutar i frågor som avses i 3 § lagen
 (2001:559) om vägtrafikdefinitioner. Förordning (2008:1137).
