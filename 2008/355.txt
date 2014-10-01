@@ -1,5 +1,3 @@
-
-
 1 kap. Lagens tillämpningsområde m.m.
 
 Lagens tillämpningsområde
@@ -255,24 +253,33 @@ En patientjournals innehåll
 behövs för de ändamål som anges i 2 kap. 4 § första stycket 1
 och 2.
 
-6 § En patientjournal ska innehålla de uppgifter som behövs för en god och säker vård av patienten.
+6 § En patientjournal ska innehålla de uppgifter som behövs
+för en god och säker vård av patienten.
 
-Om uppgifterna finns tillgängliga, ska en patientjournal alltid innehålla
+Om uppgifterna finns tillgängliga, ska en patientjournal
+alltid innehålla
 
 1. uppgift om patientens identitet,
 
 2. väsentliga uppgifter om bakgrunden till vården,
 
-3. uppgift om ställd diagnos och anledning till mera betydande åtgärder,
+3. uppgift om ställd diagnos och anledning till mera
+betydande åtgärder,
 
 4. väsentliga uppgifter om vidtagna och planerade åtgärder,
 
-5. uppgift om den information som lämnats till patienten, dennes vårdnadshavare och övriga närstående och om de ställningstaganden som gjorts i fråga om val av behandlingsalternativ och om möjligheten till en ny medicinsk bedömning, samt
+5. uppgift om den information som lämnats till patienten,
+dennes vårdnadshavare och övriga närstående och om de
+ställningstaganden som gjorts i fråga om val av
+behandlingsalternativ och om möjligheten till en ny medicinsk
+bedömning, samt
 
-6. uppgift om att en patient har beslutat att avstå från viss vård eller behandling.
+6. uppgift om att en patient har beslutat att avstå från viss
+vård eller behandling.
 
-Patientjournalen ska vidare innehålla uppgift om vem som har gjort en viss anteckning i journalen och när anteckningen gjordes.
-Lag (2014:827).
+Patientjournalen ska vidare innehålla uppgift om vem som har
+gjort en viss anteckning i journalen och när anteckningen
+gjordes. Lag (2014:827).
 
 7 § Utöver vad som föreskrivs i 5 och 6 §§ får en
 patientjournal innehålla de uppgifter som enligt lag eller
@@ -534,16 +541,27 @@ vårdgivare ska kunna ta del av denna uppgift utan att ta del av
 uppgift om vilken vårdgivare som har gjort uppgiften
 tillgänglig och övriga uppgifters innehåll.
 
+2 a §  En vårdgivare får göra uppgifter om en patient som inte
+endast tillfälligt saknar förmåga att ta ställning enligt 2 §
+tillgängliga för de vårdgivare som är anslutna till systemet
+med sammanhållen journalföring, om
+
+1. patientens inställning till sådan personuppgiftsbehandling
+så långt som möjligt klarlagts, och
+
+2. det inte finns anledning att anta att patienten skulle ha
+motsatt sig personuppgiftsbehandlingen. Lag (2014:829).
+
 3 § För att en vårdgivare ska få behandla uppgifter som en
-annan vårdgivare gjort tillgängliga i systemet med sammanhållen
-journalföring enligt 2 § fjärde stycket krävs att
+annan vårdgivare gjort tillgängliga i systemet med
+sammanhållen journalföring enligt 2 § femte stycket krävs att
 
 1. uppgifterna rör en patient som det finns en aktuell
 patientrelation med,
 
-2. uppgifterna kan antas ha betydelse för att förebygga, utreda
-eller behandla sjukdomar och skador hos patienten inom hälso-
-och sjukvården, och
+2. uppgifterna kan antas ha betydelse för att förebygga,
+utreda eller behandla sjukdomar och skador hos patienten inom
+hälso- och sjukvården, och
 
 3. patienten samtycker till det.
 
@@ -561,7 +579,25 @@ För att en vårdgivare ska få behandla sådana uppgifter som en
 vårdnadshavare inte har rätt att spärra enligt 2 § fjärde
 stycket andra meningen krävs att förutsättningarna enligt
 första stycket 1 och 2 eller andra stycket 1 och 2 är
-uppfyllda.
+uppfyllda. Lag (2014:829).
+
+3 a § En vårdgivare får ta del av uppgift om vilken
+vårdgivare som har gjort uppgifter tillgängliga enligt 2
+eller 2 a §, om patienten inte endast tillfälligt saknar
+förmåga att lämna samtycke enligt 3 § första stycket 3.
+
+Vårdgivaren får även behandla de uppgifter som avses i 2
+eller 2 a §, om
+
+1. vårdgivaren bedömer att dessa kan antas ha betydelse för
+den vård som är nödvändig med hänsyn till patientens
+hälsotillstånd,
+
+2. patientens inställning till sådan personuppgiftsbehandling
+så långt som möjligt klarlagts, och
+
+3. det inte finns anledning att anta att patienten skulle ha
+motsatt sig personuppgiftsbehandlingen. Lag (2014:829).
 
 4 § Om det finns spärrade uppgifter om en patient och det
 föreligger fara för dennes liv eller det annars föreligger
@@ -586,8 +622,9 @@ behandla de ospärrade uppgifterna.
 
 5 § En vårdgivare får inte behandla en annan vårdgivares
 uppgifter om en patient i systemet med sammanhållen
-journalföring under andra förutsättningar än dem som anges i 3
-och 4 §§ även om patienten uttryckligen samtycker till det.
+journalföring under andra förutsättningar än dem som anges i
+3–4 §§, även om patienten uttryckligen samtycker till det.
+Lag (2014:829).
 
 Personuppgiftsansvar vid sammanhållen journalföring
 
@@ -638,6 +675,22 @@ regionalt kvalitetsregister, om den enskilde motsätter sig det.
 Om den enskilde motsätter sig personuppgiftsbehandlingen sedan
 den påbörjats, ska uppgifterna utplånas ur registret så snart
 som möjligt.
+
+2 a § För den enskilde som inte endast tillfälligt saknar
+förmåga att ta ställning enligt 2 § första stycket får
+personuppgifter behandlas i ett nationellt eller regionalt
+kvalitetsregister, om
+
+1. hans eller hennes inställning till sådan
+personuppgiftsbehandling så långt som möjligt klarlagts,
+och
+2. det inte finns anledning att anta att han eller hon
+skulle ha motsatt sig personuppgiftsbehandlingen.
+
+Personuppgifter i ett kvalitetsregister ska så snart som
+möjligt utplånas, om det efter att personuppgiftsbehandlingen
+har påbörjats finns anledning att anta att den enskilde
+skulle motsätta sig den. Lag (2014:829).
 
 Information
 
@@ -930,11 +983,11 @@ Prövningstillstånd krävs vid överklagande till kammarrätten.
 
 I fråga om överklagande av Inspektionen för vård och omsorgs
 beslut enligt 8 kap. 2 § andra stycket gäller i tillämpliga
-delar 6 kap. 711 §§ offentlighets- och sekretesslagen
+delar 6 kap. 7–11 §§ offentlighets- och sekretesslagen
 (2009:400).
 
 Vid sådan behandling av personuppgifter som avses i 1 kap. 4 §
-finns ytterligare bestämmelser om överklagande i 5153 §§
+finns ytterligare bestämmelser om överklagande i 51–53 §§
 personuppgiftslagen (1998:204).
 
 Övriga beslut enligt denna lag får inte överklagas.
