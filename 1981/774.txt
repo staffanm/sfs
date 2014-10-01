@@ -424,7 +424,9 @@ detta kapitel äga rum på grund av följande exekutionstitlar:
 
 1. domstols dom, utslag eller beslut,
 
-2. förlikning som är stadfäst av domstol,
+2. förlikning som är stadfäst av domstol och
+medlingsöverenskommelse som har förklarats verkställbar av
+domstol,
 
 3. godkänt strafföreläggande, godkänt föreläggande av
 ordningsbot eller godkänt avgiftsföreläggande,
@@ -433,8 +435,8 @@ ordningsbot eller godkänt avgiftsföreläggande,
 
 5. förbindelse angående underhållsbidrag,
 
-6. förvaltningsmyndighets beslut som enligt särskild föreskrift
-får verkställas,
+6. förvaltningsmyndighets beslut som enligt särskild
+föreskrift får verkställas,
 
 7. handling som enligt särskild föreskrift får läggas till
 grund för verkställighet, och
@@ -449,7 +451,7 @@ i tillämpliga delar även domstols utslag eller beslut,
 Kronofogdemyndighetens utslag eller beslut i mål om
 betalningsföreläggande eller handräckning samt europeiskt
 betalningsföreläggande som har förklarats verkställbart av
-Kronofogdemyndigheten. Lag (2008:881).
+Kronofogdemyndigheten. Lag (2011:862).
 
 2 § I vad mån verkställighet på grund av utländsk exekutionstitel får
 äga rum här i riket framgår av särskilda föreskrifter.
@@ -464,7 +466,7 @@ det kan ske, verkställas såsom lagakraftägande dom, om ej annat
 förordnas med anledning av den fullföljda talan.
 
 4 § Dom som ej har vunnit laga kraft får verkställas i fall och
-under villkor som anges i 5 9 §§.
+under villkor som anges i 59 §§.
 
 Bestämmelser om hinder mot att utmätt egendom säljs eller influtna
 medel betalas ut finns i 8 kap. 4 § samt 13 kap. 1 och 14 §§.
@@ -543,11 +545,14 @@ eller 23 i Europaparlamentets och rådets förordning (EG) nr
 1896/2006 av den 12 december 2006 om införande av ett
 europeiskt betalningsföreläggande. Lag (2008:881).
 
-Förlikning
+Förlikning och medlingsöverenskommelse
 
-13 § Förlikning som är stadfäst av domstol verkställs såsom
-lagakraftägande dom, om ej annat förordnas med anledning av talan mot
-domen eller talan om ogiltigförklaring av förlikningen.
+13 § Förlikning som är stadfäst av domstol och
+medlingsöverenskommelse som har förklarats verkställbar av
+domstol verkställs som lagakraftägande dom, om inte annat
+beslutas med anledning av talan mot domen eller beslutet eller
+talan om ogiltigförklaring av förlikningen eller
+medlingsöverenskommelsen. Lag (2011:862).
 
 Strafföreläggande, föreläggande av ordningsbot och
 avgiftsföreläggande
@@ -987,11 +992,11 @@ Utmätning av här i landet registrerat skepp eller luftfartyg,
 intecknade reservdelar till sådant luftfartyg eller fast
 egendom medför inte förmånsrätt förrän ärende angående
 anteckning om utmätningen tas upp på inskrivningsdag. Upptas på
-samma inskrivningsdag mer än ett sådant ärende, skall den
+samma inskrivningsdag mer än ett sådant ärende, ska den
 utmätning som skedde först ha företräde. Om här i landet
 registrerat skepp eller luftfartyg som har utmätts här blir
 utmätt i ett annat land innan det har tagits om hand av
-kronofogdemyndigheten, skall den rätt som har vunnits genom den
+kronofogdemyndigheten, ska den rätt som har vunnits genom den
 förra utmätningen gälla som panträtt.
 
 Utmätning av fast egendom eller av luftfartyg i vilket en
@@ -1010,11 +1015,11 @@ avser en panträtt i en rättighet som förvaltas enligt det
 kapitlet.
 
 Utmätning av ett elcertifikat eller en rättighet som är
-registrerad enligt lagen (2003:113) om elcertifikat medför
+registrerad enligt lagen (2011:1200) om elcertifikat medför
 förmånsrätt genom registrering av utmätningen enligt den lagen.
 Detsamma gäller för en utsläppsrätt eller en rätttighet som är
 registrerad enligt lagen (2004:1199) om handel med
-utsläppsrätter. Lag (2004:1202).
+utsläppsrätter. Lag (2011:1201).
 
 31 § Utmätning ger kronofogdemyndigheten rätt att vidtaga de åtgärder
 beträffande egendomen som behövs för att sökandens rätt skall tagas till
@@ -1219,7 +1224,7 @@ den intecknade egendomens ägare, ska pantbrevet eller
 inteckningshandlingen tas i förvar. Om beslutet om utmätning av
 pantbrev avser ett datapantbrev, ska Kronofogdemyndigheten
 begära att den statliga lantmäterimyndigheten beslutar att
-sådana registreringsåtgärder som anges i 7-8 §§ lagen
+sådana registreringsåtgärder som anges i 78 §§ lagen
 (1994:448) om pantbrevsregister inte får vidtas eller att den
 statliga lantmäterimyndigheten utfärdar ett skriftligt pantbrev
 enligt 8 § nämnda lag.
@@ -1240,11 +1245,11 @@ avser en panträtt i en rättighet som förvaltas enligt det
 kapitlet.
 
 Utmätning av ett elcertifikat eller en rättighet som är
-registrerad enligt lagen (2003:113) om elcertifikat ska
+registrerad enligt lagen (2011:1200) om elcertifikat ska
 säkerställas genom registrering av utmätningen enligt den
 lagen. Detsamma gäller vid utmätning av en utsläppsrätt eller
 en rättighet som är registrerad enligt lagen (2004:1199) om
-handel med utsläppsrätter. Lag (2008:542).
+handel med utsläppsrätter. Lag (2011:1201).
 
 3 § Utmäts annan fordran eller rättighet än som avses i 2 §, skall
 sekundogäldenären eller annan förpliktad meddelas förbud att fullgöra
@@ -1822,12 +1827,14 @@ Detta kapitel gäller ej sådan lös egendom som avses i 10 eller 11 kap.
 
 Försäljning på auktion
 
-2 § Auktion skall kungöras i god tid och på lämpligt sätt. Kan det
-förutses att sammanträde behöver hållas för fördelning av
-köpeskillingen, skall kungörelsen innehålla uppgift om sammanträdet.
+2 § En auktion ska kungöras i god tid och på lämpligt sätt.
+Om det kan förutses att ett sammanträde behöver hållas för
+fördelning av köpeskillingen, ska kungörelsen innehålla
+uppgift om sammanträdet.
 
-Sökanden, gäldenären och annan känd sakägare vars rätt beror av
-försäljningen skall i god tid underrättas särskilt.
+Sökanden, gäldenären och annan känd sakägare vars rätt berörs
+av försäljningen ska i god tid underrättas särskilt, om inte
+en underrättelse är uppenbart obehövlig. Lag (2014:151).
 
 3 § Vid auktionen skall kronofogdemyndigheten, när anledning föreligger,
 lämna en kortfattad redogörelse för vad som har förekommit i målet.
@@ -1835,59 +1842,65 @@ Vidare skall, när det finns anledning, borgenär som har rätt till
 betalning ur egendomen uppmanas att anmäla sin fordran samt villkoren
 för försäljningen anges.
 
-4 § Inrop får ej godtagas, om det är sannolikt att avsevärt högre
-köpeskilling kan uppnås.
+4 § Ett bud får inte godtas, om det är sannolikt att en
+avsevärt högre köpeskilling kan uppnås.
 
-Har tredje man handpanträtt eller retentionsrätt i utmätt egendom och
-skall denna säljas för fordran med sämre rätt, får försäljning ske
-endast om köpeskillingen förslår till betalning av tredje mannens
-fordran.
+Om en tredje man har handpanträtt eller retentionsrätt i
+utmätt egendom och egendomen ska säljas för fordran med sämre
+rätt, får försäljning ske endast om köpeskillingen räcker
+till betalning av tredje mannens fordran.
 
-Utan hinder av första och andra styckena skall inrop godtagas, om
-samtliga berörda sakägare medger det.
+Trots första och andra styckena ska ett bud godtas, om
+samtliga berörda sakägare medger det. Lag (2014:151).
 
-5 § Köpeskillingen för inropad egendom skall betalas genast.
-Kronofogdemyndigheten kan dock ge anstånd med betalningen utom i fråga
-om handpenning som myndigheten bestämmer. Egendomen skall hållas inne
-till dess full betalning sker.
+5 § Köpeskillingen för egendomen ska betalas genast efter det
+att ett bud har godtagits. Kronofogdemyndigheten får dock ge
+anstånd med betalningen utom i fråga om handpenning.
+Egendomen ska hållas inne till dess full betalning sker.
 
-Om köpeskillingen eller handpenning ej betalas genast efter inropet,
-skall egendomen ropas ut på nytt.
+Om köpeskillingen eller handpenning inte betalas genast efter
+det att budet har godtagits, ska egendomen bjudas ut på
+nytt.
 
-Har anstånd givits, blir inropet ogiltigt, om full betalning ej sker
-inom föreskriven tid.
+Om anstånd har getts, blir budet ogiltigt, om full betalning
+inte sker inom föreskriven tid. Lag (2014:151).
 
-6 § Sker ej inrop som godtas och fullföljs genom att köpeskillingen
-eller handpenning betalas genast, skall nytt försäljningsförsök göras,
-om ej sökanden avstår därifrån. Detsamma gäller, om inrop har blivit
+6 § Om det inte lämnas något bud som godtas och fullföljs
+genom att köpeskillingen eller handpenning betalas genast,
+ska ett nytt försäljningsförsök göras, om inte sökanden
+avstår från det. Detsamma gäller, om ett bud har blivit
 ogiltigt enligt 5 § tredje stycket.
 
-Har två auktioner hållits utan att egendomen har blivit såld och saknas
-anledning antaga att egendomen kan säljas inom rimlig tid, skall nytt
-försäljningsförsök ej göras.
+Om två auktioner har hållits utan att egendomen har blivit
+såld och det saknas anledning att anta att egendomen kan
+säljas inom rimlig tid, ska ett nytt försäljningsförsök inte
+göras.
 
-Om ny auktion skall hållas, gäller vad som sägs i 2-5 §§. Anmälan av
-fordran som har skett för en auktion gäller även för senare
-försäljningsförsök.
+Om en ny auktion ska hållas, gäller 25 §§. Anmälan av en
+fordran som har skett för en auktion gäller även för ett
+senare försäljningsförsök.
 
-Skall nytt försäljningsförsök ej göras, skall utmätningen hävas. Detta
-gäller dock ej medel som har influtit eller inflyter med anledning av
-redan vidtagna åtgärder.
+Om ett nytt försäljningsförsök inte ska göras, ska
+utmätningen hävas. Detta gäller dock inte medel som har
+influtit eller inflyter med anledning av redan vidtagna
+åtgärder. Lag (2014:151).
 
-7 § När ny auktion hålls sedan inrop har blivit ogiltigt enligt 5 §
-tredje stycket, skall handpenningen användas till betalning av
-förrättningskostnaderna för den förra auktionen och för vård och
-förvaltning av egendomen från det att inropet blev ogiltigt till dess
-att den nya auktionen ägde rum. Om köpeskillingen vid den nya auktionen
-understiger det bud som har antagits vid den förra, skall återstoden av
-handpenningen användas för att täcka skillnaden. Vad som ej behöver
-tagas i anspråk skall återlämnas när den nye inroparen har betalat
-köpeskillingen. Blir egendomen ej såld vid den nya auktionen, är hela
-handpenningen förverkad.
+7 § När en ny auktion hålls sedan ett bud har blivit ogiltigt
+enligt 5 § tredje stycket, ska handpenningen användas till
+betalning av förrättningskostnaderna för den förra auktionen
+och för vård och förvaltning av egendomen från det att budet
+blev ogiltigt till dess att den nya auktionen hålls. Om
+köpeskillingen vid den nya auktionen är lägre än det bud som
+har godtagits vid den förra, ska återstoden av handpenningen
+användas för att täcka skillnaden. Det som inte behöver tas i
+anspråk ska återlämnas när köpeskillingen vid den nya
+auktionen har betalats. Om inte egendomen blir såld vid den
+nya auktionen, är hela handpenningen förverkad.
 
-Hålls ej ny auktion, skall handpenningen användas till betalning av
-förrättningskostnader som har blivit onyttiga. Vad som ej behöver tagas
-i anspråk skall återlämnas.
+Om en ny auktion inte hålls, ska handpenningen användas till
+betalning av förrättningskostnader som inte har kommit till
+nytta. Det som inte behöver tas i anspråk ska återlämnas.
+Lag (2014:151).
 
 Försäljning under hand
 
