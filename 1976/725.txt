@@ -578,6 +578,12 @@ Pensionsmyndigheten
 Pensionsmyndighetens
 författningssamling             PFS
 
+Polismyndigheten
+
+Polismyndighetens
+författningssamling             PMFS            Utnyttjas också av
+                                                Säkerhetspolisen
+
 Post- och telestyrelsen
 
 Post- och telestyrelsens        PTFS
@@ -596,11 +602,6 @@ författningssamling
 Riksgäldskontoret
 
 Riksgäldskontorets              RGKFS
-författningssamling
-
-Rikspolisstyrelsen
-
-Rikspolisstyrelsens             RPSFS
 författningssamling
 
 Sametinget
@@ -766,7 +767,7 @@ författningssamling
 
 Åklagarmyndighetens             ÅFS
 författningssamling
-Förordning (2014:75).
+Förordning (2014:1124).
 
 Bilaga 2
 
