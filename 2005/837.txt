@@ -1,5 +1,3 @@
-
-
 AVDELNING I. ALLMÄNNA BESTÄMMELSER
 
 1 kap. Inledande bestämmelser
@@ -159,14 +157,15 @@ Tillsammans med en anmälan skall partiet lämna förklaringar
 enligt 4 § eller ett intyg om att sådana förklaringar har
 visats upp för notarius publicus.
 
-3 § En partibeteckning skall registreras om följande villkor är
+3 § En partibeteckning ska registreras om följande villkor är
 uppfyllda:
 
-1. Partibeteckningen skall bestå av eller innehålla ord.
+1. Partibeteckningen ska bestå av eller innehålla ord. Den
+får innehålla en partisymbol.
 
 2. Om ett parti inte redan är representerat i den beslutande
-församling som anmälan gäller, skall denna ha ett dokumenterat
-stöd av minst
+församling som anmälan gäller, ska anmälan ha ett
+dokumenterat stöd av minst
 
 a) för val till riksdagen: 1 500 personer som har rösträtt i
 hela landet,
@@ -178,17 +177,25 @@ den kommun som anmälan gäller,
 c) för val till Europaparlamentet: 1 500 personer som har
 rösträtt i hela landet.
 
-3. Partibeteckningen skall inte kunna antas bli förväxlad med
+3. Partibeteckningen ska inte kunna antas bli förväxlad med
 en beteckning som redan
 
 a) är registrerad, eller
 
-b) har anmälts för registrering, om beteckningarna skulle komma
-att bli registrerade för samma val.
+b) har anmälts för registrering, om beteckningarna skulle
+komma att bli registrerade för samma val.
 
-4. Partibeteckningen skall inte kunna antas bli förväxlad med
-en beteckning som tidigare gällt för samma slag av val men som
-avregistrerats för högst fem år sedan på grund av namnbyte.
+4. Partibeteckningen ska inte kunna antas bli förväxlad med
+en beteckning som tidigare gällt för samma slag av val men
+som avregistrerats för högst fem år sedan på grund av
+namnbyte.
+
+5. Partibeteckningen ska inte kunna antas bli förväxlad med
+en beteckning för något annat parti som redan anmält sitt
+deltagande i val eller som ska anses ha anmält sitt
+deltagande enligt 15 § andra eller tredje stycket, om
+beteckningarna skulle komma att gälla i samma val.
+Lag (2014:1384).
 
 4 § De som enligt 3 § 2 stöder en anmälan om registrering skall
 egenhändigt underteckna en förklaring om stödet. Av
@@ -232,7 +239,8 @@ till Europaparlamentet.
 avregistrerats, skall den centrala valmyndigheten kungöra detta
 i Post- och Inrikes Tidningar.
 
-Anmälan av kandidater
+Anmälan av kandidater för partier som registrerat
+partibeteckning
 
 9 § Ett parti som vill anmäla samtliga sina kandidater för ett
 visst val skall skriftligen göra detta hos den centrala
@@ -311,6 +319,83 @@ om tidpunkten, och
 
 3. bestämma när försäkran enligt 11 § senast skall lämnas.
 
+Anmälan om deltagande i val
+
+14 § Ett parti som vill delta i ett val ska skriftligen
+anmäla detta till den centrala valmyndigheten. Av anmälan ska
+det framgå vilken beteckning partiet går till val under
+(partibeteckning) och vilket slag av val anmälan gäller. Om
+anmälan avser val till landstings- eller kommunfullmäktige,
+ska det framgå vilket landsting eller vilken kommun den
+gäller. Lag (2014:1384).
+
+15 § Om ett parti anmäls för val till riksdagen, gäller
+anmälan också för val till landstings- och kommunfullmäktige
+i hela landet och för val till Europaparlamentet. I övriga
+fall gäller anmälan endast för det val som anmälan avser.
+
+Ett parti som är representerat i en beslutande församling ska
+vid nästa val anses ha anmält deltagande i val i den
+omfattning som följer av första stycket.
+
+Ett parti som har anmält kandidater enligt 9 § ska anses ha
+anmält deltagande i valet. Lag (2014:1384).
+
+16 § En anmälan om deltagande i val gäller även för omval i
+det val som anmälan avser. Lag (2014:1384).
+
+17 § En anmälan om deltagande i val ska göras senast 30 dagar
+före valdagen i det val som anmälan avser. Vid extra val och
+omval ska dock en anmälan som kommer in senare godtas, om den
+kommer in inom en vecka från beslutet om valdag.
+Lag (2014:1384).
+
+18 § En anmälan om deltagande i val ska registreras om
+följande villkor är uppfyllda:
+
+1. Anmälan ska ha gjorts inom den tid som föreskrivs i
+17 §.
+
+2. Partibeteckningen ska bestå av eller innehålla ord. Den
+får innehålla en partisymbol.
+
+3. Partibeteckningen ska inte kunna antas bli förväxlad med
+en beteckning som redan
+
+a) är registrerad, eller
+
+b) har anmälts för registrering, om beteckningarna skulle
+komma att gälla i samma val.
+
+4. Partibeteckningen ska inte kunna antas bli förväxlad med
+en beteckning som tidigare har varit registrerad och gällt
+för samma slag av val men som avregistrerats för högst fem år
+sedan på grund av namnbyte.
+
+5. Partibeteckningen ska inte kunna antas bli förväxlad med
+en beteckning för något annat parti som redan anmält sitt
+deltagande i val eller som ska anses ha anmält sitt
+deltagande enligt 15 § andra eller tredje stycket, om
+beteckningarna skulle komma att gälla i samma val.
+Lag (2014:1384).
+
+19 § När en anmälan om deltagande i val har registrerats, ska
+den centrala valmyndigheten omedelbart kungöra detta i Post-
+och Inrikes Tidningar. Lag (2014:1384).
+
+Samtycke till kandidatur
+
+20 § Den som kandiderar för ett parti som anmält sitt
+deltagande i ett val ska skriftligen ha samtyckt till
+kandidaturen. Ett sådant samtycke ska ges in till den
+centrala valmyndigheten eller, i den utsträckning som
+regeringen bestämmer, länsstyrelsen senast fredagen före
+valdagen.
+
+En förklaring som avses i 9 § andra stycket ska anses som ett
+samtycke till kandidaturen enligt första stycket för det
+parti förklaringen avser. Lag (2014:1384).
+
 3 kap. Valmyndigheter m.m.
 
 Valmyndigheter
@@ -318,29 +403,11 @@ Valmyndigheter
 1 § Det skall finnas en central valmyndighet som har det
 övergripande ansvaret för frågor om val.
 
-2 § /Upphör att gälla U:2015-01-01/
-Länsstyrelsen är regional valmyndighet med ansvar i länet
-för frågor om val.
-
-2 § /Träder i kraft I:2015-01-01/
-Länsstyrelsen är regional valmyndighet med ansvar i länet
+2 § Länsstyrelsen är regional valmyndighet med ansvar i länet
 för frågor om val och för utbildning av valnämnderna.
 Lag (2014:301).
 
-3 § /Upphör att gälla U:2015-01-01/
-I varje kommun ska det finnas en valnämnd, som är lokal
-valmyndighet med ansvar i kommunen för frågor om val.
-
-Att kommunerna ska se till att det finns en vallokal för
-varje valdistrikt framgår av 4 kap. 20 §.
-
-I val som gäller hela landet ansvarar varje kommun också för
-att det i kommunen finns röstningslokaler som i fråga om
-lokalisering, tillgänglighet och öppethållande ger väljarna
-goda möjligheter att rösta. Lag (2013:1159).
-
-3 § /Träder i kraft I:2015-01-01/
-I varje kommun ska det finnas en valnämnd, som är lokal
+3 § I varje kommun ska det finnas en valnämnd, som är lokal
 valmyndighet med ansvar i kommunen för frågor om val.
 
 Att kommunerna ska se till att det finns lokaler för
@@ -349,36 +416,11 @@ Lag (2014:301).
 
 Röstmottagare
 
-4 § /Upphör att gälla U:2015-01-01/
-På varje röstmottagningsställe skall det finnas så många
-röstmottagare som behövs för att röstmottagningen skall kunna
-genomföras.
-
-För varje valdistrikt skall det utses minst fyra röstmottagare,
-varav en ordförande och en ersättare för ordföranden. Vid
-röstmottagningen skall minst tre av röstmottagarna vara
-närvarande i vallokalen. En av dessa skall vara ordföranden
-eller ordförandens ersättare.
-
-4 § /Träder i kraft I:2015-01-01/
-För varje valdistrikt ska det utses minst fyra
+4 § För varje valdistrikt ska det utses minst fyra
 röstmottagare, varav en ordförande och en ersättare för
 ordföranden. Lag (2014:301).
 
-5 § /Upphör att gälla U:2015-01-01/
-Röstmottagare förordnas av valnämnden. Röstmottagare hos en
-utlandsmyndighet förordnas dock av myndighetens chef. Om
-valnämnden har beslutat att röstmottagning skall äga rum på ett
-sjukhus, en kriminalvårdsanstalt, ett häkte eller någon
-liknande inrättning, får nämnden överlåta åt den som är chef
-för inrättningen att förordna röstmottagare där.
-
-Alla som är valbara till ledamöter i valnämnden är skyldiga att
-ta emot ett uppdrag som röstmottagare i ett valdistrikt, om de
-inte har ett giltigt hinder.
-
-5 § /Träder i kraft I:2015-01-01/
-Röstmottagare förordnas av valnämnden. Röstmottagare hos
+5 § Röstmottagare förordnas av valnämnden. Röstmottagare hos
 en utlandsmyndighet förordnas dock av myndighetens chef. Om
 valnämnden har beslutat att röstmottagning ska äga rum på ett
 sjukhus, en kriminalvårdsanstalt, ett häkte eller någon
@@ -388,20 +430,7 @@ för inrättningen att förordna röstmottagare där.
 Som röstmottagare får endast den förordnas som har fått sådan
 utbildning som behövs för uppdraget. Lag (2014:301).
 
-/Rubriken upphör att gälla U:2015-01-01/
-Lantbrevbärare
-
-6 § /Ny beteckning 7 § U:2015-01-01/
-Posten AB skall biträda vid val genom att de lantbrevbärare
-som är anställda av bolaget skall vara bud enligt
-bestämmelserna i 7 kap.
-
-Vid val som inte gäller hela landet får den centrala
-valmyndigheten begränsa Posten AB:s skyldighet enligt första
-stycket.
-
-6 § /Träder i kraft I:2015-01-01/
-På varje röstmottagningsställe ska det finnas så många
+6 § På varje röstmottagningsställe ska det finnas så många
 röstmottagare som behövs för att röstmottagningen ska kunna
 genomföras.
 
@@ -412,11 +441,9 @@ ordföranden eller ordförandens ersättare.
 Vid röstmottagning i en röstningslokal ska minst två
 röstmottagare vara närvarande. Lag (2014:301).
 
-/Rubriken träder i kraft I:2015-01-01/
 Lantbrevbärare
 
-7 § /Träder i kraft I:2015-01-01/
-Posten AB skall biträda vid val genom att de lantbrevbärare
+7 § Posten AB skall biträda vid val genom att de lantbrevbärare
 som är anställda av bolaget skall vara bud enligt
 bestämmelserna i 7 kap.
 
@@ -471,9 +498,9 @@ Stockholms kommun),
 12. Skåne läns västra valkrets (Bjuvs, Eslövs, Helsingborgs,
 Höganäs, Hörby, Höörs, Landskrona och Svalövs kommuner),
 
-13. Skåne läns södra valkrets (Burlövs, Kävlinge, Lomma, Lunds,
-Sjöbo, Skurups, Staffanstorps, Svedala, Trelleborgs, Vellinge
-och Ystads kommuner),
+13. Skåne läns södra valkrets (Burlövs, Kävlinge, Lomma,
+Lunds, Sjöbo, Skurups, Staffanstorps, Svedala, Trelleborgs,
+Vellinge och Ystads kommuner),
 
 14. Skåne läns norra och östra valkrets (Bromölla, Båstads,
 Hässleholms, Klippans, Kristianstads, Osby, Perstorps,
@@ -484,23 +511,23 @@ Simrishamns, Tomelilla, Åstorps, Ängelholms, Örkelljunga och
 
 16. Göteborgs kommun,
 
-17. Västra Götalands läns västra valkrets (Härryda, Kungälvs,
-Lysekils, Munkedals, Mölndals, Orusts, Partille, Sotenäs,
-Stenungsunds, Strömstads, Tanums, Tjörns, Uddevalla och Öckerö
-kommuner),
+17. Västra Götalands läns västra valkrets (Ale, Alingsås,
+Härryda, Kungälvs, Lerums, Lilla Edets, Mölndals, Partille,
+Stenungsunds, Tjörns och Öckerö kommuner),
 
-18. Västra Götalands läns norra valkrets (Ale, Alingsås,
-Bengtsfors, Dals-Eds, Färgelanda, Herrljunga, Lerums, Lilla
-Edets, Melleruds, Trollhättans, Vårgårda, Vänersborgs och Åmåls
-kommuner),
+18. Västra Götalands läns norra valkrets (Bengtsfors,
+Dals-Eds, Färgelanda, Lysekils, Melleruds, Munkedals, Orusts,
+Sotenäs, Strömstads, Tanums, Trollhättans, Uddevalla,
+Vänersborgs och Åmåls kommuner),
 
 19. Västra Götalands läns södra valkrets (Bollebygds, Borås,
-Marks, Svenljunga, Tranemo och Ulricehamns kommuner),
+Herrljunga, Marks, Svenljunga, Tranemo, Ulricehamns och
+Vårgårda kommuner),
 
-20. Västra Götalands läns östra valkrets (Essunga, Falköpings,
-Grästorps, Gullspångs, Götene, Hjo, Karlsborgs, Lidköpings,
-Mariestads, Skara, Skövde, Tibro, Tidaholms, Töreboda och Vara
-kommuner),
+20. Västra Götalands läns östra valkrets (Essunga,
+Falköpings, Grästorps, Gullspångs, Götene, Hjo, Karlsborgs,
+Lidköpings, Mariestads, Skara, Skövde, Tibro, Tidaholms,
+Töreboda och Vara kommuner),
 
 21. Värmlands län,
 
@@ -519,6 +546,7 @@ kommuner),
 28. Västerbottens län, och
 
 29. Norrbottens län.
+Lag (2014:1384).
 
 3 § Den centrala valmyndigheten skall senast den 30 april det
 år då ordinarie val skall hållas besluta hur många fasta
@@ -544,11 +572,12 @@ efter det år då ordinarie val till riksdagen har hållits.
 
 Val till landstingsfullmäktige
 
-5 § Vid val till landstingsfullmäktige skall landsting delas in
-i valkretsar.
+5 § Vid val till landstingsfullmäktige är landstinget en enda
+valkrets, om inte fullmäktige beslutar att dela in
+landstinget i två eller flera valkretsar.
 
-En valkrets skall omfatta en eller flera kommuner, om inte
-något annat följer av 6 § andra stycket.
+En valkrets ska omfatta en eller flera kommuner, om inte
+något annat följer av 6 § andra stycket. Lag (2014:1384).
 
 6 § En valkrets bör utformas så att den kan beräknas få minst
 åtta fasta valkretsmandat. Den bör ha en sammanhängande
@@ -578,61 +607,60 @@ landets indelning i landsting eller kommuner får, om det
 behövs, bestämma att beslut om indelning i valkretsar får
 meddelas senare än den dag som anges i första stycket.
 
-9 § Mandaten i landstingsfullmäktige består av fasta
-valkretsmandat och utjämningsmandat.
+9 § Mandaten i landstingsfullmäktige i ett landsting som är
+indelat i valkretsar består av fasta valkretsmandat och
+utjämningsmandat.
 
 Nio tiondelar av mandaten är fasta valkretsmandat. Om talet
-blir brutet när antalet fasta valkretsmandat beräknas, skall
-det rundas av till närmaste lägre hela tal. Återstående mandat
-är utjämningsmandat.
+blir brutet när antalet fasta valkretsmandat beräknas, ska
+det rundas av till närmaste lägre hela tal. Återstående
+mandat är utjämningsmandat. Lag (2014:1384).
 
-10 § Länsstyrelsen skall senast den 30 april det år då
-ordinarie val skall hållas besluta hur många fasta
-valkretsmandat som varje valkrets skall ha. Det skall göras på
-följande sätt.
+10 § Om ett landsting är indelat i valkretsar, ska
+länsstyrelsen senast den 30 april det år då ordinarie val ska
+hållas besluta hur många fasta valkretsmandat som varje
+valkrets ska ha. Det ska göras på följande sätt.
 
 Antalet personer som har rösträtt i landstinget delas med
 antalet fasta valkretsmandat och därefter delas antalet
-personer som har rösträtt i varje valkrets med det tal som blir
-resultatet av den beräkningen. Varje gång som antalet som har
-rösträtt i en valkrets är jämnt delbart med detta tal får den
-valkretsen ett mandat.
+personer som har rösträtt i varje valkrets med det tal som
+blir resultatet av den beräkningen. Varje gång som antalet
+som har rösträtt i en valkrets är jämnt delbart med detta tal
+får den valkretsen ett mandat.
 
 Om inte alla fasta valkretsmandat kan fördelas på detta sätt,
 får valkretsarna de återstående mandaten i tur och ordning
 efter de överskott som uppstår vid beräkningen. När
 överskottstalen är lika stora i två eller flera valkretsar,
-skall lotten avgöra vilken valkrets som skall få mandatet.
+ska lotten avgöra vilken valkrets som ska få mandatet.
 
 Regeringen eller den myndighet som beslutar om ändring i
 landets indelning i landsting eller kommuner får, om det
 behövs, bestämma att beslut om fördelning av mandat får
 meddelas senare än den dag som anges i första stycket.
+Lag (2014:1384).
 
 Val till kommunfullmäktige
 
 11 § Vid val till kommunfullmäktige är kommunen en enda
 valkrets, om inte något annat följer av 12 §.
 
-12 § Om en kommun har fler än 6 000 personer som har rösträtt,
-får kommunen delas in i två eller flera valkretsar. Om det
-finns fler än 24 000 som har rösträtt i en kommun eller om det
-för kommunen skall utses minst 51 fullmäktige, skall kommunen
-delas in i två eller flera valkretsar. En kommun som har färre
-än 6 000 personer som har rösträtt får delas in i två eller
-flera valkretsar endast om det finns synnerliga skäl för det.
+12 § Om en kommun har 36 000 personer eller fler som har
+rösträtt, får kommunen delas in i två eller flera valkretsar.
+En kommun som har färre än 36 000 personer som har rösträtt
+får delas in i valkretsar endast om det finns särskilda skäl
+för det.
 
-Antalet röstberättigade skall beräknas på grundval av
+Antalet röstberättigade ska beräknas på grundval av
 uppgifterna i folkbokföringsdatabasen enligt lagen (2001:182)
 om behandling av personuppgifter i Skatteverkets
 folkbokföringsverksamhet den 1 mars det år beslutet om
 valkretsindelning fattas.
 
-En valkrets skall utformas så att den får minst 15
-kommunfullmäktige. Den skall ha en sammanhängande gränslinje,
-om det inte finns särskilda skäl för något annat. Antalet
-fullmäktige för hela kommunen skall fördelas så jämnt som
-möjligt.
+En valkrets bör utformas så att den kan beräknas få minst 13
+fasta valkretsmandat. Den ska ha en sammanhängande
+gränslinje, om det inte finns särskilda skäl för något
+annat. Lag (2014:1384).
 
 13 § Indelningen i valkretsar skall beslutas av
 kommunfullmäktige senast den 31 oktober året före det valår då
@@ -644,36 +672,38 @@ landets indelning i landsting eller kommuner får, om det
 behövs, bestämma att beslut om indelning i valkretsar får
 meddelas senare än som sägs i första stycket.
 
-14 § Samtliga mandat i kommunfullmäktige är fasta mandat.
+14 § Mandaten i kommunfullmäktige i en kommun som är indelad
+i valkretsar består av fasta valkretsmandat och
+utjämningsmandat.
 
-Om en kommun är indelad i flera valkretsar, skall länsstyrelsen
-senast den 30 april det år då ordinarie val skall hållas
-besluta hur många mandat som varje valkrets skall ha. Det skall
-göras på följande sätt.
+Nio tiondelar av mandaten är fasta valkretsmandat. Om talet
+blir brutet när antalet fasta valkretsmandat beräknas, ska
+det rundas av till närmast lägre hela tal. Återstående mandat
+är utjämningsmandat. Lag (2014:1384).
 
-Antalet personer som har rösträtt i kommunen delas med antalet
-mandat och därefter delas antalet personer som har rösträtt i
-varje valkrets med det tal som blir resultatet av den
-beräkningen. Varje gång som antalet som har rösträtt i en
-valkrets är jämnt delbart med detta tal får den valkretsen ett
-mandat.
+15 § Om en kommun är indelad i valkretsar, ska länsstyrelsen
+senast den 30 april det år då ordinarie val ska hållas
+besluta hur många fasta valkretsmandat som varje valkrets ska
+ha. Det ska göras på följande sätt.
 
-Om inte alla mandat kan fördelas på detta sätt, får
-valkretsarna de återstående mandaten i tur och ordning efter de
-överskott som uppstår vid beräkningen. Om överskottstalen är
-lika stora i två eller flera valkretsar, skall lotten avgöra
-vilken valkrets som skall få mandatet.
+Antalet personer som har rösträtt i kommunen delas med
+antalet fasta valkretsmandat och därefter delas antalet
+personer som har rösträtt i varje valkrets med det tal som
+blir resultatet av den beräkningen. Varje gång som antalet
+som har rösträtt i en valkrets är jämnt delbart med detta tal
+får den valkretsen ett mandat.
+
+Om inte alla fasta valkretsmandat kan fördelas på detta sätt,
+får valkretsarna de återstående mandaten i tur och ordning
+efter de överskott som uppstår vid beräkningen. När
+överskottstalen är lika stora i två eller flera valkretsar,
+ska lotten avgöra vilken valkrets som ska få mandatet.
 
 Regeringen eller den myndighet som beslutar om ändring i
 landets indelning i landsting eller kommuner får, om det
 behövs, bestämma att beslut om fördelning av mandat får
-meddelas senare än som sägs i andra stycket.
-
-15 § Om antalet mandat som en valkrets får enligt 14 § blir
-mindre än 15, skall antalet ändå bestämmas till 15. Antalet
-mandat i övriga kretsar skall då jämkas i motsvarande
-utsträckning. I ett sådant fall skall valkretsindelningen
-omprövas före nästa val.
+meddelas senare än den dag som anges i första stycket.
+Lag (2014:1384).
 
 Valdistrikt
 
@@ -720,17 +750,7 @@ meddelas senare än den dag som anges i 18 §.
 
 Vallokaler
 
-20 § /Upphör att gälla U:2015-01-01/
-Varje kommun ska se till att det finns lämpliga lokaler
-som kan användas som vallokaler och som i fråga om
-lokalisering, tillgänglighet och öppethållande ger väljarna
-goda möjligheter att rösta.
-
-För varje valdistrikt ska det finnas en vallokal.
-Lag (2013:1159).
-
-20 § /Träder i kraft I:2015-01-01/
-Varje kommun ska se till att det finns lämpliga lokaler
+20 § Varje kommun ska se till att det finns lämpliga lokaler
 som kan användas som vallokaler och som i fråga om
 lokalisering, tillgänglighet och öppethållande ger väljarna
 goda möjligheter att rösta.
@@ -769,22 +789,9 @@ saken. Kommunen skall ange varför den gjort bedömningen att
 väljarna får tillräckligt goda möjligheter att rösta trots
 begränsningen.
 
-/Rubriken upphör att gälla U:2015-01-01/
-Kungörande av beslut
-
-/Rubriken träder i kraft I:2015-01-01/
 Röstningslokaler
 
-22 § /Ny beteckning 26 § U:2015-01-01/
-Den centrala valmyndighetens beslut enligt 3 § skall
-omedelbart kungöras i Post- och Inrikes Tidningar.
-
-Länsstyrelsens beslut enligt 8, 10, 13, 14 och 17 §§ skall
-omedelbart kungöras i ortstidning samt i Post- och Inrikes
-Tidningar.
-
-22 § /Träder i kraft I:2015-01-01/
-I val som gäller hela landet ska varje kommun se till
+22 § I val som gäller hela landet ska varje kommun se till
 att det finns lämpliga lokaler som kan användas som
 röstningslokaler och som i fråga om lokalisering,
 tillgänglighet och öppethållande ger väljarna goda
@@ -798,8 +805,7 @@ anknytning till en viss religiös sammanslutning eller till
 ett visst företag som kan påverka väljaren i samband med
 röstningen. Lag (2014:301).
 
-23 § /Träder i kraft I:2015-01-01/
-Vid omval ska det i de kommuner som valet gäller finnas
+23 § Vid omval ska det i de kommuner som valet gäller finnas
 röstningslokaler enligt 22 §.
 
 I övriga kommuner ska det finnas minst en röstningslokal
@@ -809,8 +815,7 @@ Kommuner som avses i andra stycket ska senast en vecka efter
 ett beslut om omval meddela den centrala valmyndigheten var
 och när röstning inom kommunen kan ske. Lag (2014:301).
 
-24 § /Träder i kraft I:2015-01-01/
-Kommunen bestämmer vilka dagar och tider en
+24 § Kommunen bestämmer vilka dagar och tider en
 röstningslokal ska vara öppen för röstning. I varje kommun
 som valet gäller ska dock minst en röstningslokal vara öppen
 varje dag under den tid som röstmottagning får ske i
@@ -820,17 +825,14 @@ På valdagen ska minst en röstningslokal i varje kommun vara
 öppen för röstmottagning under den tid som enligt 21 § första
 stycket gäller för röstning i en vallokal. Lag (2014:301).
 
-25 § /Träder i kraft I:2015-01-01/
-Den centrala valmyndigheten bestämmer, efter samråd med
+25 § Den centrala valmyndigheten bestämmer, efter samråd med
 Regeringskansliet (Utrikesdepartementet), hos vilka svenska
 utlandsmyndigheter det ska finnas röstningslokaler.
 Lag (2014:301).
 
-/Rubriken träder i kraft I:2015-01-01/
 Kungörande av beslut
 
-26 § /Träder i kraft I:2015-01-01/
-Den centrala valmyndighetens beslut enligt 3 § skall
+26 § Den centrala valmyndighetens beslut enligt 3 § skall
 omedelbart kungöras i Post- och Inrikes Tidningar.
 
 Länsstyrelsens beslut enligt 8, 10, 13, 14 och 17 §§ skall
@@ -1096,19 +1098,7 @@ AVDELNING II. GENOMFÖRANDE AV VAL
 
 På vilka sätt man kan rösta
 
-1 § /Upphör att gälla U:2015-01-01/
-Röstning äger rum på röstmottagningsställen. Väljare röstar
-i första hand i sin vallokal på valdagen. De kan också före
-eller under valdagen rösta i röstningslokaler som kommunerna
-eller utlandsmyndigheterna har inrättat. Väljare får dessutom i
-vissa fall rösta genom bud eller brev.
-
-Den centrala valmyndigheten bestämmer, efter samråd med
-Regeringskansliet (Utrikesdepartementet), hos vilka svenska
-utlandsmyndigheter det skall finnas röstningslokaler.
-
-1 § /Träder i kraft I:2015-01-01/
-Röstning äger rum på röstmottagningsställen. Väljare
+1 § Röstning äger rum på röstmottagningsställen. Väljare
 röstar i första hand i sin vallokal på valdagen. De kan också
 före eller under valdagen rösta i röstningslokaler som
 kommunerna eller utlandsmyndigheterna har inrättat. Väljare
@@ -1143,17 +1133,7 @@ märkningar.
 
 Hur man röstar på ett röstmottagningsställe
 
-3 § /Upphör att gälla U:2015-01-01/
-Väljare skall göra i ordning sina röster bakom en valskärm
-och därefter lämna valkuverten till röstmottagarna.
-
-Väljare som på grund av funktionshinder eller liknande inte
-själva kan göra i ordning sina röster, skall på begäran få
-hjälp med detta av röstmottagarna i den utsträckning som
-behövs.
-
-3 § /Träder i kraft I:2015-01-01/
-Väljare ska göra i ordning sina röster bakom en valskärm
+3 § Väljare ska göra i ordning sina röster bakom en valskärm
 och därefter lämna valkuverten till röstmottagarna.
 
 Väljare som på grund av funktionsnedsättning eller liknande
@@ -1162,11 +1142,9 @@ hjälp med detta av röstmottagarna i den utsträckning som
 behövs. En sådan väljare får också anlita någon annan person
 som hjälper honom eller henne vid röstningen. Lag (2014:301).
 
-/Rubriken träder i kraft I:2015-01-01/
 Röstning genom ambulerande röstmottagare
 
-3 a § /Träder i kraft I:2015-01-01/
-Väljare som på grund av sjukdom, funktionsnedsättning
+3 a § Väljare som på grund av sjukdom, funktionsnedsättning
 eller ålder inte själva kan ta sig till ett
 röstmottagningsställe får om de begär det lämna sina
 valsedlar till ambulerande röstmottagare.
@@ -1178,29 +1156,9 @@ röstningslokal i 10 kap. Lag (2014:301).
 
 Budröstning
 
-/Rubriken träder i kraft I:2015-01-01/
 Vem som får rösta genom bud
 
-4 § /Upphör att gälla U:2015-01-01/
-Väljare som på grund av sjukdom, funktionshinder eller
-ålder inte själva kan ta sig till ett röstmottagningsställe får
-lämna sina valsedlar där genom bud.
-
-Dessutom får följande väljare budrösta:
-
-1. väljare som betjänas av Posten AB:s lantbrevbärare, i den
-utsträckning som följer av 3 kap. 6 §,
-
-2. väljare som är intagna i häkte,
-
-3. väljare som är intagna i kriminalvårdsanstalt och av
-säkerhetsskäl inte kan rösta i samma röstningslokal som andra
-intagna på anstalten.
-
-Budröster skall lämnas i ytterkuvert för budröst.
-
-4 § /Träder i kraft I:2015-01-01/
-Väljare som på grund av sjukdom, funktionsnedsättning
+4 § Väljare som på grund av sjukdom, funktionsnedsättning
 eller ålder inte själva kan ta sig till ett
 röstmottagningsställe får lämna sina valsedlar där genom
 bud.
@@ -1221,26 +1179,7 @@ Lag (2014:301).
 
 Vem som får vara bud
 
-5 § /Upphör att gälla U:2015-01-01/
-Följande personer får vara bud:
-
-1. väljarens make eller sambo samt väljarens, makens eller
-sambons barn, barnbarn, föräldrar eller syskon,
-
-2. de som yrkesmässigt eller på liknande sätt ger väljaren vård
-eller som annars brukar hjälpa väljaren i personliga
-angelägenheter,
-
-3. de som särskilt har förordnats av kommunen att vara bud,
-
-4. av Posten AB anställda lantbrevbärare,
-
-5. anställda vid ett häkte eller en kriminalvårdsanstalt.
-
-Ett bud skall ha fyllt 18 år.
-
-5 § /Träder i kraft I:2015-01-01/
-Följande personer får vara bud:
+5 § Följande personer får vara bud:
 
 1. väljarens make eller sambo och väljarens, makens eller
 sambons barn, barnbarn, föräldrar eller syskon,
@@ -1268,42 +1207,7 @@ valdagen.
 
 Hur budröster görs i ordning
 
-7 § /Upphör att gälla U:2015-01-01/
-Väljare som vill rösta genom bud skall
-
-1. i närvaro av budet och ett vittne lägga de valkuvert som
-gjorts i ordning i ett ytterkuvert för budröst,
-
-2. klistra igen ytterkuvertet,
-
-3. på kuvertet
-
-a) intyga att de gjort i ordning valkuvert och ytterkuvertet på
-detta sätt och att valkuvert inte har gjorts i ordning tidigare
-än vad som är tillåtet; väljare som avses i 4 § första stycket
-skall dessutom på ytterkuvertet intyga att de uppfyller kraven
-för att få budrösta,
-
-b) ange sitt namn och sitt personnummer.
-
-På ytterkuvertet skall vittnet och budet ange sina
-
-1. namn,
-
-2. personnummer,
-
-3. adresser,
-
-och intyga att väljaren själv har gjort det som sägs i första
-och andra styckena samt att de inte känner till något som gör
-att de uppgifter som väljaren har lämnat inte är riktiga.
-Vidare skall det antecknas vilken av de i 5 § första stycket
-angivna kategorierna som är tillämplig på budet.
-
-Ett vittne skall ha fyllt 18 år.
-
-7 § /Träder i kraft I:2015-01-01/
-En väljare som vill rösta genom bud ska
+7 § En väljare som vill rösta genom bud ska
 
 1. för varje val själv lägga en valsedel i ett valkuvert,
 
@@ -1325,31 +1229,14 @@ att få budrösta.
 
 På ytterkuvertet ska vittnet och budet ange sina namn och
 personnummer och intyga att väljaren själv har gjort det som
-sägs i första stycket 24 och att de inte känner till något
+sägs i första stycket 2–4 och att de inte känner till något
 som gör att de uppgifter som väljaren har lämnat inte är
 riktiga. Vidare ska det antecknas vilken av kategorierna i 5 §
 första stycket som är tillämplig på budet.
 
 Ett vittne ska ha fyllt 18 år. Lag (2014:301).
 
-8 § /Upphör att gälla U:2015-01-01/
-I stället för vad som sägs i 7 § första och andra styckena
-gäller att bud som är lantbrevbärare inte behöver vara
-närvarande när väljaren gör i ordning ett ytterkuvert för
-budröst. Ett sådant bud skall på ytterkuvertet i stället för
-personnummer och adress ange sitt tjänstgöringsnummer samt
-intyga att kuvertet har tagits emot från väljaren själv.
-
-I stället för vad som sägs i 7 § andra stycket gäller att ett
-bud som är anställd vid ett häkte eller en kriminalvårdsanstalt
-i stället för personnummer och adress får ange sitt
-tjänstgöringsnummer.
-
-Den som inte har något personnummer eller tjänstgöringsnummer
-skall i stället ange någon motsvarande identifikationsuppgift.
-
-8 § /Träder i kraft I:2015-01-01/
-I stället för 7 § första och andra styckena gäller att
+8 § I stället för 7 § första och andra styckena gäller att
 bud som är lantbrevbärare inte behöver vara närvarande när
 väljaren gör i ordning ett ytterkuvert för budröst. Ett
 sådant bud får på ytterkuvertet i stället för personnummer
@@ -1527,8 +1414,7 @@ eller om väljaren inte kan styrka sin identitet.
 Om en väljare vill lämna fler än ett valkuvert för ett och
 samma val, får bara ett av dessa tas emot.
 
-7 a § /Träder i kraft I:2015-01-01/
-Om ett röstmottagningsställe under någon tid när
+7 a § Om ett röstmottagningsställe under någon tid när
 röstmottagning sker inte är tillgängligt för väljare med
 funktionsnedsättning, får röstmottagarna ta emot dessa
 väljares valkuvert utanför röstmottagningsstället, om det kan
@@ -1587,10 +1473,7 @@ Hur röstmottagningen går till
 är ordförande visa de närvarande att varje valurna är tom.
 Sedan får röstmottagningen börja.
 
-4 § /Upphör att gälla U:2015-01-01 genom lag (2014:301)./
-Är en vallokal inte tillgänglig för funktionshindrade
-väljare, får röstmottagarna ta emot deras valkuvert utanför
-vallokalen, om det kan ske under betryggande former.
+4 § Har upphävts genom lag (2014:301).
 
 5 § Om kraven på hur ytterkuvert för budröst skall ha gjorts i
 ordning är uppfyllda, skall röstmottagarna, sedan budets
@@ -1823,35 +1706,35 @@ Rösträkningen är offentlig och skall genomföras utan avbrott.
 Resultatet av rösträkningen är preliminärt.
 
 2 § Om det har hållits val till riksdagen samtidigt med annat
-val, skall riksdagsvalet räknas först. Räkningen skall för
-varje slag av val gå till på följande sätt:
+val, ska riksdagsvalet räknas först. Räkningen ska för varje
+slag av val gå till på följande sätt:
 
-1. Valurnan skall tömmas och valkuverten räknas. Antalet
-väljare som enligt röstlängden deltagit i valet skall räknas.
+1. Valurnan ska tömmas och valkuverten räknas. Antalet
+väljare som enligt röstlängden deltagit i valet ska räknas.
 
-2. Valsedlarna skall tas ur valkuverten. Innehåller ett
-valkuvert fler än en valsedel skall valsedlarna inte godkännas
+2. Valsedlarna ska tas ur valkuverten. Om ett valkuvert
+innehåller fler än en valsedel ska valsedlarna inte godkännas
 utan läggas tillbaka i kuvertet.
 
 3. En valsedel som kan antas vara ogiltig enligt 13 kap. 7 §
-första stycket 1 skall inte godkännas.
+första stycket 1 eller 3 ska inte godkännas.
 
-4. En valsedel som kan antas vara ogiltig enligt någon annan av
-de i 13 kap. 7 § angivna grunderna, skall inte godkännas utan
+4. En valsedel som kan antas vara ogiltig enligt någon annan
+av de grunder som anges i 13 kap. 7 § ska inte godkännas utan
 läggas tillbaka i sitt valkuvert.
 
-5. Valsedlar och valkuvert som avses i 2-4 skall läggas i
+5. Valsedlar och valkuvert som avses i 2–4 ska läggas i
 särskilda omslag.
 
-6. De valsedlar som godkänts skall sorteras i grupper efter
-partibeteck-ning. Antalet valsedlar i varje grupp skall räknas.
-Valsedlarna för varje parti skall sedan läggas i särskilda
+6. De valsedlar som godkänts ska sorteras i grupper efter
+partibeteckning. Antalet valsedlar i varje grupp ska räknas.
+Valsedlarna för varje parti ska sedan läggas i särskilda
 omslag.
 
-7. Omslag enligt 5 och 6 skall förseglas.
+7. Omslag enligt 5 och 6 ska förseglas.
 
-Resultatet av rösträkningen skall antecknas i det protokoll som
-anges i 9 kap. 16 §.
+Resultatet av rösträkningen ska antecknas i det protokoll som
+anges i 9 kap. 16 §. Lag (2014:1384).
 
 3 § Omedelbart efter att den preliminära rösträkningen
 avslutats skall röstmottagarna till valnämnden överlämna
@@ -1883,32 +1766,7 @@ detta kapitel eller i 12 kap.
 
 Valnämndens förberedelser för rösträkningen
 
-1 § /Upphör att gälla U:2015-01-01/
-På onsdagen efter valdagen skall valnämnden sammanträda för
-att granska och räkna de röster som inte räknats i
-vallokalerna. Sammanträdet är offentligt. Resultatet av
-nämndens rösträkning är preliminärt.
-
-Vid sammanträdet skall nämnden granska
-
-1. fönsterkuvert och omslagskuvert för brevröst som till och
-med valdagen kommit in till nämnden och behållits där,
-
-2. fönsterkuvert och omslagskuvert för brevröst som
-röstmottagarna lämnat tillbaka till nämnden enligt 9 kap. 13 §,
-
-3. fönsterkuvert och omslagskuvert för brevröst som kommit in
-till nämnden innan någon av de valurnor som sägs i 2 § har
-tömts, och
-
-4. fönsterkuvert och omslagskuvert för brevröst som
-röstmottagarna enligt 9 kap. 12 § lagt in i särskilda omslag.
-
-Granskningen går i tillämpliga delar till på samma sätt som
-enligt 9 kap. 9-12 §§.
-
-1 § /Träder i kraft I:2015-01-01/
-På onsdagen efter valdagen ska valnämnden sammanträda för
+1 § På onsdagen efter valdagen ska valnämnden sammanträda för
 att granska och räkna de röster som inte räknats i
 vallokalerna. Sammanträdet är offentligt. Resultatet av
 nämndens rösträkning är preliminärt.
@@ -1919,8 +1777,8 @@ Vid sammanträdet ska nämnden granska
 med valdagen kommit in till nämnden och behållits där,
 
 2. fönsterkuvert och omslagskuvert för brevröst som
-röstmottagarna lämnat tillbaka till nämnden enligt 9 kap. 13
-§,
+röstmottagarna lämnat tillbaka till nämnden enligt 9 kap. 
+13 §,
 
 3. fönsterkuvert och omslagskuvert för brevröst som kommit in
 till nämnden innan någon av de valurnor som sägs i 2 § har
@@ -1931,7 +1789,7 @@ röstmottagarna enligt 9 kap. 12 § lagt in i särskilda
 omslag.
 
 Granskningen går i tillämpliga delar till på samma sätt som
-enligt 9 kap. 912 §§.
+enligt 9 kap. 9–12 §§.
 
 Om det behövs ytterligare tid för att på ett betryggande sätt
 genomföra rösträkningen, får valnämnden fortsätta
@@ -1960,19 +1818,7 @@ ytterkuvert som avses i 9 kap. 17 § under valperioden.
 
 6 § Valnämnden skall föra protokoll över sin rösträkning.
 
-7 § /Upphör att gälla U:2015-01-01/
-När sammanträdet för rösträkning avslutats, skall
-valnämnden till länsstyrelsen genast överlämna
-
-1. nämndens protokoll, och
-
-2. de omslag som nämnden gjort i ordning.
-
-Om länsstyrelsen begär det skall nämnden också överlämna
-röstlängderna.
-
-7 § /Träder i kraft I:2015-01-01/
-När sammanträdet för rösträkning avslutats, ska
+7 § När sammanträdet för rösträkning avslutats, ska
 valnämnden till länsstyrelsen genast överlämna
 
 1. nämndens protokoll, och
@@ -2033,33 +1879,45 @@ det gjorts något obehörigt med dem.
 
 1. saknar partibeteckning,
 
-2. har mer än en partibeteckning, eller
+2. har mer än en partibeteckning,
 
-3. har kännetecken som uppenbart gjorts med avsikt.
+3. har en partibeteckning för ett parti som inte anmält sitt
+deltagande i valet enligt 2 kap., eller
+
+4. har kännetecken som uppenbart gjorts med avsikt.
 
 Finns det fler än en valsedel i ett valkuvert är dessa
 ogiltiga. Om kuvertet innehåller flera valsedlar och alla har
-samma partibeteckning, skall dock en valsedel räknas som
-giltig. Skiljer sig valsedlarna i ett sådant fall åt i fråga om
-kandidatnamn eller de särskilda personrösterna, skall namnen på
-valsedlarna anses obefintliga.
+samma partibeteckning, ska dock en valsedel räknas som
+giltig. Skiljer sig valsedlarna i ett sådant fall åt i fråga
+om kandidatnamn eller de särskilda personrösterna, ska namnen
+på valsedlarna anses obefintliga.
+
+Vid prövningen enligt första och andra styckena bortses i
+förekommande fall från en partisymbol som en väljare skriver
+till på en valsedel. Lag (2014:1384).
 
 Obefintliga kandidatnamn
 
-8 § Ett kandidatnamn på en valsedel skall anses obefintligt om
+8 § Ett kandidatnamn på en valsedel ska anses obefintligt
+om
 
-1. kandidaten inte är valbar eller det inte framgår klart vem
-som avses,
+1. kandidaten inte är valbar eller det inte framgår klart
+vem som avses,
 
 2. kandidaten skrivits till på en valsedel som gäller för ett
 parti som registrerat partibeteckning och anmält kandidater
+enligt 2 kap.,
+
+3. kandidaten inte är anmäld och finns på en valsedel för ett
+parti som registrerat partibeteckning och anmält kandidater
 enligt 2 kap., eller
 
-3. kandidaten inte är anmäld och finns på valsedel för ett
-parti som registrerat partibeteckning och anmält kandidater
-enligt 2 kap.
+4. kandidaten inte har samtyckt till kandidaturen enligt 2
+kap.
 
-Kandidatnamnen på en valsedel skall vidare anses obefintliga om
+Kandidatnamnen på en valsedel ska vidare anses obefintliga
+om
 
 1. valsedeln upptar kandidater men inte är försedd med ett
 markerat utrymme för personröstning,
@@ -2067,17 +1925,17 @@ markerat utrymme för personröstning,
 2. det lämnats mer än en särskild personröst eller det inte
 framgår vem personrösten avser,
 
-3. markering för den särskilda personrösten kan antas ha gjorts
-maskinellt, eller
+3. markering för den särskilda personrösten kan antas ha
+gjorts maskinellt, eller
 
 4. ordningen mellan kandidaterna inte framgår klart.
 
-Kandidatnamn skall inte anses obefintliga på grund av att de
+Kandidatnamn ska inte anses obefintliga på grund av att de
 strukits från en valsedel som upptar kandidater. I 7 kap. 2 §
 tredje stycket finns särskilda bestämmelser för det fall en
 väljare skriver till kandidater på en valsedel för ett parti
 som inte registrerat sin partibeteckning eller anmält
-kandidater enligt 2 kap.
+kandidater enligt 2 kap. Lag (2014:1384).
 
 Förrättningens avslutning
 
@@ -2121,78 +1979,104 @@ fastställa vilka kandidater som har valts till ledamöter
 och ersättare. Lag (2010:1327).
 
 2 § Om det vid en beräkning enligt detta kapitel blir lika
-stora tal, skall lotten avgöra vilket parti, vilken kandidat
-eller valkrets som skall få mandatet.
+stora tal, ska lotten avgöra vilket parti, vilken kandidat
+eller vilken valkrets som ska få mandatet eller vilket mandat
+som ska återföras för ny fördelning. Lag (2014:1384).
 
 Fördelning av mandat mellan partier
 
 Riksdagsvalet
 
-3 § De fasta valkretsmandaten skall för varje valkrets fördelas
+3 § De fasta valkretsmandaten ska för varje valkrets fördelas
 proportionellt mellan partier som får delta i fördelningen.
 Fördelningen görs genom att jämförelsetal beräknas för
 partierna med utgångspunkt i valresultatet i valkretsen. Det
 parti som vid varje beräkning får det största jämförelsetalet
 tilldelas ett mandat.
 
-Beräkningen skall göras med tillämpning av den jämkade
-uddatalsmetoden. Denna innebär att så länge ett parti ännu inte
-tilldelats något mandat beräknas jämförelsetalet genom att
-partiets röstetal i valkretsen delas med 1,4. När ett parti har
-fått ett mandat beräknas nytt jämförelsetal genom att partiets
-röstetal delas med 3. Därefter fortsätter man på samma sätt att
-dela partiets röstetal med närmast högre udda tal för varje
-tilldelat nytt mandat.
+Beräkningen ska göras med tillämpning av den jämkade
+uddatalsmetoden. Denna innebär att så länge ett parti ännu
+inte tilldelats något mandat beräknas jämförelsetalet genom
+att partiets röstetal i valkretsen delas med 1,2. När ett
+parti har fått ett mandat beräknas nytt jämförelsetal genom
+att partiets röstetal delas med 3. Därefter fortsätter man på
+samma sätt att dela partiets röstetal med närmast högre udda
+tal för varje tilldelat nytt mandat. Lag (2014:1384).
 
-4 § För att avgöra hur många mandat som ett parti skall ha
+4 § För att avgöra hur många mandat som ett parti ska ha
 sammanlagt i riksdagen för att vara proportionellt
-representerat i hela landet skall den jämkade uddatalsmetoden
-tillämpas på hela landet som en valkrets. Varje parti skall
-tilldelas så många utjämningsmandat som behövs för att partiet
-skall få en representation som svarar mot dess andel av
-samtliga giltiga röster i landet.
+representerat i hela landet ska den jämkade uddatalsmetoden
+tillämpas på hela landet som en valkrets. Lag (2014:1384).
 
-5 § Om ett parti vid fördelningen av de fasta valkretsmandaten
-har fått fler mandat än vad som behövs för att det skall vara
-proportionellt representerat i riksdagen, skall man vid
-fördelningen av utjämningsmandaten bortse från partiet och de
-mandat det har fått. Detsamma gäller för ett parti och de
-mandat partiet fått, om det fått mindre än 4 procent av
-rösterna i landet.
+4 a § Om ett parti vid fördelningen av de fasta
+valkretsmandaten har fått fler mandat än vad som motsvarar en
+proportionell representation i hela landet, ska överskjutande
+mandat återföras.
+
+Återföringen enligt första stycket ska göras i den eller de
+valkretsar där partiet tilldelats mandatet eller mandaten med
+lägst jämförelsetal. Återföring får dock inte göras i en
+valkrets som har färre än tre fasta valkretsmandat.
+
+Mandat som återförs enligt andra stycket ska, med tillämpning
+av bestämmelserna i 3 §, fördelas mellan de övriga partier i
+valkretsen som inte har uppnått proportionell representation
+i hela landet vid fördelningen av de fasta valkretsmandaten.
+Lag (2014:1384).
+
+4 b § Om mandat har återförts i två eller flera valkretsar
+ska dessa mandat fördelas i den ordningen att det parti som
+har störst jämförelsetal tilldelas första mandatet och så
+vidare, allt efter storleken på jämförelsetalen för de
+partier som ska tilldelas mandat. Lag (2014:1384).
+
+4 c § Varje parti ska tilldelas så många utjämningsmandat som
+behövs för att partiet ska få en representation som svarar
+mot dess andel av samtliga giltiga röster i landet.
+Lag (2014:1384).
+
+5 § Om ett parti vid fördelningen av de fasta
+valkretsmandaten enligt 3, 4 a och 4 b §§ har fått så många
+mandat som behövs för att det ska vara proportionellt
+representerat i riksdagen, ska man vid fördelningen av
+utjämningsmandaten bortse från partiet och de mandat det har
+fått. Detsamma gäller för ett parti och de mandat partiet
+fått, om det fått mindre än 4 procent av rösterna i landet.
 
 Av de utjämningsmandat som ett parti har fått tillförs det
-första den valkrets där partiet efter fördelningen av de fasta
-valkretsmandaten har större jämförelsetal än i övriga
+första den valkrets där partiet efter fördelningen av de
+fasta valkretsmandaten har större jämförelsetal än i övriga
 valkretsar. Återstående mandat tillförs ett efter ett den
 valkrets där partiet för varje gång har störst jämförelsetal
 vid en fortsatt tillämpning av den jämkade uddatalsmetoden på
 partiets röstetal i valkretsarna. I en valkrets där partiet
-inte har fått något fast valkretsmandat skall dock
+inte har fått något fast valkretsmandat ska dock
 jämförelsetalet vid tilldelningen av det första mandatet vara
-lika med partiets röstetal.
+lika med partiets röstetal. Lag (2014:1384).
 
 Övriga val
 
-6 § Mandaten i kommunfullmäktige skall fördelas mellan partier
-som fått röster i kommunen.
+6 § Mandaten i kommunfullmäktige i en kommun som är en enda
+valkrets ska fördelas mellan partier som fått minst 2 procent
+av rösterna i kommunen. I en kommun som är indelad i två
+eller flera valkretsar ska mandaten fördelas mellan partier
+som fått minst 3 procent av rösterna i kommunen.
 
-Mandaten i landstingsfullmäktige skall fördelas mellan partier
+Mandaten i landstingsfullmäktige ska fördelas mellan partier
 som fått minst 3 procent av rösterna i landstinget.
 
-Mandaten i Europaparlamentsvalet skall fördelas mellan partier
-som fått minst 4 procent av rösterna i landet.
+Mandaten i Europaparlamentsvalet ska fördelas mellan partier
+som fått minst 4 procent av rösterna i landet. Lag (2014:1384).
 
 7 § De fasta mandaten skall för varje val och valkrets fördelas
 proportionellt mellan partierna på grundval av valresultatet i
 valkretsen. Fördelningen görs på samma sätt som för
 riksdagsvalet.
 
-8 § För att avgöra hur många mandat som ett parti skall ha
-sammanlagt i landstingsfullmäktige för att vara proportionellt
-representerat i hela landstinget skall den jämkade
-uddatalsmetoden tillämpas på hela landstinget som en valkrets.
-Vid fördelningen tillämpas motsvarande beräkningsgrunder som
-vid fördelning av utjämningsmandat i riksdagsvalet.
+8 § Vid fördelningen av mandat i sådana landsting och
+kommuner som är indelade i valkretsar tillämpas
+bestämmelserna om riksdagsval i 3–5 §§ på motsvarande sätt.
+Lag (2014:1384).
 
 Hur ledamöter utses
 
@@ -2551,17 +2435,7 @@ AVDELNING V. AVSLUTANDE BESTÄMMELSER
 1 § Beslut eller andra åtgärder enligt denna lag får överklagas
 endast i den utsträckning som anges i detta kapitel.
 
-/Rubriken upphör att gälla U:2015-01-01/
-Överklagande hos länsstyrelsen
-
-2 § /Upphör att gälla U:2015-01-01 genom lag (2014:301)./
-Ett beslut av en valnämnd att inte godta ett hinder mot att
-ta emot ett uppdrag som röstmottagare får överklagas hos
-länsstyrelsen. Tiden för överklagande räknas från den dag
-beslutet meddelades.
-
-Länsstyrelsens beslut enligt denna paragraf får inte
-överklagas.
+2 § Har upphävts genom lag (2014:301).
 
 Överklagande hos Valprövningsnämnden
 
@@ -2573,13 +2447,14 @@ a) beslut enligt 4 kap. 8 och 13 §§ om fastställande av
 valkretsindelning för val till landstings- och
 kommunfullmäktige,
 
-b) beslut enligt 4 kap. 10 och 14 §§ om antalet valkretsmandat
-för val till landstings- och kommunfullmäktige,
+b) beslut enligt 4 kap. 10 och 14 §§ om antalet
+valkretsmandat för val till landstings- och
+kommunfullmäktige,
 
 c) beslut enligt 4 kap. 17 § om indelning i valdistrikt,
 
-2. länsstyrelsens eller den centrala valmyndighetens beslut om
-rättelse i en röstlängd,
+2. länsstyrelsens eller den centrala valmyndighetens beslut
+om rättelse i en röstlängd,
 
 3. följande beslut av den centrala valmyndigheten eller, i
 förekommande fall, länsstyrelsen:
@@ -2593,10 +2468,13 @@ partibeteckning,
 c) beslut i ett ärende enligt 2 kap. om anmälan av kandidater
 eller 6 kap. om valsedlar,
 
-4. länsstyrelsens eller den centrala valmyndighetens beslut att
-fastställa utgången av ett val eller av en sådan sammanräkning
-för att förordna efterträdare eller ersättare som sägs i 14
-kap. 18-24 §§.
+d) beslut i ett ärende enligt 2 kap. om anmälan om deltagande
+i val,
+
+4. länsstyrelsens eller den centrala valmyndighetens beslut
+att fastställa utgången av ett val eller beslut om att utse
+nya ledamöter eller ersättare enligt 14 kap. 18–24 §§.
+Lag (2014:1384).
 
 4 § Ett beslut som avses i 3 § 4 får överklagas av
 
@@ -2614,27 +2492,33 @@ Hur överklagandet görs
 5 § Ett överklagande ges in till den myndighet som har meddelat
 det överklagade beslutet (beslutsmyndigheten).
 
-6 § Ett överklagande skall ha kommit in till beslutsmyndigheten
+6 § Ett överklagande ska ha kommit in till
+beslutsmyndigheten
 
 1. i ett ärende som avses i 3 § 1 samt 3 a och b: senast inom
 tre veckor från den dag det överklagade beslutet kungjordes
-eller, om beslutet inte har kungjorts, inom tre veckor från den
-dag klaganden fick del av beslutet,
+eller, om beslutet inte har kungjorts, inom tre veckor från
+den dag klaganden fick del av beslutet,
 
-2. i ett ärende som avses i 3 § 2: senast onsdagen före
+2. i ett ärende som avses 3 § 2: senast onsdagen före
 valdagen,
 
 3. i ett ärende som avses i 3 § 3 c: senast inom tre veckor
 från den dag klaganden fick del av beslutet,
 
-4. i ett ärende som avses i 3 § 4: tidigast dagen efter
+4. i ett ärende som avses i 3 § 3 d: senast inom en vecka
+från den dag det överklagade beslutet kungjordes eller, om
+beslutet inte har kungjorts, inom en vecka från den dag
+klaganden fick del av beslutet,
+
+5. i ett ärende som avses i 3 § 4: tidigast dagen efter
 valdagen och senast inom tio dagar efter det att valet
-avslutades eller, om överklagandet gäller beslut om att
-förordna nya ledamöter eller ersättare enligt 14 kap. 18-24 §§,
-inom tio dagar efter det att sammanräkningen avslutades.
+avslutades eller, om överklagandet gäller beslut om att utse
+nya ledamöter eller ersättare enligt 14 kap. 18–24 §§, inom
+tio dagar efter det att sammanräkningen avslutades.
 
 Det är Valprövningsnämnden som avgör om överklagandet har
-kommit in i rätt tid.
+kommit in i rätt tid. Lag (2014:1384).
 
 7 § Om ett överklagande kommit in till Valprövningsnämnden inom
 överklagandetiden, skall det tas upp till prövning även om
@@ -2756,5 +2640,17 @@ kap. 7 § och 12 kap. 8 § och i övrigt den 1 januari 2015.
 
 2. Äldre föreskrifter ska tillämpas vid ett omval som hålls
 på grund av att ett ordinarie val till riksdagen eller
-landstings- eller kommunfullmäktige i september 2014
-upphävts.
+landstings- eller kommunfullmäktige i september 2014 upphävts.
+
+2014:1384
+
+1. Denna lag träder i kraft den 1 januari 2015 och tillämpas
+första gången inför och vid ordinarie val till riksdagen,
+landstingsfullmäktige och kommunfullmäktige 2018.
+
+2. Om en ansökan om registrering av partibeteckning eller
+anmälan om deltagande i val har kommit in före ordinarie val
+till riksdagen, landstingsfullmäktige och kommunfullmäktige
+2018, ska den prövning som avses i 2 kap. 3 och 18 §§ omfatta
+även en partibeteckning som innehåller en partisymbol som kan
+anses allmänt förknippad med någon annan än sökanden.
