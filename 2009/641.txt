@@ -10,11 +10,11 @@ endast prövas av
 1. chefen för Justitiedepartementet, om handlingen innehåller
 uppgifter som är sekretessreglerade i 15 kap. 2 § eller 18
 kap. 13 §§ offentlighets- och sekretesslagen (2009:400) och
-som rör polisens verksamhet för att hindra eller uppdaga
-brott som rör rikets säkerhet,
+som rör Säkerhetspolisens eller Polismyndighetens verksamhet
+för att hindra eller uppdaga brott som rör rikets säkerhet,
 
-2. chefen för Utrikesdepartementet, om handlingen innehåller
-uppgifter som är sekretessreglerade i 15 kap. 1 §
+2. chefen för Utrikesdepartementet, om handlingen
+innehåller uppgifter som är sekretessreglerade i 15 kap. 1 §
 offentlighets- och sekretesslagen och den har överlämnats av
 departementet till en svensk myndighet, eller
 
@@ -24,15 +24,15 @@ offentlighets- och sekretesslagen än som avses i 1.
 
 I de fall en sådan handling som avses i första stycket
 förvaras hos Statsrådsberedningen eller Regeringskansliets
-förvaltningsavdelning, ska en begäran om utlämnande till en
-enskild av handlingen prövas av statsministern. I fråga om
-handlingar som förvaras hos förvaltningsavdelningen gäller
+förvaltningsavdelning, ska en begäran om utlämnande av
+handlingen till en enskild prövas av statsministern. I fråga
+om handlingar som förvaras hos förvaltningsavdelningen gäller
 detta endast under förutsättning att handlingen inte har
 lämnats över från ett departement till Regeringskansliets
 centralarkiv.
 
 En begäran som avses i första och andra styckena får
-överlämnas till regeringens prövning.
+överlämnas till regeringens prövning. Förordning (2014:1369).
 
 Föreskrifter med stöd av 5 kap. 3 § offentlighets- och
 sekretesslagen
@@ -112,8 +112,7 @@ Läkemedelsverket         statistiskt primärmaterial
 Migrationsverket         av verket rekvirerade personbevis,
                         utdrag ur belastningsregistret och
                         misstankeregistret samt kontrollbesked
-                        från Rikspolisstyrelsens
-                        säkerhetsavdelning
+                        från Säkerhetspolisen
 
 Myndigheten för          statistiskt primärmaterial
 tillväxtpolitiska
@@ -138,20 +137,33 @@ Pensionsmyndigheten      handlingar i försäkringsärenden, och
 
                          statistiskt primärmaterial
 
-polismyndigheter         anteckningar om det löpande
+Polismyndigheten         anteckningar om det löpande
                         polisarbetet,
-
                          sådana protokoll enligt 27 och 28 §§
                         polislagen (1984:387) eller enligt
                         lagen (1976:511) om omhändertagande av
                         berusade personer m.m. som avser
-                        avvisanden, avlägsnanden,
+                        avvisningar, avlägsnanden,
                         omhändertaganden, gripanden eller
                         fängselanvändning och som inte
-                        registreras i särskilda ärenden, och
+                        registreras i särskilda ärenden,
 
-                         underrättelser från kriminalvården
-                        om permissioner
+                         underrättelser från Kriminalvården
+                        om permissioner,
+
+                         handlingar som utgör underlag för
+                        belastningsregistret,
+                        misstankeregistret, register enligt
+                        4 kap. polisdatalagen (2010:361) eller
+                        för på motsvarande sätt strukturerade
+                        uppgiftssamlingar som avser brottslig
+                        verksamhet och som förs med stöd av
+                        polisdatalagen,
+
+                         framställningar om
+                        fingeravtrycksundersökning, och
+
+                         statistiskt primärmaterial
 
 Riksbanken               statistiskt primärmaterial
 
@@ -206,6 +218,17 @@ Statens jordbruksverk    statistiskt primärmaterial
 Statistiska              statistiskt primärmaterial
 centralbyrån
 
+Säkerhetspolisen         anteckningar om det löpande
+                        polisarbetet,
+
+                         underrättelser från Kriminalvården
+                        om permissioner,
+
+                         handlingar som utgör underlag för
+                        strukturerade uppgiftssamlingar som
+                        avser brottslig verksamhet och som
+                        förs med stöd av polisdatalagen,
+
 Totalförsvarets          patientjournaler som rör
 rekryteringsmyndighet   totalförsvarspliktiga
 
@@ -229,7 +252,7 @@ Tullverket               handlingar som rör klarering av varor
                          utdrag ur vägtrafikregistret, och
 
                          rekvisitioner av sådana utdrag
-Förordning (2013:931).
+Förordning (2014:1369).
 
 Föreskrifter med stöd av 5 kap. 4 § offentlighets- och
 sekretesslagen
@@ -276,7 +299,7 @@ Försvarsunderrättelsedomstolen  diarier över mål om tillstånd
                                 signalspaning i
                                 försvarsunderrättelseverksamhet
 
-polismyndigheter                diarier över ärenden om
+Polismyndigheten                diarier över ärenden om
                                 kvarhållande av försändelse på
                                 befordringsanstalt och om
                                 hemlig avlyssning av
@@ -285,7 +308,6 @@ polismyndigheter                diarier över ärenden om
                                 elektronisk kommunikation,
                                 hemlig kameraövervakning och
                                 hemlig rumsavlyssning
-
 
 Regeringskansliet               diarium över krypterade
                                 meddelanden, diarium över
@@ -306,12 +328,6 @@ Regeringskansliet               diarium över krypterade
                                 upprättats i andra än
                                 administrativa och konsulära
                                 ärenden och handelsärenden
-
-Rikspolisstyrelsen              diarier över underrättelser
-                                inom den särskilda
-                                polisverksamheten för att
-                                hindra och uppdaga brott mot
-                                rikets säkerhet m.m.
 
 Skatteverket                    diarium över ärenden om
                                 könsbyte
@@ -335,6 +351,19 @@ Europeiska unionen (EU)         officiella dokument och diarier
                                 administrativa ärenden och
                                 handelsärenden
 
+Säkerhetspolisen                diarier över underrättelser inom
+                                den särskilda polisverksamheten
+                                för att hindra och uppdaga brott
+                                mot rikets säkerhet m.m. och
+                                diarier över ärenden om
+                                kvarhållande av försändelse på
+                                befordringsanstalt och om hemlig
+                                avlyssning av elektronisk
+                                kommunikation, hemlig övervakning
+                                av elektronisk kommunikation,
+                                hemlig kameraövervakning och
+                                hemlig rumsavlyssning
+
 Tullverket                      diarier över ärenden om
                                 kvarhållande av försändelse på
                                 befordringsanstalt och om
@@ -357,7 +386,7 @@ Tullverket                      diarier över ärenden om
                                 diarier över förundersökningar
                                 som rör brott mot rikets
                                 säkerhet
-Förordning (2012:351).
+Förordning (2014:1369).
 
 Föreskrifter med stöd av 15 kap. 2 § offentlighets- och
 sekretesslagen
@@ -445,11 +474,12 @@ registrering av betydande del av befolkningen, för
 
 1. uppgift om en enskilds personliga förhållanden, om det av
 särskild anledning kan antas att den enskilde eller någon
-närstående till denne lider men om uppgiften röjs, och
+närstående till honom eller henne lider men om uppgiften
+röjs, och
 
 2. uppgift i form av fotografisk bild av den enskilde, om det
 inte står klart att uppgiften kan röjas utan att den enskilde
-eller någon närstående till denne lider men.
+eller någon närstående till honom eller henne lider men.
 
 För uppgift i en allmän handling gäller sekretessen i högst
 sjuttio år.
@@ -462,8 +492,7 @@ fastighetsregistret
 
 kommunala fastighetsregister
 
-Rikspolisstyrelsens centrala passregister och centrala register
-för nationella identitetskort
+passregister och register över nationella identitetskort
 
 röstlängdsregister
 
@@ -478,13 +507,12 @@ Totalförsvarets rekryteringsmyndighets register över
 totalförsvarets personal
 
 Transportstyrelsens vägtrafikregister
-Förordning (2010:1766).
+Förordning (2014:1369).
 
 Föreskrifter med stöd av 24 kap. 8 § offentlighets- och
 sekretesslagen
 
-7 § /Upphör att gälla U:2014-11-25/
-Sekretess gäller hos följande myndigheter avseende de
+7 § Sekretess gäller hos följande myndigheter avseende de
 undersökningar som anges nedan för uppgifter som avser en
 enskilds personliga eller ekonomiska förhållanden och som kan
 hänföras till den enskilde. Föreskrifterna i 24 kap. 8 §
@@ -694,462 +722,11 @@ Pensionsmyndigheten     undersökningar om
                         beteende och
                         utfallet av detta
 
-Presstödsnämnden        undersökningar om   sekretessen gäller
-                        tidnings-           endast uppgifter om
-                        distributionens     enskildas ekonomiska
-                        kostnadsutveckling  förhållanden
-
-Regeringskansliet       undersökningar i    sekretessen gäller
-                        Justitie-           endast uppgifter om
-                        departementet om    enskildas personliga
-                        långtidsdömda       förhållanden
-                        (Ju 1986:C)
-
-                        undersökningar i    sekretessen gäller
-                        Justitie-           endast uppgifter om
-                        departementet       enskildas personliga
-                        dels om             förhållanden
-                        utvisning på
-                        grund av brott
-                        (Ju 2001:J),
-                        dels om
-                        påföljdsval
-                        och
-                        straffmätning
-                        vid vållande
-                        till annans död,
-                        grovt brott,
-                        och vållande
-                        till kroppsskada
-                        eller sjukdom,
-                        grovt brott
-
-                        undersökningar om
-                        effekter av
-                        förändringar inom
-                        skatte-, bidrags-
-                        och social-
-                        avgiftsområdet,
-                        om inkomst- och
-                        förmögenhets-
-                        fördelning samt om
-                        fördelnings-
-                        effekter av de
-                        offentliga
-                        välfärdssystemen
-
-                        undersökningar om
-                        utveckling,
-                        förändring samt
-                        effekter av
-                        åtgärder inom
-                        områdena jakt och
-                        fiske, djur, jord-
-                        och skogsbruk,
-                        livsmedel,
-                        landsbygd, miljö
-                        och naturresurser,
-                        energi,
-                        kommunikationer,
-                        näringsverksamhet,
-                        arbetsmarknad,
-                        undervisning och
-                        utbildning,
-                        socialtjänst,
-                        hälso- och
-                        sjukvård,
-                        tandvård,
-                        planläggning,
-                        byggande samt
-                        bostad
-
-                        undersökningar om
-                        effekter av
-                        förändringar i
-                        finansiella
-                        instituts
-                        ekonomiska
-                        förhållanden
-
-                        undersökning om     sekretessen gäller
-                        särbehandlande      endast uppgifter om
-                        åtgärder mot        enskildas personliga
-                        romer under         förhållanden
-                        1900-talet
-
-Rikspolisstyrelsen      undersökningar om   sekretessen gäller
+Polismyndigheten        undersökningar om   sekretessen gäller
                         hur brottsoffer     endast uppgifter om
                         upplever sina       enskildas personliga
                         kontakter med       förhållanden
-                        polisen
-
-Rådet för forsknings-   undersökningar av
-och                     ansökningar om och
-utvecklingssamarbete    deltagande i EU-
-inom EU                 programmen för
-                        forskning och
-                        teknisk
-                        utveckling
-
-sjukvårdsinrättningar,  miljömedicinska,    sekretessen gäller
-utbildningsanstalter    socialmedicinska,   endast uppgifter om
-och                     psykiatriska eller  enskildas personliga
-forskningsinrättningar  andra medicinska    förhållanden
-                        studier
-
-Skatteverket            undersökningar om
-                        effekter av
-                        förändringar inom
-                        skatte- och
-                        socialavgiftsområdet
-                        samt om inkomst- och
-                        förmögenhetsfördelning
-
-Socialstyrelsen         undersökningar om
-                        hälso- och sjukvårdens
-                        behov av läkare,
-                        sjuksköterskor,
-                        barnmorskor och
-                        röntgensjuksköterskor
-                        samt tandvårdens
-                        behov av tandläkare
-                        och tandhygienister
-                        på kort och lång sikt
-
-                        undersökning om
-                        tilllämpningen av
-                        bestämmelserna om
-                        genetisk information i
-                        försäkringssammanhang
-                        i lagen (2006:351) om
-                        genetisk integritet
-                        m.m.
-
-Statens
-institutionsstyrelse    undersökningar      sekretessen gäller
-                        inommissbruks-      enskildas personliga
-                        och ungdomsvården   förhållanden
-                        under uppföljning
-                        efter avslutad
-                        vård
-
-Statens medieråd        undersökningar om   sekretessen gäller
-                        barns och ungas     endast uppgifter om
-                        medievanor samt     enskildas personliga
-                        barns,ungas och     förhållanden
-                        föräldrars
-                        attityder till
-                        medier och
-                        mediereglering
-
-Statens                 undersökning av     sekretessen gäller
-skolinspektion          resultatet av       endast uppgifter om
-                        nationella prov     enskildas personliga
-                                            förhållanden
-
-Statens skolverk        nationella          sekretessen gäller
-                        undersökningar      endast uppgifter om
-                        inom skolväsendet   enskildas personliga
-                        och sådan           förhållanden
-                        pedagogisk
-                        verksamhet som
-                        avses i 25 kap.
-                        skollagen
-                        (2010:800) om
-                        måluppfyllelsen
-                        i sektorn
-
-                        internationella     sekretessen gäller
-                        undersökningar      endast uppgifter om
-                        inom skolväsendet   enskildas personliga
-                        och sådan           förhållanden
-                        pedagogisk
-                        verksamhet som
-                        avses i 25 kap.
-                        skollagen
-                        (2010:800)
-
-Stockholms universitet  utvärdering av
-                        arbetsmarknads-
-                        utfallet för
-                        deltagare i
-                        kompletterande
-                        utbildningar för
-                        akademiker med
-                        utländska
-                        utbildningar
-
-Strålsäkerhets-         undersökningar      sekretessen gäller
-myndigheten             och studier i       endast uppgifter om
-                        beredskaps- och     enskildas personliga
-                        miljömålsarbetet    förhållanden
-
-Tandvårds- och          undersökningar om
-läkemedelsförmånsverket effekter av
-                        förändringar av
-                        det statliga
-                        tandvårdsstödet
-
-Trafikverket            haveriundersökningar
-                        inom
-                        vägtrafikområdet
-
-universitet och         undersökningar av   sekretessen gäller
-högskolor               studenters          endast uppgifter om
-                        bakgrund och om     enskildas personliga
-                        deras vägval        förhållanden
-                        efter studierna
-
-Universitets- och       undersökning om
-högskolerådet           studenters
-                        levnadsvillkor
-                        inom ramen för
-                        projektet
-                        Eurostudent 5
-
-                        undersökning om
-                        effekter och
-                        användning av
-                        Universitets-
-                        och
-                        högskolerådets
-                        utlåtanden
-                        avseende
-                        avslutade
-                        utländska
-                        högskole-
-                        utbildningar
-
-utbildningsanstalter    sociologiska,       sekretessen gäller
-och                     psykologiska,       endast uppgifter om
-forskningsinrättningar  pedagogiska eller   enskildas personliga
-                        andra beteende-     förhållanden
-                        vetenskapliga
-                        eller samhälls-
-                        vetenskapliga
-                        studier
-
-Åklagarmyndigheten      undersökningar      sekretessen gäller
-                        som genomförs       endast uppgifter om
-                        vid Åklagar-        enskildas personliga
-                        myndighetens    ´   förhållanden
-                        utvecklings-
-                        centrum för
-                        uppföljning och
-                        utveckling av
-                        åklagarverksamheten
-Förordning (2014:416).
-
-7 § /Träder i kraft I:2014-11-25/
-Sekretess gäller hos följande myndigheter avseende de
-undersökningar som anges nedan för uppgifter som avser en
-enskilds personliga eller ekonomiska förhållanden och som kan
-hänföras till den enskilde. Föreskrifterna i 24 kap. 8 §
-tredje stycket första meningen och fjärde stycket
-offentlighets- och sekretesslagen (2009:400) gäller, om inte
-en längre gående begränsning i sekretessen anges i det
-följande.
-
-Myndighet               Undersökning        Särskilda begränsningar
-                                            i sekretessen
-
-Boverket                undersökning av     sekretessen gäller
-                        byggnaders          endast uppgifter om
-                        tekniska            enskildas personliga
-                        utformning          förhållanden
-
-Brottsförebyggande      kriminologiska
-rådet                   undersökningar
-
-Folkhälsomyndigheten    undersökningar om
-                        folkhälsan och
-                        dess
-                        bestämningsfaktorer
-
-                        undersökningar om
-                        samhällskostnader
-                        till följd av
-                        infektionssjukdomar
-                        och
-                        antibiotikaresistens
-                        och om effekter av
-                        motåtgärder i fråga
-                        om spridning av
-                        infektionssjukdomar
-
-Forum för levande       enkätundersökning   sekretessen gäller
-historia                bland lärare dels   endast uppgifter om
-                        om Förintelsen,     enskildas personliga
-                        dels om             förhållanden
-                        hedersrelaterat
-                        våld eller
-                        förtryck
-
-                        undersökningar om   sekretessen gäller
-                        ungdomars           endast uppgifter om
-                        attityder till      enskildas personliga
-                        utsatta grupper     förhållanden
-
-Inspektionen för        undersökningar av
-socialförsäkringen      rättstillämpning,
-                        handläggning och
-                        administration inom
-                        socialförsäkrings-
-                        området och inom
-                        verksamheter med
-                        direkt anknytning
-                        till
-                        socialförsäkringen
-
-                        undersökningar om
-                        effekter av
-                        förändringar inom
-                        socialförsäkrings-
-                        området och om
-                        utnyttjandet av
-                        socialförsäkringen
-
-Institutet för          uppföljning och
-arbetsmarknads- och     utvärdering av
-utbildningspolitisk     den arbetsmarknads-
-utvärdering             politiska
-                        verksamheten,
-                        studier av
-                        arbetsmarknadens
-                        funktionssätt,
-                        utvärdering av
-                        effekter av olika
-                        reformer och
-                        åtgärder inom
-                        utbildningsväsendet,
-                        utvärdering av
-                        effekterna på
-                        arbetsmarknaden av
-                        åtgärder inom
-                        utbildningsväsendet
-                        och utvärdering av
-                        socialförsäkringens
-                        effekter på
-                        arbetsmarknaden
-
-Kommerskollegium        ekonomiska          sekretessen gäller
-                        undersökningar      endast uppgifter om
-                        på det              enskildas ekonomiska
-                        handelspolitiska    förhållanden
-                        området
-
-Konjunkturinstitutet    undersökningar för      sekretessen gäller
-                        framställning av        endast uppgifter om
-                        prognoser om            enskildas ekonomiska
-                        bruttonationalprodukten förhållanden
-
-                        undersökningar inom     sekretessen gäller
-                        det miljöekonomiska     endast uppgifter om
-                        området                 enskildas ekonomiska
-                                                förhållanden
-
-                        undersökningar av
-                        effekter av ändrade
-                        skatter och
-                        transfereringar och
-                        av andra åtgärder
-                        inom de finans-,
-                        arbetsmarknads-,
-                        utbildnings-, miljö-,
-                        energi- och
-                        klimatpolitiska
-                        områdena
-
-                        undersökningar av
-                        arbetsmarknaden och
-                        lönebildningen
-
-Konsumentverket         undersökningar av   sekretessen gäller
-                        produktrelaterade   endast uppgifter om
-                        olycksfall          enskildas personliga
-                                            förhållanden
-
-Livsmedelsekonomiska    ekonomiska
-institutet              undersökningar
-                        inom jordbruks-
-                        och
-                        livsmedelsområdet
-
-Livsmedelsverket        undersökningar om   sekretessen gäller
-                        matvanor,           endast uppgifter om
-                        livsmedels-         enskildas personliga
-                        hantering           förhållanden
-                        samt säker mat
-
-länsstyrelserna         undersökningar om   sekretessen gäller
-                        attityder hos       endast uppgifter om
-                        länets invånare     enskildas personliga
-                        till att bo, leva   förhållanden
-                        och verka i länet
-
-Myndigheten för         undersökningar av
-samhällsskydd och       olyckshändelser
-beredskap               och
-                        räddningsinsatser
-
-Myndigheten för         undersökningar av
-tillväxtpolitiska       statliga
-utvärderingar och       stödinsatser inom
-analyser                näringspolitik,
-                        regional
-                        tillväxtpolitik
-                        och
-                        innovationspolitik
-
-Myndigheten för         undersökningar om
-ungdoms- och            ungdomars attityder,
-civilsamhällesfrågor    värderingar och
-                        levnadsvillkor
-
-                        undersökningar om
-                        det civila
-                        samhällets villkor,
-                        sammansättning och
-                        utveckling
-
-Myndigheten för         undersökningar om
-vårdanalys              vårdens och
-                        omsorgens
-                        funktionssätt samt
-                        om effektiviteten i
-                        statliga åtaganden
-                        och verksamheter
-                        inom vård och
-                        omsorg
-
-                        utvärderingar av
-                        information om vård
-                        och omsorg som
-                        lämnas till
-                        enskilda samt av
-                        statliga reformer
-                        och andra statliga
-                        initiativ inom vård
-                        och omsorg
-
-Myndigheten för         undersökningar om
-yrkeshögskolan          utbildningar inom
-                        myndighetens
-                        ansvarsområde och
-                        om sökandefrekvensen
-                        och arbetsmarknadsutfallet
-                        när det gäller sådana
-                        utbildningar
-
-                        undersökningar om
-                        studerandes bakgrund och
-                        deras vägval efter studierna
-
-Pensionsmyndigheten     undersökningar om
-                        pensionspararnas
-                        investerings-
-                        beteende och
-                        utfallet av detta
+                        Polismyndigheten
 
 Presstödsnämnden        undersökningar om   sekretessen gäller
                         tidnings-           endast uppgifter om
@@ -1235,19 +812,12 @@ Regeringskansliet       undersökningar i    sekretessen gäller
                         1900-talet
 
                         undersökning om     sekretessen gäller
-                        tilllämpningen      endast uppgifter om
-                        av                  enskildas personliga
-                        straffbestämmelsen  förhållanden
-                        om kontakt med
+                        tillämpningen av    endast uppgifter om
+                        straffbestämmelsen  enskildas personliga
+                        om kontakt med      förhållanden
                         barn i sexuellt
                         syfte
 
-Rikspolisstyrelsen      undersökningar om   sekretessen gäller
-                        hur brottsoffer     endast uppgifter om
-                        upplever sina       enskildas personliga
-                        kontakter med       förhållanden
-                        polisen
-
 Rådet för forsknings-   undersökningar av
 och                     ansökningar om och
 utvecklingssamarbete    deltagande i EU-
@@ -1307,10 +877,23 @@ Statens medieråd        undersökningar om   sekretessen gäller
                         medier och
                         mediereglering
 
+/Upphör att gälla U:2015-04-01/
 Statens                 undersökning av     sekretessen gäller
 skolinspektion          resultatet av       endast uppgifter om
                         nationella prov     enskildas personliga
                                             förhållanden
+
+/Träder i kraft I:2015-04-01/
+Statens                 undersökningar av   sekretessen gäller
+skolinspektion          resultatet av       endast uppgifter om
+                        nationella prov     enskildas personliga
+                                            förhållanden
+
+undersökningar av hur föräldrar och elever upplever
+kvaliteten på utbildningen vid en skolenhet
+
+sekretessen gäller endast uppgifter om enskildas personliga
+förhållanden
 
 Statens skolverk        nationella          sekretessen gäller
                         undersökningar      endast uppgifter om
@@ -1403,7 +986,7 @@ forskningsinrättningar  pedagogiska eller   enskildas personliga
                         uppföljning och
                         utveckling av
                         åklagarverksamheten
-Förordning (2014:1310).
+Förordning (2015:134).
 
 Föreskrifter med stöd av 30 kap. 7 § offentlighets- och
 sekretesslagen
@@ -1596,7 +1179,7 @@ någon närstående till honom eller henne lider men:
  Arbetsmiljöverket, i verksamhet som avser tillsyn över att
 arbetsmiljö- och arbetstidslagstiftningen följs,
 
-- Centrala studiestödsnämnden,
+ Centrala studiestödsnämnden,
 
  Domstolsverket, när det gäller uppgifter om personal vid
 domstolar och hyres- och arrendenämnder,
@@ -1606,8 +1189,8 @@ som rör förvaring och användning av försöksdjur,
 
  Försäkringskassan,
 
- Genomförandekommittén för nya Polismyndigheten (Ju 2012:16),
-när det gäller verksamhet som avser bemanning av
+ Genomförandekommittén för nya Polismyndigheten (Ju
+2012:16), när det gäller verksamhet som avser bemanning av
 Polismyndigheten,
 
  hyres- och arrendenämnder,
@@ -1633,7 +1216,7 @@ annan inspektionsverksamhet och i verksamhet som rör
 kosttillskott och tillståndsgivning eller godkännanden
 avseende ekologiskt producerade livsmedel och nya livsmedel,
 
- Länsstyrelserna, när det gäller personal i verksamhet som
+ länsstyrelserna, när det gäller personal i verksamhet som
 rör handläggning av djurskydds- och rovdjursfrågor samt i
 verksamhet som rör offentlig kontroll av djurskyddsfrågor,
 
@@ -1650,13 +1233,11 @@ avseende hälso- och sjukvårdspersonal,
 
  patientnämnder,
 
- polismyndigheter,
+ Polismyndigheten,
 
  Regeringskansliet, när det gäller personal i verksamhet som
 rör handläggning av ärenden om nåd i brottmål, abolition och
 särskild utlänningskontroll,
-
- Rikspolisstyrelsen,
 
  Rättsmedicinalverket, när det gäller personal inom
 rättsmedicinsk och rättspsykiatrisk verksamhet,
@@ -1675,9 +1256,9 @@ inom socialtjänsten,
 som rör uppfödning, förvaring, tillhandahållande och
 användning av försöksdjur,
 
- Statens kriminaltekniska laboratorium,
-
  Säkerhets- och integritetsskyddsnämnden,
+
+ Säkerhetspolisen,
 
  Trafikverket, när det gäller personal i verksamhet som
 avser ianspråktagande av mark för väg, ersättning för vägrätt
@@ -1686,7 +1267,7 @@ och förarprov för körkort,
  Tullverket, och
 
  åklagarmyndigheter.
-Förordning (2014:131).
+Förordning (2014:1369).
 
 Föreskrifter med stöd av 39 kap. 5 b § offentlighets- och
 sekretesslagen
@@ -2048,6 +1629,24 @@ förvaring, tillhandahållande och användning av försöksdjur.
 2. Äldre föreskrifter gäller fortfarande i fråga om
 undersökningar som har utförts av Ungdomsstyrelsen.
 
+2014:1369
+
+1. Denna förordning träder i kraft den 1 januari 2015.
+
+2. Äldre bestämmelser gäller i fråga om undersökningar som
+utförts av Rikspolisstyrelsen och i fråga om
+personaladministrativ verksamhet hos polismyndigheter,
+Rikspolisstyrelsen och Statens kriminaltekniska
+laboratorium.
+
+2015:134
+
+1. Denna förordning träder i kraft den 1 april 2015.
+
+2. Äldre föreskrifter gäller fortfarande i fråga om utredning
+enligt förordningen (2005:209) om producentansvar för
+elektriska och elektroniska produkter.
+
 
 Bilaga
 
@@ -2198,11 +1797,26 @@ Transportstyrelsen
                                 person har sådan vikt att
                                 uppgiften bör lämnas ut
 
+/Upphör att gälla U:2015-04-01/
 18. tillståndsgivning och       sekretessen gäller inte beslut
 tillsyn enligt                  i ärenden
 virkesmätningslagen
 (1966:209) och
 skogsvårdslagen (1979:429)
+
+/Träder i kraft I:2015-04-01/
+18. tillståndsgivning och       sekretessen gäller inte beslut
+tillsyn enligt                  i ärenden
+skogsvårdslagen (1979:429)
+och tillsyn enligt lagen        sekretessen enligt 9 § första
+(2014:1005) om                  stycket 1 gäller inte om
+virkesmätning                   intresset av allmän kännedom
+                                om något förhållande som rör
+                                människors hälsa, miljön,
+                                redligheten i handeln eller ett
+                                liknande allmänintresse har
+                                sådan vikt att uppgifterna bör
+                                lämnas ut
 
 19. tillståndsgivning och
 tillsyn enligt lagen
@@ -2332,42 +1946,6 @@ bestämmelser                    uppgifter i
                                 allmänintresse har sådan vikt
                                 att de bör lämnas ut
 
-/Upphör att gälla U:2014-11-01/
-28. tillståndsgivning och       sekretessen gäller inte beslut
-tillsyn enligt                  i ärenden
-livsmedelslagen
-(2006:804),                     sekretessen enligt 9 § första
-livsmedelsförordningen          stycket 1 gäller inte för
-(2006:813), förordningen        uppgifter i
-(2006:812) om offentlig         tillsynsverksamheten, om
-kontroll av livsmedel som       intresset av allmän kännedom om
-importeras från ett             förhållande som rör människors
-tredje land, kungörelsen        hälsa, miljön eller redligheten
-(1974:271) om kontroll          i handeln eller ett liknande
-vid utförsel av livsmedel       allmänintresse har sådan vikt
-eller enligt motsvarande        att de bör lämnas ut
-äldre bestämmelser, de
-föreskrifter som
-meddelats med stöd av
-förordningarna och
-kungörelsen och de
-EG-bestämmelser som
-kompletteras av
-livsmedelslagen samt
-tillståndsgivning och
-kontroll enligt rådets
-förordning (EEG) nr
-2377/90 av den 26 juni
-1990 om inrättandet av
-ett gemenskapsförfarande
-för att fastställa
-gränsvärden för högsta
-tilllåtna restmängder av
-veterinärmedicinska
-läkemedel i livsmedel med
-animaliskt ursprung
-
-/Träder i kraft I:2014-11-01/
 28. tillståndsgivning och       sekretessen gäller inte beslut
 tillsyn enligt                  i ärenden
 livsmedelslagen (2006:804),
@@ -3065,6 +2643,7 @@ förordningen (1983:1108)        i ärenden
 om statligt bidrag till
 installationer för
 uppvärmning m.m.
+
 94. tillståndsgivning och       sekretessen gäller inte beslut
 tillsyn enligt lagen            i ärenden
 (1983:1097) med vissa
@@ -3164,37 +2743,6 @@ strukturfonder eller
 enligt motsvarande äldre
 bestämmelser
 
-/Upphör att gälla U:2014-11-01/
-107. utredning och              sekretessen gäller inte beslut
-tillsyn enligt lagen            i ärenden
-(1994:1708) om EG:s
-förordningar om                 sekretessen enligt 9 § första
-strukturstöd och om stöd        stycket 1 gäller inte om
-till utveckling av              intresset av allmän kännedom om
-landsbygden, lagen              förhållande som rör människors
-(1994:1710) om EG:s             och djurs hälsa, miljön,
-förordningar om                 redligheten i handeln eller ett
-jordbruksprodukter,             liknande allmänintresse har
-förordningen (1999:1148)        sådan vikt att uppgifterna bör
-om EG:s förordningar om         lämnas ut
-jordbruksprodukter, lagen
-(1995:551) om EG:s
-förordning om ekologiskt
-framställda produkter,
-förordningen (2009:27) om
-ekologisk produktion
-eller enligt motsvarande
-äldre bestämmelser, lagen
-(1995:1336) om skydd för
-beteckningar på
-jordbruksprodukter och
-livsmedel, m.m. och
-förordningen (1995:1345)
-om skydd för beteckningar
-på jordbruksprodukter och
-livsmedel, m.m.
-
-/Träder i kraft I:2014-11-01/
 107. utredning och              sekretessen gäller inte beslut
 tillsyn enligt lagen            i ärenden
 (1994:1708) om EG:s
@@ -3410,6 +2958,7 @@ beredskap eller enligt
 motsvarande äldre
 bestämmelser
 
+/Upphör att gälla U:2015-04-01/
 124. utredning enligt           sekretessen enligt 9 § första
 förordningen (2005:209)         stycket 1 gäller inte om
 om producentansvar för          intresset av allmän kännedom om
@@ -3422,6 +2971,22 @@ batterier samt tillsyn
 i fråga om elektriska
 och elektroniska
 produkter och
+batterier enligt
+miljötillsynsförordningen
+(2011:13)
+
+/Träder i kraft I:2015-04-01/
+124. utredning enligt           sekretessen enligt 9 § första
+förordningen (2008:834)         stycket 1 gäller inte om
+om producentansvar för          intresset av allmän kännedom om
+batterier och                   något förhållande som rör
+förordningen (2014:1075)        människors hälsa, miljön,
+om producentansvar för          redligheten i handeln eller ett
+elutrustning samt               liknande allmänintresse har
+tillsyn i fråga om              sådan vikt att uppgifterna bör
+elektriska och                  lämnas ut
+elektroniska produkter,
+elutrustning och
 batterier enligt
 miljötillsynsförordningen
 (2011:13)
@@ -3546,7 +3111,13 @@ förordningen (2014:68) om       beslut i ärenden
 bidrag till
 företagshälsovården för
 köp av medicinsk service
-Förordning (2014:1080).
+
+144. stöd enligt                sekretessen gäller inte
+förordningen (2013:145)         beslut i ärenden
+om stöd för innovativt
+byggande av bostäder
+för unga
+Förordning (2015:134).
 
 
 Sakregister till bilagan
@@ -3572,8 +3143,7 @@ Bilskrotning                                    57
 Biluthyrning                                    73
 Biocidprodukter                                 110
 Biotekniska organismer                          46
-Bolag, statligt                                 10
-Boverket                                        65, 137
+Boverket                                        65, 137, 144
 Brandfarliga varor                              56
 Byggprodukter                                   114
 
@@ -3587,13 +3157,12 @@ Dumpnings- och subventionsundersökningar        69
 Dyrkverktyg                                     80
 
 EG:s LIFE-fond                                  55
-/Upphör att gälla U:2014-11-01/
-Ekologiskt framställda produkter                107
-/Träder i kraft I:2014-11-01/
 Ekologisk produktion                            28
 Ekonomiska sanktioner                           125
 Elektriska och elektroniska produkter           124
 Elsäkerhetsverket                               9
+/Träder i kraft I:2015-04-01/
+Elutrustning                                    124
 Energibesparande åtgärder                       14
 Energimarknadsinspektionen                      9
 Energiprojekt                                   90
@@ -3748,7 +3317,6 @@ Skogsbruket                                     53
 Skogsodlingsmaterial                            39, 81
 Skogsstyrelsen                                  39, 141
 Skogsvård                                       18, 81
-/Träder i kraft I:2014-11-01/
 Skyddade beteckningar på jordbruksprodukter
 och livsmedel                                   127
 Småföretagsstöd                                 75
@@ -3810,4 +3378,4 @@ Yrkestrafiklagen                                77
 Ägarfrågor                                      10
 
 Öppenvårdsapoteksservice                        139
-Förordning (2014:1080).
+Förordning (2015:134).
