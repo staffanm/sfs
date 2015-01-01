@@ -303,20 +303,21 @@ Behandling av personuppgifter beträffande fängelsedömda m.fl.
 
 Uppgifter som får behandlas
 
-15 § I fråga om personer som är dömda till fängelse får utöver
-vad som anges i 3 och 4 §§ följande personuppgifter behandlas:
+15 § I fråga om personer som är dömda till fängelse får
+utöver vad som anges i 3 och 4 §§ följande personuppgifter
+behandlas:
 
 1. sådana uppgifter som avses i 5 § 7 samt 9 § 1, 612, 1521
 och 24 och som när det gäller den som är häktad respektive
 misstänkt i stället ska avse den som är intagen i
 kriminalvårdsanstalt,
 
-2. anknytning till annan intagen med anledning av att denne är
-dömd för delaktighet i samma brott som den dömde,
+2. anknytning till annan intagen som är dömd för delaktighet
+i samma brott som den dömde,
 
-3. uppgifter om placering i avskildhet och undersökning enligt
-6 kap. fängelselagen (2010:610) och om användande av fängsel
-och undersökning enligt 8 kap. 10 § samma lag,
+3. uppgifter om placering i avskildhet och undersökning
+enligt 6 kap. fängelselagen (2010:610) och om användande av
+fängsel och undersökning enligt 8 kap. 10 § samma lag,
 
 4. uppgifter om placering på säkerhetsavdelning,
 
@@ -331,9 +332,9 @@ fängelselagen,
 fängelselagen,
 
 8. beslut om att den dömde ska inställa sig i anstalt eller
-påbörja intensivövervakning med elektronisk kontroll och beslut
-om uppskov med verkställighet samt begäran om förpassning genom
-polismyndighetens försorg,
+påbörja intensivövervakning med elektronisk kontroll, beslut
+om uppskov med verkställighet och begäran om förpassning
+genom Polismyndighetens försorg,
 
 9. övervakarens namn, adress och telefonnummer,
 
@@ -341,7 +342,7 @@ polismyndighetens försorg,
 kontaktförbud eller tillträdesförbud,
 
 11. uppgifter om beslut enligt 26 kap. 18 och 19 §§, 27 kap.
-6 § 1 och 2 samt 28 kap. 7 § brottsbalken,
+6 § 1 och 2 och 28 kap. 7 § brottsbalken, och
 
 12. uppgifter som är nödvändiga för handläggningen av ett
 ärende som enligt lag eller förordning ska prövas av
@@ -350,7 +351,7 @@ Kriminalvården.
 I fråga om den som verkställer fängelsestraffet genom
 intensivövervakning med elektronisk kontroll tillämpas
 bestämmelserna i första stycket 1 när det gäller hänvisningen
-till 5 § 7 och första stycket 812. Förordning (2011:973).
+till 5 § 7 och första stycket 812. Förordning (2014:1162).
 
 Journaler
 
@@ -579,13 +580,13 @@ det gäller hänvisningen till 9 § 16, i 15 § 6 och 9 och i
 Skyldighet för myndigheter att lämna uppgifter som behövs för
 registret
 
-36 § För registrering i centrala kriminalvårdsregistret ska
-nedan angivna myndigheter lämna uppgifter till Kriminalvården
-i följande fall.
+36 § För registrering i det centrala kriminalvårdsregistret
+ska nedan angivna myndigheter lämna uppgifter till
+Kriminalvården i följande fall.
 
 Uppgift lämnas av       Uppgift lämnas om
 
-1. Rikspolisstyrelsen   Dom eller slutligt beslut som avser
+1. Polismyndigheten     Dom eller slutligt beslut som avser
                         fängelse, skyddstillsyn, villkorlig dom
                         med föreskrift om samhällstjänst eller
                         förvandlingsstraff för böter eller vite
@@ -627,14 +628,14 @@ Migrationsöverdomstolen Beslut om att inhibition av en allmän
                         på grund av brott eller att ett
                         utvisningsbeslut på grund av brott
                         helt eller delvis upphävs
-Förordning (2013:659).
+Förordning (2014:1162).
 
 Utlämnande av uppgifter, m.m.
 
 37 § Uppgifter i det centrala kriminalvårdsregistret ska på
 begäran lämnas ut till Regeringskansliet, en domstol,
 Åklagarmyndigheten, Ekobrottsmyndigheten, Justitiekanslern,
-Riksdagens ombudsmän, Rikspolisstyrelsen, en polismyndighet,
+Riksdagens ombudsmän, Polismyndigheten, Säkerhetspolisen,
 Datainspektionen eller en myndighet som får besluta om
 frihetsberövande åtgärd enligt lagen (1957:668) om utlämning
 för brott, lagen (2003:1156) om överlämnande från Sverige
@@ -642,11 +643,11 @@ enligt en europeisk arresteringsorder, utlänningslagen
 (2005:716) eller lagen (2011:1165) om överlämnande från
 Sverige enligt en nordisk arresteringsorder.
 
-Dessutom får Regeringskansliet, Rikspolisstyrelsen och
-polismyndigheter ha direktåtkomst till registret. För
+Dessutom får Regeringskansliet, Polismyndigheten och
+Säkerhetspolisen ha direktåtkomst till registret. För
 Regeringskansliet får dock endast sådana uppgifter göras
 tillgängliga som behövs i ärenden om nåd i brottmål.
-Förordning (2013:659).
+Förordning (2014:1162).
 
 Gallring
 
@@ -743,31 +744,40 @@ brott. Förordning (2005:1025).
 Direktåtkomst och utlämnande av uppgifter till en annan
 myndighet
 
-44 § Chefen för Rikspolisstyrelsen och de personer inom
-myndigheten som han eller hon utser får ha direktåtkomst till
-uppgifter om en person finns registrerad i
-säkerhetsregistret. Rikspolisstyrelsen får lämna ut en sådan
-uppgift till en polismyndighet, Åklagarmyndigheten och
-Ekobrottsmyndigheten om uppgiften kan antas ha särskild
-betydelse för en pågående undersökning i myndighetens
-brottsutredande verksamhet eller för andra brottsbekämpande
-åtgärder.
+44 § Rikspolischefen, säkerhetspolischefen och de personer
+som respektive chef utser får ha direktåtkomst till uppgifter
+om huruvida en person är registrerad i säkerhetsregistret.
+Polismyndigheten och Säkerhetspolisen får lämna ut en sådan
+uppgift till Åklagarmyndigheten och Ekobrottsmyndigheten, om
+uppgiften kan antas ha särskild betydelse för en pågående
+undersökning i myndighetens brottsutredande verksamhet eller
+för andra brottsbekämpande åtgärder.
 
 Uppgifter i säkerhetsregistret får, efter prövning av chefen
 för Kriminalvården eller av de personer som han eller hon
-utser, lämnas ut till Rikspolisstyrelsen eller en
-polismyndighet. Utlämnandet får endast avse uppgifter som kan
-antas ha särskild betydelse för en pågående undersökning i en
-polismyndighets brottsutredande verksamhet, andra
-brottsbekämpande åtgärder eller för att upprätthålla
-ordningen och säkerheten inom kriminalvårdens verksamhet.
+utser, lämnas ut till Polismyndigheten eller
+Säkerhetspolisen. Utlämnandet får endast avse uppgifter som
+kan antas ha särskild betydelse för
+
+1. en pågående undersökning i Polismyndighetens eller
+Säkerhetspolisens brottsutredande verksamhet,
+
+2. andra brottsbekämpande åtgärder, eller
+
+3. att upprätthålla ordningen och säkerheten i
+Kriminalvårdens verksamhet.
 
 Uppgifter i säkerhetsregistret får, efter prövning av chefen
 för Kriminalvården eller av de personer som han eller hon
 utser, även lämnas ut till Regeringskansliet om uppgiften kan
-antas ha betydelse i ärenden om nåd i brottmål, i ärenden
-enligt lagen (1991:572) om särskild utlänningskontroll eller
-i ärenden enligt 7 kap. 11 § eller 13 kap. 6 § fängelselagen
+antas ha betydelse i ärenden
+
+1. om nåd i brottmål,
+
+2. enligt lagen (1991:572) om särskild utlänningskontroll,
+eller
+
+3. enligt 7 kap. 11 § eller 13 kap. 6 § fängelselagen
 (2010:610).
 
 Uppgifter i säkerhetsregistret får, efter prövning av chefen
@@ -775,7 +785,7 @@ för Kriminalvården eller av de personer som han eller hon
 utser, även lämnas ut till allmän domstol om uppgiften kan
 antas ha betydelse i ärenden som handläggs enligt lagen
 (2006:45) om omvandling av fängelse på livstid.
-Förordning (2013:659).
+Förordning (2014:1162).
 
 Gallring
 
@@ -791,8 +801,8 @@ vissa myndigheter m.m.
 
 Underättelseskyldighetens omfattning
 
-46 § Kriminalvården ska lämna underrättelse till nedan angivna
-myndigheter i följande fall.
+46 § Kriminalvården ska lämna underrättelse till nedan
+angivna myndigheter i följande fall.
 
 Uppgift lämnas till             Uppgift lämnas om
 
@@ -803,8 +813,8 @@ rekryteringsmyndighet           Intagning i eller avgång från
                                 kalenderåret fyller 1847 år
 
                                 Beslut om förlängning av
-                                verkställighetstid med minst
-                                en månad för intagen om vilken
+                                verkställighetstid med minst en
+                                månad för intagen om vilken
                                 underrättelse har lämnats
                                 tidigare
 
@@ -813,9 +823,9 @@ rekryteringsmyndighet           Intagning i eller avgång från
                                 i form av intensivövervakning
                                 med elektronisk kontroll och
                                 tidpunkt för verkställighetens
-                                slut för svenska medborgare som
-                                under kalenderåret fyller 1847
-                                år
+                                slut för svenska medborgare
+                                som under kalenderåret fyller
+                                1847 år
 
 2. Försäkringskassan            Tidpunkt för frihetsberövande
                                 på grund av häktning eller
@@ -853,13 +863,7 @@ rekryteringsmyndighet           Intagning i eller avgång från
                                 skyddstillsyn med särskild
                                 behandlingsplan
 
-3. Polismyndighet               Permission eller avgång från
-                                kriminalvårdsanstalt, om
-                                underrättelsen kan antas vara
-                                av betydelse för
-                                polismyndighetens verksamhet
-
-4. Rikspolisstyrelsen           Intagning i eller avgång från
+3. Polismyndigheten             Intagning i eller avgång från
                                 kriminalvårdsanstalt eller
                                 förflyttning till annan anstalt
 
@@ -882,8 +886,24 @@ rekryteringsmyndighet           Intagning i eller avgång från
                                 Permission eller avgång från
                                 kriminalvårdsanstalt, om
                                 underrättelsen kan antas vara
+                                av betydelse för myndighetens
+                                verksamhet
+
+4. Säkerhetspolisen             Intagning i eller avgång från
+                                kriminalvårdsanstalt samt
+                                permission eller förflyttning
+                                till annan anstalt, om
+                                underrättelsen kan antas vara
                                 av betydelse för
-                                Rikspolisstyrelsens verksamhet
+                                Säkerhetspolisens verksamhet
+
+                                Vistelse utanför anstalt i form
+                                av vårdvistelse, vistelse i
+                                halvvägshus eller utökad frigång
+                                enligt fängelselagen, om
+                                underrättelsen kan antas vara av
+                                betydelse för Säkerhetspolisens
+                                verksamhet
 
 5. Pensionsmyndigheten          Tidpunkt för frihetsberövande
                                 på grund av häktning eller
@@ -921,13 +941,10 @@ rekryteringsmyndighet           Intagning i eller avgång från
                                 skyddstillsyn med särskild
                                 behandlingsplan.
 
-                                Bestämmelser om skyldighet för
-                                Kriminalvården att i andra fall
-                                lämna uppgifter till
-                                Rikspolisstyrelsen finns i 30 §
-                                förordningen (1999:1134) om
-                                belastningsregister.
-Förordning (2011:148).
+Bestämmelser om skyldighet för Kriminalvården att i andra
+fall lämna uppgifter till Polismyndigheten finns i 30 §
+förordningen (1999:1134) om belastningsregister.
+Förordning (2014:1162).
 
 Utlämnande av uppgifter för statistik
 
@@ -975,10 +992,10 @@ statistiska och vetenskapliga ändamål. Förordning (2005:1025).
 
 Föreskrifter om uppgiftsskyldighet
 
-52 § Närmare föreskrifter om omfattningen av
-uppgiftsskyldigheten i 36 och 46 §§ samt om tiden och sättet
-för dess fullgörande meddelas av Kriminalvården efter samråd
-med berörda centrala myndigheter. Förordning (2005:1025).
+52 § Kriminalvården meddelar närmare föreskrifter om
+omfattningen av uppgiftsskyldigheten i 36 och 46 §§ samt om
+tiden och sättet för att fullgöra den efter samråd med berörd
+myndighet. Förordning (2014:1162).
 
 53 § Har upphävts genom förordning (2005:1025).
 
