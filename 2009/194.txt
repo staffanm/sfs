@@ -55,29 +55,31 @@ Utbetalningens storlek
 7 § Utbetalningen får uppgå till ett belopp som motsvarar
 mellanskillnaden mellan den debiterade ersättningen för
 hushållsarbetet inklusive mervärdesskatt och köparens
-faktiska betalning för arbetet till utföraren, dock högst
-till samma belopp som köparen har betalat.
+faktiska betalning för arbetet till utföraren före begäran om
+utbetalning, dock högst till samma belopp som köparen har
+betalat.
 
 Utbetalning får inte ske till den del köparens sammanlagda
 preliminära skattereduktion enligt 17 § skulle uppgå till ett
 belopp som överstiger 50 000 kronor för ett beskattningsår.
+Lag (2014:1458).
 
 Begäran om utbetalning
 
 8 § Utbetalning får begäras efter det att hushållsarbetet har
 utförts och betalats.
 
-Begäran ska vara skriftlig och ska ha kommit in till
+Begäran ska lämnas elektroniskt och ska ha kommit in till
 Skatteverket senast den 31 januari året efter det
 beskattningsår då arbetet betalades.
 
-Begäran ska vara egenhändigt underskriven av utföraren eller
-av den som är behörig ställföreträdare för utföraren.
+Begäran ska vara undertecknad av utföraren eller av den som
+är ombud eller annan behörig företrädare för utföraren.
 
 En begäran som lämnats för en utförare som är juridisk
 person, anses ha lämnats av utföraren, om det inte var
 uppenbart att den som lämnade begäran saknade behörighet att
-företräda utföraren. Lag (2011:1426).
+företräda utföraren. Lag (2014:1458).
 
 9 § En begäran om utbetalning ska innehålla uppgifter om
 
@@ -88,11 +90,17 @@ motsvarande registreringsnummer för utföraren,
 2. personnummer eller samordningsnummer i de fall sådant
 nummer finns för köparen,
 
-3. debiterad ersättning för hushållsarbete, betalt belopp och
-den dag som betalningen kommit utföraren tillhanda, och
+3. debiterad ersättning för hushållsarbete, debiterad
+ersättning för material och debiterad ersättning för annat än
+hushållsarbete och material, betalt belopp för hushållsarbete
+och den dag som betalningen för hushållsarbetet kommit
+utföraren tillhanda,
 
-4. det belopp som utföraren begär som utbetalning från
-Skatteverket.
+4. vad hushållsarbetet avsett och antalet arbetade timmar,
+och
+
+5. det belopp som utföraren begär som utbetalning från
+Skatteverket. Lag (2014:1458).
 
 9 a § En begäran om utbetalning ska i fråga om sådant arbete
 som avses i 67 kap. 13 a § inkomstskattelagen (1999:1229)
@@ -104,29 +112,15 @@ avses i 67 kap. 13 b § även innehålla uppgifter om
 lägenhetens beteckning samt föreningens eller bolagets
 organisationsnummer eller motsvarande. Lag (2009:539).
 
-Elektroniskt dokument
-
-10 § Regeringen eller den myndighet regeringen bestämmer får
-meddela föreskrifter om eller i enskilda fall medge att
-begäran om utbetalning får lämnas i form av ett elektroniskt
-dokument.
-
-Med elektroniskt dokument avses en upptagning som har gjorts
-med hjälp av automatiserad databehandling och vars innehåll
-och utställare kan verifieras genom ett visst tekniskt
-förfarande. I så fall får kravet på underskrift enligt 8 §
-tredje stycket uppfyllas med elektroniska medel.
+10 § Har upphävts genom lag (2014:1458).
 
 Skatteverkets beslut om utbetalning
 
 11 § Skatteverket ska snarast fatta beslut om sådan
 utbetalning som avses i 7 §.
 
-12 § Utbetalning ska göras till ett bank- eller
-kreditmarknadsföretagskonto som utföraren har anmält till
-Skatteverket. Om utföraren inte har anmält ett sådant konto,
-får Skatteverket besluta att utbetalning ska göras på något
-annat sätt.
+12 § Utbetalning ska göras till utförarens bank- eller
+kreditmarknadsföretagskonto. Lag (2014:1458).
 
 Återbetalning
 
@@ -242,14 +236,33 @@ granskningen.
 
 Tillfälle att yttra sig
 
-21 § Utföraren och annan mottagare som avses i 13 § första
-stycket ska ges tillfälle att yttra sig innan ärendet avgörs,
-om det inte är onödigt.
+21 § Ett ärende får inte avgöras till nackdel för utföraren
+eller annan mottagare som avses i 13 § första stycket utan
+att denne har fått tillfälle att yttra sig i ärendet. Om det
+är uppenbart obehövligt, behöver den som ärendet gäller inte
+få tillfälle att yttra sig.
 
-I fråga om rätten att få del av uppgifter som har tillförts
-ärendet genom någon annan och att få tillfälle att yttra sig
-över dem gäller bestämmelserna i 17 § förvaltningslagen
-(1986:223).
+Om ett ärende har tillförts uppgifter av någon annan, får det
+inte avgöras utan att den som ärendet gäller har underrättats
+om uppgifterna och fått tillfälle att yttra sig över dem.
+
+Andra stycket gäller inte om
+
+1. avgörandet inte är till nackdel för den som ärendet
+gäller,
+
+2. uppgiften saknar betydelse eller om det av någon annan
+anledning är uppenbart obehövligt att den som ärendet gäller
+underrättas och får tillfälle att yttra sig,
+
+3. det finns risk att en underrättelse skulle göra det
+avsevärt svårare att genomföra beslutet i ärendet, eller
+
+4. avgörandet inte kan skjutas upp.
+
+Underrättelseskyldigheten gäller med de begränsningar som
+följer av 10 kap. 3 § offentlighets- och sekretesslagen
+(2009:400). Lag (2014:1458).
 
 Ränta
 
@@ -265,7 +278,7 @@ basräntan enligt 65 kap. 3 § skatteförfarandelagen
 Om det finns särskilda skäl, får Skatteverket helt eller
 delvis efterge kravet på ränta. Lag (2011:1426).
 
-Verkställighet
+Verkställighet och betalningssäkring
 
 23 § Om återbetalning enligt denna lag inte görs i rätt tid,
 ska fordran lämnas för indrivning. Regeringen får meddela
@@ -276,15 +289,18 @@ Bestämmelser om indrivning finns i lagen (1993:891) om
 indrivning av statliga fordringar m.m. Vid indrivning får
 verkställighet ske enligt utsökningsbalken.
 
+I fråga om återbetalning enligt denna lag gäller vad som sägs
+om betalningssäkring i 46 kap. 2, 57 och 922 §§, 68 kap.
+1 §, 69 kap. 1318 §§ och 71 kap. 1 § skatteförfarandelagen
+(2011:1244). Lag (2014:1458).
+
 Överklagande
 
-24 § Skatteverkets beslut enligt denna lag får överklagas hos
-allmän förvaltningsdomstol.
+24 § Skatteverkets beslut enligt denna lag får överklagas
+till allmän förvaltningsdomstol.
 
-Beslut om sättet för utbetalning enligt 12 § får dock inte
-överklagas.
-
-Prövningstillstånd krävs vid överklagande till kammarrätten.
+Prövningstillstånd krävs vid överklagande till
+kammarrätten. Lag (2014:1458).
 
 
 Övergångsbestämmelser
@@ -298,3 +314,26 @@ hänför sig till tid från och med den 1 januari 2013. För
 ränta som hänför sig till tid dessförinnan gäller i stället
 bestämmelserna om ränta i 19 kap. skattebetalningslagen
 (1997:483).
+
+2014:1458
+
+1. Denna lag träder i kraft den 1 januari
+2015.
+
+2. Bestämmelserna i 8, 9, 12 och 24 §§ i den nya lydelsen
+tillämpas första gången på begäran om utbetalning som avser
+arbete som har betalats av köparen efter den 31 mars 2015.
+
+3. Den upphävda paragrafen gäller dock fortfarande för
+begäran om utbetalning som avser arbete som har betalats av
+köparen före den 1 april 2015.
+
+4. Bestämmelsen i 23 § i den nya lydelsen tillämpas första
+gången på begäran om utbetalning som lämnas efter den 31
+januari 2015.
+
+5. Om det finns särskilda skäl får Skatteverket medge
+befrielse från skyldigheten enligt 8 § andra stycket att
+lämna begäran elektroniskt. Befrielse får medges för högst
+sex månader från den dag beslut om befrielse fattats. Ansökan
+om befrielse ska göras senast den 30 april 2015.
