@@ -1,11 +1,29 @@
-
-
-
 Register
 
-1 § För de ändamål som anges i 2 § får Rikspolisstyrelsen
-behandla personuppgifter i ett register för hela landet över
-förelägganden av ordningsbot. Förordning (1999:1140).
+1 § Polismyndigheten får behandla personuppgifter i ett
+register över förelägganden av ordningsbot för de ändamål som
+anges i 2 §. Förordning (2014:1153).
+
+1 a § I lagen (2013:329) med vissa bestämmelser om skydd för
+personuppgifter vid polissamarbete och straffrättsligt
+samarbete inom Europeiska unionen, och i föreskrifter som
+regeringen har meddelat i anslutning till den lagen, finns
+det särskilda bestämmelser om behandling av personuppgifter
+som inom ramen för polissamarbete eller straffrättsligt
+samarbete har överförts från eller gjorts tillgängliga av
+
+1. en stat som är medlem i Europeiska unionen (EU),
+
+2. Island, Norge, Schweiz eller Liechtenstein,
+
+3. ett EU-organ, eller
+
+4. ett EU-informationssystem.
+
+Om det i de författningar som anges i första stycket finns
+avvikande bestämmelser, ska de tillämpas i stället för
+bestämmelserna i denna förordning och personuppgiftslagen
+(1998:204). Förordning (2013:345).
 
 Registrets ändamål
 
@@ -16,17 +34,17 @@ framställning av statistik.
 
 Personuppgiftsansvarig
 
-3 § Rikspolisstyrelsen är personuppgiftsansvarig för registret.
-Polismyndigheterna, Tullverket och Kustbevakningen är
-personuppgiftsansvariga för uppgifter i de ärenden som
-handläggs hos respektive myndighet. Förordning (2006:85).
+3 § Polismyndigheten är personuppgiftsansvarig för registret.
+Tullverket är personuppgiftsansvarig för uppgifter i de
+ärenden som handläggs av myndigheten.
+Förordning (2014:1153).
 
 Direktåtkomst
 
-4 § Rikspolisstyrelsen och polismyndigheterna får ha
-direktåtkomst till registret. Tullverket och Kustbevakningen
-får ha direktåtkomst till uppgifter i de ärenden i registret
-som handläggs hos respektive myndighet. Förordning (2006:85).
+4 § Säkerhetspolisen får ha direktåtkomst till registret.
+Tullverket och Kustbevakningen får ha direktåtkomst till
+uppgifter i de ärenden i registret som handläggs hos
+respektive myndighet. Förordning (2014:1153).
 
 Registerinnehåll
 
@@ -65,8 +83,9 @@ kustbevakningstjänsteman och domstol,
 Registret får även innehålla tekniska och administrativa
 uppgifter. Förordning (2006:500).
 
-6 § Rikspolisstyrelsen får meddela närmare föreskrifter om
-innehållet i registret.
+6 § Polismyndigheten får meddela närmare föreskrifter om
+innehållet i registret, efter samråd med Tullverket och
+Kustbevakningen. Förordning (2014:1153).
 
 Sambearbetning av uppgifter
 
@@ -77,16 +96,14 @@ kap. 11 § körkortsförordningen (1998:980). Till registret får
 om föreläggande av ordningsbot. Förordning (1999:1140).
 
 8 § Uppgifter i registret får lämnas ut på medium för
-automatisk databehandling till Brottsförebyggande rådet för
-rättsstatistiken, till Rikspolisstyrelsen för aktualisering av
-det register som förs med stöd av lagen (1998:620) om
-belastningsregister och till Kronofogdemyndigheten för
-aktualisering av utsöknings- och indrivningsdatabasen som förs
-med stöd av lagen (2001:184) om behandling av uppgifter i
-Kronofogdemyndighetens verksamhet. I övrigt får uppgifter i
-registret lämnas ut på medium för automatisk databehandling
+automatiserad behandling till Brottsförebyggande rådet för
+rättsstatistiken och till Kronofogdemyndigheten för
+aktualisering av utsöknings- och indrivningsdatabasen som
+förs med stöd av lagen (2001:184) om behandling av uppgifter
+i Kronofogdemyndighetens verksamhet. Uppgifter i registret
+får i övrigt lämnas ut på medium för automatiserad behandling
 endast om det följer av någon författning eller om regeringen
-medger det. Förordning (2006:783).
+medger det. Förordning (2014:1153).
 
 Sökbegrepp
 
@@ -101,3 +118,10 @@ Gallring
 
 10 § Uppgifter i registret skall gallras senast sex år efter
 det kalenderår föreläggandet utfärdades.
+
+Rättelse och skadestånd
+
+11 § Bestämmelserna i personuppgiftslagen (1998:204) om
+rättelse och skadestånd tillämpas på motsvarande sätt vid
+behandling av personuppgifter enligt denna förordning.
+Förordning (2014:1153).
