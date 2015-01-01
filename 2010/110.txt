@@ -9881,10 +9881,10 @@ det år balanstalet avser.
 20 § Pensionsskulden beräknas för det andra året före det år
 balanstalet avser, som summan av
 
-1. pensionsbehållningar enligt 62 kap. 5-7 §§,
+1. pensionsbehållningar enligt 62 kap. 57 §§,
 
 2. det beräknade värdet av pensionsrätter för inkomstpension
-enligt 61 kap. 5-10 §§,
+enligt 61 kap. 510 §§,
 
 3. utbetalad pension för varje åldersgrupp i december
 multiplicerad med beräknat antal återstående utbetalningar av
@@ -9892,7 +9892,14 @@ ett genomsnittligt pensionsbelopp för samma åldersgrupp,
 justerat med den räntefaktor som anges i 62 kap. 36 § och
 
 4. det beräknade värdet av kommande utbetalningar av
-tilläggspension för dem som inte börjat ta ut sådan pension.
+tilläggspension för dem som inte börjat ta ut sådan
+pension.
+
+Om ett balansindex har beräknats enligt 2224 §§
+för det år som värdet av pensionsrätter för inkomstpension
+ska beräknas enligt första stycket 2, ska pensionsrätterna
+beräknas på det sätt som anges i 62 kap. 5 § andra stycket.
+Lag (2014:1548).
 
 21 § Regeringen eller den myndighet som regeringen bestämmer
 meddelar närmare föreskrifter om balanstalet.
@@ -11318,11 +11325,18 @@ Grundläggande bestämmelser
 för inkomstpension som enligt 61 kap. har fastställts för den
 försäkrade, omräknade med hänsyn till bestämmelserna om
 
-1. arvsvinster i 9-17 §§,
+1. arvsvinster i 917 §§,
 
-2. indexering i 18-21 §§, och
+2. indexering i 1821 §§, och
 
-3. förvaltningskostnader i 22-26 §§.
+3. förvaltningskostnader i 2226 §§.
+
+Om ett balansindex har beräknats enligt 58 kap. 2224 §§ för
+det år som pensionsrätt ska fastställas, ska pensionsrätten
+för inkomstpension, innan den läggs till
+pensionsbehållningen, multipliceras med kvoten mellan det
+balansindex och det inkomstindex som har  fastställts för
+samma år. Lag (2014:1548).
 
 6 § Pensionsbehållningen ska räknas om varje år. När
 omräkning gjorts ska pensionsbehållningen avrundas till
@@ -19705,5 +19719,14 @@ avser tid före ikraftträdandet.
 1. Denna lag träder i kraft den 1 juli 2014.
 
 2. De nya bestämmelserna tillämpas första gången på återkrav
-som har beslutats av Försäkringskassan efter
-ikraftträdandet.
+som har beslutats av Försäkringskassan efter ikraftträdandet.
+
+2014:1548
+
+1. Denna lag träder i kraft den 1 januari 2015.
+
+2. Den nya föreskriften i 58 kap. 20 § tillämpas första
+gången på balanstal som ska beräknas för år 2016.
+
+3. Den nya föreskriften i 62 kap. 5 § tillämpas första gången
+för fastställelseåret 2015.
