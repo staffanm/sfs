@@ -1,5 +1,3 @@
-
-
 1 kap. Lagens innehåll och tillämpningsområde samt allmänna
 bestämmelser
 
@@ -916,11 +914,11 @@ de tekniska svårigheter som ett byte av leverantör kan orsaka.
 10 § En upphandlande myndighet eller enhet får använda
 förhandlat förfarande utan föregående annonsering när det
 gäller kontrakt som tillhandahåller luft- och sjötransporter
-för EES-staternas väpnade styrkor eller polis som skickats
+för EES-staternas väpnade styrkor eller polismän som skickats
 eller kommer att skickas utomlands när det är omöjligt att
 hålla tidsfrister vid selektivt förfarande eller förhandlat
 förfarande med föregående annonsering med anledning av
-giltighetstiden för anbuden.
+giltighetstiden för anbuden. Lag (2014:771).
 
 Konkurrenspräglad dialog
 
@@ -1335,7 +1333,7 @@ punkt 3 i bilaga 4 och liknande specifikation för
 försvarsmateriel.
 
 Varje hänvisning som avses i första stycket ska följas av
-orden eller likvärdigt.
+orden ”eller likvärdigt”.
 
 Första stycket gäller inte, om det i någon annan författning
 finns avvikande bestämmelser eller om det finns avvikande
@@ -2790,16 +2788,17 @@ Upphandlingsförfaranden
 förenklat förfarande eller urvalsförfarande.
 
 Direktupphandling får dock användas om kontraktets värde
-uppgår till högst 15 procent av det tröskelvärde som avses i
+uppgår till högst 26 procent av det tröskelvärde som avses i
 3 kap. 1 § första stycket 1. Vidare får direktupphandling
 användas i tillämplig omfattning i de fall förutsättningarna
 för förhandlat förfarande utan föregående annonsering som
-avses i 4 kap. 4-10 §§ är uppfyllda eller om det finns
-synnerliga skäl.
+avses i 4 kap. 4–10 §§ är uppfyllda eller om det finns
+synnerliga skäl. Den upphandlande myndigheten eller enheten
+ska besluta riktlinjer för användning av direktupphandling.
 
 Konkurrenspräglad dialog får, i enlighet med 2 §, användas om
 inte förenklat förfarande eller urvalsförfarande medger
-tilldelning av kontrakt.
+tilldelning av kontrakt. Lag (2014:476).
 
 Beräkning av värdet av ett kontrakt
 
@@ -2998,11 +2997,10 @@ inte fått tillfredsställande svar.
 
 Dokumentation, underrättelse och förvaring av handlingar m.m.
 
-20 § En upphandlande myndighet eller enhet ska anteckna skälen
-för sina beslut och annat av betydelse vid upphandlingen.
-Detta gäller dock inte vid tilldelning av kontrakt vilkas
-värde uppgår till högst det i 3 § andra stycket angivna
-värdet.
+20 § En upphandlande myndighet eller enhet ska anteckna
+skälen för sina beslut och annat av betydelse vid
+upphandlingen om upphandlingens värde överstiger 100 000
+kronor. Lag (2014:476).
 
 21 §  Vid förenklat förfarande och urvalsförfarande ska den
 upphandlande myndigheten eller enheten snarast möjligt
@@ -3430,6 +3428,13 @@ Prövningstillstånd krävs vid överklagande till kammarrätten.
 2. Lagen tillämpas inte på upphandlingar som har påbörjats
 före ikraftträdandet.
 
+2014:476
+
+1. Denna lag träder i kraft den 1 juli 2014.
+
+2. Äldre bestämmelser gäller för upphandlingar som har
+påbörjats före ikraftträdandet.
+
 
 Bilaga 1
 
@@ -3557,7 +3562,7 @@ här anges:
         författning kan ange i fråga om den fullbordade
         entreprenaden samt om ingående material eller delar.
 
-     b)teknisk specifikation: i fråga om tjänste- eller
+        b)teknisk specifikation: i fråga om tjänste- eller
         varukontrakt, en specifikation i ett dokument med
         angivande av kraven på en produkts eller en tjänsts
         egenskaper, som kvalitetsnivåer, nivå på miljöprestanda,
@@ -3571,7 +3576,7 @@ här anges:
         bruksanvisningar, produktionsprocesser och -metoder
         samt förfaranden vid bedömning av överensstämmelse.
 
-2.   standard: en teknisk specifikation som har fastställts
+2.      standard: en teknisk specifikation som har fastställts
         av ett erkänt standardiseringsorgan för upprepad eller
         fortlöpande tillämpning, med vilken överensstämmelse
         inte är obligatorisk och som tillhör någon av följande
@@ -3581,22 +3586,22 @@ här anges:
         ett internationellt standardiseringsorgan och gjorts
         tillgänglig för allmänheten.
 
-     - Europeisk standard: en standard som antagits av ett
+        - Europeisk standard: en standard som antagits av ett
         europeiskt standardiseringsorgan och gjorts tillgänglig
         för allmänheten.
 
-     - Nationell standard: en standard som antagits av ett
+        - Nationell standard: en standard som antagits av ett
         nationellt standardiseringsorgan och gjorts tillgänglig
         för allmänheten.
 
-3.   försvarsstandard: En teknisk specifikation som inte är
+3.      försvarsstandard: En teknisk specifikation som inte är
         tvingande och som godkänts av ett erkänt
         standardiseringsorgan på internationell, regional eller
         nationell nivå, specialiserad på utarbetandet av
         tekniska specifikationer för upprepad eller kontinuerlig
         tillämpning på försvarsområdet.
 
-4.   europeiskt tekniskt godkännande: en positiv teknisk
+4.      europeiskt tekniskt godkännande: en positiv teknisk
         bedömning av en produkts lämplighet för att användas
         för ett bestämt ändamål, grundad på att de grundläggande
         kraven på byggentreprenaden är uppfyllda genom
@@ -3606,13 +3611,13 @@ här anges:
         utfärdas av ett organ för godkännande som för detta
         ändamål utsetts av medlemsstaten.
 
-5.   gemensam teknisk specifikation: en teknisk
+5.      gemensam teknisk specifikation: en teknisk
         specifikation som har utarbetats i enlighet med ett
         förfarande som erkänts av medlemsstaterna och som har
         offentliggjorts i Europeiska unionens officiella
         tidning.
 
-6.   teknisk referens: en produkt, med undantag för
+6.      teknisk referens: en produkt, med undantag för
         officiella standarder, som framställs av ett europeiskt
         standardiseringsorgan i enlighet med förfaranden som
         anpassats till utvecklingen av marknadens behov.
