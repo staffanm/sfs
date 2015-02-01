@@ -88,7 +88,8 @@ Förordning (2007:745).
 
 2 kap. Registerinnehåll
 
-1 § I vägtrafikregistret ska de uppgifter föras in som
+1 § /Upphör att gälla U:2015-02-01/
+I vägtrafikregistret ska de uppgifter föras in som
 framgår av
 
 1. bilaga 1 i fråga om fordonsregistrering,
@@ -112,6 +113,35 @@ vilotider.
 I 4 kap. 5 a § finns särskilda bestämmelser om registrering
 av uppgifter enligt Prümrådsbeslutet och enligt
 CBE-direktivet. Förordning (2014:128).
+
+1 § /Träder i kraft I:2015-02-01/
+I vägtrafikregistret ska de uppgifter föras in som
+framgår av
+
+1. bilaga 1 i fråga om fordonsregistrering,
+
+2. bilaga 2 i fråga om körkortsregistrering,
+
+3. bilaga 3 i fråga om yrkestrafik- och
+taxitrafikregistrering,
+
+4. bilaga 4 i fråga om registrering av felparkeringsavgifter,
+
+
+5. bilaga 5 i fråga om registrering av trängselskatt,
+
+6. bilaga 6 i fråga om registrering av yrkeskompetensbevis,
+
+7. bilaga 7 i fråga om registrering av kontroller av kör-
+och vilotider, och
+
+8. bilaga 8 i fråga om registrering av infrastrukturavgifter
+på de vägar som avses i 4 § förordningen (2014:1564) om
+infrastrukturavgifter på väg.
+
+I 4 kap. 5 a § finns särskilda bestämmelser om registrering
+av uppgifter enligt Prümrådsbeslutet och enligt
+CBE-direktivet. Förordning (2014:1566).
 
 2 § /Upphör att gälla U:2015-01-01/
 Transportstyrelsen svarar för att uppgifterna enligt 1 §
@@ -284,16 +314,52 @@ omedelbart.
 Ytterligare föreskrifter om gallring av uppgifter finns i
 bilaga 7. Förordning (2010:1619).
 
+/Rubriken träder i kraft I:2015-02-01/
+Uppgifter om registreringen av infrastrukturavgifter på väg
+
+9 § /Träder i kraft I:2015-02-01/
+Uppgifter om infrastrukturavgifter på väg ska gallras ur
+vägtrafikregistret om
+
+1. infrastrukturavgiften har betalats, och
+
+2. omprövning inte har begärts av beslut varigenom
+infrastrukturavgiften eller eventuell förseningsavgift eller
+tilläggsavgift som är hänförlig till infrastukturavgiften har
+påförts.
+
+Uppgifterna ska i de fall som avses i första stycket gallras
+en vecka efter utgången av fristen för begäran om omprövning
+enligt 13 § andra stycket förordningen (2014:1564) om
+infrastrukturavgifter på väg eller, om avgiften har betalats
+först vid en senare tidpunkt, när betalning har skett.
+
+Om omprövning har begärts av beslut varigenom avgiften har
+påförts, ska uppgifterna gallras när begäran eller ett
+överklagande enligt 26 § förordningen om
+infrastrukturavgifter på väg slutligt har prövats.
+
+Om avgiften inte har betalats, ska uppgifterna gallras när
+fordringen har preskriberats. Förordning (2014:1566).
+
+10 § /Träder i kraft I:2015-02-01/
+Uppgifter som behandlas i samband med passage av en
+betalstation som avses i 8 § förordningen (2014:1564) om
+infrastrukturavgifter på väg ska gallras omedelbart, om de
+inte behövs för att ett beslut om avgift ska kunna fattas.
+Förordning (2014:1566).
+
 4 kap. Sökning i och utdrag ur vägtrafikregistret
 
 Sökbegrepp i vägtrafikregistret
 
-1 § Vid sökning i vägtrafikregistret får som sökbegrepp när
+1 § /Upphör att gälla U:2015-02-01/
+Vid sökning i vägtrafikregistret får som sökbegrepp när
 det gäller
 
 1. fordonsregistreringen användas de uppgifter som enligt 6 §
 första stycket 1 lagen (2001:558) om vägtrafikregister förs
-in i registret med undantag för uppgift om innehav av fordon
+in i registret, med undantag för uppgift om innehav av fordon
 på grund av kreditköp med förbehåll om återtaganderätt,
 
 2. körkortsregistreringen användas
@@ -303,9 +369,9 @@ a) personnummer, samordningsnummer eller referensnummer,
 b) uppgifter om giltigt körkort eller förarbevis, ADR-intyg,
 behörighet, återkallelsegrund eller förarprövare,
 
-c) datum för körkortsuppgifter som avses i bilaga 2 punkten 2
+c) datum för körkortsuppgifter som avses i bilaga 2 punkt 2
 och som är förenade med datum, eller administrativa uppgifter
-som avses i bilaga 2 punkten 6,
+som avses i bilaga 2 punkt 6,
 
 d) namnet på den stat som utfärdat utländskt körkort i
 kombination med körkortsnummer eller motsvarande,
@@ -316,8 +382,8 @@ a) registreringsnummer, personnummer, samordningsnummer,
 organisationsnummer, namn eller del av namn eller förarkod
 för taxiförarlegitimation,
 
-b) datum för tillståndsuppgifter som avses i bilaga 3 punkten
-2 och som är förenade med datum,
+b) datum för tillståndsuppgifter som avses i bilaga 3 punkt 2
+och som är förenade med datum,
 
 c) kortnummer och beställningsnummer för färdskrivarkort samt
 slutdatum för giltigheten av sådana kort,
@@ -334,7 +400,8 @@ bilaga 4 och som är förenade med datum,
 
 5. registreringen av trängselskatt användas
 
-a) registreringsnummer, personnummer, samordningsnummer eller
+a) registreringsnummer, landskod i kombination med
+registreringsnummer, personnummer, samordningsnummer eller
 organisationsnummer,
 
 b) datum för uppgifter om trängselskatt som avses i bilaga 5
@@ -357,7 +424,89 @@ d) typ av transportverksamhet.
 
 Första stycket är inte tillämpligt om möjligheterna att
 använda sökbegrepp begränsats enligt 5 §.
-Förordning (2014:450).
+Förordning (2014:1565).
+
+1 § /Träder i kraft I:2015-02-01/
+Vid sökning i vägtrafikregistret får som sökbegrepp när
+det gäller
+
+1. fordonsregistreringen användas de uppgifter som enligt 6 §
+första stycket 1 lagen (2001:558) om vägtrafikregister förs
+in i registret, med undantag för uppgift om innehav av fordon
+på grund av kreditköp med förbehåll om återtaganderätt,
+
+2. körkortsregistreringen användas
+
+a) personnummer, samordningsnummer eller referensnummer,
+
+b) uppgifter om giltigt körkort eller förarbevis, ADR-intyg,
+behörighet, återkallelsegrund eller förarprövare,
+
+c) datum för körkortsuppgifter som avses i bilaga 2 punkt 2
+och som är förenade med datum, eller administrativa uppgifter
+som avses i bilaga 2 punkt 6,
+
+d) namnet på den stat som utfärdat utländskt körkort i
+kombination med körkortsnummer eller motsvarande,
+
+3. yrkestrafik- och taxitrafikregistreringen användas
+
+a) registreringsnummer, personnummer, samordningsnummer,
+organisationsnummer, namn eller del av namn eller förarkod
+för taxiförarlegitimation,
+
+b) datum för tillståndsuppgifter som avses i bilaga 3 punkt 2
+och som är förenade med datum,
+
+c) kortnummer och beställningsnummer för färdskrivarkort samt
+slutdatum för giltigheten av sådana kort,
+
+d) fordons eller tillstånds användningssätt,
+
+4. registreringen av felparkeringsavgifter användas
+
+a) registreringsnummer, personnummer, samordningsnummer,
+organisationsnummer eller ärendenummer,
+
+b) datum för uppgifter om felparkeringsavgift som avses i
+bilaga 4 och som är förenade med datum,
+
+5. registreringen av trängselskatt användas
+
+a) registreringsnummer, landskod i kombination med
+registreringsnummer, personnummer, samordningsnummer eller
+organisationsnummer,
+
+b) datum för uppgifter om trängselskatt som avses i bilaga 5
+och som är förenade med datum,
+
+6. registrering av yrkeskompetensbevis användas personnummer,
+samordningsnummer och serienummer,
+
+7. registreringen av kontroller av kör- och vilotider
+användas
+
+a) registreringsnummer, personnummer, samordningsnummer,
+organisationsnummer, namn eller del av namn,
+
+b) datum för kontroller i företags lokaler,
+
+c) företags riskvärde,
+
+d) typ av transportverksamhet,
+
+8. registreringen av infrastrukturavgifter på väg användas
+
+a) registreringsnummer, landskod i kombination med
+registreringsnummer, personnummer, samordningsnummer eller
+organisationsnummer,
+
+b) datum för uppgifter om infrastrukturavgifter på väg som
+avses i bilaga 8 och som är förenade med datum.
+
+Första stycket är inte tillämpligt om möjligheterna att
+använda sökbegrepp begränsats enligt 5 §.
+Förordning (2014:1566).
 
 2 § Utöver vad som anges i 1 § får sökning ske efter uppgift i
 vägtrafikregistret för vilken tidpunkt för gallring inträtt.
@@ -675,6 +824,22 @@ säkerhetsfrågorna är lösta på ett sätt som är
 tillfredsställande ur integritetssynpunkt.
 Förordning (2008:1283).
 
+/Rubriken träder i kraft I:2015-02-01/
+Uppgifter om registreringen av infrastrukturavgifter på väg
+
+10 c § /Träder i kraft I:2015-02-01/
+Ett utdrag som avser uppgifter om
+infrastrukturavgifter på väg får begäras hos
+Transportstyrelsen och får innehålla uppgifter om datum,
+belopp och betalning, om utdraget har begärts av den
+registrerade själv. En sådan begäran kan ske genom
+tonvalssignalering per telefon eller efter en skriftlig
+begäran som överförs elektroniskt på det sätt som
+Transportstyrelsen föreskriver, under förutsättning att
+behörighets- och säkerhetsfrågorna är lösta på ett sätt som
+är tillfredsställande ur integritetssynpunkt.
+Förordning (2014:1566).
+
 Övriga bestämmelser
 
 11 § Om den som i tjänsten har tagit befattning med uppgifter
@@ -683,10 +848,11 @@ vägtrafikregistreringen misstänker att uppgifterna är oriktiga,
 skall han eller hon genast anmäla det till Transportstyrelsen.
 Förordning (2008:1283).
 
-12 § Uppgifter ur vägtrafikregistret får lämnas ut till en
+12 § /Upphör att gälla U:2015-02-01/
+Uppgifter ur vägtrafikregistret får lämnas ut till en
 utländsk myndighet om utlämnandet följer av en internationell
-överenskommelse som Sverige har tillträtt eller av en EU-
-rättsakt.
+överenskommelse som Sverige har tillträtt eller av en
+EU-rättsakt.
 
 Uppgifter från ett personregister hos en myndighet i något
 annat land får överföras endast
@@ -703,31 +869,74 @@ d) förarkort enligt rådets förordning (EEG) nr 3821/85 av den
 20 december 1985 om färdskrivare vid vägtransporter,
 
 e) tillstånd att bedriva yrkesmässig trafik enligt förordning
-(EG) nr
-
-1071/2009 och yrkestrafiklagen (2012:210), eller
+(EG) nr 1071/2009 och yrkestrafiklagen (2012:210),
 
 f) tillstånd att bedriva internationella gods- eller
 persontransporter på väg enligt Europaparlamentets och rådets
 förordning (EG) nr 1072/2009 av den 21 oktober 2009 om
 gemensamma regler för tillträde till den internationella
 marknaden för godstransporter på väg eller Europaparlamentets
-och rådets förordning (EG) nr 1073/2009 av den 21 oktober 2009
-om gemensamma regler för tillträde till den internationella
-marknaden för persontransporter med buss och om ändring av
-förordning (EG) nr 561/2006,
+och rådets förordning (EG) nr 1073/2009 av den 21 oktober
+2009 om gemensamma regler för tillträde till den
+internationella marknaden för persontransporter med buss och
+om ändring av förordning (EG) nr 561/2006, eller
+
+g) trängselskatt,
 
 2. vid kontroll enligt 3 kap. 15 § körkortslagen (1998:488),
 eller
 
 3. för att bistå andra myndigheter eller allmänheten enligt
-12 a §. Förordning (2012:297).
+12 a §. Förordning (2014:1565).
 
 12 a § Transportstyrelsen ska bistå andra myndigheter och
 allmänheten med att söka uppgifter i utländska register över
 vägtransportföretag enligt de förutsättningar som anges i
 artikel 16.2 i förordning (EG) nr 1071/2009 och 8 a § lagen
 (2001:558) om vägtrafikregister. Förordning (2012:243).
+
+12 § /Träder i kraft I:2015-02-01/
+Uppgifter ur vägtrafikregistret får lämnas ut till en
+utländsk myndighet om utlämnandet följer av en internationell
+överenskommelse som Sverige har tillträtt eller av en
+EU-rättsakt.
+
+Uppgifter från ett personregister hos en myndighet i något
+annat land får överföras endast
+
+1. i samband med ett ärende om
+
+a) ursprungskontroll,
+
+b) registrering av fordon,
+
+c) utbyte av utländskt körkort,
+
+d) förarkort enligt rådets förordning (EEG) nr 3821/85 av den
+20 december 1985 om färdskrivare vid vägtransporter,
+
+e) tillstånd att bedriva yrkesmässig trafik enligt förordning
+(EG) nr 1071/2009 och yrkestrafiklagen (2012:210),
+
+f) tillstånd att bedriva internationella gods- eller
+persontransporter på väg enligt Europaparlamentets och rådets
+förordning (EG) nr 1072/2009 av den 21 oktober 2009 om
+gemensamma regler för tillträde till den internationella
+marknaden för godstransporter på väg eller Europaparlamentets
+och rådets förordning (EG) nr 1073/2009 av den 21 oktober
+2009 om gemensamma regler för tillträde till den
+internationella marknaden för persontransporter med buss och
+om ändring av förordning (EG) nr 561/2006,
+
+g) trängselskatt, eller
+
+h) infrastrukturavgifter på väg,
+
+2. vid kontroll enligt 3 kap. 15 § körkortslagen (1998:488),
+eller
+
+3. för att bistå andra myndigheter eller allmänheten enligt
+12 a §. Förordning (2014:1566).
 
 13 § /Upphör att gälla U:2015-01-01/
 Uppgift i vägtrafikregistret i form av fotografisk bild av
@@ -1713,30 +1922,61 @@ provisorisk registreringsskylt.
 Ersättningsskyltar lämnas ut av Transportstyrelsen.
 Förordning (2014:1269).
 
-13 § Ersättningsskyltar eller provisoriska registreringsskyltar
-får inte lämnas ut för ett fordon om användningsförbud råder
-för det enligt 6 kap. 1 § vägtrafikskattelagen (2006:227), 8 §
-lagen (2006:228) med särskilda bestämmelser om fordonsskatt,
-
-18 § bilskrotningslagen (1975:343) eller 25 § lagen (1997:1137)
-om vägavgift för vissa tunga fordon. Detsamma gäller om
-fordonets registreringsskyltar har tagits om hand enligt 5 kap.
-
-8 § taxitrafiklagen (2012:211) och fordonet är anmält för
+13 § /Upphör att gälla U:2015-02-01/
+Ersättningsskyltar eller provisoriska
+registreringsskyltar får inte lämnas ut för ett fordon om
+användningsförbud råder för det enligt 18 §
+bilskrotningslagen (1975:343), 25 § lagen (1997:1137) om
+vägavgift för vissa tunga fordon, 18 a § lagen (2004:629) om
+trängselskatt, 6 kap. 1 § vägtrafikskattelagen (2006:227)
+eller 8 § lagen (2006:228) med särskilda bestämmelser om
+fordonsskatt. Detsamma gäller om fordonets
+registreringsskyltar har tagits om hand enligt 5 kap. 8 §
+taxitrafiklagen (2012:211) och fordonet är anmält för
 användning i taxitrafik enligt den lagen.
 
 Om fordonet är avställt får ersättningsskyltar eller
 provisoriska skyltar lämnas ut endast om det hade fått ske om
-fordonet hade varit skatte- eller avgiftspliktigt enligt nämnda
-lagar.
+fordonet hade varit skatte- eller avgiftspliktigt enligt
+nämnda lagar.
 
 Om ett fordons registreringsskyltar har tagits om hand enligt
-6 kap. 3 § vägtrafikskattelagen, 8 § lagen med särskilda
-bestämmelser om fordonsskatt eller 28 § lagen om vägavgift för
-vissa tunga fordon, får efter ansökan ersättningsskyltar eller
-provisoriska registreringsskyltar lämnas ut till fordonets
-ägare när det inte längre finns något hinder mot det enligt
-någon av dessa lagar. Förordning (2012:243).
+28 § lagen om vägavgift för vissa tunga fordon, 18 c § lagen
+om trängselskatt, 6 kap. 3 § vägtrafikskattelagen eller 8 §
+lagen med särskilda bestämmelser om fordonsskatt, får efter
+ansökan ersättningsskyltar eller provisoriska
+registreringsskyltar lämnas ut till fordonets ägare när det
+inte längre finns något hinder mot det enligt någon av dessa
+lagar. Förordning (2014:1565).
+
+13 § /Träder i kraft I:2015-02-01/
+Ersättningsskyltar eller provisoriska
+registreringsskyltar får inte lämnas ut för ett fordon om
+användningsförbud råder för det enligt 18 §
+bilskrotningslagen (1975:343), 25 § lagen (1997:1137) om
+vägavgift för vissa tunga fordon, 18 a § lagen (2004:629) om
+trängselskatt, 6 kap. 1 § vägtrafikskattelagen (2006:227), 8 §
+lagen (2006:228) med särskilda bestämmelser om fordonsskatt
+eller 14 § lagen (2014:52) om infrastrukturavgifter på väg.
+Detsamma gäller om fordonets registreringsskyltar har tagits
+om hand enligt 5 kap. 8 § taxitrafiklagen (2012:211) och
+fordonet är anmält för användning i taxitrafik enligt den
+lagen.
+
+Om fordonet är avställt får ersättningsskyltar eller
+provisoriska skyltar lämnas ut endast om det hade fått ske om
+fordonet hade varit skatte- eller avgiftspliktigt enligt
+nämnda lagar.
+
+Om ett fordons registreringsskyltar har tagits om hand enligt
+28 § lagen om vägavgift för vissa tunga fordon, 18 c § lagen
+om trängselskatt, 6 kap. 3 § vägtrafikskattelagen, 8 § lagen
+med särskilda bestämmelser om fordonsskatt eller 16 § lagen
+om infrastrukturavgifter på väg, får efter ansökan
+ersättningsskyltar eller provisoriska registreringsskyltar
+lämnas ut till fordonets ägare när det inte längre finns
+något hinder mot det enligt någon av dessa lagar.
+Förordning (2014:1566).
 
 14 § /Upphör att gälla U:2015-01-01/
 När ett fordons registreringsskyltar i något fall som
@@ -2544,23 +2784,50 @@ bilinspektör.
 
 Förutsättningar och hinder för registrering
 
-7 § Fordon som har förts in till Sverige för att stadigvarande
-brukas här och som registreras efter anmälan enligt 6 kap. 4 §,
-ska vara godkänt vid en ursprungskontroll enligt 6 kap. 5 och
-6 §§ innan tillfällig registrering meddelas.
+7 § /Upphör att gälla U:2015-02-01/
+Fordon som har förts in till Sverige för att
+stadigvarande brukas här och som registreras efter anmälan
+enligt 6 kap. 4 §, ska vara godkänt vid en ursprungskontroll
+enligt 6 kap. 5 och 6 §§ innan tillfällig registrering
+meddelas.
 
 I fråga om andra fordon än som sägs i första stycket får
 tillfällig registrering vägras om fordonet är efterlyst eller
-om dess identitet är oklar på grund av att lämnade uppgifter om
-tidigare registrering, chassinummer eller annan märkning för
-identifiering inte har kunnat säkerställas vid en kontroll.
+om dess identitet är oklar på grund av att lämnade uppgifter
+om tidigare registrering, chassinummer eller annan märkning
+för identifiering inte har kunnat säkerställas vid en
+kontroll.
 
 Tillfällig registrering ska inte meddelas om det finns ett
-användningsförbud för fordonet enligt 6 kap. 1 §
-vägtrafikskattelagen (2006:227), 8 § lagen (2006:228) med
-särskilda bestämmelser om fordonsskatt, 18 § bilskrotningslagen
-(1975:343) eller 25 § lagen (1997:1137) om vägavgift för vissa
-tunga fordon. Förordning (2007:745).
+användningsförbud för fordonet enligt 18 § bilskrotningslagen
+(1975:343), 25 § lagen (1997:1137) om vägavgift för vissa
+tunga fordon, 18 a § lagen (2004:629) om trängselskatt, 6
+kap. 1 § vägtrafikskattelagen (2006:227) eller 8 § lagen
+(2006:228) med särskilda bestämmelser om fordonsskatt.
+Förordning (2014:1565).
+
+7 § /Träder i kraft I:2015-02-01/
+Fordon som har förts in till Sverige för att
+stadigvarande brukas här och som registreras efter anmälan
+enligt 6 kap. 4 §, ska vara godkänt vid en ursprungskontroll
+enligt 6 kap. 5 och 6 §§ innan tillfällig registrering
+meddelas.
+
+I fråga om andra fordon än som sägs i första stycket får
+tillfällig registrering vägras om fordonet är efterlyst eller
+om dess identitet är oklar på grund av att lämnade uppgifter
+om tidigare registrering, chassinummer eller annan märkning
+för identifiering inte har kunnat säkerställas vid en
+kontroll.
+
+Tillfällig registrering ska inte meddelas om det finns ett
+användningsförbud för fordonet enligt 18 § bilskrotningslagen
+(1975:343), 25 § lagen (1997:1137) om vägavgift för vissa
+tunga fordon, 18 a § lagen (2004:629) om trängselskatt, 6
+kap. 1 § vägtrafikskattelagen (2006:227), 8 § lagen
+(2006:228) med särskilda bestämmelser om fordonsskatt eller
+14 § lagen (2014:52) om infrastrukturavgifter på väg.
+Förordning (2014:1566).
 
 Underrättelseskyldighet
 
@@ -4117,6 +4384,7 @@ taxiförarlegitimation
 Godkänt prov i lokalkännedom för
 taxiförare
 
+/Upphör att gälla U:2015-01-01/
 Uppgift om genomfört skriftligt         Uppgiften ska gallras
 prov i yrkeskunnande enligt 2 kap.      fem år efter det att
 8 § första stycket eller 3 kap.         provet genomfördes
@@ -4127,6 +4395,19 @@ prov i yrkeskunnande enligt 2           fem år efter det att
 kap. 8 § första stycket eller           provet bokades
 3 kap. 7 § taxitrafiklagen
 (2012:211)
+
+/Träder i kraft I:2015-01-01/
+Uppgift om genomfört skriftligt         Uppgiften ska gallras
+prov i yrkeskunnande enligt 2           fem år efter det att
+kap. 8 § första stycket eller           provet genomfördes
+yrkeskompetens enligt 3 kap.
+7 § taxitrafiklagen (2012:211)
+
+Uppgift om bokning av skriftligt        Uppgiften ska gallras
+prov i yrkeskunnande enligt             fem år efter det att
+2 kap. 8 § första stycket eller         provet bokades
+yrkeskompetens enligt 3 kap.
+7 § taxitrafiklagen (2012:211)
 
 Uppgift om genomfört skriftligt         Uppgiften ska gallras
 prov i yrkeskunnande enligt             fem år efter det att
@@ -4317,7 +4598,7 @@ Uppgifter som behövs av
 administrativa skäl för
 handläggningen av yrkestrafik-
 eller taxitrafikärenden
-Förordning (2012:243).
+Förordning (2014:1484).
 
 Bilaga 4
 
@@ -4412,6 +4693,12 @@ Betalstation
 
 Registreringsnummer eller beteckning på skylt
 
+Fordonsslag
+
+Fordonets vikt
+
+Fordonets landskod
+
 2. Uppgifter i beslut om trängselskatt och tilläggsavgift
 
 Den skattskyldige med angivande av följande uppgifter.
@@ -4421,14 +4708,17 @@ Namn eller firma
 Personnummer, organisationsnummer, samordningsnummer eller
 motsvarande
 
-För fysisk person: folkbokföringsadress, eller om han eller hon
-inte är folkbokförd, annan adress i landet
+För fysisk person: folkbokföringsadress, eller om han eller
+hon inte är folkbokförd, annan adress
 
-För juridisk person: adress i landet
+För juridisk person: adress i landet, eller om sådan adress
+inte finns, annan adress
 
 Fordonsuppgifter med angivande av följande uppgifter.
 
 Registreringsnummer eller beteckning på skylt
+
+Landskod
 
 Tidpunkt för färden och betalstation
 
@@ -4451,11 +4741,14 @@ Undanröjande
 Beslut om undantag från skatteplikt som meddelats med stöd av
 6 § lagen (2004:629) om trängselskatt
 
+Användningsförbud
+
 4. Övriga uppgifter
 
-Uppgifter som behövs av administrativa skäl vid handläggningen
-av ärenden om trängselskatt
-Förordning (2008:306).
+Uppgifter som behövs av administrativa skäl vid
+handläggningen av ärenden om trängselskatt
+Förordning (2014:1565).
+
 
 Bilaga 6
 
@@ -4669,6 +4962,77 @@ administrativa skäl för
 kontroller av kör- och
 vilotider i företag
 Förordning (2011:1461).
+
+
+Bilaga 8 /Träder i kraft I:2015-02-01/
+
+I vägtrafikregistret ska i fråga om registreringen av
+infrastrukturavgifter på de vägar som avses i 4 §
+förordningen (2014:1564) om infrastrukturavgifter på väg
+följande uppgifter föras in.
+
+1. Uppgifter om passagen
+
+Tidpunkt för passagen
+
+Avgiftsbelopp
+
+Betalstation
+
+Registreringsnummer eller beteckning på skylt
+
+Fordonsslag
+
+Fordonets vikt
+
+Fordonets landskod
+
+2. Uppgifter i beslut om infrastrukturavgifter på väg
+
+Den avgiftsskyldige med angivande av följande uppgifter.
+
+Namn eller firma
+
+Personnummer, organisationsnummer, samordningsnummer eller
+motsvarande
+
+För fysisk person: folkbokföringsadress, eller om han eller
+hon inte är folkbokförd, annan adress
+
+För juridisk person: adress i landet, eller om sådan adress
+inte finns, annan adress
+
+Fordonsuppgifter med angivande av följande uppgifter.
+
+Registreringsnummer eller beteckning på skylt
+
+Landskod
+
+Tidpunkt för färden och betalstation
+
+Belopp
+
+Beslutsdatum
+
+3. Allmänna uppgifter (anges med datum för åtgärden)
+
+Betalning
+
+Utfärdad betalningsuppmaning
+
+Överlämnande till Kronofogdemyndigheten
+
+Återbetalning
+
+Undanröjande
+
+Användningsförbud
+
+4. Övriga uppgifter
+
+Uppgifter som behövs av administrativa skäl vid
+handläggningen av ärenden om infrastrukturavgifter på väg
+Förordning (2014:1566).
 
 
 Innehållsförteckning
