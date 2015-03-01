@@ -384,7 +384,8 @@ samordningsnummer,
 ersättningsdagar för veckor då han eller hon har utfört eller
 deklarerat deltidsarbete,
 
-3. om han eller hon inte uppfyller ett nytt arbetsvillkor,
+3. om han eller hon uppfyller ett arbetsvillkor eller inte,
+och i så fall från och med vilket datum,
 
 4. om han eller hon har varnats eller stängts av från rätt
 till ersättning enligt 43, 43 a eller 43 b § lagen (1997:238)
@@ -400,8 +401,8 @@ arbetslöshetsförsäkring,
 7. beslut om att ersättning får lämnas samtidigt med studier
 enligt 14, 15 eller 16 § denna förordning, och
 
-8. om han eller hon får eller begär
-arbetslöshetsersättning. Förordning (2014:1045).
+8. om han eller hon får eller begär arbetslöshetsersättning.
+Förordning (2015:8).
 
 22 § Försäkringskassan ska till en sökandes
 arbetslöshetskassa lämna följande uppgifter om den sökande:
@@ -471,8 +472,9 @@ samordningsnummer,
 8. om nämnden ändrat eller återtagit ett beslut om studiestöd.
 Förordning (2006:1482).
 
-24 § En sökandes arbetslöshetskassa ska till
-Försäkringskassan lämna följande uppgifter om den sökande:
+24 § En sökandes arbetslöshetskassa
+ska till Försäkringskassan lämna följande uppgifter om den
+sökande:
 
 1. namn, personnummer och i förekommande fall
 samordningsnummer,
@@ -503,8 +505,8 @@ utbudet gäller,
 samt om dagpenningen beräknats som inkomstrelaterad
 ersättning eller inte,
 
-11. tidsperiod, antal dagar och med vilket eller vilka
-belopp som arbetslöshetsersättning lämnats,
+11. tidsperiod, antal dagar och med vilket eller vilka belopp
+som arbetslöshetsersättning lämnats,
 
 12. antalet möjliga ersättningsdagar som återstår innan ett
 program börjar,
@@ -512,10 +514,14 @@ program börjar,
 13. med vilket belopp han eller hon fått
 arbetslöshetsersättning när Försäkringskassan fattat beslut
 om sjukersättning, aktivitetsersättning eller
-arbetsskadeersättning retroaktivt, och
+arbetsskadeersättning retroaktivt,
 
-14. om han eller hon fått sin arbetslöshetsersättning
-minskad med tjänstepension. Förordning (2009:1185).
+14. om han eller hon fått sin arbetslöshetsersättning minskad
+med tjänstepension, och
+
+15. om han eller hon uppfyller ett arbetsvillkor eller inte,
+och i så fall från och med vilket datum.
+Förordning (2015:8).
 
 24 a § En sökandes arbetslöshetskassa ska till
 Pensionsmyndigheten lämna följande uppgifter om den sökande:
@@ -581,7 +587,10 @@ anställning eller näringsverksamhet,
 arbetslöshet enligt denna förordning eller enligt 35 eller
 35 a § lagen om arbetslöshetsförsäkring,
 
-11. beslut om godkända deltidsstudier,
+11. beslut om att ersättning får lämnas samtidigt med studier
+enligt 14, 15 eller 16 § denna förordning och uppgift om
+antalet dagar eller veckor som förbrukats samtidigt med
+studier i senast påbörjade ersättningsperiod,
 
 12. beslut om varning och avstängning från rätt till
 ersättning enligt 4343 b §§ lagen om arbetslöshetsförsäkring
@@ -592,7 +601,7 @@ samma lag,
 pensionsbelopp per månad, och
 
 14. beslut om deltagande i arbetsmarknadspolitiskt program
-och tidpunkt då deltagandet påbörjades. Förordning (2013:680).
+och tidpunkt då deltagandet påbörjades. Förordning (2015:8).
 
 25 b § Kronofogdemyndigheten har rätt att få del av följande
 uppgifter som en arbetslöshetskassa har om en sökande:
