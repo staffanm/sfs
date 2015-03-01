@@ -3159,55 +3159,42 @@ Definitioner
 
 1 § I detta kapitel avses med
 
-transportör:  den som ingår avtal med en avsändare om transport av
-styckegods till sjöss,
+transportör: den som ingår avtal med en avsändare om
+transport av styckegods till sjöss,
 
-undertransportör:  den som till följd av ett uppdrag av
+undertransportör: den som till följd av ett uppdrag av
 transportören utför transporten eller en del av den,
 
-avsändare:  den som ingår avtal med en transportör om transport av
-styckegods till sjöss,
+avsändare: den som ingår avtal med en transportör om
+transport av styckegods till sjöss,
 
-avlastare:  den som avlämnar godset för transport,
+avlastare: den som avlämnar godset för transport,
 
-transportdokument:  ett konossement eller ett annat dokument som
-utfärdas till bevis om transportavtalet,
+transportdokument: ett konossement eller ett annat dokument
+som utfärdas till bevis om transportavtalet,
 
-konventionen:  1924 års internationella konvention rörande
-konossement med de ändringar som skett genom 1968 och 1979 års
-tillläggsprotokoll (Haag-Visbyreglerna), och
+konventionen: 1924 års internationella konvention rörande
+konossement med de ändringar som skett genom 1968 och 1979
+års tilläggsprotokoll (Haag-Visbyreglerna),
 
-konventionsstat:  en stat som är bunden av konventionen.
+konventionsstat: en stat som är bunden av konventionen,
+
+konventionsfart: sjötransport av gods mellan två stater, när
+ett konossement ska utfärdas och
+
+1. den avtalade lastningshamnen ligger i en
+konventionsstat,
+
+2. konossementet har utfärdats i en
+konventionsstat, eller
+
+3. det i transportavtalet bestäms att konventionen eller lag
+som grundas på konventionen ska gälla. Lag (2014:1452).
 
 Tillämpningsområde
 
-2 § Bestämmelserna i detta kapitel är tillämpliga på avtal om
-sjötransport i inrikes fart i Sverige och i fart mellan Sverige,
-Danmark, Finland och Norge. Beträffande avtal om sjötransport i
-inrikes fart i Danmark, Finland och Norge gäller lagen i det land
-där transporten utförs.
-
-I annan fart gäller bestämmelserna på avtal om sjötransport mellan
-två stater när
-
-1. den avtalade lastningshamnen ligger i en konventionsstat,
-
-2. den avtalade lossningshamnen ligger i Sverige, Danmark,
-Finland eller Norge,
-
-3. flera lossningshamnar anges i avtalet och en av dessa är den
-faktiska lossningshamnen samt denna ligger i Sverige, Danmark,
-Finland eller Norge,
-
-4. transportdokumentet har utfärdats i en konventionsstat, eller
-
-5. i transportdokumentet bestäms att konventionen eller lag som
-grundas på konventionen skall gälla.
-
-Om varken den avtalade lastningshamnen eller den avtalade eller
-faktiska lossningshamnen ligger i Sverige, Danmark, Finland eller
-Norge får dock avtalas att avtalet om sjötransport skall vara
-underkastat lagen i en annan bestämd konventionsstat.
+2 § Detta kapitel är tillämpligt på avtal om sjötransport av
+styckegods. Lag (2014:1452).
 
 Certepartifart
 
@@ -3225,30 +3212,59 @@ gäller dock första stycket.
 
 Avtalsbestämmelser
 
-4 § En bestämmelse i ett transportavtal eller ett transportdokument
-är ogiltig i den mån den avviker från bestämmelserna i detta kapitel
-eller från bestämmelserna i 19 kap. 1 § första stycket 5 och fjärde
-stycket. Ogiltigheten påverkar inte giltigheten av avtalet eller
-dokumentet i övrigt. En bestämmelse som ger transportören rätt till
-försäkringsersättning för godset eller annan liknande bestämmelse
-är ogiltig.
+4 § En bestämmelse i ett transportavtal eller ett
+transportdokument är ogiltig i den utsträckning som den
+avviker från detta kapitel eller från 19 kap. 1 § första
+stycket 5 och fjärde stycket eller ger transportören rätt
+till försäkringsersättning för godset eller annan liknande
+rätt, när det är fråga om inrikes fart i Sverige eller fart
+mellan Sverige, Danmark, Finland och Norge. Detsamma gäller i
+annan fart mellan två stater om
 
-Första stycket gäller dock inte 5, 8--11 §§ och 14--23 §§ och utgör
-inte heller hinder mot att det tas in bestämmelser i transportavtalet
-om gemensamt haveri. Transportören får även utöka sitt ansvar
-och sina förpliktelser enligt detta kapitel.
+1. den avtalade lastningshamnen ligger i en
+konventionsstat,
 
-Om transportavtalet är underkastat konventionen eller på denna
-grundad lag i en konventionsstat, skall transportdokumentet
-innehålla uppgift om detta samt om att villkor som avviker från
-konventionens eller lagens bestämmelser till avsändarens,
-avlastarens eller mottagarens nackdel är ogiltiga.
+2. den avtalade lossningshamnen ligger i Sverige, Danmark,
+Finland eller Norge,
 
-Är det, med hänsyn till godsets ovanliga beskaffenhet eller tillstånd
-eller de särskilda förhållanden eller villkor under vilka transporten
-skall utföras, skäligt att genom avtal inskränka transportörens
-ansvarighet eller utvidga hans rättigheter enligt detta kapitel, skall
-ett sådant avtal gälla.
+3. flera lossningshamnar anges i avtalet och en av dessa är
+den faktiska lossningshamnen och denna ligger i Sverige,
+Danmark, Finland eller Norge,
+
+4. transportdokumentet har utfärdats i en konventionsstat,
+eller
+
+5. det i transportavtalet bestäms att konventionen eller lag
+som grundas på konventionen ska gälla.
+
+Ogiltigheten påverkar inte giltigheten av avtalet eller
+dokumentet i övrigt.
+
+I inrikes fart i Sverige gäller det som följer av första
+stycket oavsett vilket lands lag som i övrigt är tillämplig
+på avtalet. Detsamma gäller i konventionsfart, dock inte om
+parterna har avtalat att avtalet ska vara underkastat lagen i
+en annan bestämd konventionsstat.
+
+Om transportavtalet är underkastat konventionen eller på
+denna grundad lag i en konventionsstat, ska
+transportdokumentet innehålla uppgift om detta samt om att
+villkor som avviker från konventionens eller lagens
+bestämmelser till avsändarens, avlastarens eller mottagarens
+nackdel är ogiltiga. Lag (2014:1452).
+
+4 a § Det som sägs i 4 § gäller inte 5, 811 och 1423 §§ och
+utgör inte heller hinder mot att det tas in bestämmelser i
+transportavtalet om gemensamt haveri. Transportören får även
+utöka sitt ansvar och sina förpliktelser enligt detta
+kapitel.
+
+Om det, med hänsyn till godsets ovanliga beskaffenhet eller
+tillstånd eller de särskilda förhållanden eller villkor under
+vilka transporten ska utföras, är skäligt att genom avtal
+inskränka transportörens ansvarighet eller utvidga
+transportörens rättigheter enligt detta kapitel, ska ett
+sådant avtal gälla. Lag (2014:1452).
 
 Avlämnande och mottagande av godset för transport
 
@@ -4005,47 +4021,7 @@ Tvister
 
 Jurisdiktions- och skiljedomsklausuler
 
-60 § /Upphör att gälla U:2015-01-10/
-Ett avtal som har ingåtts innan tvist har uppkommit och
-som inskränker kärandens rätt att få en tvist om transport av
-styckegods enligt detta kapitel prövad vid domstol är ogiltigt
-i den mån det begränsar kärandens rätt att enligt eget val
-väcka talan vid domstol för den ort
-
-1. där svaranden har sitt huvudkontor eller, om huvudkontor
-saknas, där svaranden har sin vanliga vistelseort,
-
-2. där transportavtalet ingicks, förutsatt att svaranden där
-har driftställe för sin rörelse, filial eller företrädare,
-genom vars förmedling avtalet har ingåtts, eller
-
-3. där den avtalade lastningshamnen eller den avtalade eller
-faktiska lossningshamnen ligger.
-
-Utan hinder av vad som föreskrivs i första stycket kan talan
-alltid väckas vid domstol för den ort som har angetts i
-transportavtalet. Efter det att tvist har uppkommit får
-parterna fritt avtala hur en tvist skall behandlas.
-
-Om ett konossement har utfärdats enligt ett certeparti som
-innehåller bestämmelser om behörig domstol eller
-skiljedomsförfarande utan att konossementet uttryckligen anger
-att dessa bestämmelser är bindande för innehavaren av
-konossementet, får transportören inte åberopa bestämmelserna
-mot en innehavare av konossementet som har förvärvat det i god
-tro.
-
-Första stycket gäller inte om varken den avtalade
-lastningshamnen eller den avtalade eller faktiska
-lossningshamnen ligger i Sverige, Danmark, Finland eller Norge
-eller om annat följer av de gemenskapsrättsakter och
-internationella instrument som anges i 1 § 1-3 eller 5 lagen
-(2006:74) med kompletterande bestämmelser om domstols
-behörighet och om erkännande och internationell verkställighet
-av vissa avgöranden. Lag (2007:443).
-
-60 § /Träder i kraft I:2015-01-10/
-Ett avtal som har ingåtts innan en tvist har uppkommit
+60 § Ett avtal som har ingåtts innan en tvist har uppkommit
 och som inskränker kärandens rätt att få en tvist om
 transport av styckegods enligt detta kapitel prövad vid
 domstol är ogiltigt i den utsträckning som det begränsar
@@ -4086,21 +4062,20 @@ verkställighet av vissa avgöranden. Lag (2014:927).
 
 Skiljedom
 
-61 § Oavsett vad som föreskrivs i 60 § första stycket får parterna
-genom skriftligt avtal överenskomma att tvister skall hänskjutas till
+61 § Trots 60 § första stycket får parterna genom skriftligt
+avtal komma överens om att tvister ska hänskjutas till
 avgörande genom skiljedom. Som en del av skiljeavtalet gäller
-alltid att skiljeförfarandet efter kärandens val skall äga rum i en
-av de stater, där ort som anges i
+alltid att skiljeförfarandet efter kärandens val ska äga rum
+i en av de stater där en ort som anges i 60 § första stycket
+är belägen.
 
-60 § första stycket är belägen samt att skiljenämnden skall tillämpa
-bestämmelserna i detta kapitel.
+Bestämmelserna i 60 § andra och tredje styckena ska också
+tillämpas.
 
-Bestämmelserna i 60 § andra och tredje styckena har motsvarande
-tilllämpning.
-
-Första stycket gäller inte om varken den avtalade lastningshamnen
-eller den avtalade eller faktiska lossningshamnen ligger i Sverige,
-Danmark, Finland eller Norge.
+Första stycket gäller inte om vare sig den avtalade
+lastningshamnen eller den avtalade eller faktiska
+lossningshamnen ligger i Sverige, Danmark, Finland eller
+Norge. Lag (2014:1452).
 
 14 kap. Om befraktning av fartyg
 
@@ -4108,9 +4083,9 @@ INLEDANDE BESTÄMMELSER
 
 Tillämpningsområde och definitioner
 
-1 § Bestämmelserna om befraktning gäller hel- och delbefraktning
-av fartyg. Bestämmelserna om resebefraktning gäller också
-konsekutiva resor när annat inte har angetts.
+1 § Detta kapitel är tillämpligt på avtal om hel- och
+delbefraktning av fartyg. Bestämmelserna om resebefraktning
+gäller också konsekutiva resor när annat inte har angetts.
 
 I detta kapitel avses med
 
@@ -4119,47 +4094,47 @@ bortfraktar ett fartyg till annan, befraktaren,
 
 avlastare: den som avlämnar godset för lastning,
 
-resebefraktning: befraktning där frakten skall beräknas för resa,
+resebefraktning: befraktning där frakten ska beräknas för
+resa,
 
-konsekutiva resor: ett visst antal resor som utförs efter varandra
-enligt ett befraktningsavtal som avser ett bestämt fartyg,
+konsekutiva resor: ett visst antal resor som utförs efter
+varandra enligt ett befraktningsavtal som avser ett bestämt
+fartyg,
 
-tidsbefraktning: befraktning där frakten skall beräknas för tid,
+tidsbefraktning: befraktning där frakten ska beräknas för
+tid,
 
-delbefraktning: befraktning som gäller mindre än ett helt fartyg
-eller än en full last när certeparti används.
-
-Bestämmelserna i detta kapitel är tillämpliga på avtal om
-befraktning av fartyg i inrikes fart i Sverige och i fart mellan
-Sverige, Danmark, Finland och Norge. Vid avtal om befraktning i
-inrikes fart i Danmark, Finland eller Norge gäller lagen i det land
-där befordringen utförs.
-
-Vid befraktning i fart som inte omfattas av tredje stycket gäller
-bestämmelserna i detta kapitel när svensk rätt skall tillämpas.
+delbefraktning: befraktning som gäller mindre än ett helt
+fartyg eller än en full last när certeparti används.
+Lag (2014:1452).
 
 Avtalsfrihet
 
-2 § Bestämmelserna i detta kapitel tillämpas inte i den mån annat
-följer av avtalet, av praxis som har utbildats mellan parterna eller
-av handelsbruk eller annan sedvänja som måste anses bindande för
-parterna.
+2 § Detta kapitel tillämpas inte i den utsträckning som något
+annat följer av avtalet, av praxis som har utbildats mellan
+parterna eller av handelsbruk eller annan sedvänja som måste
+anses bindande för parterna.
 
-Vid resebefraktning i inrikes fart i Sverige och i fart mellan
-Sverige, Danmark, Finland och Norge får bestämmelserna i 27 § inte
-åsidosättas genom avtal till nackdel för avlastare, resebefraktare
-eller mottagare. Detsamma gäller bestämmelserna i 19 kap. 1 §
-första stycket 5 och fjärde stycket. I befraktningsavtalet får dock
-tas in bestämmelser om gemensamt haveri. Om begränsningar i
-avtalsfriheten i inrikes fart i Danmark, Finland eller Norge gäller
-lagen i det land där befordringen utförs.
+Vid resebefraktning i inrikes fart i Sverige och i fart
+mellan Sverige, Danmark, Finland och Norge får 27 § inte
+åsidosättas genom avtal till nackdel för avlastare,
+resebefraktare eller mottagare. Detsamma gäller 19 kap. 1 §
+första stycket 5 och fjärde stycket. I befraktningsavtalet
+får dock tas in bestämmelser om gemensamt haveri.
 
-Vid befraktning i fart som avses i 13 kap. 2 § första och andra
-styckena får bestämmelserna i 18 § om utfärdande av konossement
-inte åsidosättas genom avtal till nackdel för avlastaren.
+Vid befraktning i fart som avses i 13 kap. 4 § första stycket
+får 18 § om utfärdande av konossement inte åsidosättas genom
+avtal till nackdel för avlastaren.
 
-Att bestämmelserna i detta kapitel inte heller får åsidosättas genom
-avtal i vissa andra fall följer av 5 §.
+I inrikes fart i Sverige gäller det som följer av tredje
+stycket oavsett vilket lands lag som i övrigt ska tillämpas
+på avtalet. Detsamma gäller i sådan konventionsfart som avses
+i 13 kap. 1 §, dock inte om parterna har avtalat att avtalet
+ska vara underkastat lagen i en annan bestämd stat som är
+bunden av den konvention som anges i 13 kap. 1 §.
+
+Att detta kapitel inte heller får åsidosättas genom avtal i
+vissa andra fall följer av 5 §. Lag (2014:1452).
 
 Befraktning av ett bestämt fartyg m. m.
 
@@ -5223,12 +5198,11 @@ handresgods: resgods som passageraren bär med sig eller har i sin
 hytt eller på annat sätt har i sin vård under resan, inbegripet vad
 han har i eller på sitt fordon.
 
-1 a § /Träder i kraft I:2015-01-01/
-Särskilda bestämmelser om befordran av passagerare
+1 a § Särskilda bestämmelser om befordran av passagerare
 finns i Europaparlamentets och rådets förordning (EU) nr
 1177/2010 av den 24 november 2010 om passagerares rättigheter
 vid resor till sjöss och på inre vattenvägar och om ändring
-av förordning (EG) nr 2006/2004. lag (2014:1352).
+av förordning (EG) nr 2006/2004. Lag (2014:1352).
 
 2 § Bestämmelserna i detta kapitel gäller inte i den mån
 befordringen är underkastad ett gällande internationellt fördrag om
@@ -6276,20 +6250,12 @@ befälhavaren eller redaren underrättas om detta. Anmälan om
 sjöförklaring görs därefter av befälhavaren eller redaren enligt 11 §.
 Lag (2008:1311).
 
-19 § /Upphör att gälla U:2015-01-01/
-Sjöfartsverket, Transportstyrelsen, Kustbevakningen,
-Tullverket och polismyndighet ska lämna en tingsrätt som håller
-sjöförklaring den medverkan tingsrätten begär för utredningen.
-För polismyndigheternas utredningar gäller bestämmelserna om
-förundersökning i 23 kap. rättegångsbalken. Lag (2008:1311).
-
-19 § /Träder i kraft I:2015-01-01/
-Sjöfartsverket, Transportstyrelsen, Kustbevakningen,
+19 § Sjöfartsverket, Transportstyrelsen, Kustbevakningen,
 Tullverket och Polismyndigheten ska lämna en tingsrätt som
 håller sjöförklaring den medverkan som tingsrätten begär för
 utredningen. För Polismyndighetens utredningar gäller
-bestämmelserna om förundersökning i 23 kap.
-rättegångsbalken. Lag (2014:614).
+bestämmelserna om förundersökning i 23 kap. rättegångsbalken.
+Lag (2014:614).
 
 Annan undersökning av sjöolyckor
 
@@ -6653,36 +6619,7 @@ i drift yrkesmässigt eller annars i förvärvssyfte, får målet tas upp
 även av en tingsrätt som är behörig enligt 10 eller 19 kap.
 rättegångsbalken.
 
-2 § /Upphör att gälla U:2015-01-10/
-I fråga om behörigheten för sjörättsdomstol att ta upp
-tvistemål som avses i 1 § första stycket skall bestämmelserna
-om laga domstol i tvistemål i allmänhet tillämpas.
-
-Talan får även väckas vid sjörättsdomstolen för den ort där
-fartyget finns. Har säkerhet för en fordran ställts hos en
-myndighet till befrielse från kvarstad eller annan
-säkerhetsåtgärd, får talan väckas även vid sjörättsdomstolen
-för den ort där säkerheten har ställts. Talan angående en
-fordran som säkerheten har avsett får väckas vid sistnämnda
-sjörättsdomstol, även om säkerheten har upphört att gälla.
-
-Finns inte sjörättsdomstol på den ort där svaranden har kunnat
-sökas enligt första och andra stycket, väcks talan vid den
-sjörättsdomstol som är närmast den orten.
-
-Om flera är redare i ett fartyg, skall fartygets hemort anses
-som rederiets hemvist.
-
-Bestämmelserna i denna paragraf gäller inte om annat följer av
-lagen (2006:74) med kompletterande bestämmelser om domstols
-behörighet och om erkännande och internationell verkställighet
-av vissa avgöranden eller av de gemenskapsrättsakter och
-internationella instrument som anges i 1 § 1-3 eller 5 den
-lagen. Andra stycket i denna paragraf gäller dock om fartyget
-är belagt med kvarstad. Lag (2007:443).
-
-2 § /Träder i kraft I:2015-01-10/
-I fråga om behörigheten för en sjörättsdomstol att ta upp
+2 § I fråga om behörigheten för en sjörättsdomstol att ta upp
 ett tvistemål som avses i 1 § första stycket ska
 bestämmelserna om laga domstol i tvistemål i allmänhet
 tillämpas.
@@ -6792,54 +6729,7 @@ frågor om ansvarsbeloppets fördelning mellan de
 ersättningsberättigade. Prövningen görs i begränsningsmål som
 avses i 12 kap. Lag (2013:328).
 
-6 § /Upphör att gälla U:2015-01-10/
-Om en dom i ett mål om ersättning för oljeskada eller
-bunkeroljeskada har meddelats i en annan stat som har
-tillträtt den i 10 kap. angivna 1992 års
-ansvarighetskonvention eller den i 10 a kap. angivna
-bunkerkonventionen och om domstolarna i den staten var
-behöriga att pröva den tvist som domen avser, gäller
-följande. Domen ska, när den har vunnit laga kraft och kan
-verkställas i den stat där den har meddelats, på ansökan
-verkställas i Sverige utan att en ny prövning sker av den sak
-som avgjorts genom domen, om inte annat följer av vad som
-sägs i 10 kap. 9 § eller 5 § femte stycket i detta kapitel.
-Detta medför inte någon skyldighet att verkställa en utländsk
-dom, om det ansvarsbelopp som gäller för fartygets ägare
-därmed skulle överskridas.
-
-En ansökan om verkställighet görs hos Svea hovrätt. Till
-ansökan ska fogas
-
-1. domen i original eller i kopia som bestyrkts av en
-myndighet,
-
-2. en förklaring av en behörig myndighet i den stat där domen
-meddelats att domen avser ersättning enligt den i 10 kap.
-angivna 1992 års ansvarighetskonvention eller den i 10 a kap.
-angivna bunkerkonventionen samt att domen har vunnit laga
-kraft och kan verkställas i den staten.
-
-Handlingarna ska vara försedda med bevis om utfärdarens
-behörighet. Beviset ska vara utställt av en svensk
-beskickning eller konsul eller av chefen för
-justitieförvaltningen i den stat där domen har meddelats. Om
-en handling i ärendet är skriven på ett annat främmande språk
-än danska eller norska, ska handlingen åtföljas av en
-översättning till svenska. Översättningen ska vara bestyrkt
-av en diplomatisk eller konsulär tjänsteman eller av svensk
-notarius publicus.
-
-En ansökan om verkställighet får inte bifallas utan att
-motparten haft tillfälle att yttra sig över ansökan.
-
-Om en ansökan bifalls, verkställs domen på samma sätt som en
-svensk domstols lagakraftägande dom, om inte Högsta domstolen
-bestämmer annat sedan hovrättens beslut överklagats.
-Lag (2013:328).
-
-6 § /Träder i kraft I:2015-01-10/
-Om en dom i ett mål om ersättning för oljeskada eller
+6 § Om en dom i ett mål om ersättning för oljeskada eller
 bunkeroljeskada har meddelats i en annan stat som har
 tillträtt den i 10 kap. angivna 1992 års
 ansvarighetskonvention eller den i 10 a kap. angivna
@@ -7059,18 +6949,7 @@ När dom eller slutligt beslut i målet har vunnit laga kraft, skall
 rätten genast sända domen eller beslutet till registermyndigheten.
 Lag (2001:384).
 
-10 § /Upphör att gälla U:2015-01-01/
-Kustbevakningen, Tullverket och polismyndigheterna skall
-biträda registermyndigheten med att vaka över att bestämmelser
-i lag eller annan författning om registrering och identifiering
-av skepp och inskrivning av rätt till skepp och andel i sådan
-egendom följs. De angivna myndigheterna har, liksom
-registermyndigheten, för detta ändamål rätt till tillträde till
-ett skepp. De skall underrätta registermyndigheten om
-försummelser att följa bestämmelserna. Lag (2001:384).
-
-10 § /Träder i kraft I:2015-01-01/
-Kustbevakningen, Tullverket och Polismyndigheten ska
+10 § Kustbevakningen, Tullverket och Polismyndigheten ska
 biträda registermyndigheten med att vaka över att
 bestämmelser i lag eller annan författning om registrering
 och identifiering av skepp och inskrivning av rätt till skepp
