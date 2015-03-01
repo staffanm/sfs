@@ -170,19 +170,19 @@ som livsmedel.
 
 10 § I denna förordning avses med
 
-direktiv 2002/96/EG: Europaparlamentets och rådets direktiv
-2002/96/EG av den 27 januari 2003 om avfall som utgörs av eller
-innehåller elektriska eller elektroniska produkter (WEEE),
-senast ändrat genom Europaparlamentets och rådets direktiv
-2008/112/EG,
-
 direktiv 2008/98/EG: Europaparlamentets och rådets direktiv
-2008/98/EG av den 19 november 2008 om avfall och om upphävande
-av vissa direktiv,
+2008/98/EG av den 19 november 2008 om avfall och om
+upphävande av vissa direktiv,
+
+direktiv 2012/19/EU: Europaparlamentets och rådets direktiv
+2012/19/EU av den 4 juli 2012 om avfall som utgörs av eller
+innehåller elektrisk och elektronisk utrustning (WEEE), i den
+ursprungliga lydelsen,
 
 förordning (EG) nr 850/2004: Europaparlamentets och rådets
-förordning (EG) nr 850/2004 av den 29 april 2004 om långlivade
-organiska föroreningar och om ändring av direktiv 79/117/EEG,
+förordning (EG) nr 850/2004 av den 29 april 2004 om
+långlivade organiska föroreningar och om ändring av direktiv
+79/117/EEG,
 
 förordning (EG) nr 1013/2006: Europaparlamentets och rådets
 förordning (EG) nr 1013/2006 av den 14 juni 2006 om transport
@@ -199,7 +199,8 @@ förordning (EG) nr 1272/2008: Europaparlamentets och rådets
 förordning (EG) nr 1272/2008 av den 16 december 2008 om
 klassificering, märkning och förpackning av ämnen och
 blandningar, ändring och upphävande av direktiven 67/548/EEG
-och 1999/45/EG samt ändring av förordning (EG) nr 1907/2006.
+och 1999/45/EG samt ändring av förordning (EG) nr
+1907/2006. Förordning (2015:27).
 
 Tillämpningsområde
 
@@ -340,14 +341,15 @@ kvicksilver och vissa kvicksilverföreningar och
 kvicksilverblandningar och säker förvaring av metalliskt
 kvicksilver.
 
-21 § Avfall som innehåller minst 0,1 viktprocent kvicksilver
-ska bortskaffas i ett djupt bergförvar, om avfallet
+21 § Avfall som innehåller minst 0,1 viktprocent
+kvicksilver ska senast ett år från när det uppstår
+bortskaffas i ett djupt bergförvar, om avfallet
 
-1. inte omfattas av 20 §, och
+1. inte omfattas av 20 §, eller
 
-2. inte är slutligt deponerat i enlighet med tillstånd enligt
-miljöbalken eller föreskrifter som meddelats med stöd av
-balken.
+2. inte är slutligt deponerat i enlighet med ett tillstånd
+enligt miljöbalken eller föreskrifter som meddelats med stöd
+av balken. Förordning (2015:27).
 
 22 § Naturvårdsverket får i det enskilda fallet ge dispens från
 kravet i 21 §, om det är oskäligt att kräva att avfallet
@@ -482,33 +484,37 @@ för batterier. Förordning (2013:62).
 27 § Naturvårdsverket får meddela föreskrifter om sådan
 yrkesmässig verksamhet som syftar till att genom demontering,
 sortering eller andra förbehandlande åtgärder säkerställa att
-återvinning eller bortskaffande av avfall som utgörs av
-elektriska och elektroniska produkter kan ske på ett sätt som
-är lämpligt från hälso- och miljösynpunkt.
+återvinning eller bortskaffande av elavfall som avses i
+förordningen (2014:1075) om producentansvar för elutrustning
+kan ske på ett sätt som är lämpligt från hälso- och
+miljösynpunkt.
 
-Naturvårdsverket får meddela de föreskrifter om återvinning och
-bortskaffande av avfall som utgörs av elektriska och
-elektroniska produkter som behövs till följd av bilaga II till
-direktiv 2002/96/EG.
+Naturvårdsverket får, i fråga om återvinning och
+bortskaffande av elavfall som avses i förordningen om
+producentansvar för elutrustning, meddela de föreskrifter som
+behövs till följd av bilaga VII till direktiv 2012/19/EU.
+Förordning (2015:27).
 
-28 § Avfall som utgörs av elektriska och elektroniska produkter
-får återvinnas, fragmenteras, förbrännas, deponeras eller
-bortskaffas på annat sätt endast om
+28 § Elavfall som avses i förordningen (2014:1075) om
+producentansvar för elutrustning får återvinnas,
+fragmenteras, förbrännas, deponeras eller bortskaffas på
+annat sätt endast om
 
-1. produkterna har förbehandlats i en sådan verksamhet som
-anges i 27 §, och den förbehandlande verksamheten har personal
+1. avfallet har förbehandlats i en sådan verksamhet som anges
+i 27 §, och den förbehandlande verksamheten har personal
 eller system för kvalitet eller miljöledning som certifierats
 av ett organ vars kompetens för uppgiften har styrkts genom
 ackreditering enligt lagen (2011:791) om ackreditering och
 teknisk kontroll, eller
 
-2. produkterna har förbehandlats utomlands på ett sätt som
-motsvarar kraven i direktiv 2002/96/EG.
+2. avfallet har förbehandlats utomlands på ett sätt som
+motsvarar kraven i direktiv 2012/19/EU.
 
 Certifieringen enligt första stycket 1 ska avse den kompetens
-eller det system för kvalitet eller miljöledning som behövs med
-hänsyn till det ändamål som anges i 27 § och de föreskrifter
-som meddelats med stöd av 27 §.
+eller det system för kvalitet eller miljöledning som behövs
+med hänsyn till det ändamål som anges i 27 § och de
+föreskrifter som meddelats med stöd av 27 §.
+Förordning (2015:27).
 
 29 § Naturvårdsverket får meddela föreskrifter om undantag från
 kravet på certifiering i 28 §.
@@ -543,13 +549,17 @@ artikel 7.4 och 7.5 i förordning (EG) nr 850/2004.
 
 Fartygsåtervinning
 
-34 a § Bestämmelser om fartygsåtervinning finns i Europaparlamentets och rådets förordning (EU) nr 1257/2013 av den 20 november 2013 om återvinning av fartyg och om ändring av förordning (EG) nr 1013/2006 och direktiv 2009/16/EG samt i förordningen (2015:18) om fartygsåtervinning.
+34 a § Bestämmelser om fartygsåtervinning finns i
+Europaparlamentets och rådets förordning (EU) nr 1257/2013 av
+den 20 november 2013 om återvinning av fartyg och om ändring
+av förordning (EG) nr 1013/2006 och direktiv 2009/16/EG samt
+i förordningen (2015:18) om fartygsåtervinning.
 Förordning (2015:21).
 
 Bilskrotning
 
-34 b § Bestämmelser om bilskrotning finns i bilskrotningsförordningen (2007:186).
-Förordning (2015:21).
+34 b § Bestämmelser om bilskrotning finns i
+bilskrotningsförordningen (2007:186). Förordning (2015:21).
 
 Transport av hushållsavfall som är farligt avfall
 
@@ -1729,18 +1739,21 @@ metallhaltiga mineral:
 01 03 04* Syrabildande gruvavfall från bearbetning av
 sulfidmalm.
 
-01 01 05* Annat gruvavfall som innehåller farliga ämnen.
+01 03 05* Annat gruvavfall som innehåller farliga ämnen.
+
+01 03 06   Annat gruvavfall än det som anges i 01 03 04 och
+01 03 05.
 
 01 03 07* Annat avfall som innehåller farliga ämnen från
 fysikalisk och kemisk behandling av metallhaltiga mineral.
 
-01 03 08 Annat stoft- och partikelformigt avfall än det som
+01 03 08   Annat stoft- och partikelformigt avfall än det som
 anges i 01 03 07.
 
-01 03 09 Annat avfall som utgörs av annat rödslam från
+01 03 09   Annat avfall som utgörs av annat rödslam från
 aluminiumoxidproduktion än det som anges i 01 03 07.
 
-01 03 99 Annat avfall än det som anges i 01 03 0401 03 09.
+01 03 99   Annat avfall än det som anges i 01 03 0401 03 09.
 
 01 04 Avfall från fysikalisk och kemisk behandling av icke-
 metallhaltiga mineral:
@@ -4112,7 +4125,7 @@ institutionsavfall än det som anges i 20 01 och 20 02:
 20 03 07 Skrymmande avfall.
 
 20 03 99 Annat avfall än det som anges i 20 03 0120 03 07.
-
+Förordning (2015:27).
 
 Bilaga 5
 
