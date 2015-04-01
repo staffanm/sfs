@@ -152,7 +152,10 @@ Småhus          Byggnad som är inrättad till bostad åt en eller
                 tre och högst tio familjer ska tillhöra
                 byggnadstypen småhus, om byggnaden ligger på
                 fastighet med åkermark, betesmark, produktiv
-                skogsmark eller skogligt impediment.
+                skogsmark med avverkningsrestriktioner,
+                produktiv skogsmark utan
+                avverkningsrestriktioner eller skogligt
+                impediment.
 
                 Byggnad som hör till en tredimensionell
                 fastighet eller ett tredimensionellt
@@ -286,7 +289,7 @@ annan
 
 Övrig byggnad   Byggnad som inte ska utgöra någon av de tidigare nämnda
                 byggnadstyperna.
-Lag (2012:89).
+Lag (2015:60).
 
 3 § Byggnadstypen skall bestämmas med hänsyn till det ändamål
 som byggnad till övervägande del är inrättad för och det sätt
@@ -357,21 +360,42 @@ Betesmark       Mark som används eller lämpligen kan användas
                 till bete och som inte är lämplig att plöjas.
 
 Produktiv
-skogsmark       Skogsmark som enligt vedertagna
-                bedömningsgrunder kan producera i genomsnitt
-                minst en kubikmeter virke per hektar och år.
+skogsmark med
+avverknings-
+restriktioner   Produktiv skogsmark som omfattas av
+                avverkningsrestriktioner.
+
+                Med produktiv skogsmark avses detsamma som i
+                2 § skogsvårdslagen (1979:429). Med
+                avverkningsrestriktioner avses
+                avverkningsförbud, krav på överhållning,
+                maximering av hyggesstorlek eller virkesuttag
+                eller barrskogsförbud enligt bestämmelser om
+                naturreservat eller biotopskyddsområden.
+
+Produktiv
+skogsmark utan
+avverknings-
+restriktioner   Produktiv skogsmark som inte omfattas av
+                avverkningsrestriktioner.
+
+                Med produktiv skogsmark och
+                avverkningsrestriktioner avses detsamma som
+                i definitionen av produktiv skogsmark med
+                avverkningsrestriktioner.
 
 Skogligt
-impediment      Improduktiv skogsmark samt träd- och buskmark.
+impediment      Improduktiv skogsmark samt träd- och
+                buskmark.
 
-                Med improduktiv skogsmark avses skogsmark som
-                inte är produktiv skogsmark. Med skogsmark samt
-                träd- och buskmark avses detsamma som i 2 och
-                2 a §§ skogsvårdslagen (1979:429).
+                Med improduktiv skogsmark avses skogsmark
+                som inte är produktiv skogsmark. Med
+                skogsmark samt träd- och buskmark avses
+                detsamma som i 2 och 2 a §§ skogsvårdslagen.
 
 Övrig mark      Mark som inte ska utgöra något av de tidigare
                 nämnda ägoslagen.
-Lag (2010:907).
+Lag (2015:60).
 
 3 kap. Skatte- och avgiftsplikt
 
@@ -387,17 +411,18 @@ Från skatte- och avgiftsplikt undantas även nationalparker.
 Lag (2007:1416).
 
 3 § Från skatte- och avgiftsplikt ska undantas
-ekonomibyggnad, åkermark, betesmark, produktiv skogsmark,
-skogligt impediment och övrig mark samt markanläggning som
-hör till fastigheten, om denna till övervägande del används
-för
+ekonomibyggnad, åker-mark, betesmark, produktiv skogsmark med
+avverkningsrestriktioner, produktiv skogsmark utan
+avverkningsrestriktioner, skogligt impediment och övrig mark
+samt markanläggning som hör till fastigheten, om denna till
+övervägande del används för
 
 1. sådan vård eller omsorgsverksamhet som bedrivs i
 vårdbyggnad
 
 2. undervisning eller forskning som bedrivs vid sådan skola
 som nämns i definitionen av skolbyggnad i 2 kap. 2 §.
-Lag (2009:1407).
+Lag (2015:60).
 
 4 § Byggnad samt tomtmark och övrig mark som hör till
 byggnaden samt markanläggning som hör till fastigheten ska
@@ -470,7 +495,9 @@ mark (industrienhet)
 (specialenhet)
 
 7. ekonomibyggnad, åkermark, betesmark, produktiv skogsmark
-och skogligt impediment (lantbruksenhet)
+med avverkningsrestriktioner, produktiv skogsmark utan
+avverkningsrestriktioner och skogligt impediment
+(lantbruksenhet)
 
 8. kraftverksbyggnad, tomtmark till kraftverksbyggnad och
 fallrätt samt taxeringsenhet vars värde till övervägande del
@@ -478,9 +505,10 @@ utgörs av rätt till andels- eller ersättningskraft
 (elproduktionsenhet).
 
 Småhus och tomtmark för sådan byggnad som ligger på fastighet
-med åkermark, betesmark, produktiv skogsmark eller skogligt
-impediment, ska ingå i den lantbruksenhet som omfattar
-marken.
+med åkermark, betesmark, produktiv skogsmark med
+avverkningsrestriktioner, produktiv skogsmark utan
+avverkningsrestriktioner eller skogligt impediment, ska ingå
+i den lantbruksenhet som omfattar marken.
 
 Saneringsbyggnad och övrig mark kan ingå i samtliga
 taxeringsenheter under punkterna 18 i första stycket. Övrig
@@ -492,7 +520,7 @@ ska den dock bilda en taxeringsenhet. Taxeringsenhet, som
 består av endast övrig mark, betecknas industrienhet, om den
 ligger till övervägande del inom tätort, och lantbruksenhet,
 om den ligger till övervägande del utanför sådan ort.
-Lag (2009:1407).
+Lag (2015:60).
 
 6 § I småhusenhet, ägarlägenhetsenhet, hyreshusenhet,
 specialenhet och industrienhet ska endast ingå egendom som
@@ -508,8 +536,10 @@ täktplan enligt miljöbalken eller motsvarande äldre
 bestämmelser skall de dock utgöra en taxeringsenhet. Lag (1998:815).
 
 8 § Taxeringsenhet ska omfatta ekonomibyggnad, åkermark,
-betesmark, produktiv skogsmark, skogligt impediment eller
-övrig mark som ingår i en brukningsenhet. Lag (2009:1407).
+betesmark, produktiv skogsmark med avverkningsrestriktioner,
+produktiv skogsmark utan avverkningsrestriktioner, skogligt
+impediment eller övrig mark som ingår i en brukningsenhet.
+Lag (2015:60).
 
 9 § Fastighet, som tillhör staten och som förvaltas av skilda
 myndigheter, får uppdelas i taxeringsenheter efter de olika
@@ -741,11 +771,12 @@ värderingsenheter. Lag (1992:1666).
 skall utgöra en värderingsenhet.
 
 10 § Vart och ett av ägoslagen åkermark, betesmark, produktiv
-skogsmark och skogligt impediment inom en taxeringsenhet ska
-utgöra en värderingsenhet. Är arealen åkermark inom en
-taxeringsenhet av större omfattning får åkermarken dock
-uppdelas i två eller flera värderingsenheter, om det
-väsentligt underlättar värderingen. Lag (2009:1407).
+skogsmark med avverkningsrestriktioner, produktiv skogsmark
+utan avverkningsrestriktioner och skogligt impediment inom en
+taxeringsenhet ska utgöra en värderingsenhet. Är arealen
+åkermark inom en taxeringsenhet av större omfattning får
+åkermarken dock uppdelas i två eller flera värderingsenheter,
+om det väsentligt underlättar värderingen. Lag (2015:60).
 
 11 § Markanläggning skall ingå i samma värderingsenhet som den mark den
 hör till. Markanläggning skall dock utgöra en värderingsenhet om det
@@ -806,13 +837,14 @@ utgångspunkt i förhållanden som i genomsnitt eller i huvudsak
 råder inom värdeområdet.
 
 Värdefaktorer, som särskilt ska beaktas vid riktvärdets
-bestämmande, ska, utom såvitt avser de under punkterna 15
+bestämmande, ska, utom såvitt avser de under punkterna 16
 angivna värdefaktorerna, indelas i klasser.
 
 1. Storlek för småhus, industribyggnad och övrig byggnad
 värderad med ledning av en avkastningsberäkning, tomtmark,
-åkermark, betesmark, produktiv skogsmark och skogligt
-impediment.
+åkermark, betesmark, produktiv skogsmark med
+avverkningsrestriktioner, produktiv skogsmark utan
+avverkningsrestriktioner och skogligt impediment.
 
 2. Hyra för hyreshus och ägarlägenhet.
 
@@ -825,12 +857,14 @@ produktionskostnadsberäkning.
 5. Normalårsproduktion, utnyttjandetid, flerårsreglering och
 ålder för vattenkraftverk samt effekt för värmekraftverk.
 
+6. Virkesförråd för löv- och barrträd.
+
 De uppgifter om värdenivån m.m. (riktvärdeangivelse) som inom
-varje värdeområde erfordras för att bestämma riktvärdet ska
+varje värdeområde behövs för att bestämma riktvärdet ska
 redovisas på karta, i tabell eller på annat sätt.
 
 Resultatet av klassindelningen kallas klassindelningsdata.
-Lag (2009:1407).
+Lag (2015:60).
 
 4 § Riktvärde skall bestämmas så att det leder till
 taxeringsvärde som efter justering som avses i 5 § står i
@@ -841,17 +875,23 @@ klassindelning av värdefaktorer eller anpassning till
 fastställda tabell- eller värdeserier. Lag (2001:1218).
 
 4 a § Riktvärdena för värderingsenheter som ingår i en
-lantbruksenhet skall bestämmas med hänsyn till de
-värdeförhållanden som gäller för medelstora lantbruksenheter.
-Lantbruksenhetens sammanlagda riktvärde skall korrigeras med
-hänsyn till storleksinverkan och särskilda värdeförhållanden,
-om det behövs på grund av prisbildningen. Detta benämns
+lantbruksenhet ska, utom när det gäller värderingsenheter för
+småhus och tomtmark för sådan byggnad, bestämmas med hänsyn
+till de värdeförhållanden som gäller för medelstora
+lantbruksenheter. Vid bedömning av värdet för medelstora
+lantbruksenheter ska värde av småhus och tomtmark för sådan
+byggnad inte räknas med. Lantbruksenhetens sammanlagda
+riktvärde med undantag för riktvärde för småhus och tomtmark
+för sådan byggnad ska korrigeras med hänsyn till
+storleksinverkan och särskilda värdeförhållanden, om det
+behövs på grund av prisbildningen. Detta benämns
 storlekskorrektion.
 
-Det belopp med vilket korrigering sker skall fördelas och
-redovisas på de värderingsenheter som ingår i lantbruksenheten,
-i förhållande till värderingsenheternas riktvärden före
-korrigering. Lag (2004:279).
+Det belopp med vilket korrigering sker ska fördelas och
+redovisas på samtliga värderingsenheter som ingår i
+lantbruksenheten, med undantag för småhus och tomtmark för
+sådan byggnad, i förhållande till värderingsenheternas
+riktvärden före korrigering. Lag (2015:60).
 
 5 § Föreligger värdefaktorer, som inte särskilt har beaktats
 vid riktvärdes bestämmande och som påtagligt inverkar på
@@ -1084,11 +1124,10 @@ Lag (2007:1416).
 1 § Riktvärde för ekonomibyggnad skall utgöra värdet av en eller flera
 ekonomibyggnader eller del av ekonomibyggnad.
 
-2 § Som riktvärde för en värderingsenhet avseende ett
-djurstall för nötkreatur som är byggt under åren 1990-1999, är
-av normal beskaffenhet och har en storlek av 701-800
-kvadratmeter får endast anges värden i en fastställd
-värdeserie. Lag (2004:279).
+2 § Som riktvärde för en värderingsenhet avseende ett sådant
+djurstall för nötkreatur som är av normal beskaffenhet får
+endast värden i en fastställd värdeserie anges.
+Lag (2015:60).
 
 3 § Inom varje värdeområde skall riktvärdet bestämmas för skilda
 förhållanden för en eller flera av följande värdefaktorer.
@@ -1145,37 +1184,57 @@ anges värden i en fastställd värdeserie. Lag (1999:630).
 bestämmas för skilda förhållanden för en eller flera av följande
 värdefaktorer.
 
-Lokaltyp        Lokaltyp bestäms med hänsyn till om värderingsenheten är
-                inrättad som produktionslokaler, industrikontor eller
-                lager m. m.
+Lokaltyp        Lokaltyp bestäms med hänsyn till om
+                värderingsenheten är inrättad som
+                produktionslokaler, industrikontor eller lager
+                m. m.
 
-Storlek         Storleken bestäms med hänsyn till värderingsenhetens
-                yta.
+Storlek         Storleken bestäms med hänsyn till
+                värderingsenhetens yta.
 
-Ålder           Åldern ger uttryck för värderingsenhetens sannolika
-                återstående livslängd och anges genom ett värdeår och,
-                om särskilda skäl föreligger, genom återstående
-                nyttjandetid. Värdeåret bestäms med hänsyn till
-                värderingsenhetens nybyggnadsår, omfattningen av till-
-                och ombyggnader samt tidpunkten för dessa. Om en byggnad
-                indelas i flera värderingsenheter skall samma
-                värdeår bestämmas för dessa.
-Standard        Standarden för en vä
-8 § Riktvärden skall bestämmas för skilda förhållanden för en eller
-flera av följande värdefaktorer.
-Återanskaff-    Återanskaffningskostnaden enligt 5 kap. 6 § kostnad
-kostnad         andra stycket.
+Ålder           Åldern ger uttryck för värderingsenhetens
+                sannolika återstående livslängd och anges genom
+                ett värdeår och, om särskilda skäl föreligger,
+                genom återstående nyttjandetid. Värdeåret bestäms
+                med hänsyn till värderingsenhetens nybyggnadsår,
+                omfattningen av till- och ombyggnader samt
+                tidpunkten för dessa. Om en byggnad indelas i
+                flera värderingsenheter skall samma värdeår
+                bestämmas för dessa.
+
+Standard        Standarden för en värderingsenhet bestäms med
+                hänsyn till lokalytans utförande och utrustning.
+
+                För värdefaktorn standard skall finnas minst
+                tre klasser.
+Lag (1992:1666).
+
+5 § Har upphävts genom lag (1992:1666).
+
+6 § Har upphävts genom lag (1992:1666).
+
+7 § Som riktvärde för en värderingsenhet avseende en
+industribyggnad uppförd under andra året före taxeringsåret och
+belägen inom den ortstyp som medför högst värde skall anges 75
+procent av byggnadens tekniska nuvärde detta år. Lag (1992:1666).
+
+8 § Riktvärden skall bestämmas för skilda förhållanden för en
+eller flera av följande värdefaktorer.
+
+Återanskaff-    Återanskaffningskostnaden enligt 5 kap. 6 §
+ningskostnad    andra stycket.
 
 Ålder           Åldern bestäms enligt 4 §.
 
 Byggnads-       Med byggnadskategori avses värderingsenhetens
 kategori        karaktär och konstruktion.
 
-                För värdefaktorn byggnadskategori skall finnas minst tre
-                klasser.
+                För värdefaktorn byggnadskategori skall finnas
+                minst tre klasser.
 
-Ortstyp         Ortstypen bestäms med hänsyn till värderingsenhetens
-                läge i förhållande till tätort.
+Ortstyp         Ortstypen bestäms med hänsyn till
+                värderingsenhetens läge i förhållande till
+                tätort.
 Lag (1992:1666).
 
 12 kap. Riktvärde för tomtmark och täktmark
@@ -1317,7 +1376,7 @@ dränerad genom självdränering eller äldre täckdikning och är av
 genomsnittlig beskaffenhet får endast anges värden i en fastställd
 värdeserie. Lag (1997:451).
 
-3 § Inom varje värdeområde skall riktvärden för åker bestämmas
+3 § Inom varje värdeområde ska riktvärden för åker bestämmas
 för skilda förhållanden för en eller flera av följande
 värdefaktorer.
 
@@ -1327,28 +1386,19 @@ Beskaffenhet            Med beskaffenhet avses åkermarkens
                         produktionsförmåga och
                         brukningsförhållanden.
 
-                        För värdefaktorn beskaffenhet skall finnas
-                        tre eller fem klasser, där mittklassen
-                        svarar mot genomsnittlig beskaffenhet
-                        inom värdeområdet.
+                        För värdefaktorn beskaffenhet ska det
+                        finnas tre eller fem klasser, där
+                        mittklassen svarar mot genomsnittlig
+                        beskaffenhet inom värdeområdet.
 
-                        Värdeskillnaden mellan högsta och lägsta
-                        klass får för åkermark, som är
-                        tillfredsställande dränerad genom
-                        självdränering eller äldre täckdikning,
-                        uppgå till högst 40 procent av värdet av
-                        åkermark av genomsnittlig beskaffenhet.
-                        Värdeskillnaden mellan två intilliggande
-                        klasser får dock uppgå till högst 6 000
-                        kronor per hektar.
+Dränering               Åkermarkens dränering bestäms av
+                        befintliga täckdikningars och
+                        huvudavlopps beskaffenhet samt av
+                        markens behov av dränering.
 
-Dränering               Åkermarkens dränering bestäms av befintliga
-                        täckdikningars och huvudavlopps beskaffenhet
-                        samt av markens behov av dränering.
-
-                        För värdefaktorn dränering skall finnas högst
-                        tre klasser.
-Lag (2004:279).
+                        För värdefaktorn dränering ska det
+                        finnas högst tre klasser.
+Lag (2015:60).
 
 Betesmark
 
@@ -1368,59 +1418,48 @@ Beskaffenhet            Med beskaffenhet avses främst betesmarkens
                         fem klasser.
 Lag (1990:1382).
 
-14 kap. Riktvärde för produktiv skogsmark med växande skog
-samt skogligt impediment
+14 kap. Riktvärde för produktiv skogsmark utan
+avverkningsrestriktioner med växande skog, produktiv
+skogsmark med avverkningsrestriktioner med växande
+skog samt skogligt impediment
 
-Produktiv skogsmark med växande skog
+Produktiv skogsmark utan avverkningsrestriktioner med växande
+skog
 
-1 § Riktvärde för produktiv skogsmark med växande skog ska
-utgöra värdet per värderingsenhet produktiv skogsmark.
-Lag (2009:1407).
+1 § Riktvärde för produktiv skogsmark utan
+avverkningsrestriktioner med växande skog ska utgöra värdet
+per värderingsenhet produktiv skogsmark utan
+avverkningsrestriktioner. Lag (2015:60).
 
-2 § Som värde per hektar produktiv skogsmark med växande skog
-av genomsnittlig beskaffenhet inom ett eller flera
-värdeområden får endast anges värden i en fastställd
-värdeserie. Lag (2009:1407).
+2 § Som värde per hektar produktiv skogsmark utan
+avverkningsrestriktioner med växande skog av genomsnittlig
+beskaffenhet inom ett eller flera värdeområden får endast
+värden i en fastställd värdeserie anges. Lag (2015:60).
 
 3 § Inom varje värdeområde ska riktvärden för produktiv
-skogsmark med växande skog bestämmas för skilda förhållanden
-för en eller flera av följande värdefaktorer, om inte annat
-framgår av andra stycket.
+skogsmark utan avverkningsrestriktioner med växande skog
+bestämmas för skilda förhållanden för en eller flera av
+följande värdefaktorer, om inte annat framgår av andra
+stycket.
 
 Storlek                 Med storlek avses den produktiva
                         skogsmarkens areal.
 
 Bonitet                 Med bonitet avses den produktiva
-                        skogsmarkens virkesproducerande
-                        förmåga.
+                        skogsmarkens virkesproducerande förmåga.
 
-Kostnad                 Kostnaden bestäms med hänsyn till de
-                        väsentligaste kostnads- och
-                        kvalitetsfaktorer som påverkar värdet
-                        av virkesproduktionen.
+Virkesförråd barrträd   Med virkesförråd barrträd avses
+                        virkesförrådet av barrträd per hektar
+                        uttryckt i skogskubikmeter.
 
-                        Om fler än en kostnadsklass förekommer
-                        ska anges vilken klass som svarar mot
-                        genomsnittlig kostnadsklass för
-                        värdeområdet.
+Virkesförråd lövträd    Med virkesförråd lövträd avses
+                        virkesförrådet av lövträd per hektar
+                        uttryckt i skogskubikmeter.
 
-Virkesförråd            Med virkesförråd barrträd avses
-barrträd                virkesförrådet av barrträd per hektar
-                        uttryckt i skogskubikmeter. För
-                        virkesförråd upp till 200
-                        skogskubikmeter får klasserna ej göras
-                        större än 10 skogskubikmeter.
-
-Virkesförråd            Med virkesförråd lövträd avses
-lövträd                 virkesförrådet av lövträd per hektar
-                        uttryckt i skogskubikmeter. För
-                        virkesförråd upp till 200
-                        skogskubikmeter får klasserna inte
-                        göras större än 10 skogskubikmeter.
-
-För taxeringsenhet vars areal av produktiv skogsmark
-understiger 30 hektar ska dock riktvärdena bestämmas för
-skilda förhållanden för följande värdefaktorer.
+För taxeringsenhet vars areal av produktiv skogsmark utan
+avverkningsrestriktioner understiger 30 hektar ska dock
+riktvärdena bestämmas för skilda förhållanden för följande
+värdefaktorer.
 
 Storlek                 Med storlek avses den produktiva
                         skogsmarkens areal.
@@ -1430,7 +1469,22 @@ Virkesförråd            Med virkesförråd avses summan av
                         per hektar uttryckt i skogskubikmeter.
                         För värdefaktorn virkesförråd ska det
                         finnas högst nio klasser.
-Lag (2009:1407).
+Lag (2015:60).
+
+Produktiv skogsmark med avverkningsrestriktioner med växande
+skog
+
+3 a § Riktvärde för produktiv skogsmark med
+avverkningsrestriktioner med växande skog ska utgöra värdet
+per värderingsenhet produktiv skogsmark med
+avverkningsrestriktioner och anges för varje värdeområde för
+skog. Lag (2015:60).
+
+3 b § Inom varje värdeområde ska riktvärdet för produktiv
+skogsmark med avverkningsrestriktioner med växande skog
+bestämmas för skilda förhållanden för värdefaktorn storlek.
+Med storlek avses arealen på den produktiva skogsmarken med
+avverkningsrestriktioner. Lag (2015:60).
 
 Skogligt impediment
 
@@ -1660,14 +1714,17 @@ avgiftspliktsförhållande bör ändras.
 Ny taxering av fastighet ska ske om fastigheten är indelad
 som sådan taxeringsenhet som ska taxeras vid viss allmän
 eller förenklad fastighetstaxering och det vid taxeringen
-visar sig att den bör indelas i annan typ av taxeringsenhet.
+visar sig att den bör indelas i annan typ av
+taxeringsenhet.
 
-Ny taxering av fastighet ska ske även i andra fall om det
-visar sig att mark bör indelas i annat ägoslag eller byggnad
-i annan byggnadstyp än som skett. Ny taxering ska dock inte
-ske enbart på den grunden att mark som indelats som åkermark,
-betesmark, produktiv skogsmark eller skogligt impediment bör
-indelas som något annat av dessa ägoslag. Lag (2009:1407).
+Ny taxering av fastighet ska ske även i
+andra fall om det visar sig att mark bör indelas i annat
+ägoslag eller byggnad i annan byggnadstyp än som skett. Ny
+taxering ska dock inte ske enbart på den grunden att mark som
+indelats som åkermark, betesmark, produktiv skogsmark med
+avverkningsrestriktioner, produktiv skogsmark utan
+avverkningsrestriktioner eller skogligt impediment bör
+indelas som något annat av dessa ägoslag. Lag (2015:60).
 
 3 § Ny taxering av taxeringsenhet skall ske om under löpande
 taxeringsperiod taxeringsenhetens värde ökat eller minskat
@@ -3373,3 +3430,10 @@ före ikraftträdandet.
 
 Denna lag träder i kraft den 1 januari 2014 och tillämpas
 första gången vid 2014 års fastighetstaxering.
+
+2015:60
+
+1. Denna lag träder i kraft den 1 april 2015.
+
+2. Lagen tillämpas första gången vid allmän
+fastighetstaxering 2017.
