@@ -2,52 +2,7 @@
 
 Tillämpningsområde
 
-1 § /Upphör att gälla U:2015-01-01/
-Denna förordning gäller utöver personuppgiftslagen
-(1998:204) vid automatiserad behandling av personuppgifter
-i Migrationsverkets, Rikspolisstyrelsens och
-polismyndigheternas samt utlandsmyndigheternas verksamhet
-enligt utlännings- och medborgarskapslagstiftningen.
-
-Med verksamhet enligt utlännings- och
-medborgarskapslagstiftningen enligt första stycket avses
-
-1. verksamhet som gäller utlänningars vistelse i och
-avlägsnande från landet,
-
-2. verksamhet som gäller utlänningars rätt att arbeta i
-landet,
-
-3. mottagande av asylsökande och vissa andra utlänningar,
-
-4. verksamhet som rör bistånd och stöd till utlänningar som
-enligt lag eller annan författning handläggs av
-Migrationsverket,
-
-5. verksamhet som avser förvärv, förlust eller bibehållande
-av svenskt medborgarskap,
-
-6. verksamhet som gäller ersättning för och bosättning av
-utlänningar som enligt lag eller annan författning
-handläggs av Migrationsverket.
-
-I Europaparlamentets och rådets förordning (EG) nr 767/2008
-av den 9 juli 2008 om informationssystemet för viseringar
-(VIS) och utbytet mellan medlemsstaterna av uppgifter om
-viseringar för kortare vistelse (VIS-förordningen) finns
-bestämmelser om behandling av personuppgifter i VIS för
-viseringsmyndigheter, myndigheter som ansvarar för kontroll
-av personers gränspassage, myndigheter som ansvarar för
-kontroll av utlänningars rätt att uppehålla sig i
-medlemsstaten samt för den centrala utlänningsmyndigheten.
-Bestämmelser om behandling av personuppgifter som
-kompletterar VIS-förordningen finns i 15 §.
-
-En registrerad har inte rätt att motsätta sig behandling av
-personuppgifter enligt denna förordning. Förordning (2011:957).
-
-1 § /Träder i kraft I:2015-01-01/
-Denna förordning gäller utöver personuppgiftslagen
+1 § Denna förordning gäller utöver personuppgiftslagen
 (1998:204) vid automatiserad behandling av personuppgifter i
 Migrationsverkets, Polismyndighetens, Säkerhetspolisens och
 utlandsmyndigheternas verksamhet enligt utlännings- och
@@ -93,17 +48,7 @@ Förordning (2014:1190).
 
 Personuppgiftsansvar
 
-2 § /Upphör att gälla U:2015-01-01/
-Migrationsverket är personuppgiftsansvarigt för den
-behandling av personuppgifter som verket utför,
-Rikspolisstyrelsen för den behandling som styrelsen utför och
-polismyndigheten för den behandling som myndigheten utför.
-Migrationsverket är även personuppgiftsansvarigt för den
-behandling som en utlandsmyndighet utför.
-Förordning (2007:506).
-
-2 § /Träder i kraft I:2015-01-01/
-Migrationsverket är personuppgiftsansvarigt för den
+2 § Migrationsverket är personuppgiftsansvarigt för den
 behandling av personuppgifter som verket utför. Verket är
 även personuppgiftsansvarigt för den behandling som en
 utlandsmyndighet utför.
@@ -238,16 +183,7 @@ i 3 § 1 och 2.
 
 Direktåtkomst
 
-6 § /Upphör att gälla U:2015-01-01/
-Rikspolisstyrelsen, polismyndigheter och utlandsmyndigheter
-får ha direktåtkomst till Migrationsverkets
-verksamhetsregister. Myndigheternas direktåtkomst skall
-begränsas till att endast avse personuppgifter som en
-tjänsteman oundgängligen behöver för att fullgöra sina
-arbetsuppgifter i verksamhet enligt 1 §. Förordning (2007:506).
-
-6 § /Träder i kraft I:2015-01-01/
-Polismyndigheten, Säkerhetspolisen och utlandsmyndigheter
+6 § Polismyndigheten, Säkerhetspolisen och utlandsmyndigheter
 får ha direktåtkomst till Migrationsverkets
 verksamhetsregister. Myndigheternas direktåtkomst ska
 begränsas till att endast avse personuppgifter som är
@@ -274,17 +210,18 @@ Direktåtkomsten får endast avse uppgift om
 1. namn, personnummer och i förekommande fall
 samordningsnummer,
 
-2. bevis om uppehållstillstånd eller uppehållsrätt,
+2. bevis om uppehållstillstånd, arbetstillstånd eller
+uppehållsrätt,
 
-3. dag för beslut om uppehållstillstånd, utfärdande av
-uppehållskort samt uppgift om varje period för vilken
-uppehållstillstånd har beviljats eller uppehållskort har
-utfärdats,
+3. dag för beslut om uppehållstillstånd, arbetstillstånd
+eller utfärdande av uppehållskort samt uppgift om varje
+period för vilken uppehållstillstånd eller arbetstillstånd
+har beviljats eller uppehållskort har utfärdats,
 
 4. inresedatum,
 
-5. datum för ansökan om uppehållstillstånd eller
-uppehållskort,
+5. datum för ansökan om uppehållstillstånd, arbetstillstånd
+eller uppehållskort,
 
 6. särskilt bevis enligt 5 kap. 4 § tredje stycket
 utlänningsförordningen (2006:97),
@@ -292,11 +229,20 @@ utlänningsförordningen (2006:97),
 7. att uppehållstillstånd har beviljats den enskilde som
 flykting enligt 4 kap. 1 § eller annan skyddsbehövande enligt
 4 kap. 2 eller 2 a § utlänningslagen (2005:716) eller
-motsvarande äldre bestämmelser, och
+motsvarande äldre bestämmelser,
 
 8. att statusförklaring har beviljats enligt 4 kap. 3 c §
-utlänningslagen eller motsvarande äldre bestämmelser.
-Förordning (2014:191).
+utlänningslagen eller motsvarande äldre bestämmelser,
+
+9. att uppehållstillstånd har beviljats den enskilde för
+studier eller som familjemedlem till en sådan person, och
+
+10. beslut om återkallelse av uppehållstillstånd eller
+arbetstillstånd, uppgift om från och med vilket datum
+uppehållstillstånd eller arbetstillstånd har återkallats och
+uppgift om vilket datum beslut om återkallelse av
+uppehållstillstånd eller arbetstillstånd har fått laga
+kraft. Förordning (2015:94).
 
 6 b § Skatteverket får ha direktåtkomst till uppgifter i
 Migrationsverkets verksamhetsregister. Direktåtkomsten ska
@@ -402,16 +348,7 @@ förordningen. Förordning (2011:957).
 
 Överklagande
 
-16 § /Upphör att gälla U:2015-01-01/
-Migrationsverkets, Rikspolisstyrelsens eller en
-polismyndighets beslut om att inte meddela rättelse eller om
-att inte lämna information som skall lämnas efter ansökan får
-överklagas. I 22 a § förvaltningslagen (1986:223) finns
-bestämmelser om överklagande hos allmän förvaltningsdomstol.
-Förordning (2006:124).
-
-16 § /Träder i kraft I:2015-01-01/
-Migrationsverkets, Polismyndighetens eller
+16 § Migrationsverkets, Polismyndighetens eller
 Säkerhetspolisens beslut om att inte meddela rättelse eller
 om att inte lämna information som ska lämnas efter ansökan
 får överklagas. I 22 a § förvaltningslagen (1986:223) finns
