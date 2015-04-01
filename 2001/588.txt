@@ -9,117 +9,7 @@ Förordning (2003:1023).
 
 Uppgifter som får behandlas i beskattningsdatabasen
 
-2 § /Upphör att gälla U:2015-01-01/
-Beträffande personer som avses i 2 kap. 2 § lagen
-(2001:181) om behandling av uppgifter i Skatteverkets
-beskattningsverksamhet får i beskattningsdatabasen behandlas
-uppgifter
-
-1. som behövs vid Skatteverkets handläggning av ärenden som
-sker med stöd av
-
- kupongskattelagen (1970:624),
-
- fastighetstaxeringslagen (1979:1152),
-
- lagen (1984:1052) om statlig fastighetsskatt,
-
- lagen (2007:1398) om kommunal fastighetsavgift,
-
- skatteförfarandelagen (2011:1244),
-
- mervärdesskattelagen (1994:200),
-
- lagen (1998:506) om punktskattekontroll av transporter m.m.
-av alkoholvaror, tobaksvaror och energiprodukter,
-
- inkomstskattelagen (1999:1229),
-
- lagen (2007:324) om Skatteverkets hantering av vissa
-borgenärsuppgifter,
-
- lagen (2013:948) om stöd vid korttidsarbete, eller
-
- annan författning med bestämmelser om skatter och
-socialavgifter,
-
-2. om planerad, beslutad, pågående eller avslutad revision
-och annan kontroll av skatter och avgifter,
-
-3. om att fordran mot en person registrerats hos
-Kronofogdemyndigheten och om indrivningsresultat,
-
-4. om beslut om näringsförbud,
-
-5. om antal anställda och anställdas personnummer,
-
-6. om postgiro- och bankgironummer, om fullmakt lämnats för
-bank- eller postgiro att ta emot skatteåterbetalning på ett
-konto samt uppgifter om fullmakten och kontot,
-
-7. om bouppteckning eller dödsboanmälan, dödsbodelägare,
-tillgångar och skulder samt övriga uppgifter som behövs i
-verksamheten med bouppteckningar och dödsboanmälan enligt
-ärvdabalken,
-
-8. för förberedelsearbete vid fastighetstaxering,
-
-9. om lagfarna köp av hela eller delar av fastigheter samt om
-fastighetsregleringar vid vilka mer än två hektar åkermark,
-betesmark och skogsmark överförs från en fastighet till en
-annan och där frivillig överenskommelse om likviden
-föreligger,
-
-10. om tillsyn enligt alkohollagen (2010:1622),
-
-11. som behövs för handläggning av ärenden enligt lagen
-(1990:314) om ömsesidig handräckning i skatteärenden eller
-lagen (2012:843) om administrativt samarbete inom Europeiska
-unionen i fråga om beskattning eller annars för
-informationsutbyte och annan handräckning enligt
-internationella åtaganden,
-
-12. från aktiebolagsregistret,
-
-13. från vägtrafikregistret,
-
-14. från Folkhälsomyndigheten om tillstånd enligt
-alkohollagen och om omsättning enligt restaurangrapport,
-
-15. från Arbetsförmedlingen om beslut om
-arbetsmarknadspolitiska åtgärder samt om utbetalt belopp och
-datum för utbetalningen,
-
-16. från Tullverket om debiterad mervärdesskatt vid import,
-exportvärden, antal import- och exporttillfällen samt de
-tidsperioder som uppgifterna avser samt uppgifter från verket
-som behövs för tillämpningen av 3 kap. 30 § andra stycket
-mervärdesskattelagen,
-
-17. från Försäkringskassan om försäkring mot kostnader för
-sjuklön när det gäller arbetsgivaren och den försäkrade, om
-sjukpenninggrundande inkomst av annat förvärvsarbete och om
-utsänd person,
-
-18. om avgiftsskyldighet till sådant trossamfund som har
-eller har beviljats uppbördshjälp enligt 16 § lagen
-(1998:1593) om trossamfund samt om församlingstillhörighet
-inom Svenska kyrkan,
-
-19. om att prissättningsbesked har lämnats enligt lagen
-(2009:1289) om prissättningsbesked vid internationella
-transaktioner, och
-
-20. om flyttningar av varor eller bränsle som avses i lagen
-(1994:1563) om tobaksskatt, lagen (1994:1564) om alkoholskatt
-respektive lagen (1994:1776) om skatt på energi.
-
-Skatteverket får meddela närmare föreskrifter om vilka
-uppgifter som får behandlas i beskattningsdatabasen.
-Förordning (2013:1011).
-
-2 § /Träder i kraft I:2015-01-01/
-Beträffande personer som avses i 2 kap. 2 § lagen
+2 § Beträffande personer som avses i 2 kap. 2 § lagen
 (2001:181) om behandling av uppgifter i Skatteverkets
 beskattningsverksamhet får i beskattningsdatabasen behandlas
 uppgifter
@@ -164,8 +54,8 @@ Kronofogdemyndigheten och om indrivningsresultat,
 
 5. om antal anställda och anställdas personnummer,
 
-6. om postgiro- och bankgironummer, om fullmakt lämnats för
-bank- eller postgiro att ta emot skatteåterbetalning på ett
+6. om plusgiro- och bankgironummer, om fullmakt lämnats för
+bank- eller plusgiro att ta emot skatteåterbetalning på ett
 konto samt uppgifter om fullmakten och kontot,
 
 7. om bouppteckning eller dödsboanmälan, dödsbodelägare,
@@ -183,11 +73,19 @@ föreligger,
 
 10. om tillsyn enligt alkohollagen (2010:1622),
 
-11. som behövs för handläggning av ärenden enligt lagen
-(1990:314) om ömsesidig handräckning i skatteärenden eller
-lagen (2012:843) om administrativt samarbete inom Europeiska
-unionen i fråga om beskattning eller annars för
-informationsutbyte och annan handräckning enligt
+11. som behövs för
+
+ handläggning av ärenden enligt lagen (1990:314) om
+ömsesidig handräckning i skatteärenden,
+
+ handläggning av ärenden enligt lagen (2012:843) om
+administrativt samarbete inom Europeiska unionen i fråga om
+beskattning,
+
+ handläggning av ärenden enligt lagen (2015:63) om utbyte av
+upplysningar med anledning av FATCA-avtalet, och
+
+ annat informationsutbyte och annan handräckning enligt
 internationella åtaganden,
 
 12. från aktiebolagsregistret,
@@ -230,7 +128,7 @@ respektive lagen (1994:1776) om skatt på energi, och
 
 Skatteverket får meddela närmare föreskrifter om vilka
 uppgifter som får behandlas i beskattningsdatabasen.
-Förordning (2014:1514).
+Förordning (2015:71).
 
 3 § I beskattningsdatabasen ska även de uppgifter behandlas som
 anges i rådets förordning (EU) nr 389/2012 av den 2 maj 2012 om
@@ -327,57 +225,7 @@ näringsverksamhet och kapital, och
 
 2. registrering i sjömansregistret. Förordning (2007:1425).
 
-7 § /Upphör att gälla U:2015-01-01/
-Till Försäkringskassan ska uppgifter lämnas ut från
-beskattningsdatabasen i den utsträckning det behövs för
-
-1. beräkning eller kontroll av sjukpenninggrundande inkomst,
-
-2. fördelning av ålderspensionsavgifter,
-
-3. fastställande av underhållsstöd och betalningsskyldighet
-för sådant stöd enligt socialförsäkringsbalken,
-
-4. beräkning och kontroll av bostadsbidrag enligt
-socialförsäkringsbalken,
-
-5. beräkning av betalningsskyldighet enligt 8 § andra stycket
-lagen (2004:1237) om särskild sjukförsäkringsavgift, eller
-
-6. beräkning och kontroll av bostadstillägg enligt
-socialförsäkringsbalken.
-
-De uppgifter som ska lämnas till Försäkringskassan med stöd av
-första stycket är uppgifter
-
-1. enligt 19 kap. 11, 13 och 14 §§ socialförsäkringsbalken,
-med undantag av 13 § tredje stycket,
-
-2. om inkomst som anges i 97 kap. 2, 4, 5, 11 och 13 §§
-socialförsäkringsbalken, med undantag av 5 § tredje stycket
-och 13 § första stycket 1-3,
-
-3. om fastighet, ägarandel, fastighetsbeteckning, adress och
-bostadsyta,
-
-4. om avgiftsunderlag enligt 2 kap. 24 § socialavgiftslagen
-(2000:980) som beräknats för arbetsgivare under ett
-kalenderår,
-
-5. om avdrag för avsättning till periodiseringsfond och
-expansionsfond enligt 30 och 34 kap. inkomstskattelagen
-(1999:1229) samt om återföring av sådana avdrag,
-
-6. om schablonintäkt enligt 47 kap. 11 b § inkomstskattelagen,
-
-7. om samtliga intäkts- och kostnadsposter i inkomstslagen
-tjänst och kapital, och
-
-8. om överskott eller underskott i inkomstslaget
-näringsverksamhet. Förordning (2011:1521).
-
-7 § /Träder i kraft I:2015-01-01/
-Till Försäkringskassan ska uppgifter lämnas ut från
+7 § Till Försäkringskassan ska uppgifter lämnas ut från
 beskattningsdatabasen i den utsträckning det behövs för
 
 1. beräkning eller kontroll av sjukpenninggrundande inkomst,
@@ -491,19 +339,7 @@ tjänst och kapital, och
 5. om överskott eller underskott i inkomstslaget
 näringsverksamhet. Förordning (2011:1521).
 
-7 d § /Upphör att gälla U:2015-01-01/
-På begäran av en polismyndighet eller
-Rikspolisstyrelsen ska lämnas ut uppgifter som myndigheterna
-behöver för inspektioner för att kontrollera anställning av
-utlänningar som inte har rätt att vistas i Sverige enligt
-artikel 14 i Europaparlamentets och rådets direktiv
-2009/52/EG av den 18 juni 2009 om minimistandarder för
-sanktioner och åtgärder mot arbetsgivare för
-tredjelandsmedborgare som vistas olagligt.
-Förordning (2013:643).
-
-7 d § /Träder i kraft I:2015-01-01/
-På begäran av Polismyndigheten ska det lämnas ut
+7 d § På begäran av Polismyndigheten ska det lämnas ut
 uppgifter som myndigheten behöver för inspektioner för att
 kontrollera anställning av utlänningar som inte har rätt att
 vistas i Sverige enligt artikel 14 i Europaparlamentets och
