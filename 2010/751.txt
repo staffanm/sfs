@@ -1,5 +1,3 @@
-
-
 1 kap. Tillämpningsområde och definitioner
 
 Lagens tillämpningsområde
@@ -64,7 +62,7 @@ som har undantagits från tillståndsplikt enligt 2 kap. 3 §,
 åt myndighetsutövning,
 
 5. utländska fysiska och juridiska personer samt myndigheter
-inom EES, motsvarande dem i 14 med undantag av sådana fysiska
+inom EES, motsvarande dem i 1–4 med undantag av sådana fysiska
 eller juridiska personer som har undantagits från
 tillståndsplikt enligt nationella bestämmelser som genomför
 Europaparlamentets och rådets direktiv 2007/64/EG om
@@ -95,24 +93,25 @@ betalarens egen betaltjänstleverantör,
 genomförande av en betalningstransaktion,
 
 3. betalare: en fysisk eller juridisk person som är antingen
-betalkontoinnehavare och som godkänner en betalningsorder från
-detta betalkonto, eller en fysisk eller juridisk person som
-lämnar en betalningsorder,
+betalkontoinnehavare och som godkänner en betalningsorder
+från detta betalkonto, eller en fysisk eller juridisk person
+som lämnar en betalningsorder,
 
 4. betalkonto: ett konto som innehas i en eller flera
-betaltjänstanvändares namn och som är avsett för genomförandet
-av betalningstransaktioner,
+betaltjänstanvändares namn och som är avsett för
+genomförandet av betalningstransaktioner,
 
 5. betalningsinstitut: ett aktiebolag eller en ekonomisk
 förening som har fått tillstånd att tillhandahålla
 betaltjänster enligt 2 kap.,
 
 6. betalningsinstrument: ett kontokort eller något annat
-personligt instrument eller en personlig rutin som används för
-att initiera en betalningsorder,
+personligt instrument eller en personlig rutin som används
+för att initiera en betalningsorder,
 
-7. betalningsmottagare: en fysisk eller juridisk person som är
-den avsedda mottagaren av medel vid en betalningstransaktion,
+7. betalningsmottagare: en fysisk eller juridisk person som
+är den avsedda mottagaren av medel vid en
+betalningstransaktion,
 
 8. betalningsorder: varje instruktion som en betalare eller
 betalningsmottagare ger sin betaltjänstleverantör om att en
@@ -132,9 +131,10 @@ utnyttjar en betaltjänst,
 
 12. debitera: att medel dras från ett konto,
 
-13. filial: ett avdelningskontor med självständig förvaltning,
-varvid även ett utländskt betalningsinstituts etablering av
-flera driftställen ska anses som en enda filial,
+13. filial: ett avdelningskontor med självständig
+förvaltning, varvid även ett utländskt betalningsinstituts
+etablering av flera driftställen ska anses som en enda
+filial,
 
 14. grupp: detsamma som i 1 kap. 7 § lagen (2006:531) om
 särskild tillsyn över finansiella konglomerat,
@@ -147,8 +147,8 @@ driva sådan verksamhet som avses i denna lag,
 
 17. kreditera: att medel tillförs ett konto,
 
-18. kvalificerat innehav: detsamma som i 1 kap. 5 § 14 lagen
-(2004:297) om bank- och finansieringsrörelse,
+18. kvalificerat innehav: detsamma som i 1 kap. 5 § 15 lagen
+om bank- och finansieringsrörelse,
 
 19. medel: sedlar och mynt, kontotillgodohavanden samt
 elektroniska pengar enligt lagen (2011:755) om elektroniska
@@ -159,29 +159,29 @@ en betalare, utan att något betalkonto öppnas i betalarens
 eller betalningsmottagarens namn, uteslutande i syfte att
 överföra motsvarande belopp till en mottagare eller en annan
 betaltjänstleverantör som agerar på mottagarens vägnar, eller
-där dessa medel tas emot på mottagarens vägnar och ställs till
-mottagarens förfogande,
+där dessa medel tas emot på mottagarens vägnar och ställs
+till mottagarens förfogande,
 
 21. ramavtal: ett avtal om betaltjänster som reglerar
 genomförandet av kommande enskilda och successiva
-betalningstransaktioner och som kan innehålla skyldigheter och
-villkor för att öppna ett betalkonto,
+betalningstransaktioner och som kan innehålla skyldigheter
+och villkor för att öppna ett betalkonto,
 
-22. referensväxelkurs: den växelkurs som ligger till grund för
-beräkningen av eventuell valutaväxling och görs tillgänglig av
-betaltjänstleverantören eller härrör från en offentligt
-tillgänglig källa,
+22. referensväxelkurs: den växelkurs som ligger till grund
+för beräkningen av eventuell valutaväxling och görs
+tillgänglig av betaltjänstleverantören eller härrör från en
+offentligt tillgänglig källa,
 
-23. referensräntesats: den räntesats som ligger till grund för
-beräkningen av eventuell tillämplig ränta och som härrör från
-en offentligt tillgänglig källa som kan kontrolleras av båda
-parterna i ett avtal om betaltjänster,
+23. referensräntesats: den räntesats som ligger till grund
+för beräkningen av eventuell tillämplig ränta och som härrör
+från en offentligt tillgänglig källa som kan kontrolleras av
+båda parterna i ett avtal om betaltjänster,
 
 24. registrerad betaltjänstleverantör: en
 betaltjänstleverantör som undantagits från krav på tillstånd
 enligt 2 kap. 3 §,
 
-25. startkapital: detsamma som i 1 kap. 5 § 17 lagen om bank-
+25. startkapital: detsamma som i 1 kap. 5 § 18 lagen om bank-
 och finansieringsrörelse,
 
 26. unik identifikationskod: en kombination av bokstäver,
@@ -192,7 +192,7 @@ betaltjänstanvändare eller dennes betalkonto,
 
 27. valuteringsdag: den referenstidpunkt som används av en
 betaltjänstleverantör för att beräkna räntan på de medel som
-debiterats eller krediterats ett betalkonto. Lag (2011:775).
+debiterats eller krediterats ett betalkonto. Lag (2015:188).
 
 5 § Ett betalningsinstitut och ett annat företag ska anses ha
 nära förbindelser, om
@@ -323,7 +323,7 @@ elektroniska pengar,
 åt myndighetsutövning,
 
 4. utländska fysiska och juridiska personer samt myndigheter
-inom EES, motsvarande dem i 13 med undantag av sådana fysiska
+inom EES, motsvarande dem i 1–3 med undantag av sådana fysiska
 eller juridiska personer som har undantagits från
 tillståndsplikt enligt nationella bestämmelser som genomför
 Europaparlamentets och rådets direktiv 2007/64/EG,
@@ -419,9 +419,9 @@ ersättare för denna person är lämplig för en sådan uppgift och
 har tillräcklig insikt och erfarenhet.
 
 I fråga om europabolag och europakooperativ som har ett sådant
-förvaltningssystem som avses i artiklarna 3942 i rådets
+förvaltningssystem som avses i artiklarna 39–42 i rådets
 förordning (EG) nr 2157/2001 av den 8 oktober 2001 om stadga
-för europabolag eller artiklarna 3741 i rådets förordning
+för europabolag eller artiklarna 37–41 i rådets förordning
 (EG) nr 1435/2003 av den 22 juli 2003 om stadga för europeiska
 kooperativa föreningar (SCE-föreningar) ska bestämmelserna som
 avser styrelsen i första stycket 4 om lämplighetsprövning
@@ -488,7 +488,7 @@ enligt 1 kap. 2 § 5,
 enligt 1 kap. 2 § 6,
 
 3. minst 125 000 euro, om tillståndet omfattar någon av
-betaltjänsterna enligt 1 kap. 2 § 14.
+betaltjänsterna enligt 1 kap. 2 § 1–4.
 
 Kapitalkrav
 
@@ -748,8 +748,8 @@ med förbudet ska undersökningsledaren eller åklagaren besluta
 att förbudet ska upphöra.
 
 I fråga om europabolag och europakooperativ som har ett sådant
-förvaltningssystem som avses i artiklarna 3942 i rådets
-förordning (EG) nr 2157/2001 eller artiklarna 3741 i rådets
+förvaltningssystem som avses i artiklarna 39–42 i rådets
+förordning (EG) nr 2157/2001 eller artiklarna 37–41 i rådets
 förordning (EG) nr 1435/2003 ska det som anges om
 styrelseledamöter i första stycket tillämpas på ledamöter i
 tillsynsorganet.
@@ -894,7 +894,7 @@ verksamheten
 
 25 § Om ett betalningsinstitut eller en registrerad
 betaltjänstleverantör avser att ändra den verksamhet som avses
-i 1719, 21 eller 23 § ska institutet eller leverantören
+i 17–19, 21 eller 23 § ska institutet eller leverantören
 underrätta Finansinspektionen innan ändringen genomförs.
 
 Om ändringen rör ett betalningsinstituts verksamhet i ett
@@ -1121,7 +1121,7 @@ växelkurs som har använts vid transaktionen samt
 transaktionens belopp före valutaväxling.
 
 9 § Betaltjänstleverantören är inte skyldig att lämna eller
-göra information tillgänglig enligt 48 §§, om sådan
+göra information tillgänglig enligt 4–8 §§, om sådan
 information redan ges eller kommer att ges till
 betaltjänstanvändaren på grundval av ett ramavtal mellan
 användaren och en annan betaltjänstleverantör.
@@ -1148,7 +1148,7 @@ betaltjänst som tillhandahålls,
 betalningsorder ska kunna utföras korrekt,
 
 5. hur ett godkännande att genomföra en betalningstransaktion
-ges samt hur det kan återkallas enligt 5 kap. 1315 §§,
+ges samt hur det kan återkallas enligt 5 kap. 13–15 §§,
 
 6. när en betalningsorder ska anses mottagen enligt 5 kap. 9 §
 första stycket,
@@ -1206,9 +1206,9 @@ underrätta leverantören om felaktigt genomförda
 betalningstransaktioner eller obehöriga transaktioner,
 
 21. leverantörens ansvar för genomförande av transaktioner
-enligt 5 kap. 2529 §§,
+enligt 5 kap. 25–29 §§,
 
-22. villkoren för återbetalning enligt 5 kap. 68 §§,
+22. villkoren för återbetalning enligt 5 kap. 6–8 §§,
 
 23. i förekommande fall, uppgift om att användaren ska anses
 ha godkänt de ändrade villkoren enligt 14 § om användaren inte
@@ -1490,7 +1490,7 @@ framgår att den inte har utförts,
 ha godkänt att den genomförs,
 
 3. andra tidsgränser för genomförandet än de som anges i
-1822 §§, eller
+18–22 §§, eller
 
 4. att det inte ska vara möjligt att spärra
 betalningsinstrumentet. Lag (2011:775).
@@ -1653,7 +1653,7 @@ den har initierats av betalaren eller betalningsmottagaren
 såvida inte utförandet av betalningsordern skulle strida mot
 annan lag.
 
-12 § Vid tillämpning av 18, 19 och 2529 §§ ska en
+12 § Vid tillämpning av 18, 19 och 25–29 §§ ska en
 betalningsorder som betaltjänstleverantören har vägrat att
 utföra anses inte ha blivit mottagen av leverantören.
 
@@ -1715,11 +1715,11 @@ belopp som angavs i betalningsordern.
 
 Genomförandetid och valuteringsdag
 
-17 § Bestämmelserna i 1822 §§ gäller för
+17 § Bestämmelserna i 18–22 §§ gäller för
 betalningstransaktioner i Sverige som genomförs i euro eller i
 svenska kronor.
 
-Bestämmelserna i 1822 §§ gäller också för
+Bestämmelserna i 18–22 §§ gäller också för
 betalningstransaktioner där det sker en växling mellan euro
 och svenska kronor, om
 
@@ -1728,7 +1728,7 @@ och svenska kronor, om
 2. när det gäller en transaktion till eller från ett annat
 land, överföringen av medlen mellan länderna sker i euro.
 
-Bestämmelserna i 1822 §§ är även tillämpliga på andra
+Bestämmelserna i 18–22 §§ är även tillämpliga på andra
 betalningstransaktioner än de som anges i första och andra
 styckena. Bestämmelserna i 18, 19, 21 och 22 §§ är dock inte
 tillämpliga, om annat har avtalats mellan
@@ -1798,7 +1798,7 @@ i identifikationskoden.
 
 Om den unika identifikationskod som angetts av
 betaltjänstanvändaren är felaktig, ska betaltjänstleverantören
-inte vara ansvarig enligt 2529 §§ för att
+inte vara ansvarig enligt 25–29 §§ för att
 betalningstransaktionen inte har genomförts eller för brister
 i genomförandet av transaktionen.
 
@@ -1905,7 +1905,7 @@ Rätt till återkrav
 31 § Om en betalningstransaktion inte genomförs eller
 genomförs bristfälligt och felet är hänförligt till en
 betaltjänstleverantör eller mellanhand som inte är ansvarig
-gentemot betaltjänstanvändare enligt 2529 §§, har den
+gentemot betaltjänstanvändare enligt 25–29 §§, har den
 leverantör som ansvarar gentemot en användare enligt dessa
 bestämmelser rätt till ersättning av den leverantör eller
 mellanhand som orsakade att transaktionen inte genomfördes
@@ -1913,7 +1913,7 @@ eller genomfördes bristfälligt.
 
 Ersättningen ska motsvara de förluster, inbegripet belopp som
 betalts till betaltjänstanvändare, som uppkommit hos
-betaltjänstleverantören enligt 2529 §§.
+betaltjänstleverantören enligt 25–29 §§.
 
 Befrielse från ansvar
 
@@ -1933,7 +1933,7 @@ nackdel för en betaltjänstanvändare.
 Första stycket hindrar dock inte att en betaltjänstleverantör
 kommer överens med en betaltjänstanvändare som inte är
 konsument om avvikelser från bestämmelserna i 1 § första
-stycket, 68 §§, 1315 §§ och 2530 §§.
+stycket, 6–8 §§, 13–15 §§ och 25–30 §§.
 
 6 kap. Behandling av personuppgifter m.m.
 
@@ -1946,7 +1946,7 @@ ansvarige för betalningssystemet misstänker eller har skälig
 grund att misstänka utgör ett led i bedrägeri i samband med
 tillhandahållande eller användning av betaltjänster, får
 leverantören eller den som ansvarar för ett betalningssystem
-behandla personuppgifter samt föra register enligt 29 §§
+behandla personuppgifter samt föra register enligt 2–9 §§
 vilka gäller utöver personuppgiftslagen (1998:204).
 
 Personuppgiftsbehandling
@@ -2261,8 +2261,8 @@ andra styckena gäller också en ställföreträdare för
 verkställande direktör.
 
 I fråga om europabolag och europakooperativ som har ett sådant
-förvaltningssystem som avses i artiklarna 3942 i rådets
-förordning (EG) nr 2157/2001 eller artiklarna 3741 i rådets
+förvaltningssystem som avses i artiklarna 39–42 i rådets
+förordning (EG) nr 2157/2001 eller artiklarna 37–41 i rådets
 förordning (EG) nr 1435/2003 ska bestämmelserna som avser
 styrelsen i första stycket om återkallelse av tillstånd
 tillämpas på tillsynsorganet.
@@ -2292,7 +2292,7 @@ betaltjänster, eller
 7. institutet försatts i konkurs eller beslut fattats om att
 institutet ska träda i tvångslikvidation.
 
-I de fall som avses i första stycket 14 får i stället varning
+I de fall som avses i första stycket 1–4 får i stället varning
 meddelas om det är tillräckligt.
 
 12 § Om tillståndet återkallas får Finansinspektionen besluta
@@ -2304,7 +2304,7 @@ fortsätta verksamheten.
 13 § Om en behörig myndighet i ett annat land har underrättat
 Finansinspektionen om att ett betalningsinstitut överträtt
 föreskrifter i det landet, ska inspektionen vidta de åtgärder
-som anges i 811 §§ mot institutet, om det föreligger någon
+som anges i 8–11 §§ mot institutet, om det föreligger någon
 omständighet som anges där. Inspektionen ska underrätta den
 behöriga myndigheten om vilka åtgärder som vidtas.
 
@@ -2531,7 +2531,7 @@ förutsättningar, med avvikelse från 5 kap. 18 §, ske inom en
 tid av högst fyra bankdagar.
 
 8. Sådana ändringar i ramavtal som avser förhållanden enligt 4
-kap. 1019 §§ och som syftar till att införa villkor i
+kap. 10–19 §§ och som syftar till att införa villkor i
 enlighet med de krav som följer av nämnda paragrafer ska,
 oavsett vad som stadgas i avtalet, kunna genomföras genom att
 betaltjänstleverantören meddelar betaltjänstanvändaren om
