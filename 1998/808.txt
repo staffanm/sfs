@@ -869,9 +869,22 @@ Det som sägs i förstatredje styckena gäller också ärenden
 för vilka en miljökonsekvensbeskrivning krävs enligt 1 §
 andra stycket. Lag (2013:758).
 
-4 a § Regeringen får meddela föreskrifter om att vissa slags
+4 a § Om ett samråd enligt 4 § avser en verksamhet eller
+åtgärd som omfattas av lagen (1999:381) om åtgärder för att
+förebygga och begränsa följderna av allvarliga
+kemikalieolyckor, ska
+
+1. samrådet även avse hur allvarliga kemikalieolyckor till
+följd av verksamheten eller åtgärden ska kunna förebyggas och
+begränsas, och
+
+2. de uppgifter som lämnas före samrådet enligt 4 § tredje
+stycket innehålla en upplysning om att verksamheten eller
+åtgärden omfattas av den lagen. Förordning (2015:232).
+
+4 b § Regeringen får meddela föreskrifter om att vissa slags
 verksamheter och åtgärder skall antas medföra en betydande
-miljöpåverkan. Lag (2005:571).
+miljöpåverkan. Lag (2015:232).
 
 5 § Länsstyrelsen ska under samrådet enligt 4 § verka för att
 miljökonsekvensbeskrivningen får den inriktning och
@@ -969,18 +982,18 @@ utsträckning som behövs för prövningen eller, om det är
 lämpligt, för att allmänheten skall få tillgång till
 information om innehållet. Lag (2001:437).
 
-9 § Den myndighet som skall pröva en ansökan i ett mål eller
+9 § Den myndighet som ska pröva en ansökan i ett mål eller
 ett ärende där det krävs en miljökonsekvensbeskrivning för en
-verksamhet eller åtgärd skall genom ett särskilt beslut eller i
-samband med avgörandet av målet eller ärendet ta ställning till
-om miljökonsekvensbeskrivningen uppfyller kraven i detta
+verksamhet eller åtgärd ska genom ett särskilt beslut eller i
+samband med avgörandet av målet eller ärendet ta ställning
+till om miljökonsekvensbeskrivningen uppfyller kraven i detta
 kapitel. Ett sådant ställningstagande får inte överklagas
-särskilt utan endast i samband med att avgörandet i målet eller
-ärendet överklagas.
+särskilt utan endast i samband med att avgörandet i målet
+eller ärendet överklagas.
 
-Vid prövningen av ansökan skall myndigheten beakta innehållet i
+Vid prövningen av ansökan ska myndigheten beakta innehållet i
 miljökonsekvensbeskrivningen och resultatet av samråd och
-yttranden enligt 4, 6 och 8 §§. Lag (2005:571).
+yttranden enligt 4, 4 a, 6 och 8 §§. Förordning (2015:232).
 
 10 § En miljökonsekvensbeskrivning för en verksamhet eller
 åtgärd samt förfarandet när miljökonsekvensbeskrivningen tas
@@ -3914,6 +3927,27 @@ betydande lokala föroreningar. Lag (2012:430).
 sådan tidsbegränsning som avses i 2 § första stycket.
 Lag (2012:430).
 
+2 b § /Träder i kraft I:2016-01-01/
+Tillståndsmyndigheten får inte med stöd av 2 § besluta
+villkor i fråga om omgivningsbuller enbart på grund av en
+bostadsbyggnad i omgivningen, om
+
+1. bostadsbyggnaden ingår i ett område med detaljplan eller
+omfattas av ett bygglov enligt plan- och bygglagen (2010:900)
+och det i planbeskrivningen till planen eller i lovet har
+angetts beräknade bullervärden, och
+
+2. villkoren skulle innebära strängare krav avseende
+omgivningsbuller än vad som följer av dessa värden.
+
+Trots första stycket får villkor som innebär strängare krav
+beslutas om det med hänsyn till de boendes hälsa finns
+synnerliga skäl för det.
+
+Sådana komplementbostadshus som avses i 9 kap. 4 a § plan-
+och bygglagen får aldrig föranleda villkor i fråga om
+omgivningsbuller. Lag (2015:670).
+
 3 § Tillstånd, godkännande eller dispens enligt balken eller
 enligt föreskrifter meddelade med stöd av balken, får för sin
 giltighet göras beroende av att den som avser att bedriva
@@ -4596,8 +4630,8 @@ Lag (2011:608).
 22 kap. Förfarandet vid mark- och miljödomstolarna i
 ansökningsmål
 
-1 § En ansökan i ett ansökningsmål ska vara skriftlig. Den ska
-innehålla
+1 § En ansökan i ett ansökningsmål ska vara skriftlig. Den
+ska innehålla
 
 1. ritningar och tekniska beskrivningar med uppgifter om
 förhållandena på platsen, produktionsmängd eller annan
@@ -4605,13 +4639,14 @@ liknande uppgift samt användningen av råvaror, andra
 insatsvaror och ämnen liksom energianvändning,
 
 2. uppgifter om utsläppskällor, art och mängd av förutsebara
-utsläpp samt förslag till de åtgärder som kan behövas dels för
-att förebygga uppkomsten av avfall, dels för förberedelse för
-återanvändning, materialåtervinning och annan återvinning av
-det avfall som anläggningen ger upphov till,
+utsläpp samt förslag till de åtgärder som kan behövas dels
+för att förebygga uppkomsten av avfall, dels för att
+förbereda för återanvändning, materialåtervinning och annan
+återvinning av det avfall som anläggningen ger upphov till,
 
 3. en miljökonsekvensbeskrivning när det krävs enligt 6 kap.
-och uppgift om det samråd som skett enligt 6 kap. 4 och 6 §§,
+och uppgift om det samråd som skett enligt 6 kap. 4 och
+6 §§,
 
 4. förslag till skyddsåtgärder eller andra försiktighetsmått
 samt de övriga uppgifter som behövs för att bedöma hur de
@@ -4619,17 +4654,17 @@ allmänna hänsynsreglerna i 2 kap. följs,
 
 5. förslag till övervakning och kontroll av verksamheten,
 
-6. i fråga om tillstånd att anlägga, driva eller ändra en
-verksamhet, en säkerhetsrapport i de fall det finns skyldighet
-att upprätta en sådan enligt lagen (1999:381) om åtgärder för
-att förebygga och begränsa följderna av allvarliga
-kemikalieolyckor,
+6. det handlingsprogram och den säkerhetsrapport som krävs
+enligt lagen (1999:381) om åtgärder för att förebygga och
+begränsa följderna av allvarliga kemikalieolyckor, om den
+verksamhet eller åtgärd som målet avser omfattas av den
+lagen,
 
 7. en statusrapport när det krävs enligt föreskrifter som har
 meddelats med stöd av 10 kap. 21 § första stycket 5, och
 
 8. en icke-teknisk sammanfattning av de uppgifter som anges i
-1-7.
+17.
 
 I mål om vattenverksamhet ska ansökan dessutom innehålla
 
@@ -4645,7 +4680,7 @@ omfattning bör anstå med sådana uppgifter.
 I 7 kap. 4 § lagen (1998:812) med särskilda bestämmelser om
 vattenverksamhet finns det ytterligare bestämmelser om vad en
 ansökan i vissa fall ska innehålla i mål om vattenverksamhet.
-Lag (2012:907).
+Förordning (2015:232).
 
 1 a § En ansökan om tillstånd till geologisk lagring av
 koldioxid ska, utöver det som anges i 1 §, innehålla
@@ -4780,6 +4815,12 @@ fastigheter, behöver någon utskrift av kungörelsen inte sändas
 till de särskilda delägarna i samfälligheten. Finns en känd
 styrelse för samfälligheten, skall en utskrift av kungörelsen
 sändas till styrelsen. Lag (2010:923).
+
+3 a § Om en kungörelse enligt 3 § avser en verksamhet eller
+åtgärd som omfattas av lagen (1999:381) om åtgärder för att
+förebygga och begränsa följderna av allvarliga
+kemikalieolyckor, ska kungörelsen innehålla en upplysning om
+detta. Förordning (2015:232).
 
 4 § Mark- och miljödomstolen ska skicka ett exemplar av
 ansökningshandlingarna och av kungörelsen till
@@ -5571,6 +5612,27 @@ meddela så  ingripande villkor eller andra bestämmelser att
 verksamheten inte längre kan bedrivas eller att den avsevärt
 försvåras. Lag (2010:882).
 
+5 a § /Träder i kraft I:2016-01-01/
+Tillståndsmyndigheten får inte med stöd av 5 § meddela
+skärpta villkor i fråga om omgivningsbuller enbart på grund
+av att det sedan tillståndet gavs eller senast ändrades har
+tillkommit en ny bostad i omgivningen, om
+
+1. bostaden ingår i ett område med detaljplan eller omfattas
+av ett bygglov enligt plan- och bygglagen (2010:900) och det
+i planbeskrivningen till planen eller i lovet har angetts
+beräknade bullervärden, och
+
+2. omgivningsbullret från verksamheten inte överskrider dessa
+värden.
+
+Trots första stycket får skärpta villkor meddelas om det med
+hänsyn till de boendes hälsa finns synnerliga skäl för det.
+
+Sådana komplementbostadshus som avses i 9 kap. 4 a § plan-
+och bygglagen får aldrig föranleda skärpta villkor i fråga om
+omgivningsbuller. Lag (2015:670).
+
 6 § Har villkor fastställts för två eller flera miljöfarliga
 verksamheter enligt 16 kap. 8 § och återkallas tillståndet
 eller omprövas villkoren för en av verksamheterna, får
@@ -5578,17 +5640,18 @@ villkoren för de övriga verksamheterna omprövas.
 
 7 § Ansökan om prövning som avses i 36 §§ får göras hos
 mark- och miljödomstol av Naturvårdsverket, Havs- och
-vattenmyndigheten, Kammarkollegiet och länsstyrelsen. Om
-frågan ska prövas av någon annan myndighet än domstol eller
-av kommun, får den tas upp utan någon särskild
-framställning. Frågor om omprövning enligt 5 § andra och
-tredje styckena får tas upp utan särskild ansökan.
+vattenmyndigheten, Kammarkollegiet, Myndigheten för
+samhällsskydd och beredskap och länsstyrelsen. Om frågan ska
+prövas av någon annan myndighet än en domstol eller av en
+kommun, får den tas upp utan någon särskild framställning.
+Frågor om omprövning enligt 5 § andra och tredje styckena
+får tas upp utan särskild ansökan.
 
 En ansökan om sådan prövning som avses i första stycket får
 även göras av en kommun i den utsträckning kommunen har
 övertagit tillsynen med stöd av 26 kap. 3 § fjärde stycket.
-Har tillståndet meddelats av länsstyrelsen, görs ansökan
-hos länsstyrelsen. Lag (2011:608).
+Har tillståndet meddelats av länsstyrelsen, görs ansökan hos
+länsstyrelsen. Förordning (2015:232).
 
 8 § Efter ansökan av tillståndshavaren får
 tillståndsmyndigheten besluta att
@@ -5717,20 +5780,21 @@ motparterna genom att sökanden har klagat. Lag (2010:923).
 verksamhet eller omprövning enligt 24 kap. 36 §§ eller 7
 kap. 15 § lagen (1998:812) med särskilda bestämmelser om
 vattenverksamhet ska Naturvårdsverket, Havs- och
-vattenmyndigheten, Kammarkollegiet, länsstyrelsen och
+vattenmyndigheten, Kammarkollegiet, Myndigheten för
+samhällsskydd och beredskap, länsstyrelsen och
 tillståndshavaren svara för sina kostnader vid mark- och
-miljödomstolen. I mål enligt 24 kap. 5 § som avser
-omprövning för att tillgodose allmänna intressen ska den
-myndighet som ansökte om omprövning dessutom svara för
-kostnader vid mark- och miljödomstolen som uppkommer för
-andra motparter än tillståndshavaren. Detta gäller dock
-inte omprövning enligt 24 kap. 5 § första stycket 11.
-Gäller ett mål enligt 24 kap. 5 § första stycket 10
-omprövning för att förbättra en anläggnings säkerhet ska
-dock tillståndshavaren i stället för Naturvårdsverket,
-Havs- och vattenmyndigheten, Kammarkollegiet och
-länsstyrelsen svara för senast nämnda kostnader.
-Lag (2011:608).
+miljödomstolen. I mål enligt 24 kap. 5 § som avser omprövning
+för att tillgodose allmänna intressen ska den myndighet som
+ansökte om omprövning dessutom svara för kostnader vid mark-
+och miljödomstolen som uppkommer för andra motparter än
+tillståndshavaren. Detta gäller dock inte omprövning enligt
+24 kap. 5 § första stycket 11. Om ett mål enligt 24 kap. 5 §
+första stycket 10 gäller omprövning för att förbättra en
+anläggnings säkerhet, ska dock tillståndshavaren svara för
+senast nämnda kostnader i stället för Naturvårdsverket, Havs-
+och vattenmyndigheten, Kammarkollegiet, Myndigheten för
+samhällsskydd och beredskap och länsstyrelsen.
+Förordning (2015:232).
 
 4 § I mål som gäller omprövning på grund av ändrade
 förhållanden i samfälligheter enligt 7 kap. 17 § lagen
@@ -6912,7 +6976,8 @@ det särskilt beaktas om det har avsett stora mängder av ett
 omfattning eller av allvarlig art eller har pågått under lång
 tid. Lag (2010:742).
 
-4 § För otillåten miljöverksamhet döms till böter eller
+4 § /Upphör att gälla U:2016-01-01/
+För otillåten miljöverksamhet döms till böter eller
 fängelse i högst två år den som med uppsåt eller av
 oaktsamhet
 
@@ -6994,6 +7059,107 @@ ansvar för gärningen kan dömas ut enligt 1 § eller om
 gärningen omfattas av en föreskrift som regeringen har
 meddelat med stöd av 30 kap. 1 § om skyldighet att betala
 miljösanktionsavgift. Lag (2014:162).
+
+4 § /Träder i kraft I:2016-01-01/
+För otillåten miljöverksamhet döms till böter eller
+fängelse i högst två år den som med uppsåt eller av
+oaktsamhet
+
+1. påbörjar eller bedriver en verksamhet eller vidtar en
+åtgärd utan tillstånd eller godkännande eller utan att ha
+gjort en anmälan, eller efter att ha gjort en anmälan
+påbörjar en verksamhet eller åtgärd utan att följa en
+föreskriven tidsfrist, allt enligt vad som krävs i
+
+a) bestämmelsen i 7 kap. 28 a § om skydd för särskilda
+naturområden, om verksamheten eller åtgärden inte omfattas av
+ett tillstånd eller en dispens enligt bestämmelserna i 9
+eller 1115 kap.,
+
+b) föreskrifter som regeringen har meddelat med stöd av 9
+kap. 6 § om miljöfarliga verksamheter,
+
+c) bestämmelsen i 9 kap. 6 c § om anmälningspliktiga
+miljöfarliga verksamheter,
+
+d) bestämmelserna i 11 kap. eller föreskrifter som regeringen
+har meddelat med stöd av 11 kap. om vattenverksamheter,
+
+e) bestämmelsen i 11 kap. 9 b § tredje stycket om
+anmälningspliktiga vattenverksamheter,
+
+f) bestämmelsen i 11 kap. 22 § om att ta en anläggning för
+bortledande av grundvatten ur bruk,
+
+g) bestämmelsen i 12 kap. 6 § eller föreskrifter som
+regeringen har meddelat med stöd av 12 kap. 6 § om att en
+verksamhet eller åtgärd ska anmälas för samråd,
+
+h) bestämmelsen i 13 kap. 12 § om avsiktlig utsättning av
+genetiskt modifierade organismer och om att släppa ut
+produkter som innehåller eller består av sådana organismer på
+marknaden,
+
+i) föreskrifter som regeringen har meddelat med stöd av 13
+kap. 16 § om innesluten användning av genetiskt modifierade
+organismer,
+
+j) bestämmelsen i 14 kap. 4 § om införsel från ett land
+utanför Europeiska unionen eller Europeiska ekonomiska
+samarbetsområdet, utsläppande på marknaden och användning av
+kemiska och biologiska bekämpningsmedel,
+
+k) föreskrifter som regeringen har meddelat med stöd av 14
+kap. 8 § om hantering, införsel, utförsel, tillstånd,
+godkännande eller anmälan av kemiska produkter, biotekniska
+organismer eller varor,
+
+l) bestämmelserna i artikel 56 i förordning (EG) nr 1907/2006
+om förutsättningar för att få använda ett ämne som anges i
+bilaga XIV till den förordningen eller släppa ut ett sådant
+ämne på marknaden,
+
+m) bestämmelserna i artikel 28.1 i förordning (EG) nr
+1107/2009 om krav på produktgodkännande av växtskyddsmedel,
+
+n) bestämmelserna om krav på godkännande av biocidprodukter i
+artikel 17.1 i Europaparlamentets och rådets förordning (EU)
+nr 528/2012 av den 22 maj 2012 om tillhandahållande på
+marknaden och användning av biocidprodukter, eller
+
+o) bestämmelserna i 17 kap. om regeringens
+tillåtlighetsprövning, eller
+
+2. i egenskap av innehavare av det tillstånd eller det beslut
+om tillåtlighet, godkännande eller dispens som gäller för
+verksamheten eller åtgärden och som har meddelats med stöd av
+balken, förordning (EG) nr 1907/2006, förordning (EG) nr
+1107/2009 eller förordning (EU) nr 528/2012 bryter mot ett
+villkor eller en bestämmelse i tillståndet eller i
+beslutet.
+
+I fråga om ett villkor eller en bestämmelse om
+buller (bullervillkor) som har angetts i ett sådant tillstånd
+eller beslut som avses i första stycket 2 ska det
+förhållandet att en bostadsbyggnad är utsatt för
+omgivningsbuller i strid med bullervillkoret inte anses
+utgöra ett brott mot villkoret, om
+
+1. byggnaden ingår i ett område med detaljplan eller omfattas
+av ett bygglov enligt plan- och bygglagen (2010:900),
+
+2. det i planbeskrivningen till planen eller i lovet har
+angetts beräknade bullervärden och omgivningsbullret inte
+överskrider dessa värden, och
+
+3. beräkningen av bullervärdena har gjorts med hänsyn till
+intresset att förebygga olägenhet för människors hälsa.
+
+Ansvar ska inte dömas ut enligt denna paragraf, om ansvar för
+gärningen kan dömas ut enligt 1 § eller om gärningen omfattas
+av en föreskrift som regeringen har meddelat med stöd av 30
+kap. 1 § om skyldighet att betala miljösanktionsavgift.
+Lag (2015:670).
 
 4 a § För otillåten avfallstransport döms till böter eller
 fängelse i högst två år den som med uppsåt eller av
@@ -8494,6 +8660,28 @@ inletts före ikraftträdandet.
 ska inte tillämpas om ett ärende om detaljplan eller bygglov
 enligt plan- och bygglagen (2010:900) har påbörjats före den
 2 januari 2015.
+
+2015:232
+
+1. Denna lag träder i kraft den 1 juni 2015.
+
+2. Bestämmelsen i 22 kap. 3 a § tillämpas inte för mål och
+ärenden där en kungörelse enligt 22 kap. 3 § har utfärdats
+före lagens ikraftträdande.
+
+3. Bestämmelsen i 22 kap. 1 § i den äldre lydelsen gäller
+fortfarande för mål och ärenden som har inletts hos den
+tillståndsprövande myndigheten före ikraftträdandet.
+
+2015:670
+
+1. Denna lag träder i kraft den 1 januari 2016.
+
+2. Bestämmelserna i 16 kap. 2 b § första och andra styckena
+och 24 kap. 5 a § första och andra styckena ska inte
+tillämpas om ett ärende om detaljplan eller bygglov enligt
+plan- och bygglagen (2010:900) har påbörjats före den 2
+januari 2015.
 
 
 Bilaga 1 Har upphävts genom lag (2001:1079).
