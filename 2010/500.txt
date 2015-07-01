@@ -1,5 +1,3 @@
-
-
 1 kap. Inledande bestämmelser
 
 Lagens tillämpningsområde
@@ -18,17 +16,17 @@ tillämplig, ska följande bestämmelser gälla även vid luftfart
 utanför svenskt område med utländska luftfartyg, när sådana
 används inom ramen för ett svenskt drifttillstånd:
 
-1. 35 kap.,
+1. 3–5 kap.,
 
-2. 8 kap. 1 och 46 §§,
+2. 8 kap. 1 och 4–6 §§,
 
 3. föreskrifter som meddelats med stöd av bestämmelser som
 anges i 1 eller 2,
 
 4. 12 kap. 1 och 3 §§ när det gäller tillsyn över
-bestämmelser som anges i 13, samt
+bestämmelser som anges i 1–3, samt
 
-5. 13 kap. 13 §§, 4 § första stycket 6, 811 och andra
+5. 13 kap. 1–3 §§, 4 § första stycket 6, 8–11 och andra
 stycket, 5 §, 6 § första stycket 2 och andra stycket samt 7,
 9 och 13 §§.
 
@@ -103,7 +101,7 @@ eller inte är motordrivna eller som i övrigt är av särskild
 beskaffenhet får regeringen eller den myndighet som
 regeringen bestämmer meddela föreskrifter om eller i ett
 enskilt fall besluta om undantag från bestämmelserna i 1 kap.
-6 § första stycket och 28 kap. samt i övrigt meddela de
+6 § första stycket och 2–8 kap. samt i övrigt meddela de
 föreskrifter som behövs. Undantag och föreskrifter får inte
 utformas så att de strider mot flygsäkerhetens eller det
 allmännas intresse. En förvaltningsuppgift som ansluter till
@@ -142,6 +140,12 @@ luftfartyg och om vissa internationella förhållanden i lagen
 (1955:229) i anledning av Sveriges tillträde till 1948 års
 konvention rörande internationellt erkännande av rätt till
 luftfartyg.
+
+Särskilda bestämmelser om registrering av internationella
+säkerhetsrätter och andra rättigheter i luftfartyg och
+flygmotorer i ett internationellt register finns i lagen
+(2015:860) om internationella säkerhetsrätter i lösa saker.
+Lag (2015:868).
 
 2 § Ett luftfartyg får registreras i Sverige bara om det helt
 ägs av
@@ -192,15 +196,19 @@ vara skriftlig.
 3. det har förolyckats eller förstörts,
 
 4. det efter en flygning inte har hörts av på tre månader,
-eller
 
 5. det på grund av ombyggnad eller annan sådan ändring
 upphört att vara luftfartyg eller, utan att ändring skett,
-inte längre anses utgöra ett luftfartyg.
+inte längre anses utgöra ett luftfartyg, eller
+
+6. den som fått en fullmakt om avregistrering och export i
+enlighet med lagen (2015:860) om internationella
+säkerhetsrätter i lösa saker skriftligen begär det och
+fullmakten är registrerad hos Transportstyrelsen.
 
 Ägaren är skyldig att inom en månad skriftligen anmäla om
-något har hänt som enligt första stycket 24 medför att ett
-luftfartyg ska avregistreras.
+något har hänt som enligt första stycket 2–4 medför att ett
+luftfartyg ska avregistreras. Lag (2015:868).
 
 7 § Om det finns en inskrivning i ett luftfartyg enligt lagen
 (1955:227) om inskrivning av rätt till luftfartyg, får
@@ -736,7 +744,7 @@ flygcertifikat får inte avse längre tid än giltighetstiden på
 certifikatet.
 
 Återkallelse av ett svenskt godkännande av ett utländskt
-flygcertifikat ska ske på de grunder som anges i 1625 §§.
+flygcertifikat ska ske på de grunder som anges i 16–25 §§.
 
 Prövning av frågor om elevtillstånd och flygcertifikat
 
@@ -1202,7 +1210,7 @@ och behörighetsbevis, och
 certifikat och behörighetsbevis.
 
 I fråga om elevtillstånd, certifikat, behörighetsbevis och
-medicinskt intyg gäller bestämmelserna i 4 kap. 6 och 831
+medicinskt intyg gäller bestämmelserna i 4 kap. 6 och 8–31
 §§.
 
 20 § Bestämmelsen i 5 kap. 9 § gäller också flygledare i
@@ -1363,7 +1371,7 @@ lyft, bogsering, inspektioner och övervakning, krävs ett
 bruksflygtillstånd.
 
 Det som föreskrivs om drifttillstånd i 1 § andra och tredje
-styckena och 27 §§ ska också gälla bruksflygtillstånd. Om
+styckena och 2–7 §§ ska också gälla bruksflygtillstånd. Om
 regeringen bestämmer det, får den myndighet som prövar frågor
 om bruksflygtillstånd uppdra åt någon annan att göra
 prövningen.
@@ -1392,7 +1400,7 @@ meddela föreskrifter om att det krävs tillstånd för att
 bedriva utbildning av flygledare och annan personal inom
 flygtrafiktjänsten i Sverige.
 
-Det som föreskrivs om drifttillstånd i 2 och 47 §§ ska också
+Det som föreskrivs om drifttillstånd i 2 och 4–7 §§ ska också
 gälla tillstånd som föreskrivs i denna paragraf.
 
 Trafiktillstånd
@@ -1455,7 +1463,7 @@ till luftfarten inom svenskt område, meddela föreskrifter om
 att det krävs tillstånd för att hyra in eller hyra ut ett
 luftfartyg.
 
-Det som föreskrivs om drifttillstånd i 2 och 47 §§ ska också
+Det som föreskrivs om drifttillstånd i 2 och 4–7 §§ ska också
 gälla tillstånd som föreskrivs i denna paragraf.
 
 8 kap. Vissa bestämmelser för lufttrafiken
@@ -1733,11 +1741,9 @@ tjänsterna för luftfarten, som avser luftfartygets senaste
 ankomst, uppehåll och avgång, inte har betalats och säkerhet
 inte har ställts.
 
-/Rubriken träder i kraft I:2015-07-01/
 Verkställighet av verksamhetsförbud
 
-2 a § /Träder i kraft I:2015-07-01/
-Transportstyrelsen får i fråga om ett lufttrafikföretag
+2 a § Transportstyrelsen får i fråga om ett lufttrafikföretag
 med svenskt drifttillstånd besluta om de begränsningar i
 företagets verksamhet som behövs för att verkställa ett
 verksamhetsförbud som Europeiska kommissionen har beslutat
@@ -1750,7 +1756,6 @@ Europaparlamentets och rådets förordning (EU) nr 421/2014.
 Transportstyrelsen ska underrätta kommissionen om vidtagna
 verkställighetsåtgärder. Lag (2015:368).
 
-/Rubriken träder i kraft I:2015-07-01/
 Kvarstad
 
 3 § I lagen (1939:6) om frihet från kvarstad för vissa
@@ -1778,7 +1783,7 @@ ombord på luftfartyg och inom markorganisationen.
 Tillsyn
 
 1 § Den myndighet som regeringen bestämmer utövar tillsyn över
-att bestämmelserna i 18, 10 och 11 kap. och de föreskrifter
+att bestämmelserna i 1–8, 10 och 11 kap. och de föreskrifter
 som meddelats med stöd av dessa bestämmelser följs.
 Tillsynsåtgärder får även vidtas stickprovsvis.
 
@@ -1798,7 +1803,7 @@ luftvärdigheten och luftfartygsunderhållet ska utövas av det
 andra landet. Lag (2011:868).
 
 2 § Den myndighet som regeringen bestämmer utövar tillsyn
-över att den som har skyldigheter enligt artiklarna 511 i
+över att den som har skyldigheter enligt artiklarna 5–11 i
 Europaparlamentets och rådets förordning (EG) nr 1107/2006 om
 rättigheter i samband med flygresor för personer med
 funktionshinder och personer med nedsatt rörlighet följer
@@ -2042,7 +2047,7 @@ luftfartyg är bemannat på föreskrivet sätt,
 3. bryter mot föreskrifter som har meddelats med stöd av 6
 kap. 19 § andra stycket 1.
 
-Till böter döms också den som i andra fall än som anges i 14
+Till böter döms också den som i andra fall än som anges i 1–4
 §§ uppsåtligen försummar någon skyldighet enligt 1, 2, 3, 4,
 5, 6 eller 8 kap.
 
@@ -2067,8 +2072,8 @@ brottslig, får dömas till lindrigare straff än vad som annars
 
 Domsrätt
 
-11 § Den som begått brott som avses i 13 §§, 4 § första
-stycket 6, 811 och andra stycket, 5 §, 6 § första stycket 2
+11 § Den som begått brott som avses i 1–3 §§, 4 § första
+stycket 6, 8–11 och andra stycket, 5 §, 6 § första stycket 2
 och andra stycket samt 7, 9 och 13 §§ döms, om han eller hon
 befinner sig här i riket, vid svensk domstol även om det inte
 finns domsrätt enligt 2 kap. 2 eller 3 § brottsbalken om
@@ -2125,7 +2130,7 @@ Militär luftfart
 
 2 § För militär luftfart gäller endast bestämmelserna i
 
-1. 5 kap. 16 samt 8 och 9 §§ om luftfartygs befälhavare och
+1. 5 kap. 1–6 samt 8 och 9 §§ om luftfartygs befälhavare och
 besättning samt tjänstgöring ombord,
 
 2. 6 kap. 13, 19 och 20 §§ om flygtrafiktjänst,
@@ -2196,22 +2201,22 @@ i denna lag utom
 
 1. 7 kap. om tillstånd att bedriva luftfart,
 
-2. 9 kap. 25 §§ om ansvar för skador genom luftfart,
+2. 9 kap. 2–5 §§ om ansvar för skador genom luftfart,
 
-3. 10 kap. 36 §§ om luftpanträtt,
+3. 10 kap. 3–6 §§ om luftpanträtt,
 
 4. 11 kap. 4 § om avgifter och andra ersättningar för
 förrättningar,
 
-5. 12 kap. 1 och 47 §§ om tillsyn och överklagande, samt
+5. 12 kap. 1 och 4–7 §§ om tillsyn och överklagande, samt
 
-6. 14 kap. 25 §§ om militär luftfart.
+6. 14 kap. 2–5 §§ om militär luftfart.
 
 Regeringen eller den myndighet som regeringen bestämmer får
 meddela föreskrifter eller i ett enskilt fall besluta om
 sådan luftfart som anges i första stycket. Regeringen eller
 den myndighet som regeringen bestämmer får även i ett enskilt
-fall besluta om undantag från bestämmelserna i 16 och 8
+fall besluta om undantag från bestämmelserna i 1–6 och 8
 kap.
 
 Regeringen eller den myndighet som regeringen bestämmer får
