@@ -1,5 +1,3 @@
-
-
 Inledande bestämmelser
 
 1 § Denna lag innehåller bestämmelser om ersättning för
@@ -15,47 +13,49 @@ Definitioner
 
 2 § I denna lag betyder
 
-1. värdepappersinstitut: detsamma som anges i 1 kap. 5 § 27
+1. värdepappersinstitut: detsamma som anges i 1 kap. 5 § 27
 lagen (2007:528) om värdepappersmarknaden,
 
-2. fondbolag: ett sådant bolag som anges i 1 kap. 1 § första
-stycket 8 lagen (2004:46) om värdepappersfonder,
+2. fondbolag: ett sådant bolag som anges i 1 kap. 1 § första
+stycket 8 lagen (2004:46) om värdepappersfonder,
 
 3. förvaltningsbolag: ett sådant utländskt företag som anges
-i 1 kap. 1 § första stycket 13 lagen om värdepappersfonder,
-som driver verksamhet från filial i Sverige med stöd av
-1 kap. 6 § samma lag,
+i 1 kap. 1 § första stycket 13 lagen om värdepappersfonder,
+som driver verksamhet från filial i Sverige med stöd av 1
+kap. 6 § samma lag,
 
 4. investerare: den som anlitat ett värdepappersinstitut, ett
-fondbolag, ett förvaltningsbolag eller en svensk
-AIF-förvaltare för utförande av en investeringstjänst eller
-den för vars räkning tjänsten utförs,
+fondbolag, ett förvaltningsbolag eller en AIF-förvaltare för
+utförande av en investeringstjänst eller den för vars räkning
+tjänsten utförs,
 
 5. investeringstjänst: en sådan tjänst som avses i
 
-a) 2 kap. 1 § och 2 § första stycket 1 lagen om
+a) 2 kap. 1 § och 2 § första stycket 1 lagen om
 värdepappersmarknaden,
 
-b) 7 kap. 1 § andra stycket 9 lagen (2004:297) om bank- och
+b) 7 kap. 1 § andra stycket 9 lagen (2004:297) om bank- och
 finansieringsrörelse,
 
-c) 1 kap. 4 § såvitt avser diskretionär portföljförvaltning,
-3 kap. 1 § och 7 kap. 1 § första stycket 1 och 2 lagen om
+c) 1 kap. 4 § såvitt avser diskretionär portföljförvaltning,
+3 kap. 1 § och 7 kap. 1 § första stycket 1 och 2 lagen om
 värdepappersfonder samt
 
-d) 3 kap. 2 § första stycket och andra stycket 13 och 9 kap.
+d) 3 kap. 2 § första stycket och andra stycket 1–3 och 9 kap.
 10 § första stycket 1 lagen (2013:561) om förvaltare av
 alternativa investeringsfonder,
 
-6. finansiella instrument: detsamma som anges i 1 kap. 4 §
-första stycket 1 lagen om värdepappersmarknaden,
+6. finansiella instrument: detsamma som anges i 1 kap. 4 §
+första stycket 1 lagen om värdepappersmarknaden,
 
 7. garantimyndigheten: den myndighet som handlägger frågor om
 investerarskyddet, och
 
 8. AIF-förvaltare: ett sådant företag som har tillstånd som
-avses i 3 kap. 2 § första stycket lagen om förvaltare av
-alternativa investeringsfonder. Lag (2013:568).
+avses i 3 kap. 2 § första stycket lagen om förvaltare av
+alternativa investeringsfonder eller som driver verksamhet
+från filial i Sverige med stöd av 5 kap. 1 § första stycket 2
+samma lag. Lag (2015:396).
 
 Investerarskyddets omfattning
 
@@ -78,20 +78,20 @@ medlen kan ersättas enligt lagen (1995:1571) om
 insättningsgaranti. Lag (2013:568).
 
 4 § Ett svenskt värdepappersinstitut, ett fondbolag eller en
-AIF-förvaltare som har fått tillstånd att tillhandahålla
-investeringstjänster tillhör investerarskyddet enligt denna
-lag.
+svensk AIF-förvaltare som har fått tillstånd att
+tillhandahålla investeringstjänster tillhör investerarskyddet
+enligt denna lag.
 
 Investerarskyddet omfattar även tillgångar enligt 3 § hos ett
-svenskt värdepappersinstituts eller fondbolags filial i ett
-annat land inom Europeiska ekonomiska samarbetsområdet
-(EES).
+svenskt värdepappersinstituts, ett fondbolags eller en svensk
+AIF-förvaltares filial i ett annat land inom Europeiska
+ekonomiska samarbetsområdet (EES).
 
 Garantimyndigheten får på ansökan av ett svenskt
 värdepappersinstitut eller ett fondbolag besluta om att
-skyddet enligt denna lag ska omfatta även tillgångar enligt
-3 § som finns hos en filial till institutet eller fondbolaget
-i ett land utanför EES. Lag (2013:568).
+skyddet enligt denna lag ska omfatta även tillgångar enligt 3 §
+som finns hos en filial till institutet eller fondbolaget i ett
+land utanför EES. Lag (2015:396).
 
 5 § Garantimyndigheten får på ansökan av ett utländskt
 värdepappersinstitut besluta att institutets filial i Sverige
@@ -105,20 +105,24 @@ investerare som anlitat filialen kan få från ett
 investerarskydd i institutets hemland. Lag (2007:1434).
 
 6 § Garantimyndigheten får på ansökan av ett utländskt
-värdepappersinstitut från ett land inom EES eller ett
-förvaltningsbolag besluta att institutets eller bolagets filial
-i Sverige skall tillhöra det svenska investerarskyddet som
-komplettering till det skydd som gäller för institutet eller
-bolaget i hemlandet (kompletteringsskydd).
+värdepappersinstitut från ett land inom EES, ett
+förvaltningsbolag eller en utländsk AIF-förvaltare besluta
+att institutets, bolagets eller AIF-förvaltarens filial i
+Sverige ska tillhöra det svenska investerarskyddet som
+komplettering till det skydd som gäller för institutet,
+bolaget eller AIF-förvaltaren i hemlandet
+(kompletteringsskydd).
 
-Detsamma gäller för ett utländskt värdepappersinstitut från ett
-land utanför EES, om dess filial i Sverige tillhör ett skydd i
-hemlandet som uppfyller minst de krav som gäller inom EES.
+Detsamma gäller för ett utländskt värdepappersinstitut från
+ett land utanför EES, om dess filial i Sverige tillhör ett
+skydd i hemlandet som uppfyller minst de krav som gäller inom
+EES.
 
-När ersättning fastställs enligt denna lag skall i fall som
+När ersättning fastställs enligt denna lag ska i fall som
 avses i första och andra styckena avdrag göras för den
 ersättning en investerare som anlitat filialen kan få från
-skyddet i institutets hemland. Lag (2007:1434).
+skyddet i institutets, bolagets eller AIF-förvaltarens
+hemland. Lag (2015:396).
 
 Ersättning från investerarskyddet
 
@@ -129,14 +133,15 @@ skyddet försätts i konkurs och investeraren inte från
 institutet, bolaget eller AIF-förvaltaren kan få ut
 finansiella instrument eller medel som avses i 3 §.
 
-Om en filial till ett utländskt värdepappersinstitut eller en
-filial till ett förvaltningsbolag tillhör investerarskyddet,
-har investerare som anlitat filialen även rätt till
-ersättning om en behörig myndighet i institutets eller
-bolagets hemland förklarat att finansiella instrument och
-medel hos institutet eller bolaget inte är tillgängliga. Vad
-som sägs i denna lag om konkursbeslut ska i sådana fall
-tillämpas på motsvarande sätt. Lag (2013:568).
+Om en filial till ett utländskt värdepappersinstitut, en
+filial till ett förvaltningsbolag eller en filial till en
+utländsk AIF-förvaltare tillhör investerarskyddet, har
+investerare som anlitat filialen även rätt till ersättning om
+en behörig myndighet i institutets, bolagets eller
+AIF-förvaltarens hemland förklarat att finansiella instrument
+och medel hos institutet, bolaget eller AIF-förvaltaren inte
+är tillgängliga. I sådana fall ska bestämmelserna om
+konkursbeslut i denna lag tillämpas. Lag (2015:396).
 
 8 § Ersättning för finansiella instrument skall lämnas med
 belopp som motsvarar instrumentens marknadsvärde vid utgången
@@ -153,7 +158,8 @@ Finansiella instrument eller medel som är angivna i ett annat
 lands valuta skall räknas om till svenska kronor enligt den
 senaste köpkurs som gällde dagen för konkursbeslutet.
 
-9 § Ersättningen, tillsammans med eventuell utdelning i
+9 § /Upphör att gälla U:2016-03-01/
+Ersättningen, tillsammans med eventuell utdelning i
 värdepappersinstitutets, fondbolagets, förvaltningsbolagets
 eller AIF-förvaltarens konkurs, ersättning genom institutets,
 fondbolagets, förvaltningsbolagets eller AIF-förvaltarens
@@ -162,6 +168,17 @@ ansvarsförsäkring och skadestånd enligt 7 kap. 2 § lagen
 förlust som enligt denna lag är ersättningsgill, får uppgå
 till sammanlagt högst 250 000 kronor för varje institut eller
 bolag. Lag (2013:568).
+
+9 § /Träder i kraft I:2016-03-01/
+Ersättningen, tillsammans med eventuell utdelning i 
+värdepappersinstitutets, fondbolagets, förvaltningsbolagets 
+eller AIF-förvaltarens konkurs, ersättning genom institutets, 
+fondbolagets, förvaltningsbolagets eller AIF-förvaltarens 
+ansvarsförsäkring och skadestånd enligt 7 kap. 2 § lagen 
+(1998:1479) om värdepapperscentraler och kontoföring av 
+finansiella instrument, för en förlust som enligt denna lag 
+är ersättningsgill, får uppgå till sammanlagt högst 250 000 
+kronor för varje institut eller bolag. Lag (2016:53).
 
 10 § Om en person har anlitat ett värdepappersinstitut, ett
 fondbolag, ett förvaltningsbolag eller en AIF-förvaltare helt
@@ -210,13 +227,13 @@ inom den tid som anges i första stycket, börjar tidsfristen i
 stället att löpa när hindret upphör. Lag (2007:1434).
 
 16 § Om förvaltaren i ett värdepappersinstituts, ett
-fondbolags eller en AIF-förvaltares konkurs finner att en
-investerare kan ha rätt till ersättning från
+fondbolags eller en svensk AIF-förvaltares konkurs finner att
+en investerare kan ha rätt till ersättning från
 investerarskyddet, ska förvaltaren genast informera
 investeraren om detta. Förvaltaren ska också lämna de
 uppgifter till garantimyndigheten som myndigheten behöver för
-att kunna ta ställning till en investerares
-ersättningskrav. Lag (2013:568).
+att kunna ta ställning till en investerares ersättningskrav.
+Lag (2015:396).
 
 17 § Garantimyndigheten skall betala ut ersättning till
 en investerare snarast möjligt och senast två veckor efter det
@@ -265,28 +282,29 @@ Informationen ska hållas tillgänglig på svenska språket.
 
 Om information som anges i första eller andra stycket inte
 lämnas ska marknadsföringslagen (2008:486) tillämpas, med
-undantag av bestämmelserna i 2936 §§ om
+undantag av bestämmelserna i 29–36 §§ om
 marknadsstörningsavgift. Sådan information ska anses vara
 väsentlig enligt 10 § tredje stycket marknadsföringslagen.
 Lag (2013:568).
 
 Övertagande av fordran
 
-21 § I fråga om ersättningar som har betalats ut från
-investerarskyddet träder staten in i investerarens rätt mot
-värdepappersinstitutet, fondbolaget, förvaltningsbolaget
-eller AIF-förvaltaren med företrädesrätt framför investeraren
-intill det utgivna beloppet.
+21 § I fråga om ersättningar som har
+betalats ut från investerarskyddet träder staten in i
+investerarens rätt mot värdepappersinstitutet, fondbolaget,
+förvaltningsbolaget eller AIF-förvaltaren med företrädesrätt
+framför investeraren intill det utgivna beloppet.
 
 När ett utländskt skyddssystem har betalat ut ersättning med
-anledning av att ett svenskt värdepappersinstitut eller ett
-fondbolag försatts i konkurs, träder det utländska
-skyddssystemet in i investerarens rätt mot
-värdepappersinstitutet eller fondbolaget med företrädesrätt
-framför investeraren intill det utgivna beloppet.
-Lag (2013:568).
+anledning av att ett svenskt värdepappersinstitut, ett
+fondbolag eller en svensk AIF-förvaltare försatts i konkurs,
+träder det utländska skyddssystemet in i investerarens rätt
+mot värdepappersinstitutet, fondbolaget eller AIF-förvaltaren
+med företrädesrätt framför investeraren intill det utgivna
+beloppet. Lag (2015:396).
 
-22 § Om en investerare har rätt till ersättning enligt en
+22 § /Upphör att gälla U:2016-03-01/
+Om en investerare har rätt till ersättning enligt en
 ansvarsförsäkring som har tecknats av ett
 värdepappersinstitut, ett fondbolag, ett förvaltningsbolag
 eller en AIF-förvaltare och om ersättning har betalats ut
@@ -304,32 +322,54 @@ investerarens rätt till ersättning enligt den lagen med
 företrädesrätt framför investeraren intill det utgivna
 beloppet. Lag (2013:568).
 
+22 § /Träder i kraft I:2016-03-22/
+Om en investerare har rätt till ersättning enligt en 
+ansvarsförsäkring som har tecknats av ett 
+värdepappersinstitut, ett fondbolag, ett förvaltningsbolag 
+eller en AIF-förvaltare och om ersättning har betalats ut 
+enligt denna lag för de tillgångar som 
+försäkringsersättningen avser, träder staten in i 
+investerarens rätt till ersättning enligt ansvarsförsäkringen 
+med företrädesrätt framför investeraren intill det utgivna 
+beloppet.
+
+Om en investerare har rätt till skadestånd enligt 7 kap. 2 § 
+lagen (1998:1479) om värdepapperscentraler och kontoföring av 
+finansiella instrument och ersättning har betalats ut från 
+investerarskyddet för de tillgångar som skadeståndet avser, 
+träder staten in i investerarens rätt till ersättning enligt 
+den lagen med företrädesrätt framför investeraren intill det 
+utgivna beloppet. Lag (2016:53).
+
 Ingripanden
 
 23 § Garantimyndigheten ska underrätta Finansinspektionen, om
-ett värdepappersinstitut, ett fondbolag eller en
+ett värdepappersinstitut, ett fondbolag eller en svensk
 AIF-förvaltare som tillhör investerarskyddet inte fullgör
-sina skyldigheter enligt denna lag. Lag (2013:568).
+sina skyldigheter enligt denna lag. Lag (2015:396).
 
 24 § Om en filial som avses i 6 § första stycket tillhör
-investerarskyddet och värdepappersinstitutet eller
-förvaltningsbolaget inte fullgör sina skyldigheter enligt denna
-lag, ska garantimyndigheten underrätta tillsynsmyndigheten i
-institutets eller bolagets hemland om detta. Myndigheten ska
-samarbeta med den tillsynsmyndigheten i fråga om åtgärder som
-vidtas för att säkerställa att institutet eller bolaget fullgör
-sina skyldigheter.
+investerarskyddet och värdepappersinstitutet,
+förvaltningsbolaget eller AIF-förvaltaren inte fullgör sina
+skyldigheter enligt denna lag, ska garantimyndigheten
+underrätta tillsynsmyndigheten i institutets, bolagets eller
+AIF-förvaltarens hemland om detta. Myndigheten ska samarbeta
+med den tillsynsmyndigheten i fråga om åtgärder som vidtas
+för att säkerställa att institutet, bolaget eller
+AIF-förvaltaren fullgör sina skyldigheter.
 
-Om institutet eller bolaget ändå inte fullgör sina skyldigheter
-får garantimyndigheten förelägga det att vidta rättelse inom
-viss tid, dock minst ett år. Institutet eller bolaget ska
-erinras om att skyddet inte längre ska gälla för filialen, om
-det inte fullgör sina skyldigheter. Har institutet eller
-bolaget inte vidtagit rättelse inom föreskriven tid får
-garantimyndigheten besluta att skyddet inte längre ska gälla
-för filialen. Ett sådant beslut får meddelas endast om
-tillsynsmyndigheten i institutets eller bolagets hemland har
-samtyckt till beslutet. Lag (2007:1434).
+Om institutet, bolaget eller AIF-förvaltaren ändå inte
+fullgör sina skyldigheter, får garantimyndigheten förelägga
+det eller den att vidta rättelse inom viss tid, dock minst
+ett år. Föreläggandet ska innehålla en upplysning om att
+skyddet inte längre ska gälla för filialen, om institutet,
+bolaget eller AIF-förvaltaren inte fullgör sina skyldigheter.
+Har institutet, bolaget eller AIF-förvaltaren inte vidtagit
+rättelse inom föreskriven tid, får garantimyndigheten besluta
+att skyddet inte längre ska gälla för filialen. Ett sådant
+beslut får meddelas endast om tillsynsmyndigheten i
+institutets, bolagets eller AIF-förvaltarens hemland har
+samtyckt till beslutet. Lag (2015:396).
 
 25 § Om en filial som avses i 6 § andra stycket tillhör
 investerarskyddet och värdepappersinstitutet inte fullgör sina
