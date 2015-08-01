@@ -13,12 +13,10 @@ Lagens tillämpningsområde
 
 2 § Denna lag gäller vid behandling av personuppgifter i
 
-1. brottsbekämpande verksamhet vid Polismyndigheten, i
-Nationellt forensiskt centrum dock endast vid behandling av
-personuppgifter i särskilda register enligt 4 kap.,
+1. brottsbekämpande verksamhet vid Polismyndigheten,
 
 2. brottsbekämpande verksamhet vid Säkerhetspolisen i den
-utsträckning som anges i detta kapitel och i 5 kap., och
+utsträckning som anges i detta kapitel och i 6 kap., och
 
 3. polisiär verksamhet vid Ekobrottsmyndigheten.
 
@@ -27,7 +25,7 @@ helt eller delvis automatiserad. Lagen gäller även för annan
 behandling av personuppgifter, om uppgifterna ingår i eller
 är avsedda att ingå i en strukturerad samling av
 personuppgifter som är tillgängliga för sökning eller
-sammanställning enligt särskilda kriterier. Lag (2014:597).
+sammanställning enligt särskilda kriterier. Lag (2015:436).
 
 2 a § Ny beteckning 4 § genom lag (2014:597).
 
@@ -101,17 +99,17 @@ penningtvättsregister,
 6. 4 kap. 21 och 22 §§ om behandling av personuppgifter i det
 internationella registret,
 
-7. 5 kap. 13 §§ om ändamålen för behandlingen hos
+7. 6 kap. 13 §§ om ändamålen för behandlingen hos
 Säkerhetspolisen,
 
-8. 5 kap. 4 § 5 om tillgången till personuppgifter hos
+8. 6 kap. 4 § 5 om tillgången till personuppgifter hos
 Säkerhetspolisen,
 
-9. 5 kap. 6 och 7 §§ om bevarande och gallring hos
+9. 6 kap. 6 och 7 §§ om bevarande och gallring hos
 Säkerhetspolisen, och
 
-10. 5 kap. 8, 9 och 1214 §§ om gemensamt tillgängliga
-uppgifter hos Säkerhetspolisen. Lag (2014:597).
+10. 6 kap. 8, 9 och 1214 §§ om gemensamt tillgängliga
+uppgifter hos Säkerhetspolisen. Lag (2015:436).
 
 Lagens uppbyggnad
 
@@ -126,9 +124,14 @@ DNA-profiler, fingeravtrycks- och signalementsregister,
 penningtvättsregister eller i det internationella registret,
 gäller 4 kap. i stället för 3 kap.
 
-I 5 kap. finns bestämmelser om behandlingen av
-personuppgifter i Säkerhetspolisens verksamhet.
-Lag (2014:597).
+I 5 kap. finns bestämmelser om behandling av personuppgifter
+vid Polismyndigheten för forensiska ändamål. Vid sådan
+behandling gäller 5 kap. i stället för 2 kap. och 3 kap.
+
+I 6 kap. finns bestämmelser om behandlingen av
+personuppgifter i Säkerhetspolisens verksamhet. Vid sådan
+behandling gäller 6 kap. i stället för 2 kap. och 3 kap.
+Lag (2015:436).
 
 2 kap. Allmänna bestämmelser
 
@@ -314,10 +317,8 @@ Bevarande och gallring
 
 12 § Personuppgifter får inte bevaras under längre tid än vad
 som behövs för något eller några av de i lagen angivna
-ändamålen.
-
-I följande bestämmelser anges hur länge uppgifter som
-behandlas automatiserat längst får bevaras:
+ändamålen. I följande bestämmelser anges hur länge uppgifter
+som behandlas automatiserat längst får bevaras:
 
 1. 13 § om uppgifter som inte har gjorts gemensamt
 tillgängliga,
@@ -333,13 +334,17 @@ gemensamt tillgängliga än som anges i 2,
 5. 4 kap. 1416 §§ om uppgifter i fingeravtrycks- och
 signalementsregister,
 
-6. 4 kap. 20 § om uppgifter i penningtvättsregister, och
+6. 4 kap. 20 § om uppgifter i penningtvättsregister,
 
-7. 4 kap. 22 § om uppgifter i det internationella
-registret.
+7. 4 kap. 22 § om uppgifter i det internationella registret,
+och
 
-Regeringen meddelar föreskrifter om digital arkivering.
-Lag (2014:597).
+8. 5 kap. 7 § om uppgifter om sådana uppslag som anges i 5
+kap. 1 § första stycket 5.
+
+Regeringen eller den myndighet som regeringen bestämmer kan
+med stöd av 8 kap. 7 § regeringsformen meddela föreskrifter
+om digital arkivering. Lag (2015:436).
 
 13 § Personuppgifter som behandlas automatiserat och som inte
 har gjorts gemensamt tillgängliga eller behandlas i särskilda
@@ -1008,7 +1013,142 @@ meddelar föreskrifter om att personuppgifter, med avvikelse
 från första stycket, får bevaras för historiska, statistiska
 eller vetenskapliga ändamål.
 
-5 kap. Behandling av personuppgifter i Säkerhetspolisens
+5 kap. Behandling av personuppgifter vid Polismyndigheten för
+forensiska ändamål
+
+Ändamål
+
+1 § Vid Nationellt forensiskt centrum får personuppgifter
+behandlas om det behövs för att
+
+1. sammanställa det underlag i form av insamlade spår eller
+annat som krävs för att sådana forensiska åtgärder som anges
+i 2 ska kunna utföras,
+
+2. utföra forensiska analyser, undersökningar eller
+jämförelser åt den egna myndigheten eller åt
+Säkerhetspolisen, Ekobrottsmyndigheten, Åklagarmyndigheten,
+Tullverket, Kustbevakningen, Skatteverket eller allmän
+domstol,
+
+3. begära forensiska analyser, undersökningar eller
+jämförelser av eller utföra sådana åtgärder åt
+
+a) Rättsmedicinalverket,
+
+b) ett utländskt forensiskt laboratorium, eller
+
+c) en utländsk brottsbekämpande myndighet eller en
+mellanfolklig organisation eller ett EU-organ med
+brottsbekämpande uppgifter,
+
+4. begära forensiska analyser eller undersökningar av andra
+svenska expertorgan, eller
+
+5. ta fram uppslag i syfte att underlätta arbetet med att
+förhindra eller upptäcka brottslig verksamhet eller utreda
+och beivra brott, genom att använda resultat från sådana
+åtgärder som anges i 2 eller i 2 § andra stycket.
+
+Personuppgifter får också behandlas vid Nationellt forensiskt
+centrum om det behövs för
+
+1. forskning och statistik, eller
+
+2. kvaliteten i den forensiska verksamheten.
+Lag (2015:436).
+
+2 § Vid en annan enhet inom Polismyndigheten än Nationellt
+forensiskt centrum får personuppgifter behandlas om enheten
+behöver det för att sammanställa det underlag i form av
+insamlade spår eller annat som krävs för att sådana
+forensiska åtgärder som anges i 1 § första stycket 2 ska
+kunna utföras av centrumet.
+
+Personuppgifter får även behandlas vid en sådan annan enhet
+om enheten behöver det för att utföra forensiska analyser,
+undersökningar eller jämförelser. Lag (2015:436).
+
+3 § Personuppgifter som behandlas enligt 1 § första stycket 2
+eller 5 eller andra stycket 2 eller 2 § andra stycket får
+även behandlas när det är nödvändigt för att tillhandahålla
+information som behövs i annan brottsbekämpande verksamhet
+hos Polismyndigheten eller i brottsbekämpande verksamhet hos
+Säkerhetspolisen, Ekobrottsmyndigheten, Åklagarmyndigheten,
+Tullverket, Kustbevakningen eller Skatteverket.
+
+I ett enskilt fall får personuppgifter som behandlas enligt 1
+eller 2 § även behandlas för att tillhandahålla information
+för något annat ändamål än det som anges i första stycket,
+under förutsättning att ändamålet inte är oförenligt med det
+ändamål som uppgifterna samlades in för. Lag (2015:436).
+
+Tillämpliga bestämmelser i 2 kap.
+
+4 § Följande bestämmelser i 2 kap. ska tillämpas vid
+behandling för forensiska ändamål:
+
+1. 1 och 2 §§ om förhållandet till personuppgiftslagen,
+
+2. 3 § om definitioner,
+
+3. 4 och 5 §§ om personuppgiftsansvar,
+
+4. 6 § om tillsyn,
+
+5. 10 § om behandling av känsliga personuppgifter,
+
+6. 11 § om tillgången till personuppgifter, och
+
+7. 20 och 21 §§ om elektroniskt utlämnande av
+personuppgifter. Lag (2015:436).
+
+Sökning
+
+5 § Vid sökning i personuppgifter får uppgifter som avslöjar
+ras, etniskt ursprung, politiska åsikter, religiös eller
+filosofisk övertygelse, medlemskap i fackförening eller som
+rör hälsa eller sexualliv inte användas som sökbegrepp.
+Lag (2015:436).
+
+Bevarande
+
+6 § Personuppgifter som behandlas för forensiska ändamål får
+inte bevaras under längre tid än vad som behövs för något
+eller några av ändamålen i 1 eller 2 §.
+
+Regeringen eller den myndighet som regeringen bestämmer kan
+med stöd av 8 kap. 7 § regeringsformen meddela föreskrifter
+om digital arkivering. Lag (2015:436).
+
+7 § Nationellt forensiskt centrum får inte behandla
+personuppgifter för det ändamål som anges i 1 § första
+stycket 5 när det har förflutit fem år efter utgången av det
+kalenderår då ärendet där uppgifterna förekommer
+registrerades. Lag (2015:436).
+
+Utlämnande av personuppgifter
+
+8 § Säkerhetspolisen, Ekobrottsmyndigheten,
+Åklagarmyndigheten, Tullverket, Kustbevakningen och
+Skatteverket har, trots sekretess enligt 21 kap. 3 § första
+stycket och 35 kap. 1 § offentlighets- och sekretesslagen
+(2009:400), rätt att ta del av personuppgifter som behandlas
+enligt 1 § första stycket 5, om den mottagande myndigheten
+behöver uppgifterna i sin brottsbekämpande verksamhet.
+
+Första stycket gäller inte uppgifter som behandlas i
+särskilda register enligt 4 kap. Lag (2015:436).
+
+9 § Regeringen kan med stöd av 8 kap. 7 § regeringsformen
+meddela föreskrifter om att personuppgifter får lämnas ut i
+andra fall än som anges i 8 §.
+
+Bestämmelser om att uppgifter får lämnas ut finns även i
+offentlighets- och sekretesslagen (2009:400).
+Lag (2015:436).
+
+6 kap. Behandling av personuppgifter i Säkerhetspolisens
 brottsbekämpande verksamhet
 
 Ändamål
@@ -1021,29 +1161,30 @@ som innefattar
 
 a) brott mot rikets säkerhet,
 
-b) terroristbrott enligt 2 § lagen (2003:148) om straff för
-terroristbrott,
+b) terrorbrott, eller
 
-c) brott enligt 3 § lagen (2002:444) om straff för
-finansiering av särskilt allvarlig brottslighet i vissa fall,
-eller
-
-d) tryckfrihetsbrott och yttrandefrihetsbrott med rasistiska
-eller främlingsfientliga motiv,
+c) tryckfrihetsbrott eller yttrandefrihetsbrott med
+rasistiska eller främlingsfientliga motiv,
 
 2. utreda eller beivra sådana brott som avses i 1, eller,
 efter särskilt beslut, annat brott,
 
-3. fullgöra uppgifter i samband med personskydd,
+3. fullgöra uppgifter i samband med personskydd av den
+centrala statsledningen och andra som regeringen eller
+Säkerhetspolisen bestämmer,
 
-4. fullgöra uppgifter enligt säkerhetsskyddslagen (1996:627),
+4. fullgöra uppgifter enligt säkerhetsskyddslagen
+(1996:627),
 
 5. fullgöra förpliktelser som följer av internationella
-åtaganden, eller
+åtaganden,
 
 6. lämna tekniskt biträde till Polismyndigheten,
-Ekobrottsmyndigheten, Åklagarmyndigheten eller Tullverket.
-Lag (2014:597).
+Ekobrottsmyndigheten, Åklagarmyndigheten eller Tullverket,
+eller
+
+7. fullgöra annan verksamhet som anges i lag eller förordning
+eller särskilt beslut av regeringen. Lag (2015:436).
 
 2 § Personuppgifter som behandlas enligt 1 § får även
 behandlas när det är nödvändigt för att tillhandahålla
@@ -1058,10 +1199,13 @@ inom ramen för myndighetsöverskridande samverkan mot brott,
 
 3. Försvarsmaktens försvarsunderrättelseverksamhet och
 militära säkerhetstjänst, om det finns särskilda skäl att
-tillhandahålla informationen, eller
+tillhandahålla informationen,
 
 4. brottsbekämpande verksamhet hos utländsk myndighet eller
-mellanfolklig organisation.
+mellanfolklig organisation, eller
+
+5. en myndighets verksamhet om Säkerhetspolisen enligt lag
+eller förordning ska bistå myndigheten med viss uppgift.
 
 Personuppgifter som behandlas enligt 1 § får även behandlas,
 om det är nödvändigt för att tillhandahålla information till
@@ -1069,16 +1213,17 @@ riksdagen och regeringen samt, i den utsträckning skyldighet
 att lämna uppgifter följer av lag eller förordning, till
 andra.
 
-Regeringen meddelar föreskrifter om att personuppgifter som
-behandlas enligt 1 § och som avser efterlysta personer och
-avlägsnanden ur landet får behandlas för att tillhandahålla
-information till vissa särskilt angivna myndigheter.
+Regeringen kan med stöd av 8 kap. 7 § regeringsformen meddela
+föreskrifter om att personuppgifter som behandlas enligt 1 §
+och som avser efterlysta personer och avlägsnanden ur landet
+får behandlas för att tillhandahålla information till vissa
+särskilt angivna myndigheter.
 
 I ett enskilt fall får personuppgifter som behandlas enligt 1 §
 även behandlas för att tillhandahålla information för något
 annat ändamål än de som anges i förstatredje styckena, under
 förutsättning att ändamålet inte är oförenligt med det
-ändamål för vilket uppgifterna samlades in. Lag (2014:597).
+ändamål som uppgifterna samlades in för. Lag (2015:436).
 
 3 § Personuppgifter får behandlas om
 
@@ -1086,7 +1231,7 @@ förutsättning att ändamålet inte är oförenligt med det
 
 2. uppgifterna har lämnats till Säkerhetspolisen i en anmälan
 eller liknande och behandlingen är nödvändig för
-handläggningen.
+handläggningen. Lag (2015:436).
 
 Tillämpliga bestämmelser i 2 kap.
 
@@ -1109,6 +1254,7 @@ fingeravtryck,
 uppgiftsskyldighet, och
 
 7. 20 och 21 §§ om elektroniskt utlämnande av personuppgifter.
+Lag (2015:436).
 
 Personuppgiftsansvar
 
@@ -1118,7 +1264,7 @@ behandling av personuppgifter som Säkerhetspolisen utför.
 Säkerhetspolisen ska utse ett eller flera personuppgiftsombud.
 Den personuppgiftsansvarige ska anmäla till
 tillsynsmyndigheten enligt personuppgiftslagen (1998:204) när
-ett personuppgiftsombud utses eller entledigas.
+ett personuppgiftsombud utses eller entledigas. Lag (2015:436).
 
 Bevarande och gallring
 
@@ -1128,7 +1274,9 @@ som behövs för något eller några av ändamålen i 13 §§.
 I 7 och 1214 §§ anges hur länge uppgifter som behandlas
 automatiserat längst får bevaras.
 
-Regeringen meddelar föreskrifter om digital arkivering.
+Regeringen eller den myndighet som regeringen bestämmer kan
+med stöd av 8 kap. 7 § regeringsformen meddela föreskrifter
+om digital arkivering. Lag (2015:436).
 
 7 § Personuppgifter som behandlas automatiserat hos
 Säkerhetspolisen och som inte har gjorts gemensamt
@@ -1143,7 +1291,7 @@ utredning eller beivrande av brott.
 Regeringen eller den myndighet som regeringen bestämmer
 meddelar föreskrifter om att personuppgifter, med avvikelse
 från första stycket, får bevaras för historiska, statistiska
-eller vetenskapliga ändamål.
+eller vetenskapliga ändamål. Lag (2015:436).
 
 Behandling av gemensamt tillgängliga uppgifter
 
@@ -1158,13 +1306,13 @@ att ta del av anses inte som gemensamt tillgängliga.
 Bestämmelserna i 913 §§ gäller för behandling av
 personuppgifter som görs eller har gjorts gemensamt
 tillgängliga. Bestämmelserna gäller dock inte när
-personuppgifter behandlas med stöd av 3 §.
+personuppgifter behandlas med stöd av 3 §. Lag (2015:436).
 
 Särskilda upplysningar
 
 9 § Vid behandling enligt 8 § ska det genom en särskild
 upplysning eller på något annat sätt framgå för vilket närmare
-ändamål personuppgifterna behandlas.
+ändamål personuppgifterna behandlas. Lag (2015:436).
 
 10 § Om uppgifter, som behandlas enligt 8 §, direkt kan
 hänföras till en person som inte är misstänkt för brott eller
@@ -1184,7 +1332,7 @@ att bearbeta och analysera information och som enbart särskilt
 angivna tjänstemän har åtkomst till, och
 
 2. bearbetningen och analysen befinner sig i ett inledande
-skede.
+skede. Lag (2015:436).
 
 Sökning
 
@@ -1201,7 +1349,7 @@ sökbegrepp.
 
 Regeringen eller den myndighet som regeringen bestämmer
 meddelar ytterligare föreskrifter om sökning i gemensamt
-tillgängliga uppgifter.
+tillgängliga uppgifter. Lag (2015:436).
 
 Bevarande och gallring
 
@@ -1222,17 +1370,17 @@ med stöd av ett sådant beslut, ska de gallras, eller frågan om
 bevarande prövas på nytt, senast vid utgången av det tionde
 kalenderåret efter beslutet eller, om det är fråga om
 uppgifter som avses i andra stycket, senast vid utgången av
-det tredje kalenderåret efter beslutet.
+det tredje kalenderåret efter beslutet. Lag (2015:436).
 
 13 § Bestämmelserna i 12 § gäller inte personuppgifter i
 ärenden om utredning eller beivrande av brott. I fråga om
 behandling av sådana personuppgifter ska i stället
-3 kap. 913 §§ tillämpas.
+3 kap. 913 §§ tillämpas. Lag (2015:436).
 
 14 § Regeringen eller den myndighet som regeringen bestämmer
 meddelar föreskrifter om att personuppgifter, med avvikelse
 från 12 §, får bevaras för historiska, statistiska eller
-vetenskapliga ändamål.
+vetenskapliga ändamål. Lag (2015:436).
 
 Övergångsbestämmelser
 
