@@ -1,5 +1,3 @@
-
-
 1 kap. Innehåll och definitioner
 
 1 § Denna förordning innehåller bestämmelser om
@@ -47,6 +45,12 @@ byggnaden berör byggnadens tak.
 3 a § Med nära-nollenergibyggnad avses en byggnad som har
 mycket hög energiprestanda. Förordning (2014:40).
 
+3 b § Med tillfälligt anläggningsboende avses i denna 
+förordning en byggnad eller en del av en byggnad som under en 
+begränsad tid används som en sådan förläggning som avses i 2 § 
+första stycket lagen (1994:137) om mottagande av asylsökande 
+m.fl. Förordning (2015:934).
+
 4 § Med våning avses i denna förordning ett utrymme i en
 byggnad där utrymmet avgränsas åt sidorna av byggnadens
 ytterväggar, uppåt av ett tak eller bjälklag och nedåt av ett
@@ -92,7 +96,7 @@ vidtar en åtgärd, eller
 
 b) i enlighet med bestämmelserna om tillsyn över kommunala
 beslut och regionplanebeslut samt planförelägganden i 11 kap.
-1016 §§ plan- och bygglagen (2010:900), eller
+10–16 §§ plan- och bygglagen (2010:900), eller
 
 2. marknadskontroll enligt
 
@@ -122,9 +126,15 @@ och 7 §§ socialförsäkringsbalken.
 9 § När det i beslut som meddelas med stöd av plan- och
 bygglagen (2010:900) eller denna förordning eller i
 föreskrifter som meddelas med stöd av denna förordning används
-termer och uttryck som definieras i 37 §§, ska dessa ha samma
+termer och uttryck som definieras i 3–7 §§, ska dessa ha samma
 betydelse som i denna förordning om inte annat är särskilt
 angivet.
+
+10 § Bestämmelser om riktvärden för buller utomhus för
+spårtrafik, vägar och flygplatser vid bostadsbyggnader och
+bestämmelser om beräkning av bullervärden vid
+bostadsbyggnader finns i förordningen (2015:216) om
+trafikbuller vid bostadsbyggnader. Förordning (2015:837).
 
 2 kap. Planer och områdesbestämmelser
 
@@ -266,7 +276,7 @@ Uppfyllandet av utformningskraven
 
 6 § Det som sägs om uppfyllandet av kraven på utformning i
 8 kap. 2 § första stycket plan- och bygglagen (2010:900) ska
-gälla för uppfyllandet av utformningskraven i 15 §§.
+gälla för uppfyllandet av utformningskraven i 1–5 §§.
 
 Egenskapskrav avseende bärförmåga, stadga och beständighet
 
@@ -378,7 +388,7 @@ avses i a, och
 för att höja säkerheten vid användningen av en hiss som är
 installerad i en byggnad.
 
-12 § Kraven i 11 § 13 ska alltid vara uppfyllda genom att
+12 § Kraven i 11 § 1–3 ska alltid vara uppfyllda genom att
 
 1. en byggnad som avses i 11 § 1 har sådana anordningar som
 skäligen kunde krävas av en ny byggnad den 1 juli 1960,
@@ -542,7 +552,7 @@ Uppfyllandet av egenskapskraven
 
 22 § Det som sägs om uppfyllandet av kraven på tekniska
 egenskaper i 8 kap. 5 § plan- och bygglagen (2010:900) ska
-gälla för uppfyllandet av egenskapskraven i 710 och 1320 §§.
+gälla för uppfyllandet av egenskapskraven i 7–10 och 13–20 §§.
 
 Undantag från utformnings- och egenskapskraven på byggnadsverk
 
@@ -587,6 +597,33 @@ El-, vatten- och värmemätare
 
 26 § Särskilda bestämmelser om el-, vatten- och värmemätare
 finns i förordningen (1994:99) om vatten- och värmemätare.
+
+Särskilda undantag för tillfälligt anläggningsboende
+
+27 § Kraven som gäller energihushållning och hushållning med 
+vatten och avfall i 8 kap. 4 § 6 och 9 plan- och bygglagen 
+(2010:900) och 14, 15 och 20 §§ detta kapitel samt de 
+föreskrifter som Boverket har meddelat i anslutning till de 
+paragraferna behöver inte uppfyllas vid nybyggnad, ombyggnad 
+eller annan ändring än ombyggnad avseende ett tillfälligt 
+anläggningsboende. Förordning (2015:934).
+
+28 § I fråga om nybyggnad, ombyggnad eller annan ändring än 
+ombyggnad avseende ett tillfälligt anläggningsboende ska 
+kraven i 8 kap. 1 § och 4 § 2–5, 7 och 8 plan- och bygglagen 
+(2010:900) och 8–10, 13 och 16 §§ och 18 § första stycket 
+detta kapitel samt de föreskrifter som Boverket har meddelat 
+i anslutning till de paragraferna, anpassas och avsteg från 
+kraven göras i den utsträckning som är skälig i förhållande 
+till åtgärdens art, omfattning och varaktighet. 
+
+Anpassningar och avsteg som görs enligt första stycket får 
+inte medföra en oacceptabel risk för människors hälsa och 
+säkerhet. Förordning (2015:934).
+
+29 § Trots  4 § första stycket och 18 § andra stycket behöver 
+ett tillfälligt anläggningsboende inte vara försett med hiss 
+eller annan lyftanordning. Förordning (2015:934).
 
 4 kap. Krav på byggprodukter m.m.
 
@@ -735,7 +772,7 @@ tillgängliga för dem som ska sköta systemet, och
 1. kontrolleras att funktionen och egenskaperna hos
 ventilationssystemet i huvudsak överensstämmer med de
 föreskrifter som gällde när systemet togs i bruk samt att
-kraven enligt 2 § 24 är uppfyllda, och
+kraven enligt 2 § 2–4 är uppfyllda, och
 
 2. undersökas vilka åtgärder som kan vidtas för att förbättra
 energihushållningen i ventilationssystemet och som inte medför
@@ -961,7 +998,8 @@ ljusanordningar inom ett område som utgör en värdefull miljö.
 
 Anmälan
 
-5 § För åtgärder som inte kräver lov krävs det en anmälan vid
+5 § För åtgärder som inte kräver lov krävs det en anmälan
+vid
 
 1. rivning av en byggnad eller en del av en byggnad,
 
@@ -991,22 +1029,30 @@ plan- och bygglagen eller motsvarande äldre föreskrifter,
 
 8. nybyggnad eller väsentlig ändring av ett vindkraftverk,
 
-9. uppförande eller tillbyggnad av en sådan byggnad som avses
-i 9 kap. 4 a § plan- och bygglagen,
+9. uppförande eller tillbyggnad av ett sådant
+komplementbostadshus som avses i 9 kap. 4 a § plan- och
+bygglagen,
 
-10. ändring av en komplementbyggnad som innebär att den blir
+10. uppförande eller tillbyggnad av en sådan
+komplementbyggnad som avses i 9 kap. 4 a § plan- och
+bygglagen,
+
+11. ändring av en komplementbyggnad som innebär att den blir
 ett komplementbostadshus,
 
-11. tillbyggnad som avses i 9 kap. 4 b § första stycket 1
-plan- och bygglagen, eller
+12. tillbyggnad som avses i 9 kap. 4 b § första stycket 1
+plan- och bygglagen,
 
-12. inredning av ytterligare en bostad i ett enbostadshus.
+13. byggande av takkupor som avses i 9 kap. 4 b § första
+stycket 2 plan- och bygglagen, eller
+
+14. inredning av ytterligare en bostad i ett enbostadshus.
 
 Om det vid sådana byggnadsåtgärder som avses i första stycket
 kan antas uppkomma rivningsmaterial som innehåller sådant
 farligt avfall som avses i plan- och bygglagen eller
 miljöbalken, ska detta framgå av anmälan.
-Förordning (2014:1334).
+Förordning (2015:837).
 
 6 § Kravet på anmälan enligt 5 § gäller inte
 
@@ -1030,17 +1076,43 @@ landsting,
 
 4. åtgärd som rör en sådan byggnad eller annan anläggning som
 är avsedd för totalförsvaret och som är av hemlig natur,
-och
 
-5. åtgärd som avses i 5 § första stycket 9 eller 11 i
-fråga om en sådan komplementbyggnad eller tillbyggnad som
-avses i 9 kap. 6 § plan- och bygglagen.
-Förordning (2014:471).
+5. åtgärd som avses i 5 § första stycket 10, 12 eller 13, om
+åtgärden vidtas utanför ett område med detaljplan och utanför
+en sammanhållen bebyggelse där anmälan behövs med hänsyn till
+omfattningen av byggnadsverk i bebyggelsen, och
+
+6. åtgärd som avses i 5 § första stycket 3 i fråga om
+
+a) en sådan komplementbyggnad, tillbyggnad eller takkupa som
+avses i 5 § första stycket 10, 12 och 13, om åtgärden vidtas
+utanför ett område med detaljplan och utanför en sammanhållen
+bebyggelse där anmälan behövs med hänsyn till omfattningen av
+byggnadsverk i bebyggelsen, eller
+
+b) en sådan komplementbyggnad eller tillbyggnad som avses i 9
+kap. 6 § plan- och bygglagen. Förordning (2015:837).
 
 Handläggningen av ärenden om lov, förhandsbesked och anmälan
 
-7 § En anmälan för en åtgärd som avses i 5 § ska vara
+7 § /Upphör att gälla U:2016-07-01/
+En anmälan för en åtgärd som avses i 5 § ska vara
 skriftlig och göras till byggnadsnämnden.
+
+7 § /Träder i kraft I:2016-07-01/
+En anmälan för en åtgärd som avses i 5 § ska vara
+skriftlig och göras till byggnadsnämnden.
+
+Byggnadsnämnden ska handlägga en anmälan skyndsamt och
+meddela sitt beslut om startbesked inom fyra veckor från den
+tidpunkt då samtliga behövliga uppgifter kom in till nämnden.
+Om frågan är av större vikt eller av principiell betydelse,
+får dock nämnden meddela sitt beslut om startbesked inom åtta
+veckor från den tidpunkten.
+
+Bestämmelser om mottagningsbevis finns i 8 § lagen
+(2009:1079) om tjänster på den inre marknaden.
+Förordning (2015:837).
 
 8 § En ansökan om lov eller en anmälan ska, utöver det som
 sägs i 9 kap. 21 § plan- och bygglagen (2010:900), innehålla
@@ -1126,11 +1198,14 @@ ett komplementbostadshus,
 6. tillbyggnad som avses i 9 kap. 4 b § första stycket 1
 plan- och bygglagen,
 
-7. inredning av ytterligare en bostad i ett enbostadshus,
+7. byggande av takkupor som avses i 9 kap. 4 b § första
+stycket 2 plan- och bygglagen,
 
-8. att flytta en eller flera enkla byggnader,
+8. inredning av ytterligare en bostad i ett enbostadshus,
 
-9. att anordna, inrätta, uppföra, flytta eller väsentligt
+9. att flytta en eller flera enkla byggnader,
+
+10. att anordna, inrätta, uppföra, flytta eller väsentligt
 ändra en anläggning som avses i
 
 a) 6 kap. 1 § 4, om anläggningen är liten och avsedd endast
@@ -1145,21 +1220,21 @@ d) 6 kap. 1 § 8 eller 9, om anläggningen är liten, eller
 
 e) 6 kap. 1 § 10,
 
-10. en sådan ändring av en byggnad som avses i 9 kap. 2 § 3 c
+11. en sådan ändring av en byggnad som avses i 9 kap. 2 § 3 c
 plan- och bygglagen, om åtgärden inte berör en sådan särskilt
 värdefull byggnad som avses i 8 kap. 13 § plan- och
 bygglagen,
 
-11. en åtgärd avseende en skylt eller ljusanordning,
+12. en åtgärd avseende en skylt eller ljusanordning,
 
-12. en åtgärd som kräver rivningslov efter beslut i
+13. en åtgärd som kräver rivningslov efter beslut i
 detaljplan eller områdesbestämmelser, eller
 
-13. en åtgärd som kräver marklov enligt 9 kap. 1113 §§ plan-
+14. en åtgärd som kräver marklov enligt 9 kap. 11–13 §§ plan-
 och bygglagen, om åtgärden är liten.
 
-Första stycket 213 gäller endast om byggnadsnämnden inte
-beslutar annat. Förordning (2014:471).
+Första stycket 2–14 gäller endast om byggnadsnämnden inte
+beslutar annat. Förordning (2015:837).
 
 8 kap. Tillsyn, vägledning och uppföljning
 
@@ -1180,7 +1255,7 @@ författning, ansvarar byggnadsnämnden för tillsynen över att
 bygglagen (2010:900) och enligt föreskrifter i anslutning till
 lagen, och
 
-2. bestämmelserna i 8 kap. 118 och 2426 §§ samt 9 och
+2. bestämmelserna i 8 kap. 1–18 och 24–26 §§ samt 9 och
 10 kap. plan- och bygglagen och i anslutande föreskrifter
 följs i övrigt.
 
@@ -1224,7 +1299,7 @@ det marknadskontrollansvar som följer av 3 §
 underrättelser om detta och göra det tillgängligt för
 allmänheten enligt artikel 18.5,
 
-4. utföra de uppgifter som följer av artiklarna 2022 och
+4. utföra de uppgifter som följer av artiklarna 20–22 och
 23.2, och
 
 5. samarbeta med andra enligt artikel 24.4.
@@ -1293,7 +1368,7 @@ denna omständighet till den ansvariga myndigheten.
 lagar och förordningar som har ett nära samband med varandra
 ska de ansvariga tillsynsmyndigheterna samordna tillsynen.
 
-12 § Skyldigheterna i 811 §§ gäller inte regeringen och
+12 § Skyldigheterna i 8–11 §§ gäller inte regeringen och
 Boverket.
 
 Tillsynsvägledning
@@ -1412,7 +1487,7 @@ Förordning (2013:308).
 4 § Tillsynsmyndigheten ansvarar för indrivning av
 byggsanktionsavgifter.
 
-Bestämmelser om begäran om indrivning m.m. finns i 49 §§
+Bestämmelser om begäran om indrivning m.m. finns i 4–9 §§
 indrivningsförordningen (1993:1229). Att den
 betalningsskyldige ska uppmanas att betala fordringen innan
 ansökan om indrivning görs framgår av 3 § nämnda förordning.
@@ -1430,11 +1505,11 @@ Startbesked
 
 Nybyggnad och tillbyggnad
 
-6 § Byggsanktionsavgiften för att trots förbudet i 10 kap. 3
-§ plan- och bygglagen (2010:900) påbörja en sådan nybyggnad
-som kräver lov enligt 9 kap. 2 § första stycket 1 eller 8 §
-första stycket 2 a, 3 eller 4 plan- och bygglagen eller
-anmälan enligt 6 kap. 5 § första stycket 2 eller 9 innan
+6 § Byggsanktionsavgiften för att trots förbudet i 10 kap. 3 §
+plan- och bygglagen (2010:900) påbörja en sådan nybyggnad som
+kräver lov enligt 9 kap. 2 § första stycket 1 eller 8 § första
+stycket 2 a, 3 eller 4 plan- och bygglagen eller kräver
+anmälan enligt 6 kap. 5 § första stycket 2, 9 eller 10 innan
 byggnadsnämnden har gett ett startbesked är
 
 1. för ett en- eller tvåbostadshus, 1,5 prisbasbelopp med ett
@@ -1452,17 +1527,17 @@ idrottsevenemang, 3 prisbasbelopp med ett tillägg av 0,02
 prisbasbelopp per kvadratmeter av byggnadens sanktionsarea,
 och
 
-4. för en annan byggnad än de som avses i 13, 3
+4. för en annan byggnad än de som avses i 1–3, 3
 prisbasbelopp med ett tillägg av 0,01 prisbasbelopp per
 kvadratmeter av byggnadens sanktionsarea.
-Förordning (2014:471).
+Förordning (2015:837).
 
 7 § Byggsanktionsavgiften för att trots förbudet i 10 kap. 3 §
 plan- och bygglagen (2010:900) påbörja en sådan tillbyggnad
-som kräver lov enligt 9 kap 2 § första stycket 2 eller 8 §
-första stycket 3 eller 4 plan- och bygglagen eller anmälan
-enligt 6 kap. 5 § första stycket 2, 9 eller 11 innan
-byggnadsnämnden har gett ett startbesked är
+som kräver lov enligt 9 kap. 2 § första stycket 2 eller 8 §
+första stycket 3 eller 4 plan- och bygglagen eller kräver
+anmälan enligt 6 kap. 5 § första stycket 2, 9, 10, 12 eller
+13 innan byggnadsnämnden har gett ett startbesked är
 
 1. för ett en- eller tvåbostadshus, 0,5 prisbasbelopp med ett
 tillägg av 0,005 prisbasbelopp per kvadratmeter av
@@ -1479,18 +1554,21 @@ idrottsevenemang, 1 prisbasbelopp med ett tillägg av 0,02
 prisbasbelopp per kvadratmeter av tillbyggnadens
 sanktionsarea, och
 
-4. för en annan byggnad än de som avses i 13, 1
+4. för en annan byggnad än de som avses i 1–3, 1
 prisbasbelopp med ett tillägg av 0,01 prisbasbelopp per
 kvadratmeter av tillbyggnadens sanktionsarea.
-Förordning (2014:471).
+
+Om en åtgärd enligt första stycket avser en takkupa, är
+byggsanktionsavgiften 0,25 prisbasbelopp per takkupa.
+Förordning (2015:837).
 
 Annan ändring av en byggnad än tillbyggnad
 
 8 § Byggsanktionsavgiften för att trots förbudet i 10 kap. 3 §
-plan- och bygglagen (2010:900) påbörja en sådan ändring av
-en byggnad som kräver lov enligt 9 kap. 2 § första stycket 3
-a eller 8 § första stycket 4 plan- och bygglagen eller
-anmälan enligt 6 kap. 5 § första stycket 10 och som innebär
+plan- och bygglagen (2010:900) påbörja en sådan ändring av en
+byggnad som kräver lov enligt 9 kap. 2 § första stycket 3 a
+eller 8 § första stycket 4 plan- och bygglagen eller kräver
+anmälan enligt 6 kap. 5 § första stycket 11 och som innebär
 ändrad användning innan byggnadsnämnden har gett ett
 startbesked är
 
@@ -1509,16 +1587,16 @@ idrottsevenemang, 0,25 prisbasbelopp med ett tilllägg av
 0,0125 prisbasbelopp per kvadratmeter av den sanktionsarea
 som ändringen avser, och
 
-4. för en annan byggnad än de som avses i 13, 0,25
+4. för en annan byggnad än de som avses i 1–3, 0,25
 prisbasbelopp med ett tillägg av 0,00625 prisbasbelopp per
 kvadratmeter av den sanktionsarea som ändringen avser.
-Förordning (2014:471).
+Förordning (2015:837).
 
 9 § Byggsanktionsavgiften för att trots förbudet i 10 kap. 3 §
-plan- och bygglagen (2010:900) påbörja en sådan ändring av
-en byggnad som kräver lov enligt 9 kap. 2 § första stycket
-3 b eller 8 § första stycket 4 plan- och bygglagen eller
-anmälan enligt 6 kap. 5 § första stycket 12 och som innebär
+plan- och bygglagen (2010:900) påbörja en sådan ändring av en
+byggnad som kräver lov enligt 9 kap. 2 § första stycket 3 b
+eller 8 § första stycket 4 plan- och bygglagen eller kräver
+anmälan enligt 6 kap. 5 § första stycket 14 och som innebär
 att någon ytterligare bostad eller lokal för handel, hantverk
 eller industri inreds innan byggnadsnämnden har gett ett
 startbesked är
@@ -1529,11 +1607,11 @@ sanktionsarea som ändringen avser, och
 
 2. för varje ytterligare lokal, 0,25 prisbasbelopp med ett
 tillägg av 0,005 prisbasbelopp per kvadratmeter av den
-sanktionsarea som ändringen avser. Förordning (2014:471).
+sanktionsarea som ändringen avser. Förordning (2015:837).
 
-10 § Byggsanktionsavgiften för att trots förbudet i 10 kap.
-3 § plan- och bygglagen (2010:900) påbörja en sådan ändring av
-en byggnad som kräver lov enligt 9 kap. 2 § första stycket 3 c
+10 § Byggsanktionsavgiften för att trots förbudet i 10 kap. 3 §
+plan- och bygglagen (2010:900) påbörja en sådan ändring av en
+byggnad som kräver lov enligt 9 kap. 2 § första stycket 3 c
 eller 8 § första stycket 2 a eller c eller 4 plan- och
 bygglagen och som avser en byggnads yttre utseende innan
 byggnadsnämnden har gett ett startbesked är
@@ -1553,7 +1631,7 @@ idrottsevenemang, 0,25 prisbasbelopp med ett tilllägg av
 0,002 prisbasbelopp per kvadratmeter av den area som
 ändringen avser, och
 
-4. för en annan byggnad än de som avses i 13, 0,25
+4. för en annan byggnad än de som avses i 1–3, 0,25
 prisbasbelopp med ett tillägg av 0,001 prisbasbelopp per
 kvadratmeter av den area som ändringen avser.
 
@@ -1561,10 +1639,10 @@ Om en åtgärd enligt första stycket avser ett fönster eller en
 dörr, är byggsanktionsavgiften 0,125 prisbasbelopp per
 fönster eller dörr som berörs.
 
-Om en åtgärd enligt första stycket avser en takkupa, balkong,
-altan eller entré, är byggsanktionsavgiften 0,25
-prisbasbelopp per takkupa, balkong, altan eller entré.
-Förordning (2014:471).
+Om en åtgärd enligt första stycket avser en balkong, altan
+eller entré, är byggsanktionsavgiften 0,25 prisbasbelopp per
+balkong, altan eller entré. Förordning (2015:837).
+Förordning (2015:837).
 
 11 § Byggsanktionsavgiften för att trots förbudet i 10 kap. 3 §
 plan- och bygglagen (2010:900) påbörja en sådan ändring av
@@ -1589,7 +1667,7 @@ idrottsevenemang, 0,25 prisbasbelopp med ett tilllägg av
 0,0125 prisbasbelopp per kvadratmeter av den sanktionsarea
 som berörs av ändringen, och
 
-4. för en annan byggnad än de som avses i 13, 0,25
+4. för en annan byggnad än de som avses i 1–3, 0,25
 prisbasbelopp med ett tillägg av 0,00625 prisbasbelopp per
 kvadratmeter av den sanktionsarea som berörs av ändringen.
 Förordning (2014:471).
@@ -1676,7 +1754,7 @@ per kvadratmeter av berörd byggnads- eller markarea för
 underhåll eller ändring av ett byggnadsverk eller
 bebyggelseområde i ett område som utgör en värdefull miljö.
 
-Om åtgärden i första stycket 37 inte berör en byggnads-
+Om åtgärden i första stycket 3–7 inte berör en byggnads-
 eller markarea är byggsanktionsavgiften
 
 1. 0,05 prisbasbelopp för installation eller väsentlig
@@ -1735,7 +1813,7 @@ idrottsevenemang, 2 prisbasbelopp med ett tillägg av 0,008
 prisbasbelopp per kvadratmeter av den rivna byggnadens
 sanktionsarea, och
 
-4. när det gäller en annan byggnad än de som avses i 13, 2
+4. när det gäller en annan byggnad än de som avses i 1–3, 2
 prisbasbelopp med ett tillägg av 0,004 prisbasbelopp per
 kvadratmeter av den rivna byggnadens sanktionsarea.
 
@@ -1764,7 +1842,7 @@ idrottsevenemang, 0,8 prisbasbelopp med ett tillägg av 0,008
 prisbasbelopp per kvadratmeter av den rivna byggnadsdelens
 sanktionsarea, och
 
-4. när det gäller en annan byggnad än de som avses i 13, 0,8
+4. när det gäller en annan byggnad än de som avses i 1–3, 0,8
 prisbasbelopp med ett tillägg av 0,004 prisbasbelopp per
 kvadratmeter av den rivna byggnadsdelens sanktionsarea.
 
@@ -1821,7 +1899,7 @@ idrottsevenemang, 0,6 prisbasbelopp med ett tillägg av 0,004
 prisbasbelopp per kvadratmeter av byggnadens sanktionsarea,
 och
 
-4. för en annan byggnad än de som avses i 13, 0,6
+4. för en annan byggnad än de som avses i 1–3, 0,6
 prisbasbelopp med ett tillägg av 0,002 prisbasbelopp per
 kvadratmeter av byggnadens sanktionsarea.
 
@@ -1849,7 +1927,7 @@ idrottsevenemang, 0,2 prisbasbelopp med ett tillägg av 0,004
 prisbasbelopp per kvadratmeter av tillbyggnadens
 sanktionsarea, och
 
-4. för en annan byggnad än de som avses i 13, 0,2
+4. för en annan byggnad än de som avses i 1–3, 0,2
 prisbasbelopp med ett tillägg av 0,002 prisbasbelopp per
 kvadratmeter av tillbyggnadens sanktionsarea.
 
@@ -1880,7 +1958,7 @@ idrottsevenemang, 0,05 prisbasbelopp med ett tilllägg av
 0,0025 prisbasbelopp per kvadratmeter av den sanktionsarea
 som ändringen avser, och
 
-4. för en annan byggnad än de som avses i 13, 0,05
+4. för en annan byggnad än de som avses i 1–3, 0,05
 prisbasbelopp med ett tillägg av 0,00125 prisbasbelopp per
 kvadratmeter av den sanktionsarea som ändringen avser.
 
@@ -1929,7 +2007,7 @@ idrottsevenemang, 0,05 prisbasbelopp med ett tilllägg av
 0,0025 prisbasbelopp per kvadratmeter av den sanktionsarea
 som berörs av ändringen, och
 
-4. för en annan byggnad än de som avses i 13, 0,05
+4. för en annan byggnad än de som avses i 1–3, 0,05
 prisbasbelopp med ett tillägg av 0,00125 prisbasbelopp per
 kvadratmeter av den sanktionsarea som berörs av ändringen.
 
@@ -2019,7 +2097,7 @@ per kvadratmeter av berörd byggnads- eller markarea för
 underhåll eller ändring av ett byggnadsverk eller
 bebyggelseområde i ett område som utgör en värdefull miljö.
 
-Om åtgärden i första stycket 37 inte berör en byggnads-
+Om åtgärden i första stycket 3–7 inte berör en byggnads-
 eller markarea, är byggsanktionsavgiften
 
 1. 0,01 prisbasbelopp för installation eller väsentlig
@@ -2123,6 +2201,10 @@ första stycket 9 plan- och bygglagen, och
 12. genomförande av egenskapskraven vid senare tidpunkt i
 3 kap. 21 §.
 
+3 a § Boverket får meddela föreskrifter om i vilken 
+utsträckning som kraven ska anpassas och avsteg från kraven 
+ska göras enligt 3 kap. 28 §. Förordning (2015:934).
+
 4 § Boverket får meddela de föreskrifter som behövs för
 tillämpningen av bestämmelserna om uppfyllandet av
 egenskapskraven i 8 kap. 5 § plan- och bygglagen (2010:900)
@@ -2138,7 +2220,7 @@ eller 4 § ska verket höra andra berörda myndigheter i den
 omfattning som behövs.
 
 6 § Transportstyrelsen får efter att ha hört Boverket meddela
-de föreskrifter som behövs för tillämpningen av 3 kap. 710
+de föreskrifter som behövs för tillämpningen av 3 kap. 7–10
 och 13 §§ i fråga om järnvägar, tunnelbanor, spårvägar, vägar
 och gator samt de anordningar som hör till dessa.
 Förordning (2014:225).
@@ -2150,7 +2232,7 @@ Undantag från utformnings- och egenskapskraven på byggnadsverk
 8 § Boverket får, utom i fall som sägs i 6 och 7 §§, efter att
 ha hört andra berörda myndigheter meddela de föreskrifter som
 behövs för tillämpningen av bestämmelserna om undantag från
-utformnings- och egenskapskraven på byggnadsverk i 8 kap. 6
+utformnings- och egenskapskraven på byggnadsverk i 8 kap. 6–
 8 §§ plan- och bygglagen (2010:900) och 3 kap. 23 § om inte
 någon annan myndighet enligt annan författning har rätt att
 meddela sådana föreskrifter.
@@ -2287,19 +2369,19 @@ Handläggningen av ärenden om lov, förhandsbesked eller anmälan
 21 § Boverket får meddela de föreskrifter som behövs för
 tillämpningen av bestämmelserna om handläggning av ärenden om
 lov, förhandsbesked och anmälan i 9 kap. 21 § plan- och
-bygglagen (2010:900) och 6 kap. 710 §§.
+bygglagen (2010:900) och 6 kap. 7–10 §§.
 
 Kontrollplan
 
 22 § Boverket får meddela de föreskrifter som behövs om
-utformningen av en kontrollplan enligt 10 kap. 68 §§ plan-
+utformningen av en kontrollplan enligt 10 kap. 6–8 §§ plan-
 och bygglagen (2010:900).
 
 Funktionskontrollanter, kontrollansvariga och sakkunniga
 
 23 § Boverket får meddela de föreskrifter om
 funktionskontrollanter, kontrollansvariga och sakkunniga som
-behövs för tillämpningen av 7 kap. 24 §§.
+behövs för tillämpningen av 7 kap. 2–4 §§.
 
 Kontrollen av genomförandet av bygg-, rivnings- och
 markarbeten
@@ -2395,3 +2477,16 @@ ikraftträdandet.
 2. Äldre föreskrifter gäller fortfarande för överträdelser
 som har ägt rum före den 2 juli 2014. De nya föreskrifterna
 ska dock tillämpas om de leder till lindrigare påföljd.
+
+2015:837
+
+1. Denna förordning träder i kraft den 1 juli 2016 i fråga om
+6 kap. 7 § och i övrigt den 1 januari 2016.
+
+2. För anmälningar som har kommit in till byggnadsnämnden
+före den 1 juli 2016 gäller 6 kap. 7 § i den äldre
+lydelsen.
+
+3. För åtgärder som har påbörjats före den 1
+januari 2016 gäller 6 kap. 5 och 6 §§ och 9 kap. 6–10 §§ i
+den äldre lydelsen.
