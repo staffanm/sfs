@@ -1,5 +1,3 @@
-
-
 Allmänna bestämmelser
 
 1 § Statistiska centralbyrån ska varje utjämningsår för varje
@@ -39,7 +37,7 @@ Beräkning av standardkostnad
 
 4 § En kommuns standardkostnad ska beräknas enligt följande.
 Antalet personer i kommunen med verkställda beslut om insatser
-enligt 9 § 28 och 10 lagen (1993:387) om stöd och service till
+enligt 9 § 2–8 och 10 lagen (1993:387) om stöd och service till
 vissa funktionshindrade och insatsen bostad med särskild
 service för vuxna enligt 9 § 9 samma lag samt antalet personer
 som beviljats personlig assistans enligt 51 kap.
@@ -92,17 +90,17 @@ kontaktperson 10 procent av riktvärdet.
 Den genomsnittliga kostnaden per insats ska uppdateras årligen.
 Förordning (2010:1338).
 
-6 § Personalkostnadsindexet beräknas dels utifrån
-kostnadsuppgifter från räkenskapssammandraget 2013, dels
-utifrån den kostnad som beräknats enligt 4 § första stycket.
-Beräkningen görs på följande sätt.
+6 § Personalkostnadsindexet beräknas dels utifrån 
+kostnadsuppgifter från räkenskapssammandraget 2014, dels 
+utifrån den kostnad som beräknats enligt 4 § första stycket. 
+Beräkningen görs på följande sätt. 
 
-Ett belopp motsvarande 70 procent av skillnaden mellan en
-beräknad personalkostnad per kommun för år 2013 och den
-personalkostnad som ingår i den i första stycket sistnämnda
-kostnaden, adderas till sistnämnda kostnad. Den erhållna
-summan divideras med den i första stycket sistnämnda
-kostnaden. Förordning (2014:1373).
+Ett belopp motsvarande 70 procent av skillnaden mellan en 
+beräknad personalkostnad per kommun för år 2014 och den 
+personalkostnad som ingår i den i första stycket sistnämnda 
+kostnaden, adderas till sistnämnda kostnad. Den erhållna 
+summan divideras med den kostnad som beräknats enligt 4 § 
+första stycket. Förordning (2015:628).
 
 7 § För beräkningarna gäller i övrigt de beräkningsmetoder och
 närmare detaljer som anges i bilagan till denna förordning.
@@ -160,10 +158,10 @@ Befolkningsuppgifter hämtas från Statistiska centralbyråns
 
 Nettoprisindex
 
-Uppräkning till utjämningsårets kostnadsnivå sker med hjälp
-av utvecklingen av nettoprisindex. Som genomsnittlig
-procentuell förändring i nettoprisindex för respektive år
-används följande: 2014 (0,1) och 2015 (1,0).
+Uppräkning till utjämningsårets kostnadsnivå sker med hjälp 
+av utvecklingen av nettoprisindex. Som genomsnittlig 
+procentuell förändring i nettoprisindex för respektive år 
+används följande: 2015 (–0,7) och 2016 (1,0).
 
 Genomsnittskostnaden
 
@@ -323,9 +321,9 @@ S = Standardkostnad enligt tidigare beräkning.
 
 Beräknade personalkostnader
 
-Lönekostnader inklusive personalomkostnadspålägg (PO-pålägg)
-för anställda som är 26 till 64 år 2013 enligt Sveriges
-Kommuner och Landstings cirkulär 13:48.
+Lönekostnader inklusive personalomkostnadspålägg (PO-pålägg) 
+för anställda som är 26 till 64 år 2014 enligt Sveriges 
+Kommuner och Landstings cirkulär 13:72. 
 
 Tillkommer 85 procent av köp av verksamhet, övriga interna
 kostnader, internt fördelade kostnader.
@@ -338,8 +336,8 @@ verksamheter avseende personlig assistans.
 
 Steg 1
 
-Lönekostnaden (A) x PO-pålägg + 0,85 x (B+C+D+E)  0,85 x
-(F+G+J) + 0,85 x 0,20 x ((H/0,20)  G) = beräknade
+Lönekostnaden (A) x PO-pålägg + 0,85 x (B+C+D+E) – 0,85 x
+(F+G+J) + 0,85 x 0,20 x ((H/0,20) – G) = beräknade
 personalkostnader.
 
 Steg 2
@@ -352,8 +350,8 @@ Steg 3
 
 Mellanskillnaden av steg 1 och steg 2 av överskjutande
 personalkostnader ersätts med 70 procent = (Lönekostnaden (A)
-x PO-pålägg + 0,85 x (B+C+D+E)  0,85 x (F+G+J) + 0,85 x 0,20
-x ((H/0,20)  G)  (0,85 x S)) x 0,7.
+x PO-pålägg + 0,85 x (B+C+D+E) – 0,85 x (F+G+J) + 0,85 x 0,20
+x ((H/0,20) – G) – (0,85 x S)) x 0,7.
 
 Indexet erhålls genom att standardkostnaden adderas med
 värdet av steg 3 dividerat med standardkostnaden = (S + steg
@@ -371,4 +369,4 @@ ska överensstämma med kommunernas sammanlagda
 nettokostnader, uppräknade till utjämningsårets prisnivå.
 Produkten divideras med antalet invånare = S x PK-IX x
 nettoprisindex x korrigeringsfaktorn / antalet invånare i
-kommunen. Förordning (2014:1373).
+kommunen. Förordning (2015:628).
