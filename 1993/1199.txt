@@ -1,5 +1,3 @@
-
-
 1 kap. Bestämmelser om värderingen
 
 Allmänna bestämmelser
@@ -144,7 +142,7 @@ nivåfaktorer för småhus (S-nivåfaktorer). Dessa ska vara 1,5,
 och 40,0.
 
 Det ska upprättas en SV-tabell. Denna ska avse
-S-nivåfaktorerna 1,540,0.
+S-nivåfaktorerna 1,5–40,0.
 
 SO-tabellerna S ska genom åldersfaktorer utvisa
 värderelationerna mellan lika stora byggnader vid skilda
@@ -198,8 +196,8 @@ L. Denna ska ha samma utformning och klassindelning som
 FV-tabell S utom så tillvida att omräkningsfaktorn för
 fastighetsrättsliga förhållanden för värderingsenheter
 utanför grupphusområde för var och en av klasserna får delas
-upp på tre intervall för S-nivåfaktorer, nämligen 1,204,00,
-4,207,5 och 8,0030,00. Vad som sägs i 6 § andra och tredje
+upp på tre intervall för S-nivåfaktorer, nämligen 1,20–4,00,
+4,20–7,5 och 8,00–30,00. Vad som sägs i 6 § andra och tredje
 styckena om värdena i SV-tabellen är med hänsyn härtill
 tillämpligt för småhus på lantbruksenhet när
 omräkningsfaktorn enligt FV-tabell L bestämts till 1,0 för
@@ -520,13 +518,13 @@ multipliceras med J-nivåfaktorer. Dessa ska vara 1,0, 1,5,
 och 250,0.
 
 J-tabell nr 1 (tabell J1) ska användas då värdenivån bestäms
-av J-nivåfaktorerna 1,010,0, tabell J2 då värdenivån bestäms
-av faktorerna 11,030,0, tabell J3 då värdenivån bestäms av
-faktorerna 32,050,0, tabell J4 då värdenivån bestäms av
-faktorerna 55,075,0, tabell J5 då värdenivån bestäms av
-faktorerna 80,0100,0, tabell J6 då värdenivån bestäms av
-faktorerna 110,0150,0 och tabell J7 då värdenivån bestäms av
-faktorerna 160,0250,0.
+av J-nivåfaktorerna 1,0–10,0, tabell J2 då värdenivån bestäms
+av faktorerna 11,0–30,0, tabell J3 då värdenivån bestäms av
+faktorerna 32,0–50,0, tabell J4 då värdenivån bestäms av
+faktorerna 55,0–75,0, tabell J5 då värdenivån bestäms av
+faktorerna 80,0–100,0, tabell J6 då värdenivån bestäms av
+faktorerna 110,0–150,0 och tabell J7 då värdenivån bestäms av
+faktorerna 160,0–250,0.
 
 J-tabeller ska utformas och värdefaktorerna beskaffenhet och
 dränering klassindelas på sätt som framgår av bilaga 4.
@@ -660,7 +658,7 @@ Förordning (2010:337).
 omfattande minst 30 hektar bestäms och redovisas enligt
 följande formel.
 
-R = [N x Fm x 29] + [N x Fs x (A  29)]
+R = [N x Fm x 29] + [N x Fs x (A – 29)]
 
 där R = riktvärdet,
 
@@ -867,7 +865,7 @@ per timme för område Sverige. Summan av de erhållna
 produkterna divideras med verkens sammanlagda nettoproduktion
 under åren.
 
-Det vägda elpriset uppgår för åren 20072011 till följande
+Det vägda elpriset uppgår för åren 2007–2011 till följande
 belopp per kWh:
 
 År                      2007    2008    2009    2010    2011
@@ -1252,7 +1250,7 @@ belägenhetsfaktorer (FB-tabell) upprättas. Den ska för var och
 en av belägenhetsklasserna 2 och 3 (strandnära), underklasserna
 till klass 3 och belägenhetsklassen 4 (inte strand eller
 strandnära) utvisa en belägenhetsfaktor inom intervallet
-1,09,9. Belägenhetsfaktorn för normaltomten ska vara 1,0. I
+1,0–9,9. Belägenhetsfaktorn för normaltomten ska vara 1,0. I
 bilaga 13 anges hur FB-tabellen ska utformas och hur värdefaktorn
 närhet till strand ska klassindelas. I riktvärdeangivelsen ska
 belägenhetsfaktor anges för belägenhetsklassen 1 (strand) och
@@ -1481,7 +1479,7 @@ vid en förberedande gallring (förgallring) följande
 lantbruksenheter och industrienheter gallras bort.
 
 Småhusenheter: Alla överlåtelser av småhusenheter som inte
-uppfyller samtliga förutsättningar under 16.
+uppfyller samtliga förutsättningar under 1–6.
 
 1. Överlåtelsedatum är den 1 juli 1995 eller senare.
 
@@ -1504,7 +1502,7 @@ småhus.
 och minst 25 000 kronor för obebyggd enhet.
 
 Hyreshusenheter: Alla överlåtelser av hyreshusenheter som
-inte uppfyller samtliga förutsättningar under 79, om
+inte uppfyller samtliga förutsättningar under 7–9, om
 taxeringsvärde har fastställts för hyreshusenheten.
 
 7. Överlåtelsedatum är den 1 juli 1995 eller senare.
@@ -1513,14 +1511,14 @@ taxeringsvärde har fastställts för hyreshusenheten.
 eller exekutiv försäljning (på auktion eller under hand)
 eller konkursauktion (fångeskod 70).
 
-9. Fastställt taxeringsvärde för den överlåtna egendomen 
-som till minst 80 procent avser hyreshusenhet  är minst
+9. Fastställt taxeringsvärde för den överlåtna egendomen –
+som till minst 80 procent avser hyreshusenhet – är minst
 50 000 kronor för bebyggd enhet och minst 25 000 kronor för
 obebyggd enhet.
 
 Lantbruksenheter: Alla överlåtelser av lantbruksenheter som
 anges i 1 § som inte uppfyller samtliga förutsättningar under
-1012, om taxeringsvärde har fastställts för
+10–12, om taxeringsvärde har fastställts för
 lantbruksenheten.
 
 10. Överlåtelsedatum är den 1 juli 1993 eller senare.
@@ -1528,13 +1526,13 @@ lantbruksenheten.
 11. Överlåtelsen avser vanligt köp, normalfall (fångeskod
 11).
 
-12. Fastställt taxeringsvärde för den överlåtna egendomen 
-som till minst 80 procent avser lantbruksenhet  är minst
+12. Fastställt taxeringsvärde för den överlåtna egendomen –
+som till minst 80 procent avser lantbruksenhet – är minst
 50 000 kronor för bebyggd enhet och minst 25 000 kronor för
 obebyggd enhet.
 
 Industrienheter: Alla överlåtelser av industrienheter som
-inte uppfyller samtliga förutsättningar under 1315, om
+inte uppfyller samtliga förutsättningar under 13–15, om
 taxeringsvärde har fastställts för industrienheten.
 
 13. Överlåtelsedatum är den 1 januari 1995 eller senare.
@@ -1543,8 +1541,8 @@ taxeringsvärde har fastställts för industrienheten.
 eller exekutiv försäljning (på auktion eller under hand)
 eller konkursauktion (fångeskod 70).
 
-15. Fastställt taxeringsvärde för den överlåtna egendomen 
-som till minst 80 procent avser industrienhet  är minst
+15. Fastställt taxeringsvärde för den överlåtna egendomen –
+som till minst 80 procent avser industrienhet – är minst
 50 000 kronor för bebyggd enhet och minst 25 000 kronor för
 obebyggd enhet. Förordning (2015:206).
 
@@ -1647,7 +1645,8 @@ taxeringsvärdet bestämts vid granskningen. Förordning (2010:337).
 förestående allmän eller förenklad fastighetstaxering.
 Förordning (2003:963).
 
-2 § Bestämmelserna i 19 kap. 6 § skatteförfarandeförordningen
+2 § /Upphör att gälla U:2016-01-01/ 
+Bestämmelserna i 19 kap. 6 § skatteförfarandeförordningen
 (2011:1261) gäller i tillämpliga delar i fråga om
 taxeringskontroll enligt fastighetstaxeringslagen (1979:1152).
 
@@ -1655,6 +1654,16 @@ Handlingar som har tillhandahållits av en myndighet enligt
 första stycket och som avses i 19 kap. 6 § tredje stycket
 skatteförfarandeförordningen får granskas endast av tjänsteman
 som Skatteverket bestämmer. Förordning (2011:1266).
+
+2 § /Träder i kraft I:2016-01-01/ 
+Bestämmelserna i 42 a kap. 1 § skatteförfarandelagen 
+(2011:1244) ska tillämpas i fråga om taxeringskontroll enligt 
+fastighetstaxeringslagen (1979:1152).
+
+Handlingar som har tillhandahållits av en myndighet enligt 
+första stycket och som avses i 42 a kap. 1 § tredje stycket 
+skatteförfarandelagen får granskas endast av tjänsteman som 
+Skatteverket bestämmer. Förordning (2015:915).
 
 3 § Deklarationsblanketter och blanketter för övriga uppgifter,
 till vilka formulär fastställts, skall kostnadsfritt
