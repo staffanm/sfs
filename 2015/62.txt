@@ -1,5 +1,3 @@
-
-
 1 kap. Lagens tillämpningsområde m.m.
 
 1 § Denna lag gäller för sådan identifiering av konton som
@@ -16,28 +14,28 @@ som avses i FATCA-avtalet.
 
 2 § I denna lag finns
 
- definitioner och förklaringar (2 kap. och 3 kap. 420 §§),
+– definitioner och förklaringar (2 kap. och 3 kap. 4–20 §§),
 
- bestämmelser om undantagna finansiella institut,
-faktiska innehavare och konton (3 kap. 13 §§),
+– bestämmelser om undantagna finansiella institut,
+faktiska innehavare och konton (3 kap. 1–3 §§),
 
- bestämmelser om granskning av befintliga finansiella konton
+– bestämmelser om granskning av befintliga finansiella konton
 som innehas av fysiska personer (4 kap.),
 
- bestämmelser om granskning av nya finansiella konton som
+– bestämmelser om granskning av nya finansiella konton som
 innehas av fysiska personer (5 kap.),
 
- bestämmelser om granskning av befintliga finansiella konton
-som innehas av enheter (6 kap. 16 och 9 §§),
+– bestämmelser om granskning av befintliga finansiella konton
+som innehas av enheter (6 kap. 1–6 och 9 §§),
 
- bestämmelser om identifiering av icke FATCA-deltagande
+– bestämmelser om identifiering av icke FATCA-deltagande
 finansiella institut och tillhandahållande av information om
 betalningar till sådana (6 kap. 7 och 8 §§),
 
- bestämmelser om granskning av nya finansiella konton som
+– bestämmelser om granskning av nya finansiella konton som
 innehas av enheter (7 kap.), och
 
- övriga bestämmelser (8 kap.).
+– övriga bestämmelser (8 kap.).
 
 2 kap. Definitioner och förklaringar
 
@@ -51,7 +49,7 @@ kap.
 Bestämmelser om betydelsen av följande begrepp, termer och
 uttryck samt förklaringar finns i nedan angivna paragrafer:
 
-aktiv icke-finansiell enhet i 24 §§
+aktiv icke-finansiell enhet i 2–4 §§
 
 amerikansk person i 21 §
 
@@ -77,13 +75,11 @@ etablerad värdepappersmarknad i 13 §
 
 FATCA i 21 §
 
-finansiellt institut i 610 §§
+finansiellt institut i 6–10 §§
 
-finansiellt institut med endast lågvärdekonton i 3 kap. 10
-§
+finansiellt institut med endast lågvärdekonton i 3 kap. 10 §
 
-finansiellt institut med lokalt kundunderlag i 3 kap. 8
-§
+finansiellt institut med lokalt kundunderlag i 3 kap. 8 §
 
 finansiellt konto i 11 §
 
@@ -164,7 +160,8 @@ viss temporär dödsfallsförsäkring i 3 kap. 16 §
 
 Aktiv icke-finansiell enhet
 
-2 § Med aktiv icke-finansiell enhet avses en enhet som inte
+2 § /Upphör att gälla U:2016-01-01/ 
+Med aktiv icke-finansiell enhet avses en enhet som inte
 har hemvist i USA, inte är ett finansiellt institut och
 
 1. vars intäkter under det föregående kalenderåret eller
@@ -203,7 +200,7 @@ e) en internationell organisation,
 f) en sedelutgivande centralbank som inte är amerikansk,
 eller
 
-g) en enhet som ägs uteslutande av någon som avses i af,
+g) en enhet som ägs uteslutande av någon som avses i a–f,
 
 6. vars verksamhet uteslutande eller nästan uteslutande
 består i att
@@ -242,6 +239,86 @@ sig för att vara någon form av investeringsenhet vars syfte
 är att förvärva eller finansiera bolag och sedan inneha
 andelar i dessa bolag som anläggningstillgångar för
 investeringsändamål.
+
+2 § /Träder i kraft I:2016-01-01/ 
+Med aktiv icke-finansiell enhet avses en enhet som inte 
+har hemvist i USA, inte är ett finansiellt institut och
+
+1. vars intäkter under det föregående kalenderåret eller 
+annan lämplig rapporteringsperiod till mindre än 50 procent 
+utgörs av intäkter från annan verksamhet än rörelse och vars 
+tillgångar som innehades under det föregående kalenderåret 
+eller annan lämplig rapporteringsperiod till mindre än 50 
+procent utgjordes av tillgångar som genererar eller innehas i 
+syfte att generera sådana intäkter,
+
+2. vars andelar är föremål för regelmässig handel på en 
+etablerad värdepappersmarknad,
+
+3. som är närstående till en enhet vars andelar är föremål 
+för regelmässig handel på en etablerad värdepappersmarknad,
+
+4. som har sitt säte i ett amerikanskt territorium och där 
+samtliga personer med ägarintresse i enheten har sin faktiska 
+hemvist i detta amerikanska territorium,
+
+5. som är
+
+a) en annan regering än USA:s regering, 
+
+b) ett politiskt förvaltningsområde under en sådan regering 
+som avses i a,
+
+c) ett offentligt organ som utför uppgifter för en sådan 
+regering som avses i a eller för ett sådant politiskt 
+förvaltningsområde som avses i b,
+
+d) en regering i ett amerikanskt territorium,
+
+e) en internationell organisation,
+
+f) en sedelutgivande centralbank som inte är amerikansk, 
+eller
+
+g) en enhet som ägs uteslutande av någon som avses i a–f,
+
+6. vars verksamhet uteslutande eller nästan uteslutande 
+består i att
+
+a) äga hela eller delar av det utestående innehavet i ett 
+eller flera dotterföretag som bedriver handel eller 
+affärsverksamhet som inte utgör verksamhet i ett finansiellt 
+institut, eller
+
+b) att tillhandahålla finansiering och tjänster till ett 
+eller flera sådana dotterföretag som avses i a,
+
+7. som inte bedriver eller tidigare har bedrivit någon 
+affärsverksamhet och som investerar kapital i tillgångar i 
+syfte att bedriva näringsverksamhet som inte utgör verksamhet 
+i ett finansiellt institut samt har etablerats inom de 
+senaste 24 månaderna,
+
+8. som inte varit ett finansiellt institut under de senaste 
+fem åren och som håller på att avveckla sina tillgångar eller 
+genomgår en omorganisation i syfte att fortsätta eller 
+återuppta näringsverksamhet som inte utgör verksamhet i ett 
+finansiellt institut, eller
+
+9. som huvudsakligen ägnar sig åt finansiering eller 
+hedgingtransaktioner med eller åt närstående enheter som inte 
+är finansiella institut, och som inte tillhandahåller 
+finansierings- eller hedgingtjänster till någon enhet som 
+inte är närstående, under förutsättning att den grupp som de 
+närstående enheterna ingår i ägnar sig åt affärsverksamhet 
+som inte utgör verksamhet i ett finansiellt institut.
+
+En enhet ska dock inte anses vara en aktiv icke-finansiell 
+enhet enligt första stycket 6 om den fungerar som eller utger 
+sig för att vara någon form av investeringsenhet vars syfte 
+är att förvärva eller finansiera bolag och sedan inneha 
+andelar i dessa bolag som anläggningstillgångar för 
+investeringsändamål. Lag (2015:920).
 
 3 § Med aktiv icke-finansiell enhet avses även en enhet
 
@@ -285,7 +362,7 @@ regeringen i enhetens hemvistjurisdiktion.
 4 § Med aktiv icke-finansiell enhet avses även sådana
 stiftelser, ideella föreningar, registrerade trossamfund och
 andra juridiska personer som är undantagna från
-skattskyldighet enligt 7 kap. 317 §§ inkomstskattelagen
+skattskyldighet enligt 7 kap. 3–17 §§ inkomstskattelagen
 (1999:1229).
 
 Med aktiv icke-finansiell enhet avses även en
@@ -325,7 +402,8 @@ skattemyndigheten.
 
 Finansiellt institut
 
-6 § Med finansiellt institut avses en enhet som anges i 7, 8,
+6 § /Upphör att gälla U:2016-01-01/ 
+Med finansiellt institut avses en enhet som anges i 7, 8,
 9 eller 10 §. Med finansiellt institut avses dock inte i
 något fall en enhet vars verksamhet uteslutande eller så gott
 som uteslutande består
@@ -349,7 +427,40 @@ enhet som är ett treasurycenter enligt definitionen av detta
 begrepp i relevanta amerikanska författningar i sin lydelse
 den 8 augusti 2014.
 
-7 § En enhet är ett finansiellt institut om förvaring eller
+6 § /Träder i kraft I:2016-01-01/ 
+Med finansiellt institut avses en enhet som anges i 7, 8, 
+9 eller 10 §. Med finansiellt institut avses dock inte en 
+enhet vars verksamhet uteslutande eller så gott som 
+uteslutande består
+
+1. i att direkt eller indirekt äga hela eller delar av det 
+utestående aktieinnehavet i ett eller flera dotterföretag som 
+bedriver handel eller affärsverksamhet som inte utgör 
+verksamhet i ett finansiellt institut eller att 
+tillhandahålla finansiering och tjänster till ett eller flera 
+sådana dotterföretag, eller
+
+2. av finansiering eller hedgingtransaktioner med eller åt 
+närstående enheter som inte är finansiella institut men inte 
+tillhandahållande av finansierings- eller hedgingtjänster 
+till någon enhet som inte är närstående, om den grupp som de 
+närstående enheterna ingår i ägnar sig åt affärsverksamhet 
+som inte utgör verksamhet i ett finansiellt institut.
+
+Med finansiellt institut avses inte heller i något fall en 
+enhet som är ett treasurycenter enligt definitionen av detta 
+begrepp i relevanta amerikanska författningar i sin lydelse 
+den 8 augusti 2014.
+
+En enhet som avses i första stycket 1 ska dock anses vara ett 
+finansiellt institut om den fungerar som eller utger sig för 
+att vara någon form av investeringsenhet vars syfte är att 
+förvärva eller finansiera bolag och sedan inneha andelar i 
+dessa bolag som anläggningstillgångar för 
+investeringsändamål. Lag (2015:920).
+
+7 § /Upphör att gälla U:2016-01-01/ 
+En enhet är ett finansiellt institut om förvaring eller
 förvaltning av finansiella tillgångar för någon annans
 räkning utgör en så väsentlig del av verksamheten att de av
 enhetens intäkter som härrör från sådan förvaring eller
@@ -362,6 +473,21 @@ räkenskapsår som föregår tidpunkten då bedömningen görs,
 eller
 
 2. den period som enheten har existerat.
+
+7 § /Träder i kraft I:2016-01-01/ 
+En enhet är ett finansiellt institut om förvaring av 
+finansiella tillgångar för någon annans räkning utgör en så 
+väsentlig del av verksamheten att de av enhetens intäkter som 
+härrör från sådan förvaring och därtill knutna finansiella 
+tjänster motsvarar eller överstiger 20 procent av enhetens 
+sammanlagda intäkter under den kortaste perioden av
+
+1. den treårsperiod som avslutas vid utgången av det 
+räkenskapsår som föregår tidpunkten då bedömningen görs, 
+eller
+
+2. den period som enheten har existerat.
+Lag (2015:920).
 
 8 § En enhet är ett finansiellt institut om den tar emot
 insättningar inom ramen för ordinarie verksamhet som
@@ -653,9 +779,9 @@ betydelse enligt aktiebolagslagen (2005:551),
 enhet: en juridisk person eller en annan juridisk
 konstruktion såsom en trust,
 
-FATCA: avsnitt 14711474 i kapitel 4 i USA:s Internal Revenue
+FATCA: avsnitt 1471–1474 i kapitel 4 i USA:s Internal Revenue
 Code från 1986 och U.S. Treasury Regulations till avsnitt
-14711474 i USA:s Internal Revenue Code,
+1471–1474 i USA:s Internal Revenue Code,
 
 försäkringsavtal: ett annat avtal än ett livränteavtal, som
 innebär att utfärdaren förbinder sig att betala ut ett belopp
@@ -708,7 +834,7 @@ passiv icke-finansiell enhet: en enhet som inte är ett
 finansiellt institut eller en aktiv icke-finansiell enhet,
 
 rapporteringspliktigt konto: ett finansiellt konto som har
-identifierats som ett sådant enligt bestämmelserna i 48
+identifierats som ett sådant enligt bestämmelserna i 4–8
 kap., om det inte innehas uteslutande av en eller flera
 personer som är undantagna faktiska innehavare enligt 3
 kap.,
@@ -748,7 +874,7 @@ pensionsutfästelse m.m., och
 6. investeringsenheter som ägs helt av undantagna faktiska
 innehavare.
 
-Enheter som avses i första stycket 13 ska dock inte vara
+Enheter som avses i första stycket 1–3 ska dock inte vara
 undantagna faktiska innehavare eller undantagna från
 rapporteringsskyldighet i den del deras verksamhet är sådan
 kommersiell verksamhet som normalt bedrivs av sådana
@@ -949,7 +1075,7 @@ finansiella kontot.
 
 7. Det granskar befintliga konton som innehas av en fysisk
 person som inte har sin hemvist i Sverige eller av en enhet,
-i enlighet med de förfaranden i 48 kap. som gäller för
+i enlighet med de förfaranden i 4–8 kap. som gäller för
 befintliga konton för att identifiera eventuella amerikanska
 rapporteringspliktiga konton eller finansiella konton som
 förs av ett icke FATCA-deltagande finansiellt institut, och
@@ -1236,10 +1362,18 @@ och
 5. avtalet inte innehas av person som förvärvat avtalet
 i värdeskapande syfte.
 
-17 § Med konto som innehas av dödsbo avses ett konto i
+17 § /Upphör att gälla U:2016-01-01/ 
+Med konto som innehas av dödsbo avses ett konto i
 Sverige som innehas uteslutande av ett dödsbo, om kopia på
 den avlidnes testamente eller dödsbevis finns med i
 dokumentationen för kontot.
+
+17 § /Träder i kraft I:2016-01-01/ 
+Med konto som innehas av dödsbo avses ett konto i 
+Sverige som innehas uteslutande av ett dödsbo, om en kopia på 
+den avlidnes testamente eller dödsbevis finns med i 
+dokumentationen för kontot eller om uppgift om dödsfallet har 
+inhämtats från statens personadressregister. Lag (2015:920).
 
 18 § Med spärrat konto avses ett konto som skapats i samband
 med
@@ -1258,13 +1392,13 @@ samband med försäljning, byte eller uthyrning av egendomen,
 b) kontot har öppnats och används uteslutande för att
 säkerställa att
 
- köparen uppfyller sina skyldigheter när det gäller att
+– köparen uppfyller sina skyldigheter när det gäller att
 betala köpeskilling för egendomen,
 
- säljaren uppfyller sina skyldigheter när det gäller att stå
+– säljaren uppfyller sina skyldigheter när det gäller att stå
 för eventuella ansvarsförpliktelser, eller
 
- uthyraren eller hyrestagaren uppfyller sina skyldigheter
+– uthyraren eller hyrestagaren uppfyller sina skyldigheter
 när det gäller att betala eventuell ersättning för skador på
 den hyrda egendomen i enlighet med vad som avtalats i
 hyreskontraktet,
@@ -1387,7 +1521,7 @@ och vars saldo eller värde uppgår till 50 000 US-dollar eller
 mindre.
 
 Ett konto som avses i första stycket 1 och 2 a ska dock
-granskas enligt 36 och 8 §§ om dess saldo eller värde
+granskas enligt 3–6 och 8 §§ om dess saldo eller värde
 överstiger 1 000 000 US-dollar vid utgången av 2015 eller ett
 senare kalenderår.
 
@@ -1418,7 +1552,7 @@ kontohavaren är en c/o- eller poste restante-adress.
 4 § Om det rapporteringsskyldiga finansiella institutets
 elektroniskt sökbara databaser typiskt sett inte är
 tillräckliga för att bedöma om sådana omständigheter som
-anges i 1 § första stycket 1 och 37 föreligger, ska sådana
+anges i 1 § första stycket 1 och 3–7 föreligger, ska sådana
 uppgifter också eftersökas i gällande huvudkundregister, när
 det gäller granskning av konton vars saldo eller värde
 uppgick till mer än 1 000 000 US-dollar den 30 juni 2014
@@ -1450,7 +1584,7 @@ Granskningen enligt första och andra styckena behöver bara
 göras en gång för varje konto.
 
 5 § Om sådana omständigheter som anges i 1 § första stycket
-har framkommit vid granskning enligt 14 §§, ska ett konto
+har framkommit vid granskning enligt 1–4 §§, ska ett konto
 dock anses vara ett rapporteringspliktigt konto endast om
 
 1. den omständighet som framkommit är en uppgift som
@@ -1521,7 +1655,7 @@ ett sådant intyg trots att han eller hon upphört att vara
 amerikansk medborgare eller varför han eller hon inte blev
 amerikansk medborgare vid födseln.
 
-6 § Oavsett vad som sägs i 35 §§ ska ett konto vars saldo
+6 § Oavsett vad som sägs i 3–5 §§ ska ett konto vars saldo
 eller värde uppgick till mer än 1 000 000 US-dollar den 30
 juni 2014 eller vid utgången av 2015 eller ett senare
 kalenderår anses vara ett rapporteringspliktigt konto om det
@@ -1529,7 +1663,7 @@ finns en tjänsteman som har särskilt ansvar för kontakterna
 med kontohavaren och den tjänstemannen har eller får kännedom
 om att kontohavaren är en specificerad amerikansk person.
 
-7 § Om ett konto efter att granskningen enligt 36 §§ har
+7 § Om ett konto efter att granskningen enligt 3–6 §§ har
 utförts blir ett rapporteringspliktigt konto enligt samma
 bestämmelser, ska det anses som ett sådant från och med det
 kalenderår då detta inträffar.
@@ -1541,7 +1675,7 @@ institutets status som kvalificerad förmedlare eller
 källskatteinnehållande enhet, har inhämtat dokumentation från
 en kontohavare som fastställer om kontohavaren är medborgare
 eller har hemvist i USA eller inte, får förlita sig på den
-dokumentationen och är inte skyldigt att tillämpa 15 §§ med
+dokumentationen och är inte skyldigt att tillämpa 1–5 §§ med
 avseende på konton som innehas av den kontohavaren.
 
 9 § Ett rapporteringspliktigt konto ska anses vara ett sådant
@@ -1586,7 +1720,7 @@ det rapporteringsskyldiga finansiella institutet inhämta ett
 intygande från kontohavaren som innehåller hans eller hennes
 amerikanska skatteregistreringsnummer.
 
-5 § Granskningen enligt 13 §§ behöver inte omfatta
+5 § Granskningen enligt 1–3 §§ behöver inte omfatta
 
 1. inlåningskonton som avses i 2 kap. 11 § första stycket 1
 och vars saldo uppgår till 50 000 US-dollar eller mindre,
@@ -1597,7 +1731,7 @@ US-dollar eller mindre.
 
 Konton som vid tillämpningen av första stycket inte omfattas
 av granskning, ska inte anses vara rapporteringspliktiga
-konton. Om ett sådant konto ändå har granskats enligt 13 §§
+konton. Om ett sådant konto ändå har granskats enligt 1–3 §§
 och då identifierats som rapporteringspliktigt, får det
 rapporteringsskyldiga finansiella institutet välja om det
 vill behandla kontot som rapporteringspliktigt eller inte.
@@ -1608,7 +1742,7 @@ saldo eller värde vid utgången av ett kalenderår uppgår till
 mer än 50 000 US-dollar, ska det rapporteringsskyldiga
 finansiella institutet inom 90 dagar från utgången av det
 kalenderåret inhämta ett sådant intygande som avses i 1 § och
-därefter tillämpa 24 §§ på kontot. Om ett sådant intygande
+därefter tillämpa 2–4 §§ på kontot. Om ett sådant intygande
 inte kommer in, ska det rapporteringsskyldiga finansiella
 institutet behandla kontot som ett rapporteringspliktigt
 konto från och med det kalenderår då intygandet skulle ha
@@ -1717,27 +1851,41 @@ penningtvätt och finansiering av terrorism, och
 intygande från kontohavaren eller personerna med bestämmande
 inflytande.
 
-5 § Om det rapporteringsskyldiga finansiella institutet efter
-att granskningen enligt 14 §§ har genomförts får tillgång
+5 § /Upphör att gälla U:2016-01-01/ 
+Om det rapporteringsskyldiga finansiella institutet efter
+att granskningen enligt 1–4 §§ har genomförts får tillgång
 till ytterligare information som medför att det finns skäl
 att anta att ett intygande eller annan dokumentation med
 avseende på kontot är oriktig eller inte tillförlitlig, ska
-enheten på nytt genomföra granskningen enligt 14 §§. Kontot
+enheten på nytt genomföra granskningen enligt 1–4 §§. Kontot
 är rapporteringspliktigt om det därefter fortfarande finns
 skäl att anta att intygande eller annan dokumentation är
 oriktig eller otillförlitlig, eller om ett intygande som ska
 inhämtas vid den nya granskningen inte kommer in inom 90
 dagar från det att det begärts.
 
+5 § /Träder i kraft I:2016-01-01/ 
+Om det rapporteringsskyldiga finansiella institutet efter 
+att granskningen enligt 1–4 §§ har genomförts får tillgång 
+till ytterligare information som medför att det finns skäl 
+att anta att ett intygande eller annan dokumentation med 
+avseende på kontot är oriktig eller inte tillförlitlig, ska 
+institutet på nytt genomföra granskningen enligt 1–4 §§. 
+Kontot är rapporteringspliktigt om det därefter fortfarande 
+finns skäl att anta att intygande eller annan dokumentation 
+är oriktig eller otillförlitlig, eller om ett intygande som 
+ska inhämtas vid den nya granskningen inte kommer in inom 90 
+dagar från det att det begärts. Lag (2015:920).
+
 Konton som inte behöver granskas
 
-6 § Granskningen enligt 14 §§ behöver inte omfatta konton
+6 § Granskningen enligt 1–4 §§ behöver inte omfatta konton
 vars saldon eller värden uppgick till 250 000 US-dollar eller
 mindre den 30 juni 2014.
 
 Konton som vid tillämpningen av första stycket inte omfattas
 av granskning, ska inte anses vara rapporteringspliktiga
-konton. Om ett sådant konto ändå har granskats enligt 14 §§
+konton. Om ett sådant konto ändå har granskats enligt 1–4 §§
 och då identifierats som rapporteringspliktigt, får det
 rapporteringsskyldiga finansiella institutet välja om det
 vill behandla kontot som rapporteringspliktigt eller inte.
@@ -1745,7 +1893,7 @@ vill behandla kontot som rapporteringspliktigt eller inte.
 Om saldot eller värdet på ett konto som avses i första
 stycket uppgår till mer än 1 000 000 US-dollar vid utgången
 av 2015 eller vid utgången av ett senare kalenderår, ska det
-dock granskas enligt 14 §§ inom sex månader från utgången av
+dock granskas enligt 1–4 §§ inom sex månader från utgången av
 det kalenderåret och behandlas som ett rapporteringspliktigt
 konto om det identifieras som ett sådant.
 
@@ -1889,7 +2037,7 @@ skatteregistreringsnummer.
 
 Konton som inte behöver granskas
 
-5 § Granskningen enligt 14 §§ behöver inte omfatta
+5 § Granskningen enligt 1–4 §§ behöver inte omfatta
 kreditkortskonton eller rullande krediter, om det
 rapporteringsskyldiga finansiella institutet har infört
 riktlinjer och förfaranden för att förhindra att en
@@ -1898,7 +2046,7 @@ kontohavare har ett tillgodohavande som uppgår till mer än 50
 
 Konton som vid tillämpningen av första stycket inte omfattas
 av granskning, ska inte anses vara rapporteringspliktiga
-konton. Om ett sådant konto ändå har granskats enligt 14 §§
+konton. Om ett sådant konto ändå har granskats enligt 1–4 §§
 och då identifierats som rapporteringspliktigt, får det
 rapporteringsskyldiga finansiella institutet välja om det
 vill behandla kontot som rapporteringspliktigt eller inte.
@@ -1921,14 +2069,14 @@ rapporteringspliktiga.
 
 Intyganden och annan dokumentation som det
 rapporteringsskyldiga finansiella institutet inhämtar eller
-har tillgång till enligt 6 kap. 25 §§ med avseende på ett
+har tillgång till enligt 6 kap. 2–5 §§ med avseende på ett
 sådant konto som avses i första stycket, får användas vid
 granskningen av samtliga sådana konton som avses i första
 stycket.
 
 7 § Ett rapporteringsskyldigt finansiellt institut får, i
-stället för bestämmelserna i 14 §§, tillämpa bestämmelserna
-i 6 kap. 15 §§ vid granskning av ett nytt konto som innehas
+stället för bestämmelserna i 1–4 §§, tillämpa bestämmelserna
+i 6 kap. 1–5 §§ vid granskning av ett nytt konto som innehas
 av en enhet om det öppnats efter den 30 juni 2014 och före
 den 1 januari 2015.
 
@@ -1943,11 +2091,11 @@ sådan central värdepappersförvarare som avses i 1 kap. 3 §
 lagen (1998:1479) om kontoföring av finansiella instrument,
 ska den som har antagits som kontoförande institut och som
 utför registreringsåtgärder i stället för den centrala
-värdepappersförvararen tillämpa 48 kap. med avseende på
+värdepappersförvararen tillämpa 4–8 kap. med avseende på
 konton som är föremål för sådana registreringsåtgärder. Den
 centrala värdepappersförvararen ska sammanställa och
 tillhandahålla det kontoförande institutet den information
-som det kontoförande institutet behöver för att tillämpa 48
+som det kontoförande institutet behöver för att tillämpa 4–8
 kap.
 
 Registrering
@@ -1960,13 +2108,13 @@ skattemyndigheten.
 Beräkning av saldo eller värde
 
 3 § Om inte något annat anges, ska ett kontos saldo eller
-värde vid tillämpningen av 48 kap. fastställas per den sista
+värde vid tillämpningen av 4–8 kap. fastställas per den sista
 dagen av ett kalenderår eller en annan lämplig
 rapporteringsperiod.
 
 När ett kontos saldo eller värde den 30 juni 2014 eller vid
 utgången av ett kalenderår har betydelse för granskningen
-enligt 48 kap., får ett rapporteringsskyldigt finansiellt
+enligt 4–8 kap., får ett rapporteringsskyldigt finansiellt
 institut i stället räkna med kontots saldo eller värde per
 den sista dagen för en annan lämplig rapporteringsperiod som
 löper ut närmast före den 30 juni 2014 eller närmast före
@@ -1974,7 +2122,8 @@ utgången av det aktuella kalenderåret.
 
 Förmånstagare av dödsfallsförmån
 
-4 § Ett rapporteringsskyldigt finansiellt institut får utgå
+4 § /Upphör att gälla U:2016-01-01/ 
+Ett rapporteringsskyldigt finansiellt institut får utgå
 ifrån att en fysisk person som är förmånstagare men inte
 försäkringstagare i ett försäkringsavtal med kontantvärde och
 som tar emot en dödsfallsförmån i enlighet med
@@ -1982,6 +2131,19 @@ försäkringsavtalet inte är en specificerad amerikansk person.
 Detta gäller dock inte om det rapporteringsskyldiga
 finansiella institutet har skäl att anta att den
 förmånstagaren är en specificerad
+
+4 § /Träder i kraft I:2016-01-01/ 
+Ett rapporteringsskyldigt finansiellt institut får utgå 
+från att en fysisk person som är förmånstagare men inte 
+försäkringstagare i ett försäkringsavtal med kontantvärde och 
+som tar emot en dödsfallsförmån i enlighet med 
+försäkringsavtalet inte är en specificerad amerikansk person. 
+Detta gäller dock inte om det rapporteringsskyldiga 
+finansiella institutet har skäl att anta att den 
+förmånstagaren är en specificerad amerikansk person. Om det 
+finns skäl att anta att förmånstagaren är en specificerad 
+amerikansk person, ska 4 kap. 1, 2 och 5 §§ tillämpas på 
+försäkringsavtalet. Lag (2015:920).
 
 Befintliga konton får granskas som om de är nya konton
 
@@ -2002,7 +2164,8 @@ ska dock gälla även i dessa fall.
 
 Styrkande dokumentation
 
-6 § Vid tillämpning av 47 kap., ska som styrkande
+6 § /Upphör att gälla U:2016-01-01/ 
+Vid tillämpning av 4–7 kap., ska som styrkande
 dokumentation räknas
 
 1. ett intyg om bosättning utfärdat av en behörig tjänsteman
@@ -2030,10 +2193,39 @@ respektive enheter, eller
 kreditupplysning, konkursansökan eller rapport från U.S.
 Securities and Exchange Commission.
 
+6 § /Träder i kraft I:2016-01-01/ 
+Vid tillämpning av 4–7 kap., ska som styrkande 
+dokumentation räknas
+
+1. ett intyg om bosättning utfärdat av en behörig myndighet i 
+den stat eller jurisdiktion där betalningsmottagaren uppger 
+sig vara bosatt,
+
+2. när det gäller en fysisk person, en giltig 
+identifikationshandling utfärdad av en behörig myndighet som 
+innehåller uppgift om personens namn och typiskt sett används 
+för identifiering,
+
+3. när det gäller en enhet, officiell dokumentation utfärdad 
+av en behörig myndighet som innehåller uppgift om den 
+juridiska personens namn samt adressen till dess huvudkontor 
+i den stat eller jurisdiktion där den uppger sig vara 
+hemmahörande eller i den stat eller jurisdiktion enligt vars 
+lagstiftning den har upprättats,
+
+4. de dokument som enligt bilaga till ett avtal om att ett 
+rapporteringsskyldigt finansiellt institut ska agera som 
+kvalificerad förmedlare godtas för identifiering av fysiska 
+personer respektive enheter, eller
+
+5. kontoutdrag eller liknande sammanställningar, 
+kreditupplysning, konkursansökan eller rapport från U.S. 
+Securities and Exchange Commission. Lag (2015:920).
+
 Dokumentations tillförlitlighet
 
 7 § Ett rapporteringsskyldigt finansiellt institut får, trots
-det som i övrigt föreskrivs i 48 kap., inte förlita sig på
+det som i övrigt föreskrivs i 4–8 kap., inte förlita sig på
 uppgifter i intyganden och annan dokumentation om institutet
 har tillgång till ytterligare information som gör att
 dokumentationens riktighet eller tillförlitlighet skäligen
@@ -2041,9 +2233,16 @@ kan ifrågasättas.
 
 Sparande av dokumentation
 
-8 § Dokumentation som ett rapporteringsskyldigt finansiellt
+8 § /Upphör att gälla U:2016-01-01/ 
+Dokumentation som ett rapporteringsskyldigt finansiellt
 institut inhämtar i enlighet med denna lag ska sparas i sex
 år från inhämtandet.
+
+8 § /Träder i kraft I:2016-01-01/ 
+Handlingar och uppgifter om åtgärder som vidtagits för 
+att identifiera om ett konto är rapporteringspliktigt eller 
+inte ska bevaras i minst fem år från att kontot avslutas.
+Lag (2015:920).
 
 
 Övergångsbestämmelser
@@ -2060,12 +2259,12 @@ andel i eget kapital eller skulder i ett finansiellt institut
 anses vara föremål för regelmässig handel även om innehavaren
 av andelen är införd i registret.
 
-3. Granskningen enligt bestämmelserna i 4 kap. 38 §§ ska ha
+3. Granskningen enligt bestämmelserna i 4 kap. 3–8 §§ ska ha
 genomförts senast den 30 juni 2015.
 
 4. Granskningen enligt bestämmelserna i 4 kap. 1 § första
 stycket och 2 § samt granskningen enligt bestämmelserna i 6
-kap. 16 §§ ska ha genomförts senast den 30 juni 2016.
+kap. 1–6 §§ ska ha genomförts senast den 30 juni 2016.
 
 5. I fråga om tillämpning av 5 kap. 1 och 2 §§ avseende
 konton som öppnats före den 1 april 2015, ska det
@@ -2073,7 +2272,7 @@ rapporteringsskyldiga finansiella institutet senast den 31
 mars 2016 inhämta intygande från den fysiska personen. När
 det gäller konton för vilka sådant intygande inte kommit in,
 ska det rapporteringsskyldiga finansiella institutet tillämpa
-bestämmelserna i 4 kap. 35 och 8 §§ och senast den 31 mars
+bestämmelserna i 4 kap. 3–5 och 8 §§ och senast den 31 mars
 2016 avsluta kontona. I samband med att intygandet begärs ska
 det rapporteringsskyldiga finansiella institutet informera
 kontohavaren om att kontot kan komma att avslutas om
@@ -2094,7 +2293,7 @@ in, ska det rapporteringsskyldiga finansiella institutet
 behandla det andra finansiella institutet som ett icke
 FATCA-deltagande finansiellt institut.
 
-7. I fråga om tillämpning av 7 kap. 25 §§ avseende konton
+7. I fråga om tillämpning av 7 kap. 2–5 §§ avseende konton
 som öppnats före den 1 april 2015, ska det
 rapporteringsskyldiga finansiella institutet senast den 31
 mars 2016 inhämta intygande från kontohavaren eller
@@ -2102,7 +2301,7 @@ personerna med bestämmande inflytande och annan
 dokumentation. När det gäller konton för vilka sådant
 intygande eller sådan annan dokumentation inte kommit in, ska
 det rapporteringsskyldiga finansiella institutet tillämpa
-bestämmelserna i 6 kap. 16 §§ och senast den 31 mars 2016
+bestämmelserna i 6 kap. 1–6 §§ och senast den 31 mars 2016
 avsluta kontona. I samband med att intygandet eller den andra
 dokumentationen begärs ska det rapporteringsskyldiga
 finansiella institutet informera kontohavaren om att kontot
