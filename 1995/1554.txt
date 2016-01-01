@@ -1,5 +1,3 @@
-
-
 1 kap. Inledande bestämmelser
 
 Lagens tillämpningsområde
@@ -43,12 +41,11 @@ direkt knuten till omsättningen,
 
 4. större företag:
 
- företag vars andelar, teckningsoptioner eller skuldebrev är
-upptagna till handel på en reglerad marknad eller en
-motsvarande marknad utanför Europeiska ekonomiska
-samarbetsområdet eller
+– företag vars överlåtbara värdepapper är upptagna till
+handel på en reglerad marknad eller en motsvarande marknad
+utanför Europeiska ekonomiska samarbetsområdet, eller
 
- företag som uppfyller mer än ett av följande villkor:
+– företag som uppfyller mer än ett av följande villkor:
 
 a) medelantalet anställda i företaget har under vart och ett
 av de två senaste räkenskapsåren uppgått till mer än 50,
@@ -65,13 +62,18 @@ miljoner kronor,
 
 6. större koncerner:
 
- koncerner i vilka moderföretagets eller något av
-dotterföretagens andelar, teckningsoptioner eller skuldebrev
-är upptagna till handel på en reglerad marknad eller en
-motsvarande marknad utanför Europeiska ekonomiska
-samarbetsområdet eller
+– koncerner där moderföretagets eller något av
+dotterföretagens överlåtbara värdepapper är upptagna till
+handel på en reglerad marknad eller en motsvarande marknad
+utanför Europeiska ekonomiska samarbetsområdet,
 
- koncerner som uppfyller mer än ett av följande villkor:
+– koncerner där något av dotterföretagen är ett sådant
+företag som avses i 1 kap. 1 § lagen (1995:1559) om
+årsredovisning i kreditinstitut och värdepappersbolag eller 1
+kap. 1 § lagen (1995:1560) om årsredovisning i
+försäkringsföretag, eller
+
+–  koncerner som uppfyller mer än ett av följande villkor:
 
 a) medelantalet anställda i koncernen har under vart och ett
 av de två senaste räkenskapsåren uppgått till mer än 50,
@@ -84,21 +86,28 @@ c) koncernföretagens redovisade nettoomsättning har för vart
 och ett av de två senaste räkenskapsåren uppgått till mer än
 80 miljoner kronor,
 
-7. mindre koncerner: koncerner som inte är större koncerner.
+7. mindre koncerner: koncerner som inte är större
+koncerner.
 
-Vid tillämpningen av första stycket 6 b och c ska fordringar
-och skulder mellan koncernföretag, liksom internvinster,
-elimineras. Detsamma gäller för intäkter och kostnader som
-hänför sig till transaktioner mellan koncernföretag, liksom
-förändring av internvinst.
+Vid tillämpningen av första stycket 6 b och c ska
+andelar i dotterföretag, fordringar och skulder mellan
+koncernföretag, liksom internvinster, elimineras. Detsamma
+gäller för intäkter och kostnader som hänför sig till
+transaktioner mellan koncernföretag, liksom förändring av
+internvinst. Eliminering behöver inte göras, om tillämpningen
+i stället utgår från följande gränsvärden:
+
+– balansomslutning 48 miljoner kronor,
+
+– nettoomsättning 96 miljoner kronor.
 
 Företag som avses i 2 kap. 2 § första stycket och 3 §
 bokföringslagen (1999:1078) ska vid tillämpningen av första
-stycket 47 och 5 kap. 6 § till nettoomsättningen lägga
+stycket 4–7 och 5 kap. 47 § till nettoomsättningen lägga
 bidrag, gåvor, medlemsavgifter och andra liknande intäkter.
-Lag (2010:848).
+Lag (2015:813).
 
-Koncern- och intresseföretagsdefinitioner
+Koncern, intresseföretag m.m.
 
 4 § Ett företag är moderföretag och en juridisk person är
 dotterföretag, om företaget
@@ -148,22 +157,33 @@ Moderföretag och dotterföretag utgör tillsammans en koncern.
 Med koncernföretag avses i denna lag företag i samma koncern.
 Lag (1999:1112).
 
-5 § Om ett företag äger andelar i en juridisk person som inte
-är dotterföretag och utövar ett betydande inflytande över den
-juridiska personens driftsmässiga och finansiella styrning samt
-ägandet utgör ett led i en varaktig förbindelse mellan
-företaget och den juridiska personen, är den juridiska personen
-intresseföretag till företaget.
+4 a § Med ägarintresse avses i denna lag ett innehav av
+andelar i ett annat företag som är avsett att främja
+verksamheten i ägarföretaget genom att skapa en varaktig
+förbindelse med det andra företaget. Ett innehav av minst 20
+procent av kapitalet i det andra företaget ska anses utgöra
+ett ägarintresse, om inte något annat framgår av
+omständigheterna. Lag (2015:813).
 
-Innehar ett företag minst tjugo procent av rösterna för
-samtliga andelar i en juridisk person, skall det anses ha
-sådant inflytande över och sådan förbindelse med denna som
-avses i första stycket, om inte annat framgår av
-omständigheterna. Detsamma gäller om företagets dotterföretag
-eller företaget tillsammans med ett eller flera dotterföretag
-eller flera dotterföretag tillsammans innehar minst tjugo
-procent av rösterna för samtliga andelar i den juridiska
-personen. Lag (1999:1112).
+5 § Om ett företag har ett ägarintresse i en juridisk person
+och utövar ett betydande inflytande över dess driftsmässiga
+och finansiella styrning, är den juridiska personen ett
+intresseföretag till företaget. Detta gäller dock inte om den
+juridiska personen är ett dotterföretag eller ett gemensamt
+styrt företag som företaget samäger.
+
+Innehar företaget minst 20 procent av rösterna för samtliga
+andelar i den juridiska personen, ska det anses ha ett
+betydande inflytande över denna, om inte något annat framgår
+av omständigheterna. Detsamma gäller om företagets
+dotterföretag eller företaget tillsammans med ett eller flera
+dotterföretag eller flera dotterföretag tillsammans innehar
+minst 20 procent av rösterna. Lag (2015:813).
+
+5 a § Med gemensamt styrt företag avses i denna lag en
+juridisk person som två eller flera parter enligt ett avtal
+utövar ett gemensamt bestämmande inflytande över.
+Lag (2015:813).
 
 6 § I de fall som avses i 4 § första stycket 1-3 och andra
 stycket samt 5 § skall sådana rättigheter som tillkommer någon
@@ -183,6 +203,99 @@ företaget meddela detta till dotterföretagets ledning.
 Dotterföretagets ledning skall lämna ledningen för
 moderföretaget de upplysningar som behövs för att en
 koncernredovisning skall kunna upprättas. Lag (1999:1112).
+
+Närstående
+
+8 § En juridisk person anses i denna lag som närstående till
+ett företag som upprättar års- eller koncernredovisning
+(rapporterande företag) om
+
+1. den ingår i samma koncern som det rapporterande företaget,
+
+2. den är ett intresseföretag till det rapporterande
+företaget eller till ett företag i en koncern som det
+rapporterande företaget ingår i,
+
+3. det rapporterande företaget är ett intresseföretag till
+den juridiska personen, eller till ett företag i en koncern
+som den juridiska personen ingår i,
+
+4. den är ett gemensamt styrt företag som samägs av det
+rapporterande företaget eller av ett företag i en koncern som
+det rapporterande företaget ingår i,
+
+5. det rapporterande företaget är ett gemensamt styrt företag
+som samägs av den juridiska personen, eller av ett företag i
+en koncern som den juridiska personen ingår i,
+
+6. den och det rapporterande företaget båda är gemensamt
+styrda företag som samägs av samma tredje företag,
+
+7. den eller det rapporterande företaget är ett gemensamt
+styrt företag som samägs av ett tredje företag, och den andra
+av dem är ett intresseföretag till det tredje företaget,
+
+8. den är ett dotterföretag till en juridisk person som avses
+i 2, 4, 6 eller 7,
+
+9. den har som huvudsaklig verksamhet att förvalta tillgångar
+som det rapporterande företaget har avsatt för ersättningar
+till personer som har avslutat sin anställning antingen i det
+rapporterande företaget eller i en juridisk person som är
+närstående till det rapporterande företaget,
+
+10. den har avsatt tillgångar till förvaltning av ett
+rapporterande företag som är en sådan juridisk person som
+avses i 9,
+
+11. den står under bestämmande inflytande eller gemensamt
+bestämmande inflytande av en person som är närstående enligt
+9 §,
+
+12. den annars står under betydande inflytande av en person
+som avses i 9 § 1 eller 4–6,
+
+13. den eller dess moderföretag har en styrelseledamot,
+verkställande direktör eller annan ledande befattningshavare
+som är en person som avses i 9 § 1, eller
+
+14. den eller ett företag i en koncern som den ingår i
+tillhandahåller tjänster för företagsledning åt det
+rapporterande företaget eller åt dess moderföretag.
+
+Vid tillämpningen av första stycket ska
+
+– med koncern jämställas en företagsgrupp som kontrolleras av
+ett företag eller ett annat rättssubjekt som inte är ett
+moderföretag i denna lags mening, och
+
+– med intresseföretag jämställas företag som endast uppfyller
+det krav på betydande inflytande som anges i 5 §.
+Lag (2015:813).
+
+9 § En fysisk person anses i denna lag som närstående till
+ett rapporterande företag om han eller hon
+
+1. själv eller gemensamt med någon annan utövar ett
+bestämmande inflytande över företaget,
+
+2. annars har ett betydande inflytande över företaget,
+
+3. är en styrelseledamot, den verkställande direktören eller
+någon annan ledande befattningshavare i företaget eller dess
+moderföretag,
+
+4. är gift eller sambo med eller förälder, barn eller
+styvbarn till en person som avses i 1–3,
+
+5. är ekonomiskt eller på annat sätt beroende av en person
+som avses i 1–3 eller av hans eller hennes make eller sambo,
+eller
+
+6. annars ingår i samma familj som en person som avses i 1–3
+och kan förväntas påverka den personen i hans eller hennes
+kontakter med företaget eller påverkas av honom eller henne i
+sina egna kontakter med företaget. Lag (2015:813).
 
 2 kap. Allmänna bestämmelser om årsredovisning
 
@@ -219,75 +332,90 @@ rekommendationer från normgivande organ, skall upplysning om
 detta och om skälen för avvikelsen lämnas i en not.
 Lag (1999:1112).
 
+Väsentlighet
+
+3 a § Ett företag får avvika från bestämmelserna om
+redovisning, uppställning, värdering, upplysningar och
+konsolidering i denna lag, om följden av avvikelsen inte är
+väsentlig.
+
+Följden av en avvikelse ska anses vara väsentlig om utelämnad
+eller felaktig information, ensam eller tillsammans med annan
+information, rimligen kan förväntas påverka de beslut som
+användare fattar på grundval av informationen. Lag (2015:813).
+
 Andra grundläggande redovisningsprinciper
 
-4 § Vid upprättandet av balansräkningen, resultaträkningen och
-noterna skall följande iakttas:
+4 § Vid upprättandet av balansräkningen, resultaträkningen
+och noterna ska följande iakttas:
 
-1. Företaget skall förutsättas fortsätta sin verksamhet.
+1. Företaget ska förutsättas fortsätta sin verksamhet.
 
-2. Samma principer för värdering, klassificering och indelning
-av de olika posterna och, i förekommande fall, delposterna
-skall konsekvent tillämpas från ett räkenskapsår till ett
-annat.
+2. Samma principer för värdering, klassificering och
+indelning av de olika posterna och, i förekommande fall,
+delposterna ska konsekvent tillämpas från ett räkenskapsår
+till ett annat.
 
 3. Värderingen av de olika posterna och, i förekommande fall,
-delposterna skall göras med iakttagande av rimlig försiktighet.
+delposterna ska göras med iakttagande av rimlig försiktighet.
 Detta innebär särskilt att
 
 a) endast under räkenskapsåret konstaterade intäkter får tas
 med i resultaträkningen,
 
-b) hänsyn skall tas till alla ekonomiska förpliktelser som är
+b) hänsyn ska tas till alla ekonomiska förpliktelser som är
 hänförliga till räkenskapsåret eller tidigare räkenskapsår,
 även om dessa förpliktelser blir kända först efter
 räkenskapsårets utgång men före upprättandet av
 årsredovisningen, och att
 
-c) hänsyn skall tas till värdenedgångar oavsett om resultatet
+c) hänsyn ska tas till värdenedgångar oavsett om resultatet
 för räkenskapsåret är en vinst eller en förlust.
 
-4. Intäkter och kostnader som är hänförliga till räkenskapsåret
-skall tas med oavsett tidpunkten för betalningen.
+4. Intäkter och kostnader som är hänförliga till
+räkenskapsåret ska tas med oavsett tidpunkten för
+betalningen.
 
 5. De olika beståndsdelar som balansräkningens poster och, i
-förekommande fall, delposter består av skall värderas var för
+förekommande fall, delposter består av ska värderas var för
 sig.
 
 6. Tillgångar och avsättningar eller skulder får inte kvittas
 mot varandra. Inte heller får intäkter och kostnader kvittas
 mot varandra.
 
-7. Den ingående balansen för ett räkenskapsår skall stämma
+7. Den ingående balansen för ett räkenskapsår ska stämma
 överens med den utgående balansen för det närmast föregående
 räkenskapsåret.
 
-Om det finns särskilda skäl och det är förenligt med 2 och
-3 §§, får avvikelse göras från vad som föreskrivs i första
-stycket. I så fall skall upplysning om skälen för avvikelsen
-och en bedömning av dess effekt på företagets ställning och
-resultat lämnas i en not. Lag (2004:1173).
+Om det finns särskilda skäl för det och det är förenligt med
+2 och 3 §§, får avvikelse göras från första stycket.
+Lag (2015:813).
 
-Form och språk
+Form m.m.
 
-5 § Årsredovisningen ska upprättas i vanlig läsbar form eller i
-elektronisk form. Den ska avfattas på svenska. Lag (2008:89).
+5 § Årsredovisningen ska upprättas i vanlig läsbar form eller
+i elektronisk form. Den ska avfattas på svenska.
+
+Årsredovisningen ska innehålla uppgifter om företagets namn,
+organisations- eller personnummer och säte.
+
+Om företaget är i likvidation, ska detta anges. Lag (2015:813).
 
 Valuta
 
-6 § Beloppen i årsredovisningen skall anges i företagets
+6 § Beloppen i årsredovisningen ska anges i företagets
 redovisningsvaluta enligt 4 kap. 6 § bokföringslagen
-(1999:1078). Beloppen får dessutom anges i annan valuta enligt
-omräkningskursen på dagen för räkenskapsårets utgång
-(balansdagen). I så fall skall upplysning om omräkningskursen
-lämnas i en not.
+(1999:1078). Beloppen får dessutom anges i annan valuta
+enligt omräkningskursen på dagen för räkenskapsårets utgång
+(balansdagen).
 
-Vid byte av redovisningsvaluta skall balansräkningen för det
-gamla räkenskapsåret räknas om till den nya redovisningsvalutan
-enligt den växelkurs som har fastställts av Europeiska
-centralbanken den sista svenska bankdagen under räkenskapsåret.
-Den omräknade balansräkningen skall utgöra ingående balans för
-det nya räkenskapsåret. Lag (2000:34).
+Vid byte av redovisningsvaluta ska balansräkningen för det
+gamla räkenskapsåret räknas om till den nya
+redovisningsvalutan enligt den växelkurs som har fastställts
+av Europeiska centralbanken den sista svenska bankdagen under
+räkenskapsåret. Den omräknade balansräkningen ska utgöra
+ingående balans för det nya räkenskapsåret. Lag (2015:813).
 
 Årsredovisningens undertecknande
 
@@ -338,10 +466,9 @@ undertecknades. Lag (2014:1386).
 
 Balansräkningens innehåll
 
-1 § Balansräkningen skall i sammandrag redovisa företagets
-samtliga tillgångar, avsättningar och skulder samt eget kapital
-på balansdagen. Ställda panter och ansvarsförbindelser skall
-tas upp inom linjen. Lag (1999:1112).
+1 § Balansräkningen ska i sammandrag redovisa företagets
+samtliga tillgångar, avsättningar och skulder samt eget
+kapital på balansdagen. Lag (2015:813).
 
 Resultaträkningens innehåll
 
@@ -350,19 +477,21 @@ samtliga intäkter och kostnader under räkenskapsåret.
 
 Uppställningsformer
 
-3 § Balansräkningen skall upprättas enligt den
+3 § Balansräkningen ska upprättas enligt den
 uppställningsform som anges i bilaga 1 till denna lag.
-Resultaträkningen skall upprättas enligt någon av de
+Resultaträkningen ska upprättas enligt någon av de
 uppställningsformer som anges i bilagorna 2 och 3.
 
-Byte av uppställningsform för resultaträkningen får ske endast
-om det finns särskilda skäl och är förenligt med 2 kap. 2 och 3 §§.
-Vid sådant byte skall upplysning om skälen för bytet lämnas
-i en not. Lag (1999:1112).
+Byte av uppställningsform för resultaträkningen får ske
+endast om det finns särskilda skäl för det och det är
+förenligt med 2 kap. 2 och 3 §§. Lag (2015:813).
 
 4 § Posterna i balansräkningen och resultaträkningen ska tas
 upp var för sig i den ordningsföljd som anges för respektive
-uppställningsform.
+uppställningsform. Om en tillgång, avsättning eller skuld tas
+upp i fler än en post i balansräkningen, ska det upplysas om
+förhållandet till andra poster antingen under den post där
+den tas upp eller i en not.
 
 I fråga om poster som föregås av arabiska siffror ska de
 avvikelser göras som är betingade av verksamhetens särskilda
@@ -374,60 +503,80 @@ uppställningsformernas poster. Posterna får delas in i
 delposter. Om delar av en post har tillkommit på ett sådant
 sätt eller är av sådan storlek att det är av betydelse med
 hänsyn till kravet i 2 kap. 3 § på en rättvisande bild att de
-redovisas särskilt, ska de tas upp i delposter. Kompletterande
-poster ska ges beteckningar som tydligt anger vad som ingår i
-posten.
+redovisas särskilt, ska de tas upp i delposter.
+Kompletterande poster ska ges beteckningar som tydligt anger
+vad som ingår i posten.
 
 Poster som föregås av arabiska siffror får slås samman,
 
-1. om de är av ringa betydelse med hänsyn till kravet i 2 kap.
-3 § på rättvisande bild, eller
+1. om posternas belopp är obetydliga med hänsyn till kravet i
+2 kap. 3 § på rättvisande bild, eller
 
 2. om sammanslagningen främjar överskådligheten och posterna
 och, i förekommande fall, delposterna anges i not.
 
 Mindre företag får slå samman poster i balansräkningen som
 avser tillgångar, eget kapital, avsättningar och skulder, om
-posterna föregås av arabiska siffror. Lag (2010:1515).
+posterna föregås av arabiska siffror. Lag (2015:813).
 
-4 a § Trots bestämmelserna i 3 och 4 §§ får företag som avses i
-andra stycket dela upp anläggningstillgångar och
-omsättningstillgångar samt skulder och avsättningar i
-kortfristiga och långfristiga poster, om det är förenligt med 2
-kap. 2 och 3 §§.
+4 a § Trots 3 och 4 §§ får företag som avses i andra stycket
+dela upp anläggningstillgångar och omsättningstillgångar samt
+skulder och avsättningar i kortfristiga och långfristiga
+poster, om det är förenligt med 2 kap. 2 och 3 §§.
 
-Bestämmelserna i första stycket gäller
+Första stycket gäller
 
-1. företag som omfattas av en koncernredovisning som upprättas
-med tilllämpning av de internationella redovisningsstandarder
-som avses i Europaparlamentets och rådets förordning (EG) nr
-1606/2002 av den 19 juli 2002 om tillämpning av internationella
-redovisningsstandarder, och
+1. företag som omfattas av en koncernredovisning som
+upprättas med tilllämpning av de internationella
+redovisningsstandarder som avses i Europaparlamentets och
+rådets förordning (EG) nr 1606/2002 av den 19 juli 2002 om
+tillämpning av internationella redovisningsstandarder, i
+lydelsen enligt Europaparlamentets och rådets förordning (EU)
+nr 297/2008, och
 
-2. andra företag vars andelar eller skuldebrev är upptagna till
-handel på en reglerad marknad. Lag (2007:541).
+2. andra företag vars överlåtbara värdepapper är upptagna
+till handel på en reglerad marknad. Lag (2015:813).
+
+Kortfristiga och långfristiga balansposter
+
+4 b § För varje fordringspost i balansräkningen som är
+upptagen under Omsättningstillgångar ska den del som ska
+betalas senare än ett år efter balansdagen anges.
+
+För varje skuldpost i balansräkningen ska följande anges: den
+del som ska betalas inom ett år från balansdagen, den del som
+ska betalas senare än ett år efter balansdagen och summan av
+dessa skulder.
+
+Första och andra styckena gäller även fordringsposter och
+skuldposter som har tagits in i sådana noter som avses i 4 §
+fjärde stycket 2.
+
+För mindre företag som slår samman poster enligt 4 § femte
+stycket ska det som föreskrivs i första och andra styckena om
+fordringsposter och skuldposter i balansräkningen i stället
+avse de sammanslagna posterna. Lag (2015:813).
 
 Jämförelsetal
 
 5 § För varje post eller delpost i balansräkningen,
 resultaträkningen och sådana noter som avses i 4 § fjärde
-stycket 2 skall beloppet av motsvarande post för det närmast
+stycket 2 ska beloppet av motsvarande post för det närmast
 föregående räkenskapsåret anges.
 
 Om företaget har ändrat principerna för värdering,
-klassificering eller indelning i poster eller delposter, skall
+klassificering eller indelning i poster eller delposter, ska
 posterna för det närmast föregående räkenskapsåret räknas om
-eller ändras på det sätt som behövs för att de skall kunna
-jämföras med räkenskapsårets poster på ett meningsfullt sätt.
+eller ändras på det sätt som behövs för att de ska kunna
+jämföras med räkenskapsårets poster på ett meningsfullt
+sätt.
 
-Om det finns särskilda skäl och det är förenligt med 2 kap. 2
-och 3 §§, får avvikelse från vad som föreskrivs i andra stycket
-göras. I så fall skall upplysning om skälen för avvikelsen
-anges i en not.
+Om det finns särskilda skäl för det och det är förenligt med
+2 kap. 2 och 3 §§, får avvikelse göras från andra stycket.
 
 Andra stycket gäller inte mindre företag under förutsättning
 att upplysningar om den bristande jämförbarheten lämnas i
-noterna. Lag (2006:871).
+noterna. Lag (2015:813).
 
 Överkursfonden
 
@@ -475,6 +624,44 @@ avsättningar. Lag (1999:1112).
 specificera större avsättningar som har tagits upp under posten
 Övriga avsättningar i balansräkningen. Lag (2006:871).
 
+Ett aktiebolags eget kapital
+
+10 a § Ett aktiebolags eget kapital ska i balansräkningen, i
+en egen räkning eller i en not delas upp i bundet eget
+kapital och fritt eget kapital eller ansamlad förlust.
+
+Under bundet eget kapital ska följande tas upp: aktiekapital,
+uppskrivningsfond, reservfond, kapitalandelsfond och fond för
+utvecklingsutgifter.
+
+Under fritt eget kapital eller ansamlad förlust ska följande
+tas upp: fria fonder, var för sig, balanserad vinst eller
+förlust och vinst eller förlust för räkenskapsåret.
+Balanserad förlust och förlust för räkenskapsåret tas då upp
+som avdragsposter. Lag (2015:813).
+
+En ekonomisk förenings eget kapital
+
+10 b § En ekonomisk förenings eget kapital ska i
+balansräkningen, i en egen räkning eller i en not delas upp i
+bundet eget kapital och fritt eget kapital eller ansamlad
+förlust.
+
+Under bundet eget kapital ska följande tas upp: inbetalda
+eller genom insatsemission tillgodoförda insatser,
+uppskrivningsfond, reservfond, kapitalandelsfond och fond för
+utvecklingsutgifter. Medlemsinsatser och förlagsinsatser ska
+redovisas var för sig.
+
+Under fritt eget kapital eller ansamlad förlust ska följande
+tas upp: fria fonder, var för sig, balanserad vinst eller
+förlust och nettovinst eller förlust för räkenskapsåret.
+Balanserad förlust och förlust för räkenskapsåret tas då upp
+som avdragsposter.
+
+Det som sägs i andra stycket om insatser gäller också
+upplåtelseavgifter i en bostadsrättsförening. Lag (2015:813).
+
 Resultaträkning i förkortad form
 
 11 § Mindre företag får slå samman posterna 1-6 i bilaga 2
@@ -490,15 +677,7 @@ Lag (2010:1515).
 
 12 § Har upphävts genom lag (2007:132).
 
-Extraordinära intäkter och kostnader
-
-13 § Intäkter och kostnader i annan verksamhet än företagets
-normala verksamhet skall redovisas som extraordinära intäkter
-och kostnader.
-
-Större företag skall dessutom specificera extraordinära
-intäkter och kostnader till storlek och art i en not.
-Lag (2006:871).
+13 § Har upphävts genom lag (2015:813).
 
 4 kap. Värderingsregler
 
@@ -512,18 +691,23 @@ Om företaget drivs av en fysisk person eller ett dödsbo, får
 djur i jordbruk eller renskötsel anses som omsättningstillgång
 oavsett avsikten med innehavet. Lag (1999:1112).
 
-2 § Utgifter för forsknings- och utvecklingsarbeten och
-liknande arbeten som är av väsentligt värde för rörelsen under
-kommande år får tas upp som immateriell anläggningstillgång.
-Detsamma gäller utgifter för koncessioner, patent, licenser,
-varumärken, hyresrätter och liknande rättigheter och tillgångar
-samt ersättning som vid förvärv av rörelse överstiger det
-behållna värdet av de tillgångar som förvärvats och de skulder
-som övertagits (goodwill).
+2 § Utgifter för koncessioner, patent, licenser, varumärken,
+hyresrätter och liknande rättigheter och tillgångar som är av
+betydande värde för rörelsen under kommande år får tas upp
+som immateriella anläggningstillgångar. Detsamma gäller
+ersättning som vid förvärv av rörelse överstiger det behållna
+värdet av de tillgångar som förvärvats och de skulder som
+övertagits (goodwill).
+
+Första stycket gäller även utgifter för företagets eget
+utvecklingsarbete. För aktiebolag och ekonomiska föreningar
+gäller detta dock endast under förutsättning att motsvarande
+belopp överförs från fritt eget kapital till en fond för
+utvecklingsutgifter.
 
 Utgifter för företagsbildning, ökning av aktiekapitalet eller
 motsvarande eller för företagets förvaltning får inte tas upp
-som tillgång. Lag (1999:1112).
+som tillgångar. Lag (2015:813).
 
 Anskaffningsvärde för anläggningstillgångar
 
@@ -532,80 +716,79 @@ motsvarar utgifterna för tillgångens förvärv eller
 tillverkning (anskaffningsvärdet), om inte annat följer av 4,
 5, 6, 12, 13 a, 14 a eller 14 e §.
 
-I anskaffningsvärdet för en förvärvad tillgång ska räknas in,
-utöver inköpspriset, utgifter som är direkt hänförliga till
-förvärvet.
+I anskaffningsvärdet för en förvärvad tillgång ska, utöver
+inköpspriset, utgifter som är direkt hänförliga till
+förvärvet räknas in.
 
-I anskaffningsvärdet för en tillverkad tillgång får räknas in,
-utöver sådana kostnader som direkt kan hänföras till
-produktionen av tillgången, en skälig andel av indirekta
-tillverkningskostnader.
+I anskaffningsvärdet för en tillverkad tillgång får, utöver
+sådana kostnader som direkt kan hänföras till produktionen av
+tillgången, en skälig andel av indirekta
+tillverkningskostnader räknas in.
 
 Ränta på kapital som har lånats för att finansiera
 tillverkningen av en tillgång får räknas in i
-anskaffningsvärdet till den del räntan hänför sig till
-tillverkningsperioden. Om ränta har räknats in i
-anskaffningsvärdet, ska en upplysning om detta lämnas i en
-not.
+anskaffningsvärdet till den del som räntan hänför sig till
+tillverkningsperioden.
 
 Utgifter för värdehöjande förbättringar av en tillgång får
 räknas in i anskaffningsvärdet, om de har lagts ned under
 räkenskapsåret eller balanserats från tidigare år.
-Lag (2011:1554).
+Lag (2015:813).
 
 Avskrivning av anläggningstillgångar
 
-4 § Anläggningstillgångar med begränsad nyttjandeperiod skall
+4 § Anläggningstillgångar med begränsad nyttjandeperiod ska
 skrivas av systematiskt över denna period.
 
-Nyttjandeperioden för en immateriell anläggningstillgång som
-avses i 2 § skall anses uppgå till högst fem år, om inte en
-annan längre tid med rimlig grad av säkerhet kan fastställas.
-Om en sådan längre avskrivningstid tillämpas, skall det i en
-not lämnas upplysning om detta. I noten skall i så fall också
-anges skälen för den längre avskrivningstiden.
+Om nyttjandeperioden för immateriella anläggningstillgångar
+som utgörs av utgifter för företagets eget utvecklingsarbete
+inte kan fastställas med en rimlig grad av säkerhet, ska
+perioden anses uppgå till fem år. Detsamma gäller i fråga om
+goodwill.
 
-Avskrivningar skall redovisas i resultaträkningen. Annan
-redovisning får dock tillämpas, om det finns särskilda skäl och
-är förenligt med 2 kap. 2 och 3 §§. Lag (2004:1173).
+Avskrivningar ska redovisas i resultaträkningen. Annan
+redovisning får dock tillämpas, om det finns särskilda skäl
+för det och det är förenligt med 2 kap. 2 och 3 §§.
+Lag (2015:813).
 
 Nedskrivning av anläggningstillgångar
 
-5 § Har en anläggningstillgång på balansdagen ett lägre värde än det
-värde som följer av 3 § och 4 § första stycket, skall tillgången
-skrivas ned till detta lägre värde, om det kan antas att
-värdenedgången är bestående.
+5 § Har en anläggningstillgång på balansdagen ett lägre värde
+än det värde som följer av 3 § och 4 § första stycket, ska
+tillgången skrivas ned till detta lägre värde, om det kan
+antas att värdenedgången är bestående.
 
-En finansiell anläggningstillgång får skrivas ned till det lägre
-värde som tillgången har på balansdagen även om det inte kan antas
-att värdenedgången är bestående.
+En finansiell anläggningstillgång får skrivas ned till det
+lägre värde som tillgången har på balansdagen även om det
+inte kan antas att värdenedgången är bestående.
 
-En nedskrivning enligt första eller andra stycket skall återföras,
-om det inte längre finns skäl för den.
+En nedskrivning enligt första eller andra stycket ska
+återföras, om det inte längre finns skäl för den.
+Nedskrivningar som avser goodwill får dock inte återföras.
 
-Nedskrivningar och återföringar som avses i första-tredje styckena
-skall redovisas i resultaträkningen.
+Nedskrivningar och återföringar som avses i första–tredje
+styckena ska redovisas i resultaträkningen. Lag (2015:813).
 
 Uppskrivning av anläggningstillgångar
 
 6 § Ett aktiebolags eller en ekonomisk förenings
-anläggningstillgångar som har ett tillförlitligt och bestående
-värde som väsentligt överstiger bokfört värde enligt 3 §, 4 §
-första stycket, 5 § första-tredje styckena och 12 § får skrivas
-upp till högst detta värde. Uppskrivning får dock ske endast om
-uppskrivningsbeloppet används för avsättning till en
-uppskrivningsfond eller, i aktiebolag, för ökning av
-aktiekapitalet genom fondemission eller nyemission.
-
-I samband med uppskrivningar skall det i en not lämnas
-upplysning om hur uppskrivningsbeloppet har behandlats
-skattemässigt.
+anläggningstillgångar som har ett tillförlitligt och
+bestående värde som väsentligt överstiger bokfört värde
+enligt 3 §, 4 § första stycket, 5 § första–tredje styckena
+och 12 § får skrivas upp till högst detta värde. Uppskrivning
+får dock ske endast om uppskrivningsbeloppet används för
+avsättning till en uppskrivningsfond eller, i aktiebolag, för
+ökning av aktiekapitalet genom fondemission eller nyemission.
 
 Avskrivningar och nedskrivningar av den tillgång som har
-skrivits upp skall efter uppskrivningen beräknas med
-utgångspunkt i det uppskrivna värdet. Lag (2004:1173).
+skrivits upp ska efter uppskrivningen beräknas med
+utgångspunkt i det uppskrivna värdet. Lag (2015:813).
 
-7 § Ett aktiebolag får ta uppskrivningsfonden i anspråk för
+Ianspråktagande av uppskrivningsfonden och fonden för
+utvecklingsutgifter
+
+7 § Ett aktiebolag får ta uppskrivningsfonden eller fonden
+för utvecklingsutgifter i anspråk för
 
 1. ökning av aktiekapitalet genom fondemission eller
 nyemission,
@@ -613,32 +796,36 @@ nyemission,
 2. täckning av förlust enligt fastställd balansräkning när
 förlusten inte kan täckas av fritt eget kapital.
 
-Ett beslut att ta uppskrivningsfonden i anspråk för att täcka
-en förlust enligt första stycket 2 får fattas endast efter
-revisorernas hörande. Innan tre år har förflutit från beslutet
-får vinstutdelning beslutas endast om Bolagsverket eller, i
+Ett beslut att ta uppskrivningsfonden eller fonden för
+utvecklingsutgifter i anspråk för att täcka en förlust enligt
+första stycket 2 får fattas endast efter det att revisorerna
+har hörts. Innan tre år har förflutit från beslutet får
+vinstutdelning beslutas endast om Bolagsverket eller, i
 tvistiga fall, allmän domstol ger tillstånd till det eller om
-aktiekapitalet har ökats med minst ett belopp som motsvarar den
-förlust som har blivit täckt med uppskrivningsbelopp. I fråga
-om Bolagsverkets eller domstolens tillstånd gäller 20 kap.
-25-29 §§ aktiebolagslagen (2005:551) i tillämpliga delar.
-Lag (2005:918).
+aktiekapitalet har ökats med minst ett belopp som motsvarar
+den förlust som har blivit täckt med belopp från fonden. I
+fråga om Bolagsverkets eller domstolens tillstånd gäller 20
+kap. 25–29 §§ aktiebolagslagen (2005:551) i tillämpliga
+delar. Lag (2015:813).
 
-8 § Vid avskrivning enligt 4 § eller nedskrivning enligt 5 § eller
-vid avyttring eller utrangering av tillgången skall
-uppskrivningsfonden minskas i motsvarande utsträckning, dock högst
-med den del av uppskrivningsfonden som svarar mot tillgången.
+8 § Vid avskrivning enligt 4 § eller nedskrivning enligt 5 §
+av en uppskriven tillgång eller vid avyttring eller
+utrangering av tillgången ska uppskrivningsfonden minskas i
+motsvarande utsträckning, dock högst med den del av fonden
+som svarar mot tillgången. På samma sätt ska fonden för
+utvecklingsutgifter minskas vid avskrivning, nedskrivning
+eller avyttring av en som tillgång upptagen utgift för
+företagets eget utvecklingsarbete.
 
-Minskningen av uppskrivningsfonden i fall som avses i första stycket
-får göras enbart genom att
+Minskningen får göras enbart genom att
 
 1. fonden tas i anspråk enligt 7 §,
 
-2. den del av uppskrivningsfonden som motsvarar avskrivning eller
+2. den del av fonden som motsvarar avskrivning eller
 nedskrivning överförs till fritt eget kapital, eller
 
-3. den del av uppskrivningsfonden som motsvarar en avyttrad tillgång
-överförs till fritt eget kapital.
+3. den del av fonden som motsvarar en avyttrad tillgång
+överförs till fritt eget kapital. Lag (2015:813).
 
 Värdering av omsättningstillgångar
 
@@ -648,7 +835,7 @@ anskaffningsvärdet och nettoförsäljningsvärdet på balansdagen.
 
 Med anskaffningsvärde förstås, om inte annat följer av 11 §,
 utgifterna för tillgångens förvärv eller tillverkning. Vid
-bestämmandet av anskaffningsvärdet tillämpas 3 § andrafjärde
+bestämmandet av anskaffningsvärdet tillämpas 3 § andra–fjärde
 styckena.
 
 Med nettoförsäljningsvärde avses försäljningsvärdet efter
@@ -678,13 +865,7 @@ Varulagrets anskaffningsvärde
 får beräknas enligt först-in-först-ut-principen, enligt vägda
 genomsnittspriser eller enligt någon annan liknande princip.
 Sist-in-först-ut-principen får inte tillämpas.
-
-Om det värde som framkommer vid en sådan beräkning väsentligt
-avviker från varulagrets nettoförsäljningsvärde på balansdagen,
-skall större företag ange skillnadsbeloppet i en not med
-fördelning på de poster som är upptagna i balansräkningen.
-Nettoförsäljningsvärdet skall därvid beräknas enligt 9 § tredje
-stycket första meningen. Lag (2006:871).
+Lag (2015:813).
 
 Redovisning till bestämd mängd och fast värde
 
@@ -713,9 +894,14 @@ Egna aktier
 
 14 § Egna aktier får inte tas upp som tillgång.
 
-Vid värdering av ett moderföretags andelar i ett dotterföretag
-skall andelar som dotterföretaget äger i moderföretaget inte
-anses ha något värde. Lag (2001:934).
+Vid värdering av ett moderföretags andelar i ett
+dotterföretag ska andelar som dotterföretaget äger i
+moderföretaget inte anses ha något värde.
+
+Vid förvärv av egna aktier ska fritt eget kapital minskas med
+utgiften för förvärvet. Vid överlåtelse av egna aktier ska
+fritt eget kapital ökas med inkomsten från överlåtelsen.
+Lag (2015:813).
 
 Värdering av finansiella instrument
 
@@ -748,34 +934,38 @@ utgör derivatinstrument,
 2. lånefordringar och andra fordringar som härrör från
 företaget och som inte innehas för handelsändamål,
 
-3. andelar i dotterföretag, intresseföretag eller
-samriskföretag,
+3. andelar i dotterföretag, intresseföretag eller gemensamt
+styrda företag,
 
 4. egetkapitalinstrument som företaget självt har gett ut,
 
 5. avtal om villkorad ersättning i samband med förvärv och
 samgåenden,
 
-6. skulder, med undantag för skulder som ingår som en del i en
-handelsportfölj eller som utgör derivatinstrument, samt
+6. skulder, med undantag för skulder som ingår som en del i
+en handelsportfölj eller som utgör derivatinstrument, samt
 
 7. andra finansiella instrument, som är av sådan särskild
 karaktär att de enligt vad som är allmänt accepterat bör
-redovisas på annat sätt. Värdering enligt 14 a § får inte
-heller ske, om en sådan värdering inte skulle ge ett
-tillförlitligt värde på det finansiella instrumentet.
+redovisas på annat sätt.
 
-Företag som avses i 3 kap. 4 a § andra stycket får trots första
-stycket värdera där angivna finansiella instrument enligt
-14 a §, om
+Värdering enligt 14 a § får inte heller ske, om en sådan
+värdering inte skulle ge ett tillförlitligt värde på det
+finansiella instrumentet.
+
+Företag som avses i 3 kap. 4 a § andra stycket får trots
+första stycket värdera där angivna finansiella instrument
+enligt 14 a §, om
 
 1. det är förenligt med sådana internationella
 redovisningsstandarder som avses i Europaparlamentets och
 rådets förordning (EG) nr 1606/2002 av den 19 juli 2002 om
-tillämpning av internationella redovisningsstandarder5, och
+tillämpning av internationella redovisningsstandarder, i
+lydelsen enligt Europaparlamentets och rådets förordning (EU)
+nr 297/2008, och
 
 2. upplysningar om värderingen lämnas i enlighet med dessa
-standarder. Lag (2009:34).
+standarder. Lag (2015:813).
 
 14 c § Vid tillämpningen av 14 a och 14 b §§ skall avtal som
 avser rå- och stapelvaror och ger endera parten rätt att
@@ -838,6 +1028,12 @@ förfaller till betalning. Sådan periodisering behöver dock inte göras
 om den är utan betydelse med hänsyn till kravet i 2 kap. 3 § på
 rättvisande bild.
 
+Avsättningar
+
+15 a § En avsättning ska motsvara den bästa uppskattningen av
+det belopp som kommer att krävas för att reglera
+förpliktelsen. Lag (2015:813).
+
 Omräkning av förlagsinsatser
 
 16 § Om en ekonomisk förening har förlagsinsatser i annan
@@ -847,39 +1043,75 @@ beloppet och motsvarande belopp vid räkenskapsårets ingång,
 skall föras mot Balanserad vinst eller förlust.
 Lag (2000:34).
 
-16 § har upphävts genom lag (1999:1112).
+16 § Har upphävts genom lag (1999:1112).
 
-5 kap. Tilläggsupplysningar
+5 kap. Noter
 
-Tilläggsupplysningarnas placering
+Allmänna bestämmelser
 
-1 § Utöver vad som följer av övriga bestämmelser i denna lag
-skall årsredovisningen innehålla de upplysningar som anges i 2-
-26 §§. Upplysningarna skall lämnas i noter. Om det inte står i
-strid med kravet på överskådlighet i 2 kap. 2 §, får
-upplysningarna i stället lämnas i balansräkningen eller
-resultaträkningen.
+Krav på noter för olika kategorier av företag
 
-Lämnas upplysningarna i noter, skall hänvisning göras vid de
-poster i balansräkningen eller resultaträkningen till vilka de
-hänför sig. Lag (1999:1112).
+1 § Mindre och större företag ska i noter lämna upplysningar
+enligt 4–24 §§.
 
-Värderings- och omräkningsprinciper
+Ytterligare bestämmelser för mindre och större företag om
+upplysningar i noter finns i 2 kap. 3 §, 3 kap. 4, 10 a och
+10 b §§ och 7 kap. 2 §.
 
-2 § Principerna för värdering av tillgångar, avsättningar eller
-skulder skall anges.
+Bestämmelser för mindre företag om upplysningar i noter finns
+dessutom i 3 kap. 5 §. Lag (2015:813).
 
-För poster i årsredovisningen som avser tillgångar,
-avsättningar eller skulder i annan valuta än
-redovisningsvalutan skall det anges enligt vilka principer
-beloppen har räknats om till redovisningsvalutan.
-Lag (2000:34).
+2 § Större företag ska i noter även lämna upplysningar enligt
+25–48 §§.
+
+Ytterligare bestämmelser för större företag om upplysningar i
+noter finns i 3 kap. 8 och 10 §§. Lag (2015:813).
+
+Noternas ordningsföljd
+
+3 § Om inte något annat följer av kravet i 2 kap. 2 § på
+överskådlighet, ska noter som avser enskilda poster i
+balansräkningen eller resultaträkningen läggas fram i samma
+ordning som posterna. Hänvisning ska göras vid de poster som
+noterna hänför sig till. Lag (2015:813).
+
+Krav på noter för mindre och större företag
+
+Värderingsprinciper
+
+4 § Principerna för värdering av tillgångar, avsättningar och
+skulder ska anges. Lag (2015:813).
+
+Avvikelser från grundläggande redovisningsprinciper
+
+5 § Om ett företag med stöd av 2 kap. 4 § andra stycket
+avviker från någon av de grundläggande redovisningsprinciper
+som anges i paragrafen, ska det lämna en upplysning om skälen
+för avvikelsen och en bedömning av effekten på företagets
+ställning och resultat.
+
+Består avvikelsen i att kvittning görs, ska företaget även
+lämna en upplysning om de bruttobelopp som kvittas mot
+varandra. Lag (2015:813).
+
+Byte av uppställningsform
+
+6 § Om ett företag med stöd av 3 kap. 3 § andra stycket har
+bytt uppställningsform för resultaträkningen, ska det lämna
+en upplysning om skälen för bytet. Lag (2015:813).
+
+Jämförelsetal
+
+7 § Om ett företag med stöd av 3 kap. 5 § tredje stycket
+avviker från det som sägs i den paragrafen om jämförelsetal,
+ska det lämna en upplysning om skälen för avvikelsen.
+Lag (2015:813).
 
 Anläggningstillgångar
 
-3 § För varje post som tas upp som anläggningstillgång i
+8 § För varje post som tas upp som anläggningstillgång i
 balansräkningen eller i sådana noter som avses i 3 kap. 4 §
-fjärde stycket 2 ska uppgift lämnas om
+fjärde stycket 2 ska upplysningar lämnas om
 
 1. tillgångarnas anskaffningsvärde,
 
@@ -889,554 +1121,571 @@ fjärde stycket 2 ska uppgift lämnas om
 
 4. årets avskrivningar enligt 4 kap. 4 §,
 
-5. årets nedskrivningar, med särskild uppgift om nedskrivningar
-som har gjorts med stöd av 4 kap. 5 § andra stycket,
-
-6. årets uppskrivningar, med särskild uppgift om
-uppskrivningsbeloppets användning och oavskrivet
-uppskrivningsbelopp,
-
-7. ackumulerade avskrivningar enligt 4 kap. 4 §,
-
-8. ackumulerade nedskrivningar, med särskild uppgift om
+5. årets nedskrivningar, med särskild uppgift om
 nedskrivningar som har gjorts med stöd av 4 kap. 5 § andra
 stycket,
 
-9. ackumulerade uppskrivningar, och
-
-10. korrigeringar av tidigare års avskrivningar enligt 4 kap.
-4 §, nedskrivningar och uppskrivningar.
+6. årets uppskrivningar, med särskild upplysning om
+uppskrivningsbeloppets användning och hur mycket av det som
+kvarstår oavskrivet.
 
 Grunderna för avskrivning av anläggningstillgångarnas olika
-poster ska anges.
+poster ska anges. Lag (2015:813).
 
-Till den del en tillgång skrivits av eller skrivits ned
-uteslutande av skatteskäl, ska en upplysning lämnas om detta
-med angivande av avskrivningens eller nedskrivningens storlek.
+Goodwill
 
-Första stycket 7-10 gäller inte mindre företag.
-
-För mindre företag som slår samman poster enligt 3 kap. 4 §
-femte stycket ska det som föreskrivs i första och andra
-styckena om anläggningstillgångarnas poster i balansräkningen i
-stället avse de sammanslagna posterna. Lag (2010:1515).
-
-4 § Har upphävts genom lag (2010:1515).
+9 § Om ett företag redovisar goodwill som tillgång, ska det
+lämna upplysningar om tillämpad avskrivningsperiod och skälen
+för denna. Lag (2015:813).
 
 Finansiella instrument
 
-4 a § Om finansiella instrument värderas enligt 4 kap. 14 a §,
-gäller följande.
-
-För varje kategori av finansiella instrument skall upplysningar
-lämnas om
+10 § Om ett företag har finansiella instrument som värderas
+enligt 4 kap. 14 a §, ska det för varje kategori lämna
+upplysningar om
 
 1. bokfört värde, och
 
-2. i vilken utsträckning förekommande värdeförändringar har
-redovisats i resultaträkningen eller i fonden för verkligt
-värde.
+2. de värdeförändringar som har redovisats i
+resultaträkningen respektive fonden för verkligt värde.
 
-För varje kategori av derivatinstrument skall upplysningar även
-lämnas om
+För varje kategori av derivatinstrument som värderas enligt 4
+kap. 14 a § ska upplysningar även lämnas om
 
 1. omfattningen och typen av instrument, och
 
-2. viktiga villkor som kan påverka storleken av, tidpunkten för
-eller säkerheten i framtida kassaflöden.
+2. viktiga villkor som kan påverka storleken av, tidpunkten
+för eller säkerheten i framtida kassaflöden.
 
 Om värderingen har gjorts enligt 4 kap. 14 a § andra stycket
-tredje meningen, skall väsentliga antaganden som har gjorts vid
+tredje meningen, ska väsentliga antaganden som har gjorts vid
 tillämpningen av de använda värderingsmodellerna och
-värderingsmetoderna anges. Lag (2003:774).
+värderingsmetoderna anges.
 
-4 b § Om finansiella instrument inte värderas enligt 4 kap.
-14 a §, gäller följande.
+Paragrafen tillämpas även på sådana avtal som enligt 4 kap.
+14 c § ska anses som derivatinstrument. Lag (2015:813).
 
-För varje kategori av derivatinstrument skall större företag
-lämna upplysningar om
+Uppskrivningsfond
 
-1. det värde till vilket instrumenten skulle ha värderats vid
-en tillämpning av 4 kap. 14 a §, och
+11 § Om storleken eller sammansättningen av
+uppskrivningsfonden har ändrats under räkenskapsåret, ska
+företaget i en sammanställning lämna upplysningar om
 
-2. omfattningen och typen av instrument.
+1. fondens storlek vid räkenskapsårets början och slut,
 
-I fråga om finansiella anläggningstillgångar som enligt 4 kap.
-14 a-14 c §§ får värderas till verkligt värde och vilkas
-bokförda värde är högre än det verkliga värdet skall
-upplysningar lämnas om
+2. belopp som har satts av till fonden under räkenskapsåret
+och hur dessa har behandlats skattemässigt,
 
-1. bokfört värde och det verkliga värdet, och
+3. belopp som har överförts från fonden eller på annat sätt
+har tagits i anspråk, med uppgift om hur beloppet har
+använts, och
 
-2. skälen till att det bokförda värdet inte har skrivits ner
-och det stöd som finns för antagandet att det bokförda värdet
-kommer att återvinnas. Lag (2007:132).
+4. det värde som skulle ha redovisats i balansräkningen om
+anläggningstillgångarna inte hade skrivits upp.
+Lag (2015:813).
 
-4 c § Föreskrifterna i 4 a § och 4 b § skall även tillämpas på
-sådana avtal som enligt 4 kap. 14 c § skall anses som
-derivatinstrument. Lag (2003:774).
+Fond för verkligt värde
 
-Uppskrivningsfond och fond för verkligt värde
-
-5 § Om storleken eller sammansättningen av uppskrivningsfonden
-eller fonden för verkligt värde har ändrats under
-räkenskapsåret, skall uppgift lämnas om
+12 § Om storleken eller sammansättningen av fonden för
+verkligt värde har ändrats under räkenskapsåret, ska
+företaget i en sammanställning lämna upplysningar om
 
 1. fondens storlek vid räkenskapsårets början och slut,
 
 2. belopp som har satts av till fonden under räkenskapsåret,
 och
 
-3. belopp som har överförts från fonden eller på annat sätt har
-tagits i anspråk med uppgift om hur beloppet har använts.
-Lag (2003:774).
+3. belopp som har överförts från fonden eller på annat sätt
+har tagits i anspråk, med uppgift om hur beloppet har
+använts. Lag (2015:813).
 
-Nettoomsättningens fördelning
+Långfristiga skulder
 
-6 § Större företag skall, om företagets verksamhetsgrenar eller
-geografiska marknader avviker betydligt från varandra, lämna
-uppgift om nettoomsättningens fördelning på verksamhetsgrenarna
-och marknaderna. Bedömningen av om företagets verksamhetsgrenar
-och marknader avviker betydligt från varandra skall göras med
-hänsyn till hur företaget normalt organiserar försäljningen av
-varor och tjänster. Lag (2006:871).
-
-Inköp och försäljning mellan koncernföretag
-
-7 § Moderföretag och dotterföretag skall ange hur stor del av
-räkenskapsårets inköp och försäljningar som avser andra
-koncernföretag.
-
-Moderföretag som med stöd av bestämmelserna i 7 kap. 3 § inte
-upprättar någon koncernredovisning, skall lämna upplysningar om
-internvinster på transaktioner inom koncernen. Lag (1999:1112).
-
-Uppgifter om dotterföretag och vissa andra företag
-
-8 § Om företaget äger eller i fall som anges i 1 kap. 6 §
-innehar andelar i ett dotterföretag eller ett intresseföretag,
-skall det lämna uppgift om:
-
-1. det andra företagets namn, organisationsnummer, säte och
-eget kapital,
-
-2. det andra företagets resultat för det senaste räkenskapsår
-för vilket årsredovisning eller årsbokslut har upprättats,
-
-3. företagets kapitalandel i det andra företaget, beräknad med
-tillämpning av 1 kap. 6 §, och
-
-4. antalet andelar som företaget äger och dessas värde enligt
-företagets balansräkning.
-
-Första stycket gäller också om företaget äger eller i fall som
-anges i 1 kap. 6 § innehar en kapitalandel på minst tjugo
-procent i ett annat företag.
-
-Ett företag som är obegränsat ansvarig delägare i ett annat
-företag skall ange detta företags namn, organisationsnummer,
-säte och rättsliga form.
-
-Om det redovisningsskyldiga företagets rösträttsandel i sådana
-företag som avses i första och andra styckena avviker från
-kapitalandelen, skall även rösträttsandelen anges.
-Lag (1999:1112).
-
-9 § En uppgift enligt 8 § får utelämnas, om den är av ringa
-betydelse med hänsyn till kravet på rättvisande bild i 2 kap. 3 §.
-
-Under förutsättning att tillstånd ges av Bolagsverket, får uppgift
-enligt 8 § också utelämnas, om den har sådan karaktär att den kan
-vålla allvarlig skada för något av de i 8 § angivna företagen.
-
-Om en uppgift har utelämnats enligt första eller andra stycket,
-skall upplysning lämnas om detta.
-
-Uppgift om eget kapital och resultat får också utelämnas, om
-
-1. företaget äger andelar som motsvarar mindre än hälften av
-det andra företagets eget kapital och det företaget inte
-offentliggör sin balansräkning, eller
-
-2. dotterföretaget eller intresseföretaget omfattas av en av
-företaget upprättad koncernredovisning eller av en sådan
-koncernredovisning som avses i 7 kap. 2 § första stycket.
-Lag (2004:244).
-
-Kortfristiga och långfristiga balansposter
-
-10 § För varje fordringspost i balansräkningen som är upptagen
-under Omsättningstillgångar eller i sådana noter som avses i 3
-kap. 4 § fjärde stycket 2, ska anges den del som förfaller till
-betalning senare än ett år efter balansdagen.
-
-För varje skuldpost i balansräkningen eller i sådana noter som
-avses i 3 kap. 4 § fjärde stycket 2, ska anges den del som
-förfaller till betalning senare än ett år efter balansdagen,
-samt den del som förfaller till betalning senare än fem år
-efter balansdagen.
-
-För mindre företag som slår samman poster enligt 3 kap. 4 §
-femte stycket ska det som föreskrivs i första och andra
-styckena om fordringsposter och skuldposter i balansräkningen i
-stället avse de sammanslagna posterna. Lag (2010:1515).
+13 § Om ett företag har skulder som ska betalas senare än fem
+år efter balansdagen, ska det lämna en upplysning om summan
+av dessa. Lag (2015:813).
 
 Ställda säkerheter
 
-11 § För varje skuldpost i balansräkningen eller i sådana noter
-som avses i 3 kap. 4 § fjärde stycket 2 ska, om säkerhet har
-ställts, omfattningen av säkerheterna anges med uppgift om
-deras art och form.
+14 § Om ett företag har ställt säkerheter, ska det lämna
+upplysningar om säkerheternas omfattning, art och form.
+Lag (2015:813).
 
-Om företaget har ställt säkerhet eller ingått
-ansvarsförbindelse till förmån för koncernföretag, ska en
-särskild upplysning lämnas om detta.
+Eventualförpliktelser
 
-För mindre företag som slår samman poster enligt 3 kap. 4 §
-femte stycket ska, i stället för vad som föreskrivs i första
-stycket, anges omfattningen av ställda säkerheter för den
-sammanslagna posten med uppgift om deras art och form.
-Lag (2010:1515).
+15 § Om ett företag har garantiåtaganden, ekonomiska
+åtaganden eller eventuella förpliktelser som inte tas upp i
+balansräkningen (eventualförpliktelser), ska det lämna en
+upplysning om summan av dessa. Lag (2015:813).
+
+Åtaganden till förmån för koncernföretag m.fl.
+
+16 § Om ett företag har ställda säkerheter, garantiåtaganden
+eller ekonomiska åtaganden till förmån för ett
+koncernföretag, ett intresseföretag eller ett gemensamt styrt
+företag som företaget samäger, ska det lämna särskilda
+upplysningar om detta. Lag (2015:813).
 
 Ekonomiska arrangemang som inte redovisas i balansräkningen
 
-11 a § Om företaget har ekonomiska arrangemang som inte
-redovisas i balansräkningen och riskerna eller fördelarna med
-arrangemangen är betydande ska, när uppgifter om dessa risker
-eller fördelar är nödvändiga för att bedöma företagets
-ställning, uppgift lämnas om
+17 § Om ett företag har ekonomiska arrangemang som inte
+redovisas i balansräkningen och som är förenade med betydande
+risker eller fördelar för företaget, och uppgifter om dessa
+risker eller fördelar är nödvändiga för att företagets
+ställning ska kunna bedömas, ska företaget lämna upplysningar
+om
 
 1. inriktningen på och det kommersiella syftet med
 arrangemangen, och
 
-2. den ekonomiska inverkan arrangemangen har på företaget.
+2. den ekonomiska inverkan som arrangemangen har på
+företaget.
 
-Första stycket 2 gäller inte mindre företag. Lag (2009:34).
+Första stycket 2 gäller inte mindre företag.
+Lag (2015:813).
 
 Lån till ledande befattningshavare
 
-12 § Om ett företag har lämnat lån till en styrelseledamot, en
-verkställande direktör eller en motsvarande befattningshavare i
-företaget eller i ett annat koncernföretag, skall upplysning
-lämnas om detta. Detsamma gäller om företaget har ställt pant
-eller annan säkerhet eller har ingått ansvarsförbindelse till
-förmån för en sådan befattningshavare. Med styrelseledamöter
-jämställs suppleanter för dessa och med verkställande direktör
+18 § Om ett företag har lämnat lån till en styrelseledamot,
+en verkställande direktör eller en motsvarande
+befattningshavare i företaget, ska det lämna de upplysningar
+om lånet som anges i andra stycket. Detsamma gäller om
+företaget har ställt panter, andra säkerheter eller garantier
+eller har gjort andra ekonomiska åtaganden till förmån för en
+sådan befattningshavare. Med styrelseledamöter jämställs
+suppleanter för dessa och med verkställande direktör
 jämställs vice verkställande direktör.
 
-Uppgift skall lämnas om storleken av lämnade lån, huvudsakliga
-lånevillkor, räntesatser, under räkenskapsåret återbetalda
-belopp, arten av ställda säkerheter och ingångna
-ansvarsförbindelser samt beloppet av de lån för vilka säkerhet
-ställts. Uppgift skall även lämnas om vilken anknytning till
-företaget den har som företaget har lämnat lån till, ställt
-säkerhet för eller ingått ansvarsförbindelse till förmån för.
+Upplysningar ska lämnas om storleken av lämnade lån,
+huvudsakliga lånevillkor, räntesatser, under räkenskapsåret
+återbetalda belopp, arten av säkerheter, garantier och andra
+ekonomiska åtaganden samt beloppet av de lån som säkerhet har
+ställts för. Upplysning ska även lämnas om vilken anknytning
+till företaget befattningshavaren har. Om företaget under
+räkenskapsåret helt eller delvis har skrivit av ett lån eller
+avstått från att kräva in det, ska en upplysning lämnas om
+detta. Lag (2015:813).
 
-Andra stycket tillämpas också, om ett aktiebolag har lämnat lån
-till eller ställt säkerhet till förmån för någon annan med stöd
-av tillstånd enligt 21 kap. 8 § aktiebolagslagen (2005:551).
-Lag (2005:918).
+Exceptionella intäkter och kostnader
+
+19 § Om ett företag har haft intäkter eller kostnader som är
+exceptionella i fråga om storlek eller förekomst, ska det
+lämna upplysningar om arten och storleken av varje sådan
+intäkt eller kostnad. Lag (2015:813).
+
+Medelantalet anställda under räkenskapsåret
+
+20 § En upplysning ska lämnas om medelantalet av de personer
+som har varit anställda under räkenskapsåret. Lag (2015:813).
+
+Moderföretag
+
+21 § Ett företag som är dotterföretag ska lämna upplysningar
+om namn, organisations- eller personnummer och säte för det
+moderföretag som upprättar koncernredovisning för den minsta
+koncern som företaget ingår i. Lag (2015:813).
+
+Väsentliga händelser efter räkenskapsårets slut
+
+22 § Om det har inträffat händelser av väsentlig betydelse
+för företaget efter räkenskapsårets slut som inte kommer till
+uttryck i balansräkningen eller resultaträkningen, ska
+företaget lämna upplysningar om dessa. Upplysningarna ska
+omfatta arten och den ekonomiska effekten av händelserna.
+Lag (2015:813).
 
 Transaktioner med närstående
 
-12 a § Större företag ska lämna upplysningar om betydande
-transaktioner som på andra än marknadsmässiga villkor har
-genomförts med
-
-1. ett företag i samma koncern eller i en företagsgrupp av
-motsvarande slag,
-
-2. en juridisk person över vilken företaget utövar ett
-bestämmande inflytande eller som utövar ett bestämmande
-inflytande över företaget utan att det är fråga om en koncern
-eller en företagsgrupp av motsvarande slag,
-
-3. ett intresseföretag till företaget eller en juridisk person
-som företaget är ett intresseföretag till,
-
-4. en juridisk person över vilken företaget utövar ett
-betydande inflytande när det gäller den driftsmässiga och
-finansiella styrningen eller som utövar ett sådant inflytande
-över företaget utan att den juridiska personen eller företaget
-är intresseföretag till den andra,
-
-5. en juridisk person som verkar i enlighet med en
-överenskommelse mellan företaget och en eller flera andra
-parter om att gemensamt bedriva ekonomisk verksamhet och att
-gemensamt utöva ett bestämmande inflytande över denna
-verksamhet,
-
-6. en fysisk person som utövar ett betydande inflytande över
-företaget,
-
-7. en styrelseledamot, verkställande direktör eller någon annan
-ledande befattningshavare i företaget eller dess moderföretag
-eller i ett motsvarande utländskt rättssubjekt,
-
-8. den som är gift eller sambo med eller förälder, barn eller
-styvbarn till en person som avses i 6 eller 7,
-
-9. annan person som ingår i samma familj som en person som
-avses i 6 eller 7 och som kan förväntas påverka den senare
-personen i hans eller hennes kontakter med företaget eller som
-kan förväntas påverkas av en person som avses i 6 eller 7 i
-sina egna kontakter med företaget,
-
-10. en person som är ekonomiskt eller på annat sätt beroende av
-en person som avses i 6 eller 7 eller dennes make eller sambo,
-
-11. en juridisk person över vilken en person som avses i 6, 7,
-8, 9 eller 10 har ett betydande inflytande, eller
-
-12. en juridisk person vars huvudsakliga verksamhet är att
-förvalta tillgångar som företaget har avsatt för ersättningar
-till personer som avslutat sin anställning i företaget eller i
-en sådan juridisk person som avses i 1, 2, 3, 4, 5 eller 11.
-
-Publika aktiebolag som är mindre företag ska lämna upplysningar
-om sådana transaktioner som avses i första stycket, om
-transaktionen har ingåtts med
-
-1. en aktieägare med ett betydande aktieinnehav i bolaget,
-eller
-
-2. en styrelseledamot i bolaget.
-
-Upplysningar enligt denna paragraf behöver inte lämnas om
-transaktioner som har ingåtts
+23 § Om ett större företag har genomfört transaktioner på
+andra än marknadsmässiga villkor med närstående enligt 1 kap.
+8 eller 9 §, ska det lämna upplysningar om transaktionerna.
+Upplysningar behöver dock inte lämnas om transaktioner
 
 1. mellan ett moderföretag och dess helägda dotterföretag,
 eller
 
 2. mellan två eller flera dotterföretag, om samtliga aktier
 eller andelar ägs av andra företag inom samma koncern.
-Lag (2009:34).
 
-12 b § Upplysningar enligt 12 a § ska omfatta
+Skyldigheten att lämna upplysningar gäller även ett mindre
+företag, om det är ett publikt aktiebolag och transaktionerna
+har genomförts med någon som har ett betydande aktieinnehav
+eller är styrelseledamot i bolaget. Lag (2015:813).
+
+24 § Upplysningarna enligt 23 § ska omfatta
 
 1. uppgift om transaktionernas art och det totala belopp som
 transaktionerna omfattar,
 
-2. uppgift om vilket slags närståendeförhållande som
-föreligger, och
+2. uppgift om vilket slag av närståendeförhållande som det är
+fråga om, och
 
-3. andra uppgifter om transaktionerna som är nödvändiga för att
-bedöma företagets ställning.
+3. andra uppgifter om transaktionerna som är nödvändiga för
+att bedöma företagets ställning.
 
 Uppgifter om flera transaktioner får lämnas i samlad form, om
-de avser samma typ av transaktioner och uppgift om de enskilda
-transaktionerna inte är nödvändig för att bedöma vilken
-inverkan de har på företagets ställning. Lag (2009:34).
+de avser samma typ av transaktioner och uppgifter om de
+enskilda transaktionerna inte är nödvändiga för att bedöma
+vilken inverkan de har på företagets ställning.
+Lag (2015:813).
+
+Särskilda krav på noter för större företag
+
+Ytterligare upplysningar om anläggningstillgångar
+
+25 § Om ett större företag har räknat in ränta i
+anskaffningsvärdet för en anläggningstillgång med stöd av 4
+kap. 3 § fjärde stycket, ska företaget lämna en upplysning om
+det inräknade beloppet.
+
+Större företag ska för varje post som tas upp som
+anläggningstillgång i balansräkningen eller i sådana noter
+som avses i 3 kap. 4 § fjärde stycket 2 lämna upplysningar om
+
+1. ackumulerade avskrivningar enligt 4 kap. 4 §,
+
+2. ackumulerade nedskrivningar, med särskild uppgift om
+nedskrivningar som har gjorts med stöd av 4 kap. 5 § andra
+stycket,
+
+3. ackumulerade uppskrivningar, och
+
+4. korrigeringar av tidigare års avskrivningar enligt 4 kap.
+4 §, nedskrivningar och uppskrivningar.
+
+Om ett större företag har skrivit av, skrivit ned eller
+skrivit upp en anläggningstillgång uteslutande av skatteskäl,
+ska företaget lämna en upplysning om detta med angivande av
+avskrivningens, nedskrivningens eller uppskrivningens
+storlek. Lag (2015:813).
+
+Omsättningstillgångar
+
+26 § Om ett större företag har räknat in ränta i
+anskaffningsvärdet för en omsättningstillgång med stöd av 4
+kap. 9 § andra stycket, ska företaget lämna en upplysning om
+det inräknade beloppet.
+
+Om en omsättningstillgång varit föremål för en värdejustering
+uteslutande av skatteskäl, ska ett större företag lämna en
+upplysning om detta med angivande av justeringens storlek.
+
+Om det värde som framkommer när ett större företag beräknar
+varulagrets anskaffningsvärde enligt 4 kap. 11 § avviker
+väsentligt från varulagrets nettoförsäljningsvärde på
+balansdagen, ska företaget lämna en upplysning om
+skillnadsbeloppet. Nettoförsäljningsvärdet ska då beräknas
+enligt 4 kap. 9 § tredje stycket första meningen.
+Skillnadsbeloppet ska fördelas på de poster som är upptagna i
+balansräkningen. Lag (2015:813).
+
+Ytterligare upplysningar om finansiella instrument
+
+27 § Större företag ska för varje kategori av
+derivatinstrument som inte värderas enligt 4 kap. 14 a §
+lämna upplysningar om
+
+1. det värde instrumenten skulle ha värderats till vid en
+tillämpning av 4 kap. 14 a §, och
+
+2. omfattningen och typen av instrument.
+
+I fråga om finansiella anläggningstillgångar som enligt 4
+kap. 14 a–14 c §§ får värderas till verkligt värde, och
+vilkas bokförda värde är högre än det verkliga värdet, ska
+större företag lämna upplysningar om
+
+1. bokfört värde och det verkliga värdet, och
+
+2. skälen till att det bokförda värdet inte har skrivits ned
+och det stöd som finns för antagandet att det bokförda värdet
+kommer att återvinnas.
+
+Första och andra stycket ska även tillämpas på sådana avtal
+som enligt 4 kap. 14 c § ska anses som derivatinstrument.
+Lag (2015:813).
+
+Inköp och försäljningar mellan koncernföretag
+
+28 § Om ett större företag ingår i en koncern, ska det lämna
+en upplysning om hur stor del av räkenskapsårets inköp och
+försäljningar som avser andra koncernföretag.
+
+Moderföretag som är större företag och som med stöd av 7 kap.
+3 § inte upprättar någon koncernredovisning ska lämna
+upplysningar om internvinster på transaktioner inom
+koncernen. Lag (2015:813).
+
+Dotterföretag och vissa andra företag
+
+29 § Om ett större företag har dotterföretag eller
+ägarintressen i andra företag, ska det lämna upplysningar
+om
+
+1. det andra företagets namn, organisationsnummer, säte
+och eget kapital,
+
+2. det andra företagets resultat för det senaste räkenskapsår
+som årsredovisning eller årsbokslut har upprättats för,
+
+3. företagets ägarandel i det andra företaget, och
+
+4. antalet andelar som företaget äger och deras värde enligt
+företagets balansräkning.
+
+Ett större företag som är obegränsat ansvarig delägare i ett
+annat företag ska ange detta företags namn,
+organisationsnummer, säte och rättsliga form.
+
+Om företagets rösträttsandel i det andra företaget avviker
+från ägarandelen, ska även rösträttsandelen anges.
+Lag (2015:813).
+
+30 § En upplysning enligt 29 § får utelämnas, om
+
+1. den skulle kunna vålla allvarlig skada för något av de i
+29 § angivna företagen,
+
+2. Bolagsverket medger att den utelämnas, och
+
+3. noterna innehåller information om utelämnandet.
+
+Upplysningarna om eget kapital och resultat får också
+utelämnas, om
+
+1. det andra företaget inte offentliggör sin balansräkning
+och inte utgör ett dotterföretag till företaget, eller
+
+2. det andra företaget omfattas av en koncernredovisning som
+företaget upprättat eller av en sådan koncernredovisning som
+avses i 7 kap. 2 § första stycket. Lag (2015:813).
+
+Ytterligare upplysningar om långfristiga skulder
+
+31 § Större företag ska för varje skuldpost i balansräkningen
+eller i sådana noter som avses i 3 kap. 4 § fjärde stycket 2
+lämna en upplysning om den del av skulden som ska betalas
+senare än fem år efter balansdagen. Lag (2015:813).
+
+Ytterligare upplysningar om lån till ledande
+befattningshavare
+
+32 § Större företag ska lämna sådana upplysningar som anges i
+18 § andra stycket om
+
+1. lån som har lämnats till en styrelseledamot, en
+verkställande direktör eller en motsvarande befattningshavare
+i ett annat koncernföretag,
+
+2. panter, andra säkerheter eller garantiåtaganden som har
+ställts eller andra ekonomiska åtaganden som har gjorts till
+förmån för en sådan befattningshavare, och
+
+3. lån till eller säkerhet som har ställts till förmån för
+någon annan med stöd av tillstånd enligt 21 kap. 8 §
+aktiebolagslagen (2005:551). Lag (2015:813).
 
 Konvertibla lån
 
-13 § Om företaget har utelöpande lån som är konvertibla eller
-förenade med optionsrätt till nyteckning, skall för varje lån
-eller liknande rättighet anges utestående lånebelopp samt tid
-och villkor för utbyte eller för nyteckning. För varje lån mot
-vinstandelsbevis skall utestående lånebelopp och
-räntebestämmelserna anges. Lag (1999:1112).
+33 § Om ett större företag har utelöpande lån som är
+konvertibla eller förenade med optionsrätt till nyteckning
+eller har gett ut liknande värdepapper, ska företaget för
+varje lån eller liknande rättighet lämna en upplysning om
+utestående lånebelopp samt tid och villkor för utbyte eller
+nyteckning. För varje lån mot vinstandelsbevis ska det
+utestående lånebeloppet och räntebestämmelserna anges.
+Lag (2015:813).
 
-Aktiebolags eget kapital
+Aktiekapitalet
 
-14 § Ett aktiebolags eget kapital skall delas upp i bundet eget
-kapital och fritt eget kapital eller ansamlad förlust. Under
-bundet eget kapital skall tas upp aktiekapital,
-uppskrivningsfond, reservfond och kapitalandelsfond. Under
-fritt eget kapital eller ansamlad förlust skall tas upp fria
-fonder, var för sig, balanserad vinst eller förlust samt vinst
-eller förlust för räkenskapsåret. Balanserad förlust och
-förlust för räkenskapsåret tas därvid upp som avdragsposter.
+34 § Aktiebolag som är större företag ska lämna en upplysning
+om antalet aktier och aktiernas kvotvärde. Om aktiekapitalet
+består av aktier av olika slag, ska motsvarande upplysning
+lämnas för varje aktieslag. Lag (2015:813).
 
-Förändringar i eget kapital jämfört med föregående års
-balansräkning skall specificeras. Vid förvärv av egna aktier
-skall fritt eget kapital minskas med utgiften för förvärvet.
-Vid överlåtelse av egna aktier skall fritt eget kapital ökas
-med inkomsten från överlåtelsen.
+Disposition av vinst eller förlust
 
+35 § Större företag ska lämna en upplysning om förslaget till
+disposition av företagets vinst eller förlust eller, i
+förekommande fall, beslut om dispositionen. Lag (2015:813).
 
-Vid aktiekapitalet skall antalet aktier anges. Består
-aktiekapitalet av aktier av olika slag, skall motsvarande
-uppgift lämnas för varje aktieslag. Lag (2005:556).
+Skatter
 
-Ekonomisk förenings eget kapital
+36 § Om ett större företag i balansräkningen har tagit upp en
+fordrings- eller skuldpost avseende uppskjuten skatt, ska det
+lämna en upplysning om beloppet av den uppskjutna skatten och
+om förändringar i detta belopp sedan föregående balansdag.
+Lag (2015:813).
 
-15 § En ekonomisk förenings eget kapital skall delas upp i
-bundet eget kapital och fritt eget kapital eller ansamlad
-förlust. Under bundet eget kapital skall tas upp inbetalda
-eller genom insatsemission tillgodoförda insatser,
-uppskrivningsfond, reservfond och kapitalandelsfond.
-Medlemsinsatser och förlagsinsatser skall redovisas var för
-sig. Under fritt eget kapital eller ansamlad förlust skall tas
-upp fria fonder, var för sig, balanserad vinst eller förlust
-samt nettovinst eller förlust för räkenskapsåret. Balanserad
-förlust och förlust för räkenskapsåret tas därvid upp som
-avdragsposter.
+Ytterligare upplysningar om anställda
 
-Förändringar i eget kapital jämfört med föregående års
-balansräkning skall specificeras.
+37 § Större företag ska lämna upplysningar om
 
-Vad som sägs i första stycket om insats gäller också
-upplåtelseavgift i en bostadsrättsförening. Lag (2004:1173).
+1. andelen kvinnor och andelen män av medelantalet anställda
+under räkenskapsåret, och
 
-Upplysningar om skatter
-
-16 § Större företag skall lämna uppgift om skillnaden mellan å
-ena sidan den inkomstskatt som har redovisats i
-resultaträkningen under räkenskapsåret och tidigare
-räkenskapsår samt å andra sidan den inkomstskatt som belöper
-sig på verksamheten för dessa år. Uppgift behöver dock inte
-lämnas om skillnaden är obetydlig. Lag (2006:871).
-
-17 § Större företag skall lämna uppgift om hur den för
-räkenskapsåret redovisade inkomstskatten fördelar sig på
-ordinärt och extraordinärt resultat. Lag (2006:871).
-
-Medelantalet anställda under räkenskapsåret
-
-18 § Uppgift skall lämnas om medelantalet under räkenskapsåret
-anställda personer med uppgift om fördelningen mellan kvinnor
-och män. Om företaget har anställda i flera länder, skall
-medelantalet anställda och fördelningen mellan kvinnor och män
-i varje land anges. Lag (1999:1112).
-
-18 a § Har upphävts genom lag (2010:1515).
+2. medelantalet anställda och fördelningen mellan kvinnor och
+män i varje land, om företaget har anställda i flera
+länder. Lag (2015:813).
 
 Könsfördelningen bland ledande befattningshavare
 
-18 b § Uppgift skall lämnas om fördelningen mellan kvinnor och
-män bland styrelseledamöter, verkställande direktör och andra
-personer i företagets ledning. Fördelningen bland
-styrelseledamöter och bland övriga befattningshavare skall
-redovisas var för sig. Uppgifterna skall avse förhållandena på
-balansdagen.
-
-Det som sägs i första stycket gäller inte företag i vilka
-medelantalet anställda under vart och ett av de två senaste
-räkenskapsåren har uppgått till högst tio. Lag (2006:871).
+38 § Större företag ska lämna upplysningar om fördelningen
+mellan kvinnor och män bland styrelseledamöter, verkställande
+direktör och andra personer i företagets ledning.
+Fördelningen bland styrelseledamöter och bland övriga
+befattningshavare ska redovisas var för sig. Upplysningarna
+ska avse förhållandena på balansdagen. Lag (2015:813).
 
 Löner, andra ersättningar och sociala kostnader
 
-19 § Av räkenskapsårets personalkostnader skall följande belopp
-anges särskilt:
+39 § Större företag ska lämna upplysningar om storleken av
+följande personalkostnader för räkenskapsåret:
 
 1. löner och andra ersättningar, och
 
-2. sociala kostnader, med särskild uppgift om pensionskostnader.
-Lag (1999:1112).
+2. sociala kostnader, med särskild uppgift om
+pensionskostnader. Lag (2015:813).
 
-20 § Större företag och sådana mindre företag som är publika
-aktiebolag ska ange det sammanlagda beloppet av räkenskapsårets
-löner och andra ersättningar för var och en av följande
-grupper:
+40 § Större företag ska lämna upplysningar om det sammanlagda
+beloppet av räkenskapsårets löner och andra ersättningar för
+var och en av följande grupper:
 
-1. styrelseledamöter, verkställande direktören och motsvarande
+1. styrelseledamöter, verkställande direktör och motsvarande
 befattningshavare, och
 
 2. anställda som inte omfattas av 1.
 
-Tantiem och därmed jämställd ersättning till styrelseledamöter,
-verkställande direktören och motsvarande befattningshavare ska
-anges särskilt.
+Tantiem och därmed jämställd ersättning till
+styrelseledamöter, den verkställande direktören och
+motsvarande befattningshavare ska anges särskilt.
 
 I ett publikt aktiebolag ska vid tillämpningen av första och
-andra styckena samtliga personer i bolagets ledning ingå i den
-grupp som avses i första stycket 1. Antalet personer i gruppen
-ska anges. Vidare ska uppgifter om räkenskapsårets löner och
-andra ersättningar lämnas för var och en av styrelseledamöterna
-och för den verkställande direktören. Sådana uppgifter behöver
-dock inte lämnas för arbetstagarrepresentanter som har utsetts
-enligt lagen (1987:1245) om styrelserepresentation för de
-privatanställda. Lag (2010:1515).
-
-21 § I sådana aktiebolag och handelsbolag som är större
-företag ska upplysning lämnas om den sammanlagda på
-räkenskapsåret belöpande ersättningen till var och en av
-bolagets revisorer och de revisionsföretag där revisorerna
-verkar. Särskild uppgift ska lämnas om hur stor del av
-ersättningen som avser revisionsuppdraget,
-revisionsverksamhet utöver revisionsuppdraget,
-skatterådgivning respektive övriga tjänster. Lag (2009:573).
+andra styckena samtliga personer i bolagets ledning ingå i
+den grupp som avses i första stycket 1. Antalet personer i
+gruppen ska anges. Vidare ska upplysningar om räkenskapsårets
+löner och andra ersättningar lämnas för var och en av
+styrelseledamöterna och för den verkställande direktören.
+Sådana upplysningar behöver dock inte lämnas för
+arbetstagarrepresentanter som har utsetts enligt lagen
+(1987:1245) om styrelserepresentation för de privatanställda.
+Lag (2015:813).
 
 Pensioner och liknande förmåner
 
-22 § Större företag och sådana mindre företag som är publika
-aktiebolag ska lämna uppgift om det sammanlagda beloppet av
-kostnader och förpliktelser som avser pensioner eller liknande
-förmåner till styrelseledamöter, verkställande direktören eller
-motsvarande befattningshavare.
+41 § Större företag ska lämna upplysningar om det sammanlagda
+beloppet av räkenskapsårets kostnader och förpliktelser som
+avser pensioner och liknande förmåner till styrelseledamöter,
+verkställande direktör och motsvarande befattningshavare.
 
-I ett publikt aktiebolag ska en uppgift som avses i första
-stycket omfatta även pensioner och liknande förmåner till andra
-personer i bolagets ledning. Antalet personer som omfattas ska
-anges. Vidare ska uppgifter lämnas för var och en av
-styrelseledamöterna och för den verkställande direktören.
-Sådana uppgifter behöver dock inte lämnas för
+I ett publikt aktiebolag ska upplysningar som avses i första
+stycket omfatta även pensioner och liknande förmåner till
+andra personer i bolagets ledning. Antalet personer som
+omfattas ska anges. Vidare ska upplysningar om
+räkenskapsårets löner och andra ersättningar lämnas för var
+och en av styrelseledamöterna och för den verkställande
+direktören. Sådana upplysningar behöver dock inte lämnas för
 arbetstagarrepresentanter som har utsetts enligt lagen
-(1987:1245) om styrelserepresentation för de privatanställda.
-Lag (2010:1515).
+(1987:1245) om styrelserepresentation för de
+privatanställda. Lag (2015:813).
 
 Tidigare styrelse och verkställande direktör
 
-23 § Vad som enligt 20 och 22 §§ gäller för styrelseledamöter
-och verkställande direktören gäller även tidigare
-styrelseledamöter och tidigare verkställande direktör.
-Lag (1999:1112).
+42 § Bestämmelserna i 40 och 41 §§ om upplysningar om
+styrelseledamöter och verkställande direktör gäller även
+tidigare styrelseledamöter och tidigare verkställande
+direktör. Lag (2015:813).
 
 Suppleanter och vice verkställande direktör
 
-24 § Vid tillämpning av 20, 22 och 23 §§ jämställs med
-styrelseledamöter suppleanter för dessa och med verkställande
-direktören vice verkställande direktör. Lag (1999:1112).
+43 § Vid tillämpningen av 40–42 §§ ska styrelsesuppleanter
+jämställas med styrelseledamöter och vice verkställande
+direktör jämställas med verkställande direktör.
+Lag (2015:813).
 
 Avtal om avgångsvederlag
 
-25 § Större företag och sådana mindre företag som är publika
-aktiebolag, som har träffat avtal om avgångsvederlag eller
-liknande förmåner till styrelseledamöter, verkställande
-direktören eller andra personer i företagets ledning, ska lämna
-uppgift om avtalen och om de väsentligaste villkoren i avtalen.
-Lag (2010:1515).
+44 § Större företag som har träffat avtal om avgångsvederlag
+eller liknande förmåner till styrelseledamöter, den
+verkställande direktören eller andra personer i företagets
+ledning ska lämna upplysningar om avtalen och om de
+väsentligaste villkoren i avtalen. Lag (2015:813).
 
-Uppgift om moderföretag
+Ytterligare upplysningar om moderföretag
 
-26 § Ett företag som är dotterföretag skall lämna uppgift om
-namn, organisationsnummer eller, i förekommande fall,
-personnummer samt säte för de moderföretag som upprättar
-koncernredovisning för den största och minsta koncern som
-företaget ingår i som dotterföretag. Uppgift skall också lämnas
-om var det går att få tillgång till utländska moderföretags
-koncernredovisningar. Lag (1999:1112).
+45 § Större företag ska lämna sådana upplysningar som anges i
+21 § även i fråga om det moderföretag som upprättar
+koncernredovisning för den största koncern som företaget
+ingår i som dotterföretag.
+
+Om ett moderföretag som avses i första stycket eller 21 § är
+utländskt, ska en upplysning också lämnas om var det går att
+få tillgång till företagets koncernredovisning.
+Lag (2015:813).
+
+Ytterligare upplysningar om ställda säkerheter
+
+46 § Större företag ska, när de enligt 14 § lämnar upplysning
+om ställda säkerheter, ange vilka poster i balansräkningen
+eller i noter enligt 3 kap. 4 § fjärde stycket 2 som
+säkerheterna avser.
+
+I fråga om säkerheter som inte motsvarar en skuld- eller
+avsättningspost i balansräkningen ska det vidare anges om
+säkerheten har ställts till förmån för företaget självt eller
+till förmån för någon annan. Lag (2015:813).
+
+Nettoomsättningens fördelning
+
+47 § Om ett större företags verksamhetsgrenar eller
+geografiska marknader avviker betydligt från varandra, ska
+företaget lämna upplysningar om nettoomsättningens fördelning
+på verksamhetsgrenarna och marknaderna. Bedömningen av om
+företagets verksamhetsgrenar och marknader avviker betydligt
+från varandra ska göras med hänsyn till hur företaget normalt
+organiserar försäljningen av varor och tjänster. Lag (2015:813).
+
+Ersättningar till revisorer och revisionsföretag
+
+48 § Aktiebolag och handelsbolag som är större företag ska
+lämna upplysningar om räkenskapsårets sammanlagda ersättning
+till var och en av bolagets revisorer och de revisionsföretag
+där revisorerna verkar. Det ska vidare anges hur stor del av
+ersättningen som avser revisionsuppdraget,
+revisionsverksamhet utöver revisionsuppdraget,
+skatterådgivning respektive övriga tjänster. Lag (2015:813).
 
 Särskilt om europabolag och europakooperativ
 
-27 § I fråga om europabolag och europakooperativ med ett sådant
-förvaltningssystem som avses i artiklarna 39-42 i rådets
-förordning (EG) nr 2157/2001 av den 8 oktober 2001 om stadga
-för europabolag eller artiklarna 37-41 i rådets förordning (EG)
-nr 1435/2003 av den 22 juli 2003 om stadga för europeiska
-kooperativa föreningar (SCE-föreningar) skall bestämmelserna om
-styrelseledamöter i 12, 18 b, 20 och 22-25 §§ tillämpas på
-ledamöter eller suppleanter i europabolagets eller
-europakooperativets tillsynsorgan.
+49 § I fråga om europabolag och europakooperativ med ett
+sådant förvaltningssystem som avses i artiklarna 39–42 i
+rådets förordning (EG) nr 2157/2001 av den 8 oktober 2001 om
+stadga för europabolag, i lydelsen enligt Europaparlamentets
+och rådets förordning (EU) nr 517/2013, eller artiklarna
+37–41 i rådets förordning (EG) nr 1435/2003 av den 22 juli
+2003 om stadga för europeiska kooperativa föreningar
+(SCE-föreningar), i den ursprungliga lydelsen, ska
+bestämmelserna om styrelseledamöter i 18, 23, 32, 38 och
+40–44 §§ tillämpas på ledamöter eller suppleanter i
+europabolagets eller europakooperativets tillsynsorgan.
 
-Av 16 § andra stycket och 22 § lagen (2004:575) om europabolag
-samt 21 § andra stycket och 26 § lagen (2006:595) om
-europakooperativ framgår att bestämmelserna i första stycket
-skall tillämpas också på ledamöter eller suppleanter i ett
-europabolags eller europakooperativs lednings- eller
-förvaltningsorgan. Lag (2006:597).
+Av 16 § andra stycket och 22 § lagen (2004:575) om
+europabolag samt 21 § andra stycket och 26 § lagen (2006:595)
+om europakooperativ följer att första stycket ska tillämpas
+också på ledamöter eller suppleanter i ett europabolags eller
+europakooperativs lednings- eller förvaltningsorgan.
+Lag (2015:813).
 
 6 kap. Förvaltningsberättelse m.m.
 
 Förvaltningsberättelse
 
 1 § Förvaltningsberättelsen ska innehålla en rättvisande
-översikt över utvecklingen av företagets verksamhet, ställning
-och resultat. När det behövs för förståelsen av
-årsredovisningen ska översikten innehålla hänvisningar till och
-ytterligare upplysningar om de belopp som tas upp i andra delar
-av årsredovisningen.
+översikt över utvecklingen av företagets verksamhet,
+ställning och resultat. När det behövs för förståelsen av
+årsredovisningen ska översikten innehålla hänvisningar till
+och ytterligare upplysningar om de belopp som tas upp i andra
+delar av årsredovisningen.
 
 Upplysningar ska även lämnas om
 
@@ -1446,7 +1695,7 @@ viktiga för bedömningen av utvecklingen av företagets
 verksamhet, ställning och resultat,
 
 2. sådana händelser av väsentlig betydelse för företaget som
-har inträffat under räkenskapsåret eller efter dess slut,
+har inträffat under räkenskapsåret,
 
 3. företagets förväntade framtida utveckling inklusive en
 beskrivning av väsentliga risker och osäkerhetsfaktorer som
@@ -1458,67 +1707,76 @@ företaget står inför,
 
 6. antal och kvotvärde för de egna aktier som innehas av
 företaget, den andel av aktiekapitalet som dessa aktier utgör
-samt storleken av den ersättning som har betalats för aktierna,
+samt storleken av den ersättning som har betalats för
+aktierna,
 
 7. antal och kvotvärde för de egna aktier som har förvärvats
 under räkenskapsåret, den andel av aktiekapitalet som dessa
-aktier utgör samt storleken av den ersättning som har betalats,
+aktier utgör samt storleken av den ersättning som har
+betalats,
 
 8. antal och kvotvärde för de egna aktier som har överlåtits
 under räkenskapsåret, den andel av aktiekapitalet som dessa
 aktier utgör samt storleken av den ersättning som har
 erhållits, och
 
-9. skälen för de förvärv eller överlåtelser av egna aktier som
-har skett under räkenskapsåret.
+9. skälen för de förvärv eller överlåtelser av egna aktier
+som har skett under räkenskapsåret.
 
 Om det är väsentligt för bedömningen av företagets ställning
-och resultat, ska det även lämnas följande upplysningar
-avseende användningen av finansiella instrument:
+och resultat, ska det även lämnas följande upplysningar om
+användningen av finansiella instrument:
 
 1. mål och tillämpade principer för finansiell riskstyrning
-jämte, för varje viktig typ av planerad affärshändelse där
-säkringsredovisning används, tillämpade principer för säkring,
-och
+och, för varje viktig typ av planerad affärshändelse där
+säkringsredovisning används, tilllämpade principer för
+säkring, och
 
 2. exponering för prisrisker, kreditrisker, likviditetsrisker
 och kassaflödesrisker.
 
-Utöver sådan information som ska lämnas enligt första-tredje
-styckena ska förvaltningsberättelsen innehålla sådana icke-
-finansiella upplysningar som behövs för förståelsen av
+Utöver sådan information som ska lämnas enligt första–tredje
+styckena ska förvaltningsberättelsen innehålla sådana
+icke-finansiella upplysningar som behövs för förståelsen av
 företagets utveckling, ställning eller resultat och som är
-relevanta för den aktuella verksamheten, däribland upplysningar
-om miljö- och personalfrågor. Företag som bedriver verksamhet
-som är tillstånds- eller anmälningspliktig enligt miljöbalken
-ska alltid lämna upplysningar om verksamhetens påverkan på den
-yttre miljön.
+relevanta för den aktuella verksamheten, däribland
+upplysningar om miljö- och personalfrågor. Företag som
+bedriver verksamhet som är tillstånds- eller
+anmälningspliktig enligt miljöbalken ska alltid lämna
+upplysningar om verksamhetens påverkan på den yttre miljön.
 
-Andra stycket 3-5, tredje stycket och fjärde stycket gäller
-inte mindre företag. Lag (2010:1515).
+Andra stycket 3–5, tredje stycket och fjärde stycket gäller
+inte mindre företag. Lag (2015:813).
 
-1 a § I ett aktiebolag, vars aktier är upptagna till handel på
-en reglerad marknad i Sverige, skall förvaltningsberättelsen
+1 a § I ett aktiebolag vars aktier är upptagna till handel på
+en reglerad marknad i Sverige ska förvaltningsberättelsen
 även innehålla
 
 1. de senast beslutade riktlinjerna av det slag som avses i 8
 kap. 51 § aktiebolagslagen (2005:551), och
 
-2. styrelsens förslag till riktlinjer att gälla för tiden från
-nästa årsstämma.
+2. styrelsens förslag till riktlinjer att gälla för tiden
+från nästa årsstämma.
 
 Information enligt första stycket 1 får lämnas i anslutning
-till uppgifter som lämnas enligt 5 kap. 20 eller 22 §. I sådant
-fall skall förvaltningsberättelsen innehålla en hänvisning till
-den plats där informationen har lämnats. Lag (2007:541).
+till uppgifter som lämnas enligt 5 kap. 40 eller 41 §. I
+sådant fall ska förvaltningsberättelsen innehålla en
+hänvisning till den plats där informationen har lämnats.
+Lag (2015:813).
 
-2 § I aktiebolag och ekonomiska föreningar skall i
-förvaltningsberättelsen även lämnas förslag till dispositioner
-beträffande bolagets eller föreningens vinst eller förlust. I
-en ekonomisk förening skall, om föreningen är moderföretag,
-dessutom lämnas uppgift om belopp som enligt årsredovisningarna
-för företag inom koncernen skall föras över från fritt eget
-kapital i koncernen till bundet eget kapital. Lag (2005:918).
+2 § I aktiebolag och ekonomiska föreningar ska det i
+förvaltningsberättelsen även lämnas förslag till
+dispositioner beträffande bolagets eller föreningens vinst
+eller förlust. I en ekonomisk förening ska det, om föreningen
+är moderföretag, dessutom lämnas uppgift om belopp som enligt
+årsredovisningarna för företag inom koncernen ska föras över
+från fritt eget kapital i koncernen till bundet eget
+kapital.
+
+Aktiebolag och ekonomiska föreningar ska i
+förvaltningsberättelsen eller i egen räkning specificera
+förändringar i eget kapital jämfört med föregående års
+balansräkning. Lag (2015:813).
 
 2 a § I ett aktiebolag vars aktier är upptagna till handel på
 en reglerad marknad eller en motsvarande marknad utanför
@@ -1600,22 +1858,24 @@ under räkenskapsåret redovisas. Lag (2014:542).
 
 Bolagsstyrningsrapport
 
-6 § Förvaltningsberättelsen för ett aktiebolag vars aktier,
-teckningsoptioner eller skuldebrev är upptagna till handel på
-en reglerad marknad ska innehålla en bolagsstyrningsrapport, om
-inte bolaget har valt att med stöd av 8 § i stället upprätta en
-från årsredovisningen skild bolagsstyrningsrapport.
+6 § Förvaltningsberättelsen för ett aktiebolag vars
+överlåtbara värdepapper är upptagna till handel på en
+reglerad marknad ska innehålla en bolagsstyrningsrapport, om
+inte bolaget har valt att med stöd av 8 § i stället upprätta
+en bolagsstyrningsrapport som är skild från
+årsredovisningen.
 
 Bolagsstyrningsrapporten ska innehålla upplysningar om
 
-1. vilka principer för bolagsstyrning som tillämpas, utöver dem
-som följer av lag eller annan författning, och var uppgifter om
-dessa principer finns tillgängliga,
+1. vilka principer för bolagsstyrning som tillämpas, utöver
+de principer som följer av lag eller annan författning, och
+var uppgifter om dessa finns tillgängliga,
 
-2. de viktigaste inslagen i bolagets system för intern kontroll
-och riskhantering i samband med den finansiella rapporteringen,
+2. de viktigaste inslagen i bolagets system för intern
+kontroll och riskhantering i samband med den finansiella
+rapporteringen,
 
-3. direkta eller indirekta aktieinnehav i bolaget, som
+3. direkta eller indirekta aktieinnehav i bolaget som
 representerar minst en tiondel av röstetalet för samtliga
 aktier i bolaget,
 
@@ -1626,33 +1886,34 @@ kan avge vid en bolagsstämma,
 entledigande av styrelseledamöter samt om ändring av
 bolagsordningen,
 
-6. av bolagsstämman lämnade bemyndiganden till styrelsen att
-besluta att bolaget ska ge ut nya aktier eller förvärva egna
+6. bolagsstämmans bemyndiganden till styrelsen att besluta
+att bolaget ska ge ut nya aktier eller förvärva egna
 aktier,
 
-7. hur bolagsstämman fungerar, bolagsstämmans huvudsakliga
-beslutanderätt, aktieägarnas rättigheter och hur dessa
-rättigheter utövas, i den omfattning som dessa förhållanden
-inte framgår av lag eller annan författning,
+7. hur bolagsstämman fungerar, bolagsstämmans
+huvudsakliga beslutanderätt, aktieägarnas rättigheter och hur
+dessa rättigheter utövas, i den omfattning som dessa
+förhållanden inte framgår av lag eller annan författning,
 
 8. hur styrelsen och, i förekommande fall, inom bolaget
-inrättade kommittéer är sammansatta och hur de fungerar, i den
-omfattning som dessa förhållanden inte framgår av lag eller
-annan författning.
+inrättade kommittéer är sammansatta och hur de fungerar, i
+den omfattning som dessa förhållanden inte framgår av lag
+eller annan författning.
 
 Om bolaget inte tillämpar någon kod för bolagsstyrning, ska
-skälen för detta anges. Om bolaget tilllämpar en
-kod för bolagsstyrning, ska det i förekommande fall anges vilka
-delar av koden som bolaget avviker från och skälen för detta.
-Lag (2009:34).
+skälen för detta anges. Om bolaget tillämpar en kod för
+bolagsstyrning, ska det i förekommande fall anges vilka delar
+av koden som bolaget avviker från och skälen för detta.
+Lag (2015:813).
 
-7 § Ett aktiebolag som endast har teckningsoptioner eller
-skuldebrev upptagna till handel på en reglerad marknad behöver
-inte i bolagsstyrningsrapporten lämna de upplysningar som anges
-i 6 § andra stycket 1, 7 och 8 samt i tredje stycket i samma
-paragraf. Detta gäller dock inte om bolagets aktier handlas på
-en handelsplattform enligt 1 kap. 5 § 12 lagen (2007:528) om
-värdepappersmarknaden. Lag (2009:34).
+7 § Ett aktiebolag som endast har andra överlåtbara
+värdepapper än aktier upptagna till handel på en reglerad
+marknad behöver inte i bolagsstyrningsrapporten lämna de
+upplysningar som anges i 6 § andra stycket 1, 7 och 8 samt i
+tredje stycket i samma paragraf. Detta gäller dock inte om
+bolagets aktier handlas på en handelsplattform enligt 1 kap.
+5 § 12 lagen (2007:528) om värdepappersmarknaden.
+Lag (2015:813).
 
 8 § I stället för att upprätta bolagsstyrningsrapporten som en
 del av förvaltningsberättelsen enligt 6 § får bolaget välja att
@@ -1663,7 +1924,7 @@ inom samma tid som årsredovisningen.
 
 Om bolaget har valt att upprätta bolagsstyrningsrapporten som
 en från årsredovisningen skild handling och sådana upplysningar
-som avses i 6 § andra stycket 36 ingår i
+som avses i 6 § andra stycket 3–6 ingår i
 förvaltningsberättelsen, behöver dessa upplysningar inte lämnas
 i rapporten. Om upplysningarna inte tas med i
 bolagsstyrningsrapporten, ska denna i stället innehålla en
@@ -1674,21 +1935,25 @@ Om bolaget har valt att upprätta en bolagsstyrningsrapport
 enligt denna paragraf, ska detta anges i
 förvaltningsberättelsen. Lag (2009:34).
 
-9 § Om förvaltningsberättelsen innehåller en sådan uppgift som
-avses i 8 § tredje stycket, ska bolagets revisor i ett
+9 § Om förvaltningsberättelsen innehåller en sådan uppgift
+som avses i 8 § tredje stycket, ska bolagets revisor i ett
 skriftligt, undertecknat yttrande uttala sig om huruvida en
-sådan rapport som avses där har upprättats eller inte. När det
-gäller sådana upplysningar som avses i 6 § andra stycket 26
-ska yttrandet vidare innehålla ett uttalande om huruvida
-upplysningarna är förenliga med årsredovisningen. Har det i
-rapporten tagits med sådana upplysningar som avses i 7 kap.
-31 § andra stycket, ska yttrandet även innehålla ett uttalande
-om huruvida dessa upplysningar är förenliga med
-koncernredovisningen.
+sådan rapport som avses där har upprättats eller inte. När
+det gäller sådana upplysningar som avses i 6 § andra stycket
+2–6 ska yttrandet vidare innehålla ett uttalande om huruvida
+upplysningarna är förenliga med årsredovisningen och i
+överensstämmelse med denna lag. Har det i rapporten tagits
+med sådana upplysningar som avses i 7 kap. 31 § andra
+stycket, ska yttrandet även innehålla ett uttalande om
+huruvida dessa upplysningar är förenliga med
+koncernredovisningen och i överensstämmelse med denna lag.
 
-Revisorns yttrande ska lämnas till bolagets styrelse inom samma
-tid som revisionsberättelsen och sedan fogas till
-bolagsstyrningsrapporten. Lag (2009:34).
+Om upplysningarna innehåller väsentliga fel, ska revisorn
+ange detta och peka på vilka slags fel det rör sig om.
+
+Revisorns yttrande ska lämnas till bolagets styrelse inom
+samma tid som revisionsberättelsen och sedan fogas till
+bolagsstyrningsrapporten. Lag (2015:813).
 
 7 kap. Koncernredovisning
 
@@ -1708,62 +1973,76 @@ koncernredovisning som upprättas av ett överordnat
 moderföretag, och
 
 2. det överordnade moderföretagets koncernredovisning har
-upprättats och reviderats enligt lagstiftning som har
-tillkommit i enlighet med Europeiska gemenskapernas direktiv
-av den 13 juni 1983 om sammanställd redovisning (83/349/EEG)
-eller på likvärdigt sätt.
+upprättats och reviderats enligt
+
+a) lagstiftning som har tillkommit i enlighet med
+Europaparlamentets och rådets direktiv 2013/34/EU av den 26
+juni 2013 om årsbokslut, koncernredovisning och rapporter i
+vissa typer av företag, i lydelsen enligt Europaparlamentets
+och rådets direktiv 2014/102/EU,
+
+b) internationella redovisningsstandarder som har antagits
+enligt förordning (EG) nr 1606/2002 av den 19 juli 2002 om
+tillämpning av internationella redovisningsstandarder, i
+lydelsen enligt Europaparlamentets och rådets förordning (EU)
+297/2008, eller
+
+c) redovisningsstandarder som Europeiska kommissionen har
+bedömt som likvärdiga med internationella
+redovisningsstandarder enligt b.
 
 Första stycket gäller även om något dotterföretag av skäl som
-anges i 5 § andra eller tredje stycket inte omfattas av den
-upprättade koncernredovisningen.
+anges i 5 § andra stycket inte omfattas av den upprättade
+koncernredovisningen.
 
 Ett moderföretag som med stöd av första stycket inte självt
 har upprättat någon koncernredovisning ska ge in det
 överordnade moderföretagets koncernredovisning och
 koncernrevisionsberättelse till registreringsmyndigheten
-enligt bestämmelserna i 8 kap. 3, 3 a och 3 c §§.
-Registreringsmyndigheten ska på det sätt som anges i 8 kap. 4 §
-kungöra att handlingarna har getts in. Om handlingarna inte
-är avfattade på svenska, får registreringsmyndigheten
-förelägga moderföretaget att ge in en bestyrkt översättning
-till svenska. Ett sådant föreläggande ska beslutas om någon
-begär det. Om moderföretaget, i fall det hade upprättat en
-koncernredovisning, enligt 8 kap. 3 och 16 §§ inte skulle ha
+enligt 8 kap. 3, 3 a och 3 c §§. Registreringsmyndigheten ska
+på det sätt som anges i 8 kap. 4 § kungöra att handlingarna
+har getts in. Om handlingarna inte är på svenska, får
+registreringsmyndigheten förelägga moderföretaget att ge in
+en bestyrkt översättning till svenska. Ett sådant
+föreläggande ska beslutas om någon begär det. Om
+moderföretaget, i fall det hade upprättat en
+koncernredovisning, enligt 8 kap. 3 och 16 §§ inte skulle ha
 varit skyldigt att ge in denna och
 koncernrevisionsberättelsen till registreringsmyndigheten,
-ska vad som i nämnda paragrafer sägs om att handlingarna ska
+ska det som i nämnda paragrafer sägs om att handlingarna ska
 hållas tillgängliga i stället tillämpas på det överordnade
 moderföretagets koncernredovisning och
 koncernrevisionsberättelse.
 
 Första stycket gäller inte,
 
-1. om delägare som har en kapitalandel i moderföretaget på
-minst tio procent senast sex månader före räkenskapsårets
-utgång hos moderföretagets styrelse eller motsvarande
-ledningsorgan har krävt att koncernredovisning ska upprättas,
-eller
+1. om delägare som har en ägarandel i moderföretaget på minst
+tio procent senast sex månader före räkenskapsårets utgång
+hos moderföretagets styrelse eller motsvarande ledningsorgan
+har krävt att en koncernredovisning ska upprättas, eller
 
-2. om andelarna i moderföretaget eller skuldebrev som
-moderföretaget har utfärdat är upptagna till handel på en
-reglerad marknad.
+2. om andelarna i moderföretaget eller överlåtbara
+värdepapper som moderföretaget har utfärdat är upptagna till
+handel på en reglerad marknad.
 
 Den som enligt första stycket inte upprättar någon
 koncernredovisning ska upplysa om detta i en not till
-årsredovisningen samt lämna uppgift om namn,
-organisationsnummer eller, i förekommande fall, personnummer
-samt säte för det överordnade moderföretag som upprättar den
-i stycket nämnda koncernredovisningen. Lag (2013:436).
+årsredovisningen samt lämna uppgift om namn, organisations-
+eller personnummer och säte för det överordnade moderföretag
+som upprättar den i stycket nämnda koncernredovisningen.
+Lag (2015:813).
 
 3 § Moderföretag i mindre koncerner behöver inte upprätta
 koncernredovisning. Lag (2009:34).
 
-3 a § Ett moderföretag behöver inte upprätta
-koncernredovisning, om moderföretagets samtliga dotterföretag
-är av ringa betydelse med hänsyn till kravet i 6 § på
-rättvisande bild. Koncernredovisning ska dock upprättas, om
-två eller flera dotterföretag tillsammans har mer än sådan
-ringa betydelse. Lag (2010:686).
+3 a § Ett moderföretag behöver inte upprätta någon
+koncernredovisning om samtliga dotterföretag, såväl var för
+sig som tillsammans, är utan väsentlig betydelse.
+
+Ett moderföretag behöver inte upprätta någon
+koncernredovisning om moderföretagets samtliga dotterföretag
+inte behöver omfattas av en koncernredovisning av skäl som
+anges i 5 § andra stycket. Lag (2015:813).
 
 Koncernredovisningens delar
 
@@ -1780,31 +2059,27 @@ Koncernredovisningens delar
 5. en kassaflödesanalys.
 Lag (2014:542).
 
-Dotterföretag som skall omfattas av koncernredovisningen
+Dotterföretag som ska omfattas av koncernredovisningen
 
 5 § Koncernredovisningen ska omfatta samtliga dotterföretag,
-om inte annat följer av andra eller tredje stycket.
-Ett dotterföretag behöver inte omfattas av
-koncernredovisningen, om företaget är av ringa betydelse med
-hänsyn till kravet i 6 § på rättvisande bild. Om två eller
-flera dotterföretag tillsammans har mer än sådan ringa
-betydelse, ska de dock omfattas av koncernredovisningen.
+om inte något annat följer av andra stycket.
 
-Ett dotterföretag behöver inte heller omfattas av
+Ett dotterföretag behöver inte omfattas av
 koncernredovisningen, om
 
 1. betydande och varaktiga hinder i väsentlig grad begränsar
 moderföretagets möjligheter att utöva sitt inflytande över
 dotterföretaget,
 
-2. nödvändig information för att upprätta koncernredovisningen
-inte kan fås utan oskälig kostnad eller inom rimlig tid, eller
+2. nödvändig information för att upprätta
+koncernredovisningen inte kan fås utan oskälig kostnad eller
+inom rimlig tid, eller
 
 3. andelarna i dotterföretaget innehas tillfälligt och
 uteslutande i avsikt att säljas vidare.
 
-Ett företag som tillämpar andra eller tredje stycket ska i en
-not upplysa om skälen för detta. Lag (2010:686).
+Ett företag som tillämpar andra stycket ska i en not upplysa
+om skälen för detta. Lag (2015:813).
 
 Principer för upprättande av koncernredovisning
 
@@ -1822,166 +2097,174 @@ tillämpas också på koncernredovisningen. Lag (1999:1112).
 
 Andra grundläggande redovisningsprinciper m.m.
 
-7 § För koncernredovisningen tillämpas följande bestämmelser i
-2 kap.:
+7 § För koncernredovisningen tillämpas följande bestämmelser
+i 2 kap.:
+
+3 a § om väsentlighet,
 
 4 § om andra grundläggande redovisningsprinciper,
 
-5 § om språk och form,
+5 § om form m.m.,
 
 6 § om valuta, och
 
 7 § om undertecknande.
 
-I koncernredovisningen skall beloppen anges i samma valuta som
-i moderföretagets årsredovisning. Lag (2000:34).
+I koncernredovisningen ska beloppen anges i samma valuta som
+i moderföretagets årsredovisning. Lag (2015:813).
 
 Koncernbalansräkningen och koncernresultaträkningen
 
-8 § Koncernbalansräkningen och koncernresultaträkningen skall
+8 § Koncernbalansräkningen och koncernresultaträkningen ska
 var för sig utgöra en sammanställning av balansräkningarna
 respektive resultaträkningarna för moderföretaget och de
 dotterföretag som omfattas av koncernredovisningen.
-Sammanställningen skall göras med tillämpning av 9-13 §§ och
-18-23 §§. Vid redovisningen av andelar i andra företag än
-dotterföretag skall 25-30 §§ beaktas. I övrigt tillämpas 3 kap.
-Vad som sägs där om större och mindre företag skall dock i
-stället avse större respektive mindre koncerner.
-Lag (2006:871).
+Sammanställningen ska göras med tillämpning av 9–13 §§ och
+18–23 §§. Vid redovisningen av andelar i andra företag än
+dotterföretag ska  25–30 §§ beaktas. I övrigt tillämpas 3
+kap. med undantag för 10 a §. Det som sägs i 3 kap. om större
+och mindre företag ska i stället avse större respektive
+mindre koncerner. Lag (2015:813).
 
-Minoritetsandelar
+Innehav utan bestämmande inflytande
 
-9 § Den del av eget kapital och årets resultat i ett
-dotterföretag som belöper sig på andelar ägda av någon annan än
-de koncernföretag som omfattas av koncernredovisningen skall
-redovisas som särskilda poster i koncernbalansräkningen och
-koncernresultaträkningen. Lag (1999:1112).
+9 § Den del av eget kapital i ett dotterföretag som är att
+hänföra till andelar ägda av någon annan än de koncernföretag
+som omfattas av koncernredovisningen ska i
+koncernbalansräkningen redovisas som innehav utan bestämmande
+inflytande. Den del av årets resultat i ett dotterföretag som
+är att hänföra till sådana andelar ska i
+koncernresultaträkningen redovisas som vinst eller förlust
+hänförlig till innehav utan bestämmande inflytande.
+Lag (2015:813).
 
 Balansdag
 
-10 § Koncernredovisningen skall hänföra sig till
+10 § Koncernredovisningen ska hänföra sig till
 moderföretagets balansdag.
 
-Om ett dotterföretags balansdag ligger mer än tre månader före
-moderföretagets balansdag, skall dotterföretaget omfattas av
-koncernredovisningen på grundval av en balansräkning som hänför
-sig till moderföretagets balansdag och en resultaträkning som
-avser moderföretagets räkenskapsår.
+Om ett dotterföretags balansdag ligger mer än tre månader
+före eller efter moderföretagets balansdag, ska
+dotterföretaget omfattas av koncernredovisningen på grundval
+av en balansräkning som hänför sig till moderföretagets
+balansdag och en resultaträkning som avser moderföretagets
+räkenskapsår.
 
 Om ett dotterföretags balansdag ligger högst tre månader före
-moderföretagets balansdag, skall upplysning lämnas om sådana
+moderföretagets balansdag, ska upplysning lämnas om sådana
 händelser som är viktiga för att bedöma dotterföretagets
 ställning och resultat och som har inträffat mellan
-dotterföretagets och moderföretagets balansdagar. Lag (1999:1112).
+dotterföretagets och moderföretagets balansdagar.
+Lag (2015:813).
 
 Värderingsregler
 
 11 § Bestämmelserna i 4 kap. tillämpas även på
 koncernredovisningen. Lag (1999:1112).
 
-12 § Koncernredovisningen och årsredovisningen skall
-upprättas med tillämpning av gemensamma principer för
-värderingen av tillgångar, avsättningar och skulder. Olika
-värderingsprinciper får användas, om det finns särskilda skäl.
-I sådant fall skall upplysning om detta lämnas i not med
+12 § Koncernredovisningen och årsredovisningen ska upprättas
+med tilllämpning av gemensamma principer för värderingen av
+tillgångar, avsättningar och skulder. Olika
+värderingsprinciper får användas, om det finns särskilda
+skäl. I sådant fall ska upplysning om detta lämnas i not med
 angivande av skälen för avvikelsen.
 
 Har något av de koncernföretag som omfattas av
-koncernredovisningen tillämpat andra principer för värderingen
-av tillgångar, avsättningar och skulder än dem som tillämpas i
-koncernbalansräkningen, skall dessa tillgångar, avsättningar
-och skulder räknas om enligt sistnämnda principer.
+koncernredovisningen tillämpat andra principer för
+värderingen av tillgångar, avsättningar och skulder än de
+principer som tillämpas i koncernbalansräkningen, ska dessa
+tillgångar, avsättningar och skulder räknas om enligt
+sistnämnda principer.
 
 Om det finns särskilda skäl och det är förenligt med 6 §, får
-avvikelse göras från vad som föreskrivs i andra stycket. Sådan
-avvikelse får även göras, om en omräkning med hänsyn till
-kravet på rättvisande bild är av ringa betydelse. I dessa fall
-skall upplysning om skälen för avvikelsen anges i en not.
-Lag (2004:1173).
+avvikelse göras från andra stycket. En upplysning om skälen
+för avvikelsen ska anges i en not. Lag (2015:813).
 
 Elimineringar mellan koncernföretag
 
 13 § Fordringar och skulder mellan koncernföretag, liksom
-internvinster, skall elimineras i koncernbalansräkningen.
+internvinster, ska elimineras i koncernbalansräkningen.
 
 Intäkter och kostnader, som hänför sig till transaktioner
 mellan koncernföretag, liksom förändring av internvinst under
-räkenskapsåret, skall elimineras i koncernresultaträkningen.
+räkenskapsåret, ska elimineras i koncernresultaträkningen.
 
-Vad som sägs i första och andra styckena om eliminering av
-fordringar och skulder, intäkter och kostnader samt
-internvinster gäller inte om beloppen är av ringa betydelse med
-hänsyn till kravet i 6 § på rättvisande bild.
+Med internvinst avses en vinst vid överlåtelse av en tillgång
+inom koncernen i den utsträckning tillgången inte därefter
+har överlåtits till en köpare utanför koncernen eller har
+förbrukats eller dess värde har satts ned hos det företag
+inom koncernen som har förvärvat tillgången. Lag (2015:813).
 
-Med internvinst avses antingen en vinst vid överlåtelse av en
-tillgång inom koncernen eller den på moderföretaget belöpande
-andelen av en sådan vinst, i den utsträckning tillgången inte
-därefter har överlåtits till en köpare utanför koncernen eller
-har förbrukats eller dess värde har satts ned hos det företag
-inom koncernen som har förvärvat tillgången. Upplysning om det
-internvinstbegrepp som har tillämpats skall lämnas i en not.
-Lag (1999:1112).
+Noter
 
-Tilläggsupplysningar
+Allmänna upplysningar
 
-Allmänna tilläggsupplysningar
+14 § En koncernredovisning ska, utöver det som följer av
+övriga bestämmelser i detta kapitel, innehålla noter med
+upplysningar som anges i 5 kap. 4–24 §§. Om
+koncernredovisningen avser en större koncern, ska den även
+innehålla noter med upplysningar som anges i 5 kap. 25–28
+och 31–49 §§.
 
-14 § Bestämmelserna om tilläggsupplysningar i 5 kap. 2, 3,
-4 a-7 och 10-13 §§, 14 § andra och tredje styckena, 15-18 §§
-samt 18 b-25 §§ tillämpas även på koncernredovisningen. Det som
-sägs där om större företag ska i stället avse större koncerner
-och det som sägs om mindre företag ska i stället avse mindre
-koncerner. Det som sägs i 5 kap. 18 b § om medelantalet
-anställda ska avse medelantalet anställda i koncernen.
-Tilläggsupplysningarna ska lämnas på det sätt som anges i 5
-kap. 1 § första stycket andra och tredje meningarna och andra
-stycket i samma paragraf.
+Det som sägs i 5 kap. 3 § om noternas ordningsföljd ska
+tillämpas.
 
-Trots det som sägs i första stycket får uppgifter enligt 5 kap.
-20 § tredje stycket tredje meningen och 5 kap. 22 § andra
-stycket tredje meningen utelämnas i fråga om dotterföretag. Vid
-tillämpningen av nämnda bestämmelser ska dock de lämnade
-uppgifterna innefatta även löner och andra förmåner från
-koncernföretag. Lag (2010:1515).
+Trots första stycket får uppgifter enligt 5 kap. 40 § tredje
+stycket tredje meningen och 5 kap. 41 § andra stycket tredje
+meningen utelämnas i fråga om dotterföretag. Vid
+tillämpningen av de nämnda bestämmelserna ska dock de lämnade
+uppgifterna avse även löner och andra förmåner från
+koncernföretag. Lag (2015:813).
 
 Förändringar i koncernens sammansättning
 
 15 § Om sammansättningen av de företag som omfattas av
 koncernredovisningen har ändrats väsentligt under
-räkenskapsåret, skall sådana upplysningar lämnas som gör det
+räkenskapsåret, ska sådana upplysningar lämnas som gör det
 möjligt att jämföra de på varandra följande
-koncernredovisningarna. Lag (1999:1112).
+koncernredovisningarna. Detta ska ske i noter eller i en
+justerad jämförande balansräkning och en justerad jämförande
+resultaträkning. Lag (2015:813).
 
-Uppgifter om dotterföretag och vissa andra företag
+Dotterföretag och vissa andra företag
 
-16 § För varje dotterföretag och intresseföretag skall dess
-namn, organisationsnummer och säte anges. Vidare skall anges
-den kapitalandel, beräknad med tillämpning av 1 kap. 6 §, som
-koncernföretag innehar i företaget.
+16 § I en not ska upplysningar lämnas om namn,
+organisationsnummer, säte och koncernföretagens ägarandel,
+beräknad med tillämpning av 1 kap. 6 §, i fråga om
 
-Bestämmelserna i första stycket skall tillämpas även i fråga om
-andra företag i vilka ett koncernföretag självt eller på det
-sätt som anges i 1 kap. 6 § innehar en kapitalandel på minst 20
-procent. Uppgifter om dessa företag behöver dock inte lämnas om
-uppgifterna med hänsyn till kravet på rättvisande bild är av
-ringa betydelse.
+1. dotterföretag,
 
-I koncernredovisningen skall grunden för att ett företag har
+2. intresseföretag som redovisas i koncernredovisningen med
+tillämpning av 25–29 §§,
+
+3. gemensamt styrda företag som redovisas i
+koncernredovisningen med tillämpning av 25–29 §§ eller 30 §
+andra stycket, och
+
+4. andra företag som ett koncernföretag självt eller på det
+sätt som anges i 1 kap. 6 § har ett ägarintresse i.
+
+I fråga om företag som avses i första stycket 4 ska
+upplysningar även lämnas om eget kapital och resultatet för
+det senaste räkenskapsåret.
+
+I upplysningarna ska grunden för att ett företag har
 klassificerats som dotterföretag anges. Denna uppgift får
-utelämnas, om moderföretaget innehar mer än hälften av rösterna
-för samtliga andelar och kapitalandelen i dotterföretaget är
-lika stor som rösträttsandelen. Lag (1999:1112).
+dock utelämnas, om moderföretaget innehar mer än hälften av
+rösterna för samtliga andelar och ägarandelen i
+dotterföretaget är lika stor som rösträttsandelen. Även
+grunden för att ett gemensamt styrt företag redovisas med
+tillämpning av 30 § ska anges. Lag (2015:813).
 
 17 § Bolagsverket får medge att uppgifter inte behöver lämnas
 enligt 16 § första och andra styckena, om uppgifterna är av
 sådant slag att de kan vålla allvarlig skada för moderföretaget
 eller för något av de angivna företagen. Lag (2004:244).
 
-Hur dotterföretag skall räknas in i koncernredovisningen
+Hur dotterföretag ska räknas in i koncernredovisningen
 
-18 § Sammanställning avseende moderföretag och dotterföretag
-skall göras enligt någon av de metoder som anges i 19-22 a §§
-eller 23 §. Lag (2004:1173).
+18 § En sammanställning avseende moderföretag och
+dotterföretag ska göras enligt 19–23 §§. Lag (2015:813).
 
 Förvärvsmetoden
 
@@ -2005,91 +2288,61 @@ med hänsyn till detta. Summan av dessa justeringar skall
 avräknas från det skillnadsbelopp som uppkommit vid avräkningen
 enligt 19 §. Lag (1999:1112).
 
-22 § Om det efter en avräkning enligt 21 § föreligger ett
-positivt skillnadsbelopp, skall detta redovisas som goodwill i
+22 § Om det efter en avräkning enligt 21 § finns ett positivt
+skillnadsbelopp, ska detta redovisas som goodwill i
 koncernbalansräkningen. Bestämmelserna i 4 kap. 4 och 5 §§
 gäller även för sådan goodwill.
 
-Om det efter en avräkning enligt 21 § föreligger ett negativt
-skillnadsbelopp som motsvarar en vid förvärvstidpunkten
-förväntad ogynnsam resultatutveckling eller förväntade utgifter
-i dotterföretaget, skall detta skillnadsbelopp redovisas i
-koncernbalansräkningen. Skillnadsbeloppet får upplösas och
-intäktsföras i takt med att förväntningarna infrias.
+Om det efter en avräkning enligt 21 § finns ett negativt
+skillnadsbelopp, ska detta skillnadsbelopp redovisas i
+koncernbalansräkningen som negativ goodwill. Negativ goodwill
+får upplösas och intäktsföras när en sådan behandling
+överensstämmer med 2 kap. 2–4 §§.
 
-Om positiva och negativa skillnadsbelopp avräknas mot varandra,
-skall upplysning om skillnadsbeloppen lämnas i en not.
-Lag (2004:1173).
+Om positiva och negativa skillnadsbelopp avräknas mot
+varandra, ska upplysning om skillnadsbeloppen lämnas i en
+not. Lag (2015:813).
 
-22 a § Om ett företag har förvärvat ett annat företag genom att
+22 a § Ny beteckning 23 § genom lag (2015:813).
+
+23 § Om ett företag har förvärvat ett annat företag genom att
 betala med andelar som det självt har gett ut och kontrollen
 över det förvärvande företaget som en följd av det har övergått
 till nya ägare (omvänt förvärv), skall vid tillämpningen av 19-
 22 §§ det förvärvade företaget anses som moderföretag och det
-förvärvande företaget anses som dotterföretag. Lag (2003:774).
-
-Poolningsmetoden
-
-23 § Det bokförda värdet av moderföretagets andelar i ett
-dotterföretag får elimineras i koncernbalansräkningen genom
-avräkning mot den andel av dotterföretagets eget kapital som
-belöpte på moderföretagets andelar i dotterföretaget vid
-förvärvet utan att 20-22 §§ tillämpas, om
-
-1. moderföretagets andelar i dotterföretaget representerar mer
-än 90 procent av det nominella värdet av samtliga andelar i
-dotterföretaget,
-
-2. andelarna har förvärvats genom att moderföretaget har
-emitterat andelar vilka har lämnats som vederlag för andelarna
-i dotterföretaget,
-
-3. den kontanta betalningen för de förvärvade andelarna inte
-överstiger tio procent av de emitterade andelarnas nominella
-värde, och
-
-4. det i övrigt är förenligt med kravet på god redovisningssed
-och kravet i 6 § på rättvisande bild.
-
-Det skillnadsbelopp som uppkommer vid tillämpning av första
-stycket skall läggas till eller dras ifrån eget kapital i
-koncernbalansräkningen.
-
-Upplysning om att första stycket har tillämpats skall lämnas i
-en not. Där skall också lämnas upplysning om de förändringar i
-eget kapital som åtgärden har medfört och om namn,
-organisationsnummer och säte för de berörda dotterföretagen.
-Lag (1999:1112).
+förvärvande företaget anses som dotterföretag. Lag (2015:813).
 
 24 § Har upphävts genom lag (2004:1173).
 
 Hur andelar i intresseföretag och vissa andra företag skall
 räknas in i koncernredovisningen
 
-Kapitalandelsmetoden
+Hur andelar i intresseföretag och gemensamt styrda företag
+ska räknas in i koncernredovisningen
 
-25 § Andelar i intresseföretag skall redovisas i
+25 § Andelar i intresseföretag ska redovisas i
 koncernbalansräkningen och koncernresultaträkningen med
-tillämpning av bestämmelserna i 26-29 §§, om inte annat följer
-av tredje stycket eller 30 §.
+tillämpning av 26–29 §§, om inte något annat följer av tredje
+stycket.
 
-Vid tillämpning av första stycket skall bestämmelserna i 12 §
+Vid tillämpning av första stycket ska bestämmelserna i 12 §
 om värdering och 13 § om internvinsteliminering tillämpas, om
 det inte finns särskilda hinder mot detta. Med internvinst
-skall därvid avses den andel i vinst som belöper på
+ska avses den andel i vinsten som är att hänföra till
 moderföretaget vid överlåtelse mellan intresseföretag och
 koncernföretag.
 
 Ett intresseföretag behöver inte redovisas enligt första
 stycket, om
 
-1. företaget har ringa betydelse med hänsyn till kravet i 6 §
-på rättvisande bild, eller
+1. informationen om ägarintresset i företaget inte är
+väsentlig, eller
 
-2. förhållandena motsvarar dem som anges i 5 § tredje stycket.
+2. förhållandena motsvarar dem som anges i 5 § andra
+stycket.
 
-Den som tillämpar tredje stycket skall i en not upplysa om
-skälen för detta. Lag (1999:1112).
+Om tredje stycket tillämpas, ska skälen för det anges i en
+not. Lag (2015:813).
 
 26 § Första gången andelarna i ett intresseföretag redovisas i
 koncernbalansräkningen skall moderföretaget först göra en
@@ -2145,98 +2398,107 @@ som intäkt. Lag (1999:1112).
 
 Klyvningsmetoden
 
-30 § Ett företag som omfattas av en koncernredovisning och som
-tillsammans med ett eller flera företag, som inte omfattas av
-koncernredovisningen, leder ett annat företag som inte är
-dotterföretag, får redovisa sin ägarandel i det sistnämnda
-företaget enligt andra stycket.
+30 § Ett företag som omfattas av en koncernredovisning, och
+som tillsammans med ett eller flera företag som inte omfattas
+av koncernredovisningen leder ett gemensamt styrt företag,
+ska redovisa sin ägarandel i det sistnämnda företaget enligt
+andra stycket eller på det sätt som anges i 25–29 §§.
 
-I koncernbalansräkningen får tas upp en så stor andel av det
-underordnade företagets tillgångar, avsättningar och skulder
-som belöper på ägarandelen. I koncernresultaträkningen får tas
-upp en så stor andel av det underordnade företagets intäkter
-och kostnader som belöper på ägarandelen. Vid redovisning
-enligt detta stycke skall 10-13, 15 och 19-22 §§ tillämpas. Ett
-företag som tillämpar denna paragraf skall i en not upplysa om
-skälen för detta. Uppgift enligt 5 kap. 18 § skall anges
-särskilt för varje företag för vilket ägarandelar redovisas med
-tillämpning av denna paragraf. Lag (1999:1112).
+I koncernbalansräkningen får det tas upp en så stor andel av
+det gemensamt styrda företagets tillgångar, avsättningar och
+skulder som avser ägarandelen. I koncernresultaträkningen får
+det tas upp en så stor andel av det gemensamt styrda
+företagets intäkter och kostnader som avser ägarandelen. Vid
+redovisning enligt detta stycke ska 10–13, 15 och 19–22 §§
+tillämpas. Uppgift enligt 5 kap. 20 och 37 §§ ska anges
+särskilt för varje företag för vilket ägarandelar redovisas
+med tillämpning av denna paragraf. Lag (2015:813).
 
 Förvaltningsberättelse och kassaflödesanalys
 
 31 § Förvaltningsberättelse och kassaflödesanalys för
-koncernen ska upprättas med tillämpning av 6 kap. 1 och
-2 a5 §§. Det som sägs i 6 kap. 1 § om mindre företag ska
-i stället avse mindre koncerner.
+koncernen ska upprättas med tillämpning av 6 kap. 1 §, 2 §
+andra stycket och 2 a–5 §§. Det som sägs i 6 kap. 1 § om
+mindre företag ska i stället avse mindre koncerner.
 
-Om moderbolaget är ett aktiebolag och bolagets eller något av
-dess dotterföretags andelar, teckningsoptioner eller
-skuldebrev är upptagna till handel på en reglerad marknad,
-ska det i förvaltningsberättelsen lämnas upplysning om de
-viktigaste inslagen i koncernens system för intern kontroll
-och riskhantering i samband med upprättandet av
+Om moderföretaget är ett aktiebolag och bolagets eller något
+av dess dotterföretags andelar eller överlåtbara värdepapper
+är upptagna till handel på en reglerad marknad, ska det i
+förvaltningsberättelsen lämnas upplysning om de viktigaste
+inslagen i koncernens system för intern kontroll och
+riskhantering i samband med upprättandet av
 koncernredovisningen.
 
-Om moderbolaget har upprättat en bolagsstyrningsrapport som
+Om moderföretaget har upprättat en bolagsstyrningsrapport som
 inte utgör en del av förvaltningsberättelsen och det i
 rapporten har tagits med sådana upplysningar om koncernen som
 avses i andra stycket, behöver upplysningarna inte lämnas
 också i koncernredovisningen. I sådana fall ska dock
 förvaltningsberättelsen för koncernen innehålla en uppgift om
 den plats i rapporten där upplysningarna lämnas.
-Lag (2014:542).
+Lag (2015:813).
 
 Koncernredovisning i moderföretag som omfattas av IAS-
 förordningen
 
-32 § Ett företag som omfattas av artikel 4 i Europaparlamentets
-och rådets förordning (EG) nr 1606/2002 av den 19 juli 2002 om
-tillämpning av internationella redovisningsstandarder ska
-tillämpa enbart följande bestämmelser i detta kapitel:
+32 § Ett företag som omfattas av artikel 4 i
+Europaparlamentets och rådets förordning (EG) nr 1606/2002 av
+den 19 juli 2002 om tillämpning av internationella
+redovisningsstandarder, i lydelsen enligt Europaparlamentets
+och rådets förordning (EU) 297/2008, ska tillämpa enbart
+följande bestämmelser i detta kapitel:
 
-1. 1-3 a §§ om skyldighet att upprätta koncernredovisning,
+1. 1–3 a §§ om skyldighet att upprätta koncernredovisning,
 
 2. 4 § första stycket 4 om förvaltningsberättelse,
 
-3. 7 § vad gäller hänvisningarna till 2 kap. 5 § om språk och
-form och 2 kap. 7 § om undertecknande,
+3. 7 § när det gäller hänvisningarna till 2 kap. 5 § om form
+m.m. och 2 kap. 7 § om undertecknande,
 
-4. 12 § första stycket om värderingsprinciper,
+4. 8 § till den del paragrafen hänvisar till 3 kap. 10 b § om
+en ekonomisk förenings eget kapital,
 
-5. 14 § vad gäller hänvisningarna till följande bestämmelser i
-5 kap.:
+5. 12 § första stycket om värderingsprinciper,
 
-- 12 § om lån till ledande befattningshavare,
+6. 14 § när det gäller hänvisningarna till följande
+bestämmelser i 5 kap.:
 
-- 15 § första och tredje styckena om en ekonomisk förenings
-eget kapital,
+– 18 § om lån till ledande befattningshavare,
 
-- 18 § om medelantalet anställda under räkenskapsåret,
+– 20 § om medelantalet anställda under räkenskapsåret,
 
-- 18 b § om könsfördelningen bland ledande befattningshavare,
+– 32 § om ytterligare upplysningar om lån till ledande
+befattningshavare,
 
-- 20 § första stycket 1 samt andra och tredje styckena samt
-21 § om löner, ersättningar och sociala kostnader,
+– 37 § om ytterligare upplysningar om anställda,
 
-- 22 § om pensioner och liknande förmåner,
+– 38 § om könsfördelningen bland ledande befattningshavare,
 
-- 23 § om tidigare styrelse och verkställande direktör,
+– 40 § första stycket 1 samt andra och tredje styckena om
+löner och andra ersättningar,
 
-- 24 § om suppleanter och vice verkställande direktör, och
+– 41 § om pensioner och liknande förmåner,
 
-- 25 § om avtal om avgångsvederlag,
+– 42 § om tidigare styrelse och verkställande direktör,
 
-6. 31 § första stycket, vad gäller hänvisningarna till 6 kap. 1
-och 2 a-4 §§ om förvaltningsberättelsens innehåll, och
+– 43 § om suppleanter och vice verkställande direktör,
 
-7. 31 § andra och tredje styckena om koncernens system för
+– 44 § om avtal om avgångsvederlag, och
+
+– 48 § om ersättningar till revisorer och revisionsföretag,
+
+7. 31 § första stycket, när det gäller hänvisningarna till 6
+kap. 1 och 2 a–4 §§ om förvaltningsberättelsens innehåll,
+och
+
+8. 31 § andra och tredje styckena om koncernens system för
 intern kontroll och riskhantering.
 
 Ett företag som avses i första stycket behöver inte lämna
 upplysningar enligt 6 kap. 1 §, om upplysningarna lämnas på
-annan plats i redovisningen. I sådant fall ska
+någon annan plats i redovisningen. I sådant fall ska
 förvaltningsberättelsen för koncernen innehålla en hänvisning
-till den plats där uppgifterna har lämnats. Lag (2010:1515).
+till den plats där uppgifterna har lämnats. Lag (2015:813).
 
 33 § Andra företag än de som avses i 32 § får upprätta
 koncernredovisning med tillämpning av de internationella
@@ -2524,18 +2786,18 @@ ofullständigt skick, ska det av publikationen framgå att den
 inte är fullständig. Det ska också anges om den fullständiga
 årsredovisningen har getts in till registreringsmyndigheten.
 
-En årsredovisning får, när den publiceras i ofullständigt
-skick, inte åtföljas av revisionsberättelsen. Publikationen ska
-i stället innehålla revisorns uttalande om att den fullständiga
-årsredovisningen har upprättats enligt lag, liksom uppgift om
-anmärkningar enligt
+När en årsredovisning publiceras i ofullständigt skick, får
+den inte åtföljas av revisionsberättelsen. Publikationen ska
+i stället innehålla revisorns uttalande om att den
+fullständiga årsredovisningen har upprättats enligt lag,
+liksom uppgift om anmärkningar enligt
 
 1. 9 kap. 31, 33 och 34 §§ aktiebolagslagen (2005:551),
 
-2. 8 kap. 13 § andra-fjärde styckena lagen (1987:667) om
+2. 8 kap. 13 § andra–fjärde styckena lagen (1987:667) om
 ekonomiska föreningar,
 
-3. 28-30 §§ revisionslagen (1999:1079), och
+3. 28–30 §§ revisionslagen (1999:1079), och
 
 4. 4 kap. 11 § andra och tredje styckena stiftelselagen
 (1994:1220).
@@ -2543,16 +2805,16 @@ ekonomiska föreningar,
 Om någon revisionsberättelse inte har lämnats, ska detta
 förhållande liksom skälen för det anges.
 
-Trots bestämmelserna i andra stycket får en ofullständig
-årsredovisning publiceras tillsammans med revisionsberättelsen,
-om ofullständigheten består i att
+Trots andra stycket får en ofullständig årsredovisning
+publiceras tillsammans med revisionsberättelsen, om
+ofullständigheten består i att
 
-1. upplysningar enligt 5 kap. 18 § har lämnats utan uppgift om
-fördelningen mellan kvinnor och män eller utan uppgift om
+1. upplysningar enligt 5 kap. 37 § har lämnats utan uppgift
+om fördelningen mellan kvinnor och män eller utan uppgift om
 fördelningen mellan olika länder, eller
 
-2. uppgift enligt 5 kap. 18 b § inte har lämnats.
-Lag (2010:1515).
+2. uppgift enligt 5 kap. 38 § inte har lämnats.
+Lag (2015:813).
 
 15 a § En bolagsstyrningsrapport som enligt 6 kap. 8 § har
 upprättats som en från årsredovisningen skild handling ska
@@ -2579,17 +2841,16 @@ Koncernredovisning och koncernrevisionsberättelse
 16 § Detta kapitel tillämpas också på koncernredovisning och
 koncernrevisionsberättelse med följande avvikelser:
 
-1. Trots bestämmelserna i 3 § 2 och 5 är moderföretag alltid
-skyldiga att ge in koncernredovisningen och
-koncernrevisionsberättelsen till registreringsmyndigheten.
+1. Trots 3 § 2 och 5 är moderföretag alltid skyldiga att ge
+in koncernredovisningen och koncernrevisionsberättelsen till
+registreringsmyndigheten.
 
-2. Trots bestämmelserna i 15 § andra stycket får en
-ofullständig koncernredovisning, förutom i fall som avses i 15
-§ fjärde stycket, publiceras tillsammans med
-koncernrevisionsberättelsen, om ofullständigheten består i att
-uppgifter som anges i 7 kap. 16 § och som är av ringa betydelse
-med hänsyn till kravet på rättvisande bild har utelämnats.
-Lag (1999:1112).
+2. Trots 15 § andra stycket får en ofullständig
+koncernredovisning, förutom i fall som avses i 15 § fjärde
+stycket, publiceras tillsammans med
+koncernrevisionsberättelsen, om ofullständigheten består i
+att uppgifter som anges i 7 kap. 16 § första stycket 4 och
+som inte är väsentliga har utelämnats. Lag (2015:813).
 
 9 kap. Delårsrapport
 
@@ -2726,8 +2987,8 @@ B. Anläggningstillgångar
 
 I. Immateriella anläggningstillgångar
 
-1. Balanserade utgifter för forsknings- och utvecklingsarbeten
-och liknande arbeten
+1. Balanserade utgifter för utvecklingsarbeten och liknande
+arbeten
 
 2. Koncessioner, patent, licenser, varumärken samt liknande
 rättigheter
@@ -2755,17 +3016,23 @@ III. Finansiella anläggningstillgångar
 
 2. Fordringar hos koncernföretag
 
-3. Andelar i intresseföretag
+3. Andelar i intresseföretag och gemensamt styrda företag
 
-4. Fordringar hos intresseföretag
+4. Fordringar hos intresseföretag och gemensamt styrda
+företag
 
-5. Andra långfristiga värdepappersinnehav
+5. Ägarintressen i övriga företag
 
-6. Lån till delägare och andra, till vilka delägare står i
+6. Fordringar hos övriga företag som det finns ett
+ägarintresse i
+
+7. Andra långfristiga värdepappersinnehav
+
+8. Lån till delägare och andra, till vilka delägare står i
 sådant förhållande som sägs i 21 kap. 1 § 3, 4 eller 5
 aktiebolagslagen (2005:551)
 
-7. Andra långfristiga fordringar
+9. Andra långfristiga fordringar
 
 C. Omsättningstillgångar
 
@@ -2787,11 +3054,15 @@ II. Fordringar
 
 2. Fordringar hos koncernföretag
 
-3. Fordringar hos intresseföretag
+3. Fordringar hos intresseföretag och gemensamt styrda
+företag
 
-4. Övriga fordringar
+4. Fordringar hos övriga företag som det finns ett
+ägarintresse i
 
-5. Förutbetalda kostnader och upplupna intäkter
+5. Övriga fordringar
+
+6. Förutbetalda kostnader och upplupna intäkter
 
 III. Kortfristiga placeringar
 
@@ -2814,7 +3085,7 @@ II. Överkursfond
 
 III. Uppskrivningsfond
 
-IV Andra fonder
+IV. Andra fonder
 
 1. Reservfond
 
@@ -2822,7 +3093,9 @@ IV Andra fonder
 
 3. Fond för verkligt värde
 
-4. Övrigt
+4. Fond för utvecklingsutgifter
+
+5. Övrigt
 
 V. Balanserad vinst eller förlust
 
@@ -2846,7 +3119,9 @@ III. Andra fonder
 
 3. Fond för verkligt värde
 
-4. Övrigt
+4. Fond för utvecklingsutgifter
+
+5. Övrigt
 
 IV. Balanserad vinst eller förlust
 
@@ -2891,95 +3166,81 @@ under Varulager m.m.)
 
 6. Skulder till koncernföretag
 
-7. Skulder till intresseföretag
+7. Skulder till intresseföretag och gemensamt styrda
+företag
 
-8. Skatteskulder
+8. Skulder till övriga företag som det finns ett
+ägarintresse i
 
-9. Övriga skulder
+9. Skatteskulder
 
-a) Återbetalningspliktiga medel mottagna av allmänheten enligt
-lagen (2004:299) om inlåningsverksamhet
+10. Övriga skulder
+
+a) Återbetalningspliktiga medel mottagna av allmänheten
+enligt lagen (2004:299) om inlåningsverksamhet
 
 b) Andra skulder
 
-10. Upplupna kostnader och förutbetalda intäkter
+11. Upplupna kostnader och förutbetalda intäkter
+Lag (2015:813).
 
-Poster inom linjen
-
-Ställda säkerheter och ansvarsförbindelser
-
-1. Panter och därmed jämförliga säkerheter som har ställts för
-egna skulder    och för förpliktelser som redovisas såsom
-avsättningar, varje slag för sig
-
-2. Övriga ställda panter och därmed jämförliga säkerheter,
-varje slag för sig
-
-3. Ansvarsförbindelser
-
-a. Pensionsförpliktelser som inte har upptagits bland skulderna
-eller avsättningarna och som inte heller har täckning i
-pensionsstiftelses förmögenhet
-
-b. Övriga ansvarsförbindelser
-Lag (2005:918).
 
 Bilaga 2
 
 Uppställningsform I för resultaträkning (rapportform med
 kostnadsslagsindelning)
 
-1.Nettoomsättning
+1. Nettoomsättning
 
-2.Förändring av varulager
+2. Förändring av varulager
 
-3.Aktiverat arbete för egen räkning
+3. Aktiverat arbete för egen räkning
 
-4.Övriga rörelseintäkter
+4. Övriga rörelseintäkter
 
-5.Råvaror och förnödenheter
+5. Råvaror och förnödenheter
 
-6.Övriga externa kostnader
+6. Övriga externa kostnader
 
-7.Personalkostnader
+7. Personalkostnader
 
-8.Avskrivningar och nedskrivningar av materiella och immateriella
-anläggningstillgångar
+8. Avskrivningar och nedskrivningar av materiella och
+immateriella anläggningstillgångar
 
-9.Nedskrivningar av omsättningstillgångar utöver normala
+9. Nedskrivningar av omsättningstillgångar utöver normala
 nedskrivningar
 
-10.Övriga rörelsekostnader
+10. Övriga rörelsekostnader
 
-11.Intäkter från andelar i koncernföretag
+11. Intäkter från andelar i koncernföretag
 
-12.Intäkter från andelar i intresseföretag
+12. Intäkter från andelar i intresseföretag och gemensamt
+styrda företag
 
-13.Intäkter från övriga värdepapper och fordringar som är
+13. Intäkter från övriga företag som det finns ett
+ägarintresse i
+
+14. Intäkter från övriga värdepapper och fordringar som är
 anläggningstillgångar (med särskild uppgift om intäkter från
 koncernföretag)
 
-14.Övriga ränteintäkter och liknande intäkter (med särskild uppgift
-om intäkter från koncernföretag)
+15. Övriga ränteintäkter och liknande intäkter (med särskild
+uppgift om intäkter från koncernföretag)
 
-15.Nedskrivningar av finansiella anläggningstillgångar och
+16. Nedskrivningar av finansiella anläggningstillgångar och
 kortfristiga placeringar
 
-16.Räntekostnader och liknande kostnader (med särskild uppgift om
-kostnader avseende koncernföretag)
+17. Räntekostnader och liknande kostnader (med särskild
+uppgift om kostnader som avser koncernföretag)
 
-17.Extraordinära intäkter
+18. Bokslutsdispositioner
 
-18.Extraordinära kostnader
+19. Skatt på årets resultat
 
-19.Bokslutsdispositioner
+20. Övriga skatter
 
-20.Skatt på årets resultat
-
-21.Övriga skatter
-
-22.Årets resultat
-Lag (1999:1112).
+21. Årets resultat
+Lag (2015:813).
 
 
 Bilaga 3
@@ -2987,49 +3248,50 @@ Bilaga 3
 Uppställningsform II för resultaträkning (rapportform med
 funktionsindelning)
 
-1.Nettoomsättning
+1. Nettoomsättning
 
-2.Kostnad för sålda varor
+2. Kostnad för sålda varor
 
-3.Bruttoresultat
+3. Bruttoresultat
 
-4.Försäljningskostnader
+4. Försäljningskostnader
 
-5.Administrationskostnader
+5. Administrationskostnader
 
-6.Övriga rörelseintäkter
+6. Övriga rörelseintäkter
 
-7.Övriga rörelsekostnader
+7. Övriga rörelsekostnader
 
-8.Intäkter från andelar i koncernföretag
+8. Intäkter från andelar i koncernföretag
 
-9.Intäkter från andelar i intresseföretag
+9. Intäkter från andelar i intresseföretag och gemensamt
+styrda företag
 
-10.Intäkter från övriga värdepapper och fordringar som är
+10. Intäkter från övriga företag som det finns ett
+ägarintresse i
+
+11. Intäkter från övriga värdepapper och fordringar som är
 anläggningstillgångar (med särskild uppgift om intäkter från
 koncernföretag)
 
-11.Övriga ränteintäkter och liknande intäkter (med särskild uppgift
-om intäkter från koncernföretag)
+12. Övriga ränteintäkter och liknande intäkter (med särskild
+uppgift om intäkter från koncernföretag)
 
-12.Nedskrivningar av finansiella anläggningstillgångar och
+13. Nedskrivningar av finansiella anläggningstillgångar och
 kortfristiga placeringar
 
-13.Räntekostnader och liknande kostnader (med särskild uppgift om
-kostnader avseende koncernföretag)
+14. Räntekostnader och liknande kostnader (med särskild
+uppgift om kostnader som avser koncernföretag)
 
-14.Extraordinära intäkter
+15. Bokslutsdispositioner
 
-15.Extraordinära kostnader
+16. Skatt på årets resultat
 
-16.Bokslutsdispositioner
+17. Övriga skatter
 
-17.Skatt på årets resultat
+18. Årets resultat
+Lag (2015:813).
 
-18.Övriga skatter
-
-19.Årets resultat
-Lag (1999:1112).
 
 Övergångsbestämmelser
 
@@ -3298,3 +3560,10 @@ ränta som hänför sig till tid från och med den 1 januari
 
 2. Äldre föreskrifter får tillämpas för det räkenskapsår som
 har inletts närmast före ikraftträdandet.
+
+2015:813
+
+1. Denna lag träder i kraft den 1 januari 2016.
+
+2. Lagen tillämpas första gången för det räkenskapsår som
+inleds närmast efter den 31 december 2015.

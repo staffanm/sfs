@@ -1,35 +1,8 @@
-
-
 1 kap. Inledande bestämmelser
 
 Lagens tillämpningsområde
 
-1 § /Upphör att gälla U:2016-01-01/
-Denna lag är tillämplig på försäkringsföretag. Med
-försäkringsföretag avses försäkringsaktiebolag, ömsesidiga
-försäkringsbolag och försäkringsföreningar som omfattas av
-försäkringsrörelselagen (2010:2043).
-
-Bestämmelserna om koncernredovisning i 7 kap. ska tillämpas
-på finansiella holdingföretag som uteslutande eller
-huvudsakligen förvaltar andelar i dotterföretag som är
-försäkringsföretag eller utländska företag av motsvarande
-slag. Med finansiellt holdingföretag avses ett aktiebolag,
-ett handelsbolag eller en ekonomisk förening vars verksamhet
-uteslutande eller så gott som uteslutande består i att i
-vinstsyfte förvärva och förvalta andelar i dotterföretag.
-
-Från denna lag får medges undantag för sådana
-försäkringsföretag som får undantas från
-försäkringsrörelselagen enligt 1 kap. 19 och 20 §§ samma lag.
-Frågor om sådana undantag prövas av Finansinspektionen.
-
-För sådana företag som medgivits undantag från denna lag ska
-i stället sådana föreskrifter som meddelats med stöd av 4 §
-andra stycket gälla. Lag (2013:452).
-
-1 § /Träder i kraft I:2016-01-01/
-Denna lag är tillämplig på försäkringsföretag. Med
+1 § Denna lag är tillämplig på försäkringsföretag. Med
 försäkringsföretag avses försäkringsaktiebolag, ömsesidiga
 försäkringsbolag och försäkringsföreningar som omfattas av
 försäkringsrörelselagen (2010:2043).
@@ -78,17 +51,27 @@ Lag (2010:2058).
 Definitioner
 
 3 § Följande bestämmelser i 1 kap. årsredovisningslagen
-(1995:1554) skall tillämpas:
+(1995:1554) ska tillämpas:
 
 3 § första stycket 2 om definition av andelar,
 
-4 och 5 §§ om koncern- och intresseföretagsdefinitioner,
+4 § om vad som avses med koncern, moderföretag, dotterföretag
+och koncernföretag,
+
+4 a § om vad som avses med ägarintresse,
+
+5 § om vad som avses med intresseföretag,
+
+5 a § om vad som avses med gemensamt styrt företag,
 
 6 § om hänsynstagande till vissa rättigheter hos mellanman
-m.m., samt
+m.m.,
 
-7 § om skyldighet för moderföretag och dotterföretag att lämna
-varandra upplysningar. Lag (2006:873).
+7 § om skyldighet för moderföretag och dotterföretag att
+lämna varandra upplysningar, och
+
+8 och 9 §§ om vad som avses med närstående.
+Lag (2015:818).
 
 Normgivningsbemyndigande
 
@@ -139,14 +122,16 @@ kap. årsredovisningslagen (1995:1554) ska tillämpas:
 
 3 § om rättvisande bild,
 
+3 a § om väsentlighet,
+
 4 § om andra grundläggande redovisningsprinciper,
 
-5 § om form och språk,
+5 § om form m.m.,
 
-6 § om valuta, samt
+6 § om valuta, och
 
-7 § första och femte-sjunde styckena om årsredovisningens
-undertecknande. Lag (2008:95).
+7 § första och femte–sjunde styckena om årsredovisningens
+undertecknande. Lag (2015:818).
 
 3 kap. Balansräkning och resultaträkning
 
@@ -160,9 +145,9 @@ uppställningsformer, om inte annat framgår.
 
 Årsredovisningslagens tillämpning
 
-2 § Med beaktande av det som föreskrivs i 3 § ska följande
-bestämmelser om balansräkningen och resultaträkningen i 3 kap.
-årsredovisningslagen (1995:1554) tillämpas:
+2 § Följande bestämmelser om balansräkningen och
+resultaträkningen i 3 kap. årsredovisningslagen (1995:1554)
+ska tillämpas:
 
 1 § om balansräkningens innehåll,
 
@@ -171,7 +156,7 @@ bestämmelser om balansräkningen och resultaträkningen i 3 kap.
 4 § första, tredje och fjärde styckena om uppställning och
 sammanslagning av poster m.m.,
 
-5 § första-tredje styckena om jämförelsetal,
+5 § första–tredje styckena om jämförelsetal,
 
 5 a § om överkursfonden,
 
@@ -179,44 +164,68 @@ sammanslagning av poster m.m.,
 
 8 § om specificering av större periodiseringsposter,
 
-9 § om avsättningar,
+9 § om avsättningar, och
 
-10 § om specificering av vissa större avsättningar, samt
+10 § om specificering av vissa större avsättningar.
 
-13 § om extraordinära intäkter och kostnader.
-Lag (2010:2058).
-
-Särskilda regler om sammanslagning av poster och åtaganden
-
-3 § De i 2 § angivna bestämmelserna i 3 kap.
-årsredovisningslagen (1995:1554) skall tillämpas med följande
-avvikelser:
-
-1. Vad som i 4 § fjärde stycket sägs om sammanslagning av
-poster som föregås av arabiska siffror gäller inte för posterna
-upptagna i schemat för resultaträkningen i bilaga 2 eller för
-sådana poster i balansräkningen som skall tas upp under
-Placeringstillgångar för vilka livförsäkringstagaren bär
-placeringsrisk (D), Återförsäkrares andel av
-försäkringstekniska avsättningar (E) eller Försäkringstekniska
-avsättningar (DD och EE).
-
-2. Inom linjen skall, utöver ställda säkerheter och
-ansvarsförbindelser, oåterkalleliga åtaganden som innebär
-risktagande anges. Lag (1999:603).
+Vid tillämpningen av 3 kap. 4 § årsredovisningslagen ska det
+som sägs där om sammanslagning av poster som föregås av
+arabiska siffror inte gälla för posterna upptagna i schemat
+för resultaträkningen i bilaga 2 eller för sådana poster i
+balansräkningen som ska tas upp under Placeringstillgångar
+där livförsäkringstagaren bär placeringsrisk (D),
+Återförsäkrares andel av försäkringstekniska avsättningar (E)
+eller Försäkringstekniska avsättningar (DD och EE).
+Lag (2015:818).
 
 Förpliktelse till följd av försäkringsavtal
 
-4 § Förpliktelse som uppkommit till följd av försäkringsavtal
-behöver inte tas upp som ansvarsförbindelse eller åtagande.
+3 § En förpliktelse som uppkommit till följd av
+försäkringsavtal behöver inte tas upp som en
+eventualförpliktelse. Lag (2015:818).
+
+Särskilda regler om indelningen av eget kapital
+
+4 § Eget kapital ska delas upp på följande sätt:
+
+1. I livförsäkringsföretag som inte får dela ut vinst ska som
+bundet eget kapital tas upp Aktiekapital, Garantikapital,
+Verksamhetskapital, Överkursfond, Förlagsinsatser,
+Konsolideringsfond, Kapitalandelsfond, Fond för verkligt
+värde, Fond för utvecklingsutgifter och vinst eller förlust
+för räkenskapsåret. Förlust för räkenskapsåret tas då upp som
+avdragspost.
+
+2. I livförsäkringsföretag som får dela ut vinst ska eget
+kapital delas upp i bundet eget kapital och fritt eget
+kapital eller ansamlad förlust. Under bundet eget kapital ska
+det tas upp Aktiekapital, Garantikapital, Verksamhetskapital,
+Förlagsinsatser, Uppskrivningsfond, Reservfond,
+Kapitalandelsfond, Fond för verkligt värde och Fond för
+utvecklingsutgifter. Under fritt eget kapital eller ansamlad
+förlust ska det tas upp fria fonder, var för sig, balanserad
+vinst eller förlust och vinst eller förlust för
+räkenskapsåret. Balanserad förlust och förlust för
+räkenskapsåret tas då upp som avdragsposter.
+
+3. I skadeförsäkringsföretag ska eget kapital delas upp i
+bundet eget kapital och fritt eget kapital eller ansamlad
+förlust. Under bundet eget kapital ska det tas upp
+Aktiekapital, Garantikapital, Verksamhetskapital,
+Förlagsinsatser, Uppskrivningsfond, Reservfond,
+Kapitalandelsfond och Fond för utvecklingsutgifter. Under
+fritt eget kapital eller ansamlad förlust ska det tas upp
+fria fonder, var för sig, balanserad vinst eller förlust samt
+vinst eller förlust för räkenskapsåret. Balanserad förlust
+och förlust för räkenskapsåret tas då upp som
+avdragsposter. Lag (2015:818).
 
 4 kap. Värderingsregler
 
 Årsredovisningslagens tillämpning
 
-1 § Med beaktande av vad som föreskrivs i 2 § ska följande
-bestämmelser om värderingen i 4 kap. årsredovisningslagen
-(1995:1554) tillämpas:
+1 § Följande bestämmelser om värderingen i 4 kap.
+årsredovisningslagen (1995:1554) ska tillämpas:
 
 2 § om immateriella anläggningstillgångar,
 
@@ -226,9 +235,12 @@ bestämmelser om värderingen i 4 kap. årsredovisningslagen
 
 5 § om nedskrivning av anläggningstillgångar,
 
-68 §§ om uppskrivning av anläggningstillgångar,
+6 § om uppskrivning av anläggningstillgångar,
 
-9 § förstafjärde styckena om värdering av
+7 och 8 §§ om ianspråktagande av uppskrivningsfonden och
+fonden för utvecklingsutgifter,
+
+9 § första–fjärde styckena om värdering av
 omsättningstillgångar,
 
 10 § om värdering av pågående arbeten,
@@ -244,12 +256,15 @@ valuta,
 
 14 § om egna aktier,
 
-14 a14 d §§ om värdering av finansiella instrument,
+14 a–14 d §§ om värdering av finansiella instrument,
 
-14 e § om värdering av säkrade poster, samt
+14 e § om värdering av säkrade poster,
 
-15 § om periodisering av vissa belopp vid upptagande av lån.
-Lag (2011:1556).
+15 § om periodisering av vissa belopp vid upptagande av lån,
+och
+
+15 a § om avsättningar.
+Lag (2015:818).
 
 Hur värderingsreglerna ska tilllämpas på ett
 försäkringsföretags tillgångar och skulder
@@ -260,8 +275,8 @@ avvikelser:
 
 1. 2 § tillämpas på immateriella tillgångar (B).
 
-2. 3 § ska tillämpas på samtliga tillgångar, om inte annat
-följer av detta kapitel.
+2. 3 § ska tillämpas på samtliga tillgångar, om inte något
+annat följer av detta kapitel.
 
 3. 4 § ska tillämpas på dels immateriella tillgångar (B),
 dels placeringstillgångar (C) samt dels sådana materiella
@@ -276,28 +291,31 @@ som stadigvarande ska brukas eller innehas, utom när sådana
 tillgångar tas upp till sitt verkliga värde.
 
 b) 5 § andra stycket ska tillämpas endast på placeringar i
-koncernföretag och intresseföretag (C.II), andra finansiella
-placeringstillgångar (C.III.17) samt depåer hos företag som
-avgivit återförsäkring (C.IV), utom när sådana tillgångar
-tas upp till sitt verkliga värde.
+koncernföretag, intresseföretag, gemensamt styrda företag och
+övriga företag som det finns ett ägarintresse i (C.II), andra
+finansiella placeringstillgångar (C.III.1–7) samt depåer hos
+företag som avgivit återförsäkring (C.IV), utom när sådana
+tillgångar tas upp till sitt verkliga värde.
 
 5. a) 6 och 8 §§ gäller endast skadeförsäkringsbolag och ska
 tillämpas på placeringstillgångar (C) samt på sådana
 tillgångar hänförliga till materiella tillgångar och
 varulager (G.I) som stadigvarande ska innehas eller brukas,
-utom när sådana tillgångar tas upp till sitt verkliga värde.
+utom när sådana tillgångar tas upp till sitt verkliga
+värde.
 
-b) Aktier och andelar i koncernföretag och intresseföretag
-får inte skrivas upp till högre värde än vad som medges av
-Finansinspektionen.
+b) Aktier och andelar i koncernföretag,
+intresseföretag, gemensamt styrda företag och övriga företag
+som det finns ett ägarintresse i får inte skrivas upp till
+högre värde än vad som medges av Finansinspektionen.
 
 6. Uppskrivningsbelopp enligt 6 § får endast användas för
 ökning av aktiekapitalet genom fondemission eller för
 avsättning till en uppskrivningsfond (AA.III).
 
 7. 7 § första stycket 2 och andra stycket om användning av
-uppskrivningsfonden för att täcka förlust får inte
-tillämpas.
+uppskrivningsfonden eller fonden för utvecklingsutgifter för
+att täcka förlust får inte tillämpas.
 
 8. 9 § ska tillämpas på dels fordringar (F), dels kassa och
 bank (G.II), dels sådana materiella tillgångar och varulager
@@ -313,15 +331,19 @@ Finansinspektionens medgivande tillämpas även av andra
 försäkringsföretag än sådana företag som det hänvisas till i
 den bestämmelsen.
 
-11. Finansiella instrument ska tas upp till sitt verkliga
+11. Utgifter och inkomster enligt 14 § tredje stycket för
+egna aktier ska redovisas mot bundet eget kapital i
+livförsäkringsaktiebolag som inte får dela ut vinst.
+
+12. Finansiella instrument ska tas upp till sitt verkliga
 värde om det är förenligt med 14 a §.
 
-12. Försäkringsföretag som omfattas av denna lag får
-tillämpa 14 b § tredje stycket.
+13. Försäkringsföretag som omfattas av denna lag får tillämpa
+14 b § tredje stycket.
 
-13. Placeringstillgångar för vilka livförsäkringstagaren bär
+14. Placeringstillgångar för vilka livförsäkringstagaren bär
 placeringsrisken (D) ska alltid tas upp till sitt verkliga
-värde. Lag (2011:1556).
+värde. Lag (2015:818).
 
 3 § Har upphävts genom lag (2004:1177).
 
@@ -389,123 +411,168 @@ motsvara belopp som krävs för att bolaget skall kunna uppfylla
 alla åtaganden som skäligen kan förväntas uppkomma med
 anledning av ingångna försäkringsavtal. Lag (2004:1177).
 
-5 kap. Tilläggsupplysningar
+5 kap. Noter m.m.
 
 Årsredovisningslagens tillämpning
 
-1 § Utöver vad som följer av övriga bestämmelser i denna lag ska
-årsredovisningen innehålla de upplysningar som anges i 3-6 §§
-nedan. Upplysningarna ska lämnas i noter. Om det inte står i
-strid med kravet på överskådlighet, får upplysningarna i
-stället lämnas i balansräkningen eller resultaträkningen.
-Vidare ska, med beaktande av vad som föreskrivs i 2 §, följande
-bestämmelser om tilläggsupplysningar i 5 kap.
-årsredovisningslagen (1995:1554) tillämpas:
+1 § Följande bestämmelser om upplysningar i noter i 5 kap.
+årsredovisningslagen (1995:1554) ska tillämpas:
 
-1 § andra stycket om hänvisningar till noter,
+3 § om noternas ordningsföljd,
 
-2 § om värderings- och omräkningsprinciper,
+4 § om värderingsprinciper,
 
-3 § första-tredje styckena om anläggningstillgångar,
+5 § om avvikelser från grundläggande redovisningsprinciper,
 
-4 a-4 c §§ om finansiella instrument,
+7 § om jämförelsetal,
 
-5 § om uppskrivningsfond och fond för verkligt värde,
+8 § om anläggningstillgångar,
 
-7 § om inköp och försäljning mellan koncernföretag,
+9 § om goodwill,
 
-8 och 9 §§ om uppgifter om dotterföretag och vissa andra
-företag,
+10 § om finansiella instrument,
 
-10 § andra stycket om kort- och långfristiga balansposter,
+11 § om uppskrivningsfond,
 
-11 § första och andra styckena om ställda säkerheter,
+12 § om fond för verkligt värde,
 
-11 a § första stycket om ekonomiska arrangemang som inte
+13 § om långfristiga skulder,
+
+14 § om ställda säkerheter,
+
+15 § om eventualförpliktelser,
+
+16 § om åtaganden till förmån för koncernföretag m.fl.,
+
+17 § första stycket om ekonomiska arrangemang som inte
 redovisas i balansräkningen,
 
-12 § om lån till ledande befattningshavare,
+18 § om lån till ledande befattningshavare,
 
-12 a § första och tredje styckena samt 12 b § om transaktioner
-med närstående,
+19 § om exceptionella intäkter och kostnader,
 
-13 § om konvertibla lån,
+20 § om medelantalet anställda under räkenskapsåret,
 
-14 § andra och tredje styckena om förändringar i eget kapital
-m.m.,
+21 § om moderföretag,
 
-16 och 17 §§ om upplysningar om skatt,
+22 § om väsentliga händelser efter räkenskapsårets slut,
 
-18 § om medelantalet anställda under räkenskapsåret,
+23 § första stycket och 24 § om transaktioner med
+närstående,
 
-18 b § om könsfördelningen bland ledande befattningshavare,
+25 § om ytterligare upplysningar om anläggningstillgångar,
 
-19-21 §§ om löner, andra ersättningar och sociala kostnader,
+26 § om omsättningstillgångar,
 
-22 § om pensioner och liknande förmåner,
+27 § om ytterligare upplysningar om finansiella instrument,
 
-23 § om tidigare styrelse och verkställande direktör,
+28 § om inköp och försäljningar mellan koncernföretag,
 
-24 § om suppleanter och vice verkställande direktör,
+29 och 30 §§ om dotterföretag och vissa andra företag,
 
-25 § om avtal om avgångsvederlag,
+31 § om ytterligare upplysningar om långfristiga skulder,
 
-26 § om uppgift om moderföretag, samt
+32 § om ytterligare upplysningar om lån till ledande
+befattningshavare,
 
-27 § om europabolag och europakooperativ.
+33 § om konvertibla lån,
 
-Vid tillämpningen av 5 kap. 20 och 22 §§ årsredovisningslagen
+34 § om aktiekapitalet,
+
+35 § om disposition av vinst eller förlust,
+
+36 § om skatter,
+
+37 § om ytterligare upplysningar om anställda,
+
+38 § om könsfördelningen bland ledande befattningshavare,
+
+39 och 40 §§ om löner, andra ersättningar och sociala
+kostnader,
+
+41 § om pensioner och liknande förmåner,
+
+42 § om tidigare styrelse och verkställande direktör,
+
+43 § om suppleanter och vice verkställande direktör,
+
+44 § om avtal om avgångsvederlag,
+
+45 § om ytterligare upplysningar om moderföretag,
+
+46 § om ytterligare upplysningar om ställda säkerheter,
+
+48 § om ersättningar till revisorer och revisionsföretag,
+och
+
+49 § om europabolag och europakooperativ.
+
+Vid tillämpningen av 5 kap. 40 och 41 §§ årsredovisningslagen
 ska samtliga företag som omfattas av denna lag anses som
-publika aktiebolag. Lag (2010:1526).
+publika aktiebolag.
 
-Särskilda regler om tilläggsupplysningar
+Upplysningarna ska lämnas i noter. Lag (2015:818).
+
+Särskilda regler om upplysningar i noter
 
 2 § De i 1 § angivna bestämmelserna i 5 kap.
 årsredovisningslagen (1995:1554) ska tillämpas med följande
 avvikelser:
 
-1. Utöver värderings- och omräkningsprinciper enligt 2 § ska
-det anges vilket belopp som respektive värderingsprincip
-resulterat i.
+1. Utöver värderingsprinciper enligt 4 § ska det anges vilket
+belopp som respektive värderingsprincip resulterat i.
 
-2. a) 3 § första stycket ska tillämpas på dels immateriella
-tillgångar (B), dels byggnader och mark (C.I), dels placeringar
-i koncernföretag och intresseföretag (C.II).
+2. a) 8 § första stycket och 25 § andra stycket ska tillämpas
+på dels immateriella tillgångar (B), dels byggnader och mark
+(C.I), dels placeringar i koncernföretag, intresseföretag,
+gemensamt styrda företag och övriga företag som det finns ett
+ägarintresse i (C.II).
 
-b) 3 § andra och tredje styckena ska tillämpas på dels
-immateriella tillgångar (B), dels placeringstillgångar (C),
-dels sådana materiella tillgångar och varulager (G.I) och
-övriga tillgångar (G.III) som stadigvarande ska brukas eller
-innehas.
+b) 8 § andra stycket och 25 § tredje stycket ska tillämpas på
+dels immateriella tillgångar (B), dels placeringstillgångar
+(C), dels sådana materiella tillgångar och varulager (G.I)
+och övriga tillgångar (G.III) som stadigvarande ska brukas
+eller innehas.
 
-3. 4 § ska tillämpas på byggnader och mark (C.I).
+3. Vid tillämpningen av 15 § ska upplysning lämnas särskilt
+om
 
-4. 7 § ska i stället för inköp och försäljning gälla mottagen
-och avgiven återförsäkring.
+a) garantier,
 
-5. Fråga om tillstånd enligt 9 § andra stycket att utelämna
+b) oåterkalleliga åtaganden som innebär risktagande, varvid
+åtaganden till följd av återköpstransaktioner ska anges
+särskilt, och
+
+c) övriga eventualförpliktelser.
+
+4. 28 § ska i stället för inköp och försäljning gälla
+mottagen och avgiven återförsäkring.
+
+5. Fråga om tillstånd enligt 30 § första stycket att utelämna
 uppgifter om dotterföretag och vissa andra företag prövas av
 Finansinspektionen.
 
-6. 10 § andra stycket om kort- och långfristiga balansposter
-ska tillämpas endast beträffande de skulder som förfaller till
-betalning senare än fem år efter balansdagen.
+6. Utöver upplysningar enligt 20 och 37 §§ ska även uppgift
+lämnas om medelantalet anställda uppdelat på
+kontorstjänstemän, fälttjänstemän och övriga anställda i
+Sverige. Dessutom ska medelantalet fritidsombud och
+specialombud i Sverige anges var för sig.
 
-7. Utgifter och inkomster enligt 14 § andra stycket för egna
-aktier ska redovisas mot bundet eget kapital i
-livförsäkringsaktiebolag som inte får dela ut vinst.
+7. Uppgift enligt 40 § första stycket 2 om löner och
+ersättningar till anställda ska delas upp på
+kontorstjänstemän, fälttjänstemän och övriga anställda i
+Sverige. Dessutom ska ersättningsbeloppen för fritidsombud
+och specialombud i Sverige anges för varje grupp.
+Lag (2015:818).
 
-8. Utöver upplysningar enligt 18 § ska även uppgift lämnas om
-medelantalet anställda uppdelat på kontorstjänstemän,
-fälttjänstemän och övriga anställda i Sverige. Dessutom skall
-medelantalet fritidsombud och specialombud i Sverige anges var
-för sig.
+Särskilda regler om övriga upplysningar
 
-9. Uppgift enligt 20 § första stycket 2 om löner och
-ersättningar till anställda ska delas upp på kontorstjänstemän,
-fälttjänstemän och övriga anställda i Sverige. Dessutom ska
-ersättningsbeloppen för fritidsombud och specialombud i Sverige
-anges för varje grupp. Lag (2010:2058).
+2 a § Utöver det som följer av övriga bestämmelser i denna
+lag ska årsredovisningen innehålla de upplysningar som anges
+i 3–6 §§. Upplysningarna ska lämnas i noter. Om det inte står
+i strid med kravet på överskådlighet, får upplysningarna i
+stället lämnas i balansräkningen eller resultaträkningen.
+Lag (2015:818).
 
 Upplysningar om tillgångar
 
@@ -539,83 +606,58 @@ förfallodagen, skall mellanskillnaden anges. Summan av
 överstigande belopp skall anges för sig och summan av
 underskridande belopp skall anges för sig. Lag (2000:75).
 
-Upplysningar om eget kapital och avsättningar
+Upplysningar om avsättningar och eget kapital
 
-4 § Utöver det som följer av 1 § ska följande uppgifter lämnas
-om eget kapital och avsättningar:
+4 § Utöver det som följer av 1 § ska följande upplysningar
+lämnas om avsättningar och eget kapital:
 
-1. I livförsäkringsföretag som inte får dela ut vinst ska som
-bundet eget kapital tas upp Aktiekapital, Garantikapital,
-Verksamhetskapital, Överkursfond, Förlagsinsatser,
-Konsolideringsfond, Kapitalandelsfond, Fond för verkligt värde
-och vinst eller förlust för räkenskapsåret. Förlust för
-räkenskapsåret tas därvid upp som avdragspost.
-
-2. I livförsäkringsföretag som får dela ut vinst ska eget
-kapital delas upp i bundet eget kapital och fritt eget kapital
-eller ansamlad förlust. Under bundet eget kapital ska tas upp
-Aktiekapital, Garantikapital, Verksamhetskapital,
-Förlagsinsatser, Uppskrivningsfond, Reservfond,
-Kapitalandelsfond och Fond för verkligt värde. Under fritt eget
-kapital eller ansamlad förlust ska tas upp fria fonder, var för
-sig, balanserad vinst eller förlust samt vinst eller förlust
-för räkenskapsåret. Balanserad förlust och förlust för
-räkenskapsåret tas därvid upp som avdragsposter.
-
-3. I skadeförsäkringsföretag ska eget kapital delas upp i
-bundet eget kapital och fritt eget kapital eller ansamlad
-förlust. Under bundet eget kapital ska tas upp Aktiekapital,
-Garantikapital, Verksamhetskapital, Förlagsinsatser,
-Uppskrivningsfond, Reservfond och Kapitalandelsfond. Under
-fritt eget kapital eller ansamlad förlust ska tas upp fria
-fonder, var för sig, balanserad vinst eller förlust samt vinst
-eller förlust för räkenskapsåret. Balanserad förlust och
-förlust för räkenskapsåret tas därvid upp som avdragsposter.
-
-4. Om avsättningen för kvardröjande risker i posten Ej
+1. Om avsättningen för kvardröjande risker i posten Ej
 intjänade premier och kvardröjande risker (DD.1) uppgår till
 väsentligt belopp, ska beloppet anges.
 
-5. Om garanterad återbäring i posten Livförsäkringsavsättning
+2. Om garanterad återbäring i posten Livförsäkringsavsättning
 (DD.2) uppgår till väsentligt belopp, ska beloppet anges.
 
-6. Om avvecklingsresultat uppgår till väsentligt belopp ska det
-anges i en not med fördelning på kategori av skada och belopp.
-Med avvecklingsresultat avses skillnaden mellan å ena sidan
-avsättningen för oreglerade skador från föregående år vid
-räkenskapsårets ingång, efter avdrag för under räkenskapsåret
-gjorda utbetalningar av ersättningar för skador från föregående
-år, och å andra sidan avsättningen för oreglerade skador från
-föregående år vid räkenskapsårets slut.
+3. Om avvecklingsresultat uppgår till väsentligt belopp ska
+det anges i en not med fördelning på kategori av skada och
+belopp. Med avvecklingsresultat avses skillnaden mellan å ena
+sidan avsättningen för oreglerade skador från föregående år
+vid räkenskapsårets ingång, efter avdrag för under
+räkenskapsåret gjorda utbetalningar av ersättningar för
+skador från föregående år, och å andra sidan avsättningen för
+oreglerade skador från föregående år vid räkenskapsårets
+slut.
 
-7. Villkorad återbäring (EE.1) ska delas upp på avsättningar
-för vilka försäkringstagaren direkt respektive indirekt bär
-risk.
+4. Villkorad återbäring (EE.1) ska delas upp på avsättningar
+som försäkringstagaren direkt respektive indirekt bär risk
+för.
 
-8. Skadeförsäkringsföretag och livförsäkringsföretag som får
+5. Skadeförsäkringsföretag och livförsäkringsföretag som får
 dela ut vinst ska lämna närmare upplysningar om det belopp av
-fritt eget kapital som inte kan anses utdelningsbart med hänsyn
-till bestämmelserna i 4 kap. 1 § försäkringsrörelselagen
-(2010:2043) och 17 kap. 3 § tredje stycket aktiebolagslagen
-(2005:551) och om de förhållanden som motiverar bedömningen.
+fritt eget kapital som inte kan anses utdelningsbart med
+hänsyn till bestämmelserna i 4 kap. 1 §
+försäkringsrörelselagen (2010:2043) och 17 kap. 3 § tredje
+stycket aktiebolagslagen (2005:551) och om de förhållanden
+som motiverar bedömningen. Lag (2015:818).
 
-9. Livförsäkringsföretag ska lämna upplysning om belopp som
+6. Livförsäkringsföretag ska lämna upplysning om belopp som
 inte får användas för vinstutdelning eller förlusttäckning
-enligt bolagsordning eller stadgar.
+enligt bolagsordning eller stadgar. Lag (2015:818).
 
-10. Garantikapital, verksamhetskapital och förlagsinsatser i
-annan valuta än redovisningsvalutan, ska räknas om enligt
+7. Garantikapital, verksamhetskapital och förlagsinsatser i
+annan valuta än redovisningsvalutan ska räknas om enligt
 växelkursen på balansdagen. Skillnaden mellan det omräknade
-beloppet och motsvarande belopp vid räkenskapsårets ingång ska
+beloppet och motsvarande belopp vid räkenskapsårets ingång
+ska
 
-- i ömsesidiga skadeförsäkringsbolag och ömsesidiga
-livförsäkringsbolag som får dela ut vinst samt
-försäkringsföreningar som får dela ut vinst, föras mot
-Balanserad vinst eller förlust, och
+– föras mot Balanserad vinst eller förlust i ömsesidiga
+skadeförsäkringsbolag, ömsesidiga livförsäkringsbolag som får
+dela ut vinst och försäkringsföreningar som får dela ut
+vinst, och
 
-- i ömsesidiga livförsäkringsbolag som inte får dela ut vinst
-och livförsäkringsföreningar som inte får dela ut vinst föras
-mot Andra fonder. Lag (2010:2058).
+– föras mot Andra fonder i ömsesidiga livförsäkringsbolag som
+inte får dela ut vinst och livförsäkringsföreningar som inte
+får dela ut vinst. Lag (2015:818).
 
 Upplysningar om resultaträkningens poster
 
@@ -702,22 +744,22 @@ under räkenskapsåret skall anges i en not.
 teknisk redovisning i resultaträkningen, skall upplysningar om
 grunderna för överföringen lämnas i en not. Lag (1999:603).
 
-Upplysningar om koncern- och intresseföretag
+Upplysningar om koncernföretag och vissa andra företag
 
-6 § Utöver vad som följer av 1 § skall för var och en av
-posterna under Fordringar (F) och Skulder (HH) uppgifter lämnas
-om de belopp som avser koncernföretag och om de belopp som
-avser intresseföretag. Lag (2004:1177).
+6 § Utöver det som följer av 1 § ska för var och en av
+posterna under Fordringar (F) och Skulder (HH) upplysningar
+lämnas om de belopp som avser koncernföretag,
+intresseföretag, gemensamt styrda företag respektive övriga
+företag som det finns ett ägarintresse i. Lag (2015:818).
 
 6 kap. Förvaltningsberättelse m.m.
 
 Årsredovisningslagens tillämpning
 
-1 § Med beaktande av det som föreskrivs i andra stycket ska
-följande bestämmelser i 6 kap. årsredovisningslagen (1995:1554)
-tillämpas:
+1 § Följande bestämmelser i 6 kap. årsredovisningslagen
+(1995:1554) ska tillämpas:
 
-1 § förstafjärde styckena om förvaltningsberättelsens
+1 § första–fjärde styckena om förvaltningsberättelsens
 innehåll,
 
 2 § om förslag till dispositioner av vinst eller förlust m.m.
@@ -728,22 +770,18 @@ aktiebolag vars aktier är upptagna till handel på en reglerad
 marknad eller en motsvarande marknad utanför Europeiska
 ekonomiska samarbetsområdet.
 
-Det som sägs i 6 kap. 1 § andra stycket 68
+Det som sägs i 6 kap. 1 § andra stycket 6–8
 årsredovisningslagen om upplysningar om kvotvärde ska dock i
 stället avse nominellt belopp.
 
-Försäkringsaktiebolag, vars aktier är upptagna till handel på
-en reglerad marknad i Sverige, ska även tillämpa 6 kap. 1 a §
-årsredovisningslagen om förvaltningsberättelsens innehåll. Vid
-tillämpningen av nämnda paragraf ska det som sägs om riktlinjer
-av det slag som avses i 8 kap. 51 § aktiebolagslagen (2005:551)
-i stället avse riktlinjer av det slag som avses i 8 kap. 9 §
-försäkringsrörelselagen (1982:713).
+Försäkringsaktiebolag vars aktier är upptagna till handel på
+en reglerad marknad i Sverige ska även tillämpa 6 kap. 1 a §
+årsredovisningslagen om förvaltningsberättelsens innehåll.
 
-Försäkringsaktiebolag, vars aktier, teckningsoptioner eller
-skuldebrev är upptagna till handel på en reglerad marknad, ska
-även tillämpa 6 kap. 69 §§ årsredovisningslagen om
-bolagsstyrningsrapport. Lag (2009:36).
+Försäkringsaktiebolag vars överlåtbara värdepapper är
+upptagna till handel på en reglerad marknad ska även tillämpa
+6 kap. 6–9 §§ årsredovisningslagen om bolagsstyrningsrapport. 
+Lag (2015:818).
 
 Särskilda upplysningar i förvaltningsberättelsen
 
@@ -775,45 +813,45 @@ annat följer av 2 §.
 
 Årsredovisningslagens tillämpning
 
-2 § Med beaktande av vad som föreskrivs i 3 § ska följande
-bestämmelser om koncernredovisning i 7 kap.
-årsredovisningslagen (1995:1554) tillämpas:
+2 § Följande bestämmelser om koncernredovisning i 7 kap.
+årsredovisningslagen (1995:1554) ska tillämpas:
 
-2 och 3 a §§ om när koncernredovisning inte behöver upprättas,
+2 och 3 a §§ om när koncernredovisning inte behöver
+upprättas,
 
-4 § 14 om koncernredovisningens delar,
+4 §  1–4 om koncernredovisningens delar,
 
-5 § om dotterföretag som ska omfattas av koncernredovisningen,
+5 §  om dotterföretag som ska omfattas av
+koncernredovisningen,
 
-6 § om överskådlighet, god redovisningssed och rättvisande
+6 §  om överskådlighet, god redovisningssed och rättvisande
 bild,
 
-7 § andra stycket om valuta,
+7 §  andra stycket om valuta,
 
-8 § första meningen om allmänna krav på koncernbalansräkningen
-och koncernresultaträkningen,
+8 § första meningen om allmänna krav på
+koncernbalansräkningen och koncernresultaträkningen,
 
-9 § om minoritetsandelar,
+9 §  om innehav utan bestämmande inflytande,
 
-10 § om balansdag,
+10 §  om balansdag,
 
 12 § om enhetliga principer för koncernredovisningen och
 årsredovisningen,
 
-13 § om elimineringar mellan koncernföretag,
+13 §  om elimineringar mellan koncernföretag,
 
-15 § om förändringar i koncernens sammansättning,
+15 §  om förändringar i koncernens sammansättning,
 
-16 och 17 §§ om uppgifter om dotterföretag och vissa andra
-företag,
+16 § och 17 §§ om dotterföretag och vissa andra företag,
 
-1823 §§ om hur dotterföretag ska räknas in i
+18–23 §§ om hur dotterföretag ska räknas in i
 koncernredovisningen,
 
-2530 §§ om hur andelar i intresseföretag och vissa andra
-företag ska räknas in i koncernredovisningen, och
-31 § andra och tredje styckena om koncernens system för intern
-kontroll och riskhantering. Lag (2010:688).
+25–30 §§ om hur andelar i intresseföretag och gemensamt
+styrda företag ska räknas in i koncernredovisningen, och 31 §
+andra och tredje styckena om koncernens system för intern
+kontroll och riskhantering. Lag (2015:818).
 
 Särskilda regler om när koncernredovisning inte behöver upprättas
 
@@ -821,77 +859,78 @@ Särskilda regler om när koncernredovisning inte behöver upprättas
 årsredovisningslagen (1995:1554) ska tillämpas med följande
 avvikelser:
 
-1. I stället för det som sägs i 2 § första stycket 2 ska gälla
-att moderföretagets koncernredovisning har upprättats och
-reviderats enligt den lagstiftning som i den staten har
-tillkommit i enlighet med rådets direktiv 91/674/EEG av den 19
-december 1991 om årsbokslut och sammanställd redovisning för
-försäkringsföretag, senast ändrat genom Europaparlamentets och
-rådets direktiv 2006/46/EG, eller har upprättats och reviderats
-på likvärdigt sätt.
+1. I stället för det som sägs i 2 § första stycket 2 a) ska
+gälla att moderföretagets koncernredovisning har upprättats
+och reviderats enligt den lagstiftning som i den staten har
+tillkommit i enlighet med rådets direktiv 91/674/EEG av den
+19 december 1991 om årsbokslut och sammanställd redovisning
+för försäkringsföretag, i lydelsen enligt Europaparlamentets
+och rådets direktiv 2006/46/EG.
 
 2. I stället för den hänvisning som i 2 § tredje stycket görs
 till bestämmelser om ingivande och kungörande gäller en
 hänvisning till 8 kap. 5, 5 a och 6 §§ denna lag.
 
-3. I stället för den i 10 § föreskrivna tiden gäller en tid om
-sex månader.
+3. I stället för den i 10 § föreskrivna tiden gäller en tid
+om sex månader.
 
-4. Det som anges i 12 § första och tredje styckena om att andra
-värderingsprinciper får användas än i moderföretagets
+4. Det som anges i 12 § första och tredje styckena om att
+andra värderingsprinciper får användas än i moderföretagets
 årsredovisning och att koncernföretagens tillgångar,
 avsättningar och skulder inte behöver räknas om, gäller även
 tillgångar vars värdering påverkar eller bestämmer
 försäkringstagarnas rättigheter och avsättningar som värderas
-med regler specifika för försäkringsrörelse. I sådant fall ska
-upplysning om detta lämnas i en not.
+med regler specifika för försäkringsrörelse. I sådant fall
+ska upplysning om detta lämnas i en not.
 
 5. Fråga om tillstånd enligt 17 § att utelämna uppgifter om
 dotterföretag och vissa andra företag prövas av
-Finansinspektionen. Lag (2007:1462).
+Finansinspektionen. Lag (2015:818).
 
 Allmänna regler för koncernredovisningen
 
 4 § För koncernredovisningen gäller i tillämpliga delar
 
-1. de allmänna bestämmelserna om årsredovisningen i 2 kap. 2 §,
-med undantag för hänvisningarna till 2 kap. 1-3 §§
+1. de allmänna bestämmelserna om årsredovisningen i 2 kap.
+2 §, med undantag för hänvisningarna till 2 kap. 1–3 §§
 årsredovisningslagen (1995:1554),
 
 2. bestämmelserna om balansräkning och resultaträkning i 3
-kap., med det tillägget att vad som avsatts till
+kap., med det tillägget att det som avsatts till
 kapitalandelsfonden ska tas upp i koncernbalansräkningen som
 bundet eget kapital under Andra fonder (AA.V),
 
 3. bestämmelserna om värderingsregler i 4 kap.,
 
-4. bestämmelserna om tilläggsupplysningar i 5 kap., med
-undantag för 2 § 5 och hänvisningarna till 5 kap. 8, 9 och
-26 §§ årsredovisningslagen, samt
+4. bestämmelserna om noter m.m. i 5 kap., med undantag för
+2 § 5 och hänvisningarna till 5 kap. 21, 29, 30 och 45 §§
+årsredovisningslagen, samt
 
-5. bestämmelserna om upplysningarna i förvaltningsberättelsen i
-6 kap. 1 § första stycket och 2 §, med undantag för
-hänvisningen till 6 kap. 2 § årsredovisningslagen.
+5. bestämmelserna om upplysningarna i förvaltningsberättelsen
+i 6 kap. 1 §  första stycket och 2 §, med undantag för
+hänvisningen till 6 kap. 2 § första stycket
+årsredovisningslagen.
 
-Trots vad som följer av första stycket 4 får uppgifter enligt 5
-kap. 20 § tredje stycket tredje meningen och 5 kap. 22 § andra
-stycket tredje meningen årsredovisningslagen utelämnas i fråga
-om dotterföretag. Vid tillämpningen av dessa bestämmelser ska
+Trots första stycket 4 får uppgifter enligt 5 kap. 40 §
+tredje stycket tredje meningen och 5 kap. 41 § andra stycket
+tredje meningen årsredovisningslagen utelämnas i fråga om
+dotterföretag. Vid tillämpningen av dessa bestämmelser ska
 dock de lämnade uppgifterna innefatta även löner och andra
-förmåner från koncernföretag. Lag (2010:1526).
+förmåner från koncernföretag. Lag (2015:818).
 
 Koncernredovisning i moderföretag som omfattas av
 IAS-förordningen
 
 5 § Företag som avses i 1 § och som omfattas av artikel 4 i
 Europaparlamentets och rådets förordning (EG) nr 1606/2002 av
-den 19 juli 2002 om tillämpning av internationella
-redovisningsstandarder ska tillämpa enbart följande
-bestämmelser i detta kapitel:
+den 19 juli 2002 om tilllämpning av internationella
+redovisningsstandarder, i lydelsen enligt Europaparlamentets
+och rådets förordning (EU) 297/2008, ska tillämpa enbart
+följande bestämmelser i detta kapitel:
 
 1. 1 § om skyldighet att upprätta koncernredovisning,
 
-2. 2 § vad gäller hänvisningarna till
+2. 2 § när det gäller hänvisningarna till
 
 a) 7 kap. 2 § och 3 a §§ årsredovisningslagen (1995:1554) om
 när koncernredovisning inte behöver upprättas,
@@ -905,56 +944,65 @@ värderingsprinciper,
 d) 7 kap. 31 § andra och tredje styckena samma lag om
 koncernens system för intern kontroll och riskhantering,
 
-3. 3 § 1, 2 och 4 såvitt avser hänvisningen till 7 kap.12 §
+3. 3 § 1, 2 och 4 när det gäller hänvisningen till 7 kap. 12 §
 första stycket årsredovisningslagen, med särskilda regler om
 när koncernredovisning inte behöver upprättas,
 
-4. 4 § vad gäller hänvisningarna till
+4. 4 § när det gäller hänvisningarna till
 
-a) 2 kap. 2 § denna lag, i den del paragrafen hänvisar till
-årsredovisningslagens bestämmelser i 2 kap. 5 § om språk och
-form samt 2 kap. 7 § om undertecknande,
+a) 2 kap. 2 § denna lag, i den del som paragrafen hänvisar
+till årsredovisningslagens bestämmelser i 2 kap. 5 § om form
+m.m. och 2 kap. 7 § om undertecknande,
 
-b) 5 kap. 1 § denna lag, i den del paragrafen hänvisar till
-följande bestämmelser i 5 kap. årsredovisningslagen:
+b) 3 kap. 4 § denna lag om indelningen av eget kapital,
 
-- 12 § om lån till ledande befattningshavare,
+c) 5 kap. 1 § denna lag, i den del som paragrafen hänvisar
+till följande bestämmelser i 5 kap. årsredovisningslagen:
 
-- 18 § om medelantalet anställda under räkenskapsåret,
+– 18 § om lån till ledande befattningshavare,
 
-- 18 b § om könsfördelningen bland ledande befattningshavare,
+– 20 § om medelantalet anställda under räkenskapsåret,
 
-- 20 § första stycket 1 och andra och tredje styckena samt 21 §
-om löner, ersättningar och sociala kostnader,
+– 32 § om ytterligare upplysningar om lån till ledande
+befattningshavare,
 
-- 22 § om pensioner och liknande förmåner,
+– 37 § om ytterligare upplysningar om anställda,
 
-- 23 § om tidigare styrelse och verkställande direktör,
+– 38 § om könsfördelningen bland ledande befattningshavare,
 
-- 24 § om suppleanter och vice verkställande direktör, samt
+– 40 § första stycket 1 och andra och tredje styckena om
+löner och andra ersättningar,
 
-- 25 § om avtal om avgångsvederlag,
+– 41 § om pensioner och liknande förmåner,
 
-c) 5 kap. 2 § 3 denna lag med särskilda regler om
-tilläggsupplysningar,
+– 42 § om tidigare styrelse och verkställande direktör,
 
-d) 5 kap. 3 § 4 denna lag om villkorad återbäring,
+– 43 § om suppleanter och vice verkställande direktör,
 
-e) 5 kap. 4 § 1-4 och 6-8 denna lag om eget kapital och
-avsättningar,
+– 44 § om avtal om avgångsvederlag, och
 
-f) 6 kap. 1 § denna lag, i den del paragrafen hänvisar till 6
-kap. 1 § första-tredje styckena årsredovisningslagen om
-förvaltningsberättelsens innehåll, samt
+– 48 § om ersättningar till revisorer och revisionsföretag,
 
-g) 6 kap. 2 § denna lag om särskilda upplysningar i
+d) 5 kap. 2 § 3 denna lag med särskilda regler om
+upplysningar i noter,
+
+e) 5 kap. 3 § 4 denna lag om villkorad återbäring,
+
+f) 5 kap. 4 § 1 och 3–5 denna lag om avsättningar och eget
+kapital,
+
+g) 6 kap. 1 § denna lag, i den del som paragrafen hänvisar
+till 6 kap. 1 § första–tredje styckena årsredovisningslagen
+om förvaltningsberättelsens innehåll, och
+
+h) 6 kap. 2 § denna lag om särskilda upplysningar i
 förvaltningsberättelsen.
 
-Företaget behöver inte lämna upplysningar enligt 6 kap. 1 § om
-upplysningarna lämnas på annan plats i redovisningen. I sådant
-fall ska förvaltningsberättelsen innehålla en hänvisning till
-den plats där uppgifterna har lämnats.
-Lag (2010:2058).
+Företaget behöver inte lämna upplysningar enligt 6 kap. 1 §
+om upplysningarna lämnas på någon annan plats i
+redovisningen. I sådant fall ska förvaltningsberättelsen
+innehålla en hänvisning till den plats där uppgifterna har
+lämnats. Lag (2015:818).
 
 6 § Företag som avses i 1 § men som inte omfattas av artikel 4
 i Europaparlamentets och rådets förordning (EG) nr 1606/2002 av
@@ -1104,321 +1152,370 @@ Prövningstillstånd krävs vid överklagande till kammarrätten.
 Lag (2013:452).
 
 
-Bilaga 1
+Bilaga 1 
 
 Uppställningsform för balansräkning
 
 TILLGÅNGAR
 
-A. Tecknat ej inbetalt kapital
+A.      Tecknat ej inbetalt kapital
 
-B. Immateriella tillgångar
+B.      Immateriella tillgångar
 
-I       Goodwill
+        I       Goodwill
 
-II      Andra immateriella tillgångar
+        II      Andra immateriella tillgångar
 
-C. Placeringstillgångar
+C.      Placeringstillgångar
 
-I       Byggnader och mark
+        I       Byggnader och mark
 
-II      Placeringar i koncernföretag och intresseföretag
+        II      Placeringar i koncernföretag, intresseföretag, gemensamt
+		styrda företag och övriga företag som det finns ett
+		ägarintresse i
 
-1.       Aktier och andelar i koncernföretag
+                1. Aktier och andelar i koncernföretag
 
-2.       Räntebärande värdepapper emitterade av, och lån
-till,
+                2. Räntebärande värdepapper emitterade av, och lån till,
+		koncernföretag
 
-koncernföretag
+                3. Aktier och andelar i intresseföretag och gemensamt
+		styrda företag
 
-3.       Aktier och andelar i intresseföretag
+                4. Räntebärande värdepapper emitterade av, och lån till,
+		intresseföretag och gemensamt styrda företag
 
-4.       Räntebärande värdepapper emitterade av, och lån
-till, intresseföretag
+                5. Aktier och andelar i övriga företag som det finns ett
+		ägarintresse i
 
-III     Andra finansiella placeringstillgångar
+                6. Räntebärande värdepapper emitterade av, och lån till,
+		övriga företag som det finns ett ägarintresse i
 
-1.       Aktier och andelar
+        III     Andra finansiella placeringstillgångar
 
-2.       Obligationer och andra räntebärande värdepapper
+                1. Aktier och andelar
 
-3.       Andelar i investeringspooler
+                2. Obligationer och andra räntebärande värdepapper
 
-4.       Lån med säkerhet i fast egendom
+                3. Andelar i investeringspooler
 
-5.       Övriga lån
+                4. Lån med säkerhet i fast egendom
 
-6.       Utlåning till kreditinstitut
+                5. Övriga lån
 
-7.       Övriga finansiella placeringstillgångar
+                6. Utlåning till kreditinstitut
 
-IV      Depåer hos företag som avgivit återförsäkring
+                7. Övriga finansiella placeringstillgångar
 
-D. Placeringstillgångar för vilka livförsäkringstagaren bär
-placeringsrisk
+        IV      Depåer hos företag som avgivit återförsäkring
 
-1.      Tillgångar för villkorad återbäring
+D.      Placeringstillgångar för vilka livförsäkringstagaren bär
+	placeringsrisk
 
-2.      Fondförsäkringstillgångar
+                1. Tillgångar för villkorad återbäring
 
-E. Återförsäkrares andel av Försäkringstekniska avsättningar
+                2. Fondförsäkringstillgångar
 
-1.       Ej intjänade premier och kvardröjande risker
+E.      Återförsäkrares andel av Försäkringstekniska
+	avsättningar
 
-2.       Livförsäkringsavsättning
+                1. Ej intjänade premier och kvardröjande
+		risker
 
-3.       Oreglerade skador
+                2. Livförsäkringsavsättning
 
-4.       Återbäring och rabatter
+                3. Oreglerade skador
 
-5.       Övriga försäkringstekniska avsättningar
+                4. Återbäring och rabatter
 
-6.       Avsättning för livförsäkringar för vilka
-försäkringstagaren bär risk
+                5. Övriga försäkringstekniska avsättningar
+
+                6. Avsättning för livförsäkringar för vilka
+		försäkringstagaren bär risk
 
 a) Villkorad återbäring
 
 b) Fondförsäkringsåtaganden
 
-F. Fordringar
+F.      Fordringar
 
-I       Fordringar avseende direkt försäkring
+        I       Fordringar avseende direkt försäkring
 
-II      Fordringar avseende återförsäkring
+        II      Fordringar avseende återförsäkring
 
-III     Övriga fordringar
+        III     Övriga fordringar
 
-G. Andra tillgångar
+G.      Andra tillgångar
 
-I       Materiella tillgångar och varulager
+        I       Materiella tillgångar och varulager
 
-II      Kassa och bank
+        II      Kassa och bank
 
-III     Övriga tillgångar
+        III     Övriga tillgångar
 
-H. Förutbetalda kostnader och upplupna intäkter
+H.      Förutbetalda kostnader och upplupna intäkter
 
-I       Upplupna ränte- och hyresintäkter
+        I       Upplupna ränte- och hyresintäkter
 
-II      Förutbetalda anskaffningskostnader
+        II      Förutbetalda anskaffningskostnader
 
-III     Övriga förutbetalda kostnader och upplupna intäkter
+        III     Övriga förutbetalda kostnader och upplupna intäkter
 
 EGET KAPITAL, AVSÄTTNINGAR OCH SKULDER
 
-AA. Eget kapital
+AA.     Eget kapital
 
-I       Aktiekapital eller Garantikapital
+        I       Aktiekapital eller Garantikapital
 
-II      Överkursfond
+        II      Överkursfond
 
-III     Uppskrivningsfond
+        III     Uppskrivningsfond
 
-IV      Konsolideringsfond
+        IV      Konsolideringsfond
 
-V       Andra fonder
+        V       Andra fonder
 
-1.      Reservfond
+                1. Reservfond
 
-2.      Kapitalandelsfond
+                2. Kapitalandelsfond
 
-3.      Fond för verkligt värde
+                3. Fond för verkligt värde
 
-4.      Övriga fonder
+                4. Fond för utvecklingsutgifter
 
-VI      Balanserad vinst eller förlust
+                5. Övriga fonder
 
-VII     Årets resultat
+        VI      Balanserad vinst eller förlust
 
-BB. Obeskattade reserver
+        VII     Årets resultat
 
-CC. Efterställda skulder
+BB.     Obeskattade reserver
 
-DD. Försäkringstekniska avsättningar (före avgiven
-återförsäkring)
+CC.     Efterställda skulder
 
-1.       Ej intjänade premier och kvardröjande risker
+DD.     Försäkringstekniska avsättningar (före avgiven
+	återförsäkring)
 
-2.       Livförsäkringsavsättning
+                1. Ej intjänade premier och kvardröjande risker
 
-3.       Oreglerade skador
+                2. Livförsäkringsavsättning
 
-4.       Återbäring och rabatter
+                3. Oreglerade skador
 
-5.       Utjämningsavsättning
+                4. Återbäring och rabatter
 
-6.       Övriga försäkringstekniska avsättningar
+                5. Utjämningsavsättning
 
-EE. Försäkringsteknisk avsättning för livförsäkringar för vilka
-försäkringstagaren bär risk (före avgiven återförsäkring)
+                6. Övriga försäkringstekniska avsättningar
 
-1.       Villkorad återbäring
+EE.     Försäkringsteknisk avsättning för livförsäkringar för
+	vilka försäkringstagaren bär risk (före avgiven
+	återförsäkring)
 
-2.       Fondförsäkringsåtaganden
+                1. Villkorad återbäring
 
-FF. Andra avsättningar
+                2. Fondförsäkringsåtaganden
 
-1.       Pensioner och liknande förpliktelser
+FF.     Andra avsättningar
 
-2.       Skatter
+                1. Pensioner och liknande förpliktelser
 
-3.       Övriga avsättningar
+                2. Skatter
 
-GG. Depåer från återförsäkrare
+                3. Övriga avsättningar
 
-HH. Skulder
+GG.     Depåer från återförsäkrare
 
-I       Skulder avseende direkt försäkring
+HH.     Skulder
 
-II      Skulder avseende återförsäkring
+        I       Skulder avseende direkt försäkring
 
-III     Obligationslån
+        II      Skulder avseende återförsäkring
 
-IV      Skulder till kreditinstitut
+        III     Obligationslån
 
-V       Övriga skulder
+        IV      Skulder till kreditinstitut
 
-II. Upplupna kostnader och förutbetalda intäkter
+        V       Övriga skulder
 
-I       Återförsäkrares andel av Förutbetalda
-anskaffningskostnader
+II.     Upplupna kostnader och förutbetalda intäkter
 
-II      Övriga upplupna kostnader och förutbetalda intäkter
+        I       Återförsäkrares andel av Förutbetalda
+		anskaffningskostnader
 
-POSTER INOM LINJEN
-
-I Panter och därmed jämförliga säkerheter ställda för egna
-skulder och för såsom avsättningar redovisade förpliktelser,
-varje slag för sig
-
-II Övriga ställda panter och jämförliga säkerheter, varje slag
-för sig
-
-III Ansvarsförbindelser
-
-1. Garantier
-
-2. Pensionsförpliktelser som ej upptagits bland avsättningar
-och ej har täckning i pensionsstiftelses förmögenhet
-
-3. Övriga ansvarsförbindelser
-
-IV Åtaganden
-
-1. Åtaganden till följd av återköpstransaktioner
-
-2. Övriga åtaganden
-Lag (2004:1177).
+        II      Övriga upplupna kostnader och förutbetalda intäkter
+Lag (2015:818).
 
 
-Bilaga 2
+Bilaga 2 
 
 Uppställningsform för resultaträkningen
 
 I.      TEKNISK REDOVISNING AV SKADEFÖRSÄKRINGSRÖRELSE
-1.      Premieintäkter (efter avgiven återförsäkring)
-a. Premieinkomst (före avgiven återförsäkring)
-b. Premier för avgiven återförsäkring (-)
-c. Förändring i Avsättning för ej intjänade premier och
-kvardröjande risker, före avgiven återförsäkring (+/-)
-d. Återförsäkrares andel av Förändring i avsättning för ej
-intjänade premier och kvardröjande risker (+/-)
-2.      Kapitalavkastning överförd från finansrörelsen
-(III.6)
-3.      Övriga tekniska intäkter (efter avgiven
-återförsäkring)
-4.      Försäkringsersättningar (efter avgiven
-återförsäkring)
-a. Utbetalda försäkringsersättningar
-aa) Före avgiven återförsäkring
-bb) Återförsäkrares andel (-)
-b. Förändring i Avsättning för oreglerade skador
-aa) Före avgiven återförsäkring
-bb) Återförsäkrares andel (-)
-5.      Förändring i Övriga försäkringstekniska avsättningar
-(efter avgiven återförsäkring) (+/-)
-6.      Återbäring och rabatter (efter avgiven
-återförsäkring)
-7.      Driftskostnader
-8.      Övriga tekniska kostnader (efter avgiven
-återförsäkring)
-9.      Förändring i Utjämningsavsättning
-10.     Skadeförsäkringsrörelsens tekniska resultat (införs
-som post III.1)
+
+        1.      Premieintäkter (efter avgiven återförsäkring)
+
+                a. Premieinkomst (före avgiven återförsäkring)
+
+                b. Premier för avgiven återförsäkring (-)
+
+                c. Förändring i Avsättning för ej intjänade premier och
+		kvardröjande risker, före avgiven återförsäkring (+/-)
+
+                d. Återförsäkrares andel av Förändring i avsättning för ej
+		intjänade premier och kvardröjande risker (+/-)
+
+        2.      Kapitalavkastning överförd från finansrörelsen (III.6)
+
+        3.      Övriga tekniska intäkter (efter avgiven återförsäkring)
+
+        4.      Försäkringsersättningar (efter avgiven återförsäkring)
+
+                a. Utbetalda försäkringsersättningar
+
+                 aa) Före avgiven återförsäkring
+
+                 bb) Återförsäkrares andel (-)
+
+                b. Förändring i Avsättning för oreglerade skador
+
+                 aa) Före avgiven återförsäkring
+
+                 bb) Återförsäkrares andel (-)
+
+        5.      Förändring i Övriga försäkringstekniska avsättningar
+		(efter avgiven återförsäkring) (+/-)
+
+        6.      Återbäring och rabatter (efter avgiven återförsäkring)
+
+        7.      Driftskostnader
+
+        8.      Övriga tekniska kostnader (efter avgiven
+		återförsäkring)
+
+        9.      Förändring i Utjämningsavsättning
+
+        10.     Skadeförsäkringsrörelsens tekniska resultat (införs som
+		post III.1)
 
 II.     TEKNISK REDOVISNING AV LIVFÖRSÄKRINGSRÖRELSE
-1.      Premieinkomst (efter avgiven återförsäkring)
-a. Premieinkomst (före avgiven återförsäkring)
-b. Premier för avgiven återförsäkring (-)
-2.      Kapitalavkastning, intäkter
-3.      Orealiserade vinster på placeringstillgångar
-3a.     Värdeökning på placeringstillgångar för vilka
-livförsäkringstagaren bär placeringsrisk
-aa) Värdeökning på tillgångar för villkorad återbäring
-bb) Värdeökning på fondförsäkringstillgångar
-3b.     Värdeökning på övriga placeringstillgångar
-4.      Övriga tekniska intäkter (efter avgiven
-återförsäkring)
-5.      Försäkringsersättningar (efter avgiven
-återförsäkring)
-a. Utbetalda försäkringsersättningar
-aa) Före avgiven återförsäkring
-bb) Återförsäkrares andel (-)
-b. Förändring i Avsättning för oreglerade skador
-aa) Före avgiven återförsäkring
-bb) Återförsäkrares andel (-)
-6.      Förändring i andra försäkringstekniska avsättningar
-(efter avgiven återförsäkring) (+/-)
-a. Livförsäkringsavsättning
-aa) Före avgiven återförsäkring
-bb) Återförsäkrares andel (-)
-b. Försäkringsteknisk avsättning för livförsäkringar för vilka
-försäkringstagaren bär risk
-aa) Villkorad återbäring
-bb) Fondförsäkringsåtaganden
-c.      Övriga försäkringstekniska avsättningar (efter avgiven
-återförsäkring)
-7.      Återbäring och rabatter (efter avgiven
-återförsäkring)
-8.      Driftskostnader
-9.      Kapitalavkastning, kostnader
-10.     Orealiserade förluster på placeringstillgångar
-10a.    Värdeminskning på placeringstillgångar för vilka
-livförsäkringstagaren bär placeringsrisk
-aa) Värdeminskning på tillgångar för villkorad återbäring
-bb) Värdeminskning på fondförsäkringstillgångar
-10b.    Värdeminskning på övriga placeringstillgångar
-11.     Övriga tekniska kostnader (efter avgiven
-återförsäkring)
-12.     Kapitalavkastning överförd till finansrörelsen
-(införs som post III.4)
-13.     Livförsäkringsrörelsens tekniska resultat (införs
-som post III.2)
 
-III.     ICKE-TEKNISK REDOVISNING
-1.      Skadeförsäkringsrörelsens tekniska resultat (post
-I.10)
-2.      Livförsäkringsrörelsens tekniska resultat (post
-II.13)
-3a.     Kapitalavkastning, intäkter i
-skadeförsäkringsrörelsen
-3b.     Orealiserade vinster på placeringstillgångar
-4.      Kapitalavkastning överförd från
-livförsäkringsrörelsen (post II.12)
-5a.     Kapitalavkastning, kostnader i
-skadeförsäkringsrörelsen
-5b.     Orealiserade förluster på placeringstillgångar
-6.      Kapitalavkastning överförd till
-skadeförsäkringsrörelsen (post I.2)
-7.      Övriga intäkter
-8.      Övriga kostnader
-9.      Extraordinära intäkter
-10.     Extraordinära kostnader
-11.     Bokslutsdispositioner
-12.     Skatt på årets resultat
-13.     Övriga skatter
-14.     Årets resultat
-Lag (1999:603).
+        1.      Premieinkomst (efter avgiven återförsäkring)
+
+                a. Premieinkomst (före avgiven återförsäkring)
+
+                b. Premier för avgiven återförsäkring (-)
+
+        2.      Kapitalavkastning, intäkter
+
+        3.      Orealiserade vinster på placeringstillgångar
+
+                a. Värdeökning på placeringstillgångar för vilka
+		livförsäkringstagaren bär placeringsrisk
+
+                 aa) Värdeökning på tillgångar för villkorad återbäring
+
+                 bb) Värdeökning på fondförsäkringstillgångar
+
+                b. Värdeökning på övriga placeringstillgångar
+
+        4.      Övriga tekniska intäkter (efter avgiven återförsäkring)
+
+        5.      Försäkringsersättningar (efter avgiven återförsäkring)
+
+                a. Utbetalda försäkringsersättningar
+
+                 aa) Före avgiven återförsäkring
+
+                 bb) Återförsäkrares andel (-)
+
+                b. Förändring i Avsättning för oreglerade skador
+
+                 aa) Före avgiven återförsäkring
+
+                 bb) Återförsäkrares andel (-)
+
+        6.      Förändring i andra försäkringstekniska avsättningar
+		(efter avgiven återförsäkring) (+/-)
+
+                a. Livförsäkringsavsättning
+
+                 aa) Före avgiven återförsäkring
+
+                 bb) Återförsäkrares andel (-)
+
+                b. Försäkringsteknisk avsättning för livförsäkringar för
+		vilka försäkringstagaren bär risk
+
+                 aa) Villkorad återbäring
+
+                 bb) Fondförsäkringsåtaganden
+
+                c. Övriga försäkringstekniska avsättningar (efter avgiven
+		återförsäkring)
+
+        7.      Återbäring och rabatter (efter avgiven återförsäkring)
+
+        8.      Driftskostnader
+
+        9.      Kapitalavkastning, kostnader
+
+        10.     Orealiserade förluster på placeringstillgångar
+
+                a. Värdeminskning på placeringstillgångar för vilka
+		livförsäkringstagaren bär placeringsrisk
+
+                 aa) Värdeminskning på tillgångar för villkorad återbäring
+
+
+                 bb) Värdeminskning på fondförsäkringstillgångar
+
+                b. Värdeminskning på övriga placeringstillgångar
+
+        11.     Övriga tekniska kostnader (efter avgiven
+		återförsäkring)
+
+        12.     Kapitalavkastning överförd till finansrörelsen (införs
+		som post III.4)
+
+        13.     Livförsäkringsrörelsens tekniska resultat (införs som
+		post III.2)
+
+III.    ICKE-TEKNISK REDOVISNING
+
+        1.      Skadeförsäkringsrörelsens tekniska resultat (post I.10)
+
+        2.      Livförsäkringsrörelsens tekniska resultat (post II.13)
+
+        3a.     Kapitalavkastning, intäkter i skadeförsäkringsrörelsen
+
+        3b.     Orealiserade vinster på placeringstillgångar
+
+        4.      Kapitalavkastning överförd från livförsäkringsrörelsen
+		(post II.12)
+
+        5a.     Kapitalavkastning, kostnader i
+		skadeförsäkringsrörelsen
+
+        5b.     Orealiserade förluster på
+		placeringstillgångar
+
+        6.      Kapitalavkastning överförd till skadeförsäkringsrörelsen
+		(post I.2)
+
+        7.      Övriga intäkter
+
+        8.      Övriga kostnader
+
+        9.      Bokslutsdispositioner
+
+        10.     Skatt på årets resultat
+
+        11.     Övriga skatter
+
+        12.     Årets resultat
+Lag (2015:818).
+
 
 Övergångsbestämmelser
 
@@ -1662,8 +1759,14 @@ upp under reservfonden.
 
 2013:452
 
-1. Denna lag träder i kraft den 15 juli
-2013.
+1. Denna lag träder i kraft den 15 juli 2013.
 
 2. Äldre bestämmelser gäller för ärenden som har
 kommit in till Finansinspektionen före ikraftträdandet.
+
+2015:818
+
+1. Denna lag träder i kraft den 1 januari 2016.
+
+2. Lagen tillämpas första gången för det räkenskapsår som
+inleds närmast efter den 31 december 2015.
