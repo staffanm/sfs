@@ -1,5 +1,3 @@
-
-
 Lagens syfte
 
 1 § Genom denna lag genomförs rådets rambeslut 2008/977/RIF
@@ -27,7 +25,7 @@ görs eller har gjorts tillgängliga eller överförs eller har
 
 När svenska myndigheter överför personuppgifter till eller
 gör sådana uppgifter tillgängliga för dem som anges i första
-stycket 14 gäller bara bestämmelserna i 3 och 9 §§, med de
+stycket 1–4 gäller bara bestämmelserna i 3 och 9 §§, med de
 begränsningar som följer av 4 §.
 
 3 § Lagen gäller för sådan behandling av personuppgifter som
@@ -37,28 +35,34 @@ en strukturerad samling av personuppgifter som är
 tillgängliga för sökning eller sammanställning enligt
 särskilda kriterier.
 
-4 § Lagen gäller inte för sådan behandling av personuppgifter
+4 § Lagen gäller inte för sådan behandling av personuppgifter 
 som rör nationell säkerhet.
 
-Lagen gäller inte heller för behandling av personuppgifter
-som görs eller har gjorts tillgängliga eller överförs eller
-har överförts genom
+Lagen gäller inte heller för behandling av personuppgifter 
+som görs eller har gjorts tillgängliga eller överförs eller 
+har överförts genom 
 
-1. informationsutbyte som hänför sig till Schengens
+1. informationsutbyte som hänför sig till Schengens 
 informationssystem (SIS),
 
 2. informationsutbyte genom Tullinformationssystemet (TIS),
 
-3. uppgiftsutbyte med stöd av rådets beslut 2008/615/RIF av
-den 23 juni 2008 om ett fördjupat gränsöverskridande
-samarbete, särskilt för bekämpning av terrorism och
-gränsöverskridande brottslighet (Prümrådsbeslutet), eller
+3. uppgiftsutbyte med stöd av rådets beslut 2008/615/RIF av 
+den 23 juni 2008 om ett fördjupat gränsöverskridande 
+samarbete, särskilt för bekämpning av terrorism och 
+gränsöverskridande brottslighet (Prümrådsbeslutet),
 
-4. åtkomst enligt rådets beslut 2008/633/RIF av den 23 juni
-2008 om åtkomst till informationssystemet för viseringar
-(VIS) för sökningar för medlemsstaternas utsedda myndigheter
-och för Europol i syfte att förebygga, upptäcka och utreda
-terroristbrott och andra grova brott.
+4. åtkomst enligt rådets beslut 2008/633/RIF av den 23 juni 
+2008 om åtkomst till informationssystemet för viseringar 
+(VIS) för sökningar för medlemsstaternas utsedda myndigheter 
+och för Europol i syfte att förebygga, upptäcka och utreda 
+terroristbrott och andra grova brott, eller
+
+5. uppgiftsutbyte med stöd av Europaparlamentets och rådets 
+direktiv (EU) 2015/413 av den 11 mars 2015 om underlättande 
+av gränsöverskridande informationsutbyte om 
+trafiksäkerhetsrelaterade brott (CBE-direktivet), i den 
+ursprungliga lydelsen. Lag (2015:784).
 
 Tillåtna ändamål för behandling av personuppgifter
 
@@ -122,7 +126,7 @@ internationella organ
 
 7 § Personuppgifter som har erhållits enligt 2 § första
 stycket får, förutom till dem som anges i 2 § första stycket
-14, överföras till tredjeland eller internationella organ.
+1–4, överföras till tredjeland eller internationella organ.
 Uppgifterna får dock endast överföras om
 
 1. den som överfört eller gjort uppgifterna tillgängliga har
@@ -177,7 +181,7 @@ eller gör uppgifter tillgängliga
 
 9 § Om en svensk myndighet överför personuppgifter till eller
 gör personuppgifter tillgängliga för någon av dem som anges i
-2 § första stycket 14, ska myndigheten underrätta mottagaren
+2 § första stycket 1–4, ska myndigheten underrätta mottagaren
 om de särskilda villkor som gäller för användningen av
 uppgifterna. Villkoren får inte innebära andra begränsningar
 än sådana som gäller vid överföring inom Sverige och får inte
