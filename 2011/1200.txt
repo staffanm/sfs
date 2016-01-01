@@ -1,5 +1,3 @@
-
-
 1 kap. Inledande bestämmelser
 
 1 § Denna lag syftar till att främja produktion av
@@ -51,13 +49,13 @@ elektrisk kraft enligt 11 kap. 9 § 2, 3 eller 5 lagen
 9. förädlingsvärde: skillnaden mellan den elintensiva
 industrins
 
- sammanlagda omsättning, det vill säga intäkter från försålda
+– sammanlagda omsättning, det vill säga intäkter från försålda
 varor och utförda tjänster, inräknat egna uttag, som ingår i
 företagets normala verksamhet (nettoomsättningen), förändring
 av varulager, aktiverat arbete för egen räkning, övriga
 rörelseintäkter samt ränteintäkter, och
 
- sammanlagda inköp, det vill säga alla rörelsekostnader,
+– sammanlagda inköp, det vill säga alla rörelsekostnader,
 inräknat avskrivningar och nedskrivningar på tillgångar, samt
 räntekostnader dock inte personalkostnader, inräknat
 arbetsgivaravgifter och kostnader för inhyrd personal.
@@ -395,7 +393,7 @@ Om formuläret är ofullständigt ifyllt ska sökanden
 föreläggas att komplettera ansökan.
 
 Om kontoföringsmyndigheten har förelagt en sökande att
-komplettera en sådan ansökan som avses i 35 §§, ska
+komplettera en sådan ansökan som avses i 3–5 §§, ska
 myndigheten göra en preliminär registrering av uppgifter
 om överlåtelse eller pantsättning på certifikatkontot.
 Slutlig registrering ska göras när samtliga uppgifter har
@@ -601,91 +599,90 @@ enligt 5 § samt det antal elcertifikat som ska annulleras.
 
 Kvotpliktens omfattning
 
-4 § Kvotplikten beräknas enligt vad som framgår av
-följande tabell.
+4 § Kvotplikten ska beräknas genom att multiplicera det antal 
+megawattimmar el som sålts eller använts under beräkningsåret 
+med den kvot som för beräkningsåret anges inom parentes 
+enligt följande: 
 
-Beräkningsår                    Antal elcertifikat
-för kvotplikt                   per såld eller använd MWh el
+– 2003 (0,074),
 
-2003                            0,074
+– 2004 (0,081),
 
-2004                            0,081
+– 2005 (0,104),
 
-2005                            0,104
+– 2006 (0,126),
 
-2006                            0,126
+– 2007 (0,151),
 
-2007                            0,151
+– 2008 (0,163),
 
-2008                            0,163
+– 2009 (0,170),
 
-2009                            0,170
+– 2010 (0,179),
 
-2010                            0,179
+– 2011 (0,179),
 
-2011                            0,179
+– 2012 (0,179),
 
-2012                            0,179
+– 2013 (0,135),
 
-2013                            0,135
+– 2014 (0,142),
 
-2014                            0,142
+– 2015 (0,143),
 
-2015                            0,143
+– 2016 (0,231),
 
-2016                            0,144
+– 2017 (0,247),
 
-2017                            0,152
+– 2018 (0,270),
 
-2018                            0,168
+– 2019 (0,291),
 
-2019                            0,181
+– 2020 (0,288),
 
-2020                            0,195
+– 2021 (0,272),
 
-2021                            0,190
+– 2022 (0,257),
 
-2022                            0,180
+– 2023 (0,244),
 
-2023                            0,170
+– 2024 (0,227),
 
-2024                            0,161
+– 2025 (0,206),
 
-2025                            0,149
+– 2026 (0,183),
 
-2026                            0,137
+– 2027 (0,162),
 
-2027                            0,124
+– 2028 (0,146),
 
-2028                            0,107
+– 2029 (0,130),
 
-2029                            0,092
+– 2030 (0,114),
 
-2030                            0,076
+– 2031 (0,094),
 
-2031                            0,061
+– 2032 (0,076),
 
-2032                            0,045
+– 2033 (0,052),
 
-2033                            0,028
+– 2034 (0,028), och
 
-2034                            0,012
+– 2035 (0,013).
 
-2035                            0,008
+Om den beräknade kvotplikten inte omfattar elcertifikat till 
+ett heltal, ska antalet avrundas till närmaste heltal.
+Lag (2015:624).
 
-Om den beräknade kvotplikten inte omfattar elcertifikat
-till ett heltal, ska antalet avrundas till närmaste
-heltal.
+4 a § Vid beräkningen av en elleverantörs kvotplikt enligt 4 § 
+ska såld el anses motsvara den mängd el som elleverantören 
+har fakturerat elanvändare för under beräkningsåret.
+Lag (2015:624).
 
-Vid beräkningen av elleverantörens kvotplikt ska
-försäljningen av el anses motsvara den mängd el som
-elleverantören har fakturerat elanvändare under
-beräkningsåret.
-
-Vid beräkningen av en elanvändares kvotplikt ska den del
-av användningen som består av el som köpts från en
-elleverantör anses motsvara den mängd el som elanvändaren
-fakturerats för under beräkningsåret.
+4 b § Vid beräkningen av en elanvändares kvotplikt enligt 4 § 
+ska den del av användningen som består av el som köpts från 
+en elleverantör anses motsvara den mängd el som elanvändaren 
+fakturerats för under beräkningsåret. Lag (2015:624).
 
 5 § Vid beräkning av kvotplikten beaktas inte el som
 
@@ -1110,7 +1107,7 @@ enligt 5 kap. 6 §,
 8. nedsättning av tilldelning av elcertifikat enligt 5
 kap. 7 §,
 
-9. föreläggande som har förenats med vite enligt 5 kap. 9
+9. föreläggande som har förenats med vite enligt 5 kap. 9–
 11 §§,
 
 10. kvotpliktsavgift enligt 6 kap. 1 § och nedsättning av
@@ -1126,7 +1123,7 @@ får överklagas hos allmän förvaltningsdomstol:
 1. tilldelning av elcertifikat enligt 3 kap. 2 § första
 och andra styckena,
 
-2. registrering enligt 3 kap. 35 §§,
+2. registrering enligt 3 kap. 3–5 §§,
 
 3. avvisning enligt 3 kap. 7 §,
 
