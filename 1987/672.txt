@@ -1,5 +1,3 @@
-
-
 1 kap. Inledande bestämmelser
 
 1 § Genom konkurs tar en gäldenärs samtliga borgenärer i ett sammanhang
@@ -126,7 +124,7 @@ därefter och skulden då ännu inte är betald.
 
 Borgenärens uppmaning ska innehålla en upplysning om att en
 konkursansökan kan följa. Uppmaningen ska delges gäldenären.
-Delgivning enligt 3437 §§ delgivningslagen (2010:1932) får ske
+Delgivning enligt 34–37 §§ delgivningslagen (2010:1932) får ske
 endast om det med beaktande av vad som har framkommit i det
 aktuella delgivningsärendet eller vid andra delgivningsförsök
 med gäldenären finns anledning att anta att denne har avvikit
@@ -244,7 +242,7 @@ förvaltning av boutredningsman. Om dödsboets egendom avträds till
 förvaltning av boutredningsman, förfaller konkursansökningen.
 
 15 § En kallelse som avses i 14 § tredje stycket ska delges.
-Kallelsen får delges enligt 3437 §§ delgivningslagen
+Kallelsen får delges enligt 34–37 §§ delgivningslagen
 (2010:1932) endast om det med beaktande av vad som har
 framkommit i det aktuella delgivningsärendet eller vid andra
 delgivningsförsök med gäldenären finns anledning att anta att
@@ -504,7 +502,7 @@ b) skatt enligt vägtrafikskattelagen (2006:227) eller lagen
 
 c) tull och
 
-d) ränta på belopp som avses i ac, om beloppet var förfallet
+d) ränta på belopp som avses i a–c, om beloppet var förfallet
 till betalning,
 
 2. betalning av eller förmånsrätt för underhållsbidrag enligt
@@ -512,25 +510,32 @@ till betalning,
 förfallet till betalning och den underhållsberättigade inte
 har gynnats på ett otillbörligt sätt. Lag (2011:1328).
 
-2 § Med fristdag avses dagen då ansökningen om gäldenärens
+2 § Med fristdag avses dagen då ansökningen om gäldenärens 
 försättande i konkurs kom in till tingsrätten.
 
-Har beslut meddelats om företagsrekonstruktion enligt lagen
-(1996:764) om företagsrekonstruktion avses med fristdag i
-stället dagen för ansökan om företagsrekonstruktion, såvida
-konkursansökningen har gjorts under företagsrekonstruktionen
-eller inom tre veckor från det att rätten beslutat att
-företagsrekonstruktionen skall upphöra.
+Har beslut meddelats om företagsrekonstruktion enligt lagen 
+(1996:764) om företagsrekonstruktion, avses med fristdag i 
+stället dagen för ansökan om företagsrekonstruktion, om 
+konkursansökningen har gjorts under företagsrekonstruktionen 
+eller inom tre veckor från det att rätten beslutat att 
+företagsrekonstruktionen ska upphöra.
 
-Har ansökan om skuldsanering gjorts avses med fristdag i
-stället dagen för denna ansökan, såvida konkursansökningen har
-gjorts inom tre veckor från det att frågan om skuldsanering
+Har ansökan om skuldsanering gjorts, avses med fristdag i 
+stället dagen för denna ansökan, om konkursansökningen har 
+gjorts inom tre veckor från det att frågan om skuldsanering 
 avgjordes.
 
-Har ett dödsbo avträtts till förvaltning av boutredningsman
-avses med fristdag dagen för ansökningen om detta, såvida
-boutredningsman har förordnats senare än tre månader före den
-dag som annars skulle anses som fristdag. Lag (2006:551).
+Har ett dödsbo avträtts till förvaltning av boutredningsman, 
+avses med fristdag dagen för ansökningen om detta, om 
+boutredningsman har förordnats senare än tre månader före den 
+dag som annars skulle anses som fristdag.
+
+Har beslut om resolution enligt lagen (2015:1016) om 
+resolution meddelats, avses med fristdag i stället dagen för 
+beslutet om resolution, om konkursansökningen har gjorts inom 
+tre veckor från det att resolutionsmyndigheten 
+(Riksgäldskontoret) beslutat att resolutionen ska upphöra.
+Lag (2015:1023).
 
 3 § Som närstående till gäldenären anses den som är gift med gäldenären
 eller är syskon eller släkting i rätt upp- eller nedstigande led till
@@ -1739,36 +1744,7 @@ skriftligen underrätta denne om det. Lag (1995:793).
 
 Försäljning av lös egendom
 
-7 § /Upphör att gälla U:2016-01-01/
-Försäljning av lös egendom som inte sker genom fortsättande
-av gäldenärens rörelse ska ske på auktion eller på annat sätt
-efter vad förvaltaren anser vara mest fördelaktigt för boet. Om
-egendom säljs till konkursgäldenären eller någon denne sådan
-närstående person som anges i 4 kap. 3 § ska försäljningen ha
-föregåtts av ett offentligt anbudsförfarande, om särskilda skäl
-inte gör det obehövligt.
-
-Lös egendom i vilken en borgenär har panträtt eller någon annan
-särskild förmånsrätt får inte utan hans samtycke säljas på
-annat sätt än på auktion, om hans rätt är beroende av
-försäljningen. Även om samtycke inte lämnas, får egendomen
-säljas på annat sätt än på auktion, om det är sannolikt att
-högre pris uppnås därigenom och om tillsynsmyndigheten medger
-det.
-
-Samtycke enligt andra stycket krävs inte när förvaltaren säljer
-finansiella instrument, upptagna till handel på en reglerad
-marknad eller en motsvarande marknad utanför Europeiska
-ekonomiska samarbetsområdet, eller valuta till gällande
-marknadspris eller när det är fråga om försäljning av lös
-egendom genom fortsättande av gäldenärens rörelse.
-
-Särskilda bestämmelser om överlåtelse av försäkringsbestånd
-finns i 10 kap. 16 § försäkringsrörelselagen (2010:2043).
-Lag (2010:2052).
-
-7 § /Träder i kraft I:2016-01-01/
-Försäljning av lös egendom som inte sker genom
+7 § Försäljning av lös egendom som inte sker genom
 fortsättande av gäldenärens rörelse ska ske på auktion eller
 på annat sätt efter vad förvaltaren anser vara mest
 fördelaktigt för boet. Om egendom säljs till
@@ -3521,7 +3497,7 @@ bestämmelser.
 1. Denna lag träder i kraft den 1 april 2011.
 
 2. Äldre bestämmelser gäller om ett beslut om delgivning enligt
-1517 §§ delgivningslagen (1970:428) har fattats före den 1
+15–17 §§ delgivningslagen (1970:428) har fattats före den 1
 april 2011 eller om en handling har skickats eller lämnats före
 denna tidpunkt.
 

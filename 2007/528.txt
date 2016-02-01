@@ -1,5 +1,3 @@
-
-
 FÖRSTA AVDELNINGEN
 
 Inledande bestämmelser
@@ -10,24 +8,24 @@ Lagens tillämpningsområde
 
 1 § I denna lag finns bestämmelser om värdepappersmarknaden.
 
-I 211 kap. finns särskilda bestämmelser om
-värdepappersrörelse, i 1218 kap. om börsverksamhet m.m. och
-i 1921 kap. om clearingverksamhet. I 2226 kap. finns vissa
+I 2–11 kap. finns särskilda bestämmelser om
+värdepappersrörelse, i 12–18 kap. om börsverksamhet m.m. och
+i 19–21 kap. om clearingverksamhet. I 22–26 kap. finns vissa
 gemensamma bestämmelser.
 
 För sådan clearingverksamhet som avses i 5 § 6 b gäller
 endast följande bestämmelser i denna lag:
 
- 1 kap. 11 och 1214 §§ om tystnadsplikt,
+– 1 kap. 11 och 12–14 §§ om tystnadsplikt,
 uppgiftsskyldighet, meddelandeförbud och ansvar,
 
- 23 kap. 1 § första och andra styckena, 2 §, 4 § första
+– 23 kap. 1 § första och andra styckena, 2 §, 4 § första
 stycket samt 7, 11, 12 och 14 §§ om tillsyn,
 
- 25 kap. 1, 2, 6, 811, 17 samt 2529 §§ om ingripanden,
+– 25 kap. 1, 2, 6, 8–11, 17 samt 25–29 §§ om ingripanden,
 och
 
- 26 kap. 1 § om överklagande.
+– 26 kap. 1 § om överklagande.
 
 Ytterligare bestämmelser om sådan clearingverksamhet som
 avses i 5 § 6 b finns i Europaparlamentets och rådets
@@ -135,14 +133,14 @@ inte är upptagna till handel på en reglerad marknad eller en
 motsvarande marknad utanför EES (forwards) och varje annat
 derivatkontrakt som
 
- avser råvaror,
+– avser råvaror,
 
- kan avvecklas fysiskt,
+– kan avvecklas fysiskt,
 
- inte omnämns i c och som inte är för kommersiella ändamål,
+– inte omnämns i c och som inte är för kommersiella ändamål,
 och
 
- som anses ha egenskaper som andra derivat avseende
+– som anses ha egenskaper som andra derivat avseende
 finansiella instrument, med utgångspunkt från bland annat om
 clearing och avveckling sker via erkända system för clearing
 eller om de är föremål för regelmässiga
@@ -161,10 +159,10 @@ parternas begäran, på grund av ett annat skäl än utebliven
 betalning eller någon annan händelse som leder till att
 kontraktet upphör, samt varje annat derivatkontrakt som
 
- avser tillgångar, rättigheter, skyldigheter, index och
+– avser tillgångar, rättigheter, skyldigheter, index och
 åtgärder som inte tidigare omnämnts i denna punkt, och
 
- anses ha egenskaper som andra derivat avseende finansiella
+– anses ha egenskaper som andra derivat avseende finansiella
 instrument, med utgångspunkt från bland annat om det handlas
 på en reglerad marknad eller en handelsplattform, om clearing
 och avveckling sker via erkända system för clearing eller om
@@ -176,7 +174,8 @@ och 39 i genomförandeförordningen. Lag (2013:579).
 
 Övriga definitioner
 
-5 § I denna lag betyder
+5 § /Upphör att gälla U:2016-02-01/ 
+I denna lag betyder
 
 1. anknutet ombud: en fysisk eller juridisk person som har
 träffat avtal med ett svenskt värdepappersinstitut eller ett
@@ -256,8 +255,8 @@ definitioner för tilllämpning av det direktivet,
 (Multilateral Trading Facility, MTF) inom EES som drivs av
 ett värdepappersinstitut eller en börs och som sammanför ett
 flertal köp- och säljintressen i finansiella instrument från
-tredje man  inom systemet och i enlighet med icke
-skönsmässiga regler  så att detta leder till avslut,
+tredje man – inom systemet och i enlighet med icke
+skönsmässiga regler – så att detta leder till avslut,
 
 13. hemland: det land där ett företag har fått tillstånd att
 driva sådan verksamhet som avses i denna lag,
@@ -290,9 +289,9 @@ eller 17 §,
 
 20. reglerad marknad: ett multilateralt system inom EES som
 sammanför eller möjliggör sammanförande av ett flertal köp-
-och säljintressen i finansiella instrument från tredje man 
+och säljintressen i finansiella instrument från tredje man –
 regelmässigt, inom systemet och i enlighet med icke
-skönsmässiga regler  så att detta leder till avslut,
+skönsmässiga regler – så att detta leder till avslut,
 
 21. sidotjänster: de tjänster som anges i 2 kap. 2 §,
 
@@ -339,36 +338,302 @@ och om ändring av direktiv 2001/34/EG, senast ändrat genom
 Europaparlamentets och rådets direktiv 2010/78/EU.
 Lag (2014:985).
 
+5 § /Träder i kraft I:2016-02-01/ 
+I denna lag betyder
+
+1. anknutet ombud: en fysisk eller juridisk person som har 
+träffat avtal med ett svenskt värdepappersinstitut eller ett 
+utländskt värdepappersföretag som hör hemma inom EES om att 
+för bara detta instituts eller företags räkning
+
+a) marknadsföra investerings- eller sidotjänster,
+
+b) ta emot eller vidarebefordra instruktioner eller order 
+avseende investeringstjänster eller finansiella instrument,
+
+c) placera finansiella instrument, eller
+
+d) tillhandahålla investeringsrådgivning till kund avseende 
+dessa instrument eller tjänster,
+
+2. behörig myndighet: i Sverige Finansinspektionen och i 
+särskilt angivna fall Bolagsverket och i övrigt en utländsk 
+myndighet som har behörighet att utöva tillsyn över utländska 
+värdepappersföretag och företag som driver en reglerad 
+marknad eller annan motsvarande marknad eller som har 
+behörighet att utöva tillsyn över emittenter vars överlåtbara 
+värdepapper är upptagna till handel på en reglerad marknad,
+
+3. börs: ett svenskt aktiebolag eller en svensk ekonomisk 
+förening som har fått tillstånd enligt denna lag att driva en 
+eller flera reglerade marknader,
+
+4. clearingdeltagare: den som får delta i 
+clearingverksamheten hos en clearingorganisation,
+
+5. clearingorganisation: ett företag som har fått tillstånd 
+enligt 19 kap. eller förordning (EU) nr 648/2012, i lydelsen 
+enligt Europaparlamentets och rådets direktiv 2014/59/EU, att 
+driva clearingverksamhet,
+
+6. clearingverksamhet: fortlöpande verksamhet som består i 
+att
+
+a) på clearingdeltagarnas vägnar göra avräkningar i fråga om 
+deras förpliktelser att leverera finansiella instrument eller 
+att betala i svensk eller utländsk valuta,
+
+b) träda in som motpart till både köpare och säljare av 
+finansiella instrument, eller
+
+c) på annat väsentligt sätt ansvara för att förpliktelserna 
+avvecklas genom överförande av likvid eller instrument, 
+
+7. direktivet om marknader för finansiella instrument: 
+Europaparlamentets och rådets direktiv 2004/39/EG av den 21 
+april 2004 om marknader för finansiella instrument och om 
+ändring av rådets direktiv 85/611/EEG och 93/6/EEG och 
+Europaparlamentets och rådets direktiv 2000/12/EG samt 
+upphävande av rådets direktiv 93/22/EEG, i lydelsen enligt 
+Europaparlamentets och rådets direktiv 2010/78/EU,
+
+8. EES: Europeiska ekonomiska samarbetsområdet,
+
+9. emittent: i fråga om aktier aktiebolaget och i fråga om 
+annat finansiellt instrument utgivaren eller utfärdaren av 
+instrumentet,
+
+10. filial: ett avdelningskontor med självständig 
+förvaltning, varvid även ett utländskt värdepappersföretags 
+etablering av flera driftställen i Sverige ska anses som en 
+enda filial,
+
+11. genomförandeförordningen: kommissionens förordning (EG) 
+nr 1287/2006 av den 10 augusti 2006 om genomförande av 
+Europaparlamentets och rådets direktiv 2004/39/EG vad gäller 
+dokumenteringsskyldigheter för värdepappersföretag, 
+transaktionsrapportering, överblickbarhet på marknaden, 
+upptagande av finansiella instrument till handel samt 
+definitioner för tillämpning av det direktivet, i den 
+ursprungliga lydelsen,
+
+12. handelsplattform: ett multilateralt handelssystem 
+(Multilateral Trading Facility, MTF) inom EES som drivs av 
+ett värdepappersinstitut eller en börs och som sammanför ett 
+flertal köp- och säljintressen i finansiella instrument från 
+tredje man – inom systemet och i enlighet med icke 
+skönsmässiga regler – så att detta leder till avslut,
+
+13. hemland: det land där ett företag har fått tillstånd att 
+driva sådan verksamhet som avses i denna lag,
+
+14. investeringstjänster och investeringsverksamheter: de 
+tjänster och verksamheter som anges i 2 kap. 1 §,
+
+15. kapitalbas: detsamma som i artikel 72 i 
+tillsynsförordningen,
+
+16. koncern: 
+
+a) i 8 a, 8 b och 25 b kap., detsamma som i 2 kap. 1 § lagen 
+(2015:1016) om resolution, 
+
+b) i övriga kapitel, detsamma som i 1 kap. 11 och 12 §§ 
+aktiebolagslagen (2005:551), varvid det som sägs om 
+moderbolag tillämpas även på andra juridiska personer än 
+aktiebolag,
+
+17. kreditinstitut: bank, kreditmarknadsföretag och utländskt 
+bank- eller kreditföretag som driver bank- eller 
+finansieringsrörelse från filial i Sverige,
+
+18. kvalificerat innehav: ett direkt eller indirekt ägande i 
+ett företag, om innehavet beräknat på det sätt som anges i 
+5 a § representerar 10 procent eller mer av kapitalet eller 
+av samtliga röster eller annars möjliggör ett väsentligt 
+inflytande över ledningen av företaget,
+
+19. professionell kund: en sådan kund som avses i 8 kap. 16 
+eller 17 §,
+
+20. reglerad marknad: ett multilateralt system inom EES som 
+sammanför eller möjliggör sammanförande av ett flertal köp- 
+och säljintressen i finansiella instrument från tredje man – 
+regelmässigt, inom systemet och i enlighet med icke 
+skönsmässiga regler – så att detta leder till avslut,
+
+21. sidotjänster: de tjänster som anges i 2 kap. 2 §,
+
+22. sidoverksamheter:
+
+a) för ett värdepappersbolag de verksamheter som anges i 2 
+kap. 3 och 4 §§,
+
+b) för en börs de verksamheter som anges i 13 kap. 12 §, 
+och
+
+c) för en clearingorganisation de verksamheter som anges 
+i 20 kap. 7 §,
+
+23. startkapital: det kapital som för värdepappersföretag 
+avses i artikel 4.51 i tillsynsförordningen,
+
+24. systematisk internhandlare: värdepappersinstitut som på 
+ett organiserat, frekvent och systematiskt sätt handlar för 
+egen räkning genom att utföra kundorder utanför en reglerad 
+marknad eller en handelsplattform,
+
+25. utländskt värdepappersföretag: ett utländskt företag som 
+i hemlandet har tillstånd att driva värdepappersrörelse,
+
+26. värdepappersbolag: ett svenskt aktiebolag som har fått 
+tillstånd enligt denna lag att driva värdepappersrörelse och 
+som inte är ett bankaktiebolag eller ett kreditmarknadsbolag 
+enligt lagen (2004:297) om bank- och finansieringsrörelse,
+
+27. värdepappersinstitut: värdepappersbolag, svenska 
+kreditinstitut som har fått tillstånd enligt denna lag att 
+driva värdepappersrörelse och utländska företag som driver 
+värdepappersrörelse från filial i Sverige,
+
+28. värdepappersrörelse: verksamhet som består i att 
+yrkesmässigt tillhandahålla investeringstjänster eller utföra 
+investeringsverksamhet,
+
+29. öppenhetsdirektivet: Europaparlamentets och rådets 
+direktiv 2004/109/EG av den 15 december 2004 om harmonisering 
+av insynskraven angående upplysningar om emittenter vars 
+värdepapper är upptagna till handel på en reglerad marknad 
+och om ändring av direktiv 2001/34/EG, i lydelsen enligt 
+Europaparlamentets och rådets direktiv 2013/50/EU,
+
+30. betydande filial: en filial som är betydande enligt 
+artikel 51.1 i kapitaltäckningsdirektivet,
+
+31. blandat finansiellt holdingföretag: ett holdingföretag 
+enligt artikel 4.1.21 i tillsynsförordningen,
+
+32. blandat finansiellt moderholdingföretag inom EES: ett 
+inom EES etablerat blandat finansiellt holdingföretag som 
+inte självt är ett dotterföretag till ett
+
+a) kreditinstitut, värdepappersbolag eller EES-institut, 
+eller
+
+b) annat blandat finansiellt holdingföretag eller ett 
+finansiellt holdingföretag som är etablerat i något annat 
+land inom EES,
+
+33. EES-institut: ett utländskt kreditinstitut eller ett 
+utländskt värdepappersföretag som är hemmahörande i något 
+annat land inom EES än Sverige,
+
+34. finansiellt holdingföretag: ett holdingföretag enligt 
+artikel 4.1.20 i tillsynsförordningen,
+
+35. finansiellt institut: ett finansiellt institut enligt 
+artikel 4.1.26 i tillsynsförordningen,
+
+36. finansiellt moderholdingföretag inom EES: ett inom EES 
+etablerat finansiellt holdingföretag som inte självt är ett 
+dotterföretag till ett
+
+a) kreditinstitut, värdepappersbolag eller EES-institut, 
+eller
+
+b) annat finansiellt holdingföretag eller ett blandat 
+finansiellt holdingföretag som är etablerat i något land inom 
+EES,
+
+37. holdingföretag med blandad verksamhet: holdingföretag 
+enligt artikel 4.1.22 i tillsynsförordningen,
+
+38. koncernåterhämtningsplan: en plan som upprättats av ett 
+moderföretag inom EES i syfte att identifiera åtgärder som de 
+företag i en grupp som omfattas av gruppbaserad tillsyn avser 
+att vidta för att bevara eller återställa koncernens eller 
+ett i koncernen ingående värdepappersbolags eller utländskt 
+värdepappersföretags finansiella ställning och livskraft 
+efter en betydande försämring av den finansiella 
+situationen,
+
+39. krishanteringsdirektivet: Europaparlamentets och rådets 
+direktiv 2014/59/EU av den 15 maj 2014 om inrättande av en 
+ram för återhämtning och resolution av kreditinstitut och 
+värdepappersföretag och om ändring av rådets direktiv 
+82/891/EEG och Europaparlamentets och rådets direktiv 
+2001/24/EG, 2002/47/EG, 2004/25/EG, 2005/56/EG, 2007/36/EG, 
+2011/35/EU, 2012/30/EU och 2013/36/EU samt Europaparlamentets 
+och rådets förordningar (EU) nr 1093/2010 och (EU) nr 
+648/2012, i den ursprungliga lydelsen,
+
+40. moderföretag inom EES: ett moderinstitut inom EES, ett 
+finansiellt moderholdingföretag inom EES eller ett blandat 
+finansiellt moderholdingföretag inom EES,
+
+41. moderinstitut inom EES: ett kreditinstitut, 
+värdepappersbolag eller EES-institut som är ett moderföretag 
+och som inte självt är ett dotterföretag till ett 
+
+a) annat kreditinstitut, värdepappersbolag eller 
+EES-institut, eller
+
+b) finansiellt holdingföretag eller ett blandat finansiellt 
+holdingföretag som är etablerat i något land inom EES,
+
+42. samordnande tillsynsmyndighet: en behörig myndighet som 
+ansvarar för att utöva gruppbaserad tillsyn av moderinstitut 
+inom EES och av värdepappersbolag och kreditinstitut som 
+kontrolleras av finansiella moderholdingföretag inom EES 
+eller blandade finansiella moderholdingföretag inom EES,
+
+43. tillsynsförordningen: Europaparlamentets och rådets 
+förordning (EU) nr 575/2013 av den 26 juni 2013 om 
+tillsynskrav för kreditinstitut och värdepappersföretag och 
+om ändring av förordning (EU) nr 648/2012, i lydelsen enligt 
+Europaparlamentets och rådets direktiv 2014/59/EU, 
+
+44. utländskt kreditinstitut: ett kreditinstitut enligt 1 
+kap. 5 § första stycket 21 lagen om bank- och 
+finansieringsrörelse, och 
+
+45. återhämtningsplan: en plan som upprättas av ett 
+värdepappersbolag i syfte att vidta åtgärder som bolaget 
+avser att vidta för att bevara eller återställa sin 
+finansiella ställning och livskraft efter en betydande 
+försämring av den finansiella situationen.
+Lag (2015:1032).
+
 5 a § Vid bedömningen av om ett innehav utgör ett
 kvalificerat innehav enligt 5 § 18 ska följande bestämmelser
 i 4 kap. lagen (1991:980) om handel med finansiella
 instrument tillämpas:
 
- 2 § första stycket 1 om depåbevis,
+– 2 § första stycket 1 om depåbevis,
 
- 4 § första stycket, andra stycket 18, samt tredje och
+– 4 § första stycket, andra stycket 1–8, samt tredje och
 femte styckena, om beräkning av innehavet,
 
- 5 § andra stycket om beräkning av antalet aktier eller
+– 5 § andra stycket om beräkning av antalet aktier eller
 röstetal,
 
- 12 § 1 och 2 om undantag för aktier som innehas för
+– 12 § 1 och 2 om undantag för aktier som innehas för
 clearing och avveckling eller förvaltas för någon annans
 räkning,
 
- 13 § om aktier som ingår i handelslager,
+– 13 § om aktier som ingår i handelslager,
 
- 14 § om aktier som innehas av marknadsgaranter, samt
+– 14 § om aktier som innehas av marknadsgaranter, samt
 
- 16 och 17 §§ om undantag för vissa moderföretag.
+– 16 och 17 §§ om undantag för vissa moderföretag.
 
 Vid bedömningen ska också tillämpas föreskrifter
 
- om aktier som innehas av marknadsgaranter, som har
+– om aktier som innehas av marknadsgaranter, som har
 meddelats med stöd av 7 kap. 1 § 3 lagen om handel med
 finansiella instrument eller 23 kap. 15 § 1 denna lag, och
 
- om undantag för vissa moderföretag, som har meddelats med
+– om undantag för vissa moderföretag, som har meddelats med
 stöd av 7 kap. 1 § 4 lagen om handel med finansiella
 instrument.
 
@@ -441,7 +706,8 @@ motsvarande 1 000 euro, och
 
 b) är upptagna till handel på en reglerad marknad.
 
-8 § Sverige är hemmedlemsstat för en utgivare som inte har
+8 § /Upphör att gälla U:2016-02-01/
+Sverige är hemmedlemsstat för en utgivare som inte har
 säte i en stat inom EES, om
 
 1. utgivaren har gett ut aktier eller sådana skuldebrev som
@@ -453,7 +719,30 @@ motsvarande 1 000 euro, och
 (1991:980) om handel med finansiella instrument.
 Lag (2012:382).
 
-9 § Sverige är hemmedlemsstat för en emittent i andra fall än
+8 § /Träder i kraft I:2016-02-01/
+Sverige är hemmedlemsstat för en utgivare som inte har
+säte i en stat inom EES, om
+
+1. utgivaren har gett ut aktier eller sådana skuldebrev som
+avses i 18 kap. 2 § första stycket och vart och ett av
+skuldebreven har ett nominellt värde som understiger
+motsvarande 1 000 euro,
+
+2. utgivarens aktier eller skuldebrev är upptagna till handel
+på en reglerad marknad i Sverige, och
+
+3. utgivaren har valt att Sverige ska vara hemmedlemsstat och
+inom tre månader från den dag aktierna eller skuldebreven
+först togs upp till handel offentliggjort valet enligt 9 b §.
+
+En utgivare som avses i första stycket får ändra sitt val av
+hemmedlemsstat, om aktierna eller skuldebreven inte längre är
+upptagna till handel på en reglerad marknad i Sverige.
+Sverige är i så fall inte längre hemmedlemsstat när utgivaren
+offentliggjort ändringen av valet enligt 9 b §. Lag (2015:960).
+
+9 § /Upphör att gälla U:2016-02-01/
+Sverige är hemmedlemsstat för en emittent i andra fall än
 som anges i 7 eller 8 §, om denne har gett ut eller utfärdat
 överlåtbara värdepapper som är upptagna till handel på en
 reglerad marknad och emittenten väljer att Sverige skall vara
@@ -468,6 +757,66 @@ En emittent som har valt att Sverige skall vara hemmedlemsstat
 får ändra detta val tidigast efter tre år, om inte
 förutsättningarna i första stycket dessförinnan har upphört att
 gälla.
+
+9 § /Träder i kraft I:2016-02-01/
+Sverige är hemmedlemsstat för en emittent i andra fall än
+som anges i 7 och 8 §§, om denne har gett ut eller utfärdat
+överlåtbara värdepapper som är upptagna till handel på en
+reglerad marknad och emittenten har valt att Sverige ska vara
+hemmedlemsstat och inom tre månader från den dag de
+överlåtbara värdepapperen först togs upp till handel
+offentliggjort valet enligt 9 b §.
+
+En emittent får välja att Sverige ska vara hemmedlemsstat
+bara om emittenten har sitt säte här eller om de överlåtbara
+värdepapperen är upptagna till handel på en reglerad marknad
+i Sverige.
+
+En emittent som har valt att Sverige ska vara hemmedlemsstat
+får ändra detta val tidigast efter tre år, om inte
+
+1. förutsättningarna i första stycket dessförinnan har
+upphört att gälla, eller
+
+2. de överlåtbara värdepapperen inte längre är upptagna till
+handel på en reglerad marknad i Sverige. Lag (2015:960).
+
+9 a § /Träder i kraft I:2016-02-01/
+Sverige är hemmedlemsstat för en emittent i andra fall
+än som anges i 7–9 §§, om emittentens överlåtbara värdepapper
+är upptagna till handel på en reglerad marknad i Sverige och
+emittenten inom tre månader från den 1 februari 2016 eller
+den dag emittentens överlåtbara värdepapper först togs upp
+till handel inte valt att någon annan stat ska vara
+hemmedlemsstat och offentliggjort valet enligt 9 b §.
+
+Första stycket omfattar inte
+
+1. emittenter av sådana aktier eller skuldebrev som avses i
+7 § som har säte inom EES, och
+
+2. emittenter som innan den 1 februari 2016 har valt en
+hemmedlemsstat inom EES som inte är Sverige och meddelat
+valet till den behöriga myndigheten i hemmedlemsstaten.
+
+Sverige ska inte längre vara hemmedlemsstat för en emittent
+som avses i första stycket om emittenten har valt en annan
+hemmedlemsstat inom EES än Sverige och offentliggjort valet
+enligt 9 b §. Lag (2015:960).
+
+9 b § /Träder i kraft I:2016-02-01/
+En emittent ska offentliggöra valet av hemmedlemsstat
+enligt 8–9 a §§ och anmäla valet till
+
+1. Finansinspektionen, och
+
+2. de behöriga myndigheterna i de stater inom EES där
+emittentens överlåtbara värdepapper är upptagna till handel
+på en reglerad marknad.
+
+Om emittenten har sitt säte i en annan stat inom EES än
+Sverige, ska valet dessutom anmälas till den behöriga
+myndigheten i den staten. Lag (2015:960).
 
 Överlåtbara värdepapper som är upptagna till handel i en annan
 stat inom EES
@@ -557,9 +906,11 @@ oaktsamhet bryter mot ett meddelandeförbud enligt 13 §.
 
 15 § Har upphävts genom lag (2009:715).
 
+/Rubriken upphör att gälla U:2016-02-01/
 Bemyndigande
 
-16 § Regeringen eller den myndighet som regeringen bestämmer
+16 § /Upphör att gälla U:2016-02-01 genom lag (2015:960)./
+Regeringen eller den myndighet som regeringen bestämmer
 får meddela föreskrifter om hur en emittent skall offentliggöra
 valet av hemmedlemsstat enligt 9 §. Lag (2008:11).
 
@@ -1272,7 +1623,7 @@ enligt 1 eller 2 § uppfyller
 1. kraven på kunskaper, kvalifikationer och lämplighet enligt
 1 § första stycket, och
 
-2. det som enligt 8 kap. 1 och 21 a27 §§ gäller för
+2. det som enligt 8 kap. 1 och 21 a–27 §§ gäller för
 värdepappersinstitut. Lag (2013:579).
 
 Registreringsmyndighet
@@ -1332,10 +1683,10 @@ a) driva värdepappersrörelse, och
 b) tillhandahålla sidotjänster eller driva sidoverksamhet,
 
 2. aktier, andelar och andra finansiella instrument med de
-begränsningar som anges i 26 §§ samt i förordning (EU) nr
+begränsningar som anges i 2–6 §§ samt i förordning (EU) nr
 575/2013, och
 
-3. egendom till skyddande av fordran enligt 1012 §§.
+3. egendom till skyddande av fordran enligt 10–12 §§.
 Lag (2014:985).
 
 Förvärv och innehav av aktier, andelar och andra finansiella
@@ -1382,7 +1733,7 @@ Innehavet av sådana aktier som anges i första stycket får inte
 överstiga fem procent av samtliga aktier i något av bolagen.
 
 För aktier som har förvärvats med stöd av första stycket gäller
-inte bestämmelserna i 19 kap. 9, 16 och 3137 §§
+inte bestämmelserna i 19 kap. 9, 16 och 31–37 §§
 aktiebolagslagen. Lag (2010:2075).
 
 7 § Har upphävts genom lag (2014:985).
@@ -1442,7 +1793,7 @@ handla på ett sätt så att allmänhetens förtroende för
 värdepappersmarknaden upprätthålls.
 
 2 § Av bestämmelserna om värdepappersinstitut i detta kapitel
-ska bara det som anges i 1, 12 och 21 a33 §§ tillämpas på
+ska bara det som anges i 1, 12 och 21 a–33 §§ tillämpas på
 utländska företag som driver värdepappersrörelse i Sverige
 enligt 4 kap. 1 § första stycket 1. Lag (2013:579).
 
@@ -1456,7 +1807,8 @@ sätt att bolagets förmåga att fullgöra sina förpliktelser inte
 
 Riskhantering
 
-4 § Ett värdepappersbolag skall identifiera, mäta, styra,
+4 § /Upphör att gälla U:2016-02-01/ 
+Ett värdepappersbolag skall identifiera, mäta, styra,
 internt rapportera och ha kontroll över de risker som dess
 rörelse är förknippad med. Bolaget skall se till att det har en
 tillfredsställande intern kontroll.
@@ -1471,6 +1823,29 @@ fördelning är tillräckligt för att täcka arten och nivån på de
 risker som bolaget är eller kan komma att bli exponerat för.
 Bolaget skall utvärdera dessa metoder för att säkerställa att
 de är heltäckande.
+
+4 § /Träder i kraft I:2016-02-01/ 
+Ett värdepappersbolag ska identifiera, mäta, styra, 
+internt rapportera och ha kontroll över de risker som dess 
+rörelse är förknippad med. Bolaget ska se till att det har en 
+tillfredsställande intern kontroll.
+
+Sådana värdepappersbolag som anges i 8 a kap. 1 § ska också 
+upprätta en återhämtningsplan eller koncernåterhämtningsplan 
+enligt samma kapitel.
+
+Ett värdepappersbolag ska särskilt se till att dess 
+kreditrisker, marknadsrisker, operativa risker och andra 
+risker sammantagna inte medför att dess förmåga att fullgöra 
+sina förpliktelser äventyras. För att uppfylla detta krav ska 
+bolaget ha metoder som gör det möjligt att fortlöpande 
+värdera och upprätthålla ett kapital som till belopp, slag 
+och fördelning är tillräckligt för att täcka arten och nivån 
+på de risker som bolaget är eller kan komma att bli exponerat 
+för.
+
+Bolaget ska utvärdera dessa metoder för att säkerställa att 
+de är heltäckande. Lag (2015:1032).
 
 4 a § Ett värdepappersbolag ska tillhandahålla ändamålsenliga
 rapporteringssystem för anställda som vill göra anmälningar
@@ -1760,7 +2135,7 @@ samt fondbolag eller förvaltningsbolag som förvaltar dem,
 
 5. pensionsfonder och förvaltningsbolag som förvaltar dem,
 
-6. andra finansiella företag än sådana som avses i 15 som
+6. andra finansiella företag än sådana som avses i 1–5 som
 har tillstånd att driva verksamhet enligt lagstiftningen i
 det land där de hör hemma eller som regleras i lagstiftning i
 det landet,
@@ -1772,9 +2147,9 @@ det landet,
 inklusive offentliga organ som har hand om statsskuld,
 centralbanker och överstatliga organisationer, samt
 
-9. andra företag än sådana som avses i 18, om de ska
+9. andra företag än sådana som avses i 1–8, om de ska
 betraktas som professionella kunder enligt 16 § första
-stycket 13.
+stycket 1–3.
 
 Ett värdepappersinstitut får behandla ett företag som inte
 ingår i någon av grupperna i första stycket som en jämbördig
@@ -2206,7 +2581,7 @@ skyldigheterna i 1 §,
 2. vilka åtgärder som ett värdepappersbolag ska vidta för att
 uppfylla de krav på soliditet och likviditet, riskhantering
 och genomlysning samt riktlinjer och instruktioner som avses
-i 38 §§,
+i 3–8 §§,
 
 3. värdepappersbolags mångfaldspolicy vid tillsättandet av
 styrelse samt resurser för introduktion och utbildning av
@@ -2271,6 +2646,466 @@ säkerhet enligt 37 § andra stycket, och
 
 25. vilka uppgifter som ska antecknas i en förteckning enligt
 38 § fjärde stycket. Lag (2014:985).
+
+8 a kap. /Kapitlet träder i kraft I:2016-02-01/ 
+Återhämtningsplaner
+
+Definition
+
+1 § Med värdepappersbolag avses i detta kapitel 
+värdepappersbolag enligt 2 kap. 1 § lagen (2015:1016) om 
+resolution. Lag (2015:1032).
+
+Upprättande av en återhämtningsplan
+
+2 § Ett värdepappersbolag ska upprätta en återhämtningsplan 
+och vid behov uppdatera den.
+
+Bolagets styrelse ska godkänna återhämtningsplanen. Den ska 
+därefter, vid den tidpunkt Finansinspektionen bestämmer, 
+lämnas in till inspektionen.
+
+Ett värdepappersbolag som är föremål för gruppbaserad tillsyn 
+tillsammans med andra koncernföretag inom EES omfattas inte 
+av skyldigheten enligt första och andra styckena. 
+Lag (2015:1032).
+
+Upprättande av en koncernåterhämtningsplan
+
+3 § Ett värdepappersbolag som ingår i en koncern som står 
+under gruppbaserad tillsyn ska omfattas av en 
+koncernåterhämtningsplan som upprättas och uppdateras av 
+moderföretaget inom EES. Ett sådant bolag ska upprätta en 
+individuell återhämtningsplan om Finansinspektionen beslutar 
+det. För en gränsöverskridande koncern ska ett sådant beslut 
+fattas enligt 9 eller 10 §.
+
+En koncernåterhämtningsplan ska identifiera åtgärder som kan 
+bli nödvändiga att vidta på nivån för moderföretaget inom EES 
+och i ett enskilt dotterföretag som omfattas av den 
+gruppbaserade tillsynen.
+
+Moderföretagets styrelse ska godkänna planen. Den ska 
+därefter, vid den tidpunkt Finansinspektionen bestämmer, ges 
+in till inspektionen. För en gränsöverskridande koncern ska 
+planen i stället ges in till den samordnande 
+tillsynsmyndigheten. Om Finansinspektionen är den samordnande 
+tillsynsmyndigheten, ska inspektionen sända över planen till 
+berörda behöriga myndigheter och resolutionsmyndigheter.
+
+Om ett moderföretag har åsidosatt sina skyldigheter enligt 
+denna paragraf, ska Finansinspektionen ingripa enligt 25 kap. 
+Lag (2015:1032).
+
+Krav på en återhämtningsplan 
+
+4 § Av innehållet i en återhämtningsplan och en 
+koncernåterhämtningsplan ska det framgå att 
+
+1. de åtgärder som identifieras rimligen kan förväntas leda 
+till att värdepappersbolaget eller koncernen kan bevara eller 
+återställa sin finansiella ställning och livskraft, och 
+
+2. planen och de åtgärder som identifieras i den rimligen kan 
+förväntas bli genomförda snabbt och effektivt vid finansiell 
+stress och utan att leda till en allvarlig störning i det 
+finansiella systemet. 
+
+En återhämtningsplan och en koncernåterhämtningsplan ska 
+innehålla de ytterligare uppgifter som framgår av 
+föreskrifter som meddelats med stöd av 13 § eller tekniska 
+standarder beslutade av Europeiska kommissionen enligt 
+artikel 5.10 i krishanteringsdirektivet.
+
+De åtgärder som identifieras i en återhämtningsplan och en 
+koncernåterhämtningsplan får inte leda till att det uppkommer 
+väsentliga hinder mot att rekonstruera eller avveckla ett 
+värdepappersbolag eller, i förekommande fall, ett annat 
+koncernföretag som omfattas av planen. Lag (2015:1032).
+
+Väsentliga brister eller hinder i en plan 
+
+5 § Finansinspektionen ska granska en återhämtningsplan för 
+att bedöma om den uppfyller kraven i 4 §. Granskningen ska 
+göras efter samråd med behöriga myndigheter i de länder inom 
+EES där det finns en betydande filial.
+
+Riksgäldskontoret ska ges tillfälle att granska planen i 
+syfte att identifiera eventuella åtgärder i planen som skulle 
+kunna inverka negativt på värdepappersbolagets möjlighet till 
+resolution och lämna rekommendationer till 
+Finansinspektionen.
+
+Hur granskningen och bedömningen av en 
+koncernåterhämtningsplan för en gränsöverskridande koncern 
+ska gå till framgår av 9–12 §§. Bestämmelserna i 6–8 §§ om 
+värdepappersbolag gäller även för moderföretag inom EES som 
+inte är värdepappersbolag, om granskningen avser en 
+koncernåterhämtningsplan. Lag (2015:1032).
+
+6 § Finansinspektionen ska underrätta värdepappersbolaget om 
+utfallet av granskningen.
+
+Om Finansinspektionen finner väsentliga brister i en 
+återhämtningsplan eller väsentliga hinder mot att genomföra 
+åtgärderna i återhämtningsplanen, ska inspektionen underrätta 
+värdepappersbolaget om vilka väsentliga brister eller hinder 
+myndigheten identifierar och ge bolaget tillfälle att yttra 
+sig över bedömningen. Om värdepappersbolagets yttrande inte 
+leder till att inspektionen ändrar sin bedömning, ska 
+inspektionen förelägga bolaget att inom två månader lämna in 
+en ändrad plan som åtgärdar de brister eller hinder som 
+inspektionen identifierat. På värdepappersbolagets begäran 
+får Finansinspektionen besluta att förlänga denna tid med 
+ytterligare en månad. Lag (2015:1032).
+
+7 § Om ett värdepappersbolag inte följer inspektionens 
+föreläggande eller om de ändringar som värdepappersbolaget 
+gjort inte undanröjer de väsentliga bristerna eller hindren, 
+ska Finansinspektionen 
+
+1. förelägga värdepappersbolaget att göra konkreta ändringar 
+i återhämtningsplanen för att undanröja de väsentliga 
+bristerna eller hindren, eller 
+
+2. om sådana ändringar inte på ett adekvat sätt kan åtgärda 
+bristerna eller hindren, förelägga värdepappersbolaget att 
+identifiera vilka ändringar av sin affärsverksamhet som det 
+kan göra för att undanröja de väsentliga bristerna eller 
+hindren. Lag (2015:1032).
+
+8 § Om Finansinspektionen efter ett föreläggande enligt 7 § 
+bedömer att det inte längre finns väsentliga brister i en 
+återhämtningsplan eller väsentliga hinder mot att genomföra 
+planen, ska inspektionen underrätta bolaget om detta.
+
+Om det trots ett föreläggande enligt 7 § fortfarande finns 
+väsentliga brister i en återhämtningsplan eller väsentliga 
+hinder mot att genomföra planen, får Finansinspektionen 
+förelägga värdepappersbolaget att
+
+1. reducera riskprofilen i bolaget, även likviditetsrisken,
+
+2. möjliggöra kapitaliseringsåtgärder i rätt tid,
+
+3. se över bolagets strategi och struktur,
+
+4. vidta ändringar i finansieringsstrategin för att förstärka 
+motståndskraften i kärnaffärsområdena och de kritiska 
+verksamheterna, eller
+
+5. vidta förändringar i bolagets styrningsstruktur.
+
+Vid bedömningen av vilka åtgärder som är nödvändiga och 
+proportionerliga ska hänsyn tas till hur allvarliga bristerna 
+och hindren är och den effekt som åtgärderna skulle ha på 
+värdepappersbolagets affärsverksamhet. Lag (2015:1032).
+
+Överenskommelser om en koncernåterhämtningsplan för en 
+gränsöverskridande koncern
+
+9 § När Finansinspektionen är den samordnande 
+tillsynsmyndigheten, ska inspektionen se till att samråd sker 
+med sådana behöriga myndigheter som avses i artikel 116 i 
+kapitaltäckningsdirektivet och de myndigheter som ansvarar 
+för betydande filialer. 
+
+Inom fyra månader från det att Finansinspektionen eller en 
+annan samordnande tillsynsmyndighet har överlämnat en 
+koncernåterhämtningsplan till de myndigheter som anges i 3 § 
+tredje stycket, ska inspektionen försöka komma överens med 
+behöriga myndigheter som ingår i tillsynskollegiet för 
+koncernen om
+
+1. granskningen och bedömningen av 
+koncernåterhämtningsplanen, 
+
+2. huruvida en återhämtningsplan ska upprättas för ett 
+individuellt värdepappersbolag eller ett utländskt 
+värdepappersföretag som ingår i koncernen, och 
+
+3. tillämpningen av åtgärder som avses i artikel 6.5 och 6.6 
+i krishanteringsdirektivet för att komma till rätta med 
+väsentliga brister i planen eller väsentliga hinder mot att 
+genomföra den.
+
+Om myndigheterna kommer överens, ska Finansinspektionen i 
+enlighet med överenskommelsen fatta de beslut som behövs. 
+Lag (2015:1032).
+
+10 § Om en överenskommelse inte har träffats inom fyra 
+månader, ska Finansinspektionen i egenskap av samordnande 
+myndighet fatta beslut om 
+
+1. granskningen och bedömningen av 
+koncernåterhämtningsplanen, 
+
+2. huruvida en återhämtningsplan ska upprättas för ett 
+individuellt värdepappersbolag i koncernen som står under 
+inspektionens tillsyn, och
+
+3. åtgärder som moderföretaget inom EES eller ett 
+värdepappersbolag som står under inspektionens tillsyn ska 
+vidta för att komma till rätta med väsentliga brister i 
+planen eller väsentliga hinder mot att genomföra den. 
+
+Om Finansinspektionen inte är samordnande myndighet, ska 
+inspektionen ensam fatta beslut enligt första stycket 2 och 3 
+beträffande värdepappersbolag i koncernen som står under 
+inspektionens tillsyn. 
+
+När Finansinspektionen fattar beslut om 
+koncernåterhämtningsplanen enligt första stycket 1 och 3, ska 
+inspektionen beakta synpunkter och reservationer från de 
+övriga behöriga myndigheterna. Lag (2015:1032).
+
+11 § Om någon eller några av de behöriga myndigheterna inom 
+fyra månader från det att Finansinspektionen eller en annan 
+samordnande tillsynsmyndighet har överlämnat 
+återhämtningsplanen enligt 9 § andra stycket har hänskjutit 
+ärendet till Europeiska bankmyndigheten i enlighet med 
+artikel 19 i förordning (EU) nr 1093/2010 av den 24 november 
+2010 om inrättande av en europeisk tillsynsmyndighet 
+(Europeiska bankmyndigheten), om ändring av beslut nr 
+716/2009/EG och om upphävande av kommissionens beslut 
+2009/78/EG, i lydelsen enligt Europaparlamentets och rådets 
+förordning 806/2014/EU, ska inspektionen skjuta upp sitt 
+beslut enligt 10 § med en månad och invänta det beslut som 
+Europeiska bankmyndigheten kan komma att fatta enligt artikel 
+19.3 i samma förordning. Finansinspektionen ska följa ett 
+beslut i saken från Europeiska bankmyndigheten. Om Europeiska 
+bankmyndigheten inte har fattat ett beslut inom en månad, får 
+inspektionen fatta beslut enligt 10 §.
+
+Finansinspektionen får inte hänskjuta ett ärende till 
+Europeiska bankmyndigheten efter det att fyramånadersfristen 
+har löpt ut eller en överenskommelse har träffats. 
+
+Finansinspektionen får hänskjuta ett ärende till Europeiska 
+bankmyndigheten bara om det rör
+
+1. bedömningen av koncernåterhämtningsplanen, eller
+
+2. sådana åtgärder som anges i 8 § andra stycket 1, 2 eller 
+4. Lag (2015:1032).
+
+12 § Ett beslut enligt 9 § som fattas av en utländsk 
+samordnande tillsynsmyndighet efter en överenskommelse med 
+behöriga myndigheter eller på grund av att de behöriga 
+myndigheterna inte har kommit överens inom de tidsfrister som 
+anges i 9 § gäller i Sverige. Lag (2015:1032).
+
+Bemyndigande
+
+13 § Regeringen eller den myndighet som regeringen bestämmer 
+får meddela föreskrifter om innehållet i en återhämtningsplan 
+enligt 2 § och en koncernåterhämtningsplan enligt 3 §, när 
+planerna ska upprättas och hur ofta de ska uppdateras.
+Lag (2015:1032).
+
+8 b kap. /Kapitlet träder i kraft I:2016-02-01/ 
+Avtal om koncerninternt finansiellt stöd
+
+Definitioner
+
+1 § I detta kapitel betyder
+
+1. finansiellt stöd: penninglån, utställande av garanti, 
+ställande av säkerhet eller en kombination av dessa 
+stödformer, och
+
+2. koncerninternt finansiellt stöd: finansiellt stöd som 
+lämnas av ett företag till ett annat i samma koncern när det 
+mottagande företaget uppfyller förutsättningarna för 
+ingripande enligt 25 kap. 2 b §. Lag (2015:1032).
+
+Vilka som får ingå avtal om koncerninternt finansiellt stöd
+
+2 § Ett avtal om koncerninternt finansiellt stöd får ingås 
+mellan å ena sidan ett moderinstitut i en medlemsstat, ett 
+moderinstitut inom EES, ett finansiellt holdingföretag, ett 
+blandat finansiellt holdingföretag eller ett holdingföretag 
+med blandad verksamhet som är etablerat inom EES, och å andra 
+sidan ett dotterföretag.
+
+Ett företag som anges i första stycket och som uppfyller 
+förutsättningarna för ingripande enligt 25 kap. 2 b §, får 
+inte ingå ett avtal om koncerninternt finansiellt stöd. 
+Lag (2015:1032).
+
+Myndighets godkännande av avtal om finansiellt stöd
+
+3 § Innan ett avtal om koncerninternt finansiellt stöd ingås, 
+ska en ansökan om godkännande av avtalet göras till 
+Finansinspektionen, om inspektionen är den samordnande 
+tillsynsmyndigheten för den koncern som avtalet gäller.
+
+Finansinspektionen ska skyndsamt lämna information om ansökan 
+till de behöriga myndigheterna för varje part i avtalet. 
+
+Moderinstitutet inom EES ansvarar för att ansökan görs.
+Lag (2015:1032).
+
+4 § Finansinspektionen ska godkänna ett avtal om 
+koncerninternt finansiellt stöd, om stödet
+
+1. i betydande grad avhjälper de finansiella svårigheterna i 
+det företag som tar emot det,
+
+2. syftar till att bevara eller återställa den finansiella 
+stabiliteten i koncernen som helhet eller i något av 
+företagen inom koncernen, och
+
+3. inte äventyrar den finansiella stabiliteten i ett eller 
+flera länder inom EES, i synnerhet i det land där det 
+stödgivande företaget finns.
+
+Dessutom ska följande krav vara uppfyllda med avseende på det 
+stödgivande företaget:
+
+1. Det kan antas att ersättningen för stödet kommer att 
+betalas och, om det avser ett lån, även kapitalbeloppet 
+återbetalas. Om stödet ges i form av en garanti eller annan 
+slags säkerhet, tillämpas samma villkor på den skuld som 
+uppkommer ifall garantin eller säkerheten utlöses.
+
+2. Det finansiella stödet ges på sådana villkor att det 
+stödgivande företagets intressen gynnas.
+
+3. Likviditeten eller solvensen i det stödgivande företaget 
+äventyras inte till följd av tillhandahållandet av det 
+finansiella stödet.
+
+4. Det stödgivande företaget uppfyller de krav som gäller 
+avseende kapitalbas och likviditet i 
+kapitaltäckningsdirektivet samt de övriga krav som gäller 
+enligt artikel 104.2 i samma direktiv vid tidpunkten för det 
+finansiella stödet.
+
+5. Det stödgivande företaget uppfyller de krav som gäller för 
+stora exponeringar. 
+
+6. Det finansiella stödet leder inte till att de krav som 
+anges i 4 eller 5 inte uppfylls.
+
+7. Möjligheten till resolution av det stödgivande företaget 
+äventyras inte till följd av det finansiella stödet.
+
+Finansinspektionen får bevilja undantag från kraven i andra 
+stycket 4 och 5. Lag (2015:1032).
+
+5 § Finansinspektionen ska överlämna varje avtal som 
+inspektionen godkänt, och ändringar av sådana avtal, till 
+Riksgäldskontoret. Lag (2015:1032).
+
+Avtalsparternas godkännande av avtal om finansiellt stöd
+
+6 § Innan beslut fattas om att ingå ett avtal om 
+koncerninternt finansiellt stöd, ska bolagsstämman eller 
+motsvarande organ i samtliga företag som är parter i avtalet 
+om koncerninternt finansiellt stöd godkänna avtalet.
+Lag (2015:1032).
+
+7 § Ett beslut enligt 6 § ska innehålla ett bemyndigande för 
+styrelsen att besluta om att lämna eller ta emot 
+koncerninternt finansiellt stöd. Lag (2015:1032).
+
+8 § Ett beslut av styrelsen i det stödgivande företaget om 
+att lämna koncerninternt finansiellt stöd ska innehålla 
+följande uppgifter:
+
+1. de överväganden som gjorts, 
+
+2. för vilket ändamål stödet lämnas, och
+
+3. hur stödet uppfyller de krav som anges i 4 §.
+Lag (2015:1032).
+
+9 § Styrelsen i det stödmottagande företaget ska besluta om 
+mottagande av koncerninternt finansiellt stöd.
+Lag (2015:1032).
+
+10 § Styrelsen i ett företag som är part i ett avtal om 
+koncerninternt finansiellt stöd ska årligen rapportera till 
+bolagsstämman eller motsvarande organ om vilka åtgärder som 
+vidtagits med anledning av det avtal om sådant stöd som 
+bolagsstämman eller motsvarande organ godkänt. 
+Lag (2015:1032).
+
+Anmälan om givande av stöd
+
+11 § Innan något koncerninternt finansiellt stöd lämnas, ska 
+styrelsen i det stödgivande företaget göra en anmälan till 
+Finansinspektionen och Europeiska bankmyndigheten.
+
+Om Finansinspektionen inte är behörig myndighet för det 
+stödmottagande företaget, ska styrelsen i det stödgivande 
+företaget även göra en anmälan enligt första stycket till den 
+behöriga myndigheten för det stödmottagande företaget.
+
+Anmälan enligt första stycket ska även göras till den 
+samordnande myndigheten, om denna myndighet inte samtidigt är 
+behörig myndighet för det stödgivande eller för det 
+stödmottagande företaget. 
+
+Om det stödgivande företaget har åsidosatt sina skyldigheter 
+enligt denna paragraf, ska Finansinspektionen ingripa enligt 
+25 kap. Lag (2015:1032).
+
+12 § En anmälan enligt 11 § ska innehålla styrelsens beslut 
+enligt 8 § och en detaljerad beskrivning av det avtal om 
+koncerninternt finansiellt stöd som anmälan avser samt en 
+kopia av avtalet. Lag (2015:1032).
+
+13 § Finansinspektionen ska fatta beslut om att förbjuda, 
+begränsa eller godkänna ett koncerninternt finansiellt stöd 
+enligt en anmälan enligt 11 §, om inspektionen är behörig 
+myndighet för det stödgivande företaget. Lag (2015:1032).
+
+14 § Ett beslut av Finansinspektionen att godkänna, förbjuda 
+eller begränsa det finansiella stödet ska omedelbart anmälas 
+till den samordnande tillsynsmyndigheten, den behöriga 
+myndigheten för det stödmottagande företaget och Europeiska 
+bankmyndigheten. Lag (2015:1032).
+
+15 § Om Finansinspektionen inom fem arbetsdagar, räknat från 
+den dag då inspektionen tog emot en fullständig anmälan 
+enligt 11 § inte har fattat ett beslut enligt 13 §, får 
+stödet lämnas i enlighet med villkoren i det anmälda 
+avtalet. Lag (2015:1032).
+
+Offentliggörande av avtalet
+
+16 § Styrelsen i varje företag som ingått ett avtal om 
+koncerninternt finansiellt stöd ska offentliggöra att 
+företaget ingått ett sådant avtal och vilka som är parter i 
+avtalet. Styrelsen ska även offentliggöra en översiktlig 
+beskrivning av avtalsinnehållet.
+
+Styrelsen ska minst en gång om året uppdatera den information 
+som offentliggörs. Lag (2015:1032).
+
+Bemyndiganden
+
+17 § Regeringen eller den myndighet som regeringen bestämmer 
+får meddela föreskrifter om
+
+1. innehållet i ansökan om godkännande av avtal gällande 
+koncerninternt finansiellt stöd enligt 3 § första stycket,
+
+2. innehållet i en anmälan om givande av koncerninternt 
+finansiellt stöd enligt 11 §,
+
+3. vad det beslut som styrelsen i det stödgivande företaget 
+fattar enligt 8 § ska innehålla, och
+
+4. offentliggörandet av information enligt 16 §.
+
+Regeringen får även meddela föreskrifter om 
+Finansinspektionens handläggning av ansökan om godkännande av 
+avtal gällande koncerninternt finansiellt stöd enligt detta 
+kapitel och av anmälan om givande av sådant stöd.
+Lag (2015:1032).
 
 9 kap. Information om kurser och omsättningsuppgifter m.m.
 
@@ -2583,6 +3418,19 @@ reglerad marknad. Informationen skall göras tillgänglig för
 allmänheten så snart det kan ske och på rimliga affärsmässiga
 villkor.
 
+/Rubriken träder i kraft I:2016-02-01/ 
+Hinder mot handel 
+
+11 a § /Träder i kraft I:2016-02-01/ 
+Ett värdepappersinstitut ska avslå en ansökan om att 
+ett finansiellt instrument ska handlas på en handelsplattform 
+eller besluta att ett finansiellt instrument inte längre ska 
+handlas på en handelsplattform, om Riksgäldskontoret begär 
+det enligt 14 kap. 3 § första stycket 2 lagen (2015:1016) om 
+resolution eller en utländsk resolutionsmyndighet begär det 
+enligt nationell lagstiftning som genomför artikel 64.1 c i 
+krishanteringsdirektivet. Lag (2015:1032).
+
 Bemyndiganden
 
 12 § Regeringen eller den myndighet som regeringen bestämmer
@@ -2822,7 +3670,8 @@ avses i 2 kap. 36 § samma lag, och
 
 2. prospektet har offentliggjorts enligt den lagen.
 
-4 § Överlåtbara värdepapper som har getts ut eller utfärdats
+4 § /Upphör att gälla U:2016-02-01 genom lag (2015:960)./
+Överlåtbara värdepapper som har getts ut eller utfärdats
 av någon som enligt öppenhetsdirektivet har möjlighet att
 välja hemmedlemsstat får inte tas upp till handel på en
 reglerad marknad förrän emittenten har valt en stat inom EES
@@ -2927,7 +3776,7 @@ Sidoverksamhet
 omfattar, på rimliga affärsmässiga villkor ge
 värdepappersinstitut och utländska värdepappersföretag
 tillträde till de funktioner inom den reglerade marknaden som
-används för att offentliggöra information enligt 911 §§. En
+används för att offentliggöra information enligt 9–11 §§. En
 börs får även driva annan verksamhet som har nära samband med
 den verksamhet som tillståndet omfattar.
 
@@ -3048,7 +3897,7 @@ tillämpning av första stycket.
 3 a § Särskilda bestämmelser om deltagare i handeln på en
 reglerad marknad när det är fråga om auktionering av
 utsläppsrätter på en auktionsplattform finns i artiklarna
-1521 i förordning (EU) nr 1031/2010. Lag (2012:375).
+15–21 i förordning (EU) nr 1031/2010. Lag (2012:375).
 
 4 § Om en deltagare inte längre uppfyller kraven för att delta
 i handeln på den reglerade marknaden, skall börsen besluta att
@@ -3155,7 +4004,8 @@ lämnar ut informationen, skall den omedelbart överlämnas till
 börsen samt offentliggöras, om inte mottagaren av informationen
 omfattas av tystnadsplikt enligt lag eller avtal.
 
-8 § En emittent av överlåtbara värdepapper som efter ansökan av
+8 § /Upphör att gälla U:2016-02-01/
+En emittent av överlåtbara värdepapper som efter ansökan av
 emittenten har tagits upp till handel på en reglerad marknad,
 skall omedelbart offentliggöra
 
@@ -3173,6 +4023,18 @@ aktierna som underliggande tillgång, skall utgivaren omedelbart
 även offentliggöra förändringar i de rättigheter som är knutna
 till derivatinstrumenten.
 
+8 § /Träder i kraft I:2016-02-01/
+En emittent av överlåtbara värdepapper som efter ansökan
+av emittenten har tagits upp till handel på en reglerad
+marknad, ska omedelbart offentliggöra alla förändringar i de
+rättigheter som är knutna till värdepapperen.
+
+Om den som har gett ut aktier som har tagits upp till handel
+på en reglerad marknad även har utfärdat derivatinstrument
+med aktierna som underliggande tillgång, ska utgivaren
+omedelbart även offentliggöra förändringar i de rättigheter
+som är knutna till derivatinstrumenten. Lag (2015:960).
+
 9 § En börs skall fortlöpande kontrollera att de finansiella
 instrument som är upptagna till handel uppfyller kraven i 2 §
 samt att emittenter fullgör sina informationsskyldigheter
@@ -3185,7 +4047,8 @@ eller annan författning.
 
 Avnotering
 
-11 § En börs skall avslå en begäran om upptagande till handel
+11 § /Upphör att gälla U:2016-02-01/ 
+En börs skall avslå en begäran om upptagande till handel
 eller besluta att ett finansiellt instrument inte längre skall
 vara upptaget till handel (avnotering), om instrumentet inte
 uppfyller de krav som gäller för upptagande till handel eller
@@ -3205,6 +4068,33 @@ En börs skall omedelbart offentliggöra ett beslut om avnotering
 och informera Finansinspektionen om beslutet. Inspektionen
 skall därefter underrätta övriga behöriga myndigheter inom EES
 om beslutet.
+
+11 § /Träder i kraft I:2016-02-01/ 
+En börs ska avslå en begäran om upptagande till handel 
+eller besluta att ett finansiellt instrument inte längre ska 
+vara upptaget till handel (avnotering), om instrumentet inte 
+uppfyller de krav som gäller för upptagande till handel eller 
+om emittenten allvarligt åsidosätter sina förpliktelser 
+enligt denna lag eller någon annan författning eller om 
+Riksgäldskontoret begär det enligt 14 kap. 3 § första stycket 
+1 lagen (2015:1016) om resolution eller en utländsk 
+resolutionsmyndighet begär det enligt nationell lagstiftning 
+som genomför artikel 64.1 c i krishanteringsdirektivet. 
+Avnotering av ett finansiellt instrument som har tagits upp 
+till handel ska även ske på begäran av den efter vars begäran 
+instrumentet har tagits upp till handel. Om det är lämpligt 
+från allmän synpunkt, får avnotering skjutas upp.
+
+Avnotering får inte beslutas utan att emittenten har fått 
+tillfälle att yttra sig över det som har tillförts ärendet 
+genom någon annan än emittenten själv, om det inte är 
+uppenbart obehövligt eller om beslutet inte kan skjutas 
+upp.
+
+En börs ska omedelbart offentliggöra ett beslut om 
+avnotering och informera Finansinspektionen om beslutet. 
+Inspektionen ska därefter underrätta övriga behöriga 
+myndigheter inom EES om beslutet. Lag (2015:1032).
 
 Inregistrering
 
@@ -3273,7 +4163,8 @@ enlighet med den offentliga reglering i emittentens
 hemmedlemsstat inom EES som följer av öppenhetsdirektivet.
 Lag (2009:572).
 
-2 § Bestämmelserna i detta kapitel skall inte tillämpas om
+2 § /Upphör att gälla U:2016-02-01/
+Bestämmelserna i detta kapitel skall inte tillämpas om
 emittenten är
 
 1. en stat,
@@ -3287,6 +4178,27 @@ inom EES är medlemmar,
 4. Europeiska centralbanken, eller
 
 5. en centralbank i en stat inom EES.
+
+2 § /Träder i kraft I:2016-02-01/
+Bestämmelserna i detta kapitel ska inte tillämpas om
+emittenten är
+
+1. en stat,
+
+2. ett landsting eller en kommun eller en motsvarande
+regional eller lokal myndighet i en stat,
+
+3. en mellanstatlig organisation i vilken en eller flera
+stater inom EES är medlemmar,
+
+4. Europeiska centralbanken,
+
+5. en centralbank i en stat inom EES, eller
+
+6. Europeiska finansiella stabiliseringsfaciliteten eller
+andra mekanismer som upprättats i syfte att upprätthålla
+finansiell stabilitet i Europeiska monetära unionen.
+Lag (2015:960).
 
 3 § Bestämmelserna i detta kapitel ska inte tillämpas i fråga
 om
@@ -3342,6 +4254,11 @@ försäkringsrörelselagen (2010:2043), 4 a kap. sparbankslagen
 (1999:1079) och 9 kap. aktiebolagslagen (2005:551).
 Lag (2015:721).
 
+4 a § /Träder i kraft I:den dag som regeringen bestämmer/
+En emittent ska upprätta års- och koncernredovisningen
+i ett format som möjliggör enhetlig elektronisk
+rapportering. Lag (2015:960).
+
 Halvårsrapport
 
 5 § En utgivare av aktier eller av obligationer eller andra
@@ -3352,9 +4269,14 @@ delårsrapport för räkenskapsårets första sex månader
 snart som möjligt och senast två månader efter rapportperiodens
 utgång.
 
+/Rubriken upphör att gälla U:2016-02-01/
 Delårsredogörelse
 
-6 § En utgivare av aktier skall offentliggöra en
+/Rubriken träder i kraft I:2016-02-01/
+Rapport om betalningar till myndigheter
+
+6 § /Upphör att gälla U:2016-02-01/
+En utgivare av aktier skall offentliggöra en
 delårsredogörelse under räkenskapsårets första och andra
 halvår. Redogörelsen skall offentliggöras tidigast tio veckor
 efter början och senast sex veckor före slutet av halvåret.
@@ -3366,9 +4288,22 @@ väsentliga händelser och transaktioner under perioden samt en
 allmän beskrivning av utgivarens och dess dotterföretags
 ställning och resultat under perioden.
 
+6 § /Träder i kraft I:2016-02-01/
+Emittenter som bedriver sådan verksamhet som avses i 2 §
+1 eller 2 lagen (2015:812) om rapportering av betalningar
+till myndigheter ska senast sex månader efter räkenskapsårets
+utgång offentliggöra en rapport om betalningar till
+myndigheter.
+
+Rapporten ska upprättas med tillämpning av 4–7 och 10 §§
+lagen om rapportering av betalningar till myndigheter.
+Lag (2015:960).
+
+/Rubriken upphör att gälla U:2016-02-01/
 Kvartalsrapport
 
-7 § Det krävs ingen delårsredogörelse enligt 6 § om utgivaren i
+7 § /Upphör att gälla U:2016-02-01 genom lag (2015:960)./
+Det krävs ingen delårsredogörelse enligt 6 § om utgivaren i
 stället offentliggör en delårsrapport för perioden från
 halvårets början och tre månader framåt (kvartalsrapport).
 Kvartalsrapporten skall offentliggöras så snart som möjligt och
@@ -3429,7 +4364,8 @@ koncernen står inför.
 
 Emittenter utan säte i en stat inom EES
 
-11 § En emittent som inte har säte i en stat inom EES får
+11 § /Upphör att gälla U:2016-02-01/
+En emittent som inte har säte i en stat inom EES får
 tillämpa sådana bestämmelser om års- och koncernredovisning
 samt halvårsrapport som finns i en offentlig reglering i en
 stat utanför EES, om dessa bestämmelser motsvarar de krav som
@@ -3458,6 +4394,32 @@ koncernredovisning, halvårsrapport respektive kvartalsrapport
 i enlighet med de bestämmelser som anges i 8 § och som gäller
 för en emittent av motsvarande slag. Lag (2013:579).
 
+11 § /Träder i kraft I:2016-02-01/
+En emittent som inte har säte i en stat inom EES får
+tillämpa sådana bestämmelser om års- och koncernredovisning
+samt halvårsrapport som finns i en offentlig reglering i en
+stat utanför EES, om dessa bestämmelser motsvarar de krav som
+ställs på sådan regelbunden finansiell information i
+öppenhetsdirektivet.
+
+En emittent som inte har säte i en stat inom EES får även
+tillämpa sådana bestämmelser om koncernredovisning och
+halvårsrapport för koncernen som finns i en offentlig
+reglering i en stat utanför EES, om villkoren i artikel 1 i
+kommissionens beslut nr 961/2008/EG av den 12 december 2008
+om tredjelandsemittenters användning av vissa tredjeländers
+redovisningsstandarder och internationella
+redovisningsstandarder vid upprättandet av sina
+koncernredovisningar, i lydelsen enligt kommissionens
+genomförandebeslut 2012/194/EU, är uppfyllda.
+
+Om ett tredjelands bestämmelser enligt första stycket inte
+anses likvärdiga eller om villkoren enligt andra stycket inte
+är uppfyllda, ska emittenten upprätta års- och
+koncernredovisning respektive halvårsrapport i enlighet med
+de bestämmelser som anges i 8 § och som gäller för en
+emittent av motsvarande slag. Lag (2015:960).
+
 11 a § Om en emittent som inte har säte i en stat inom EES
 anlitar en fysisk person eller ett företag från ett
 tredjeland för granskning av års- eller koncernredovisning,
@@ -3474,12 +4436,22 @@ driver den reglerade marknaden.
 
 Övervakning av regelbunden finansiell information
 
-13 § En börs skall övervaka att den som har Sverige som
+13 § /Upphör att gälla U:2016-02-01/
+En börs skall övervaka att den som har Sverige som
 hemmedlemsstat och som har gett ut eller utfärdat överlåtbara
 värdepapper som efter ansökan av emittenten är upptagna till
 handel på en reglerad marknad som drivs av börsen, upprättar
 sådan regelbunden finansiell information som anges i 4, 5 och 7
 §§ i enlighet med de bestämmelser som gäller för emittenten.
+
+13 § /Träder i kraft I:2016-02-01/
+En börs ska övervaka att den som har Sverige som
+hemmedlemsstat och som har gett ut eller utfärdat överlåtbara
+värdepapper som efter ansökan av emittenten är upptagna till
+handel på en reglerad marknad som drivs av börsen, upprättar
+sådan regelbunden finansiell information som anges i 4 och
+5 §§ i enlighet med de bestämmelser som gäller för emittenten.
+Lag (2015:960).
 
 14 § Om börsen finner att de bestämmelser som gäller för
 upprättandet av regelbunden finansiell information har
@@ -3510,7 +4482,8 @@ offentliggöras av emittenter
 
 Tillämpningsområde
 
-1 § En emittent av överlåtbara värdepapper som har Sverige som
+1 § /Upphör att gälla U:2016-02-01/
+En emittent av överlåtbara värdepapper som har Sverige som
 hemmedlemsstat, skall tillämpa bestämmelserna i detta kapitel
 för sådan information som skall offentliggöras enligt 15 kap. 6
 § första stycket 3 och 8 § samt 16 kap.
@@ -3524,6 +4497,24 @@ stycket 3 och 8 § samt 16 kap. 1 § tredje stycket. Om en sådan
 emittents överlåtbara värdepapper inte är upptagna till handel
 på en reglerad marknad i emittentens hemmedlemsstat, skall
 emittenten dessutom tillämpa 2 §.
+
+1 § /Träder i kraft I:2016-02-01/
+En emittent av överlåtbara värdepapper som har Sverige
+som hemmedlemsstat, ska tillämpa bestämmelserna i detta
+kapitel för sådan information som ska offentliggöras enligt 1
+kap. 9 b §, 15 kap. 6 § första stycket 3 och 8 § samt 16
+kap.
+
+En emittent av överlåtbara värdepapper som inte har Sverige
+som hemmedlemsstat ska, om värdepapperen är upptagna till
+handel på en reglerad marknad i Sverige, tillämpa de
+bestämmelser som har meddelats med stöd av 5 § första stycket
+2 för sådan information som ska offentliggöras enligt 1 kap.
+9 b §, 15 kap. 6 § första stycket 3 och 8 § samt 16 kap. 1 §
+tredje stycket. Om en sådan emittents överlåtbara värdepapper
+inte är upptagna till handel på en reglerad marknad i
+emittentens hemmedlemsstat, ska emittenten dessutom tillämpa
+2 §. Lag (2015:960).
 
 Offentliggörande av information
 
@@ -3636,7 +4627,7 @@ handel på en reglerad marknad i Sverige, om utgivaren inte har
 säte i en stat inom EES och har Sverige som hemmedlemsstat.
 
 8 § För en utgivare av skuldebrev får Finansinspektionen, efter
-ansökan, besluta om undantag från bestämmelserna i 36 §§, om
+ansökan, besluta om undantag från bestämmelserna i 3–6 §§, om
 utgivaren uppfyller de krav som uppställs i en offentlig
 reglering i en stat utanför EES och som motsvarar dessa
 bestämmelser. Finansinspektionen ska underrätta Europeiska
@@ -3644,7 +4635,7 @@ värdepappers- och marknadsmyndigheten om de undantag som
 beviljas. Lag (2012:197).
 
 9 § För en utgivare av aktier får Finansinspektionen, efter
-ansökan, besluta om undantag från bestämmelserna i 1012 §§, om
+ansökan, besluta om undantag från bestämmelserna i 10–12 §§, om
 utgivaren uppfyller de krav som uppställs i en offentlig
 reglering i en stat utanför EES och som motsvarar dessa
 bestämmelser. Finansinspektionen ska underrätta Europeiska
@@ -4012,7 +5003,6 @@ ett finansiellt instrument på en handelsplattform eller i annan
 av ett värdepappersinstitut organiserad handel på sådan grund
 som anges i 1 §.
 
-
 Har Finansinspektionen meddelat ett beslut enligt första eller
 andra stycket, skall börsen eller värdepappersinstitutet
 besluta när handeln kan återupptas. Ett beslut om att återuppta
@@ -4021,6 +5011,15 @@ samråd med inspektionen. Om ett beslut om att återuppta handeln
 har meddelats utan ett föregående samråd med inspektionen,
 skall börsen eller värdepappersinstitutet omedelbart underrätta
 inspektionen om beslutet.
+
+2 a § /Träder i kraft I:2016-02-01/ 
+Finansinspektionen ska pröva om förutsättningarna i 2 § 
+första eller andra stycket om handelsstopp är uppfyllda, om 
+Riksgäldskontoret begär det enligt 14 kap. 3 § första stycket 
+3 lagen (2015:1016) om resolution eller en utländsk 
+resolutionsmyndighet begär det enligt nationell lagstiftning 
+som genomför artikel 64.1 c i krishanteringsdirektivet.
+Lag (2015:1032).
 
 3 § Om Finansinspektionen har underrättats av en behörig
 myndighet i ett annat land inom EES om att den myndigheten har
@@ -4138,16 +5137,37 @@ Första stycket gäller inte i den utsträckning
 uppgiftslämnandet skulle strida mot den i lag reglerade
 tystnadsplikten för advokater.
 
-Vid tillämpningen av 16 kap. 112 §§ och 17 kap. 14 §§ gäller
+Vid tillämpningen av 16 kap. 1–12 §§ och 17 kap. 1–4 §§ gäller
 inte första stycket 2.
 
 Om en begäran från en utländsk myndighet enligt 6 a § avser en
-fråga som rör reglering som motsvarar den i 16 kap. 112 §§
-eller 17 kap. 14 §§, gäller inte första stycket 2.
+fråga som rör reglering som motsvarar den i 16 kap. 1–12 §§
+eller 17 kap. 1–4 §§, gäller inte första stycket 2.
 
 Finansinspektionen får förelägga den som inte följer en
 begäran enligt första stycket att göra rättelse.
 Lag (2010:1863).
+
+3 a § /Träder i kraft I:2016-02-01/ 
+Ett värdepappersbolag och ett företag som avses i 1 
+kap. 1 § första stycket 2 lagen (2015:1016) om resolution ska 
+underrätta Finansinspektionen om det fallerar eller sannolikt 
+kommer att fallera. Finansinspektionen ska omedelbart 
+informera Riksgäldskontoret och andra berörda 
+resolutionsmyndigheter om underrättelsen.
+
+Om företaget har åsidosatt sina skyldigheter enligt första 
+stycket, ska Finansinspektionen ingripa enligt 25 kap.
+Lag (2015:1032).
+
+/Rubriken träder i kraft I:2016-02-01/ 
+Register över avtal
+
+3 b § /Träder i kraft I:2016-02-01/ 
+Finansinspektionen får besluta att ett 
+värdepappersbolag ska upprätta register över sina finansiella 
+avtal och andra avtal av väsentlig betydelse för 
+värdepappersbolagets verksamhet. Lag (2015:1032).
 
 Platsundersökning
 
@@ -4181,13 +5201,34 @@ systemrisknämnden i den utsträckning som följer av direktivet
 om marknader för finansiella instrument och
 öppenhetsdirektivet. Lag (2012:197).
 
-5 a § Finansinspektionen får hänskjuta frågor som rör ett
+5 a § /Upphör att gälla U:2016-02-01/ 
+Finansinspektionen får hänskjuta frågor som rör ett
 förfarande av en annan behörig myndighet inom EES till
 Europeiska värdepappers- och marknadsmyndigheten för
 tvistlösning i de fall som framgår av artiklarna 58a, 62.1,
 62.2 och 62.3 i direktivet om marknader för finansiella
 instrument och artikel 25.2a i öppenhetsdirektivet.
 Lag (2012:197).
+
+5 a § /Träder i kraft I:2016-02-01/ 
+Finansinspektionen får hänskjuta frågor som rör ett 
+förfarande av en annan behörig myndighet inom EES till 
+Europeiska värdepappers- och marknadsmyndigheten för 
+tvistlösning i de fall som framgår av artiklarna 58a, 62.1, 
+62.2 och 62.3 i direktivet om marknader för finansiella 
+instrument och artikel 25.2a i öppenhetsdirektivet.
+
+Finansinspektionen får hänskjuta frågor som rör ett 
+förfarande av en annan behörig myndighet inom EES till 
+Europeiska bankmyndigheten för tvistlösning i de fall som 
+framgår av artiklarna 8.3 andra stycket, 8.4 andra stycket, 
+20.7 och 30.5–30.7 i krishanteringsdirektivet.
+
+Finansinspektionen får även begära att Europeiska 
+bankmyndigheten bistår de behöriga myndigheterna med att nå 
+en överenskommelse i de fall som framgår av artiklarna 8.2 
+tredje stycket, 20.5 andra stycket, 25.4 och 30.4 andra 
+stycket i krishanteringsdirektivet. Lag (2015:1032).
 
 6 § Finansinspektionen skall inom ramen för sin befogenhet,
 efter begäran från en behörig myndighet i ett annat land inom
@@ -4265,13 +5306,27 @@ sammankallat samt delta i överläggningarna.
 
 Avgifter till Finansinspektionen m.m.
 
-12 § Värdepappersinstitut, börser, clearingorganisationer
+12 § /Upphör att gälla U:2016-02-01/ 
+Värdepappersinstitut, börser, clearingorganisationer
 samt sådana utländska företag som har tillstånd att driva en
 reglerad marknad från filial i Sverige ska med årliga
 avgifter bekosta Finansinspektionens verksamhet samt
 Statistiska centralbyråns verksamhet enligt lagen (2014:484)
 om en databas för övervakning av och tillsyn över
 finansmarknaderna. Lag (2014:491).
+
+12 § /Träder i kraft I:2016-02-01/ 
+Värdepappersinstitut, börser, clearingorganisationer 
+samt sådana utländska företag som har tillstånd att driva en 
+reglerad marknad från filial i Sverige ska med årliga 
+avgifter bekosta Finansinspektionens verksamhet samt 
+Statistiska centralbyråns verksamhet enligt lagen (2014:484) 
+om en databas för övervakning av och tillsyn över 
+finansmarknaderna.
+
+Finansinspektionen får ta ut avgifter för prövning av 
+ansökningar, anmälningar och underrättelser enligt denna 
+lag. Lag (2015:1032).
 
 13 § Finansinspektionens övervakning av regelbunden finansiell
 information hos en emittent som skall tillämpa bestämmelserna i
@@ -4287,7 +5342,8 @@ emittent som tillsynen avser.
 
 Bemyndiganden
 
-15 § Regeringen eller den myndighet som regeringen bestämmer
+15 § /Upphör att gälla U:2016-02-01/ 
+Regeringen eller den myndighet som regeringen bestämmer
 får meddela föreskrifter om
 
 1. vilka upplysningar ett företag skall lämna till
@@ -4302,6 +5358,29 @@ tillstånd att driva en reglerad marknad från filial i Sverige,
 samt
 
 4. sådana avgifter för tillsyn som avses i 12 och 13 §§.
+
+15 § /Träder i kraft I:2016-02-01/ 
+Regeringen eller den myndighet som regeringen bestämmer 
+får meddela föreskrifter om
+
+1. vilka upplysningar ett företag ska lämna till 
+Finansinspektionen enligt 2 § första stycket och när 
+upplysningarna ska lämnas, 
+
+2. hur uppgiftsskyldigheten enligt 3 § ska fullgöras,
+
+3. vilka värdepappersbolag som ska upprätta register som 
+avses i 3 b §, vad registren ska innehålla och inom vilken 
+tid värdepappersbolaget ska ge in registren för olika typer 
+av avtal,
+
+4. löpande bokföring, årsbokslut och årsredovisning hos 
+börser, clearingorganisationer samt sådana utländska företag 
+som har tillstånd att driva en reglerad marknad från filial i 
+Sverige, samt
+
+5. sådana avgifter för tillsyn, ansökningar, anmälningar och 
+underrättelser som avses i 12 och 13 §§. Lag (2015:1032).
 
 24 kap. Särskilt om prövningen av ägares lämplighet
 
@@ -4331,6 +5410,12 @@ Finansinspektionen ska inom två arbetsdagar från det att en
 fullständig ansökan kommit in till inspektionen skicka en
 bekräftelse till förvärvaren om att ansökan har tagits emot.
 Lag (2009:365).
+
+1 a § /Träder i kraft I:2016-02-01/ 
+Bestämmelserna i 2, 4 och 5 §§ gäller inte vid beslut 
+om överföring, minskning eller konvertering enligt 6 kap., 16 
+kap., 17 kap. eller 21 kap. lagen (2015:1016) om 
+resolution. Lag (2015:1032).
 
 2 § Frågan om tillstånd enligt 1 § till förvärv i ett
 värdepappersbolag får avgöras först efter samråd med behörig
@@ -4506,7 +5591,7 @@ inte står i strid med inspektionens beslut.
 8 a § Finansinspektionen får utöver det som anges i 7 och 8
 §§ besluta att en ägare i ett värdepappersbolag som inte
 följer bestämmelserna i 1 eller 4 § ska betala en
-sanktionsavgift som bestäms i enlighet med 25 kap. 910 §§.
+sanktionsavgift som bestäms i enlighet med 25 kap. 9–10 §§.
 Lag (2015:186).
 
 9 § Aktier eller andelar som omfattas av ett förbud enligt 7 §
@@ -4573,7 +5658,8 @@ kommer att uppfylla sina skyldigheter enligt denna lag eller
 andra författningar som reglerar bolagets verksamhet.
 Lag (2014:985).
 
-1 a § Finansinspektionen ska ingripa mot någon som ingår i
+1 a § /Upphör att gälla U:2016-02-01/ 
+Finansinspektionen ska ingripa mot någon som ingår i
 ett värdepappersbolags styrelse eller är dess verkställande
 direktör, eller ersättare för någon av dem, om
 värdepappersbolaget
@@ -4590,7 +5676,7 @@ Finansinspektionen anmäla namnen på de ägare som har ett
 kvalificerat innehav av aktier eller andelar i företaget samt
 storleken på innehaven,
 
-4. inte uppfyller kraven i 8 kap. 36, 8, 8 e, 9 eller 11 §
+4. inte uppfyller kraven i 8 kap. 3–6, 8, 8 e, 9 eller 11 §
 eller i föreskrifter som har meddelats med stöd av 8 kap.
 42 § 2, 4 och 6,
 
@@ -4636,7 +5722,7 @@ lydelsen,
 
 13. låter bli att lämna information eller lämnar ofullständig
 eller felaktig information i strid med någon av artiklarna
-431.1431.3 och 451.1 i förordning (EU) nr 575/2013, i den
+431.1–431.3 och 451.1 i förordning (EU) nr 575/2013, i den
 ursprungliga lydelsen,
 
 14. gör betalningar till innehavare av instrument som ingår i
@@ -4653,7 +5739,7 @@ av terrorism, eller
 16. har tillåtit en styrelseledamot, verkställande direktören
 eller ersättare för någon av dem att åta sig ett sådant
 uppdrag i bolaget eller kvarstå i bolaget trots att kraven i
-3 kap. 1 § första stycket 5 eller 6 eller 8 kap. 8 b8 d §§
+3 kap. 1 § första stycket 5 eller 6 eller 8 kap. 8 b–8 d §§
 eller i föreskrifter som har meddelats med stöd av 3 kap.
 12 § 2 inte är uppfyllda.
 
@@ -4676,6 +5762,120 @@ ersättare för någon av dem, eller
 
 2. beslut om sanktionsavgift.
 Lag (2015:186).
+
+1 a § /Träder i kraft I:2016-02-01/ 
+Finansinspektionen ska ingripa mot någon som ingår i 
+ett värdepappersbolags styrelse eller är dess verkställande 
+direktör, eller ersättare för någon av dem, om 
+värdepappersbolaget
+
+1. har fått tillstånd att driva värdepappersrörelse genom att 
+lämna falska uppgifter eller på annat otillbörligt sätt,
+
+2. i strid med 24 kap. 5 § första stycket låter bli att till 
+Finansinspektionen anmäla sådana förvärv och avyttringar som 
+avses där,
+
+3. i strid med 24 kap. 5 § tredje stycket låter bli att till 
+Finansinspektionen anmäla namnen på de ägare som har ett 
+kvalificerat innehav av aktier eller andelar i företaget samt 
+storleken på innehaven,
+
+4. inte uppfyller kraven i 8 kap. 3–6, 8, 8 e, 9 eller 11 § 
+eller i föreskrifter som har meddelats med stöd av 8 kap. 
+42 § 2, 4 och 6,
+
+5. låter bli att lämna information till Finansinspektionen 
+eller lämnar ofullständig eller felaktig information om 
+efterlevnaden av skyldigheten att uppfylla kapitalbaskraven 
+enligt artikel 92 i tillsynsförordningen, i strid med artikel 
+99.1 i den förordningen,
+
+6. låter bli att rapportera eller lämnar ofullständig eller 
+felaktig information till Finansinspektionen när det gäller 
+data som avses i artikel 101 i tillsynsförordningen,
+
+7. låter bli att lämna information till Finansinspektionen 
+eller lämnar ofullständig eller felaktig information om en 
+stor exponering i strid med artikel 394.1 i 
+tillsynsförordningen,
+
+8. låter bli att lämna information till Finansinspektionen 
+eller lämnar ofullständig eller felaktig information om 
+likviditet i strid med artikel 415.1 och 415.2 i 
+tillsynsförordningen,
+
+9. låter bli att lämna uppgifter till Finansinspektionen 
+eller lämnar ofullständig eller felaktig information om sin 
+bruttosoliditet i strid med artikel 430.1 i 
+tillsynsförordningen,
+
+10. vid upprepade tillfällen eller systematiskt låter bli att 
+hålla likvida tillgångar i strid med artikel 412 i 
+tillsynsförordningen,
+
+11. utsätter sig för en exponering som överskrider gränserna 
+enligt artikel 395 i tillsynsförordningen,
+
+12. är exponerat för kreditrisken i en 
+värdepapperiseringsposition utan att uppfylla villkoren i 
+artikel 405 i tillsynsförordningen,
+
+13. låter bli att lämna information eller lämnar ofullständig 
+eller felaktig information i strid med någon av artiklarna 
+431.1–431.3 och 451.1 i tillsynsförordningen,
+
+14. gör betalningar till innehavare av instrument som ingår i 
+institutets kapitalbas i strid med 8 kap. 3 och 4 §§ lagen 
+(2014:966) om kapitalbuffertar eller artikel 28, 51 eller 63 
+i tillsynsförordningen, när dessa artiklar förbjuder sådana 
+betalningar till innehavare av instrument som ingår i 
+kapitalbasen,
+
+15. har befunnits ansvarigt för en allvarlig överträdelse av 
+lagen (2009:62) om åtgärder mot penningtvätt och finansiering 
+av terrorism, 
+
+16. har tillåtit en styrelseledamot, verkställande direktören 
+eller ersättare för någon av dem att åta sig ett sådant 
+uppdrag i bolaget eller kvarstå i bolaget trots att kraven i 
+3 kap. 1 § första stycket 5 eller 6 eller 8 kap. 8 b–8 d §§ 
+eller i föreskrifter som har meddelats med stöd av 3 kap. 
+12 § 2 inte är uppfyllda,
+
+17. i strid med 8 a kap. 3 § låter bli att upprätta eller 
+lämna in en koncernåterhämtningsplan, 
+
+18. i strid med 8 b kap. 11 § låter bli att anmäla att 
+koncerninternt finansiellt stöd ska lämnas,
+
+19. i strid med 23 kap. 3 a § låter bli att underrätta 
+Finansinspektionen om att värdepappersbolaget fallerar eller 
+sannolikt kommer att fallera, eller
+
+20. i strid med 28 kap. 1 § lagen (2015:1016) om resolution 
+låter bli att lämna begärda upplysningar till 
+Riksgäldskontoret.
+
+Om en sådan person som anges i första stycket omfattas av 
+tillstånds- eller underrättelseskyldighet enligt 24 kap. 1 
+eller 4 § för förvärv eller avyttring av aktier eller andelar 
+i bolaget, ska första stycket 2 och 3 inte gälla för den 
+personen i fråga om dessa aktier eller andelar. 
+
+Ett ingripande enligt första stycket får ske endast om 
+bolagets överträdelse är allvarlig och personen i fråga 
+uppsåtligen eller av grov oaktsamhet orsakat överträdelsen.
+
+Ingripande sker genom
+
+1. beslut att personen i fråga under en viss tid, lägst tre 
+och högst tio år, inte får vara styrelseledamot eller 
+verkställande direktör i ett värdepappersbolag, eller 
+ersättare för någon av dem, eller
+
+2. beslut om sanktionsavgift.
+Lag (2015:1032).
 
 1 b § Vid valet av sanktion ska Finansinspektionen ta hänsyn
 till hur allvarlig överträdelsen är och hur länge den pågått.
@@ -4721,6 +5921,29 @@ kapitalbaskraven enligt den lagen. Lag (2015:186).
 en överträdelse är ringa eller ursäktlig, om företaget gör
 rättelse eller om något annat organ har vidtagit åtgärder mot
 företaget som bedöms tillräckliga.
+
+2 b § /Träder i kraft I:2016-02-01/ 
+När Finansinspektionen har anledning att ingripa mot 
+ett värdepappersbolag enligt 1 eller 4 § och överträdelserna 
+är av sådan art eller omfattning att det finns skäl att anta 
+att värdepappersbolaget kan komma att omfattas av resolution 
+enligt lagen (2015:1016) om resolution, ska 
+Finansinspektionen underrätta Riksgäldskontoret och Sveriges 
+riksbank om detta. Finansinspektionen ska också lämna de 
+uppgifter till Riksgäldskontoret som myndigheten behöver för 
+att förbereda sådana åtgärder som avses i den lagen.
+
+Finansinspektionen ska även underrätta värdepappersbolaget om 
+inspektionen anser att en ökning av kapitalet i 
+värdepappersbolaget är nödvändig för att bolaget inte ska 
+fallera. Lag (2015:1032).
+
+2 c § /Träder i kraft I:2016-02-01/ 
+Om Finansinspektionen ingriper mot ett 
+värdepappersbolag när förutsättningarna i 2 b § är uppfyllda, 
+ska inspektionen i beslutet ange att ingripandet är en sådan 
+krisavvärjande åtgärd som avses i lagen (2015:1016) om 
+resolution. Lag (2015:1032).
 
 3 § Finansinspektionen får förelägga ett svenskt
 värdepappersinstitut att upphöra med verksamhet som innefattar
@@ -4925,17 +6148,17 @@ som meddelats med stöd av dem eller överträder bestämmelser i
 genomförandeförordningen som hänför sig till någon av följande
 bestämmelser:
 
- uppföranderegler m.m. i 8 kap. 1, 12 och 2233 §§,
+– uppföranderegler m.m. i 8 kap. 1, 12 och 22–33 §§,
 
- hantering av limitorder i 9 kap. 1 §,
+– hantering av limitorder i 9 kap. 1 §,
 
- systematiska internhandlare i 9 kap. 28 §§,
+– systematiska internhandlare i 9 kap. 2–8 §§,
 
- information efter handel i 9 kap. 9 §,
+– information efter handel i 9 kap. 9 §,
 
- dokumentation i 10 kap. 2 §, eller
+– dokumentation i 10 kap. 2 §, eller
 
- rapportering av transaktioner i 10 kap. 3 och 4 §§.
+– rapportering av transaktioner i 10 kap. 3 och 4 §§.
 
 Om företaget inte följer föreläggandet, ska Finansinspektionen
 underrätta den behöriga myndigheten i företagets hemland.
@@ -5044,9 +6267,14 @@ kapitel. Lag (2015:186).
 
 Särskilda bestämmelser om ingripande mot emittenter
 
+/Rubriken upphör att gälla U:2016-02-01/
 Rättelse
 
-18 § Finansinspektionen får förelägga en emittent att göra
+/Rubriken träder i kraft I:2016-02-01/
+Föreläggande om rättelse
+
+18 § /Upphör att gälla U:2016-02-01/
+Finansinspektionen får förelägga en emittent att göra
 rättelse om
 
 1. emittenten inte har offentliggjort regelbunden finansiell
@@ -5058,9 +6286,28 @@ innehåller väsentliga fel, eller
 3. information inte har lämnats till Finansinspektionen enligt
 17 kap. 3 §.
 
+18 § /Träder i kraft I:2016-02-01/
+Finansinspektionen får förelägga en emittent att göra
+rättelse om
+
+1. emittenten inte har offentliggjort information enligt 15
+kap. 8 § eller regelbunden finansiell information enligt 16
+kap. 4–6 §§,
+
+2. information som har offentliggjorts är ofullständig eller
+innehåller väsentliga fel, eller
+
+3. information inte har lämnats till Finansinspektionen
+enligt 17 kap. 3 §. Lag (2015:960).
+
+/Rubriken upphör att gälla U:2016-02-01/
 Särskild avgift
 
-19 § Finansinspektionen skall besluta att en särskild avgift
+/Rubriken träder i kraft I:2016-02-01/
+Sanktionsavgift
+
+19 § /Upphör att gälla U:2016-02-01/
+Finansinspektionen skall besluta att en särskild avgift
 skall tas ut av en emittent som inte offentliggör regelbunden
 finansiell information enligt 16 kap. 4-7 §§.
 
@@ -5069,19 +6316,175 @@ högst 10 miljoner kronor.
 
 Avgiften tillfaller staten.
 
-20 § Finansinspektionen får besluta om en särskild avgift bara
+19 § /Träder i kraft I:2016-02-01/
+Finansinspektionen ska besluta att en sanktionsavgift
+ska tas ut av en emittent som inte offentliggör information
+enligt 15 kap. 8 § eller regelbunden finansiell information
+enligt 16 kap. 4–6 §§.
+
+Sanktionsavgiften ska fastställas till lägst 50 000 kronor
+och högst det högsta av
+
+1. ett belopp som per den 26 november 2013 motsvarade tio
+miljoner euro,
+
+2. fem procent av emittentens omsättning närmast föregående
+räkenskapsår,
+
+3. två gånger den vinst som emittenten erhållit till följd av
+regelöverträdelsen, om beloppet går att fastställa, eller
+
+4. två gånger de kostnader som emittenten undvikit till följd
+av regelöverträdelsen, om beloppet går att fastställa.
+
+Om överträdelsen har skett under emittentens första
+verksamhetsår eller om uppgifter om omsättningen annars
+saknas eller är bristfälliga, får omsättningen uppskattas.
+
+Avgiften tillfaller staten. Lag (2015:960).
+
+19 a § /Träder i kraft I:2016-02-01/
+Finansinspektionen ska besluta att en sanktionsavgift
+ska tas ut av någon som ingår i en emittents styrelse eller
+är dess verkställande direktör, eller ersättare för någon av
+dem, om emittenten inte offentliggör information enligt 15
+kap. 8 § eller regelbunden finansiell information enligt 16
+kap. 4–6 §§.
+
+En sanktionsavgift får tas ut enligt första stycket endast om
+emittentens överträdelse är allvarlig och personen i fråga
+uppsåtligen eller av grov oaktsamhet orsakat överträdelsen.
+
+Sanktionsavgiften ska fastställas till lägst 15 000 kronor
+och högst det högsta av
+
+1. ett belopp som per den 26 november 2013 motsvarade två
+miljoner euro,
+
+2. två gånger den vinst som den fysiska personen erhållit
+till följd av regelöverträdelsen, om beloppet går att
+fastställa, eller
+
+3. två gånger de kostnader som den fysiska personen undvikit
+till följd av regelöverträdelsen, om beloppet går att
+fastställa.
+
+Avgiften tillfaller staten. Lag (2015:960).
+
+19 b § /Träder i kraft I:2016-02-01/
+När Finansinspektionen beslutar om ett ingripande
+eller en sanktion mot en emittent eller en fysisk person, ska
+inspektionen ta hänsyn till hur allvarlig överträdelsen är
+och hur länge den pågått. Särskild hänsyn ska tas till
+överträdelsens art, överträdelsens konkreta och potentiella
+effekter på det finansiella systemet, skador som uppstått och
+graden av ansvar. Lag (2015:960).
+
+19 c § /Träder i kraft I:2016-02-01/
+Utöver det som anges i 19 b § ska det i försvårande
+riktning beaktas om emittenten eller den fysiska personen
+tidigare har begått en överträdelse. Vid denna bedömning bör
+särskild vikt fästas vid om överträdelserna är likartade och
+den tid som har gått mellan de olika överträdelserna.
+
+I förmildrande riktning ska det beaktas om
+
+1. emittenten eller den fysiska personen i väsentlig mån
+genom ett aktivt samarbete har underlättat
+Finansinspektionens utredning, och
+
+2. emittenten snabbt upphört med överträdelsen eller den
+fysiska personen snabbt verkat för att överträdelsen ska
+upphöra, sedan den anmälts till eller påtalats av
+Finansinspektionen. Lag (2015:960).
+
+19 d § /Träder i kraft I:2016-02-01/
+När sanktionsavgiftens storlek fastställs, ska hänsyn
+tas till sådana omständigheter som anges i 19 b och 19 c §§
+samt till emittentens eller den fysiska personens finansiella
+ställning och, om det går att fastställa, den vinst
+emittenten eller den fysiska personen erhållit till följd av
+regelöverträdelsen eller de kostnader som undvikits.
+Lag (2015:960).
+
+19 e § /Träder i kraft I:2016-02-01/
+Frågor om sanktionsavgift mot fysiska personer för
+överträdelser enligt 19 a § tas upp av Finansinspektionen
+genom sanktionsföreläggande.
+
+Ett sanktionsföreläggande innebär att den fysiska personen
+föreläggs att inom en viss tid godkänna ett beslut om
+sanktionsavgift enligt 19 a § som är bestämt till tid eller
+belopp.
+
+När föreläggandet har godkänts, gäller det som ett
+domstolsavgörande som fått laga kraft. Ett godkännande som
+görs efter den tid som angetts i föreläggandet är utan
+verkan. Lag (2015:960).
+
+19 f § /Träder i kraft I:2016-02-01/
+Ett sanktionsföreläggande ska innehålla uppgift om
+
+1. den fysiska personen som föreläggandet avser,
+
+2. överträdelsen och de omständigheter som behövs för att
+känneteckna den,
+
+3. de bestämmelser som är tillämpliga på överträdelsen, och
+
+4. den sanktionsavgift som föreläggs personen.
+
+Föreläggandet ska också innehålla en upplysning om att
+ansökan om sanktionsavgift kan komma att ges in till domstol,
+om föreläggandet inte godkänns inom den tid som
+Finansinspektionen anger. Lag (2015:960).
+
+19 g § /Träder i kraft I:2016-02-01/
+Om ett sanktionsföreläggande inte har godkänts inom
+angiven tid, får Finansinspektionen ansöka hos domstol om att
+sanktionsavgiften ska beslutas. En sådan ansökan ska göras
+hos den förvaltningsrätt som är behörig att pröva ett
+överklagande av Finansinspektionens beslut om sanktionsavgift
+mot emittenten för samma överträdelse.
+
+Prövningstillstånd krävs vid överklagande till kammarrätten.
+Lag (2015:960).
+
+19 h § /Träder i kraft I:2016-02-01/
+En sanktionsavgift för en överträdelse enligt 19 a §
+får beslutas bara om sanktionsföreläggande har delgetts den
+som sanktionsavgiften riktas mot inom sex månader från den
+tidpunkt då överträdelsen ägde rum. Lag (2015:960).
+
+20 § /Upphör att gälla U:2016-02-01/
+Finansinspektionen får besluta om en särskild avgift bara
 om den som inspektionen avser att ta ut avgiften av, inom sex
 månader från det att överträdelsen ägde rum, har delgetts en
 upplysning om att frågan om särskild avgift har tagits upp av
 inspektionen.
 
-21 § Om överträdelsen är ringa eller ursäktlig eller om det
+20 § /Träder i kraft I:2016-02-01/
+Finansinspektionen får besluta om en sanktionsavgift
+bara om den som inspektionen avser att ta ut avgiften av,
+inom sex månader från det att överträdelsen ägde rum, har
+delgetts en upplysning om att frågan om sanktionsavgift har
+tagits upp av inspektionen. Lag (2015:960).
+
+21 § /Upphör att gälla U:2016-02-01/
+Om överträdelsen är ringa eller ursäktlig eller om det
 annars finns särskilda skäl, får en särskild avgift efterges
 helt eller delvis.
 
+21 § /Träder i kraft I:2016-02-01/
+Om överträdelsen är ringa eller ursäktlig eller om det
+annars finns särskilda skäl, får en sanktionsavgift som har
+beslutats enligt 19 eller 19 a § efterges helt eller
+delvis. Lag (2015:960).
+
 Erinran
 
-22 § Om den regelbundna finansiella informationen som anges i
+22 § /Upphör att gälla U:2016-02-01/
+Om den regelbundna finansiella informationen som anges i
 16 kap. 4-7 §§ inte har upprättats i enlighet med de
 bestämmelser som gäller för emittenten, ska Finansinspektionen
 meddela emittenten av de överlåtbara värdepapperen en erinran.
@@ -5091,9 +6494,23 @@ ursäktlig eller om en börs eller en reglerad marknad i ett
 annat land inom EES vidtar tillräckliga åtgärder mot
 emittenten. Lag (2008:283).
 
+22 § /Träder i kraft I:2016-02-01/
+Om den regelbundna finansiella informationen som anges i
+16 kap. 4 och 5 §§ inte har upprättats i enlighet med de
+bestämmelser som gäller för emittenten, ska
+Finansinspektionen meddela emittenten av de överlåtbara
+värdepapperen en erinran.
+
+En erinran ska inte beslutas om en överträdelse är ringa
+eller ursäktlig eller om en börs eller en reglerad marknad i
+ett annat land inom EES vidtar tillräckliga åtgärder mot
+emittenten. Lag (2015:960).
+
+/Rubriken upphör att gälla U:2016-02-01/
 Straffavgift
 
-23 § Om en emittent har meddelats beslut om erinran, får
+23 § /Upphör att gälla U:2016-02-01/
+Om en emittent har meddelats beslut om erinran, får
 Finansinspektionen besluta att emittenten skall betala en
 straffavgift.
 
@@ -5101,6 +6518,16 @@ Straffavgiften skall uppgå till lägst 50 000 kronor och högst
 10 miljoner kronor.
 
 Avgiften tillfaller staten.
+
+23 § /Träder i kraft I:2016-02-01/
+Om en emittent har meddelats beslut om erinran, får
+Finansinspektionen besluta att emittenten ska betala en
+sanktionsavgift.
+
+Sanktionsavgiften ska fastställas enligt 19 § andra
+stycket.
+
+Avgiften tillfaller staten. Lag (2015:960).
 
 Ingripande mot vissa utländska emittenter av överlåtbara
 värdepapper
@@ -5132,41 +6559,244 @@ utländska behöriga myndigheten. Finansinspektionen ska också
 underrätta Europeiska kommissionen och Europeiska värdepappers-
 och marknadsmyndigheten så snart som möjligt. Lag (2012:197).
 
+/Rubriken upphör att gälla U:2016-02-01/
 Verkställighet av beslut om sanktionsavgift, särskild avgift,
 straffavgift och förseningsavgift
 
-25 § En sanktionsavgift, särskild avgift, straffavgift eller
+/Rubriken träder i kraft I:2016-02-01/
+Verkställighet av beslut om sanktionsavgift och
+förseningsavgift
+
+25 § /Upphör att gälla U:2016-02-01/
+En sanktionsavgift, särskild avgift, straffavgift eller
 förseningsavgift ska betalas till Finansinspektionen inom
 trettio dagar efter det att beslutet om den har fått laga
 kraft eller sanktionsföreläggandet godkänts eller den längre
 tid som anges i beslutet eller föreläggandet. Lag (2015:186).
 
-26 § Finansinspektionens beslut om sanktionsavgift, särskild
+25 § /Träder i kraft I:2016-02-01/
+En sanktionsavgift eller förseningsavgift ska betalas
+till Finansinspektionen inom trettio dagar efter det att ett
+beslut eller en dom om att ta ut avgiften fått laga kraft
+eller sanktionsföreläggandet godkänts eller den längre tid
+som anges i beslutet eller föreläggandet. Lag (2015:960).
+
+26 § /Upphör att gälla U:2016-02-01/
+Finansinspektionens beslut om sanktionsavgift, särskild
 avgift, straffavgift eller förseningsavgift får verkställas
 enligt utsökningsbalkens bestämmelser, om avgiften inte har
 betalats inom den tid som anges i 25 §. Lag (2014:985).
 
-27 § Om sanktionsavgiften, den särskilda avgiften,
+26 § /Träder i kraft I:2016-02-01/
+Finansinspektionens beslut om sanktionsavgift eller
+förseningsavgift får verkställas enligt utsökningsbalkens
+bestämmelser, om avgiften inte har betalats inom den tid som
+anges i 25 §. Lag (2015:960).
+
+27 § /Upphör att gälla U:2016-02-01/
+Om sanktionsavgiften, den särskilda avgiften,
 straffavgiften eller förseningsavgiften inte betalas inom den
 tid som anges i 25 §, ska Finansinspektionen lämna den
 obetalda avgiften för indrivning. Bestämmelser om indrivning
 av statliga fordringar finns i lagen (1993:891) om indrivning
 av statliga fordringar m.m. Lag (2014:985).
 
-28 § En sanktionsavgift, särskild avgift, straffavgift, eller
+27 § /Träder i kraft I:2016-02-01/
+Om sanktionsavgiften eller förseningsavgiften inte
+betalas inom den tid som anges i 25 §, ska Finansinspektionen
+lämna den obetalda avgiften för indrivning. Bestämmelser om
+indrivning av statliga fordringar finns i lagen (1993:891) om
+indrivning av statliga fordringar m.m. Lag (2015:960).
+
+28 § /Upphör att gälla U:2016-02-01/
+En sanktionsavgift, särskild avgift, straffavgift, eller
 förseningsavgift som har beslutats faller bort i den
 utsträckning verkställighet inte har skett inom fem år från
 det att beslutet fick laga kraft eller sanktionsföreläggandet
 godkändes. Lag (2015:186).
+
+28 § /Träder i kraft I:2016-02-01/
+En sanktionsavgift eller förseningsavgift som har
+beslutats faller bort i den utsträckning verkställighet inte
+har skett inom fem år från det att beslutet eller domen fått
+laga kraft eller sanktionsföreläggandet godkändes.
+Lag (2015:960).
 
 Vite
 
 29 § Om Finansinspektionen meddelar föreläggande eller förbud
 enligt denna lag, får inspektionen förelägga vite.
 
+25 a kap. /Kapitlet träder i kraft I:2016-02-01/ 
+Tillfällig förvaltning
+
+Utseende av tillfällig förvaltare
+
+1 § Finansinspektionen får utse en eller flera tillfälliga 
+förvaltare för ett värdepappersbolag, om det finns skäl att 
+anta att värdepappersbolaget kan komma att bli föremål för 
+ett sådant resolutionsförfarande som avses i lagen 
+(2015:1016) om resolution, och
+
+1. värdepappersbolaget har en finansiell situation som 
+föranlett Finansinspektionen att ingripa enligt 25 kap. 1, 2 
+eller 4 § utan att den finansiella situationen väsentligen 
+förbättrats efter ingripandet, och inga andra åtgärder bedöms 
+tillräckliga för att komma tillrätta med situationen, eller
+
+2. Finansinspektionen har meddelat värdepappersbolaget en 
+varning enligt 25 kap. 1 §.
+
+Finansinspektionen får besluta att den tillfälliga 
+förvaltaren ska träda i styrelsens och den verkställande 
+direktörens ställe eller arbeta tillsammans med styrelsen och 
+den verkställande direktören. 
+
+Ett beslut om att förvaltaren ska träda i styrelsens och den 
+verkställande direktörens ställe ska offentliggöras och 
+registreras hos Bolagsverket. Lag (2015:1032).
+
+2 § Finansinspektionen ska i beslutet om att utse en 
+tillfällig förvaltare beskriva förvaltarens uppdrag och ange 
+eventuella villkor för uppdraget.
+
+När en tillfällig förvaltare utses för att arbeta tillsammans 
+med styrelsen och den verkställande direktören, får 
+Finansinspektionen föreskriva att vissa beslut eller åtgärder 
+ska föregås av samråd med eller samtycke från förvaltaren.
+
+Åsidosätter styrelsen eller den verkställande direktören 
+kravet på samråd eller samtycke som anges i andra stycket 
+inverkar detta inte på rättshandlingens giltighet.
+Lag (2015:1032).
+
+3 § Den tillfälliga förvaltaren får inte kalla till 
+bolagsstämma i värdepappersbolaget utan medgivande från 
+Finansinspektionen. Lag (2015:1032).
+
+4 § Den som utses till tillfällig förvaltare ska uppfylla 
+samma krav på lämplighet som enligt 3 kap. 1 § första stycket 
+5 gäller för styrelseledamot och verkställande direktör. 
+
+Den som står i sådant förhållande till värdepappersbolaget 
+att det kan rubba förtroendet för att han eller hon ska 
+utföra sitt uppdrag opartiskt får inte vara tillfällig 
+förvaltare. Det får inte heller i övrigt finnas någon 
+omständighet som medför att förtroendet för hans eller hennes 
+opartiskhet kan rubbas.
+
+Förvaltaren ska omedelbart underrätta Finansinspektionen om 
+omständigheter som kan medföra jäv för honom eller henne. 
+Lag (2015:1032).
+
+Tiden för förvaltningen
+
+5 § Finansinspektionen ska förordna den tillfälliga 
+förvaltaren för en viss tid, dock högst ett år. Tiden får 
+förlängas med högst ett år åt gången. Lag (2015:1032).
+
+Entledigande av tillfällig förvaltare
+
+6 § Finansinspektionen får, med omedelbar verkan, skilja den 
+tillfälliga förvaltaren från sitt uppdrag. Om en tillfällig 
+förvaltare begär att få bli entledigad och visar skäl till 
+det, ska Finansinspektionen entlediga förvaltaren.
+Lag (2015:1032).
+
+25 b kap. /Kapitlet träder i kraft I:2016-02-01/ 
+Beslut om vissa ingripanden och tillfällig 
+förvaltning avseende gränsöverskridande koncerner
+
+1 § När Finansinspektionen är samordnande tillsynsmyndighet, 
+ska inspektionen underrätta Europeiska bankmyndigheten och 
+samråda med de behöriga myndigheterna i tillsynskollegiet för 
+koncernen, om moderföretaget inom EES har gjort sig skyldigt 
+till en överträdelse 
+
+1. som är av sådan art eller omfattning som anges i 25 kap. 
+2 b §, eller 
+
+2. som innebär att förutsättningarna för att utse en 
+tillfällig förvaltare enligt 25 a kap. är uppfyllda. 
+
+När en underrättelse har lämnats, får Finansinspektionen 
+besluta om att vidta en åtgärd. När Finansinspektionen fattar 
+ett sådant beslut, ska inspektionen beakta synpunkter som 
+framförts av de behöriga myndigheterna och de effekter som 
+beslutet kan få på den finansiella stabiliteten i de berörda 
+länderna inom EES. Lag (2015:1032).
+
+2 § Finansinspektionen ska samråda med den samordnande 
+tillsynsmyndigheten, när inspektionen i en sådan situation 
+som anges i 1 § första stycket avser att vidta åtgärder mot 
+ett dotterföretag till ett moderföretag inom EES.
+
+När samråd har skett, får Finansinspektionen besluta om att 
+vidta en åtgärd. När Finansinspektionen fattar beslutet, ska 
+inspektionen beakta de synpunkter som har framförts av den 
+samordnande tillsynsmyndigheten och, i förekommande fall, av 
+andra behöriga myndigheter. Inspektionen ska också beakta de 
+effekter som beslutet kan få på den finansiella stabiliteten 
+i de berörda länderna inom EES. Lag (2015:1032).
+
+3 § Om både Finansinspektionen och andra behöriga myndigheter 
+avser att vidta åtgärder mot företag i samma koncern, ska 
+Finansinspektionen inom fem dagar från en underrättelse 
+enligt 1 § från den samordnande tillsynsmyndigheten, försöka 
+komma överens med den samordnande tillsynsmyndigheten och 
+övriga behöriga myndigheter, om att åtgärderna ska samordnas 
+eller om att samma tillfälliga förvaltare ska utses för 
+företagen.
+
+Om myndigheterna kommer överens, ska Finansinspektionen i 
+enlighet med överenskommelsen fatta de beslut som behövs.
+
+Första och andra styckena gäller också när Finansinspektionen 
+är samordnande tillsynsmyndighet. Lag (2015:1032).
+
+4 § Om en överenskommelse enligt 3 § inte har träffats inom 
+fem dagar från underrättelsen, får Finansinspektionen fatta 
+beslut om vilka åtgärder enligt 1 eller 2 § som ska vidtas.
+
+När Finansinspektionen prövar en fråga som avses i första 
+stycket, ska inspektionen beakta de synpunkter som framförts 
+av de behöriga myndigheterna och de effekter som beslutet kan 
+få på den finansiella stabiliteten i de berörda länderna inom 
+EES. Lag (2015:1032).
+
+5 § Om någon behörig myndighet före utgången av 
+samrådsperioden enligt 1 eller 2 § eller utgången av den 
+femdagarsperiod som anges i 3 § har hänskjutit ett ärende om 
+krisavvärjande åtgärder till Europeiska bankmyndigheten i 
+enlighet med artikel 19.3 i förordning (EU) nr 1093/2010, i 
+lydelsen enligt Europaparlamentets och rådets förordning 
+806/2014/EU, ska Finansinspektionen skjuta upp sitt beslut 
+enligt 1, 2, 3 eller 4 § med tre dagar och invänta det beslut 
+som Europeiska bankmyndigheten kan komma att fatta enligt 
+artikel 19.3 i samma förordning. Finansinspektionen ska följa 
+ett beslut i saken från Europeiska bankmyndigheten. 
+
+De krisavvärjande åtgärder som omfattas av första stycket är 
+krav om att
+
+1. företagets ledning vidtar vissa åtgärder för att stärka 
+företagets finansiella ställning,
+
+2. företagets ledning upprättar en förhandlingsplan om 
+skuldomläggning, eller
+
+3. företaget ska ändra sina juridiska eller operativa 
+strukturer.
+
+Finansinspektionen får inte hänskjuta ett sådant ärende till 
+Europeiska bankmyndigheten enligt 23 kap. 5 a § efter det att 
+femdagarsfristen har löpt ut eller en överenskommelse har 
+träffats. Lag (2015:1032).
+
 26 kap. Överklagande
 
-1 § Finansinspektionens beslut enligt 23 kap. 11 § och 25
+1 § /Upphör att gälla U:2016-02-01/
+Finansinspektionens beslut enligt 23 kap. 11 § och 25
 kap. 10 a § och 17 § andra stycket får inte överklagas.
 
 Andra beslut som Finansinspektionen meddelar enligt denna lag
@@ -5180,6 +6810,22 @@ kammarrätten.
 Finansinspektionen får bestämma att ett beslut
 om förbud, föreläggande eller återkallelse ska gälla
 omedelbart. Lag (2015:186).
+
+1 § /Träder i kraft I:2016-02-01/
+Finansinspektionens beslut enligt 23 kap. 11 § och 25
+kap. 10 a §, 17 § andra stycket och 19 e § får inte
+överklagas.
+
+Andra beslut som Finansinspektionen meddelar enligt denna lag
+får överklagas till allmän förvaltningsdomstol. Detta gäller
+dock inte beslut i ärenden som avses i 20 § första stycket 5
+förvaltningslagen (1986:223).
+
+Prövningstillstånd krävs vid överklagande till kammarrätten.
+
+Finansinspektionen får bestämma att ett beslut
+om förbud, föreläggande eller återkallelse ska gälla
+omedelbart. Lag (2015:960).
 
 2 § Om Finansinspektionen i ett ärende om tillstånd enligt 3
 kap. 1 § första stycket eller 12 kap. 2 § inte meddelar
@@ -5458,4 +7104,21 @@ före ikraftträdandet.
 1. Denna lag träder i kraft den 1 maj 2015.
 
 2. Äldre föreskrifter gäller för överträdelser som ägt rum
+före ikraftträdandet.
+
+2015:960
+
+1. Denna lag träder i kraft den dag regeringen bestämmer i
+fråga om 16 kap. 4 a § och i övrigt den 1 februari 2016.
+
+2. Bestämmelsen i 16 kap. 4 a § tillämpas på års- och
+koncernredovisningar som ska offentliggöras närmast efter den
+31 december 2019.
+
+3. Bestämmelsen i 16 kap. 6 § ska tillämpas för första gången
+på rapporter om betalningar till myndigheter som upprättas
+för räkenskapsår som inleds närmast efter den 31 januari 2015
+eller senare.
+
+4. Äldre bestämmelser gäller för överträdelser som ägt rum
 före ikraftträdandet.
