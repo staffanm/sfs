@@ -1,5 +1,3 @@
-
-
 1 kap. Lagens syfte och tillämpningsområde
 
 Lagens syfte
@@ -84,22 +82,22 @@ Lagens tillämpning på juridiska personer
 gäller också vid behandling av uppgifter om juridiska
 personer:
 
-1. 2 kap. 79 §§ om ändamålen för behandlingen,
+1. 2 kap. 7–9 §§ om ändamålen för behandlingen,
 
 2. 2 kap. 11 § om tillgången till personuppgifter,
 
 3. 2 kap. 12 och 13 §§ om bevarande och gallring,
 
-4. 3 kap. 13, 912, 14 och 15 §§ om gemensamt tillgängliga
+4. 3 kap. 1–3, 9–12, 14 och 15 §§ om gemensamt tillgängliga
 uppgifter,
 
-5. 4 kap. 1820 §§ om behandling av personuppgifter i
+5. 4 kap. 18–20 §§ om behandling av personuppgifter i
 penningtvättsregister,
 
 6. 4 kap. 21 och 22 §§ om behandling av personuppgifter i det
 internationella registret,
 
-7. 6 kap. 13 §§ om ändamålen för behandlingen hos
+7. 6 kap. 1–3 §§ om ändamålen för behandlingen hos
 Säkerhetspolisen,
 
 8. 6 kap. 4 § 5 om tillgången till personuppgifter hos
@@ -108,7 +106,7 @@ Säkerhetspolisen,
 9. 6 kap. 6 och 7 §§ om bevarande och gallring hos
 Säkerhetspolisen, och
 
-10. 6 kap. 8, 9 och 1214 §§ om gemensamt tillgängliga
+10. 6 kap. 8, 9 och 12–14 §§ om gemensamt tillgängliga
 uppgifter hos Säkerhetspolisen. Lag (2015:436).
 
 Lagens uppbyggnad
@@ -153,16 +151,16 @@ om grundläggande krav på behandlingen av personuppgifter,
 
 4. 22 § om behandling av personnummer,
 
-5. 23 och 2527 §§ om information till den registrerade,
+5. 23 och 25–27 §§ om information till den registrerade,
 
 6. 28 § om rättelse,
 
 7. 30 och 31 §§ samt 32 § första stycket om säkerheten vid
 behandling,
 
-8. 3335 §§ om överföring av personuppgifter till tredjeland,
+8. 33–35 §§ om överföring av personuppgifter till tredjeland,
 
-9. 3841 §§ om personuppgiftsombud m.m.,
+9. 38–41 §§ om personuppgiftsombud m.m.,
 
 10. 42 § om upplysningar till allmänheten om vissa
 behandlingar,
@@ -231,53 +229,59 @@ Tillsyn
 3. fullgöra förpliktelser som följer av internationella
 åtaganden.
 
-8 § Personuppgifter som behandlas enligt 7 § får även
-behandlas när det är nödvändigt för att tillhandahålla
+8 § Personuppgifter som behandlas enligt 7 § får även 
+behandlas när det är nödvändigt för att tillhandahålla 
 information som behövs i
 
-1. brottsbekämpande verksamhet hos Säkerhetspolisen,
-Ekobrottsmyndigheten, Åklagarmyndigheten, Tullverket,
+1. brottsbekämpande verksamhet hos Säkerhetspolisen, 
+Ekobrottsmyndigheten, Åklagarmyndigheten, Tullverket, 
 Kustbevakningen och Skatteverket,
 
-2. brottsbekämpande verksamhet hos utländsk myndighet eller
+2. brottsbekämpande verksamhet hos utländsk myndighet eller 
 mellanfolklig organisation,
 
-3. sådan verksamhet hos Polismyndigheten som avser
+3. sådan verksamhet hos Polismyndigheten som avser 
 handräckningsuppdrag,
 
-4. annan verksamhet som Polismyndigheten ansvarar för, om det
+4. annan verksamhet som Polismyndigheten ansvarar för, om det 
 finns särskilda skäl att tillhandahålla informationen,
 
-5. verksamhet hos Kriminalvården för att förebygga brott och
-upprätthålla säkerheten, eller
+5. verksamhet hos Kriminalvården för att förebygga brott och 
+upprätthålla säkerheten,
 
-6. en myndighets verksamhet
+6. verksamhet hos Migrationsverket för att verket ska kunna 
+kontrollera fingeravtryck som verket tagit enligt 9 kap. 8 § 
+utlänningslagen (2005:716) mot det fingeravtrycks- och 
+signalementsregister som Polismyndigheten för enligt 4 kap. 
+11 §, eller
 
-a) om det enligt lag eller förordning åligger
-Polismyndigheten att bistå myndigheten med viss uppgift,
+7. en myndighets verksamhet
+
+a) om det enligt lag eller förordning åligger 
+Polismyndigheten att bistå myndigheten med viss uppgift, 
 eller
 
-b) om informationen tillhandahålls inom ramen för
+b) om informationen tillhandahålls inom ramen för 
 myndighetsöverskridande samverkan mot brott.
 
-Personuppgifter som behandlas enligt 7 § får även behandlas
-om det är nödvändigt för att tillhandahålla information till
-riksdagen och regeringen samt, i den utsträckning skyldighet
-att lämna uppgifter följer av lag eller förordning, till
+Personuppgifter som behandlas enligt 7 § får även behandlas 
+om det är nödvändigt för att tillhandahålla information till 
+riksdagen och regeringen samt, i den utsträckning skyldighet 
+att lämna uppgifter följer av lag eller förordning, till 
 andra.
 
-Regeringen meddelar föreskrifter om att personuppgifter som
-behandlas enligt 7 § och som avser efterlysta personer och
-avlägsnanden ur landet får behandlas för att tillhandahålla
-information till vissa särskilt angivna myndigheter och att
-uppgifter som behandlas i en förundersökning får
+Regeringen meddelar föreskrifter om att personuppgifter som 
+behandlas enligt 7 § och som avser efterlysta personer och 
+avlägsnanden ur landet får behandlas för att tillhandahålla 
+information till vissa särskilt angivna myndigheter och att 
+uppgifter som behandlas i en förundersökning får 
 tillhandahållas konkursförvaltare.
 
-I ett enskilt fall får personuppgifter som behandlas enligt 7 §
-även behandlas för att tillhandahålla information för något
-annat ändamål än de som anges i förstatredje styckena, under
-förutsättning att ändamålet inte är oförenligt med det
-ändamål för vilket uppgifterna samlades in. Lag (2014:597).
+I ett enskilt fall får personuppgifter som behandlas enligt 7 § 
+även behandlas för att tillhandahålla information för något 
+annat ändamål än de som anges i första–tredje styckena, under 
+förutsättning att ändamålet inte är oförenligt med det 
+ändamål för vilket uppgifterna samlades in. Lag (2016:29).
 
 9 § Personuppgifter får behandlas om
 
@@ -323,7 +327,7 @@ som behandlas automatiserat längst får bevaras:
 1. 13 § om uppgifter som inte har gjorts gemensamt
 tillgängliga,
 
-2. 3 kap. 913 §§ om uppgifter i ärenden om utredning eller
+2. 3 kap. 9–13 §§ om uppgifter i ärenden om utredning eller
 beivrande av brott som har gjorts gemensamt tillgängliga,
 
 3. 3 kap. 14 och 15 §§ om andra uppgifter som har gjorts
@@ -331,7 +335,7 @@ gemensamt tillgängliga än som anges i 2,
 
 4. 4 kap. 7 § om uppgifter i register över DNA-profiler,
 
-5. 4 kap. 1416 §§ om uppgifter i fingeravtrycks- och
+5. 4 kap. 14–16 §§ om uppgifter i fingeravtrycks- och
 signalementsregister,
 
 6. 4 kap. 20 § om uppgifter i penningtvättsregister,
@@ -404,16 +408,20 @@ DNA-profiler som regleras i 4 kap., om den mottagande
 myndigheten behöver uppgifterna i sin brottsbekämpande
 verksamhet. Lag (2014:597).
 
-18 § Säkerhetspolisen, Ekobrottsmyndigheten, Tullverket,
-Kustbevakningen och Skatteverket har, trots sekretess enligt
-21 kap. 3 § första stycket och 35 kap. 1 § offentlighets- och
-sekretesslagen (2009:400), rätt att ta del av personuppgifter
-som behandlas i fingeravtrycks- och signalementsregister
-enligt 4 kap. 1117 §§, om den mottagande myndigheten behöver
-uppgifterna i sin brottsbekämpande verksamhet. Lag (2014:597).
+18 § Säkerhetspolisen, Ekobrottsmyndigheten, Tullverket, 
+Kustbevakningen och Skatteverket har, trots sekretess enligt 
+21 kap. 3 § första stycket och 35 kap. 1 § offentlighets- och 
+sekretesslagen (2009:400), rätt att ta del av personuppgifter 
+som behandlas i fingeravtrycks- och signalementsregister 
+enligt 4 kap. 11–17 §§, om den mottagande myndigheten behöver 
+uppgifterna i sin brottsbekämpande verksamhet. 
+Migrationsverket har motsvarande rätt att ta del av 
+personuppgifter som behandlas i fingeravtrycks- och 
+signalementsregistret, om verket behöver uppgifterna för 
+kontroll av fingeravtryck som verket tagit. Lag (2016:29).
 
 19 § Regeringen meddelar föreskrifter om att personuppgifter
-får lämnas ut i andra fall än som anges i 1418 §§.
+får lämnas ut i andra fall än som anges i 14–18 §§.
 
 Bestämmelser om att  uppgifter får lämnas ut finns även i
 offentlighets- och sekretesslagen (2009:400).
@@ -608,7 +616,7 @@ Lag (2014:597).
 Bevarande av personuppgifter i ärenden om utredning eller
 beivrande av brott
 
-9 § I 1012 §§ anges hur länge personuppgifter i vissa ärenden
+9 § I 10–12 §§ anges hur länge personuppgifter i vissa ärenden
 om utredning eller beivrande av brott som har gjorts gemensamt
 tillgängliga längst får bevaras i polisens brottsbekämpande
 verksamhet.
@@ -651,7 +659,7 @@ Bevarande och gallring av övriga personuppgifter
 
 14 § Personuppgifter som har gjorts gemensamt tillgängliga
 enligt 2 § första stycket 1, 2, 4 eller 5 ska gallras enligt
-andrasjätte styckena.
+andra–sjätte styckena.
 
 Uppgifter som kan antas ha samband med sådan brottslig
 verksamhet som anges i 2 § första stycket 1 ska gallras senast
@@ -702,7 +710,7 @@ Register över DNA-profiler
 1 § Polismyndigheten får i den brottsbekämpande verksamheten
 föra register över DNA-profiler (DNA-registret,
 utredningsregistret och spårregistret) i enlighet med
-210 §§. Dessa register får även föras för att underlätta
+2–10 §§. Dessa register får även föras för att underlätta
 identifiering av avlidna personer.
 
 I lagen (2014:400) om Polismyndighetens elimineringsdatabas
@@ -822,7 +830,7 @@ Fingeravtrycks- och signalementsregister
 Ändamål
 
 11 § Polismyndigheten får föra fingeravtrycks- och
-signalementsregister i enlighet med 1217 §§. Dessa register
+signalementsregister i enlighet med 12–17 §§. Dessa register
 får även föras för att underlätta identifiering av okända
 personer. Lag (2014:597).
 
@@ -1221,7 +1229,7 @@ särskilt angivna myndigheter.
 
 I ett enskilt fall får personuppgifter som behandlas enligt 1 §
 även behandlas för att tillhandahålla information för något
-annat ändamål än de som anges i förstatredje styckena, under
+annat ändamål än de som anges i första–tredje styckena, under
 förutsättning att ändamålet inte är oförenligt med det
 ändamål som uppgifterna samlades in för. Lag (2015:436).
 
@@ -1269,9 +1277,9 @@ ett personuppgiftsombud utses eller entledigas. Lag (2015:436).
 Bevarande och gallring
 
 6 § Personuppgifter får inte bevaras under längre tid än vad
-som behövs för något eller några av ändamålen i 13 §§.
+som behövs för något eller några av ändamålen i 1–3 §§.
 
-I 7 och 1214 §§ anges hur länge uppgifter som behandlas
+I 7 och 12–14 §§ anges hur länge uppgifter som behandlas
 automatiserat längst får bevaras.
 
 Regeringen eller den myndighet som regeringen bestämmer kan
@@ -1303,7 +1311,7 @@ Säkerhetspolisens verksamhet. Detta gäller dock inte
 DNA-profiler. Uppgifter som endast ett fåtal personer har rätt
 att ta del av anses inte som gemensamt tillgängliga.
 
-Bestämmelserna i 913 §§ gäller för behandling av
+Bestämmelserna i 9–13 §§ gäller för behandling av
 personuppgifter som görs eller har gjorts gemensamt
 tillgängliga. Bestämmelserna gäller dock inte när
 personuppgifter behandlas med stöd av 3 §. Lag (2015:436).
@@ -1375,7 +1383,7 @@ det tredje kalenderåret efter beslutet. Lag (2015:436).
 13 § Bestämmelserna i 12 § gäller inte personuppgifter i
 ärenden om utredning eller beivrande av brott. I fråga om
 behandling av sådana personuppgifter ska i stället
-3 kap. 913 §§ tillämpas. Lag (2015:436).
+3 kap. 9–13 §§ tillämpas. Lag (2015:436).
 
 14 § Regeringen eller den myndighet som regeringen bestämmer
 meddelar föreskrifter om att personuppgifter, med avvikelse
