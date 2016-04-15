@@ -40,16 +40,17 @@ Cykelpassage            En del av en väg som är avsedd att
                         regleras med trafiksignaler eller av en
                         polisman och i annat fall obevakad
 
-Cykelöverfart           En del av en väg som är avsedd att
-                        användas av cyklande eller förare av
-                        moped klass II för att korsa en körbana
-                        eller en cykelbana och som anges med
-                        vägmarkering och vägmärke.
+Cykelöverfart		En del av en väg som enligt en lokal 
+			trafikföreskrift är avsedd att användas 
+			av cyklande eller förare av moped 
+			klass II för att korsa en körbana eller 
+			en cykelbana och som anges med 
+			vägmarkering och vägmärke.
 
-                        Vid en cykelöverfart ska trafikmiljön
-                        vara utformad så att det säkras att
-                        fordon inte förs med högre hastighet än
-                        30 kilometer i timmen.
+			Vid en cykelöverfart ska trafikmiljön 
+			vara utformad så att det säkras att 
+			fordon inte förs med högre hastighet än 
+			30 kilometer i timmen
 
 EG-motorfordon          Ett fordon som är avsett att användas på
                         väg, oavsett om det är färdigbyggt eller
@@ -254,7 +255,6 @@ Tättbebyggt område      Ett visst område som enligt en lokal
                         trafikföreskrift ska vara tättbebyggt
                         område
 
-/Träder i kraft I:2016-01-01/
 Tävlingsfordon		Motorfordon som har anpassats för 
 			tävlingsändamål och som får användas på väg 
 			genom undantag i föreskrifter eller beslut 
@@ -291,7 +291,7 @@ fordonstillverkare      En fordonstillverkare som innehar ett
                         eller vägmärke. Ett övergångsställe är bevakat
                         om trafiken regleras med trafiksignaler eller
                         av en polisman och i annat fall obevakat
-Förordning (2015:359).
+Förordning (2016:143).
 
 3 § Transportstyrelsen beslutar i frågor som avses i 3 § lagen
 (2001:559) om vägtrafikdefinitioner. Förordning (2008:1137).
