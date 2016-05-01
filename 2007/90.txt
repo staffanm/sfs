@@ -749,14 +749,6 @@ tung lastbil                    Avser förbudet även trafik med
                                 lätt lastbil anges det på en
                                 tilläggstavla.
 
-/Upphör att gälla U:2017-01-01/ 
-C8 Förbud mot trafik med
-traktor och motorredskap
-klass II                        Avser förbudet även trafik med
-                                motorredskap klass I anges det
-                                på en tilläggstavla.
-
-/Träder i kraft I:2017-01-01/ 
 C8 Förbud mot trafik med 
 traktor a och motorredskap 
 klass II			Avser förbudet även trafik med 
@@ -944,31 +936,31 @@ hastighetsbegränsning upphör    Märket används endast på en
                                 som märkts ut med märke C31,
                                 hastighetsbegränsning, upphör.
 
-C33 Stopp vid tull              Märket anger skyldighet att
-                                stanna för tullklarering.
+C33 Stopp vid tull		Märket anger skyldighet att 
+				stanna för tullformaliteter.
 
-                                Fordonet skall stannas vid en
-                                stopplinje eller, om sådan
-                                saknas, vid märket.
+				Fordonet ska stannas vid en 
+				stopplinje eller, om sådan 
+				saknas, vid märket.
 
-                                Texten under det vågräta
-                                strecket anges på det språk som
-                                är lämpligt.
+				Texten under det vågräta 
+				strecket anges på det språk 
+				som är lämpligt.
 
-C34 Stopp för angivet ändamål   Märket anger skyldighet att
-                                stanna av den anledning som
-                                anges under det vågräta
-                                strecket.
+C34 Stopp för angivet ändamål	Märket anger skyldighet att 
+				stanna av den anledning som 
+				anges under det vågräta 
+				strecket.
 
-                                Om märket är uppsatt före en
-                                trafiksignal, anger det att
-                                fordon som skall passera
-                                signalen skall stanna vid rött
-                                ljus.
+				Om märket är uppsatt före en 
+				trafiksignal, anger det att 
+				fordon som ska passera 
+				signalen ska stanna vid rött 
+				ljus.
 
-                                Fordonet skall stannas vid en
-                                stopplinje eller, om sådan
-                                saknas, vid märket.
+				Fordonet ska stannas vid en 
+				stopplinje eller, om sådan 
+				saknas, vid märket.
 
 C35 Förbud mot att parkera
 fordon                          Märket anger förbud mot att
@@ -1093,7 +1085,7 @@ C44 Förbud mot trafik med
 annat motordrivet fordon med
 dubbdäck än moped klass II      Avser förbudet även moped klass
                                 II anges det på en tilläggstavla.
-Förordning (2015:932).
+Förordning (2016:303).
 
 Påbudsmärken
 
@@ -2298,11 +2290,6 @@ släpkärra
 
 S5 Buss
 
-/Upphör att gälla U:2017-01-01/ 
-S6 Traktor och motorredskap
-klass II
-
-/Träder i kraft I:2017-01-01/ 
 S6 Traktor a och 
 motorredskap klass II
 
@@ -2327,7 +2314,7 @@ S13 Personfärja                 Symbolen anger ett färjeläge
                                 angivet färdmål endast kan nås
                                 med färja avsedd för
                                 persontransport.
-Förordning (2015:933).
+Förordning (2015:932).
 
 Tilläggstavlor
 
