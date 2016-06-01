@@ -80,28 +80,18 @@ kap. samma lag ska vid avkastningsberäkning bestämmas med
 utgångspunkt i en kalkylränta av fem procent och  med
 beaktande av kostnad för inkomstskatt. Förordning (2012:91).
 
-4 a § För storlekskorrektion för storleksinverkan och särskilda
-värdeförhållanden på lantbruksenhet skall två tabeller för
-storlekskorrektion upprättas (storlekskorrektionstabell 1 och
-2).
+4 a § För storlekskorrektion för storleksinverkan och 
+särskilda värdeförhållanden på lantbruksenhet ska det 
+upprättas två tabeller för storlekskorrektion 
+(storlekskorrektionstabell 1 och 2).
 
-En storlekskorrektion skall göras med utgångspunkt från en
-lantbruksenhets sammanlagda riktvärde. Uppgår riktvärdet för en
-värderingsenhet avseende småhus ingående i lantbruksenhet till
-50 000 kronor, skall det medräknas vid beräkningen av det
-sammanlagda riktvärdet, även om värderingsenhetens värde efter
-storlekskorrektion och en eventuell justering för säregna
-förhållanden understiger 50 000 kronor.
+En storlekskorrektion ska göras med utgångspunkt från en 
+lantbruksenhets sammanlagda riktvärde med undantag för 
+riktvärde för småhus och tomtmark för sådan byggnad.
 
-Värderingsenhet avseende småhus och tomtmark vars riktvärde
-beaktats vid bestämmande av en storlekskorrektion skall
-registreras, även om värderingsenheten inte skall åsättas något
-värde. Uppgår riktvärdet för en värderingsenhet avseende småhus
-inte till 50 000 kronor, skall det inte beaktas vid
-storlekskorrektionen och inte registreras. Tabellerna för
-storlekskorrektion skall utformas och indelas i klasser för
-sammanlagt riktvärde på sätt som anges i bilaga 12.
-Förordning (1997:452).
+I bilaga 12 anges hur tabellerna för storlekskorrektion ska 
+utformas och indelas i klasser för ett sådant beräknat 
+riktvärde. Förordning (2016:368).
 
 5 § Överstiger riktvärde av värderingsenhet 5 000 000 kronor,
 skall det avrundas nedåt till hela 200 000-tal kronor.
@@ -189,24 +179,23 @@ SO-tabeller L skall utformas och värdefaktorerna ålder och
 standard indelas på sätt som anges i bilaga 1 a.
 Förordning (2004:281).
 
-7 b § För småhus ingående i lantbruksenhet ska upprättas och
-tillämpas en tabell för värdeinverkan av värdefaktorerna
-fastighetsrättsliga förhållanden och värdeordning, FV-tabell
-L. Denna ska ha samma utformning och klassindelning som
-FV-tabell S utom så tillvida att omräkningsfaktorn för
-fastighetsrättsliga förhållanden för värderingsenheter
-utanför grupphusområde för var och en av klasserna får delas
-upp på tre intervall för S-nivåfaktorer, nämligen 1,20–4,00,
-4,20–7,5 och 8,00–30,00. Vad som sägs i 6 § andra och tredje
-styckena om värdena i SV-tabellen är med hänsyn härtill
-tillämpligt för småhus på lantbruksenhet när
-omräkningsfaktorn enligt FV-tabell L bestämts till 1,0 för
-normhuset.
+7 b § För småhus ingående i lantbruksenhet ska det upprättas 
+och tillämpas en tabell för värdeinverkan av värdefaktorerna 
+fastighetsrättsliga förhållanden och värdeordning (FV-tabell 
+L). Denna ska ha samma utformning och klassindelning som 
+FV-tabell S med undantag för att omräkningsfaktorn för 
+fastighetsrättsliga förhållanden för värderingsenheter 
+utanför grupphusområde för var och en av klasserna får delas 
+upp på tre intervall för S-nivåfaktorer, nämligen 1,50–4,00, 
+4,20–7,75 och 8,00–40,00. Det som sägs i 6 § andra och tredje 
+styckena om värdena i SV-tabellen är tillämpligt för småhus 
+på lantbruksenhet när omräkningsfaktorn enligt FV-tabell L 
+bestämts till 1,0 för normhuset.
 
-FV-tabell L ska utformas, S-nivåfaktorn indelas i intervall
-och värdefaktorerna fastighetsrättsliga förhållanden och
-värdeordning klassindelas på sätt som framgår av bilaga 1 a.
-Förordning (2013:242).
+I bilaga 1 a anges hur FV-tabell L ska utformas, hur 
+S-nivåfaktorn ska indelas i intervall och hur värdefaktorerna 
+fastighetsrättsliga förhållanden och värdeordning ska 
+klassindelas. Förordning (2016:368).
 
 7 c § Riktvärdet för värderingsenhet omfattande småhus bestäms
 och redovisas enligt följande formel.
@@ -280,86 +269,92 @@ Förordning (2009:318).
 
 Ekonomibyggnader
 
-10 § Värdefaktorn byggnadskategori skall indelas i klasser på
-följande sätt och de tabeller som enligt 11 § skall tillämpas
+10 § Värdefaktorn byggnadskategori ska indelas i klasser på 
+följande sätt och de tabeller som enligt 11 § ska tillämpas 
 för klasserna betecknas enligt följande:
 
-Klass   Benämning                               Tabell
+Klass	Benämning				Tabell
 
-11      Djurstall, logar, lador, maskinhallar,
-        gårdsverkstäder, lagerhus för potatis,
-        trädgårdsprodukter, foder eller andra
-        förnödenheter och liknande byggnader
-        med värdeår före 1980.                  E11G, E11M, E11T
+11	Djurstall, logar, lador, maskinhallar, 
+	gårdsverkstäder, lagerhus för potatis, 
+	trädgårdsprodukter, foder eller andra
+	förnödenheter och liknande byggnader
+	med värdeår före 1980.			E11G, E11M, E11T
 
-21      Djurstall för mjölkkor, värdeår 1980-.  E21G, E21M, E21T
+21	Djurstall för mjölkkor, värdeår 1980–.	E21G, E21M, E21T
 
-22      Djurstall för slakt- och ungnöt,
-        värdeår 1980-.                          E22G, E22M, E22T
+22	Djurstall för slakt- och ungnöt, 
+	värdeår 1980–.				E22G, E22M, E22T
 
-23      Djurstall för grisar, värdeår 1980-.    E23G, E23M, E23T
+23	Djurstall för grisar, värdeår 1980–.	E23G, E23M, E23T
 
-24      Djurstall för värphöns, värdeår 1980-.  E24G, E24M, E24T
+24	Djurstall för värphöns, värdeår 1980–.	E24G, E24M, E24T
 
-25      Djurstall för får, getter och
-        strutsar, värdeår 1980-.                E25G, E25M, E25T
+25	Djurstall för får, getter och strutsar, 
+	värdeår 1980–.				E25G, E25M, E25T
 
-26      Djurstall för hästar, värdeår 1980-.    E26G, E26M, E26T
+26	Djurstall för hästar, värdeår 1980–.	E26G, E26M, E26T
 
-27      Djurstall för mink, räv och liknande,
-        värdeår 1980-.                          E27G, E27M, E27T
+27	Djurstall för mink, räv och liknande, 
+	värdeår 1980–.				E27G, E27M, E27T
 
-28      Djurstall för slaktkycklingar och
-        kalkoner, värdeår 1980-.                E28G, E28M, E28T
+28	Djurstall för slaktkycklingar och 
+	kalkoner, värdeår 1980–.		E28G, E28M, E28T
 
-31      Loge, lada och liknande, värdeår
-        1980-.                                  E31G, E31M, E31T
+31	Loge, lada och liknande, värdeår 
+	1980–.					E31G, E31M, E31T
 
-32      Maskinhall, gårdsverkstad och
-        liknande, värdeår 1980-.                E32G, E32M, E32T
+32	Maskinhall, gårdsverkstad och
+	liknande, värdeår 1980–.		E32G, E32M, E32T
 
-33      Gårdslager för potatis,
-        trädgårdsprodukter, foder eller
-        andra   förnödenheter och liknande,
-        värdeår 1980-.                          E33G, E33M, E33T
+33	Gårdslager för potatis, 
+	trädgårdsprodukter, foder eller 
+	andra förnödenheter och liknande, 
+	värdeår 1980–.				E33G, E33M, E33T
 
-42      Spannmålslager                          E42G, E42M, E42T
+34	Ridhus					E34G, E34M, E34T
 
-44      Ensilagesilo                            E44G, E44M, E44T
+42	Spannmålslager				E42G, E42M, E42T
 
-51      Växthus, typ friliggande                E51G, E51M, E51T
+44	Ensilagesilo				E44G, E44M, E44T
 
-52      Växthus, typ blockhus                   E52G, E52M, E52T
+51	Växthus, typ friliggande		E51G, E51M, E51T
 
-53      Enklare växthus                         E53G, E53M, E53T
+52	Växthus, typ blockhus			E52G, E52M, E52T
 
-60      Övriga ekonomibyggnader
-Förordning (2004:281).
+53	Enklare växthus				E53G, E53M, E53T
 
-11 § För ekonomibyggnader ska upprättas 51 relationstabeller
-(E-tabeller). För samtliga byggnadskategorier, utom
-byggnadskategori 60, ska tre E-tabeller finnas, en med G
-betecknad tabell avsedd för glesbygdsförhållanden, en med M
-betecknad tabell för normalförhållanden och en med T betecknad
-tabell avsedd för tätortsinfluerade områden. E-tabellerna ska
-ange det relativa värdet av en värderingsenhet vid skilda
-förhållanden beträffande värdefaktorerna storlek, ålder och
-beskaffenhet. De relativa värdena i E-tabellerna ska bestämmas
-i en värdenivå vid vilken en ekonomibyggnad enligt 10 kap. 2 §
-fastighetstaxeringslagen (1979:1152) har ett värde av 1 000
+60	Övriga ekonomibyggnader	
+Förordning (2016:368).
+
+11 § För ekonomibyggnader ska det upprättas 54 
+relationstabeller (E-tabeller). För samtliga 
+byggnadskategorier, utom byggnadskategori 60, ska det finnas 
+tre E-tabeller, en med G betecknad tabell för 
+glesbygdsförhållanden, en med M betecknad tabell för 
+normalförhållanden och en med T betecknad tabell för 
+tätortsinfluerade områden. E-tabellerna ska ange det relativa 
+värdet av en värderingsenhet vid skilda förhållanden 
+beträffande värdefaktorerna storlek, ålder och beskaffenhet. 
+Normenheten för ekonomibyggnader ska avse ett djurstall för 
+nötkreatur som är byggt under åren 1995–2004, har en normal 
+beskaffenhet och har en storlek av 1100–1299 kvadratmeter. De 
+relativa värdena i E-tabellerna ska bestämmas i en värdenivå 
+vid vilken en sådan ekonomibyggnad har ett värde av 1 000 
 kronor.
 
-Det ska finnas 44 värdenivåer för ekonomibyggnader. De erhålls
-genom att värdena i E-tabellerna multipliceras med E-
-nivåfaktorer. De ska vara 100, 150, 200, 250, 300, 350, 400,
-450, 500, 550, 600, 650, 700, 750, 800, 850, 900, 950, 1 000,
-1 100, 1 200, 1 300, 1 400, 1 500, 1 600, 1 700, 1 800, 1 900,
-2 000, 2 100, 2 200, 2 300, 2 400, 2 500, 2 600, 2 700, 2 800,
-2 900, 3 000, 3 200, 3 400, 3 600, 3 800 och 4 000.
+Det ska finnas 53 värdenivåer för ekonomibyggnader. De 
+erhålls genom att värdena i E-tabellerna multipliceras med 
+E-nivåfaktorer. De ska vara 100, 150, 200, 250, 300, 350, 
+400, 450, 500, 550, 600, 650, 700, 750, 800, 850, 900, 950, 
+1 000, 1 100, 1 200, 1 300, 1 400, 1 500, 1 600, 1 700, 1 800, 
+1 900, 2 000, 2 100, 2 200, 2 300, 2 400, 2 500, 2 600, 2 700, 
+2 800, 2 900, 3 000, 3 200, 3 400, 3 600, 3 800, 4 000, 4 200, 
+4 400, 4 600, 4 800, 5 000, 5 250, 5 500, 5 750 och 6 000.
 
-E-tabellerna ska utformas och värdefaktorerna storlek, ålder
-och beskaffenhet klassindelas på sätt som framgår av bilaga 3.
-Förordning (2010:337).
+I bilaga 3 anges hur E-tabellerna ska utformas och hur 
+värdefaktorerna storlek, ålder och beskaffenhet ska 
+klassindelas. Förordning (2016:368).
 
 12 § Riktvärdena för värderingsenheter omfattande en eller flera
 ekonomibyggnader eller del av ekonomibyggnad bestäms och
@@ -496,39 +491,42 @@ Förordning (2001:1223).
 
 Åkermark och betesmark
 
-17 § För åkermark och betesmark ska upprättas sju
-relationstabeller (J-tabeller). J-tabellerna ska utvisa
-relativa hektarvärden av åkermark vid skilda förhållanden
-beträffande värdefaktorerna beskaffenhet och dränering och av
-betesmark vid olika beskaffenhet. De relativa värdena i J-
-tabellerna ska bestämmas i en värdenivå vid vilken ett hektar
-åkermark enligt 13 kap. 2 § fastighetstaxeringslagen
-(1979:1152) har ett värde av 1 000 kronor.
+17 § För åkermark och betesmark ska det upprättas åtta 
+relationstabeller (J-tabeller). J-tabellerna (tabell J1–J8) 
+ska utvisa relativa hektarvärden av åkermark vid skilda 
+förhållanden beträffande värdefaktorerna beskaffenhet och 
+dränering och av betesmark vid olika beskaffenhet. De 
+relativa värdena i J-tabellerna ska bestämmas i en värdenivå 
+vid vilken ett hektar åkermark enligt 13 kap. 2 § 
+fastighetstaxeringslagen (1979:1152) har ett värde av 1 000 
+kronor.
 
-Det ska finnas 74 skilda värdenivåer för åker- och betesmark.
-De erhålls genom att relativvärdena i en J-tabell
-multipliceras med J-nivåfaktorer. Dessa ska vara 1,0, 1,5,
-2,0, 2,5, 3,0, 3,5, 4,0, 4,5, 5,0, 5,5, 6,0, 6,5, 7,0, 7,5,
-8,0, 8,5, 9,0, 9,5, 10,0, 11,0, 12,0, 13,0, 14,0, 15,0, 16,0,
-17,0, 18,0, 19,0, 20,0, 21,0, 22,0, 23,0, 24,0, 25,0, 26,0,
-27,0, 28,0, 29,0, 30,0, 32,0, 34,0, 36,0, 38,0, 40,0, 42,0,
-44,0, 46,0, 48,0, 50,0, 55,0, 60,0, 65,0, 70,0, 75,0, 80,0,
-85,0, 90,0, 95,0, 100,0, 110,0, 120,0, 130,0, 140,0, 150,0,
-160,0, 170,0, 180,0, 190,0, 200,0, 210,0, 220,0, 230,0, 240,0
-och 250,0.
+Det ska finnas 84 skilda värdenivåer för åker- och betesmark. 
+De erhålls genom att relativvärdena i en J-tabell 
+multipliceras med J-nivåfaktorer. Dessa ska vara 1,0, 1,5, 
+2,0, 2,5, 3,0, 3,5, 4,0, 4,5, 5,0, 5,5, 6,0, 6,5, 7,0, 7,5, 
+8,0, 8,5, 9,0, 9,5, 10,0, 11,0, 12,0, 13,0, 14,0, 15,0, 16,0, 
+17,0, 18,0, 19,0, 20,0, 21,0, 22,0, 23,0, 24,0, 25,0, 26,0, 
+27,0, 28,0, 29,0, 30,0, 32,0, 34,0, 36,0, 38,0, 40,0, 42,0, 
+44,0, 46,0, 48,0, 50,0, 55,0, 60,0, 65,0, 70,0, 75,0, 80,0, 
+85,0, 90,0, 95,0, 100,0, 110,0, 120,0, 130,0, 140,0, 150,0, 
+160,0, 170,0, 180,0, 190,0, 200,0, 210,0, 220,0, 230,0, 
+240,0, 250,0, 260,0, 270,0, 280,0, 290,0, 300,0, 310,0, 
+320,0, 330,0, 340,0, och 350,0.
 
-J-tabell nr 1 (tabell J1) ska användas då värdenivån bestäms
-av J-nivåfaktorerna 1,0–10,0, tabell J2 då värdenivån bestäms
-av faktorerna 11,0–30,0, tabell J3 då värdenivån bestäms av
-faktorerna 32,0–50,0, tabell J4 då värdenivån bestäms av
-faktorerna 55,0–75,0, tabell J5 då värdenivån bestäms av
-faktorerna 80,0–100,0, tabell J6 då värdenivån bestäms av
-faktorerna 110,0–150,0 och tabell J7 då värdenivån bestäms av
-faktorerna 160,0–250,0.
+Tabell J1 ska användas då värdenivån bestäms av 
+J-nivåfaktorerna 1,0–10,0, tabell J2 då värdenivån bestäms av 
+faktorerna 11,0–30,0, tabell J3 då värdenivån bestäms av 
+faktorerna 32,0–50,0, tabell J4 då värdenivån bestäms av 
+faktorerna 55,0–75,0, tabell J5 då värdenivån bestäms av 
+faktorerna 80,0–100,0, tabell J6 då värdenivån bestäms av 
+faktorerna 110,0–150,0, tabell J7 då värdenivån bestäms av 
+faktorerna 160,0–250,0 och J8 då värdenivån bestäms av 
+faktorerna 260,0–350,0.
 
-J-tabeller ska utformas och värdefaktorerna beskaffenhet och
-dränering klassindelas på sätt som framgår av bilaga 4.
-Förordning (2010:337).
+I bilaga 4 anges hur J-tabeller ska utformas och hur 
+värdefaktorerna beskaffenhet och dränering ska 
+klassindelas. Förordning (2016:368).
 
 18 § Riktvärden för värderingsenheter omfattande åkermark eller
 betesmark bestäms och redovisas enligt följande formel.
@@ -546,61 +544,68 @@ beskaffenhet för betesmark och
 A = areal i hektar av värderingsenheten.
 Förordning (1997:452).
 
-Produktiv skogsmark
+Produktiv skogsmark utan avverkningsrestriktioner
 
-19 § För produktiv skogsmark omfattande mindre än 30 hektar
-ska upprättas en relationstabell (skogstabell M). Skogstabell
-M ska ange relativa hektarvärden av produktiv skogsmark
-belägen i olika delar av landet och vid skilda förhållanden
-beträffande värdefaktorn virkesförråd. De relativa värdena i
-skogstabell M ska bestämmas i en värdenivå vid vilken ett
-hektar genomsnittlig produktiv skogsmark enligt 14 kap. 2 §
-fastighetstaxeringslagen (1979:1152) har ett värde av 1 000
-kronor. Med genomsnittlig produktiv skogsmark ska avses
-produktiv skogsmark tillhörande bonitetsklass C och
-kostnadsklass 5. Den genomsnittliga produktiva skogsmarkens
-virkesförråd barrträd och virkesförråd lövträd i olika
+19 § För produktiv skogsmark utan avverkningsrestriktioner 
+omfattande mindre än 30 hektar ska det upprättas en 
+relationstabell (skogstabell M). Skogstabell M ska ange 
+relativa hektarvärden av produktiv skogsmark utan 
+avverkningsrestriktioner belägen i olika delar av landet och 
+vid skilda förhållanden beträffande värdefaktorn 
+virkesförråd. De relativa värdena i skogstabell M ska 
+bestämmas i en värdenivå vid vilken ett hektar genomsnittlig 
+produktiv skogsmark utan avverkningsrestriktioner enligt 14 
+kap. 2 § fastighetstaxeringslagen (1979:1152) har ett värde 
+av 1 000 kronor. Med genomsnittlig produktiv skogsmark utan 
+avverkningsrestriktioner ska avses produktiv skogsmark med 
+bonitetsklass C. Den genomsnittliga produktiva skogsmarkens 
+virkesförråd barrträd och virkesförråd lövträd i olika 
 regioner ska antas uppgå till följande belopp.
 
-Region                                  Virkesförråd
-                                        skogskubikmeter per
-                                        hektar
+Region					Virkesförråd 
+					skogskubikmeter per 
+					hektar	
 
-                                        Barrträd        Lövträd
+					Barrträd	Lövträd
 
-1 Gotlands, Jämtlands, Västerbottens
-  och Norrbottens län                   78              16
+1 Del av Jämtlands, Västerbottens 
+  och Norrbottens län			74		13
 
-2 Dalarnas, Gävleborgs och
-  Västernorrlands län                   112             19
+2 Del av Jämtlands, Västerbottens 
+  och Norrbottens län samt 
+  Gotlands län				97		20
 
-3 Stockholms, Uppsala,
-  Södermanlands, Östergötlands,
-  Värmlands, Örebro, Västmanlands
-  och Västra Götalands län              134             30
+3 Dalarnas, Gävleborgs och 
+  Västernorrlands län			112		20
 
-4 Jönköpings, Kronobergs och Kalmar
-  län                                   140             30
+4 Stockholms, Uppsala, Södermanlands, 
+  Östergötlands, Värmlands, Örebro, 
+  Västmanlands och Västra Götalands 
+  län					133		32
 
-5 Blekinge, Skåne och Hallands län      128             67
+5 Jönköpings, Kronobergs och Kalmar län	141		30
 
-Det ska finnas 63 skilda värdenivåer för produktiv skogsmark.
-De erhålls genom att relativvärdena i skogstabell M
-multipliceras med skogsnivåfaktorer. Dessa ska vara 1,0, 1,5,
-2,0, 2,5, 3,0, 3,5, 4,0, 4,5, 5,0, 5,5, 6,0, 6,5, 7,0, 7,5,
-8,0, 8,5, 9,0, 9,5, 10,0, 11,0, 12,0, 13,0, 14,0, 15,0, 16,0,
-17,0, 18,0, 19,0, 20,0, 21,0, 22,0, 23,0, 24,0, 25,0, 26,0,
-27,0, 28,0, 29,0, 30,0, 32,0, 34,0, 36,0, 38,0, 40,0, 42,0,
-44,0, 46,0, 48,0, 50,0, 52,0, 55,0, 57,0, 60,0, 62,0, 65,0,
-67,0, 70,0, 75,0, 80,0, 85,0, 90,0, 95,0 och 100,0.
+6 Blekinge, Skåne och Hallands län	118		75
 
-Skogstabell M ska utformas och värdefaktorerna läge och
-virkesförråd klassindelas på sätt som framgår av bilaga 5 a.
-Förordning (2010:337).
+Det ska finnas 63 skilda värdenivåer för produktiv skogsmark 
+utan avverkningsrestriktioner. De erhålls genom att 
+relativvärdena i skogstabell M multipliceras med 
+skogsnivåfaktorer. Dessa ska vara 1,0, 1,5, 2,0, 2,5, 3,0, 
+3,5, 4,0, 4,5, 5,0, 5,5, 6,0, 6,5, 7,0, 7,5, 8,0, 8,5, 9,0, 
+9,5, 10,0, 11,0, 12,0, 13,0, 14,0, 15,0, 16,0, 17,0, 18,0, 
+19,0, 20,0, 21,0, 22,0, 23,0, 24,0, 25,0, 26,0, 27,0, 28,0, 
+29,0, 30,0, 32,0, 34,0, 36,0, 38,0, 40,0, 42,0, 44,0, 46,0, 
+48,0, 50,0, 52,0, 55,0, 57,0, 60,0, 62,0, 65,0, 67,0, 70,0, 
+75,0, 80,0, 85,0, 90,0, 95,0 och 100,0.
 
-20 § Riktvärde för en värderingsenhet produktiv skogsmark
-omfattande mindre än 30 hektar bestäms och redovisas enligt
-följande formel.
+Skogstabell M ska upprättas enligt regionindelningen. I 
+bilaga 5 a anges hur omfattningen av region 1 och 2 ska 
+beskrivas och hur virkesförråd ska klassindelas.
+Förordning (2016:368).
+
+20 § Riktvärde för en värderingsenhet produktiv skogsmark 
+utan avverkningsrestriktioner omfattande mindre än 30 hektar 
+bestäms och redovisas enligt följande formel.
 
 R = N x Fm x A
 
@@ -608,38 +613,41 @@ där R = riktvärdet,
 
 N = skogsnivåfaktorn för värdeområdet,
 
-Fm = relativa hektarvärdet enligt skogstabell M vid tillämplig
-virkesförrådsklass och värdeområdets belägenhet och
+Fm = relativa hektarvärdet enligt skogstabell M vid 
+tillämplig 
 
-A = areal i hektar av värderingsenheten.
-Förordning (2010:337).
+virkesförrådsklass och värdeområdets belägenhet, och
 
-21 § För produktiv skogsmark omfattande minst 30 hektar ska
-upprättas fem tabeller över beräkningskonstanter
-(skogstabeller S) för var och en av de i 19 § angivna fem
-regionerna. Skogstabell S ska utvisa de konstanter som inom
-varje region erfordras för att beräkna relativa hektarvärden
-vid skilda förhållanden beträffande värdefaktorerna bonitet
-och kostnad. De tre konstanterna är värdet per hektar kalmark
-och värdena av barrträd och lövträd i kronor per
-skogskubikmeter. Konstanterna ska bestämmas med utgångspunkt i
-en värdenivå vid vilken ett hektar genomsnittlig produktiv
-skogsmark enligt 14 kap. 2 § fastighetstaxeringslagen
-(1979:1152) har ett värde av 1 000 kronor. Vad som därvid ska
-menas med genomsnittlig produktiv skogsmark anges i 19 §.
+A = arealen i hektar av värderingsenheten.
+Förordning (2016:368).
 
-Det ska finnas 63 skilda värdenivåer för produktiv skogsmark.
-De erhålls genom att de med ledning av skogstabell S beräknade
-relativvärdena multipliceras med de i 19 § angivna
-skogsnivåfaktorerna.
+21 § För produktiv skogsmark utan avverkningsrestriktioner 
+omfattande minst 30 hektar ska det upprättas en tabell 
+(skogstabell S) över beräknings-konstanter för var och en av 
+de i 19 § angivna sex regionerna. Skogstabell S ska utvisa de 
+konstanter som inom varje region behövs för att beräkna 
+relativa hektarvärden vid skilda förhållanden beträffande 
+värdefaktorn bonitet. De tre konstanterna är värdet per 
+hektar kalmark och värdena av barrträd respektive lövträd i 
+kronor per skogskubikmeter. Konstanterna ska bestämmas med 
+utgångspunkt i en värdenivå vid vilken ett hektar 
+genomsnittlig produktiv skogsmark utan 
+avverkningsrestriktioner enligt 14 kap. 2 § 
+fastighetstaxeringslagen (1979:1152) har ett värde av 1 000 
+kronor. Vad som menas med genomsnittlig produktiv skogsmark 
+utan avverkningsrestriktioner anges i 19 §.
 
-Skogstabell S ska utformas och värdefaktorerna bonitet och
-kostnad klassindelas på sätt som framgår av bilaga 5 b.
-Förordning (2010:337).
+Det ska finnas 63 skilda värdenivåer för produktiv skogsmark 
+utan avverkningsrestriktioner. De erhålls genom att de 
+relativvärden som beräknats med ledning av skogstabell S 
+multipliceras med de skogsnivåfaktorer som anges i 19 §.
 
-22 § Det relativa hektarvärdet för produktiv skogsmark
-omfattande minst 30 hektar (Fs) beräknas enligt följande
-formel.
+I bilaga 5 b anges hur skogstabell S ska utformas och hur 
+värdefaktorn bonitet ska klassindelas. Förordning (2016:368).
+
+22 § Det relativa hektarvärdet för produktiv skogsmark utan 
+avverkningsrestriktioner omfattande minst 30 hektar (Fs) 
+beräknas enligt följande formel.
 
 Fs = k1 + (k2 x VB) + (k3 x VL)
 
@@ -649,29 +657,61 @@ k2 = värdet av barrträd i kronor per skogskubikmeter,
 
 k3 = värdet av lövträd i kronor per skogskubikmeter,
 
-VB = virkesförråd barrträd i skogskubikmeter per hektar och
+VB = virkesförråd barrträd i skogskubikmeter per hektar, 
+och
 
 VL = virkesförråd lövträd i skogskubikmeter per hektar.
-Förordning (2010:337).
+Förordning (2016:368).
 
-23 § Riktvärdet för en värderingsenhet produktiv skogsmark
-omfattande minst 30 hektar bestäms och redovisas enligt
-följande formel.
+23 § Riktvärdet för en värderingsenhet produktiv 
+skogsmark utan avverkningsrestriktioner omfattande minst 30 
+hektar bestäms och redovisas enligt följande formel.
 
-R = [N x Fm x 29] + [N x Fs x (A – 29)]
+R = [N x Fm x 29] + [N x Fs x (A – 29)] 
 
 där R = riktvärdet,
 
 N = skogsnivåfaktorn för värdeområdet,
 
-Fm = relativa hektarvärdet enligt skogstabell M vid tillämplig
-virkesförrådsklass och värdeområdets belägenhet,
+Fm = relativa hektarvärdet enligt skogstabell M vid 
+tillämplig virkesförrådsklass och värdeområdets belägenhet,
 
-Fs = relativa hektarvärdet beräknat enligt skogstabell S vid
-tillämpligt virkesförråd barrträd och virkesförråd lövträd och
+Fs = relativa hektarvärdet beräknat enligt skogstabell S vid 
+tillämpligt virkesförråd barrträd och virkesförråd lövträd, 
+och
 
 A = arealen i hektar av värderingsenheten.
-Förordning (2010:337).
+Förordning (2016:368).
+
+Produktiv skogsmark med avverkningsrestriktioner
+
+23 a § För produktiv skogsmark med avverkningsrestriktioner 
+ska det upprättas en tabell över värdet per hektar 
+(SK-R-tabell). Den första kolumnen i tabellen avser Gotlands, 
+Värmlands, Västmanlands, Dalarnas, Gävleborgs, 
+Västernorrlands, Jämtlands, Västerbottens och Norrbottens 
+län, den andra kolumnen avser Uppsala, Södermanlands, Kalmar 
+och Västra Götalands län och den tredje kolumnen avser övriga 
+län. SK-R-tabellen ska utvisa värdet i kronor per hektar av 
+produktiv skogsmark med avverkningsrestriktioner vid de olika 
+skogsnivåfaktorer som anges i 19 §. 
+
+I bilaga 5 d anges hur tabellen ska utformas och hur 
+skogsnivåfaktorerna ska anges. Förordning (2016:368).
+
+23 b § Riktvärdet för en värderingsenhet produktiv skogsmark 
+med avverkningsrestriktioner bestäms och redovisas enligt 
+följande formel.
+
+R = A x P 
+
+där R = riktvärdet,
+
+A = arealen i hektar av värderingsenheten, och 
+
+P = värdet per hektar enligt SK-R-tabell vid tillämplig 
+skogsnivåfaktor. 
+Förordning (2016:368).
 
 Skogligt impediment
 
@@ -1645,18 +1685,7 @@ taxeringsvärdet bestämts vid granskningen. Förordning (2010:337).
 förestående allmän eller förenklad fastighetstaxering.
 Förordning (2003:963).
 
-2 § /Upphör att gälla U:2016-01-01/ 
-Bestämmelserna i 19 kap. 6 § skatteförfarandeförordningen
-(2011:1261) gäller i tillämpliga delar i fråga om
-taxeringskontroll enligt fastighetstaxeringslagen (1979:1152).
-
-Handlingar som har tillhandahållits av en myndighet enligt
-första stycket och som avses i 19 kap. 6 § tredje stycket
-skatteförfarandeförordningen får granskas endast av tjänsteman
-som Skatteverket bestämmer. Förordning (2011:1266).
-
-2 § /Träder i kraft I:2016-01-01/ 
-Bestämmelserna i 42 a kap. 1 § skatteförfarandelagen 
+2 § Bestämmelserna i 42 a kap. 1 § skatteförfarandelagen 
 (2011:1244) ska tillämpas i fråga om taxeringskontroll enligt 
 fastighetstaxeringslagen (1979:1152).
 
@@ -1728,10 +1757,7 @@ sätt biträde ska lämnas. Förordning (2008:701).
 
 4 § Har upphävts genom förordning (2003:963).
 
-5 § Skatteverket skall senast den 15 maj året före
-taxeringsåret fastställa preliminära allmänna råd avseende
-grunderna för taxeringen och värdesättningen.
-Förordning (2003:963).
+5 § Har upphävts genom förordning (2016:358).
 
 6 § Skatteverket skall senast den 1 september året före
 taxeringsåret fastställa allmänna råd avseende riktvärden samt
@@ -2089,3 +2115,10 @@ första gången vid 2015 års fastighetstaxering.
 
 2. Bilagorna 2 och 2 a i den nya lydelsen tillämpas första
 gången vid den förenklade fastighetstaxeringen 2016.
+
+2016:368
+
+1. Denna förordning träder i kraft den 1 juni 2016.
+
+2. Förordningen tillämpas första gången vid allmän 
+fastighetstaxering 2017.
