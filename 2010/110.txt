@@ -18801,7 +18801,8 @@ har informerats om denna påföljd. Lag (2012:935).
 
 Innehåll
 
-1 § I detta kapitel finns bestämmelser om
+1 § /Upphör att gälla U:2016-07-01/
+I detta kapitel finns bestämmelser om
 
 - tillämpningsområdet i 2 §,
 
@@ -18812,6 +18813,20 @@ Innehåll
 - elektronisk signatur i 5 och 6 §§, och
 
 - när en uppgift anses ha kommit in i 7 §.
+
+1 § /Träder i kraft I:2016-07-01/
+I detta kapitel finns bestämmelser om 
+
+– tillämpningsområdet i 2 §, 
+
+– vad som är självbetjäningstjänster i 3 §, 
+
+– när självbetjäningstjänster kan användas i 4 §,
+
+– elektronisk underskrift i 5 och 6 §§, och
+
+– när en uppgift anses ha kommit in i 7 §.
+Lag (2016:563).
 
 Tillämpningsområdet
 
@@ -18853,9 +18868,14 @@ och ersättningar som avses i 2 § första stycket. Föreskrifter
 om att uppgifter ska lämnas på heder och samvete ska dock
 alltid iakttas när självbetjäningstjänster används.
 
+/Rubriken upphör att gälla U:2016-07-01/
 Elektronisk signatur
 
-5 § En enskild som lämnar uppgifter i samband med att han
+/Rubriken träder i kraft I:2016-07-01/
+Elektronisk underskrift
+
+5 § /Upphör att gälla U:2016-07-01/
+En enskild som lämnar uppgifter i samband med att han
 eller hon använder en självbetjäningstjänst ska använda en
 sådan elektronisk signatur som avses i 2 § lagen (2000:832)
 om kvalificerade elektroniska signaturer.
@@ -18864,13 +18884,38 @@ Om det är fråga om att få tillgång till personuppgifter ska
 certifikat, till vilket en säker identifieringsfunktion är
 knuten, användas för kontroll av användarens identitet.
 
-6 § Om det finns någon annan metod än som avses i 5 § för
+5 § /Träder i kraft I:2016-07-01/
+En enskild som lämnar uppgifter i samband med att han 
+eller hon använder en självbetjäningstjänst ska använda en 
+sådan elektronisk underskrift som avses i artikel 3 i 
+Europaparlamentets och rådets förordning (EU) nr 910/2014 av 
+den 23 juli 2014 om elektronisk identifiering och betrodda 
+tjänster för elektroniska transaktioner på den inre marknaden 
+och om upphävande av direktiv 1999/93/EG, i den ursprungliga 
+lydelsen.
+
+Om det är fråga om att få tillgång till personuppgifter ska 
+certifikat, till vilket en säker identifieringsfunktion är 
+knuten, användas för kontroll av användarens identitet.
+Lag (2016:563).
+
+6 § /Upphör att gälla U:2016-07-01/
+Om det finns någon annan metod än som avses i 5 § för
 identifiering eller skydd mot förvanskning av uppgifter som
 är tillräckligt säker med hänsyn till risken för
 integritetsintrång eller annan skada får dock den användas.
 
 Elektronisk signatur ska dock alltid användas när uppgifter
 ska lämnas på heder och samvete.
+
+6 § /Träder i kraft I:2016-07-01/
+Om det finns någon annan metod än som avses i 5 § för 
+identifiering eller skydd mot förvanskning av uppgifter som 
+är tillräckligt säker med hänsyn till risken för 
+integritetsintrång eller annan skada får dock den användas.
+
+Elektronisk underskrift ska dock alltid användas när 
+uppgifter ska lämnas på heder och samvete. Lag (2016:563).
 
 När anses en uppgift ha kommit in?
 

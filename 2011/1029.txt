@@ -366,17 +366,17 @@ varje leverantör kan begära att få delta i och där den
 upphandlande myndigheten eller enheten för en dialog med de
 anbudssökande som har bjudits in att delta i detta förfarande.
 
-14 § Med kontrakt avses ett skriftligt avtal med ekonomiska
-villkor som
+14 § Med kontrakt avses ett skriftligt avtal med ekonomiska 
+villkor som 
 
-1. sluts mellan en eller flera upphandlande myndigheter eller
-enheter och en eller flera leverantörer,
+1. sluts mellan en eller flera upphandlande myndigheter eller 
+enheter och en eller flera leverantörer, 
 
-2. avser utförande av byggentreprenad, leverans av varor eller
-tillhandahållande av tjänster, och
+2. avser utförande av byggentreprenad, leverans av varor 
+eller tillhandahållande av tjänster, och
 
-3. undertecknas av parterna eller signeras av dem med en
-elektronisk signatur.
+3. undertecknas av parterna eller skrivs under av dem med en 
+elektronisk underskrift. Lag (2016:575).
 
 15 § Med kris avses varje situation när en händelse med
 skadliga konsekvenser har inträffat som tydligt går utöver
@@ -1669,8 +1669,8 @@ tidsfristen för att komma in med anbudsansökningar vara minst
 publicering.
 
 Vid selektivt förfarande ska tidsfristen för att komma in med
-anbud vara minst 40 dagar från den dag då en inbjudan enligt 8
-§ skickades till utvalda anbudssökande.
+anbud vara minst 40 dagar från den dag då en inbjudan enligt 
+8 § skickades till utvalda anbudssökande.
 
 Första och andra styckena gäller om inte något annat följer av
 3-7 §§.
@@ -1682,7 +1682,7 @@ förhandsannonserat enligt 8 kap. 2 §, bör tidsfristen för att
 komma in med anbud vid selektivt förfarande vara minst 36
 dagar och får inte i något fall vara kortare än 22 dagar från
 den dag då annonsen skickades för publicering.
-
+	
 Den tidsfrist som anges i första stycket får användas endast
 om
 
@@ -1835,26 +1835,30 @@ icke-diskriminerande, allmänt tillgängliga och möjliga att
 använda tillsammans med sådan maskin- och programvara som i
 allmänhet används.
 
-3 § Information om de specifikationer som är nödvändiga för
-elektronisk inlämning av anbudsansökningar och anbud,
-inbegripet kryptering, ska finnas tillgänglig för alla berörda
-parter.
+3 § Information om de specifikationer som är nödvändiga för 
+elektronisk inlämning av anbudsansökningar och anbud, 
+inbegripet kryptering, ska finnas tillgänglig för alla 
+berörda parter.
 
-En upphandlande myndighet eller enhet får kräva att
-elektroniska anbud ska vara försedda med en avancerad
-elektronisk signatur enligt lagen (2000:832) om kvalificerade
-elektroniska signaturer.
+En upphandlande myndighet eller enhet får kräva att 
+elektroniska anbud ska vara försedda med en sådan avancerad 
+elektronisk underskrift som avses i artikel 3 i 
+Europaparlamentets och rådets förordning (EU) nr 910/2014 av 
+den 23 juli 2014 om elektronisk identifiering och betrodda 
+tjänster för elektroniska transaktioner på den inre marknaden 
+och om upphävande av direktiv 1999/93/EG, i den ursprungliga 
+lydelsen.
 
-En upphandlande myndighet eller enhet ska ha sådan utrustning
-att den elektroniskt kan ta emot anbudsansökningar, anbud,
-ritningar och planer på ett säkert sätt. Utrustningen ska vara
-försedd med sådana säkerhetsanordningar att vissa uppgifter
-går att få fram, att bara behöriga personer ska få tillgång
-till uppgifterna och att det ska gå att spåra om någon
-obehörig har tagit del av uppgifterna.
+En upphandlande myndighet eller enhet ska ha sådan utrustning 
+att den elektroniskt kan ta emot anbudsansökningar, anbud, 
+ritningar och planer på ett säkert sätt. Utrustningen ska 
+vara försedd med sådana säkerhetsanordningar att vissa 
+uppgifter går att få fram, att bara behöriga personer ska få 
+tillgång till uppgifterna och att det ska gå att spåra om 
+någon obehörig har tagit del av uppgifterna. 
 
-Regeringen meddelar närmare föreskrifter om
-säkerhetsanordningarna.
+Regeringen meddelar närmare föreskrifter om 
+säkerhetsanordningarna. Lag (2016:575).
 
 Skyldighet att lämna in intyg m.m.
 
@@ -3093,8 +3097,6 @@ förvaltningsdomstol överpröva
 2. giltigheten av ett avtal som har slutits mellan en
 upphandlande myndighet eller enhet och en leverantör.
 
-
-
 Behörig domstol
 
 5 § En ansökan om överprövning ska göras hos den
@@ -3134,17 +3136,7 @@ gälla.
 
 Interimistiskt beslut vid överprövning av en upphandling
 
-9 § /Upphör att gälla U:2016-06-01/
-I fall då avtalsspärr enligt 1, 3 eller 8 § inte gäller
-får rätten besluta att den upphandlande myndigheten eller
-enheten inte får ingå avtal innan något annat har bestämts.
-
-Rätten får avstå från att fatta beslut enligt första stycket,
-om den skada eller olägenhet som åtgärden skulle medföra kan
-bedömas vara större än skadan för leverantören.
-
-9 § /Träder i kraft I:2016-06-01/
-I fall då avtalsspärr enligt 1, 3 eller 8 § inte gäller 
+9 § I fall då avtalsspärr enligt 1, 3 eller 8 § inte gäller 
 får rätten besluta att den upphandlande myndigheten eller 
 enheten inte får ingå avtal innan något annat har bestämts.
 
@@ -3237,16 +3229,7 @@ förhandsinsyn enligt 3 §.
 
 Interimistiskt beslut vid överprövning av ett avtals giltighet
 
-16 § /Upphör att gälla U:2016-06-01/
-Rätten får besluta att ett avtal inte får fullgöras till
-dess något annat har bestämts.
-
-Rätten får avstå från att fatta beslut enligt första stycket,
-om den skada eller olägenhet som åtgärden skulle medföra kan
-bedömas vara större än skadan för leverantören.
-
-16 § /Träder i kraft I:2016-06-01/
-Rätten får besluta att ett avtal inte får fullgöras till 
+16 § Rätten får besluta att ett avtal inte får fullgöras till 
 dess något annat har bestämts.
 
 Rätten får avstå från att fatta beslut enligt första stycket, 
