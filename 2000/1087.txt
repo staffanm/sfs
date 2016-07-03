@@ -1,353 +1,77 @@
 Definitioner
 
-1 § /Upphör att gälla U:2016-02-01/ 
-I denna lag förstås med
-
-1. finansiellt instrument: det som anges i 1 kap. 4 § första
-stycket 1 lagen (2007:528) om värdepappersmarknaden,
-
-2. värdepappersinstitut: det som anges i 1 kap. 5 § 27 lagen om
-värdepappersmarknaden,
-
-3. börs: det som anges i 1 kap. 5 § 3 lagen om
-värdepappersmarknaden och sådant utländskt företag som har
-tillstånd att driva en reglerad marknad från filial i Sverige,
-
-4. aktiemarknadsbolag: svenskt aktiebolag som gett ut aktier
-vilka är upptagna till handel på en reglerad marknad i Sverige,
-
-5. moder- och dotterföretag: det som anges i 1 kap. 11 och
-12 §§ aktiebolagslagen (2005:551) om moderbolag och
-dotterföretag, varvid det som sägs om moderbolag skall
-tillämpas även på andra juridiska personer än aktiebolag,
-
-6. ordinarie delårsrapport: delårsrapport samt
-förhandsmeddelande om kommande årsbokslut (bokslutskommuniké)
-som ett aktiemarknadsbolag är skyldigt att lämna enligt sitt
-noteringsavtal med börsen eller, om sådana bestämmelser saknas
-i noteringsavtalet, årsredovisning och delårsrapport enligt
-bestämmelserna i lagen om värdepappersmarknaden,
-årsredovisningslagen (1995:1554), lagen (1995:1559) om
-årsredovisning i kreditinstitut och värdepappersbolag eller
-lagen (1995:1560) om årsredovisning i försäkringsföretag samt
-delårsredogörelse enligt bestämmelserna i 16 kap. 6 § lagen om
-värdepappersmarknaden,
-
-7. insiderinformation: information om en icke offentliggjord
-eller inte allmänt känd omständighet som är ägnad att
-väsentligt påverka priset på finansiella instrument, och
-
-8. reglerad marknad: det som anges i 1 kap. 5 § 20 lagen om
-värdepappersmarknaden.
-
-Om två juridiska personer äger så många aktier eller andelar i
-en annan svensk eller utländsk juridisk person att de har
-hälften var av rösterna för samtliga aktier eller andelar, är
-dock vid tillämpningen av denna lag de förstnämnda juridiska
-personerna att jämställa med moderföretag och den sistnämnda
-juridiska personen att jämställa med dotterföretag.
-Lag (2007:558).
-
-1 § /Träder i kraft I:2016-02-01/ 
-I denna lag förstås med 
-
-1. finansiellt instrument: det som anges i 1 kap. 4 § första 
-stycket 1 lagen (2007:528) om värdepappersmarknaden, 
-
-2. värdepappersinstitut: det som anges i 1 kap. 5 § 27 lagen 
-om värdepappersmarknaden,
-
-3. börs: det som anges i 1 kap. 5 § 3 lagen om 
+1 § börs: det som anges i 1 kap. 5 § 3 lagen (2007:528) om 
 värdepappersmarknaden och sådant utländskt företag som har 
 tillstånd att driva en reglerad marknad från filial i 
 Sverige,
 
-4. aktiemarknadsbolag: svenskt aktiebolag som gett ut aktier 
-vilka är upptagna till handel på en reglerad marknad i 
-Sverige,
+finansiellt instrument: det som anges i 1 kap. 4 § första 
+stycket 1 lagen om värdepappersmarknaden,
 
-5. moder- och dotterföretag: det som anges i 1 kap. 11 och 
-12 §§ aktiebolagslagen (2005:551) om moderbolag och 
-dotterföretag, varvid det som sägs om moderbolag ska 
-tillämpas även på andra juridiska personer än aktiebolag,
+marknadsmissbruksförordningen: Europaparlamentets och rådets 
+förordning (EU) nr 596/2014 av den 16 april 2014 om 
+marknadsmissbruk (marknadsmissbruksförordning) och om 
+upphävande av Europaparlamentets och rådets direktiv 
+2003/6/EG och kommissionens direktiv 2003/124/EG, 2003/125/EG 
+och 2004/72/EG, och
 
-6. ordinarie delårsrapport: delårsrapport samt 
-förhandsmeddelande om kommande årsbokslut (bokslutskommuniké) 
-som ett aktiemarknadsbolag är skyldigt att lämna enligt sitt 
-noteringsavtal med börsen eller, om sådana bestämmelser 
-saknas i noteringsavtalet, årsredovisning och delårsrapport 
-enligt bestämmelserna i lagen om värdepappersmarknaden, 
-årsredovisningslagen (1995:1554), lagen (1995:1559) om 
-årsredovisning i kreditinstitut och värdepappersbolag eller 
-lagen (1995:1560) om årsredovisning i försäkringsföretag,
+värdepappersinstitut: det som anges i 1 kap. 5 § 27 lagen om 
+värdepappersmarknaden. Lag (2016:717).
 
-7. insiderinformation: information om en icke offentliggjord 
-eller inte allmänt känd omständighet som är ägnad att 
-väsentligt påverka priset på finansiella instrument, och
+1 a § Har upphävts genom lag (2016:717).
 
-8. reglerad marknad: det som anges i 1 kap. 5 § 20 lagen om 
-värdepappersmarknaden.
-
-Om två juridiska personer äger så många aktier eller andelar 
-i en annan svensk eller utländsk juridisk person att de har 
-hälften var av rösterna för samtliga aktier eller andelar, är 
-dock vid tillämpningen av denna lag de förstnämnda juridiska 
-personerna att jämställa med moderföretag och den sistnämnda 
-juridiska personen att jämställa med dotterföretag.
-Lag (2015:959).
-
-1 a § Det som föreskrivs om aktiemarknadsbolag ska också
-tillämpas på
-
-1. svenska aktiebolag som har gett ut aktier som är föremål
-för handel på en reglerad marknad i en annan stat inom
-Europeiska ekonomiska samarbetsområdet, och
-
-2. utländska aktiebolag som har gett ut aktier som är upptagna
-till handel på en reglerad marknad i Sverige och som inte har
-sitt säte inom Europeiska ekonomiska samarbetsområdet, om
-Sverige är hemmedlemsstat enligt 2 kap. 39 § lagen (1991:980)
-om handel med finansiella instrument.
-
-Det som föreskrivs om fysiska personer som har insynsställning
-i aktiemarknadsbolag ska också tillämpas på fysiska personer
-som har insynsställning i bolag som avses i första stycket.
-Lag (2012:381).
-
-2 § Vad som föreskrivs om aktie skall också tillämpas på
-aktierelaterade finansiella instrument såsom teckningsrätt,
-interimsbevis, optionsbevis, konvertibelt skuldebrev,
-skuldebrev förenat med optionsrätt till nyteckning,
-vinstandelsbevis, aktieoption och aktietermin. Utfärdande av
-köpoption skall likställas med avyttring av de aktier optionen
-avser medan utfärdande av säljoption skall likställas med
-förvärv av aktierna.
-
-Om finansiella instrument ägs av två eller flera med
-samäganderätt, skall en delägare vid tillämpningen av denna lag
-anses vara ägare till så många av instrumenten som svarar mot
-hans lott i det samfällda innehavet.
+2 § Har upphävts genom lag (2016:717).
 
 Anmälningsskyldighet
 
-Insynsställning
+3 § I artikel 19.1–19.10 i marknadsmissbruksförordningen 
+finns bestämmelser om anmälningsskyldighet för vissa 
+transaktioner i finansiella instrument. Lag (2016:717).
 
-3 § Följande fysiska personer anses enligt denna lag ha
-insynsställning i ett aktiemarknadsbolag:
+4 § I artikel 17 i marknadsmissbruksförordningen finns 
+bestämmelser om skyldigheten att offentliggöra 
+insiderinformation.
 
-1. ledamot eller suppleant i bolagets eller dess moderföretags
-styrelse,
+Den som har skjutit upp offentliggörandet av 
+insiderinformation ska på begäran av Finansinspektionen lämna 
+en förklaring till inspektionen enligt artikel 17.4 tredje 
+stycket i marknadsmissbruksförordningen om hur villkoren för 
+att skjuta upp offentliggörandet uppfylldes. Lag (2016:717).
 
-2. verkställande direktör eller vice verkställande direktör i
-bolaget eller dess moderföretag,
+5 § Har upphävts genom lag (2016:717).
 
-3. revisor eller revisorssuppleant i bolaget eller dess
-moderföretag,
+6 § Har upphävts genom lag (2016:717).
 
-4. bolagsman i ett handelsbolag som är bolagets moderföretag,
-dock inte kommanditdelägare,
+7 § Har upphävts genom lag (2016:717).
 
-5. innehavare av annan ledande befattning i eller annat
-kvalificerat uppdrag av stadigvarande natur för bolaget eller
-dess moderföretag, om befattningen eller uppdraget normalt kan
-antas medföra tillgång till icke offentliggjord information om
-sådant förhållande som kan påverka kursen på aktierna i
-bolaget,
+8 § Har upphävts genom lag (2016:717).
 
-6. befattningshavare eller uppdragstagare enligt 1-3 eller
-annan ledande befattningshavare i ett dotterföretag, om denne
-normalt kan antas få tillgång till icke offentliggjord
-information om sådant förhållande som kan påverka kursen på
-aktierna i bolaget,
+9 § Finansinspektionen ska föra eller låta föra register 
+(insynsregister) över anmälningar som gjorts enligt artikel 
+19.1–19.10 i marknadsmissbruksförordningen.
 
-7. den som äger aktier i bolaget, motsvarande minst tio procent
-av aktiekapitalet eller av röstetalet för samtliga aktier i
-bolaget, eller äger aktier i denna omfattning tillsammans med
-sådan fysisk eller juridisk person som är aktieägaren
-närstående på det sätt som anges i 5 § första stycket, och
+Uppgifter som inte längre omfattas av anmälningsskyldighet 
+får avföras ur registret. Uppgifterna ska dock bevaras i 
+minst tio år efter det att de avförts.
 
-8. den vars närstående enligt 5 § första stycket 4 eller 5 äger
-aktier i bolaget, motsvarande minst tio procent av
-aktiekapitalet eller av röstetalet för samtliga aktier i
-bolaget.
-
-Finansinspektionen skall på begäran av aktiemarknadsbolaget
-eller dess moderföretag pröva frågan om en befattningshavare
-eller uppdragstagare har en sådan ledande ställning eller ett
-sådant kvalificerat uppdrag som avses i första stycket 5 eller
-6.
-
-I fråga om europabolag tillämpas det som sägs i första stycket
-1 om styrelseledamot på ledamot eller suppleant i lednings-,
-förvaltnings- eller tillsynsorganet. Lag (2007:371).
-
-Anmälningsskyldighet för personer med insynsställning
-
-4 § Den som har insynsställning i ett aktiemarknadsbolag skall
-skriftligen anmäla innehav av aktier i bolaget och ändring i
-innehavet till Finansinspektionen.
-
-Anmälningsskyldighet gäller dock inte
-
-1. innan den som avses i 3 § första stycket 5 eller 6 tagit
-emot underrättelse enligt 7 eller 8 §,
-
-2. om ändring i innehavet föranletts av fondemission eller av
-att en akties kvotvärde ändrats genom att en aktie delats upp
-eller lagts samman med någon annan aktie, eller
-
-3. förvärv av teckningsrätt genom aktieägares företrädesrätt
-vid emission, avyttring av interimsbevis genom omvandling till
-aktie samt förvärv genom tilldelning av inlösenrätt.
-
-Av 5 § framgår att anmälningsskyldigheten även omfattar vissa
-närståendes aktieinnehav.
-
-Finansinspektionen kan medge befrielse från
-anmälningsskyldigheten om motsvarande uppgifter kan erhållas på
-annat sätt. Lag (2007:371).
-
-5 § Vid tillämpning av 4 § första stycket första meningen skall
-följande aktier i aktiemarknadsbolaget likställas med den
-anmälningsskyldiges egna, nämligen sådana som ägs av
-
-1. make eller sambo till den anmälningsskyldige,
-
-2. omyndiga barn som står under den anmälningsskyldiges
-vårdnad,
-
-3. andra närstående till den anmälningsskyldige än sådana som
-avses i 1 och 2, om de har gemensamt hushåll med honom eller
-henne sedan minst ett år,
-
-4. juridisk person vars verksamhet den anmälningsskyldige har
-ett väsentligt inflytande över och i vilken den
-anmälningsskyldige eller någon som avses i 1-3 eller flera av
-dem tillsammans innehar
-
-- ägarandel, uppgående till tio procent eller mer av
-aktiekapitalet eller av andelarna, eller
-
-- ekonomisk andel, innefattande rätt att uppbära tio procent
-eller mer av avkastningen, eller
-
-- röstandel, uppgående till tio procent eller mer av röstetalet
-för samtliga aktier eller av röstetalet hos det högsta
-beslutande organet,
-
-5. juridisk person vars verksamhet den anmälningsskyldige har
-ett väsentligt inflytande över och i vilken den
-anmälningsskyldige eller någon som avses i 1-4 eller flera av
-dem tillsammans innehar en sådan ägarandel, ekonomisk andel
-eller röstandel som avses i 4.
-
-Om flera personer är anmälningsskyldiga för samma aktieinnehav
-eller för ändring i innehavet, behöver anmälan endast göras av
-en av dem. Lag (2005:382).
-
-6 § Anmälan enligt 4 § om aktieinnehav eller ändring i
-innehavet skall ha kommit in till Finansinspektionen senast fem
-arbetsdagar efter det att
-
-1. aktie i bolaget tagits upp till handel på en reglerad
-marknad i Sverige,
-
-2. insynsställning uppkommit enligt 3 § första stycket 1-4
-eller 7 eller den som omfattas av 3 § första stycket 5 eller 6
-tagit emot underrättelse enligt 7 eller 8 §,
-
-3. den anmälningsskyldige ingått avtal om förvärv eller
-avyttring av aktier i bolaget eller annan ändring skett i
-aktieinnehavet, eller
-
-4. den anmälningsskyldige fått vetskap om att närstående, som
-avses i 5 §, innehar eller har ingått avtal om förvärv eller
-avyttring av aktier i bolaget eller att annan ändring skett i
-den närståendes aktieinnehav. Lag (2007:558).
-
-Aktiemarknadsbolagens skyldigheter
-
-7 § Ett aktiemarknadsbolag skall anmäla till Finansinspektionen
-vilka personer som har insynsställning i bolaget eller dess
-dotterföretag enligt 3 § första stycket 1-3, 5 och 6 och
-ändringar i sådan insynsställning senast fjorton dagar från det
-att insynsställningen uppkom eller förändrades.
-Aktiemarknadsbolaget skall samtidigt skriftligen underrätta
-personer med insynsställning enligt 3 § första stycket 5 eller
-6 om anmälan.
-
-8 § Ett aktiemarknadsbolags moderföretag skall anmäla till
-Finansinspektionen vilka personer i moderföretaget som har
-insynsställning enligt 3 § första stycket 1-5 och ändringar i
-sådan insynsställning senast fjorton dagar från det att
-insynsställningen uppkom eller förändrades. Moderföretaget
-skall samtidigt skriftligen underrätta personer med
-insynsställning enligt 3 § första stycket 5 om anmälan.
-
-Insynsregister
-
-9 § Finansinspektionen skall föra eller låta föra register
-(insynsregister) över anmälningar som gjorts enligt 4, 7 och 8 §§
-eller, i fall som avses i 4 § fjärde stycket, över däremot
-svarande uppgifter som lämnats från annat register.
-
-Uppgifter som inte längre omfattas av anmälningsskyldighet får
-avföras ur registret. Uppgifterna skall dock bevaras i minst
-tio år efter det att de avförts.
-
-Registret skall föras med hjälp av automatisk databehandling.
-Finansinspektionen är personuppgiftsansvarig enligt
-personuppgiftslagen (1998:204) för den behandling av
-personuppgifter som sker i registret. Inspektionen skall på
+Registret ska föras med hjälp av automatisk databehandling. 
+Finansinspektionen är personuppgiftsansvarig enligt 
+personuppgiftslagen (1998:204) för den behandling av 
+personuppgifter som sker i registret. Inspektionen ska på 
 lämpligt sätt underrätta de registrerade om registret.
 
-Registret skall vara offentligt.
+Registret ska vara offentligt. Lag (2016:717).
 
-10 § /Upphör att gälla U:2016-03-01/
-Uppgifter som skall anmälas enligt 4 § får efter tillstånd
-av Finansinspektionen föras över till insynsregistret genom
-automatisk databehandling. Sådant tillstånd får ges endast till
-den som är förvaltare enligt 3 kap. 7 § lagen (1998:1479) om
-kontoföring av finansiella instrument.
+10 § Finansinspektionen ska offentliggöra uppgifter som 
+anmäls till Finansinspektionens insynsregister i enlighet med 
+artikel 19.3 första och tredje styckena i 
+marknadsmissbruksförordningen. Lag (2016:717).
 
-10 § /Träder i kraft I:2016-03-01/
-Uppgifter som ska anmälas enligt 4 § får efter tillstånd 
-av Finansinspektionen föras över till insynsregistret genom 
-automatisk databehandling. Sådant tillstånd får ges endast 
-till den som är förvaltare enligt 3 kap. 7 § lagen 
-(1998:1479) om värdepapperscentraler och kontoföring av 
-finansiella instrument. Lag (2016:57).
+10 a § I artikel 18 i marknadsmissbruksförordningen finns 
+bestämmelser om skyldighet att föra insiderförteckningar.
+Lag (2016:717).
 
-Förteckning över personer med tillgång till insiderinformation
-
-10 a § Ett svenskt aktiebolag som har gett ut överlåtbara
-värdepapper enligt 1 kap. 4 § första stycket 2 a eller b lagen
-(2007:528) om värdepappersmarknaden som har tagits upp till
-handel på en reglerad marknad, eller sådana överlåtbara
-värdepapper för vilka en ansökan om upptagande till handel har
-lämnats in, skall fortlöpande föra en förteckning över fysiska
-personer som på grund av anställning eller uppdrag arbetar för
-bolaget och som har tillgång till insiderinformation som rör
-bolaget. Förteckningen skall innehålla uppgift om anledningen
-till att personen tagits upp i den och datum då förteckningen
-senast uppdaterades.
-
-Förteckningen skall uppdateras så snart förhållandena ändras.
-Förteckningen skall sparas i minst fem år efter det att den
-upprättades eller, om den uppdaterats, efter det datum då den
-senast uppdaterades. Förteckningen skall på begäran lämnas till
-Finansinspektionen.
-
-Bolaget skall se till att de personer som tas upp i
-förteckningen samtidigt skriftligen underrättas om vad detta
-innebär. Lag (2007:558).
-
-10 b § Regeringen eller, efter regeringens bemyndigande,
-Finansinspektionen får meddela föreskrifter om vad en
-förteckning enligt 10 a § skall innehålla och om underrättelsen
-till dem som tas upp i förteckningen. Lag (2005:382).
-
-Anmälningsskyldighet inom myndigheter och kommuner
+10 b § Har upphävts genom lag (2016:717).
 
 11 § Om det behövs med hänsyn till tillgången på kurspåverkande
 information inom en myndighet, får regeringen besluta att det
@@ -364,8 +88,6 @@ kommunen.
 Den som omfattas av en förteckning som upprättats med stöd av
 denna paragraf skall till myndigheten skriftligen anmäla sitt
 innehav av finansiella instrument och ändringar i innehavet.
-
-Anmälningsskyldighet för vissa anställda och uppdragstagare
 
 12 § Den som är anställd eller uppdragstagare vid ett
 värdepappersinstitut eller en börs och som normalt kan antas ha
@@ -399,47 +121,26 @@ anmälningsskyldiga enligt 12 § och vad en förteckning enligt
 
 Perioder då handel är förbjuden
 
-15 § Den som enligt 3 § första stycket 1-3 har insynsställning
-i ett aktiemarknadsbolag får inför en ordinarie delårsrapport
-inte handla med aktier i bolaget under trettio dagar innan
-rapporten offentliggörs, dagen för offentliggörandet
-inkluderad.
+15 § I artikel 19.11 i marknadsmissbruksförordningen finns 
+bestämmelser om förbud för personer i ledande ställning att 
+genomföra transaktioner i finansiella instrument under vissa 
+perioder. Lag (2016:717).
 
-Detsamma gäller för
-
-1. fysiska och juridiska personer, vilkas aktier enligt 5 §
-skall likställas med aktier som innehas av personer som avses i
-första stycket, samt
-
-2. aktiemarknadsbolags handel med egna aktier.
-
-Det som sägs i andra stycket 2 skall inte tillämpas vid förvärv
-av egna aktier med stöd av 7 kap. 6 § lagen (2007:528) om
-värdepappersmarknaden eller när en tidigare avyttring
-föreskrivs i lag. Lag (2007:558).
-
-16 § Utan hinder av 15 § får
-
-1. aktier avyttras enligt villkoren i ett offentligt erbjudande
-om köp av aktier,
-
-2. avyttring ske av tilldelade emissionsrätter och
-inlösenrätter samt andra liknande rätter såsom
-omvandlingsrätter.
-
-Om det finns synnerliga skäl, får Finansinspektionen medge
-ytterligare undantag från förbudet enligt 15 §.
-Lag (2005:382).
+16 § Har upphävts genom lag (2016:717).
 
 Tillsyn
 
-17 § Finansinspektionen övervakar att bestämmelserna i denna
-lag följs.
+17 § Finansinspektionen är behörig myndighet enligt 
+marknadsmissbruksförordningen.
 
-18 § I 6 kap. 1 a § lagen (1991:980) om handel med finansiella
-instrument finns bestämmelser om rätt för Finansinspektionen
-att få de uppgifter som den behöver för att övervaka
-efterlevnaden av bestämmelserna i denna lag. Lag (2005:382).
+Finansinspektionen övervakar även att bestämmelserna i denna 
+lag följs. Lag (2016:717).
+
+18 § I 6 kap. 1 a § lagen (1991:980) om handel med 
+finansiella instrument finns bestämmelser om rätt för 
+Finansinspektionen att få de uppgifter som den behöver för 
+att övervaka att denna lag och marknadsmissbruksförordningen 
+följs. Lag (2016:717).
 
 Vite
 
@@ -448,50 +149,63 @@ stycket. Lag (2005:382).
 
 Särskild avgift
 
-20 § Finansinspektionen skall besluta att en särskild avgift
-skall tas ut av den som
+20 § Finansinspektionen ska besluta att en särskild avgift 
+ska tas ut av den som 
 
-1. underlåter att inom föreskriven tid göra anmälan eller lämna
-underrättelse enligt 4, 7 eller 8 § eller 10 a § tredje
-stycket,
+1. åsidosätter sin skyldighet att upprätta, uppdatera eller 
+till Finansinspektionen överlämna en insiderförteckning 
+(artikel 18.1 och 18.3–18.6 i marknadsmissbruksförordningen, 
+i den ursprungliga lydelsen),
 
-2. lämnar oriktig eller vilseledande uppgift vid fullgörande av
-anmälnings- eller underrättelseskyldighet enligt någon av
-nämnda paragrafer,
+2. åsidosätter sin skyldighet att se till att alla personer 
+som förekommer i en insiderförteckning skriftligen bekräftar 
+att de är medvetna om sina skyldigheter (artikel 18.2 i 
+marknadsmissbruksförordningen, i den ursprungliga 
+lydelsen),
 
-3. handlar med aktier i strid mot 15 §,
+3. åsidosätter sin skyldighet att till Finansinspektionen 
+samt berörda företag eller organ göra en anmälan om egna 
+transaktioner (artikel 19.1, 19.2, 19.6 och 19.7 i 
+marknadsmissbruksförordningen, i den ursprungliga 
+lydelsen),
 
-4. helt eller delvis underlåter att föra en förteckning enligt
-10 a § eller att på begäran lämna förteckningen till
-Finansinspektionen. Lag (2005:382).
+4. åsidosätter sin skyldighet att upprätta en förteckning 
+över personer i ledande ställning och dem närstående personer 
+eller att skriftligen underrätta personer i ledande ställning 
+eller närstående om deras skyldigheter enligt artikel 19 i 
+marknadsmissbruksförordningen (artikel 19.5 i 
+marknadsmissbruksförordningen, i den ursprungliga 
+lydelsen),
+
+5. genomför transaktioner i strid mot förbudet i 
+artikel 19.11 i marknadsmissbruksförordningen, i den 
+ursprungliga lydelsen. Lag (2016:717).
 
 21 § Särskild avgift beräknas enligt följande:
 
-1. vid underlåtenhet att göra anmälan enligt 4 § eller när
-oriktig eller vilseledande uppgift har lämnats vid fullgörande
-av anmälningsskyldighet enligt samma paragraf: 10 procent av
-vederlaget för aktierna eller, om vederlag inte har utgått,
-15 000 kronor,
+1. i fall som avses i 20 § 1: mellan 0,005 och 0,01 procent 
+av det sammanlagda marknadsvärdet på de aktier i bolaget som 
+är upptagna till handel eller handlas på en handelsplats 
+beräknat på slutkursen vid utgången av månaden före beslutet, 
+dock lägst 15 000 och högst 1 000 000 kronor, eller, om 
+marknadsvärde saknas vid utgången av månaden före beslutet, 
+det sammanlagda marknadsvärdet beräknat på slutkursen den dag 
+då bolagets aktier togs upp till handel eller handlades på en 
+handelsplats första gången,
 
-2. vid underlåtenhet att göra anmälan eller lämna underrättelse
-eller uppgifter enligt 7 eller 8 § eller 10 a § tredje stycket
-eller när oriktig eller vilseledande uppgift har lämnats vid
-fullgörande av anmälnings- eller underrättelseskyldighet enligt
-samma paragrafer: 15 000 kronor,
+2. i fall som avses i 20 § 2 och 4: 15 000 kronor,
 
-3. vid överträdelse av 15 §: 10 procent av vederlaget för
-aktierna,
+3. i fall som avses i 20 § 3: 
 
-4. vid underlåtenhet helt eller delvis att föra en förteckning
-enligt 10 a § eller att på begäran lämna den till
-Finansinspektionen: mellan 0,005 och 0,01 procent av bolagets
-noterade marknadsvärde vid utgången av månaden före beslutet,
-dock lägst 15 000 och högst 1 000 000 kronor. Om noterat
-marknadsvärde saknas vid utgången av månaden före beslutet,
-skall marknadsvärdet den dag då notering sker användas.
+a) 10 procent av ersättningen för aktierna, eller 
 
-Avgift enligt första stycket 1 eller 3 skall uppgå till lägst
-15 000 och högst 350 000 kronor. Lag (2005:382).
+b) 15 000 kronor om någon ersättning inte har lämnats,
+
+4. i fall som avses i 20 § 5: 10 procent av ersättningen för 
+aktierna.
+
+Avgift enligt första stycket 3 a eller 4 ska uppgå till lägst 
+15 000 och högst 350 000 kronor. Lag (2016:717).
 
 22 § Innan beslut om särskild avgift meddelas skall den berörde
 ges tillfälle att yttra sig i ärendet hos Finansinspektionen.
@@ -552,3 +266,18 @@ bestämmelser utom såvitt avser 23 §.
 4. Skyldigheten att ta upp en person på en förteckning enligt
 10 a § gäller inte i fråga om sådan insiderinformation som han
 eller hon fått tillgång till före ikraftträdandet.
+
+2016:717
+
+1. Denna lag träder i kraft den 3 juli 2016.
+
+2. I fråga om anmälningsskyldighet som har uppkommit före 
+ikraftträdandet gäller 3–6 §§ i den äldre lydelsen. 
+
+3. I fråga om förteckningar som har upprättats före 
+ikraftträdandet enligt 10 a § gäller 10 a § andra stycket i 
+den äldre lydelsen om sparande och överlämnande av 
+förteckningen till Finansinspektionen. 
+
+4. Äldre bestämmelser gäller för överträdelser som har ägt 
+rum före ikraftträdandet. 
