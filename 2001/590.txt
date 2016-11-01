@@ -7,58 +7,60 @@ Förordning (2006:790).
 
 Uppgifter som får behandlas i databaserna
 
-2 § Beträffande personer som avses i 2 kap. 4 § lagen
-(2001:184) om behandling av uppgifter i
-Kronofogdemyndighetens verksamhet får i utsöknings- och
-indrivningsdatabasen behandlas uppgifter om
+2 § Beträffande personer som avses i 2 kap. 4 § lagen 
+(2001:184) om behandling av uppgifter i 
+Kronofogdemyndighetens verksamhet får i utsöknings- och 
+indrivningsdatabasen behandlas uppgifter om 
 
-1. exekutionstitel, inkomster, skuldbelopp, dag när skulden
-fastställdes och när den förföll till betalning, influtna
-medel, den tidpunkt vid vilken skulden preskriberas,
-borgensåtaganden,
+1. exekutionstitel, inkomster, skuldbelopp, dag när skulden 
+fastställdes och när den förföll till betalning, influtna 
+medel, den tidpunkt vid vilken skulden preskriberas, 
+borgensåtaganden, 
 
-2. de verkställighetsåtgärder som begärts av sökanden,
+2. de verkställighetsåtgärder som begärts av sökanden,  
 
-3. den som sökt verkställighet och vad som i övrigt behövs för
-utbetalning av influtna medel och annan redovisning,
+3. den som sökt verkställighet och vad som i övrigt behövs 
+för utbetalning av influtna medel och annan redovisning, 
 
 4. ställd säkerhet, anstånd, uppskov och avbetalningsplan,
 
-5. avräkning och betalningssäkring,
+5. avräkning och betalningssäkring, 
 
-6. utmätning och annan verkställighet enligt utsökningsbalken,
+6. utmätning och annan verkställighet enligt 
+utsökningsbalken, 
 
-7. återtagande av vara,
+7. återtagande av vara, 
 
-8. exekutiv försäljning av egendom och tvångsförsäljning av
-bostadsrätt,
+8. exekutiv försäljning av egendom och tvångsförsäljning av 
+bostadsrätt,  
 
-9. bötesförvandling,
+9. bötesförvandling, 
 
-10. betalningsinställelse, likvidation, skuldsanering,
-företagsrekonstruktion, konkurs, ackord och näringsförbud,
+10. betalningsinställelse, likvidation, skuldsanering, 
+F-skuldsanering, företagsrekonstruktion, konkurs, ackord och 
+näringsförbud, 
 
-11. fusion,
+11. fusion, 
 
-12. förhör eller annan åtgärd som beslutats eller vidtagits för
-efterforskning av tillgångar,
+12. förhör eller annan åtgärd som beslutats eller vidtagits 
+för efterforskning av tillgångar, 
 
-13. förekomst av och tidpunkt för gäldenärsutredningar,
+13. förekomst av och tidpunkt för gäldenärsutredningar, 
 
-14. redovisning av verkställighetsuppdraget,
+14. redovisning av verkställighetsuppdraget,  
 
-15. innehavare av rättighet i fast egendom,
+15. innehavare av rättighet i fast egendom,  
 
-16. delägare till utmätt egendom,
+16. delägare till utmätt egendom,  
 
-17. myndigheters köp, leasing, hyra eller hyrköp av varor,
-byggentreprenader eller tjänster från andra än statliga
-myndigheter som hämtas från den transaktionsdatabas som förs
-enligt förordningen (2000:606) om myndigheters bokföring, och
+17. myndigheters köp, leasing, hyra eller hyrköp av varor, 
+byggentreprenader eller tjänster från andra än statliga 
+myndigheter som hämtas från den transaktionsdatabas som förs 
+enligt förordningen (2000:606) om myndigheters bokföring, och 
 
-18. övriga uppgifter som behövs för den verksamhet vars ändamål
-anges i 2 kap. 2 § lagen om behandling av uppgifter i
-Kronofogdemyndighetens verksamhet. Förordning (2006:790).
+18. övriga uppgifter som behövs för den verksamhet vars 
+ändamål anges i 2 kap. 2 § lagen om behandling av uppgifter i 
+Kronofogdemyndighetens verksamhet. Förordning (2016:697).
 
 3 § Beträffande personer som avses i 2 kap. 10 § lagen
 (2001:184) om behandling av uppgifter i Kronofogdemyndighetens
@@ -212,6 +214,15 @@ Uppgifter ur betalningsföreläggande- och handräckningsdatabasen
 får lämnas ut till den som har tillstånd enligt 3 § första
 stycket kreditupplysningslagen (1973:1173) att bedriva
 kreditupplysningsverksamhet. Förordning (2003:1105).
+
+14 a § Uppgifter ur skuldsaneringsdatabasen får lämnas ut 
+till gäldenären, borgenärerna och andra enskilda som berörs 
+av och kan bidra till utredningen i ärendet, om det inte är 
+olämpligt. Förordning (2016:697).
+
+14 b § Uppgifter ur skuldsaneringsdatabasen får lämnas ut för 
+utbetalning av inbetalda medel och för annan redovisning.
+Förordning (2016:697).
 
 15 § Beslut om utmätning enligt 7 kap. utsökningsbalken får
 lämnas ut till gäldenärens arbetsgivare när det behövs för
