@@ -60,7 +60,6 @@ Arbetsmiljöverket       – handlingar som ska ingå i
 
                         – statistiskt primärmaterial
 
-/Träder i kraft I:2016-10-01/
 Brottsförebyggande 	– statistiskt primärmaterial
 rådet
 
@@ -520,13 +519,6 @@ följande.
 Myndighet               Undersökning        Särskilda begränsningar
                                             i sekretessen
 
-/Upphör att gälla U:2016-10-01/
-Boverket                undersökning av     sekretessen gäller
-                        byggnaders          endast uppgifter om
-                        tekniska            enskildas personliga
-                        utformning          förhållanden
-
-/Träder i kraft I:2016-10-01/
 Boverket                undersökning av     sekretessen gäller
                         byggnaders          endast uppgifter om
                         tekniska            enskildas personliga
@@ -1726,6 +1718,14 @@ biocidprodukter som innehåller nematoder, insekter eller
 spindeldjur och förordningen (2006:1010) om växtskyddsmedel 
 som innehåller nematoder, insekter eller spindeldjur.
 
+2016:1005
+
+1. Denna förordning träder i kraft den 1 januari 2017.
+
+2. Äldre föreskrifter gäller fortfarande i fråga om 
+tillståndsgivning och tillsyn som bedrivits enligt lagen 
+(1985:620) om vissa torvfyndigheter.
+
 
 Bilaga
 
@@ -2362,7 +2362,8 @@ gemensam kontrollstämpel
 m.m. för arbeten av guld,
 silver och platina
 
-52. tillståndsgivning och       sekretess för ingivna
+52. /Upphör att gälla U:2017-01-01/
+tillståndsgivning och       sekretess för ingivna
 tillsyn enligt                  undersökningsresultat enligt 14
 minerallagen (1991:45),         kap. 3 § minerallagen gäller i
 lagen (1985:620) om vissa       högst fyra år
@@ -2371,6 +2372,16 @@ torvfyndigheter och lagen
 rörledningar eller enligt
 motsvarande äldre
 bestämmelser
+
+52. /Träder i kraft I:2017-01-01/
+tillståndsgivning och 		sekretess för ingivna 
+tillsyn enligt 			undersökningsresultat 
+minerallagen (1991:45) 		enligt 14 kap. 3 § 
+och lagen (1978:160) 		minerallagen gäller 
+om vissa rörledningar 		i högst fyra år
+eller enligt 
+motsvarande äldre 
+bestämmelser	
 
 53. stöd enligt                 sekretessen gäller inte beslut
 förordningen (1993:555)         i ärenden
@@ -3232,7 +3243,6 @@ stadsutveckling			sekretessen gäller endast
 				sekretessen gäller inte 
 				beslut i ärenden
 
-/Träder i kraft I:2016-10-01/
 148. marknadskontroll enligt 
 lagen (2016:768) om marin 
 utrustning 			sekretessen enligt 9 § 
@@ -3244,7 +3254,21 @@ utrustning 			sekretessen enligt 9 §
 				eller ett liknande 
 				allmänintresse har sådan vikt 
 				att uppgiften bör lämnas ut
-Förordning (2016:864).
+
+/Träder i kraft I:2017-01-01/
+149. stöd enligt 		sekretessen gäller endast 
+förordningen (2016:989) 	enligt 9 § första stycket 1
+om statsbidrag till film
+				sekretessen gäller inte 
+				beslut i ärenden
+
+150. utredning och tillsyn 
+hos Patent- och 
+registreringsverket enligt 
+lagen (2016:977) om 
+kollektiv förvaltning av 
+upphovsrätt	
+Förordning (2016:1005).
 
 
 Sakregister till bilagan
@@ -3304,7 +3328,10 @@ Farligt avfall                                  40
 Farligt gods                                    50
 Fartyg                                          36, 136
 Fastighetsmäklare                               104
+/Upphör att gälla U:2017-01-01/
 Film                                            98
+/Träder i kraft I:2017-01-01/
+Film						98, 149
 Fjärrvärme                                      90
 Foder                                           22
 Fordonslagen                                    116
@@ -3380,7 +3407,6 @@ Läkemedelslagen                                 33
 Länsstyrelser                                   24, 31, 88
 Läromedel                                       54
 
-/Träder i kraft I:2016-10-01/
 Marin utrustning				148
 Marinvetenskaplig forskning                     35
 Materielleveranser                              95
@@ -3405,6 +3431,8 @@ Naturvårdsverket				55, 146, 147
 Olja                                            26, 60
 Olyckor                                         100
 
+/Träder i kraft I:2017-01-01/
+Patent- och registreringsverket			150
 Patentombud                                     130
 Patientsäkerhet                                 58
 Platina                                         51
@@ -3474,9 +3502,13 @@ Tekniskt bistånd                                19
 Tillväxtverket                                  9
 Tjänsteresor                                    47
 Tobakslagen                                     61
+/Upphör att gälla U:2017-01-01/
 Tobaksskatt                                     127
 Torvfyndigheter                                 52
 Trafiktillstånd                                 77
+/Träder i kraft I:2017-01-01/
+Tobaksskatt					127
+Trafiktillstånd					77
 Trafikverket                                    9, 111, 117
 Transportbidrag                                 49
 Transportstyrelsen                              17, 118
@@ -3485,6 +3517,8 @@ Tullagen                                        48
 Tullkontor                                      48
 Täktverksamhet                                  35
 
+/Träder i kraft I:2017-01-01/
+Upphovsrätt					150
 Uppvärmning                                     93
 Utsläpp av koldioxid                            122
 Utsäde                                          59
@@ -3505,4 +3539,4 @@ Yrkestrafiklagen                                77
 Ägarfrågor                                      10
 
 Öppenvårdsapoteksservice                        139
-Förordning (2016:864).
+Förordning (2016:1005).
