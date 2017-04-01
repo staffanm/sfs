@@ -17,9 +17,9 @@ att genomföra FATCA finns i lagen (2015:62) om identifiering
 av rapporteringspliktiga konton med anledning av 
 FATCA-avtalet.
 
-2 § I lagen finns 
+2 § I lagen finns
 
-– definitioner och förklaringar (2 kap., 3 kap. 3–10 §§ och 8 
+– definitioner och förklaringar (2 kap., 3 kap. 3–11 §§ och 8 
 kap. 5 §),
 
 – bestämmelser om undantagna finansiella institut och konton 
@@ -35,9 +35,10 @@ innehas av fysiska personer (5 kap.),
 som innehas av enheter (6 kap.),
 
 – bestämmelser om granskning av nya finansiella konton som 
-innehas av enheter (7 kap.), och
+innehas av enheter (7 kap.), och 
 
 – övriga bestämmelser (8 kap.).
+Lag (2017:190).
 
 2 kap. Definitioner och förklaringar
 
@@ -115,7 +116,7 @@ närstående enhet i 17 §
 
 odokumenterat konto i 22 §
 
-passiv icke-finansiell enhet i 22 §
+passiv icke-finansiell enhet i 18 a §
 
 passiv inkomst i 19 §
 
@@ -123,7 +124,7 @@ person med bestämmande inflytande i 18 §
 
 rapporteringspliktigt konto i 20 §
 
-rapporteringsskyldigt finansiellt institut i 21 §
+rapporteringsskyldigt finansiellt institut i 21–21 b §§
 
 skatteregistreringsnummer i 22 §
 
@@ -131,7 +132,10 @@ spärrat konto i 3 kap. 9 §
 
 svensk myndighetsenhet i 3 kap. 3 §
 
+vilande konto i 3 kap. 11 §
+
 viss temporär dödsfallsförsäkring i 3 kap. 7 §
+Lag (2017:190).
 
 Aktiv icke-finansiell enhet
 
@@ -526,6 +530,22 @@ enlighet med rekommendationerna från arbetsgruppen för
 finansiella åtgärder (FATF) i dessas lydelse som antogs i 
 februari 2012.
 
+Passiv icke-finansiell enhet
+
+18 a § Med passiv icke-finansiell enhet avses en enhet som 
+
+1. inte är ett finansiellt institut eller en aktiv 
+icke-finansiell enhet, eller 
+
+2. är en investeringsenhet enligt 9 § första stycket 2 i en 
+stat eller jurisdiktion som inte är en deltagande 
+jurisdiktion.
+
+Vid tillämpning av första stycket 2 ska en investeringsenhets 
+fasta driftställe i en annan stat eller jurisdiktion anses 
+vara ett finansiellt institut i den staten eller 
+jurisdiktionen. Lag (2017:190).
+
 Passiv inkomst
 
 19 § Med passiv inkomst avses den del av inkomsten som består 
@@ -622,6 +642,44 @@ finansiellt instituts fasta driftställe i en annan stat eller
 jurisdiktion ska dock inte anses vara ett svenskt finansiellt 
 institut. 
 
+21 a § Vid tillämpning av 21 § första eller andra stycket ska 
+en trust som är ett finansiellt institut anses vara ett 
+svenskt finansiellt institut om en eller flera av trustens 
+förvaltare har hemvist i Sverige. Detta gäller dock inte om 
+
+1. trusten har skatterättslig hemvist i en annan deltagande 
+jurisdiktion och där rapporterar all information som krävs 
+enligt det multilaterala avtalet den 29 oktober 2014 mellan 
+behöriga myndigheter om automatiskt utbyte av upplysningar om 
+finansiella konton och rådets direktiv 2011/16/EU av den 15 
+februari 2011 om administrativt samarbete i fråga om 
+beskattning, i lydelsen enligt rådets direktiv 2014/107/EU, 
+eller 
+
+2. förvaltaren av trusten är ett rapporteringsskyldigt 
+finansiellt institut och rapporterar all information som 
+krävs enligt det avtal och det direktiv som avses i 1, i de 
+lydelser som anges där, med avseende på samtliga trustens 
+rapporteringspliktiga konton.
+
+Vid tillämpning av 21 § första eller andra stycket ska ett 
+annat finansiellt institut än en trust, om det inte har någon 
+skatterättslig hemvist, anses vara ett svenskt finansiellt 
+institut om det 
+
+1. är registrerat här,
+
+2. har platsen för sin ledning här, eller 
+
+3. är föremål för finansiell tillsyn här.
+Lag (2017:190).
+
+21 b § Oavsett vad som anges i 21 och 21 a §§ är ett annat 
+finansiellt institut än en trust inte rapporteringsskyldigt 
+för finansiella konton hos institutet som finns i en annan 
+deltagande jurisdiktion där det finansiella institutet är 
+rapporteringsskyldigt. Lag (2017:190).
+
 Andra definitioner och förklaringar
 
 22 § I denna lag avses med
@@ -656,7 +714,7 @@ har ett kontantvärde och som inte är ett
 ansvarsåterförsäkringsavtal mellan två försäkringsföretag,
 
 högvärdekonto: ett befintligt konto som innehas av en eller 
-flera fysiska personer och vars sammanräknade balans eller 
+flera fysiska personer och vars sammanräknade saldo eller 
 värde uppgår till mer än 1 000 000 US-dollar den 31 december 
 2015 eller vid utgången av ett senare kalenderår,
 
@@ -674,7 +732,7 @@ förbinder sig att göra utbetalningar under ett visst antal
 år,
 
 lågvärdekonto: ett befintligt konto som innehas av en eller 
-flera fysiska personer och vars sammanräknade balans eller 
+flera fysiska personer och vars sammanräknade saldo eller 
 värde inte uppgår till mer än 1 000 000 US-dollar den 31 
 december 2015,
 
@@ -684,18 +742,9 @@ nytt konto: ett finansiellt konto som öppnats den 1 januari
 odokumenterat konto: ett konto som ska anses vara ett 
 odokumenterat konto enligt 4 kap. 3 eller 11 §,
 
-passiv icke-finansiell enhet: en enhet som 
-
-1. inte är ett finansiellt institut eller en aktiv 
-icke-finansiell enhet, eller 
-
-2. är en investeringsenhet enligt 9 § första stycket 2 i en 
-stat eller jurisdiktion som inte är en deltagande 
-jurisdiktion,
-
 skatteregistreringsnummer: ett identifikationsnummer för 
 skattebetalare eller en funktionell motsvarighet till det om 
-ett sådant nummer saknas.
+ett sådant nummer saknas. Lag (2017:190).
 
 Betydelsen av vissa termer och uttryck
 
@@ -722,19 +771,15 @@ undantagna från rapporteringsskyldighet:
 5. pensionsstiftelser enligt lagen (1967:531) om tryggande av 
 pensionsutfästelse m.m.,
 
-6. kvalificerade utfärdare av kreditkort,
+6. kvalificerade utfärdare av kreditkort, och
 
-7. vinstandelsstiftelser,
-
-8. investeringsrådgivare, och
-
-9. investeringsansvariga.
+7. vinstandelsstiftelser.
 
 Enheter som avses i första stycket 1–3 ska dock inte vara 
 undantagna från rapporteringsskyldighet i den del deras 
 verksamhet är sådan kommersiell verksamhet som normalt 
 bedrivs av sådana finansiella institut som anges i 2 kap. 7, 
-8 eller 10 §.
+8 eller 10 §. Lag (2017:190).
 
 2 § Följande konton är undantagna från rapporteringsplikt:
 
@@ -749,9 +794,12 @@ inkomstskattelagen,
 
 4. konto som innehas av dödsbo,
 
-5. spärrat konto, och
+5. spärrat konto,
 
-6. kvalificerat kreditkortskonto.
+6. kvalificerat kreditkortskonto, och
+
+7. vilande konto.
+Lag (2017:190).
 
 Definitioner och förklaringar
 
@@ -972,6 +1020,22 @@ rör kreditsaldo som uppstått på grund av omtvistade
 debiteringar inte omfattas. Kundinsättning som rör 
 kreditsaldo som uppstått på grund av returnerade varor ska 
 omfattas. 
+
+11 § Med vilande konto avses ett annat finansiellt konto än 
+ett livförsäkringsavtal om
+
+1. kontots saldo eller värde vid utgången av kalenderåret 
+inte överstiger 1 000 US-dollar,
+
+2. kontohavaren inte har initierat några transaktioner på 
+kontot eller på något annat av sina konton hos det 
+rapporteringsskyldiga finansiella institutet under de senaste 
+tre åren, och
+
+3. kontohavaren inte har kommunicerat med det 
+rapporteringsskyldiga finansiella institutet angående kontot 
+eller något annat av sina konton hos det institutet under de 
+senaste sex åren. Lag (2017:190).
 
 4 kap. Granskning av befintliga finansiella konton som 
 innehas av fysiska personer 
@@ -1220,25 +1284,42 @@ Nya konton som får granskas som om de är befintliga konton
 5 § Ett rapporteringsskyldigt finansiellt institut får 
 tillämpa bestämmelserna i 4 kap. vid granskning av ett nytt 
 konto som innehas av en fysisk person i stället för 
-bestämmelserna i detta kapitel, om kontohavaren hos det 
-rapporteringsskyldiga finansiella institutet eller hos en 
-till detta närstående enhet även har ett eller flera 
-befintliga konton.
+bestämmelserna i detta kapitel, om 
 
-Om ett rapporteringsskyldigt finansiellt institut i enlighet 
-med första stycket tillämpar bestämmelserna i 4 kap. vid 
-granskningen av ett nytt konto och ett av de konton som avses 
-i första stycket är ett rapporteringspliktigt konto, ska 
-samtliga sådana konton som avses i första stycket anses vara 
-rapporteringspliktiga, om något annat inte anges i 2 kap. 20 
-§.
+1. kontohavaren hos det rapporteringsskyldiga finansiella 
+institutet eller hos en till detta närstående enhet i Sverige 
+även har ett eller flera befintliga konton,
+
+2. det nya och de befintliga kontonas saldon eller värden 
+räknas samman vid beräkning av saldo eller värde enligt 4–8 
+kap., 
+
+3. det rapporteringsskyldiga finansiella institutet uppfyller 
+kraven enligt lagen (2009:62) om åtgärder mot penningtvätt 
+och finansiering av terrorism avseende kontohavaren genom de 
+åtgärder som vidtagits avseende kontohavaren med anledning av 
+det eller de befintliga konton som avses i 1, och
+
+4. öppnandet av det nya kontot inte medför att kontohavaren 
+måste tillhandahålla nya, ytterligare eller ändrade 
+kunduppgifter av andra skäl än att det rapporteringsskyldiga 
+finansiella institutet ska uppfylla kraven enligt denna 
+lag.
+
+Om ett rapporteringsskyldigt finansiellt institut i 
+enlighet med första stycket tillämpar bestämmelserna i 4 kap. 
+vid granskningen av ett nytt konto och ett av de konton som 
+avses i första stycket är ett rapporteringspliktigt konto, 
+ska samtliga sådana konton som avses i första stycket anses 
+vara rapporteringspliktiga, om något annat inte anges i 2 
+kap. 20 §.
 
 Intyganden och annan dokumentation som det 
 rapporteringsskyldiga finansiella institutet inhämtar eller 
 har tillgång till enligt 4 kap. med avseende på ett sådant 
 konto som avses i första stycket, får användas vid 
 granskningen av samtliga sådana konton som avses i första 
-stycket.
+stycket. Lag (2017:190).
 
 6 kap. Granskning av befintliga finansiella konton som 
 innehas av enheter 
@@ -1258,6 +1339,7 @@ jurisdiktion har bestämmande inflytande.
 
 Förfarande för identifiering av rapporteringspliktiga 
 konton
+
 2 § För att utreda om en enhet har hemvist i en annan 
 stat eller jurisdiktion, ska det rapporteringsskyldiga 
 finansiella institutet granska den information som inhämtats 
@@ -1294,6 +1376,11 @@ att kontohavaren är
 investeringsenhet som avses i 2 kap. 9 § första stycket 2 i 
 en stat eller jurisdiktion som inte är en deltagande 
 jurisdiktion.
+
+Vid tillämpning av första stycket 2 ska ett finansiellt 
+instituts fasta driftställe i en annan stat eller 
+jurisdiktion anses vara ett finansiellt institut i den staten 
+eller jurisdiktionen. Lag (2017:190).
 
 4 § För att fastställa vilka personer som är personer med 
 bestämmande inflytande över en enhet, får det 
@@ -1405,6 +1492,11 @@ investeringsenhet som avses i 2 kap. 9 § första stycket 2 i
 en stat eller jurisdiktion som inte är en deltagande 
 jurisdiktion.
 
+Vid tillämpning av första stycket 2 ska ett finansiellt 
+instituts fasta driftställe i en annan stat eller 
+jurisdiktion anses vara ett finansiellt institut i den staten 
+eller jurisdiktionen. Lag (2017:190).
+
 4 § För att fastställa vilka personer som är personer med 
 bestämmande inflytande över en enhet, får det 
 rapporteringsskyldiga finansiella institutet förlita sig på 
@@ -1431,42 +1523,60 @@ det att granskningen enligt 1–4 §§ har genomförts får
 tillgång till ytterligare information som medför att det 
 finns skäl att anta att ett intygande eller annan 
 dokumentation med avseende på kontot är oriktig eller inte 
-tillförlitlig, ska enheten på nytt genomföra granskningen 
+tillförlitlig, ska institutet på nytt genomföra granskningen 
 enligt 1–4 §§. Om något annat inte anges i 2 kap. 20 § är 
 kontot ett rapporteringspliktigt konto om det därefter 
 fortfarande finns skäl att anta att intygande eller annan 
-dokumentation är oriktig eller otillförlitlig. 
+dokumentation är oriktig eller otillförlitlig.
 
 Om informationen i första stycket avser information för att 
 fastställa om en enhet är en passiv icke-finansiell enhet, 
 ska den anses vara en sådan enhet, om det 
 rapporteringsskyldiga finansiella institutet inte får ett 
 intygande eller annan dokumentation som tyder på att så inte 
-är fallet.
+är fallet. Lag (2017:190).
 
 Nya konton som får granskas som om de är befintliga konton
 
 6 § Ett rapporteringsskyldigt finansiellt institut får 
 tillämpa bestämmelserna i 6 kap. vid granskning av ett nytt 
 konto som innehas av en enhet i stället för bestämmelserna i 
-detta kapitel, om kontohavaren hos det rapporteringsskyldiga 
-finansiella institutet eller hos en till detta närstående 
-enhet även har ett eller flera befintliga konton.
+detta kapitel, om 
 
-Om ett rapporteringsskyldigt finansiellt institut i enlighet 
-med första stycket tillämpar bestämmelserna i 6 kap. vid 
-granskningen av ett nytt konto och ett av de konton som avses 
-i första stycket är ett rapporteringspliktigt konto, ska 
-samtliga sådana konton som avses i första stycket anses vara 
-rapporteringspliktiga, om något annat inte anges i 2 kap. 20 
-§.
+1. kontohavaren hos det rapporteringsskyldiga finansiella 
+institutet eller hos en till detta närstående enhet i Sverige 
+även har ett eller flera befintliga konton,
+
+2. det nya och de befintliga kontonas saldon eller värden 
+räknas samman vid beräkning av saldo eller värde enligt 4–8 
+kap.,
+
+3. det rapporteringsskyldiga finansiella institutet uppfyller 
+kraven enligt lagen (2009:62) om åtgärder mot penningtvätt 
+och finansiering av terrorism avseende kontohavaren genom de 
+åtgärder som vidtagits avseende kontohavaren med anledning av 
+det eller de befintliga konton som avses i 1, och
+
+4. öppnandet av det nya kontot inte medför att kontohavaren 
+måste tillhandahålla nya, ytterligare eller ändrade 
+kunduppgifter av andra skäl än att det rapporteringsskyldiga 
+finansiella institutet ska uppfylla kraven enligt denna 
+lag.
+
+Om ett rapporteringsskyldigt finansiellt institut i 
+enlighet med första stycket tillämpar bestämmelserna i 6 kap. 
+vid granskningen av ett nytt konto och ett av de konton som 
+avses i första stycket är ett rapporteringspliktigt konto, 
+ska samtliga sådana konton som avses i första stycket anses 
+vara rapporteringspliktiga, om något annat inte anges i 2 
+kap. 20 §.
 
 Intyganden och annan dokumentation som det 
 rapporteringsskyldiga finansiella institutet inhämtar eller 
 har tillgång till enligt 6 kap. 2–5 §§ med avseende på ett 
 sådant konto som avses i första stycket, får användas vid 
 granskningen av samtliga sådana konton som avses i första 
-stycket.
+stycket. Lag (2017:190).
 
 8 kap. Övriga bestämmelser
 
@@ -1535,21 +1645,21 @@ betrakta ett finansiellt konto som är en andel i ett
 gruppförsäkringsavtal med kontantvärde eller i ett 
 grupplivränteavtal som ett konto som inte är 
 rapporteringspliktigt fram till dess att ett belopp ska 
-betalas ut till försäkringstagaren eller förmånstagaren om 
-andelen uppfyller samtliga följande krav:
+betalas ut till den anställde eller försäkrade eller till 
+förmånstagaren om andelen uppfyller samtliga följande krav:
 
 1. Andelen är i ett gruppförsäkringsavtal med kontantvärde 
 eller i ett grupplivränteavtal som är ställt till en 
-arbetsgivare och täcker minst 25 försäkringstagare som är 
-anställda hos arbetsgivaren.
+arbetsgivare eller annan gruppföreträdare och täcker minst 25 
+anställda eller försäkrade.
 
-2. De anställda försäkringstagarna har rätt att erhålla 
-kontantvärdet som är kopplat till deras andel och att ange 
+2. De anställda eller försäkrade har rätt att erhålla 
+kontraktsvärdet som är kopplat till deras andel och att ange 
 förmånstagare för den förmån som ska betalas ut vid den 
-anställdes död.
+anställdes eller försäkrades död.
 
-3. Det sammanlagda belopp som ska betalas till den anställda 
-försäkringstagaren eller förmånstagaren med anledning av 
+3. Det sammanlagda belopp som ska betalas till den anställde 
+eller försäkrade eller till förmånstagaren med anledning av 
 andelen överstiger inte 1 000 000 US-dollar.
 
 Vid tillämpning av första stycket avses med 
@@ -1569,7 +1679,7 @@ Vid tillämpning av första stycket avses med
 grupplivränteavtal ett livränteavtal i vilket 
 rättighetsinnehavarna är fysiska personer som är anslutna 
 genom en arbetsgivare, branschorganisation, fackförening 
-eller annan förening eller grupp.
+eller annan förening eller grupp. Lag (2017:190).
 
 Befintliga konton får granskas som om de är nya konton och 
 lågvärdekonton får granskas som om de är högvärdekonton
@@ -1719,5 +1829,20 @@ rapporteringsskyldigt finansiellt institut enligt 2 kap. 21 §.
 
 1. Denna lag träder i kraft den 1 mars 2016.
 
-2. Bestämmelserna i 2 kap. 11 § tredje stycket tillämpas 
+2. Bestämmelserna i 2 kap. 11 § fjärde stycket tillämpas 
 första gången i fråga om kalenderåret 2016.
+Lag (2017:190).
+
+2017:190
+
+1. Denna lag träder i kraft den 1 april 2017. 
+
+2. Bestämmelserna i de nya 2 kap. 18 a, 21 a och 21 b §§ och 
+3 kap. 11 § samt i 1 kap. 2 §, 2 kap. 1 och 22 §§, 3 kap. 1 
+och 2 §§, 6 kap. 3 §, 7 kap. 3 och 5 §§ och 8 kap. 5 § i den 
+nya lydelsen tillämpas första gången i fråga om uppgifter som 
+avser kalenderåret 2016. 
+
+3. Bestämmelserna i 5 kap. 5 § och 7 kap. 6 § i den nya 
+lydelsen tillämpas första gången i fråga om uppgifter som 
+avser kalenderåret 2017.
