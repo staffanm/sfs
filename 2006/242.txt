@@ -64,11 +64,11 @@ Förordning (2009:1473).
 
 Debitering och återbetalning av fordonsskatt
 
-6 § Skatteår, skatteperioder och betalningsmånader för fordonen
-bestäms efter slutsiffran i fordonets registreringsnummer
+6 § Skatteår, skatteperioder och betalningsmånader för fordonen 
+bestäms efter sista siffran i fordonets registreringsnummer 
 enligt följande uppställning.
 
-Slutsiffra      Skatteår/       Fordonsskatt            Betalningsmånad
+Sista siffra    Skatteår/       Fordonsskatt            Betalningsmånad
                 skatteperioder
 
 1               skatteår:       maj-april               april
@@ -120,6 +120,7 @@ Slutsiffra      Skatteår/       Fordonsskatt            Betalningsmånad
                 skatteperioder: april-juli              mars
                                 augusti-november        juli
                                 december-mars           november
+Förordning (2017:99).
 
 7 § Fordonsskatt skall debiteras för ett skatteår eller en
 skatteperiod, om inte något annat följer av 2 kap. 18 §, 5 kap.
