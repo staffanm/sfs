@@ -2,13 +2,23 @@
 
 Lagens tillämpningsområde
 
-1 § I denna lag finns bestämmelser om betaltjänster som
-tillhandahålls i Sverige och utförs inom det Europeiska
-ekonomiska samarbetsområdet (EES) i euro eller i någon annan
+1 § I denna lag finns bestämmelser om betaltjänster som 
+tillhandahålls i Sverige och utförs inom det Europeiska 
+ekonomiska samarbetsområdet (EES) i euro eller i någon annan 
 av EES-ländernas valutor.
 
-I denna lag finns också bestämmelser om betalningsinstitut och
-registrerade betaltjänstleverantörer.
+I denna lag finns också bestämmelser om betalningsinstitut 
+och registrerade betaltjänstleverantörer.
+
+I 4 a kap. finns bestämmelser om
+
+1. avgifter för betalkonto,
+
+2. byte av betalkonto, och 
+
+3. kreditinstituts skyldighet att tillhandahålla betalkonto 
+med grundläggande funktioner till en konsument. 
+Lag (2017:342).
 
 Definitioner
 
@@ -82,117 +92,129 @@ Lag (2011:775).
 
 4 § I denna lag betyder
 
-1. autogiro: en betaltjänst för debitering av en betalares
-betalkonto, där initiativet till en betalningstransaktion tas
-av betalningsmottagaren på grundval av betalarens samtycke
-till mottagaren, mottagarens betaltjänstleverantör eller
+autogiro: en betaltjänst för debitering av en betalares 
+betalkonto, där initiativet till en betalningstransaktion tas 
+av betalningsmottagaren på grundval av betalarens samtycke 
+till mottagaren, mottagarens betaltjänstleverantör eller 
 betalarens egen betaltjänstleverantör,
 
-2. bankdag: en dag på vilken en betaltjänstleverantör har
-öppet för verksamhet i den utsträckning som krävs för
-genomförande av en betalningstransaktion,
+bankdag: en dag på vilken en betaltjänstleverantör har öppet 
+för verksamhet i den utsträckning som krävs för genomförande 
+av en betalningstransaktion,
 
-3. betalare: en fysisk eller juridisk person som är antingen
-betalkontoinnehavare och som godkänner en betalningsorder
-från detta betalkonto, eller en fysisk eller juridisk person
+betalare: en fysisk eller juridisk person som är antingen 
+betalkontoinnehavare och som godkänner en betalningsorder 
+från detta betalkonto, eller en fysisk eller juridisk person 
 som lämnar en betalningsorder,
 
-4. betalkonto: ett konto som innehas i en eller flera
-betaltjänstanvändares namn och som är avsett för
+betalkonto: ett konto som innehas i en eller flera 
+betaltjänstanvändares namn och som är avsett för 
 genomförandet av betalningstransaktioner,
 
-5. betalningsinstitut: ett aktiebolag eller en ekonomisk
-förening som har fått tillstånd att tillhandahålla
+betalkontodirektivet: Europaparlamentets och rådets direktiv 
+2014/92/EU av den 23 juli 2014 om jämförbarhet för avgifter 
+som avser betalkonto, byte av betalkonto och tillgång till 
+betalkonto med grundläggande funktioner, i den ursprungliga 
+lydelsen,
+
+betalningsinstitut: ett aktiebolag eller en ekonomisk 
+förening som har fått tillstånd att tillhandahålla 
 betaltjänster enligt 2 kap.,
 
-6. betalningsinstrument: ett kontokort eller något annat
-personligt instrument eller en personlig rutin som används
+betalningsinstrument: ett kontokort eller något annat 
+personligt instrument eller en personlig rutin som används 
 för att initiera en betalningsorder,
 
-7. betalningsmottagare: en fysisk eller juridisk person som
-är den avsedda mottagaren av medel vid en
+betalningsmottagare: en fysisk eller juridisk person som är 
+den avsedda mottagaren av medel vid en 
 betalningstransaktion,
 
-8. betalningsorder: varje instruktion som en betalare eller
-betalningsmottagare ger sin betaltjänstleverantör om att en
+betalningsorder: varje instruktion som en betalare eller 
+betalningsmottagare ger sin betaltjänstleverantör om att en 
 betalningstransaktion ska genomföras,
 
-9. betalningssystem: ett generellt betalsystem enligt 1 kap.
-3 § andra stycket lagen (2004:297) om bank- och
+betalningssystem: ett generellt betalsystem enligt 1 kap. 3 § 
+andra stycket lagen (2004:297) om bank- och 
 finansieringsrörelse,
 
-10. betalningstransaktion: insättning, uttag eller överföring
-av medel som initieras av betalaren eller
-betalningsmottagaren, oberoende av eventuella underliggande
-förpliktelser mellan betalaren och betalningsmottagaren,
+betalningstransaktion: insättning, uttag eller överföring av 
+medel som initieras av betalaren eller betalningsmottagaren, 
+oberoende av eventuella underliggande förpliktelser mellan 
+betalaren och betalningsmottagaren,
 
-11. betaltjänstanvändare: en fysisk eller juridisk person som
+betaltjänstanvändare: en fysisk eller juridisk person som 
 utnyttjar en betaltjänst,
 
-12. debitera: att medel dras från ett konto,
+debitera: att medel dras från ett konto,
 
-13. filial: ett avdelningskontor med självständig
-förvaltning, varvid även ett utländskt betalningsinstituts
-etablering av flera driftställen ska anses som en enda
-filial,
+filial: ett avdelningskontor med självständig förvaltning, 
+varvid även ett utländskt betalningsinstituts etablering av 
+flera driftställen ska anses som en enda filial,
 
-14. grupp: detsamma som i 1 kap. 7 § lagen (2006:531) om
-särskild tillsyn över finansiella konglomerat,
+grupp: detsamma som i 1 kap. 7 § lagen (2006:531) om särskild 
+tillsyn över finansiella konglomerat,
 
-15. hemland: det land där ett företag har fått tillstånd att
+hemland: det land där ett företag har fått tillstånd att 
 driva sådan verksamhet som avses i denna lag,
 
-16. konsument: en fysisk person som handlar huvudsakligen för
+konsument: en fysisk person som handlar huvudsakligen för 
 ändamål som faller utanför näringsverksamhet,
 
-17. kreditera: att medel tillförs ett konto,
+kreditera: att medel tillförs ett konto,
 
-18. kvalificerat innehav: detsamma som i 1 kap. 5 § 15 lagen
-om bank- och finansieringsrörelse,
+kvalificerat innehav: detsamma som i 1 kap. 5 § 15 lagen om 
+bank- och finansieringsrörelse,
 
-19. medel: sedlar och mynt, kontotillgodohavanden samt
-elektroniska pengar enligt lagen (2011:755) om elektroniska
+lagligen bosatt inom EES: en fysisk person som har rätt att 
+bosätta sig inom EES i enlighet med unionsrätten eller 
+nationell rätt, inbegripet personer utan fast adress och 
+personer som söker asyl inom ramen för Genèvekonventionen av 
+den 28 juli 1951 angående flyktingars rättsliga ställning, 
+protokollet till denna av den 31 januari 1967 och andra 
+relevanta internationella fördrag,
+
+medel: sedlar och mynt, kontotillgodohavanden samt 
+elektroniska pengar enligt lagen (2011:755) om elektroniska 
 pengar,
 
-20. penningöverföring: en betaltjänst där medel tas emot från
-en betalare, utan att något betalkonto öppnas i betalarens
-eller betalningsmottagarens namn, uteslutande i syfte att
-överföra motsvarande belopp till en mottagare eller en annan
-betaltjänstleverantör som agerar på mottagarens vägnar, eller
-där dessa medel tas emot på mottagarens vägnar och ställs
+penningöverföring: en betaltjänst där medel tas emot från en 
+betalare, utan att något betalkonto öppnas i betalarens eller 
+betalningsmottagarens namn, uteslutande i syfte att överföra 
+motsvarande belopp till en mottagare eller en annan 
+betaltjänstleverantör som agerar på mottagarens vägnar, eller 
+där dessa medel tas emot på mottagarens vägnar och ställs 
 till mottagarens förfogande,
 
-21. ramavtal: ett avtal om betaltjänster som reglerar
-genomförandet av kommande enskilda och successiva
-betalningstransaktioner och som kan innehålla skyldigheter
+ramavtal: ett avtal om betaltjänster som reglerar 
+genomförandet av kommande enskilda och successiva 
+betalningstransaktioner och som kan innehålla skyldigheter 
 och villkor för att öppna ett betalkonto,
 
-22. referensväxelkurs: den växelkurs som ligger till grund
-för beräkningen av eventuell valutaväxling och görs
-tillgänglig av betaltjänstleverantören eller härrör från en
-offentligt tillgänglig källa,
+referensväxelkurs: den växelkurs som ligger till grund för 
+beräkningen av eventuell valutaväxling och görs tillgänglig 
+av betaltjänstleverantören eller härrör från en offentligt 
+tillgänglig källa,
 
-23. referensräntesats: den räntesats som ligger till grund
-för beräkningen av eventuell tillämplig ränta och som härrör
-från en offentligt tillgänglig källa som kan kontrolleras av
-båda parterna i ett avtal om betaltjänster,
+referensräntesats: den räntesats som ligger till grund för 
+beräkningen av eventuell tillämplig ränta och som härrör från 
+en offentligt tillgänglig källa som kan kontrolleras av båda 
+parterna i ett avtal om betaltjänster,
 
-24. registrerad betaltjänstleverantör: en
-betaltjänstleverantör som undantagits från krav på tillstånd
-enligt 2 kap. 3 §,
+registrerad betaltjänstleverantör: en betaltjänstleverantör 
+som undantagits från krav på tillstånd enligt 2 kap. 3 §,
 
-25. startkapital: detsamma som i 1 kap. 5 § 18 lagen om bank-
-och finansieringsrörelse,
+startkapital: detsamma som i 1 kap. 5 § 18 lagen om bank- och 
+finansieringsrörelse,
 
-26. unik identifikationskod: en kombination av bokstäver,
-siffror eller symboler som tillhandahållits av en
-betaltjänstleverantör, och som en betaltjänstanvändare ska
-uppge för att otvetydigt identifiera en annan
+unik identifikationskod: en kombination av bokstäver, siffror 
+eller symboler som tillhandahållits av en 
+betaltjänstleverantör, och som en betaltjänstanvändare ska 
+uppge för att otvetydigt identifiera en annan 
 betaltjänstanvändare eller dennes betalkonto,
 
-27. valuteringsdag: den referenstidpunkt som används av en
-betaltjänstleverantör för att beräkna räntan på de medel som
-debiterats eller krediterats ett betalkonto. Lag (2015:188).
+valuteringsdag: den referenstidpunkt som används av en 
+betaltjänstleverantör för att beräkna räntan på de medel som 
+debiterats eller krediterats ett betalkonto. Lag (2017:342).
 
 5 § Ett betalningsinstitut och ett annat företag ska anses ha
 nära förbindelser, om
@@ -1094,7 +1116,7 @@ transaktionen.
 
 Information till betalningsmottagaren
 
-8 §   Så snart som möjligt efter det att
+8 § Så snart som möjligt efter det att
 betalningstransaktionen har genomförts ska
 betalningsmottagarens betaltjänstleverantör tillhandahålla
 mottagaren följande information:
@@ -1217,8 +1239,8 @@ leverantören om att användaren inte godkänner dem,
 
 24. avtalets löptid,
 
-25. om uppsägningstider och avgifter för uppsägning enligt 14
-§ tredje stycket eller 15 §,
+25. om uppsägningstider och avgifter för uppsägning enligt 14 § 
+tredje stycket eller 15 §,
 
 26. eventuella avtalsbestämmelser om vilket lands lag som ska
 tillämpas för ramavtalet och om vilken domstol som är behörig,
@@ -1450,6 +1472,180 @@ nackdel för en betaltjänstanvändare.
 Första stycket hindrar dock inte att en betaltjänstleverantör
 kommer överens med en betaltjänstanvändare som inte är
 konsument om avvikelser från bestämmelserna.
+
+4 a kap. Betalkonto
+
+Skyldighet att tillhandahålla betalkonto med grundläggande 
+funktioner
+
+1 § Ett kreditinstitut enligt lagen (2004:297) om bank- och 
+finansieringsrörelse får inte vägra en konsument som är 
+lagligen bosatt inom EES att öppna ett betalkonto med sådana 
+grundläggande funktioner enligt 2 § som institutet 
+tillhandahåller andra konsumenter.
+
+Första stycket gäller inte om det skulle strida mot lagen 
+(2009:62) om åtgärder mot penningtvätt och finansiering av 
+terrorism eller om det finns särskilda skäl mot att 
+tillhandahålla konsumenten ett betalkonto. Lag (2017:342).
+
+Grundläggande funktioner
+
+2 § Med grundläggande funktioner avses
+
+1. tjänster som krävs för att öppna, inneha och avsluta ett 
+betalkonto,
+
+2. tjänster som gör det möjligt att sätta in medel på ett 
+betalkonto,
+
+3. tjänster som gör det möjligt att inom EES över disk eller 
+i uttagsautomater ta ut kontanter från ett betalkonto, och
+
+4. utförande av följande betalningstransaktioner inom EES:
+
+a) autogirering,
+
+b) betalningar genom ett debetkort, inbegripet betalningar 
+online, samt
+
+c) betalningar, inbegripet stående överföringar, vid 
+terminaler, över disk och via kreditinstitutets 
+onlinetjänster. Lag (2017:342).
+
+Behandlingen av en ansökan om betalkonto med grundläggande 
+funktioner
+
+3 § Ett kreditinstitut ska behandla en ansökan från en 
+konsument om betalkonto med grundläggande funktioner 
+skyndsamt. Kreditinstitutet ska avgöra ärendet så snart som 
+möjligt och senast inom tio bankdagar efter det att 
+institutet tagit emot en fullständig ansökan.
+
+Om kreditinstitutet avslår en ansökan, ska det omedelbart 
+underrätta konsumenten om beslutet och lämna information om 
+vart han eller hon kan vända sig för att framföra klagomål 
+eller få beslutet rättsligt prövat. Underrättelsen ska vara 
+skriftlig och utan kostnad för konsumenten. Om det är 
+möjligt, ska skälen för beslutet framgå av underrättelsen.
+Lag (2017:342).
+
+Avgifter för betalkonto med grundläggande funktioner
+
+4 § Ett kreditinstitut får ta ut rimliga avgifter från en 
+konsument för att tillhandahålla ett betalkonto med 
+grundläggande funktioner. Lag (2017:342).
+
+Information om tjänster och avgifter
+
+5 § /Träder i kraft I:den dag regeringen bestämmer/
+En betaltjänstleverantör ska i rimlig tid innan den ingår 
+ett avtal om betalkonto ge konsumenten en förteckning över de 
+mest representativa tjänsterna som är knutna till betalkonton 
+i Sverige och, i den utsträckning betaltjänstleverantören 
+tillhandahåller dessa tjänster, informera konsumenten om 
+avgifterna för dem. Informationen ska lämnas i pappersform 
+eller på annat varaktigt medium.
+
+Betaltjänstleverantören ska också hålla förteckningen och en 
+ordlista som minst omfattar de begrepp som fastställts i 
+förteckningen tillgängliga för konsumenten.
+
+Betaltjänstleverantören ska, utöver de informationskrav som 
+följer av 4 kap. minst en gång per år ge konsumenten 
+kostnadsfri information om aktuella avgifter och räntesatser 
+för de tjänster som är knutna till betalkontot. 
+Betaltjänstleverantören och konsumenten ska komma överens om 
+på vilket sätt avgifterna ska redovisas. Redovisningen ska 
+lämnas i pappersform om konsumenten begär det. Lag (2017:342).
+
+Byte av betalkonto
+
+6 § En betaltjänstleverantör ska ha rutiner för en konsuments 
+byte av betalkonto i samma valuta mellan 
+betaltjänstleverantören och en annan betaltjänstleverantör i 
+Sverige. Rutinerna ska säkerställa att ett sådant byte kan 
+genomföras snabbt och utan onödiga olägenheter för 
+konsumenten.
+
+Den betaltjänstleverantör som konsumenten vill öppna ett 
+betalkonto hos ska på begäran av konsumenten kontakta den 
+betaltjänstleverantör som konsumenten har ett betalkonto hos 
+och se till att bytet genomförs. Bytet ska vara genomfört 
+inom den tidsram som anges i artikel 10 i 
+betalkontodirektivet. 
+
+Om en konsument meddelar sin betaltjänstleverantör att han 
+eller hon vill öppna ett betalkonto i ett annat land inom 
+EES, ska betaltjänstleverantören bistå med viss information, 
+överföring av medel och stängning av betalkontot. Detta ska 
+ske inom den tidsram som anges i artikel 11 i 
+betalkontodirektivet. Lag (2017:342).
+
+7 § Avgifter, utöver de som avses i 4 kap. 15 §, som en 
+betaltjänstleverantör tar ut av en konsument i samband med 
+byte av betalkonto, ska vara rimliga och i linje med 
+betaltjänstleverantörens faktiska kostnader. Lag (2017:342).
+
+8 § En betaltjänstleverantör ska ersätta en konsument för ren 
+förmögenhetsskada som uppstår som en direkt följd av att 
+betaltjänstleverantören inte har fullgjort sina skyldigheter 
+enligt 6 §.
+
+Ansvar enligt första stycket inträder inte i fall av 
+osedvanliga eller oförutsägbara omständigheter som den som 
+åberopar omständigheterna inte har något inflytande över och 
+vars konsekvenser hade varit omöjliga att avvärja trots alla 
+ansträngningar. Ansvar inträder inte heller då en 
+betaltjänstleverantör handlar i enlighet med svensk lag eller 
+unionsrätt. Lag (2017:342).
+
+Uppsägning av ett avtal om betalkonto med grundläggande 
+funktioner
+
+9 § Ett kreditinstitut får säga upp ett avtal om betalkonto 
+med grundläggande funktioner bara om
+
+1. konsumenten avsiktligt har använt betalkontot för olagliga 
+ändamål, 
+
+2. det inte har förekommit några transaktioner på betalkontot 
+under de senaste 24 månaderna, 
+
+3. konsumenten har lämnat felaktiga uppgifter när betalkontot 
+öppnades, och korrekta uppgifter skulle ha lett till att han 
+eller hon inte hade fått öppna ett sådant konto, eller
+
+4. det finns särskilda skäl.
+
+Om ett kreditinstitut beslutar att säga upp ett avtal om 
+betalkonto med grundläggande funktioner, ska institutet 
+underrätta konsumenten om detta och om vart han eller hon kan 
+vända sig för att framföra klagomål eller få beslutet 
+rättsligt prövat. Underrättelsen ska vara skriftlig och utan 
+kostnad för konsumenten. Om det är möjligt, ska skälen för 
+uppsägningen framgå av underrättelsen.
+
+Om kreditinstitutet säger upp avtalet med stöd av första 
+stycket 2 eller 4, ska institutet underrätta konsumenten 
+minst två månader innan uppsägningen träder i kraft. En 
+uppsägning med stöd av första stycket 1 eller 3 får omedelbar 
+verkan. Lag (2017:342).
+
+Bemyndiganden
+
+10 § Regeringen eller den myndighet som regeringen bestämmer 
+får meddela föreskrifter om
+
+1. den information och redovisning som en 
+betaltjänstleverantör ska lämna eller hålla tillgänglig 
+enligt 5 §, 
+
+2. rutiner för byte av betalkonto enligt 6 §, och
+
+3. vilka uppgifter om betalkonton med grundläggande 
+funktioner som en betaltjänstleverantör ska lämna till 
+Finansinspektionen. Lag (2017:342).
 
 5 kap. Genomförande av betaltjänster
 
@@ -2167,6 +2363,12 @@ kontroll på plats av en filial eller ombud till ett
 betalningsinstitut som står under dess tillsyn till en behörig
 myndighet i ett annat land inom EES.
 
+4 a § Finansinspektionen får hänskjuta frågor som rör 
+samarbete mellan behöriga myndigheter, särskilt om 
+informationsutbyte, till Europeiska bankmyndigheten för 
+tvistlösning i enlighet med artikel 23 i 
+betalkontodirektivet. Lag (2017:342).
+
 Register över betalningsinstitut och registrerade
 betaltjänstleverantörer
 
@@ -2541,3 +2743,8 @@ genomföras utan att meddelas denne i förväg. Om
 betaltjänstanvändaren inte godkänner de föreslagna ändringarna
 ska användaren meddela leverantören detta före det datum då
 ändringen föreslås träda i kraft.
+
+2017:342
+
+Denna lag träder i kraft den dag som regeringen bestämmer i 
+fråga om 4 a kap. 5 § och i övrigt den 1 juni 2017.
