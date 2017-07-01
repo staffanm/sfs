@@ -26,32 +26,37 @@ Definitioner
 
 2 § I denna lag betyder
 
-1. företag: en fysisk eller juridisk person som är
+1. företag: en fysisk eller juridisk person som är 
 bokföringsskyldig enligt denna lag,
 
-2. verksamhet: näringsverksamhet eller annan verksamhet som
+2. verksamhet: näringsverksamhet eller annan verksamhet som 
 omfattas av bokföringsskyldighet enligt denna lag,
 
-3. moderföretag: företag som utgör moderföretag enligt
+3. moderföretag: företag som utgör moderföretag enligt 
 definitionen i 1 kap. 4 § årsredovisningslagen (1995:1554),
 
-4. koncern: vad som utgör koncern enligt definitionen i 1 kap.
-4 § årsredovisningslagen,
+4. koncern: vad som utgör koncern enligt definitionen i 1 
+kap. 4 § årsredovisningslagen,
 
-5. bokföringspost: varje enskild notering i grundbokföringen
+5. filial: ett sådant avdelningskontor med självständig 
+förvaltning som omfattas av lagen (1992:160) om utländska 
+filialer m.m. eller ett kontor som tillhör en europeisk 
+ekonomisk intressegruppering med säte utomlands,
+
+6. bokföringspost: varje enskild notering i grundbokföringen 
 eller huvudbokföringen,
 
-6. affärshändelser: alla förändringar i storleken och
-sammansättningen av ett företags förmögenhet som beror på
-företagets ekonomiska relationer med omvärlden, såsom in- och
-utbetalningar, uppkomna fordringar och skulder samt egna
-tillskott till och uttag ur verksamheten av pengar, varor eller
-annat,
+7. affärshändelser: alla förändringar i storleken och 
+sammansättningen av ett företags förmögenhet som beror på 
+företagets ekonomiska relationer med omvärlden, såsom in- och 
+utbetalningar, uppkomna fordringar och skulder samt egna 
+tillskott till och uttag ur verksamheten av pengar, varor 
+eller annat,
 
-7. verifikation: de uppgifter som dokumenterar en
+8. verifikation: de uppgifter som dokumenterar en 
 affärshändelse eller en vidtagen justering i bokföringen,
 
-8. räkenskapsinformation:
+9. räkenskapsinformation:
 
 a) sådana sammanställningar av uppgifter som avses i
 
@@ -63,10 +68,11 @@ a) sådana sammanställningar av uppgifter som avses i
 
 – 5 kap. 6 § (verifikation),
 
-– 5 kap. 7 § (handling m.m. som en verifikation hänvisar till),
+– 5 kap. 7 § (handling m.m. som en verifikation hänvisar 
+till),
 
-– 5 kap. 11 § (systemdokumentation och behandlingshistorik),
-
+– 5 kap. 11 § (systemdokumentation och 
+behandlingshistorik),
 – 6 kap. 2 § (årsredovisning),
 
 – 6 kap. 4 och 5 §§ (årsbokslut),
@@ -75,22 +81,22 @@ a) sådana sammanställningar av uppgifter som avses i
 
 – 6 kap. 8 § (specifikation av balansräkningspost),
 
-b) avtal och andra handlingar av särskild betydelse för att
+b) avtal och andra handlingar av särskild betydelse för att 
 belysa verksamhetens ekonomiska förhållanden, samt
 
-c) sådana uppgifter i övrigt som är av betydelse för att det
-ska gå att följa och förstå de enskilda bokföringsposternas
+c) sådana uppgifter i övrigt som är av betydelse för att det 
+ska gå att följa och förstå de enskilda bokföringsposternas 
 behandling i bokföringen,
 
-9. nettoomsättning: intäkter från sålda varor och utförda
-tjänster som ingår i företagets normala verksamhet med avdrag
-för lämnade rabatter, mervärdesskatt och annan skatt som är
+10. nettoomsättning: intäkter från sålda varor och utförda 
+tjänster som ingår i företagets normala verksamhet med avdrag 
+för lämnade rabatter, mervärdesskatt och annan skatt som är 
 direkt knuten till omsättningen.
 
-Företag som avses i 2 kap. 2 § första stycket och 3 § ska vid
-tillämpningen av bestämmelser i denna lag som hänför sig till
-nettoomsättning, till nettoomsättningen lägga bidrag, gåvor,
-medlemsavgifter och andra liknande intäkter. Lag (2010:1514).
+Företag som avses i 2 kap. 2 § första stycket och 3 § ska vid 
+tillämpningen av bestämmelser i denna lag som hänför sig till 
+nettoomsättning, till nettoomsättningen lägga bidrag, gåvor, 
+medlemsavgifter och andra liknande intäkter. Lag (2017:437).
 
 3 § Vad som sägs i denna lag om juridiska personer tillämpas
 inte på dödsbon. I fråga om dödsbon gäller i stället vad som
@@ -215,9 +221,6 @@ regionförbunden,
 3. stiftelser vars tillgångar enligt stiftelseförordnandet får
 användas endast till förmån för bestämda fysiska personer.
 
-
-
-
 När fysiska personer är bokföringsskyldiga
 
 6 § En fysisk person som bedriver näringsverksamhet är
@@ -230,12 +233,29 @@ näringsverksamhet. Ägande eller brukande av en sådan
 näringsfastighet som avses i 2 kap. 14 § nämnda lag skall
 alltid anses som näringsverksamhet. Lag (1999:1304).
 
-Bokföringsskyldighet för utländska filialer m.m.
+När utländska juridiska personer och utomlands bosatta 
+fysiska personer är bokföringsskyldiga
 
-7 § I lagen (1992:160) om utländska filialer m.m. finns
-bestämmelser om bokföringsskyldighet för näringsverksamhet som
-bedrivs i Sverige av utländska företag och utomlands bosatta
-svenska eller utländska medborgare.
+7 § En utländsk juridisk person som ska bedriva sin 
+näringsverksamhet i Sverige genom en filial är 
+bokföringsskyldig för verksamheten.
+
+En utomlands bosatt fysisk person som bedriver 
+näringsverksamhet i Sverige är bokföringsskyldig för 
+verksamheten. Det som sägs i 6 § andra stycket om förfogandet 
+över vissa fastigheter gäller även i fråga om sådana 
+personer. Lag (2017:437).
+
+8 § Utländska försäkringsgivare och utländska 
+tjänstepensionsinstitut som bedriver verksamhet som avser 
+skadeförsäkring eller återförsäkring av skadeförsäkring genom 
+en sådan generalagent eller generalrepresentation som avses i 
+1 kap. 9 eller 12 § lagen (1998:293) om utländska 
+försäkringsgivares och tjänstepensionsinstituts verksamhet i 
+Sverige, är bokföringsskyldiga för verksamheten under 
+förutsättning att verksamheten bedrivs från ett sådant fast 
+driftställe som avses i 2 kap. 29 § inkomstskattelagen 
+(1999:1229). Lag (2017:437).
 
 3 kap. Räkenskapsår
 
@@ -381,24 +401,47 @@ ha gemensam bokföring, om de förvaltas tillsammans.
 
 Redovisningsvaluta
 
-6 § Affärshändelserna ska kunna presenteras i en och samma
-redovisningsvaluta. Redovisningsvalutan ska vara svenska
-kronor. I aktiebolag, ekonomiska föreningar, sparbanker,
-medlemsbanker och försäkringsföretag får dock
+6 § Affärshändelserna ska kunna presenteras i en och samma 
+redovisningsvaluta. Redovisningsvalutan ska vara svenska 
+kronor. I aktiebolag, ekonomiska föreningar, sparbanker, 
+medlemsbanker och försäkringsföretag får dock 
 redovisningsvalutan i stället vara euro.
 
-Byte av redovisningsvaluta får ske endast vid ingången av ett
-nytt räkenskapsår. Bestämmelser om omräkning i samband med byte
-av redovisningsvaluta finns i årsredovisningslagen (1995:1554).
+Byte av redovisningsvaluta får ske endast vid ingången av ett 
+nytt räkenskapsår. Bestämmelser om omräkning i samband med 
+byte av redovisningsvaluta finns i årsredovisningslagen 
+(1995:1554).
 
-Har företaget bytt redovisningsvaluta, får ett nytt byte göras
-endast om Skatteverket tillåter det. Tillstånd får vägras
-endast om det finns anledning anta att bytet har ett
-otillbörligt syfte.
+Om företaget har bytt redovisningsvaluta, får ett nytt byte 
+göras endast om Skatteverket tillåter det. Tillstånd får 
+vägras endast om det finns anledning att anta att bytet har 
+ett otillbörligt syfte.
 
-Trots bestämmelserna i första–tredje styckena får en filial i
-annat land ha sin redovisning i en valuta som i det landet
-godtas som redovisningsvaluta. Lag (2010:2064).
+Trots första–tredje styckena får ett avdelningskontor som är 
+beläget utomlands och som har självständig förvaltning ha sin 
+redovisning i en valuta som i det andra landet godtas som 
+redovisningsvaluta. Lag (2017:437).
+
+Utländska företags verksamhet i Sverige
+
+7 § Bokföringsskyldighetens innebörd är densamma för en 
+filial som för ett svenskt företag av motsvarande slag.
+
+Filialen ska ha en egen bokföring som är skild från det 
+utländska företagets bokföring i övrigt. Lag (2017:437).
+
+8 § Bestämmelserna i 7 § ska tillämpas även på 
+försäkringsverksamhet som omfattas av 2 kap. 8 §.
+
+Ett skadeförsäkringsföretag som bedriver sin verksamhet genom 
+generalrepresentation ska anses utgöra en självständig filial 
+i förhållande till ett annat skadeförsäkringsföretag som 
+bedriver verksamhet genom samma generalrepresentation.
+Lag (2017:437).
+
+9 § Näringsverksamhet som bedrivs i Sverige av en utomlands 
+bosatt fysisk person ska ha en egen bokföring som är skild 
+från den fysiska personens bokföring i övrigt. Lag (2017:437).
 
 5 kap. Löpande bokföring och verifikationer
 
@@ -625,6 +668,59 @@ miljoner kronor och som inte är skyldigt att upprätta
 årsredovisning enligt 1 § får upprätta årsbokslutet i förenklad
 form enligt 6 §. Lag (2010:1514).
 
+3 a § Skyldigheten enligt 1 § att upprätta en årsredovisning 
+gäller inte för en filial, om det utländska företaget lyder 
+under lagstiftningen i en stat inom Europeiska ekonomiska 
+samarbetsområdet och
+
+1. har en rättslig form som är jämförbar med aktiebolaget,
+
+2. är ett kreditinstitut, betalningsinstitut eller 
+värdepappersbolag av motsvarande slag som de företag som 
+omfattas av lagen (1995:1559) om årsredovisning i 
+kreditinstitut och värdepappersbolag,
+
+3. är ett försäkringsföretag av motsvarande slag som de 
+företag som omfattas av lagen (1995:1560) om årsredovisning i 
+försäkringsföretag, eller
+
+4. är ett europakooperativ.
+
+Om filialen till följd av första stycket inte upprättar någon 
+årsredovisning, ska den i stället upprätta ett årsbokslut. 
+För årsbokslutet tillämpas
+
+1. i en filial till ett företag som avses i första stycket 1 
+eller 4 och som inte är ett sådant företag som avses i samma 
+stycke 2 eller 3, bestämmelserna i 4, 5, 7 och 8 §§, 
+
+2. i en filial till ett företag som avses i första stycket 2, 
+bestämmelserna i 2 kap. 2 § och 3–5 kap. lagen om 
+årsredovisning i kreditinstitut och värdepappersbolag, med 
+undantag för hänvisningen till 3 kap. 5 § 
+årsredovisningslagen (1995:1554), och 
+
+3. i en filial till ett företag som avses i första stycket 3, 
+bestämmelserna i 2 kap. 2 § och 3–5 kap. lagen om 
+årsredovisning i försäkringsföretag, med undantag för 
+hänvisningen till 3 kap. 5 § årsredovisningslagen.
+Lag (2017:437).
+
+3 b § Bestämmelserna i 3 a § ska tillämpas även på 
+försäkringsverksamhet som omfattas av 2 kap. 8 §.
+
+Ett skadeförsäkringsföretag som bedriver sin verksamhet genom 
+generalrepresentation ska anses utgöra en självständig filial 
+i förhållande till ett annat skadeförsäkringsföretag som 
+bedriver verksamhet genom samma generalrepresentation.
+
+När bestämmelserna om årsbokslut i 3 a § andra stycket 3 
+tillämpas, gäller inte de föreskrivna begränsningarna i 
+första stycket i den paragrafen till företag som lyder under 
+lagstiftningen i en stat inom Europeiska ekonomiska 
+samarbetsområdet och till vissa slag av försäkringsföretag.
+Lag (2017:437).
+
 Årsbokslut
 
 4 § Ett årsbokslut ska bestå av en resultaträkning och en 
@@ -834,13 +930,15 @@ Tillstånd enligt första stycket ges av Finansinspektionen när
 det gäller företag som står under inspektionens tillsyn.
 Lag (2003:1135).
 
-Förvaring av dokument m.m. som hör till en filial utomlands
+Förvaring av dokument m.m. som hör till en verksamhet 
+utomlands
 
-5 § Bestämmelserna i 2 § om förvaring i Sverige gäller inte
-dokument, mikroskrift, maskinläsbara medier, utrustning och
-system som avser verksamhet som företaget bedriver genom en
-filial utomlands, om företaget är bokföringsskyldigt i det
-landet.
+5 § Bestämmelserna i 2 § om förvaring i Sverige gäller inte 
+dokument, mikroskrift, maskinläsbara medier, utrustning och 
+system som avser verksamhet som företaget bedriver genom ett 
+avdelningskontor som är beläget utomlands och som har 
+självständig förvaltning, om företaget är bokföringsskyldigt 
+i det andra landet. Lag (2017:437).
 
 Överföring av räkenskapsinformation
 
@@ -870,7 +968,7 @@ förrän tidigast fem år efter utgången av det kalenderår då
 räkenskapsåret avslutades. Förstöring får dock ske om
 informationen bevaras på annat sätt. Lag (2005:591).
 
-8 kap. Utvecklandet av god redovisningssed
+8 kap. Utvecklandet av god redovisningssed samt bemyndiganden
 
 1 § Bokföringsnämnden ansvarar för utvecklandet av god
 redovisningssed. Finansinspektionen ansvarar för utvecklandet
@@ -886,6 +984,24 @@ försäkringsföretag och 23 kap. 15 § 3 lagen (2007:528) om
 värdepappersmarknaden följer att regeringen eller den myndighet
 som regeringen bestämmer får meddela föreskrifter om
 redovisning för finansiella företag. Lag (2007:551).
+
+2 § Regeringen eller den myndighet som regeringen bestämmer 
+får meddela föreskrifter om bokföringsskyldighetens 
+fullgörande enligt 4 kap. 7 § och om utformning av och 
+innehåll i den redovisning som enligt 6 kap. 3 a § ska lämnas 
+för verksamhet i en filial till 
+
+1. ett utländskt kreditinstitut, betalningsinstitut eller 
+värdepappersbolag av motsvarande slag som de företag som 
+omfattas av lagen (1995:1559) om årsredovisning i 
+kreditinstitut och värdepappersbolag, och 
+
+2. ett utländskt försäkringsföretag av motsvarande slag som 
+de företag som omfattas av lagen (1995:1560) om 
+årsredovisning i försäkringsföretag.
+
+Rätten att meddela föreskrifter gäller även sådan verksamhet 
+som avses i 4 kap. 8 § och 6 kap. 3 b §. Lag (2017:437).
 
 9 kap. Överklagande
 
