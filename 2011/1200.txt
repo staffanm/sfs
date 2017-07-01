@@ -44,7 +44,7 @@ av el,
 som enligt 4 kap. 11 § sker den 1 april,
 
 7. elleverantör: den som yrkesmässigt levererar el i en 
-elanvändares uttagspunkt, 
+elanvändares uttagspunkt,
 
 8. elintensiv industri: företag eller del av ett företag som 
 utgör en egen verksamhet eller verksamhetsgren, där det
@@ -59,12 +59,13 @@ process där det används eller beräknas användas i genomsnitt
 minst 190 megawattimmar el för varje miljon kronor av 
 förädlingsvärdet, eller
 
-c) bedrivs verksamhet för vilken avdrag får göras för skatt 
-på elektrisk kraft enligt 11 kap. 9 § 2, 3 eller 5 lagen 
-(1994:1776) om skatt på energi,
+c) bedrivs verksamhet för vilken avdrag eller återbetalning 
+får göras för skatt på elektrisk kraft enligt 11 kap. 9 § 
+första stycket 2, 3 eller 5 eller 13 a § första stycket 2, 3 
+eller 4 lagen (1994:1776) om skatt på energi,
 
 9. förädlingsvärde: skillnaden mellan den elintensiva 
-industrins 
+industrins
 
 – sammanlagda omsättning, det vill säga intäkter från 
 försålda varor och utförda tjänster, inräknat egna uttag, som 
@@ -79,7 +80,7 @@ arbetsgivaravgifter och kostnader för inhyrd personal.
 
 Regeringen eller den myndighet som regeringen bestämmer får 
 meddela föreskrifter om vad som avses med biobränsle i första 
-stycket 2. Lag (2017:813).
+stycket 2. Lag (2017:1234).
 
 3 § Om flera produktionsenheter för vattenkraft eller
 vindkraft finns i närheten av varandra och gemensamt matar
@@ -290,8 +291,6 @@ Ett förhandsbesked får förenas med villkor och är bindande
 vid en senare prövning av godkännande.
 
 Bemyndigande
-
-
 
 13 § Regeringen, eller den myndighet som regeringen
 bestämmer, får meddela föreskrifter om
@@ -648,21 +647,38 @@ fakturerats för under beräkningsåret. Lag (2015:624).
 
 5 § Vid beräkning av kvotplikten beaktas inte el som
 
-1. matats in på det elektriska nätet i syfte att upprätthålla nätets funktion (förlustel),
+1. matats in på det elektriska nätet i syfte att upprätthålla 
+nätets funktion (förlustel),
 
-2. en elleverantör har levererat till en elanvändare utan ersättning i enlighet med ett avtal om intrångsersättning, om leveransen sker vid en lägre effekt än 50 kilowatt (frikraft),
+2. en elleverantör har levererat till en elanvändare utan 
+ersättning i enlighet med ett avtal om intrångsersättning, om 
+leveransen sker vid en lägre effekt än 50 kilowatt 
+(frikraft),
 
-3. har använts i den industriella tillverkningsprocessen i en registrerad sådan elintensiv industri som avses i 1 kap. 2 § första stycket 8 a eller b,
+3. har använts i den industriella tillverkningsprocessen i en 
+registrerad sådan elintensiv industri som avses i 1 kap. 2 § 
+första stycket 8 a eller b,
 
-4. får dras av eller återbetalas enligt 11 kap. 9 § första stycket 2, 3 eller 5 eller 13 a § första stycket 2, 3 eller 4 lagen (1994:1776) om skatt på energi, om elen har använts i en registrerad sådan elintensiv industri som avses i 1 kap. 2 § första stycket 8 c,
+4. får dras av eller återbetalas enligt 11 kap. 9 § första 
+stycket 2, 3 eller 5 eller 13 a § första stycket 2, 3 eller 4 
+lagen (1994:1776) om skatt på energi, om elen har använts i 
+en registrerad sådan elintensiv industri som avses i 1 kap. 2 
+§ första stycket 8 c,
 
-5. en elanvändare själv har producerat och använt, i en anläggning som har en installerad effekt om högst 50 kilowatt,
+5. en elanvändare själv har producerat och använt, i en 
+anläggning som har en installerad effekt om högst 50 
+kilowatt,
 
 6. har använts i produktionen av el (hjälpkraft), eller
 
-7. en elanvändare själv har producerat och använt, om den använda mängden el inte uppgår till mer än 60 megawattimmar per beräkningsår.
+7. en elanvändare själv har producerat och använt, om den 
+använda mängden el inte uppgår till mer än 60 megawattimmar 
+per beräkningsår.
 
-Om kvotplikten för en elintensiv industri endast omfattar sådan el som inte ska beaktas enligt första stycket 3 eller 4 och övrig el inte överstiger 60 megawattimmar per år, beaktas inte heller den övriga elen vid beräkning av kvotplikten.
+Om kvotplikten för en elintensiv industri endast omfattar 
+sådan el som inte ska beaktas enligt första stycket 3 eller 4 
+och övrig el inte överstiger 60 megawattimmar per år, beaktas 
+inte heller den övriga elen vid beräkning av kvotplikten.
 Lag (2017:1217).
 
 Regeringens bestämmande av kvot för beräkning av kvotplikt
@@ -1218,4 +1234,5 @@ tillämpas för tid från och med den 1 januari 2012.
 
 1. Denna lag träder i kraft den 1 januari 2018.
 
-2. Äldre bestämmelser gäller fortfarande för förhållanden som hänför sig till tiden före ikraftträdandet.
+2. Äldre bestämmelser gäller fortfarande för förhållanden som 
+hänför sig till tiden före ikraftträdandet.
