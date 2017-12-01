@@ -163,7 +163,7 @@ Rätt att få uppgifter ur belastningsregistret
 Myndigheter som har rätt att få fullständiga uppgifter
 
 10 § Uppgifter ur belastningsregistret ska lämnas ut om det 
-begärs av 
+begärs av
 
 1. det statsråd som är föredragande i ärenden enligt lagen 
 (1991:572) om särskild utlänningskontroll, i ärenden om 
@@ -178,10 +178,11 @@ för utredning i ett sådant ärende och i fråga om den som
 
 2. chefen för Justitiedepartementet eller den han eller hon 
 bemyndigar, om utdraget behövs för att fullgöra en skyldighet 
-Sverige har enligt en överenskommelse med en främmande stat, 
+Sverige har enligt en överenskommelse med en främmande 
+stat,
 
-3. en åklagarmyndighet, i ärenden där en prövning ska göras, 
-i fråga om den som prövningen gäller,
+3. en åklagarmyndighet, i ärenden där en prövning ska 
+göras, i fråga om den som prövningen gäller,
 
 4. Säkerhetspolisen, i ärenden om anställning eller uppdrag 
 vid myndigheten,
@@ -304,19 +305,21 @@ av brott, i fråga om den som ärendet gäller,
 
 21. allmän domstol eller allmän förvaltningsdomstol, i fråga 
 om en nämndeman som ska påbörja tjänstgöring i domstolen, 
-och
 
 22. en åklagarmyndighet i ärenden enligt förordningen 
 (2014:1553) om förebyggande och lösning av tvister om 
 utövande av jurisdiktion i straffrättsliga förfaranden inom 
-Europeiska unionen.
+Europeiska unionen, och
+
+23. en åklagarmyndighet eller allmän domstol i ett ärende 
+enligt lagen (2017:1000) om en europeisk utredningsorder.
 
 Uppgifter om någon annan än den som prövningen gäller enligt 
 första stycket 14 ska begränsas till uppgifter om påföljder 
 för brott enligt 3, 4 eller 6 kap. eller 16 kap. 10 a § 
 brottsbalken eller uppgifter om kontaktförbud eller förbud 
 enligt 3 kap. 5 § lagen (2015:642) om europeisk 
-skyddsorder. Förordning (2016:737).
+skyddsorder. Förordning (2017:1020).
 
 11 § Uppgifter ur belastningsregistret om brott som lett till 
 någon annan påföljd än penningböter ska lämnas ut om det 
@@ -469,8 +472,8 @@ påföljd än penningböter, lämnas ut om det begärs av
 
 1. Finansinspektionen, för utredning i ärenden om
 
-a) lämplighetsprövning av fysisk person som anmält verksamhet 
-enligt lagen (1996:1006) om anmälningsplikt avseende viss 
+a) lämplighetsprövning av fysisk person som registrerats 
+enligt lagen (1996:1006) om valutaväxling och annan 
 finansiell verksamhet,
 
 b) lämplighetsprövning av styrelseledamöter, 
@@ -479,28 +482,39 @@ ställföreträdare för verkställande direktör i banker, börser,
 clearingorganisationer, fondbolag, förvaltare av alternativa 
 investeringsfonder, försäkringsföretag, institut för 
 elektroniska pengar, kreditmarknadsföretag, 
-värdepappersbolag, juridiska personer som anmält verksamhet 
-enligt lagen om anmälningsplikt avseende viss finansiell 
-verksamhet och företag som avser att driva eller driver 
-verksamhet enligt lagen (2004:299) om inlåningsverksamhet, 
-lagen (2014:275) om viss verksamhet med konsumentkrediter 
-eller lagen (2016:1024) om verksamhet med bostadskrediter, i 
-fråga om den som ärendet gäller,
+värdepappersbolag, juridiska personer som registrerats enligt 
+lagen om valutaväxling och annan finansiell verksamhet och 
+företag som avser att driva eller driver verksamhet enligt 
+lagen (2004:299) om inlåningsverksamhet, lagen (2014:275) om 
+viss verksamhet med konsumentkrediter eller lagen (2016:1024) 
+om verksamhet med bostadskrediter, i fråga om den som ärendet 
+gäller,
 
 c) större ägare i bankaktiebolag, börser, 
 clearingorganisationer, fondbolag, förvaltare av alternativa 
 investeringsfonder, försäkringsaktiebolag, institut för 
 elektroniska pengar, kreditmarknadsföretag, medlemsbanker, 
-värdepappersbolag, juridiska personer som anmält verksamhet 
-enligt lagen om anmälningsplikt avseende viss finansiell 
-verksamhet och företag som avser att driva eller driver 
-verksamhet enligt lagen om inlåningsverksamhet, lagen om viss 
-verksamhet med konsumentkrediter eller lagen om verksamhet 
-med bostadskrediter, i fråga om den som ärendet gäller, och
+värdepappersbolag, juridiska personer som registrerats enligt 
+lagen om valutaväxling och annan finansiell verksamhet och 
+företag som avser att driva eller driver verksamhet enligt 
+lagen om inlåningsverksamhet, lagen om viss verksamhet med 
+konsumentkrediter eller lagen om verksamhet med 
+bostadskrediter, i fråga om den som ärendet gäller, 
 
 2. Revisorsinspektionen, i fråga om den som myndigheten vid 
 lämplighetsprövning enligt revisorslagen (2001:883) överväger 
-att auktorisera eller godkänna.
+att auktorisera eller godkänna, och 
+
+3. Lotteriinspektionen, för utredning i ärenden om 
+lämplighetsprövning av fysiska personer, styrelseledamöter, 
+styrelsesuppleanter, verkställande direktör och 
+ställföreträdare för verkställande direktör eller motsvarande 
+befattningshavare i ledningen och större ägare i juridiska 
+personer som anordnar kasinospel eller lotterier enligt 
+kasinolagen (1999:355) och lotterilagen (1994:1000), om 
+verksamheten omfattas av lagen (2017:630) om åtgärder mot 
+penningtvätt och finansiering av terrorism, i fråga om den 
+som ärendet gäller.
 
 I fråga om europabolag och europakooperativ tillämpas vad som 
 sägs i första stycket 1 b om styrelseledamöter och 
@@ -514,7 +528,7 @@ brottet lämnas ut.
 Sådana uppgifter som avses i 3 § 3–5 lagen (1998:620) om 
 belastningsregister får inte lämnas ut till en myndighet som 
 har rätt att få uppgifter ur belastningsregistret enligt 
-denna paragraf. Förordning (2016:1345).
+denna paragraf. Förordning (2017:669).
 
 13 a § Uppgifter ur belastningsregistret om huruvida en enskild
 förekommer eller inte förekommer för sådan brottslighet som
@@ -807,79 +821,7 @@ Sådana uppgifter som avses i 3 § 3-5 lagen (1998:620) om
 belastningsregister skall dock inte lämnas ut.
 Förordning (2003:1183).
 
-22 § /Upphör att gälla U:2017-08-01/
-Ett registerutdrag enligt 9 § andra stycket 1 lagen 
-(1998:620) om belastningsregister ska endast innehålla 
-uppgifter om domar, beslut eller straffförelägganden där 
-
-1. någon annan påföljd än böter har dömts ut, 
-
-2. dagsböter har dömts ut för brott mot 3 kap. 5 §, 4 kap. 4 
-och 5 §§, 8, 9 och 14 kap. samt 17 kap. 1, 2 och 4 §§ 
-brottsbalken eller lagen (2014:307) om straff för 
-penningtvättsbrott, eller 
-
-3. böter har dömts ut för brott som avses i 6 kap. 8 och 
-10 §§ samt 16 kap. 11 § brottsbalken, narkotikastrafflagen 
-(1968:64), lagen (1991:1969) om förbud mot vissa 
-dopningsmedel, vapenlagen (1996:67), vapenförordningen 
-(1996:70) och äldre vapenlagstiftning. 
-
-Om påföljden även avser något annat brott än de som anges i 
-första stycket 2 och 3, ska också uppgifter om det brottet 
-lämnas ut. 
-
-Ett registerutdrag enligt 9 § andra stycket 2 lagen om 
-belastningsregister som den enskilde begär med hänvisning 
-till bestämmelser i skollagen (2010:800) ska endast innehålla 
-uppgifter om domar, beslut eller strafförelägganden där 
-påföljd har dömts ut för brott mot 3 kap. 1, 2 och 6 §§, 4 
-kap. 1 §, 6 kap., 8 kap. 6 § och 16 kap. 10 a § brottsbalken. 
-Om påföljden även avser något annat brott, ska också 
-uppgifter om det brottet lämnas ut. 
-
-Ett registerutdrag enligt 9 § andra stycket 4 lagen om 
-belastningsregister som den enskilde begär med hänvisning 
-till bestämmelser i lagen (2007:171) om registerkontroll av 
-personal vid vissa boenden som tar emot barn ska endast 
-innehålla uppgifter om domar, beslut eller strafförelägganden 
-där påföljd har dömts ut för brott mot 3 kap. 1, 2, 5 och 
-6 §§, 4 kap. 1–2 och 4–5 §§, 6 kap., 8 kap. 5 och 6 §§, 16 
-kap. 8, 9 och 10 a §§ brottsbalken, narkotikastrafflagen, 
-lagen om förbud mot vissa dopningsmedel, lagen (1999:42) om 
-förbud mot vissa hälsofarliga varor, 6 § lagen (2000:1225) om 
-straff för smuggling och 11 kap. 4 § alkohollagen (2010:1622) 
-samt medverkan och försök till sådana brott. I fråga om brott 
-som avses i 6 kap. brottsbalken, narkotikastrafflagen och 
-lagen om förbud mot vissa dopningsmedel ska utdraget också 
-innehålla uppgifter om domar, beslut och strafförelägganden 
-där påföljd har dömts ut för förberedelse, stämpling och 
-underlåtenhet att avslöja brott. Om påföljden även avser 
-något annat brott, ska också uppgifter om det brottet lämnas 
-ut. 
-
-Ett registerutdrag enligt 9 § andra stycket 5 lagen om 
-belastningsregister som den enskilde begär med hänvisning 
-till bestämmelser i lagen (2010:479) om registerkontroll av 
-personal som utför vissa insatser åt barn med funktionshinder 
-ska endast innehålla uppgifter om domar, beslut eller 
-strafförelägganden där påföljd har dömts ut för brott mot 3 
-kap. 1, 2 och 6 §§, 4 kap. 1 §, 6 kap., 8 kap. 6 § och 16 
-kap. 10 a § brottsbalken. Om påföljden även avser något annat 
-brott, ska också uppgifter om det brottet lämnas ut. 
-
-Ett registerutdrag enligt 9 § andra stycket 6 lagen om 
-belastningsregister som den enskilde begär med hänvisning 
-till bestämmelser i lagen (2013:852) om registerkontroll av 
-personer som ska arbeta med barn ska endast innehålla 
-uppgifter om domar, beslut eller strafförelägganden där 
-påföljd har dömts ut för brott mot 3 kap. 1, 2 och 6 §§, 4 
-kap. 1 §, 6 kap., 8 kap. 6 § och 16 kap. 10 a § brottsbalken. 
-Om påföljden även avser något annat brott, ska också 
-uppgifter om det brottet lämnas ut. Förordning (2015:992).
-
-22 § /Träder i kraft I:2017-08-01/
-Ett registerutdrag enligt 9 § andra stycket 1 lagen 
+22 § Ett registerutdrag enligt 9 § andra stycket 1 lagen 
 (1998:620) om belastningsregister ska endast innehålla 
 uppgifter om domar, beslut eller straffförelägganden där
 
