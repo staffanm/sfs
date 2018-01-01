@@ -6,25 +6,28 @@ används i förordningen har samma betydelse som i utsädeslagen.
 
 Krav för saluföring av utsäde
 
-2 § Utsäde av de arter som anges i bilaga 1 till denna
-förordning får endast saluföras om certifiering har skett.
+2 § Utsäde av de arter som anges i bilaga 1 till denna 
+förordning får endast saluföras om det har certifierats.
 
-Utsäde av de arter som anges i bilaga 2 till denna förordning
-samt utsäde av prydnadsväxter får, om det inte har
-certifierats, endast saluföras om utsädet har
-kvalitetskontrollerats på annat sätt än genom certifiering.
+Utsäde av de arter som anges i bilaga 2 till denna förordning 
+samt utsäde av prydnadsväxter får, om det inte har 
+certifierats, endast saluföras om utsädet har 
+kvalitetskontrollerats på något annat sätt än genom 
+certifiering.
 
-Statens jordbruksverk får meddela föreskrifter om att visst
-utsäde av köksväxtarter får saluföras, trots att certifiering
-inte har skett, under förutsättning att utsädet uppfyller de
-krav på kontrollerat standardutsäde som Jordbruksverket
-föreskriver.
+Statens jordbruksverk får meddela föreskrifter om
 
-Jordbruksverket får även meddela föreskrifter om att visst
-utsäde av bevarandesorter av lantbruksväxter får saluföras,
-trots att certifiering inte har skett, under förutsättning
-att utsädet uppfyller de krav som Jordbruksverket
-föreskriver. Förordning (2009:920).
+1. att visst utsäde av köksväxtarter får saluföras antingen 
+som certifierat basutsäde eller certifikatutsäde eller som 
+icke certifierat kontrollerat standardutsäde, 
+
+2. att visst utsäde av foderväxter, oljeväxter och 
+fiberväxter samt bevarandesorter av lantbruksväxter får 
+saluföras antingen som certifierat basutsäde eller 
+certifikatutsäde eller som icke certifierat utsäde, och
+
+3. villkor för saluföringen av sådant utsäde som avses i 1 
+och 2. Förordning (2017:1120).
 
 3 § Om certifiering har skett med stöd av undantagsregeln i
 11 § andra stycket, får utsäde som avses i 2 § första stycket
@@ -105,25 +108,18 @@ gemensamma sortlista för arter av köksväxter eller i en
 nationell sortlista från något land inom Europeiska 
 ekonomiska samarbetsområdet,
 
-3. handelsutsäde av foderväxter, oljeväxter och 
-spånadsväxter,
+3. utsäde som endast är avsett för utförsel eller för 
+reproduktion för utförsel, och
 
-4. utsäde avsett endast för utförsel eller för reproduktion 
-för utförsel, och
-
-5. utsäde av sådana sorters fruktplantor i bilaga 2 som är 
-intagna i den svenska sortlistan eller i den Europeiska 
-unionens gemensamma sortlista.
+4. utsäde av sådana sorters fruktplantor i bilaga 2 som är 
+intagna i den svenska sortlistan eller i Europeiska unionens 
+gemensamma sortlista.
 
 Jordbruksverket får meddela föreskrifter om att även annat 
 utsäde än det som avses i första stycket får certifieras, om 
 det finns särskilda skäl. Jordbruksverket får under samma 
 förutsättningar även i det enskilda fallet besluta om sådan 
-certifiering.
-
-Jordbruksverket får när det gäller handelsutsäde meddela 
-föreskrifter om vilka arter som får certifieras. 
-Förordning (2016:1181).
+certifiering. Förordning (2017:1120).
 
 9 § En växtsort ska godkännas och registreras som en sort med 
 officiell beskrivning i den svenska sortlistan om sorten vid 
@@ -425,11 +421,11 @@ Europeiska kommissionen om att en sort förts in i sortlistan,
 samt om alla andra ändringar av denna lista. 
 Förordning (2016:1181).
 
-24 d § Jordbruksverket får till en stat som inte ingår i
-Europeiska unionen eller är ansluten till Europeiska ekonomiska
-samarbetsområdet föra över personuppgifter i den utsträckning
-uppgifterna ingår i den publikation som avses i 24 b §.
-Förordning (2005:1181).
+24 d § Jordbruksverket får till en stat som inte ingår i 
+Europeiska unionen eller är ansluten till Europeiska 
+ekonomiska samarbetsområdet föra över personuppgifter i den 
+utsträckning uppgifterna ingår i den publikation som avses i 
+24 c §. Förordning (2017:1120).
 
 Tillsyn
 
@@ -524,9 +520,10 @@ Rajsvingel (hybrider mellan
 Festuca och Lolium)             x Festulolium Asch. & Graebn.
 Italienskt rajgräs
 (inkl. westerwoldiskt rajgräs)  Lolium multiflorum Lam.
-Engelskt rajgräs                Lolium perenne L.
-Hybridrajgräs                   Lolium x boucheanum Kunth
-Turftimotej, Vildtimotej        Phleum nodosum L.
+Engelskt rajgräs		Lolium perenne L.
+Hybridrajgräs			Lolium x hybridum Hausskn
+Knölflen			Phalaris aquatica L.
+Turftimotej, Vildtimotej	Phleum nodosum L.
 Timotej                         Phleum pratense L.
 Vitgröe                         Poa annua L.
 Lundgröe                        Poa nemoralis L.
@@ -538,25 +535,45 @@ Gullhavre                       Trisetum flavescens (L.) P.
 
 2. Baljväxter
 
-Fodergetruta, Getärt            Galega orientalis Lam.
-Tuppklöver (Sulla)              Hedysarum coronarium L.
-Käringgigel, Käringtand         Lotus corniculatus L.
-Vitlupin                        Lupinus albus L.
-Blålupin                        Lupinus angustifolius L.
-Gullupin                        Lupinus luteus L.
-Humlelusern                     Medicago lupulina L.
-Blålusern                       Medicago sativa L.
-Lusern                          Medicago x varia T. Martyn
-Esparsett                       Onobrychis viciifolia Scop.
-Foderärt, Kokärt                Pisum sativum L. convar.
-speciosum (Dierb) Alef.
-Alexandrinerklöver              Trifolium alexandrinum L.
-Alsikeklöver                    Trifolium hybridum L.
-Blodklöver                      Trifolium incarnatum L.
-Rödklöver                       Trifolium pratense L.
-Vitklöver                       Trifolium repens L.
-Persisk klöver                  Trifolium resupinatum L.
-Bockhornsklöver                 Trigunella foenum-graecum L.
+Sågväppling			Biserrula pelecinus L.
+Fodergetruta			Galega orientalis Lam.
+Rosenväppling			Hedysarum coronarium L.
+Rödvial				Lathyrus cicera L.
+Käringtand			Lotus corniculatus L.
+Vitlupin			Lupinus albus L.
+Blålupin			Lupinus angustifolius L.
+Gullupin			Lupinus luteus L.
+Pigglusern			Medicago doliata Carmign.
+Skivlusern			Medicago italica (Mill.) Fiori
+Mattlusern			Medicago littoralis Rohde ex Loisel.
+Humlelusern			Medicago lupulina L.
+Klotlusern			Medicago murex Willd.
+Tagglusern			Medicago polymorpha L.
+Rynklusern			Medicago rugosa Desr.
+Blålusern			Medicago sativa L.
+Snäcklusern			Medicago scutellata (L.) Mill.
+Tornlusern			Medicago truncatula Gaertn.
+Mellanlusern			Medicago x varia T. Martyn Sand
+Esparsett			Onobrychis viciifolia Scop.
+Gulserradella			Ornithopus compressus L.
+Serradella			Ornithopus sativus Brot.
+Foderärt, Kokärt		Pisum sativum L. (partim)
+Alexandrinerklöver		Trifolium alexandrinum L.
+Smultronklöver			Trifolium fragiferum L.
+Glandelklöver			Trifolium glanduliferum Boiss.
+Rosenklöver			Trifolium hirtum All.
+Alsikeklöver			Trifolium hybridum L.
+Blodklöver			Trifolium incarnatum L.
+Saltklöver			Trifolium isthmocarpum Brot.
+Sumpklöver			Trifolium michelianum Savi
+Rödklöver			Trifolium pratense L.
+Vitklöver			Trifolium repens L.
+Doftklöver			Trifolium resupinatum L.
+Spärrklöver			Trifolium squarrosum L.
+Grävklöver			Trifolium subterraneum L.
+Pilbladsklöver			Trifolium vesiculosum Savi
+Bockhornsklöver			Trigonella foenum-graecum L.
+Purpurvicker			Vicia benghalensis L.
 Åkerböna                        Vicia faba L.
 Ungersk vicker                  Vicia pannonica Crantz
 Fodervicker                     Vicia sativa L.
@@ -565,19 +582,20 @@ Luddvicker                      Vicia villosa Roth
 3. Övriga arter
 
 Kålrot                          Brassica napus L. var. napobrassica
-(L.) Rchb.
+				(L.) Rchb.
 Fodermärgkål                    Brassica oleracea L. convar. acephala
-(DC.) Alef. var. medullosa Thell. +
-var. viridis L.
-Honungsört                      Phacelia tanacetifolia Benth.
-Oljerättika                     Raphanus sativus L. var. oleiformis Pers.
+				(DC.) Alef. var. medullosa Thell. +
+				var. viridis L.
+Honungsört			Phacelia tanacetifolia Benth.
+Svartkämpar			Plantago lanceolata L.
+Oljerättika			Raphanus sativus L. var. oleiformis Pers.
 
 Betor
 
 Foderbeta                       Beta vulgaris L. var. crassa Mansf.
 Sockerbeta                      Beta vulgaris L. var. altissima Döll
 
-Olje- och spånadsväxter
+Olje- och fiberväxter
 
 Jordnöt                         Arachis hypogaea L.
 Sareptasenap                    Brassica juncea (L.) Czern.
@@ -665,7 +683,7 @@ Vintersallat                    Valerianella locusta (L.) Laterr.
 Bondböna                        Vicia faba L. (partim)
 Sockermajs                      Zea mays L. (partim)
 Popmajs
-Förordning (2014:82).
+Förordning (2017:1120).
 
 Bilaga 2
 
