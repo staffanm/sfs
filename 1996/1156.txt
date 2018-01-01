@@ -57,8 +57,9 @@ läkemedelskommittéer av uppgifter för medicinsk uppföljning,
 utvärdering och kvalitetssäkring i hälso- och sjukvården,
 
 7. registrering och redovisning till Socialstyrelsen av 
-uppgifter för epidemiologiska undersökningar, forskning och 
-framställning av statistik inom hälso- och sjukvårdsområdet, 
+uppgifter för epidemiologiska undersökningar, forskning, 
+framställning av statistik, uppföljning, utvärdering och 
+kvalitetssäkring inom hälso- och sjukvårdsområdet,
 
 8. registrering av recept och blanketter som används för 
 flera uttag, samt registrering av dosrecept och elektroniska 
@@ -105,7 +106,7 @@ enligt första stycket 9 till Inspektionen för vård och
 omsorg. 
 
 Förskrivningsorsak får redovisas endast för de ändamål som 
-avses i första stycket 5 och 6. Lag (2017:44).
+avses i första stycket 5–7. Lag (2017:908).
 
 Personuppgiftsbehandling för annat ändamål
 
@@ -223,17 +224,20 @@ som avses i 6 § första stycket 6. Lag (2013:1021).
 
 Skyldighet att lämna uppgifter till Socialstyrelsen
 
-16 § E-hälsomyndigheten ska, för de ändamål som anges i 6 §
-första stycket 7, till Socialstyrelsen lämna ut uppgifter
+16 § E-hälsomyndigheten ska, för de ändamål som anges i 6 § 
+första stycket 7, till Socialstyrelsen lämna ut uppgifter 
 om
-1. inköpsdag, vara, mängd, dosering, kostnad och
-kostnadsreducering enligt lagen (2002:160) om
+
+1. inköpsdag, vara, mängd, dosering, kostnad och 
+kostnadsreducering enligt lagen (2002:160) om 
 läkemedelsförmåner m.m.,
 
-2. patientens personnummer och folkbokföringsort, samt
+2 förskrivningsorsak,
 
-3. förskrivarens yrke, specialitet och arbetsplatskod.
-Lag (2013:1021).
+3. patientens personnummer och folkbokföringsort, samt
+
+4. förskrivarens yrke, specialitet och arbetsplatskod.
+Lag (2017:908).
 
 Skyldighet att lämna uppgifter till Inspektionen för vård och
 omsorg
