@@ -615,11 +615,11 @@ Intern upphandling
 
 11 § Denna lag gäller inte när den upphandlande myndighetens 
 motpart är en juridisk person eller en gemensam nämnd enligt 
-kommunallagen (1991:900), om upphandlingen är en intern 
-upphandling enligt 12–16 §§.
+kommunallagen (2017:725), om upphandlingen är en intern 
+upphandling enligt 12–16 §§. Lag (2017:770).
 
-12 § En upphandling ska anses vara en intern upphandling, 
-om
+12 § En upphandling ska anses vara en intern upphandling, om
+
 1. den upphandlande myndigheten utövar kontroll över 
 motparten motsvarande den som myndigheten utövar över sin 
 egen förvaltning, 
@@ -633,11 +633,11 @@ som myndigheten utövar kontroll över, och
 motparten.
 
 En upphandlande myndighet ska anses utöva kontroll enligt 
-första stycket 1 om den har ett avgörande inflytande över 
+första stycket 1  om den har ett avgörande inflytande över 
 motpartens strategiska mål och viktiga beslut. Kontrollen kan 
 också utövas av en annan juridisk person eller gemensam nämnd 
-enligt kommunallagen (1991:900) som själv kontrolleras på 
-samma sätt av myndigheten.
+enligt kommunallagen (2017:725) som själv kontrolleras på 
+samma sätt av myndigheten. Lag (2017:770).
 
 13 § En upphandling ska anses vara en intern upphandling, 
 om
@@ -666,8 +666,8 @@ samtliga myndigheter,
 3. motparten inte har något eget intresse som strider mot 
 myndigheternas intressen.
 
-14 § En upphandling ska anses vara en intern upphandling, 
-om
+14 § En upphandling ska anses vara en intern upphandling, om
+
 1. den upphandlande myndigheten står under en kontroll av 
 motparten som motsvarar den som motparten utövar över sin 
 egen förvaltning,
@@ -685,11 +685,11 @@ En motpart ska anses utöva sådan kontroll som avses i första
 stycket 1, om den har ett avgörande inflytande över den 
 upphandlande myndighetens strategiska mål och viktiga beslut. 
 Kontrollen kan också utövas av en annan juridisk person eller 
-gemensam nämnd enligt kommunallagen (1991:900) som själv 
-kontrolleras på samma sätt av motparten.
+gemensam nämnd enligt kommunallagen (2017:725) som själv 
+kontrolleras på samma sätt av motparten. Lag (2017:770).
 
-15 § En upphandling ska anses vara en intern upphandling, 
-om
+15 § En upphandling ska anses vara en intern upphandling, om
+
 1. den upphandlande myndigheten står under en kontroll 
 som motsvarar den som den kontrollerande personen utövar över 
 sin egen förvaltning och den kontrollerande personen dessutom 
@@ -709,8 +709,8 @@ som avses i första stycket 1, om den har ett avgörande
 inflytande över den upphandlande myndighetens och motpartens 
 strategiska mål och viktiga beslut. Kontrollen kan också 
 utövas av en annan juridisk person eller gemensam nämnd 
-enligt kommunallagen (1991:900) som själv kontrolleras på 
-samma sätt av den kontrollerande personen. 
+enligt kommunallagen (2017:725) som själv kontrolleras på 
+samma sätt av den kontrollerande personen. Lag (2017:770).
 
 16 § Verksamhetsandelen enligt 12 § första stycket 2, 13 § 
 första stycket 2, 14 § första stycket 2 och 15 § första 
@@ -3407,22 +3407,59 @@ myndigheten vara den enskildes motpart sedan handlingarna i
 
 Brott
 
-1 § En upphandlande myndighet ska utesluta en leverantör från att delta i en upphandling, om myndigheten genom kontroll enligt 15 kap. eller på annat sätt får kännedom om att leverantören enligt en dom som fått laga kraft är dömd för brott som innefattar
+1 § En upphandlande myndighet ska utesluta en leverantör från 
+att delta i en upphandling, om myndigheten genom kontroll 
+enligt 15 kap. eller på annat sätt får kännedom om att 
+leverantören enligt en dom som fått laga kraft är dömd för 
+brott som innefattar
 
-1. sådan brottslighet som avses i artikel 2 i rådets rambeslut 2008/841/RIF av den 24 oktober 2008 om kampen mot organiserad brottslighet,
+1. sådan brottslighet som avses i artikel 2 i rådets 
+rambeslut 2008/841/RIF av den 24 oktober 2008 om kampen mot 
+organiserad brottslighet,
 
-2. bestickning enligt definitionen i artikel 3 i rådets akt av den 26 maj 1997 om utarbetande på grundval av artikel K 3.2 c i fördraget om Europeiska unionen av konventionen om kamp mot korruption som tjänstemän i Europeiska gemenskaperna eller Europeiska unionens medlemsstater är delaktiga i, korruption enligt artikel 2.1 i rådets rambeslut 2003/568/RIF av den 22 juli 2003 om kampen mot korruption inom den privata sektorn, eller korruption enligt nationella bestämmelser,
+2. bestickning enligt definitionen i artikel 3 i rådets akt 
+av den 26 maj 1997 om utarbetande på grundval av artikel 
+K 3.2 c i fördraget om Europeiska unionen av konventionen om 
+kamp mot korruption som tjänstemän i Europeiska gemenskaperna 
+eller Europeiska unionens medlemsstater är delaktiga i, 
+korruption enligt artikel 2.1 i rådets rambeslut 2003/568/RIF 
+av den 22 juli 2003 om kampen mot korruption inom den privata 
+sektorn, eller korruption enligt nationella bestämmelser,
 
-3. bedrägeri i den mening som avses i artikel 1 i konventionen som utarbetats på grundval av artikel K.3 i fördraget om Europeiska unionen, om skydd av Europeiska gemenskapernas finansiella intressen,
+3. bedrägeri i den mening som avses i artikel 1 i 
+konventionen som utarbetats på grundval av artikel K.3 i 
+fördraget om Europeiska unionen, om skydd av Europeiska 
+gemenskapernas finansiella intressen,
 
-4. penningtvätt eller finansiering av terrorism enligt definitionen i artikel 1 i Europaparlamentets och rådets direktiv (EU) 2015/849 av den 20 maj 2015 om åtgärder för att förhindra att det finansiella systemet används för penningtvätt eller finansiering av terrorism, om ändring av Europaparlamentets och rådets förordning (EU) nr 648/2012 och om upphävande av Europaparlamentets och rådets direktiv 2005/60/EG och kommissionens direktiv 2006/70/EG, i den ursprungliga lydelsen,
+4. penningtvätt eller finansiering av terrorism enligt 
+definitionen i artikel 1 i Europaparlamentets och rådets 
+direktiv (EU) 2015/849 av den 20 maj 2015 om åtgärder för att 
+förhindra att det finansiella systemet används för 
+penningtvätt eller finansiering av terrorism, om ändring av 
+Europaparlamentets och rådets förordning (EU) nr 648/2012 och 
+om upphävande av Europaparlamentets och rådets direktiv 
+2005/60/EG och kommissionens direktiv 2006/70/EG, i den 
+ursprungliga lydelsen,
 
-5. terroristbrott eller brott med anknytning till terroristverksamhet såsom de definieras i artikel 1 respektive 3 i rådets rambeslut 2002/475/RIF av den 13 juni 2002 om bekämpande av terrorism eller anstiftan, medhjälp och försök att begå brott i den mening som avses i artikel 4 i det rambeslutet, eller
+5. terroristbrott eller brott med anknytning till 
+terroristverksamhet såsom de definieras i artikel 1 
+respektive 3 i rådets rambeslut 2002/475/RIF av den 13 juni 
+2002 om bekämpande av terrorism eller anstiftan, medhjälp och 
+försök att begå brott i den mening som avses i artikel 4 i 
+det rambeslutet, eller
 
-6. människohandel enligt definitionen i artikel 2 i Europaparlamentets och rådets direktiv 2011/36/EU av den 5 april 2011 om förebyggande och bekämpande av människohandel, om skydd av dess offer och om ersättande av rådets rambeslut 2002/629/RIF, i den ursprungliga lydelsen.
+6. människohandel enligt definitionen i artikel 2 i 
+Europaparlamentets och rådets direktiv 2011/36/EU av den 5 
+april 2011 om förebyggande och bekämpande av människohandel, 
+om skydd av dess offer och om ersättande av rådets rambeslut 
+2002/629/RIF, i den ursprungliga lydelsen.
 
-Är leverantören en juridisk person, ska leverantören uteslutas om en person som ingår i leverantörens förvaltnings-, lednings- eller kontrollorgan har dömts för brottet. Detsamma gäller om den som har dömts för brottet är behörig att företräda, fatta beslut om eller kontrollera leverantören.
-Lag (2017:664).
+Är leverantören en juridisk person, ska leverantören 
+uteslutas om en person som ingår i leverantörens 
+förvaltnings-, lednings- eller kontrollorgan har dömts för 
+brottet. Detsamma gäller om den som har dömts för brottet är 
+behörig att företräda, fatta beslut om eller kontrollera 
+leverantören. Lag (2017:664).
 
 Obetalda skatter och socialförsäkringsavgifter
 
@@ -5198,7 +5235,8 @@ lagstadgad tid tillämpas.
 Förbud mot överklagande
 
 19 § Ett beslut som denna lag är tillämplig på får inte 
-överklagas med stöd av 10 kap. kommunallagen (1991:900). 
+överklagas med stöd av 13 kap. kommunallagen (2017:725).
+Lag (2017:770).
 
 Skadestånd
 
