@@ -91,16 +91,17 @@ Den genomsnittliga kostnaden per insats ska uppdateras årligen.
 Förordning (2010:1338).
 
 6 § Personalkostnadsindexet beräknas dels utifrån 
-kostnadsuppgifter från räkenskapssammandraget 2015, dels 
-utifrån den kostnad som beräknats enligt 4 § första stycket. 
-Beräkningen görs på följande sätt. 
+kostnadsuppgifter från räkenskapssammandraget 2016, dels 
+utifrån den standardkostnad som beräknats enligt 4 § första 
+stycket. Beräkningen görs på följande sätt. 
 
-Ett belopp motsvarande 70 procent av skillnaden mellan en 
-beräknad personalkostnad per kommun för år 2015 och den 
-personalkostnad som ingår i den i första stycket sistnämnda 
-kostnaden, adderas till sistnämnda kostnad. Den erhållna 
-summan divideras med den kostnad som beräknats enligt 4 § 
-första stycket. Förordning (2016:1090).
+Först beräknas ett belopp motsvarande 70 procent av 
+skillnaden mellan en beräknad personalkostnad per kommun för 
+2016 och den personalkostnad som ingår i standardkostnaden 
+enligt 4 § första stycket. Detta belopp adderas till 
+standardkostnaden enligt 4 § första stycket. Den erhållna 
+summan divideras med standardkostnaden som beräknats enligt 
+4 § första stycket. Förordning (2017:1101).
 
 7 § För beräkningarna gäller i övrigt de beräkningsmetoder och
 närmare detaljer som anges i bilagan till denna förordning.
@@ -151,8 +152,6 @@ Bilaga
 
 Beräkningsmetoder och närmare detaljer för kostnadsutjämningen
 
-Befolkningsuppgifter
-
 Befolkningsuppgifter hämtas från Statistiska centralbyråns
 (SCB) befolkningsstatistik.
 
@@ -161,7 +160,7 @@ Nettoprisindex
 Uppräkning till utjämningsårets kostnadsnivå sker med hjälp 
 av utvecklingen av nettoprisindex. Som genomsnittlig 
 procentuell förändring i nettoprisindex för respektive år 
-används följande: 2016 (0,4) och 2017 (1,6).
+används följande: 2017 (1,3) och 2018 (1,9).
 
 Genomsnittskostnaden
 
@@ -320,8 +319,8 @@ S = Standardkostnad enligt tidigare beräkning.
 Beräknade personalkostnader
 
 Lönekostnader inklusive personalomkostnadspålägg (PO-pålägg) 
-för anställda som är 26–64 år 2015 enligt Sveriges Kommuner 
-och Landstings cirkulär 14:59. 
+för anställda som är 26–64 år 2016 enligt Sveriges Kommuner 
+och Landstings cirkulär 15:42. 
 
 Tillkommer 85 procent av köp av verksamhet, övriga interna 
 kostnader, internt fördelade kostnader. 
@@ -367,4 +366,4 @@ ska överensstämma med kommunernas sammanlagda
 nettokostnader, uppräknade till utjämningsårets prisnivå.
 Produkten divideras med antalet invånare = S x PK-IX x
 nettoprisindex x korrigeringsfaktorn / antalet invånare i
-kommunen. Förordning (2016:1090).
+kommunen. Förordning (2017:1101).
