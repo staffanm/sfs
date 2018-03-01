@@ -325,12 +325,12 @@ Post- och telestyrelsen får besluta om skyldigheter enligt 5
 kap. 2, 4 och 18 §§ lagen om elektronisk kommunikation.
 Förordning (2010:1535).
 
-29 a § En anslutning enligt 5 kap. 1 § första stycket 1 lagen
-(2003:389) om elektronisk kommunikation ska vara utformad så
-att en slutanvändare som begär det kan ta emot data med en
-hastighet om lägst 1 Mbit/s. Om detta inom rimlig tid kan
-tillgodoses genom någon annan anslutning, får hastigheten i
-anslutningen vara lägre. Förordning (2011:1587).
+29 a § En anslutning enligt 5 kap. 1 § första stycket 1 lagen 
+(2003:389) om elektronisk kommunikation ska vara utformad så 
+att en slutanvändare som begär det kan ta emot data med en 
+hastighet om lägst 10 Mbit/s. Om detta inom rimlig tid kan 
+tillgodoses genom någon annan anslutning, får hastigheten i 
+anslutningen vara lägre. Förordning (2018:22).
 
 29 b § Post- och telestyrelsen får meddela föreskrifter om
 krav på lägsta tjänstekvalitet för företag som tillhandahåller
