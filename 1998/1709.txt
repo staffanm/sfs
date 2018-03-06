@@ -25,20 +25,20 @@ Europaparlamentets och rådets förordning (EU) nr 167/2013 av
 den 5 februari 2013 om godkännande och marknadskontroll av 
 jordbruks- och skogsbruksfordon. Förordning (2015:930).
 
-1 a § Denna förordning är meddelad
+1 a § Denna förordning är meddelad med stöd av
 
-1. med stöd av 1 § lagen (1998:1707) om åtgärder mot buller
-och avgaser från mobila maskiner i fråga om 5 §,
+– 1 § lagen (1998:1707) om åtgärder mot buller och avgaser 
+från mobila maskiner i fråga om 5 §, 
 
-2. med stöd av 4 § lagen om åtgärder mot buller och avgaser
-från mobila maskiner i fråga om 3 och 3 a §§, 4 § andra
-stycket, 5 a, 6, 11 och 12 §§,
+– 4 § lagen om åtgärder mot buller och avgaser från mobila 
+maskiner i fråga om 3 och 3 a §§, 4 § tredje stycket, 5 a, 6, 
+7, 11 och 12 §§, 
 
-3. med stöd av 12 § lagen om åtgärder mot buller och avgaser
-från mobila maskiner i fråga om 9 §, och
+– 12 § lagen om åtgärder mot buller och avgaser från mobila 
+maskiner i fråga om 9 §, och 
 
-4. i övrigt med stöd av 8 kap. 7 § regeringsformen.
-Förordning (2013:150).
+– 8 kap. 7 § regeringsformen i fråga om övriga 
+bestämmelser. Förordning (2018:100).
 
 Uttryck i förordningen
 
@@ -228,15 +228,25 @@ bruk. Förordning (2015:930).
 Förfarandet vid typgodkännande i Sverige
 
 4 § Transportstyrelsen ska fullgöra uppgifter som 
-godkännandemyndighet enligt direktiv 97/68/EG och enligt 
-förordning (EU) nr 167/2013. Om Transportstyrelsen använder 
-en teknisk tjänst för att utföra provning och bedömning, ska 
-den tekniska tjänsten utses och anmälas enligt bestämmelserna 
-om anmälda organ i lagen (2011:791) om ackreditering och 
-teknisk kontroll.
+godkännandemyndighet enligt 
+
+1. förordning (EU) nr 167/2013, och 
+
+2. Europaparlamentets och rådets förordning (EU) 2016/1628 av 
+den 14 september 2016 om krav för utsläppsgränser vad gäller 
+gas- och partikelformiga föroreningar samt typgodkännande av 
+förbränningsmotorer för mobila maskiner som inte är avsedda 
+att användas för transporter på väg, om ändring av 
+förordningarna (EU) nr 1024/2012 och (EU) nr 167/2013 samt om 
+ändring och upphävande av direktiv 97/68/EG. 
+
+Om Transportstyrelsen använder en teknisk tjänst för provning 
+och bedömning, ska den tekniska tjänsten utses och anmälas 
+enligt bestämmelserna om anmälda organ i lagen (2011:791) om 
+ackreditering och teknisk kontroll. 
 
 Transportstyrelsen får meddela föreskrifter om förfarandet 
-för typgodkännanden. Förordning (2015:930).
+för typgodkännanden. Förordning (2018:100).
 
 5 § Vid prövningen av en fråga om ett typgodkännande ska 
 Transportstyrelsen typgodkänna en motortyp eller motorfamilj 
@@ -267,7 +277,10 @@ i artikel 6 i direktiv 97/68/EG.
 Bestämmelser om märkning av traktormotorer finns i förordning 
 (EU) nr 167/2013. Förordning (2015:930).
 
-7 § Har upphävts genom förordning (2015:930). 
+Marknadskontroll
+
+7 § Transportstyrelsen är marknadskontrollmyndighet enligt 
+förordning (EU) 2016/1628. Förordning (2018:100).
 
 Tillsyn
 
@@ -661,4 +674,55 @@ lokomotiv
             5 l /
             cylinder
 
-Steg III A  130
+Steg III A  130<P         3,5               4,0         0,2
+motorvagnar
+
+Steg III B  130<P         3,5               4,0         0,025
+lokomotiv
+
+Steg III B  130<P         3,5           0,19    2,0     0,025
+motorvagnar
+
+2.2 Gränsvärden för motorer enligt 1.1.3
+
+Nedan angivna gränsvärden i gram per kilowattimme gäller vid de
+tidpunkter som anges under 1.1.3.
+
+Kravnivå   Klass  Kolmonoxid  Kolväten  Kväveoxider  Summan av
+kolväten och
+kväveoxider
+
+Steg I     SH:1   805         295       5,36
+           SH:2   805         241       5,36
+           SH:3   603         161       5,36
+           SN:1   519                                50
+           SN:2   519                                40
+           SN:3   519                                16,1
+           SN:4   519                                13,4
+
+Steg IIa   SH:1   805                   10           50
+           SH:2   805                   10           50
+           SH:3   603                   10           72
+           SN:1   610                   10           50,0
+           SN:2   610                   10           40,0
+           SN:3   610                   10           16,1
+           SN:4   610                   10           12,1
+
+a Utan hinder av definitionen av handhållna motorer i 2 §
+förordningen (1998:1709) om avgaskrav för vissa
+förbränningsmotordrivna mobila maskiner behöver tvåtaktsmotorer
+i snöslungor endast uppfylla kraven för klass SH:1, SH:2 eller
+SH:3.
+
+3 Provmetod
+
+Proven skall stämma överens med de provförfaranden som
+fastställts av Europeiska unionen för typgodkännandet.
+
+4 Hållbarhetskrav
+
+Motorn skall uppfylla hållbarhetskrav som stämmer överens med
+de krav som fastställts i den ordning som sägs i 3.
+Förordning (2012:231).
+
+Bilaga 2 Har upphävts genom förordning (2015:930).
