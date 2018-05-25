@@ -18,44 +18,27 @@ bedriver. För sådan behandling finns det särskilda
 bestämmelser i tullbrottsdatalagen (2017:447).
 Lag (2017:449).
 
-Förhållandet till personuppgiftslagen
+Förhållandet till annan reglering
 
-2 § Om inte annat anges i 3 § eller 3 kap. gäller denna lag i
-stället för personuppgiftslagen (1998:204).
+2 § Denna lag innehåller bestämmelser som kompletterar 
+Europaparlamentets och rådets förordning (EU) 2016/679 av den 
+27 april 2016 om skydd för fysiska personer med avseende på 
+behandling av personuppgifter och om det fria flödet av 
+sådana uppgifter och om upphävande av direktiv 95/46/EG 
+(allmän dataskyddsförordning), här benämnd EU:s 
+dataskyddsförordning. Lag (2018:231).
 
-En registrerad har inte rätt att motsätta sig sådan behandling
-som är tillåten enligt denna lag.
-
-3 § När personuppgifter behandlas enligt denna lag eller enligt
-andra föreskrifter som meddelats med stöd av lagen gäller
-personuppgiftslagens (1998:204) bestämmelser om
-
-1. definitioner i 3 §,
-
-2. förhållandet till offentlighetsprincipen m.m. i 8 §,
-
-3. grundläggande krav på behandling i 9 §, med undantag för vad
-som sägs i första stycket i och tredje stycket,
-
-4. säkerheten vid behandling i 30-32 §§,
-
-5. överföring av personuppgifter till tredje land i 33-35 §§,
-
-6. personuppgiftsombud, m.m. i 36 § andra stycket och 38-41 §§,
-
-7. upplysningar till allmänheten om vissa behandlingar i 42 §,
-
-8. tillsynsmyndighetens befogenheter i 43 och 47 §§, och
-
-9. straff i 49 §.
-
-Vid behandling av personuppgifter som inte sker i databasen
-gäller även 22 § personuppgiftslagen. Lag (2005:790).
+3 § Vid behandling av personuppgifter enligt denna lag 
+gäller lagen (2018:218) med kompletterande bestämmelser till 
+EU:s dataskyddsförordning och föreskrifter som har meddelats 
+i anslutning till den lagen, om inte annat följer av denna 
+lag eller föreskrifter som har meddelats i anslutning till 
+lagen. Lag (2018:231).
 
 Ändamål
 
-4 § Uppgifter får behandlas för tillhandahållande av 
-information som behövs hos Tullverket för 
+4 § Uppgifter får behandlas för att tillhandahålla 
+information som behövs hos Tullverket för
 
 1. bestämmande, redovisning, betalning och återbetalning av 
 tull, annan skatt och avgifter,
@@ -67,35 +50,40 @@ kontrollverksamhet,
 bindande internationellt åtagande, och
 
 4. tillsyn, kontroll, uppföljning och planering av 
-verksamheten.
-
-Uppgifter som behandlas enligt första stycket får även 
-behandlas för tillhandahållande av information som behövs i 
-Tullverkets brottsbekämpande verksamhet enligt 2 kap. 5 § 
-tullbrottsdatalagen (2017:447). Lag (2017:449).
+verksamheten. Lag (2018:231).
 
 4 a § Uppgifter får behandlas för att informera allmänheten
 om tillstånd och om certifikat för godkända ekonomiska
 aktörer. Lag (2010:103).
 
-5 § Uppgifter får behandlas för att tillhandahålla 
-information som behövs i författningsreglerad verksamhet hos 
-någon annan än Tullverket för
+5 § Uppgifter som behandlas enligt 4 § får även behandlas 
+för
 
-1. fastställande av underlag för samt bestämmande, 
+1. att tillhandahålla information som behövs i 
+författningsreglerad verksamhet hos någon annan än Tullverket 
+för
+
+a) fastställande av underlag för samt bestämmande, 
 redovisning, betalning och återbetalning av skatter eller 
 avgifter,
 
-2. revision och annan analys- eller kontrollverksamhet,
+b) revision och annan analys- eller kontrollverksamhet,
 
-3. tillsyn samt lämplighets- och tillståndsprövning och annan 
-liknande prövning, och
+c) tillsyn samt lämplighets- och tillståndsprövning och annan 
+liknande prövning, och 
 
-4. utsökning och indrivning.
+d) utsökning och indrivning,
 
-Uppgifter får även behandlas för att tillhandahålla 
-information i den utsträckning som en skyldighet att lämna 
-uppgifterna följer av lag eller förordning. Lag (2016:780).
+2. att tillhandahålla information som behövs i Tullverkets 
+brottsbekämpande verksamhet enligt 2 kap. 5 § 
+tullbrottsdatalagen (2017:447),
+
+3. att fullgöra uppgiftslämnande som sker i överensstämmelse 
+med lag eller förordning, och
+
+4. andra ändamål, under förutsättning att uppgifterna inte 
+behandlas på ett sätt som är oförenligt med det ändamål för 
+vilket uppgifterna samlades in. Lag (2018:231).
 
 Personuppgiftsansvar
 
@@ -104,14 +92,17 @@ personuppgifter.
 
 Behandling av känsliga personuppgifter m.m.
 
-7 § Känsliga personuppgifter som anges i 13 §
-personuppgiftslagen (1998:204) och uppgifter om
-lagöverträdelser m.m. som anges i 21 § samma lag får behandlas
-endast om uppgifterna har lämnats i ett ärende eller är
-nödvändiga för handläggningen av det.
+7 § Personuppgifter som avses i artikel 9.1 i EU:s 
+dataskyddsförordning (känsliga personuppgifter) och uppgifter 
+om lagöverträdelser som innefattar brott, domar i brottmål, 
+straffprocessuella tvångsmedel eller administrativa 
+frihetsberövanden får behandlas endast om uppgifterna har 
+lämnats i ett ärende eller är nödvändiga för handläggningen 
+av det.
 
-Uppgifter som avses i första stycket får i annat fall behandlas
-endast om det särskilt anges i 2 kap.
+Uppgifter som avses i första stycket får i annat fall 
+behandlas endast om det särskilt anges i 2 kap.
+Lag (2018:231).
 
 Gallring
 
@@ -247,48 +238,33 @@ att uppgifter eller handlingar skall bevaras under längre tid
 
 Avgifter
 
-11 § Tullverket får ta ut avgifter för att lämna ut uppgifter
-ur databasen enligt de närmare föreskrifter som meddelas av
-regeringen.
+11 § Tullverket får ta ut avgifter för att lämna ut 
+uppgifter ur databasen enligt de närmare föreskrifter som 
+meddelas av regeringen.
 
-Rätten att ta ut avgifter enligt första stycket får inte
-innebära inskränkning i rätten att ta del av och mot fastställd
-avgift få kopia eller utskrift av allmän handling enligt
-tryckfrihetsförordningen.
+Rätten att ta ut avgifter får inte innebära en inskränkning i 
+
+1. rätten att ta del av och mot fastställd avgift få kopia 
+eller utskrift av en allmän handling enligt 
+tryckfrihetsförordningen, eller
+
+2. en registrerads rätt enligt artikel 12.5 i EU:s 
+dataskyddsförordning. Lag (2018:231).
 
 3 kap. Enskildas rättigheter
 
-Information till den registrerade
+Rätten att göra invändningar
 
-1 § Vid tillämpningen av denna lag gäller bestämmelserna om
-information till den registrerade i 23 och 25-27 §§
-personuppgiftslagen (1998:204), med den begränsning som anges i
-2 §.
+1 § Artikel 21.1 i EU:s dataskyddsförordning om rätten att 
+göra invändningar gäller inte vid sådan behandling som är 
+tillåten enligt denna lag eller föreskrifter som har 
+meddelats i anslutning till lagen. Lag (2018:231).
 
-2 § Information som skall lämnas enligt 26 §
-personuppgiftslagen (1998:204) behöver inte omfatta uppgift i
-en handling som avses i 2 kap. 4 §, om den enskilde har tagit
-del av handlingens innehåll. Om den enskilde begär det skall
-dock informationen även omfatta uppgift i en sådan handling.
+2 § Har upphävts genom lag (2018:231).
 
-Om informationen inte innehåller handling som avses i första
-stycket skall det av informationen framgå att handlingen
-behandlas i databasen.
+3 § Har upphävts genom lag (2018:231).
 
-Rättelse och skadestånd
-
-3 § Bestämmelserna i personuppgiftslagen (1998:204) om rättelse
-och skadestånd gäller vid behandling av personuppgifter enligt
-denna lag eller anslutande författningar.
-
-Överklagande
-
-4 § Tullverkets beslut om rättelse och om information som skall
-lämnas enligt 26 § personuppgiftslagen (1998:204) får
-överklagas hos allmän förvaltningsdomstol. Andra beslut enligt
-denna lag får inte överklagas.
-
-Prövningstillstånd krävs vid överklagande till kammarrätten.
+4 § Har upphävts genom lag (2018:231).
 
 Övergångsbestämmelser
 
@@ -316,3 +292,10 @@ denna lag.
 omständighet som yrkandet hänför sig till har inträffat efter
 det att lagen har trätt i kraft beträffande den aktuella
 behandlingen.
+
+2018:231
+
+1. Denna lag träder i kraft den 25 maj 2018.
+
+2. Äldre föreskrifter om straff gäller fortfarande för 
+överträdelser som har skett före ikraftträdandet.
