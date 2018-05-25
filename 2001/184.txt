@@ -18,61 +18,24 @@ Bestämmelserna i 4, 5 och 7 §§, 2 kap. samt 3 kap. 3 a §
 gäller även vid behandling av uppgifter om juridiska personer 
 och avlidna. Lag (2016:685).
 
-Förhållandet till andra bestämmelser om
-personuppgiftsbehandling
+Förhållandet till annan reglering
 
-2 § Om inte annat anges i 3 § eller 3 kap. gäller denna lag i
-stället för personuppgiftslagen (1998:204).
+2 § Denna lag innehåller bestämmelser som kompletterar 
+Europaparlamentets och rådets förordning (EU) 2016/679 av den 
+27 april 2016 om skydd för fysiska personer med avseende på 
+behandling av personuppgifter och om det fria flödet av 
+sådana uppgifter och om upphävande av direktiv 95/46/EG 
+(allmän dataskyddsförordning), här benämnd EU:s 
+dataskyddsförordning. Lag (2018:230).
 
-En registrerad har inte rätt att motsätta sig sådan behandling
-som är tillåten enligt denna lag.
+3 § Vid behandling av personuppgifter enligt denna lag 
+gäller lagen (2018:218) med kompletterande bestämmelser till 
+EU:s dataskyddsförordning och föreskrifter som har meddelats 
+i anslutning till den lagen, om inte annat följer av denna 
+lag eller föreskrifter som har meddelats i anslutning till 
+lagen. Lag (2018:230).
 
-3 § När personuppgifter behandlas enligt denna lag eller enligt
-andra föreskrifter i det ämne som regleras i lagen gäller
-personuppgiftslagens (1998:204) bestämmelser om
-
-1. definitioner i 3 §,
-
-2. förhållandet till offentlighetsprincipen m.m. i 8 §,
-
-3. grundläggande krav på behandling i 9 § med undantag för vad
-som sägs i första stycket i och tredje stycket,
-
-4. säkerheten vid behandling i 30-32 §§,
-
-5. överföring av personuppgifter till tredje land i 33-35 §§,
-
-6. personuppgiftsombud, m.m. i 36 § andra stycket och 38-41 §§,
-
-7. upplysningar till allmänheten om vissa behandlingar i 42 §,
-
-8. tillsynsmyndighetens befogenheter i 43 och 47 §§, och
-
-9. straff i 49 §.
-
-Vid behandling av personuppgifter som inte sker i databaser
-gäller även 22 § personuppgiftslagen.
-
-3 a § I lagen (2013:329) med vissa bestämmelser om skydd för
-personuppgifter vid polissamarbete och straffrättsligt
-samarbete inom Europeiska unionen, och i föreskrifter som
-regeringen har meddelat i anslutning till den lagen, finns
-det särskilda bestämmelser om behandling av personuppgifter
-som inom ramen för polissamarbete eller straffrättsligt
-samarbete har överförts från eller gjorts tillgängliga av
-
-1. en stat som är medlem i Europeiska unionen (EU),
-
-2. Island, Norge, Schweiz eller Liechtenstein,
-
-3. ett EU-organ, eller
-
-4. ett EU-informationssystem.
-
-Om det i de författningar som anges i första stycket finns
-avvikande bestämmelser, ska de tillämpas i stället för
-bestämmelserna i denna lag och personuppgiftslagen
-(1998:204). Lag (2013:336).
+3 a § Har upphävts genom lag (2018:230).
 
 3 b § De avvikande bestämmelser om behandling av 
 personuppgifter som finns i Europaparlamentets och rådets 
@@ -94,14 +57,17 @@ behandling som myndigheten skall utföra. Lag (2006:733).
 
 Behandling av känsliga personuppgifter m.m.
 
-6 § Känsliga personuppgifter som anges i 13 §
-personuppgiftslagen (1998:204) och uppgifter om
-lagöverträdelser m.m. som anges i 21 § samma lag får behandlas
-endast om uppgifterna har lämnats i ett mål eller ärende eller
-är nödvändiga för handläggningen av det.
+6 § Personuppgifter som avses i artikel 9.1 i EU:s 
+dataskyddsförordning (känsliga personuppgifter) och uppgifter 
+om lagöverträdelser som innefattar brott, domar i brottmål, 
+straffprocessuella tvångsmedel eller administrativa 
+frihetsberövanden får behandlas endast om uppgifterna har 
+lämnats i ett ärende eller är nödvändiga för handläggningen 
+av det.
 
-Uppgifter som avses i första stycket får i annat fall behandlas
-endast om det särskilt anges i 2 kap.
+Uppgifter som avses i första stycket får i annat fall 
+behandlas endast om det särskilt anges i 2 kap.
+Lag (2018:230).
 
 Gallring
 
@@ -125,13 +91,13 @@ angivna ändamålen (utsöknings- och indrivningsdatabas).
 
 Ändamål
 
-2 § Uppgifter får behandlas i databasen för tillhandahållande 
-av information som behövs i Kronofogdemyndighetens och 
-Skatteverkets verksamhet för
+2 § Uppgifter får behandlas i databasen för att 
+tillhandahålla information som behövs i 
+Kronofogdemyndighetens och Skatteverkets verksamhet för
 
 1. verkställighet eller annan åtgärd som särskilt åligger 
 Kronofogdemyndigheten enligt utsökningsbalken eller annan 
-författning,
+författning, 
 
 2. indrivning av statliga fordringar m.m.,
 
@@ -146,38 +112,43 @@ skuldsanering och F-skuldsanering,
 bindande internationellt åtagande, och
 
 7. tillsyn, kontroll, uppföljning och planering av 
-verksamheten.
+verksamheten. Lag (2018:230).
 
-Uppgifter som får behandlas enligt första stycket får även 
-behandlas i databasen för tillhandahållande av information 
-som behövs i Kronofogdemyndighetens verksamhet för 
-handläggning av ärenden om skuldsanering och 
-F-skuldsanering. Lag (2016:685).
+3 § Uppgifter som behandlas enligt 2 § får även behandlas 
+i databasen för
 
-3 § Uppgifter får behandlas i databasen för att 
-tillhandahålla information som behövs i författningsreglerad 
-verksamhet hos någon annan än Kronofogdemyndigheten för
+1. att tillhandahålla information som behövs i 
+författningsreglerad verksamhet hos någon annan än 
+Kronofogdemyndigheten för
 
-1. avräkning vid återbetalning av skatter och avgifter,
+a) avräkning vid återbetalning av skatter och avgifter, 
 
-2. kvittning vid utbetalning av bidrag,
+b) kvittning vid utbetalning av bidrag, 
 
-3. planering, samordning och uppföljning av revision och 
-annan kontrollverksamhet vid beskattning och tulltaxering,
+c) planering, samordning och uppföljning av revision och 
+annan kontrollverksamhet vid beskattning och tulltaxering, 
 
-4. utredningar vid bestämmande och betalning av skatter, 
-tullar och avgifter,
+d) utredningar vid bestämmande och betalning av skatter, 
+tullar och avgifter, 
 
-5. ärenden om ansvar för någon annans skatter och avgifter, 
+e) ärenden om ansvar för någon annans skatter och avgifter, 
 och
 
-6. kontroll och tillsyn samt lämplighets- och 
-tillståndsprövning och annan liknande prövning.
+f) kontroll och tillsyn samt lämplighets- och 
+tillståndsprövning och annan liknande prövning,
 
-Uppgifter får även behandlas i databasen för att 
-tillhandahålla information i den utsträckning som en 
-skyldighet att lämna uppgifterna följer av lag eller 
-förordning. Lag (2016:779).
+2. att tillhandahålla information som behövs i 
+Kronofogdemyndighetens verksamhet för handläggning av ärenden 
+om skuldsanering och 
+
+F-skuldsanering,
+
+3. att fullgöra uppgiftslämnande som sker i överensstämmelse 
+med lag eller förordning, och
+
+4. andra ändamål, under förutsättning att uppgifterna inte 
+behandlas på ett sätt som är oförenligt med det ändamål för 
+vilket uppgifterna samlades in. Lag (2018:230).
 
 Innehåll
 
@@ -241,12 +212,12 @@ Lag (2008:883).
 
 Ändamål
 
-8 § Uppgifter får behandlas i databasen för tillhandahållande 
-av information som behövs i Kronofogdemyndighetens verksamhet 
-för
+8 § Uppgifter får behandlas i databasen för att 
+tillhandahålla information som behövs i 
+Kronofogdemyndighetens verksamhet för
 
 1. handläggningen av mål om betalningsföreläggande, 
-handräckning eller europeiskt betalningsföreläggande,
+handräckning eller europeiskt betalningsföreläggande, 
 
 2. tillhandahållande av utslag i mål om 
 betalningsföreläggande och handräckning samt 
@@ -257,24 +228,28 @@ betalningsföreläggande,
 skuldsanering och F-skuldsanering, och
 
 4. tillsyn, kontroll, uppföljning och planering av 
-verksamheten.
+verksamheten. Lag (2018:230).
 
-Uppgifter som får behandlas enligt första stycket får även 
-behandlas i databasen för tillhandahållande av information 
-som behövs i Kronofogdemyndighetens verksamhet för 
-handläggning av ärenden om skuldsanering och 
-F-skuldsanering. Lag (2016:685).
+9 § Uppgifter som behandlas enligt 8 § får även behandlas 
+i databasen för
 
-9 § Uppgifter får behandlas i databasen för att 
-tillhandahålla information som behövs i författningsreglerad 
-verksamhet hos någon annan än Kronofogdemyndigheten för 
-tillsyn samt lämplighets- och tillståndsprövning och annan 
-liknande prövning.
+1. att tillhandahålla information som behövs i 
+författningsreglerad verksamhet hos någon annan än 
+Kronofogdemyndigheten för tillsyn samt lämplighets- och 
+tillståndsprövning och annan liknande prövning,
 
-Uppgifter får även behandlas i databasen för att 
-tillhandahålla information i den utsträckning som en 
-skyldighet att lämna uppgifterna följer av lag eller 
-förordning. Lag (2016:779).
+2. att tillhandahålla information som behövs i 
+Kronofogdemyndighetens verksamhet för handläggning av ärenden 
+om skuldsanering och 
+
+F-skuldsanering,
+
+3. att fullgöra uppgiftslämnande som sker i överensstämmelse 
+med lag eller förordning, och
+
+4. andra ändamål, under förutsättning att uppgifterna inte 
+behandlas på ett sätt som är oförenligt med det ändamål för 
+vilket uppgifterna samlades in. Lag (2018:230).
 
 Innehåll
 
@@ -324,8 +299,8 @@ Lag (2016:685).
 
 Ändamål
 
-14 § Uppgifter får behandlas i 
-databasen för tillhandahållande av information som behövs i 
+14 § Uppgifter får behandlas i databasen för att 
+tillhandahålla information som behövs i 
 Kronofogdemyndighetens verksamhet för
 
 1. handläggning av ärenden om skuldsanering och 
@@ -334,18 +309,22 @@ F-skuldsanering,
 2. förebyggande av överskuldsättning, och
 
 3. tillsyn, kontroll, uppföljning och planering av 
-verksamheten. Lag (2016:685).
+verksamheten. Lag (2018:230).
 
-15 § Uppgifter får behandlas i databasen för att 
-tillhandahålla information som behövs i författningsreglerad 
-verksamhet hos någon annan än Kronofogdemyndigheten för 
-tillsyn samt lämplighets- och tillståndsprövning och annan 
-liknande prövning.
+15 § Uppgifter som behandlas enligt 14 § får även behandlas 
+i databasen för
 
-Uppgifter får även behandlas i databasen för att 
-tillhandahålla information i den utsträckning som en 
-skyldighet att lämna uppgifterna följer av lag eller 
-förordning. Lag (2016:779).
+1. att tillhandahålla information som behövs i 
+författningsreglerad verksamhet hos någon annan än 
+Kronofogdemyndigheten för tillsyn samt lämplighets- och 
+tillståndsprövning och annan liknande prövning,
+
+2. att fullgöra uppgiftslämnande som sker i överensstämmelse 
+med lag eller förordning, och
+
+3. andra ändamål, under förutsättning att uppgifterna inte 
+behandlas på ett sätt som är oförenligt med det ändamål för 
+vilket uppgifterna samlades in. Lag (2018:230).
 
 Innehåll
 
@@ -405,29 +384,34 @@ används gemensamt i verksamheten för de ändamål som anges i
 
 Ändamål
 
-20 § Uppgifter får behandlas i databasen för 
-tillhandahållande av information som behövs i 
+20 § Uppgifter får behandlas i databasen för att 
+tillhandahålla information som behövs i 
 Kronofogdemyndighetens verksamhet för
 
 1. handläggningen av konkurstillsynsärenden och mål enligt 
-lönegarantilagen (1992:497),
+lönegarantilagen (1992:497), 
 
 2. förebyggande av överskuldsättning och information om 
 skuldsanering och F-skuldsanering, och
 
 3. tillsyn, kontroll, uppföljning och planering av 
-verksamheten.
+verksamheten. Lag (2018:230).
 
-Uppgifter som får behandlas enligt första stycket får även 
-behandlas i databasen för tillhandahållande av information 
-som behövs i Kronofogdemyndighetens verksamhet för 
-handläggning av ärenden om skuldsanering och 
-F-skuldsanering. Lag (2016:685).
+20 a § Uppgifter som behandlas enligt 20 § får även 
+behandlas i databasen för
 
-20 a § Uppgifter får utöver det som anges i 20 § behandlas i 
-databasen för att tillhandahålla information i den 
-utsträckning som en skyldighet att lämna uppgifterna följer 
-av lag eller förordning. Lag (2016:779).
+1. att tillhandahålla information som behövs i 
+Kronofogdemyndighetens verksamhet för handläggning av ärenden 
+om skuldsanering och 
+
+F-skuldsanering,
+
+2. att fullgöra uppgiftslämnande som sker i överensstämmelse 
+med lag eller förordning, och
+
+3. andra ändamål, under förutsättning att uppgifterna inte 
+behandlas på ett sätt som är oförenligt med det ändamål för 
+vilket uppgifterna samlades in. Lag (2018:230).
 
 Innehåll
 
@@ -539,14 +523,18 @@ om uppgifter om utslag i målet. Lag (2009:494).
 
 Övriga bestämmelser
 
-30 § Kronofogdemyndigheten får ta ut avgifter för att lämna ut
-uppgifter ur en databas enligt de närmare föreskrifter som
-meddelas av regeringen.
+30 § Kronofogdemyndigheten får ta ut avgifter för att 
+lämna ut uppgifter ur en databas enligt de närmare 
+föreskrifter som meddelas av regeringen.
 
-Rätten att ta ut avgifter enligt första stycket får inte
-innebära inskränkning i rätten att ta del av och mot fastställd
-avgift få kopia eller utskrift av allmän handling enligt
-tryckfrihetsförordningen. Lag (2006:733).
+Rätten att ta ut avgifter får inte innebära en inskränkning i 
+
+1. rätten att ta del av och mot fastställd avgift få kopia 
+eller utskrift av en allmän handling enligt 
+tryckfrihetsförordningen, eller
+
+2. en registrerads rätt enligt artikel 12.5 i EU:s 
+dataskyddsförordning. Lag (2018:230).
 
 31 § Vad som sägs i 6, 12, 18 och 23 §§ hindrar inte att
 regeringen eller den myndighet som regeringen bestämmer
@@ -555,54 +543,51 @@ bevaras under längre tid än som anges i nämnda bestämmelser.
 
 3 kap. Enskildas rättigheter
 
-Information till den registrerade
+1 § Har upphävts genom lag (2018:230).
 
-1 § Vid tillämpningen av denna lag gäller bestämmelserna om
-information till den registrerade i 23 och 25-27 §§
-personuppgiftslagen (1998:204), med den begränsning som anges i
-2 §.
+2 § Har upphävts  genom lag (2018:230).
 
-2 § Information som skall lämnas enligt 26 §
-personuppgiftslagen (1998:204) behöver inte omfatta uppgift i
-en handling som avses i 2 kap. 24 §, om den enskilde har tagit
-del av handlingens innehåll. Om den enskilde begär det skall
-dock informationen även omfatta uppgift i en sådan handling.
 
-Om informationen inte innehåller handling som avses i första
-stycket, skall det av informationen framgå att handlingen
-behandlas i databasen.
+3 § Har upphävts genom lag (2018:230).
 
-Rättelse och skadestånd
+Rätten att göra invändningar
 
-3 § Bestämmelserna i personuppgiftslagen (1998:204) om
-skadestånd gäller vid behandling av personuppgifter enligt
-denna lag eller anslutande författningar. Lag (2008:213).
+3 § Artikel 21.1 i EU:s dataskyddsförordning om rätten att 
+göra invändningar gäller inte vid sådan behandling som är 
+tillåten enligt denna lag eller föreskrifter som har 
+meddelats i anslutning till lagen. Lag (2018:230).
 
-3 a § Kronofogdemyndigheten ska på begäran av den registrerade
-snarast rätta, blockera eller utplåna sådana uppgifter som
+Rättelse
 
-1. inte har behandlats i enlighet med denna lag eller
+3 a § Kronofogdemyndigheten ska på begäran av den 
+registrerade snarast rätta, blockera eller utplåna sådana 
+uppgifter som
+
+1. inte har behandlats i enlighet med denna lag eller 
 anslutande författningar, eller
 
-2. är missvisande i fråga om den registrerades vilja eller
+2. är missvisande i fråga om den registrerades vilja eller 
 förmåga att uppfylla sina ekonomiska förpliktelser.
 
-Om uppgifterna lämnats ut till tredje man, ska
-Kronofogdemyndigheten underrätta denne om åtgärd enligt första
-stycket, om den registrerade begär det eller om mera betydande
-skada eller olägenhet för den registrerade kan undvikas på
-detta sätt. Någon underrättelse behöver dock inte lämnas, om
-detta skulle innebära en oproportionerligt stor arbetsinsats.
-Lag (2008:213).
+Om uppgifterna lämnats ut till tredje man, ska 
+Kronofogdemyndigheten underrätta denne om åtgärd enligt 
+första stycket, om den registrerade begär det eller om mera 
+betydande skada eller olägenhet för den registrerade kan 
+undvikas på detta sätt. Någon underrättelse behöver dock inte 
+lämnas, om detta skulle innebära en oproportionerligt stor 
+arbetsinsats.
+
+I fråga om personuppgifter finns bestämmelser om rättelse 
+m.m. också i EU:s dataskyddsförordning. Lag (2018:230).
 
 Överklagande
 
-4 § En myndighets beslut om rättelse och om information som
-skall lämnas enligt 26 § personuppgiftslagen (1998:204) får
-överklagas hos allmän förvaltningsdomstol. Andra beslut enligt
-denna lag får inte överklagas.
+4 § Beslut om rättelse enligt 3 a § första stycket får 
+överklagas till allmän förvaltningsdomstol.
 
-Prövningstillstånd krävs vid överklagande till kammarrätten.
+Prövningstillstånd krävs vid överklagande till 
+kammarrätten. Lag (2018:230).
+
 
 Övergångsbestämmelser
 
@@ -632,3 +617,10 @@ denna lag.
 omständighet som yrkandet hänför sig till har inträffat efter
 det att lagen har trätt i kraft beträffande den aktuella
 behandlingen.
+
+2018:230
+
+1. Denna lag träder i kraft den 25 maj 2018. 
+
+2. Äldre föreskrifter om straff gäller fortfarande för 
+överträdelser som har skett före ikraftträdandet.
