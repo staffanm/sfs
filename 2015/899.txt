@@ -59,16 +59,24 @@ Behandling av personuppgifter i en databas
 behandling föra en databas med en samling uppgifter om 
 identitetskort för folkbokförda i Sverige.
 
-9 § Behandling av personuppgifter som är tillåten enligt 
-denna lag får utföras även om den registrerade motsätter sig 
-behandlingen.
+9 § Har upphävts genom lag (2018:233).
 
-Förhållandet till personuppgiftslagen
+Förhållandet till annan reglering
 
-10 § Vid behandling av personuppgifter i databasen gäller 
-personuppgiftslagen (1998:204) om inte annat följer av denna 
-lag eller föreskrifter som har meddelats i anslutning till 
-lagen.
+10 § Denna lag innehåller bestämmelser som kompletterar 
+Europaparlamentets och rådets förordning (EU) 2016/679 av den 
+27 april 2016 om skydd för fysiska personer med avseende på 
+behandling av personuppgifter och om det fria flödet av 
+sådana uppgifter och om upphävande av direktiv 95/46/EG 
+(allmän dataskyddsförordning), här benämnd EU:s 
+dataskyddsförordning.
+
+Vid behandling av personuppgifter enligt denna lag gäller 
+lagen (2018:218) med kompletterande bestämmelser till EU:s 
+dataskyddsförordning och föreskrifter som har meddelats i 
+anslutning till den lagen, om inte annat följer av denna lag 
+eller föreskrifter som har meddelats i anslutning till 
+lagen. Lag (2018:233).
 
 Personuppgiftsansvar
 
@@ -77,23 +85,26 @@ den behandling av personuppgifter som myndigheten utför.
 
 Ändamål
 
-12 § Personuppgifter får behandlas i databasen om det behövs 
-i den utfärdande myndighetens verksamhet för utfärdande av 
-identitetskort.
+12 § Personuppgifter får behandlas i databasen om det 
+behövs i den utfärdande myndighetens verksamhet för 
+utfärdande av identitetskort.
 
 Personuppgifter som behandlas enligt första stycket får också 
 behandlas om det behövs för att fullgöra uppgiftsutlämnande 
-som sker i överensstämmelse med lag eller förordning. I 
-övrigt gäller 9 § första stycket  d och andra stycket 
-personuppgiftslagen (1998:204).
+som sker i överensstämmelse med lag eller förordning. Sådana 
+uppgifter får behandlas även för andra ändamål, under 
+förutsättning att uppgifterna inte behandlas på ett sätt som 
+är oförenligt med det ändamål för vilket uppgifterna samlades 
+in. Lag (2018:233).
 
 Innehållet i databasen
 
-13 § Känsliga personuppgifter som anges i 13 § 
-personuppgiftslagen (1998:204) får behandlas i en handling 
-som har lämnats i ett ärende. Sådana uppgifter får behandlas 
-även i en handling som har upprättats i ett ärende, om de är 
-nödvändiga för ärendets handläggning.
+13 § Personuppgifter som avses i artikel 9.1 i EU:s 
+dataskyddsförordning (känsliga personuppgifter) får behandlas 
+i en handling som har lämnats i ett ärende. Sådana uppgifter 
+får behandlas även i en handling som har upprättats i ett 
+ärende, om de är nödvändiga för ärendets handläggning.
+Lag (2018:233).
 
 14 § En kopia av den ansiktsbild som identitetskortet har 
 försetts med får behandlas i databasen.
@@ -114,15 +125,17 @@ Sökbegränsningar
 vid sökning med hjälp av automatiserad behandling.
 
 Känsliga personuppgifter som avses i 13 § och uppgifter om 
-lagöverträdelser som avses i 21 § personuppgiftslagen 
-(1998:204) får inte användas som sökbegrepp.
+lagöverträdelser som innefattar brott, domar i brottmål, 
+straffprocessuella tvångsmedel eller administrativa 
+frihetsberövanden får inte användas som sökbegrepp.
+Lag (2018:233).
 
-Rättelse och skadestånd
+Rätten att göra invändningar
 
-18 § Bestämmelserna i personuppgiftslagen (1998:204) om 
-rättelse och skadestånd tillämpas också vid behandling av 
-personuppgifter i strid med denna lag eller föreskrifter som 
-har meddelats i anslutning till lagen.
+18 § Artikel 21.1 i EU:s dataskyddsförordning om rätten 
+att göra invändningar gäller inte vid sådan behandling som är 
+tillåten enligt denna lag eller föreskrifter som har 
+meddelats i anslutning till lagen. Lag (2018:233).
 
 Övriga bestämmelser
 
