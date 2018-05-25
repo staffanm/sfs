@@ -1046,43 +1046,6 @@ annat motordrivet fordon med
 dubbdäck än moped klass II	Avser förbudet även moped klass 
 				II anges det på en tilläggstavla.	
 
-/Upphör att gälla U:2018-04-01/
-C45 Särskilda bestämmelser 
-för stannande och parkering	Märket anger det förbud som 
-				anges med det infogade märket. 
-				Märket kan också ange avvikelse 
-				från den reglering som anges med 
-				det märke som den är uppsatt under.
-
-				Andra förbud kan anges med märket. 
-				Transportstyrelsen får meddela 
-				föreskrifter om vilka andra 
-				förbudsmärken som får infogas.
-
-				Märket är uppsatt under något 
-				av märkena C35, förbud mot att 
-				parkera fordon, C36, förbud mot 
-				att parkera fordon på dag med udda 
-				datum, C37, förbud mot att parkera 
-				fordon på dag med jämnt datum, C38, 
-				datumparkering, C39, förbud mot att 
-				stanna och parkera fordon, C40, 
-				ändamålsplats, C42, vändplats, D10, 
-				påbjudet körfält eller körbana för 
-				fordon i linjetrafik m.fl., E19, 
-				parkering eller E20, områdesmärke.
-
-				Märke E20, områdesmärke, får vara 
-				infogat. Är märket infogat gäller de 
-				närmare föreskrifterna till märke 
-				E20, områdesmärke.
-
-				För tid gäller de närmare 
-				föreskrifterna för tilläggstavla T6, 
-				tidsangivelse. Andra begränsningar 
-				kan endast vara angivna på märket.
-
-/Träder i kraft I:2018-04-01/
 C45 Särskilda bestämmelser 
 för stannande och parkering	Märket anger det förbud som 
 				anges med det infogade märket. 
@@ -1111,7 +1074,7 @@ för stannande och parkering	Märket anger det förbud som
 				Märke E20, områdesmärke, får vara
 				infogat. Är märket infogat gäller de 
 				närmare föreskrifterna till märke 
-				E20, områdesmärke.
+				E20, områdesmärke. 
 
 				För tid gäller de närmare
 				föreskrifterna för tilläggstavla T6,
@@ -1524,6 +1487,7 @@ E23 Taxi			Märket anger den, i
 				uppställningsplats för fordon 
 				som används i taxitrafik.
 
+/Upphör att gälla U:2018-05-25/
 E24 Automatisk 
 trafikövervakning		Märket anger att automatisk 
 				övervakning med kamera eller 
@@ -1543,6 +1507,36 @@ trafikövervakning		Märket anger att automatisk
 				tilläggstavla T1, vägsträckas 
 				längd. Märket upprepas på 
 				lämpliga avstånd.
+/Träder i kraft I:2018-05-25/
+E24 Automatisk 
+trafikövervakning		Märket anger att automatisk
+				övervakning med kamera eller 
+				motsvarande kan ske på en 
+				plats eller vägsträcka för 
+				övervakning av trafikregler, 
+				beskattning eller 
+				avgiftsbeläggning. Märket 
+				anger vidare att personuppgifter 
+				kan registreras enligt 
+				Europaparlamentets och rådets 
+				förordning (EU) 2016/679 av den 
+				27 april 2016 om skydd för 
+				fysiska personer med avseende 
+				på behandling av personuppgifter 
+				och om det fria flödet av sådana 
+				uppgifter och om upphävande av 
+				direktiv 95/46/EG (allmän 
+				dataskyddsförordning), lagen 
+				(2018:218) med kompletterande 
+				bestämmelser till EU:s 
+				dataskyddsförordning, lagen 
+				(2001:558) om vägtrafikregister 
+				eller någon annan registerlag. 
+				Gäller anvisningen en längre 
+				vägsträcka, anges sträckans 
+				längd på tilläggstavla T1, 
+				vägsträckas längd. Märket 
+				upprepas på lämpliga avstånd.
 
 E25 Betalväg			Märket anger att avgift eller 
 				särskild skatt ska betalas vid 
@@ -1612,7 +1606,7 @@ för parkering			Märket anger att parkering är
 				eller körbana för fordon i 
 				linjetrafik m.fl., E19, parkering, 
 				eller E22, busshållplats.
-Förordning (2017:923).
+Förordning (2018:384).
 
 Lokaliseringsmärken för vägvisning
 
