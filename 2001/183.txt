@@ -19,39 +19,22 @@ samling av personuppgifter som är tillgängliga för sökning
 eller sammanställning enligt särskilda kriterier.
 Lag (2005:846).
 
-Förhållandet till personuppgiftslagen
+Förhållandet till annan reglering
 
-2 § Om inte annat anges i 3 § eller 3 kap. gäller denna lag i
-stället för personuppgiftslagen (1998:204).
+2 § Denna lag kompletterar Europaparlamentets och rådets 
+förordning (EU) 2016/679 av den 27 april 2016 om skydd för 
+fysiska personer med avseende på behandling av 
+personuppgifter och om det fria flödet av sådana uppgifter 
+och om upphävande av direktiv 95/46/EG (allmän 
+dataskyddsförordning), här benämnd EU:s 
+dataskyddsförordning. Lag (2018:221).
 
-En registrerad har inte rätt att motsätta sig sådan behandling
-som är tillåten enligt denna lag.
-
-3 § När personuppgifter behandlas enligt denna lag eller enligt
-andra föreskrifter i det ämne som regleras i lagen gäller
-personuppgiftslagens (1998:204) bestämmelser om
-
-1. definitioner i 3 §,
-
-2. förhållandet till offentlighetsprincipen m.m. i 8 §,
-
-3. grundläggande krav på behandling i 9 § med undantag för vad
-som sägs i första stycket i och tredje stycket,
-
-4. säkerheten vid behandling i 30-32 §§,
-
-5. överföring av personuppgifter till tredje land i 33-35 §§,
-
-6. personuppgiftsombud, m.m. i 36 § andra stycket och 38-41 §§,
-
-7. upplysningar till allmänheten om vissa behandlingar i 42 §,
-
-8. tillsynsmyndighetens befogenheter i 43 och 47 §§, och
-
-9. straff i 49 §.
-
-Vid behandling av personuppgifter som inte sker i databaser
-gäller även 22 § personuppgiftslagen.
+3 § Vid behandling av personuppgifter enligt denna lag 
+gäller lagen (2018:218) med kompletterande bestämmelser till 
+EU:s dataskyddsförordning och föreskrifter som har meddelats 
+i anslutning till den lagen, om inte annat följer av denna 
+lag eller föreskrifter som har meddelats i anslutning till 
+lagen. Lag (2018:221).
 
 Ändamål
 
@@ -71,6 +54,12 @@ verksamheten.
 samhällets behov av uppgifter i samband med val och
 folkomröstningar.
 
+5 a § Personuppgifter som behandlas enligt 4 eller 5 § får 
+behandlas även för andra ändamål, under förutsättning att 
+uppgifterna inte behandlas på ett sätt som är oförenligt med 
+det ändamål för vilket uppgifterna samlades in.
+Lag (2018:221).
+
 Personuppgiftsansvar
 
 6 § Den centrala valmyndigheten, Sametinget och
@@ -80,14 +69,22 @@ utföra. Lag (2004:539).
 
 Behandling av känsliga personuppgifter m.m.
 
-7 § Känsliga personuppgifter som anges i 13 §
-personuppgiftslagen (1998:204) och uppgifter om
-lagöverträdelser m.m. som anges i 21 § samma lag får behandlas
-endast om uppgifterna har lämnats i ett ärende eller är
-nödvändiga för handläggningen av det.
+7 § Personuppgifter som avses i artikel 9.1 i EU:s 
+dataskyddsförordning (känsliga personuppgifter) och 
+personuppgifter som avses i artikel 10 i förordningen får 
+behandlas endast om uppgifterna har lämnats i ett ärende 
+eller är nödvändiga för handläggningen av det. 
 
-Uppgifter som avses i första stycket får i annat fall behandlas
-endast om det särskilt anges i 2 kap.
+Uppgifter som avses i första stycket får i annat fall 
+behandlas endast om det särskilt anges i 2 kap.
+Lag (2018:221).
+
+Rätten att göra invändningar
+
+8 § Artikel 21.1 i EU:s dataskyddsförordning om rätten att 
+göra invändningar gäller inte vid sådan behandling som är 
+tillåten enligt denna lag eller föreskrifter som har 
+meddelats i anslutning till lagen. Lag (2018:221).
 
 2 kap. Databaser
 
@@ -191,14 +188,19 @@ som anges i 12 §.
 
 Avgifter
 
-14 § Den centrala valmyndigheten och länsstyrelserna får ta ut
-avgifter för att lämna ut uppgifter ur databasen enligt de
-närmare föreskrifter som meddelas av regeringen.
+14 § Den centrala valmyndigheten och länsstyrelserna får 
+ta ut avgifter för att lämna ut uppgifter ur databasen. 
+Regeringen kan med stöd av 8 kap. 7 § regeringsformen meddela 
+föreskrifter om sådana avgifter. 
 
-Rätten att ta ut avgifter enligt första stycket får inte
-innebära inskränkning i rätten att ta del av och mot fastställd
-avgift få kopia eller utskrift av en allmän handling enligt
-tryckfrihetsförordningen. Lag (2002:66).
+Rätten att ta ut avgifter får inte innebära en inskränkning i 
+
+1. rätten att ta del av och mot fastställd avgift få kopia 
+eller utskrift av en allmän handling enligt 
+tryckfrihetsförordningen, eller 
+
+2. en registrerads rätt enligt artikel 12.5 i EU:s 
+dataskyddsförordning. Lag (2018:221).
 
 Databas för sametingsvalet
 
@@ -265,48 +267,22 @@ ytterligare bevarande. Lag (2004:539).
 Avgifter för utlämnande av uppgifter ur databasen för
 sametingsvalet
 
-24 § Den centrala valmyndigheten, Sametinget och länsstyrelsen
-får ta ut avgifter för att lämna ut uppgifter ur databasen
-enligt de närmare föreskrifter som meddelas av regeringen.
+24 § Den centrala valmyndigheten, Sametinget och 
+länsstyrelsen får ta ut avgifter för att lämna ut uppgifter 
+ur databasen för sametingsvalet. Regeringen kan med stöd av 8 
+kap. 7 § regeringsformen meddela föreskrifter om sådana 
+avgifter. 
 
-Rätten att ta ut avgifter får inte innebära inskränkning i
-rätten att ta del av och mot fastställd avgift få kopia eller
-utskrift av en allmän handling enligt tryckfrihetsförordningen.
-Lag (2004:539).
+Rätten att ta ut avgifter får inte innebära en inskränkning i 
 
-3 kap. Enskildas rättigheter
+1. rätten att ta del av och mot fastställd avgift få kopia 
+eller utskrift av en allmän handling enligt 
+tryckfrihetsförordningen, eller 
 
-Information till den registrerade
+2. en registrerads rätt enligt artikel 12.5 i EU:s 
+dataskyddsförordning. Lag (2018:221).
 
-1 § Vid tillämpningen av denna lag gäller bestämmelserna om
-information till den registrerade i 23 och 25-27 §§
-personuppgiftslagen (1998:204), med den begränsning som anges i
-2 §.
-
-2 § Information som skall lämnas enligt 26 §
-personuppgiftslagen (1998:204) behöver inte omfatta uppgift i
-en handling som avses i 2 kap. 6 §, om den enskilde har tagit
-del av handlingens innehåll. Om den enskilde begär det skall
-dock informationen även omfatta uppgift i en sådan handling.
-
-Om informationen inte innehåller handling som avses i första
-stycket, skall det av informationen framgå att handlingen
-behandlas i databasen.
-
-Rättelse och skadestånd
-
-3 § Bestämmelserna i personuppgiftslagen (1998:204) om rättelse
-och skadestånd gäller vid behandling av personuppgifter enligt
-denna lag eller anslutande författningar.
-
-Överklagande
-
-4 § En myndighets beslut om rättelse och om information som
-skall lämnas enligt 26 § personuppgiftslagen (1998:204) får
-överklagas hos allmän förvaltningsdomstol. Andra beslut enligt
-denna lag får inte överklagas.
-
-Prövningstillstånd krävs vid överklagande till kammarrätten.
+3 kap. Har upphävts genom lag (2018:221).
 
 Övergångsbestämmelser
 
@@ -337,3 +313,10 @@ denna lag.
 omständighet som yrkandet hänför sig till har inträffat efter
 det att lagen har trätt i kraft beträffande den aktuella
 behandlingen.
+
+2018:221
+
+1. Denna lag träder i kraft den 25 maj 2018.
+
+2. Äldre föreskrifter om straff gäller fortfarande för 
+överträdelser som har skett före ikraftträdandet.
