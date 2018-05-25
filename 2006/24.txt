@@ -34,16 +34,21 @@ namnserver: dator i ett elektroniskt kommunikationsnät som
 programmerats så att den lagrar och distribuerar information om
 domännamn samt tar emot och svarar på frågor om domännamn.
 
-Förhållandet till personuppgiftslagen
+Förhållandet till annan dataskyddsreglering
 
-3 § Bestämmelserna i personuppgiftslagen (1998:204) gäller vid
-behandling av personuppgifter i administrationen av en
-nationell toppdomän för Sverige, om inte annat följer av denna
-lag.
+3 § Bestämmelserna i 6 § kompletterar Europaparlamentets 
+och rådets förordning (EU) 2016/679 av den 27 april 2016 om 
+skydd för fysiska personer med avseende på behandling av 
+personuppgifter och om det fria flödet av sådana uppgifter 
+och om upphävande av direktiv 95/46/EG (allmän 
+dataskyddsförordning).
 
-Bestämmelserna i personuppgiftslagen om rättelse och skadestånd
-gäller även vid behandling av personuppgifter enligt denna lag
-eller enligt föreskrifter som meddelats med stöd av lagen.
+Vid behandling av personuppgifter enligt denna lag gäller 
+lagen (2018:218) med kompletterande bestämmelser till EU:s 
+dataskyddsförordning och föreskrifter som har meddelats i 
+anslutning till den lagen, om inte annat följer av denna lag 
+eller föreskrifter som har meddelats i anslutning till 
+lagen. Lag (2018:367).
 
 Anmälan
 

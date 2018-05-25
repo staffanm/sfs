@@ -283,26 +283,34 @@ stycket 5 och 2 kap. 4 § första stycket 2 och 3, och
 
 Allmänna bestämmelser
 
-1 § I detta kapitel finns bestämmelser om register över
-förarbevis (förarbevisregistret), kompletterande intyg
-(intygsregister) och tillståndshavare (tillståndsregistret).
+1 § I detta kapitel finns bestämmelser om register över 
+förarbevis (förarbevisregistret), kompletterande intyg 
+(intygsregister) och tillståndshavare 
+(tillståndsregistret).
 
-Personuppgiftslagen (1998:204) gäller vid behandling av
-personuppgifter i de register som anges i första stycket, om
-inte annat följer av denna lag eller förordning som har
-meddelats med stöd av lagen.
+Bestämmelserna kompletterar Europaparlamentets och rådets 
+förordning (EU) 2016/679 av den 27 april 2016 om skydd för 
+fysiska personer med avseende på behandling av 
+personuppgifter och om det fria flödet av sådana uppgifter 
+och om upphävande av direktiv 95/46/EG (allmän 
+dataskyddsförordning), här benämnd EU:s dataskyddsförordning.
+
+Vid behandling av personuppgifter enligt denna lag gäller 
+lagen (2018:218) med kompletterande bestämmelser till EU:s 
+dataskyddsförordning och föreskrifter som har meddelats i 
+anslutning till den lagen, om inte annat följer av denna lag 
+eller föreskrifter som har meddelats i anslutning till 
+lagen. Lag (2018:371).
 
 2 § Personuppgifter får behandlas i registren endast för de
 ändamål som anges i denna lag.
 
-3 § Behandling av personuppgifter som är tillåten enligt denna
-lag får utföras även om den enskilde motsätter sig
-behandlingen.
+3 § Artikel 21.1 i EU:s dataskyddsförordning om rätten att 
+göra invändningar gäller inte vid sådan behandling som är 
+tillåten enligt denna lag eller föreskrifter som har 
+meddelats i anslutning till lagen. Lag (2018:371).
 
-4 § Bestämmelserna i personuppgiftslagen (1998:204) om
-rättelse och skadestånd gäller vid behandling av
-personuppgifter enligt denna lag eller enligt föreskrifter som
-har meddelats i anslutning till denna lag.
+4 § Har upphävts genom lag (2018:371).
 
 5 § Personuppgifter som behandlas i registren ska gallras när
 de inte längre är nödvändiga för de ändamål med behandlingen
@@ -327,22 +335,30 @@ uppgifter som behövs för tillämpningen av denna lag när det
 gäller den som ansöker om, har eller har haft behörighet att
 framföra järnvägsfordon enligt lagen.
 
-8 § Personuppgifter som behandlas för ändamål som anges i 7 §
-får också behandlas för att fullgöra uppgiftslämnande som sker
-i överensstämmelse med 10 §, annan lag eller förordning. I
-övrigt gäller 9 § första stycket d) och andra stycket
-personuppgiftslagen (1998:204).
+8 § Personuppgifter som behandlas för ändamål som anges i 
+7 § får också behandlas för att fullgöra uppgiftslämnande som 
+sker i överensstämmelse med 10 §, annan lag eller 
+förordning.
 
-Känsliga personuppgifter om hälsa
+Personuppgifter som behandlas enligt 7 § får behandlas även 
+för andra ändamål, under förutsättning att uppgifterna inte 
+behandlas på ett sätt som är oförenligt med det ändamål för 
+vilket uppgifterna samlades in. Lag (2018:371).
 
-9 § Känsliga personuppgifter som rör den registrerades hälsa
-får behandlas i förarbevisregistret
+Känsliga personuppgifter
 
-1. om uppgifterna är nödvändiga för handläggning av ett
+9 § Sådana personuppgifter som avses i artikel 9.1 i EU:s 
+dataskyddsförordning (känsliga personuppgifter) och som rör 
+den registrerades hälsa får behandlas i förarbevisregistret
+
+1. om uppgifterna är nödvändiga för handläggning av ett 
 ärende, eller
 
-2. för något av de ändamål som anges i 8 §, om det är
+2. för något av de ändamål som anges i 8 §, om det är 
 nödvändigt med hänsyn till ändamålet.
+
+Andra känsliga personuppgifter får inte behandlas i 
+förarbevisregistret. Lag (2018:371).
 
 Rätt att få uppgifter ur förarbevisregistret
 
@@ -393,9 +409,8 @@ tillgång till uppgifterna.
 
 Begränsning av sökbegreppen
 
-13 § Känsliga personuppgifter som avses i 13 §
-personuppgiftslagen (1998:204) får inte användas som
-sökbegrepp.
+13 § Det är förbjudet att använda sökbegrepp som avslöjar 
+känsliga personuppgifter. Lag (2018:371).
 
 Intygsregister
 
@@ -415,11 +430,15 @@ uppgifter som behövs för tillämpningen av denna lag när det
 gäller den som ansöker om, har eller har haft behörighet att
 framföra järnvägsfordon enligt lagen.
 
-16 § Personuppgifter som behandlas för ändamål som anges i 15
-§ får också behandlas för att fullgöra uppgiftslämnande som
-sker i överensstämmelse med 17 §, annan lag eller förordning.
-I övrigt gäller 9 § första stycket d) och andra stycket
-personuppgiftslagen (1998:204).
+16 § Personuppgifter som behandlas för ändamål som anges i 
+15 § får också behandlas för att fullgöra uppgiftslämnande 
+som sker i överensstämmelse med 17 §, annan lag eller 
+förordning.
+
+Personuppgifter som behandlas enligt 15 § får behandlas även 
+för andra ändamål, under förutsättning att uppgifterna inte 
+behandlas på ett sätt som är oförenligt med det ändamål för 
+vilket uppgifterna samlades in. Lag (2018:371).
 
 Rätt att få uppgifter ur intygsregister
 
@@ -490,11 +509,14 @@ tillämpningen av denna lag tillhandahålla uppgifter om vilka
 fysiska och juridiska personer som har tillstånd att utföra
 uppgifter enligt denna lag.
 
-22 § Personuppgifter som behandlas för ändamål som anges i
-21 § får också behandlas för att fullgöra uppgiftslämnande som
-sker i överensstämmelse med annan lag eller förordning. I
-övrigt gäller 9 § första stycket d) och andra stycket
-personuppgiftslagen (1998:204).
+22 § Personuppgifter som behandlas för ändamål som anges i 
+21 § får också behandlas för att fullgöra uppgiftslämnande 
+som sker i överensstämmelse med annan lag eller förordning.
+
+Personuppgifter som behandlas enligt 21 § får behandlas även 
+för andra ändamål, under förutsättning att uppgifterna inte 
+behandlas på ett sätt som är oförenligt med det ändamål för 
+vilket uppgifterna samlades in. Lag (2018:371).
 
 Direktåtkomst
 
@@ -513,19 +535,21 @@ och
 enskild och utlämnande av personuppgifter på medium för
 automatiserad behandling ur sådana register.
 
-25 § Regeringen eller den myndighet som regeringen bestämmer
-får beträffande de intygsregister som inte förs av det
-allmänna meddela föreskrifter eller i det enskilda fallet
+25 § Regeringen eller den myndighet som regeringen 
+bestämmer får beträffande de intygsregister som inte förs av 
+det allmänna meddela föreskrifter eller i det enskilda fallet 
 besluta om att
 
-1. personuppgifter ska bevaras för historiska, statistiska
-eller vetenskapliga ändamål, eller
+1. personuppgifter ska bevaras för arkivändamål av allmänt 
+intresse, vetenskapliga eller historiska forskningsändamål 
+eller statistiska ändamål, eller
 
-2. gallring av personuppgifter ska ske senast vid en viss
+2. gallring av personuppgifter ska ske senast vid en viss 
 tidpunkt.
 
-Regeringen meddelar föreskrifter om bevarande och gallring som
-avses i första stycket 1 och 2 för övriga register.
+Regeringen kan med stöd av 8 kap. 7 § regeringsformen meddela 
+föreskrifter om bevarande och gallring som avses i första 
+stycket 1 och 2 för övriga register. Lag (2018:371).
 
 5 kap. Tillsyn, kontroll och tvistlösning
 

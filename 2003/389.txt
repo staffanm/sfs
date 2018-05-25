@@ -1441,55 +1441,60 @@ Särskilda definitioner
 
 1 § I detta kapitel avses med
 
-elektroniskt meddelande: all information som utbyts eller
-överförs mellan ett begränsat antal parter genom en allmänt
-tillgänglig elektronisk kommunikationstjänst, utom information
-som överförs som del av sändningar av ljudradio- och tv-
-program som är riktade till allmänheten via ett elektroniskt
-kommunikationsnät om denna information inte kan sättas i
-samband med den enskilda abonnenten eller användaren av
-informationen,
+elektroniskt meddelande: all information som utbyts eller 
+överförs mellan ett begränsat antal parter genom en allmänt 
+tillgänglig elektronisk kommunikationstjänst, utom 
+information som överförs som del av sändningar av ljudradio- 
+och tv-program som är riktade till allmänheten via ett 
+elektroniskt kommunikationsnät om denna information inte kan 
+sättas i samband med den enskilda abonnenten eller användaren 
+av informationen,
 
-integritetsincident: en händelse som leder till oavsiktlig
-eller otillåten utplåning, förlust eller ändring, eller
-otillåtet avslöjande av eller otillåten åtkomst till uppgifter
-som behandlas i samband med tillhandahållandet av allmänt
-tillgängliga elektroniska kommunikationstjänster,
+integritetsincident: en händelse som leder till oavsiktlig 
+eller otillåten utplåning, förlust eller ändring, eller 
+otillåtet avslöjande av eller otillåten åtkomst till 
+uppgifter som behandlas i samband med tillhandahållandet av 
+allmänt tillgängliga elektroniska kommunikationstjänster,
 
-internetåtkomst: möjlighet till överföring av ip-paket som ger
-användaren tillgång till internet,
+internetåtkomst: möjlighet till överföring av ip-paket som 
+ger användaren tillgång till internet,
 
-meddelandehantering: utbyte eller överföring av elektroniskt
-meddelande som inte är samtal och inte heller är information
-som överförs som del av sändningar av ljudradio- och tv-
-program,
+meddelandehantering: utbyte eller överföring av elektroniskt 
+meddelande som inte är samtal och inte heller är information 
+som överförs som del av sändningar av ljudradio- och 
+tv-program,
 
-misslyckad uppringning: uppringning som kopplas fram utan att
+misslyckad uppringning: uppringning som kopplas fram utan att 
 nå en mottagare,
 
-trafikuppgift: uppgift som behandlas i syfte att befordra ett
-elektroniskt meddelande via ett elektroniskt kommunikationsnät
-eller för att fakturera detta meddelande.
+trafikuppgift: uppgift som behandlas i syfte att befordra ett 
+elektroniskt meddelande via ett elektroniskt 
+kommunikationsnät eller för att fakturera detta meddelande.
 
-Begreppen behandling, personuppgiftsansvarig och samtycke har
-i kapitlet samma innebörd som i personuppgiftslagen (1998:204).
-Lag (2012:127).
+Begreppen behandling, personuppgiftsansvarig och samtycke har 
+i kapitlet samma innebörd som i Europaparlamentets och rådets 
+förordning (EU) 2016/679 av den 27 april 2016 om skydd för 
+fysiska personer med avseende på behandling av 
+personuppgifter och om det fria flödet av sådana uppgifter 
+och om upphävande av direktiv 95/46/EG (allmän 
+dataskyddsförordning), här benämnd EU:s 
+dataskyddsförordning. Lag (2018:366).
 
-Förhållande till annan lag
+Förhållande till annan reglering
 
-2 § I fråga om behandling av personuppgifter vid
-tillhandahållande av elektroniska kommunikationsnät och
-elektroniska kommunikationstjänster samt vid
-abonnentupplysning gäller personuppgiftslagen (1998:204), om
-inte annat följer av denna lag.
+2 § Bestämmelser om behandling av personuppgifter finns 
+förutom i detta kapitel i EU:s dataskyddsförordning och i 
+lagen (2018:218) med kompletterande bestämmelser till EU:s 
+dataskyddsförordning samt i föreskrifter som har meddelats i 
+anslutning till den lagen.
 
-Bestämmelserna i personuppgiftslagen om rättelse och
-skadestånd gäller även vid behandling av personuppgifter
-enligt denna lag.
+Bestämmelserna i EU:s dataskyddsförordning om rättelse, 
+radering, begränsning och skadestånd gäller även vid 
+behandling av personuppgifter enligt denna lag.
 
-I det allmännas verksamhet ska offentlighets- och
+I det allmännas verksamhet ska offentlighets- och 
 sekretesslagen (2009:400) tillämpas i stället för 20–23 §§.
-Lag (2009:500).
+Lag (2018:366).
 
 Säkerhet
 

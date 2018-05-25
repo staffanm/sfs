@@ -110,45 +110,50 @@ denna lag eller av Europaparlamentets och rådets direktiv
 2004/52/EG av den 29 april 2004 om driftskompatibilitet
 mellan elektroniska vägtullssystem i gemenskapen.
 
-Betalningsförmedlaren ska upprätthålla den fullständiga
-täckning av vägtullsområden som avses i första stycket. Om
-täckningen skulle ändras ska fullständig täckning
-återupprättas inom sex månader.
+Betalningsförmedlaren ska upprätthålla
 
 7 § En betalningsförmedlare ska
 
-1. när ett avtal om förmedling av vägtull träffas med en
-väganvändare informera denne om den behandling av
-personuppgifter som avtalet medför och om väganvändarens
-rättigheter enligt personuppgiftslagen (1998:204),
+1. när ett avtal om förmedling av vägtull träffas med en 
+väganvändare informera denne om den behandling av 
+personuppgifter som avtalet medför och om väganvändarens 
+rättigheter enligt Europaparlamentets och rådets förordning 
+(EU) 2016/679 av den 27 april 2016 om skydd för fysiska 
+personer med avseende på behandling av personuppgifter och om 
+det fria flödet av sådana uppgifter och om upphävande av 
+direktiv 95/46/EG (allmän dataskyddsförordning), här benämnd 
+EU:s dataskyddsförordning, och lagen (2018:218) med 
+kompletterande bestämmelser till EU:s dataskyddsförordning 
+samt föreskrifter som har meddelats i anslutning till den 
+lagen,
 
-2. informera väganvändarna om sin täckning enligt 6 § och
+2. informera väganvändarna om sin täckning enligt 6 § och 
 eventuella förändringar av den,
 
-3. vid behov förse de väganvändare med vilka avtal om
-förmedling av vägtull har träffats med fordonsutrustning som
-uppfyller föreskrivna tekniska krav och visa att utrustningen
+3. vid behov förse de väganvändare med vilka avtal om 
+förmedling av vägtull har träffats med fordonsutrustning som 
+uppfyller föreskrivna tekniska krav och visa att utrustningen 
 uppfyller kraven,
 
-4. tillhandahålla lämpliga tjänster och tekniskt stöd för
+4. tillhandahålla lämpliga tjänster och tekniskt stöd för 
 anpassning av fordonsutrustning,
 
-5. ansvara för de fasta parametrar för klassificering av ett
-fordon som är lagrade i fordonsutrustningen eller hos
+5. ansvara för de fasta parametrar för klassificering av ett 
+fordon som är lagrade i fordonsutrustningen eller hos 
 betalningsförmedlaren,
 
-6. se till att variabla parametrar för klassificering av ett
+6. se till att variabla parametrar för klassificering av ett 
 fordon kan ställas in manuellt genom fordonsutrustningen,
 
-7. föra en förteckning över fordonsutrustning som inte längre
-är godkänd och som hänför sig till ett avtal mellan
+7. föra en förteckning över fordonsutrustning som inte längre 
+är godkänd och som hänför sig till ett avtal mellan 
 förmedlaren och en väganvändare,
 
-8. offentliggöra sina villkor för att träffa avtal med en
+8. offentliggöra sina villkor för att träffa avtal med en 
 väganvändare, och
 
-9. samarbeta med avgiftsupptagare vid indrivning av
-vägtullar.
+9. samarbeta med avgiftsupptagare vid indrivning av 
+vägtullar. Lag (2018:373).
 
 8 § I en faktura till en väganvändare ska
 betalningsförmedlaren specificera vägtullarna. Tidpunkt och
@@ -256,15 +261,7 @@ räkning tar upp vägtullar, underrätta varje
 betalningsförmedlare om godkända färdvägsdeklarationer för
 deras respektive väganvändare.
 
-20 § /Upphör att gälla U:2018-05-01/
-Om en betalningsförmedlare får kännedom om att en
-godkänd färdvägsdeklaration saknas för ett fordons passage av
-en betalstation, ska betalningsförmedlaren informera den
-berörda väganvändaren om bristen och ge denne möjlighet att
-reglera sin skuld innan indrivning får ske.
-
-20 § /Träder i kraft I:2018-05-01/
-Om en betalningsförmedlare får kännedom om att en 
+20 § Om en betalningsförmedlare får kännedom om att en 
 godkänd färdvägsdeklaration saknas för ett fordons passage av 
 en betalstation eller kontrollpunkt, ska 
 betalningsförmedlaren informera den berörda väganvändaren om 
@@ -311,27 +308,30 @@ avspeglar parternas kostnader och risker.
 
 Personuppgiftsansvar
 
-25 § I fråga om behandling av personuppgifter finns
-bestämmelser i personuppgiftslagen (1998:204).
+25 § Bestämmelser om behandling av personuppgifter finns i 
+EU:s dataskyddsförordning och i lagen (2018:218) med 
+kompletterande bestämmelser till EU:s dataskyddsförordning 
+samt i föreskrifter som har meddelats i anslutning till den 
+lagen.
 
-En avgiftsupptagare, eller den som för avgiftsupptagarens
-räkning tar upp vägtullar, är personuppgiftsansvarig enligt
-personuppgiftslagen för den behandling av personuppgifter som
-en underrättelse enligt 19 § innebär.
+En avgiftsupptagare, eller den som för avgiftsupptagarens 
+räkning tar upp vägtullar, är personuppgiftsansvarig för den 
+behandling av personuppgifter som en underrättelse enligt 
+19 § innebär.
 
-En betalningsförmedlare är personuppgiftsansvarig enligt
-personuppgiftslagen för den behandling av personuppgifter som
-verksamheten innebär.
+En betalningsförmedlare är personuppgiftsansvarig för den 
+behandling av personuppgifter som verksamheten innebär.
+Lag (2018:373).
 
 Vägtullsregistret
 
-26 § Den myndighet som regeringen bestämmer ska föra ett
-register över vägtullsområden och betalningsförmedlare
+26 § Den myndighet som regeringen bestämmer ska föra ett 
+register över vägtullsområden och betalningsförmedlare 
 (vägtullsregistret).
 
-Den myndighet som avses i första stycket är
-personuppgiftsansvarig för registret enligt
-personuppgiftslagen (1998:204).
+Den myndighet som avses i första stycket är 
+personuppgiftsansvarig för behandlingen av personuppgifter i 
+registret. Lag (2018:373).
 
 27 § Vägtullsregistret ska ha till ändamål att inom ramen för
 det europeiska systemet för elektroniska vägtullar
@@ -362,15 +362,18 @@ avtal om förmedling av vägtull med.
 
 Tillsyn
 
-28 § Den myndighet som regeringen bestämmer utövar tillsyn
-över att avgiftsupptagare på enskild väg och
-betalningsförmedlare följer denna lag och föreskrifter som
-har meddelats i anslutning till lagen samt över att den
-tekniska utrustningen i ett vägtullssystem uppfyller
+28 § Den myndighet som regeringen bestämmer utövar tillsyn 
+över att avgiftsupptagare på enskild väg och 
+betalningsförmedlare följer denna lag och föreskrifter som 
+har meddelats i anslutning till lagen samt över att den 
+tekniska utrustningen i ett vägtullssystem uppfyller 
 föreskrivna krav.
 
-I personuppgiftslagen (1998:204) finns bestämmelser om
-tillsyn över behandlingen av personuppgifter.
+I EU:s dataskyddsförordning och i lagen (2018:218) med 
+kompletterande bestämmelser till EU:s dataskyddsförordning 
+samt i föreskrifter som har meddelats i anslutning till den 
+lagen finns bestämmelser om tillsyn över behandlingen av 
+personuppgifter. Lag (2018:373).
 
 29 § Tillsynsmyndigheten har rätt att på begäran få de
 upplysningar och ta del av de handlingar som behövs för
