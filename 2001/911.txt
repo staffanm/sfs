@@ -806,6 +806,19 @@ ikraftträdandet.
 anmälningar som har kommit in till Finansinspektionen före 
 ikraftträdandet.
 
+2018:1823
+
+1. Denna förordning träder i kraft den 1 januari 2019.
+
+2. I fråga om ansökningar om likställande av 
+avvecklingssystem enligt 9 a § lagen (1999:1309) om system 
+för avveckling av förpliktelser på finansmarknaden får 
+avgifter enligt denna förordning tas ut även för ansökningar 
+som kommit in till Finansinspektionen före ikraftträdandet. 
+Äldre bestämmelser gäller dock i fråga om övriga ansökningar 
+eller anmälningar som har kommit in till Finansinspektionen 
+före ikraftträdandet. Förordning (2018:2050).
+
 
 Bilaga
 
@@ -1041,11 +1054,11 @@ Tillstånd att verkställa fusionsavtal (10 kap. 5 §)             G
 Lagen (1996:1006) om valutaväxling och annan 
 finansiell verksamhet
 
-Ansökan av fysisk person som avser att ägna sig åt
-valutaväxling m.m. (2 §)				 	G
+Ansökan av fysisk person som avser att ägna sig åt 
+valutaväxling m.m. (2 §)					I
 
 Ansökan av juridisk person som avser att ägna sig åt 
-valutaväxling m.m. (2 §)					I
+valutaväxling m.m. (2 §)					J
 
 Lagen (1998:293) om utländska försäkringsgivares och 
 tjänstepensionsinstituts verksamhet i Sverige 
@@ -1139,6 +1152,8 @@ Lagen (1999:1309) om system för avveckling av
 förpliktelser på finansmarknaden
 
 Godkännande av avvecklingssystem (3 §)                          L
+
+Likställande av avvecklingssystem (9 a §)			L
 
 Lagen (2000:35) om byte av redovisningsvaluta i finansiella
 företag
@@ -1257,10 +1272,6 @@ Lagen (2004:297) om bank- och finansieringsrörelse
 Undantag från vissa bestämmelser i lagen om bank- och 
 finansieringsrörelse (1 kap. 8 §)				G
 
-/Upphör att gälla U:2019-01-01/
-Tillstånd att använda ordet bank i firma (1 kap. 9 §)		D
-
-/Träder i kraft I:2019-01-01/
 Tillstånd att använda ordet bank i sitt företagsnamn 
 (1 kap. 9 §)							D
 
@@ -1272,7 +1283,7 @@ Godkännande av ändring i bolagsordning, stadgar eller
 reglemente (3 kap. 4 §)						E
 
 Tillstånd för kreditinstitut hemmahörande utanför EES 
-att driva  bank- eller finansieringsrörelse från filial 
+att driva bank- eller finansieringsrörelse från filial 
 i Sverige (4 kap. 4 §)						R
 
 Anmälan av kreditinstitut hemmahörande utanför EES om 
@@ -1297,16 +1308,16 @@ finansieringsvillkor eller ekonomin i stort (6 a kap.
 1 och 2 §§)							S–V
 
 Prövning av återhämtningsplan eller koncernåterhämtningsplan 
-för kreditinstitut vars fallissemang sannolikt inte skulle 
-få betydande inverkan på finansmarknaderna, andra företag, 
+för kreditinstitut vars fallissemang sannolikt inte skulle få 
+betydande inverkan på finansmarknaderna, andra företag, 
 finansieringsvillkor eller ekonomin i stort (6 a kap. 
 1 och 2 §§)							O–R
 
 Prövning av återhämtningsplan eller koncernåterhämtningsplan 
 för kreditinstitut vars fallissemang sannolikt skulle få en 
 ringa inverkan på finansmarknaderna, andra företag, 
-finansieringsvillkor eller ekonomin i stort (6 a kap. 1 och 
-2 §§)								M
+finansieringsvillkor eller ekonomin i stort (6 a kap. 
+1 och 2 §§)							M
 
 Ansökan om godkännande av avtal om koncerninternt 
 finansiellt stöd för kreditinstitut (6 b kap. 3 §)		M–S
@@ -1314,11 +1325,11 @@ finansiellt stöd för kreditinstitut (6 b kap. 3 §)		M–S
 Anmälan om givande av koncerninternt finansiellt stöd för 
 kreditinstitut (6 b kap. 11 §)					G
 
-Tillstånd att skjuta upp avyttring av egendom i vissa fall 
-(7 kap. 6 §)							G
+Tillstånd att skjuta upp avyttring av egendom i vissa fall (7 
+kap. 6 §)							G
 
-Tillstånd till förvärv av egendom i vissa fall (7 kap. 
-12 §)								H
+Tillstånd till förvärv av egendom i vissa fall 
+(7 kap. 12 §)							H
 
 Prövning av om en delegat eller anställd har ledande 
 ställning (8 kap. 5 §)						D
@@ -1335,20 +1346,15 @@ från allmän domstol (10 kap. 13 §)				G
 
 Tillstånd att verkställa fusionsplan (10 kap. 20 och 25 §§)	M
 
-/Upphör att gälla U:2019-01-01/
-Tillstånd för bankaktiebolag att använda ordet sparbank i 
-sin firma (10 kap. 36 §)					D
-
-/Träder i kraft I:2019-01-01/
 Tillstånd för bankaktiebolag att använda ordet sparbank i 
 sitt företagsnamn (10 kap. 36 §)				D
 
 Tillstånd till flyttning av ett europabolags säte till en 
 annan stat (10 kap. 40 § och 11 kap. 1 §)			J
 
-Tillstånd för styrelseledamot eller verkställande direktör 
-i en kreditmarknadsförening som är betydande att ha 
-ytterligare ett uppdrag som styrelseledamot (12 kap. 6 b §)	G
+Tillstånd för styrelseledamot eller verkställande direktör i 
+en kreditmarknadsförening som är betydande att ha ytterligare 
+ett uppdrag som styrelseledamot (12 kap. 6 b §)			G
 
 Tillstånd för förening att verkställa avtal om fusion 
 (12 kap. 14 §)							G
@@ -2207,31 +2213,44 @@ Godkännande av ersättning till förvaringsinstitutet
 (12 kap. 18 § jämförd med 9 kap. 6 § lagen om 
 värdepappersfonder)						E
 
-Europaparlamentets och rådets förordning (EU) nr 345/2013 av
-den 17 april 2013 om europeiska riskkapitalfonder
+Europaparlamentets och rådets förordning (EU) nr 345/2013 
+av den 17 april 2013 om europeiska riskkapitalfonder
 
-Underrättelse om användning av beteckningen EuVECA vid
-marknadsföring av godkända riskkapitalfonder (artikel 14)       I
+Underrättelse om användning av beteckningen EuVECA vid 
+marknadsföring av godkända riskkapitalfonder (artikel 14), 
+inklusive anmälan om registrering av AIF-förvaltare enligt 
+2 kap. 3 § lagen (2013:561) om förvaltare av alternativa 
+investeringsfonder						I
 
-Underrättelse om marknadsföring av en ny godkänd
-riskkapitalfond (artikel 15 a)                                  F
+Ansökan om registrering av godkända riskkapitalfonder för 
+vilka beteckningen EuVECA ska användas (artikel 14a)		I
 
-Underrättelse om marknadsföring av en godkänd riskkapitalfond
-i ytterligare ett land inom EES (artikel 15 b)                  D
+Underrättelse om marknadsföring av en ny godkänd 
+riskkapitalfond (artikel 15 a)					F
 
-Europaparlamentets och rådets förordning (EU) nr 346/2013 av
-den 17 april 2013 om europeiska fonder för socialt företagande
+Underrättelse om marknadsföring av en godkänd riskkapitalfond 
+i ytterligare ett land inom EES (artikel 15 b)			D
 
-Underrättelse om användning av beteckningen EuSEF vid
-marknadsföring av godkända fonder för socialt företagande
-(artikel 15)                                                    I
+Europaparlamentets och rådets förordning (EU) nr 346/2013 
+av den 17 april 2013 om europeiska fonder för socialt 
+företagande
 
-Underrättelse om marknadsföring av en ny godkänd fond för
-socialt företagande (artikel 16 a)                              F
+Underrättelse om användning av beteckningen EuSEF vid 
+marknadsföring av godkända fonder för socialt företagande 
+(artikel 15), inklusive anmälan om registrering av 
+AIF-förvaltare enligt 2 kap. 3 § lagen (2013:561) om 
+förvaltare av alternativa investeringsfonder			I
 
-Underrättelse om marknadsföring av en godkänd fond för
-socialt företagande i ytterligare ett land inom EES (artikel
-16 b)                                                           D
+Ansökan om registrering av godkända fonder för socialt 
+företagande för vilka beteckningen EuSEF ska användas 
+(artikel 15a)							I
+
+Underrättelse om marknadsföring av en ny godkänd fond för 
+socialt företagande (artikel 16 a)				F
+
+Underrättelse om marknadsföring av en godkänd fond för 
+socialt företagande i ytterligare ett land inom EES 
+(artikel 16 b)							D
 
 Europaparlamentets och rådets förordning (EU) nr 575/2013 
 av den 26 juni 2013 om tillsynskrav för kreditinstitut och 
@@ -2488,6 +2507,10 @@ i samma medlemsstat vid ansökan om tillstånd enligt artikel
 
 Tillstånd att avstå från att i exponeringsmåttet inbegripa 
 vissa exponeringar (artikel 429.7)				H
+
+Förhandstillstånd att dra tillbaka beslut i fråga om 
+tillämpning av arrangemang enligt artikel 473a (artikel 
+473a.9)								H
 
 Tillstånd att beräkna bruttosoliditetsgrad vid kvartalets 
 utgång (artikel 499.3)						G
@@ -2935,4 +2958,4 @@ stycket)							D
 Underrättelse från försäkringsförmedlare om ändrade 
 förhållanden vid gränsöverskridande verksamhet (3 kap. 6 § 
 första stycket)							D
-Förordning (2018:1823).
+Förordning (2018:2050).
