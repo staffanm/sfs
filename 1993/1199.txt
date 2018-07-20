@@ -426,14 +426,14 @@ Förordning (2001:1223).
 
 Produktionskostnadsberäkning
 
-15 § För industribyggnader och övriga byggnader som skall
-värderas med ledning av en produktionskostnadsberäkning, skall
-en tabell för bestämmande av nedräkningsfaktorn (IN-tabell)
-upprättas. Tabellen skall utvisa nedräkningsfaktorn för skilda
-förhållanden beträffande värdefaktorerna ålder,
-byggnadskategori och ortstyp.
+15 § För industribyggnader och övriga byggnader, som ska 
+värderas med ledning av en produktionskostnadsberäkning, ska 
+en tabell för bestämmande av nedräkningsfaktorerna 
+(IN-tabell) upprättas. Tabellen ska utvisa nedräkningsfaktorn 
+för skilda förhållanden beträffande värdefaktorerna 
+byggnadskategori, ortstyp och ålder.
 
-Beträffande värdefaktorn byggnadskategori skall följande sju
+Beträffande värdefaktorn byggnadskategori ska följande nio 
 klasser finnas:
 
 1. Oljeraffinaderier eller petrokemiska industrier
@@ -442,37 +442,38 @@ klasser finnas:
 
 3. Järn- eller stålindustrier eller metallsmältverk
 
-4. Cement- eller kalkindustrier eller industrier för
+4. Cement- eller kalkindustrier eller industrier för 
 framställning av industrimineral
 
 5. Spannmålssilor
 
 6. Sågverk
 
-7. Annan verksamhet än som framgår av punkterna 1-6.
+7. Bensinstationer
 
-För klasserna 1-4 av värdefaktorn byggnadskategori skall finnas
-tre klasser av värdefaktorn ortstyp med samma indelning för de
-fyra byggnadskategoriklasserna. För klass 5 och klass 6 av
-värdefaktorn byggnadskategori skall finnas tre klasser av
-värdefaktorn ortstyp med särskild indelning av denna
-värdefaktor för var och en av byggnadskategoriklasserna 5 samt
-6. För klass 7 av värdefaktorn byggnadskategori skall finnas
-fem klasser av värdefaktorn ortstyp. Varje kommun eller
-församling skall hänföras till en ortstypsklass.
+8. Master
 
-För industribyggnader och övriga byggnader, värderade med
-ledning av en produktionskostnadsberäkning, bestäms värdenivån
-genom indelningen i ortstyp.
+9. Annan verksamhet än som framgår av punkterna 1–8.
 
-IN-tabell skall utformas och värdefaktorerna ålder,
-byggnadskategori och ortstyp i övrigt klassindelas på sätt som
-anges i bilaga 8.
+För industribyggnader och övriga byggnader, värderade med 
+ledning av en produktionskostnadsberäkning, bestäms 
+värdenivån genom indelningen i ortstyp. För klasserna 1–4 av 
+värdefaktorn byggnadskategori ska det finnas tre klasser av 
+värdefaktorn ortstyp med samma indelning av de fyra 
+byggnadskategoriklasserna. För klasserna 5–9 av värdefaktorn 
+byggnadskategori ska det finnas tre klasser av värdefaktorn 
+ortstyp med särskild indelning av denna värdefaktor för var 
+och en av dessa fem byggnadskategoriklasser. Varje kommun ska 
+hänföras till en ortstypsklass.
 
-Tabell för omräkningsfaktor för industribyggnader och övriga
-byggnader (IO-tabell) skall utformas och värdefaktorn ålder
-klassindelas på det sätt anges i bilaga 10.
-Förordning (2006:327).
+En IN-tabell ska utformas och värdefaktorerna ålder, 
+byggnadskategori och ortstyp i övrigt klassindelas på det 
+sätt som anges i bilaga 8.
+
+En tabell för omräkningsfaktor för industribyggnader och 
+övriga byggnader (IO-tabell) ska utformas och värdefaktorn 
+ålder klassindelas på det sätt som anges i bilaga 10.
+Förordning (2018:1097).
 
 16 § Riktvärdet för värderingsenhet omfattande
 industribyggnader och övriga byggnader värderade med ledning av
@@ -742,25 +743,27 @@ skogsnivåfaktor. Förordning (2010:337).
 
 Vattenkraftverk
 
-25 a § Vid bestämmande av riktvärdeangivelsen skall värdet i
-kr/kWh för normkraftverket vid en avkastningsberäkning enligt
-15 kap. 6 § fastighetstaxeringslagen (1979:1152) bestämmas med
-ledning av genomsnittliga elpriser och de kostnader under
-nivååret och de fem närmast föregående åren som är nödvändiga
-för en uthållig produktion. Till grund för
-avkastningsberäkningen skall de elpriser ligga som under
-angivna tidsperiod noterats vid Nord Pool Spot AS för produkten
-Elspot, prisområde Sverige.
+25 a § Vid bestämmande av riktvärdeangivelsen ska värdet 
+i kr/kWh för normkraftverket vid en avkastningsberäkning 
+enligt 15 kap. 6 § fastighetstaxeringslagen (1979:1152) 
+bestämmas med ledning av genomsnittliga elpriser och de 
+kostnader under nivååret och de fem närmast föregående åren 
+som är nödvändiga för en uthållig produktion. Till grund för 
+avkastningsberäkningen ska de elpriser ligga som under 
+angivna tidsperiod noterats vid Nord Pool Spot AS för 
+produkten Elspot, elområden SE1–SE4.
 
-Vid beräkningen av genomsnittligt elpris skall beaktas hur
-produktionen vid vattenkraftverken varierar under året.
-Genomsnittspriset per kWh skall korrigeras så att det utgör det
-pris som kan förväntas för normkraftverket. Elpriser och
-kostnader skall räknas om till nivåårets penningvärde.
+Vid beräkningen av genomsnittligt elpris ska det beaktas hur 
+produktionen vid vattenkraftverken varierar under året. 
+Genomsnittspriset per kWh ska korrigeras så att det utgör det 
+pris som kan förväntas för normkraftverket. Elpriser och 
+kostnader ska räknas om till nivåårets penningvärde. Vid 
+beräkning av avkastningsvärdet ska skatter beaktas från och 
+med nivååret.
 
-Vid bestämmande av värdet per kWh i riktvärdeangivelsen skall
-inte inverkan på kraftverkets värde av elcertifikat beaktas.
-Förordning (2006:327).
+Vid bestämmande av värdet per kWh i riktvärdeangivelsen ska 
+inte inverkan på kraftverkets värde av elcertifikat 
+beaktas. Förordning (2018:1097).
 
 26 § Riktvärdet för en värderingsenhet avseende ett
 vattenkraftverk bestäms och redovisas enligt följande formel.
@@ -814,39 +817,44 @@ Uttrycket (Nmxfuxfr+0,6xkb)xfsm skall anges i kr/kWh med två
 decimaler.
 Förordning (1999:631).
 
-28 § Med normalårsproduktion (Wn) avses den vid kraftverket
-tillgängliga produktionen i genomsnitt per år under nivååret
-och de nitton åren närmast före detta. Om de
-utbyggnadsförhållanden som gäller vid taxeringsårets ingång
-tillkommit efter det tjugoförsta året före taxeringsåret, skall
-genomsnittet endast beräknas för de år som de nya förhållandena
-gällt.
+28 § Med normalårsproduktion (Wn) avses den vid 
+kraftverket tillgängliga produktionen i genomsnitt per år 
+under nivååret och de nitton åren närmast före detta. Om de 
+utbyggnadsförhållanden som gäller vid taxeringsårets ingång 
+tillkommit efter det tjugoförsta året före taxeringsåret, ska 
+genomsnittet endast beräknas för de år som de nya 
+förhållandena gällt.
 
-För kraftverk med en produktion av minst 50 miljoner kWh per år
-gäller följande. Före beräkningen av genomsnittet skall varje
-års produktion divideras med medelvattenföringen under året vid
-kraftverket, uttryckt i kubikmeter per sekund och multipliceras
-med medelvattenföringen under åren 1950-2000, uttryckt i
-kubikmeter per sekund. Motsvarande beräkningsmetod får även,
-efter begäran av fastighetsägaren, tillämpas för övriga
-kraftverk.
+För kraftverk med en produktion av minst 50 miljoner kWh per 
+år gäller följande. Före beräkningen av genomsnittet ska 
+varje års produktion divideras med medelvattenföringen under 
+året vid kraftverket, uttryckt i kubikmeter per sekund, och 
+multipliceras med medelvattenföringen under åren 1981–2010, 
+uttryckt i kubikmeter per sekund. Medelvattenföringen under 
+åren 1981–2010 ska i första hand bestämmas med ledning av 
+statistik från vattenregleringsföretag. Om sådan statistik 
+saknas ska medelvatten-föringen bestämmas i enlighet med de 
+värden som Sveriges meteorologiska och hydrologiska institut 
+(SMHI) angett under åren 1981–2010. Motsvarande 
+beräkningsmetod får även, efter begäran av fastighetsägaren, 
+tillämpas för övriga kraftverk.
 
-Normalårsproduktion som inte överstiger 1 000 000 kWh avrundas
-till hela 1 000 kWh.
+Normalårsproduktion som inte överstiger 1 000 000 kWh 
+avrundas till hela 1 000 kWh.
 
-Normalårsproduktion som överstiger 1 000 000 kWh får bestämmas
-endast till följande antal kWh om normalårsproduktionen
-överstiger:
+Normalårsproduktion som överstiger 1 000 000 kWh får 
+bestämmas endast till följande hela antal kWh om 
+normalårsproduktionen överstiger:
 
 1 000 000 kWh men inte 10 000 000 kWh: hela 10 000 kWh,
 
 10 000 000 kWh men inte 100 000 000 kWh: hela 100 000 kWh,
 
-100 000 000 kWh men inte 1 000 000 000 kWh: hela 1 000 000 kWh
-och
+100 000 000 kWh men inte 1 000 000 000 kWh: hela 1 000 000 
+kWh och
 
 1 000 000 000 kWh och däröver: hela 10 000 000 kWh.
-Förordning (2006:327).
+Förordning (2018:1097).
 
 29 § De i riktvärdeangivelsen angivna beloppen för
 normkraftverkets värde dels av byggnader och mark, dels av mark
@@ -872,53 +880,57 @@ Om effekten överstiger 1 000 kW men inte 10 000 kW: hela 10 kW,
 1 000 000 kW och däröver: hela 10 000 kW.
 Förordning (2012:411).
 
-31 § Utnyttjandetiden (U) enligt 15 kap. 4 §
-fastighetstaxeringslagen (1979:1152) ska beaktas genom en
-utnyttjandefaktor (fu). Utnyttjandefaktorn anger ett
-vattenkraftverks utnyttjandemöjligheter genom att ställa de
-elpriser som kraftverket kunnat uppnå i relation till de
-priser som i genomsnitt gällt för andra vattenkraftverk.
-Utnyttjandefaktorn för ett kraftverk bestäms till medeltalet
-av de fem kvoter som erhålls då de med produktionen vägda
-elpriser som kunnat uppnås för vart och ett av nivååret och
-de fyra närmast föregående åren divideras med de med
-produktionen vägda elpriser som respektive år kunnat uppnås
-för samtliga vattenkraftverk. Utnyttjandefaktorn ska anges
+31 § Utnyttjandetiden (U) enligt 15 kap. 4 § 
+fastighetstaxeringslagen (1979:1152) ska beaktas genom en 
+utnyttjandefaktor (fu). Utnyttjande-faktorn anger ett 
+vattenkraftverks utnyttjandemöjligheter genom att ställa de 
+elpriser som kraftverket kunnat uppnå i relation till de 
+priser som i genomsnitt gällt för andra vattenkraftverk. 
+Utnyttjandefaktorn för ett kraftverk bestäms till medeltalet 
+av de fem kvoter som erhålls då de med produktionen vägda 
+elpriser som kunnat uppnås för vart och ett av nivååret och 
+de fyra närmast föregående åren divideras med de med 
+produktionen vägda elpriser som respektive år kunnat uppnås 
+för samtliga vattenkraftverk. Utnyttjandefaktorn ska anges 
 med tre decimaler.
 
-Det med produktionen vägda elpriset för ett vattenkraftverk
-beräknas genom att verkets nettoproduktion under året,
-uppdelat per timme, multipliceras med Nord Pools spotpriser
-per timme för område Sverige. Summan av de erhållna
-produkterna divideras med verkets totala nettoproduktion. Om
-en uppdelad produktion per timme inte finns tillgänglig för
-de aktuella åren, får utnyttjandefaktorn beräknas med ledning
-av de år som finns tillgängliga, dock lägst tre år.
+Det med produktionen vägda elpriset för ett vattenkraftverk 
+beräknas genom att verkets nettoproduktion under året, 
+uppdelat per timme, multipliceras med Nord Pools spotpriser 
+per timme för det aktuella elområdet där kraftverket ligger. 
+Summan av de erhållna produkterna divideras med verkets 
+totala nettoproduktion. Om en uppdelad produktion per timme 
+inte finns tillgänglig för de aktuella åren, får 
+utnyttjandefaktorn beräknas med ledning av de år som finns 
+tillgängliga, dock lägst tre år.
 
-Det med produktionen vägda elpriset för samtliga
-vattenkraftverk vars totala nettoproduktion registreras av
-Svenska Kraftnät, uttryckt i kr/kWh, beräknas genom att
-verkens sammanlagda nettoproduktion under året, uppdelat per
-timme enligt den registrering av produktionen som Svenska
-Kraftnät genomför, multipliceras med Nord Pools spotpriser
-per timme för område Sverige. Summan av de erhållna
-produkterna divideras med verkens sammanlagda nettoproduktion
-under åren.
+Det med produktionen vägda elpriset för samtliga 
+vattenkraftverk vars totala nettoproduktion registreras av 
+Affärsverket svenska kraftnät (Svenska kraftnät), uttryckt i 
+kr/kWh, beräknas genom att verkens sammanlagda 
+nettoproduktion under året, uppdelat per timme enligt den 
+registrering av produktionen som Svenska kraftnät genomför, 
+multipliceras med Nord Pools spotpriser per timme för 
+respektive elområde. Summan av de erhållna produkterna 
+divideras med verkens sammanlagda nettoproduktion under 
+åren.
 
-Det vägda elpriset uppgår för åren 2007–2011 till följande
-belopp per kWh:
+Det vägda elpriset uppgår för åren 2013–2016 till följande 
+belopp per kWh, och för år 2017 utgör följande belopp 
+elpriset som ett ovägt medelvärde baserat på Nord Pools 
+medelpris för SE1–SE4:
 
-År                      2007    2008    2009    2010    2011
+År			2013	2014	2015	2016	2017
 
-Pris i öre/kWh          28,6    49,1    41,0    58,2    45,4
+Pris i öre/kWh		36,3	30,1	21,2	28,9	30,1
 
-För kraftverk med en nettoproduktion mindre än 10 GWh får
-utnyttjandefaktorn utan närmare utredning bestämmas till
-0,95.
+För kraftverk med en nettoproduktion mindre än 10 GWh får 
+utnyttjandefaktorn utan närmare utredning bestämmas till 
+0,950.
 
-Med nettoproduktion avses den del av produktionen som
-levererats till mätpunkt hos nätägare.
-Förordning (2012:411).
+Med nettoproduktion avses den del av produktionen som 
+levererats till mätpunkt hos nätägare. 
+Förordning (2018:1097).
 
 31 a § Har upphävts genom förordning (2012:411).
 
@@ -929,51 +941,57 @@ Förordning (2012:411).
 32 § Faktorn för flerårsreglering (fr) skall bestämmas till 1,0
 för samtliga vattenkraftverk. Förordning (2006:327).
 
-32 a § Faktorn för storleksinverkan avseende värdet i kr/kWh
-för mark och byggnader (fst) ska bestämmas med ledning av
-kraftverkets normalårsproduktion (Wn), enligt följande
-formel:
+32 a § Faktorn för storleksinverkan avseende värdet i 
+kr/kWh för mark och byggnader (fst) ska bestämmas med ledning 
+av kraftverkets normalårsproduktion (Wn), enligt följande 
+formler. 
 
-fst = 0,3271 x ln (3,4243 x ln (Wn / 1 000 000))
+Om Wn är större än 500 000 000 kWh,
+fst = 1,143 – 71,7 / Wn x 1 000 000 och
 
-Faktorn ska anges med tre decimaler och får inte bestämmas
-till lägre än 0,300 eller högre än 1,050.
-Förordning (2012:411).
+om Wn är mindre än eller lika med 500 000 000 kWh,
+fst = – 0,39 x exp (Wn / (– 34,7 x 1 000 000)) – 0,265 x exp 
+(Wn / (– 2 700 x 1 000 000)) – 0,45 x exp (Wn / 
+(– 4,5 x 1 000 000)) + 1,22
+
+Faktorn ska anges med tre decimaler och får inte 
+bestämmas till lägre än 0,350 eller högre än 1,092.
+Förordning (2018:1097).
 
 32 b § Faktorn för ålder (få) skall bestämmas till 1,0 för
 samtliga vattenkraftverk. Förordning (2006:327).
 
-32 c § Belägenhetsfaktorn ska beakta skillnader i kostnader
-för inmatning på stamnätet, vilka utgörs av avgifterna vid
-inmatningen på stamnätet. Landet ska indelas i tio
-belägenhetsklasser och korrektionen för belägenhet (kb) ska
-bestämmas till följande belopp:
+32 c § Belägenhetsfaktorn ska beakta skillnader i 
+kostnader för inmatning på stamnätet, vilka utgörs av 
+avgifterna vid inmatningen på stamnätet. Landet ska indelas i 
+tio belägenhetsklasser och korrektionen för belägenhet (kb) 
+ska bestämmas till följande belopp:
 
-Klass   Område                          Korrektionsbelopp i kr/kWh
+Klass	Område				Korrektionsbelopp i kr/kWh
 
-1       Lule älv och norr därom                         -0,13
+1	Lule älv och norr därom				–0,04
 
-2       Skellefte älv uppströms Bastusels kraftverk     -0,50
+2	Skellefte älv uppströms Bastusels kraftverk	–0,60
 
-3       Skellefte älv med undantag av sträckan
-        uppströms Bastusels kraftverk samt området
-        norr därom till Lule älv                        -0,05
+3	Skellefte älv med undantag av sträckan uppströms 
+	Bastusels kraftverk samt området norr därom 
+	till Lule älv					–0,03
 
-4       Gide älv och norr därom till Skellefte älv      -0,05
+4	Gide älv och norr därom till Skellefte älv	–0,01
 
-5       Ångermanälven med biflöden och norr därom
-        till Gide älv                                   -0,02
+5	Ångermanälven med biflöden och norr därom till 
+	Gide älv					–0,01
 
-6       Indalsälven och norr därom till Ångermanälven   +0,06
+6	Indalsälven och norr därom till Ångermanälven	+0,04
 
-7       Ljungan och norr därom till Indalsälven         +0,13
+7	Ljungan och norr därom till Indalsälven		+0,06
 
-8       Ljusnan och norr därom till Ljungan             +0,13
+8	Ljusnan och norr därom till Ljungan		+0,06
 
-9       Dalälven och norr därom till Ljusnan            +0,26
+9	Dalälven och norr därom till Ljusnan		+0,20
 
-10      Söder om Dalälven                               +0,38
-Förordning (2012:411).
+10	Söder om Dalälven				+0,23
+Förordning (2018:1097).
 
 32 d § Faktorn för storleksinverkan avseende värdet i kronor
 per kWh för mark (fsm) skall bestämmas med ledning av
@@ -1095,36 +1113,42 @@ Förordning (1999:631).
 
 Allmänt om värmekraftverk
 
-34 § Vid bestämmande av riktvärdeangivelse för värmekraftverk
-ska värdet av kraftverket anges i kr/kW installerad effekt.
-Värdet ska avse mark och byggnader för en nybyggd anläggning.
-Det ska anges i hela hundratal kronor.
+34 § Vid bestämmande av riktvärdeangivelse för 
+värmekraftverk ska värdet av kraftverket anges i kr/kW 
+installerad effekt. Värdet ska avse mark och byggnader för en 
+nybyggd anläggning. Det ska anges i hela hundratal kronor. 
 
-Vid bestämmande av riktvärdeangivelsen ska en jämkning göras
-med hänsyn till lönsamhet enligt 15 kap. 13 §
-fastighetstaxeringslagen (1979:1152). Jämkningen ska ske med
-utgångspunkt i ortspriser för värmekraftverk eller delar därav
-och i avkastningsberäkningar med ledning av genomsnittliga
-elpriser och nödvändiga kostnader under nivååret och de fem
-föregående åren.
+Vid bestämmande av riktvärdeangivelsen ska en jämkning göras 
+med hänsyn till lönsamhet enligt 15 kap. 13 § 
+fastighetstaxeringslagen (1979:1152). Jämkningen ska ske med 
+utgångspunkt i ortspriser för värmekraftverk eller delar 
+därav och i avkastningsberäkningar med ledning av 
+genomsnittliga elpriser och nödvändiga kostnader under 
+nivååret och de fem föregående åren.
 
-Till grund för avkastningsberäkningen för jämkningen ska de
-elpriser ligga som noterats vid Nord Pool Spot AS för
-produkten Elspot, prisområde Sverige, och de genomsnittliga
-löpande kostnaderna för samma tidsperiod. Förnyelsekostnaderna
-under perioden ska beaktas särskilt. Vid beräkning av
-genomsnittligt elpris för den nivågrundande tidsperioden ska
-beaktas vilka priser som erhållits vid leveransen för den
-under året producerade kraften. Elpriser och kostnader ska vid
-avkastningsberäkningen räknas om till nivåårets penningvärde.
+Till grund för avkastningsberäkningen för jämkningen ska de 
+elpriser ligga som noterats vid Nord Pool Spot AS för 
+produkten Elspot, elområden SE1–SE4, och de genomsnittliga 
+löpande kostnaderna för samma tidsperiod. Förnyelsekostnader 
+under perioden ska beaktas särskilt. Vid beräkning av 
+genomsnittligt elpris för den nivågrundande tidsperioden ska 
+det beaktas vilka priser som erhållits vid leveransen för den 
+under året producerade kraften. Elpriser och kostnader ska 
+vid avkastningsberäkningen räknas om till nivåårets 
+penningvärde. Vid en avkastningsberäkning ska 
+förnyelsekostnader för kärnkraftverk och skatt på termisk 
+effekt i kärnkraftsreaktorer från och med nivååret beaktas 
+särskilt med ledning av en normaliserad kostnad. Dessa belopp 
+räknas om till nivåårets penningvärde.
 
-Det ska för den i 15 kap. 12 § fastighetstaxeringslagen angivna
-värdefaktorn typ av värmekraftverk finnas fyra klasser. Var och
-en av kraftverkstyperna kärnkraftverk, kraftvärmeverk,
-kondenskraftverk och vindkraftverk ska utgöra en klass. Med ett
-värmekraftverks ålder avses det år då kraftverket kunde tas i
-bruk. Den installerade effekten avrundas enligt bestämmelserna
-i 30 § tredje stycket. Förordning (2012:91).
+Det ska för den i 15 kap. 12 § fastighetstaxeringslagen 
+angivna värdefaktorn typ av värmekraftverk finnas fyra 
+klasser. Var och en av kraftverkstyperna kärnkraftverk, 
+kraftvärmeverk, kondenskraftverk och vindkraftverk ska utgöra 
+en klass. Med ett värmekraftverks ålder avses det år då 
+kraftverket kunde tas i bruk. Den installerade effekten 
+avrundas enligt bestämmelserna i 30 § andra stycket.
+Förordning (2018:1097).
 
 34 a § Riktvärdet (Rb) för en värderingsenhet avseende de
 byggnader som tillhör ett värmekraftverk bestäms och redovisas
@@ -1184,25 +1208,27 @@ det sätt anges i bilaga 9 b. Förordning (2006:327).
 
 Vindkraftverk
 
-34 f § Med installerad effekt avses aggregatets märkeffekt.
+34 f § Med installerad effekt avses aggregatets 
+märkeffekt.
 
-Riktvärdeangivelsen skall bestämmas med ledning av
-genomsnittlig återanskaffningskostnad under nivååret avseende
+Riktvärdeangivelsen ska bestämmas med ledning av 
+genomsnittlig återanskaffningskostnad under nivååret avseende 
 vindkraftverk med olika effekt.
 
-Riktvärdeangivelsen avser de värmekraftverk som indelats i
-klassen vindkraftverk. Vid bestämmande av riktvärdeangivelsen
-har förutsatts en fullasttid mellan 1 800 och 2 200 timmar. Med
-fullasttid avses kvoten mellan den genomsnittliga
-årsproduktionen och den installerade effekten. Vid bestämmande
-av riktvärdeangivelsen har värdefaktorerna installerad effekt
-och belägenhet beaktats. Även inverkan på värdet av
-elcertifikat har beaktats. Förordning (2006:327).
+Riktvärdeangivelsen avser de värmekraftverk som indelats i 
+klassen vindkraftverk. Vid bestämmande av riktvärdeangivelsen 
+har förutsatts en fullasttid mellan 2 400 och 2 800 timmar. 
+Med fullasttid avses kvoten mellan den genomsnittliga 
+årsproduktionen och den installerade effekten. Vid 
+bestämmande av riktvärdeangivelsen har värdefaktorerna 
+installerad effekt och belägenhet beaktats. Även inverkan på 
+värdet av elcertifikat har beaktats. Förordning (2018:1097).
 
-34 g § Vid bestämmande av riktvärdeangivelsen ska jämkning
-enligt 34 § ske med utgångspunkt i en avkastningsberäkning för
-ett kraftverk med en installerad effekt av 2 000 kW och en
-årlig produktion av 4 000 000 kWh. Förordning (2012:91).
+34 g § Vid bestämmande av riktvärdeangivelsen ska 
+jämkning enligt 34 § ske med utgångspunkt i en 
+avkastningsberäkning för ett kraftverk med en installerad 
+effekt av 2 000 kW och en årlig produktion av 5 200 000 
+kWh. Förordning (2018:1097).
 
 34 h § För vindkraftverk skall en tabell för bestämmande av
 nedskrivningsfaktorn upprättas (Nvi-tabell).
@@ -1218,13 +1244,10 @@ det sätt anges i bilaga 9 c. Förordning (2006:327).
 
 Kärnkraftverk
 
-34 j § För kärnkraftverk avses med installerad effekt
-kraftverkets bruttoeffekt. Den installerade effekten skall
-bestämmas till den effekt som enligt gällande tillstånd får tas
-ut.
-
-Den installerade effekten avrundas enligt reglerna i 30 §
-tredje stycket. Förordning (2006:327).
+34 j § För kärnkraftverk avses med installerad effekt 
+kraftverkets bruttoeffekt. Den installerade effekten ska 
+bestämmas till den effekt som enligt gällande tillstånd får 
+tas ut. Förordning (2018:1097).
 
 34 k § De i riktvärdeangivelsen för kärnkraftverk angivna
 beloppen avser de totala värdena av nybyggda kraftverk i kr/kW
@@ -1469,20 +1492,18 @@ bilagorna 2 a och 7 a. Förordning (2009:318).
 
 Täktmark
 
-38 § Värdet per kubikmeter fast mått brytvärd fyndighet som avses
-i 12 kap. 8 § andra stycket fastighetstaxeringslagen (1979:1152) får,
-om det inte överstiger 5 kronor, bestämmas endast till värde i hela
-50-tal ören.
+38 § Värdet per kubikmeter fast mått brytvärd fyndighet 
+som avses i 
 
-Om värdet per kubikmeter överstiger 5 kronor men inte 15 kronor,
-skall det bestämmas till något av följande i helt antal kronor
-angivna värden: 6, 7, 8, 9, 10, 12 och 15.
+12 kap. 8 § andra stycket fastighetstaxeringslagen 
+(1979:1152) får, om det inte överstiger 20 kronor, bestämmas 
+endast till värde i hela kronor.
 
-Om värdet per kubikmeter överstiger 15 kronor men inte 40
-kronor, skall det bestämmas till värde i hela 5-tal kronor.
+Om värdet per kubikmeter överstiger 20 kronor men inte 50 
+kronor, ska det bestämmas till värde i hela 5-tal kronor.
 
-Överstiger värdet 40 kronor per kubikmeter, skall det bestämmas
-till värde i hela 10-tal kronor.
+Överstiger värdet 50 kronor per kubikmeter, ska det bestämmas 
+till värde i hela 10-tal kronor. Förordning (2018:1097).
 
 39 § Riktvärden för värderingsenheter omfattande täktmark
 bestäms och redovisas enligt följande formel.
@@ -1501,17 +1522,17 @@ Avd. 2 Förfarandet m.m. vid allmän och förenklad fastighetstaxering
 
 Ortspriser m.m.
 
-1 § Sådana överlåtelser som avses i 2 § 9 förordningen
-(2001:588) om behandling av uppgifter i Skatteverkets
-beskattningsverksamhet och som kvarstår efter gallring enligt
-2 och 3 §§ tas upp på förteckningar över representativa
-överlåtelser. Sådana överlåtelser som gallrats enligt 3 § ska
+1 § Sådana överlåtelser som avses i 2 § 8 förordningen 
+(2001:588) om behandling av uppgifter i Skatteverkets 
+beskattningsverksamhet och som kvarstår efter gallring enligt 
+2 och 3 §§ tas upp på förteckningar över representativa 
+överlåtelser. Sådana överlåtelser som gallrats enligt 3 § ska 
 tas upp på förteckningar över bortgallrade överlåtelser.
 
-Beträffande fastighetsregleringar gäller första stycket
-endast om mer än fyra hektar överförts från en fastighet till
-en annan och bebyggelse saknas på den överförda marken.
-Förordning (2015:206).
+Beträffande fastighetsregleringar gäller första stycket 
+endast om mer än fyra hektar överförts från en fastighet till 
+en annan och bebyggelse saknas på den överförda marken. 
+Förordning (2018:1097).
 
 2 § Med ledning av registrerade uppgifter om överlåtelser ska
 vid en förberedande gallring (förgallring) följande
@@ -2129,3 +2150,8 @@ fastighetstaxering 2017.
 
 2. Förordningen tillämpas första gången vid förenklad 
 fastighetstaxering 2018.
+
+2018:1097
+
+Denna förordning träder i kraft den 20 juli 2018 och 
+tillämpas första gången vid 2019 års fastighetstaxering.
