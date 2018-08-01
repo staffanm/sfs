@@ -81,29 +81,29 @@ rörelse som avses i denna lag,
 9. kapitalbas: detsamma som i artikel 72 i 
 tillsynsförordningen,
 
-10.  kreditinstitut: bank och kreditmarknadsföretag,
+10. kreditinstitut: bank och kreditmarknadsföretag,
 
 11. kapitaltäckningsdirektivet: Europaparlamentets och rådets 
 direktiv 2013/36/EU av den 26 juni 2013 om behörighet att 
 utöva verksamhet i kreditinstitut och om tillsyn av 
 kreditinstitut och värdepappersföretag, om ändring av 
 direktiv 2002/87/EG och om upphävande av direktiv 2006/48/EG 
-och 2006/49/EG i lydelsen enligt Europaparlamentets och 
+och 2006/49/EG, i lydelsen enligt Europaparlamentets och 
 rådets direktiv 2014/59/EU,
 
 12. kreditmarknadsbolag: ett aktiebolag som har fått 
 tillstånd att driva finansieringsrörelse,
 
 13. kreditmarknadsförening: en ekonomisk förening som har 
-fått tillstånd att driva finansieringsrörelse, 
+fått tillstånd att driva finansieringsrörelse,
 
 14. kreditmarknadsföretag: kreditmarknadsbolag och 
-kreditmarknadsförening, 
+kreditmarknadsförening,
 
 15. kvalificerat innehav: ett direkt eller indirekt ägande i 
-ett företag, om innehavet beräknat på det sätt som anges i 
-5 a § representerar tio procent eller mer av kapitalet eller 
-av samtliga röster eller annars möjliggör ett väsentligt 
+ett företag, om innehavet beräknat på det sätt som anges i 5 
+a § representerar tio procent eller mer av kapitalet eller av 
+samtliga röster eller annars möjliggör ett väsentligt 
 inflytande över ledningen av företaget,
 
 16. medlemsbank: en ekonomisk förening som avses i lagen 
@@ -119,10 +119,10 @@ artikel 4.51 i tillsynsförordningen,
 hemlandet har tillstånd att driva bankrörelse,
 
 20. utländskt kreditföretag: ett utländskt företag som i 
-hemlandet har tillstånd att driva finansieringsrörelse, 
+hemlandet har tillstånd att driva finansieringsrörelse,
 
 21. utländskt kreditinstitut: ett utländskt bankföretag och 
-ett utländskt kreditföretag, 
+ett utländskt kreditföretag,
 
 22. betydande filial: en filial som är betydande enligt 
 artikel 51.1 i kapitaltäckningsdirektivet,
@@ -146,11 +146,11 @@ utländskt värdepappersföretag som är hemmahörande i något
 annat land inom EES än Sverige,
 
 26. finansiellt holdingföretag: ett holdingföretag enligt 
-artikel 4.1.20 i tillsynsförordningen, 
+artikel 4.1.20 i tillsynsförordningen,
 
 27. finansiellt moderholdingföretag inom EES: ett inom EES 
 etablerat finansiellt holdingföretag som inte självt är ett 
-dotterföretag till ett 
+dotterföretag till ett
 
 a) kreditinstitut, värdepappersbolag eller EES-institut, 
 eller
@@ -162,10 +162,10 @@ EES,
 28. holdingföretag med blandad verksamhet: holdingföretag 
 enligt artikel 4.1.22 i tillsynsförordningen,
 
-29. koncern: 
+29. koncern:
 
 a) i 6 a, 6 b och 15 b kap., detsamma som i 2 kap. 1 § lagen 
-(2015:1016) om resolution, 
+(2015:1016) om resolution,
 
 b) i övriga kapitel, detsamma som i 1 kap. 11 och 12 §§ 
 aktiebolagslagen (2005:551), varvid det som sägs om 
@@ -197,13 +197,13 @@ finansiellt moderholdingföretag inom EES,
 
 33. moderinstitut inom EES: ett kreditinstitut, 
 värdepappersbolag eller EES-institut som är ett moderföretag 
-och som inte självt är ett dotterföretag till ett 
+och som inte självt är ett dotterföretag till ett
 
 a) annat kreditinstitut, värdepappersbolag eller 
 EES-institut, eller
 
 b) finansiellt holdingföretag eller ett blandat finansiellt 
-holdingföretag som är etablerat i något land inom EES, 
+holdingföretag som är etablerat i något land inom EES,
 
 34. samordnande tillsynsmyndighet: en behörig myndighet som 
 ansvarar för att utöva gruppbaserad tillsyn av moderinstitut 
@@ -214,17 +214,17 @@ moderholdingföretag inom EES,
 35. tillsynsförordningen: Europaparlamentets och rådets 
 förordning (EU) nr 575/2013 av den 26 juni 2013 om 
 tillsynskrav för kreditinstitut och värdepappersföretag och 
-om ändring av förordning (EU) nr 648/2012, i lydelsen enligt 
-Europaparlamentets och rådets direktiv 2014/59/EU,
+om ändring av förordning (EU) nr 648/2012,
 
 36. utländskt värdepappersföretag: ett utländskt företag som 
-i hemlandet har tillstånd att driva värdepappersrörelse, och 
+i hemlandet har tillstånd att driva värdepappersrörelse, 
+och
 
 37. återhämtningsplan: en plan som upprättas av ett 
 kreditinstitut i syfte att identifiera åtgärder som 
 institutet avser att vidta för att bevara eller återställa 
 sin finansiella ställning och livskraft efter en betydande 
-försämring av den finansiella situationen. Lag (2015:1029).
+försämring av den finansiella situationen. Lag (2018:1397).
 
 5 a § Vid bedömningen av om ett innehav utgör ett 
 kvalificerat innehav enligt 5 § 15 ska följande bestämmelser 
@@ -659,21 +659,7 @@ Lag (2013:455).
 
 Ansökan om tillstånd
 
-9 § /Upphör att gälla U:2018-07-01/
-Ett aktiebolag och en ekonomisk förening får ansöka om
-tillstånd innan företaget registrerats i aktiebolags-,
-europabolags-, förenings- eller europakooperativsregistret.
-
-Om ett aktiebolag har ansökt om tillstånd inom sex månader från
-stiftelseurkundens undertecknande, räknas den tid som anges i 2
-kap. 22 § aktiebolagslagen (2005:551) från tillståndsbeslutet.
-Om en ekonomisk förening har ansökt om tillstånd inom sex
-månader från beslutet om att bilda föreningen, räknas den tid
-som anges i 2 kap. 3 § första stycket lagen (1987:667) om
-ekonomiska föreningar från tillståndsbeslutet. Lag (2006:612).
-
-9 § /Träder i kraft I:2018-07-01/
-Ett aktiebolag och en ekonomisk förening får ansöka 
+9 § Ett aktiebolag och en ekonomisk förening får ansöka 
 om tillstånd innan företaget registrerats i aktiebolags-, 
 europabolags-, förenings- eller europakooperativsregistret.
 
@@ -910,18 +896,7 @@ Lag (2015:1029).
 
 Rapportering av överträdelser
 
-2 a § /Upphör att gälla U:2018-05-25/
-Ett kreditinstitut ska tillhandahålla ändamålsenliga
-rapporteringssystem för anställda som vill göra anmälningar
-om misstänkta överträdelser av bestämmelser som gäller för
-kreditinstitutets verksamhet.
-
-Personuppgiftslagen (1998:204) gäller vid behandling av
-personuppgifter inom ramen för sådana rapporteringssystem som
-avses i första stycket. Lag (2014:982).
-
-2 a § /Träder i kraft I:2018-05-25/
-Ett kreditinstitut ska tillhandahålla 
+2 a § Ett kreditinstitut ska tillhandahålla 
 ändamålsenliga rapporteringssystem för anställda som vill 
 göra anmälningar om misstänkta överträdelser av bestämmelser 
 som gäller för kreditinstitutets verksamhet. Lag (2018:327).
@@ -1174,7 +1149,7 @@ likviditetsrisken,
 
 3. se över institutets strategi och struktur,
 
-4. vidta ändringar i finansieringsstrategin för att förstärka 
+4. vidta ändringar i finansieringsstrategin för att förstärka
 motståndskraften i kärnaffärsområdena och de kritiska 
 verksamheterna, eller
 
@@ -1184,6 +1159,28 @@ Vid bedömningen av vilka åtgärder som är nödvändiga och
 proportionerliga ska hänsyn tas till hur allvarliga bristerna 
 och hindren är och den effekt som åtgärderna skulle ha på 
 kreditinstitutets affärsverksamhet. Lag (2015:1029).
+
+Avvikelse från en plan
+
+7 a § Om det är lämpligt med hänsyn till omständigheterna, 
+får ett kreditinstitut eller moderföretag inom EES avvika 
+från en återhämtningsplan eller en koncernåterhämtningsplan 
+genom att
+
+– vidta en åtgärd före den tidpunkt då åtgärden ska vidtas 
+enligt planen, eller
+
+– avstå från åtgärden. 
+
+Om ett kreditinstitut eller moderföretag inom EES gör en 
+sådan avvikelse från en plan, ska institutets eller 
+moderföretagets styrelse godkänna avvikelsen. 
+Finansinspektionen ska utan dröjsmål skriftligen underrättas 
+om att en avvikelse från en plan görs. 
+
+Om ett moderföretag inom EES har åsidosatt sina skyldigheter 
+enligt denna paragraf, ska Finansinspektionen ingripa enligt 
+15 kap. Lag (2018:1397).
 
 Överenskommelser om en koncernåterhämtningsplan för en 
 gränsöverskridande koncern
@@ -1626,35 +1623,33 @@ engagemang.
 
 Tillhandahållande av tjänster till en jävskrets
 
-5 § Ett kreditinstitut får inte ingå avtal om tjänster på andra
-villkor än sådana som institutet normalt tillämpar eller ingå
-andra avtal på villkor som inte är affärsmässigt betingade med
-eller till förmån för
+5 § Ett kreditinstitut får inte ingå avtal om tjänster på 
+andra villkor än sådana som institutet normalt tillämpar 
+eller ingå andra avtal på villkor som inte är affärsmässigt 
+betingade med eller till förmån för
 
-1. styrelseledamot,
+1. en styrelseledamot,
 
-2. delegat i ledande ställning som ensam eller i förening med
-någon annan får avgöra kreditärenden som annars skall avgöras
-av styrelsen,
+2. en person i ledande ställning som ensam eller i förening 
+med någon annan får avgöra kreditärenden som annars ska 
+avgöras av styrelsen,
 
-3. anställd som innehar en ledande ställning inom institutet,
+3. en anställd som har en ledande ställning inom 
+institutet,
+4. någon annan aktie- eller andelsägare än 
+staten med ett innehav som motsvarar minst tre procent av 
+hela kapitalet,
 
-4. annan aktie- eller andelsägare än staten med ett innehav som
-motsvarar minst tre procent av hela kapitalet,
+5. den som är make eller sambo till någon som avses i 1–4, 
+eller
 
-5. make eller sambo till person som avses under 1-4, eller
+6. en juridisk person i vilken någon som avses i 1–5 har ett 
+väsentligt ekonomiskt intresse i egenskap av delägare eller 
+medlem.
 
-6. juridisk person i vilken sådan person som avses under 1-5
-har ett väsentligt ekonomiskt intresse i egenskap av delägare
-eller medlem.
-
-En medlemsbank får inte heller ingå sådana avtal som avses i
-första stycket med eller till förmån för en lekmannarevisor i
-banken.
-
-
-Finansinspektionen prövar om en delegat eller en anställd har
-sådan ledande ställning som avses i första stycket 2 och 3.
+En medlemsbank får inte heller ingå sådana avtal som avses i 
+första stycket med eller till förmån för en lekmannarevisor i 
+banken. Lag (2018:1397).
 
 6 § Institutets styrelse skall behandla ärenden som avses i
 5 §. Den skall vidare i en förteckning föra in uppgifter om de
@@ -2384,22 +2379,7 @@ av Finansinspektionen. Lag (2005:932).
 12 kap. Särskilda associationsrättsliga bestämmelser för
 kreditmarknadsföreningar
 
-1 § /Upphör att gälla U:2018-07-01/
-För kreditmarknadsföreningar gäller föreskrifterna för
-ekonomiska föreningar i allmänhet, om inte något annat följer
-av denna lag eller är särskilt föreskrivet. Hänvisningar i
-lagen (1987:667) om ekonomiska föreningar till bestämmelser i
-samma lag ska i förekommande fall avse de bestämmelser i
-denna lag som gäller i stället för eller utöver
-bestämmelserna i lagen om ekonomiska föreningar.
-
-Det som föreskrivs om Bolagsverket i 12 kap. 13 § lagen om
-ekonomiska föreningar ska, i fråga om
-kreditmarknadsföreningar, i stället gälla Finansinspektionen.
-Lag (2009:711).
-
-1 § /Träder i kraft I:2018-07-01/
-För kreditmarknadsföreningar gäller föreskrifterna 
+1 § För kreditmarknadsföreningar gäller föreskrifterna 
 för ekonomiska föreningar i allmänhet, om inte något annat 
 följer av denna lag eller är särskilt föreskrivet. 
 Hänvisningar i lagen (2018:672) om ekonomiska föreningar till 
@@ -2412,24 +2392,13 @@ ekonomiska föreningar ska, i fråga om
 kreditmarknadsföreningar, i stället gälla 
 Finansinspektionen. Lag (2018:725).
 
-1 a § /Upphör att gälla U:2018-07-01/
-Bestämmelserna om investerande medlemmar i lagen 
-(1987:667) om ekonomiska föreningar gäller inte för 
-kreditmarknadsföreningar. Lag (2016:117).
-
-1 a § /Träder i kraft I:2018-07-01/
-Bestämmelserna om investerande medlemmar i lagen 
+1 a § Bestämmelserna om investerande medlemmar i lagen 
 (2018:672) om ekonomiska föreningar gäller inte för 
 kreditmarknadsföreningar. Lag (2018:725).
 
 Insatskapital
 
-2 § /Upphör att gälla U:2018-07-01/
-Insatserna i en kreditmarknadsförening skall alltid
-fullgöras i pengar.
-
-2 § /Träder i kraft I:2018-07-01/
-Insatserna i en kreditmarknadsförening ska alltid 
+2 § Insatserna i en kreditmarknadsförening ska alltid 
 fullgöras i pengar.
 
 En utbetalning av insatsbelopp till en medlem som går ur en 
@@ -2455,15 +2424,7 @@ moderföretag.
 verkställande direktör. Föreningens verkställande direktör får
 inte vara ordförande i styrelsen.
 
-5 § /Upphör att gälla U:2018-07-01/
-Rätten att teckna en kreditmarknadsförenings firma får
-utövas bara av två eller flera personer i förening om inte
-annat följer av bestämmelserna i 6 kap. 12 § lagen (1987:667)
-om ekonomiska föreningar. Ingen annan inskränkning får
-registreras.
-
-5 § /Träder i kraft I:2018-07-01/
-Rätten att teckna en kreditmarknadsförenings firma får 
+5 § Rätten att teckna en kreditmarknadsförenings firma får 
 utövas bara av två eller flera personer i förening, om inte 
 något annat följer av 7 kap. 36 § lagen (2018:672) om 
 ekonomiska föreningar. Ingen annan inskränkning får 
@@ -2516,34 +2477,14 @@ eller 2. Lag (2014:982).
 i en kreditmarknadsförening ska avsätta tillräckligt med tid
 för att kunna utföra sitt uppdrag. Lag (2014:982).
 
-6 d § /Upphör att gälla U:2018-07-01/
-I fråga om revisionsutskott ska en 
-kreditmarknadsförening anses som en sådan ekonomisk förening 
-som avses i 6 kap. 7 § lagen (1987:667) om ekonomiska 
-föreningar. Lag (2016:437).
-
-6 d § /Träder i kraft I:2018-07-01/
-I fråga om revisionsutskott ska en 
+6 d § I fråga om revisionsutskott ska en 
 kreditmarknadsförening anses som en sådan ekonomisk förening 
 som avses i 7 kap. 47 § lagen (2018:672) om ekonomiska 
 föreningar. Lag (2018:725).
 
 Föreningsstämma
 
-7 § /Upphör att gälla U:2018-07-01/
-Utöver det som föreskrivs om upplysningsplikt i 7 kap. 
-28 § lagen (1987:667) om ekonomiska föreningar gäller att 
-upplysningar får lämnas bara om det kan göras utan nämnvärd 
-olägenhet för någon enskild.
-
-Bestämmelserna i 7 kap. 30 och 31 §§ lagen om ekonomiska 
-föreningar ska tillämpas också när styrelsen har funnit att 
-en upplysning som har begärts enligt 7 kap. 28 och 29 §§ 
-samma lag inte kan lämnas till en medlem utan nämnvärd 
-olägenhet för någon enskild. Lag (2016:117).
-
-7 § /Träder i kraft I:2018-07-01/
-Utöver det som föreskrivs om upplysningsplikt i 6 kap. 
+7 § Utöver det som föreskrivs om upplysningsplikt i 6 kap. 
 29 § lagen (2018:672 om ekonomiska föreningar gäller att 
 upplysningar får lämnas bara om det kan göras utan nämnvärd 
 olägenhet för någon enskild.
@@ -2554,18 +2495,7 @@ en upplysning som har begärts enligt 6 kap. 29 och 30 §§
 samma lag inte kan lämnas till en medlem utan nämnvärd 
 olägenhet för någon enskild. Lag (2018:725).
 
-7 a § /Upphör att gälla U:2018-07-01/
-I stället för det som föreskrivs i 7 kap. 44 § tredje 
-stycket första meningen lagen (1987:667) om ekonomiska 
-föreningar om att väcka talan gäller följande. Utöver det som 
-föreskrivs i 7 kap. 44 § första stycket lagen om ekonomiska 
-föreningar får talan inte väckas efter det att 
-Finansinspektionen genom ett beslut som har fått laga kraft 
-har lämnat tillstånd att verkställa fusionsplanen enligt 
-14–16 §§ detta kapitel. Lag (2016:117).
-
-7 a § /Träder i kraft I:2018-07-01/
-I stället för det som föreskrivs i 6 kap. 48 § 
+7 a § I stället för det som föreskrivs i 6 kap. 48 § 
 tredje stycket första meningen lagen (2018:672) om ekonomiska 
 föreningar om att väcka talan gäller följande. Utöver det som 
 föreskrivs i 6 kap. 48 § första stycket lagen om ekonomiska 
@@ -2585,29 +2515,12 @@ revisor i en kreditmarknadsförening.
 Minst en revisor som stämman utsett ska vara auktoriserad
 revisor. Lag (2013:231).
 
-9 a § /Upphör att gälla U:2018-07-01/
-Vid tillämpningen av 8 kap. 7 § lagen (1987:667) om
-ekonomiska föreningar om jäv för revisor skall
-kreditmarknadsföreningar anses som föreningar som avses i 8
-kap. 5 § första eller tredje stycket samma lag. Lag (2006:405).
-
-9 a § /Träder i kraft I:2018-07-01/
-Vid tillämpningen av 8 kap. 19 § lagen (2018:672) 
+9 a § Vid tillämpningen av 8 kap. 19 § lagen (2018:672) 
 om ekonomiska föreningar om jäv för revisor ska 
 kreditmarknadsföreningar anses som föreningar som avses i 
 8 kap. 14, 15 eller 53 § samma lag. Lag (2018:725).
 
-9 b § /Upphör att gälla U:2018-07-01/
-I fråga om uppdragstid för revisorn ska en 
-kreditmarknadsförening anses som en sådan ekonomisk förening 
-som avses i 8 kap. 8 a § lagen (1987:667) om ekonomiska 
-föreningar. Möjligheten enligt den paragrafen att förlänga 
-revisionsuppdraget till högst tjugo eller tjugofyra år gäller 
-dock inte uppdrag i en kreditmarknadsförening. 
-Lag (2016:437).
-
-9 b § /Träder i kraft I:2018-07-01/
-I fråga om uppdragstid för revisorn ska en 
+9 b § I fråga om uppdragstid för revisorn ska en 
 kreditmarknadsförening anses som en sådan ekonomisk förening 
 som avses i 8 kap. 54 § lagen (2018:672) om ekonomiska 
 föreningar. Möjligheten enligt den paragrafen att förlänga 
@@ -2615,38 +2528,17 @@ revisionsuppdraget till högst tjugo eller tjugofyra år gäller
 dock inte uppdrag i en kreditmarknadsförening. 
 Lag (2018:725).
 
-9 c § /Upphör att gälla U:2018-07-01/
-I fråga om revisionsberättelsens innehåll ska en 
-kreditmarknadsförening anses som en sådan ekonomisk förening 
-som avses i 8 kap. 13 b § lagen (1987:667) om ekonomiska 
-föreningar. Lag (2016:437).
-
-9 c § /Träder i kraft I:2018-07-01/
-I fråga om revisionsberättelsens innehåll ska en 
+9 c § I fråga om revisionsberättelsens innehåll ska en 
 kreditmarknadsförening anses som en sådan ekonomisk förening 
 som avses i 8 kap. 56–59 §§ lagen (2018:672) om ekonomiska 
 föreningar. Lag (2018:725).
 
-9 d § /Upphör att gälla U:2018-07-01/
-I fråga om koncernrevision ska en 
-kreditmarknadsförening anses som en sådan ekonomisk förening 
-som avses i 8 kap. 13 c § lagen (1987:667) om ekonomiska 
-föreningar. Lag (2016:437).
-
-9 d § /Träder i kraft I:2018-07-01/
-I fråga om koncernrevision ska en 
+9 d § I fråga om koncernrevision ska en 
 kreditmarknadsförening anses som en sådan ekonomisk förening 
 som avses i 8 kap. 60 § lagen (2018:672) om ekonomiska 
 föreningar. Lag (2018:725).
 
-10 § /Upphör att gälla U:2018-07-01/
-Utöver vad som föreskrivs om upplysningsplikt i 8 kap.
-16 § lagen (1987:667) om ekonomiska föreningar gäller att
-upplysningar får lämnas bara om det kan göras utan nämnvärd
-olägenhet för enskild.
-
-10 § /Träder i kraft I:2018-07-01/
-Utöver det som föreskrivs om upplysningsplikt i 8 kap. 
+10 § Utöver det som föreskrivs om upplysningsplikt i 8 kap. 
 49 och 50 §§ lagen (2018:672) om ekonomiska föreningar 
 gäller att upplysningar får lämnas bara om det kan göras utan 
 nämnvärd olägenhet för någon enskild. Lag (2018:725).
@@ -2655,14 +2547,7 @@ nämnvärd olägenhet för någon enskild. Lag (2018:725).
 särskilda granskares rapporteringsskyldighet till
 Finansinspektionen.
 
-11 a § /Upphör att gälla U:2018-07-01/
-I fråga om en domstols entledigande av revisorn ska en 
-kreditmarknadsförening anses som en sådan ekonomisk förening 
-som avses i 8 kap. 16 a § lagen (1987:667) om ekonomiska 
-föreningar. Lag (2016:437).
-
-11 a § /Träder i kraft I:2018-07-01/
-I fråga om en domstols entledigande av revisorn 
+11 a § I fråga om en domstols entledigande av revisorn 
 ska en kreditmarknadsförening anses som en sådan ekonomisk 
 förening som avses i 8 kap. 55 § lagen (2018:672) om 
 ekonomiska föreningar. Lag (2018:725).
@@ -2676,47 +2561,28 @@ Lag (2016:437).
 
 Likvidation
 
-12 § /Upphör att gälla U:2018-07-01/
-Ansökan om likvidation av en kreditmarknadsförening enligt
-11 kap. 3, 4 eller 4 a § lagen (1987:667) om ekonomiska
-föreningar får också göras av Finansinspektionen.
-
-12 § /Träder i kraft I:2018-07-01/
-En ansökan om likvidation av en 
+12 § En ansökan om likvidation av en 
 kreditmarknadsförening enligt 17 kap. 11 eller 16 § lagen 
 (2018:672) om ekonomiska föreningar får också göras av 
 Finansinspektionen. Lag (2018:725).
 
-12 a § /Träder i kraft I:2018-07-01/
-Vid tillämpningen av 17 kap. 11 § lagen (2018:672) 
+12 a § Vid tillämpningen av 17 kap. 11 § lagen (2018:672) 
 om ekonomiska föreningar ska det som där sägs i första 
 stycket 2 och 3 om 8 kap. 3 och 16 §§ årsredovisningslagen 
 (1995:1554) i stället avse 8 kap. 5 och 8 §§ lagen 
 (1995:1559) om årsredovisning i kreditinstitut och 
 värdepappersbolag. Lag (2018:725).
 
-/Rubriken träder i kraft I:2018-07-01/
 Upplösning utan föregående likvidation
 
-12 b § /Träder i kraft I:2018-07-01/
-Bestämmelserna i 18 kap. 1–7 §§ lagen (2018:672) om 
+12 b § Bestämmelserna i 18 kap. 1–7 §§ lagen (2018:672) om 
 ekonomiska föreningar om upplösning genom förenklad 
 avveckling gäller inte för kreditmarknadsföreningar.
 Lag (2018:725).
 
 Fusion
 
-13 § /Upphör att gälla U:2018-07-01/
-Vid fusion med en kreditmarknadsförening tillämpas inte
-12 kap. 10–12, 14–16 och 35 §§ lagen (1987:667) om ekonomiska
-föreningar. I stället tillämpas 14–16 §§ detta kapitel. När
-fusionen avser en kreditmarknadsförening och ett helägt
-dotteraktiebolag gäller 14–16 §§ i tillämpliga delar. Det som
-föreskrivs där om överlåtande förening ska i stället avse
-dotteraktiebolaget. Lag (2009:711).
-
-13 § /Träder i kraft I:2018-07-01/
-Vid fusion med en kreditmarknadsförening tillämpas 
+13 § Vid fusion med en kreditmarknadsförening tillämpas 
 inte 16 kap. 17–19, 21–23 och 41 §§ lagen (2018:672) om 
 ekonomiska föreningar. I stället tillämpas 14–16 §§ i detta 
 kapitel. När fusionen avser en kreditmarknadsförening och ett 
@@ -2724,33 +2590,7 @@ helägt dotteraktiebolag gäller 14–16 §§ i tillämpliga delar.
 Det som föreskrivs där om överlåtande förening ska i stället 
 avse dotteraktiebolaget. Lag (2018:725).
 
-14 § /Upphör att gälla U:2018-07-01/
-När fusionsplanen har blivit gällande i samtliga
-föreningar, ska såväl överlåtande som övertagande förening
-ansöka om tillstånd att verkställa planen. Vid en
-gränsöverskridande fusion ska ansökan göras av den eller de
-svenska föreningar som deltar i fusionen. Ansökan ska göras
-hos Finansinspektionen.
-
-Vid fusion genom kombination ska föreningarna dessutom ansöka
-om tillstånd enligt 3 kap. 2 § och godkännande av stadgarna
-enligt 3 kap. 3 § för den övertagande föreningen. Vid
-gränsöverskridande fusion gäller detta bara om den
-övertagande föreningen ska ha sitt hemvist i Sverige.
-
-Ansökan enligt första stycket ska ges in inom en månad efter
-det att fusionsplanen gäller i samtliga föreningar och senast
-två år efter det att registreringen av planen har kungjorts
-enligt 15 kap. 2 § lagen (1987:667) om ekonomiska föreningar.
-
-Finansinspektionen ska underrätta Bolagsverket och
-Skatteverket om ansökningar enligt första stycket.
-Finansinspektionen ska vidare underrätta Bolagsverket om
-lagakraftvunna beslut som har meddelats med anledning av
-sådana ansökningar. Lag (2009:711).
-
-14 § /Träder i kraft I:2018-07-01/
-När fusionsplanen har blivit gällande i samtliga 
+14 § När fusionsplanen har blivit gällande i samtliga 
 föreningar, ska såväl den eller de överlåtande föreningarna 
 som den övertagande föreningen ansöka om tillstånd att 
 verkställa planen. Vid en gränsöverskridande fusion ska 
@@ -2809,38 +2649,14 @@ enligt konkurrenslagen eller rådets förordning (EG) nr
 får Finansinspektionen besluta att tillståndsfrågan ska vila
 under högst sex månader. Lag (2009:711).
 
-17 § /Upphör att gälla U:2018-07-01/
-I stället för det som föreskrivs i 12 kap. 17 § andra
-stycket lagen (1987:667) om ekonomiska föreningar om
-tidpunkten för anmälan av fusionen för registrering ska
-anmälan göras senast två månader från det att
-Finansinspektionens tillstånd att verkställa fusionsplanen
-har vunnit laga kraft. Lag (2009:711).
-
-17 § /Träder i kraft I:2018-07-01/
-I stället för det som föreskrivs i 16 kap. 24 § 
+17 § I stället för det som föreskrivs i 16 kap. 24 § 
 andra stycket lagen (2018:672) om ekonomiska föreningar om 
 tidpunkten för anmälan av fusionen för registrering ska 
 anmälan göras senast två månader från det att 
 Finansinspektionens tillstånd att verkställa fusionsplanen 
 har fått laga kraft. Lag (2018:725).
 
-18 § /Upphör att gälla U:2018-07-01/
-I stället för 12 kap. 40 § andra stycket lagen (1987:667)
-om ekonomiska föreningar gäller följande. Det särskilda
-bokslutet ska innehålla en balansräkning och en
-resultaträkning. När dessa handlingar upprättas ska
-bestämmelserna i lagen (1995:1559) om årsredovisning i
-kreditinstitut och värdepappersbolag tillämpas. Det särskilda
-bokslutet ska dessutom innehålla vissa tilläggsupplysningar och
-specifikationer. Därvid gäller 6 kap. 5 och 8 §§
-bokföringslagen (1999:1078) i tillämpliga delar. Bokslutet ska
-undertecknas och ges in till registreringsmyndigheten inom en
-månad från utgången av den period som bokslutet omfattar.
-Lag (2010:1530).
-
-18 § /Träder i kraft I:2018-07-01/
-I stället för 16 kap. 48 § andra stycket lagen 
+18 § I stället för 16 kap. 48 § andra stycket lagen 
 (2018:672) om ekonomiska föreningar gäller följande. Det 
 särskilda bokslutet ska innehålla en balansräkning och en 
 resultaträkning. När dessa handlingar upprättas ska lagen 
@@ -2861,16 +2677,6 @@ från registreringen. Om det finns särskilda skäl får
 Finansinspektionen förlänga denna frist. Lag (2009:711).
 
 Skadestånd
-
-20 § /Upphör att gälla U:2018-07-01/
-Vad som i 13 kap. 1–3 §§ lagen (1987:667) om ekonomiska
-föreningar föreskrivs om ansvar vid överträdelse av den
-lagen, av tillämplig lag om årsredovisning och av stadgarna
-gäller beträffande kreditmarknadsföreningar även vid
-överträdelse av denna lag, förordning (EU) nr 575/2013, lagen
-(2014:968) om särskild tillsyn över kreditinstitut och
-värdepappersbolag och lagen (2014:966) om kapitalbuffertar.
-Lag (2014:982).
 
 20 § /Träder i kraft I:2018-07-01/
 Det som föreskrivs i 21 kap. 1–3 §§ lagen 
@@ -3014,14 +2820,7 @@ bestämmelser i lagen (1995:1559) om årsredovisning i
 kreditinstitut och värdepappersbolag som är tillämpliga på
 kreditmarknadsföreningar. Lag (2006:612).
 
-29 § /Upphör att gälla U:2018-07-01/
-Rätten att teckna firman för ett europakooperativ får
-utövas bara av två eller flera personer i förening, om inte
-annat följer av 6 kap. 12 § lagen (1987:667) om ekonomiska
-föreningar. Lag (2006:612).
-
-29 § /Träder i kraft I:2018-07-01/
-Rätten att teckna firman för ett europakooperativ 
+29 § Rätten att teckna firman för ett europakooperativ 
 får utövas bara av två eller flera personer i förening, om 
 inte något annat följer av 7 kap. 36 § lagen (2018:672) om 
 ekonomiska föreningar. Lag (2018:725).
@@ -3030,28 +2829,7 @@ ekonomiska föreningar. Lag (2018:725).
 
 Registreringsmyndighet
 
-1 § /Upphör att gälla U:2018-07-01/
-Registreringsmyndighet för banker och filialer till
-utländska bankföretag är Bolagsverket. Hos
-registreringsmyndigheten förs ett bankregister. I detta skrivs
-de uppgifter in som enligt denna lag, aktiebolagslagen
-(2005:551), sparbankslagen (1987:619), lagen (1995:1570) om
-medlemsbanker, lagen (1992:160) om utländska filialer m.m.
-eller andra författningar ska anmälas för registrering eller i
-övrigt ska tas in i registret.
-
-För registrering av kreditmarknadsbolag och
-kreditmarknadsföreningar gäller vad som föreskrivs i
-aktiebolagslagen respektive lagen (1987:667) om ekonomiska
-föreningar. För registrering av filialer till utländska
-kreditföretag gäller lagen om utländska filialer m.m.
-
-Registreringsmyndigheten ska lämna ut uppgifter och handlingar
-i bankregistret i elektronisk form, om det begärs.
-Lag (2007:1465).
-
-1 § /Träder i kraft I:2018-07-01/
-Registreringsmyndighet för banker och filialer till 
+1 § Registermyndighet för banker och filialer till 
 utländska bankföretag är Bolagsverket. Hos 
 registreringsmyndigheten förs ett bankregister. I detta 
 skrivs de uppgifter in som enligt denna lag, aktiebolagslagen 
@@ -3222,33 +3000,7 @@ som förordnats av inspektionen. En revisor som förordnats av
 Finansinspektionen skall oavsett stämmans anvisningar följa den
 instruktion som inspektionen har utfärdat.
 
-10 § /Upphör att gälla U:2018-07-01/
-En revisor eller en särskild granskare skall omgående
-rapportera till Finansinspektionen om han eller hon vid
-fullgörandet av sitt uppdrag i ett kreditinstitut får kännedom
-om förhållanden som
-
-1. kan utgöra en väsentlig överträdelse av de författningar som
-reglerar institutets verksamhet,
-
-2. kan påverka institutets fortsatta drift negativt, eller
-
-3. kan leda till att revisorn avstyrker att balansräkningen
-eller resultaträkningen fastställs eller till anmärkning enligt
-9 kap. 33 eller 34 § aktiebolagslagen (2005:551), 8 kap. 13 §
-lagen (1987:667) om ekonomiska föreningar, 4 a kap. 14 och
-15 §§ sparbankslagen (1987:619) eller 7 a kap. 14 och 15 §§
-lagen (1995:1570) om medlemsbanker.
-
-Revisorn och granskaren har en motsvarande
-rapporteringsskyldighet om han eller hon får kännedom om
-förhållanden som avses i första stycket vid fullgörande av
-uppdrag i kreditinstitutets moderföretag eller dotterföretag
-eller i ett företag som har en likartad förbindelse med
-institutet. Lag (2005:932).
-
-10 § /Träder i kraft I:2018-07-01/
-En revisor eller en särskild granskare ska omgående 
+10 § En revisor eller en särskild granskare ska omgående 
 rapportera till Finansinspektionen om han eller hon vid 
 fullgörandet av sitt uppdrag i ett kreditinstitut får 
 kännedom om förhållanden som
@@ -3616,8 +3368,8 @@ längre kommer att uppfylla sina skyldigheter enligt denna lag
 eller andra författningar som reglerar institutets
 verksamhet. Lag (2014:982).
 
-1 a § Finansinspektionen ska ingripa mot någon som ingår i 
-ett kreditinstituts styrelse eller är dess verkställande 
+1 a § Finansinspektionen ska ingripa mot någon som ingår 
+i ett kreditinstituts styrelse eller är dess verkställande 
 direktör, eller ersättare för någon av dem, om 
 kreditinstitutet
 
@@ -3646,7 +3398,7 @@ enligt artikel 92 i tillsynsförordningen, i strid med artikel
 
 6. låter bli att rapportera eller lämnar ofullständig eller 
 felaktig information till Finansinspektionen när det gäller 
-data som avses i artikel 101 i tillsynsförordningen, 
+data som avses i artikel 101 i tillsynsförordningen,
 
 7. låter bli att lämna information till Finansinspektionen 
 eller lämnar ofullständig eller felaktig information om en 
@@ -3656,27 +3408,27 @@ tillsynsförordningen,
 8. låter bli att lämna information till Finansinspektionen 
 eller lämnar ofullständig eller felaktig information om 
 likviditet i strid med artikel 415.1 och 415.2 i 
-tillsynsförordningen, 
+tillsynsförordningen,
 
 9. låter bli att lämna uppgifter till Finansinspektionen 
 eller lämnar ofullständig eller felaktig information om sin 
 bruttosoliditet i strid med artikel 430.1 i 
-tillsynsförordningen, 
+tillsynsförordningen,
 
 10. vid upprepade tillfällen eller systematiskt låter bli att 
 hålla likvida tillgångar i strid med artikel 412 i 
-tillsynsförordningen, 
+tillsynsförordningen,
 
 11. utsätter sig för en exponering som överskrider gränserna 
-enligt artikel 395 i tillsynsförordningen, 
+enligt artikel 395 i tillsynsförordningen,
 
 12. är exponerat för kreditrisken i en 
 värdepapperiseringsposition utan att uppfylla villkoren i 
-artikel 405 i tillsynsförordningen, 
+artikel 405 i tillsynsförordningen,
 
 13. låter bli att lämna information eller lämnar ofullständig 
 eller felaktig information i strid med någon av artiklarna 
-431.1–431.3 och 451.1 i tillsynsförordningen, 
+431.1–431.3 och 451.1 i tillsynsförordningen,
 
 14. gör betalningar till innehavare av instrument som ingår i 
 institutets kapitalbas i strid med 8 kap. 3 och 4 §§ lagen 
@@ -3699,15 +3451,17 @@ förordning (EG) nr 1781/2006,
 17. har tillåtit en styrelseledamot, verkställande direktören 
 eller ersättare för någon av dem att åta sig ett sådant 
 uppdrag i institutet eller kvarstå i institutet trots att 
-kraven i 3 kap. 2 § första stycket 4 eller 5, 10 kap. 8 a–8 c 
-§§, 12 kap. 6 a–6 c §§ eller i föreskrifter som har meddelats 
-med stöd av 16 kap. 1 § 2 inte är uppfyllda, 
+kraven i 3 kap. 2 § första stycket 4 eller 5, 10 kap. 
 
-18. i strid med 6 a kap. 2 § låter bli att upprätta eller 
-lämna in en koncernåterhämtningsplan,
+8 a–8 c §§, 12 kap. 6 a–6 c §§ eller i föreskrifter som har 
+meddelats med stöd av 16 kap. 1 § 2 inte är uppfyllda,
+
+18. i strid med 6 a kap. 1 eller 2 § låter bli att upprätta 
+eller lämna in en återhämtningsplan eller en 
+koncernåterhämtningsplan,
 
 19. i strid med 6 b kap. 11 § låter bli att anmäla att 
-koncerninternt finansiellt stöd ska lämnas,
+koncerninternt finansiellt stöd ska lämnas, 
 
 20. i strid med 13 kap. 4 a och 5 a §§ låter bli att 
 underrätta Finansinspektionen om institutet fallerar eller 
@@ -3734,7 +3488,7 @@ Ingripande sker genom
 verkställande direktör i ett kreditinstitut, eller ersättare 
 för någon av dem, eller
 
-2. beslut om sanktionsavgift. Lag (2017:1342).
+2. beslut om sanktionsavgift. Lag (2018:1397).
 
 1 b § Vid valet av sanktion ska Finansinspektionen ta hänsyn
 till hur allvarlig överträdelsen är och hur länge den pågått.
@@ -3957,10 +3711,10 @@ Förseningsavgift
 
 10 § Om ett kreditinstitut underlåter att i tid lämna de 
 upplysningar som föreskrivits med stöd av 16 kap. 1 § första 
-stycket 13, får Finansinspektionen besluta att institutet ska 
+stycket 15, får Finansinspektionen besluta att institutet ska 
 betala en förseningsavgift med högst 100 000 kronor.
 
-Avgiften tillfaller staten. Lag (2017:1342).
+Avgiften tillfaller staten. Lag (2018:1397).
 
 Verkställighet av beslut om sanktionsavgift och
 förseningsavgift
@@ -4073,21 +3827,6 @@ kännedom om vid fullgörandet av sitt uppdrag.
 I fråga om utländska företag får ett föreläggande enligt
 denna paragraf riktas mot såväl företaget som den som här i
 landet är verksam för företagets räkning. Lag (2015:184).
-
-19 § /Upphör att gälla U:2018-07-01/
-Om ett svenskt aktiebolag eller en svensk ekonomisk
-förening inte följer ett föreläggande enligt 18 § första
-stycket att upphöra med rörelsen, skall rätten, efter ansökan
-av Finansinspektionen, besluta att företaget skall gå i
-likvidation. I dessa fall tillämpas bestämmelserna i 25 kap.
-10, 25, 28-44, 46 och 47 §§ aktiebolagslagen (2005:551) samt 11
-kap. 5 och 7-16 §§ samt 17 § fjärde och femte styckena lagen
-(1987:667) om ekonomiska föreningar.
-
-Beslut om likvidation skall inte meddelas om det under ärendets
-handläggning vid tingsrätten visas att rörelsen har upphört.
-
-Beslutet om likvidation gäller omedelbart. Lag (2005:932).
 
 19 § /Träder i kraft I:2018-07-01/
 Om ett svenskt aktiebolag eller en svensk ekonomisk 
@@ -4276,12 +4015,13 @@ träffats. Lag (2015:1029).
 
 16 kap. Bemyndiganden
 
-1 § Regeringen eller den myndighet som regeringen bestämmer 
-får meddela föreskrifter om
+1 § Regeringen eller den myndighet som regeringen 
+bestämmer får meddela föreskrifter om
 
 1. vilken information ett kreditinstitut ska lämna till sina 
 kunder eller till dem som institutet erbjuder sina 
 tjänster,
+
 2. de krav som ska gälla för deltagande i 
 ledningen av ett kreditinstitut enligt 3 kap. 2 § första 
 stycket 4 och 5 och 14 kap. 2 § andra stycket 1,
@@ -4289,7 +4029,7 @@ stycket 4 och 5 och 14 kap. 2 § andra stycket 1,
 3. vilka poster som får räknas in i startkapitalet enligt 3 
 kap. 5–7 §§,
 
-4. vilka åtgärder som ett kreditinstitut ska vidta för att 
+4. vilka åtgärder ett kreditinstitut ska vidta för att 
 uppfylla de krav på soliditet och likviditet, riskhantering, 
 genomlysning, system för hantering av uppgifter om insättare 
 och deras insättningar, amortering, sundhet, att inte bidra 
@@ -4314,25 +4054,38 @@ finansiellt stöd enligt 6 b kap. 11 §,
 
 10. offentliggörandet av information enligt 6 b kap. 16 §,
 
-11. kreditinstituts mångfaldspolicy vid tillsättandet av 
-styrelse samt resurser för introduktion och utbildning av 
-styrelseledamöter, 
+11. vilka åtgärder ett kreditinstitut ska vidta för att 
+uppfylla de krav på kreditprövning, dokumentation och 
+beslutsunderlag som avses i 8 kap. 
 
-12. vilka begränsningar som gäller när ett bankaktiebolag 
+1–4 §§ i fråga om 
+
+– krediter till andra än konsumenter, och
+
+– sådana krediter till konsumenter som är bostadskrediter,
+
+12. tillhandahållande av tjänster till en jävskrets som avses 
+i 8 kap. 5 och 6 §§,
+
+13. kreditinstituts mångfaldspolicy vid tillsättandet av 
+styrelse samt resurser för introduktion och utbildning av 
+styrelseledamöter,
+
+14. vilka begränsningar som gäller när ett bankaktiebolag 
 eller ett kreditmarknadsbolag tar emot egna aktier eller 
 aktier i sitt moderbolag som pant enligt 10 kap. 12 §,
 
-13. vilka upplysningar ett kreditinstitut och sådana 
+15. vilka upplysningar ett kreditinstitut och sådana 
 utländska kreditinstitut som inrättat filial i Sverige ska 
-lämna till Finansinspektionen för dess tillsynsverksamhet, 
+lämna till Finansinspektionen för dess tillsynsverksamhet,
 
-14. vilka kreditinstitut som ska upprätta register som avses 
+16. vilka kreditinstitut som ska upprätta register som avses 
 i 13 kap. 8 a §, vad registren ska innehålla och inom vilken 
 tid kreditinstitutet ska ge in registren för olika typer av 
 avtal, och
 
-15. sådana avgifter för tillsyn, ansökningar, anmälningar och 
-underrättelser som avses i 13 kap. 16 §. Lag (2017:1342).
+17. sådana avgifter för tillsyn, ansökningar, anmälningar och 
+underrättelser som avses i 13 kap. 16 §. Lag (2018:1397).
 
 2 § Regeringen får meddela föreskrifter om
 
@@ -4345,27 +4098,7 @@ och 2 b §§. Lag (2015:1029).
 
 17 kap. Överklagande
 
-1 § /Upphör att gälla U:2018-07-01/
-Finansinspektionens beslut enligt 13 kap. 12 § och 15
-kap. 9 a § och 18 § tredje stycket får inte överklagas.
-
-Finansinspektionens beslut som avses i 10 kap. 1 § andra
-stycket 1 får överklagas till regeringen.
-
-Andra beslut av Finansinspektionen enligt denna lag får
-överklagas till allmän förvaltningsdomstol. Detta gäller dock
-inte beslut i ärenden som avses i 20 § första stycket 5
-förvaltningslagen (1986:223).
-
-Prövningstillstånd krävs vid överklagande till
-kammarrätten.
-
-Inspektionen får bestämma att ett beslut om
-förbud, föreläggande eller återkallelse ska gälla
-omedelbart. Lag (2015:184).
-
-1 § /Träder i kraft I:2018-07-01/
-Finansinspektionens beslut enligt 13 kap. 12 § och 
+1 § Finansinspektionens beslut enligt 13 kap. 12 § och 
 15 kap. 9 a § och 18 § tredje stycket får inte överklagas.
 
 Finansinspektionens beslut som avses i 10 kap. 1 § andra 
