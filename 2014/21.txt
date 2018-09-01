@@ -1,9 +1,16 @@
-1 § Denna förordning är meddelad med stöd av
+1 § Denna förordning syftar till geologisk lagring av 
+koldioxid på ett miljömässigt säkert sätt som innebär 
+permanent inneslutning av koldioxid på ett sätt som 
+förhindrar och, där detta inte är möjligt, i möjligaste mån 
+eliminerar negativa effekter och eventuella risker för miljön 
+och människors hälsa.
+
+Förordningen är meddelad med stöd av
 
 – 4 kap. 9 § miljöbalken i fråga om 10 §,
 
-– 9 kap. 6 § och 15 kap. 40 § miljöbalken ifråga om 9, 11–25, 
-27–41, 45, 46, 48–54, 58, 59, 64, 67, 68 och 70 §§,
+– 9 kap. 6 § och 15 kap. 40 § miljöbalken i fråga om 9, 
+11–25, 27–41, 45, 46, 48–54, 58, 59, 64, 67, 68 och 70 §§,
 
 – 26 kap. 19 § miljöbalken i fråga om 42–44 §§,
 
@@ -11,8 +18,8 @@
 
 – 27 kap. 2 § miljöbalken i fråga om 55–57 §§, och
 
-– 8 kap. 7 § regeringsformen i fråga om övriga bestämmelser. 
-Förordning (2016:812).
+– 8 kap. 7 § regeringsformen i fråga om övriga 
+bestämmelser. Förordning (2018:1326).
 
 Ord och uttryck i förordningen
 
@@ -63,21 +70,27 @@ formation.
 
 5 § I denna förordning avses med
 
-betydande störning: varje störning vid injektering eller
-lagring eller i fråga om själva lagringskomplexets
-beskaffenhet som kan innebära risk för läckage av koldioxid
+betydande störning: varje störning vid injektering eller 
+lagring eller i fråga om själva lagringskomplexets 
+beskaffenhet som kan innebära risk för läckage av koldioxid 
 eller risk för människors hälsa eller miljön,
 
-avhjälpande åtgärd: varje åtgärd som i fråga om att avhjälpa
-en betydande störning eller täta en läcka vidtas för att
-hindra eller stoppa utsläpp av koldioxid från ett
+betydande risk: en kombination av en sannolikhet att skada 
+ska uppkomma och att denna skada ska vara av en omfattning 
+som inte kan förbises på grund av att lagringsplatsen inte 
+bedöms vara miljömässigt säker,
+
+avhjälpande åtgärd: varje åtgärd som i fråga om att avhjälpa 
+en betydande störning eller täta en läcka vidtas för att 
+hindra eller stoppa utsläpp av koldioxid från ett 
 lagringskomplex,
 
-stängning av en lagringsplats: definitivt upphörande av
+stängning av en lagringsplats: definitivt upphörande av 
 koldioxidinjektering i en lagringsplats, och
 
-ansvarsöverföring: överföring till staten av det ansvar som
+ansvarsöverföring: överföring till staten av det ansvar som 
 en verksamhetsutövare har i fråga om en lagringsplats.
+Förordning (2018:1326).
 
 6 § I övrigt har ord och uttryck i denna förordning samma
 betydelse som i miljöbalken.
@@ -101,14 +114,15 @@ produkter eller processer.
 
 Lokalisering av en lagringsplats
 
-9 § En geologisk formation får användas för lagring av
+9 § En geologisk formation får användas för lagring av 
 koldioxid endast om
 
-1. det inte finns någon betydande risk för läckage av
-koldioxid från lagringsplatsen, och
+1. det inte finns någon betydande risk för läckage av 
+koldioxid från lagringskomplexet, och
 
-2. lagring av koldioxid på platsen inte medför någon
+2. lagring av koldioxid på platsen inte medför någon 
 betydande risk för människors hälsa eller miljön.
+Förordning (2018:1326).
 
 10 § Geologisk lagring av koldioxid som avser en sammanlagd 
 planerad lagring av mer än 100 000 ton koldioxid får endast 
@@ -427,26 +441,28 @@ lagring av koldioxid finns i miljöprövningsförordningen
 (2013:251) och i förordningen (1998:899) om miljöfarlig
 verksamhet och hälsoskydd.
 
-27 § Den som avser att bedriva en verksamhet med geologisk
-lagring av koldioxid ska innan verksamheten påbörjas upprätta
+27 § Den som avser att bedriva en verksamhet med geologisk 
+lagring av koldioxid ska innan verksamheten påbörjas upprätta 
 förslag till
 
-1. en plan som beskriver vilka åtgärder som ska vidtas i
-händelse av läckage av koldioxid eller betydande störningar i
+1. en plan som beskriver vilka åtgärder som ska vidtas i 
+händelse av läckage av koldioxid eller betydande störningar i 
 lagringskomplexet (plan för avhjälpande åtgärder),
 
-2. en övervakningsplan för kontrollen enligt 26 kap. 19 §
+2. en övervakningsplan för kontrollen enligt 26 kap. 19 § 
 miljöbalken och 43 § denna förordning, och
 
-3. en plan för underhåll efter stängning.
+3. en sådan plan för underhåll efter stängning som avses i 
+51 §.
 
-Första stycket 2 gäller utöver det kontrollprogram som kan
+Första stycket 2 gäller utöver det kontrollprogram som kan 
 krävas enligt 26 kap. 19 § miljöbalken.
 
-Bestämmelser om att en ansökan om tillstånd till geologisk
-lagring av koldioxid ska innehålla ett förslag till
-övervakningsplan och ett förslag till plan för avhjälpande
-åtgärder finns i 22 kap. 1 a § miljöbalken.
+Bestämmelser om att en ansökan om tillstånd till geologisk 
+lagring av koldioxid ska innehålla ett förslag till 
+övervakningsplan och ett förslag till plan för avhjälpande 
+åtgärder finns i 22 kap. 1 b § miljöbalken.
+Förordning (2018:1326).
 
 28 § Tillstånd till geologisk lagring av koldioxid får endast
 ges om verksamhetsutövaren visar att verksamhetsutövaren har
@@ -480,10 +496,16 @@ kontinentalsockeln,
 
 Övervakningsplan
 
-32 § Den övervakningsplan som avses i 27 § första stycket 2
-ska avse hanteringen av de risker som identifierats i
-riskbedömningen enligt 21–25 §§. Planen ska uppfylla kraven i
+32 § Den övervakningsplan som avses i 27 § första stycket 
+2 ska avse hanteringen av de risker som identifierats i 
+riskbedömningen enligt 21–25 §§. Planen ska uppfylla kraven i 
 33–37 §§.
+
+Riktlinjer för utformningen av planen finns i kommissionens 
+förordning (EU) nr 601/2012 av den 21 juni 2012 om 
+övervakning och rapportering av växthusgasutsläpp i enlighet 
+med Europaparlamentets och rådets direktiv 2003/87/EG.
+Förordning (2018:1326).
 
 33 § I övervakningsplanen ska det finnas detaljerad
 information om vilken övervakning som ska ske under
@@ -575,23 +597,23 @@ stängas. Förordning (2016:812).
 
 Koldioxidströmmarnas sammansättning
 
-39 § Den koldioxidström som injekteras i lagringsplatsen ska
-bestå av enbart koldioxid. Koldioxidströmmen får dock
-innehålla spår av andra ämnen än koldioxid som härrör från
-källan till koldioxidutsläppen, avskiljningen eller
-injekteringsprocessen samt spårämnen som tillsatts i samband
-med övervakning och kontroll av koldioxidens rörelser inom
-lagringskomplexet. Halterna av sådana ämnen får inte
-överstiga nivåer som skulle kunna
+39 § En koldioxidström ska bestå av enbart koldioxid. 
+Koldioxidströmmen får dock innehålla spår av andra ämnen än 
+koldioxid som härrör från källan till koldioxidutsläppen, 
+avskiljningen eller injekteringsprocessen samt spårämnen som 
+tillsatts i samband med övervakning och kontroll av 
+koldioxidens rörelser inom lagringskomplexet. Halterna av 
+sådana ämnen får inte överstiga nivåer som skulle kunna
 
-1. ha negativa effekter på lagringsplatsen eller säkerheten
-och funktionen hos den infrastruktur som används för
+1. ha negativa effekter på lagringsplatsen eller säkerheten 
+och funktionen hos den infrastruktur som används för 
 transport av koldioxid,
 
-2. utgöra en betydande risk för människors hälsa eller
+2. utgöra en betydande risk för människors hälsa eller 
 miljön, eller
 
 3. strida mot krav i annan lagstiftning.
+Förordning (2018:1326).
 
 40 § Verksamhetsutövaren får inte låta en koldioxidström
 injekteras i lagringsplatsen utan att ha
@@ -644,25 +666,47 @@ Kontrollen ska omfatta injekteringsanläggningen och
 lagringskomplexet. Om det är möjligt, ska kontrollen även
 omfatta koldioxidplymen och omgivningen.
 
-43 § Verksamhetsutövaren ska uppdatera övervakningsplanen vid
-behov och inte mer sällan än vart femte år.
+43 § Verksamhetsutövaren ska uppdatera övervakningsplanen 
+vid behov och inte mer sällan än vart femte år. 
+Uppdateringarna ska ta hänsyn till
+
+1. förändringar av de bedömda läckageriskerna,
+
+2. förändringar av de bedömda riskerna för miljön och för 
+människors hälsa,
+
+3. nya vetenskapliga rön, och
+
+4. förbättringar av bästa tillgängliga teknik.
+
+Vid uppdateringarna ska 14–25 §§ tillämpas med användning av 
+de kalibrerade modeller som avses i 37 § för att generera nya 
+faroscenarier och flöden samt för att revidera och uppdatera 
+bedömningen av de risker som avses i första stycket.
+
+När nya koldioxidkällor, kanaler och flöden eller observerade 
+signifikanta avvikelser från tidigare bedömningar 
+identifieras till följd av historisk matchning och 
+omkalibrering av modeller, ska övervakningsplanen uppdateras 
+i enlighet med detta. Förordning (2018:1326).
 
 44 § Tillsynsmyndigheten ska pröva uppdateringar av
 övervakningsplanen.
 
 Läckage av koldioxid och störningar
 
-45 § Om det i fråga om en anläggning för lagring av koldioxid
-inträffar betydande läckage av koldioxid eller betydande
+45 § Om det i fråga om en anläggning för lagring av 
+koldioxid inträffar läckage av koldioxid eller betydande 
 störningar, ska verksamhetsutövaren
 
-1. så snart som möjligt underrätta tillsynsmyndigheten och
-den myndighet som är tillsynsmyndighet enligt lagen
+1. så snart som möjligt underrätta tillsynsmyndigheten och 
+den myndighet som är tillsynsmyndighet enligt lagen 
 (2004:1199) om handel med utsläppsrätter om detta, och
 
-2. vidta åtgärder i enlighet med planen för avhjälpande
-åtgärder samt de övriga åtgärder som kan krävas för att
-skydda människors hälsa eller miljön.
+2. vidta åtgärder i enlighet med planen för avhjälpande 
+åtgärder samt de övriga åtgärder som kan krävas för att 
+skydda människors hälsa eller miljön. 
+Förordning (2018:1326).
 
 46 § Om verksamhetsutövaren inte följer ett föreläggande från
 tillsynsmyndigheten att vidta åtgärder som krävs enligt 45 §
@@ -695,20 +739,21 @@ stängas.
 
 Beslut att en lagringsplats ska stängas
 
-49 § Tillsynsmyndigheten får efter ansökan av
-verksamhetsutövaren besluta att lagringsplatsen ska stängas,
+49 § Tillsynsmyndigheten får efter ansökan av 
+verksamhetsutövaren besluta att lagringsplatsen ska stängas, 
 om
 
-1. verksamhetsutövaren har uppfyllt de villkor för stängning
+1. verksamhetsutövaren har uppfyllt de villkor för stängning 
 som bestämts i tillståndet,
 
-2. verksamhetsutövaren har gjort en uppdatering av den plan
-för underhåll efter stängning som avses i 27 § första stycket
-3 och uppdateringen omfattar en riskanalys och en analys av
-bästa möjliga teknik för stängning av lagringsplatsen, och
+2. verksamhetsutövaren har gjort en uppdatering av den plan 
+för underhåll efter stängning som avses i 27 § första stycket 
+3 och uppdateringen omfattar en riskanalys och en analys av 
+de bästa metoderna för stängning av lagringsplatsen, och
 
-3. tillsynsmyndigheten anser att den uppdaterade planen för
-underhåll efter stängning kan godkännas.
+3. tillsynsmyndigheten anser att den uppdaterade planen för 
+underhåll efter stängning kan godkännas. 
+Förordning (2018:1326).
 
 50 § Tillsynsmyndigheten får i det enskilda fallet ge dispens
 från kravet på att alla villkor om stängning i tillståndet
@@ -717,10 +762,10 @@ ska vara uppfyllda.
 Verksamhetsutövarens ansvar och skyldigheter efter
 stängning
 
-51 § När tillsynsmyndigheten har beslutat att en
+51 § När tillsynsmyndigheten har beslutat att en 
 lagringsplats ska stängas, ska verksamhetsutövaren
 
-1. försluta lagringsplatsen och avlägsna
+1. försluta lagringsplatsen och avlägsna 
 injekteringsanläggningarna, och
 
 2. fram till dess att ansvarsöverföring har skett
@@ -729,23 +774,34 @@ a) övervaka enligt 42 §,
 
 b) vid behov vidta avhjälpande åtgärder enligt 45 §,
 
-c) vid behov överlämna utsläppsrätter enligt lagen
-(2004:1199) om handel med utsläppsrätter i händelse av
+c) vid behov överlämna utsläppsrätter enligt lagen 
+(2004:1199) om handel med utsläppsrätter i händelse av 
 läckage av koldioxid,
 
-d) vid behov vidta förebyggande åtgärder enligt 2 kap.
-miljöbalken och avhjälpande åtgärder enligt 10 kap.
+d) vid behov vidta förebyggande åtgärder enligt 2 kap. 
+miljöbalken och avhjälpande åtgärder enligt 10 kap. 
 miljöbalken, och
 
-e) upprätta miljörapport enligt 26 kap. 20 § miljöbalken och
+e) upprätta miljörapport enligt 26 kap. 20 § miljöbalken och 
 47 § denna förordning.
+
+För fullgörande av första stycket 2 ska planen för underhåll 
+efter stängning utformas så att planen är förenlig med de 
+bästa metoderna för underhåll och stängning.
+
+Övervakningen efter stängning ska grundas på den information 
+som samlats in och modellerats under genomförandet av den 
+övervakningsplan som avses i 27 § första stycket 2 och de 
+uppdateringar som gjorts av denna plan. Planen ska innehålla 
+den information som behövs för beslut enligt 52 §.
+Förordning (2018:1326).
 
 Förutsättningar för ansvarsöverföring
 
-52 § Det ansvar som avses i 51 § 2 ska tas över av
-tillsynsmyndigheten när den har beslutat att
-ansvarsöverföring ska ske och skyldigheterna i 53–55 §§ är
-uppfyllda.
+52 § Det ansvar som avses i 51 § första stycket 2 ska tas 
+över av tillsynsmyndigheten när den har beslutat att 
+ansvarsöverföring ska ske och skyldigheterna i 53–55 §§ är 
+uppfyllda. Förordning (2018:1326).
 
 53 § Innan ansvarsöverföringen sker ska alla tillgängliga
 uppgifter visa att den lagrade koldioxiden kommer att förbli
@@ -865,19 +921,19 @@ följs, ska tillsynsmyndigheten på verksamhetsutövarens
 bekostnad utföra de åtgärder som krävs. Föreläggandet ska
 innehålla en upplysning om detta.
 
-66 § Om tillsynsmyndigheten beslutar att en lagringsplats ska
-stängas efter det att tillståndet har återkallats, ska
+66 § Om tillsynsmyndigheten beslutar att en lagringsplats 
+ska stängas efter det att tillståndet har återkallats, ska 
 tillsynsmyndigheten på verksamhetsutövarens bekostnad
 
-1. se till att planen för underhåll efter stängning är
-uppdaterad och att uppdateringen omfattar en riskanalys och
-en analys av bästa möjliga teknik för tekniska förbättringar
+1. se till att planen för underhåll efter stängning är 
+uppdaterad och att uppdateringen omfattar en riskanalys och 
+en analys av bästa möjliga teknik för tekniska förbättringar 
 och stängning av lagringsplatsen,
 
 2. vidta åtgärder enligt planen, och
 
-3. vidta de åtgärder som behövs för att följa kraven i 51 §
-2.
+3. vidta de åtgärder som behövs för att följa kraven i 51 § 
+första stycket 2. Förordning (2018:1326).
 
 67 § Om ett tillstånd till geologisk lagring av koldioxid har
 återkallats med stöd av 24 kap. 3 § miljöbalken, får
@@ -898,19 +954,19 @@ om ansvarsöverföring har skett.
 
 Förteckning över stängda lagringsplatser
 
-69 § Tillsynsmyndigheten ska föra en förteckning över givna
-tillstånd till lagring av koldioxid och över stängda
-lagringsplatser.
+69 § Tillsynsmyndigheten ska föra en förteckning över
 
-I fråga om stängda lagringsplatser ska förteckningen
-innehålla
+1. givna tillstånd till lagring av koldioxid, och
 
-1. information i form av kartor och tvärsnitt som visar den
-stängda lagringsplatsens rumsliga avgränsning, och
+2. stängda lagringsplatser och omgivande lagringskomplex 
+med
 
-2. information som är relevant för att bedöma om den lagrade
-koldioxiden kommer att förbli fullständigt och varaktigt
-innesluten.
+a) information i form av kartor och tvärsnitt som visar 
+den stängda lagringsplatsens rumsliga avgränsning, och
+
+b) information som är relevant för att bedöma om den lagrade 
+koldioxiden kommer att förbli fullständigt och varaktigt 
+innesluten. Förordning (2018:1326).
 
 70 § Tillsynsmyndigheten får meddela föreskrifter om
 skyldighet för verksamhetsutövare att lämna de uppgifter som
