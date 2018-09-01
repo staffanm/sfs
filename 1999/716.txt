@@ -276,7 +276,8 @@ att den överförda elen mäts på detta sätt, och
 2. mätvärden registrerade under högst en kalendermånad i 
 övriga fall. Förordning (2017:198).
 
-17 § Nätkoncessionshavare får i stället för att rapportera 
+17 § /Upphör att gälla U:2020-01-01 genom förordning (2018:1426)./
+Nätkoncessionshavare får i stället för att rapportera 
 enligt 9 § 4 månadsvis rapportera samlade timmätvärden för 
 den del av förbrukningsprofilen inom 
 schablonberäkningsområdet som registreras per timme. 
@@ -313,6 +314,167 @@ enligt 8 kap. 9 § andra och fjärde styckena och 10 § ellagen
 
 23 § Har upphävts genom förordning (2015:600).
 
+/Rubriken träder i kraft I:2018-09-01/
+Funktionskrav för mätsystem och mätutrustning
+
+23 § /Träder i kraft I:2018-09-01/
+Mätsystem och mätutrustning ska uppfylla 
+funktionskraven 
+
+1. i 25–28 och 30 §§ och 31 § 1, om de har strömtransformator 
+men saknar spänningstransformator, och
+
+2. i 25–28, 30 och 31 §§, om de saknar strömtransformator och 
+spänningstransformator.
+Förordning (2018:1426).
+
+24 § /Träder i kraft I:2018-09-01/
+Nätkoncessionshavaren ska se till att funktionskraven 
+uppfylls på ett sätt som säkerställer att obehöriga inte får 
+tillgång till information och styrfunktioner i mätsystemen 
+eller mätutrustningen samt att sådan information inte kan 
+ändras, förstöras eller göras otillgänglig för den som är 
+behörig att ta del av den. Förordning (2018:1426).
+
+/Rubriken träder i kraft I:2018-09-01/
+Utökad mätdata
+
+25 § /Träder i kraft I:2018-09-01/
+Mätutrustningen ska kunna
+
+1. mäta både uttag och inmatning i varje fas av
+
+a) ström,
+
+b) aktiv effekt, och
+
+c) reaktiv effekt, 
+
+2. mäta spänning i varje fas, och
+
+3. mäta och registrera den totala aktiva energin vid uttag 
+och inmatning av el. 
+Förordning (2018:1426).
+
+/Rubriken träder i kraft I:2018-09-01/
+Registrering av aktiv energi och elavbrott
+
+26 § /Träder i kraft I:2018-09-01/
+Mätutrustningen ska kunna registrera 
+
+1. mängden överförd aktiv energi varje kvart, och
+
+2. tidpunkt för början och slut av varje elavbrott som varar 
+längre än tre minuter i en eller flera faser.
+Förordning (2018:1426).
+
+/Rubriken träder i kraft I:2018-09-01/
+Öppet kundgränssnitt
+
+27 § /Träder i kraft I:2018-09-01/
+Mätutrustningen ska ha ett kundgränssnitt som stöds 
+av en öppen standard.
+
+Kundgränssnittet ska vara utformat så att det är möjligt att 
+i nära realtid få information om
+
+1. både uttag och inmatning i varje fas av
+
+a) ström,
+
+b) aktiv effekt, och
+
+c) reaktiv effekt,
+
+2. spänning i varje fas, och
+
+3. mätarställning för uttag och inmatning av aktiv energi.
+
+Det ska inte vara möjligt att skicka information till 
+mätutrustningen genom kundgränssnittet.
+Förordning (2018:1426).
+
+28 § /Träder i kraft I:2018-09-01/
+De uppgifter som avses i 27 § ska endast kunna tas ut 
+genom kundgränssnittet om nätkoncessionshavaren har aktiverat 
+det på begäran av elanvändaren. Förordning (2018:1426).
+
+29 § /Träder i kraft I:2018-09-01/
+Nätkoncessionshavaren ska 
+
+1. kontrollera identiteten på den elanvändare som begär 
+tillgång till gränssnittet, och
+
+2. inaktivera gränssnittet 
+
+a) vid byte av elanvändare i en uttagspunkt,
+
+b) om elanvändaren begär det, eller 
+
+c) om en uttagspunkt saknar elanvändare.
+Förordning (2018:1426).
+
+/Rubriken träder i kraft I:2018-09-01/
+Fjärravläsning
+
+30 § /Träder i kraft I:2018-09-01/
+Mätsystemet och mätutrustningen ska göra det möjligt 
+för nätkoncessionshavaren att på distans avläsa följande 
+uppgifter:
+
+1. både uttag och inmatning i varje fas av
+
+a) ström, 
+
+b) aktiv effekt, och
+
+c) reaktiv effekt,
+
+2. spänning i varje fas,
+
+3. mätarställning för uttag och inmatning av aktiv energi, 
+och
+
+4. elavbrott.
+Förordning (2018:1426).
+
+/Rubriken träder i kraft I:2018-09-01/
+Uppgradering, spänningssättning och frånkoppling på distans
+
+31 § /Träder i kraft I:2018-09-01/
+Mätsystemet och mätutrustningen ska göra det möjligt 
+för nätkoncessionshavaren att på distans 
+
+1. uppgradera programvara och ändra inställningar i 
+mätutrustningen, och
+
+2. spänningssätta och frånkoppla elanläggningar.
+Förordning (2018:1426).
+
+/Rubriken träder i kraft I:2018-09-01/
+Undantag
+
+32 § /Träder i kraft I:2018-09-01/
+Mätsystem och mätutrustning i byggnader och andra 
+anläggningar som ägs eller disponeras av en myndighet behöver 
+inte uppfylla funktionskraven i 25–28, 30 och 31 §§, i den 
+utsträckning myndigheten bedömer att ett undantag från 
+funktionskravet är av vikt för rikets säkerhet och begär hos 
+nätkoncessionshavaren att funktionskravet ska undantas.
+Förordning (2018:1426).
+
+33 § /Träder i kraft I:2018-09-01/
+Nätkoncessionshavaren ska tillhandahålla de mätsystem 
+och den mätutrustning som behövs vid undantag enligt 32 §.
+Förordning (2018:1426).
+
+/Rubriken träder i kraft I:2018-09-01/
+Bemyndigande
+
+34 § /Träder i kraft I:2018-09-01/
+Nätmyndigheten får meddela föreskrifter om 
+verkställigheten av denna förordning. Förordning (2018:1426).
+
 
 Övergångsbestämmelser
 
@@ -343,3 +505,11 @@ b) i berörda delar sända mätresultatet för den samlade
 förbrukningen respektive den samlade produktionen per 
 balansansvarig till Affärsverket svenska kraftnät och till 
 den som är balansansvarig. Förordning (2016:1133).
+
+2018:1426
+
+1. Denna förordning träder i kraft den 1 januari 2020 i fråga 
+om 17 § och i övrigt den 1 september 2018.
+
+2. Kraven i 25–28, 30 och 31 §§ behöver dock inte vara 
+uppfyllda förrän vid ingången av mätåret 2025.
