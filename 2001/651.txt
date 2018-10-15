@@ -52,19 +52,20 @@ Cykelbana		En väg eller del av en väg som är avsedd
 			för cykeltrafik och trafik med moped 
 			klass II
 
-Cykelfält		Ett särskilt körfält som genom 
-			vägmarkering anvisats för cyklande och 
-			förare av moped klass II
 
-Cykelpassage		En del av en väg som är avsedd att 
+Cykelfält 			Ett särskilt körfält som genom 
+			vägmarkering anvisats för cyklande och 
+			förare av moped klass II. 
+
+Cykelpassage 		En del av en väg som är avsedd att 
 			användas av cyklande eller förare av 
 			moped klass II för att korsa en körbana 
-			eller en cykelbana och som kan anges med 
+			eller en cykelbana och som anges med 
 			vägmarkering.
 
 			En cykelpassage är bevakad om trafiken 
 			regleras med trafiksignaler eller av en 
-			polisman och i annat fall obevakad
+			polisman och i annat fall obevakad. 
 
 Cykelöverfart		En del av en väg som enligt en lokal 
 			trafikföreskrift är avsedd att användas 
@@ -76,7 +77,7 @@ Cykelöverfart		En del av en väg som enligt en lokal
 			Vid en cykelöverfart ska trafikmiljön 
 			vara utformad så att det säkras att fordon 
 			inte förs med högre hastighet än 30 
-			kilometer i timmen
+			kilometer i timmen.
 
 EG-motorfordon		Ett fordon som är avsett att användas på 
 			väg, oavsett om det är färdigbyggt eller 
@@ -314,7 +315,7 @@ fordonstillverkare	En fordonstillverkare som innehar ett
 			eller vägmärke. Ett övergångsställe är bevakat 
 			om trafiken regleras med trafiksignaler eller 
 			av en polisman och i annat fall obevakat
-Förordning (2017:922).
+Förordning (2018:1560).
 
 3 § Transportstyrelsen beslutar i frågor som avses i 3 § lagen
 (2001:559) om vägtrafikdefinitioner. Förordning (2008:1137).
