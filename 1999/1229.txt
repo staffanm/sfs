@@ -2314,13 +2314,13 @@ Lag (2008:1322).
 
 3 § /Träder i kraft I:2019-01-01/
 Vinster i lotterier och kombinationsspel samt vid 
-vadhållning är skattefria om
+vadhållning är skattefria om 
 
 – spelet tillhandahålls av någon som har licens enligt 
 spellagen (2018:1138) och spelet kräver licens enligt samma 
 lag,
 
-– spelet tillhandhålls i Sverige och spelet inte kräver 
+– spelet tillhandahålls i Sverige och spelet inte kräver 
 licens enligt spellagen, eller
 
 – spelet tillhandahålls i en stat inom Europeiska ekonomiska 
@@ -2330,7 +2330,7 @@ Sverige.
 Vinster vid vinstdragning på premieobligation är skattefria 
 om vinstdragningen avser svenska premieobligationer eller om 
 premieobligationen ställts ut i en stat inom EES.
-Lag (2018:1143).
+Lag (2018:2039).
 
 4 § Tävlingsvinster är skattefria om de
 
@@ -5937,7 +5937,9 @@ En enskild näringsidkare som upprättar ett förenklat årsbokslut
 enligt 6 kap. 6 § bokföringslagen (1999:1078) får tillämpa
 bestämmelserna om arbeten som utförs på löpande räkning även på
 arbeten som utförs till fast pris. Lag (2010:1528).
+
 Löpande räkning eller fast pris
+
 25 § Ett arbete anses utfört på löpande räkning om ersättningen
 uteslutande eller så gott som uteslutande grundar sig på ett på
 förhand bestämt arvode per tidsenhet, den faktiska tidsåtgången
@@ -5950,7 +5952,9 @@ Löpande räkning
 behöver inte tas upp som tillgång. I stället ska de belopp som
 den skattskyldige under beskattningsåret fakturerar för
 arbetena tas upp som intäkt. Lag (2007:1419).
+
 Fast pris
+
 27 § Pågående arbeten som utförs till fast pris och som inte
 har slutredovisats får inte tas upp till ett lägre värde än det
 lägsta av anskaffningsvärdet och nettoförsäljningsvärdet.
@@ -8553,11 +8557,10 @@ till någon som
 anges i 14 kap. 20 §.
 
 10 § /Träder i kraft I:2019-01-01/
-Ett svenskt aktiebolag, en svensk ekonomisk 
-förening eller ett svenskt ömsesidigt försäkringsföretag som 
-har tagit upp ett vinstandelslån, får dra av 
-vinstandelsräntan bara i den utsträckning som följer av 
-11–15 §§.
+Ett svenskt aktiebolag, en svensk ekonomisk förening 
+eller ett svenskt ömsesidigt försäkringsföretag som har tagit 
+upp ett vinstandelslån, får dra av vinstandelsräntan bara i 
+den utsträckning som följer av 11–15 §§.
 
 Med vinstandelsränta avses ränta vars storlek är beroende av 
 det låntagande företagets utdelning eller vinst och med 
@@ -8566,7 +8569,7 @@ vinstandelslån avses ett lån med ränta som helt eller delvis
 
 För annan ränta på vinstandelslån gäller allmänna 
 bestämmelser om avdrag i näringsverksamheten.
-Lag (2018:1206).
+Lag (2018:2040).
 
 /Rubriken upphör att gälla U:2019-01-01/
 Begränsningar i avdragsrätten för ränta på vissa skulder
@@ -9580,6 +9583,7 @@ andelen anses ha förvärvats vid den senaste av dessa
 tidpunkter. Lag (2018:1206).
 
 /Kapitlet träder i kraft I:2019-01-01/
+
 24 a kap. Ränta vid finansiella leasingavtal
 
 Tillämpningsområde
@@ -10483,22 +10487,24 @@ Första stycket gäller inte om skalbolagsbeskattning ska ske
 enligt 9 a §. Lag (2009:1413).
 
 23 § /Träder i kraft I:2019-01-01/
-Om ett företag som anges i 3 § direkt eller 
-indirekt, genom ett eller flera svenska handelsbolag, är 
-delägare i ett svenskt handelsbolag som avyttrat en 
-delägarrätt med kapitalvinst, ska den del av vinsten som 
-belöper sig på delägarens andel inte tas upp. Detta gäller 
-dock bara om en motsvarande kapitalvinst inte skulle ha 
-tagits upp om delägaren själv hade avyttrat tillgången. Vid 
-bedömningen av om en kapitalvinst inte skulle ha tagits upp 
-enligt 24 kap. 33 § första stycket 2 eller 34 § ska 
-andelsinnehavet bestämmas utifrån storleken på delägarens 
-indirekta innehav. Vid tillämpning av första stycket 
-likställs en i utlandet delägarbeskattad juridisk person med 
-ett svenskt handelsbolag.
+Om ett företag som anges i 3 § direkt eller indirekt, 
+genom ett eller flera svenska handelsbolag, är delägare i ett 
+svenskt handelsbolag som avyttrat en delägarrätt med 
+kapitalvinst, ska den del av vinsten som belöper sig på 
+delägarens andel inte tas upp. Detta gäller dock bara om en 
+motsvarande kapitalvinst inte skulle ha tagits upp om 
+delägaren själv hade avyttrat tillgången. Vid bedömningen av 
+om en kapitalvinst inte skulle ha tagits upp enligt 24 kap. 
+33 § första stycket 2 eller 34 § ska andelsinnehavet 
+bestämmas utifrån storleken på delägarens indirekta 
+innehav.
+
+Vid tillämpning av första stycket likställs en i 
+utlandet delägarbeskattad juridisk person med ett svenskt 
+handelsbolag.
 
 Första stycket gäller inte om skalbolagsbeskattning ska ske 
-enligt 9 a §. Lag (2018:1206).
+enligt 9 a §. Lag (2018:2040).
 
 23 a § /Upphör att gälla U:2019-01-01/
 Om en sådan avyttring som avses i 23 § leder till en
@@ -27403,6 +27409,10 @@ tillämpas på medlemsavgifter som betalas efter den 30 juni
 
 2. Äldre bestämmelser gäller dock fortfarande för 
 förhållanden som hänför sig till tiden före ikraftträdandet. 
+
+3. Vid tillämpningen av 8 kap. 3 § ska med spel som inte 
+kräver licens jämställas spel med tillstånd enligt 
+lotterilagen (1994:1000). Lag (2018:2039).
 
 2018:1206
 

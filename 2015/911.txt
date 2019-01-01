@@ -44,17 +44,17 @@ Lag (2017:190).
 
 Var finns definitioner och förklaringar?
 
-1 § I detta kapitel finns definitioner av vissa begrepp samt 
-förklaringar till hur vissa termer och uttryck används i 
+1 § I detta kapitel finns definitioner av vissa begrepp 
+samt förklaringar till hur vissa termer och uttryck används i 
 lagen. Det finns även definitioner och förklaringar i 3 och 8 
-kap.
+kap. 
 
 Bestämmelser om betydelsen av följande begrepp, termer och 
-uttryck samt förklaringar finns i nedan angivna paragrafer:
+uttryck samt förklaringar finns i nedan angivna paragrafer: 
 
 aktiv icke-finansiell enhet i 2–4 §§
 
-andel i eget kapital i 22 §
+andel i eget kapital i 4 a §
 
 annan stat eller jurisdiktion i 22 §
 
@@ -135,7 +135,7 @@ svensk myndighetsenhet i 3 kap. 3 §
 vilande konto i 3 kap. 11 §
 
 viss temporär dödsfallsförsäkring i 3 kap. 7 §
-Lag (2017:190).
+Lag (2018:2036).
 
 Aktiv icke-finansiell enhet
 
@@ -250,6 +250,23 @@ andra juridiska personer som är undantagna från
 skattskyldighet enligt 7 kap. 3–17 §§ inkomstskattelagen 
 (1999:1229).
 
+Andel i eget kapital
+
+4 a § Med andel i eget kapital avses, när det är fråga om 
+ett svenskt handelsbolag eller en i utlandet delägarbeskattad 
+juridisk person som är ett finansiellt institut, en andel i 
+handelsbolagets eller den juridiska personens kapital eller i 
+dess avkastning. 
+
+När det är fråga om en trust som är ett finansiellt institut 
+anses en andel i eget kapital innehas av varje person som 
+betraktas som stiftare eller förmånstagare till hela eller en 
+del av trusten eller en annan fysisk person som utövar 
+verklig kontroll över trusten. En person ska betraktas som 
+förmånstagare till en trust om personen har rätt att direkt 
+eller indirekt, såsom genom ombud, få en fixerad eller 
+diskretionär utdelning från trusten. Lag (2018:2036).
+
 Finansiell tillgång
 
 5 § Med finansiell tillgång avses värdepapper, ägarandelar, 
@@ -306,24 +323,46 @@ kreditinstitut eller liknande verksamhet.
 9 § En enhet är ett finansiellt institut, om 
 
 1. den i sin näringsverksamhet huvudsakligen bedriver en 
-eller flera av följande verksamheter för en kunds räkning:
+eller flera av följande verksamheter för en kunds räkning: 
 
 a) handel med penningmarknadsinstrument, valuta, valuta-, 
 ränte- eller indexinstrument, överlåtbara värdepapper eller 
-råvarufutures,
+råvarufutures, 
 
-b) individuell och kollektiv portföljförvaltning, eller
+b) individuell och kollektiv portföljförvaltning, eller 
 
 c) annan verksamhet som innebär att finansiella tillgångar 
-investeras, administreras eller förvaltas, eller
+investeras, administreras eller förvaltas, eller 
 
 2. dess bruttointäkter huvudsakligen kommer från investering 
 i, återinvestering i eller handel med finansiella tillgångar 
 och den förvaltas av en annan enhet som är en sådan enhet som 
 beskrivs i 1 eller i 7, 8 eller 10 §.
 
+Vid tillämpning av första stycket ska en enhet anses i sin 
+näringsverksamhet huvudsakligen bedriva en eller flera 
+verksamheter, eller dess bruttointäkter anses huvudsakligen 
+komma från en eller flera verksamheter, om enhetens samlade 
+intäkter från dessa verksamheter motsvarar eller överstiger 
+50 procent av enhetens sammanlagda intäkter under den av 
+följande perioder som är kortast:
+
+1. den treårsperiod som avslutas vid utgången av det 
+räkenskapsår som föregår tidpunkten då bedömningen görs, 
+eller
+
+2. den period som enheten har existerat.
+
+Första stycket ska tolkas i enlighet med definitionen av 
+begreppet finansiellt institut i de i februari 2012 antagna 
+rekommendationerna från arbetsgruppen för finansiella 
+åtgärder (Financial Action Task Force, FATF) som avses i 
+tredje stycket punkt A.6 avsnitt VIII i bilaga I till rådets 
+direktiv 2011/16/EU av den 15 februari 2011 om administrativt 
+samarbete i fråga om beskattning.
+
 Sådana finansiella institut som avses i första stycket 
-benämns i denna lag investeringsenheter.
+benämns i denna lag investeringsenheter. Lag (2018:2036).
 
 10 § En enhet är ett finansiellt institut om den är ett 
 sådant försäkringsföretag eller försäkringsföretags 
@@ -430,14 +469,15 @@ dock inte truster som är passiva icke-finansiella enheter.
 
 Kontantvärde
 
-15 § Med kontantvärde avses det belopp som är det högsta av
+15 § Med kontantvärde avses det belopp som är det högsta 
+av
 
-1. det belopp som en försäkringstagare har rätt att få vid 
-återköp eller uppsägning av ett försäkringsavtal, utan avdrag 
+1. det belopp som en kontohavare har rätt att få vid återköp, 
+uppsägning eller annat upphörande av ett avtal, utan avdrag 
 för avgifter för återköp eller pantsättning, eller
 
-2. det belopp som försäkringstagaren kan låna i enlighet med 
-eller med hjälp av avtalet.
+2. det belopp som kontohavaren kan låna i enlighet med eller 
+med hjälp av avtalet.
 
 I kontantvärdet ska det dock inte ingå belopp som betalas i 
 enlighet med ett försäkringsavtal och som
@@ -446,7 +486,7 @@ enlighet med ett försäkringsavtal och som
 uteslutande till följd av den försäkrades dödsfall,
 
 2. är en personskade- eller sjukdomsförmån eller annan 
-försäkringsförmån som utgör ersättning för ekonomisk skada 
+försäkrings-förmån som utgör ersättning för ekonomisk skada 
 som uppkommit i samband med en sådan händelse som 
 försäkringen gäller för,
 
@@ -469,6 +509,7 @@ premiebetalning för ett försäkringsavtal för vilket premien
 ska betalas minst en gång om året, om beloppet av 
 förskottspremien eller premiebetalningen inte överstiger 
 nästa årspremie som ska betalas enligt avtalet.
+Lag (2018:2036).
 
 Kontohavare
 
@@ -486,15 +527,18 @@ rättigheter till utbetalning i enlighet med avtalet anses som
 kontohavare. När utbetalningar börjar göras från ett 
 försäkringsavtal med kontantvärde eller ett livränteavtal, 
 anses varje person som har rätt till utbetalning som 
-kontohavare. 
+kontohavare.
 
 När en person som inte är ett finansiellt institut förvaltar 
 ett finansiellt konto i egenskap av ombud, förmyndare, 
 förvaltare, behörig undertecknare, investeringsrådgivare 
 eller förmedlare till förmån för en annan person eller för en 
 annan persons räkning, ska den andra personen anses vara 
-innehavare av kontot. Detta gäller dock inte när en advokat 
-förvaltar ett finansiellt konto till förmån för en klient.
+innehavare av kontot. Ombudet, förmyndaren, förvaltaren, den 
+behöriga undertecknaren, investeringsrådgivaren eller 
+förmedlaren ska på begäran lämna uppgift till det 
+rapporteringsskyldiga finansiella institut där kontot finns 
+om kontohavarens identitet. Lag (2018:2036).
 
 Närstående enhet
 
@@ -525,10 +569,10 @@ fysisk person som utövar verklig kontroll över trusten anses
 vara personer med bestämmande inflytande. När det är fråga om 
 en juridisk konstruktion som inte är en trust, avses personer 
 i samma eller motsvarande ställning som personer med 
-bestämmande inflytande över en trust. Begreppet ska tolkas i 
-enlighet med rekommendationerna från arbetsgruppen för 
-finansiella åtgärder (FATF) i dessas lydelse som antogs i 
-februari 2012.
+bestämmande inflytande över en trust. Be-greppet ska tolkas i 
+enlighet med de rekommendationer från arbetsgruppen för 
+finansiella åtgärder (Financial Action Task Force, FATF) som 
+anges i 9 § tredje stycket. Lag (2018:2036).
 
 Passiv icke-finansiell enhet
 
@@ -684,14 +728,8 @@ Andra definitioner och förklaringar
 
 22 § I denna lag avses med
 
-andel i eget kapital: när det är fråga om ett svenskt 
-handelsbolag eller en i utlandet delägarbeskattad juridisk 
-person som är ett finansiellt institut, en andel i 
-handelsbolagets eller den juridiska personens kapital eller i 
-dess avkastning,
-
 annan stat eller jurisdiktion: om något annat inte anges, en 
-annan stat eller jurisdiktion än Sverige eller USA, 
+annan stat eller jurisdiktion än Sverige eller USA,
 
 befintligt konto: ett finansiellt konto som öppnats den 31 
 december 2015 eller tidigare,
@@ -718,7 +756,7 @@ flera fysiska personer och vars sammanräknade saldo eller
 värde uppgår till mer än 1 000 000 US-dollar den 31 december 
 2015 eller vid utgången av ett senare kalenderår,
 
-livränteavtal: ett avtal 
+livränteavtal: ett avtal
 
 1. enligt vilket utfärdaren förbinder sig att göra 
 utbetalningar under en viss tidsperiod som helt eller delvis 
@@ -744,7 +782,7 @@ odokumenterat konto enligt 4 kap. 3 eller 11 §,
 
 skatteregistreringsnummer: ett identifikationsnummer för 
 skattebetalare eller en funktionell motsvarighet till det om 
-ett sådant nummer saknas. Lag (2017:190).
+ett sådant nummer saknas. Lag (2018:2036).
 
 Betydelsen av vissa termer och uttryck
 
@@ -757,49 +795,58 @@ annat anges.
 Undantag från rapporteringsskyldighet respektive 
 rapporteringsplikt 
 
-1 § Följande enheter är, även om de är finansiella institut, 
-undantagna från rapporteringsskyldighet:
+1 § Följande enheter är, även om de är finansiella 
+institut, undantagna från rapporteringsskyldighet: 
 
-1. Sveriges riksbank,
+1. Sveriges riksbank, 
 
-2. svenska myndighetsenheter,
+2. svenska myndighetsenheter, 
 
 3. internationella organisationer i Sverige,
 
 4. breda pensionsfonder,
 
 5. pensionsstiftelser enligt lagen (1967:531) om tryggande av 
-pensionsutfästelse m.m.,
+pensionsutfästelse m.m., om arbetsgivaren vars ansvar för 
+pensionsutfästelse stiftelsen tryggar
 
-6. kvalificerade utfärdare av kreditkort, och
+a) är obegränsat skattskyldig i Sverige, och
 
-7. vinstandelsstiftelser.
+b) inte är en investeringsenhet eller en passiv 
+icke-finansiell enhet, och
+
+6. kvalificerade utfärdare av kreditkort.
 
 Enheter som avses i första stycket 1–3 ska dock inte vara 
 undantagna från rapporteringsskyldighet i den del deras 
 verksamhet är sådan kommersiell verksamhet som normalt 
 bedrivs av sådana finansiella institut som anges i 2 kap. 7, 
-8 eller 10 §. Lag (2017:190).
+8 eller 10 §. Lag (2018:2036).
 
-2 § Följande konton är undantagna från rapporteringsplikt:
+2 § Följande konton är undantagna från 
+rapporteringsplikt:
 
 1. pensionsförsäkring som uppfyller kraven i 
 inkomstskattelagen (1999:1229) och som tecknas och förvaltas 
-i Sverige,
+i Sverige, om premier betalas av en arbetsgivare till förmån 
+för en anställd som utför tjänster i Sverige,
 
-2. pensionssparkonto som uppfyller kraven i 
-inkomstskattelagen,
+2. viss temporär dödsfallsförsäkring,
 
-3. viss temporär dödsfallsförsäkring,
+3. konto som innehas av dödsbo,
 
-4. konto som innehas av dödsbo,
+4. spärrat konto,
 
-5. spärrat konto,
+5. kvalificerat kreditkortskonto, och
 
-6. kvalificerat kreditkortskonto, och
+6. vilande konto. 
 
-7. vilande konto.
-Lag (2017:190).
+Undantaget i första stycket 3 gäller endast till och med det 
+fjärde kalenderåret efter det kalenderår då dödsfallet 
+inträffade. Intyganden som ska inhämtas enligt 7 kap. 
+avseende sådana konton ska, i stället för vad som anges där, 
+inhämtas senast den 31 december det femte kalenderåret efter 
+det kalenderår då dödsfallet inträffade. Lag (2018:2036).
 
 Definitioner och förklaringar
 
@@ -861,16 +908,15 @@ Sverige för att tillhandahålla ålderspension eller ersättning
 vid nedsatt arbetsförmåga eller dödsfall till förmånstagare 
 som är eller tidigare har varit anställda, eller till 
 förmånstagare som angetts av sådana anställda, hos en eller 
-flera arbetsgivare på grundval av utförda tjänster, om 
-fonden
+flera arbetsgivare på grundval av utförda tjänster, om fonden 
 
 1. inte har någon enskild förmånstagare som har rätt till mer 
-än fem procent av fondens tillgångar,
+än fem procent av fondens tillgångar, 
 
 2. regleras av offentlig myndighet och rapporterar in 
-uppgifter om sina förmånstagare till Skatteverket, och
+uppgifter om sina förmånstagare till Skatteverket, och 
 
-3. uppfyller minst ett av följande krav:
+3. uppfyller minst ett av följande krav: 
 
 a) Den är generellt undantagen från beskattning i Sverige av 
 investeringsinkomst, eller dess investeringsinkomst är 
@@ -881,19 +927,21 @@ pensionsordning eller ordning för andra pensionsförmåner.
 b) Minst 50 procent av avsättningarna till fonden, bortsett 
 från överföringar av tillgångar från andra undantagna 
 pensionsfonder eller från sådana pensionsförsäkringar som 
-avses i 2 § 1, kommer från den finansierande arbetsgivaren.
+avses i 2 § första stycket 1, kommer från den finansierande 
+arbetsgivaren.
 
 c) Utbetalningar eller uttag från fonden som inte är förenade 
 med kostnader, bortsett från överföringar av tillgångar till 
 andra undantagna pensionsfonder eller till sådana 
-pensionsförsäkringar som avses i 2 § 1, medges endast vid 
-specificerade händelser i samband med pensionering, nedsatt 
-arbetsförmåga eller dödsfall.
+pensionsförsäkringar som avses i 2 § första stycket 1, medges 
+endast vid specificerade händelser i samband med 
+pensionering, nedsatt arbetsförmåga eller dödsfall.
 
 d) Avsättningar, med undantag för tillåtna 
 kompensationsinbetalningar, som arbetstagare gör till fonden 
 begränsas med hänsyn till arbetstagarens intjänade inkomst 
 eller får inte överstiga 50 000 US-dollar per år.
+Lag (2018:2036).
 
 6 § Med kvalificerad utfärdare av kreditkort avses ett 
 svenskt finansiellt institut som uppfyller följande krav:
@@ -1021,21 +1069,27 @@ debiteringar inte omfattas. Kundinsättning som rör
 kreditsaldo som uppstått på grund av returnerade varor ska 
 omfattas. 
 
-11 § Med vilande konto avses ett annat finansiellt konto än 
-ett livförsäkringsavtal om
+11 § Med vilande konto avses ett annat finansiellt konto 
+än ett livränteavtal om 
 
 1. kontots saldo eller värde vid utgången av kalenderåret 
-inte överstiger 1 000 US-dollar,
+inte överstiger 1 000 US-dollar, 
 
 2. kontohavaren inte har initierat några transaktioner på 
 kontot eller på något annat av sina konton hos det 
 rapporteringsskyldiga finansiella institutet under de senaste 
-tre åren, och
+tre åren, 
 
 3. kontohavaren inte har kommunicerat med det 
 rapporteringsskyldiga finansiella institutet angående kontot 
 eller något annat av sina konton hos det institutet under de 
-senaste sex åren. Lag (2017:190).
+senaste sex åren, och
+
+4. i fråga om försäkringsavtal med kontantvärde, det 
+rapporteringsskyldiga finansiella institutet inte har 
+kommunicerat med kontohavaren angående kontot eller något 
+annat av kontohavarens konton hos det institutet under de 
+senaste sex åren. Lag (2018:2036).
 
 4 kap. Granskning av befintliga finansiella konton som 
 innehas av fysiska personer 
@@ -1215,13 +1269,21 @@ varje konto. När det gäller odokumenterade konton ska
 granskningen dock upprepas en gång om året fram till dess att 
 kontot inte längre är ett odokumenterat konto.
 
-9 § Oavsett vad som sägs i 5–7 §§ ska ett högvärdekonto som 
-innehas av en fysisk person, om något annat inte anges i 2 
-kap. 20 §, anses vara ett rapporteringspliktigt konto om det 
-finns en tjänsteman som har särskilt ansvar för kontakterna 
-med kontohavaren och den tjänstemannen har eller får kännedom 
-om att kontohavaren har hemvist i en annan stat eller 
-jurisdiktion.
+9 §Oavsett vad som sägs i 5–8 §§ ska ett högvärdekonto 
+som innehas av en fysisk person, om något annat inte anges i 
+2 kap. 20 §, anses vara ett rapporteringspliktigt konto om 
+det finns en tjänsteman som har särskilt ansvar för 
+kontakterna med kontohavaren och den tjänstemannen har eller 
+får kännedom om att kontohavaren har hemvist i en annan stat 
+eller jurisdiktion. Ett rapporteringsskyldigt finansiellt 
+institut ska ha processer och rutiner så att en sådan 
+tjänsteman kan upptäcka om och när omständigheterna ändras på 
+ett sådant sätt att kontot blir rapporteringspliktigt enligt 
+5–8 §§ eller denna paragraf samt att den ändrade 
+omständigheten beaktas vid tillämpningen av 5–8 §§. Exempel 
+på en sådan ändrad omständighet är om tjänstemannen 
+underrättas om att kontohavaren har en ny postadress i en 
+annan stat eller jurisdiktion. Lag (2018:2036).
 
 10 § Om ett konto efter det att granskningen enligt 5–8 §§ 
 har utförts blir ett rapporteringspliktigt konto enligt samma 
@@ -1247,19 +1309,20 @@ inte längre har hemvist i en annan stat eller jurisdiktion.
 5 kap. Granskning av nya finansiella konton som innehas av 
 fysiska personer 
 
-1 § I samband med att en fysisk person öppnar ett nytt konto 
-hos ett rapporteringsskyldigt finansiellt institut ska 
-institutet inhämta ett intygande från den fysiska personen 
-där han eller hon uppger vilken eller vilka stater och 
-jurisdiktioner han eller hon har hemvist i.
+1 § Innan en fysisk person öppnar ett nytt konto hos ett 
+rapporteringsskyldigt finansiellt institut ska institutet 
+inhämta ett intygande från den fysiska personen där han eller 
+hon uppger vilken eller vilka stater och jurisdiktioner han 
+eller hon har hemvist i.
 
 Om det av det intygandet framgår att den fysiska personen har 
 hemvist i en annan stat eller jurisdiktion, ska det 
-rapporteringsskyldiga finansiella institutet inhämta ett 
-intygande från den fysiska personen som innehåller hans eller 
-hennes skatteregistreringsnummer i den staten eller 
-jurisdiktionen och födelsedatum, om dessa inte anges redan i 
-det intygande som inhämtats enligt första stycket. 
+rapporteringsskyldiga finansiella institutet innan kontot 
+öppnas även inhämta ett intygande från den fysiska personen 
+som innehåller hans eller hennes skatteregistreringsnummer i 
+den staten eller jurisdiktionen och födelsedatum, om dessa 
+inte anges redan i det intygande som inhämtats enligt första 
+stycket. Lag (2018:2036).
 
 2 § Om det rapporteringsskyldiga finansiella institutet har 
 eller får tillgång till ytterligare information som medför 
@@ -1340,26 +1403,39 @@ jurisdiktion har bestämmande inflytande.
 Förfarande för identifiering av rapporteringspliktiga 
 konton
 
-2 § För att utreda om en enhet har hemvist i en annan stat 
-eller jurisdiktion, ska det rapporteringsskyldiga finansiella 
-institutet granska den information som inhämtats för att 
-kunna upprätthålla kontakterna med kontohavaren eller på 
-grund av bestämmelser i lagen (2017:630) om åtgärder mot 
+2 § För att utreda om en enhet har hemvist i en annan 
+stat eller jurisdiktion, ska det rapporteringsskyldiga 
+finansiella institutet granska den information som inhämtats 
+för att kunna upprätthålla kontakterna med kontohavaren eller 
+på grund av bestämmelser i lagen (2017:630) om åtgärder mot 
 penningtvätt och finansiering av terrorism eller i annan 
 författning. Om det finns skäl att anta att kontohavaren har 
 hemvist i en annan stat eller jurisdiktion, ska kontohavaren 
 anses ha hemvist i den staten eller jurisdiktionen om det 
-rapporteringsskyldiga finansiella institutet inte
+rapporteringsskyldiga finansiella institutet inte 
 
 1. inhämtar ett intygande från kontohavaren om att 
 kontohavaren inte har hemvist i denna stat eller 
-jurisdiktion, eller
+jurisdiktion, eller 
 
 2. utifrån den övriga information som det 
 rapporteringsskyldiga finansiella institutet har tillgång 
 till eller information som är allmänt tillgänglig kan 
 fastställa att kontohavaren inte har hemvist i denna stat 
-eller jurisdiktion. Lag (2017:662).
+eller jurisdiktion.
+
+Det finns skäl att anta att kontohavaren har hemvist i en 
+annan stat eller jurisdiktion enligt första stycket om det 
+finns 
+
+1. uppgift om att kontohavaren bildats i en annan stat eller 
+jurisdiktion eller i enlighet med lagstiftningen där,
+
+2. uppgift om att kontohavaren har en adress i en annan stat 
+eller jurisdiktion, eller
+
+3. annan uppgift som talar för att kontohavaren har hemvist i 
+en annan stat eller jurisdiktion. Lag (2018:2036).
 
 3 § För att fastställa om en enhet är en passiv 
 icke-finansiell enhet, ska det rapporteringsskyldiga 
@@ -1447,44 +1523,40 @@ enheter
 
 Rapporteringspliktiga konton
 
-1 § Om något annat inte anges i 2 kap. 20 § är ett nytt konto 
-ett rapporteringspliktigt konto 
+1 § Om något annat inte anges i 2 kap. 20 § är ett nytt 
+konto ett rapporteringspliktigt konto
 
 1. om det innehas av en eller flera enheter som har hemvist i 
-en annan stat eller jurisdiktion, 
+en annan stat eller jurisdiktion, eller
 
 2. om det innehas av en eller flera enheter som är passiva 
 icke-finansiella enheter och över vilka en eller flera 
 fysiska personer som har hemvist i en annan stat eller 
-jurisdiktion har bestämmande inflytande, eller
-
-3. om ett sådant intygande från kontohavaren eller personerna 
-med bestämmande inflytande som krävs enligt 3 eller 4 § inte 
-kommer in.
+jurisdiktion har bestämmande inflytande. Lag (2018:2036).
 
 Förfarande för identifiering av rapporteringspliktiga 
 konton
 
-2 § För att fastställa om en enhet har hemvist i en 
-annan stat eller jurisdiktion, ska det rapporteringskyldiga 
-finansiella institutet i samband med att ett konto öppnas 
-inhämta ett intygande från kontohavaren. 
+2 § För att fastställa om en enhet har hemvist i en annan 
+stat eller jurisdiktion, ska det rapporteringsskyldiga 
+finansiella institutet innan ett konto öppnas inhämta ett 
+intygande från kontohavaren.
 
 Ett intygande som avses i första stycket behöver dock inte 
 inhämtas om det av den information som det 
 rapporteringsskyldiga finansiella institutet har tillgång 
 till eller information som är allmänt tillgänglig kan antas 
 att kontohavaren inte har hemvist i en annan stat eller 
-jurisdiktion.  
+jurisdiktion. Lag (2018:2036).
 
 3 § För att fastställa om en enhet är en passiv 
 icke-finansiell enhet, ska det rapporteringsskyldiga 
-finansiella institutet inhämta ett intygande om detta från 
-kontohavaren. Ett sådant intygande behöver dock inte 
-inhämtas, om det utifrån den information som det 
-rapporteringsskyldiga finansiella institutet har tillgång 
-till eller information som är allmänt tillgänglig kan antas 
-att kontohavaren är 
+finansiella institutet innan kontot öppnas inhämta ett 
+intygande om detta från kontohavaren. Ett sådant intygande 
+behöver dock inte inhämtas, om det utifrån den information 
+som det rapporteringsskyldiga finansiella institutet har 
+tillgång till eller information som är allmänt tillgänglig 
+kan antas att kontohavaren är
 
 1. en aktiv icke-finansiell enhet, eller
 
@@ -1496,7 +1568,7 @@ jurisdiktion.
 Vid tillämpning av första stycket 2 ska ett finansiellt 
 instituts fasta driftställe i en annan stat eller 
 jurisdiktion anses vara ett finansiellt institut i den staten 
-eller jurisdiktionen. Lag (2017:190).
+eller jurisdiktionen. Lag (2018:2036).
 
 4 § För att fastställa vilka personer som är personer med 
 bestämmande inflytande över en enhet, får det 
@@ -1507,18 +1579,18 @@ finansiering av terrorism.
 
 För att fastställa om en person med bestämmande inflytande 
 har hemvist i en annan stat eller jurisdiktion, ska det 
-rapporteringsskyldiga finansiella institutet i samband med 
-att ett konto öppnas inhämta ett intygande från kontohavaren 
-eller från personerna med bestämmande inflytande.
+rapporteringsskyldiga finansiella institutet innan ett konto 
+öppnas inhämta ett intygande från kontohavaren eller från 
+personerna med bestämmande inflytande.
 
 Om det av intygandet framgår att en eller flera personer med 
 bestämmande inflytande har hemvist i en annan stat eller 
 jurisdiktion, ska det rapporteringsskyldiga finansiella 
-institutet inhämta ett intygande från kontohavaren eller 
-personerna med bestämmande inflytande som innehåller dennes 
-eller deras skatteregistreringsnummer, om dessa inte anges 
-redan i det intygande som inhämtats enligt andra stycket.
-Lag (2017:662).
+institutet innan kontot öppnas även inhämta ett intygande 
+från kontohavaren eller personerna med bestämmande inflytande 
+som innehåller dennes eller deras skatteregistreringsnummer, 
+om dessa inte anges redan i det intygande som inhämtats 
+enligt andra stycket. Lag (2018:2036).
 
 5 § Om det rapporteringsskyldiga finansiella institutet efter 
 det att granskningen enligt 1–4 §§ har genomförts får 
@@ -1613,16 +1685,16 @@ till Skatteverket.
 Beräkning av saldo eller värde
 
 3 § Om inte något annat anges, ska ett kontos saldo eller 
-värde vid tillämpningen av 4–8 kap. fastställas per den sista 
-dagen av ett kalenderår eller en annan lämplig 
-rapporteringsperiod.
+värde vid tilllämpningen av 3–8 kap. fastställas per den 
+sista dagen av ett kalenderår eller en annan lämplig 
+rapporteringsperiod. 
 
 När ett kontos saldo eller värde vid utgången av ett 
-kalenderår har betydelse för granskningen enligt 4–8 kap., 
+kalenderår har betydelse för granskningen enligt 3–8 kap., 
 ska ett rapporteringsskyldigt finansiellt institut räkna med 
 kontots saldo eller värde per den sista dagen för den 
 rapporteringsperiod som löper ut samtidigt med kalenderåret 
-eller under kalenderåret. 
+eller under kalenderåret. Lag (2018:2036).
 
 Förmånstagare av dödsfallsförmån
 
@@ -1849,3 +1921,46 @@ avser kalenderåret 2016.
 3. Bestämmelserna i 5 kap. 5 § och 7 kap. 6 § i den nya 
 lydelsen tillämpas första gången i fråga om uppgifter som 
 avser kalenderåret 2017.
+
+2018:2036
+
+1. Denna lag träder i kraft den 1 januari 2019.
+
+2. Bestämmelserna i 5 kap. 1 § och 7 kap. 1–4 §§ i den nya 
+lydelsen och bestämmelsen i det nya 3 kap. 2 § andra stycket 
+tillämpas i fråga om konton som öppnas efter den 31 december 
+2018.
+
+3. Bestämmelserna i 3 kap. 2 § första stycket och 3 kap. 5 § 
+i den nya lydelsen tillämpas första gången i fråga om 
+uppgifter som avser kalenderåret 2019. Granskningen enligt 
+4–8 kap. av pensionsförsäkringar som inte är undantagna från 
+rapporteringsplikt och pensionssparkonton ska ha genomförts 
+senast den 30 april 2020. Om kontot öppnats efter den 31 
+december 2015 gäller vid granskningen att sådana intyganden 
+som det rapporteringsskyldiga finansiella institutet ska 
+inhämta enligt bestämmelserna i 5 kap. ska inhämtas senast 
+den 30 april 2020.
+
+4. Bestämmelserna i 3 kap. 1 § i den nya lydelsen tillämpas 
+första gången i fråga om uppgifter som avser kalenderåret 
+2019. För vinstandelsstiftelser och pensionsstiftelser som är 
+rapporteringsskyldiga finansiella institut gäller, i stället 
+för det som anges i 2 kap. 22 §, att nya konton är konton som 
+öppnas efter den 31 december 2018 och att befintliga konton 
+är konton som öppnats före den 1 januari 2019. 
+Vinstandelsstiftelser och pensionsstiftelser som är 
+rapporteringsskyldiga finansiella institut ska ha genomfört 
+granskningen av befintliga konton enligt 4, 6 och 8 kap. 
+senast den 31 december 2019.
+
+5. Ett finansiellt institut, som enligt 3 kap. 1 § i den nya 
+lydelsen blir rapporteringsskyldigt, ska senast den 30 april 
+2019 göra en anmälan till Skatteverket enligt 8 kap. 2 § om 
+att det uppfyller kriterierna för att vara ett 
+rapporteringsskyldigt finansiellt institut enligt 2 kap. 
+21 §.
+
+6. Bestämmelserna i 2 kap. 15 och 16 §§ och 3 kap. 11 § i den 
+nya lydelsen tillämpas första gången i fråga om uppgifter som 
+avser kalenderåret 2019.

@@ -41,21 +41,21 @@ innehas av enheter (7 kap.), och
 
 Var finns definitioner och förklaringar?
 
-1 § I detta kapitel finns definitioner av vissa begrepp samt
-förklaringar till hur vissa termer och uttryck används i
-lagen. Det finns definitioner och förklaringar också i 3
+1 § I detta kapitel finns definitioner av vissa begrepp 
+samt förklaringar till hur vissa termer och uttryck används i 
+lagen. Det finns definitioner och förklaringar också i 3 
 kap.
 
-Bestämmelser om betydelsen av följande begrepp, termer och
-uttryck samt förklaringar finns i nedan angivna paragrafer:
+Bestämmelser om betydelsen av följande begrepp, termer och 
+uttryck samt förklaringar finns i nedan angivna paragrafer: 
 
 aktiv icke-finansiell enhet i 2–4 §§
 
-amerikansk person i 21 §
+amerikansk person i 21 § 
 
 amerikanskt territorium i 21 §
 
-andel i eget kapital i 21 §
+andel i eget kapital i 4 a §
 
 befintligt konto i 21 §
 
@@ -157,6 +157,7 @@ uppdragsgivande investeringsenhet i 3 kap. 12 §
 uppdragsgivande kontrollerat bolag i 3 kap. 12 §
 
 viss temporär dödsfallsförsäkring i 3 kap. 16 §
+Lag (2018:2035).
 
 Aktiv icke-finansiell enhet
 
@@ -287,6 +288,23 @@ skattskyldighet enligt 7 kap. 3–17 §§ inkomstskattelagen
 Med aktiv icke-finansiell enhet avses även en
 källskatteinnehållande enhet.
 
+Andel i eget kapital
+
+4 a § Med andel i eget kapital avses, när det är fråga om 
+ett svenskt handelsbolag eller en i utlandet delägarbeskattad 
+juridisk person som är ett finansiellt institut, en andel i 
+handelsbolagets eller den juridiska personens kapital eller i 
+dess avkastning.
+
+När det är fråga om en trust som är ett finansiellt institut 
+anses en andel i eget kapital innehas av varje person som 
+betraktas som stiftare eller förmånstagare till hela eller en 
+del av trusten eller en annan fysisk person som utövar 
+verklig kontroll över trusten. En person ska betraktas som 
+förmånstagare till en trust om personen har rätt att direkt 
+eller indirekt, såsom genom ombud, få en fixerad eller 
+diskretionär utdelning från trusten. Lag (2018:2035).
+
 Deltagande finansiellt institut
 
 5 § Med deltagande finansiellt institut avses ett finansiellt
@@ -369,22 +387,28 @@ eller
 insättningar inom ramen för ordinarie verksamhet som
 kreditinstitut eller liknande verksamhet.
 
-9 § En enhet är ett finansiellt institut om den i sin
-näringsverksamhet, eller om den förvaltas av en annan enhet
-som i sin näringsverksamhet, bedriver en eller flera av
+9 § En enhet är ett finansiellt institut om den i sin 
+näringsverksamhet, eller om den förvaltas av en annan enhet 
+som i sin näringsverksamhet, bedriver en eller flera av 
 följande verksamheter för en kunds räkning:
 
-1. handel med penningmarknadsinstrument, valuta, valuta-,
-ränte- eller indexinstrument, överlåtbara värdepapper eller
+1. handel med penningmarknadsinstrument, valuta, valuta-, 
+ränte- eller indexinstrument, överlåtbara värdepapper eller 
 råvarufutures,
 
 2. individuell och kollektiv portföljförvaltning, eller
 
-3. annan verksamhet som innebär att pengar eller andra medel
+3. annan verksamhet som innebär att pengar eller andra medel 
 investeras, administreras eller förvaltas.
 
-Sådana finansiella institut som avses i första stycket
-benämns i denna lag investeringsenheter.
+Första stycket ska tolkas i enlighet med definitionen av 
+begreppet finansiellt institut i de i februari 2012 antagna 
+rekommendationerna från arbetsgruppen för finansiella 
+åtgärder (Financial Action Task Force, FATF) som avses i 
+artikel 1.1 j andra stycket i FATCA-avtalet.
+
+Sådana finansiella institut som avses i första stycket 
+benämns i denna lag investeringsenheter. Lag (2018:2035).
 
 10 § En enhet är ett finansiellt institut om den är ett
 sådant försäkringsföretag eller försäkringsföretags
@@ -491,62 +515,66 @@ som är hänförlig till ett fast driftställe i USA.
 
 Kontantvärde
 
-15 § Med kontantvärde avses det belopp som är det högsta av
+15 § Med kontantvärde avses det belopp som är det högsta 
+av
 
-1. det belopp som en försäkringstagare har rätt att få vid
-återköp eller uppsägning av ett försäkringsavtal, utan avdrag
+1. det belopp som en kontohavare har rätt att få vid återköp, 
+uppsägning eller annat upphörande av ett avtal, utan avdrag 
 för avgifter för återköp eller pantsättning, eller
 
-2. det belopp som försäkringstagaren kan låna i enlighet med
-eller med hjälp av avtalet.
+2. det belopp som kontohavaren kan låna i enlighet med eller 
+med hjälp av avtalet.
 
-I kontantvärdet ska dock inte ingå belopp som betalas i
+I kontantvärdet ska dock inte ingå belopp som betalas i 
 enlighet med ett försäkringsavtal och är
 
-1. en personskade- eller sjukdomsförmån eller annan
-försäkringsförmån som utgör ersättning för ekonomisk skada
-som uppkommit i samband med en sådan händelse som
+1. en personskade- eller sjukdomsförmån eller annan 
+försäkringsförmån som utgör ersättning för ekonomisk skada 
+som uppkommit i samband med en sådan händelse som 
 försäkringen gäller för,
 
-2. en återbetalning till försäkringstagaren av premie,
-exklusive försäkringsavgifter, som tidigare har betalats i
-enlighet med ett försäkringsavtal som inte är ett
-livförsäkringsavtal, på grund av att avtalet hävts eller
-sagts upp, risken reducerats under försäkringsavtalets löptid
-eller premien ändrats till följd av en korrigering av ett
+2. en återbetalning till försäkringstagaren av premie, 
+exklusive försäkringsavgifter, som tidigare har betalats i 
+enlighet med ett försäkringsavtal som inte är en 
+dödsfallsförsäkring, på grund av att avtalet hävts eller 
+sagts upp, risken reducerats under försäkringsavtalets löptid 
+eller premien ändrats till följd av en korrigering av ett 
 räknefel eller annat misstag, eller
 
-3. en återbäring till försäkringstagaren på grundval av det
-försäkringstekniska utfallet för avtalet eller gruppen i
-fråga.
+3. en återbäring till försäkringstagaren på grundval av det 
+försäkringstekniska utfallet för avtalet eller gruppen i 
+fråga. Lag (2018:2035).
 
 Kontohavare
 
-16 § Med kontohavare avses den person som har registrerats
-eller identifierats som innehavare av ett finansiellt konto.
+16 § Med kontohavare avses den person som har registrerats 
+eller identifierats som innehavare av ett finansiellt 
+konto.
 
-Om det finansiella kontot är ett försäkringsavtal med
-kontantvärde eller ett livränteavtal, avses med kontohavare
-varje person som kan få rätt till kontantvärdet eller har
-rätt att ändra avtalets förmånstagare. Om det inte finns
-någon person som kan få rätt till kontantvärdet eller har
-rätt att ändra förmånstagare, ska varje person som i avtalet
-anges som försäkringstagare och varje person med förvärvade
-rättigheter till utbetalning i enlighet med avtalet anses som
-kontohavare. När utbetalningar börjar göras från ett
-försäkringsavtal med kontantvärde eller ett livränteavtal,
-anses varje person som har rätt till utbetalning som
+Om det finansiella kontot är ett försäkringsavtal med 
+kontantvärde eller ett livränteavtal, avses med kontohavare 
+varje person som kan få rätt till kontantvärdet eller har 
+rätt att ändra avtalets förmånstagare. Om det inte finns 
+någon person som kan få rätt till kontantvärdet eller har 
+rätt att ändra förmånstagare, ska varje person som i avtalet 
+anges som försäkringstagare och varje person med förvärvade 
+rättigheter till utbetalning i enlighet med avtalet anses som 
+kontohavare. När utbetalningar börjar göras från ett 
+försäkringsavtal med kontantvärde eller ett livränteavtal, 
+anses varje person som har rätt till utbetalning som 
 kontohavare.
 
-När en person som inte är ett finansiellt institut eller som
-är ett finansiellt institut etablerat eller registrerat i ett
-amerikanskt territorium förvaltar ett finansiellt konto i
-egenskap av ombud, förmyndare, förvaltare, behörig
-undertecknare, investeringsrådgivare eller förmedlare till
-förmån för annan person eller för annan persons räkning, ska
-den andra personen anses vara innehavare av kontot. Detta
-gäller dock inte när en advokat förvaltar ett finansiellt
-konto till förmån för en klient.
+När en person som inte är ett finansiellt institut eller som 
+är ett finansiellt institut etablerat eller registrerat i ett 
+amerikanskt territorium förvaltar ett finansiellt konto i 
+egenskap av ombud, förmyndare, förvaltare, behörig 
+undertecknare, investeringsrådgivare eller förmedlare till 
+förmån för annan person eller för annan persons räkning, ska 
+den andra personen anses vara innehavare av kontot. Ombudet, 
+förmyndaren, förvaltaren, den behöriga undertecknaren, 
+investeringsrådgivaren eller förmedlaren ska på begäran lämna 
+uppgift till det rapporteringsskyldiga finansiella institut 
+där kontot finns om kontohavarens identitet. Lag (2018:2035).
 
 Närstående enhet
 
@@ -558,17 +586,18 @@ av rösterna eller värdet i en enhet.
 
 Person med bestämmande inflytande
 
-18 § Med person med bestämmande inflytande avses en fysisk
-person som utövar kontroll över en enhet. När det är fråga om
-en trust ska stiftaren, förvaltaren, beskyddaren,
-förmånstagaren eller förmånstagarkretsen och varje annan
-fysisk person som utövar verklig kontroll över trusten anses
-vara personer med bestämmande inflytande. När det är fråga om
-en juridisk konstruktion som inte är en trust avses personer
-i samma eller motsvarande ställning som personer med
-bestämmande inflytande över en trust. Begreppet ska tolkas i
-enlighet med rekommendationerna från arbetsgruppen för
-finansiella åtgärder (FATF).
+18 § Med person med bestämmande inflytande avses en fysisk 
+person som utövar kontroll över en enhet. När det är fråga om 
+en trust ska stiftaren, förvaltaren, beskyddaren, 
+förmånstagaren eller förmånstagarkretsen och varje annan 
+fysisk person som utövar verklig kontroll över trusten anses 
+vara personer med bestämmande inflytande. När det är fråga om 
+en juridisk konstruktion som inte är en trust avses personer 
+i samma eller motsvarande ställning som personer med 
+bestämmande inflytande över en trust. Begreppet ska tolkas i 
+enlighet med de rekommendationer från arbetsgruppen för 
+finansiella åtgärder (Financial Action Task Force, FATF) som 
+anges i 9 § andra stycket. Lag (2018:2035).
 
 Rapporteringsskyldigt finansiellt institut
 
@@ -627,110 +656,105 @@ Andra definitioner
 
 amerikansk person: en
 
-1. amerikansk medborgare eller en annan fysisk person med
+1. amerikansk medborgare eller en annan fysisk person med 
 hemvist i USA,
 
-2. i utlandet delägarbeskattad juridisk person eller ett
-aktiebolag, registrerat i USA eller i enlighet med amerikansk
+2. i utlandet delägarbeskattad juridisk person eller ett 
+aktiebolag, registrerat i USA eller i enlighet med amerikansk 
 federal eller delstatlig lagstiftning, eller
 
 3. trust, om
 
-a) en domstol i USA har behörighet att besluta eller döma i
-väsentligen alla frågor som rör trustens administration,
+a) en domstol i USA har behörighet att besluta eller döma i 
+väsentligen alla frågor som rör trustens administration, 
 och
-b) en eller flera amerikanska personer eller ett dödsbo
-efter en avliden amerikansk fysisk person har behörighet att
+
+b) en eller flera amerikanska personer eller ett dödsbo 
+efter en avliden amerikansk fysisk person har behörighet att 
 kontrollera alla väsentliga beslut i trusten,
 
-amerikanskt territorium: Amerikanska Samoa, Samväldet
-Nordmarianerna, Territoriet Guam, Samväldet Puerto Rico eller
+amerikanskt territorium: Amerikanska Samoa, Samväldet 
+Nordmarianerna, Territoriet Guam, Samväldet Puerto Rico eller 
 Amerikanska Jungfruöarna,
 
-andel i eget kapital: när det är fråga om ett svenskt
-handelsbolag eller en i utlandet delägarbeskattad juridisk
-person som är ett finansiellt institut, en andel i
-handelsbolagets eller den juridiska personens kapital eller i
-dess avkastning,
-
-befintligt konto: ett finansiellt konto som öppnades den 30
+befintligt konto: ett finansiellt konto som öppnades den 30 
 juni 2014 eller tidigare,
 
-behörig förmedlare: ett finansiellt institut som har ingått
-avtal med den amerikanska federala skattemyndigheten om att
-agera som sådan behörig förmedlare som benämns Qualified
+behörig förmedlare: ett finansiellt institut som har ingått 
+avtal med den amerikanska federala skattemyndigheten om att 
+agera som sådan behörig förmedlare som benämns Qualified 
 Intermediary,
 
-dotterföretag: dotterföretag i enlighet med det begreppets
+dotterföretag: dotterföretag i enlighet med det begreppets 
 betydelse enligt aktiebolagslagen (2005:551),
 
-enhet: en juridisk person eller en annan juridisk
+enhet: en juridisk person eller en annan juridisk 
 konstruktion såsom en trust,
 
-FATCA: avsnitt 1471–1474 i kapitel 4 i USA:s Internal Revenue
-Code från 1986 och U.S. Treasury Regulations till avsnitt
+FATCA: avsnitt 1471–1474 i kapitel 4 i USA:s Internal Revenue 
+Code från 1986 och U.S. Treasury Regulations till avsnitt 
 1471–1474 i USA:s Internal Revenue Code,
 
-försäkringsavtal: ett annat avtal än ett livränteavtal, som
-innebär att utfärdaren förbinder sig att betala ut ett belopp
-vid ett eller flera tillfällen till följd av en specifik
-oviss händelse förknippad med dödsfall, sjukdom, olycksfall,
+försäkringsavtal: ett annat avtal än ett livränteavtal, som 
+innebär att utfärdaren förbinder sig att betala ut ett belopp 
+vid ett eller flera tillfällen till följd av en specifik 
+oviss händelse förknippad med dödsfall, sjukdom, olycksfall, 
 skadeståndsanspråk eller egendomsskada,
 
-försäkringsavtal med kontantvärde: ett försäkringsavtal som
-har ett kontantvärde som överstiger 50 000 US-dollar och som
-inte är ett ansvarsåterförsäkringsavtal mellan två
+försäkringsavtal med kontantvärde: ett försäkringsavtal som 
+har ett kontantvärde som överstiger 50 000 US-dollar och som 
+inte är ett ansvarsåterförsäkringsavtal mellan två 
 försäkringsföretag,
 
-icke FATCA-deltagande finansiellt institut: ett finansiellt
-institut som identifierats som ett sådant enligt 6 kap. 8
+icke FATCA-deltagande finansiellt institut: ett finansiellt 
+institut som identifierats som ett sådant enligt 6 kap. 8 
 §,
 
-källskatteinnehållande enhet: ett finansiellt institut
-som har ingått avtal med den amerikanska federala
-skattemyndigheten om att agera som källskatteinnehållande i
-utlandet delägarbeskattad juridisk person eller
+källskatteinnehållande enhet: ett finansiellt institut 
+som har ingått avtal med den amerikanska federala 
+skattemyndigheten om att agera som källskatteinnehållande i 
+utlandet delägarbeskattad juridisk person eller 
 källskatteinnehållande trust,
 
-källskattepliktig betalning med amerikansk källa: betalning
-av ränta, utdelning, hyra, lön, arvode, premie, livränta,
-vederlag, ersättning och annan fastställd eller fastställbar
-årlig eller periodisk avkastning, vinst och inkomst, om
+källskattepliktig betalning med amerikansk källa: betalning 
+av ränta, utdelning, hyra, lön, arvode, premie, livränta, 
+vederlag, ersättning och annan fastställd eller fastställbar 
+årlig eller periodisk avkastning, vinst och inkomst, om 
 betalningen härrör från en källa i USA,
 
 livränteavtal: ett avtal
 
-a) enligt vilket utfärdaren förbinder sig att göra
-utbetalningar under en viss tidsperiod som helt eller delvis
-bestäms med hänsyn till den förväntade livslängden för en
-eller flera personer, eller
+a) enligt vilket utfärdaren förbinder sig att göra 
+utbetalningar under en viss tidsperiod som helt eller delvis 
+bestäms med hänsyn till den förväntade livslängden för en 
+eller flera personer, eller 
 
-b) som betraktas som livränteavtal i enlighet med den stats
-eller jurisdiktions lagstiftning, föreskrifter eller praxis
-där avtalet slöts och i enlighet med vilken utfärdaren
-förbinder sig att göra utbetalningar under ett visst antal
+b) som betraktas som livränteavtal i enlighet med den stats 
+eller jurisdiktions lagstiftning, föreskrifter eller praxis 
+där avtalet slöts och i enlighet med vilken utfärdaren 
+förbinder sig att göra utbetalningar under ett visst antal 
 år,
 
-nytt konto: ett finansiellt konto som öppnas den 1 juli 2014
+nytt konto: ett finansiellt konto som öppnas den 1 juli 2014 
 eller senare,
 
-partnerjurisdiktion: en stat eller jurisdiktion med vilken
-USA har ett gällande avtal för att underlätta genomförandet
+partnerjurisdiktion: en stat eller jurisdiktion med vilken 
+USA har ett gällande avtal för att underlätta genomförandet 
 av FATCA,
 
-passiv icke-finansiell enhet: en enhet som inte är ett
+passiv icke-finansiell enhet: en enhet som inte är ett 
 finansiellt institut eller en aktiv icke-finansiell enhet,
 
-rapporteringspliktigt konto: ett finansiellt konto som har
-identifierats som ett sådant enligt bestämmelserna i 4–8
-kap., om det inte innehas uteslutande av en eller flera
-personer som är undantagna faktiska innehavare enligt 3
+rapporteringspliktigt konto: ett finansiellt konto som har 
+identifierats som ett sådant enligt bestämmelserna i 4–8 
+kap., om det inte innehas uteslutande av en eller flera 
+personer som är undantagna faktiska innehavare enligt 3 
 kap.,
 
-specificerad amerikansk person: en amerikansk person som inte
-är undantagen från begreppet specificerad amerikansk person
-enligt artikel 1.1 ff i FATCA-avtalet i den ursprungliga
-lydelsen.
+specificerad amerikansk person: en amerikansk person som inte 
+är undantagen från begreppet specificerad amerikansk person 
+enligt artikel 1.1 ff i FATCA-avtalet i den ursprungliga 
+lydelsen. Lag (2018:2035).
 
 Betydelsen av vissa termer och uttryck
 
@@ -792,22 +816,29 @@ rapporteringsskyldighet:
 
 10. investeringsansvariga.
 
-3 § Följande konton är undantagna från rapporteringsplikt:
+3 § Följande konton är undantagna från rapporteringsplikt: 
 
-1. pensionsförsäkring som uppfyller kraven i
-inkomstskattelagen (1999:1229) och som tecknas och förvaltas
-i Sverige, om premier betalas av en arbetsgivare till förmån
-för en anställd som utför tjänster i Sverige,
+1. pensionsförsäkring som uppfyller kraven i 
+inkomstskattelagen (1999:1229) och som tecknas och förvaltas 
+i Sverige, om premier betalas av en arbetsgivare till förmån 
+för en anställd som utför tjänster i Sverige, 
 
-2. viss temporär dödsfallsförsäkring,
+2. viss temporär dödsfallsförsäkring, 
 
-3. konto som innehas av dödsbo,
+3. konto som innehas av dödsbo, 
 
-4. spärrat konto,
+4. spärrat konto, 
 
-5. partnerjurisdiktionskonto, och
+5. partnerjurisdiktionskonto, och 
 
 6. kvalificerat kreditkortskonto.
+
+Undantaget i första stycket 3 gäller endast till och med det 
+fjärde kalenderåret efter det kalenderår då dödsfallet 
+inträffade. Intyganden som ska inhämtas enligt 7 kap. 
+avseende sådana konton ska, i stället för vad som anges där, 
+inhämtas senast den 31 december det femte kalenderåret efter 
+det kalenderår då dödsfallet inträffade. Lag (2018:2035).
 
 Definitioner och förklaringar
 
@@ -1537,13 +1568,21 @@ ett sådant intyg trots att han eller hon upphört att vara
 amerikansk medborgare eller varför han eller hon inte blev
 amerikansk medborgare vid födseln.
 
-6 § Oavsett vad som sägs i 3–5 §§ ska ett konto vars saldo
-eller värde uppgick till mer än 1 000 000 US-dollar den 30
-juni 2014 eller vid utgången av 2015 eller ett senare
-kalenderår anses vara ett rapporteringspliktigt konto om det
-finns en tjänsteman som har särskilt ansvar för kontakterna
-med kontohavaren och den tjänstemannen har eller får kännedom
-om att kontohavaren är en specificerad amerikansk person.
+6 § Oavsett vad som sägs i 3–5 §§ ska ett konto vars saldo 
+eller värde uppgick till mer än 1 000 000 US-dollar den 30 
+juni 2014 eller vid utgången av 2015 eller ett senare 
+kalenderår anses vara ett rapporteringspliktigt konto om det 
+finns en tjänsteman som har särskilt ansvar för kontakterna 
+med kontohavaren och den tjänstemannen har eller får kännedom 
+om att kontohavaren är en specificerad amerikansk person. Ett 
+rapporteringsskyldigt finansiellt institut ska ha processer 
+och rutiner så att en sådan tjänsteman kan upptäcka om och 
+när omständigheterna ändras på ett sådant sätt att ett konto 
+blir ett rapporteringspliktigt konto enligt 3–5 §§ eller 
+denna paragraf samt att den ändrade omständigheten beaktas 
+vid tillämpningen av 3–5 §§. Exempel på en sådan ändrad 
+omständighet är om tjänstemannen underrättas om att 
+kontohavaren har en ny postadress i USA. Lag (2018:2035).
 
 7 § Om ett konto efter att granskningen enligt 3–6 §§ har
 utförts blir ett rapporteringspliktigt konto enligt samma
@@ -1567,18 +1606,19 @@ längre är specificerade amerikanska personer.
 5 kap. Granskning av nya finansiella konton som innehas av
 fysiska personer
 
-1 § I samband med att en fysisk person öppnar ett nytt konto
-hos ett rapporteringsskyldigt finansiellt institut ska
-enheten inhämta ett intygande från den fysiska personen där
-han eller hon uppger de omständigheter som behövs för att
-avgöra om han eller hon har hemvist i USA.
+1 § Innan en fysisk person öppnar ett nytt konto hos ett 
+rapporteringsskyldigt finansiellt institut ska institutet 
+inhämta ett intygande från den fysiska personen där han eller 
+hon uppger de omständigheter som behövs för att avgöra om han 
+eller hon har hemvist i USA. 
 
-Om det av det intygandet framgår att den fysiska personen har
-hemvist i USA, ska det rapporteringsskyldiga finansiella
-institutet inhämta ett intygande från den fysiska personen
-som innehåller hans eller hennes amerikanska
-skatteregistreringsnummer, om detta inte anges redan i det
-intygande som inhämtats enligt första stycket.
+Om det av det intygandet framgår att den fysiska personen har 
+hemvist i USA, ska det rapporteringsskyldiga finansiella 
+institutet innan kontot öppnas även inhämta ett intygande 
+från den fysiska personen som innehåller hans eller hennes 
+amerikanska skatteregistreringsnummer, om detta inte anges 
+redan i det intygande som inhämtats enligt första stycket.
+Lag (2018:2035).
 
 2 § Om det rapporteringsskyldiga finansiella institutet har
 eller får tillgång till ytterligare information som medför
@@ -1690,7 +1730,19 @@ eller
 rapporteringsskyldiga finansiella institutet har tillgång 
 till eller information som är allmänt tillgänglig kan 
 fastställa att kontohavaren inte är en specificerad 
-amerikansk person. Lag (2017:661).
+amerikansk person.
+
+Det finns skäl att anta att kontohavaren är en amerikansk 
+person enligt första stycket om det finns 
+
+1. uppgift om att kontohavaren bildats i USA eller i enlighet 
+med amerikansk lagstiftning,
+
+2. uppgift om att kontohavaren har en amerikansk adress, 
+eller
+
+3. annan uppgift som talar för att kontohavaren är en 
+amerikansk person. Lag (2018:2035).
 
 3 § För att fastställa om en enhet som inte är en amerikansk 
 person är ett finansiellt institut, ska det 
@@ -1823,35 +1875,31 @@ enheter
 
 Rapporteringspliktiga konton
 
-1 § Ett nytt konto är ett rapporteringspliktigt konto om det
-innehas av en eller flera enheter som är specificerade
-amerikanska personer. Ett konto är också ett
-rapporteringspliktigt konto om det innehas av en eller flera
-andra enheter som är passiva icke-finansiella enheter och
-över vilka en eller flera fysiska personer som är medborgare
-eller har hemvist i USA har bestämmande inflytande. Ett nytt
-konto är också rapporteringspliktigt om ett sådant intygande
-från kontohavaren eller personerna med bestämmande inflytande
-som krävs enligt 3 eller 4 § inte kommer in.
+1 § Ett nytt konto är ett rapporteringspliktigt konto om 
+det innehas av en eller flera enheter som är specificerade 
+amerikanska personer. Ett konto är också ett 
+rapporteringspliktigt konto om det innehas av en eller flera 
+andra enheter som är passiva icke-finansiella enheter och 
+över vilka en eller flera fysiska personer som är medborgare 
+eller har hemvist i USA har bestämmande inflytande.
 
-Ett nytt konto är dock inte ett rapporteringspliktigt konto
+Ett nytt konto är dock inte ett rapporteringspliktigt konto 
 om
-
 1. kontohavaren är ett deltagande finansiellt institut,
 
-2. det rapporteringsskyldiga finansiella institutet inhämtar
-ett intygande från kontohavaren om att den är ett finansiellt
-institut som bedöms följa FATCA-reglerna eller en undantagen
-faktisk innehavare i enlighet med relevanta amerikanska
-författningar, eller
+2. det rapporteringsskyldiga finansiella institutet innan 
+kontot öppnas inhämtar ett intygande från kontohavaren om att 
+den är ett finansiellt institut som bedöms följa 
+FATCA-reglerna eller en undantagen faktisk innehavare i 
+enlighet med relevanta amerikanska författningar, eller
 
-3. när kontohavaren är ett deltagande finansiellt institut
-eller ett registrerat finansiellt institut som bedöms följa
-FATCA-reglerna, det rapporteringsskyldiga finansiella
-institutet kontrollerar kontohavarens identifieringsnummer
-som internationell förmedlare på amerikanska federala
-skattemyndighetens lista över icke-amerikanska finansiella
-institut.
+3. när kontohavaren är ett deltagande finansiellt institut 
+eller ett registrerat finansiellt institut som bedöms följa 
+FATCA-reglerna, det rapporteringsskyldiga finansiella 
+institutet kontrollerar kontohavarens identifieringsnummer 
+som internationell förmedlare på amerikanska federala 
+skattemyndighetens lista över icke-amerikanska finansiella 
+institut. Lag (2018:2035).
 
 Förfarande för identifiering av rapporteringspliktiga
 konton
@@ -1879,9 +1927,9 @@ finansiering av terrorism.
 
 För att fastställa om en person med bestämmande inflytande är 
 medborgare eller har hemvist i USA, ska det 
-rapporteringsskyldiga finansiella institutet i samband med 
-att ett konto öppnas inhämta ett intygande från kontohavaren 
-eller från personerna med bestämmande inflytande.
+rapporteringsskyldiga finansiella institutet innan ett konto 
+öppnas inhämta ett intygande från kontohavaren eller från 
+personerna med bestämmande inflytande.
 
 Om det av intygandet framgår att en eller flera personer med 
 bestämmande inflytande är medborgare eller har hemvist i USA, 
@@ -1890,19 +1938,19 @@ ett intygande från kontohavaren eller personerna med
 bestämmande inflytande som innehåller dennes eller deras 
 skatteregistreringsnummer, om dessa inte anges redan i det 
 intygande som inhämtats enligt andra stycket.
-Lag (2017:661).
+Lag (2018:2035).
 
-4 § I alla andra fall än som avses i 2 § och 3 § första
-stycket ska det rapporteringsskyldiga finansiella institutet
-inhämta ett intygande från kontohavaren för att fastställa om
-de omständigheter som är av betydelse för tillämpningen av 1
-§ föreligger.
+4 § I alla andra fall än som avses i 2 § och 3 § första 
+stycket ska det rapporteringsskyldiga finansiella institutet 
+innan kontot öppnas inhämta ett intygande från kontohavaren 
+för att fastställa om de omständigheter som är av betydelse 
+för tillämpningen av 1 § föreligger.
 
-Om det av intygandet framgår att kontohavaren är en
-specificerad amerikansk person, ska det rapporteringsskyldiga
-finansiella institutet inhämta ett intygande från
-kontohavaren som innehåller dennes amerikanska
-skatteregistreringsnummer.
+Om det av intygandet framgår att kontohavaren är en 
+specificerad amerikansk person, ska det rapporteringsskyldiga 
+finansiella institutet innan kontot öppnas även inhämta ett 
+intygande från kontohavaren som innehåller dennes amerikanska 
+skatteregistreringsnummer. Lag (2018:2035).
 
 Konton som inte behöver granskas
 
@@ -2151,3 +2199,15 @@ som är icke-amerikanska passiva icke-finansiella enheter.
 
 2. Bestämmelserna i 2 kap. 11 § tredje stycket tillämpas 
 första gången i fråga om kalenderåret 2016.
+
+2018:2035
+
+1. Denna lag träder i kraft den 1 januari 2019.
+
+2. Bestämmelserna i 3 kap. 3 §, 5 kap. 1 § och 7 kap. 1, 3 
+och 4 §§ i den nya lydelsen tillämpas i fråga om konton som 
+öppnas efter den 31 december 2018. 
+
+3. Bestämmelserna i 2 kap. 15 och 16 §§ i den nya lydelsen 
+tillämpas första gången i fråga om uppgifter som avser 
+kalenderåret 2019. 
