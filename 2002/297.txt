@@ -8,45 +8,7 @@ in, förvaras och användas för vissa ändamål.
 
 Definitioner
 
-2 § /Upphör att gälla U:2019-01-01/
-I denna lag används följande beteckningar med nedan angiven
-betydelse.
-
-Beteckning              Betydelse
-
-Biobank                 Biologiskt material från en eller flera
-                        människor som samlas och bevaras tills
-                        vidare eller för en bestämd tid och vars
-                        ursprung kan härledas till den eller de
-                        människor från vilka materialet härrör.
-
-Nämnd för
-forskningsetik          Nämnd som avses i lagen (2003:460) om
-                        etikprövning av forskning som avser människor.
-
-Huvudman för en
-biobank                 Vårdgivare, forskningsinstitution eller annan
-                        som innehar en biobank.
-
-Hälso- och sjukvård     Verksamhet som omfattas av hälso- och 
-			sjukvårdslagen (2017:30) eller tandvårdslagen 
-			(1985:125).
-
-Människa                Levande eller avliden person eller foster.
-
-Provgivare              Levande person från vilken vävnadsprov har
-                        tagits.
-
-Vårdgivare              Fysisk eller juridisk person som yrkesmässigt
-                        bedriver hälso- och sjukvård eller ett
-                        laboratorium som mottar vävnadsprover från
-                        vårdgivare och som bevarar proverna i en biobank.
-
-Vävnadsprov             Biologiskt material från människa.
-Lag (2017:50).
-
-2 § /Träder i kraft I:2019-01-01/
-I denna lag används följande beteckningar med nedan 
+2 § I denna lag används följande beteckningar med nedan 
 angiven betydelse.
 
 Beteckning              Betydelse
@@ -81,42 +43,36 @@ Lag (2018:148).
 
 Tillämpningsområde
 
-3 § Lagen är tillämplig på
+3 § Lagen är tillämplig på 
 
-1. en biobank som inrättats i Sverige i en vårdgivares hälso-
-och sjukvårdsverksamhet, oavsett var materialet i biobanken
-förvaras, och
+1. en biobank som inrättats i Sverige i en vårdgivares hälso- 
+och sjukvårdsverksamhet, oavsett var materialet i biobanken 
+förvaras, och 
 
-2. vävnadsprover från en sådan biobank som avses under 1, vilka
-lämnats ut för att förvaras och användas hos en annan
-vårdgivare, en enhet för forskning eller diagnostik, en
-offentlig forskningsinstitution, ett läkemedelsbolag eller en
-annan juridisk person och vilka även efter utlämnandet kan
+2. vävnadsprover från en sådan biobank som avses under 1, 
+vilka lämnats ut för att förvaras och användas hos en annan 
+vårdgivare, en enhet för forskning eller diagnostik, en 
+offentlig forskningsinstitution, ett läkemedelsbolag eller en 
+annan juridisk person och vilka även efter utlämnandet kan 
 härledas till den eller de människor från vilka de härrör.
 
-Lagen skall i tillämpliga delar gälla för vävnadsprover som tas
-och samlas in för transplantationsändamål enligt lagen
+Lagen ska i tillämpliga delar gälla för vävnadsprover som tas 
+och samlas in för transplantationsändamål enligt lagen 
 (1995:831) om transplantation m.m.
 
-Lagen är inte tillämplig på prover som rutinmässigt tas i
-vården för analys och som uteslutande är avsedda som underlag
-för diagnos och löpande vård och behandling av provgivaren och
-som inte sparas en längre tid.
+Lagen är inte tillämplig på prover som rutinmässigt tas i 
+vården för analys och som uteslutande är avsedda som underlag 
+för diagnos och löpande vård och behandling av provgivaren 
+och som inte sparas en längre tid.
 
-/Upphör att gälla U:2018-05-25/
-Förhållandet till bestämmelser i annan lag
+Lagen är inte heller tillämplig på prover som är avsedda för 
+forskning och som analyseras inom sex månader efter 
+provtagningstillfället och förstörs omedelbart efter 
+analysen. Lag (2018:1273).
 
-/Rubriken träder i kraft I:2018-05-25/
 Förhållandet till annan dataskyddsreglering
 
-4 § /Upphör att gälla U:2018-05-25/
-Bestämmelser i annan lag vilka avviker från bestämmelserna
-i denna lag skall tillämpas med det undantaget att
-bestämmelserna i 5 kap. om PKU-registret skall ha företräde
-framför bestämmelser i annan lag.
-
-4 § /Träder i kraft I:2018-05-25/
-Denna lag innehåller bestämmelser som kompletterar 
+4 § Denna lag innehåller bestämmelser som kompletterar 
 Europaparlamentets och rådets förordning (EU) 2016/679 av den 
 27 april 2016 om skydd för fysiska personer med avseende på 
 behandling av personuppgifter och om det fria flödet av 
@@ -135,6 +91,18 @@ Bestämmelser i annan lag vilka avviker från bestämmelser i
 denna lag ska tillämpas med det undantaget att bestämmelserna 
 i 5 kap. om PKU-registret ska ha företräde framför 
 bestämmelser i annan lag. Lag (2018:441).
+
+/Rubriken träder i kraft I:den dag som regeringen bestämmer/
+Tystnadsplikt i vissa fall
+
+5 § /Träder i kraft I:den dag som regeringen bestämmer/
+Den som är eller har varit anställd eller 
+uppdragstagare vid en biobank som inrättats i enskild 
+verksamhet får inte obehörigen röja eller utnyttja uppgifter 
+i en ansökan om tillstånd till en klinisk läkemedelsprövning. 
+Som obehörigt röjande anses inte att någon fullgör sådan 
+uppgiftsskyldighet som följer av lag eller förordning.
+Lag (2018:1273).
 
 2 kap. Inrättande och villkor
 
@@ -158,22 +126,7 @@ därmed jämförlig verksamhet.
 
 Forskning och klinisk prövning
 
-3 § /Upphör att gälla U:2019-01-01/
-Är avsikten att en biobank skall användas för ändamål som
-avser forskning eller klinisk prövning får beslut som avses i
-1 § fattas först efter prövning och godkännande av en nämnd för
-forskningsetik. Biobanken får i sådana fall inte användas för
-annat ändamål än som tidigare beslutats utan att nämnden
-godkänt detta.
-
-Vid prövning och godkännande som här avses tillämpas vad som
-föreskrivs om utgångspunkter för etikprövningen i 7-11 §§ lagen
-(2003:460) om etikprövning av forskning som avser människor. I
-fråga om handläggningsordningen för prövning och godkännande
-samt om överklagande tillämpas föreskrifterna i 24-33 §§ samt
-36 och 37 §§ samma lag. Lag (2003:468).
-
-3 § /Träder i kraft I:2019-01-01/
+3 § /Upphör att gälla U:den dag som regeringen bestämmer/
 Är avsikten att en biobank ska användas för ändamål som 
 avser forskning eller klinisk prövning får beslut som avses i 
 1 § fattas först efter prövning och godkännande av 
@@ -188,6 +141,34 @@ lagen (2003:460) om etikprövning av forskning som avser
 människor. I fråga om handläggningsordningen för prövning och 
 godkännande samt om överklagande tillämpas föreskrifterna i 
 24–33 §§ samt 36 och 37 §§ samma lag. Lag (2018:148).
+
+3 § /Träder i kraft I:den dag som regeringen bestämmer/
+Är avsikten att en biobank ska användas för ändamål 
+som avser forskning eller klinisk prövning som inte omfattas 
+av 3 a § får beslut som avses i 1 § fattas först efter 
+prövning och godkännande av Etikprövningsmyndigheten eller 
+Överklagandenämnden för etikprövning. Biobanken får i sådana 
+fall inte användas för annat ändamål än som tidigare 
+beslutats utan att myndigheten eller nämnden godkänt detta.
+
+Vid prövning och godkännande som här avses tillämpas vad som 
+föreskrivs om utgångspunkter för etikprövningen i 7–11 §§ 
+lagen (2003:460) om etikprövning av forskning som avser 
+människor. I fråga om handläggningsordningen för prövning och 
+godkännande samt om överklagande tillämpas föreskrifterna i 
+24–33 §§ samt 36 och 37 §§ samma lag. Lag (2018:1273).
+
+3 a § /Träder i kraft I:den dag som regeringen bestämmer/
+Är avsikten att en biobank ska användas för ändamål 
+som avser klinisk läkemedelsprövning får beslut som avses i 
+1 § fattas först efter det att en ansökan om tillstånd till 
+klinisk läkemedelsprövning har beviljats eller anses ha 
+beviljats i enlighet med Europaparlamentets och rådets 
+förordning (EU) nr 536/2014 av den 16 april 2014 om kliniska 
+prövningar av humanläkemedel och om upphävande av direktiv 
+2001/20/EG, under förutsättning att uppgifter om insamling, 
+lagring och användning av biologiska prover anges i den 
+ansökan. Lag (2018:1273).
 
 Förvaring
 
@@ -275,23 +256,7 @@ obduktionslagen (1995:832) motsvarande tillämpning.
 
 Nytt ändamål
 
-5 § /Upphör att gälla U:2019-01-01/
-Vävnadsprover som bevaras i en biobank får inte användas
-för annat ändamål än som omfattas av tidigare information och
-samtycke utan att den som lämnat samtycket informerats om och
-samtyckt till det nya ändamålet.
-
-Har den som lämnat samtycke avlidit gäller i stället att den
-avlidnes närmaste anhöriga skall ha informerats om och efter
-skälig betänketid inte motsatt sig det nya ändamålet.
-
-Avser det nya ändamålet forskning eller klinisk prövning skall
-den nämnd för forskningsetik som godkänner det nya ändamålet i
-samband därmed också besluta om vilka krav som skall gälla i
-fråga om information och samtycke för att vävnadsproverna i
-banken skall få användas för det nya ändamålet. Lag (2003:468).
-
-5 § /Träder i kraft I:2019-01-01/
+5 § /Upphör att gälla U:den dag som regeringen bestämmer/
 Vävnadsprover som bevaras i en biobank får inte användas 
 för annat ändamål än som omfattas av tidigare information och 
 samtycke utan att den som lämnat samtycket informerats om och 
@@ -308,6 +273,37 @@ godkänner det nya ändamålet också besluta om vilka krav som
 ska gälla i fråga om information och samtycke för att 
 vävnadsproverna i banken ska få användas för det nya 
 ändamålet. Lag (2018:148).
+
+5 § /Träder i kraft I:den dag som regeringen bestämmer/
+Vävnadsprover som bevaras i en biobank får inte 
+användas för annat ändamål än som omfattas av tidigare 
+information och samtycke utan att den som lämnat samtycket 
+informerats om och samtyckt till det nya ändamålet.
+
+Har den som lämnat samtycke avlidit gäller i stället att den 
+avlidnes närmaste anhöriga ska ha informerats om och efter 
+skälig betänketid inte motsatt sig det nya ändamålet.
+Lag (2018:1273).
+
+5 a § /Träder i kraft I:den dag som regeringen bestämmer/
+Avser det nya ändamålet forskning eller klinisk 
+prövning som inte omfattas av 5 b §, ska 
+Etikprövningsmyndigheten eller Överklagandenämnden för 
+etikprövning i samband med att myndigheten eller nämnden 
+godkänner det nya ändamålet också besluta om vilka krav som 
+ska gälla i fråga om information och samtycke för att 
+vävnadsproverna i banken ska få användas för det nya 
+ändamålet. Lag (2018:1273).
+
+5 b § /Träder i kraft I:den dag som regeringen bestämmer/
+Avser det nya ändamålet en klinisk 
+läkemedelsprövning får vävnadsproverna användas för en sådan 
+prövning i enlighet med den ansökan om tillstånd till klinisk 
+läkemedelsprövning som har beviljats eller anses ha beviljats 
+i enlighet med Europaparlamentets och rådets förordning (EU) 
+nr 536/2014, under förutsättning att uppgifter om insamling, 
+lagring och användning av biologiska prover har angetts i den 
+ansökan. Lag (2018:1273).
 
 Återkallelse av samtycke
 
@@ -362,16 +358,7 @@ personuppgifter om en enskild provgivare skall behandlas i
 samma ordning som en ansökan om att få tillgång till prover i
 en biobank.
 
-4 a § /Upphör att gälla U:2018-05-25/
-En journalhandling inom enskild hälso- och sjukvård som
-rör en viss patient ska lämnas ut på begäran av den som fått
-tillgång till kodat humanbiologiskt material från den patienten
-enligt 1 §, om patienten samtyckt till att journalhandlingen
-lämnas ut. I fråga om vissa känsliga personuppgifter finns
-föreskrifter i personuppgiftslagen (1998:204). Lag (2008:358).
-
-4 a § /Träder i kraft I:2018-05-25/
-En journalhandling inom enskild hälso- och sjukvård 
+4 a § En journalhandling inom enskild hälso- och sjukvård 
 som rör en viss patient ska lämnas ut på begäran av den som 
 fått tillgång till kodat humanbiologiskt material från den 
 patienten enligt 1 §, om patienten samtyckt till att 
@@ -574,29 +561,9 @@ I 8 kap. 6 § lagen (2006:351) om genetisk integritet m.m. finns
 bestämmelser om straff för den som i vinstsyfte överlåter
 biologiskt material. Lag (2006:356).
 
-/Rubriken upphör att gälla U:2018-05-25/
-Skadestånd m.m.
-
-/Rubriken träder i kraft I:2018-05-25/
 Skadestånd
 
-2 § /Upphör att gälla U:2018-05-25/
-Huvudmannen för biobanken skall ersätta en enskild
-provgivare för den skada eller kränkning av den personliga
-integriteten som ett förfarande med vävnadsprover i strid med
-denna lag har orsakat honom eller henne.
-
-Ersättningsskyldigheten kan i den utsträckning det är skäligt
-jämkas, om huvudmannen för banken visar att felet inte berodde
-på honom eller henne.
-
-Bestämmelserna i personuppgiftslagen (1998:204) om rättelse och
-skadestånd gäller vid behandling av personuppgifter enligt
-denna lag eller föreskrifter som har meddelats med stöd av
-lagen.
-
-2 § /Träder i kraft I:2018-05-25/
-Huvudmannen för biobanken ska ersätta en enskild 
+2 § Huvudmannen för biobanken ska ersätta en enskild 
 provgivare för den skada eller kränkning av den personliga 
 integriteten som ett förfarande med vävnadsprover i strid med 
 denna lag har orsakat honom eller henne.
@@ -607,25 +574,7 @@ berodde på honom eller henne. Lag (2018:441).
 
 Tillsyn
 
-3 § /Upphör att gälla U:2018-05-25/
-Inspektionen för vård och omsorg utövar tillsyn över att
-denna lag och föreskrifter som har meddelats i anslutning till
-lagen följs. Den myndighet som är tillsynsmyndighet enligt
-personuppgiftslagen (1998:204) utövar dock tillsyn över den
-behandling som sker av personuppgifter.
-
-Den som bedriver verksamhet som står under tillsyn är skyldig
-att på Inspektionen för vård och omsorgs begäran lämna ut
-handlingar, prover och annat material som rör verksamheten
-samt att lämna de upplysningar om verksamheten som
-inspektionen behöver för sin tillsyn.
-
-Inspektionen för vård och omsorg får förelägga den som
-bedriver verksamheten att lämna ut vad som begärs. Ett beslut
-om föreläggande får förenas med vite. Lag (2012:947).
-
-3 § /Träder i kraft I:2018-05-25/
-Inspektionen för vård och omsorg utövar tillsyn över 
+3 § Inspektionen för vård och omsorg utövar tillsyn över 
 att denna lag och föreskrifter som har meddelats i anslutning 
 till lagen följs. Den myndighet som är tillsynsmyndighet 
 enligt EU:s dataskyddsförordning utövar dock tillsyn över den 
@@ -668,25 +617,7 @@ Lag (2012:947).
 
 Överklagande m.m.
 
-7 § /Upphör att gälla U:2018-05-25/
-Beslut enligt 4 kap. 6 § första stycket får överklagas
-till Inspektionen för vård och omsorg. Inspektionens beslut
-enligt 4 kap. 6 § får inte överklagas.
-
-Inspektionen för vård och omsorgs övriga beslut får överklagas
-till allmän förvaltningsdomstol.
-
-En annan myndighets beslut om rättelse och om avslag på
-ansökan om information enligt 26 § personuppgiftslagen
-(1998:204) får överklagas till allmän förvaltningsdomstol.
-
-Prövningstillstånd krävs vid överklagande till kammarrätten.
-Beslut som Inspektionen för vård och omsorg eller allmän
-förvaltningsdomstol meddelar enligt denna lag gäller
-omedelbart, om inte annat anges i beslutet. Lag (2012:947).
-
-7 § /Träder i kraft I:2018-05-25/
-Beslut enligt 4 kap. 6 § första stycket får 
+7 § Beslut enligt 4 kap. 6 § första stycket får 
 överklagas till Inspektionen för vård och omsorg. 
 Inspektionens beslut enligt 4 kap. 6 § får inte överklagas.
 
@@ -751,3 +682,14 @@ forskningsetik enligt 2 kap. 3 § i den äldre lydelsen och
 godkännande och krav som har beslutats av en nämnd för 
 forskningsetik enligt 3 kap. 5 § i den äldre lydelsen gäller 
 fortfarande.
+
+2018:1273
+
+1. Denna lag träder i kraft den 1 januari 2019 i fråga om 1 
+kap. 3 §.
+
+2. Denna lag träder i kraft den dag som regeringen bestämmer 
+i fråga om övriga bestämmelser.
+
+3. Regeringen får meddela de övergångsbestämmelser som behövs 
+i fråga om punkten 2.
