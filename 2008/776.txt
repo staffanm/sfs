@@ -18,11 +18,12 @@ eller tillägg med ett enhetligt belopp per invånare, som
 beräknas så att summan av avgifterna motsvarar summan av
 bidragen.
 
-2 § Standardkostnaden ska beräknas utifrån befolkningsuppgifter
-per den 1 november året före utjämningsåret och anges i kronor
-per invånare. Standardkostnaden ska beräknas i utjämningsårets
-prisnivå utifrån en prognostiserad utveckling av
-nettoprisindex.
+2 § Standardkostnaden ska beräknas utifrån 
+befolkningsuppgifter per den 1 november året före 
+utjämningsåret och anges i kronor per invånare. 
+Standardkostnaden ska beräknas i utjämningsårets prisnivå 
+utifrån en prognostiserad utveckling av konsumentprisindex 
+med fast ränta. Förordning (2018:1902).
 
 3 § Underlag för beräkningar av standardkostnaden ska utgöras
 av Statistiska centralbyråns räkenskapssammandrag,
@@ -35,29 +36,29 @@ Förordning (2010:1338).
 
 Beräkning av standardkostnad
 
-4 § En kommuns standardkostnad ska beräknas enligt följande.
-Antalet personer i kommunen med verkställda beslut om insatser
-enligt 9 § 2–8 och 10 lagen (1993:387) om stöd och service till
-vissa funktionshindrade och insatsen bostad med särskild
-service för vuxna enligt 9 § 9 samma lag samt antalet personer
-som beviljats personlig assistans enligt 51 kap.
-socialförsäkringsbalken, multipliceras med den enligt 5 §
-beräknade genomsnittliga kostnaden per insats i landet,
-varefter produkterna summeras. För personer i kommunen med
-verkställda beslut avseende både insatsen personlig assistans
-enligt 9 § 2 lagen om stöd och service till vissa
-funktionshindrade och insatsen bostad med särskild service för
-vuxna enligt 9 § 9 samma lag, ska endast kostnaden för den
-sistnämnda insatsen ingå i beräkningen. Till summan adderas
-kommunens ersättning till Försäkringskassan enligt 51 kap.
-socialförsäkringsbalken enligt räkenskapssammandraget.
+4 § En kommuns standardkostnad ska beräknas enligt 
+följande. Antalet personer i kommunen med verkställda beslut 
+om insatser enligt 9 § 2–8 och 10 lagen (1993:387) om stöd 
+och service till vissa funktionshindrade och insatsen bostad 
+med särskild service för vuxna enligt 9 § 9 samma lag samt 
+antalet personer som beviljats personlig assistans enligt 51 
+kap. socialförsäkringsbalken, multipliceras med den enligt 
+5 § beräknade genomsnittliga kostnaden per insats i landet, 
+varefter produkterna summeras. För personer i kommunen med 
+verkställda beslut avseende både insatsen personlig assistans 
+enligt 9 § 2 lagen om stöd och service till vissa 
+funktionshindrade och insatsen bostad med särskild service 
+för vuxna enligt 9 § 9 samma lag, ska endast kostnaden för 
+den sistnämnda insatsen ingå i beräkningen. Till summan 
+adderas kommunens ersättning till Försäkringskassan enligt 51 
+kap. socialförsäkringsbalken enligt räkenskapssammandraget.
 
-Den enligt första stycket beräknade kostnaden multipliceras med
-det personalkostnadsindex som beräknats enligt 6 §. Produkten
-multipliceras med nettoprisindex och en korrigeringsfaktor. Den
-erhållna produkten divideras slutligen med antalet invånare i
-kommunen, varvid kommunens standardkostnad är beräknad.
-Förordning (2010:1338).
+Den enligt första stycket beräknade kostnaden multipliceras 
+med det personalkostnadsindex som beräknats enligt 6 §. 
+Produkten multipliceras med konsumentprisindex med fast ränta 
+och en korrigeringsfaktor. Den erhållna produkten divideras 
+slutligen med antalet invånare i kommunen, varvid kommunens 
+standardkostnad är beräknad. Förordning (2018:1902).
 
 5 § Den genomsnittliga kostnaden per insats enligt 4 § ska
 beräknas enligt följande.
@@ -91,17 +92,17 @@ Den genomsnittliga kostnaden per insats ska uppdateras årligen.
 Förordning (2010:1338).
 
 6 § Personalkostnadsindexet beräknas dels utifrån 
-kostnadsuppgifter från räkenskapssammandraget 2016, dels 
+kostnadsuppgifter från räkenskapssammandraget 2017, dels 
 utifrån den standardkostnad som beräknats enligt 4 § första 
-stycket. Beräkningen görs på följande sätt. 
+stycket. Beräkningen görs på följande sätt.
 
 Först beräknas ett belopp motsvarande 70 procent av 
 skillnaden mellan en beräknad personalkostnad per kommun för 
-2016 och den personalkostnad som ingår i standardkostnaden 
+2017 och den personalkostnad som ingår i standardkostnaden 
 enligt 4 § första stycket. Detta belopp adderas till 
 standardkostnaden enligt 4 § första stycket. Den erhållna 
 summan divideras med standardkostnaden som beräknats enligt 
-4 § första stycket. Förordning (2017:1101).
+4 § första stycket. Förordning (2018:1902).
 
 7 § För beräkningarna gäller i övrigt de beräkningsmetoder och
 närmare detaljer som anges i bilagan till denna förordning.
@@ -150,17 +151,19 @@ dock endast till och med utjämningsåret 2012.
 
 Bilaga
 
-Beräkningsmetoder och närmare detaljer för kostnadsutjämningen
+Beräkningsmetoder och närmare detaljer för 
+kostnadsutjämningen
 
-Befolkningsuppgifter hämtas från Statistiska centralbyråns
+Befolkningsuppgifter hämtas från Statistiska centralbyråns 
 (SCB) befolkningsstatistik.
 
-Nettoprisindex
+Konsumentprisindex med fast ränta
 
 Uppräkning till utjämningsårets kostnadsnivå sker med hjälp 
-av utvecklingen av nettoprisindex. Som genomsnittlig 
-procentuell förändring i nettoprisindex för respektive år 
-används följande: 2017 (1,3) och 2018 (1,9).
+av utvecklingen av konsumentprisindex med fast ränta. Som 
+genomsnittlig procentuell förändring i konsumentprisindex med 
+fast ränta för respektive år används följande: 2018 (2,1) och 
+2019 (2,0).
 
 Genomsnittskostnaden
 
@@ -296,37 +299,39 @@ Personalkostnadsindex (PK-IX)
 
 Personalkostnadsindexets beräkning
 
-A = Externa löner. 
+A = Externa löner.
 
-B = Entreprenad och köp av verksamhet. 
+B = Entreprenad och köp av verksamhet.
 
-C = Interna köp och övriga interna kostnader. 
+C = Interna köp och övriga interna kostnader.
 
 D = Internt fördelade kostnader enligt kommunnyckeln.
 
-E = Internt fördelade kostnader enligt SCB-nyckeln. 
+E = Internt fördelade kostnader enligt SCB-nyckeln.
 
 F = Interna intäkter.
 
 G = Ersättning från Försäkringskassan enligt 51 kap. 
-socialförsäkringsbalken. H = Ersättning till 
-Försäkringskassan enligt 51 kap. socialförsäkringsbalken. 
+socialförsäkringsbalken.
+
+H = Ersättning till Försäkringskassan enligt 51 kap. 
+socialförsäkringsbalken.
 
 J = Försäljning av verksamhet till andra kommuner. 
 
-S = Standardkostnad enligt tidigare beräkning.
+S = Standardkostnad enligt tidigare beräkning. 
 
 Beräknade personalkostnader
 
 Lönekostnader inklusive personalomkostnadspålägg (PO-pålägg) 
-för anställda som är 26–64 år 2016 enligt Sveriges Kommuner 
-och Landstings cirkulär 15:42. 
+för anställda som är 26–64 år 2017 enligt Sveriges Kommuner 
+och Landstings cirkulär 16:65.
 
 Tillkommer 85 procent av köp av verksamhet, övriga interna 
-kostnader, internt fördelade kostnader. 
+kostnader, internt fördelade kostnader.
 
 Avgår 85 procent av ersättning från Försäkringskassan, 
-försäljning till andra kommuner, interna intäkter. 
+försäljning till andra kommuner, interna intäkter.
 
 Tillkommer kommunens beräknade personalkostnad för köpta 
 verksamheter avseende personlig assistans.
@@ -337,33 +342,34 @@ Lönekostnaden (A) x PO-pålägg + 0,85 x (B+C+D+E) – 0,85 x
 (F+G+J) + 0,85 x 0,20 x ((H/0,20) – G) = beräknade 
 personalkostnader.
 
-Steg 2 
+Steg 2
 
 Personalkostnader ingående i den första delen av den 
 beräknade standardkostnaden beräknas utgöra 85 procent = 0,85 
-x S. 
+x S.
 
-Steg 3 
+Steg 3
 
 Mellanskillnaden av steg 1 och steg 2 av överskjutande 
 personalkostnader ersätts med 70 procent = (Lönekostnaden (A) 
 x PO-pålägg + 0,85 x (B+C+D+E) – 0,85 x (F+G+J) + 0,85 x 0,20 
-x ((H/0,20) – G) – (0,85 x S)) x 0,7. 
+x ((H/0,20) – G) – (0,85 x S)) x 0,7.
 
 Indexet erhålls genom att standardkostnaden adderas med 
 värdet av steg 3 dividerat med standardkostnaden = (S + steg 
-3) / S. 
+3) / S.
 
 Slutlig standardkostnad
 
-Den slutliga standardkostnaden erhålls genom att den
-ursprungliga standardkostnaden multipliceras med
-personalkostnadsindex. Produkten multipliceras därefter
-med nettoprisindex och en korrigeringsfaktor för att
-summan av standardkostnaderna, inklusive
-personalkostnadsindex, efter uppräkning med nettoprisindex
-ska överensstämma med kommunernas sammanlagda
-nettokostnader, uppräknade till utjämningsårets prisnivå.
-Produkten divideras med antalet invånare = S x PK-IX x
-nettoprisindex x korrigeringsfaktorn / antalet invånare i
-kommunen. Förordning (2017:1101).
+Den slutliga standardkostnaden erhålls genom att den 
+ursprungliga standardkostnaden multipliceras med 
+personalkostnadsindex. Produkten multipliceras därefter med 
+konsumentprisindex med fast ränta och en korrigeringsfaktor 
+för att summan av standardkostnaderna, inklusive 
+personalkostnadsindex, efter uppräkning med 
+konsumentprisindex med fast ränta ska överensstämma med 
+kommunernas sammanlagda nettokostnader, uppräknade till 
+utjämningsårets prisnivå. Produkten divideras med antalet 
+invånare = S x PK-IX x konsumentprisindex med fast ränta x 
+korrigeringsfaktorn / antalet invånare i kommunen.
+Förordning (2018:1902).
