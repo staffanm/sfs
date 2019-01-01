@@ -196,9 +196,9 @@ komplexitetsgrad.
 
 1 § I denna lag avses med
 
-anmält avvecklingssystem: ett avvecklingssystem som ett land 
-inom EES har anmält till Europeiska värdepappers- och 
-marknadsmyndigheten eller till Eftas övervakningsmyndighet,
+anmält avvecklingssystem: ett anmält avvecklingssystem enligt 
+2 § lagen (1999:1309) om system för avveckling av 
+förpliktelser på finansmarknaden,
 
 bankdag: en dag som inte är en lördag, en söndag, 
 midsommarafton, julafton eller nyårsafton eller en allmän 
@@ -209,11 +209,9 @@ om övriga länder inom EES en behörig myndighet enligt
 definitionen i artikel 4.1.40 i tillsynsförordningen, 
 inbegripet Europeiska centralbanken när det gäller de 
 särskilda uppgifter som den tilldelas genom rådets förordning 
-(EU) nr
-
-1024/2013 av den 15 oktober 2013 om tilldelning av särskilda 
-uppgifter till Europeiska centralbanken i fråga om politiken 
-för tillsyn över kreditinstitut, i den ursprungliga 
+(EU) nr 1024/2013 av den 15 oktober 2013 om tilldelning av 
+särskilda uppgifter till Europeiska centralbanken i fråga om 
+politiken för tillsyn över kreditinstitut, i den ursprungliga 
 lydelsen,
 
 berörd myndighet: i Sverige Finansinspektionen och i fråga om 
@@ -276,9 +274,9 @@ finansieringsarrangemang: ett arrangemang för finansiering av
 kostnader för resolution som upprättats av ett land inom EES 
 enligt artikel 100 i krishanteringsdirektivet,
 
-förordningen om resolutionsavgifter: Europeiska kommissionens 
-delegerade förordning (EU) 2015/63 om komplettering av 
-Europaparlamentets och rådets direktiv 2014/59 av den 21 
+förordningen om resolutionsavgifter: kommissionens delegerade 
+förordning (EU) 2015/63 om komplettering av 
+Europaparlamentets och rådets direktiv 2014/59/EU av den 21 
 oktober 2014 avseende förhandsbidrag till 
 finansieringsarrangemang för resolution,
 
@@ -301,14 +299,12 @@ kapitalbas: detsamma som avses i artikel 72 i
 tillsynsförordningen,
 
 kapitaltäckningsdirektivet: Europaparlamentets och rådets 
-direktiv
-
-2013/36/EU av den 26 juni 2013 om behörighet att utöva 
-verksamhet i kreditinstitut och om tillsyn av kreditinstitut 
-och värdepappersföretag, om ändring av direktiv 2002/87/EG 
-och om upphävande av direktiv 2006/48/EG och 2006/49/EG, i 
-lydelsen enligt Europaparlamentets och rådets direktiv
-2014/59/EU,
+direktiv 2013/36/EU av den 26 juni 2013 om behörighet att 
+utöva verksamhet i kreditinstitut och om tillsyn av 
+kreditinstitut och värdepappersföretag, om ändring av 
+direktiv 2002/87/EG och om upphävande av direktiv 2006/48/EG 
+och 2006/49/EG, i lydelsen enligt Europaparlamentets och 
+rådets direktiv 2014/59/EU,
 
 koncern: ett moderföretag och dess dotterföretag,
 
@@ -322,8 +318,8 @@ krisavvärjande åtgärd:
 
 a) en åtgärd för att undanröja väsentliga brister eller 
 väsentliga hinder för återhämtning enligt 6 a kap. 6 och 7 §§ 
-lagen om bank- och finansieringsrörelse och 8 a kap. 7 och 
-8 §§ lagen (2007:528) om värdepappersmarknaden,
+lagen om bank- och finansieringsrörelse och 8 a kap. 7 och 8 
+§§ lagen (2007:528) om värdepappersmarknaden,
 
 b) en åtgärd för att undanröja eller minska väsentliga hinder 
 för rekonstruktion eller avveckling enligt 3 kap. 3–5 och 
@@ -348,9 +344,9 @@ ram för återhämtning och resolution av kreditinstitut och
 värdepappersföretag och om ändring av rådets direktiv 
 82/891/EEG och Europaparlamentets och rådets direktiv 
 2001/24/EG, 2002/47/EG, 2004/25/EG, 2005/56/EG, 2007/36/EG, 
-2011/35/EU, 2012/30/EU och 2013/36/EU samt 
-Europaparlamentets och rådets förordningar (EU) nr 
-1093/2010 och (EU) nr 648/2012, i den ursprungliga lydelsen,
+2011/35/EU, 2012/30/EU och 2013/36/EU samt Europaparlamentets 
+och rådets förordningar (EU) nr 1093/2010 och (EU) nr 
+648/2012, i den ursprungliga lydelsen,
 
 kritisk verksamhet: en tjänst eller en transaktion som, om 
 den upphörde, sannolikt skulle leda till en allvarlig 
@@ -358,10 +354,10 @@ störning i det finansiella systemet,
 
 kvalificerad insättning: en insättning enligt lagen om 
 insättningsgaranti som inte är undantagen enligt 4 b eller 
-5 § i den lagen,
+5 § den lagen,
 
 kärnprimärkapitalinstrument: kapitalinstrument som uppfyller 
-villkoren i artiklarna 28.1–28.4, 29.1–29.5 eller 31.1 i 
+villkoren i artikel 28.1–28.4, 29.1–29.5 eller 31.1 i 
 tillsynsförordningen,
 
 moderföretag: ett moderföretag enligt artikel 4.1.15 a i 
@@ -398,8 +394,8 @@ om ändamål och förväntat resultat,
 resolutionskollegium: ett resolutionskollegium enligt artikel 
 88 i krishanteringsdirektivet,
 
-resolutionsåtgärd: någon av de åtgärder som anges i 12 kap. 
-1 §,
+resolutionsåtgärd: någon av de åtgärder som anges i 12 kap. 1 
+§,
 
 samordnande berörd myndighet: den berörda myndigheten i samma 
 land inom EES som den samordnande tillsynsmyndigheten,
@@ -407,12 +403,11 @@ land inom EES som den samordnande tillsynsmyndigheten,
 samordnande resolutionsmyndighet: resolutionsmyndigheten i 
 samma land inom EES som den samordnande 
 tillsynsmyndigheten,
-
-samordnande tillsynsmyndighet: en behörig myndighet som 
-ansvarar för att utöva gruppbaserad tillsyn av moderinstitut 
-inom EES och av institut som kontrolleras av finansiella 
-moderholdingföretag inom EES eller blandade finansiella 
-moderholdingföretag inom EES,
+samordnande tillsynsmyndighet: en 
+behörig myndighet som ansvarar för att utöva gruppbaserad 
+tillsyn av moderinstitut inom EES och av institut som 
+kontrolleras av finansiella moderholdingföretag inom EES 
+eller blandade finansiella moderholdingföretag inom EES,
 
 supplementärkapitalinstrument: kapitalinstrument och 
 efterställda lån som uppfyller villkoren i artikel 63 i 
@@ -447,7 +442,7 @@ stycket 8 den lagen, och
 
 övriga primärkapitalinstrument: kapitalinstrument som 
 uppfyller villkoren i artikel 52.1 i tillsynsförordningen.
-Lag (2017:706).
+Lag (2018:2021).
 
 2 § En kvalificerad skuld är en skuld som inte räknas som ett 
 primärkapitalinstrument eller ett 
@@ -3345,29 +3340,7 @@ en värdering som inte underskattar bolagets kapitalbehov.
 
 Ordningsföljden 
 
-15 § /Upphör att gälla U:2019-01-01/
-För att skuldnedskrivning eller konvertering ska ske med 
-totalbeloppet enligt 13 §, ska Riksgäldskontoret vidta 
-följande åtgärder:
-
-1. Först ska någon av de åtgärder som anges i 16 kap. vidtas 
-beträffande aktier eller andelar i företaget i resolution.
-
-2. Därefter ska de relevanta kapitalinstrumenten skrivas ned 
-eller konverteras till aktier eller andra 
-äganderättsinstrument i följande ordning:
-
-a) övriga primärkapitalinstrument, 
-
-b) supplementärkapitalinstrument.
-
-3. Om åtgärderna i 1 och 2 inte är tillräckliga, ska de 
-kvalificerade skulderna skrivas ned eller konverteras till 
-aktier eller andra äganderättsinstrument enligt 
-förmånsrättsordningen.
-
-15 § /Träder i kraft I:2018-12-29/
-För att skuldnedskrivning eller konvertering ska ske 
+15 § För att skuldnedskrivning eller konvertering ska ske 
 med totalbeloppet enligt 13 §, ska Riksgäldskontoret vidta 
 följande åtgärder:
 
@@ -4220,37 +4193,7 @@ kapitel.
 
 Resolutionsavgift
 
-13 § /Upphör att gälla U:2019-01-01/
-Avgiftsskyldiga ska betala årliga resolutionsavgifter. 
-De sammanlagda resolutionsavgifterna för ett år ska uppgå 
-till 0,125 procent av det totala underlag för samtliga 
-avgiftsskyldiga som beräknas enligt 14 § 
-(avgiftsunderlaget).
-
-Om inte annat följer av tredje stycket fastställs den 
-resolutionsavgift som en avgiftsskyldig ska betala i enlighet 
-med förordningen om resolutionsavgifter. 
-
-Det som i artiklarna 4.1, 6–9, 12.1, 14.2, 14.3, 14.6 och 
-17.2 i förordningen om resolutionsavgifter anges om metoden 
-för riskjustering av resolutionsavgift och om 
-uppgiftsskyldighet, ska inte tillämpas för EES-filialer och 
-värdepappersbolag som omfattas av definitionen i artikel 96.1 
-a eller b i tillsynsförordningen eller som bedriver 
-verksamhet nr 8 i avsnitt A i bilaga I till 
-Europaparlamentets och rådets direktiv 2004/39/EG, men som 
-inte bedriver verksamheterna nr 3 eller 6 i samma avsnitt i 
-den bilagan. För en sådan avgiftsskyldig ska riskjustering av 
-resolutionsavgift ske i enlighet med de kriterier som anges i 
-artikel 103.7 i krishanteringsdirektivet och föreskrifter som 
-har meddelats med stöd av 29 kap. 1 § 8.
-
-Resolutionsavgift ska betalas så länge som behållningen i 
-resolutionsreserven vid utgången av det år avgiften avser 
-understiger tre procent av de garanterade insättningarna.
-Lag (2017:1310).
-
-13 § /Träder i kraft I:2019-01-01/
+13 § /Upphör att gälla U:2020-01-01
 Avgiftsskyldiga ska betala årliga resolutionsavgifter. 
 De sammanlagda resolutionsavgifterna för ett år ska uppgå 
 till 0,09 procent av det totala underlag för samtliga 
