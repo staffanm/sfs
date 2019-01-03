@@ -526,37 +526,6 @@ Lantmäteriet
 Lantmäteriets
 författningssamling             LMFS
 
-/Upphör att gälla U:2019-01-01/
-Livsmedelsverket
-
-Livsmedelsverkets               LIVSFS
-författningssamling
-
-Lotteriinspektionen
-
-Lotteriinspektionens            LIFS
-författningssamling
-
-Migrationsverket
-
-Migrationsverkets               MIGRFS
-författningssamling
-
-/Träder i kraft I:2019-01-01/
-Livsmedelsverket
-
-Livsmedelsverkets               LIVSFS
-författningssamling
-
-Migrationsverket
-
-Migrationsverkets               MIGRFS
-författningssamling
-
-Myndigheten för press, 
-radio och tv	
-
-/Träder i kraft I:2019-01-02/
 Livsmedelsverket
 
 Livsmedelsverkets               LIVSFS
@@ -671,33 +640,6 @@ Skogsstyrelsen
 Skogsstyrelsens                 SKSFS
 författningssamling
 
-/Upphör att gälla U:2019-01-01/
-Socialstyrelsen
-
-Gemensamma
-författningssamlingen
-avseende hälso- och
-sjukvård, socialtjänst,
-läkemedel, folkhälsa m.m.       HSLF-FS         Utnyttjas av
-                                                E-hälsomyndigheten,
-                                                Folkhälsomyndigheten,
-                                                Inspektionen för vård
-                                                och omsorg,
-                                                Läkemedelsverket,
-						Myndigheten för 
-						familjerätt och 
-						föräldraskapsstöd,
-                                                Rättsmedicinalverket,
-                                                Socialstyrelsen och
-                                                Tandvårds- och
-                                                läkemedelsförmånsverket
-
-Statens energimyndighet
-
-Statens energimyndighets
-författningssamling  		STEMFS
-
-/Träder i kraft I:2019-01-01/
 Socialstyrelsen
 
 Gemensamma
@@ -838,14 +780,14 @@ författningssamling
 
 Vetenskapsrådet
 
-Vetenskapsrådets                VRFS
-författningssamling
+Vetenskapsrådets                VRFS		Utnyttjas också av 
+författningssamling				Etikprövningsmyndigheten
 
 Åklagarmyndigheten
 
 Åklagarmyndighetens             ÅFS
 författningssamling
-Förordning (2018:1931).
+Förordning (2018:1979).
 
 Bilaga 2
 
