@@ -280,27 +280,27 @@ säkra ledningssystem särskilt beaktas.
 20 § Till stöd för arbetet med samhällets 
 informationssäkerhet ska en myndighet till Myndigheten för 
 samhällsskydd och beredskap skyndsamt rapportera 
-it-incidenter som inträffat i myndighetens informationssystem 
-och som allvarligt kan påverka säkerheten i den 
-informationshantering som myndigheten ansvarar för eller i 
-tjänster som myndigheten tillhandahåller åt en annan 
-organisation. 
+it-incidenter som inträffat i den rapporterande myndighetens 
+informationssystem och som allvarligt kan påverka säkerheten 
+i den informationshantering som myndigheten ansvarar för, 
+eller som inträffat i tjänster som myndigheten 
+tillhandahåller åt en annan organisation. 
 
 En myndighet som tillhandahåller tjänster åt en annan 
 organisation ska i samband med rapportering enligt första 
 stycket informera och vid behov samråda med den eller de 
-uppdragsgivare som berörs av incidenten.
+uppdragsgivare som berörs av incidenten. 
 
 Rapporteringsskyldigheten omfattar inte sådana incidenter som 
-ska rapporteras enligt 10 a § säkerhetsskyddsförordningen 
-(1996:633).
+ska anmälas enligt 2 kap. 10 § första stycket 2 
+säkerhetsskyddsförordningen (2018:658). 
 
- Om det kan antas att en incident som rapporterats till 
+Om det kan antas att en incident som rapporterats till 
 Myndigheten för samhällsskydd och beredskap enligt första 
 stycket har sin grund i en brottslig gärning, ska Myndigheten 
 för samhällsskydd och beredskap skyndsamt uppmana den 
 rapporterande myndigheten att anmäla incidenten till 
-polisen.
+polisen. Förordning (2018:668).
 
 Verkställighetsföreskrifter
 
