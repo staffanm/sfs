@@ -171,9 +171,29 @@ Laddplats		En plats som enligt en lokal
 			parkering och en tilläggstavla för 
 			laddplats
 
+/Upphör att gälla U:2019-05-01/
 Lastlängd		Avståndet från lastutrymmets främsta 
 			yttersta punkt till dess bakersta 
 			yttersta punkt
+
+Lämplighetsbevis	Ett bevis om att ett fordon har 
+			godkänts vid lämplighetsbesiktning
+	
+/Träder i kraft I:2019-05-01/
+Lastlängd		Avståndet från lastutrymmets främsta 
+			yttersta punkt till dess bakersta 
+			yttersta punkt
+
+Ledbuss			En buss som består av två eller flera 
+			fasta sektioner som är kopplade till 
+			varandra med en eller flera ledade 
+			sektioner där passagerarutrymmena 
+			i de fasta sektionerna står i 
+			förbindelse med varandra. Genom den 
+			ledade sektionen eller de ledade 
+			sektionerna kan passagerarna 
+			förflytta sig fritt mellan de fasta 
+			sektionerna.
 
 Lämplighetsbevis	Ett bevis om att ett fordon har 
 			godkänts vid lämplighetsbesiktning
@@ -315,7 +335,7 @@ fordonstillverkare	En fordonstillverkare som innehar ett
 			eller vägmärke. Ett övergångsställe är bevakat 
 			om trafiken regleras med trafiksignaler eller 
 			av en polisman och i annat fall obevakat
-Förordning (2018:1560).
+Förordning (2019:121).
 
 3 § Transportstyrelsen beslutar i frågor som avses i 3 § lagen
 (2001:559) om vägtrafikdefinitioner. Förordning (2008:1137).
