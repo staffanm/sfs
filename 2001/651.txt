@@ -88,6 +88,7 @@ EG-motorfordon		Ett fordon som är avsett att användas på
 			skogsbrukstraktorer, mopeder, motorcyklar 
 			och motorredskap
 
+/Upphör att gälla U:2019-07-01/
 Färdled			En sådan led eller plats i terrängen som 
 			allmänt används för samfärdsel men inte är 
 			en väg
@@ -96,6 +97,21 @@ Grundhandling		En handling som är avsedd för
 			färdigställande av körkort, förarbevis för 
 			moped klass II, förarbevis för snöskoter 
 			eller förarbevis för terränghjuling
+
+Gågata			En väg eller en vägsträcka som enligt en 
+			lokal trafikföreskrift ska vara gågata och 
+			som är utmärkt med vägmärke för gågata
+
+/Träder i kraft I:2019-07-01/
+Färdled			En sådan led eller plats i terrängen som 
+			allmänt används för samfärdsel men inte 
+			är en väg
+
+Grundhandling		En handling som är avsedd för 
+			färdigställande av körkort, förarbevis 
+			för moped klass II, förarbevis för 
+			snöskoter, förarbevis för terränghjuling 
+			eller taxiförarlegitimation
 
 Gågata			En väg eller en vägsträcka som enligt en 
 			lokal trafikföreskrift ska vara gågata och 
@@ -171,15 +187,6 @@ Laddplats		En plats som enligt en lokal
 			parkering och en tilläggstavla för 
 			laddplats
 
-/Upphör att gälla U:2019-05-01/
-Lastlängd		Avståndet från lastutrymmets främsta 
-			yttersta punkt till dess bakersta 
-			yttersta punkt
-
-Lämplighetsbevis	Ett bevis om att ett fordon har 
-			godkänts vid lämplighetsbesiktning
-	
-/Träder i kraft I:2019-05-01/
 Lastlängd		Avståndet från lastutrymmets främsta 
 			yttersta punkt till dess bakersta 
 			yttersta punkt
@@ -233,6 +240,7 @@ Registrerad importör	En importör som har registrerats i
 Registrerat fordon	Ett fordon som är upptaget i 
 			vägtrafikregistret
 
+/Upphör att gälla U:2019-07-01/
 Registreringsnummer	Det nummer under vilket ett fordon är 
 			registrerat i vägtrafikregistret
 
@@ -244,6 +252,25 @@ Registreringsskylt	En av Transportstyrelsen tillhandahållen
 			1. upptar fordonets registreringnummer,
 
 			2. är avsedd för beskickningsfordon, eller
+
+			3. utgör en personlig fordonsskylt
+
+Retardationsfält	Ett sådant körfält som är avsett endast 
+			för avfart
+	
+/Träder i kraft I:2019-07-01/
+Registreringsnummer	Det nummer under vilket ett fordon är 
+			registrerat i vägtrafikregistret
+
+Registreringsskylt	En av Transportstyrelsen tillhandahållen 
+			skylt, som i enlighet med bestämmelserna 
+			i förordningen (2019:383) om fordons 
+			registrering och användning
+
+			1. upptar fordonets registreringsnummer,
+
+			2. är avsedd för beskickningsfordon, 
+			eller
 
 			3. utgör en personlig fordonsskylt
 
@@ -335,7 +362,7 @@ fordonstillverkare	En fordonstillverkare som innehar ett
 			eller vägmärke. Ett övergångsställe är bevakat 
 			om trafiken regleras med trafiksignaler eller 
 			av en polisman och i annat fall obevakat
-Förordning (2019:121).
+Förordning (2019:390).
 
 3 § Transportstyrelsen beslutar i frågor som avses i 3 § lagen
 (2001:559) om vägtrafikdefinitioner. Förordning (2008:1137).
