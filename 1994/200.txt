@@ -272,15 +272,15 @@ om faktura inte har utfärdats inom den tid som anges i 11 kap.
 3 a § första stycket, inträder skattskyldigheten enligt 3 §.
 Lag (2012:342).
 
-3 b § När omsättningen avser en personbil eller motorcykel som
-vid leveransen är tillfälligt registrerad enligt 23 § första
-stycket 1 lagen (2001:558) om vägtrafikregister och fordonet
-levereras till en fysisk person, som är bosatt eller
-stadigvarande vistas i ett annat land än ett EU-land och som
-avser att föra fordonet till en plats utanför EU, inträder
-skyldigheten att betala skatt vid utgången av den sjätte
-månaden efter den månad då fordonet levererades.
-Lag (2011:283).
+3 b § När omsättningen avser en personbil eller motorcykel som 
+vid leveransen är tillfälligt registrerad enligt 17 § första 
+stycket 1 lagen (2019:370) om fordons registrering och 
+användning och fordonet levereras till en fysisk person, som 
+är bosatt eller stadigvarande vistas i ett annat land än ett 
+EU-land och som avser att föra fordonet till en plats utanför 
+EU, inträder skyldigheten att betala skatt vid utgången av den 
+sjätte månaden efter den månad då fordonet levererades.
+Lag (2019:373).
 
 4 § I fråga om upplåtelse av avverkningsrätt till skog i de
 fall som avses i 21 kap. 2 § inkomstskattelagen (1999:1229)
@@ -2057,8 +2057,8 @@ anses som en omsättning utomlands, om
 
 1. säljaren levererar varan till en plats utanför EU,
 
-2. direkt utförsel av varan till en plats utanför EU 
-ombesörjs av en speditör eller fraktförare,
+2. direkt utförsel av varan till en plats utanför EU ombesörjs 
+av en speditör eller fraktförare,
 
 3. en utländsk beskattningsbar person förvärvar varan för sin 
 verksamhet i utlandet och hämtar den för direkt utförsel till 
@@ -2068,8 +2068,8 @@ en plats utanför EU,
 bruk ombord på ett sådant luftfartyg eller för sådan 
 omsättning som anges i 1 § tredje stycket,
 
-4 a. varan levereras till ett luftfartyg i de fall som avses 
-i 2 b § för försäljning ombord och avser sådana livsmedel som 
+4 a. varan levereras till ett luftfartyg i de fall som avses i 
+2 b § för försäljning ombord och avser sådana livsmedel som 
 anges i artikel 2 i Europaparlamentets och rådets förordning 
 (EG) nr 178/2002 av den 28 januari 2002 om allmänna principer 
 och krav för livsmedelslagstiftning, om inrättande av 
@@ -2089,35 +2089,36 @@ sådan butik,
 första stycket lagen om exportbutiker,
 
 7. varan är en personbil eller motorcykel som vid leveransen 
-är tillfälligt registerad enligt 23 § första stycket 1 lagen 
-(2001:558) om vägtrafikregister, under förutsättning att
+är tillfälligt registrerad enligt 17 § första stycket 1 lagen 
+(2019:370) om fordons registrering och användning, under 
+förutsättning att
 
 a) fordonet levereras till en fysisk person som är bosatt 
-eller stadigvarande visats i ett annat land än ett EU-land, 
+eller stadigvarande vistas i ett annat land än ett EU-land, 
 och
 
 b) säljaren kan visa att fordonet varaktigt förts till en 
-plats utanför EU före utgången av den sjätte månaden efter 
-den månad då fordonet levererades, eller
+plats utanför EU före utgången av den sjätte månaden efter den 
+månad då fordonet levererades, eller
 
 8. varan levereras här i landet till en fysisk person som är 
-bosatt eller stadigvarande vistas i ett annat land än ett 
-EU-land, under förutsättning att 
+bosatt eller stadigvarande vistas i ett annat land än ett EU-
+land, under förutsättning att
 
 a) ersättningen utgör minst 200 kronor, och
 
 b) säljaren kan visa att köparen har medfört varan vid resa 
-till en plats utanför EU före utgången av tredje månaden 
-efter den månad under vilken leveransen av varan gjordes. 
+till en plats utanför EU före utgången av tredje månaden efter 
+den månad under vilken leveransen av varan gjordes.
 
 Vid leverans av en vara inom landet till en fysisk person som 
 är bosatt i Norge eller på Åland anses omsättningen som en 
 omsättning utomlands endast om
 
 1. leveransen avser en vara eller en grupp av varor som 
-normalt utgör en helhet och ersättningen utgör minst 1 000 
-kronor efter avdrag för skatt enligt denna lag som hänför sig 
-till ersättningen, och
+normalt utgör en helhet och ersättningen utgör minst 
+1 000 kronor efter avdrag för skatt enligt denna lag som 
+hänför sig till ersättningen, och
 
 2. säljaren kan visa att köparen i nära anslutning till 
 leveransen fört in varan eller varorna till Norge eller till 
@@ -2126,9 +2127,9 @@ betalat skatt motsvarande skatt enligt denna lag.
 
 En leverans som avses i första stycket 4 av 
 punktskattepliktiga varor ska anses som en omsättning 
-utomlands endast om leveransen uppfyller de villkor som 
-gäller för proviantering i 7–9 §§ lagen (1999:446) om 
-proviantering av fartyg och luftfartyg. Lag (2017:1196).
+utomlands endast om leveransen uppfyller de villkor som gäller 
+för proviantering i 7-9 §§ lagen (1999:446) om proviantering 
+av fartyg och luftfartyg. Lag (2019:373).
 
 Omsättning inom landet av tjänster
 
@@ -2641,117 +2642,7 @@ skatteförfarandelagen (2011:1244). Lag (2012:342).
 
 Skattesatsen
 
-1 § /Upphör att gälla U:2019-07-01/
-Skatt enligt denna lag tas ut med 25 procent av 
-beskattningsunderlaget om inte annat följer av andra eller 
-tredje stycket. 
-
-Skatten tas ut med 12 procent av beskattningsunderlaget för 
-
-1. rumsuthyrning i hotellrörelse eller liknande verksamhet 
-samt upplåtelse av campingplatser och motsvarande i 
-campingverksamhet, 
-
-2. omsättning av sådana konstverk som avses i 9 a kap. 5 §, 
-och som ägs av upphovsmannen eller dennes dödsbo,
-
-3. import av sådana konstverk, samlarföremål och antikviteter 
-som avses i 9 a kap. 5–7 §§,
-
-4. omsättning, unionsinternt förvärv och import av sådana 
-livsmedel som avses i artikel 2 i Europaparlamentets och 
-rådets förordning (EG) nr 178/2002 av den 28 januari 2002 om 
-allmänna principer och krav för livsmedelslagstiftning, om 
-inrättande av Europeiska myndigheten för livsmedelssäkerhet 
-och om förfaranden i frågor som gäller livsmedelssäkerhet, 
-med undantag för
-
-a) annat vatten som avses i artikel 6 i rådets direktiv 
-98/83/EG av den 3 november 1998 om kvaliteten på 
-dricksvatten, ändrat genom Europaparlamentets och rådets 
-förordning (EG) nr 1882/2003, än sådant vatten som tappas på 
-flaskor eller i behållare som är avsedda för försäljning, 
-och
-
-b) spritdrycker, vin och starköl, 
-
-5. omsättning av restaurang- och cateringtjänster, med 
-undantag för den del av tjänsten som avser spritdrycker, vin 
-och starköl, och 
-
-6. reparationer av cyklar med tramp- eller vevanordning, 
-skor, lädervaror, kläder och hushållslinne.
-
-Skatten tas ut med 6 procent av beskattningsunderlaget för
-
-1. omsättning, unionsinternt förvärv och import av följande 
-varor, om inte annat följer av 3 kap. 13 och 14 §§, under 
-förutsättning att varorna inte helt eller huvudsakligen är 
-ägnade åt reklam:
-
-– böcker, broschyrer, häften och liknande alster, även i form 
-av enstaka blad,
-
-– tidningar och tidskrifter,
-
-– bilderböcker, ritböcker och målarböcker för barn,
-
-– musiknoter, samt
-
-– kartor, inbegripet atlaser, väggkartor och topografiska 
-kartor,
-
-2. omsättning, unionsinternt förvärv och import av program 
-och kataloger för verksamhet som avses i 5, 6, 7 eller 10 
-samt annan omsättning än för egen verksamhet, unionsinternt 
-förvärv och import av program och kataloger för verksamhet 
-som avses i 3 kap. 18 §, allt under förutsättning att 
-programmen och katalogerna inte helt eller huvudsakligen är 
-ägnade åt reklam,
-
-3. omsättning av radiotidningar samt omsättning, 
-unionsinternt förvärv och import av kassettidningar, om inte 
-annat följer av 3 kap. 17 §, och av kassetter eller något 
-annat tekniskt medium som återger en uppläsning av innehållet 
-i en vara som omfattas av 1,
-
-4. omsättning, unionsinternt förvärv och import av en vara 
-som genom teckenspråk, punktskrift eller annan sådan särskild 
-metod gör skrift eller annan information tillgänglig särskilt 
-för läshandikappade, om inte annat följer av 3 kap. 4 §,
-
-5. tillträde till konserter, cirkus-, teater-, opera- eller 
-balettföreställningar eller andra jämförliga 
-föreställningar,
-
-6. tjänster som avses i 3 kap. 11 § 2 och 4 om verksamheten 
-inte bedrivs av och inte heller fortlöpande i mer än ringa 
-omfattning understöds av det allmänna,
-
-7. tillträde till och förevisning av djurparker, förevisning 
-av naturområden utanför tätort samt av nationalparker, 
-naturreservat, nationalstadsparker och Natura 2000-områden,
-
-8. upplåtelse eller överlåtelse av rättigheter som omfattas 
-av 1, 4 eller 5 § lagen (1960:729) om upphovsrätt till 
-litterära och konstnärliga verk, dock inte när det är fråga 
-om fotografier, reklamalster, system och program för 
-automatisk databehandling eller film, videogram eller annan 
-jämförlig upptagning som avser information,
-
-9. upplåtelse eller överlåtelse av rättighet till ljud- eller 
-bildupptagning av en utövande konstnärs framförande av ett 
-litterärt eller konstnärligt verk,
-
-10. omsättning av tjänster inom idrottsområdet som anges i 3 
-kap. 11 a § första stycket och som inte undantas från 
-skatteplikt enligt andra stycket samma paragraf, och
-
-11. personbefordran utom sådan befordran där resemomentet är 
-av underordnad betydelse. Lag (2017:1205).
-
-1 § /Träder i kraft I:2019-07-01/
-Skatt enligt denna lag tas ut med 25 procent av 
+1 § Skatt enligt denna lag tas ut med 25 procent av 
 beskattningsunderlaget om inte annat följer av andra eller 
 tredje stycket.
 
@@ -5081,12 +4972,7 @@ avses i 6 a kap. 4 §. Lag (2013:368).
 
 Elektronisk faktura
 
-6 § /Upphör att gälla U:2019-04-01/
-Elektronisk faktura enligt 1 kap. 17 a § får utfärdas
-endast om mottagaren godkänner det. Lag (2012:342).
-
-6 § /Träder i kraft I:2019-04-01/
-Elektronisk faktura enligt 1 kap. 17 a § får utfärdas 
+6 § Elektronisk faktura enligt 1 kap. 17 a § får utfärdas 
 endast om mottagaren godkänner det.
 
 I 5 § lagen (2018:1277) om elektroniska fakturor till följd 
