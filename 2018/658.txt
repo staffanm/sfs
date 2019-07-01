@@ -106,21 +106,21 @@ upphandling som innebär krav på säkerhetsskyddsavtal enligt
 
 1. leverantören kan få tillgång till eller möjlighet att 
 förvara säkerhetsskyddsklassificerade uppgifter i 
-säkerhetsskyddsklassen hemlig eller högre utanför 
-myndighetens lokaler, eller
+säkerhetsskyddsklassen hemlig eller högre utanför myndighetens 
+lokaler, eller
 
 2. leverantören kan få tillgång till säkerhetskänsliga 
 informationssystem utanför myndighetens lokaler och obehörig 
-åtkomst till systemen kan medföra allvarlig skada för 
-Sveriges säkerhet. 
+åtkomst till systemen kan medföra allvarlig skada för Sveriges 
+säkerhet.
 
 En statlig myndighet som avser att genomföra en sådan 
 upphandling ska innan förfarandet inleds 
 
-1. genom en särskild säkerhetsbedömning identifiera och 
-dokumentera vilka säkerhetsskyddsklassificerade uppgifter 
-eller säkerhetskänsliga informationssystem som leverantören 
-kan få del av och som kräver säkerhetsskydd, och 
+1. genom en särskild säkerhetsskyddsbedömning identifiera och 
+dokumentera vilka säkerhetsskyddsklassificerade uppgifter eller 
+säkerhetskänsliga informationssystem som leverantören kan få 
+del av och som kräver säkerhetsskydd, och
 
 2. samråda med den myndighet som enligt 7 kap. 1 § första 
 stycket 1 eller 2 utövar tillsyn över den aktuella 
@@ -128,11 +128,12 @@ verksamheten.
 
 Tillsynsmyndigheten får förelägga myndigheten att vidta 
 åtgärder enligt säkerhetsskyddslagen och de föreskrifter som 
-har meddelats i anslutning till den lagen. Om ett 
-föreläggande inte följs eller om tillsynsmyndigheten bedömer 
-att säkerhetsskyddslagens krav inte kan tillgodoses trots att 
+har meddelats i anslutning till den lagen. Om ett föreläggande 
+inte följs eller om tillsynsmyndigheten bedömer att 
+säkerhetsskyddslagens krav inte kan tillgodoses trots att 
 ytterligare åtgärder vidtas, får tillsynsmyndigheten besluta 
 att myndigheten inte får genomföra upphandlingen.
+Förordning (2019:82).
 
 7 § Den som har ingått ett säkerhetsskyddsavtal enligt 
 2 kap. 6 § säkerhetsskyddslagen (2018:585) ska anmäla det 
@@ -141,13 +142,13 @@ ett säkerhetsskyddsavtal upphör att gälla.
 
 Säkerhetsskyddsavtal vid internationellt samarbete
 
-8 § Den nationella industrisäkerhetsmyndigheten får ingå 
-ett säkerhetsskyddsavtal med en enskild verksamhetsutövare, 
-om det är nödvändigt för att verksamhetsutövaren ska kunna 
-delta i ett internationellt samarbete och det behövs för att 
-utfärda säkerhetsintyg enligt 4 kap. 1 § säkerhetsskyddslagen 
-(2018:585). Säkerhetsskyddsavtalet ska anmälas till 
-Säkerhetspolisen.
+8 § Den nationella industrisäkerhetsmyndigheten får ingå ett 
+säkerhetsskyddsavtal med en leverantör, om det är nödvändigt 
+för att leverantören ska kunna delta i ett internationellt 
+samarbete och det behövs för att utfärda säkerhetsintyg enligt 
+4 kap. 1 § säkerhetsskyddslagen (2018:585). Säkerhets-
+skyddsavtalet ska anmälas till Säkerhetspolisen.
+Förordning (2019:82).
 
 Överlåtelse av säkerhetskänslig verksamhet
 
@@ -204,11 +205,11 @@ informationssystem
 
 1 § Innan ett informationssystem som har betydelse för 
 säkerhetskänslig verksamhet tas i drift ska 
-verksamhetsutövaren genom en särskild säkerhetsbedömning ta 
-ställning till vilka säkerhetskrav i systemet som är 
+verksamhetsutövaren genom en särskild säkerhetsskyddsbedömning 
+ta ställning till vilka säkerhetskrav i systemet som är 
 motiverade och se till att säkerhetsskyddet utformas så att 
-dessa krav tillgodoses. Säkerhetsbedömningen ska 
-dokumenteras.
+dessa krav tillgodoses. Säkerhetsskyddsbedömningen ska 
+dokumenteras. Förordning (2019:82).
 
 2 § Innan ett informationssystem som kan förutses komma 
 att behandla säkerhetsskyddsklassificerade uppgifter i 
@@ -311,18 +312,19 @@ inventering endast för allmänna handlingar.
 Skydd för säkerhetsskyddsklassificerade uppgifter som lämnas 
 till utländska aktörer
 
-9 § Säkerhetsskyddsklassificerade uppgifter som lämnas 
-till en utländsk myndighet eller en mellanfolklig 
-organisation ska omfattas av ett internationellt 
-säkerhetsskyddsåtagande hos den mottagande myndigheten eller 
-organisationen, om det inte finns särskilda skäl för att 
-sådana uppgifter ändå kan lämnas. 
+9 § Säkerhetsskyddsklassificerade uppgifter som lämnas till en 
+utländsk myndighet eller en mellanfolklig organisation ska 
+omfattas av ett internationellt säkerhetsskyddsåtagande som 
+Sverige har ingått med den andra staten eller organisationen, 
+om det inte finns särskilda skäl för att sådana uppgifter ändå 
+kan lämnas.
 
 Säkerhetsskyddsklassificerade uppgifter får inte lämnas till 
-en utländsk leverantör om inte Sverige har ingått en 
-överenskommelse om säkerhetsskydd med den andra staten och 
-leverantören har godkänts genom en kontroll enligt den andra 
-statens säkerhetsskyddslagstiftning.
+en utländsk leverantör om inte Sverige har ingått ett 
+internationellt säkerhetsskyddsåtagande med den andra staten 
+och leverantören har godkänts genom en kontroll enligt den 
+andra statens säkerhetsskyddslagstiftning. 
+Förordning (2019:82).
 
 10 § För försändelser till och från utlandet med 
 säkerhetsskyddsklassificerade handlingar och som inte 
@@ -616,38 +618,39 @@ registerkontroll och särskild personutredning gäller vid
 
 Tillsyn
 
-1 § Tillsyn över säkerhetsskyddet ska utövas av 
+1 § Tillsyn över säkerhetsskyddet ska utövas av
 
 1. Försvarsmakten när det gäller Fortifikationsverket och 
 Försvarshögskolan samt de myndigheter som hör till 
-Försvarsdepartementet, 
+Försvarsdepartementet,
 
 2. Säkerhetspolisen när det gäller övriga myndigheter, utom 
-Justitiekanslern, samt kommuner och landsting, 
+Justitiekanslern, samt kommuner och landsting,
 
 3. Affärsverket svenska kraftnät när det gäller enskilda 
-verksamhetsutövare som bedriver elförsörjningsverksamhet, 
+verksamhetsutövare som bedriver elförsörjningsverksamhet,
 
 4. Transportstyrelsen när det gäller enskilda 
 verksamhetsutövare som bedriver flygtrafiktjänst för civil 
 luftfart, flygtrafikledningstjänst för militär luftfart och 
-verksamhet som i övrigt är av betydelse för luftfartsskydd, 
-hamnskydd och sjöfartsskydd, 
+verksamhet som är av betydelse inom luftfartsskydd, sjöfarts-
+skydd eller hamnskydd,
 
 5. Post- och telestyrelsen när det gäller enskilda 
 verksamhetsutövare som bedriver verksamhet som avser 
-elektronisk kommunikation och posttjänst, och 
+elektronisk kommunikation och posttjänst, och
 
 6. länsstyrelserna när det gäller enskilda verksamhetsutövare 
 som bedriver andra säkerhetskänsliga verksamheter än sådana 
-som anges i 3–5. 
+som anges i 3-5.
 
 De myndigheter som anges i första stycket får inom sitt 
 tillsynsområde utöva tillsyn över säkerhetsskyddet hos 
 leverantörer som omfattas av ett säkerhetsskyddsavtal enligt 
 2 kap. 6 § säkerhetsskyddslagen (2018:585). Sådan tillsyn får 
-också avse enskilda verksamhetsutövare som leverantören har 
+också utövas över underleverantörer som leverantören har 
 anlitat inom ramen för säkerhetsskyddsavtalet.
+Förordning (2019:82).
 
 2 § Säkerhetspolisen och Försvarsmakten får utöva tillsyn 
 inom de ansvarsområden som anges i 1 § första stycket 3–6 och 
@@ -661,15 +664,16 @@ stor betydelse för Sveriges säkerhet.
 
 3 § Om det vid tillsynen över säkerhetsskyddet konstateras 
 allvarliga brister som trots påpekanden inte rättas till, ska 
-Säkerhetspolisen eller Försvarsmakten anmäla förhållandet 
-till regeringen. Det gäller dock inte brister hos sådana 
-enskilda verksamhetsutövare där villkoren för 
-säkerhetsskyddet angetts i ett säkerhetsskyddsavtal. 
+Säkerhetspolisen eller Försvarsmakten anmäla förhållandet till 
+regeringen. Det gäller dock inte brister hos sådana 
+leverantörer där villkoren för säkerhetsskyddet angetts i ett 
+säkerhetsskyddsavtal.
 
 Om sådana brister i säkerhetsskyddet som anges i första 
 stycket konstaterats av någon av de myndigheter som enligt 
-7 kap. 1 § första stycket 3–6 utövar tillsyn, ska myndigheten 
+7 kap. 1 § första stycket 3-6 utövar tillsyn, ska myndigheten 
 informera Säkerhetspolisen och Försvarsmakten.
+Förordning (2019:82).
 
 Rätt att meddela föreskrifter
 
@@ -795,12 +799,10 @@ längst till dess att ett beslut om placering i säkerhetsklass
 meddelas enligt den lagen. Ett sådant beslut ska meddelas 
 senast vid utgången av 2024.
 
-6. Säkerhetsskyddsklassificerade uppgifter får, trots 
-bestämmelsen i 3 kap. 9 §, lämnas ut till en utländsk 
-myndighet eller mellanfolklig organisation fram till utgången 
-av 2021 utan att omfattas av ett internationellt 
-säkerhetsskyddsåtagande hos den mottagande myndigheten eller 
-organisationen.
+6. Bestämmelsen i 3 kap. 9 § om säkerhetsskyddsklassificerade 
+uppgifter som lämnas till en utländsk myndighet, mellanfolklig 
+organisation eller utländsk leverantör behöver inte tillämpas 
+förrän den 1 januari 2022. Förordning (2019:82).
 
 
 Bilaga
@@ -876,6 +878,8 @@ Kriminalvården
 
 Kronofogdemyndigheten
 
+Kungliga Tekniska högskolan 
+
 Kustbevakningen
 
 Lantmäteriet
@@ -886,7 +890,7 @@ Luftfartsverket
 
 Läkemedelsverket
 
-länsstyrelserna
+Länsstyrelserna
 
 Migrationsverket
 
@@ -894,8 +898,8 @@ Myndigheten för digital förvaltning
 
 Myndigheten för samhällsskydd och beredskap
 
-Myndigheten för tillväxtpolitiska utvärderingar och 
-analyser
+Myndigheten för tillväxtpolitiska utvärderingar och analyser
+
 Naturvårdsverket
 
 Patent- och registreringsverket
@@ -913,6 +917,8 @@ Riksarkivet
 Riksgäldskontoret
 
 Rymdstyrelsen
+
+Rättshjälpsmyndigheten 
 
 Sjöfartsverket
 
@@ -969,3 +975,4 @@ Tullverket
 Valmyndigheten
 
 Åklagarmyndigheten
+Förordning (2019:82).
