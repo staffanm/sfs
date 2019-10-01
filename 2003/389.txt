@@ -1752,29 +1752,32 @@ det är möjligt.
 Lagring och annan behandling av trafikuppgifter m.m. för
 brottsbekämpande ändamål
 
-16 a § Den som bedriver verksamhet som är anmälningspliktig
-enligt 2 kap. 1 § är skyldig att lagra sådana uppgifter som
-avses i 20 § första stycket 1 och 3 som är nödvändiga för att
-spåra och identifiera kommunikationskällan, slutmålet för
-kommunikationen, datum, tidpunkt och varaktighet för
-kommunikationen, typ av kommunikation,kommunikationsutrustning
-samt lokalisering av mobil kommunikationsutrustning vid
-kommunikationens början och slut.
+16 a § Den som bedriver verksamhet som är anmälningspliktig 
+enligt 2 kap. 1 § är skyldig att lagra sådana uppgifter som 
+avses i 20 § första stycket 1 och 3 som är nödvändiga för att 
+spåra och identifiera kommunikationskällan, slutmålet för 
+kommunikationen, datum, tidpunkt och varaktighet för 
+kommunikationen, typ av kommunikation, 
+kommunikationsutrustning samt lokalisering av mobil 
+kommunikationsutrustning vid kommunikationens början och slut.
 
-Skyldigheten att lagra uppgifter enligt första stycket
-omfattar uppgifter som genereras eller behandlas vid
-telefonitjänst, meddelandehantering, internetåtkomst och
-tillhandahållande av kapacitet för att få internetåtkomst
-(anslutningsform). Även vid misslyckad uppringning gäller
-skyldigheten att lagra uppgifter som genereras eller
-behandlas.
+Skyldigheten att lagra uppgifter enligt första stycket 
+omfattar uppgifter som genereras eller behandlas vid 
+telefonitjänst och meddelandehantering via mobil 
+nätanslutningspunkt samt vid internetåtkomst. Även vid en 
+misslyckad uppringning gäller skyldigheten att lagra 
+uppgifter som genereras eller behandlas.
 
-Den som är skyldig att lagra uppgifter enligt denna paragraf
+För telefonitjänst gäller lagringsskyldigheten enligt första 
+stycket inte uppgift om nummer som ett samtal styrts till.
+
+Den som är skyldig att lagra uppgifter enligt denna paragraf 
 får uppdra åt någon annan att utföra lagringen.
 
-Regeringen eller den myndighet som regeringen bestämmer
-meddelar närmare föreskrifter om vilka uppgifter som ska
-lagras enligt denna paragraf. Lag (2012:127).
+Regeringen eller den myndighet som regeringen bestämmer kan 
+med stöd av 8 kap. 7 § regeringsformen meddela närmare 
+föreskrifter om vilka uppgifter som ska lagras enligt denna 
+paragraf. Lag (2019:497).
 
 16 b § Tillsynsmyndigheten får i enskilda fall besluta om
 undantag från skyldigheten att lagra uppgifter enligt 16 a §,
@@ -1791,16 +1794,32 @@ endast för att lämnas ut enligt 22 § första stycket 2, 27 kap.
 uppgifter om elektronisk kommunikation i de brottsbekämpande
 myndigheternas underrättelseverksamhet. Lag (2012:285).
 
-16 d § Uppgifter som avses i 16 a § ska lagras i sex månader
-räknat från den dag kommunikationen avslutades. Vid utgången
-av denna tid ska den lagringsskyldige genast utplåna dem, om
-annat inte följer av andra stycket.
+16 d § Uppgifter som avses i 16 a § ska lagras enligt 
+följande:
 
-Om uppgifter som avses i första stycket begärts utlämnade före
-utgången av den föreskrivna lagringstiden men uppgifterna inte
-har hunnit lämnas ut, ska den lagringsskyldige lagra
-uppgifterna till dess så har skett och därefter genast utplåna
-de lagrade uppgifterna. Lag (2012:127).
+- Uppgifter som genereras eller behandlas vid telefonitjänst 
+och meddelandehantering via mobil nätanslutningspunkt ska 
+lagras i sex månader. Lokaliseringsuppgifter ska dock lagras i 
+endast två månader.
+
+- Uppgifter som genereras eller behandlas vid internetåtkomst 
+ska lagras i tio månader. Om uppgifterna identifierar den 
+utrustning där kommunikationen slutligt avskiljs från den 
+lagringsskyldige till den enskilda abonnenten ska de dock 
+lagras i endast sex månader.
+
+Lagringstiden räknas från den dag kommunikationen avslutades.
+
+När lagringstiden löpt ut ska den lagringsskyldige genast 
+utplåna uppgifterna. Om en begäran om utlämnande har kommit 
+in innan lagringstiden löpt ut, ska den lagringsskyldige dock 
+fortsätta lagra uppgifterna till dess att de lämnats ut. Efter 
+utlämnandet ska uppgifterna genast utplånas.
+
+Regeringen eller den myndighet som regeringen bestämmer kan 
+med stöd av 8 kap. 7 § regeringsformen meddela närmare 
+föreskrifter om lagringstiden enligt första stycket.
+Lag (2019:497).
 
 16 e § Den som är skyldig att lagra uppgifter enligt 16 a §
 har rätt till ersättning för kostnader som uppstår när lagrade
@@ -2121,32 +2140,8 @@ lag, eller enligt de skyldigheter eller villkor eller de
 föreskrifter som har meddelats med stöd av lagen, ska utan
 anmodan tillställas tillsynsmyndigheten. Lag (2014:211).
 
-3 a § /Upphör att gälla U:2019-05-15/
-Tillsynsmyndigheten får meddela de förelägganden och 
+3 a § Tillsynsmyndigheten får meddela de förelägganden och 
 förbud som behövs för fullgörande av de skyldigheter som 
-anges i 
-
-1. Europaparlamentets och rådets förordning (EU) nr 531/2012 
-av den 13 juni 2012 om roaming i allmänna mobilnät i unionen, 
-i lydelsen enligt Europaparlamentets och rådets förordning 
-(EU) nr 2015/2120, och i genomförandeakter enligt samma 
-förordning, och
-
-2. artiklarna 3–5 i Europaparlamentets och rådets förordning 
-(EU) nr 2015/2120 av den 25 november 2015 om åtgärder rörande 
-en öppen internetanslutning och om ändring av direktiv 
-2002/22/EG om samhällsomfattande tjänster och användares 
-rättigheter avseende elektroniska kommunikationsnät och 
-kommunikationstjänster och förordning (EU) nr 531/2012 om 
-roaming i allmänna mobilnät i unionen, i den ursprungliga 
-lydelsen. 
-
-Förelägganden och förbud får förenas med vite.
-Lag (2016:344).
-
-3 a § /Träder i kraft I:2019-05-15/
-Tillsynsmyndigheten får meddela de förelägganden 
-och förbud som behövs för fullgörande av de skyldigheter som 
 anges i
 
 1. Europaparlamentets och rådets förordning (EU) nr 531/2012 
@@ -2155,11 +2150,14 @@ i lydelsen enligt Europaparlamentets och rådets förordning
 (EU) nr 2015/2120, och i genomförandeakter enligt samma 
 förordning, och
 
-2. artiklarna 3–5a i Europaparlamentets och rådets förordning 
+2. artiklarna 3-5a i Europaparlamentets och rådets förordning 
 (EU) 2015/2120 av den 25 november 2015 om åtgärder rörande en 
 öppen internetanslutning och slutkundsavgifter för reglerad 
-kommunikation inom EU och om ändring av direktiv 2002/22/EG 
-och förordning (EU) nr 531/2012. Lag (2019:183).
+kommunikation inom EU och om ändring av direktiv 2002/22/EG och 
+förordning (EU) nr 531/2012.
+
+Förelägganden och förbud får förenas med vite.
+Lag (2019:183).
 
 4 § Finner tillsynsmyndigheten skäl att misstänka att den
 som bedriver verksamhet enligt denna lag inte efterlever
@@ -2322,7 +2320,7 @@ former av tillträde.
 
 Myndigheten ska så snart som möjligt besluta i de frågor som 
 tvisten gäller. Beslutet ska meddelas senast fyra månader, 
-eller om tvisten gäller tilllämpningen av 4 kap. 13 b § 
+eller om tvisten gäller tillämpningen av 4 kap. 13 b § 
 senast två månader, från det att begäran kom in till 
 myndigheten, om längre tid inte är nödvändig med hänsyn till 
 tvistens omfattning eller andra särskilda omständigheter. 
