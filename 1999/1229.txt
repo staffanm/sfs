@@ -211,10 +211,10 @@ bosatta artister m.fl.,
 
 Var det finns definitioner och förklaringar
 
-1 § I detta kapitel finns definitioner av vissa begrepp 
-samt förklaringar till hur vissa termer och uttryck används i 
-denna lag. Det finns definitioner och förklaringar också i 
-andra kapitel. 
+1 § I detta kapitel finns definitioner av vissa begrepp samt 
+förklaringar till hur vissa termer och uttryck används i denna 
+lag. Det finns definitioner och förklaringar också i andra 
+kapitel. 
 
 Bestämmelser om betydelsen av följande begrepp, termer och 
 uttryck samt förklaringar till hur vissa termer och uttryck 
@@ -276,9 +276,11 @@ fåmansföretag i 56 kap. 2, 3 och 5 §§
 
 fåmanshandelsbolag i 56 kap. 4 och 5 §§
 
-företagsledare i 56 kap. 6 §
+företagsledare i 56 kap. 6 § 
 
-förvärvsinkomst i 1 kap. 5 § 
+försäkringsföretag i 4 d § 
+
+förvärvsinkomst i 1 kap. 5 §
 
 handelsbolag i 5 kap., se också 3 §
 
@@ -438,8 +440,10 @@ vinstandelslån i 24 kap. 10 §
 
 ägarlägenhet i 15 §
 
-ägarlägenhetsenhet i 15 §.
-Lag (2018:1206).
+ägarlägenhetsenhet i 15 § 
+
+ömsesidigt försäkringsföretag i 4 e §.
+Lag (2019:787).
 
 Utländska motsvarigheter
 
@@ -497,16 +501,28 @@ finansieringsrörelse. Lag (2004:438).
 
 Ekonomisk förening
 
-4 b § Europakooperativ, europeiska grupperingar för
-territoriellt samarbete (EGTS), konsortier för europeisk
-forskningsinfrastruktur (Eric-konsortier) och
-försäkringsföreningar räknas som ekonomiska föreningar.
-Lag (2014:1389).
+4 b § Europakooperativ, europeiska grupperingar för 
+territoriellt samarbete (EGTS), konsortier för europeisk 
+forskningsinfrastruktur (Eric-konsortier), 
+försäkringsföreningar och tjänstepensionsföreningar räknas som 
+ekonomiska föreningar. Lag (2019:787).
 
 Ideell förening
 
 4 c § Europeiska politiska partier och europeiska politiska 
 stiftelser räknas som ideella föreningar. Lag (2016:1060).
+
+Försäkringsföretag
+
+4 d § Tjänstepensionsföretag enligt lagen (2019:742) om 
+tjänstepensionsföretag räknas som försäkringsföretag.
+Lag (2019:787).
+
+Ömsesidigt försäkringsföretag
+
+4 e § Ömsesidigt tjänstepensionsbolag enligt lagen (2019:742) 
+om tjänstepensionsföretag räknas som ömsesidigt 
+försäkringsföretag. Lag (2019:787).
 
 Svensk koncern
 
@@ -7692,26 +7708,36 @@ Lag (2018:1206).
 
 Avdragsförbud för ränteutgifter på vissa efterställda skulder
 
-9 § Ett företag som omfattas av Europaparlamentets och 
-rådets förordning (EU) nr 575/2013 av den 26 juni 2013 om 
-tillsynskrav för kreditinstitut och värdepappersföretag och 
-om ändring av förordning (EU) nr 648/2012, får inte dra av 
+9 § Ett företag som omfattas av Europaparlamentets och rådets 
+förordning (EU) nr 575/2013 av den 26 juni 2013 om 
+tillsynskrav för kreditinstitut och värdepappersföretag och om 
+ändring av förordning (EU) nr 648/2012, får inte dra av 
 ränteutgifter på efterställda skulder som får ingå i 
 kapitalbasen vid tillämpning av den förordningen.
 
 Ett svenskt försäkringsföretag som omfattas av 7 kap. 
-försäkringsrörelselagen (2010:2043) får inte dra av 
-ränteutgifter på efterställda skulder som får ingå i 
-kapitalbasen vid tillämpning av den lagen. 
+försäkringsrörelselagen (2010:2043) eller av lagen (2019:742) 
+om tjänstepensionsföretag får inte dra av ränteutgifter på 
+efterställda skulder som får ingå i kapitalbasen vid 
+tillämpning av dessa lagar.
 
 Ett utländskt försäkringsföretag som hör hemma i en stat inom 
 Europeiska ekonomiska samarbetsområdet och som omfattas av 
-Europaparlamentets och rådets direktiv 2009/138/EG av den 25 
-november 2009 om upptagande och utövande av försäkrings- och 
-återförsäkringsverksamhet (Solvens II), får inte dra av 
+Europaparlamentets och rådets direktiv 2009/138/EG av den 
+25 november 2009 om upptagande och utövande av försäkrings- 
+och återförsäkringsverksamhet (Solvens II), får inte dra av 
 ränteutgifter på efterställda skulder som får ingå i 
 kapitalbasen vid tillämpning av nationell lagstiftning som 
-genomför det direktivet. Lag (2018:1206).
+genomför det direktivet.
+
+Ett utländskt tjänstepensionsinstitut får inte dra av 
+ränteutgifter på efterställda skulder som får ingå i 
+kapitalbasen vid tillämpning av nationell lagstiftning som 
+genomför Europaparlamentets och rådets direktiv (EU) 2016/2341 
+av den 14 december 2016 om verksamhet i och tillsyn över 
+tjänstepensionsinstitut. Vad som avses med ett utländskt 
+tjänstepensionsinstitut framgår av 39 kap. 13 a §.
+Lag (2019:787).
 
 Avdragsrätt för ränteutgifter på vinstandelslån
 
@@ -9668,7 +9694,6 @@ Om tillgångarna är lagertillgångar hos förvärvaren, anses denne
 bedriva byggnadsrörelse, handel med fastigheter eller
 tomtrörelse.
 
-
 28 kap. Arbetsgivares pensionskostnader
 
 Innehåll
@@ -9804,13 +9829,14 @@ pensionsnivå ändå dras av om den överskjutande pensionen är
 avsedd att ersätta inkomstgrundad ålderspension som avses i
 55 kap. 2 och 3 §§ socialförsäkringsbalken. Lag (2010:1277).
 
-10 § I fråga om fondförsäkringar klass III som avses i 2 kap.
-12 § försäkringsrörelselagen (2010:2043) och andra
-avgiftsbaserade utfästelser, får avdrag som beräknas enligt 8 §
-göras med högst ett belopp som motsvarar kostnaden för att
-uppnå de förmånsnivåer som anges där genom annan
-pensionsförsäkring än sådan som avses i den lagen.
-Lag (2011:68).
+10 § I fråga om fondförsäkringar klass III som avses i 2 kap. 
+12 § försäkringsrörelselagen (2010:2043) eller 2 kap. 11 § 
+lagen (2019:742) om tjänstepensionsföretag och andra 
+avgiftsbaserade utfästelser, får avdrag som beräknas enligt 
+8 § göras med högst ett belopp som motsvarar kostnaden för att 
+uppnå de förmånsnivåer som anges där genom annan 
+pensionsförsäkring än sådan som avses i dessa lagar.
+Lag (2019:787).
 
 11 § Avdrag som beräknas enligt 8-10 §§ förutsätter full
 intjänandetid. Om pensionsrätten inte är fullt intjänad, ska
@@ -10445,21 +10471,22 @@ beskattningsår som avdragen hänför sig till. Lag (2011:1256).
 Vad som är realtillgångar framgår av 34 kap. 23 §.
 Från juridisk person till annan juridisk person
 
-14 § Om näringsverksamheten i en juridisk person tas över av en
-annan juridisk person, får också periodiseringsfonderna tas
-över vid ombildningar enligt 8 kap. sparbankslagen (1987:619)
-och vid överlåtelse av ett ömsesidigt livförsäkringsföretags
-hela försäkringsbestånd till ett försäkringsaktiebolag som
-bildats för ändamålet.
+14 § Om näringsverksamheten i en juridisk person tas över av 
+en annan juridisk person, får också periodiseringsfonderna tas 
+över vid ombildningar enligt 8 kap. sparbankslagen (1987:619) 
+och vid överlåtelse av ett ömsesidigt livförsäkringsföretags 
+eller ett ömsesidigt tjänstepensionsbolags hela 
+försäkringsbestånd till ett försäkringsaktie- eller 
+tjänstepensionsaktiebolag som bildats för ändamålet.
 
-Vid en sådan ombildning av ekonomisk förening till aktiebolag
-som avses i 42 kap. 20 §, får aktiebolaget ta över den
+Vid en sådan ombildning av ekonomisk förening till aktiebolag 
+som avses i 42 kap. 20 §, får aktiebolaget ta över den 
 ekonomiska föreningens periodiseringsfonder.
 
-Bestämmelser om att periodiseringsfonder får tas över finns för
-kvalificerade fusioner och fissioner i 37 kap. 18 §, för
-verksamhetsavyttringar i 38 kap. 15 § och för partiella
-fissioner i 38 a kap. 15 §. Lag (2006:1422).
+Bestämmelser om att periodiseringsfonder får tas över finns 
+för kvalificerade fusioner och fissioner i 37 kap. 18 §, för 
+verksamhetsavyttringar i 38 kap. 15 § och för partiella 
+fissioner i 38 a kap. 15 §. Lag (2019:787).
 
 Effekter hos den som tar över fonderna
 
@@ -12917,23 +12944,27 @@ Definitioner
 
 2 § Med livförsäkringsföretag avses
 
-1. livförsäkringsföretag enligt 1 kap. 4 §
-försäkringsrörelselagen (2010:2043) samt svenskt europabolag
-eller europakooperativ som bedriver motsvarande verksamhet, och
+1. livförsäkringsföretag enligt 1 kap. 4 § 
+försäkringsrörelselagen (2010:2043) samt svenskt europabolag 
+eller europakooperativ som bedriver motsvarande verksamhet, 
 
-2. utländskt försäkringsföretag som bedriver
-livförsäkringsrörelse iSverige med stöd av lagen (1998:293) om
-utländska försäkringsgivares och tjänstepensionsinstituts
+2. tjänstepensionsföretag enligt 1 kap. 3 § lagen (2019:742) 
+om tjänstepensionsföretag samt svenskt europabolag eller 
+europakooperativ som bedriver motsvarande verksamhet, och
+
+3. utländskt försäkringsföretag som bedriver 
+livförsäkringsrörelse i Sverige med stöd av lagen (1998:293) 
+om utländska försäkringsgivares och tjänstepensionsinstituts 
 verksamhet i Sverige.
 
-Med skadeförsäkringsföretag avses annat försäkringsföretag än
+Med skadeförsäkringsföretag avses annat försäkringsföretag än 
 livförsäkringsföretag.
 
-Utländska försäkringsföretag som bedriver försäkringsrörelse i
-Sverige bedöms bara med hänsyn till den verksamhet som
-företaget bedriver från fast driftställe här. Som
-skadeförsäkringsföretag anses också en sådan association som
-avses i 6 kap. 8 § andra stycket 1. Lag (2011:68).
+Utländska försäkringsföretag som bedriver försäkringsrörelse i 
+Sverige bedöms bara med hänsyn till den verksamhet som 
+företaget bedriver från fast driftställe här. Som 
+skadeförsäkringsföretag anses också en sådan association som 
+avses i 6 kap. 8 § andra stycket 1. Lag (2019:787).
 
 Livförsäkringsföretag
 
@@ -12943,13 +12974,15 @@ försäkringstagarnas räkning eller influtna premier. Utgifter
 som hänför sig till sådana inkomster och premier får inte dras
 av. Lag (2007:1419).
 
-4 § Bestämmelserna i 3 § gäller inte till den del inkomsterna,
-premierna och utgifterna hänför sig till försäkringar som i
-redovisningshänseende tas upp som grupplivförsäkringar eller
-sådana sjuk- och olycksfallsförsäkringar klass 1, 2, I b och IV
-som avses i 2 kap. 11 § första stycket och 12 §
-försäkringsrörelselagen (2010:2043). För dessa inkomster,
-premier och utgifter gäller i stället 6-9 §§. Lag (2011:68).
+4 § Bestämmelserna i 3 § gäller inte till den del inkomsterna, 
+premierna och utgifterna hänför sig till försäkringar som i 
+redovisningshänseende tas upp som grupplivförsäkringar eller 
+sådana sjuk- och olycksfallsförsäkringar klass 1 och 2 som 
+avses i 2 kap. 11 § första stycket försäkringsrörelselagen 
+(2010:2043) och klass I b och IV som avses i 2 kap. 12 § samma 
+lag eller 2 kap. 11 § lagen (2019:742) om 
+tjänstepensionsföretag. För dessa inkomster, premier och 
+utgifter gäller i stället 6-9 §§. Lag (2019:787).
 
 5 § I lagen (1990:661) om avkastningsskatt på pensionsmedel
 finns bestämmelser om avkastningsskatt för
@@ -13148,20 +13181,23 @@ skatteavtal. Lag (2007:1419).
 
 Hänvisningar
 
-13 § Bestämmelser om försäkringsföretagens placeringstillgångar
-finns i 17 kap. 17, 18, 20 och 21 §§.
+13 § Bestämmelser om försäkringsföretagens 
+placeringstillgångar finns i 17 kap. 17, 18 och 20-21 §§.
+Lag (2019:787).
 
 Utländska tjänstepensionsinstitut
 
-13 a § Med utländskt tjänstepensionsinstitut avses ett institut
-som hör hemma i en utländsk stat inom Europeiska ekonomiska
-samarbetsområdet och som omfattas av Europaparlamentets och
-rådets direktiv 2003/41/EG av den 3 juni 2003 om verksamhet i
-och tillsyn över tjänstepensionsinstitut.
+13 a § Med utländskt tjänstepensionsinstitut avses ett 
+institut som hör hemma i en utländsk stat inom Europeiska 
+ekonomiska samarbetsområdet och som omfattas av 
+Europaparlamentets och rådets direktiv (EU) 2016/2341 av den 
+14 december 2016 om verksamhet i och tillsyn över tjänstepen-
+sionsinstitut, i den ursprungliga lydelsen.
 
-Utländska tjänstepensionsinstitut som bedriver verksamhet i
-Sverige bedöms bara med hänsyn till den verksamhet som
-institutet bedriver från fast driftställe här. Lag (2008:134).
+Utländska tjänstepensionsinstitut som bedriver verksamhet i 
+Sverige bedöms bara med hänsyn till den verksamhet som 
+institutet bedriver från fast driftställe här.
+Lag (2019:787).
 
 13 b § Utländska tjänstepensionsinstitut ska inte ta upp
 inkomster som hänför sig till tillgångar och skulder som
@@ -19983,13 +20019,20 @@ ett avtal om tjänstepension som har avskattats enligt 19 eller
 3 § En premiebefrielseförsäkring anses tillhöra samma slag av
 försäkring som huvudförsäkringen.
 
-4 § En pensionsförsäkring ska ha meddelats i en
-försäkringsrörelse som bedrivs från ett fast driftställe i
-Sverige eller i en försäkringsrörelse som bedrivs från ett fast
-driftställe i en utländsk stat inom Europeiska ekonomiska
-samarbetsområdet av ett försäkringsföretag som avses i artikel
-1 i Europaparlamentets och rådets direktiv 2002/83/EG av den 5
-november 2002 om livförsäkring. Lag (2008:134).
+4 § En pensionsförsäkring ska ha meddelats 
+
+- i en försäkringsrörelse som bedrivs från ett fast 
+driftställe i Sverige eller i en försäkringsrörelse som 
+bedrivs från ett fast driftställe i en utländsk stat inom 
+Europeiska ekonomiska samarbetsområdet av ett 
+försäkringsföretag som avses i artikel 13 i Europaparlamentets 
+och rådets direktiv 2009/138/EG av den 25 november 2009 om 
+upptagande och utövande av försäkrings- och 
+återförsäkringsverksamhet (Solvens II), i den ursprungliga 
+lydelsen, eller 
+
+- av ett tjänstepensionsföretag som driver verksamhet enligt 
+lagen (2019:742) om tjänstepensionsföretag. Lag (2019:787).
 
 5 § Även om en försäkring inte uppfyller villkoren i 4, 6 och
 8-16 b §§, ska den anses som en pensionsförsäkring, om
@@ -20146,11 +20189,13 @@ avses i 9 § andra stycket, ska upphöra senast när barnet fyller
 
 Fondförsäkringar
 
-15 § För fondförsäkringar klass III enligt 2 kap. 12 §
-försäkringsrörelselagen (2010:2043) ska det vid bedömningen
-enligt 11 och 14 §§ av utbetalningarnas storlek under de första
-fem åren bortses från sådana förändringar av beloppen som beror
-på fondandelarnas kursutveckling. Lag (2011:68).
+15 § För fondförsäkringar klass III enligt 2 kap. 12 § 
+försäkringsrörelselagen (2010:2043) eller 2 kap. 11 § lagen 
+(2019:742) om tjänstepensionsföretag ska det vid bedömningen 
+enligt 11 och 14 §§ av utbetalningarnas storlek under de 
+första fem åren bortses från sådana förändringar av beloppen 
+som beror på fondandelarnas kursutveckling. Lag (2019:787).
+
 Försäkringsavtalets utformning
 
 16 § Pensionsförsäkringsavtalet ska innehålla villkor att
