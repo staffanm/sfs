@@ -161,7 +161,8 @@ in. Lag (2018:447).
 
 Personuppgiftsansvar
 
-6 § En vårdgivare är personuppgiftsansvarig för den behandling
+6 § /Upphör att gälla U:2020-01-01/
+En vårdgivare är personuppgiftsansvarig för den behandling
 av personuppgifter som vårdgivaren utför. I landsting och
 kommun är varje myndighet som bedriver hälso- och sjukvård
 personuppgiftsansvarig för den behandling av personuppgifter
@@ -178,9 +179,28 @@ eller annan myndighet i samma landsting eller kommun.
 I 6 och 7 kap. finns särskilda bestämmelser om
 personuppgiftsansvar.
 
+6 § /Träder i kraft I:2020-01-01/
+En vårdgivare är personuppgiftsansvarig för den behandling 
+av personuppgifter som vårdgivaren utför. I en region och en 
+kommun är varje myndighet som bedriver hälso- och sjukvård 
+personuppgiftsansvarig för den behandling av personuppgifter 
+som myndigheten utför.
+
+Personuppgiftsansvaret enligt första stycket omfattar även 
+sådan behandling av personuppgifter som vårdgivaren, eller den 
+myndighet i en region eller en kommun som är 
+personuppgiftsansvarig, utför när vårdgivaren eller 
+myndigheten genom direktåtkomst i ett enskilt fall bereder sig 
+tillgång till personuppgifter om en patient hos en annan 
+vårdgivare eller annan myndighet i samma region eller kommun.
+
+I 6 och 7 kap. finns särskilda bestämmelser om 
+personuppgiftsansvar. Lag (2019:931).
+
 Personuppgifter som får behandlas
 
-7 § En vårdgivare får behandla endast sådana 
+7 § /Upphör att gälla U:2020-01-01/
+En vårdgivare får behandla endast sådana 
 personuppgifter som behövs för de ändamål som anges i 4 §. 
 Uppgifter om lagöverträdelser som innefattar brott, domar i 
 brottmål, straffprocessuella tvångsmedel eller administrativa 
@@ -189,6 +209,17 @@ nödvändigt för ett sådant ändamål. Även en vårdgivare som
 inte är statlig myndighet, landsting eller kommun får under 
 dessa förutsättningar behandla uppgifter om 
 lagöverträdelser. Lag (2018:447).
+
+7 § /Träder i kraft I:2020-01-01/
+En vårdgivare får behandla endast sådana personuppgifter 
+som behövs för de ändamål som anges i 4 §. Uppgifter om 
+lagöverträdelser som innefattar brott, domar i brottmål, 
+straffprocessuella tvångsmedel eller administrativa 
+frihetsberövanden får endast behandlas om det är absolut 
+nödvändigt för ett sådant ändamål. Även en vårdgivare som inte 
+är statlig myndighet, region eller kommun får under dessa 
+förutsättningar behandla uppgifter om lagöverträdelser.
+Lag (2019:931).
 
 7 a § Personuppgifter som avses i artikel 9.1 i EU:s 
 dataskyddsförordning (känsliga personuppgifter) får behandlas 
@@ -464,7 +495,7 @@ för vården av patienten göras tillgängliga.
 
 Skydd för identitet i vissa fall
 
-6 § /Upphör att gälla U:2020-06-01/
+6 § /Upphör att gälla U:2020-01-01/
 I 14 § lagen (1996:1156) om receptregister finns
 bestämmelser om att E-hälsomyndigheten ska lämna ut vissa
 uppgifter till landstingen om förskrivning av läkemedel och
@@ -481,22 +512,39 @@ sådana uppgifter som avses i första stycket, ska vara
 krypterade så att patientens identitet skyddas vid
 behandlingen. Lag (2013:1024).
 
-6 § /Träder i kraft I:2020-06-01/
-I 6 kap. 3 § lagen (2018:1212) om nationell 
-läkemedelslista finns bestämmelser om att Ehälsomyndigheten 
-ska lämna ut vissa uppgifter till landstingen om förskrivning 
-av läkemedel och andra varor och att uppgifter om patientens 
-identitet ska vara krypterade vid utlämnandet.
+6 § /Träder i kraft I:2020-01-01/
+I 14 § lagen (1996:1156) om receptregister finns 
+bestämmelser om att E-hälsomyndigheten ska lämna ut vissa 
+uppgifter till regionerna om förskrivning av läkemedel och 
+andra varor och att uppgifter om patientens identitet ska vara 
+krypterade vid utlämnandet.
 
 Uppgifter som avses i första stycket får inte behandlas i 
 syfte att röja en patients identitet utan att patienten 
 samtycker till det.
 
 Uppgifter om en patients identitet som har dokumenterats inom 
-hälso- och sjukvården och som landstingen ska sambearbeta med 
+hälso- och sjukvården och som regionerna ska sambearbeta med 
 sådana uppgifter som avses i första stycket, ska vara 
 krypterade så att patientens identitet skyddas vid 
-behandlingen. Lag (2018:1214).
+behandlingen. Lag (2019:931).
+
+6 § /Träder i kraft I:2020-06-01/
+I 6 kap. 3 § lagen (2018:1212) om nationell 
+läkemedelslista finns bestämmelser om att E-hälsomyndigheten 
+ska lämna ut vissa uppgifter till regionerna om förskrivning 
+av läkemedel och andra varor och att uppgifter om patientens 
+identitet ska vara krypterade vid utlämnandet. 
+
+Uppgifter som avses i första stycket får inte behandlas i 
+syfte att röja en patients identitet utan att patienten 
+samtycker till det.
+
+Uppgifter om en patients identitet som har dokumenterats inom 
+hälso- och sjukvården och som regionerna ska sambearbeta med 
+sådana uppgifter som avses i första stycket, ska vara 
+krypterade så att patientens identitet skyddas vid 
+behandlingen. Lag (2019:991).
 
 5 kap. Grundläggande bestämmelser om utlämnande av uppgifter
 och handlingar samt viss uppgiftsskyldighet
@@ -523,7 +571,8 @@ journalen före överlämnandet till myndigheten.
 
 Utlämnande genom direktåtkomst
 
-4 § Utlämnande genom direktåtkomst till personuppgifter är
+4 § /Upphör att gälla U:2020-01-01/
+Utlämnande genom direktåtkomst till personuppgifter är
 tillåten endast i den utsträckning som anges i lag eller
 förordning.
 
@@ -534,6 +583,19 @@ sådan myndighet i samma landsting eller kommun.
 
 Ytterligare bestämmelser om utlämnande genom direktåtkomst
 finns i 5 §, 6 kap. och i 7 kap. 9 §.
+
+4 § /Träder i kraft I:2020-01-01/
+Utlämnande genom direktåtkomst till personuppgifter är 
+tillåten endast i den utsträckning som anges i lag eller 
+förordning.
+
+Om en region eller en kommun bedriver hälso- och sjukvård 
+genom flera myndigheter, får en sådan myndighet ha 
+direktåtkomst till personuppgifter som behandlas av någon 
+annan sådan myndighet i samma region eller kommun.
+
+Ytterligare bestämmelser om utlämnande genom direktåtkomst 
+finns i 5 §, 6 kap. och i 7 kap. 9 §. Lag (2019:931).
 
 5 § En vårdgivare får medge en enskild direktåtkomst till
 sådana uppgifter om den enskilde själv som får lämnas ut till
@@ -840,7 +902,8 @@ kvalitetsregister.
 
 Bevarande och gallring
 
-10 § Personuppgifter i ett nationellt eller regionalt 
+10 § /Upphör att gälla U:2020-01-01/
+Personuppgifter i ett nationellt eller regionalt 
 kvalitetsregister ska gallras när de inte längre behövs för 
 det ändamål som anges i 4 §.
 
@@ -856,6 +919,23 @@ meddelat föreskrifter enligt 7 § andra stycket, får
 regeringen eller myndigheten också föreskriva att 
 personuppgifter får bevaras för sådana ändamål.
 Lag (2018:447).
+
+10 § /Träder i kraft I:2020-01-01/
+Personuppgifter i ett nationellt eller regionalt 
+kvalitetsregister ska gallras när de inte längre behövs för 
+det ändamål som anges i 4 §.
+
+En arkivmyndighet inom en region eller en kommun får dock 
+föreskriva att personuppgifter i ett nationellt eller 
+regionalt kvalitetsregister som förs inom regionen eller 
+kommunen får bevaras för arkivändamål av allmänt intresse, 
+vetenskapliga eller historiska forskningsändamål eller 
+statistiska ändamål.
+
+Om regeringen eller den myndighet regeringen bestämt har 
+meddelat föreskrifter enligt 7 § andra stycket, får regeringen 
+eller myndigheten också föreskriva att personuppgifter får 
+bevaras för sådana ändamål. Lag (2019:931).
 
 8 kap. Rättigheter för den enskilde
 
@@ -978,12 +1058,21 @@ Lag (2012:954).
 
 Ansvaret för omhändertagna journaler
 
-3 § Patientjournaler som omhändertagits enligt 1 § ska
+3 § /Upphör att gälla U:2020-01-01/
+Patientjournaler som omhändertagits enligt 1 § ska
 förvaras avskilda hos arkivmyndigheten i det landsting eller,
 i fråga om kommun som inte tillhör något landsting, den kommun
 där journalerna finns. Inspektionen för vård och omsorg ska i
 varje beslut om omhändertagande ange hos vilken arkivmyndighet
 journalerna ska förvaras. Lag (2012:954).
+
+3 § /Träder i kraft I:2020-01-01/
+Patientjournaler som omhändertagits enligt 1 § ska 
+förvaras avskilda hos arkivmyndigheten i den region eller, i 
+fråga om en kommun som inte tillhör någon region, den kommun 
+där journalerna finns. Inspektionen för vård och omsorg ska i 
+varje beslut om omhändertagande ange hos vilken arkivmyndighet 
+journalerna ska förvaras. Lag (2019:931).
 
 Bevarande av omhändertagna journaler
 
