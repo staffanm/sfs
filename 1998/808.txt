@@ -2345,15 +2345,7 @@ av ett tillstånd som avses i 6 b § eller som har upphört att
 vara tillståndspliktig men bedrivs med stöd av ett tillstånd
 enligt detta kapitel. Lag (2012:907).
 
-6 e § /Upphör att gälla U:2020-01-01/
-Tillstånd till täkt får ges endast om det för
-uppfyllandet av de villkor som ska gälla för tillståndet
-ställs säkerhet enligt 16 kap. 3 §. Staten, kommuner,
-landsting och kommunalförbund behöver dock inte ställa
-säkerhet. Lag (2012:907).
-
-6 e § /Träder i kraft I:2020-01-01/
-Tillstånd till täkt får ges endast om det för 
+6 e § Tillstånd till täkt får ges endast om det för 
 uppfyllandet av de villkor som ska gälla för tillståndet 
 ställs säkerhet enligt 16 kap. 3 §. Staten, kommuner, regioner 
 och kommunalförbund behöver dock inte ställa säkerhet.
@@ -2403,6 +2395,13 @@ sådana avloppsanordningar eller andra inrättningar.
 
 Regeringen får överlåta åt kommunerna att meddela föreskrifter
 enligt andra stycket.
+
+7 a § En verksamhet för behandling av avfall som är 
+tillstånds- eller anmälningspliktig enligt detta kapitel eller 
+föreskrifter som har meddelats med stöd av kapitlet får 
+tillåtas endast om det finns skäl att anta att den planerade 
+behandlingen kommer att uppfylla kraven i 15 kap. 11 §.
+Lag (2019:1263).
 
 8 § Ansökan om tillstånd till miljöfarlig verksamhet prövas 
 av mark- och miljödomstolen.
@@ -3766,23 +3765,28 @@ Ordförklaringar
 som innehavaren gör sig av med eller avser eller är skyldig 
 att göra sig av med.
 
-Ett ämne eller föremål ska anses vara en biprodukt i stället 
-för avfall, om ämnet eller föremålet
+Ett ämne eller föremål som uppkommit i en produktionsprocess 
+där huvudsyftet inte är att producera ämnet eller föremålet 
+ska anses vara en biprodukt i stället för avfall, om
 
-1. har uppkommit i en produktionsprocess där huvudsyftet inte 
-är att producera ämnet eller föremålet, 
+1. det är säkerställt att ämnet eller föremålet kommer att 
+fortsätta att användas,
 
-2. kan användas direkt utan någon annan bearbetning än den 
-bearbetning som är normal i industriell praxis, och 
+2. ämnet eller föremålet kan användas direkt utan någon annan 
+bearbetning än den bearbetning som är normal i industriell 
+praxis,
 
-3. kommer att fortsätta att användas på ett sätt som är 
-hälso- och miljömässigt godtagbart och som inte strider mot 
-lag eller annan författning.
+3. ämnet eller föremålet har producerats som en integrerad del 
+av produktionsprocessen, och
+
+4. den användning som avses i 1 inte strider mot lag eller 
+annan författning och inte leder till allmänt negativa följder 
+för miljön eller människors hälsa.
 
 Ett ämne eller föremål som har återvunnits och uppfyller krav 
 i fråga om fortsatt användning enligt föreskrifter som har 
 meddelats med stöd av 39 eller 40 § upphör att vara avfall.
-Lag (2016:782).
+Lag (2019:1263).
 
 2 § Med avfallsförebyggande åtgärder avses i detta kapitel 
 åtgärder som vidtas innan ett ämne eller föremål har blivit 
@@ -3817,19 +3821,20 @@ eller förbereder det för en sådan nytta eller en åtgärd som
 innebär att avfall förbereds för återanvändning,
 
 förbereda avfall för återanvändning: kontrollera, rengöra 
-eller reparera något som är avfall så att det kan 
-återanvändas utan ytterligare behandling, 
+eller reparera något som är avfall så att det kan återanvändas 
+utan ytterligare behandling, 
 
 materialåtervinna avfall: upparbeta avfall till nya ämnen 
 eller föremål som inte ska användas som bränsle eller 
 fyllnadsmaterial,
 
-bortskaffa avfall: göra sig av med något som är avfall utan 
-att återvinna det eller utan att lämna det till någon som 
-samlar in eller transporterar bort det, och
+bortskaffa avfall: göra sig av med eller förbereda för att 
+göra sig av med något som är avfall utan att återvinna det 
+eller utan att lämna det till någon som samlar in eller 
+transporterar bort det, och
 
 behandla avfall: återvinna eller bortskaffa avfall.
-Lag (2016:782).
+Lag (2019:1263).
 
 7 § Med samla in avfall avses i detta kapitel att
 
@@ -3885,16 +3890,26 @@ Den behandling av avfallet som bäst skyddar människors hälsa
 och miljön som helhet ska anses som lämpligast, om 
 behandlingen inte är orimlig. Lag (2016:782).
 
-Avfallsinnehavarens ansvar
+Hantering av avfall
 
-11 § Den som innehar avfall ska se till att avfallet hanteras 
-på ett sätt som är godtagbart med hänsyn till människors 
-hälsa och miljön.
+11 § Den som hanterar avfall ska se till att hanteringen inte 
+skadar eller orsakar risk för skada på människors hälsa eller 
+miljön. Särskild hänsyn ska tas till
+
+1. den risk som hanteringen kan innebära för skada på vatten, 
+luft, mark, växter eller djur,
+
+2. de olägenheter som hanteringen kan innebära genom buller 
+eller lukt, och
+
+3. den negativa påverkan som hanteringen kan ha på sådana 
+särskilt skyddade områden som avses i 7 kap., på andra områden 
+av särskild betydelse för miljön eller på landskapet i övrigt.
 
 En bestämmelse om att producenter kan ges skyldighet att 
 hantera avfall finns i 12 §. Bestämmelser om att kommuner har 
 och kan ges skyldighet att hantera avfall finns i 20 och 
-22 §§. Lag (2016:782).
+22 §§. Lag (2019:1263).
 
 Producentansvar
 
@@ -4196,26 +4211,7 @@ som gäller för deponeringsverksamheten. Lag (2016:782).
 
 Geologisk lagring av koldioxid
 
-37 § /Upphör att gälla U:2020-01-01/
-Tillstånd till geologisk lagring av koldioxid ska för sin 
-giltighet göras beroende av att verksamhetsutövaren ställer 
-säkerhet eller vidtar någon annan lämplig åtgärd för att 
-säkerställa fullgörandet av de skyldigheter som gäller för 
-verksamheten enligt denna balk, lagen (2004:1199) om handel 
-med utsläppsrätter samt de föreskrifter och tillståndsvillkor 
-som har meddelats med stöd av dessa lagar. En säkerhet får 
-ställas efter hand enligt en plan som vid varje tid 
-tillgodoser det aktuella behovet av säkerhet.
-
-När en säkerhet ställs ska den prövas av 
-tillståndsmyndigheten. Säkerheten ska godtas om den visas vara 
-betryggande för sitt ändamål.
-
-Staten, kommuner, landsting och kommunalförbund behöver inte 
-ställa säkerhet. Lag (2019:295).
-
-37 § /Träder i kraft I:2020-01-01/
-Tillstånd till geologisk lagring av koldioxid ska för sin 
+37 § Tillstånd till geologisk lagring av koldioxid ska för sin 
 giltighet göras beroende av att verksamhetsutövaren ställer 
 säkerhet eller vidtar någon annan lämplig åtgärd för att 
 säkerställa fullgörandet av de skyldigheter som gäller för 
@@ -4406,29 +4402,7 @@ omgivningsbuller. Lag (2018:1407).
 2 e § Regeringen får meddela ytterligare föreskrifter om 
 sådan tidsbegränsning som avses i 2 §. Lag (2018:1407).
 
-3 § /Upphör att gälla U:2020-01-01/
-Tillstånd, godkännande eller dispens enligt balken eller
-enligt föreskrifter meddelade med stöd av balken, får för sin
-giltighet göras beroende av att den som avser att bedriva
-verksamheten ställer säkerhet för kostnaderna för det
-avhjälpande av en miljöskada och de andra
-återställningsåtgärder som verksamheten kan föranleda. Staten,
-kommuner, landsting och kommunalförbund behöver dock inte
-ställa säkerhet. Den som är skyldig att betala avgift eller
-ställa säkerhet enligt lagen (2006:647) om finansiella åtgärder
-för hanteringen av restprodukter från kärnteknisk verksamhet
-behöver inte ställa säkerhet för åtgärder som omfattas av
-sådana avgifter och säkerheter.
-
-En säkerhet skall godtas om den visas vara betryggande för sitt
-ändamål. Säkerheten kan ställas efter hand enligt en plan som
-vid varje tid tillgodoser det aktuella behovet av säkerhet.
-
-Säkerheten skall prövas av tillståndsmyndigheten.
-Lag (2007:661).
-
-3 § /Träder i kraft I:2020-01-01/
-Tillstånd, godkännande eller dispens enligt balken eller 
+3 § Tillstånd, godkännande eller dispens enligt balken eller 
 enligt föreskrifter meddelade med stöd av balken, får för sin 
 giltighet göras beroende av att den som avser att bedriva 
 verksamheten ställer säkerhet för kostnaderna för det 
@@ -5756,20 +5730,21 @@ vattenverksamhet och vattenanläggningar ska innehålla finns i
 7 kap. 6 § lagen (1998:812) med särskilda bestämmelser om 
 vattenverksamhet. Lag (2018:1408).
 
-25 a § En dom som omfattar tillstånd att återvinna eller 
-bortskaffa avfall eller att lagra avfall i samband med en 
-sådan behandling ska dessutom alltid innehålla
+25 a § En dom som omfattar tillstånd att behandla avfall ska 
+dessutom alltid innehålla
 
-1. en förteckning över de kategorier av avfall och den totala 
-mängd avfall som får lagras, återvinnas respektive 
-bortskaffas,
+1. uppgift om avfallstyper och mängder av avfall som får 
+behandlas,
 
-2. uppgift om den metod för att lagra, återvinna eller 
-bortskaffa avfall som ska tillämpas, och 
+2. uppgift om den behandlingsmetod som ska tillämpas på 
+avfallet,
 
 3. de villkor som behövs i fråga om åtgärder för att övervaka 
 och kontrollera att de skyldigheter som gäller för 
-verksamheten uppfylls. Lag (2016:782).
+verksamheten uppfylls, och
+
+4. de villkor som behövs i fråga om åtgärder för avslutande av 
+verksamheten och efterbehandling. Lag (2019:1263).
 
 25 b § En dom som omfattar tillstånd att bedriva verksamhet
 med förbränning av avfall ska dessutom alltid innehålla
@@ -5797,21 +5772,18 @@ värden, och
 villkor om att energiåtervinningen ska ske med hög
 energieffektivitet. Lag (2012:907).
 
-25 c § En dom som omfattar tillstånd att bedriva verksamhet
+25 c § En dom som omfattar tillstånd att bedriva verksamhet 
 med deponering av avfall ska dessutom alltid innehålla
 
 1. uppgift om vilken av deponiklasserna farligt avfall, icke-
 farligt avfall eller inert avfall som tillståndet avser,
 
-2. de villkor som behövs i fråga om åtgärder före och under
-driften av deponin,
+2. de villkor som behövs i fråga om åtgärder före och under 
+driften av deponin, och
 
-3. de villkor som, enligt vad som kan förutses när tillståndet
-ges, behövs i fråga om avslutning av deponin, och
-
-4. de villkor som behövs i fråga om skyldighet att rapportera
-om typer och mängder av avfall som har deponerats.
-Lag (2011:734).
+3. de villkor som behövs i fråga om skyldighet att rapportera 
+om avfallstyper och mängder av avfall som har deponerats.
+Lag (2019:1263).
 
 25 d § En dom som omfattar tillstånd till geologisk lagring 
 av koldioxid ska, i stället för det som sägs i 25 a och 
