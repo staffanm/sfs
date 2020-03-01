@@ -6,33 +6,7 @@ sårbarheten i samhället och utveckla en god förmåga att
 hantera sina uppgifter under fredstida krissituationer och 
 inför och vid höjd beredskap.
 
-2 § /Upphör att gälla U:2020-01-01/
-Denna förordning innehåller föreskrifter som dels 
-reglerar krisberedskapen, dels ansluter till vad som 
-föreskrivs i lagen (1992:1403) om totalförsvar och höjd 
-beredskap i fråga om civil verksamhet.
-
-I förordningen (2015:1053) om totalförsvar och höjd beredskap 
-finns bestämmelser om myndigheters ansvar att i sin 
-verksamhet beakta och planera för totalförsvarets krav. I 
-förordningen finns även bestämmelser om hur höjd beredskap 
-tillkännages och vilka författningar som då omedelbart ska 
-tillämpas.
-
-I lagen (2006:544) om kommuners och landstings åtgärder inför 
-och vid extraordinära händelser i fredstid och höjd beredskap 
-och förordningen (2006:637) om kommuners och landstings 
-åtgärder inför och vid extraordinära händelser i fredstid och 
-höjd beredskap finns bestämmelser om vilka åtgärder kommuner 
-och landsting ska vidta inför och vid fredstida 
-krissituationer och höjd beredskap. I lagen regleras det 
-geografiska områdesansvaret på lokal nivå.
-
-Bestämmelserna i denna förordning ska tillämpas bara om något 
-annat inte följer av lag eller annan förordning.
-
-2 § /Träder i kraft I:2020-01-01/
-Denna förordning innehåller föreskrifter som dels reglerar 
+2 § Denna förordning innehåller föreskrifter som dels reglerar 
 krisberedskapen, dels ansluter till vad som föreskrivs i lagen 
 (1992:1403) om totalförsvar och höjd beredskap i fråga om 
 civil verksamhet. 
@@ -85,29 +59,7 @@ krissituation, ska vidta de åtgärder som behövs för att
 hantera konsekvenserna av denna. Myndigheterna ska samverka 
 och stödja varandra vid en sådan krissituation.
 
-6 § /Upphör att gälla U:2020-01-01/
-Varje länsstyrelse ska inom sitt geografiska område i 
-fråga om sådana situationer som avses i 8 § andra stycket 
-vara en sammanhållande funktion mellan lokala aktörer, som 
-exempelvis kommuner, landsting och näringsliv, och den 
-nationella nivån. Länsstyrelserna ska efter beslut av 
-regeringen prioritera och inrikta statliga och 
-internationella resurser som ställs till förfogande. 
-Länsstyrelserna ska vidare verka för att
-
-– regionala risk- och sårbarhetsanalyser sammanställs,
-
-– nödvändig samverkan inom länet och med närliggande län sker 
-kontinuerligt,
-
-– under en kris samordna verksamhet mellan kommuner, 
-landsting och myndigheter, och
-
-– informationen till allmänheten och företrädare för 
-massmedia under sådana förhållanden samordnas.
-
-6 § /Träder i kraft I:2020-01-01/
-Varje länsstyrelse ska inom sitt geografiska område i 
+6 § Varje länsstyrelse ska inom sitt geografiska område i 
 fråga om sådana situationer som avses i 8 § andra stycket vara 
 en sammanhållande funktion mellan lokala aktörer, som 
 exempelvis kommuner, regioner och näringsliv, och den 
@@ -196,49 +148,7 @@ genomföras.
 
 Särskilt ansvar för krisberedskapen
 
-10 § /Upphör att gälla U:2020-01-01/
-De myndigheter som anges i bilagan till denna 
-förordning, länsstyrelserna samt i övrigt de andra 
-myndigheter som regeringen meddelar föreskrifter om eller 
-beslutar efter förslag från Myndigheten för samhällsskydd och 
-beredskap har ett särskilt ansvar för att planera och vidta 
-förberedelser för att skapa förmåga att hantera en kris, 
-förebygga sårbarheter och motstå hot och risker.
-
-Myndigheterna ska särskilt
-
-1. samverka med länsstyrelserna i deras roll som 
-områdesansvarig myndighet,
-
-2. samverka med övriga statliga myndigheter, kommuner, 
-landsting, sammanslutningar och näringsidkare som är 
-berörda,
-
-3. beakta det samarbete som sker inom Europeiska unionen och 
-internationella forum i frågor som rör samhällets 
-krisberedskap,
-
-4. beakta behovet av forsknings- och utvecklingsinsatser och 
-annan kunskapsinhämtning såsom erfarenhetsåterföring av 
-inträffade händelser, 
-
-5. beakta behovet av säkerhet och kompatibilitet i de 
-tekniska system som är nödvändiga för att myndigheterna ska 
-kunna utföra sitt arbete, 
-
-6. beakta behovet av deltagande i det samhällsgemensamma 
-radiokommunikationssystemet för skydd och säkerhet (Rakel) 
-som förvaltas av Myndigheten för samhällsskydd och beredskap, 
-och 
-
-7. informera Myndigheten för samhällsskydd och beredskap om 
-sin övningsverksamhet för att den ska kunna samordnas med den 
-övningsverksamhet som Myndigheten för samhällsskydd och 
-beredskap planerar. Myndigheterna ska vidare delta i den 
-övningsverksamhet som berör deras ansvarsområde. 
-
-10 § /Träder i kraft I:2020-01-01/
-De myndigheter som anges i bilagan till denna förordning, 
+10 § De myndigheter som anges i bilagan till denna förordning, 
 länsstyrelserna samt i övrigt de andra myndigheter som 
 regeringen meddelar föreskrifter om eller beslutar efter 
 förslag från Myndigheten för samhällsskydd och beredskap har 
@@ -424,7 +334,6 @@ områden		särskilda uppgifter 	med ansvar 	med ansvar
 Teknisk 	Affärsverket svenska 
 infrastruktur	kraftnät   		x		x
 
-		Elsäkerhetsverket	x		x
 
 		Livsmedelsverket	x		x
 
@@ -502,7 +411,11 @@ områdesansvar	Länsstyrelserna		x		x
 
 Skydd, 
 undsättning 
-och vård	Kustbevakningen		x		x
+och vård	E-hälsomyndigheten	x		x
+
+		Kustbevakningen		x		x
+
+		Läkemedelsverket	x		x
 
 		Migrationsverket	x		x
 
@@ -519,4 +432,4 @@ och vård	Kustbevakningen		x		x
 		Transportstyrelsen	x		x
 
 		Tullverket		x		x
-Förordning (2016:382).
+Förordning (2020:25).
