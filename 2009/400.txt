@@ -173,46 +173,7 @@ delta i en myndighets verksamhet
 2 § Riksdagen och beslutande kommunala församlingar ska vid
 tillämpningen av denna lag jämställas med myndigheter.
 
-3 § /Upphör att gälla U:2020-01-01/
-Vad som föreskrivs i tryckfrihetsförordningen om rätt att
-ta del av allmänna handlingar hos myndigheter ska i
-tillämpliga delar gälla också handlingar hos aktiebolag,
-handelsbolag, ekonomiska föreningar och stiftelser där
-kommuner eller landsting utövar ett rättsligt bestämmande
-inflytande. Sådana bolag, föreningar och stiftelser ska vid
-tillämpningen av denna lag jämställas med myndigheter.
-
-Kommuner och landsting ska anses utöva ett rättsligt
-bestämmande inflytande om de ensamma eller tillsammans
-
-1. äger aktier i ett aktiebolag eller andelar i en ekonomisk
-förening med mer än hälften av samtliga röster i bolaget
-eller föreningen eller på något annat sätt förfogar över så
-många röster i bolaget eller föreningen,
-
-2. har rätt att utse eller avsätta mer än hälften av
-ledamöterna i styrelsen för ett aktiebolag, en ekonomisk
-förening eller en stiftelse, eller
-
-3. utgör samtliga obegränsat ansvariga bolagsmän i ett
-handelsbolag.
-
-Vid tillämpningen av andra stycket 1-3 ska inflytande som
-utövas av en juridisk person över vilken en kommun eller ett
-landsting bestämmer på det sätt som anges i de nämnda
-punkterna anses utövat av kommunen eller landstinget.
-
-Första stycket gäller också för handlingar som efter
-medgivande av en kommun eller ett landsting för viss bestämd
-tid förvaras hos aktiebolag, handelsbolag, ekonomiska
-föreningar eller stiftelser där kommuner eller landsting
-tidigare har utövat ett rättsligt bestämmande inflytande.
-
-Vad som föreskrivs om kommuner och landsting i första-tredje
-styckena tillämpas också på kommunalförbund.
-
-3 § /Träder i kraft I:2020-01-01/
-Det som föreskrivs i tryckfrihetsförordningen om rätt att 
+3 § Det som föreskrivs i tryckfrihetsförordningen om rätt att 
 ta del av allmänna handlingar hos myndigheter ska i 
 tillämpliga delar gälla också handlingar hos aktiebolag, 
 handelsbolag, ekonomiska föreningar och stiftelser där 
@@ -1325,8 +1286,7 @@ mottagande myndigheten.
 Första stycket tillämpas inte på en uppgift som ingår i ett
 beslut hos den mottagande myndigheten.
 
-3 a § /Träder i kraft I:2020-01-01/
-Får den nämnd som avses i 7 § lagen (2019:504) om ansvar 
+3 a § Får den nämnd som avses i 7 § lagen (2019:504) om ansvar 
 för god forskningssed och prövning av oredlighet i forskning i 
 sin verksamhet enligt den lagen från en forskningshuvudman en 
 sekretessreglerad uppgift, blir sekretessbestämmelsen 
@@ -1627,20 +1587,9 @@ fyrtio år. Om det finns särskilda skäl, får dock regeringen
 meddela föreskrifter om att sekretessen ska gälla under
 längre tid.
 
-Sekretessbrytande bestämmelse
+Sekretessbrytande bestämmelser
 
-3 § /Upphör att gälla U:2020-01-01/
-Sekretessen enligt 1, 1 a och 2 §§ hindrar inte att
-uppgifter som avses i 37 kap. 4 § lämnas till den nationella
-upplysningsbyrån enligt vad som föreskrivs i 6 kap. 1 § lagen
-(2006:544) om kommuners och landstings åtgärder inför och vid
-extraordinära händelser i fredstid och höjd beredskap och
-förordningen (1996:1475) om skyldighet att lämna upplysningar
-m.m. om krigsfångar och andra skyddade personer.
-Lag (2013:972).
-
-3 § /Träder i kraft I:2020-01-01/
-Sekretessen enligt 1, 1 a och 2 §§ hindrar inte att 
+3 § Sekretessen enligt 1, 1 a och 2 §§ hindrar inte att 
 uppgifter som avses i 37 kap. 4 § lämnas till den nationella 
 upplysningsbyrån enligt det som föreskrivs i 6 kap. 1 § lagen 
 (2006:544) om kommuners och regioners åtgärder inför och vid 
@@ -1648,6 +1597,28 @@ extraordinära händelser i fredstid och höjd beredskap och
 förordningen (1996:1475) om skyldighet att lämna upplysningar 
 m.m. om krigsfångar och andra skyddade personer. 
 Lag (2019:937).
+
+3 a § Sekretessen enligt 1, 1 a och 2 §§ hindrar inte att 
+Säkerhetspolisen eller Försvarsmakten lämnar uppgift som avses 
+där till Post- och telestyrelsen, om uppgiften avser 
+
+1. frågan om radioanvändning enligt en tillståndsansökan eller 
+en ansökan om medgivande att överlåta eller hyra ut tillstånd 
+att använda radiosändare enligt 3 kap. lagen (2003:389) om 
+elektronisk kommunikation, kan antas komma att orsaka skada 
+för Sveriges säkerhet,
+
+2. behovet av att förena ett sådant tillstånd med villkor om 
+krav som är av betydelse för Sveriges säkerhet och vilka 
+villkor som tillståndet i så fall bör förenas med, eller
+
+3. frågan om det finns skäl att återkalla tillstånd eller 
+ändra tillståndsvillkor enligt 7 kap. 6 § första stycket 4 
+lagen om elektronisk kommunikation.
+
+En uppgift får lämnas endast om intresset av att uppgiften 
+lämnas har företräde framför det intresse som sekretessen ska 
+skydda. Lag (2019:1207).
 
 Prövning av en begäran om utlämnande av handling
 
@@ -1760,6 +1731,8 @@ provet motverkas om uppgiften röjs.
 
 Tillstånd att använda radiosändare
 
+Tillståndsprövning efter allmän inbjudan till ansökan
+
 4 a § Sekretess gäller för uppgift som hänför sig till ärende
 om prövning enligt 3 kap. 8 § lagen (2003:389) om elektronisk
 kommunikation av fråga om tillstånd att använda radiosändare
@@ -1767,9 +1740,15 @@ efter allmän inbjudan till ansökan, om det kan antas att
 syftet med förfarandet motverkas om uppgiften röjs.
 Lag (2010:498).
 
+Sekretessbrytande bestämmelse
+
+4 b § Sekretessen enligt 4 a § hindrar inte att uppgift lämnas 
+till Säkerhetspolisen och Försvarsmakten om vem som är sökande 
+i ett ärende som avses där. Lag (2019:1207).
+
 Undersökningar av sjöolyckor och tillbud, m.m.
 
-4 b § Sekretess gäller för uppgift som hänför sig till
+4 c § Sekretess gäller för uppgift som hänför sig till
 myndighets verksamhet som avser undersökningar av sjöolyckor
 eller tillbud till sjöss eller preliminära bedömningar av
 allvarliga sjöolyckor enligt lagen (1990:712) om undersökning
@@ -1786,16 +1765,16 @@ rapport om undersökning enligt lagen om undersökning av
 olyckor.
 
 För uppgift i en allmän handling gäller sekretessen i högst
-fyrtio år. Lag (2011:779).
+fyrtio år. Lag (2019:1207).
 
 Uppdrag om inköp av hälsofarliga varor
 
-4 c § Sekretess gäller för uppgift som hänför sig till 
+4 d § Sekretess gäller för uppgift som hänför sig till 
 myndighets verksamhet som avser uppdrag om inköp av varor 
 enligt 11 a § lagen (1992:860) om kontroll av narkotika eller 
 3 e § lagen (1999:42) om förbud mot vissa hälsofarliga varor, 
 om det kan antas att syftet med inköpet motverkas om 
-uppgiften röjs. Lag (2018:1114).
+uppgiften röjs. Lag (2019:1207).
 
 Internationell rättslig hjälp i konkurrensärenden
 
@@ -1929,37 +1908,7 @@ eller Kustbevakningen.
 För uppgift i en allmän handling gäller sekretessen i högst 
 fyrtio år. Lag (2016:1314).
 
-2 § /Upphör att gälla U:2020-01-01/
-Sekretess gäller för uppgift som hänför sig till 
-sådan verksamhet som avses i 2 kap. 1 § 1 lagen (2018:1693) 
-om polisens behandling av personuppgifter inom 
-brottsdatalagens område, om det inte står klart att uppgiften 
-kan röjas utan att syftet med beslutade eller förutsedda 
-åtgärder motverkas eller den framtida verksamheten skadas. 
-
-Sekretess gäller, under motsvarande förutsättningar som anges 
-i första stycket, för uppgift som hänför sig till sådan 
-verksamhet som avses i 
-
-1. 2 kap. 1 § 1 lagen (2018:1694) om Tullverkets behandling 
-av personuppgifter inom brottsdatalagens område, 
-
-2. 2 kap. 1 § 1 lagen (2018:1695) om Kustbevakningens 
-behandling av personuppgifter inom brottsdatalagens område, 
-eller 
-
-3. 2 kap. 1 § 1 lagen (2018:1696) om Skatteverkets behandling 
-av personuppgifter inom brottsdatalagens område.
-
-Sekretess enligt första stycket gäller inte för uppgift som 
-hänför sig till verksamhet hos Säkerhetspolisen och som har 
-förts in i en allmän handling före år 1949.
-
-För uppgift i en allmän handling gäller sekretessen i högst 
-sjuttio år. Lag (2018:1708).
-
-2 § /Träder i kraft I:2020-01-01/
-Sekretess gäller för uppgift som hänför sig till sådan 
+2 § Sekretess gäller för uppgift som hänför sig till sådan 
 verksamhet som avses i 2 kap. 1 § 1 lagen (2018:1693) om 
 polisens behandling av personuppgifter inom brottsdatalagens 
 område, om det inte står klart att uppgiften kan röjas utan 
@@ -1999,7 +1948,7 @@ förebygga, uppdaga, utreda eller beivra brott samt hos
 tillsynsmyndigheten i konkurs och hos Kronofogdemyndigheten
 för uppgift som angår misstanke om brott. Lag (2014:633).
 
-Sekretessbrytande bestämmelse
+Sekretessbrytande bestämmelser
 
 4 § Sekretessen enligt 2 § hindrar inte att en enskild kan få
 uppgift om huruvida han eller hon förekommer i
@@ -2014,6 +1963,28 @@ verksamheten vid Rikspolisstyrelsens säkerhetsavdelning,
 eller
 
 3. motsvarande äldre bestämmelser.
+
+4 a § Sekretessen enligt 2 § hindrar inte att Säkerhetspolisen 
+lämnar uppgift som avses där till Post- och telestyrelsen, om 
+uppgiften avser
+
+1. frågan om radioanvändning enligt en tillståndsansökan eller 
+en ansökan om medgivande att överlåta eller hyra ut tillstånd 
+att använda radiosändare enligt 3 kap. lagen (2003:389) om 
+elektronisk kommunikation, kan antas komma att orsaka skada 
+för Sveriges säkerhet,
+
+2. behovet av att förena ett sådant tillstånd med villkor om 
+krav som är av betydelse för Sveriges säkerhet och vilka 
+villkor som tillståndet i så fall bör förenas med, eller
+
+3. frågan om det finns skäl att återkalla tillstånd eller 
+ändra tillståndsvillkor enligt 7 kap. 6 § första stycket 4 
+lagen om elektronisk kommunikation.
+
+En uppgift får lämnas endast om intresset av att uppgiften 
+lämnas har företräde framför det intresse som sekretessen ska 
+skydda. Lag (2019:1207).
 
 Kvalificerade skyddsidentiteter
 
@@ -2257,7 +2228,8 @@ brottsdatalagens område. Lag (2018:1708).
 
 Rätten att meddela och offentliggöra uppgifter
 
-19 § Den tystnadsplikt som följer av 5-8, 9 och 10 §§, 11 § 
+19 § /Upphör att gälla U:2020-04-01/
+Den tystnadsplikt som följer av 5-8, 9 och 10 §§, 11 § 
 första stycket och 12 och 13 §§ inskränker rätten enligt 
 1 kap. 1 och 7 §§ tryckfrihetsförordningen och 1 kap. 1 och 
 10 §§ yttrandefrihetsgrundlagen att meddela och offentliggöra 
@@ -2289,6 +2261,41 @@ utöver det som anges i andra stycket följer av 7 kap. 10, 12-
 tryckfrihetsförordningen samt 5 kap. 1 § och 4 § första 
 stycket 1 och andra stycket yttrandefrihetsgrundlagen.
 Lag (2019:305).
+
+19 § /Träder i kraft I:2020-04-01/
+Den tystnadsplikt som följer av 5-8, 9 och 10 §§, 11 § 
+första stycket och 12 och 13 §§ inskränker rätten enligt 
+1 kap. 1 och 7 §§ tryckfrihetsförordningen och 1 kap. 1 och 
+10 §§ yttrandefrihetsgrundlagen att meddela och offentliggöra 
+uppgifter.
+
+Den tystnadsplikt som följer av 1-3 §§ inskränker rätten att 
+meddela och offentliggöra uppgifter, när det är fråga om 
+uppgift om kvarhållande av försändelse på befordringsföretag, 
+hemlig avlyssning av elektronisk kommunikation, hemlig 
+övervakning av elektronisk kommunikation, hemlig 
+kameraövervakning, hemlig rumsavlyssning eller hemlig 
+dataavläsning på grund av beslut av domstol, 
+undersökningsledare eller åklagare eller inhämtning av 
+uppgifter enligt lagen (2012:278) om inhämtning av uppgifter 
+om elektronisk kommunikation i de brottsbekämpande 
+myndigheternas underrättelseverksamhet.
+
+Den tystnadsplikt som följer av 17 § inskränker rätten att 
+meddela och offentliggöra uppgifter, när det är fråga om 
+uppgift om kvarhållande av försändelse på befordringsföretag, 
+hemlig avlyssning av elektronisk kommunikation, hemlig 
+övervakning av elektronisk kommunikation, hemlig 
+kameraövervakning, hemlig rumsavlyssning eller hemlig 
+dataavläsning på grund av beslut av domstol eller åklagare.
+
+Att den tystnadsplikt som följer av 1-3 §§ i vissa fall 
+inskränker rätten att meddela och offentliggöra uppgifter 
+utöver det som anges i andra stycket följer av 7 kap. 10 §, 
+12-18 §§, 20 § 3 och 22 § första stycket 1 och andra stycket 
+tryckfrihetsförordningen samt 5 kap. 1 § och 4 § första 
+stycket 1 och andra stycket yttrandefrihetsgrundlagen.
+Lag (2020:66).
 
 19 kap. Sekretess till skydd för det allmännas ekonomiska
 intresse
@@ -2322,48 +2329,7 @@ uppgiften ingår i ett beslut av den mottagande myndigheten.
 
 Upphandling m.m.
 
-3 § /Upphör att gälla U:2020-01-01/
-Sekretess gäller för uppgift som hänför sig till ärende 
-om förvärv, överlåtelse, upplåtelse eller användning av 
-egendom, tjänst eller annan nyttighet, om det kan antas att 
-det allmänna lider skada om uppgiften röjs. Begreppet tjänst 
-omfattar inte arbete som för en myndighets behov utförs av 
-dess egen eller någon annan myndighets personal, om det inte 
-är fråga om ett arbete som en myndighet i konkurrens med 
-andra myndigheter eller enskilda erbjuder sig att utföra.
-
-Om ett ärende enligt första stycket rör upphandling, får 
-uppgift som rör anbud eller som rör motsvarande erbjudande 
-inom en kommun, ett landsting eller en myndighet eller mellan 
-statliga myndigheter inte i något fall lämnas till någon 
-annan än den som har lämnat anbudet eller erbjudandet förrän 
-alla anbud eller erbjudanden offentliggörs eller beslut om 
-leverantör och anbud fattats eller ärendet dessförinnan har 
-slutförts. Under en elektronisk auktion får dock lämnas 
-sådana uppgifter som avses i 8 kap. 25 § lagen (2016:1145) om 
-offentlig upphandling, 8 kap. 25 § lagen (2016:1146) om 
-upphandling inom försörjningssektorerna eller 6 kap. 11 § 
-lagen (2011:1029) om upphandling på försvars- och 
-säkerhetsområdet.
-
-Om ett ärende enligt första stycket rör försäljning av lös 
-egendom för det allmännas räkning, får uppgift som rör anbud 
-eller som rör motsvarande erbjudande inom en kommun, ett 
-landsting eller en myndighet eller mellan statliga 
-myndigheter inte i något fall lämnas till någon annan än den 
-som har lämnat anbudet eller erbjudandet förrän alla anbud 
-eller erbjudanden offentliggörs eller avtal har slutits eller 
-ärendet annars har slutförts.
-
-För uppgift i en allmän handling gäller sekretessen i högst 
-tjugo år. Beträffande en handling som anger villkoren i ett 
-slutet avtal gäller sekretessen dock längst till dess att två 
-år, eller hos statliga affärsverk, Försvarets materielverk 
-och i kommunal affärsverksamhet fem år, har gått från det att 
-avtalet slöts. Lag (2016:1155).
-
-3 § /Träder i kraft I:2020-01-01/
-Sekretess gäller för uppgift som hänför sig till ärende om 
+3 § Sekretess gäller för uppgift som hänför sig till ärende om 
 förvärv, överlåtelse, upplåtelse eller användning av egendom, 
 tjänst eller annan nyttighet, om det kan antas att det 
 allmänna lider skada om uppgiften röjs. Begreppet tjänst 
@@ -2412,6 +2378,14 @@ valfrihetssystem, eller
 2. vid ett ansökningsförfarande enligt lagen (2013:311) om
 valfrihetssystem i fråga om tjänster för elektronisk
 identifiering. Lag (2013:314).
+
+Sekretessbrytande bestämmelse
+
+3 b § Sekretessen enligt 3 § hindrar inte att uppgift lämnas 
+till Säkerhetspolisen och Försvarsmakten om vem som är sökande 
+i ett ärende om tillstånd att använda radiosändare enligt 
+3 kap. lagen (2003:389) om elektronisk kommunikation.
+Lag (2019:1207).
 
 Upplåning
 
@@ -2655,17 +2629,7 @@ femtio år.
 
 Sekretessbrytande bestämmelse
 
-6 § /Upphör att gälla U:2020-01-01/
-Sekretessen enligt 5 § hindrar inte att uppgifter som
-avses i 37 kap. 4 § lämnas till den nationella
-upplysningsbyrån enligt vad som föreskrivs i 6 kap. 1 § lagen
-(2006:544) om kommuners och landstings åtgärder inför och vid
-extraordinära händelser i fredstid och höjd beredskap och
-förordningen (1996:1475) om skyldighet att lämna upplysningar
-m.m. om krigsfångar och andra skyddade personer.
-
-6 § /Träder i kraft I:2020-01-01/
-Sekretessen enligt 5 § hindrar inte att uppgifter som 
+6 § Sekretessen enligt 5 § hindrar inte att uppgifter som 
 avses i 37 kap. 4 § lämnas till den nationella 
 upplysningsbyrån enligt det som föreskrivs i 6 kap. 1 § lagen 
 (2006:544) om kommuners och regioners åtgärder inför och vid 
@@ -3153,11 +3117,9 @@ med villkor att förbehåll, som inskränker en enskild
 mottagares rätt att lämna uppgiften vidare eller utnyttja
 den, ska göras vid utlämnande av uppgiften.
 
-/Rubriken träder i kraft I:2020-01-01/
 Prövning av oredlighet i forskning
 
-7 a § /Träder i kraft I:2020-01-01/
-Sekretess gäller hos den nämnd som avses i 7 § lagen 
+7 a § Sekretess gäller hos den nämnd som avses i 7 § lagen 
 (2019:504) om ansvar för god forskningssed och prövning av 
 oredlighet i forskning i ärende enligt den lagen
 
@@ -3431,56 +3393,7 @@ patientsäkerhetslagen (2010:659). Lag (2010:679).
 
 Sekretessbrytande bestämmelser
 
-11 § /Upphör att gälla U:2020-01-01/
-Sekretessen enligt 1 § hindrar inte att uppgift lämnas
-
-1. från en myndighet som bedriver verksamhet som avses i 1 § 
-i en kommun till en annan sådan myndighet i samma kommun,
-
-2. från en myndighet som bedriver verksamhet som avses i 1 § 
-i ett landsting till en annan sådan myndighet i samma 
-landsting,
-
-3. till en myndighet som bedriver verksamhet som avses i 1 § 
-eller till en enskild vårdgivare enligt vad som föreskrivs om 
-sammanhållen journalföring i patientdatalagen (2008:355),
-
-4. till ett nationellt eller regionalt kvalitetsregister 
-enligt patientdatalagen, 
-
-5. från en myndighet som bedriver verksamhet som avses i 1 § 
-inom en kommun eller ett landsting till annan sådan myndighet 
-för forskning eller framställning av statistik eller för 
-administration på verksamhetsområdet, om det inte kan antas 
-att den enskilde eller någon närstående till den enskilde 
-lider men om uppgiften röjs, eller 
-
-6. till en enskild enligt vad som föreskrivs i
-
-– lagen (1988:1473) om undersökning beträffande vissa 
-smittsamma sjukdomar i brottmål, 
-
-– lagen (1991:1129) om rättspsykiatrisk vård, 
-
-– smittskyddslagen (2004:168),
-
-– 6 och 7 kap. lagen (2006:351) om genetisk integritet 
-m.m.,
-
-– lagen (2006:496) om blodsäkerhet,
-
-– lagen (2008:286) om kvalitets- och säkerhetsnormer vid 
-hantering av mänskliga vävnader och celler,
-
-– lagen (2012:263) om kvalitets- och säkerhetsnormer vid 
-hantering av mänskliga organ eller förordning som har 
-meddelats med stöd av den lagen, eller
-
-– 2 kap. lagen (2017:612) om samverkan vid utskrivning från 
-sluten hälso- och sjukvård. Lag (2017:614).
-
-11 § /Träder i kraft I:2020-01-01/
-Sekretessen enligt 1 § hindrar inte att uppgift lämnas 
+11 § Sekretessen enligt 1 § hindrar inte att uppgift lämnas 
 
 1. från en myndighet som bedriver verksamhet som avses i 1 § i 
 en kommun till en annan sådan myndighet i samma kommun,
@@ -3975,50 +3888,7 @@ Skattesekretess
 
 Verksamhet som avser bestämmande av skatt, m.m.
 
-1 § /Upphör att gälla U:2020-01-01/
-Sekretess gäller i verksamhet som avser bestämmande av 
-skatt eller fastställande av underlag för bestämmande av 
-skatt eller som avser fastighetstaxering för uppgift om en 
-enskilds personliga eller ekonomiska förhållanden.
-
-Sekretess gäller vidare
-
-1. i verksamhet som avser förande av eller uttag ur 
-beskattningsdatabasen enligt lagen (2001:181) om behandling 
-av uppgifter i Skatteverkets beskattningsverksamhet för 
-uppgift om en enskilds personliga eller ekonomiska 
-förhållanden som har tillförts databasen,
-
-2. hos kommun eller landsting för uppgift om en enskilds 
-personliga eller ekonomiska förhållanden som 
-Skatterättsnämnden har lämnat i ett ärende om förhandsbesked 
-i en skatte- eller taxeringsfråga, och
-
-3. hos Försäkringskassan för uppgift om en enskilds 
-personliga eller ekonomiska förhållanden som Skatteverket har 
-lämnat i ett ärende om särskild sjukförsäkringsavgift.
-
-Med skatt avses i detta kapitel skatt på inkomst och annan 
-direkt skatt samt omsättningsskatt, tull och annan indirekt 
-skatt. Med skatt jämställs arbetsgivaravgift, 
-prisregleringsavgift och liknande avgift, avgift enligt lagen 
-(1999:291) om avgift till registrerat trossamfund, 
-skattetillägg, återkallelseavgift och förseningsavgift samt 
-expeditionsavgift och tilläggsavgift enligt lagen (2004:629) 
-om trängselskatt. Med verksamhet som avser bestämmande av 
-skatt jämställs verksamhet som avser bestämmande av 
-pensionsgrundande inkomst.
-
-Första och andra styckena gäller inte om annat följer av 3, 4 
-eller 6 §.
-
-För uppgift i allmän handling gäller sekretessen i högst 
-tjugo år. För uppgift om avgift enligt lagen om avgift till 
-registrerat trossamfund gäller dock sekretessen i högst 
-sjuttio år. Lag (2016:1203).
-
-1 § /Träder i kraft I:2020-01-01/
-Sekretess gäller i verksamhet som avser bestämmande av 
+1 § Sekretess gäller i verksamhet som avser bestämmande av 
 skatt eller fastställande av underlag för bestämmande av skatt 
 eller som avser fastighetstaxering för uppgift om en enskilds 
 personliga eller ekonomiska förhållanden. 
@@ -4906,57 +4776,7 @@ med den uppgiftsskyldige.
 För uppgift i en allmän handling gäller sekretessen i högst
 tjugo år. Lag (2014:492).
 
-4 b § /Upphör att gälla U:2019-12-15/
-Sekretess gäller i en statlig myndighets verksamhet som 
-består i tillståndsgivning eller tillsyn med avseende på bank- 
-och kreditväsendet, värdepappersmarknaden eller 
-försäkringsväsendet för uppgift i en anmälan eller utsaga om 
-överträdelse av bestämmelse som gäller för den som myn-
-dighetens verksamhet avser, om uppgiften kan avslöja 
-anmälarens identitet. 
-
-Sekretess gäller i en statlig myndighets verksamhet enligt 
-lagen (1998:1479) om värdepapperscentraler och kontoföring av 
-finansiella instrument, lagen (2007:528) om 
-värdepappersmarknaden, lagen (2017:317) med kompletterande 
-bestämmelser till EU:s förordning om faktablad för Priip-
-produkter, lagen (2018:1219) om försäkringsdistribution eller 
-lagen (2019:414) med kompletterande bestämmelser till EU:s 
-prospektförordning för uppgift om en enskilds personliga och 
-ekonomiska förhållanden i en anmälan eller utsaga, om
-
-1. anmälan eller utsagan avser en överträdelse av bestämmelse 
-i lag eller annan författning som gäller för 
-
-a) värdepapperscentralers och utsedda kreditinstituts 
-verksamhet,
-
-b) verksamhet i värdepappersinstitut, börser och leverantörer 
-av datarapporteringstjänster, 
-
-c) den som utvecklar, ger råd om eller säljer en Priip-
-produkt, 
-
-d) försäkringsdistributörers verksamhet, eller
-
-e) den som omfattas av Europaparlamentets och rådets 
-förordning (EU) 2017/1129 av den 14 juni 2017 om prospekt som 
-ska offentliggöras när värdepapper erbjuds till allmänheten 
-eller tas upp till handel på en reglerad marknad, och om 
-upphävande av direktiv 2003/71/EG, och
-
-2. uppgiften kan avslöja den anmäldes identitet och det inte 
-står klart att uppgiften kan röjas utan att denne lider skada 
-eller men.
-
-Sekretessen enligt andra stycket gäller inte beslut om 
-sanktioner eller sanktionsförelägganden.
-
-För uppgift i en allmän handling gäller sekretessen i högst 
-femtio år. Lag (2019:421).
-
-4 b § /Träder i kraft I:2019-12-15/
-Sekretess gäller i en statlig myndighets verksamhet som 
+4 b § Sekretess gäller i en statlig myndighets verksamhet som 
 består i tillståndsgivning eller tillsyn med avseende på bank- 
 och kreditväsendet, värdepappersmarknaden eller 
 försäkringsväsendet eller med avseende på pensionsstiftelser 
@@ -5019,34 +4839,7 @@ femtio år. (Lag 2016:441).
 
 Ägarprövning
 
-5 § /Upphör att gälla U:2019-12-15/
-Sekretess gäller för uppgift om en enskilds personliga 
-eller ekonomiska förhållanden, om det kan antas att den 
-enskilde lider skada eller men om uppgiften röjs och 
-uppgiften förekommer i ett ärende hos en statlig myndighet om 
-innehav av 
-
-1. aktier i bankaktiebolag, kreditmarknadsbolag, 
-värdepappersbolag, fondbolag eller försäkringsaktiebolag,
-
-2. andelar i medlemsbank eller kreditmarknadsförening, 
-eller
-3. aktier eller andelar i börs, clearingorganisation, 
-svensk värdepapperscentral, betalningsinstitut, institut för 
-elektroniska pengar eller företag som driver verksamhet 
-enligt lagen (2014:275) om viss verksamhet med 
-konsumentkrediter eller lagen (2016:1024) om verksamhet med 
-bostadskrediter.
-
-Sekretessen gäller inte beslut av myndigheten och inte heller 
-för uppgift från en annan myndighet om uppgiften inte är 
-sekretessreglerad där. 
-
-För uppgift i allmän handling gäller sekretessen i högst 
-tjugo år. Lag (2016:1030).
-
-5 § /Träder i kraft I:2019-12-15/
-Sekretess gäller för uppgift om en enskilds personliga 
+5 § Sekretess gäller för uppgift om en enskilds personliga 
 eller ekonomiska förhållanden, om det kan antas att den 
 enskilde lider skada eller men om uppgiften röjs och uppgiften 
 förekommer i ett ärende hos en statlig myndighet om innehav av
@@ -5584,19 +5377,7 @@ tjugo år.
 
 Överföring av sekretess
 
-25 § /Upphör att gälla U:2020-01-01/
-Får ett landsting eller en kommun som inte ingår i ett
-landsting i samband med sådana överläggningar som avses i 9
-och 13 §§ lagen (2002:160) om läkemedelsförmåner m.m. en
-uppgift från Tandvårds- och läkemedelsförmånsverket som är
-sekretessreglerad enligt 23 § första stycket 1, blir
-sekretessbestämmelsen tillämplig på uppgiften även hos
-landstinget eller kommunen. Detta gäller dock inte om det
-finns en primär sekretessbestämmelse till skydd för samma
-intresse som är tillämplig på uppgiften hos den mottagande
-myndigheten.
-
-25 § /Träder i kraft I:2020-01-01/
+25 § /Upphör att gälla U:den dag som regeringen bestämmer/
 Får en region eller en kommun som inte ingår i en region 
 i samband med sådana överläggningar som avses i 9 och 13 §§ 
 lagen (2002:160) om läkemedelsförmåner m.m. en uppgift från 
@@ -5775,33 +5556,9 @@ förhållanden.
 För uppgift i en allmän handling gäller sekretessen i högst
 tjugo år.
 
-/Rubriken upphör att gälla U:2020-01-01/
-Affärsverksamhet hos kommunala eller landstingskommunala
-företag
-
-/Rubriken träder i kraft I:2020-01-01/
 Affärsverksamhet hos kommunala bolag
 
-3 § /Upphör att gälla U:2020-01-01/
-Sekretess gäller i affärsverksamhet hos en bank, ett 
-kreditmarknadsföretag eller ett värdepappersbolag som 
-samverkande kommuner eller landsting utövar ett rättsligt 
-bestämmande inflytande över för uppgift om en enskilds 
-ekonomiska eller personliga förhållanden, om det inte står 
-klart att uppgiften kan lämnas ut utan att den enskilde lider 
-skada eller men. I ett ärende enligt lagen (2016:1145) om 
-offentlig upphandling, lagen (2016:1146) om upphandling inom 
-försörjningssektorerna, lagen (2016:1147) om upphandling av 
-koncessioner eller lagen (2011:1029) om upphandling på 
-försvars- och säkerhetsområdet gäller dock sekretess för 
-sådana uppgifter endast om det kan antas att den enskilde 
-lider skada eller men om uppgiften röjs.
-
-För uppgift i en allmän handling gäller sekretessen i högst 
-tjugo år. Lag (2017:351).
-
-3 § /Träder i kraft I:2020-01-01/
-Sekretess gäller i affärsverksamhet hos en bank, ett 
+3 § Sekretess gäller i affärsverksamhet hos en bank, ett 
 kreditmarknadsföretag eller ett värdepappersbolag som 
 samverkande kommuner eller regioner utövar ett rättsligt 
 bestämmande inflytande över för uppgift om en enskilds 
@@ -6617,67 +6374,7 @@ Förundersökning, register, kontaktförbud, m.m.
 Förundersökning, brottsförebyggande verksamhet, register,
 m.m.
 
-1 § /Upphör att gälla U:2020-01-01/
-Sekretess gäller för uppgift om en enskilds personliga och 
-ekonomiska förhållanden, om det inte står klart att uppgiften 
-kan röjas utan att den enskilde eller någon närstående till 
-honom eller henne lider skada eller men och uppgiften 
-förekommer i 
-
-1. utredning enligt bestämmelserna om förundersökning i 
-brottmål, 
-
-2. angelägenhet som avser användning av tvångsmedel i brottmål 
-eller i annan verksamhet för att förebygga brott, 
-
-3. angelägenhet som avser säkerhetsprövning enligt 
-säkerhetsskyddslagen (2018:585),
-
-4. annan verksamhet som syftar till att förebygga, uppdaga, 
-utreda eller beivra brott eller verkställa uppbörd och som 
-bedrivs av en åklagarmyndighet, Polismyndigheten, 
-Säkerhetspolisen, Skatteverket, Tullverket eller Kust-
-bevakningen,
-
-5. register som förs av Polismyndigheten enligt 5 kap. lagen 
-(2018:1693) om polisens behandling av personuppgifter inom 
-brottsdatalagens område eller som annars behandlas med stöd av 
-de bestämmelserna,
-
-6. register som förs enligt lagen (1998:621) om 
-misstankeregister,
-
-7. register som förs av Skatteverket enligt lagen (2018:1696) 
-om Skatteverkets behandling av personuppgifter inom 
-brottsdatalagens område eller som annars behandlas där med 
-stöd av samma lag,
-
-8. särskilt ärenderegister över brottmål som förs av 
-åklagarmyndighet, om uppgiften inte hänför sig till 
-registrering som avses i 5 kap. 1 §, eller
-
-9. register som förs av Tullverket enligt lagen (2018:1694) om 
-Tullverkets behandling av personuppgifter inom 
-brottsdatalagens område eller som annars behandlas där med 
-stöd av samma lag.
-
-Sekretessen enligt första stycket 2 gäller hos domstol i dess 
-rättskipande eller rättsvårdande verksamhet endast om det kan 
-antas att den enskilde eller någon närstående till honom eller 
-henne lider skada eller men om uppgiften röjs. Vid förhandling 
-om användning av tvångsmedel gäller sekretess för uppgift om 
-vem som är misstänkt endast om det kan antas att fara upp-
-kommer för att den misstänkte eller någon närstående till 
-honom eller henne utsätts för våld eller lider annat 
-allvarligt men om uppgiften röjs.
-
-Första stycket gäller inte om annat följer av 2, 6 eller 7 §.
-
-För uppgift i en allmän handling gäller sekretessen i högst 
-sjuttio år. Lag (2019:434).
-
-1 § /Träder i kraft I:2020-01-01/
-Sekretess gäller för uppgift om en enskilds personliga och 
+1 § Sekretess gäller för uppgift om en enskilds personliga och 
 ekonomiska förhållanden, om det inte står klart att uppgiften 
 kan röjas utan att den enskilde eller någon närstående till 
 honom eller henne lider skada eller men och uppgiften 
@@ -6719,7 +6416,7 @@ stöd av samma lag,
 registrering som avses i 5 kap. 1 §, eller
 
 9. register som förs av Tullverket enligt lagen (2018:1694) om 
-Tull-verkets behandling av personuppgifter inom 
+Tullverkets behandling av personuppgifter inom 
 brottsdatalagens område eller som annars behandlas där med 
 stöd av samma lag.
 
@@ -6923,49 +6620,11 @@ inspektionens uppgifter enligt lagen (2016:1306) med
 kompletterande bestämmelser till EU:s 
 marknadsmissbruksförordning. Lag (2016:1314).
 
-10 § /Upphör att gälla U:2020-01-01/
-Sekretessen enligt 1 § hindrar inte att en uppgift 
-lämnas ut
-
-1. till en enskild enligt vad som föreskrivs i lagen 
-(1964:167) med särskilda bestämmelser om unga 
-lagöverträdare,
-
-2. till en enskild enligt vad som föreskrivs i 
-säkerhetsskyddslagen (2018:585) och i förordning som har 
-meddelats med stöd i den lagen,
-
-3. till en enskild enligt vad som föreskrivs i 27 kap. 8 § 
-rättegångsbalken,
-
-4. enligt vad som föreskrivs i
-
-– lagen (1998:621) om misstankeregister,
-
-– lagen (2018:1693) om polisens behandling av personuppgifter 
-inom brottsdatalagens område,
-
-– lagen (2018:1694) om Tullverkets behandling av 
-personuppgifter inom brottsdatalagens område,
-
-– lagen (2018:1695) om Kustbevakningens behandling av 
-personuppgifter inom brottsdatalagens område,
-
-– lagen (2018:1696) om Skatteverkets behandling av 
-personuppgifter inom brottsdatalagens område,
-
-– lagen (2018:1697) om åklagarväsendets behandling av 
-personuppgifter inom brottsdatalagens område, eller
-
-– förordningar som har stöd i dessa lagar.
-Lag (2018:1716).
-
-10 § /Träder i kraft I:2020-01-01/
-Sekretessen enligt 1 § hindrar inte att en uppgift lämnas 
+10 § Sekretessen enligt 1 § hindrar inte att en uppgift lämnas 
 ut 
 
 1. till en enskild enligt vad som föreskrivs i lagen 
-(1964:167) med sär-skilda bestämmelser om unga lagöverträdare, 
+(1964:167) med särskilda bestämmelser om unga lagöverträdare, 
 
 2. till en enskild enligt vad som föreskrivs i 
 säkerhetsskyddslagen (2018:585) och i förordning som har 
@@ -7427,43 +7086,7 @@ tjugo år. Lag (2011:864).
 
 Mål om kollektivavtal, diskriminering, m.m.
 
-4 § /Upphör att gälla U:2020-01-01/
-Sekretess gäller hos domstol för uppgift om en enskilds 
-personliga eller ekonomiska förhållanden, om det kan antas 
-att den enskilde eller någon närstående till denne lider 
-avsevärd skada eller betydande men om uppgiften röjs och 
-uppgiften förekommer i
-
-1. mål om kollektivavtal, och 
-
-2. mål om tillämpningen av 
-
-– lagen (1976:580) om medbestämmande i arbetslivet, 
-
-– lagen (1982:80) om anställningsskydd,
-
-– 6 kap. 7–12 §§ skollagen (2010:800),
-
-– 31–33 §§ lagen (1994:260) om offentlig anställning, 
-
-– 4–11 §§ lagen (1994:261) om fullmaktsanställning, 
-
-– 16 och 17 §§ föräldraledighetslagen (1995:584),
-
-– 3–7 §§ lagen (2002:293) om förbud mot diskriminering av 
-deltidsarbetande arbetstagare och arbetstagare med 
-tidsbegränsad anställning, 
-
-– 2 och 5 kap. diskrimineringslagen (2008:567), eller
-
-– lagen (2016:749) om särskilt skydd mot repressalier för 
-arbetstagare som slår larm om allvarliga missförhållanden.
-
-För uppgift i en allmän handling gäller sekretessen i högst 
-tjugo år. Lag (2016:750).
-
-4 § /Träder i kraft I:2020-01-01/
-Sekretess gäller hos domstol för uppgift om en enskilds 
+4 § Sekretess gäller hos domstol för uppgift om en enskilds 
 personliga eller ekonomiska förhållanden, om det kan antas att 
 den enskilde eller någon närstående till denne lider avsevärd 
 skada eller betydande men om uppgiften röjs och uppgiften 
@@ -7644,17 +7267,7 @@ femtio år. Lag (2010:456).
 
 Sekretessbrytande bestämmelse
 
-5 § /Upphör att gälla U:2020-01-01/
-Sekretess enligt 4 § hindrar inte att uppgifter som avses
-i den paragrafen lämnas till den nationella upplysningsbyrån
-enligt vad som föreskrivs i 6 kap. 1 § lagen (2006:544) om
-kommuners och landstings åtgärder inför och vid extraordinära
-händelser i fredstid och höjd beredskap och förordningen
-(1996:1475) om skyldighet att lämna upplysningar m.m. om
-krigsfångar och andra skyddade personer.
-
-5 § /Träder i kraft I:2020-01-01/
-Sekretess enligt 4 § hindrar inte att uppgifter som avses 
+5 § Sekretess enligt 4 § hindrar inte att uppgifter som avses 
 i den paragrafen lämnas till den nationella upplysningsbyrån 
 enligt det som föreskrivs i 6 kap. 1 § lagen (2006:544) om 
 kommuners och regioners åtgärder inför och vid extraordinära 
@@ -7795,29 +7408,7 @@ tjugo år.
 
 Beredskapsförberedelser
 
-7 § /Upphör att gälla U:2020-01-01/
-Sekretess gäller hos kommuner och landsting i verksamhet
-som avser beredskap för extraordinära händelser i fredstid
-och höjd beredskap enligt lagen (2006:544) om kommuners och
-landstings åtgärder inför och vid extraordinära händelser i
-fredstid och höjd beredskap eller planering enligt
-förfogandelagen (1978:262)
-
-1. för uppgift om en enskilds affärs- eller
-driftförhållanden, uppfinningar eller forskningsresultat, om
-det kan antas att den enskilde lider skada om uppgiften röjs,
-och
-
-2. för uppgift om andra ekonomiska eller personliga
-förhållanden än som avses i 1 för den som har trätt i
-affärsförbindelse eller liknande förbindelse med den som är
-föremål för verksamheten.
-
-För uppgift i en allmän handling gäller sekretessen i högst
-tjugo år.
-
-7 § /Träder i kraft I:2020-01-01/
-Sekretess gäller hos kommuner och regioner i verksamhet 
+7 § Sekretess gäller hos kommuner och regioner i verksamhet 
 som avser beredskap för extraordinära händelser i fredstid och 
 höjd beredskap enligt lagen (2006:544) om kommuners och 
 regioners åtgärder inför och vid extraordinära händelser i 
@@ -8645,27 +8236,7 @@ myndigheternas underrättelseverksamhet. Lag (2018:1919).
 
 Annan lagstiftning
 
-5 § /Upphör att gälla U:2020-01-01/
-Rätten enligt 1 kap. 1 och 7 §§ 
-tryckfrihetsförordningen och 1 kap. 1 och 10 §§ 
-yttrandefrihetsgrundlagen att meddela och offentliggöra 
-uppgifter inskränks av den tystnadsplikt som följer av 
-
-1. beslut som har meddelats med stöd av 7 § lagen (1999:988) 
-om förhör m.m. hos kommissionen för granskning av de svenska 
-säkerhetstjänsternas författningsskyddande verksamhet,
-
-2. 7 kap. 1 § 1 lagen (2006:544) om kommuners och landstings 
-åtgärder inför och vid extraordinära händelser i fredstid och 
-höjd beredskap, 
-
-3. 4 kap. 16 § försäkringsrörelselagen (2010:2043), och 
-
-4. 5 kap. 15 § lagen (1998:293) om utländska 
-försäkringsgivares och tjänstepensionsinstituts verksamhet i 
-Sverige. Lag (2018:1919).
-
-5 § /Träder i kraft I:2020-01-01/
+5 § /Upphör att gälla U:2020-04-01/
 Rätten enligt 1 kap. 1 och 7 §§ tryckfrihetsförordningen 
 och 1 kap. 1 och 10 §§ yttrandefrihetsgrundlagen att meddela 
 och offentliggöra uppgifter inskränks av den tystnadsplikt som 
@@ -8685,6 +8256,30 @@ höjd beredskap,
 4. av 5 kap. 15 § lagen (1998:293) om utländska 
 försäkringsgivares och tjänstepensionsinstituts verksamhet i 
 Sverige. Lag (2019:937).
+
+5 § /Träder i kraft I:2020-04-01/
+Rätten enligt 1 kap. 1 och 7 §§ tryckfrihetsförordningen 
+och 1 kap. 1 och 10 §§ yttrandefrihetsgrundlagen att meddela 
+och offentliggöra uppgifter inskränks av den tystnadsplikt som 
+följer 
+
+1. av beslut som har meddelats med stöd av 7 § lagen 
+(1999:988) om förhör m.m. hos kommissionen för granskning av 
+de svenska säkerhetstjänsternas författningsskyddande 
+verksamhet, 
+
+2. av 7 kap. 1 § 1 lagen (2006:544) om kommuners och regioners 
+åtgärder inför och vid extraordinära händelser i fredstid och 
+höjd beredskap,
+
+3. av 4 kap. 16 § försäkringsrörelselagen (2010:2043),
+
+4. av 5 kap. 15 § lagen (1998:293) om utländska 
+försäkringsgivares och tjänstepensionsinstituts verksamhet i 
+Sverige, och
+
+5. av 32 § lagen (2020:62) om hemlig dataavläsning.
+Lag (2020:66).
 
 
 Övergångsbestämmelser
@@ -9065,16 +8660,7 @@ före ikraftträdandet.
 
 1. Denna lag träder i kraft den 1 januari 2019.
 
-2. /Upphör att gälla U:2020-01-01 genom lag (2019:1184)./
-Äldre föreskrifter gäller fortfarande för sådan verksamhet 
-som avses i 6 kap. 1 § 1 polisdatalagen (2010:361). 
-
-3. Äldre föreskrifter gäller fortfarande för uppgifter som 
-behandlas av Säkerhetspolisen med stöd av polisdatalagen.
-
-4. Äldre föreskrifter gäller fortfarande för uppgifter i 
-handlingar som har omhändertagits för arkivering före 
-ikraftträdandet.
+2. Har upphävts genom lag (2019:1184).
 
 
 Bilaga
