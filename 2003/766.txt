@@ -138,18 +138,7 @@ socialförsäkringsdatabasen som dels gäller den registrerades
 namn, personnummer och, i förekommande fall, samordningsnummer,
 dels avses i 2 § 10, 16 och 33.
 
-3 a § /Upphör att gälla U:2020-01-01/
-Arbetsförmedlingen, kommuner och landsting som deltar i
-samverkan och finansiell samordning inom rehabiliteringsområdet
-får ha direktåtkomst till personuppgifter i
-socialförsäkringsdatabasen i den utsträckning den registrerade
-samtycker till det. Endast de personer vid nämnda myndigheter
-som ansvarar för den lokala samverkansaktivitet i vilken den
-registrerade deltar får ges behörighet för direktåtkomst till
-sådana personuppgifter. Förordning (2007:928).
-
-3 a § /Träder i kraft I:2020-01-01/
-Arbetsförmedlingen, kommuner och regioner som deltar i 
+3 a § Arbetsförmedlingen, kommuner och regioner som deltar i 
 samverkan och finansiell samordning inom 
 rehabiliteringsområdet får ha direktåtkomst till 
 personuppgifter i socialförsäkringsdatabasen i den 
@@ -194,12 +183,12 @@ automatiserad behandling till en försäkringsinrättning som
 administrerar avtalspensioner eller motsvarande ersättningar
 som följer av kollektivavtal. Förordning (2011:480).
 
-4 c § För beräkning och kontroll av sjukpenninggrundande
-inkomst, bostadsbidrag, underhållsstöd, bostadstillägg och
-äldreförsörjningsstöd får personnummer eller samordningsnummer
-i socialförsäkringsdatabasen lämnas ut på medium för
-automatiserad behandling till Skatteverket.
-Förordning (2011:1522).
+4 c § För beräkning och kontroll av sjukpenninggrundande 
+inkomst, sjukpenning, bostadsbidrag, underhållsstöd, 
+bostadstillägg och äldreförsörjningsstöd får personnummer 
+eller samordningsnummer i socialförsäkringsdatabasen lämnas ut 
+på medium för automatiserad behandling till Skatteverket.
+Förordning (2020:197).
 
 4 d § För handläggning av ärenden som avser fordringar,
 återkrav och kontrollutredning får personnummer eller
@@ -212,6 +201,11 @@ kontaktuppgifter och uppgifter om när dessa registrerades får
 personuppgifter i socialförsäkringsdatabasen lämnas ut på
 medium för automatiserad behandling till Statistiska
 centralbyrån. Förordning (2015:641).
+
+4 f § För överprövning av beslut eller av andra åtgärder får 
+personuppgifter i socialförsäkringsdatabasen lämnas ut på 
+medium för automatiserad behandling till domstol.
+Förordning (2020:197).
 
 5 § För tillhandahållande av information om fastställd 
 dagpenning och för redovisning av utbetalat aktivitetsstöd, 
@@ -264,51 +258,7 @@ Förordning (2018:461).
 
 Bemyndiganden
 
-8 § /Upphör att gälla U:2020-01-01/
-Försäkringskassan får meddela föreskrifter i fråga om 
-
-1. formerna för tilldelning av behörighet för åtkomst till 
-socialförsäkringsdatabasen genom en särskild handling,
-
-2. vilka uppgifter i socialförsäkringsdatabasen 
-Försäkringskassan och Pensionsmyndigheten får ha 
-direktåtkomst till och formerna för direktåtkomsten,
-
-4. vilka uppgifter i socialförsäkringsdatabasen Statens 
-tjänstepensionsverk och det för kommunerna och landstingen 
-gemensamma organet för administration av personalpensioner 
-får ha direktåtkomst till,
-
-5. vilka uppgifter i socialförsäkringsdatabasen som får 
-lämnas ut på medium för automatiserad behandling för 
-sammanställning av gemensam pensionsinformation,
-
-6. vilka uppgifter i socialförsäkringsdatabasen som får 
-lämnas ut på medium för automatiserad behandling till organ 
-som driver försäkringsrörelse,
-
-7. begränsningar av de sökbegrepp som får användas vid 
-sökning i socialförsäkringsdatabasen,
-
-8. fastställande av avgifter för utlämnade av uppgifter och 
-handlingar från socialförsäkringsdatabasen, om inte 
-utlämnandet är avgiftsfritt till följd av att det sker till 
-en annan myndighet på grund av att det föreligger en sådan 
-skyldighet i lag eller förordning, och
-
-9. vilka särskilda åtgärder som Försäkringskassan och 
-Pensionsmyndigheten ska vidta för att kontrollera 
-efterlevnaden av bestämmelserna i 114 kap. 
-socialförsäkringsbalken.
-
-Om föreskrifterna enligt första stycket avser uppgifter som 
-faller under Pensionsmyndighetens personuppgiftsansvar enligt 
-114 kap. 6 a § socialförsäkringsbalken, ska föreskrifterna 
-beslutas i samråd med Pensionsmyndigheten.
-Förordning (2018:461).
-
-8 § /Träder i kraft I:2020-01-01/
-Försäkringskassan får meddela föreskrifter i fråga om
+8 § Försäkringskassan får meddela föreskrifter i fråga om
 
 1. formerna för tilldelning av behörighet för åtkomst till 
 socialförsäkringsdatabasen genom en särskild handling,
