@@ -85,29 +85,30 @@ arbetslöshetsförsäkring, lämnas enligt följande.
 Till den som har arbetat heltid under hela ramtiden lämnas 
 inkomstrelaterad ersättning med lägst 510 kronor per dag. För 
 den som inte har arbetat heltid under hela ramtiden ska det 
-lägsta beloppet minskas proportionellt. Inkomstrelaterad 
-ersättning lämnas med högst 760 kronor per dag. Till den som 
-har haft en inkomst som ger en inkomstrelaterad ersättning som 
-överstiger 760 kronor per dag lämnas dock inkomstrelaterad 
-ersättning med högst 1 200 kronor per dag under de första 100 
-dagarna i en ersättningsperiod. I ersättningsperioden räknas 
-såväl dagar med grundbelopp som dagar med inkomstrelaterad 
-ersättning.
+lägsta beloppet minskas proportionellt, dock inte understiga 
+255 kronor per dag. Inkomstrelaterad ersättning lämnas med 
+högst 760 kronor per dag. Till den som har haft en inkomst som 
+ger en inkomstrelaterad ersättning som överstiger 760 kronor 
+per dag lämnas dock inkomstrelaterad ersättning med högst 
+1 200 kronor per dag under de första 100 dagarna i en 
+ersättningsperiod. I ersättningsperioden räknas såväl dagar 
+med grundbelopp som dagar med inkomstrelaterad ersättning.
 
 Till den som omfattas av 27 a § lagen om 
 arbetslöshetsförsäkring lämnas dagpenning med lägst 510 kronor 
 per dag, under förutsättning att sökanden arbetat heltid under 
 hela den ramtid som föregick den senaste perioden med 
 arbetslöshetsersättning. För den som inte arbetat heltid under 
-hela den tiden ska det lägsta beloppet minskas proportionellt.
+hela den tiden ska det lägsta beloppet minskas proportionellt, 
+dock inte understiga 255 kronor per dag.
 
 Till den som omfattas av 30 § lagen om arbetslöshetsförsäkring 
 lämnas dagpenning med lägst 510 kronor per dag, under 
 förutsättning att sökandens totala arbetsutbud under 
 deltagande i garantin motsvarat heltid. För den som inte har 
-haft ett arbetsutbud motsvarande heltid under tiden i 
-garantin, ska det lägsta beloppet minskas proportionellt.
-Förordning (2020:220).
+haft ett arbetsutbud motsvarande heltid under tiden i garantin 
+ska det lägsta beloppet minskas proportionellt, dock inte 
+understiga 255 kronor per dag. Förordning (2020:263).
 
 4 § /Träder i kraft I:2021-01-04/
 Dagpenning i form av inkomstrelaterad ersättning ska, om 
@@ -928,3 +929,14 @@ ikraftträdandet gäller 3 och 4 §§ i den äldre lydelsen.
 
 3. Den upphävda 5 d § gäller dock fortfarande för uppehåll i 
 näringsverksamhet som har inletts före ikraftträdandet.
+
+2020:263
+
+1. Denna förordning träder i kraft den 4 maj 2020.
+
+2. Bestämmelserna i 4 § i den nya lydelsen tillämpas dock för 
+arbetslöshetsersättning som avser tid från och med den 
+13 april 2020.
+
+3. För arbetslöshetsersättning som avser tid före den 13 april 
+2020 gäller 4 § i den äldre lydelsen.
