@@ -10,15 +10,37 @@ Definitioner
 
 3 § I denna lag avses med
 
-energiprestanda: den mängd energi som behöver användas i en
-byggnad för att uppfylla de behov som är knutna till ett
-normalt bruk av byggnaden under ett år, och
+energiprestanda: den mängd energi som behöver användas i en 
+byggnad för att uppfylla de behov som är knutna till ett 
+normalt bruk av byggnaden under ett år,
 
-oberoende expert: en person som enligt denna lag och de
-föreskrifter som har meddelats med stöd av lagen är oberoende
-i förhållande till sin uppdragsgivare och har särskild
-sakkunskap om energianvändning och inomhusmiljö i byggnader.
-Lag (2012:397).
+luftkonditioneringssystem: ett system för att åstadkomma en 
+form av behandling av inomhusluft, genom vilken temperaturen 
+kan kontrolleras eller sänkas,
+
+nominell effekt: den maximala värmeeffekt, uttryckt i 
+kilowatt, som tillverkaren fastställt och garanterar vid 
+kontinuerlig drift om de av tillverkaren angivna 
+verkningsgraderna respekteras,
+
+uppvärmningssystem: ett system för att åstadkomma en form av 
+behandling av inomhusluft genom vilken temperaturen kan höjas, 
+och
+
+värmegenerator: den del av ett uppvärmningssystem som 
+genererar värme genom en eller flera av följande processer: 
+
+1. förbränning av bränsle, 
+
+2. jouleeffekt i värmeelement med elektriska motstånd, eller
+
+3. värmeupptagning med hjälp av en värmepump från en 
+värmekälla i form av omgivningsluft, ventilationsfrånluft, 
+vatten eller mark.
+
+Regeringen eller den myndighet som regeringen bestämmer får 
+meddela ytterligare föreskrifter om vad som avses med nominell 
+effekt och värmegenerator. Lag (2020:238).
 
 Skyldighet att energideklarera byggnader
 
@@ -67,52 +89,99 @@ Regeringen eller den myndighet som regeringen bestämmer får
 meddela föreskrifter om besiktning enligt första stycket och
 om undantag från kravet på sådan besiktning. Lag (2012:397).
 
+Inspektion av uppvärmnings- och luftkonditioneringssystem i 
+byggnader som ska energideklareras
+
+8 a § Om en byggnad ska energideklareras enligt 5 § och 
+byggnaden har ett uppvärmnings- eller luftkonditioneringssystem, 
+ska byggnadens ägare se till att systemets tillgängliga delar 
+inspekteras innan energideklarationen upprättas, om systemet 
+är 
+
+1. ett uppvärmningssystem eller ett kombinerat 
+rumsuppvärmnings- och ventilationssystem med en nominell effekt 
+på rumsuppvärmning på över 70 kilowatt, eller 
+
+2. ett luftkonditioneringssystem eller ett kombinerat 
+luftkonditionerings- och ventilationssystem med en nominell 
+effekt på över 70 kilowatt.
+
+Regeringen eller den myndighet som regeringen bestämmer får 
+meddela föreskrifter om inspektion enligt första stycket och 
+om undantag från kravet på sådan inspektion. Lag (2020:238).
+
 Energideklarationens innehåll
 
-9 § I en energideklaration skall det anges
+9 § I en energideklaration ska det anges
 
 1. en uppgift om byggnadens energiprestanda,
 
-2. om obligatorisk funktionskontroll av ventilationssystemet
+2. om obligatorisk funktionskontroll av ventilationssystemet 
 har utförts i byggnaden,
 
 3. om radonmätning har utförts i byggnaden,
 
-4. om byggnadens energiprestanda kan förbättras med beaktande
-av en god inomhusmiljö och, om så är fallet, rekommendationer
-om kostnadseffektiva åtgärder för att förbättra byggnadens
+4. om byggnadens energiprestanda kan förbättras med beaktande 
+av en god inomhusmiljö och, om så är fallet, rekommendationer 
+om kostnadseffektiva åtgärder för att förbättra byggnadens 
 energiprestanda, och
 
-5. referensvärden, som gör det möjligt för konsumenter att
-bedöma byggnadens energiprestanda och att jämföra byggnadens
+5. referensvärden, som gör det möjligt för konsumenter att 
+bedöma byggnadens energiprestanda och att jämföra byggnadens 
 energiprestanda med andra byggnaders.
 
-Regeringen eller den myndighet som regeringen bestämmer får
-meddela föreskrifter om hur en byggnads energiprestanda enligt
-första stycket 1 skall fastställas, vilka referensvärden som
-skall användas enligt första stycket 5 och vilka uppgifter som
-utöver första stycket 1-5 skall lämnas i en deklaration.
+I fall som avses i 8 a § ska energideklarationen även 
+innehålla
 
-10 § Har upphävts genom lag (2012:397).
+1. en bedömning av värmegeneratorns eller 
+luftkonditioneringssystemets verkningsgrad och storlek i 
+förhållande till byggnadens uppvärmnings- eller kylbehov, 
+och
+
+2. rekommendationer om kostnadseffektiva åtgärder för att 
+förbättra systemets energiprestanda.
+
+Regeringen eller den myndighet som regeringen bestämmer får 
+meddela föreskrifter om hur en byggnads energiprestanda enligt 
+första stycket 1 ska fastställas, om vilka referensvärden som 
+ska användas enligt första stycket 5 och om vilka ytterligare 
+uppgifter som ska lämnas i deklarationen. Lag (2020:238).
+
+Inspektion av uppvärmnings- och luftkonditioneringssystem i 
+byggnader som inte ska energideklareras
+
+10 § Om det i en byggnad som inte ska energideklareras enligt 
+5 § finns ett sådant system som anges i 8 a § första stycket, 
+ska byggnadens ägare se till att systemets tillgängliga delar 
+inspekteras minst vart tionde år och att det till följd av det 
+upprättas ett inspektionsprotokoll. Protokollet ska innehålla 
+de uppgifter som anges i 9 § andra stycket.
+
+Regeringen eller den myndighet som regeringen bestämmer får 
+meddela ytterligare föreskrifter om kraven i första stycket, 
+om undantag från dessa krav och om vilka uppgifter som ska 
+lämnas i protokollet. Lag (2020:238).
 
 11 § Har upphävts genom lag (2012:397).
 
 Oberoende expert
 
-12 § Den som enligt 4, 5 eller 6 § ska se till att det finns
-en energideklaration upprättad för byggnaden ska utse en
-oberoende expert som
+12 § Den som ska se till att det enligt 4, 5 eller 6 § finns 
+en energideklaration upprättad eller att ett system 
+inspekteras enligt 10 § ska utse en oberoende expert som
 
-1. gör en besiktning enligt 8 §,
+1. gör en besiktning och en inspektion enligt 8 och 8 a §§ 
+eller en inspektion enligt 10 §,
 
-2. upprättar en energideklaration, och
+2. upprättar en energideklaration eller ett 
+inspektionsprotokoll, och
 
-3. för över energideklarationen elektroniskt till Boverket.
+3. för över deklarationen eller protokollet elektroniskt till 
+Boverket.
 
-Regeringen eller den myndighet som regeringen bestämmer får
-meddela föreskrifter om vilka krav på sakkunskap och
-oberoende som ska ställas på en oberoende expert.
-Lag (2013:773).
+Regeringen eller den myndighet som regeringen bestämmer får 
+meddela föreskrifter om vilka krav på sakkunskap och oberoende 
+som ska ställas på en oberoende expert. Lag (2020:238).
 
 Tillgång till energideklarationerna
 
@@ -155,23 +224,24 @@ enligt 6 § får köparen, senast sex månader efter sitt tillträde
 till byggnaden, låta upprätta en energideklaration på säljarens
 bekostnad.
 
-Överlämnande av energideklarationer till Boverket
+Överlämnande av energideklarationer och inspektionsprotokoll 
+till Boverket
 
-15 § För elektronisk överföring enligt 12 § första stycket 3
-krävs behörighet. Sådan behörighet beslutas av Boverket. Ett
-beslut om behörighet förutsätter att kraven på sakkunskap som
+15 § För elektronisk överföring enligt 12 § första stycket 3 
+krävs behörighet. Sådan behörighet beslutas av Boverket. Ett 
+beslut om behörighet förutsätter att kraven på sakkunskap som 
 avses i 12 § andra stycket är uppfyllda.
 
-Regeringen eller den myndighet som regeringen bestämmer får
-meddela föreskrifter om elektronisk överföring av
-energideklarationer och om behörighet enligt första
-stycket. Lag (2013:773).
+Regeringen eller den myndighet som regeringen bestämmer får 
+meddela föreskrifter om elektronisk överföring av 
+energideklarationer och inspektionsprotokoll samt om 
+behörighet enligt första stycket. Lag (2020:238).
 
 Energideklarationsregister
 
-16 § Boverket ska föra ett register över de
-energideklarationer som har lämnats till verket enligt 15 §.
-Lag (2012:397).
+16 § Boverket ska föra ett register över de energideklarationer 
+och inspektionsprotokoll som har lämnats till verket enligt 
+12 § (energideklarationsregistret). Lag (2020:238).
 
 17 § Boverket är personuppgiftsansvarigt för behandlingen av
 personuppgifter i energideklarationsregistret.
@@ -317,3 +387,11 @@ energideklarationer som har upprättats före den 1 juli 2012.
 3. En energideklaration som har upprättats före den 1 juli
 2012 och som inte är äldre än tio år får användas för att
 uppfylla skyldigheterna enligt denna lag.
+
+2020:238
+
+1. Denna lag träder i kraft den 15 maj 2020. 
+
+2. För byggnader som omfattas av bestämmelserna i 10 § ska det 
+första inspektionsprotokollet föras över till Boverket senast 
+den 31 december 2021.
