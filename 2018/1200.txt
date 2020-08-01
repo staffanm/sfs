@@ -147,16 +147,16 @@ integritet ska användas, och
 
 Undantag från tillståndskravet
 
-9 § Tillstånd till kamerabevakning krävs inte vid
+9 § Tillstånd till kamerabevakning krävs inte vid 
 
 1. bevakning som Kustbevakningen, Polismyndigheten, 
-Säkerhetspolisen eller Tullverket bedriver,
+Säkerhetspolisen eller Tullverket bedriver, 
 
 2. bevakning som sker för att skydda en byggnad, en annan 
-anläggning eller ett område som enligt 4 § 5, 6, 5 § 1-5 eller 
-6 § första stycket skyddslagen (2010:305) har förklarats vara 
-skyddsobjekt, om bevakningen endast omfattar skyddsobjektet 
-eller ett område i dess omedelbara närhet,
+anläggning eller ett område som enligt 4 § 5 eller 6, 5 § 1-5 
+eller 6 § första stycket skyddslagen (2010:305) har förklarats 
+vara skyddsobjekt, om bevakningen endast omfattar 
+skyddsobjektet eller ett område i dess omedelbara närhet,
 
 3. bevakning som Försvarsmakten bedriver från ett fordon, 
 fartyg eller luftfartyg som ett led i en militär insats eller 
@@ -185,12 +185,24 @@ kunna fattas och för att kontrollera att sådan avgift betalas,
 lagen (2006:418) om säkerhet i vägtunnlar och som bedrivs av 
 någon annan tunnelhållare än Trafikverket,
 
-6. bevakning i en tunnelbanevagn eller av en 
-tunnelbanestation, om bevakningen har till syfte att 
-förebygga, förhindra eller upptäcka brottslig verksamhet eller 
-utreda eller lagföra brott eller förebygga, förhindra eller 
-upptäcka olyckor eller begränsa verkningarna av inträffade 
-olyckor,
+6. bevakning som har till syfte att förebygga, förhindra eller 
+upptäcka brottslig verksamhet, utreda eller lagföra brott, 
+förebygga, förhindra eller upptäcka störningar av allmän 
+ordning och säkerhet eller olyckor eller begränsa verkningarna 
+av sådana störningar eller inträffade olyckor, om bevakningen 
+sker
+
+a) i ett färdmedel som används i kollektivtrafik på väg, 
+järnväg, vatten, spårväg eller i tunnelbana,
+
+b) av ett stations-, terminal- eller hållplatsområde avsett 
+för resande med kollektivtrafik på väg, järnväg, vatten, 
+spårväg eller i tunnelbana,
+
+c) av en plats vid järnvägs-, spårvägs- eller tunnelbanespår, 
+eller
+
+d) av ett flygplatsområde, 
 
 7. bevakning i en lokal där det bedrivs postverksamhet eller 
 av området omedelbart utanför in- och utgångar till en sådan 
@@ -200,12 +212,16 @@ brott,
 
 8. bevakning i ett parkeringshus, om bevakningen har till 
 syfte att förebygga, förhindra eller upptäcka brottslig 
-verksamhet eller utreda eller lagföra brott, och 
+verksamhet eller utreda eller lagföra brott, 
 
 9. bevakning som sker för säkerheten i trafiken eller 
 arbetsmiljön från ett fordon, en maskin eller liknande för att 
-förbättra sikten för föraren eller användaren. 
-Lag (2019:1163).
+förbättra sikten för föraren eller användaren, och
+
+10. bevakning i en butikslokal där det bedrivs 
+apoteksverksamhet, om bevakningen har till syfte att 
+förebygga, förhindra eller upptäcka brottslig verksamhet eller 
+utreda eller lagföra brott. Lag (2020:519).
 
 Tillfälliga undantag från tillståndskravet
 
@@ -341,14 +357,14 @@ ska dokumenteras. Lag (2019:1163).
 
 Undantag för viss kamerabevakning
 
-14 c § Bestämmelserna i 14 a och 14 b §§ gäller inte vid 
+14 c § Bestämmelserna i 14 a och 14 b §§ gäller inte vid
 
 1. kamerabevakning som Polismyndigheten bedriver vid 
 automatisk hastighetsövervakning, och
 
 2. kamerabevakning som Kustbevakningen, Polismyndigheten, 
 Säkerhetspolisen eller Tullverket bedriver i fall som avses i 
-9 § 2 och 6-9.
+9 § 2 och 6-10. Lag (2020:519).
 
 Tillfälliga undantag för viss kamerabevakning
 
@@ -404,17 +420,17 @@ bevakningen är att förebygga, förhindra eller upptäcka sådan
 brottslig verksamhet eller utreda eller lagföra sådana brott,
 
 3. bevakning som sker för att skydda en byggnad, en annan 
-anläggning eller ett område som enligt 4 § 5, 6, 5 § 1-5 eller 
-6 § första stycket skyddslagen (2010:305) har förklarats vara 
-skyddsobjekt, om bevakningen endast omfattar skyddsobjektet 
-eller ett område i dess omedelbara närhet,
+anläggning eller ett område som enligt 4 § 5 eller 6, 5 § 1-5 
+eller 6 § första stycket skyddslagen (2010:305) har förklarats 
+vara skyddsobjekt, om bevakningen endast omfattar 
+skyddsobjektet eller ett område i dess omedelbara närhet,
 
 4. bevakning som Försvarsmakten bedriver från ett fordon, 
 fartyg eller luftfartyg som ett led i en militär insats eller 
 militär övning eller som behövs för att prova utrustning för 
 sådan bevakning,
 
-5. bevakning som bedrivs i brådskade fall från ett luftfartyg 
+5. bevakning som bedrivs i brådskande fall från ett luftfartyg 
 av Polismyndigheten eller den som är räddningsledare enligt 
 lagen (2003:778) om skydd mot olyckor, om bevakningen är av 
 vikt för att avvärja en överhängande fara för olycka, begränsa 
@@ -426,7 +442,7 @@ lagen om skydd mot olyckor, om bevakningen är av vikt för att
 efterforska en försvunnen person.
 
 Undantagen i första stycket gäller inte om ljud ska avlyssnas 
-eller tas upp vid kamerabevakningen. Lag (2019:697).
+eller tas upp vid kamerabevakningen. Lag (2020:519).
 
 Undantag i enskilda fall
 
@@ -621,3 +637,21 @@ myndigheterna före ikraftträdandet har bedrivit
 kamerabevakning och brutit mot tillståndskravet i 7 § eller 
 inte följt villkor i ett beslut om tillstånd som har meddelats 
 med stöd av 13 eller 14 §.
+
+2020:519
+
+1. Denna lag träder i kraft den 1 augusti 2020.
+
+2. Tillstånd till kameraövervakning eller kamerabevakning som 
+har beslutats enligt kameraövervakningslagen (2013:460) eller 
+kamerabevakningslagen (2018:1200) och som avser bevakning som 
+enligt de nya bestämmelserna inte längre omfattas av krav på 
+tillstånd, upphör att gälla vid utgången av juli 2020. 
+
+3. Tillsynsmyndigheten får fortfarande ta ut en 
+sanktionsavgift enligt 25 § 1 eller 2 av den som före 
+ikraftträdandet bedrivit kamerabevakning som enligt de nya 
+bestämmelserna inte längre omfattas av tillstånd och som 
+brutit mot tillståndskravet i 7 § eller inte följt villkor i 
+ett beslut om tillstånd som har meddelats med stöd av 13 eller 
+14 §.
