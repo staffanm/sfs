@@ -25,20 +25,20 @@ tillförda effekt.
 4 § I denna förordning avses med medelstor 
 förbränningsanläggning
 
-1. en förbränningsanläggning där anläggningseffekten är 1 
-megawatt eller högre men högst 50 megawatt, eller
+1. en förbränningsanläggning där anläggningseffekten är 
+1 megawatt eller högre men högst 50 megawatt, eller
 
 2. två eller flera nya förbränningsanläggningar som var för 
-sig har en anläggningseffekt som är en 1 megawatt eller högre 
-och vars anläggningseffekter ska räknas samman, om 
-anläggningarna
+sig har en anläggningseffekt som är 1 megawatt eller högre och 
+vars anläggningseffekter ska räknas samman, om anläggningarna
 
-a) är konstruerade så att rökgaser från dem släpps ut genom 
-en gemensam skorsten, eller
+a) är konstruerade så att rökgaser från dem släpps ut genom en 
+gemensam skorsten, eller
 
 b) är installerade så att det med hänsyn till de tekniska och 
-ekonomiska förutsättningarna skulle vara möjligt att släppa 
-ut rökgaser från dem genom en gemensam skorsten.
+ekonomiska förutsättningarna skulle vara möjligt att släppa ut 
+rökgaser från dem genom en gemensam skorsten.
+Förordning (2020:696).
 
 5 § I denna förordning avses med
 
@@ -1386,4 +1386,4 @@ Naturgas				50
 
 Biogas				40	75	
 
-Annat gasformigt bränsle 	15	75	
+Annat gasformigt bränsle 	15	75
