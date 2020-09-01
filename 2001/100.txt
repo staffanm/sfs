@@ -511,8 +511,14 @@ KULTUR OCH FRITID
 Bibliotek                               Kungl. biblioteket
 Kulturmiljövård                         Myndigheten för kulturanalys
 Museer                                  Myndigheten för kulturanalys
-Studieförbund                           Myndigheten för kulturanalys
-Samhällets kulturutgifter               Myndigheten för kulturanalys
+Studieförbund				SCB
+Samhällets kulturutgifter		Myndigheten för kulturanalys
+
+Behandling av känsliga personuppgifter
+
+För framställning av statistik över Studieförbund får 
+personuppgifter enligt 8 § behandlas som avser enskilda 
+personers hälsotillstånd.
 
 LEVNADSFÖRHÅLLANDEN
 
@@ -644,29 +650,6 @@ För framställning av statistik över trafikolyckor inom området
 Vägtrafik får personuppgifter enligt 8 § behandlas som avser
 brott, domar i brottmål samt trafikskadades hälsotillstånd.
 
-/Upphör att gälla U:2020-07-01/
-UTBILDNING OCH FORSKNING 
-Skolväsende och barnomsorg		Statens skolverk
-Högskoleväsende				Universitetskanslersämbetet
-Studiestöd				Centrala studiestödsnämnden
-Forskning				SCB
-Befolkningens utbildning		SCB
-Eftergymnasial yrkesutbildning		SCB
-Folkhögskola				SCB
-
-Behandling av känsliga personuppgifter m.m.
-
-För framställning av statistik över Skolväsende och 
-barnomsorg får personuppgifter enligt 8 § behandlas som avser 
-hälsa för elever inom skolformerna grundsärskola, 
-specialskola, gymnasiesärskola och särskild utbildning för 
-vuxna. 
-
-För framställning av statistik över Folkhögskola får 
-personuppgifter enligt 8 § behandlas som avser enskilda 
-personers hälsotillstånd.
-
-/Träder i kraft I:2020-07-01/
 UTBILDNING OCH FORSKNING 
 Skolväsende och barnomsorg		Statens skolverk
 Högskoleväsende				Universitetskanslersämbetet
@@ -686,4 +669,4 @@ kommunal vuxenutbildning som särskild utbildning.
 För framställning av statistik över Folkhögskola får 
 personuppgifter enligt 8 § behandlas som avser enskilda 
 personers hälsotillstånd.
-Förordning (2020:458).
+Förordning (2020:736).
