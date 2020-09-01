@@ -42,19 +42,7 @@ Byggnadshöjden ska räknas upp till skärningen mellan
 fasadplanet och ett plan som med 45 graders lutning inåt
 byggnaden berör byggnadens tak.
 
-3 a § /Upphör att gälla U:2020-05-25/
-I denna förordning avses med
-
-energiprestanda: den mängd levererad energi som behövs för 
-uppvärmning, kylning, ventilation, varmvatten och belysning 
-vid ett normalt bruk av en byggnad, undantaget sådan energi 
-från sol, vind, mark, luft eller vatten som alstras i 
-byggnaden eller på dess tomt, och
-
-primärenergi: energi som inte har genomgått någon 
-omvandling. Förordning (2016:1249).
-
-3 a § /Träder i kraft I:2020-05-25/
+3 a § /Upphör att gälla U:2020-09-01/
 I denna förordning avses med 
 
 energiprestanda: den mängd levererad energi som behövs för 
@@ -79,6 +67,36 @@ energianvändningen samt fastställer riktmärken för
 energieffektivitet, upptäcker effektivitetsförluster, 
 informerar om möjligheter till förbättrad energieffektivitet 
 och möjliggör kommunikation. Förordning (2020:274).
+
+3 a § /Träder i kraft I:2020-09-01/
+I denna förordning avses med 
+
+energiprestanda: den mängd levererad energi som behövs för 
+uppvärmning, kylning, ventilation, varmvatten och belysning 
+vid ett normalt bruk av en byggnad, undantaget sådan energi 
+från sol, vind, mark, luft eller vatten som alstras och 
+används i byggnaden eller på dess tomt, 
+
+klimatskärm: en byggdel bestående av ett eller flera skikt som 
+isolerar det inre av en byggnad från omvärlden när det gäller 
+sådant som temperatur, ljud och fuktighet, 
+
+primärenergi: energi som inte har genomgått någon omvandling, 
+och
+
+system för fastighetsautomation och fastighetsstyrning: ett 
+system som är driftskompatibelt med anslutna 
+installationssystem och anordningar i byggnaden och omfattar 
+alla produkter, all programvara och allt tekniskt underhåll 
+som kan stödja en energieffektiv, ekonomisk och säker drift av 
+byggnadens installationssystem genom automatisk styrning och 
+genom att underlätta den manuella hanteringen av byggnadens 
+installationssystem och som fortlöpande övervakar, 
+registrerar, analyserar och gör det möjligt att anpassa 
+energianvändningen samt fastställer riktmärken för 
+energieffektivitet, upptäcker effektivitetsförluster, 
+informerar om möjligheter till förbättrad energieffektivitet 
+och möjliggör kommunikation. Förordning (2020:433).
 
 3 b § Med tillfälligt anläggningsboende avses i denna 
 förordning en byggnad eller en del av en byggnad som under en 
@@ -545,7 +563,8 @@ förhållanden.
 
 Egenskapskrav avseende energihushållning och värmeisolering
 
-14 § För att uppfylla kravet på energihushållning och 
+14 § /Upphör att gälla U:2020-09-01/
+För att uppfylla kravet på energihushållning och 
 värmeisolering i 8 kap. 4 § första stycket 6 plan- och 
 bygglagen (2010:900) ska 
 
@@ -560,6 +579,29 @@ hushållning med el, och
 eller flera skikt som isolerar det inre av en byggnad från 
 omvärlden så att endast en låg mängd värme kan passera 
 igenom. Förordning (2016:1249).
+
+14 § /Träder i kraft I:2020-09-01/
+För att uppfylla det krav på energihushållning och 
+värmeisolering som anges i 8 kap. 4 § första stycket 6 plan- 
+och bygglagen (2010:900) ska en byggnad
+
+1. ha en mycket hög energiprestanda där den energi som 
+tillförs i mycket hög grad kommer från förnybara energikällor 
+(nära-nollenergibyggnad) uttryckt som primärenergi beräknad 
+med en viktningsfaktor per energibärare som ska bidra till 
+teknikneutralitet mellan hållbara uppvärmningssystem som inte 
+är fossilbränslebaserade,
+
+2. ha särskilt goda egenskaper när det gäller hushållning med 
+el, och
+
+3. vara utrustad med en klimatskärm som säkerställer god 
+värmeisolering.
+
+Första stycket gäller dock inte byggnader som är avsedda för 
+totalförsvaret eller som annars är av betydelse för Sveriges 
+säkerhet och för vilka det finns särskilda skäl för undantag 
+från kraven. Förordning (2020:433).
 
 /Rubriken träder i kraft I:2025-01-01/
 Särskilda krav avseende system för fastighetsautomation 
@@ -657,30 +699,7 @@ används.
 
 Egenskapskrav avseende bredbandsanslutning
 
-20 a § /Upphör att gälla U:2020-05-25/
-För att uppfylla det krav på bredbandsanslutning som 
-anges i 8 kap. 4 § första stycket 10 plan- och bygglagen 
-(2010:900) ska
-
-1. en byggnad som innehåller bostäder eller arbetslokaler 
-vara projekterad och utförd på ett sådant sätt att 
-lägenheterna lätt kan anslutas till ett höghastighetsnät för 
-elektronisk kommunikation, och
-
-2. ett flerbostadshus vara utrustat med en accesspunkt i 
-eller utanför byggnaden.
-
-Första stycket gäller inte byggnader som är avsedda för 
-totalförsvaret eller som annars är av vikt för Sveriges 
-säkerhet. Första stycket 1 gäller inte heller fritidshus, 
-komplementbyggnader, komplementbostadshus eller 
-arbetslokaler, om kraven är obefogade med hänsyn till arten 
-av den verksamhet som arbetslokalerna är avsedd för, eller 
-ekonomibyggnader för jordbruk, skogsbruk eller annan liknande 
-näring. Förordning (2016:539).
-
-20 a § /Träder i kraft I:2020-05-25/
-För att uppfylla det krav på bredbandsanslutning som 
+20 a § För att uppfylla det krav på bredbandsanslutning som 
 anges i 8 kap. 4 § första stycket 10 plan- och bygglagen 
 (2010:900) ska
 
@@ -701,11 +720,9 @@ som arbetslokalerna är avsedd för, eller ekonomibyggnader för
 jordbruk, skogsbruk eller annan liknande näring.
 Förordning (2020:274).
 
-/Rubriken träder i kraft I:2020-05-25/
 Egenskapskrav avseende laddning av elfordon
 
-20 b § /Träder i kraft I:2020-05-25/
-För att uppfylla det krav på laddning av elfordon som 
+20 b § För att uppfylla det krav på laddning av elfordon som 
 anges i 8 kap. 4 § första stycket 11 plan- och bygglagen 
 (2010:900) ska varje parkeringsplats på parkeringar med fler 
 än tio parkeringsplatser som finns i, eller på tomten till, 
@@ -757,17 +774,7 @@ tekniska, sociala eller ekonomiska skäl är lämpligare.
 
 Uppfyllandet av egenskapskraven
 
-22 § /Upphör att gälla U:2020-05-25/
-Det som sägs om uppfyllandet av kraven på tekniska 
-egenskaper i 8 kap. 5 § plan- och bygglagen (2010:900) ska 
-gälla för uppfyllandet av egenskapskraven i 7–10 och 13–20 a 
-§§. Kravet som gäller bredbandsanslutning i 8 kap. 4 § första 
-stycket 10 plan- och bygglagen och 20 a § detta kapitel 
-behöver dock inte uppfyllas vid annan ändring av en byggnad 
-än ombyggnad. Förordning (2016:539).
-
-22 § /Träder i kraft I:2020-05-25/
-Det som sägs om att uppfylla kraven på tekniska 
+22 § Det som sägs om att uppfylla kraven på tekniska 
 egenskaper i 8 kap. 5 § plan- och bygglagen (2010:900) ska 
 gälla för uppfyllandet av egenskapskraven i 7-10, 13, 14 och 
 16-20 b §§ detta kapitel. 
@@ -2610,51 +2617,7 @@ om undantag från sådana krav.
 
 Byggnadsverks tekniska egenskaper
 
-3 § /Upphör att gälla U:2020-05-25/
-Boverket får meddela de föreskrifter som behövs för 
-tillämpningen av bestämmelserna om 
-
-1. egenskapskrav avseende bärförmåga, stadga och beständighet 
-i 3 kap. 7 §, 
-
-2. egenskapskrav avseende säkerhet i händelse av brand i 3 
-kap. 8 §, 
-
-3. egenskapskrav avseende skydd med hänsyn till hygien, hälsa 
-och miljö i 3 kap. 9 §, 
-
-4. egenskapskrav avseende säkerhet vid användning i 3 kap. 
-10 §, 
-
-5. särskilda säkerhetskrav avseende redan uppförda byggnader 
-i 3 kap. 11 och 12 §§, 
-
-6. egenskapskrav avseende skydd mot buller i 3 kap. 13 §, 
-
-7. egenskapskrav avseende energihushållning och 
-värmeisolering i 3 kap. 14 §,
-
-8. egenskapskrav avseende lämplighet för det avsedda 
-ändamålet i 3 kap. 17 §, 
-
-9. egenskapskrav avseende tillgänglighet och användbarhet i 8 
-kap. 4 § första stycket 8 plan- och bygglagen (2010:900) och 
-3 kap. 18 och 19 §§, 
-
-10. egenskapskrav avseende hushållning med vatten i 3 kap. 
-20 §, 
-
-11. egenskapskrav avseende hushållning med avfall i 8 kap. 
-4 § första stycket 9 plan- och bygglagen, 
-
-12. egenskapskrav avseende bredbandsanslutning i 3 kap. 
-20 a §, och
-
-13. genomförande av egenskapskraven vid senare tidpunkt i 3 
-kap. 21 §. Förordning (2016:1249).
-
-3 § /Träder i kraft I:2020-05-25/
-Boverket får meddela de föreskrifter som behövs för 
+3 § Boverket får meddela de föreskrifter som behövs för 
 tillämpningen av bestämmelserna om
 
 1. egenskapskrav avseende bärförmåga, stadga och beständighet 
