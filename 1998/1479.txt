@@ -6,11 +6,13 @@ Lagens innehåll
 Europaparlamentets och rådets förordning (EU) nr 909/2014 av 
 den 23 juli 2014 om förbättrad värdepappersavveckling i 
 Europeiska unionen och om värdepapperscentraler samt ändring 
-av direktiv 98/26/EG och 2014/65/EU och förordning (EU) nr 
-236/2012.
+av direktiv 98/26/EG och 2014/65/EU och förordning (EU) 
+nr 236/2012.
 
 I lagen finns även särskilda bestämmelser om kontoföring av 
-finansiella instrument. Lag (2016:51).
+finansiella instrument samt om intermediärers medverkan i 
+identifieringen av aktieägare och i utövandet av aktieägares 
+rättigheter. Lag (2020:612).
 
 Lagens tillämpningsområde
 
@@ -22,28 +24,31 @@ i ett annat land inom EES än Sverige och på
 värdepapperscentraler från tredjeland samt på utsedda 
 kreditinstitut.
 
-Bestämmelserna i 9 kap. 6 och 8 §§ tillämpas på var och en 
-som driver sådan verksamhet som avses där. Lag (2016:51).
+Bestämmelserna i 9 kap. 6 och 8 §§ tillämpas på var och en som 
+driver sådan verksamhet som avses där.
+
+Bestämmelserna i 3 a kap. tillämpas på svenska intermediärer 
+och intermediärer från tredjeland. Lag (2020:612).
 
 Definitioner
 
-3 § I denna lag betyder: 
+3 § I denna lag betyder:
 
 avstämningsbolag: sådant avstämningsbolag som avses i 
 aktiebolagslagen (2005:551), 
 
-avstämningsregister: sådant register som avses i 4 kap. 
-1 §,
-EES: Europeiska ekonomiska samarbetsområdet,
+avstämningsregister: sådant register som avses i 4 kap. 1 §, 
+
+EES: Europeiska ekonomiska samarbetsområdet, 
 
 emittent: i fråga om aktier aktiebolaget och i fråga om annat 
 finansiellt instrument utgivaren eller utfärdaren av 
-instrumentet, 
+instrumentet,
 
 finansiellt instrument: detsamma som i artikel 2.1.8 i 
 förordningen om värdepapperscentraler, i den ursprungliga 
-lydelsen, varvid aktier och sådana rättigheter som avses i 4 
-kap. 2 § andra stycket denna lag i fråga om avstämningsbolag 
+lydelsen, varvid aktier och sådana rättigheter som avses i 
+4 kap. 2 § andra stycket denna lag i fråga om avstämningsbolag 
 som är privata aktiebolag vid tillämpningen av denna lag ska 
 jämställas med finansiella instrument,
 
@@ -53,9 +58,13 @@ förbättrad värdepappersavveckling i Europeiska unionen och om
 värdepapperscentraler samt ändring av direktiv 98/26/EG och 
 2014/65/EU och förordning (EU) nr 236/2012,
 
+intermediär: en juridisk person som för aktieägares eller 
+andra personers räkning förvarar eller administrerar aktier 
+eller för värdepapperskonton,
+
 kontoförande institut: den som av en värdepapperscentral 
 medgetts rätt att vidta registreringsåtgärder i 
-avstämningsregister, 
+avstämningsregister,
 
 kontoföring av finansiella instrument: registrering i 
 avstämningsregister av äganderätt och särskild rätt till 
@@ -68,12 +77,15 @@ har säkerställts att handlingen inte kommer i omlopp,
 kvalificerat innehav: detsamma som i 1 kap. 5 § lagen 
 (2007:528) om värdepappersmarknaden,
 
+reglerad marknad: detsamma som i 1 kap. 4 b § lagen om 
+värdepappersmarknaden,
+
 skuldförbindelse: ensidig skuldförbindelse avsedd för allmän 
 omsättning,
 
 utsett kreditinstitut: sådant kreditinstitut som har utsetts 
-enligt artikel 54.2 b i förordningen om 
-värdepapperscentraler, i den ursprungliga lydelsen,
+enligt artikel 54.2 b i förordningen om värdepapperscentraler, 
+i den ursprungliga lydelsen,
 
 värdepapperscentral: detsamma som i artikel 2.1.1 i 
 förordningen om värdepapperscentraler, i den ursprungliga 
@@ -84,7 +96,7 @@ värdepapperscentral som avses i artikel 2.1.2 i förordningen
 om värdepapperscentraler, i den ursprungliga lydelsen, samt
 
 värdepappersinstitut: detsamma som i 1 kap. 4 b § lagen om 
-värdepappersmarknaden. Lag (2017:684).
+värdepappersmarknaden. Lag (2020:612).
 
 Kontoföring av finansiella instrument
 
@@ -321,10 +333,10 @@ Skyldighet att lämna upplysningar till värdepapperscentralen
 lämna uppgifter till värdepapperscentralen om de aktieägare 
 vars aktier den förvaltar. Uppgifterna ska avse aktieägarnas 
 namn och personnummer, organisationsnummer eller annat 
-identifieringsnummer samt postadress. Förvaltaren ska 
-dessutom ange det antal aktier av olika slag som varje 
-aktieägare äger. Uppgifterna ska avse förhållandena vid den 
-tidpunkt som värdepapperscentralen bestämmer.
+identifieringsnummer samt postadress. Förvaltaren ska dessutom 
+ange det antal aktier av olika slag som varje aktieägare äger. 
+Uppgifterna ska avse förhållandena vid den tidpunkt som 
+värdepapperscentralen bestämmer.
 
 Värdepapperscentralen ska på begäran av ett avstämningsbolag 
 kräva in sådana uppgifter om bolagets aktieägare som avses i 
@@ -336,7 +348,11 @@ aktieägare.
 
 Om det finns särskilda skäl, får Finansinspektionen medge 
 förvaltare undantag från den uppgiftsskyldighet som följer av 
-första och andra styckena. Lag (2016:51).
+första och andra styckena.
+
+Ett bolag vars aktier är upptagna till handel på en reglerad 
+marknad kan även begära identifiering av sina aktieägare 
+enligt 3 a kap. Lag (2020:612).
 
 Aktieägarsammanställning
 
@@ -350,6 +366,173 @@ värdepapperscentralen. Utskriften får inte vara äldre än tre
 månader. Var och en som begär det har vid var tid rätt att 
 mot ersättning för kostnaderna få en aktuell utskrift av 
 sammanställningen från värdepapperscentralen. Lag (2016:51).
+
+3 a kap. Intermediärers medverkan i identifiering av 
+aktieägare och i utövande av aktieägares rättigheter
+
+Kapitlets innehåll
+
+1 § I detta kapitel finns bestämmelser om skyldighet för 
+intermediärer att medverka till att bolag kan identifiera sina 
+aktieägare och till att aktieägares rättigheter kan utövas.
+
+Ytterligare bestämmelser om identifiering av aktieägare och om 
+underlättande av utövandet av aktieägares rättigheter finns i 
+kommissionens genomförandeförordning (EU) 2018/1212 av den 
+3 september 2018 om fastställande av minimikrav för 
+genomförandet av bestämmelserna i Europaparlamentets och 
+rådets direktiv 2007/36/EG vad gäller identifiering av 
+aktieägare, överföring av information och underlättande av 
+utövandet av aktieägarrättigheter. Lag (2020:612).
+
+Kapitlets tillämpningsområde
+
+2 § Kapitlet gäller svenska intermediärer, i den utsträckning 
+de hanterar aktier som har getts ut av ett bolag inom EES och 
+som är upptagna till handel på en reglerad marknad.
+
+Kapitlet gäller även intermediärer från tredjeland, i den 
+utsträckning de hanterar aktier som har getts ut av ett 
+svenskt aktiebolag och som är upptagna till handel på en 
+reglerad marknad. 
+
+Kapitlet gäller utöver det som följer av 3 kap. 12 §.
+Lag (2020:612).
+
+Identifiering av aktieägare
+
+3 § En intermediär ska på begäran av ett bolag vars aktier 
+intermediären hanterar utan dröjsmål lämna uppgifter till 
+bolaget om ägarna till aktierna. Detsamma gäller om begäran 
+görs av någon som bolaget utsett. Uppgifterna får i så fall 
+lämnas till denne.
+
+Uppgifterna om en ägare till aktier i ett svenskt bolag ska 
+avse
+
+1. namn och personnummer, organisationsnummer eller annat 
+identifieringsnummer,
+
+2. postadress och, om en sådan finns, e-postadress,
+
+3. ägarens totala antal aktier, 
+
+4. antalet aktier av olika slag, om det begärs, och 
+
+5. tidpunkten från och med vilken aktierna innehas, om det 
+begärs. Lag (2020:612).
+
+4 § Om intermediären inte har de ägaruppgifter som avses i 3 § 
+på grund av att aktierna hanteras för en annan intermediärs 
+räkning, ska begäran utan dröjsmål vidarebefordras till den 
+andra intermediären.
+
+Intermediären ska på begäran av bolaget eller någon som 
+bolaget utsett utan dröjsmål lämna uppgifter som gör det 
+möjligt att kontakta den intermediär som begäran har 
+vidarebefordrats till, om bolaget enligt tillämplig lag har 
+rätt att få kontaktuppgifterna. 
+
+Ett svenskt bolag har rätt att få sådana kontaktuppgifter som 
+avses i andra stycket. Lag (2020:612).
+
+5 § Den som lämnar uppgifter i enlighet med 3 och 4 §§ får 
+inte göras ansvarig för att ha åsidosatt någon tystnadsplikt.
+Lag (2020:612).
+
+6 § Ett svenskt bolag och en intermediär som tar emot 
+personuppgifter i enlighet med 3 och 4 §§ får behandla 
+uppgifterna för att göra det möjligt för bolaget att 
+kommunicera med sina aktieägare i syfte att underlätta för dem 
+att utöva sina rättigheter och engagera sig i bolaget.
+
+Uppgifterna får inte lagras under längre tid än tolv månader 
+efter det att bolaget eller intermediären fick vetskap om att 
+den person som uppgifterna gäller inte längre är aktieägare. 
+Detta gäller dock inte om längre lagringsfrist har fastställts 
+genom en sektorsspecifik EU-förordning eller en föreskrift som 
+genomför ett sektorsspecifikt EU-direktiv. Lag (2020:612).
+
+7 § En aktieägare som är en juridisk person har rätt till 
+rättelse av felaktiga eller ofullständiga uppgifter om sin 
+identitet av den som i enlighet med 3 och 4 §§ behandlar 
+uppgifterna. För rättelse i avstämningsregistret gäller 5 kap. 
+4 §.
+
+I fråga om personuppgifter finns det bestämmelser om rätt till 
+rättelse i artikel 16 i Europaparlamentets och rådets 
+förordning (EU) 2016/679 av den 27 april 2016 om skydd för 
+fysiska personer med avseende på behandling av personuppgifter 
+och om det fria flödet av sådana uppgifter och om upphävande 
+av direktiv 95/46/EG (allmän dataskyddsförordning), lagen 
+(2018:218) med kompletterande bestämmelser till EU:s 
+dataskyddsförordning och, när det gäller rättelse i 
+avstämningsregistret, 5 kap. 4 § denna lag. Lag (2020:612).
+
+Underlättande av utövandet av aktieägares rättigheter
+
+8 § En intermediär ska underlätta för ägaren till de aktier 
+som intermediären hanterar att utöva sina rättigheter genom 
+att
+
+1. göra det som krävs för att aktieägaren, eller någon som är 
+utsedd av aktieägaren, ska kunna utöva rättigheterna på egen 
+hand, eller 
+
+2. utöva rättigheterna åt aktieägaren, efter uttryckligt 
+tillstånd och anvisningar från aktieägaren och i aktieägarens 
+intresse. Lag (2020:612).
+
+9 § En intermediär ska till ägaren av aktier som intermediären 
+hanterar, eller till den som aktieägaren har utsett, utan 
+dröjsmål överföra
+
+1. den information som ett bolag måste tillhandahålla sina 
+aktieägare för att de ska kunna utöva sina rättigheter eller, 
+om informationen finns på bolagets webbplats, ett meddelande 
+om det, 
+
+2. de elektroniska bekräftelser som ett bolag måste 
+tillhandahålla den som röstar elektroniskt, och
+
+3. de bekräftelser på räkning och registrering av röster som 
+ett bolag på begäran måste tillhandahålla aktieägare.
+Lag (2020:612).
+
+10 § Om aktierna hanteras för en annan intermediärs räkning, 
+ska den information, det meddelande eller de bekräftelser som 
+avses i 9 § utan dröjsmål vidarebefordras till den andra 
+intermediären, såvida informationen, meddelandet eller 
+bekräftelsen inte kan överföras direkt till aktieägaren eller 
+till någon som aktieägaren har utsett. Lag (2020:612).
+
+11 § Skyldigheterna att överföra information eller meddelanden 
+enligt 9 § 1 och 10 § gäller inte om det bolag vars aktier 
+intermediären hanterar har skickat informationen eller 
+meddelandet direkt till berörda aktieägare eller till någon 
+som aktieägaren har utsett. Lag (2020:612).
+
+12 § En intermediär ska på begäran av en ägare till aktier som 
+intermediären hanterar och i enlighet med aktieägarens 
+anvisningar utan dröjsmål överföra information till bolaget 
+som avser utövandet av aktieägarens rättigheter. 
+Lag (2020:612).
+
+13 § Om aktierna hanteras av fler än en intermediär, ska varje 
+intermediär utan dröjsmål vidarebefordra den information som 
+avses i 12 § till nästa intermediär, såvida informationen inte 
+kan överföras direkt till bolaget. Lag (2020:612).
+
+Avgifter
+
+14 § En intermediär får ta ut avgifter av andra intermediärer, 
+av aktieägare och av bolag för de tjänster som avses i detta 
+kapitel.
+
+Avgifterna ska offentliggöras, separat för varje tjänst. De 
+ska vara icke-diskriminerande och stå i proportion till de 
+faktiska kostnaderna för att tillhandahålla tjänsten.
+Lag (2020:612).
 
 4 kap. Avstämningsregister och avstämningskonton
 
@@ -873,24 +1056,7 @@ i offentlighets- och sekretesslagen (2009:400). Lag (2016:51).
 
 Uppgiftsskyldighet
 
-2 a § /Upphör att gälla U:2019-09-01/
-En svensk värdepapperscentral och ett kontoförande 
-institut är skyldiga att lämna ut uppgifter om enskildas 
-förhållanden till företaget, om det under en utredning enligt 
-bestämmelserna om förundersökning i brottmål begärs av 
-undersökningsledaren eller om det begärs av åklagare i ett 
-ärende om rättslig hjälp i brottmål, på framställning av en 
-annan stat eller en mellanfolklig domstol, eller i ett ärende 
-om erkännande och verkställighet av en europeisk 
-utredningsorder.
-
-Om skyldighet för värdepapperscentraler och kontoförande 
-institut att lämna uppgifter till överförmyndaren finns 
-bestämmelser i 16 kap. 10 a § föräldrabalken. 
-Lag (2017:1004).
-
-2 a § /Träder i kraft I:2019-09-01/
-En svensk värdepapperscentral och ett kontoförande 
+2 a § En svensk värdepapperscentral och ett kontoförande 
 institut är skyldiga att lämna ut uppgifter om enskildas 
 förhållanden till företaget, om det under en utredning enligt 
 bestämmelserna om förundersökning i brottmål begärs av 
