@@ -17,16 +17,14 @@ av eller annan befattning med kärnämne eller kärnavfall,
 
 1. kärnteknisk anläggning: 
 
-a) anläggning för utvinning av kärnenergi 
-(kärnkraftsreaktor), 
+a) anläggning för utvinning av kärnenergi (kärnkraftsreaktor), 
 
 b) annan anläggning i vilken en självunderhållande 
 kärnreaktion kan ske, såsom forskningsreaktor,
 
 c) anläggning för utvinning, framställning, hantering, 
-bearbetning, förvaring som avses bli bestående 
-(slutförvaring) eller annan förvaring (lagring) av kärnämne, 
-och 
+bearbetning, förvaring som avses bli bestående (slutförvaring) 
+eller annan förvaring (lagring) av kärnämne, och 
 
 d) anläggning för hantering, bearbetning, lagring eller 
 slutförvaring av kärnavfall, 
@@ -61,27 +59,37 @@ avvecklas,
 
 4. permanent avstängd kärnkraftsreaktor: en kärnkraftsreaktor 
 där verksamheten med elproduktion har upphört och inte kommer 
-att återupptas eller en reaktor som inte har levererat el 
-till elnätet de senaste fem åren,
+att återupptas eller en reaktor som inte har levererat el till 
+elnätet de senaste fem åren,
 
 5. kärnteknisk utrustning:
 
 a) utrustning eller material som särskilt har konstruerats 
 eller ställts i ordning för bearbetning, användning eller 
-framställning av kärnämne, och 
+framställning av kärnämne, och
 
 b) utrustning eller material som kan användas för 
-framställning av kärnladdningar, och
+framställning av kärnladdningar,
 
 6. radiologisk nödsituation: en plötsligt inträffad händelse 
 som 
 
 a) inbegriper en strålkälla, 
 
-b) har medfört eller kan befaras medföra skada, och 
+b) har medfört eller kan befaras medföra skada, och
 
-c) kräver omedelbara åtgärder.
-Lag (2017:575).
+c) kräver omedelbara åtgärder, och
+
+7. geologiskt slutförvar: en anläggning för slutförvaring som 
+är placerad i en geologisk formation under jordytan och som 
+ska ge isolering från biosfären av 
+
+a) kärnavfall,
+
+b) kärnämne som inte ska användas på nytt, eller 
+
+c) annat radioaktivt avfall.
+Lag (2020:685).
 
 2 a § Regeringen eller den myndighet som regeringen bestämmer får i
 fråga om kärnämne eller kärnavfall föreskriva om undantag från denna lag
@@ -235,6 +243,39 @@ tillämpas även i andra ärenden om tillstånd enligt denna lag
 meddelar närmare föreskrifter om innehållet i och
 utformningen av en ansökan om tillstånd enligt denna lag.
 Lag (2014:141).
+
+5 g § Det krävs tillstånd från regeringen för att slutligt 
+försluta ett geologiskt slutförvar.
+
+Regeringen ska i samband med att tillståndet beviljas besluta 
+om de villkor som ska vara uppfyllda för att förvaret slutligt 
+ska få förslutas. Lag (2020:685).
+
+5 h § Tillståndshavaren ska till regeringen redovisa de 
+åtgärder som har vidtagits med anledning av regeringens beslut 
+enligt 5 g §. Lag (2020:685).
+
+5 i § Om villkoren i beslutet enligt 5 g § är uppfyllda, ska 
+regeringen bestämma den tidpunkt då slutförvaret ska anses 
+vara slutligt förslutet. Lag (2020:685).
+
+Statens ansvar för slutligt förslutna geologiska slutförvar
+
+5 j § Efter den tidpunkt som avses i 5 i § ansvarar staten för 
+det geologiska slutförvaret och avfallet. Lag (2020:685).
+
+5 k § Regeringen eller den myndighet som regeringen bestämmer 
+får meddela föreskrifter om
+
+1. vad en ansökan om ett tillstånd till slutlig förslutning 
+enligt 5 g § ska innehålla, och 
+
+2. hur tillståndshavaren ska redovisa åtgärderna enligt 5 h §.
+Lag (2020:685).
+
+5 l § Den myndighet som regeringen bestämmer ska vidta de 
+åtgärder som behövs för att fullgöra statens skyldigheter 
+enligt 5 j och 14 b §§. Lag (2020:685).
 
 6 § Bestämmelser om att tillstånd krävs för vissa
 verksamheter och åtgärder finns i 7 kap. 28 a–29 b §§
@@ -469,6 +510,13 @@ av betydelse för säkerheten i en kärnteknisk verksamhet får
 inte ha någon annan som förmånstagare än den som är
 tillståndshavare för verksamheten enligt denna lag.
 Lag (2010:973).
+
+Statens sekundära ansvar
+
+14 b § Om det inte finns någon som kan göras ansvarig för att 
+fullgöra skyldigheterna för säkerheten enligt 10 § ansvarar 
+staten till dess att en tillståndshavare kan fullgöra skyldig-
+heterna. Lag (2020:685).
 
 Återkallelse av tillstånd
 
