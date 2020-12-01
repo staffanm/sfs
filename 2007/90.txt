@@ -1480,50 +1480,7 @@ E22 Busshållplats		Märket anger en hållplats för
 				vid märket.
 
 				Klockslag kan anges på märket.
-
-/Upphör att gälla U:2019-07-01/
-E23 Taxi			Märket anger den, i 
-				färdriktningen, bortre gränsen 
-				för en särskild 
-				uppställningsplats för fordon 
-				som används i taxitrafik.
-
-E24 Automatisk 
-trafikövervakning		Märket anger att automatisk
-				övervakning med kamera eller 
-				motsvarande kan ske på en 
-				plats eller vägsträcka för 
-				övervakning av trafikregler, 
-				beskattning eller 
-				avgiftsbeläggning. Märket 
-				anger vidare att personuppgifter 
-				kan registreras enligt 
-				Europaparlamentets och rådets 
-				förordning (EU) 2016/679 av den 
-				27 april 2016 om skydd för 
-				fysiska personer med avseende 
-				på behandling av personuppgifter 
-				och om det fria flödet av sådana 
-				uppgifter och om upphävande av 
-				direktiv 95/46/EG (allmän 
-				dataskyddsförordning), lagen 
-				(2018:218) med kompletterande 
-				bestämmelser till EU:s 
-				dataskyddsförordning, lagen 
-				(2001:558) om vägtrafikregister 
-				eller någon annan registerlag. 
-				Gäller anvisningen en längre 
-				vägsträcka, anges sträckans 
-				längd på tilläggstavla T1, 
-				vägsträckas längd. Märket 
-				upprepas på lämpliga avstånd.
-
-E25 Betalväg			Märket anger att avgift eller 
-				särskild skatt ska betalas vid 
-				färd på en viss väg eller inom 
-				ett visst område.
 	
-/Träder i kraft I:2019-07-01/
 E23 Taxi			Märket anger den, i 
 				färdriktningen, bortre gränsen 
 				för en särskild 
@@ -1629,7 +1586,6 @@ för parkering			Märket anger att parkering är
 				linjetrafik m.fl., E19, parkering, 
 				eller E22, busshållplats.
 
-/Träder i kraft I:2020-01-01/
 E31 Miljözon			Märket anger att bestämmelserna 
 				i 4 kap. 22–24 a §§ 
 				trafikförordningen (1998:1276) 
@@ -1649,8 +1605,15 @@ E31 Miljözon			Märket anger att bestämmelserna
 				E32, slut på miljözon eller ett 
 				annat miljözonsmärke är uppsatt.
 
-E32 Slut på miljözon		Märket anger att en miljözon slutar. 
-Förordning (2019:393).
+E32 Slut på miljözon		Märket anger att en miljözon slutar.
+
+E33 Cykelgata			Märket anger att bestämmelserna i 
+				8 kap. 1 a § trafikförordningen 
+				(1998:1276) är tillämpliga.
+
+E34 Cykelgata upphör		Märket anger att en cykelgata 
+				upphör.
+Förordning (2020:844).
 
 Lokaliseringsmärken för vägvisning
 
@@ -1718,9 +1681,7 @@ Vägvisning till vissa inrättningar och anläggningar kan ske
 genom att symboler enligt 28 § anges på 
 lokaliseringsmärken. Förordning (2017:923).
 
-17 § Lokaliseringsmärken anger väg till ort, plats, inrättning,
-anläggning eller liknande, om inte annat anges.
-Lokaliseringsmärken är följande.
+17 § Lokaliseringsmärken för vägvisning är följande.
 
 Märke                           Närmare föreskrifter
 
