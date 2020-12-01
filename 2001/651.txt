@@ -52,8 +52,8 @@ Cykelbana		En väg eller del av en väg som är avsedd
 			för cykeltrafik och trafik med moped 
 			klass II
 
-
-Cykelfält 			Ett särskilt körfält som genom 
+/Upphör att gälla U:2020-12-01/
+Cykelfält 		Ett särskilt körfält som genom 
 			vägmarkering anvisats för cyklande och 
 			förare av moped klass II. 
 
@@ -66,6 +66,26 @@ Cykelpassage 		En del av en väg som är avsedd att
 			En cykelpassage är bevakad om trafiken 
 			regleras med trafiksignaler eller av en 
 			polisman och i annat fall obevakad. 
+	
+/Träder i kraft I:2020-12-01/
+Cykelfält 		Ett särskilt körfält som genom
+			vägmarkering anvisats för cyklande och 
+			förare av moped klass II
+
+Cykelgata		En väg eller vägsträcka som enligt 
+			lokala trafikföreskrifter ska vara 
+			cykelgata och som är utmärkt med 
+			vägmärke för cykelgata
+
+Cykelpassage		En del av en väg som är avsedd att 
+			användas av cyklande eller förare av 
+			moped klass II för att korsa en körbana 
+			eller en cykelbana och som anges med 
+			vägmarkering.
+				
+			En cykelpassage är bevakad om trafiken 
+			regleras med trafiksignaler eller av en 
+			polisman och i annat fall obevakad
 
 Cykelöverfart		En del av en väg som enligt en lokal 
 			trafikföreskrift är avsedd att användas 
@@ -88,21 +108,6 @@ EG-motorfordon		Ett fordon som är avsett att användas på
 			skogsbrukstraktorer, mopeder, motorcyklar 
 			och motorredskap
 
-/Upphör att gälla U:2019-07-01/
-Färdled			En sådan led eller plats i terrängen som 
-			allmänt används för samfärdsel men inte är 
-			en väg
-
-Grundhandling		En handling som är avsedd för 
-			färdigställande av körkort, förarbevis för 
-			moped klass II, förarbevis för snöskoter 
-			eller förarbevis för terränghjuling
-
-Gågata			En väg eller en vägsträcka som enligt en 
-			lokal trafikföreskrift ska vara gågata och 
-			som är utmärkt med vägmärke för gågata
-
-/Träder i kraft I:2019-07-01/
 Färdled			En sådan led eller plats i terrängen som 
 			allmänt används för samfärdsel men inte 
 			är en väg
@@ -240,25 +245,6 @@ Registrerad importör	En importör som har registrerats i
 Registrerat fordon	Ett fordon som är upptaget i 
 			vägtrafikregistret
 
-/Upphör att gälla U:2019-07-01/
-Registreringsnummer	Det nummer under vilket ett fordon är 
-			registrerat i vägtrafikregistret
-
-Registreringsskylt	En av Transportstyrelsen tillhandahållen 
-			skylt, som i enlighet med bestämmelserna 
-			i förordningen (2001:650) om 
-			vägtrafikregister
-
-			1. upptar fordonets registreringnummer,
-
-			2. är avsedd för beskickningsfordon, eller
-
-			3. utgör en personlig fordonsskylt
-
-Retardationsfält	Ett sådant körfält som är avsett endast 
-			för avfart
-	
-/Träder i kraft I:2019-07-01/
 Registreringsnummer	Det nummer under vilket ett fordon är 
 			registrerat i vägtrafikregistret
 
@@ -362,7 +348,7 @@ fordonstillverkare	En fordonstillverkare som innehar ett
 			eller vägmärke. Ett övergångsställe är bevakat 
 			om trafiken regleras med trafiksignaler eller 
 			av en polisman och i annat fall obevakat
-Förordning (2019:390).
+Förordning (2020:843).
 
 3 § Transportstyrelsen beslutar i frågor som avses i 3 § lagen
 (2001:559) om vägtrafikdefinitioner. Förordning (2008:1137).
