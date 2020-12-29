@@ -219,24 +219,32 @@ till MiFID II). Lag (2017:679).
 
 Benämningar för vissa EU-rättsakter
 
-4 a § I denna lag betyder 
+4 a § I denna lag betyder
 
-direktivet om marknader för finansiella instrument: 
-Europaparlamentets och rådets direktiv 2014/65/EU av den 
-15 maj 2014 om marknader för finansiella instrument och om 
-ändring av direktiv 2002/92/EG och av direktiv 2011/61/EU, i 
-lydelsen enligt Europaparlamentets och rådets direktiv (EU) 
-2016/1034, 
+direktivet om marknader för finansiella 
+instrument: Europaparlamentets och rådets direktiv 2014/65/EU 
+av den 15 maj 2014 om marknader för finansiella instrument och 
+om ändring av direktiv 2002/92/EG och av direktiv 2011/61/EU, 
+i lydelsen enligt Europaparlamentets och rådets direktiv (EU) 
+2016/1034,
+
+kapitaltäckningsdirektivet: Europaparlamentets och rådets 
+direktiv 2013/36/EU av den 26 juni 2013 om behörighet att 
+utöva verksamhet i kreditinstitut och om tillsyn av 
+kreditinstitut och värdepappersföretag, om ändring av direktiv 
+2002/87/EG och om upphävande av direktiv 2006/48/EG och 
+2006/49/EG, i lydelsen enligt Europaparlamentets och rådets 
+direktiv (EU) 2019/878,
 
 krishanteringsdirektivet: Europaparlamentets och rådets 
 direktiv 2014/59/EU av den 15 maj 2014 om inrättande av en ram 
 för återhämtning och resolution av kreditinstitut och 
 värdepappersföretag och om ändring av rådets direktiv 
-82/891/EEG och Europaparlamentets och rådets 
-direktiv 2001/24/EG, 2002/47/EG, 2004/25/EG, 2005/56/EG, 
-2007/36/EG, 2011/35/EU, 2012/30/EU och 2013/36/EU samt 
-Europaparlamentets och rådets förordningar (EU) nr 1093/2010 
-och (EU) nr 648/2012, i den ursprungliga lydelsen, 
+82/891/EEG och Europaparlamentets och rådets direktiv 
+2001/24/EG, 2002/47/EG, 2004/25/EG, 2005/56/EG, 2007/36/EG, 
+2011/35/EU, 2012/30/EU och 2013/36/EU samt Europaparlamentets 
+och rådets förordningar (EU) nr 1093/2010 och (EU) 
+nr 648/2012, i den ursprungliga lydelsen,
 
 marknadsmissbruksförordningen: Europaparlamentets och rådets 
 förordning (EU) nr 596/2014 av den 16 april 2014 om 
@@ -249,7 +257,7 @@ prospektförordningen: Europaparlamentets och rådets förordning
 (EU) 2017/1129 av den 14 juli 2017 om prospekt som ska 
 offentliggöras när värdepapper erbjuds till allmänheten eller 
 tas upp till handel på en reglerad marknad, och om upphävande 
-av direktiv 2003/71/EG, 
+av direktiv 2003/71/EG,
 
 tillsynsförordningen: Europaparlamentets och rådets förordning 
 (EU) nr 575/2013 av den 26 juni 2013 om tillsynskrav för 
@@ -262,11 +270,12 @@ insynskraven angående upplysningar om emittenter vars
 värdepapper är upptagna till handel på en reglerad marknad och 
 om ändring av direktiv 2001/34/EG, i lydelsen enligt 
 Europaparlamentets och rådets direktiv 2013/50/EU.
-Lag (2019:419).
+Lag (2020:1210).
 
 Definitioner av olika aktörer
 
-4 b § I denna lag betyder
+4 b § /Upphör att gälla U:2022-01-01/
+I denna lag betyder
 
 anknutet ombud: en fysisk eller juridisk person som har 
 träffat avtal med ett svenskt värdepappersinstitut eller ett 
@@ -430,6 +439,146 @@ driva värdepappersrörelse eller ett utländskt företag som
 driver värdepappersrörelse från filial i Sverige eller genom 
 att använda anknutna ombud etablerade i Sverige. 
 Lag (2017:679).
+
+4 b § /Träder i kraft I:2022-01-01/
+I denna lag betyder
+
+anknutet ombud: en fysisk eller juridisk person som har 
+träffat avtal med ett svenskt värdepappersinstitut eller ett 
+utländskt värdepappersföretag som hör hemma inom EES om att 
+för bara detta instituts eller företags räkning 
+
+1. marknadsföra investerings- eller sidotjänster, 
+
+2. ta emot eller vidarebefordra instruktioner eller order 
+avseende investeringstjänster eller finansiella instrument, 
+
+3. placera finansiella instrument, eller 
+
+4. tillhandahålla investeringsrådgivning avseende dessa 
+instrument eller tjänster,
+
+behörig myndighet: i Sverige Finansinspektionen och i särskilt 
+angivna fall Bolagsverket och i övrigt en utländsk myndighet 
+som har behörighet att utöva tillsyn över utländska 
+värdepappersföretag och företag som driver en reglerad marknad 
+eller annan motsvarande marknad eller som har behörighet att 
+utöva tillsyn över emittenter vars överlåtbara värdepapper är 
+upptagna till handel på en reglerad marknad,
+
+börs: ett svenskt aktiebolag eller en svensk ekonomisk 
+förening som har fått tillstånd enligt denna lag att driva en 
+eller flera reglerade marknader,
+
+clearingdeltagare: den som får delta i clearingverksamheten 
+hos en clearingorganisation,
+
+clearingorganisation: ett företag som har fått tillstånd 
+enligt 19 kap. eller Europaparlamentets och rådets förordning 
+(EU) nr 648/2012,
+
+emittent: i fråga om aktier aktiebolaget och i fråga om annat 
+finansiellt instrument utgivaren eller utfärdaren av 
+instrumentet,
+
+handelsplats: en reglerad marknad, en multilateral 
+handelsplattform (MTF-plattform) eller en organiserad 
+handelsplattform (OTF-plattform),
+
+handelsplattform: en MTF-plattform eller en OTF-plattform,
+
+kreditinstitut: en bank, ett kreditmarknadsföretag eller ett 
+utländskt bank- eller kreditföretag som driver bank- eller 
+finansieringsrörelse från filial i Sverige,
+
+leverantör av datarapporteringstjänster: detsamma som i 
+artikel 2.1.36a i förordningen om marknader för finansiella 
+instrument,
+
+marknadsgarant: en person som på fortlöpande basis åtagit sig 
+att på finansiella marknader handla för egen räkning genom att 
+köpa och sälja finansiella instrument med utnyttjande av egna 
+tillgångar till priser som fastställts av denne,
+
+marknadsoperatör: en börs eller en eller flera juridiska 
+personer i ett annat land inom EES som driver en eller flera 
+reglerade marknader,
+
+MTF-plattform: ett multilateralt system inom EES som sammanför 
+flera tredjeparters köp- och säljintressen i finansiella 
+instrument - inom systemet och i enlighet med icke 
+skönsmässiga regler - så att det leder till ett kontrakt,
+
+OTF-plattform: ett multilateralt system inom EES som inte är 
+en reglerad marknad eller en MTF-plattform, och inom vilket 
+flera tredjeparters köp- och säljintressen i obligationer, 
+strukturerade finansiella produkter, utsläppsrätter eller 
+derivat kan interagera inom systemet så att det leder till ett 
+kontrakt,
+
+professionell kund: en sådan kund som avses i 9 kap. 4 eller 
+5 §,
+
+reglerad marknad: ett multilateralt system inom EES som 
+sammanför eller möjliggör sammanförande av ett flertal köp- 
+och säljintressen i finansiella instrument från tredjepart - 
+regelmässigt, inom systemet och i enlighet med icke 
+skönsmässiga regler - så att det leder till ett kontrakt,
+
+statlig emittent: någon av följande som emitterar 
+skuldinstrument:
+
+1. Europeiska unionen,
+
+2. en stat inom EES, inbegripet förvaltningar, organ eller en 
+särskild funktion i staten, 
+
+3. när det gäller en federal stat inom EES, en delstat i 
+federationen, 
+
+4. en särskild funktion för flera stater inom EES, 
+
+5. en internationell finansinstitution som etablerats av minst 
+två stater inom EES och vars mål är att ordna finansiering och 
+tillhandahålla finansiellt bistånd till de stater som har 
+eller riskerar att få allvarliga finansieringsproblem, och
+
+6. Europeiska investeringsbanken,
+
+systematisk internhandlare: ett värdepappersinstitut som i en 
+organiserad, frekvent, systematisk och väsentlig omfattning 
+handlar för egen räkning när det utför kundorder utanför en 
+reglerad marknad eller en handelsplattform utan att utnyttja 
+ett multilateralt system,
+
+tillväxtmarknad för små och medelstora företag: en MTF-
+plattform som är registrerad som en tillväxtmarknad för små 
+och medelstora företag hos Finansinspektionen enligt 11 kap. 
+13-15 §§ eller hos en behörig myndighet i ett annat land inom 
+EES,
+
+utländskt kreditinstitut: ett kreditinstitut enligt 1 kap. 5 § 
+första stycket 21 lagen (2004:297) om bank- och 
+finansieringsrörelse,
+
+utländskt värdepappersföretag: ett utländskt företag som i 
+hemlandet har tillstånd att driva värdepappersrörelse,
+
+värdepappersbolag: ett svenskt aktiebolag som har fått 
+tillstånd enligt denna lag att driva värdepappersrörelse och 
+som inte är ett bankaktiebolag eller ett kreditmarknadsbolag 
+enligt lagen om bank- och finansierings-rörelse,
+
+värdepapperscentral: en värdepapperscentral enligt 
+definitionen i artikel 2.1.1 i förordningen om 
+värdepapperscentraler, och
+
+värdepappersinstitut: ett värdepappersbolag, ett svenskt 
+kreditinstitut som har fått tillstånd enligt denna lag att 
+driva värdepappersrörelse eller ett utländskt företag som 
+driver värdepappersrörelse från filial i Sverige eller genom 
+att använda anknutna ombud etablerade i Sverige.
+Lag (2020:1157).
 
 Definitioner av olika tjänster och verksamheter
 
@@ -1088,7 +1237,8 @@ med tillstånd enligt första stycket 2. Lag (2017:679).
 
 Sidoverksamheter
 
-3 § Ett värdepappersbolag får efter tillstånd av 
+3 § /Upphör att gälla U:2022-01-01/
+Ett värdepappersbolag får efter tillstånd av 
 Finansinspektionen driva annan verksamhet än att 
 tillhandahålla de sidotjänster som anges i 2 §.
 
@@ -1102,13 +1252,30 @@ föreskrivs i lagen (2018:1219) om försäkringsdistribution.
 I 10 kap. finns bestämmelser om tillhandahållande av vissa 
 datarapporteringstjänster. Lag (2018:1226).
 
+3 § /Träder i kraft I:2022-01-01/
+Ett värdepappersbolag får efter tillstånd av 
+Finansinspektionen driva annan verksamhet än att 
+tillhandahålla de sidotjänster som anges i 2 §.
+
+Ett värdepappersbolag får efter tillstånd av 
+Finansinspektionen driva valutahandel.
+
+Tillstånd enligt första stycket behövs inte för att bedriva 
+försäkringsdistribution under de förutsättningar som 
+föreskrivs i lagen (2018:1219) om försäkringsdistribution.
+
+Ett värdepappersbolag får utföra datarapporteringstjänster 
+enligt förordningen om marknader för finansiella instrument.
+Lag (2020:1157).
+
 4 § I lagen (1993:931) om individuellt pensionssparande finns
 bestämmelser om rätt för värdepappersinstitut att driva
 pensionssparrörelse. Lag (2013:579).
 
 Undantag från tillståndsplikt
 
-5 § Tillstånd enligt 1 § behövs inte för 
+5 § /Upphör att gälla U:2021-01-01/
+Tillstånd enligt 1 § behövs inte för 
 
 1. Sveriges riksbank, Riksgäldskontoret och Kammarkollegiet, 
 
@@ -1267,6 +1434,164 @@ bilagan till den förordningen.
 Tillstånd krävs inte heller för sådan förvaltning av 
 finansiella instrument som är reglerad i någon annan lag.
 Lag (2019:762).
+
+5 § /Träder i kraft I:2021-01-01/
+Tillstånd enligt 1 § behövs inte för
+
+1. Sveriges riksbank, Riksgäldskontoret och Kammarkollegiet,
+
+2. anknutna ombud för de verksamheter som anges i 1 kap. 
+4 b §,
+
+3. börs som driver verksamhet med stöd av sitt tillstånd,
+
+4. försäkringsföretag med tillstånd enligt försäkringsrörelse-
+lagen (2010:2043) och tjänstepensionsföretag med tillstånd 
+enligt lagen (2019:742) om tjänstepensionsföretag,
+
+5. företag inom en koncern som tillhandahåller investerings-
+tjänster uteslutande till andra företag i koncernen,
+
+6. fysiska och juridiska personer som tillhandahåller 
+investeringstjänster, om tjänsten tillhandahålls tillfälligt i 
+samband med annan yrkesmässig verksamhet som regleras av
+
+a) bestämmelser i lag eller annan författning, eller
+
+b) etiska regler som avser yrkesverksamheten i fråga och som 
+inte utesluter att tjänsten tillhandahålls,
+
+7. fysiska och juridiska personer som för egen räkning handlar 
+med andra finansiella instrument än råvaruderivat eller 
+utsläppsrätter eller derivat hänförliga till utsläppsrätter 
+och som inte tillhandahåller andra investeringstjänster eller 
+utför annan investeringsverksamhet med andra finansiella 
+instrument än råvaruderivat eller utsläppsrätter eller derivat 
+hänförliga till utsläppsrätter, såvida de inte
+
+a) är marknadsgaranter,
+
+b) är deltagare på en reglerad marknad eller en MTF-plattform 
+eller har direkt elektroniskt tillträde till en handelsplats, 
+med undantag av icke-finansiella enheter som på en 
+handelsplats genomför transaktioner som på ett objektivt 
+mätbart sätt minskar risker som står i direkt samband med 
+affärsverksamheten eller likviditetsförvaltningen hos dem 
+eller de koncerner de ingår i,
+
+c) tillämpar en teknik för algoritmisk högfrekvenshandel, 
+eller
+
+d) handlar för egen räkning vid utförandet av kundorder,
+
+8. företag som tillhandahåller investeringstjänster som 
+uteslutande består i förvaltning av ett program som syftar 
+till delägarskap för de anställda i företaget,
+
+9. företag som tillhandahåller både
+
+a) investeringstjänster som uteslutande består i förvaltning 
+av program som syftar till delägarskap för de anställda i 
+företaget, och
+
+b) andra investeringstjänster än sådana som anges i a 
+uteslutande till andra företag i koncernen,
+
+10. fondbolag, förvaltningsbolag och fondföretag som får driva 
+verksamhet enligt lagen (2004:46) om värdepappersfonder samt 
+AIF-förvaltare som får driva verksamhet enligt lagen 
+(2013:561) om förvaltare av alternativa investeringsfonder i 
+andra fall än efter registrering enligt 2 kap. den lagen,
+
+11. företag som handlar med råvaruderivat, utsläppsrätter 
+eller derivat hänförliga till utsläppsrätter för egen räkning 
+utan att utföra kundorder, eller tillhandahåller 
+investeringstjänster i fråga om sådana instrument till kund-
+erna i sin huvudsakliga verksamhet, om
+
+a) detta utgör en kompletterande verksamhet eller, om 
+företaget ingår i en koncern, detta utgör en kompletterande 
+verksamhet sett till koncernen i dess helhet,
+
+b) den huvudsakliga verksamheten inte utgörs av tillhandahåll-
+ande av investeringstjänster eller sådana tjänster som avses i 
+7 kap. 1 § lagen (2004:297) om bank- och finansieringsrörelse 
+eller verksamhet som marknadsgarant för råvaruderivat,
+
+c) företaget inte tillämpar en teknik för algoritmisk 
+högfrekvenshandel, och
+
+d) företaget årligen anmäler till Finansinspektionen att 
+undantaget utnyttjas samt på inspektionens begäran rapporterar 
+på vilken grund företaget anser att verksamheten endast är en 
+kompletterande verksamhet,
+
+12. fysiska och juridiska personer som tillhandahåller 
+investeringsrådgivning inom ramen för annan yrkesmässig 
+verksamhet än sådan som omfattas av bestämmelserna i denna 
+lag, om det inte lämnas någon specifik ersättning för 
+rådgivningen,
+
+13. fysiska och juridiska personer som utför investeringsverk-
+samhet, dock inte drift av en andrahandsmarknad, eller 
+tillhandahåller investeringstjänster rörande råvaruderivat för 
+att fullgöra uppgifter
+
+- enligt Europaparlamentets och rådets direktiv 2009/72/EG av 
+den 13 juli 2009 om gemensamma regler för den inre marknaden 
+för el och om upphävande av direktiv 2003/54/EG, i den 
+ursprungliga lydelsen,
+
+- enligt Europaparlamentets och rådets direktiv 2009/73/EG av 
+den 13 juli 2009 om gemensamma regler för den inre marknaden 
+för naturgas och om upphävande av direktiv 2003/55/EG, i den 
+ursprungliga lydelsen,
+
+- enligt Europaparlamentets och rådets förordning (EG) 
+nr 714/2009 av den 13 juli 2009 om villkor för tillträde till 
+nät för gränsöverskridande elhandel och om upphävande av 
+förordning (EG) nr 1228/2003 eller enligt sådana 
+nätföreskrifter eller riktlinjer som har antagits enligt 
+förordningen, eller
+
+- enligt Europaparlamentets och rådets förordning (EG) 
+nr 715/2009 av den 13 juli 2009 om villkor för tillträde till 
+naturgasöverföringsnäten och om upphävande av förordning (EG) 
+nr 1775/2005 eller enligt sådana nätföreskrifter eller 
+riktlinjer som har antagits enligt förordningen, om
+
+a) personen är en sådan systemansvarig för överföringssystemet 
+som avses i artikel 2.4 i Europaparlamentets och rådets 
+direktiv 2009/72/EG, i den ursprungliga lydelsen, eller 
+artikel 2.4 i Europaparlamentets och rådets 
+direktiv 2009/73/EG, i den ursprungliga lydelsen,
+
+b) personen tillhandahåller tjänster till en systemansvarig 
+som avses i a och fullgör uppgifterna för den systemansvariges 
+räkning, eller
+
+c) personen är operatör eller förvaltare av 
+energibalanseringssystem, rörledningsnät eller system för 
+balansering av tillgången och efterfrågan på energi,
+
+14. företag som är verksamhetsutövare enligt 5 § lagen 
+(2020:1173) om vissa utsläpp av växthusgaser som handlar med 
+utsläppsrätter för egen räkning, om
+
+a) företaget inte tillhandahåller andra investeringstjänster 
+eller ägnar sig åt annan investeringsverksamhet, och
+
+b) företaget inte tillämpar en teknik för algoritmisk 
+högfrekvenshandel, och
+
+15. värdepapperscentraler med tillstånd enligt artikel 16 i 
+förordningen om värdepapperscentraler för att tillhandahålla 
+de tjänster som uttryckligen anges i avsnitten A och B i 
+bilagan till den förordningen.
+
+Tillstånd krävs inte heller för sådan förvaltning av 
+finansiella instrument som är reglerad i någon annan lag.
+Lag (2020:1178).
 
 6 § I 4 kap. finns ytterligare undantag från tillståndsplikt
 för vissa företag som hör hemma inom EES.
@@ -2089,14 +2414,16 @@ Ett värdepappersbolag ska särskilt se till att dess
 kreditrisker, marknadsrisker, operativa risker och andra 
 risker sammantagna inte medför att dess förmåga att fullgöra 
 sina förpliktelser äventyras. För att uppfylla detta krav ska 
-bolaget ha metoder som gör det möjligt att fortlöpande 
-värdera och upprätthålla ett kapital som till belopp, slag 
-och fördelning är tillräckligt för att täcka arten och nivån 
-på de risker som bolaget är eller kan komma att bli exponerat 
-för.
+bolaget ha metoder som gör det möjligt att fortlöpande värdera 
+och upprätthålla ett kapital som till belopp, slag och 
+fördelning är tillräckligt för att täcka arten och nivån på de 
+risker som bolaget är eller kan komma att bli exponerat för. 
+Bolaget ska utvärdera dessa metoder för att säkerställa att de 
+är heltäckande.
 
-Bolaget ska utvärdera dessa metoder för att säkerställa att 
-de är heltäckande. Lag (2015:1032).
+Ett värdepappersbolag ska på grundval av de metoder som avses 
+i tredje stycket fastställa tillräckliga kapitalbasnivåer.
+Lag (2020:1210).
 
 Rapportering av överträdelser
 
@@ -3065,12 +3392,12 @@ koncerninternt finansiellt stöd, om stödet
 det företag som tar emot det,
 
 2. syftar till att bevara eller återställa den finansiella 
-stabiliteten i koncernen som helhet eller i något av 
-företagen inom koncernen, och
+stabiliteten i koncernen som helhet eller i något av företagen 
+inom koncernen, och
 
 3. inte äventyrar den finansiella stabiliteten i ett eller 
 flera länder inom EES, i synnerhet i det land där det 
-stödgivande företaget finns.
+stödgivande företaget finns. 
 
 Dessutom ska följande krav vara uppfyllda med avseende på det 
 stödgivande företaget:
@@ -3091,11 +3418,11 @@ finansiella stödet.
 4. Det stödgivande företaget uppfyller de krav som gäller 
 avseende kapitalbas och likviditet i 
 kapitaltäckningsdirektivet samt de övriga krav som gäller 
-enligt artikel 104.2 i samma direktiv vid tidpunkten för det 
+enligt artikel 104a i samma direktiv vid tidpunkten för det 
 finansiella stödet.
 
 5. Det stödgivande företaget uppfyller de krav som gäller för 
-stora exponeringar. 
+stora exponeringar.
 
 6. Det finansiella stödet leder inte till att de krav som 
 anges i 4 eller 5 inte uppfylls.
@@ -3104,7 +3431,7 @@ anges i 4 eller 5 inte uppfylls.
 äventyras inte till följd av det finansiella stödet.
 
 Finansinspektionen får bevilja undantag från kraven i andra 
-stycket 4 och 5. Lag (2015:1032).
+stycket 4 och 5. Lag (2020:1210).
 
 5 § Finansinspektionen ska överlämna varje avtal som 
 inspektionen godkänt, och ändringar av sådana avtal, till 
@@ -3539,7 +3866,8 @@ ges. Informationen ska, i förekommande fall, ges till kunden
 regelbundet, åtminstone årligen, under investeringens 
 varaktighet. Lag (2017:679).
 
-16 § När en investeringstjänst erbjuds tillsammans med en 
+16 § /Upphör att gälla U:2021-01-01/
+När en investeringstjänst erbjuds tillsammans med en 
 annan tjänst eller produkt som en del av ett paket eller som 
 ett villkor för samma överenskommelse eller paket 
 (korsförsäljning), ska värdepappersinstitutet informera 
@@ -3554,6 +3882,22 @@ de risker som uppstår om komponenterna väljs separat, ska
 institutet förse kunden med en adekvat beskrivning av de 
 olika komponenterna i överenskommelsen eller paketet och hur 
 förhållandet mellan dem förändrar riskerna. Lag (2017:679).
+
+16 § /Träder i kraft I:2021-01-01/
+När en investeringstjänst erbjuds tillsammans med en 
+annan tjänst eller produkt som en del av ett paket eller som 
+ett villkor för samma överenskommelse eller paket 
+(korsförsäljning), ska värdepappersinstitutet informera kunden 
+om huruvida det är möjligt att köpa de olika komponenterna 
+separat och förse kunden med uppgifter om kostnaderna och 
+avgifterna för varje komponent.
+
+Om riskerna med en överenskommelse eller ett paket som erbjuds 
+en icke-professionell kund sannolikt skiljer sig från de 
+risker som uppstår om komponenterna väljs separat, ska 
+institutet förse kunden med en adekvat beskrivning av de olika 
+komponenterna i överenskommelsen eller paketet och hur 
+förhållandet mellan dem förändrar riskerna. Lag (2020:1157).
 
 17 § Ett värdepappersinstitut som tillhandahåller 
 investeringsrådgivning ska informera kunden om huruvida
@@ -4032,8 +4376,8 @@ förbudet i 19 kap. 3 § aktiebolagslagen (2005:551) som pant ta
 emot även dessa aktier. Lag (2017:679).
 
 45 § Vid kreditgivning enligt 2 kap. 2 § första stycket 2 
-gäller för värdepappersbolag denna paragraf och 44 § i 
-stället för 21 kap. aktiebolagslagen (2005:551).
+gäller för värdepappersbolag denna paragraf och 44 § i stället 
+för 21 kap. aktiebolagslagen (2005:551).
 
 Ett värdepappersbolag får inte på andra villkor än sådana som 
 bolaget normalt ställer upp lämna kredit till
@@ -4046,28 +4390,38 @@ avgöra kreditärenden som ska avgöras av styrelsen,
 3. en anställd som har en ledande ställning inom bolaget,
 
 4. någon annan aktieägare än staten med ett aktieinnehav som 
-motsvarar minst tre procent av hela aktiekapitalet,
+motsvarar minst 3 procent av hela aktiekapitalet,
 
-5. den som är make eller sambo till någon som avses i 1–4, 
+5. den som är make eller sambo till någon som avses i 1-4, 
 eller
 
-6. en juridisk person i vilken någon som avses i 1–5 har ett 
+6. en juridisk person i vilken någon som avses i 1-5 har ett 
 väsentligt ekonomiskt intresse i egenskap av delägare eller 
 medlem.
-
-Finansinspektionen prövar efter ansökan om en anställd har 
-sådan ledande ställning som avses i andra stycket 3. 
 
 Värdepappersbolagets styrelse ska avgöra ärenden om kredit 
 till de personer och företag som avses i andra stycket. 
 Bolaget ska föra in uppgifter om sådana krediter i en 
-förteckning.
+förteckning. I fråga om en styrelseledamot eller den 
+verkställande direktören ska förteckningen också innehålla 
+uppgift om en kredit som har lämnats till 
 
-Andra–fjärde styckena tillämpas också på krediter mot 
-säkerhet av borgen eller fordringsrätt som utfärdas av någon 
-som avses i andra stycket. Detsamma gäller för en fordran som 
-bolaget förvärvar och för vilken någon som avses i andra 
-stycket är betalningsskyldig. Lag (2017:679).
+1. ett barn eller en förälder till en sådan person, och 
+
+2. en juridisk person i vilken styrelseledamoten eller den 
+verkställande direktören eller dennes make, sambo, barn eller 
+förälder 
+
+a) har ett kvalificerat innehav, eller 
+
+b) är styrelseledamot eller verkställande direktör.
+
+Andra stycket och tredje stycket första och andra meningarna 
+tillämpas också på krediter mot säkerhet av borgen eller 
+fordringsrätt som utfärdas av någon som avses i andra stycket. 
+Detsamma gäller för en fordran som bolaget förvärvar och för 
+vilken någon som avses i andra stycket är betalningsskyldig.
+Lag (2020:1210).
 
 46 § Ett värdepappersbolag får ge förskott, lämna lån eller
 ställa säkerhet för lån i syfte att gäldenären skall förvärva
@@ -4133,7 +4487,7 @@ tillhandahållit är lämpliga för kunden. Lag (2017:679).
 Bemyndiganden
 
 50 § Regeringen eller den myndighet som regeringen bestämmer 
-får meddela föreskrifter om 
+får meddela föreskrifter om
 
 1. vad ett värdepappersinstitut ska iaktta för att uppfylla 
 skyldigheterna i 1 §,
@@ -4142,18 +4496,17 @@ skyldigheterna i 1 §,
 kunderna,
 
 3. kriterierna för att bedöma vilka ersättningar och förmåner 
-ett värdepappersinstitut får lämna till eller ta emot av 
-någon annan än kunden samt vilka uppgifter som ska lämnas 
-till kunden om ersättningar och förmåner som institutet 
-lämnar till eller tar emot av någon annan än kunden enligt 
-21 §, 
+ett värdepappersinstitut får lämna till eller ta emot av någon 
+annan än kunden samt vilka uppgifter som ska lämnas till 
+kunden om ersättningar och förmåner som institutet lämnar till 
+eller tar emot av någon annan än kunden enligt 21 §, 
 
 4. tidpunkt, omfattning och riktlinjer för återbetalning till 
 kund av mottagna ersättningar eller förmåner enligt 22 § 
 första stycket,
 
-5. kriterierna för att bedöma vilka icke-monetära förmåner 
-ett värdepappersinstitut får ta emot och behålla när det 
+5. kriterierna för att bedöma vilka icke-monetära förmåner ett 
+värdepappersinstitut får ta emot och behålla när det 
 tillhandahåller investeringsrådgivning på oberoende grund 
 eller portföljförvaltning enligt 22 § andra stycket,
 
@@ -4168,9 +4521,8 @@ enligt 39 §,
 
 9. hantering av medel enligt 41 §,
 
-10. mottagande av medel på konto och bolagets eller 
-företagets system för hantering av vissa uppgifter enligt 
-42 §,
+10. mottagande av medel på konto och bolagets eller företagets 
+system för hantering av vissa uppgifter enligt 42 §,
 
 11. vilka åtgärder ett värdepappersinstitut ska vidta för att 
 säkerställa att det följer förbudet i 43 §,
@@ -4178,14 +4530,16 @@ säkerställa att det följer förbudet i 43 §,
 12. vilka begränsningar som ska gälla vid ställande av 
 säkerhet enligt 44 § tredje meningen, och
 
-13. vilka uppgifter som ska antecknas i en förteckning enligt 
-45 § fjärde stycket. Lag (2017:679).
+13. tillhandahållande av tjänster till en jävskrets som avses 
+i 45 §. Lag (2020:1210).
 
 10 kap. Datarapporteringstjänster
 
+/Rubriken upphör att gälla U:2022-01-01/
 Tillståndskrav
 
-1 § Ett svenskt aktiebolag får efter tillstånd av 
+1 § /Upphör att gälla U:2022-01-01/
+Ett svenskt aktiebolag får efter tillstånd av 
 Finansinspektionen yrkesmässigt tillhandahålla 
 datarapporteringstjänster som APA-leverantör, CTP-leverantör 
 eller ARM-leverantör.
@@ -4199,9 +4553,17 @@ ett svenskt värdepappersinstitut som har tillstånd att driva
 en handelsplats, om börsen eller institutet uppfyller kraven 
 i detta kapitel. Lag (2017:679).
 
+1 § /Träder i kraft I:2022-01-01/
+I förordningen om marknader för finansiella instrument 
+finns bestämmelser om tillståndsplikt och om organisatoriska 
+krav och verksamhetskrav för leverantörer av 
+datarapporteringstjänster. Lag (2020:1157).
+
+/Rubriken upphör att gälla U:2022-01-01/
 Förutsättningar för tillstånd
 
-2 § Tillstånd att tillhandahålla datarapporteringstjänster 
+2 § /Upphör att gälla U:2022-01-01 genom lag (2020:1157)./
+Tillstånd att tillhandahålla datarapporteringstjänster 
 ska ges, om
 
 1. bolaget har sitt huvudkontor i Sverige,
@@ -4222,12 +4584,21 @@ erfarenhet för att leda bolaget, och
 5. bolaget uppfyller de villkor i övrigt som anges i denna 
 lag. Lag (2017:679).
 
-3 § En ansökan enligt 1 § ska innehålla en verksamhetsplan.
+2 § /Träder i kraft I:2022-01-01/
+En leverantör av datarapporteringstjänster ska ha 
+ändamålsenliga rapporteringssystem för anställda som vill göra 
+anmälningar om misstänkta överträdelser av bestämmelser som 
+gäller för verksamheten. Lag (2020:1157).
+
+3 § /Upphör att gälla U:2022-01-01 genom lag (2020:1157)./
+En ansökan enligt 1 § ska innehålla en verksamhetsplan.
 Lag (2017:679).
 
+/Rubriken upphör att gälla U:2022-01-01/
 Krav på styrelsen
 
-4 § Styrelsen i ett bolag som tillhandahåller 
+4 § /Upphör att gälla U:2022-01-01 genom lag (2020:1157)./
+Styrelsen i ett bolag som tillhandahåller 
 datarapporteringstjänster ska fastställa och övervaka 
 arrangemang för styrning som säkerställer en ansvarsfull 
 ledning av bolaget. I arrangemangen för styrning ska, på ett 
@@ -4235,9 +4606,11 @@ sätt som främjar marknadens integritet, åtskillnad göras
 mellan funktioner inom organisationen och förebyggande av 
 intressekonflikter. Lag (2017:679).
 
+/Rubriken upphör att gälla U:2022-01-01/
 Godkänt publiceringsarrangemang (APA-leverantör)
 
-5 § En APA-leverantör ska ha adekvata strategier och 
+5 § /Upphör att gälla U:2022-01-01 genom lag (2020:1157)./
+En APA-leverantör ska ha adekvata strategier och 
 arrangemang för att offentliggöra den information som krävs 
 enligt artiklarna 20 och 21 i förordningen om marknader för 
 finansiella instrument så nära realtid som det är tekniskt 
@@ -4253,7 +4626,8 @@ och i ett format som underlättar en sammanföring av
 informationen med liknande data från andra källor.
 Lag (2017:679).
 
-6 § Informationen enligt 5 § ska omfatta åtminstone följande 
+6 § /Upphör att gälla U:2022-01-01 genom lag (2020:1157)./
+Informationen enligt 5 § ska omfatta åtminstone följande 
 uppgifter: 
 
 1. identifieringskod för det finansiella instrumentet, 
@@ -4275,16 +4649,19 @@ internhandlare, koden ”SI”, eller koden ”OTC”, och
 8. i tillämpliga fall, en indikator som visar att särskilda 
 villkor gällde för transaktionen. Lag (2017:679).
 
-7 § En APA-leverantör ska ha system som på ett effektivt sätt 
+7 § /Upphör att gälla U:2022-01-01 genom lag (2020:1157)./
+En APA-leverantör ska ha system som på ett effektivt sätt 
 kan kontrollera handelsrapporters fullständighet, hitta fall 
 av utelämnad information och uppenbara fel och begära 
 omsändning av alla sådana felaktiga rapporter. 
 Lag (2017:679).
 
+/Rubriken upphör att gälla U:2022-01-01/
 Tillhandahållare av konsoliderad handelsinformation 
 (CTP-leverantör)
 
-8 § En CTP-leverantör ska ha adekvata strategier och 
+8 § /Upphör att gälla U:2022-01-01 genom lag (2020:1157)./
+En CTP-leverantör ska ha adekvata strategier och 
 arrangemang för att samla in den information som 
 offentliggjorts i enlighet med artiklarna 6, 10, 20 och 21 i 
 förordningen om marknader för finansiella instrument, 
@@ -4302,7 +4679,8 @@ tillgång till informationen på icke-diskriminerande grunder
 och i format som är lätta att ta del av och att använda för 
 marknadsdeltagare. Lag (2017:679).
 
-9 § Informationen enligt 8 § ska omfatta åtminstone följande 
+9 § /Upphör att gälla U:2022-01-01 genom lag (2020:1157)./
+Informationen enligt 8 § ska omfatta åtminstone följande 
 uppgifter:
 
 1. identifieringskod eller identifierbara kännetecken för det 
@@ -4335,7 +4713,8 @@ offentliggöra den information som avses i artikel 3.1 i den
 förordningen, visar vilket av undantagen som gällde för 
 transaktionen. Lag (2017:679).
 
-10 § En CTP-leverantör ska säkerställa att de data som den 
+10 § /Upphör att gälla U:2022-01-01 genom lag (2020:1157)./
+En CTP-leverantör ska säkerställa att de data som den 
 tillhandahåller har sammanställts från alla reglerade 
 marknader, MTF-plattformar, OTF-plattformar och 
 APA-leverantörer och avser de finansiella instrument som 
@@ -4346,16 +4725,19 @@ tillsynsstandarder när det gäller auktorisation,
 organisatoriska krav och publicering av transaktioner för 
 leverantörer av datarapporteringstjänster. Lag (2017:679).
 
+/Rubriken upphör att gälla U:2022-01-01/
 Godkänd rapporteringsmekanism (ARM-leverantör)
 
-11 § En ARM-leverantör ska ha adekvata strategier och 
+11 § /Upphör att gälla U:2022-01-01 genom lag (2020:1157)./
+En ARM-leverantör ska ha adekvata strategier och 
 arrangemang för att så snart som möjligt, och senast vid 
 slutet av arbetsdagen dagen efter den dag då transaktionen 
 ägt rum, lämna information i enlighet med vad som följer av 
 artikel 26 i förordningen om marknader för finansiella 
 instrument. Lag (2017:679).
 
-12 § En ARM-leverantör ska ha system som på ett effektivt 
+12 § /Upphör att gälla U:2022-01-01 genom lag (2020:1157)./
+En ARM-leverantör ska ha system som på ett effektivt 
 sätt kan kontrollera transaktionsrapporters fullständighet, 
 hitta fall av utelämnad information och uppenbara fel som 
 orsakats av ett värdepappersinstitut och då sådana fel eller 
@@ -4368,13 +4750,16 @@ orsakat och kunna åtgärda dessa och översända korrekta och
 fullständiga transaktionsrapporter eller, i förekommande 
 fall, sända in dem på nytt. Lag (2017:679).
 
+/Rubriken upphör att gälla U:2022-01-01/
 Gemensamma bestämmelser
 
-13 § Den som tillhandahåller en datarapporteringstjänst ska 
+13 § /Upphör att gälla U:2022-01-01 genom lag (2020:1157)./
+Den som tillhandahåller en datarapporteringstjänst ska 
 ha effektiva arrangemang för att förhindra 
 intressekonflikter. Lag (2017:679).
 
-14 § Den som tillhandahåller en datarapporteringstjänst ska 
+14 § /Upphör att gälla U:2022-01-01 genom lag (2020:1157)./
+Den som tillhandahåller en datarapporteringstjänst ska 
 ha sunda skyddsmekanismer som är utformade för att garantera 
 skyddet vid informationsöverföring och för att minimera 
 risken för dataförvanskning och för obehörigt tillträde till 
@@ -4382,7 +4767,8 @@ informationen samt adekvata resurser och reservanordningar
 för att kontinuerligt kunna tillhandahålla tjänsten.
 Lag (2017:679).
 
-15 § Den som tillhandahåller en datarapporteringstjänst 
+15 § /Ny beteckning 10 kap. 2 § U:2022-01-01/
+Den som tillhandahåller en datarapporteringstjänst 
 ska ha ändamålsenliga rapporteringssystem för anställda som 
 vill göra anmälningar om misstänkta överträdelser av 
 bestämmelser som gäller för verksamheten. Lag (2018:328).
@@ -5306,8 +5692,14 @@ Om det finns särskilda skäl, får Finansinspektionen ge
 tillstånd till en börs att driva även annan verksamhet.
 Lag (2017:679).
 
-12 a § En börs får utföra datarapporteringstjänster enligt 
+12 a § /Upphör att gälla U:2022-01-01/
+En börs får utföra datarapporteringstjänster enligt 
 10 kap. Lag (2017:679).
+
+12 a § /Träder i kraft I:2022-01-01/
+En börs får utföra datarapporteringstjänster enligt 
+förordningen om marknader för finansiella instrument.
+Lag (2020:1157).
 
 Tillstånd till förvärv av egendom i vissa fall
 
@@ -6722,7 +7114,8 @@ handeln enligt 3 § samt när ett beslut om handelsstopp enligt
 
 Tillsynen och dess omfattning
 
-1 § Finansinspektionen har tillsyn över värdepappersinstitut, 
+1 § /Upphör att gälla U:2022-01-01/
+Finansinspektionen har tillsyn över värdepappersinstitut, 
 börser, svenska leverantörer av datarapporteringstjänster, 
 clearingorganisationer samt sådana utländska företag som har 
 tillstånd att driva en reglerad marknad från filial i 
@@ -6746,7 +7139,49 @@ Finansinspektionen har därutöver tillsyn över att
 bestämmelserna om regelbunden finansiell information i 16 
 kap. följs. Lag (2017:679).
 
-2 § Värdepappersinstitut, börser, svenska leverantörer av 
+1 § /Träder i kraft I:2022-01-01/
+Finansinspektionen har tillsyn över
+
+- värdepappersinstitut, 
+
+- börser, 
+
+- leverantörer av datarapporteringstjänster, när 
+Finansinspektionen är behörig myndighet enligt förordningen om 
+marknader för finansiella instrument, 
+
+- clearingorganisationer, och
+
+- sådana utländska företag som har tillstånd att driva en 
+reglerad marknad från filial i Sverige.
+
+För svenska värdepappersinstitut, börser, leverantörer av 
+datarapporteringstjänster och svenska clearingorganisationer 
+omfattar tillsynen att rörelsen drivs enligt denna lag, andra 
+författningar som reglerar företagets verksamhet, företagets 
+bolagsordning, stadgar eller reglemente och interna inst-
+ruktioner som har sin grund i en författning som reglerar 
+företagets verksamhet.
+
+För ett utländskt företag som driver värdepappersrörelse eller 
+en reglerad marknad eller clearingverksamhet från filial i 
+Sverige omfattar tillsynen att företaget följer de lagar och 
+andra författningar som gäller för företagets verksamhet i 
+Sverige. 
+
+Finansinspektionen har därutöver tillsyn över att 
+bestämmelserna om regelbunden finansiell information i 16 kap. 
+följs. Lag (2020:1157).
+
+1 a § Om Finansinspektionen vid inspektion eller på annat sätt 
+har upptäckt en omständighet som kan antas ha samband med 
+eller utgöra penningtvätt eller finansiering av terrorism, ska 
+inspektionen särskilt kontrollera att värdepappersbolagets 
+ägare och ledning uppfyller lämplighetskraven i denna lag.
+Lag (2020:1210).
+
+2 § /Upphör att gälla U:2022-01-01/
+Värdepappersinstitut, börser, svenska leverantörer av 
 datarapporteringstjänster, clearingorganisationer samt sådana 
 utländska företag som har tillstånd att driva en reglerad 
 marknad från filial i Sverige ska lämna Finansinspektionen 
@@ -6773,10 +7208,49 @@ personer som är anställda i företag som avses i 6 kap. 1 §
 lagen (2014:968) om särskild tillsyn över kreditinstitut och 
 värdepappersbolag. Lag (2017:679).
 
+2 § /Träder i kraft I:2022-01-01/
+Värdepappersinstitut, börser, leverantörer av 
+datarapporteringstjänster som Finansinspektionen har tillsyn 
+över, clearingorganisationer samt sådana utländska företag som 
+har tillstånd att driva en reglerad marknad från filial i 
+Sverige ska lämna Finansinspektionen upplysningar om sin 
+verksamhet och därmed sammanhängande omständigheter enligt 
+föreskrifter som meddelats med stöd av lagen.
+
+Värdepappersinstitut, börser och sådana utländska företag som 
+har tillstånd att driva en reglerad marknad från filial i 
+Sverige ska lämna Finansinspektionen sådana upplysningar om 
+emittenter som har samband med kontrollen av att emittenterna 
+fullgör sin informationsskyldighet enligt artikel 17 i 
+marknadsmissbruksförordningen enligt föreskrifter som med-
+delats med stöd av lagen.
+
+Företagen ska, utöver det som anges i första och andra 
+styckena, lämna Finansinspektionen de upplysningar som 
+inspektionen begär.
+
+Finansinspektionen får även begära sådana upplysningar som 
+avses i första och tredje styckena av personer som är 
+anställda hos de företag som avses i första stycket samt av 
+personer som är anställda i företag som avses i 6 kap. 1 § 
+lagen (2014:968) om särskild tillsyn över kreditinstitut och 
+värdepappersbolag. Lag (2020:1157).
+
 2 a § Regeringen eller den myndighet som regeringen bestämmer
 meddelar föreskrifter om att vissa uppgifter som enligt 2 §
 första stycket ska lämnas till Finansinspektionen i stället
 ska lämnas till Statistiska centralbyrån. Lag (2014:491).
+
+2 b § /Träder i kraft I:2021-06-28/
+I samband med en översyn och utvärdering av ett 
+värdepappersbolag får Finansinspektionen, vid tillämpning av 
+artikel 84 i kapitaltäckningsdirektivet, bestämma att bolaget 
+ska använda schablonmetoden i stället för
+
+- interna metoder, eller
+
+- den förenklade schablonmetoden.
+Lag (2020:1210).
 
 3 § För övervakningen av att bestämmelserna i denna lag och 
 förordningen om marknader för finansiella instrument samt 
@@ -6848,7 +7322,8 @@ värdepappersbolagets verksamhet. Lag (2017:679).
 
 Platsundersökning
 
-4 § Finansinspektionen får när det är nödvändigt genomföra en 
+4 § /Upphör att gälla U:2022-01-01/
+Finansinspektionen får när det är nödvändigt genomföra en 
 undersökning hos
 
 1. ett värdepappersinstitut, 
@@ -6872,6 +7347,58 @@ av ett värdepappersinstitut att utföra visst arbete eller
 vissa funktioner, om det behövs för tillsynen av institutet.
 Lag (2017:679).
 
+4 § /Träder i kraft I:2022-01-01/
+Finansinspektionen får när det är nödvändigt genomföra en 
+undersökning hos
+
+1. ett värdepappersinstitut, 
+
+2. en börs,
+
+3. en leverantör av datarapporteringstjänster som 
+Finansinspektionen har tillsyn över,
+
+4. en clearingorganisation,
+
+5. ett sådant utländskt företag som har tillstånd att driva en 
+reglerad marknad från filial i Sverige, och
+
+6. en emittent som enligt 16 kap. 1-3 §§ omfattas av 
+skyldigheten enligt samma kapitel att upprätta och 
+offentliggöra regelbunden finansiell information.
+
+Finansinspektionen får även genomföra en undersökning hos ett 
+anknutet ombud eller hos ett företag som har fått i uppdrag av 
+ett värdepappersinstitut att utföra visst arbete eller vissa 
+funktioner, om det behövs för tillsynen av institutet.
+Lag (2020:1157).
+
+/Rubriken träder i kraft I:2022-01-01/
+Handräckning
+
+4 a § /Träder i kraft I:2022-01-01/
+Finansinspektionen får begära handräckning av 
+Kronofogdemyndigheten för att en kontroll på plats enligt 
+artikel 38d i förordningen om marknader för finansiella 
+instrument ska kunna genomföras.
+
+Vid handräckning gäller bestämmelserna i utsökningsbalken om 
+verkställighet av förpliktelser som inte avser 
+betalningsskyldighet, avhysning eller avlägsnande. Om 
+Finansinspektionen begär det, ska Kronofogdemyndigheten inte i 
+förväg underrätta den som kontrollen ska genomföras hos.
+Lag (2020:1157).
+
+/Rubriken träder i kraft I:2022-01-01/
+Verkställighet av beslut om avgifter och viten enligt 
+förordningen om marknader för finansiella instrument
+
+4 b § /Träder i kraft I:2022-01-01/
+Beslut om avgifter eller viten enligt förordningen om 
+marknader för finansiella instrument får verkställas enligt 
+utsökningsbalkens bestämmelser på samma sätt som en svensk dom 
+som har fått laga kraft. Lag (2020:1157).
+
 Samarbete och utbyte av information
 
 5 § Finansinspektionen ska, i den utsträckning som följer av 
@@ -6890,21 +7417,37 @@ tillsynsverksamhet samarbeta och utbyta information med
 (Acer),
 
 6. offentliga organ som har behörighet för tillsyn över 
-spotmarknader och auktionsmarknader, 
+spotmarknader och auktionsmarknader,
 
 7. behöriga myndigheter, registerförvaltare och andra 
 offentliga organ som har uppdrag att utöva tillsyn enligt 
 Europaparlamentets och rådets direktiv 2003/87/EG, i lydelsen 
-enligt Europaparlamentets och rådets förordning (EU) nr 
-421/2014, och
+enligt Europaparlamentets och rådets förordning (EU) 
+nr 421/2014, 
 
 8. offentliga organ som är ansvariga för tillsyn, förvaltning 
 och reglering av fysiska jordbruksmarknader enligt 
 Europaparlamentets och rådets förordning (EU) nr 1308/2013 av 
 den 17 december 2013 om upprättande av en samlad 
 marknadsordning för jordbruksprodukter och om upphävande av 
-rådets förordningar (EEG) nr 922/72, (EEG) nr 234/79, (EG) nr 
-1037/2001 och (EG) nr 1234/2007. Lag (2019:729).
+rådets förordningar (EEG) nr 922/72, (EEG) nr 234/79, (EG) 
+nr 1037/2001 och (EG) nr 1234/2007, och
+
+9. offentliga organ inom EES som avses i artikel 56 första 
+stycket h i kapitaltäckningsdirektivet.
+
+Finansinspektionen får, i den utsträckning som följer av 
+artikel 58a i kapitaltäckningsdirektivet, i sin 
+tillsynsverksamhet samarbeta och utbyta information med
+
+1. Internationella valutafonden, 
+
+2. Världsbanken, 
+
+3. Banken för internationell betalningsutjämning, och 
+
+4. Rådet för finansiell stabilitet.
+Lag (2020:1210).
 
 5 a § Finansinspektionen får hänskjuta frågor som rör ett 
 förfarande av en annan behörig myndighet inom EES till 
@@ -6951,7 +7494,8 @@ brottmål. Lag (2010:1863).
 
 Revision
 
-7 § Finansinspektionen har rätt att förordna en eller flera 
+7 § /Upphör att gälla U:2022-01-01/
+Finansinspektionen har rätt att förordna en eller flera 
 revisorer att tillsammans med övriga revisorer delta i 
 revisionen av ett svenskt värdepappersinstitut, en börs, en 
 svensk leverantör av datarapporteringstjänster eller en 
@@ -6962,7 +7506,21 @@ Revisorn har rätt till skäligt arvode av företaget för sitt
 arbete. Storleken på arvodet beslutas av Finansinspektionen.
 Lag (2017:679).
 
-8 § En revisor ska omedelbart rapportera till 
+7 § /Träder i kraft I:2022-01-01/
+Finansinspektionen har rätt att förordna en eller flera 
+revisorer att tillsammans med övriga revisorer delta i 
+revisionen av ett svenskt värdepappersinstitut, en börs, en 
+leverantör av datarapporteringstjänster som Finansinspektionen 
+har tillsyn över eller en svensk clearingorganisation. 
+Inspektionen får när som helst återkalla ett sådant 
+förordnande och utse en ny revisor.
+
+Revisorn har rätt till skäligt arvode av företaget för sitt 
+arbete. Storleken på arvodet beslutas av Finansinspektionen.
+Lag (2020:1157).
+
+8 § /Upphör att gälla U:2022-01-01/
+En revisor ska omedelbart rapportera till 
 Finansinspektionen om han eller hon vid fullgörandet av sitt 
 uppdrag i ett värdepappersbolag, en börs eller en svensk 
 leverantör av datarapporteringstjänster får kännedom om 
@@ -6986,12 +7544,46 @@ företagets moderföretag eller dotterföretag eller ett företag
 som har en likartad förbindelse med företaget. 
 Lag (2018:728).
 
-9 § Skyldigheten enligt 8 § att rapportera till 
+8 § /Träder i kraft I:2022-01-01/
+En revisor ska omedelbart rapportera till 
+Finansinspektionen om han eller hon vid fullgörandet av sitt 
+uppdrag i ett värdepappersbolag, en börs eller en leverantör 
+av datarapporteringstjänster som Finansinspektionen har 
+tillsyn över får kännedom om förhållanden som
+
+1. kan utgöra en väsentlig överträdelse av någon författning 
+som reglerar företagets verksamhet,
+
+2. kan påverka företagets fortsatta drift negativt, eller
+
+3. kan leda till att han eller hon avstyrker att 
+balansräkningen eller resultaträkningen fastställs eller till 
+anmärkning enligt 9 kap. 33 eller 34 § aktiebolagslagen 
+(2005:551) eller 8 kap. 36 eller 37 § lagen (2018:672) om 
+ekonomiska föreningar.
+
+Revisorn har en motsvarande rapporteringsskyldighet om han 
+eller hon får kännedom om förhållanden som avses i första 
+stycket vid fullgörande av uppdrag som han eller hon har i 
+företagets moderföretag eller dotterföretag eller ett företag 
+som har en likartad förbindelse med företaget. 
+Lag (2020:1157).
+
+9 § /Upphör att gälla U:2022-01-01/
+Skyldigheten enligt 8 § att rapportera till 
 Finansinspektionen gäller också för särskilda granskare i 
 värdepappersbolag, börser och svenska leverantörer av 
 datarapporteringstjänster som avses i 10 kap. 21 § 
 aktiebolagslagen (2005:551) eller i 9 kap. 1 § lagen 
 (2018:672) om ekonomiska föreningar. Lag (2018:728).
+
+9 § /Träder i kraft I:2022-01-01/
+Skyldigheten enligt 8 § att rapportera till 
+Finansinspektionen gäller också för sådana särskilda granskare 
+i värdepappersbolag, börser och leverantörer av 
+datarapporteringstjänster som avses i 10 kap. 21 § aktie-
+bolagslagen (2005:551) eller i 9 kap. 1 § lagen (2018:672) om 
+ekonomiska föreningar. Lag (2020:1157).
 
 10 § Vid tillämpningen av 9 kap. 17 § och 10 kap. 10 §
 aktiebolagslagen (2005:551) om jäv för revisor och
@@ -7012,7 +7604,8 @@ sammankallat samt delta i överläggningarna.
 
 Avgifter till Finansinspektionen m.m.
 
-12 § Värdepappersinstitut, börser, svenska leverantörer av 
+12 § /Upphör att gälla U:2022-01-01/
+Värdepappersinstitut, börser, svenska leverantörer av 
 datarapporteringstjänster, clearingorganisationer samt sådana 
 utländska företag som har tillstånd att driva en reglerad 
 marknad från filial i Sverige ska med årliga avgifter bekosta 
@@ -7024,6 +7617,21 @@ Finansinspektionen får ta ut avgifter för prövning av
 ansökningar, anmälningar och underrättelser enligt denna lag 
 och förordningen om marknader för finansiella instrument.
 Lag (2017:679).
+
+12 § /Träder i kraft I:2022-01-01/
+Värdepappersinstitut, börser, leverantörer av 
+datarapporteringstjänster som Finansinspektionen har tillsyn 
+över, clearingorganisationer samt sådana utländska företag som 
+har tillstånd att driva en reglerad marknad från filial i 
+Sverige ska med årliga avgifter bekosta Finansinspektionens 
+verksamhet samt Statistiska centralbyråns verksamhet enligt 
+lagen (2014:484) om en databas för övervakning av och tillsyn 
+över finansmarknaderna.
+
+Finansinspektionen får ta ut avgifter för prövning av 
+ansökningar, anmälningar och underrättelser enligt denna lag 
+och förordningen om marknader för finansiella instrument.
+Lag (2020:1157).
 
 13 § De emittenter som avses i 16 kap. 1 § första stycket 
 ska med årliga avgifter bekosta Finansinspektionens 
@@ -7042,7 +7650,8 @@ emittent som tillsynen avser.
 
 Bemyndiganden
 
-15 § Regeringen eller den myndighet som regeringen 
+15 § /Upphör att gälla U:2022-01-01/
+Regeringen eller den myndighet som regeringen 
 bestämmer får meddela föreskrifter om
 
 1. vilka upplysningar ett företag ska lämna till 
@@ -7074,6 +7683,33 @@ instrument som ska lämnas till Finansinspektionen enligt
 artiklarna 22.1 och 27.1 i förordningen om marknader för 
 finansiella instrument i stället ska lämnas till Europeiska 
 värdepappers- och marknadsmyndigheten. Lag (2018:2020).
+
+15 § /Träder i kraft I:2022-01-01/
+Regeringen eller den myndighet som regeringen bestämmer 
+får meddela föreskrifter om
+
+1. vilka upplysningar ett företag ska lämna till 
+Finansinspektionen enligt 2 § första och andra styckena och 
+när upplysningarna ska lämnas,
+
+2. hur uppgiftsskyldigheten enligt 3 § och artikel 26.6 i den 
+delegerade förordningen till MiFID II ska fullgöras,
+
+3. produktingripande enligt artikel 42 i förordningen om 
+marknader för finansiella instrument,
+
+4. vilka värdepappersbolag som ska upprätta register som avses 
+i 3 d §, vad registren ska innehålla och inom vilken tid 
+värdepappersbolaget ska ge in registren för olika typer av 
+avtal,
+
+5. löpande bokföring, årsbokslut och årsredovisning hos 
+börser, clearing-organisationer samt sådana utländska företag 
+som har tillstånd att driva en reglerad marknad från filial i 
+Sverige, och
+
+6. sådana avgifter som avses i 12 § och 13 § första stycket.
+Lag (2020:1157).
 
 24 kap. Särskilt om prövningen av ägares lämplighet
 
@@ -7327,7 +7963,8 @@ Ingripanden mot svenska värdepappersinstitut, börser, svenska
 leverantörer av datarapporteringstjänster och svenska 
 clearingorganisationer samt vissa fysiska personer
 
-1 § Om ett svenskt värdepappersinstitut, en börs, en svensk 
+1 § /Upphör att gälla U:2022-01-01/
+Om ett svenskt värdepappersinstitut, en börs, en svensk 
 leverantör av datarapporteringstjänster eller en svensk 
 clearingorganisation har åsidosatt sina skyldigheter enligt 
 denna lag, andra författningar som reglerar företagets 
@@ -7352,7 +7989,49 @@ kommer att uppfylla sina skyldigheter enligt denna lag eller
 andra författningar som reglerar bolagets verksamhet.
 Lag (2017:679).
 
-1 a § Finansinspektionen ska ingripa mot någon som ingår i 
+1 § /Träder i kraft I:2022-01-01/
+Om ett svenskt värdepappersinstitut, en börs, en 
+leverantör av datarapporteringstjänster som Finansinspektionen 
+har tillsyn över eller en svensk clearingorganisation har 
+åsidosatt sina skyldigheter enligt denna lag, andra 
+författningar som reglerar företagets verksamhet, företagets 
+bolagsordning, stadgar eller reglemente eller interna 
+instruktioner som har sin grund i en författning som reglerar 
+företagets verksamhet, ska Finansinspektionen ingripa.
+
+Finansinspektionen ska då 
+
+- utfärda ett föreläggande att inom en viss tid begränsa eller 
+minska riskerna i rörelsen i något avseende, begränsa eller 
+helt avstå från utdelning eller räntebetalningar eller vidta 
+någon annan åtgärd för att komma till rätta med situationen, 
+
+- meddela ett förbud att verkställa beslut, eller 
+
+- göra en anmärkning.
+
+Om överträdelsen är allvarlig, ska företagets tillstånd 
+återkallas eller, om det är tillräckligt, varning meddelas. 
+
+Finansinspektionen ska även ingripa genom att utfärda ett 
+föreläggande i enlighet med andra stycket om det är sannolikt 
+att ett värdepappersbolag inom tolv månader inte längre kommer 
+att uppfylla sina skyldigheter enligt denna lag eller andra 
+författningar som reglerar bolagets verksamhet.
+
+I fråga om återkallelse av tillstånd för leverantörer av 
+datarapporteringstjänster gäller bestämmelserna i artikel 27e 
+i förordningen om marknader för finansiella instrument. Innan 
+ett tillstånd återkallas enligt artikel 27e.1 a i förordningen 
+på grund av att en leverantör har förklarat sig avstå från 
+tillståndet eller inte har tillhandahållit några tjänster 
+under de föregående sex månaderna, får Finansinspektionen 
+först pröva om det finns skäl att ingripa mot leverantören 
+enligt detta kapitel och, om det finns sådana skäl, besluta om 
+ett ingripande. Lag (2020:1157).
+
+1 a § /Upphör att gälla U:2022-01-01/
+Finansinspektionen ska ingripa mot någon som ingår i 
 ett svenskt värdepappersinstituts styrelse eller är dess 
 verkställande direktör, eller ersättare för någon av dem, om 
 värdepappersinstitutet har åsidosatt sina skyldigheter 
@@ -7395,7 +8074,45 @@ Finansinspektionen enligt 23 kap. 2 § tredje stycket, 3 §
 första stycket, 3 a eller 3 b § eller har motsatt sig en 
 undersökning enligt 23 kap. 4 §. Lag (2017:679).
 
-1 b § Finansinspektionen ska ingripa mot en sådan person som 
+1 a § /Träder i kraft I:2022-01-01/
+Finansinspektionen ska ingripa mot någon som ingår i ett 
+svenskt värdepappersinstituts styrelse eller är dess 
+verkställande direktör, eller ersättare för någon av dem, om 
+värdepappersinstitutet har åsidosatt sina skyldigheter enligt
+
+1. 5 kap. 1, 3, 6 eller 7 §,
+
+2. 6 kap. 1, 4 eller 6 §,
+
+3. någon av 8 kap. 8 e eller 9-34 §§ eller föreskrifter som 
+meddelats med stöd av någon av bestämmelserna i 8 kap. 35 § 3-
+12,
+
+4. någon av 9 kap. 1 §, 8 § tredje stycket, 9-12, 14-17, 20-41 
+eller 43 §§ eller föreskrifter som meddelats med stöd av någon 
+av bestämmelserna i 9 kap. 50 § 1, 3-9 eller 11,
+
+5. någon av 11 kap. 1 §, 1 a § andra stycket, 1 b-4 a eller 
+12 §§ eller driver en tillväxtmarknad för små och medelstora 
+företag trots att kraven i 13 § inte är uppfyllda,
+
+6. någon av 13 kap. 1 a-1 j, 6 a eller 9 §§,
+
+7. någon av 15 a kap. 7, 8 eller 10-14 §§,
+
+8. 22 kap. 2 § andra stycket, 5 eller 6 § eller inte har följt 
+ett beslut som meddelats av Finansinspektionen enligt 22 kap. 
+1 §, 2 § första stycket eller 3 §, eller
+
+9. 23 kap. 2 § första stycket eller föreskrifter som meddelats 
+med stöd av 23 kap. 15 § 1, eller inte har följt en begäran, 
+ett föreläggande eller ett beslut som meddelats av 
+Finansinspektionen enligt 23 kap. 2 § tredje stycket, 3 § 
+första stycket, 3 a eller 3 b § eller har motsatt sig en 
+undersökning enligt 23 kap. 4 §. Lag (2020:1157).
+
+1 b § /Upphör att gälla U:2022-01-01/
+Finansinspektionen ska ingripa mot en sådan person som 
 avses i 1 a § om värdepappersinstitutet har åsidosatt sina 
 skyldigheter enligt förordningen om marknader för finansiella 
 instrument genom att 
@@ -7479,6 +8196,106 @@ enligt artikel 37.1 eller 37.3, eller
 12. inte följa ett beslut som avses i artiklarna 40–42.
 Lag (2017:679).
 
+1 b § /Träder i kraft I:2022-01-01/
+Finansinspektionen ska ingripa mot en sådan person som 
+avses i 1 a § om värdepappersinstitutet har åsidosatt sina 
+skyldigheter enligt förordningen om marknader för finansiella 
+instrument genom att
+
+1. inte offentliggöra, tillgängliggöra eller tillhandahålla 
+uppgifter eller uppfylla kraven enligt 
+
+- artikel 3.1 eller 3.3,
+
+- artikel 4.3 första stycket,
+
+- artikel 6,
+
+- artikel 7.1 tredje stycket första meningen,
+
+- artikel 8.1, 8.3 eller 8.4,
+
+- artikel 10,
+
+- artikel 11.1 tredje stycket första meningen eller 11.3 
+tredje stycket, 
+
+- artikel 12.1,
+
+- artikel 13.1,
+
+- artikel 14.1, 14.2 första meningen eller 14.3 andra, tredje 
+eller fjärde meningen, 
+
+- artikel 15.1 första eller tredje stycket, 15.2 eller 15.4 
+andra meningen,
+
+- artikel 17.1 andra meningen,
+
+- artikel 18.1, 18.2, 18.5 första meningen, 18.6 första 
+stycket, 18.8 eller 18.9,
+
+- artikel 20.1 eller 20.2 första meningen, eller
+
+- artikel 21.1, 21.2 eller 21.3,
+
+2. inte tillhandahålla uppgifter till Finansinspektionen eller 
+lagra uppgifter enligt artikel 22.2,
+
+3. inte genomföra transaktioner på en reglerad marknad, en 
+MTF-plattform, en marknad utanför EES som enligt beslut av 
+Europeiska kommissionen bedömts vara likvärdig med en reglerad 
+marknad eller via en systematisk internhandlare enligt 
+artikel 23.1 eller genom att driva ett internt 
+matchningssystem på multilateral basis utan auktorisation 
+enligt artikel 23.2,
+
+4. inte föra register eller hålla uppgifter tillgängliga 
+enligt artikel 25.1 eller 25.2,
+
+5. inte rapportera uppgifter om utförda transaktioner till 
+Finansinspektionen enligt artikel 26.1 första stycket, 26.2, 
+26.3, 26.4, 26.5, 26.6 första stycket eller 26.7 första, 
+andra, tredje, fjärde eller åttonde stycket,
+
+6. inte tillhandahålla eller uppdatera referensuppgifter för 
+finansiella instrument enligt artikel 27.1, 
+
+7. tillåta en styrelseledamot, verkställande direktören eller 
+ersättare för någon av dem att åta sig ett sådant uppdrag i 
+institutet eller kvarstå i institutet trots att kraven i 
+artikel 27f.1 inte är uppfyllda, 
+
+8. inte se till att styrelsen fullgör sina skyldigheter enligt 
+artikel 27f.3,
+
+9. inte uppfylla de organisatoriska kraven i artikel 27g.1-
+27g.5 eller 27i.1-27i.4,
+
+10. inte genomföra transaktioner på en handelsplats eller på 
+en marknadsplats utanför EES som enligt beslut av Europeiska 
+kommissionen bedömts vara likvärdig med en handelsplats enligt 
+artikel 28.1 eller 28.2 första stycket, 
+
+11. inte uppfylla kraven avseende system, förfaranden och 
+arrangemang enligt artikel 29.2 eller 30.1,
+
+12. inte föra register och offentliggöra uppgifter avseende 
+portföljkompressioner enligt artikel 31.2 eller 31.3,
+
+13. inte lämna transaktionsuppgifter eller tillträde till en 
+handelsplats enligt artikel 36.1 eller 36.3, 
+
+14. inte tillgängliggöra ett referensvärde eller en licens 
+enligt artikel 37.1 eller 37.3, eller
+
+15. inte följa ett beslut som avses i artiklarna 40-42.
+
+Ett ingripande enligt första stycket 7, 8 eller 9 får göras 
+bara om Finansinspektionen har tillsyn över 
+värdepappersinstitutets verksamhet som leverantör av 
+datarapporteringstjänster. Lag (2020:1157).
+
 1 c § Ett ingripande enligt 1 a eller 1 b § får göras endast 
 om institutets överträdelse är allvarlig och personen i fråga 
 uppsåtligen eller av grov oaktsamhet orsakat överträdelsen. 
@@ -7493,8 +8310,8 @@ eller ersättare för någon av dem, eller
 
 2. beslut om sanktionsavgift. Lag (2017:679).
 
-1 d § Finansinspektionen ska, utöver i de fall som anges 
-i 1 a och 1 b §§, ingripa mot någon som ingår i ett 
+1 d § Finansinspektionen ska, utöver i de fall som anges i 1 a 
+och 1 b §§, ingripa mot någon som ingår i ett 
 värdepappersbolags styrelse eller är dess verkställande 
 direktör, eller ersättare för någon av dem, om 
 värdepappersbolaget
@@ -7502,19 +8319,18 @@ värdepappersbolaget
 1. har fått tillstånd att driva värdepappersrörelse genom att 
 lämna falska uppgifter eller på annat otillbörligt sätt,
 
-2. inte uppfyller kraven i 3 kap. 5 § första stycket eller 
-har tillåtit en styrelseledamot, verkställande direktören 
-eller ersättare för någon av dem att åta sig ett sådant 
-uppdrag i bolaget eller kvarstå i bolaget trots att kraven i 
-3 kap. 1 § första stycket 5 eller 6 eller någon av 8 kap. 
-8 b–8 d §§ eller i föreskrifter som meddelats med stöd av 
-3 kap. 12 § 2 inte är uppfyllda,
+2. inte uppfyller kraven i 3 kap. 5 § första stycket eller har 
+tillåtit en styrelseledamot, verkställande direktören eller 
+ersättare för någon av dem att åta sig ett sådant uppdrag i 
+bolaget eller kvarstå i bolaget trots att kraven i 3 kap. 1 § 
+första stycket 5 eller 6 eller någon av 8 kap. 8 b-8 d §§ 
+eller i föreskrifter som meddelats med stöd av 3 kap. 12 § 2 
+inte är uppfyllda,
 
 3. åsidosatt sina skyldigheter enligt 5 kap. 4 §,
 
-4. inte uppfyller kraven i någon av 8 kap. 3–6, 8 eller 
-8 f §§ eller i föreskrifter som meddelats med stöd av 8 kap. 
-35 § 1,
+4. inte uppfyller kraven i någon av 8 kap. 3-6, 8 eller 8 f §§ 
+eller i föreskrifter som meddelats med stöd av 8 kap. 35 § 1,
 
 5. i strid med 8 a kap. 2 eller 3 § låter bli att upprätta 
 eller lämna in en återhämtningsplan eller en 
@@ -7538,8 +8354,8 @@ innehaven,
 
 10. gör betalningar till innehavare av instrument som ingår i 
 bolagets kapitalbas i strid med 8 kap. 3 och 4 §§ lagen 
-(2014:966) om kapitalbuffertar eller artikel 28, 51 eller 63 
-i tillsynsförordningen, när dessa artiklar förbjuder sådana 
+(2014:966) om kapitalbuffertar eller artikel 28, 51 eller 63 i 
+tillsynsförordningen, när dessa artiklar förbjuder sådana 
 betalningar till innehavare av instrument som ingår i 
 kapitalbasen,
 
@@ -7549,18 +8365,18 @@ Riksgäldskontoret,
 
 12. har befunnits ansvarigt för en allvarlig, upprepad eller 
 systematisk överträdelse av lagen (2017:630) om åtgärder mot 
-penningtvätt och finansiering av terrorism, eller 
-föreskrifter som meddelats med stöd av den lagen,
+penningtvätt och finansiering av terrorism, eller föreskrifter 
+som meddelats med stöd av den lagen,
 
 13. låter bli att lämna information till Finansinspektionen 
 eller lämnar ofullständig eller felaktig information om 
 efterlevnaden av skyldigheten att uppfylla kapitalbaskraven 
-enligt artikel 92 i tillsynsförordningen, i strid med artikel 
-99.1 i den förordningen,
+enligt artikel 92 i tillsynsförordningen, i strid med 
+artikel 430.1 i den förordningen,
 
 14. låter bli att rapportera eller lämnar ofullständig eller 
 felaktig information till Finansinspektionen när det gäller 
-data som avses i artikel 101 i tillsynsförordningen,
+data som avses i artikel 430a i tillsynsförordningen,
 
 15. låter bli att lämna information till Finansinspektionen 
 eller lämnar ofullständig eller felaktig information om en 
@@ -7574,7 +8390,7 @@ tillsynsförordningen,
 
 17. låter bli att lämna uppgifter till Finansinspektionen 
 eller lämnar ofullständig eller felaktig information om sin 
-bruttosoliditet i strid med artikel 430.1 i 
+bruttosoliditet i strid med artikel 430.1 och 430.2 i 
 tillsynsförordningen,
 
 18. vid upprepade tillfällen eller systematiskt låter bli att 
@@ -7586,11 +8402,18 @@ enligt artikel 395 i tillsynsförordningen,
 
 20. är exponerat för kreditrisken i en 
 värdepapperiseringsposition utan att uppfylla villkoren i 
-artikel 405 i tillsynsförordningen, eller
+artikel 405 i tillsynsförordningen,
 
 21. låter bli att lämna information eller lämnar ofullständig 
-eller felaktig information i strid med någon av artiklarna 
-431.1–431.3 och 451.1 i tillsynsförordningen.
+eller felaktig information i strid med någon av 
+artiklarna 431.1-431.3 och 451.1 i tillsynsförordningen, eller
+
+22. är ett moderföretag enligt artikel 4.1.15 i 
+tillsynsförordningen och inte uppfyller kraven i del tre, 
+fyra, sex eller sju i den förordningen eller kraven i 2 kap. 1 
+eller 2 § lagen (2014:968) om särskild tillsyn över 
+kreditinstitut och värdepappersbolag på gruppnivå eller 
+undergruppsnivå.
 
 Om en sådan person som avses i första stycket omfattas av 
 tillstånds- eller underrättelseskyldighet enligt 24 kap. 1 
@@ -7608,12 +8431,13 @@ Ingripande görs genom
 och högst tio år, eller, för upprepade allvarliga 
 överträdelser enligt första stycket 1, 2, 3, 8 eller 9, 
 permanent inte får vara styrelseledamot eller verkställande 
-direktör i ett värdepappersbolag, eller ersättare för någon 
-av dem, eller
+direktör i ett värdepappersbolag, eller ersättare för någon av 
+dem, eller
 
-2. beslut om sanktionsavgift. Lag (2018:1399).
+2. beslut om sanktionsavgift. Lag (2020:1210).
 
-1 e § Finansinspektionen ska ingripa mot någon som ingår i en 
+1 e § /Upphör att gälla U:2022-01-01/
+Finansinspektionen ska ingripa mot någon som ingår i en 
 börs styrelse eller är dess verkställande direktör, eller 
 ersättare för någon av dem, om börsen
 
@@ -7681,7 +8505,71 @@ i företaget, ska första stycket 4 och 5 inte gälla för den
 personen i fråga om dessa aktier eller andelar. 
 Lag (2017:679).
 
-1 f § Finansinspektionen ska ingripa mot en sådan person som 
+1 e § /Träder i kraft I:2022-01-01/
+Finansinspektionen ska ingripa mot någon som ingår i en 
+börs styrelse eller är dess verkställande direktör, eller 
+ersättare för någon av dem, om börsen 
+
+1. har fått sitt tillstånd genom att lämna falska uppgifter 
+eller på annat otillbörligt sätt,
+
+2. har tillåtit en styrelseledamot, verkställande direktören 
+eller ersättare för någon av dem att åta sig ett sådant 
+uppdrag i företaget eller kvarstå i företaget trots att kraven 
+i 12 kap. 2 § 4 eller 5 eller någon av 6 b-6 d §§ inte är 
+uppfyllda,
+
+3. har åsidosatt sina skyldigheter enligt
+
+a) 8 kap. 21 § eller föreskrifter som meddelats med stöd av 
+8 kap. 35 § 12,
+
+b) någon av 11 kap. 1 §, 1 a § andra stycket, 1 b-4 a eller 
+12 §§ eller driver en tillväxtmarknad för små och medelstora 
+företag trots att kraven i 13 § inte är uppfyllda,
+
+c) 12 kap. 6 e, 7 eller 10 § eller föreskrifter som meddelats 
+med stöd av någon av bestämmelserna i 12 kap. 11 § 2-4,
+
+d) någon av 13 kap. 1-2, 6-7 a eller 9 §§ eller 12 § femte 
+stycket eller föreskrifter som meddelats med stöd av 13 kap. 
+17 § 1,
+
+e) 14 kap. 1, 2 eller 3 §,
+
+f) 15 kap. 1, 2, 5, 9 eller 10 §,
+
+g) någon av 15 a kap. 7, 8 eller 10-12 §§,
+
+h) 22 kap. 2 § andra stycket, 5 eller 6 § eller inte har följt 
+ett beslut som meddelats av Finansinspektionen enligt 22 kap. 
+1 eller 3 §, eller
+
+i) 23 kap. 2 § första stycket eller föreskrifter som meddelats 
+med stöd av 23 kap. 15 § 1, eller inte har följt en begäran, 
+ett föreläggande eller ett beslut som meddelats av 
+Finansinspektionen enligt 23 kap. 2 § andra stycket, 3 § 
+första stycket eller 3 b § eller har motsatt sig en 
+undersökning enligt 23 kap. 4 §,
+
+4. i strid med 24 kap. 5 § första stycket låter bli att till 
+Finansinspektionen anmäla sådana förvärv och avyttringar som 
+avses där, eller
+
+5. i strid med 24 kap. 5 § tredje stycket låter bli att till 
+Finansinspektionen anmäla namnen på de ägare som har ett 
+kvalificerat innehav av aktier eller andelar i företaget samt 
+storleken på innehaven.
+
+Om en sådan person som avses i första stycket omfattas av 
+tillstånds- eller underrättelseskyldighet enligt 24 kap. 1 
+eller 4 § för förvärv eller avyttring av aktier eller andelar 
+i företaget, ska första stycket 4 och 5 inte gälla för den 
+personen i fråga om dessa aktier eller andelar. 
+Lag (2020:1157).
+
+1 f § /Upphör att gälla U:2022-01-01/
+Finansinspektionen ska ingripa mot en sådan person som 
 avses i 1 e § om börsen har åsidosatt sina skyldigheter 
 enligt förordningen om marknader för finansiella instrument 
 genom att
@@ -7739,6 +8627,79 @@ enligt artikel 37.1 eller 37.3, eller
 
 11. inte följa ett beslut som avses i artiklarna 40–42.
 Lag (2017:679).
+
+1 f § /Träder i kraft I:2022-01-01/
+Finansinspektionen ska ingripa mot en sådan person som 
+avses i 1 e § om börsen har åsidosatt sina skyldigheter enligt 
+förordningen om marknader för finansiella instrument genom att 
+
+1. inte offentliggöra, tillgängliggöra eller tillhandahålla 
+uppgifter eller uppfylla kraven enligt 
+
+- artikel 3.1 eller 3.3,
+
+- artikel 4.3 första stycket,
+
+- artikel 6,
+
+- artikel 7.1 tredje stycket första meningen, 
+
+- artikel 8.1, 8.3 eller 8.4,
+
+- artikel 10,
+
+- artikel 11.1 tredje stycket första meningen eller 11.3 
+tredje stycket, 
+
+- artikel 12.1, eller
+
+- artikel 13.1, 
+
+2. inte tillhandahålla uppgifter till Finansinspektionen eller 
+lagra uppgifter enligt artikel 22.2, 
+
+3. inte föra register eller hålla uppgifter tillgängliga 
+enligt artikel 25.2, 
+
+4. inte rapportera uppgifter om utförda transaktioner till 
+Finansinspektionen enligt artikel 26.5, 26.6 första stycket 
+eller 26.7 första, tredje eller åttonde stycket,
+
+5. inte tillhandahålla eller uppdatera referensuppgifter för 
+finansiella instrument enligt artikel 27.1,
+
+6. tillåta en styrelseledamot, verkställande direktören eller 
+ersättare för någon av dem att åta sig ett sådant uppdrag i 
+företaget eller kvarstå i företaget trots att kraven i 
+artikel 27f.1 inte är uppfyllda, 
+
+7. inte se till att styrelsen fullgör sina skyldigheter enligt 
+artikel 27f.3,
+
+8. inte uppfylla de organisatoriska kraven i artikel 27g.1-
+27g.5 eller 27i.1-27i.4,
+
+9. transaktioner med derivat som genomförs på den reglerade 
+marknaden inte avvecklas av en central motpart enligt 
+artikel 29.1,
+
+10. inte uppfylla kraven avseende system, förfaranden och 
+arrangemang enligt artikel 29.2 eller 30.1,
+
+11. inte föra register och offentliggöra uppgifter avseende 
+portföljkompressioner enligt artikel 31.2 eller 31.3, 
+
+12. inte lämna transaktionsuppgifter eller tillträde till en 
+handelsplats enligt artikel 36.1 eller 36.3, 
+
+13. inte tillgängliggöra ett referensvärde eller en licens 
+enligt artikel 37.1 eller 37.3, eller
+
+14. inte följa ett beslut som avses i artiklarna 40-42.
+
+Ett ingripande enligt första stycket 6, 7 eller 8 får göras 
+bara om Finansinspektionen har tillsyn över börsens verksamhet 
+som leverantör av datarapporteringstjänster. Lag (2020:1157).
 
 1 g § Ett ingripande enligt 1 e eller 1 f § får göras endast 
 om börsens överträdelse är allvarlig och personen i fråga 
@@ -7816,7 +8777,8 @@ hänsyn till reglerna för eller tillsynen över marknaden
 framstår som uppenbart olämpligt att institutet bedriver handel
 där.
 
-4 § Om någon som ingår i styrelsen för ett värdepappersbolag, 
+4 § /Upphör att gälla U:2022-01-01/
+Om någon som ingår i styrelsen för ett värdepappersbolag, 
 en börs, en svensk leverantör av datarapporteringstjänster 
 eller en svensk clearingorganisation eller är verkställande 
 direktör inte uppfyller de krav som anges i 3 kap. 1 § första 
@@ -7844,7 +8806,39 @@ Det som sägs i första och tredje styckena om verkställande
 direktör ska tillämpas även på en ställföreträdare för 
 verkställande direktör. Lag (2017:679).
 
-5 § Finansinspektionen ska återkalla tillståndet för ett 
+4 § /Träder i kraft I:2022-01-01/
+Om någon som ingår i styrelsen för ett värdepappersbolag, 
+en börs, en leverantör av datarapporteringstjänster som 
+Finansinspektionen har tillsyn över eller en svensk 
+clearingorganisation eller är verkställande direktör inte 
+uppfyller de krav som anges i 3 kap. 1 § första stycket 5, 
+12 kap. 2 § 4 och 19 kap. 3 § 4 och artikel 27f i förordningen 
+om marknader för finansiella instrument, ska 
+Finansinspektionen återkalla företagets tillstånd. Detta får 
+dock göras bara om inspektionen först har beslutat att påtala 
+för företaget att personen eller personerna inte uppfyller 
+kraven och om denne eller dessa, sedan en av inspektionen 
+bestämd tid om högst tre månader har gått, fortfarande finns 
+kvar i styrelsen eller som verkställande direktör. 
+
+Första stycket gäller också om styrelsen i sin helhet inte 
+uppfyller de krav som anges i 3 kap. 1 § 6 och 12 kap. 2 § 5 
+och artikel 27f i förordningen om marknader för finansiella 
+instrument.
+
+I stället för att återkalla tillståndet, får 
+Finansinspektionen besluta att en styrelseledamot eller 
+verkställande direktör inte längre får vara det. Inspektionen 
+får då förordna en ersättare. Ersättarens uppdrag gäller till 
+dess företaget har utsett en ny styrelseledamot eller 
+verkställande direktör.
+
+Det som sägs i första och tredje styckena om verkställande 
+direktör ska tillämpas även på en ställföreträdare för 
+verkställande direktör. Lag (2020:1157).
+
+5 § /Upphör att gälla U:2022-01-01/
+Finansinspektionen ska återkalla tillståndet för ett 
 svenskt värdepappersinstitut, en börs, en svensk leverantör 
 av datarapporteringstjänster eller en svensk 
 clearingorganisation om
@@ -7885,6 +8879,47 @@ Om ett värdepappersinstituts eller en börs tillstånd
 återkallas, ska Finansinspektionen underrätta Europeiska 
 värdepappers- och marknadsmyndigheten. Lag (2017:679).
 
+5 § /Träder i kraft I:2022-01-01/
+Finansinspektionen ska återkalla tillståndet för ett 
+svenskt värdepappersinstitut, en börs eller en svensk 
+clearingorganisation om
+
+1. företaget har fått tillståndet genom att lämna falska 
+uppgifter eller på något annat otillbörligt sätt,
+
+2. företaget inte inom ett år från det att tillstånd 
+beviljades har börjat driva sådan rörelse som tillståndet 
+avser,
+
+3. företaget har förklarat sig avstå från tillståndet,
+
+4. företaget under en sammanhängande tid av sex månader inte 
+har drivit sådan rörelse som tillståndet avser, eller
+
+5. när det är fråga om svenska aktiebolag som har beviljats 
+tillstånd att driva en reglerad marknad eller 
+clearingverksamhet, bolagets egna kapital understiger två 
+tredjedelar av det registrerade aktiekapitalet och bristen 
+inte har täckts inom tre månader från det att den blev känd 
+för bolaget.
+
+Om ett företags tillstånd ska återkallas på grund av sådana 
+omständigheter som avses i första stycket 3-5, får 
+Finansinspektionen, innan tillståndet återkallas, först pröva 
+om det finns skäl att ingripa mot företaget enligt detta 
+kapitel och, om det finns sådana skäl, besluta om ett 
+ingripande.
+
+I de fall som avses i första stycket 1, 2, 4 och 5 får i 
+stället varning meddelas om det är tillräckligt.
+
+Vid tillämpningen av första stycket 5 ska det egna kapitalet 
+beräknas enligt 25 kap. 14 § aktiebolagslagen (2005:551).
+
+Om ett värdepappersinstituts eller en börs tillstånd 
+återkallas, ska Finansinspektionen underrätta Europeiska 
+värdepappers- och marknadsmyndigheten. Lag (2020:1157).
+
 6 § Om tillståndet återkallas får Finansinspektionen besluta om
 hur avvecklingen av rörelsen skall ske.
 
@@ -7901,7 +8936,8 @@ Inspektionen skall underrätta den behöriga myndigheten om vilka
 
 Sanktionsavgift
 
-8 § Om ett svenskt värdepappersinstitut, en börs, en svensk 
+8 § /Upphör att gälla U:2022-01-01/
+Om ett svenskt värdepappersinstitut, en börs, en svensk 
 leverantör av datarapporteringstjänster eller en svensk 
 clearingorganisation meddelats beslut om anmärkning eller 
 varning enligt 1 § får Finansinspektionen besluta att 
@@ -7910,7 +8946,27 @@ företaget meddelats beslut om återkallelse enligt 5 § första
 stycket 1 eller varning enligt 5 § första stycket 1 och 5 
 jämfört med tredje stycket. Lag (2017:679).
 
-9 § Sanktionsavgiften för ett svenskt värdepappersinstitut, 
+8 § /Träder i kraft I:2022-01-01/
+Finansinspektionen får besluta att ett svenskt 
+värdepappersinstitut, en börs, en leverantör av 
+datarapporteringstjänster eller en svensk clearingorganisation 
+ska betala en sanktionsavgift om företaget har meddelats 
+beslut om 
+
+- anmärkning eller varning enligt 1 §,
+
+- återkallelse enligt 5 § första stycket 1, eller 
+
+- varning enligt 5 § första stycket 1 och 5 jämfört med tredje 
+stycket. 
+
+Detsamma gäller om en leverantör av datarapporteringstjänster 
+har meddelats beslut om återkallelse enligt artikel 27e.1 b i 
+förordningen om marknader för finansiella instrument.
+Lag (2020:1157).
+
+9 § /Upphör att gälla U:2022-01-01/
+Sanktionsavgiften för ett svenskt värdepappersinstitut, 
 en börs, en svensk leverantör av datarapporteringstjänster 
 eller en svensk clearingorganisation ska fastställas till 
 högst det högsta av
@@ -7937,6 +8993,34 @@ lag eller 6 kap. 1 § lagen (2004:297) om bank- och
 finansieringsrörelse.
 
 Avgiften tillfaller staten. Lag (2017:679).
+
+9 § /Träder i kraft I:2022-01-01/
+Sanktionsavgiften för ett svenskt värdepappersinstitut, en 
+börs, en leverantör av datarapporteringstjänster eller en 
+svensk clearingorganisation ska fastställas till högst det 
+högsta av
+
+1. ett belopp som per den 2 juli 2014 i kronor motsvarade fem 
+miljoner euro,
+
+2. tio procent av företagets omsättning eller, i förekommande 
+fall, motsvarande omsättning på koncernnivå närmast föregående 
+räkenskapsår, eller
+
+3. två gånger den vinst som företaget gjort till följd av 
+regelöverträdelsen, om beloppet går att fastställa.
+
+Sanktionsavgiften får inte bestämmas till ett lägre belopp än 
+5 000 kronor. Om överträdelsen har skett under företagets 
+första verksamhetsår eller om uppgifter om omsättningen annars 
+saknas eller är bristfälliga, får omsättningen uppskattas.
+
+För värdepappersinstitut får avgiften inte vara så stor att 
+institutet därefter inte uppfyller kraven i 8 kap. 3 § denna 
+lag eller 6 kap. 1 § lagen (2004:297) om bank- och 
+finansieringsrörelse.
+
+Avgiften tillfaller staten. Lag (2020:1157).
 
 9 a § Sanktionsavgiften för en fysisk person ska fastställas 
 till högst det högsta av
@@ -8235,7 +9319,8 @@ Lag (2017:679).
 
 Ingripande mot den som saknar tillstånd m.m.
 
-17 § Om någon driver sådan verksamhet som omfattas av denna 
+17 § /Upphör att gälla U:2022-01-01/
+Om någon driver sådan verksamhet som omfattas av denna 
 lag utan att vara berättigad till det, ska Finansinspektionen 
 ingripa genom att förelägga denne att upphöra med 
 verksamheten eller genom beslut om sanktionsavgift enligt 
@@ -8251,6 +9336,27 @@ inspektionen behöver för att bedöma om så är fallet.
 Ett föreläggande enligt denna paragraf som avser ett 
 utländskt företag får riktas mot såväl företaget som den som 
 i Sverige är verksam för företagets räkning. Lag (2017:679).
+
+17 § /Träder i kraft I:2022-01-01/
+Om någon driver sådan verksamhet som omfattas av denna 
+lag eller av förordningen om marknader för finansiella 
+instrument utan att vara berättigad till det, ska 
+Finansinspektionen ingripa genom att förelägga denne att 
+upphöra med verksamheten eller genom beslut om sanktionsavgift 
+enligt bestämmelserna i detta kapitel. Detsamma gäller om 
+någon i handel med finansiella instrument använder 
+beteckningen börs utan att ha tillstånd att driva en reglerad 
+marknad. 
+
+Om det är osäkert om denna lag eller förordningen om marknader 
+för finansiella instrument är tillämplig på en viss 
+verksamhet, får inspektionen förelägga den som driver 
+verksamheten att lämna de upplysningar om verksamheten som 
+inspektionen behöver för att bedöma om så är fallet.
+
+Ett föreläggande enligt denna paragraf som avser ett utländskt 
+företag får riktas mot såväl företaget som den som i Sverige 
+är verksam för företagets räkning. Lag (2020:1157).
 
 Ingripande mot den som överträder en positionslimit
 
@@ -8727,7 +9833,8 @@ Finansinspektionen får bestämma att ett beslut om förbud,
 föreläggande eller återkallelse ska gälla omedelbart.
 Lag (2018:829).
 
-2 § Om Finansinspektionen i ett ärende om tillstånd enligt 3 
+2 § /Upphör att gälla U:2022-01-01/
+Om Finansinspektionen i ett ärende om tillstånd enligt 3 
 kap. 1 § första stycket, 4 kap. 4 §, 10 kap. 2 § eller 12 
 kap. 2 § inte meddelar beslut inom sex månader från det att 
 ansökan gavs in, ska inspektionen underrätta sökanden om 
@@ -8753,6 +9860,35 @@ underrättelse som avses i andra stycket inte har lämnats över
 inom tre månader från det att en förklaring har lämnats, ska 
 beslut enligt 5 kap. 2 § tredje stycket anses ha meddelats.
 Lag (2017:679).
+
+2 § /Träder i kraft I:2022-01-01/
+Om Finansinspektionen i ett ärende om tillstånd enligt 
+3 kap. 1 § första stycket, 4 kap. 4 § eller 12 kap. 2 § eller 
+enligt artikel 27c i förordningen om marknader för finansiella 
+instrument inte meddelar beslut inom sex månader från det att 
+ansökan gavs in, ska inspektionen underrätta sökanden om 
+skälen för detta. Sökanden får därefter begära förklaring av 
+domstol att ärendet onödigt uppehålls.
+
+Om Finansinspektionen inte lämnar över en underrättelse som 
+avses i 5 kap. 2 § första stycket till behörig myndighet inom 
+tre månader från det att underrättelsen togs emot och inte 
+heller inom samma tid meddelar beslut enligt tredje stycket 
+samma paragraf, ska inspektionen underrätta sökanden om skälen 
+för detta. Sökanden får därefter begära förklaring av domstol 
+att ärendet onödigt uppehålls.
+
+En begäran om en förklaring som avses i första eller andra 
+stycket ska göras hos allmän förvaltningsdomstol. 
+Prövningstillstånd krävs vid överklagande till kammarrätten.
+
+Om Finansinspektionen inte har meddelat ett beslut som avses i 
+första stycket inom sex månader från det att en förklaring har 
+lämnats, ska ansökan anses ha avslagits. Om en underrättelse 
+som avses i andra stycket inte har lämnats över inom tre 
+månader från det att en förklaring har lämnats, ska beslut 
+enligt 5 kap. 2 § tredje stycket anses ha meddelats.
+Lag (2020:1157).
 
 3 § Bolagsverkets beslut att skriva av eller vägra registrering
 av en anmälan avseende ett anknutet ombud eller beslut att
@@ -9149,3 +10285,24 @@ offentliggjorda enligt prospektförordningen.
 medlemsbanker som är registrerade i bankregistret den 31 
 december 2020 avseende det räkenskapsår som avslutas närmast 
 efter detta datum. 
+
+2020:1157
+
+1. Denna lag träder i kraft den 1 januari 2021 i fråga om 
+9 kap. 16 § och i övrigt den 1 januari 2022.
+
+2. Äldre bestämmelser gäller för överträdelser som har ägt rum 
+före ikraftträdandena.
+
+2020:1210
+
+1. Denna lag träder i kraft den 28 juni 2021 i fråga om 
+23 kap. 2 b § och i övrigt den 29 december 2020.
+
+2. Bestämmelserna i 25 kap. 1 d § första stycket 13, 14 och 17 
+i den nya lydelsen tillämpas första gången vid ingripanden mot 
+överträdelser som sker efter den 27 juni 2021.
+
+3. Bestämmelserna i 25 kap. 1 d § första stycket 13, 14 och 17 
+i den äldre lydelsen gäller fortfarande för ingripanden mot 
+överträdelser som har skett före den 28 juni 2021.

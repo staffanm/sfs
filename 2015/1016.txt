@@ -204,8 +204,8 @@ bankdag: en dag som inte är en lördag, en söndag,
 midsommarafton, julafton eller nyårsafton eller en allmän 
 helgdag,
 
-behörig myndighet: i Sverige Finansinspektionen och i fråga 
-om övriga länder inom EES en behörig myndighet enligt 
+behörig myndighet: i Sverige Finansinspektionen och i fråga om 
+övriga länder inom EES en behörig myndighet enligt 
 definitionen i artikel 4.1.40 i tillsynsförordningen, 
 inbegripet Europeiska centralbanken när det gäller de 
 särskilda uppgifter som den tilldelas genom rådets förordning 
@@ -216,17 +216,17 @@ lydelsen,
 
 berörd myndighet: i Sverige Finansinspektionen och i fråga om 
 övriga länder inom EES, den myndighet som länderna 
-identifierat enligt artikel 61.2 i 
-krishanteringsdirektivet,
-betydande filial: en filial som är 
-betydande enligt artikel 51.1 i kapitaltäckningsdirektivet,
+identifierat enligt artikel 61.2 i krishanteringsdirektivet, 
+
+betydande filial: en filial som är betydande enligt artikel 
+51.1 i kapitaltäckningsdirektivet,
 
 blandat finansiellt holdingföretag: ett holdingföretag enligt 
 artikel 4.1.21 i tillsynsförordningen,
 
-blandat finansiellt moderholdingföretag inom EES: ett inom 
-EES etablerat blandat finansiellt holdingföretag som inte 
-självt är ett dotterföretag till ett
+blandat finansiellt moderholdingföretag inom EES: ett inom EES 
+etablerat blandat finansiellt holdingföretag som inte självt 
+är ett dotterföretag till ett 
 
 a) institut eller ett EES-institut som auktoriserats i något 
 land inom EES, eller
@@ -244,8 +244,8 @@ EES-filial: en filial till ett tredjelandsinstitut som är
 etablerad i ett land inom EES,
 
 EES-institut: ett institut enligt artikel 4.1.3 i 
-tillsynsförordningen som är hemmahörande i ett annat land 
-inom EES än Sverige,
+tillsynsförordningen som är hemmahörande i ett annat land inom 
+EES än Sverige,
 
 filial: en filial enligt artikel 4.1.17 i 
 tillsynsförordningen,
@@ -275,10 +275,9 @@ kostnader för resolution som upprättats av ett land inom EES
 enligt artikel 100 i krishanteringsdirektivet,
 
 förordningen om resolutionsavgifter: kommissionens delegerade 
-förordning (EU) 2015/63 om komplettering av 
-Europaparlamentets och rådets direktiv 2014/59/EU av den 21 
-oktober 2014 avseende förhandsbidrag till 
-finansieringsarrangemang för resolution,
+förordning (EU) 2015/63 om komplettering av Europaparlamentets 
+och rådets direktiv 2014/59/EU av den 21 oktober 2014 avseende 
+förhandsbidrag till finansieringsarrangemang för resolution,
 
 garanterad insättning: en insättning som omfattas av 
 insättningsgarantin enligt 4 och 4 c §§ lagen (1995:1571) om 
@@ -301,10 +300,10 @@ tillsynsförordningen,
 kapitaltäckningsdirektivet: Europaparlamentets och rådets 
 direktiv 2013/36/EU av den 26 juni 2013 om behörighet att 
 utöva verksamhet i kreditinstitut och om tillsyn av 
-kreditinstitut och värdepappersföretag, om ändring av 
-direktiv 2002/87/EG och om upphävande av direktiv 2006/48/EG 
-och 2006/49/EG, i lydelsen enligt Europaparlamentets och 
-rådets direktiv 2014/59/EU,
+kreditinstitut och värdepappersföretag, om ändring av direktiv 
+2002/87/EG och om upphävande av direktiv 2006/48/EG och 
+2006/49/EG, i lydelsen enligt Europaparlamentets och rådets 
+direktiv (EU) 2019/878,
 
 koncern: ett moderföretag och dess dotterföretag,
 
@@ -318,12 +317,12 @@ krisavvärjande åtgärd:
 
 a) en åtgärd för att undanröja väsentliga brister eller 
 väsentliga hinder för återhämtning enligt 6 a kap. 6 och 7 §§ 
-lagen om bank- och finansieringsrörelse och 8 a kap. 7 och 8 
-§§ lagen (2007:528) om värdepappersmarknaden,
+lagen om bank- och finansieringsrörelse och 8 a kap. 7 och 
+8 §§ lagen (2007:528) om värdepappersmarknaden,
 
 b) en åtgärd för att undanröja eller minska väsentliga hinder 
-för rekonstruktion eller avveckling enligt 3 kap. 3–5 och 
-12–24 §§, 
+för rekonstruktion eller avveckling enligt 3 kap. 3-5 och 12-
+24 §§, 
 
 c) en åtgärd som enligt beslut av Finansinspektionen är en 
 krisavvärjande åtgärd enligt 15 kap. 2 c § lagen om bank- och 
@@ -339,8 +338,8 @@ e) nedskrivning eller konvertering av relevanta
 kapitalinstrument enligt 6 kap.,
 
 krishanteringsdirektivet: Europaparlamentets och rådets 
-direktiv 2014/59/EU av den 15 maj 2014 om inrättande av en 
-ram för återhämtning och resolution av kreditinstitut och 
+direktiv 2014/59/EU av den 15 maj 2014 om inrättande av en ram 
+för återhämtning och resolution av kreditinstitut och 
 värdepappersföretag och om ändring av rådets direktiv 
 82/891/EEG och Europaparlamentets och rådets direktiv 
 2001/24/EG, 2002/47/EG, 2004/25/EG, 2005/56/EG, 2007/36/EG, 
@@ -348,16 +347,16 @@ värdepappersföretag och om ändring av rådets direktiv
 och rådets förordningar (EU) nr 1093/2010 och (EU) nr 
 648/2012, i den ursprungliga lydelsen,
 
-kritisk verksamhet: en tjänst eller en transaktion som, om 
-den upphörde, sannolikt skulle leda till en allvarlig 
-störning i det finansiella systemet,
+kritisk verksamhet: en tjänst eller en transaktion som, om den 
+upphörde, sannolikt skulle leda till en allvarlig störning i 
+det finansiella systemet,
 
 kvalificerad insättning: en insättning enligt lagen om 
-insättningsgaranti som inte är undantagen enligt 4 b eller 
-5 § den lagen,
+insättningsgaranti som inte är undantagen enligt 4 b eller 5 § 
+den lagen,
 
 kärnprimärkapitalinstrument: kapitalinstrument som uppfyller 
-villkoren i artikel 28.1–28.4, 29.1–29.5 eller 31.1 i 
+villkoren i artikel 28.1-28.4, 29.1-29.5 eller 31.1 i 
 tillsynsförordningen,
 
 moderföretag: ett moderföretag enligt artikel 4.1.15 a i 
@@ -388,35 +387,35 @@ resolutionsförfarande i tredjeland: en åtgärd som enligt
 rätten i ett land utanför EES syftar till att hantera en kris 
 i ett tredjelandsinstitut eller i ett moderföretag i 
 tredjeland, om åtgärden är jämförbar med sådana 
-resolutionsåtgärder som får vidtas enligt denna lag i fråga 
-om ändamål och förväntat resultat,
+resolutionsåtgärder som får vidtas enligt denna lag i fråga om 
+ändamål och förväntat resultat,
 
 resolutionskollegium: ett resolutionskollegium enligt artikel 
 88 i krishanteringsdirektivet,
 
-resolutionsåtgärd: någon av de åtgärder som anges i 12 kap. 1 
-§,
+resolutionsåtgärd: någon av de åtgärder som anges i 12 kap. 
+1 §,
 
 samordnande berörd myndighet: den berörda myndigheten i samma 
 land inom EES som den samordnande tillsynsmyndigheten,
 
 samordnande resolutionsmyndighet: resolutionsmyndigheten i 
-samma land inom EES som den samordnande 
-tillsynsmyndigheten,
-samordnande tillsynsmyndighet: en 
-behörig myndighet som ansvarar för att utöva gruppbaserad 
-tillsyn av moderinstitut inom EES och av institut som 
-kontrolleras av finansiella moderholdingföretag inom EES 
-eller blandade finansiella moderholdingföretag inom EES,
+samma land inom EES som den samordnande tillsynsmyndigheten, 
+
+samordnande tillsynsmyndighet: en behörig myndighet som 
+ansvarar för att utöva gruppbaserad tillsyn av moderinstitut 
+inom EES och av institut som kontrolleras av finansiella 
+moderholdingföretag inom EES eller blandade finansiella 
+moderholdingföretag inom EES,
 
 supplementärkapitalinstrument: kapitalinstrument och 
 efterställda lån som uppfyller villkoren i artikel 63 i 
 tillsynsförordningen,
 
-tillsynsförordningen: Europaparlamentets och rådets 
-förordning (EU) nr 575/2013 av den 26 juni 2013 om 
-tillsynskrav för kreditinstitut och värdepappersföretag och 
-om ändring av förordning (EU) nr 648/2012,
+tillsynsförordningen: Europaparlamentets och rådets förordning 
+(EU) nr 575/2013 av den 26 juni 2013 om tillsynskrav för 
+kreditinstitut och värdepappersföretag och om ändring av 
+förordning (EU) nr 648/2012,
 
 tillsynskollegium: ett tillsynskollegium enligt artikel 116 i 
 kapitaltäckningsdirektivet,
@@ -442,7 +441,7 @@ stycket 8 den lagen, och
 
 övriga primärkapitalinstrument: kapitalinstrument som 
 uppfyller villkoren i artikel 52.1 i tillsynsförordningen.
-Lag (2018:2021).
+Lag (2020:1214).
 
 2 § En kvalificerad skuld är en skuld som inte räknas som ett 
 primärkapitalinstrument eller ett 
@@ -2547,17 +2546,7 @@ aktiekapitalet enligt 1 § besluta att
 2. överföra befintliga aktier till en borgenär som har fått 
 sin fordran helt eller delvis nedskriven.
 
-4 § /Upphör att gälla U:2021-01-01/
-Om ett företag i resolution är en medlemsbank eller en 
-ekonomisk förening, ska Riksgäldskontoret, innan eller i 
-samband med att myndigheten vidtar en resolutionsåtgärd som 
-kan leda till att någon borgenär drabbas av förluster eller 
-får sin fordran helt eller delvis konverterad, besluta att 
-minska andelarnas värde i proportion till föreningens 
-förluster enligt en värdering enligt 7 kap. 
-
-4 § /Träder i kraft I:2021-01-01/
-Om ett företag i resolution är en ekonomisk förening, ska 
+4 § Om ett företag i resolution är en ekonomisk förening, ska 
 Riksgäldskontoret, innan eller i samband med att myndigheten 
 vidtar en resolutionsåtgärd som kan leda till att någon 
 borgenär drabbas av förluster eller får sin fordran helt eller 
@@ -3892,24 +3881,7 @@ ansöker om att ett företag ska försättas i konkurs.
 
 Likvidation
 
-3 § /Upphör att gälla U:2021-01-01/
-Bestämmelser om förfarandet vid likvidation av ett 
-företag som omfattas av denna lag finns i 
-
-– 6 kap. 1 a och 2 b §§ sparbankslagen (1987:619), 
-
-– 9 kap. 1 a och 4 b §§ lagen (1995:1570) om medlemsbanker,
-
-– 10 kap. 31 § tredje stycket lagen (2004:297) om bank- och 
-finansieringsrörelse,
-
-– 25 kap. 4 a och 10 a §§ aktiebolagslagen (2005:551), och 
-
-– 17 kap. 46 och 47 §§ lagen (2018672) om ekonomiska 
-föreningar. Lag (2018:734).
-
-3 § /Träder i kraft I:2021-01-01/
-Bestämmelser om förfarandet vid likvidation av ett företag 
+3 § Bestämmelser om förfarandet vid likvidation av ett företag 
 som omfattas av denna lag finns i
 
 - 6 kap. 1 a och 2 b §§ sparbankslagen (1987:619),
@@ -4332,18 +4304,7 @@ resolutionsavgiften.
 
 Uppgiftsskyldighet
 
-20 § /Upphör att gälla U:2021-01-01/
-Den som är avgiftsskyldig ska lämna de uppgifter till 
-Riksgäldskontoret som myndigheten behöver för att fastställa 
-den avgiftsskyldiges avgift. Uppgifter om avgiftsunderlaget 
-ska ha granskats av en revisor som utsetts i enlighet med 
-4 a kap. 1 § sparbankslagen (1987:619), 7 a kap. 1 § lagen 
-(1995:1570) om medlemsbanker, 9 kap. 8 § aktiebolagslagen 
-(2005:551) eller 8 kap. 8 § lagen (2018:672) om ekonomiska 
-föreningar. Lag (2018:734).
-
-20 § /Träder i kraft I:2021-01-01/
-Den som är avgiftsskyldig ska lämna de uppgifter till 
+20 § Den som är avgiftsskyldig ska lämna de uppgifter till 
 Riksgäldskontoret som myndigheten behöver för att fastställa 
 den avgiftsskyldiges avgift. Uppgifter om avgiftsunderlaget 
 ska ha granskats av en revisor som utsetts i enlighet med 
@@ -4449,12 +4410,18 @@ den del av myndigheten som inte bedriver verksamhet enligt
 denna lag, gentemot den del av myndigheten som bedriver den 
 verksamheten.
 
-5 § Riksgäldskontoret och Finansinspektionen ska samarbeta 
-och utbyta information med varandra, med motsvarande 
-myndigheter inom EES och med Europeiska bankmyndigheten i den 
-utsträckning som följer av krishanteringsdirektivet. 
-Riksgäldskontoret ska också lämna regeringen de uppgifter som 
-behövs för regeringens verksamhet enligt denna lag.
+5 § Riksgäldskontoret och Finansinspektionen ska, i den 
+utsträckning som följer av Sveriges medlemskap i Europeiska 
+unionen, samarbeta och utbyta information med
+
+- varandra, 
+
+- motsvarande myndigheter inom EES, och 
+
+- Europeiska bankmyndigheten.
+
+Riksgäldskontoret ska lämna regeringen de uppgifter som behövs 
+för regeringens verksamhet enligt denna lag. Lag (2020:1214).
 
 Upplysningar till konkursförvaltare och likvidator 
 
