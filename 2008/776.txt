@@ -91,33 +91,18 @@ kontaktperson 10 procent av riktvärdet.
 Den genomsnittliga kostnaden per insats ska uppdateras årligen.
 Förordning (2010:1338).
 
-6 § /Upphör att gälla U:2020-01-01/
-Personalkostnadsindexet beräknas dels utifrån 
-kostnadsuppgifter från räkenskapssammandraget 2017, dels 
+6 § Personalkostnadsindexet beräknas dels utifrån 
+kostnadsuppgifter från räkenskapssammandraget 2019, dels 
 utifrån den standardkostnad som beräknats enligt 4 § första 
-stycket. Beräkningen görs på följande sätt.
-
-Först beräknas ett belopp motsvarande 70 procent av 
-skillnaden mellan en beräknad personalkostnad per kommun för 
-2017 och den personalkostnad som ingår i standardkostnaden 
-enligt 4 § första stycket. Detta belopp adderas till 
-standardkostnaden enligt 4 § första stycket. Den erhållna 
-summan divideras med standardkostnaden som beräknats enligt 
-4 § första stycket. Förordning (2018:1902).
-
-6 § /Träder i kraft I:2020-01-01/
-Personalkostnadsindexet beräknas dels utifrån 
-kostnadsuppgifter från räkenskapssammandraget 2018, dels 
-utifrån den standardkostnad som beräknats enligt 4 § första 
-stycket. Beräkningen görs på följande sätt.
+stycket. Beräkningen görs på följande sätt. 
 
 Först beräknas ett belopp motsvarande 70 procent av skillnaden 
-mellan en beräknad personalkostnad per kommun för 2018 och den 
+mellan en beräknad personalkostnad per kommun för 2019 och den 
 personalkostnad som ingår i standardkostnaden enligt 4 § 
 första stycket. Detta belopp adderas till standardkostnaden 
-enligt 4 § första stycket. Den erhållna summan divideras med 
+enligt 4 § första stycket. Summan som fås divideras med 
 standardkostnaden som beräknats enligt 4 § första stycket.
-Förordning (2019:798).
+Förordning (2020:984).
 
 7 § För beräkningarna gäller i övrigt de beräkningsmetoder och
 närmare detaljer som anges i bilagan till denna förordning.
@@ -164,232 +149,7 @@ stycket sista meningen i deras nya lydelser. Detta gäller
 dock endast till och med utjämningsåret 2012.
 
 
-Bilaga /Upphör att gälla U:2020-01-01/
-
-Beräkningsmetoder och närmare detaljer för 
-kostnadsutjämningen
-
-Befolkningsuppgifter hämtas från Statistiska centralbyråns 
-(SCB) befolkningsstatistik.
-
-Konsumentprisindex med fast ränta
-
-Uppräkning till utjämningsårets kostnadsnivå sker med hjälp 
-av utvecklingen av konsumentprisindex med fast ränta. Som 
-genomsnittlig procentuell förändring i konsumentprisindex med 
-fast ränta för respektive år används följande: 2018 (2,1) och 
-2019 (2,0).
-
-Genomsnittskostnaden
-
-Genomsnittskostnaden per insats i landet beräknas enligt
-följande formel:
-
-Boendeformer
-
-Vuxna = nettokostnader från rad 5131 enligt
-räkenskapssammandraget / (antal beslut om bostad med
-särskild service för vuxna enligt 9 § 9 lagen (1993:387)
-om stöd och service till vissa funktionshindrade + antal
-beslut om boende enligt 9 § 8 lagen om stöd och service
-till vissa funktionshindrade x 1,25 + antal beslut om
-familjehem enligt 9 § 8 lagen om stöd och service till
-vissa funktionshindrade x 0,45).
-
-Barn = genomsnittskostnaden för vuxna x 1,25.
-
-Barn i familjehem = genomsnittskostnaden för vuxna x 0,45.
-
-Personlig assistans
-
-Personlig assistans enligt lagen (1993:387) om stöd och
-service till vissa funktionshindrade = nettokostnader från
-rad 5133 enligt räkenskapssammandraget / (antal beslut
-enligt 9 § 2 lagen om stöd och service till vissa
-funktionshindrade + antal beslut enligt 51 kap.
-socialförsäkringsbalken x 0,50).
-
-Personlig assistans enligt 51 kap. socialförsäkringsbalken
-= genomsnittskostnaden för personlig assistans enligt
-lagen om stöd och service till vissa funktionshindrade x
-0,50.
-
-Daglig verksamhet
-
-Daglig verksamhet = nettokostnader från rad 5135 enligt
-räkenskapssammandraget / antal beslut enligt 9 § 10 lagen
-(1993:387) om stöd och service till vissa
-funktionshindrade.
-
-Övriga insatser
-
-Korttidsvistelse = nettokostnader från rad 5139 enligt
-räkenskapssamman-draget / (antal beslut enligt 9 § 6 lagen
-(1993:387) om stöd och service till vissa
-funktionshindrade + antal beslut enligt 9 § 7 lagen om
-stöd och service till vissa funktionshindrade x 0,55 +
-antal beslut enligt 9 § 5 lagen om stöd och service till
-vissa funktionshindrade x 0,25 + antal beslut enligt 9 § 3
-lagen om stöd och service till vissa funktionshindrade x
-0,25 + antal beslut enligt 9 § 4 lagen om stöd och service
-till vissa funktionshindrade x 0,10).
-
-Korttidstillsyn = genomsnittskostnaden för
-korttidsvistelse x 0,55.
-
-Avlösarservice = genomsnittskostnaden för korttidsvistelse
-x 0,25.
-
-Ledsagarservice = genomsnittskostnaden för
-korttidsvistelse x 0,25.
-
-Kontaktperson = genomsnittskostnaden för korttidsvistelse
-x 0,10.
-
-Standardkostnadsberäkning
-
-Den första delen av standardkostnaden beräknas enligt
-följande formel:
-
-S = BV x bv + BB x bb + FH x fh + DV x dv + KV x kv + KT x
-kt + AS x as + LS x ls + KP x kp + PAK x pak + PAF x paf +
-FK,
-
-där förkortningar förklaras som
-
-S = standardkostnad,
-
-BV = bostad med särskild service för vuxna,
-
-bv = genomsnittskostnad för ovanstående insats,
-
-BB = bostad med särskild service för barn och ungdomar,
-
-bb = genomsnittskostnad för ovanstående insats,
-
-FH = boende i familjehem,
-
-fh = genomsnittskostnad för ovanstående insats,
-
-DV = daglig verksamhet,
-
-dv = genomsnittskostnad för ovanstående insats,
-
-KV = korttidsvistelse utanför det egna hemmet,
-
-kv = genomsnittskostnad för ovanstående insats,
-
-KT = korttidstillsyn för skolungdomar över 12 år,
-
-kt = genomsnittskostnad för ovanstående insats,
-
-AS = avlösarservice i hemmet,
-
-as = genomsnittskostnad för ovanstående insats,
-
-LS = ledsagarservice,
-
-ls = genomsnittskostnad för ovanstående insats,
-
-KP = biträde av kontaktperson,
-
-kp = genomsnittskostnad för ovanstående insats,
-
-PAK = biträde av personlig assistent beslutad av kommunen
-enligt lagen (1993:387) om stöd och service till vissa
-funktionshindrade exklusive personer med både sådan insats
-och insatsen bostad med särskild service för vuxna,
-
-pak = genomsnittskostnad för ovanstående insats,
-
-PAF = biträde av personlig assistent beslutad av
-Försäkringskassan enligt 51 kap. socialförsäkringsbalken,
-
-paf = genomsnittskostnad för ovanstående insats,
-
-FK = kommunens ersättning till Försäkringskassan enligt
-51 kap. socialförsäkringsbalken.
-
-Personalkostnadsindex (PK-IX)
-
-Personalkostnadsindexets beräkning
-
-A = Externa löner.
-
-B = Entreprenad och köp av verksamhet.
-
-C = Interna köp och övriga interna kostnader.
-
-D = Internt fördelade kostnader enligt kommunnyckeln.
-
-E = Internt fördelade kostnader enligt SCB-nyckeln.
-
-F = Interna intäkter.
-
-G = Ersättning från Försäkringskassan enligt 51 kap. 
-socialförsäkringsbalken.
-
-H = Ersättning till Försäkringskassan enligt 51 kap. 
-socialförsäkringsbalken.
-
-J = Försäljning av verksamhet till andra kommuner. 
-
-S = Standardkostnad enligt tidigare beräkning. 
-
-Beräknade personalkostnader
-
-Lönekostnader inklusive personalomkostnadspålägg (PO-pålägg) 
-för anställda som är 26–64 år 2017 enligt Sveriges Kommuner 
-och Landstings cirkulär 16:65.
-
-Tillkommer 85 procent av köp av verksamhet, övriga interna 
-kostnader, internt fördelade kostnader.
-
-Avgår 85 procent av ersättning från Försäkringskassan, 
-försäljning till andra kommuner, interna intäkter.
-
-Tillkommer kommunens beräknade personalkostnad för köpta 
-verksamheter avseende personlig assistans.
-
-Steg 1
-
-Lönekostnaden (A) x PO-pålägg + 0,85 x (B+C+D+E) – 0,85 x 
-(F+G+J) + 0,85 x 0,20 x ((H/0,20) – G) = beräknade 
-personalkostnader.
-
-Steg 2
-
-Personalkostnader ingående i den första delen av den 
-beräknade standardkostnaden beräknas utgöra 85 procent = 0,85 
-x S.
-
-Steg 3
-
-Mellanskillnaden av steg 1 och steg 2 av överskjutande 
-personalkostnader ersätts med 70 procent = (Lönekostnaden (A) 
-x PO-pålägg + 0,85 x (B+C+D+E) – 0,85 x (F+G+J) + 0,85 x 0,20 
-x ((H/0,20) – G) – (0,85 x S)) x 0,7.
-
-Indexet erhålls genom att standardkostnaden adderas med 
-värdet av steg 3 dividerat med standardkostnaden = (S + steg 
-3) / S.
-
-Slutlig standardkostnad
-
-Den slutliga standardkostnaden erhålls genom att den 
-ursprungliga standardkostnaden multipliceras med 
-personalkostnadsindex. Produkten multipliceras därefter med 
-konsumentprisindex med fast ränta och en korrigeringsfaktor 
-för att summan av standardkostnaderna, inklusive 
-personalkostnadsindex, efter uppräkning med 
-konsumentprisindex med fast ränta ska överensstämma med 
-kommunernas sammanlagda nettokostnader, uppräknade till 
-utjämningsårets prisnivå. Produkten divideras med antalet 
-invånare = S x PK-IX x konsumentprisindex med fast ränta x 
-korrigeringsfaktorn / antalet invånare i kommunen.
-Förordning (2018:1902).
-
-Bilaga /Träder i kraft I:2020-01-01/
+Bilaga 
 
 Beräkningsmetoder och närmare detaljer för kostnadsutjämningen
 
@@ -401,8 +161,8 @@ Konsumentprisindex med fast ränta
 Uppräkning till utjämningsårets kostnadsnivå sker med hjälp av 
 utvecklingen av konsumentprisindex med fast ränta. Som 
 genomsnittlig procentuell förändring i konsumentprisindex med 
-fast ränta för respektive år används följande: 2019 (1,7) och 
-2020 (1,6).
+fast ränta för respektive år används följande: 2020 (0,3) och 
+2021 (1,2).
 
 Genomsnittskostnaden
 
@@ -415,10 +175,10 @@ Vuxna = nettokostnader från rad 5131 enligt
 räkenskapssammandraget / (antal beslut om bostad med särskild 
 service för vuxna enligt 9 § 9 lagen (1993:387) om stöd och 
 service till vissa funktionshindrade + antal beslut om boende 
-enligt 9 § 8 lagen om stöd och service till vissa funktions-
-hindrade x 1,25 + antal beslut om familjehem enligt 9 § 
-8 lagen om stöd och service till vissa funktionshindrade x 
-0,45).
+enligt 9 § 8 lagen om stöd och service till vissa 
+funktionshindrade x 1,25 + antal beslut om familjehem enligt 
+9 § 8 lagen om stöd och service till vissa funktionshindrade 
+x 0,45).
 
 Barn = genomsnittskostnaden för vuxna x 1,25.
 
@@ -427,11 +187,10 @@ Barn i familjehem = genomsnittskostnaden för vuxna x 0,45.
 Personlig assistans
 
 Personlig assistans enligt lagen (1993:387) om stöd och 
-service till vissa funktionshindrade = nettokostnader från 
-rad 5133 enligt räkenskapssammandraget / (antal beslut enligt 
-9 § 2 lagen om stöd och service till vissa 
-funktionshindrade + antal beslut enligt 51 kap. 
-socialförsäkringsbalken x 0,50).
+service till vissa funktionshindrade = nettokostnader från rad 
+5133 enligt räkenskapssammandraget / (antal beslut enligt 9 § 
+2 lagen om stöd och service till vissa funktionshindrade + 
+antal beslut enligt 51 kap. socialförsäkringsbalken x 0,50).
 
 Personlig assistans enligt 51 kap. socialförsäkringsbalken = 
 genomsnittskostnaden för personlig assistans enligt lagen om 
@@ -446,27 +205,26 @@ räkenskapssammandraget / antal beslut enligt 9 § 10 lagen
 Övriga insatser
 
 Korttidsvistelse = nettokostnader från rad 5139 enligt 
-räkenskapssammandraget / (antal beslut enligt 9 § 
-6 lagen (1993:387) om stöd och service till vissa 
-funktionshindrade + antal beslut enligt 9 § 7 lagen om stöd 
-och service till vissa funktionshindrade x 0,55 + antal beslut 
-enligt 9 § 5 lagen om stöd och service till vissa 
-funktionshindrade x 0,25 + antal beslut enligt 9 § 3 lagen om 
+räkenskapssamman- draget / (antal beslut enligt 9 § 6 lagen 
+(1993:387) om stöd och service till vissa funktionshindrade + 
+antal beslut enligt 9 § 7 lagen om stöd och service till vissa 
+funktionshindrade x 0,55 + antal beslut enligt 9 § 5 lagen om 
 stöd och service till vissa funktionshindrade x 0,25 + antal 
-beslut enligt 9 § 4 lagen om stöd och service till vissa 
-funktionshindrade x 0,10).
+beslut enligt 9 § 3 lagen om stöd och service till vissa 
+funktionshindrade x 0,25 + antal beslut enligt 9 § 4 lagen om 
+stöd och service till vissa funktionshindrade x 0,10).
 
-Korttidstillsyn = genomsnittskostnaden för korttidsvistelse 
-x 0,55.
+Korttidstillsyn = genomsnittskostnaden för korttidsvistelse x 
+0,55.
 
-Avlösarservice = genomsnittskostnaden för korttidsvistelse 
-x 0,25.
+Avlösarservice = genomsnittskostnaden för korttidsvistelse x 
+0,25.
 
-Ledsagarservice = genomsnittskostnaden för korttidsvistelse 
-x 0,25.
+Ledsagarservice = genomsnittskostnaden för korttidsvistelse x 
+0,25.
 
-Kontaktperson = genomsnittskostnaden för korttidsvistelse 
-x 0,10.
+Kontaktperson = genomsnittskostnaden för korttidsvistelse x 
+0,10.
 
 Standardkostnadsberäkning
 
@@ -560,7 +318,7 @@ S = Standardkostnad enligt tidigare beräkning.
 Beräknade personalkostnader
 
 Lönekostnader inklusive personalomkostnadspålägg (PO-pålägg) 
-för anställda som är 26-64 år är 39,17 procent.
+för anställda som är 26-64 år är 39,15 procent.
 
 Tillkommer 85 procent av köp av verksamhet, övriga interna 
 kostnader, internt fördelade kostnader.
@@ -575,7 +333,7 @@ Steg 1
 
 Lönekostnaden (A) x PO-pålägg + 0,85 x (B+C+D+E) - 0,85 x 
 (F+G+J) + 0,85 x 0,20 x ((H/0,20) - G) = beräknade 
-personalkostnader.
+personalkostnader. 
 
 Steg 2 
 
@@ -588,7 +346,9 @@ Mellanskillnaden av steg 1 och steg 2 av överskjutande
 personalkostnader
 
 ersätts med 70 procent = (Lönekostnaden (A) x PO-pålägg + 0,85 
-x (B+C+D+E) - 0,85 x (F+G+J) + 0,85 x 0,20 x ((H/0,20) - G) - 
+x
+
+(B+C+D+E) - 0,85 x (F+G+J) + 0,85 x 0,20 x ((H/0,20) - G) - 
 (0,85 x S)) x 0,7.
 
 Indexet erhålls genom att standardkostnaden adderas med värdet 
@@ -607,4 +367,4 @@ nettokostnader, uppräknade till utjämningsårets prisnivå.
 Produkten divideras med antalet invånare = S x PK-IX x 
 konsumentprisindex med fast ränta x korrigeringsfaktorn / 
 antalet invånare i kommunen.
-Förordning (2019:798).
+Förordning (2020:984).
