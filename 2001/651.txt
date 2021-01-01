@@ -52,22 +52,6 @@ Cykelbana		En väg eller del av en väg som är avsedd
 			för cykeltrafik och trafik med moped 
 			klass II
 
-/Upphör att gälla U:2020-12-01/
-Cykelfält 		Ett särskilt körfält som genom 
-			vägmarkering anvisats för cyklande och 
-			förare av moped klass II. 
-
-Cykelpassage 		En del av en väg som är avsedd att 
-			användas av cyklande eller förare av 
-			moped klass II för att korsa en körbana 
-			eller en cykelbana och som anges med 
-			vägmarkering.
-
-			En cykelpassage är bevakad om trafiken 
-			regleras med trafiksignaler eller av en 
-			polisman och i annat fall obevakad. 
-	
-/Träder i kraft I:2020-12-01/
 Cykelfält 		Ett särskilt körfält som genom
 			vägmarkering anvisats för cyklande och 
 			förare av moped klass II
@@ -321,15 +305,25 @@ Tävlingsfordon		Motorfordon som har anpassats för
 Utryckningsfordon	Fordon som i vägtrafikregistret är upptaget 
 			som utryckningsfordon
 
+Utsläppsfri drift	Drift av fordon utan förbränningsmotor eller 
+			med en förbränningsmotor som släpper ut 
+			1. mindre än 1 g CO2/kWh, fastställt i 
+			enlighet med förordning (EG) nr 595/2009 och 
+			EU-förordningar som har antagits med stöd 
+			av den förordningen, eller 
+			2. mindre än 1 g CO2/km, fastställt i 
+			enlighet med Europaparlamentets och rådets 
+			förordning (EG) nr 715/2007 och 
+			EU-förordningar som har antagits med stöd av 
+			den förordningen.
+
 Väg			1. En sådan väg, gata, torg och annan led 
 			eller plats som allmänt används för trafik 
 			med motorfordon,
-
 			2. en led som är anordnad för cykeltrafik, 
 			och
-
-			3. en gång- eller ridbana invid en väg enligt 
-			1 eller 2
+			3. en gång- eller ridbana invid en väg 
+			enligt 1 eller 2.
 
 Vägren			En del av en väg som är avsedd för trafik med 
 			fordon, dock inte körbana eller cykelbana
@@ -348,7 +342,7 @@ fordonstillverkare	En fordonstillverkare som innehar ett
 			eller vägmärke. Ett övergångsställe är bevakat 
 			om trafiken regleras med trafiksignaler eller 
 			av en polisman och i annat fall obevakat
-Förordning (2020:843).
+Förordning (2020:1095).
 
 3 § Transportstyrelsen beslutar i frågor som avses i 3 § lagen
 (2001:559) om vägtrafikdefinitioner. Förordning (2008:1137).
