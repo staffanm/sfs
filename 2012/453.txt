@@ -1,14 +1,15 @@
 Lagens tillämpningsområde
 
-1 § Denna lag tillämpas vid behandling av personuppgifter i
-Folkhälsomyndighetens verksamhet när det gäller nationella
-vaccinationsprogram (vaccinationsregistret).
+1 § Denna lag tillämpas vid behandling av personuppgifter i 
+Folkhälsomyndighetens verksamhet när det gäller nationella 
+vaccinationsprogram och vaccinationer mot sjukdomen covid-19 
+(vaccinationsregistret).
 
-Lagen gäller endast om behandlingen är helt eller delvis
-automatiserad eller om personuppgifterna ingår i eller är
-avsedda att ingå i en strukturerad samling av personuppgifter
-som är tillgängliga för sökning eller sammanställning enligt
-särskilda kriterier. Lag (2013:637).
+Lagen gäller endast om behandlingen är helt eller delvis 
+automatiserad eller om personuppgifterna ingår i eller är 
+avsedda att ingå i en strukturerad samling av personuppgifter 
+som är tillgängliga för sökning eller sammanställning enligt 
+särskilda kriterier. Lag (2020:1194).
 
 2 § Uttrycket nationella vaccinationsprogram har i denna lag
 samma betydelse som i smittskyddslagen (2004:168).
@@ -38,12 +39,13 @@ denna lag. Lag (2013:637).
 
 Ändamål med personuppgiftsbehandlingen
 
-6 § Personuppgifter får behandlas för 
+6 § Personuppgifter får behandlas för
 
 1. framställning av statistik,
 
-2. uppföljning, utvärdering och kvalitetssäkring av 
-nationella vaccinationsprogram, samt
+2. uppföljning, utvärdering och kvalitetssäkring av nationella 
+vaccinationsprogram och vaccinationer mot sjukdomen covid-19, 
+samt
 
 3. forskning och epidemiologiska undersökningar.
 
@@ -51,13 +53,13 @@ Personuppgifter som behandlas för de ändamål som anges i
 första stycket får också behandlas för att fullgöra 
 uppgiftsutlämnande som sker i överensstämmelse med lag eller 
 förordning. Personuppgifterna får även behandlas för andra 
-ändamål, under förutsättning att uppgifterna inte behandlas 
-på ett sätt som är oförenligt med det ändamål för vilket 
-uppgifterna samlades in. Lag (2018:452).
+ändamål, under förutsättning att uppgifterna inte behandlas på 
+ett sätt som är oförenligt med det ändamål för vilket 
+uppgifterna samlades in. Lag (2020:1194).
 
 Personuppgifter som får behandlas
 
-7 § För de ändamål som anges i 6 § får endast följande
+7 § För de ändamål som anges i 6 § får endast följande 
 uppgifter behandlas:
 
 1. datum för vaccinationen,
@@ -72,11 +74,19 @@ uppgifter behandlas:
 
 6. den vaccinerades folkbokföringsort.
 
+När det gäller vaccinationer mot sjukdomen covid-19 får för de 
+ändamål som anges i 6 § dessutom uppgift om vaccinationens 
+dosnummer behandlas. Lag (2020:1194).
+
 Uppgiftsskyldighet
 
-8 § Den vårdgivare som har ansvarat för vaccinationen ska
-lämna de uppgifter som avses i 7 § 1–5 till
-vaccinationsregistret.
+8 § Den vårdgivare som har ansvarat för vaccinationen ska 
+lämna de uppgifter som avses i 7 § första stycket 1-5 till 
+vaccinationsregistret. 
+
+Den vårdgivare som har ansvarat för en vaccination mot 
+sjukdomen covid-19 ska dessutom lämna uppgift om 
+vaccinationens dosnummer. Lag (2020:1194).
 
 Behörighetstilldelning
 
