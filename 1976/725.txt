@@ -425,6 +425,7 @@ Boverket
 Boverkets                       BFS
 författningssamling
 
+/Upphör att gälla U:2021-01-01/
 Centrala studiestödsnämnden
 
 Centrala studiestödsnämndens    CSNFS
@@ -440,6 +441,17 @@ Domstolsverket
 Domstolsverkets
 författningssamling             DVFS            Utnyttjas också av
                                                 Notarienämnden
+			
+/Träder i kraft I:2021-01-01/
+Centrala studiestödsnämnden	
+
+Centrala studiestödsnämndens	CSNFS 
+författningssamling		
+
+Domstolsverket
+
+Domstolsverkets 		DVFS		Utnyttjas också av
+författningssamling				Notarienämnden
 
 Elsäkerhetsverket
 
@@ -477,11 +489,32 @@ Havs- och
 vattenmyndighetens
 författningssamling             HVMFS
 
+/Upphör att gälla U:2021-01-01/
 Inspektionen för
 arbetslöshetsförsäkringen
 
 Inspektionen för                IAFFS
 arbetslöshetsförsäkringens
+författningssamling
+
+Kammarkollegiet
+
+Kammarkollegiets
+författningssamling             KAMFS           Utnyttjas också av
+                                                Fastighetsmäklarinspektionen
+                                                och Trafikanalys
+			
+/Träder i kraft I:2021-01-01/
+Inspektionen för
+arbetslöshetsförsäkringen
+
+Inspektionen för                IAFFS
+arbetslöshetsförsäkringens
+författningssamling
+
+Integritetsskyddsmyndigheten
+
+Integritetsskyddsmyndighetens 	IMYFS
 författningssamling
 
 Kammarkollegiet
@@ -775,20 +808,6 @@ Tullverkets                     TFS             Utnyttjas också av
 författningssamling                             Inspektionen för
                                                 strategiska produkter
 
-/Upphör att gälla U:2020-07-01/
-Universitets- och
-högskolerådet
-
-Universitets- och               UHRFS
-högskolerådets
-författningssamling
-
-Valmyndigheten
-
-Valmyndighetens                 VALFS
-författningssamling
-			
-/Träder i kraft I:2020-07-01/
 Universitets- och
 högskolerådet
 
@@ -815,7 +834,7 @@ författningssamling				Etikprövningsmyndigheten
 
 Åklagarmyndighetens             ÅFS
 författningssamling
-Förordning (2020:333).
+Förordning (2020:1113).
 
 Bilaga 2
 
@@ -910,7 +929,7 @@ grundförfattning som den hör till.
 Förteckningar över grundförfattningar   Exempel på redaktionell
 ska innehålla följande uppgifter:       utformning:
 
-
+/Upphör att gälla U:2021-01-01/
 – Fullständig rubrik i senaste          Datainspektionens föreskrifter
 lydelse med årtal och                   (DIFS 1998:3) om undantag från …
 löpnummer i författningssamlingen.
@@ -924,6 +943,21 @@ bemyndigandet.
 EU-direktiv eller kompletterar
 EU-förordningar: EU-reglernas
 Celexnummer.
+
+/Träder i kraft I:2021-01-01/
+- Fullständig rubrik i senaste 		Sjöfartsverkets föreskrifter 
+lydelse med årtal och 			(2007:1) om hamnskydd
+löpnummer i författningssamlingen.	
+
+- För författningar vars ingress 	Bemyndigande: 
+ska innehålla en sådan uppgift om 	6 § förordningen (2006:1213)
+bemyndigande som avses i 18 b §:	om hamnskydd
+bemyndigandet.
+	
+- För författningar som genomför  	32005L0065
+EU-direktiv eller kompletterar  
+EU-förordningar: EU-reglernas 
+Celexnummer.	
 
 3 Förteckningar över ändringsförfattningar
 
