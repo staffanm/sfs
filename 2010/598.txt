@@ -4,27 +4,35 @@
 biodrivmedel och flytande biobränslen ska uppfylla för att 
 anses vara hållbara (hållbarhetskriterier) och om 
 hållbarhetsbesked som ska visa detta. Lagen innehåller även 
-bestämmelser om anläggningsbesked för biodrivmedel. 
-Lag (2015:838).
+bestämmelser om anläggningsbesked. Lag (2020:1044).
 
-2 § I denna lag betyder
+2 § I denna lag betyder 
 
 biomassa: den biologiskt nedbrytbara delen av produkter, 
-avfall och restprodukter av biologiskt ursprung från 
-jordbruk, skogsbruk och därmed förknippad industri inklusive 
-fiske och vattenbruk, liksom den biologiskt nedbrytbara delen 
-av industriavfall och kommunalt avfall,
+avfall och restprodukter av biologiskt ursprung från jordbruk, 
+skogsbruk och därmed förknippad industri inklusive fiske och 
+vattenbruk, liksom den biologiskt nedbrytbara delen av 
+industriavfall och kommunalt avfall, 
 
 biodrivmedel: vätskeformiga eller gasformiga bränslen som 
-framställs av biomassa och som används för transportändamål, 
+framställs av biomassa och som används för transportändamål,
 
-livsmedelsbaserade biodrivmedel: biodrivmedel som framställs 
-från spannmål eller andra stärkelserika grödor eller från 
-socker- eller oljegrödor,
+livsmedels- eller fodergrödor: stärkelserika grödor, 
+sockergrödor eller oljegrödor som produceras på jordbruksmark 
+som huvudgrödor, dock inte
+
+1. restprodukter och avfall,
+
+2. material som innehåller både cellulosa och lignin, eller
+
+3. mellangrödor som inte kräver att ytterligare mark tas i 
+anspråk,
 
 flytande biobränslen: vätskeformiga bränslen för andra 
-energiändamål än transportändamål, som framställs av 
-biomassa,
+energiändamål än transportändamål, som framställs av biomassa,
+
+gasformiga biobränslen: gasformiga bränslen för andra 
+energiändamål än transportändamål, som framställs av biomassa,
 
 avfall: ämne eller föremål som innehavaren gör sig av med 
 eller avser eller är skyldig att göra sig av med, dock inte 
@@ -40,14 +48,14 @@ produktionskedja: den produktionsprocess som pågår fram till
 och med användningen av biodrivmedlet eller det flytande 
 biobränslet och börjar med
 
-– odling av biomassa, inbegripet framställning av gödsel för 
+- odling av biomassa, inbegripet framställning av gödsel för 
 odlingen, eller
 
-– omhändertagandet av avfall eller restprodukter som 
-biodrivmedlet eller det flytande biobränslet framställs av, 
-om inte restprodukterna har uppkommit direkt i en jordbruks-, 
-vattenbruks-, fiske- eller skogsbruksverksamhet.
-Lag (2017:1094).
+- omhändertagandet av avfall eller restprodukter som 
+biodrivmedlet eller det flytande biobränslet framställs av, om 
+inte restprodukterna har uppkommit direkt i en jordbruks-, 
+vattenbruks-, fiske- eller skogsbruksverksamhet. 
+Lag (2020:1044).
 
 2 a § I fråga om restprodukt får regeringen eller den 
 myndighet som regeringen bestämmer meddela ytterligare 
@@ -356,23 +364,40 @@ rapporteringsskyldiges skattskyldighet har inträtt enligt
 
 3 a kap. Anläggningsbesked
 
-1 § Om den som är rapporteringsskyldig för ett biodrivmedel 
-enligt 3 kap. 1 § första stycket a begär det och det finns 
-ett kontrollsystem som visar att drivmedlet eller den 
-anläggning där drivmedlet har producerats uppfyller de krav 
-som följer av detta kapitel, ska tillsynsmyndigheten ange 
-detta i ett särskilt beslut (anläggningsbesked).
-Lag (2015:838).
+1 § Ett anläggningsbesked får begäras av den som är 
 
-2 § Kontrollsystemet ska visa att ett biodrivmedel som läggs 
-till grund för avdrag enligt 7 kap. 3 a, 3 b eller 4 § lagen 
-(1994:1776) om skatt på energi
+1. rapporteringsskyldig för ett biodrivmedel enligt 3 kap. 1 § 
+första stycket a, eller 
 
-1. inte är livsmedelsbaserat, eller
+2. skattskyldig för ett annat motorbränsle som framställts av 
+biomassa eller ett gasformigt biobränsle enligt 4 kap. lagen 
+(1994:1776) om skatt på energi.
 
-2. är livsmedelsbaserat men har producerats i en anläggning 
-som tagits i drift före den 31 december 2013 och inte är 
-fullständigt avskriven. Lag (2017:1216).
+Med anläggningsbesked avses ett beslut av tillsynsmyndigheten 
+om att det finns ett kontrollsystem som visar att ett bränsle 
+eller den anläggning där bränslet har producerats uppfyller de 
+krav som följer av detta kapitel. Lag (2020:1044).
+
+2 § För ett biodrivmedel eller annat motorbränsle som 
+framställts av biomassa och som läggs till grund för avdrag 
+enligt 7 kap. 3 a eller 3 b § lagen (1994:1776) om skatt på 
+energi ska kontrollsystemet visa att bränslet
+
+1. inte är framställt av livsmedels- eller fodergrödor, eller 
+
+2. är framställt av livsmedels- eller fodergrödor men har 
+producerats i en anläggning som tagits i drift före den 
+31 december 2013 och inte är fullständigt avskriven.
+Lag (2020:1044).
+
+2 a § För ett gasformigt biobränsle som avses i 6 a kap. 2 c § 
+första stycket lagen (1994:1776) om skatt på energi ska 
+kontrollsystemet visa att bränslet inte är framställt av 
+livsmedels- eller fodergrödor. 
+
+Första stycket gäller också för ett biodrivmedel eller 
+gasformigt biobränsle som läggs till grund för avdrag enligt 
+7 kap. 4 § samma lag. Lag (2020:1044).
 
 3 § Regeringen eller den myndighet som regeringen bestämmer 
 får meddela föreskrifter om utformningen av kontrollsystemet 
