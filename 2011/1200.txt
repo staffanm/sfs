@@ -1,22 +1,10 @@
 1 kap. Inledande bestämmelser
 
-1 § Denna lag syftar till att främja produktion av förnybar 
-el för att
-
-1. inom den gemensamma elcertifikatsmarknaden med Norge 
-
-a) år 2020 nå målet om att finansiera 15,2 terawattimmar ny 
-förnybar elproduktion, 
-
-b) till år 2030 nå målet om att utöka elcertifikatssystemet 
-med 18 terawattimmar nya elcertifikat, och 
-
-c) för perioden fram till 2045 uppfylla volymrelaterade 
-förpliktelser, och
-
-2. år 2020 nå det nationella målet om att finansiera 30 
-terawattimmar ny förnybar elproduktion jämfört med år 2002. 
-Lag (2017:813).
+1 § Denna lag syftar till att främja produktion av förnybar el 
+för att inom den gemensamma elcertifikatsmarknaden med Norge 
+till 2030 nå det med Norge gemensamma målet om 46,4 
+terawattimmar ny förnybar elproduktion och till och med 2035 
+uppfylla volymrelaterade förpliktelser. Lag (2020:963).
 
 Definitioner m.m.
 
@@ -269,8 +257,23 @@ synnerliga skäl.
 
 Bortre gräns för tilldelning
 
-11 § Elcertifikat får inte tilldelas för produktion av el 
-efter utgången av år 2045. Lag (2017:813).
+11 § Elcertifikat får inte tilldelas för produktion av 
+förnybar el efter utgången av 2035.
+
+För tiden dessförinnan får inte elcertifikat tilldelas för 
+produktion av förnybar el 
+
+1. i anläggningar som tagits i drift efter den 31 december 
+2021,
+
+2. enligt 8 eller 9 § om den varaktiga produktionsökningen 
+genomförts eller den ombyggda anläggningen tagits i drift 
+efter den 31 december 2021. Lag (2020:963).
+
+11 a § Innehavaren av en anläggning som är godkänd för 
+tilldelning av elcertifikat ska till tillsynsmyndigheten 
+anmäla en sådan produktionsökning som avses i 11 § andra 
+stycket 2 innan ökningen genomförs. Lag (2020:963).
 
 Förhandsbesked
 
@@ -290,7 +293,7 @@ enligt 5 § första stycket 3,
 Ett förhandsbesked får förenas med villkor och är bindande
 vid en senare prövning av godkännande.
 
-Bemyndigande
+Bemyndiganden
 
 13 § Regeringen, eller den myndighet som regeringen
 bestämmer, får meddela föreskrifter om
@@ -301,6 +304,11 @@ bestämmer, får meddela föreskrifter om
 för produktionsökningar enligt 8 § eller för att en
 anläggning ska anses som ny enligt 5 § första stycket 3
 eller 9 §.
+
+13 a § Regeringen får meddela föreskrifter om att den tidpunkt 
+som avses i 11 § andra stycket 1 och 2 i stället ska infalla 
+en senare dag som Sverige och Norge kan ha kommit överens om.
+Lag (2020:963).
 
 3 kap. Kontoföring av elcertifikat
 
@@ -515,6 +523,27 @@ personuppgifter och om det fria flödet av sådana uppgifter
 och om upphävande av direktiv 95/46/EG (allmän 
 dataskyddsförordning). Lag (2018:316).
 
+Avslut av elcertifikatskonton med kvarvarande elcertifikat
+
+15 a § Kontoföringsmyndigheten får avsluta ett 
+elcertifikatskonto och utan ersättning till kontohavaren ta 
+bort kvarvarande elcertifikat på kontot om
+
+1. kontohavaren begär det eller lämnar sitt samtycke till 
+åtgärden och kontot inte innehåller fler än femtio certifikat, 
+eller
+
+2. kontohavaren 
+
+a) inte motsätter sig åtgärden,
+
+b) inte har använt kontot under en längre tid och det endast 
+finns ett fåtal certifikat kvar, och 
+
+c) har avregistrerats som kvotpliktig eller inte längre är 
+innehavare av en anläggning som är godkänd för tilldelning av 
+certifikat. Lag (2020:963).
+
 Offentliggörande av information
 
 16 § Kontoföringsmyndigheten ska fortlöpande offentliggöra
@@ -694,62 +723,38 @@ terawattimmar som anges inom parentes för beräkningsåret
 divideras med den prognostiserade kvotpliktiga elanvändningen 
 för samma år:
 
-– 2018 (22,97 terawattimmar),
+- 2020 (26,15 terawattimmar),
 
-– 2019 (24,64 terawattimmar),
+- 2021 (23,85 terawattimmar),
 
-– 2020 (26,15 terawattimmar),
+- 2022 (24,22 terawattimmar),
 
-– 2021 (23,85 terawattimmar),
+- 2023 (24,62 terawattimmar),
 
-– 2022 (24,22 terawattimmar),
+- 2024 (25,54 terawattimmar),
 
-– 2023 (24,62 terawattimmar),
+- 2025 (27,73 terawattimmar),
 
-– 2024 (24,54 terawattimmar),
+- 2026 (30,47 terawattimmar),
 
-– 2025 (24,73 terawattimmar),
+- 2027 (35,69 terawattimmar),
 
-– 2026 (25,47 terawattimmar),
+- 2028 (36,18 terawattimmar),
 
-– 2027 (26,69 terawattimmar),
+- 2029 (36,71 terawattimmar),
 
-– 2028 (27,18 terawattimmar),
+- 2030 (36,33 terawattimmar),
 
-– 2029 (27,71 terawattimmar),
+- 2031 (34,87 terawattimmar),
 
-– 2030 (27,33 terawattimmar),
+- 2032 (33,40 terawattimmar),
 
-– 2031 (25,87 terawattimmar),
+- 2033 (31,27 terawattimmar),
 
-– 2032 (24,40 terawattimmar),
+- 2034 (29,13 terawattimmar), och
 
-– 2033 (22,27 terawattimmar),
-
-– 2034 (20,13 terawattimmar), 
-
-– 2035 (18,73 terawattimmar),
-
-– 2036 (17,00 terawattimmar),
-
-– 2037 (16,00 terawattimmar),
-
-– 2038 (14,00 terawattimmar),
-
-– 2039 (12,00 terawattimmar),
-
-– 2040 (10,00 terawattimmar),
-
-– 2041 (08,00 terawattimmar),
-
-– 2042 (06,00 terawattimmar),
-
-– 2043 (04,00 terawattimmar),
-
-– 2044 (02,00 terawattimmar), och
-
-– 2045 (01,00 terawattimmar).
-Lag (2017:813).
+- 2035 (27,73 terawattimmar).
+Lag (2020:963).
 
 5 c § Justeringstermen ska bestämmas genom att avvikelser för 
 beräkningsåret divideras med den prognostiserade kvotpliktiga 
@@ -780,9 +785,8 @@ av de efterföljande åren. Avvikelserna ska fördelas jämnt
 över de år som avvikelserna läggs ut på. Lag (2017:813).
 
 5 f § Kvoter för beräkning av kvotplikten ska bestämmas minst 
-vartannat år till och med år 2045. Kvoterna ska bestämmas 
-senast året innan det år de ska träda i kraft. 
-Lag (2017:813).
+vartannat år till och med 2035. Kvoterna ska bestämmas senast 
+året före det år de ska träda i kraft. Lag (2020:963).
 
 Registrering av kvotplikt
 
@@ -1034,27 +1038,33 @@ synnerliga skäl för det.
 
 Sanktionsavgift
 
-5 § En innehavare av en anläggning ska betala en
-sanktionsavgift till staten för de elcertifikat som
-felaktigt har tilldelats innehavaren, om tilldelningen
-gjorts på grund av oriktiga eller vilseledande uppgifter
-som lämnats
+5 § En innehavare av en anläggning ska betala en 
+sanktionsavgift till staten för de elcertifikat som felaktigt 
+har tilldelats innehavaren, om tilldelningen gjorts på grund 
+av oriktiga eller vilseledande uppgifter som lämnats
 
 1. i en ansökan om godkännande enligt 2 kap. 1 §,
 
-2. vid rapportering enligt 2 kap. 3 § andra och tredje
+2. vid rapportering enligt 2 kap. 3 § andra och tredje 
 styckena, eller
 
-3. i en ansökan om förlängd tilldelningsperiod enligt 2
-kap. 10 §.
+3. i en ansökan om förlängd tilldelningsperiod enligt 2 kap. 
+10 §.
 
-Tillsynsmyndigheten prövar frågor om sanktionsavgift.
-Avgiften ska beräknas enligt 1 § andra stycket. Perioden
-för beräkning av elcertifikatspriset ska dock vara den
-tolvmånadersperiod som föregår dagen för beslutet. Ett
-beslut om sanktionsavgift får inte avse elcertifikat som
-har tilldelats anläggningens innehavare mer än två år före
-tillsynsmyndighetens beslut.
+En innehavare av en anläggning ska även betala en 
+sanktionsavgift till staten för sådana elcertifikat som 
+felaktigt har tilldelats innehavaren, om 
+
+tilldelningen avser en produktionsökning som skulle ha anmälts 
+till tillsynsmyndigheten enligt 2 kap. 11 a §.
+
+Tillsynsmyndigheten prövar frågor om sanktionsavgift. Avgiften 
+ska beräknas enligt 1 § andra stycket. Perioden för beräkning 
+av elcertifikatspriset ska dock vara den tolvmånadersperiod 
+som föregår dagen för beslutet. Ett beslut om sanktionsavgift 
+får inte avse elcertifikat som har tilldelats anläggningens 
+innehavare mer än två år före tillsynsmyndighetens beslut.
+Lag (2020:963).
 
 Förseningsavgift
 
@@ -1084,13 +1094,10 @@ elcertifikat.
 
 Indrivning
 
-8 § Om en kvotpliktsavgift, sanktionsavgift eller
-förseningsavgift inte har betalats efter
-betalningsuppmaning, ska avgiften lämnas för indrivning.
-Detsamma gäller för en avgift för kontoföring eller för en
-avgift för registrering av överlåtelser av elcertifikat.
-Vid indrivning får verkställighet enligt utsökningsbalken
-ske.
+8 § Om en avgift enligt detta kapitel inte har betalats efter 
+betalningsuppmaning, ska avgiften lämnas för indrivning. Vid 
+indrivning får verkställighet enligt utsökningsbalken ske.
+Lag (2020:963).
 
 7 kap. Straff och skadestånd
 
@@ -1182,19 +1189,22 @@ kvotpliktsavgift enligt 6 kap. 4 §,
 
 12. förseningsavgift enligt 6 kap. 6 §.
 
-2 § Beslut av kontoföringsmyndigheten i följande frågor
-får överklagas hos allmän förvaltningsdomstol:
+2 § Beslut av kontoföringsmyndigheten i följande frågor får 
+överklagas till allmän förvaltningsdomstol:
 
-1. tilldelning av elcertifikat enligt 3 kap. 2 § första
-och andra styckena,
+1. tilldelning av elcertifikat enligt 3 kap. 2 § första och 
+andra styckena,
 
-2. registrering enligt 3 kap. 3–5 §§,
+2. registrering enligt 3 kap. 3-5 §§,
 
 3. avvisning enligt 3 kap. 7 §,
 
-4. avslag enligt 3 kap. 8 §, och
+4. avslag enligt 3 kap. 8 §, 
 
-5. rättelse enligt 3 kap. 15 §.
+5. rättelse enligt 3 kap. 15 §, och
+
+6. avslut av elcertifikatskonton enligt 3 kap. 15 a §.
+Lag (2020:963).
 
 3 § Prövningstillstånd krävs vid överklagande till
 kammarrätt.
