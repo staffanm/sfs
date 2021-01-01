@@ -138,155 +138,176 @@ finns i 25 - 32 kap. Lag (2001:1218).
 som anges i 2 - 4 §§. Indelning får inte ske på grundval av tillfällig
 användning.
 
-2 § Byggnader ska indelas i de byggnadstyper som anges i det
+2 § Byggnader ska indelas i de byggnadstyper som anges i det 
 följande.
 
-Småhus          Byggnad som är inrättad till bostad åt en eller
-                två familjer. Till sådan byggnad ska höra
-                komplementhus såsom garage, förråd och annan
-                mindre byggnad.
+Småhus		Byggnad som är inrättad till bostad åt en eller 
+		två familjer. Till sådan byggnad ska höra 
+		komplementhus såsom garage, förråd och annan 
+		mindre byggnad.		
 
-                Byggnad som är inrättad till bostad åt minst
-                tre och högst tio familjer ska tillhöra
-                byggnadstypen småhus, om byggnaden ligger på
-                fastighet med åkermark, betesmark, produktiv
-                skogsmark med avverkningsrestriktioner,
-                produktiv skogsmark utan
-                avverkningsrestriktioner eller skogligt
-                impediment.
+		Byggnad som är inrättad till bostad åt minst 
+		tre och högst tio familjer ska tillhöra 
+		byggnadstypen småhus, om byggnaden ligger på 
+		fastighet med åkermark, betesmark, produktiv 
+		skogsmark med avverkningsrestriktioner, 
+		produktiv skogsmark utan 
+		avverkningsrestriktioner eller skogligt 
+		impediment.	
 
-                Byggnad som hör till en tredimensionell
-                fastighet eller ett tredimensionellt
-                fastighetsutrymme kan inte utgöra småhus.
+		Byggnad som hör till en tredimensionell 
+		fastighet eller ett tredimensionellt 
+		fastighetsutrymme kan inte utgöra småhus.
 
-Ägarlägenhet    Byggnad som hör till en tredimensionell fastighet och som är
-                inrättad till bostad åt en enda familj.
+Ägarlägenhet	Byggnad som hör till en tredimensionell fastighet 
+		och som är inrättad till bostad åt en enda familj.
 
-Hyreshus        Byggnad som är inrättad till bostad åt minst tre familjer
-                eller till kontor, butik, hotell, restaurang och liknande.
-                Byggnad med förrådsutrymme, som ligger i anslutning till
-                hyreshus och som behövs för verksamheten, ska utgöra
-                hyreshus.
+Hyreshus	Byggnad som är inrättad till bostad åt minst tre 
+		familjer eller till kontor, butik, hotell, 
+		restaurang och liknande. Byggnad med 
+		förrådsutrymme, som ligger i anslutning 
+		till hyreshus och som behövs för verksamheten, 
+		ska utgöra hyreshus.		
 
-                Byggnad som är inrättad till bostad och som hör till en
-                tredimensionell fastighet ska utgöra hyreshus om den är
-                inrättad till bostad åt fler än en enda familj. Byggnad som
-                är inrättad till bostad och som hör till ett tredimensionellt
-                fastighetsutrymme ska utgöra hyreshus.
+		Byggnad som är inrättad till bostad och som hör
+		till en tredimensionell fastighet ska utgöra 
+		hyreshus om den är inrättad till bostad åt fler 
+		än en enda familj. Byggnad som är inrättad till 
+		bostad och som hör till ett tredimensionellt 
+		fastighetsutrymme ska utgöra hyreshus.
 
-                Till hyreshus ska dock inte räknas byggnad som är inrättad
-                till bostad åt minst tre och högst tio familjer, om den ingår
-                i lantbruksenhet.
+		Till hyreshus ska dock inte räknas byggnad som 
+		är inrättad till bostad åt minst tre och högst 
+		tio familjer, om den ingår i lantbruksenhet.
 
-Ekonomibyggnad  Byggnad som är inrättad för jordbruk eller skogsbruk och som
-                inte är inrättad för bostadsändamål, såsom djurstall, loge,
-                lada, maskinhall, lagerhus, magasin och växthus.
+Ekonomibyggnad	Byggnad som är inrättad för jordbruk eller 
+		skogsbruk och som inte är inrättad för 
+		bostadsändamål, såsom djurstall, loge, lada, 
+		maskinhall, lagerhus, magasin och växthus.
 
-                Växthus och djurstall som inte har anknytning till jordbruk
-                eller skogsbruk.
+		Växthus, djurstall och ridhus som inte har 
+		anknytning till jordbruk eller skogsbruk.
 
 Kraftverks-
-byggnad         Byggnad som är inrättad för kommersiell produktion av
-                elektrisk starkström. Även byggnad för vattenreglering, för
-                lagring av bränsle och annan byggnad för produktionen utgör
-                kraftverksbyggnad.
+byggnad		Byggnad som är inrättad för kommersiell 
+		produktion av elektrisk starkström. Även byggnad 
+		för vattenreglering, för lagring av bränsle och 
+		annan byggnad för produktionen utgör 
+		kraftverksbyggnad.	
 
-Industribyggnad Byggnad som är inrättad för industriell verksamhet och som
-                inte utgör kraftverksbyggnad.
+Industribyggnad	Byggnad som är inrättad för industriell 
+		verksamhet och som inte utgör 
+		kraftverksbyggnad.
 
-Specialbyggnad  Med specialbyggnad avses
+Specialbyggnad	Med specialbyggnad avses		
 
-                Försvarsbyggnad Byggnad som används för försvarsändamål eller
-                                ekonomisk försvarsberedskap, om byggnaden
-                                inte är en fristående industriellanläggning.
-                                Även mässbyggnad ska utgöra försvarsbyggnad.
+		Försvarsbyggnad	Byggnad som används för 
+				försvarsändamål eller 
+				ekonomisk försvarsberedskap, 
+				om byggnaden inte är en 
+				fristående industriell 
+				anläggning. Även mässbyggnad 
+				ska utgöra försvarsbyggnad.
 
+		Kommunikations-	
+		byggnad		Garage, hangar, lokstall, 
+				terminal, stationsbyggnad, 
+				expeditionsbyggnad, vänthall, 
+				godsmagasin, reparationsverkstad 
+				och liknande, om byggnaden 
+				används för allmänna 
+				kommunikationsändamål.
+		
+				Byggnad som används i Statens 
+				järnvägars, Luftfartsverkets, 
+				Trafikverkets, Teracom 
+				Aktiebolags, Sveriges Radio 
+				Aktiebolags, Sveriges Television 
+				Aktiebolags och Sveriges 
+				Utbildningsradio Aktiebolags 
+				verksamhet.
 
-                Kommunikations-
-                byggnad         Garage, hangar, lokstall, terminal,
-                                stationstionsbyggnad, expeditionsbyggnad,
-                                vänthall, godsmagasin, reparationsverkstad och
-                                liknande, om byggnaden används för allmänna
-                                kommunikationsändamål.
+		Distributions-
+		byggnad		Byggnad som ingår i överförings- 
+				eller distributionsnätet för gas, 
+				värme, elektricitet eller vatten 
+				samt gasturbin och annan byggnad 
+				som används för att upprätthålla 
+				balansen i elsystemet.
 
-                                Byggnad som används i Statens järnvägars,
-                                Luftfartsverkets, Trafikverkets, Teracom
-                                Aktiebolags, Sveriges Radio Aktiebolags,
-                                Sveriges Television Aktiebolags och Sveriges
-                                Utbildningsradio Aktiebolags verksamhet.
+		Värmecentral	Byggnad för produktion och 
+				distribution av varmvatten för 
+				uppvärmning, dock inte sådan 
+				anläggning som även är inrättad 
+				för produktion av elektrisk 
+				starkström för yrkesmässig 
+				distribution.		
 
-                Distributions-
-                byggnad         Byggnad som ingår i överförings- eller
-                                distributionsnätet för gas, värme,
-                                elektricitet eller vatten samt gasturbin
-                                och annan byggnad som används för att
-                                upprätthålla balansen i elsystemet.
+		Renings-
+		anläggning	Vattenverk, avloppsreningsverk, 
+				anläggning för förvaring av 
+				radioaktivt avfall, sopstation 
+				och liknande samt pumpstation som 
+				hör till sådan anläggning. Som 
+				reningsanläggning avses inte 
+				anläggning där verksamheten i allt 
+				väsentligt utgör ett led i en 
+				industriell process.
 
-                Värmecentral    Byggnad för produktion och distribution av
-                                varmvatten för uppvärmning, dock inte sådan
-                                anläggning som även är inrättad för produktion
-                                av elektrisk starkström för yrkesmässig
-                                distribution.
+		Vårdbyggnad	Byggnad som används för sjukvård, 
+				missbrukarvård, omsorger om barn 
+				och ungdom, kriminalvård, 
+				åldringsvård eller omsorger om 
+				psykiskt utvecklingsstörda. 
+				Annan byggnad än som nu har 
+				nämnts ska utgöra vårdbyggnad, om 
+				den används som hem åt personer 
+				som behöver institutionell vård 
+				eller tillsyn.
 
-                Renings-
-                anläggning      Vattenverk, avloppsreningsverk, anläggning för
-                                förvaring av radioaktivt avfall, sopstation
-                                och liknande samt pumpstation som hör till
-                                sådan anläggning. Som reningsanläggning avses
-                                inte anläggning där verksamheten i allt
-                                väsentligt utgör ett led i en industriell
-                                process.
+		Bad-, sport- 
+		och idrotts-
+		anläggning	Byggnad som används för bad, sport, 
+				idrott och liknande, om allmänheten 
+				har tillträde till anläggningen.		
 
-                Vårdbyggnad     Byggnad som används för sjukvård,
-                                missbrukarvård, omsorger om barn och ungdom,
-                                kriminalvård, åldringsvård eller omsorger om
-                                psykiskt utvecklingsstörda. Annan byggnad än
-                                som nu har nämnts ska utgöra vårdbyggnad, om
-                                den används som hem åt personer som behöver
-                                institutionell vård eller tillsyn.
+		Skolbyggnad	Byggnad som används för undervisning 
+				eller forskning vid
 
-                Bad-, sport-
-                och idrotts-
-                anläggning      Byggnad som används för bad, sport, idrott
-                                och liknande, om allmänheten har tillträde
-                                till anläggningen.
+					skola som anordnas av staten
 
+					skola som anordnas med 
+					statsbidrag och
 
-                Skolbyggnad     Byggnad som används för undervisning eller
-                                forskning vid
+					skola vars undervisning står 
+					under statlig tillsyn.		
 
-                                        skola som anordnas av staten
+				Byggnad som används som elevhem eller 
+				skolhem för elever vid sådana skolor.
 
-                                        skola som anordnas med statsbidrag
-                                        och
+		Kulturbyggnad	Byggnad som används för kulturellt 
+				ändamål såsom teater, biograf, museum 
+				och liknande.
 
-                                        skola vars undervisning står under
-                                        statlig tillsyn.
+		Ecklesiastik-
+		byggnad		Kyrka eller annan byggnad som används 
+				för religiös verksamhet. 
 
-                                Byggnad som används som elevhem eller
-                                skolhem för elever vid sådana skolor.
+				Krematorium och annan byggnad som 
+				används för begravningsverksamhet.		
 
-                Kulturbyggnad   Byggnad som används för kulturellt ända mål
-                                såsom teater, biograf, museum och liknande.
+		Allmän byggnad	Byggnad som tillhör staten, kommun 
+				eller annan menighet och som används 
+				för allmän styrelse, förvaltning, 
+				rättsvård, ordning eller säkerhet samt 
+				fritidsgård och byggnad med likartad 
+				användning. Som allmän byggnad ska inte 
+				anses byggnad som används för statens 
+				affärsdrivande verksamhet.
 
-                Ecklesiastik-
-                byggnad         Kyrka eller annan byggnad som används för
-                                religiös verksamhet.
-
-                                Krematorium och annan byggnad som används för
-                                begravningsverksamhet.
-
-                Allmän byggnad  Byggnad som tillhör staten, kommun eller annan
-                                menighet och som används för allmän styrelse,
-                                förvaltning, rättsvård, ordning eller säkerhet
-                                samt fritidsgård och byggnad med likartad
-                                användning. Som allmän byggnad ska inte anses
-                                byggnad som används för statens affärsdrivande
-                                verksamhet.
-
-Övrig byggnad   Byggnad som inte ska utgöra någon av de tidigare nämnda
-                byggnadstyperna.
-Lag (2015:60).
+Övrig byggnad	Byggnad som inte ska utgöra någon av de tidigare nämnda 
+		byggnadstyperna.
+Lag (2020:950).
 
 3 § Byggnadstypen skall bestämmas med hänsyn till det ändamål
 som byggnad till övervägande del är inrättad för och det sätt
@@ -519,18 +540,19 @@ ligger till övervägande del inom tätort, och lantbruksenhet,
 om den ligger till övervägande del utanför sådan ort.
 Lag (2015:60).
 
-6 § I småhusenhet, ägarlägenhetsenhet, hyreshusenhet,
-specialenhet och industrienhet ska endast ingå egendom som
+6 § I småhusenhet, ägarlägenhetsenhet, hyreshusenhet, 
+specialenhet och industrienhet ska endast ingå egendom som 
 ligger samlad och som utgör en ekonomisk enhet.
 
-Växthus och djurstall som inte har anknytning till jordbruk
-eller skogsbruk ska bilda egen lantbruksenhet.
-Lag (2009:105).
+Växthus, djurstall och ridhus som inte har anknytning till 
+jordbruk eller skogsbruk ska bilda egen lantbruksenhet.
+Lag (2020:950).
 
 7 § Består täktmark av skilda markområden skall varje sådant
 område utgöra en taxeringsenhet. Omfattas områden av samma
 täktplan enligt miljöbalken eller motsvarande äldre
-bestämmelser skall de dock utgöra en taxeringsenhet. Lag (1998:815).
+bestämmelser skall de dock utgöra en taxeringsenhet. 
+Lag (1998:815).
 
 8 § Taxeringsenhet ska omfatta ekonomibyggnad, åkermark,
 betesmark, produktiv skogsmark med avverkningsrestriktioner,
@@ -1121,10 +1143,10 @@ Lag (2007:1416).
 1 § Riktvärde för ekonomibyggnad skall utgöra värdet av en eller flera
 ekonomibyggnader eller del av ekonomibyggnad.
 
-2 § Som riktvärde för en värderingsenhet avseende ett sådant
-djurstall för nötkreatur som är av normal beskaffenhet får
-endast värden i en fastställd värdeserie anges.
-Lag (2015:60).
+2 § Som riktvärde för en värderingsenhet avseende en sådan 
+maskinhall, gårdsverkstad och liknande som är av normal 
+beskaffenhet får endast värden i en fastställd värdeserie 
+anges. Lag (2020:950).
 
 3 § Inom varje värdeområde skall riktvärdet bestämmas för skilda
 förhållanden för en eller flera av följande värdefaktorer.
@@ -1368,34 +1390,31 @@ Lag (1992:1666).
 1 § Riktvärde för åkermark skall utgöra värdet per värderingsenhet
 åkermark. Lag (1990:1382).
 
-2 § Som värde per hektar åkermark som är tillfredsställande
-dränerad genom självdränering eller äldre täckdikning och är av
-genomsnittlig beskaffenhet får endast anges värden i en fastställd
-värdeserie. Lag (1997:451).
+2 § Som värde per hektar åkermark som är tillfredsställande 
+dränerad och är av genomsnittlig beskaffenhet får endast anges 
+värden i en fastställd värdeserie. Lag (2020:950).
 
-3 § Inom varje värdeområde ska riktvärden för åker bestämmas
-för skilda förhållanden för en eller flera av följande
+3 § Inom varje värdeområde ska riktvärden för åker bestämmas 
+för skilda förhållanden för en eller flera av följande 
 värdefaktorer.
 
 Storlek                 Med storlek avses åkermarkens areal.
 
-Beskaffenhet            Med beskaffenhet avses åkermarkens
-                        produktionsförmåga och
-                        brukningsförhållanden.
+Beskaffenhet		Med beskaffenhet avses åkermarkens 
+			produktionsförmåga och 
+			brukningsförhållanden.
 
-                        För värdefaktorn beskaffenhet ska det
-                        finnas tre eller fem klasser, där
-                        mittklassen svarar mot genomsnittlig
-                        beskaffenhet inom värdeområdet.
+			För värdefaktorn beskaffenhet ska det 
+			finnas tre eller fem klasser, där 
+			mittklassen svarar mot genomsnittlig 
+			beskaffenhet inom värdeområdet. 
 
-Dränering               Åkermarkens dränering bestäms av
-                        befintliga täckdikningars och
-                        huvudavlopps beskaffenhet samt av
-                        markens behov av dränering.
+Dränering		Med dränering avses åkermarkens 
+			dräneringsförhållanden.
 
-                        För värdefaktorn dränering ska det
-                        finnas högst tre klasser.
-Lag (2015:60).
+			För värdefaktorn dränering ska det 
+			finnas två klasser.
+Lag (2020:950).
 
 Betesmark
 
@@ -1994,40 +2013,47 @@ gjorts med hjälp av automatiserad databehandling och vars
 innehåll och utställare kan verifieras genom ett visst tekniskt
 förfarande. Lag (2004:279).
 
-4 § Allmän fastighetsdeklaration skall, om annat inte sägs i
-5 §, innehålla uppgifter om namn, postadress och personnummer
-eller samordningsnummer, eller, för juridisk person,
-organisationsnummer för fastighetens ägare, kommun och
-församling där fastigheten ligger, fastighetens gatuadress
-eller på orten bruklig benämning samt fastighetens officiella
-beteckning.
+4 § Allmän och förenklad fastighetsdeklaration ska, om annat 
+inte sägs i 5 §, innehålla följande uppgifter:
 
-I den allmänna fastighetsdeklarationen skall vidare lämnas
-uppgifter om fastighetens areal av olika ägoslag, användning
-och byggnader, hyror och därmed jämförlig avkastning av
-fastigheten samt särskilda förmåner och förpliktelser som hör
-till fastigheten. I deklarationen skall även i övrigt lämnas
-uppgifter om sådana förhållanden som behövs för att bestämma de
-värdefaktorer som taxeringen enligt bl.a. 8-15 kap. skall
-grunda sig på.
+- fastighetsägarens namn, postadress och personnummer, 
+samordningsnummer eller organisationsnummer,
 
-Den allmänna fastighetsdeklarationen skall också innehålla
-uppgifter om sådana förhållanden beträffande fastigheten som om
-fastigheten har olika ägare till skilda delar av marken och om
-fastigheten innehas med tomträtt.
+- kommun och distrikt där fastigheten ligger,
 
-Vad som sägs i första-tredje styckena skall också tillämpas vid
-förenklad fastighetsdeklaration.
+- fastighetens gatuadress eller annan benämning,
 
-Förslag till fastighetstaxering skall grundas på av
-Skatteverket kända uppgifter. Förslaget skall innehålla
-uppgifter som är nödvändiga för fastighetstaxeringen. Förslaget
-till skogsbruksvärde skall grundas på det virkesförråd, som
-bestämts vid närmast föregående allmänna eller förenklade
-fastighetstaxering eller därefter vidtagen nytaxering samt på
-områdesvis fastlagda volymtillväxtprocenter och kända uppgifter
-om avverkningar efter den senast verkställda taxeringen.
-Lag (2003:650).
+- fastighetens officiella beteckning,
+
+- fastighetens areal av olika ägoslag, användning och 
+byggnader,
+
+- hyror och därmed jämförlig avkastning av fastigheten,
+
+- särskilda förmåner och förpliktelser som hör till 
+fastigheten,
+
+- sådana förhållanden som i övrigt behövs för att bestämma de 
+värdefaktorer som taxeringen enligt bland annat 8-15 kap. ska 
+grunda sig på,
+
+- om fastigheten har olika ägare till skilda delar av marken, 
+och
+
+- om fastigheten innehas med tomträtt.
+
+Förslag till fastighetstaxering ska grundas på av Skatteverket 
+kända uppgifter. Förslaget ska innehålla uppgifter som är 
+nödvändiga för fastighetstaxeringen.
+
+Förslaget till skogsbruksvärde ska i första hand grundas på 
+det virkesförråd som enligt Skogsstyrelsens skogliga grunddata 
+finns på taxeringsenheten och i andra hand på de uppgifter som 
+bestämts vid närmast föregående fastighetstaxering. 
+Virkesförrådet ska justeras med områdesvis fastlagda 
+volymtillväxtprocenter och kända uppgifter om avverkningar 
+efter den senast verkställda laserskanningen från skogliga 
+grunddata eller taxeringen. Lag (2020:950).
 
 5 § Allmän fastighetsdeklaration i förenklad form får där så är
 lämpligt lämnas för sådan skatte- och avgiftsfri fastighet som
@@ -2431,10 +2457,7 @@ deklarationen, ska antalet uppskattas till det antal som
 framstår som skäligt med hänsyn till vad som framkommit i
 ärendet. Lag (2007:1416).
 
-2 a § Grundläggande beslut om taxering av en fastighet 
-får fattas genom automatiserad behandling om en klargörande 
-motivering för beslutet får utelämnas enligt 32 § första 
-stycket förvaltningslagen (2017:900). Lag (2018:789).
+2 a § Har upphävts genom lag (2020:950).
 
 2 b § Beslut om föreläggande som har förenats med vite gäller
 omedelbart. Lag (2012:271).
@@ -3370,3 +3393,11 @@ första gången vid 2014 års fastighetstaxering.
 
 2. Lagen tillämpas första gången vid allmän
 fastighetstaxering 2017.
+
+2020:950
+
+1. Denna lag träder i kraft den 1 januari 2021. 
+
+2. Bestämmelserna i 2 kap. 2 §, 4 kap. 6 §, 10 kap. 2 §, 
+13 kap. 2 och 3 §§ och 18 kap. 4 § i den nya lydelsen 
+tillämpas första gången vid allmän fastighetstaxering 2023.
