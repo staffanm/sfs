@@ -424,25 +424,7 @@ Boverket
 
 Boverkets                       BFS
 författningssamling
-
-/Upphör att gälla U:2021-01-01/
-Centrala studiestödsnämnden
-
-Centrala studiestödsnämndens    CSNFS
-författningssamling
-
-Datainspektionen
-
-Datainspektionens               DIFS
-författningssamling
-
-Domstolsverket
-
-Domstolsverkets
-författningssamling             DVFS            Utnyttjas också av
-                                                Notarienämnden
-			
-/Träder i kraft I:2021-01-01/
+		
 Centrala studiestödsnämnden	
 
 Centrala studiestödsnämndens	CSNFS 
@@ -488,23 +470,7 @@ vattenmyndigheten
 Havs- och
 vattenmyndighetens
 författningssamling             HVMFS
-
-/Upphör att gälla U:2021-01-01/
-Inspektionen för
-arbetslöshetsförsäkringen
-
-Inspektionen för                IAFFS
-arbetslöshetsförsäkringens
-författningssamling
-
-Kammarkollegiet
-
-Kammarkollegiets
-författningssamling             KAMFS           Utnyttjas också av
-                                                Fastighetsmäklarinspektionen
-                                                och Trafikanalys
-			
-/Träder i kraft I:2021-01-01/
+		
 Inspektionen för
 arbetslöshetsförsäkringen
 
@@ -773,7 +739,7 @@ undersökning
 Sveriges geologiska             SGU-FS
 undersöknings
 författningssamling
-
+			
 Tillväxtverket
 
 Tillväxtverkets                 TVFS            Utnyttjas också av
@@ -782,17 +748,17 @@ författningssamling                             Verket för
                                                 Rådet för Europeiska
                                                 socialfonden i Sverige
 
-Totalförsvarets
-rekryteringsmyndighet
+Totalförsvarets plikt- 
+och prövningsverk	
 
-Totalförsvarets
-rekryteringsmyndighets
-författningssamling             TRMFS
+Totalförsvarets plikt- 
+och prövningsverks 
+författningssamling		TPPVFS
 
 Trafikverket
 
-Trafikverkets
-författningssamling             TRVFS
+Trafikverkets 
+författningssamling		TRVFS	
 
 Transportstyrelsen
 
@@ -834,7 +800,7 @@ författningssamling				Etikprövningsmyndigheten
 
 Åklagarmyndighetens             ÅFS
 författningssamling
-Förordning (2020:1113).
+Förordning (2020:1278).
 
 Bilaga 2
 
@@ -929,22 +895,6 @@ grundförfattning som den hör till.
 Förteckningar över grundförfattningar   Exempel på redaktionell
 ska innehålla följande uppgifter:       utformning:
 
-/Upphör att gälla U:2021-01-01/
-– Fullständig rubrik i senaste          Datainspektionens föreskrifter
-lydelse med årtal och                   (DIFS 1998:3) om undantag från …
-löpnummer i författningssamlingen.
-
-– För författningar vars ingress        Bemyndigande:
-ska innehålla en sådan uppgift om       8 § personuppgiftsförordningen
-bemyndigande som avses i 18 b §:        (1998:1191)
-bemyndigandet.
-
-– För författningar som genomför        388L0576
-EU-direktiv eller kompletterar
-EU-förordningar: EU-reglernas
-Celexnummer.
-
-/Träder i kraft I:2021-01-01/
 - Fullständig rubrik i senaste 		Sjöfartsverkets föreskrifter 
 lydelse med årtal och 			(2007:1) om hamnskydd
 löpnummer i författningssamlingen.	
@@ -984,7 +934,7 @@ bemyndigandet.
 EU-direktiv eller kompletterar
 EU-förordningar: EU-reglernas
 Celexnummer.
-Förordning (2010:710).
+Förordning (2020:1113).
 
 
 Övergångsbestämmelser
