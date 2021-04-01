@@ -715,14 +715,16 @@ författningssamling		SKOLFS		Utnyttjas också av
 
 Statistiska centralbyrån
 
-Statistiska centralbyråns       SCB-FS          Utnyttjas också av
-författningssamling                             Konjunkturinstitutet och
-                                                Medlingsinstitutet
+Statistiska centralbyråns	SCB-FS		Utnyttjas också av 
+författningssamling				Konjunkturinstitutet,
+						Medlingsinstitutet och 
+						Myndigheten för 
+						kulturanalys
 
 Strålsäkerhetsmyndigheten
 
-Strålsäkerhetsmyndighetens
-författningssamling             SSMFS
+Strålsäkerhetsmyndighetens	SSMFS
+författningssamling        
 
 Styrelsen för
 ackreditering och
@@ -800,7 +802,7 @@ författningssamling				Etikprövningsmyndigheten
 
 Åklagarmyndighetens             ÅFS
 författningssamling
-Förordning (2020:1278).
+Förordning (2021:150).
 
 Bilaga 2
 
