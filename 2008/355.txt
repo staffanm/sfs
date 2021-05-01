@@ -81,7 +81,7 @@ Vårdgivare              Statlig myndighet, landsting och kommun
 Lag (2018:747).
 
 Förhållandet till annan dataskyddsreglering
-
+ 
 4 § Denna lag innehåller bestämmelser som kompletterar 
 EU:s dataskyddsförordning, vid sådan behandling av 
 personuppgifter inom hälso- och sjukvården som är helt eller 
@@ -255,12 +255,20 @@ Personer som är skyldiga att föra en patientjournal
 
 3 § Skyldig att föra en patientjournal är
 
-1. den som enligt 4 kap. patientsäkerhetslagen (2010:659) har legitimation eller särskilt förordnande att utöva ett visst yrke,
+1. den som enligt 4 kap. patientsäkerhetslagen (2010:659) har 
+legitimation eller särskilt förordnande att utöva ett visst 
+yrke, 
 
-2. den som, utan att ha legitimation för yrket, utför arbetsuppgifter som annars bara ska utföras av logoped, psykolog eller psykoterapeut inom den allmänna hälso- och sjukvården eller utför sådana arbetsuppgifter inom den enskilda hälso- och sjukvården som biträde åt legitimerad yrkesutövare, och
+2. den som, utan att ha legitimation för yrket, utför 
+arbetsuppgifter som annars bara ska utföras av logoped, 
+psykolog eller psykoterapeut inom den allmänna hälso- och 
+sjukvården eller utför sådana arbetsuppgifter inom den 
+enskilda hälso- och sjukvården som biträde åt legitimerad 
+yrkesutövare, och
 
-3. den som, utan att ha legitimation för yrket, utför samma slags arbetsuppgifter inom den allmänna hälso- och sjukvården som en hälso- och sjukvårdskurator.
-Lag (2018:1127).
+3. den som, utan att ha legitimation för yrket, utför samma 
+slags arbetsuppgifter inom den allmänna hälso- och sjukvården 
+som en hälso- och sjukvårdskurator. Lag (2018:1127).
 
 Ansvar för uppgifter i en patientjournal
 
@@ -456,7 +464,8 @@ för vården av patienten göras tillgängliga.
 
 Skydd för identitet i vissa fall
 
-6 § I 14 § lagen (1996:1156) om receptregister finns
+6 § /Upphör att gälla U:2020-06-01/
+I 14 § lagen (1996:1156) om receptregister finns
 bestämmelser om att E-hälsomyndigheten ska lämna ut vissa
 uppgifter till landstingen om förskrivning av läkemedel och
 andra varor och att uppgifter om patientens identitet ska
@@ -471,6 +480,23 @@ hälso- och sjukvården och som landstingen ska sambearbeta med
 sådana uppgifter som avses i första stycket, ska vara
 krypterade så att patientens identitet skyddas vid
 behandlingen. Lag (2013:1024).
+
+6 § /Träder i kraft I:2020-06-01/
+I 6 kap. 3 § lagen (2018:1212) om nationell 
+läkemedelslista finns bestämmelser om att Ehälsomyndigheten 
+ska lämna ut vissa uppgifter till landstingen om förskrivning 
+av läkemedel och andra varor och att uppgifter om patientens 
+identitet ska vara krypterade vid utlämnandet.
+
+Uppgifter som avses i första stycket får inte behandlas i 
+syfte att röja en patients identitet utan att patienten 
+samtycker till det.
+
+Uppgifter om en patients identitet som har dokumenterats inom 
+hälso- och sjukvården och som landstingen ska sambearbeta med 
+sådana uppgifter som avses i första stycket, ska vara 
+krypterade så att patientens identitet skyddas vid 
+behandlingen. Lag (2018:1214).
 
 5 kap. Grundläggande bestämmelser om utlämnande av uppgifter
 och handlingar samt viss uppgiftsskyldighet
@@ -855,16 +881,7 @@ den inte bör lämnas ut, ska han eller hon genast med eget
 yttrande överlämna frågan till Inspektionen för vård och
 omsorg för prövning. Lag (2012:954).
 
-3 § /Upphör att gälla U:2018-05-25 genom lag (2018:447./
-Bestämmelserna i 28 § personuppgiftslagen (1998:204) om den
-personuppgiftsansvariges skyldighet att på begäran av den
-registrerade rätta, blockera eller utplåna personuppgifter och
-att underrätta tredje man, till vilken uppgifterna har lämnats
-ut, ska gälla även då sådan behandling av personuppgifter som
-avses i 1 kap. 4 § skett i strid med denna lag.
-
-Enligt 3 kap. 14 § får dock uppgifter i en journalhandling inte
-utplånas eller göras oläsliga i andra fall än som avses i 4 §.
+3 § Har upphävts genom lag (2018:447).
 
 Förstörande av patientjournal
 
@@ -984,13 +1001,7 @@ verkställa ett beslut om omhändertagande av patientjournaler.
 
 10 kap. Överklagande
 
-1 § /Upphör att gälla U:2018-05-25 genom lag (2018:447./
-Bestämmelserna om skadestånd i 48 § personuppgiftslagen
-(1998:204) gäller vid sådan behandling av personuppgifter
-enligt denna lag som är helt eller delvis automatiserad eller
-där uppgifterna ingår i eller är avsedda att ingå i en
-strukturerad samling av personuppgifter som är tillgängliga för
-sökning eller sammanställning enligt särskilda kriterier.
+1 § Har upphävts genom lag (2018:447).
 
 2 § Inspektionen för vård och omsorgs beslut om att avslå 
 en ansökan om förstöring av en patientjournal enligt 8 kap. 
