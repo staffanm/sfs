@@ -20,20 +20,21 @@ hälso- och sjukvårdsområdet. Förordning (2017:909).
 Personuppgifter som får behandlas
 
 4 § I läkemedelsregistret får endast följande uppgifter 
-registreras:
+registreras: 
 
-1. inköpsdag, vara, mängd, dosering, kostnad och 
+1. datum för expediering, vara, mängd, dosering, kostnad och 
 kostnadsreducering enligt lagen (2002:160) om 
 läkemedelsförmåner m.m.,
 
-2. förskrivningsorsak,
+2. ordinationsorsak,
 
-3. patientens personnummer och folkbokföringsort, och
+3. patientens personnummer eller samordningsnummer samt 
+folkbokföringsort, och 
 
-4. förskrivarens yrke, specialitet och arbetsplatskod.
+4. förskrivarens yrke, specialitet och arbetsplatskod. 
 
-Förskrivningsorsak ska anges med en kod. 
-Förordning (2017:909).
+Ordinationsorsak ska anges med en kod.
+Förordning (2021:68).
 
 5 § Har upphävts genom förordning (2009:634).
 
