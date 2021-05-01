@@ -43,20 +43,21 @@ Utredningsåtgärder som en europeisk utredningsorder ska avse
 eller motsvara
 
 4 § En utredningsåtgärd enligt denna lag ska avse eller 
-motsvara 
+motsvara
 
-1. förhör under förundersökning, 
+1. förhör under förundersökning,
 
-2. bevisupptagning vid domstol, 
+2. bevisupptagning vid domstol,
 
-3. förhör genom ljudöverföring eller ljud- och bildöverföring, 
+3. förhör genom ljudöverföring eller ljud- och bildöverföring,
 
 4. beslag, kvarhållande av försändelse enligt 27 kap. 9 § 
-rättegångsbalken eller en åtgärd enligt 27 kap. 15 § samma 
-balk,
+rättegångsbalken, en åtgärd enligt 27 kap. 15 § eller ett 
+föreläggande att bevara en viss lagrad uppgift enligt 27 kap. 
+16 § samma balk,
 
 5. husrannsakan och andra åtgärder enligt 28 kap. 
-rättegångsbalken,
+rättegångsbalken, 
 
 6. hemlig avlyssning av elektronisk kommunikation, hemlig 
 övervakning av elektronisk kommunikation, hemlig 
@@ -67,15 +68,15 @@ dataavläsning,
 
 8. rättsmedicinsk undersökning av en avliden person,
 
-9. kontrollerad leverans,
+9. kontrollerad leverans, 
 
 10. bistånd i en brottsutredning med användning av en 
-skyddsidentitet,
+skyddsidentitet, 
 
 11. inhämtande av bevis som finns hos en myndighet, eller
 
 12. andra åtgärder som inte innebär användning av tvångsmedel 
-eller någon annan tvångsåtgärd. Lag (2020:67).
+eller någon annan tvångsåtgärd. Lag (2021:241).
 
 Undantag från lagens tillämpningsområde
 
@@ -280,6 +281,20 @@ Avspärrning och tillträdesförbud m.m.
 kap. 15 § rättegångsbalken har verkställts i den andra 
 medlemsstaten, ska 14 § tillämpas. 
 
+Föreläggande att bevara en viss lagrad uppgift
+
+16 a § När en utredningsorder för ett föreläggande att bevara 
+en viss lagrad uppgift enligt 27 kap. 16 § rättegångsbalken 
+har verkställts i den andra medlemsstaten får den som har 
+förelagts åtgärden begära rättens prövning. För rättens 
+prövning gäller 27 kap. 6 § första stycket samma balk.
+
+Den tid en uppgift enligt 27 kap. 16 § andra stycket 
+rättegångsbalken ska bevaras, räknas från den tidpunkt då 
+åtgärden verkställdes i den andra medlemsstaten. Om det finns 
+särskilda skäl får tiden för bevarande förlängas med högst 90 
+dagar. Lag (2021:241).
+
 Hemlig avlyssning och hemlig övervakning av elektronisk 
 kommunikation
 
@@ -391,16 +406,18 @@ Hinder mot erkännande och verkställighet
 Obligatoriska vägransgrunder
 
 5 § En utredningsorder får inte erkännas och verkställas i 
-Sverige om
+Sverige om 
 
 1. det skulle strida mot bestämmelser om immunitet och 
-privilegier eller om skydd för uppgifter som avses i 36 kap. 
-5 och 5 a §§ rättegångsbalken, 
+privilegier eller om skydd för uppgifter som avses i 36 kap. 5 
+och 5 a §§ rättegångsbalken,
 
 2. ordern avser beslag av en skriftlig handling eller ett 
-skriftligt meddelande och det enligt 27 kap. 2 § 
+skriftligt meddelande eller ett föreläggande att bevara en 
+viss lagrad uppgift och det enligt 27 kap. 2 § 
 rättegångsbalken finns hinder mot att ta handlingen eller 
-meddelandet i beslag, 
+meddelandet i beslag eller enligt 27 kap. 16 § fjärde stycket 
+samma balk meddela ett föreläggande,
 
 3. det skulle medföra fara för Sveriges säkerhet, äventyra 
 enskilda personers säkerhet eller medföra risk för röjande av 
@@ -408,15 +425,16 @@ uppgifter som rör underrättelseverksamhet,
 
 4. den gärning som avses i utredningsordern har begåtts 
 utanför den utfärdande medlemsstatens territorium och helt 
-eller delvis i Sverige, och gärningen inte motsvarar ett 
-brott enligt svensk lag, eller 
+eller delvis i Sverige, och gärningen inte motsvarar ett brott 
+enligt svensk lag, eller 
 
 5. utredningsåtgärden inte motsvarar en åtgärd som anges i 1 
 kap. 4 §.
 
-En utredningsorder får inte vägras enligt första stycket 5, 
-om en annan utredningsåtgärd kan vidtas som ger motsvarande 
-resultat som den åtgärd som utredningsordern avser. 
+En utredningsorder får inte vägras enligt första stycket 5, om 
+en annan utredningsåtgärd kan vidtas som ger motsvarande 
+resultat som den åtgärd som utredningsordern avser.
+Lag (2021:241).
 
 Fakultativa vägransgrunder
 
@@ -718,6 +736,13 @@ Avspärrning och tillträdesförbud m.m.
 15 § rättegångsbalken har verkställts, tillämpas 32 § första 
 och tredje–femte styckena.
 
+Föreläggande att bevara en viss lagrad uppgift
+
+33 a § När en utredningsorder för ett föreläggande att bevara 
+en viss lagrad uppgift enligt 27 kap. 16 § rättegångsbalken 
+har verkställts, tillämpas 32 § första, fjärde och femte 
+styckena. Lag (2021:241).
+
 Hemlig avlyssning och hemlig övervakning av elektronisk 
 kommunikation
 
@@ -885,23 +910,23 @@ möjligt.
 
 Överklagande
 
-1 § Domstolens beslut enligt 2 kap. 5, 14 och 16 §§ får 
+1 § Domstolens beslut enligt 2 kap. 5, 14, 16 och 16 a §§ får 
 överklagas. Vid överklagande gäller vad som är föreskrivet i 
-rättegångsbalken eller annan författning för beslut angående 
-den åtgärd som avses i utredningsordern.
+rättegångsbalken eller annan författning för beslut om den 
+åtgärd som avses i utredningsordern.
 
 Ett beslut i fråga om att utfärda en utredningsorder får inte 
-överklagas. 
+överklagas. Lag (2021:241).
 
-2 § Domstolens beslut enligt 3 kap. 9, 32 och 33 §§ får 
+2 § Domstolens beslut enligt 3 kap. 9, 32, 33 och 33 a §§ får 
 överklagas. Vid överklagande gäller vad som är föreskrivet i 
-rättegångsbalken eller annan författning för beslut angående 
-en åtgärd som motsvarar den åtgärd som avses i 
-utredningsordern. Domstolens beslut enligt 3 kap. 25 § får 
-överklagas på det sätt som gäller enligt rättegångsbalken. 
+rättegångsbalken eller annan författning för beslut om en 
+åtgärd som motsvarar den åtgärd som avses i utredningsordern. 
+Domstolens beslut enligt 3 kap. 25 § får överklagas på det 
+sätt som gäller enligt rättegångsbalken.
 
 Övriga beslut i fråga om erkännande och verkställighet av en 
-utredningsorder får inte överklagas. 
+utredningsorder får inte överklagas. Lag (2021:241).
 
 Villkor om användningsbegränsningar
 

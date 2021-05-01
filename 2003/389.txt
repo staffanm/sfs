@@ -1607,23 +1607,27 @@ kommunikationstjänster eller tillhandahållande av andra
 tjänster där uppgifterna behövs. Behandlingen skall begränsas
 till vad som är nödvändigt för verksamheten.
 
-8 § Bestämmelserna i 5–7 §§ gäller inte
+8 § Bestämmelserna i 5-7 §§ gäller inte 
 
-1. när en myndighet eller en domstol behöver tillgång till
-sådana uppgifter som avses i 5 § för att lösa tvister,
+1. när en myndighet eller en domstol behöver tillgång till 
+sådana uppgifter som avses i 5 § för att lösa tvister, 
 
-2. för elektroniska meddelanden som omfattas av beslut om
-hemlig avlyssning av elektronisk kommunikation eller hemlig
-övervakning av elektronisk kommunikation, tekniskt bistånd med
-sådan avlyssning eller övervakning, inhämtning av uppgifter
-enligt lagen (2012:278) om inhämtning av uppgifter om
-elektronisk kommunikation i de brottsbekämpande myndigheternas
+2. för elektroniska meddelanden som omfattas av ett 
+föreläggande att bevara en viss lagrad uppgift enligt 27 kap. 
+16 § rättegångsbalken,
+
+3. för elektroniska meddelanden som omfattas av beslut om 
+hemlig avlyssning av elektronisk kommunikation eller hemlig 
+övervakning av elektronisk kommunikation, tekniskt bistånd med 
+sådan avlyssning eller övervakning, inhämtning av uppgifter 
+enligt lagen (2012:278) om inhämtning av uppgifter om 
+elektronisk kommunikation i de brottsbekämpande myndigheternas 
 underrättelseverksamhet, eller
 
-3. i den utsträckning uppgifter som avses i 5 § är nödvändiga
-för att förhindra och avslöja obehörig användning av ett
-elektroniskt kommunikationsnät eller en elektronisk
-kommunikationstjänst. Lag (2012:285).
+4. i den utsträckning uppgifter som avses i 5 § är nödvändiga 
+för att förhindra och avslöja obehörig användning av ett 
+elektroniskt kommunikationsnät eller en elektronisk 
+kommunikationstjänst. Lag (2021:240).
 
 Lokaliseringsuppgifter som inte är trafikuppgifter
 
@@ -1807,38 +1811,42 @@ Beslutet om undantag får återkallas om villkoren i beslutet
 inte har följts eller det finns andra särskilda skäl för
 återkallelse. Lag (2012:127).
 
-16 c § Uppgifter som lagrats enligt 16 a § får behandlas
-endast för att lämnas ut enligt 22 § första stycket 2, 27 kap.
-19 § rättegångsbalken eller lagen (2012:278) om inhämtning av
-uppgifter om elektronisk kommunikation i de brottsbekämpande
-myndigheternas underrättelseverksamhet. Lag (2012:285).
+16 c § Uppgifter som lagrats enligt 16 a § får behandlas 
+endast för att lämnas ut enligt 22 § första stycket 2 eller 
+14, 27 kap. 19 § rättegångsbalken eller lagen (2012:278) om 
+inhämtning av uppgifter om elektronisk kommunikation i de 
+brottsbekämpande myndigheternas underrättelseverksamhet.
+Lag (2021:240).
 
 16 d § Uppgifter som avses i 16 a § ska lagras enligt 
-följande:
+följande: 
 
 - Uppgifter som genereras eller behandlas vid telefonitjänst 
 och meddelandehantering via mobil nätanslutningspunkt ska 
 lagras i sex månader. Lokaliseringsuppgifter ska dock lagras i 
-endast två månader.
+endast två månader. 
 
 - Uppgifter som genereras eller behandlas vid internetåtkomst 
 ska lagras i tio månader. Om uppgifterna identifierar den 
 utrustning där kommunikationen slutligt avskiljs från den 
 lagringsskyldige till den enskilda abonnenten ska de dock 
-lagras i endast sex månader.
+lagras i endast sex månader. 
 
 Lagringstiden räknas från den dag kommunikationen avslutades.
 
-När lagringstiden löpt ut ska den lagringsskyldige genast 
-utplåna uppgifterna. Om en begäran om utlämnande har kommit 
-in innan lagringstiden löpt ut, ska den lagringsskyldige dock 
-fortsätta lagra uppgifterna till dess att de lämnats ut. Efter 
-utlämnandet ska uppgifterna genast utplånas.
+När lagringstiden har löpt ut ska den lagringsskyldige genast 
+utplåna uppgifterna. Om en begäran om utlämnande har kommit in 
+eller ett föreläggande att bevara en viss lagrad uppgift 
+enligt 27 kap. 16 § rättegångsbalken har meddelats innan 
+lagringstiden löpt ut, ska den lagringsskyldige dock fortsätta 
+lagra uppgifterna till dess att de har lämnats ut eller tiden 
+för bevarande har löpt ut. Därefter ska uppgifterna genast 
+utplånas.
 
 Regeringen eller den myndighet som regeringen bestämmer kan 
 med stöd av 8 kap. 7 § regeringsformen meddela närmare 
 föreskrifter om lagringstiden enligt första stycket.
-Lag (2019:497).
+Lag (2021:240).
 
 16 e § Den som är skyldig att lagra uppgifter enligt 16 a §
 har rätt till ersättning för kostnader som uppstår när lagrade
@@ -1854,6 +1862,12 @@ ska bedriva verksamheten så att uppgifterna utan dröjsmål kan
 lämnas ut och så att verkställandet av utlämnandet inte röjs.
 Uppgifterna ska göras tillgängliga på ett sådant sätt att
 informationen enkelt kan tas om hand. Lag (2012:127).
+
+16 g § Om någon som bedriver verksamhet som är 
+anmälningspliktig enligt 2 kap. 1 § har förelagts att bevara 
+en viss lagrad uppgift enligt 27 kap. 16 § rättegångsbalken 
+gäller 3 a, 16 e och 16 f §§ på motsvarande sätt för den 
+uppgift som ska bevaras. Lag (2021:240).
 
 Förbud mot avlyssning m.m.
 
@@ -1971,35 +1985,43 @@ Tystnadsplikt i fråga om uppgifter som avses i första stycket 1
 och 3 gäller inte heller i förhållande till innehavare av ett
 abonnemang som använts för ett elektroniskt meddelande.
 
-21 § Tystnadsplikt enligt 20 § första stycket gäller även för
-uppgift som hänför sig till
+21 § Tystnadsplikt enligt 20 § första stycket gäller även för 
+uppgift som hänför sig till 
 
-1. åtgärden att kvarhålla försändelser enligt 27 kap. 9 §
-rättegångsbalken,
+1. åtgärden att kvarhålla försändelser enligt 27 kap. 9 § 
+rättegångsbalken, 
 
-2. angelägenhet som avser användning av hemlig avlyssning av
-elektronisk kommunikation eller hemlig övervakning av
-elektronisk kommunikation enligt 27 kap. 18 eller 19 §
-rättegångsbalken eller tekniskt bistånd med hemlig avlyssning
-av elektronisk kommunikation eller med hemlig övervakning av
-elektronisk kommunikation enligt 4 kap. 25 b § lagen
-(2000:562) om internationell rättslig hjälp i brottmål,
+2. angelägenhet som avser användning av hemlig avlyssning av 
+elektronisk kommunikation eller hemlig övervakning av 
+elektronisk kommunikation enligt 27 kap. 18 eller 19 § 
+rättegångsbalken eller tekniskt bistånd med hemlig avlyssning 
+av elektronisk kommunikation eller med hemlig övervakning av 
+elektronisk kommunikation enligt 4 kap. 25 b § lagen 
+(2000:562) om internationell rättslig hjälp i brottmål, 
 
-3. angelägenhet som avser inhämtning av signaler i elektronisk
-form enligt lagen (2008:717) om signalspaning i
-försvarsunderrättelseverksamhet,
+3. angelägenhet som avser inhämtning av signaler i elektronisk 
+form enligt lagen (2008:717) om signalspaning i 
+försvarsunderrättelse-verksamhet,
 
-4. inhämtning av uppgifter enligt lagen (2012:278) om
-inhämtning av uppgifter om elektronisk kommunikation i de
-brottsbekämpande myndigheternas underrättelseverksamhet, och
+4. inhämtning av uppgifter enligt lagen (2012:278) om 
+inhämtning av uppgifter om elektronisk kommunikation i de 
+brottsbekämpande myndigheternas underrättelseverksamhet,
 
-5. begäran om utlämnande av uppgift om abonnemang enligt 22 §
-första stycket 2. Lag (2012:285).
+5. begäran om utlämnande av uppgift om abonnemang enligt 22 § 
+första stycket 2,
+
+6. föreläggande att bevara en viss lagrad uppgift enligt 
+27 kap. 16 § rättegångsbalken, och
+
+7. begäran om utlämnande av en uppgift om tillhandahållare av 
+elektroniska kommunikationsnät eller elektroniska 
+kommunikationstjänster enligt 22 § första stycket 14.
+Lag (2021:240).
 
 22 § Den som tillhandahåller ett elektroniskt 
 kommunikationsnät eller en elektronisk kommunikationstjänst 
 och därvid har fått del av eller tillgång till uppgift som 
-avses i 20 § första stycket ska på begäran lämna
+avses i 20 § första stycket ska på begäran lämna 
 
 1. uppgift som avses i 20 § första stycket 1 till en myndighet 
 som i ett särskilt fall behöver en sådan uppgift för 
@@ -2010,7 +2032,7 @@ håller sig undan eller att det annars finns synnerliga skäl,
 2. uppgift som avses i 20 § första stycket 1 och som gäller 
 misstanke om brott till en åklagarmyndighet, Polismyndigheten, 
 Säkerhetspolisen eller någon annan myndighet som ska ingripa 
-mot brottet,
+mot brottet, 
 
 3. uppgift som avses i 20 § första stycket 1 och 3 samt 
 uppgift om i vilket geografiskt område en viss elektronisk 
@@ -2018,35 +2040,35 @@ kommunikationsutrustning finns eller har funnits till
 Polismyndigheten, om myndigheten finner att uppgiften behövs i 
 samband med efterforskning av personer som har försvunnit 
 under sådana omständigheter att det kan befaras att det finns 
-fara för deras liv eller allvarlig risk för deras hälsa,
+fara för deras liv eller allvarlig risk för deras hälsa, 
 
 4. uppgift som avses i 20 § första stycket 1 till 
 Kronofogdemyndigheten om myndigheten behöver uppgiften i 
 exekutiv verksamhet och myndigheten finner att uppgiften är av 
-väsentlig betydelse för handläggningen av ett ärende,
+väsentlig betydelse för handläggningen av ett ärende, 
 
 5. uppgift som avses i 20 § första stycket 1 till 
 Skatteverket, om verket finner att uppgiften är av väsentlig 
 betydelse för handläggningen av ett ärende som avser kontroll 
 av skatt eller avgift eller rätt folkbokföringsort enligt 
-folkbokföringslagen (1991:481),
+folkbokföringslagen (1991:481), 
 
 6. uppgift som avses i 20 § första stycket 1 till 
 Polismyndigheten, om myndigheten finner att uppgiften behövs i 
 samband med underrättelse, efterforskning eller identifiering 
 vid olyckor eller dödsfall eller för att myndigheten ska kunna 
-fullgöra en uppgift som avses i 12 § polislagen (1984:387),
+fullgöra en uppgift som avses i 12 § polislagen (1984:387), 
 
 7. uppgift som avses i 20 § första stycket 1 till 
 Polismyndigheten eller en åklagarmyndighet, om myndigheten 
 finner att uppgiften behövs i ett särskilt fall för att 
 myndigheten ska kunna fullgöra underrättelseskyldighet enligt 
 33 § lagen (1964:167) med särskilda bestämmelser om unga 
-lagöverträdare,
+lagöverträdare, 
 
 8. uppgift som avses i 20 § första stycket 1 och 3 till 
 regional alarmeringscentral som avses i lagen (1981:1104) om 
-verksamheten hos vissa regionala alarmeringscentraler,
+verksamheten hos vissa regionala alarmeringscentraler, 
 
 9. uppgift som avses i 20 § första stycket 1 till 
 Finansinspektionen, om inspektionen finner att uppgiften är av 
@@ -2056,7 +2078,7 @@ nr 596/2014 av den 16 april 2014 om marknadsmissbruk
 (marknadsmissbruksförordning) och om upphävande av 
 Europaparlamentets och rådets direktiv 2003/6/EG och 
 kommissionens direktiv 2003/124/EG, 2003/125/EG och 
-2004/72/EG,
+2004/72/EG, 
 
 10. uppgift som avses i 20 § första stycket 1 till 
 Finansinspektionen, om inspektionen finner att uppgiften är av 
@@ -2082,17 +2104,25 @@ om upphävande av förordning (EG) nr 2006/2004,
 Läkemedelsverket, om verket finner att uppgiften är av 
 väsentlig betydelse i ett ärende om tillsyn när det gäller 
 bestämmelserna om marknadsföring i 12 kap. läkemedelslagen 
-(2015:315), och
+(2015:315), 
 
 13. uppgift som avses i 20 § första stycket 1 till 
 Konsumentverket, om verket finner att uppgiften är av 
 väsentlig betydelse i ett ärende om tillsyn enligt lagen 
 (2019:59) med kompletterande bestämmelser till EU:s 
-geoblockeringsförordning.
+geoblockeringsförordning, och
+
+14. uppgift som avses i 20 § första stycket 3 om vilka övriga 
+tillhandahållare av elektroniska kommunikationsnät eller 
+elektroniska kommunikationstjänster som har deltagit vid 
+överföringen av ett meddelande som omfattas av ett 
+föreläggande att bevara en viss lagrad uppgift enligt 27 kap. 
+16 § rättegångsbalken till den myndighet som meddelat 
+föreläggandet.
 
 Ersättning för att lämna ut andra uppgifter enligt första 
 stycket 8 än lokaliseringsuppgifter ska vara skälig med hänsyn 
-till kostnaderna för utlämnandet. Lag (2020:340).
+till kostnaderna för utlämnandet. Lag (2021:240).
 
 23 § Den som i annat fall än som avses i 20 § första stycket
 och 21 § i radiomottagare har avlyssnat eller på annat sätt
