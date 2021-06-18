@@ -117,43 +117,53 @@ uppgifter behandlas i databasen:
 
 7. folkbokföringsfastighet, lägenhetsnummer, 
 folkbokföringsort, distrikt och folkbokföring under särskild 
-rubrik,
+rubrik, 
 
 8. medborgarskap,
 
-9. civilstånd,
+9. civilstånd, 
 
-10. make, barn, föräldrar, vårdnadshavare och annan person 
-som den registrerade har samband med inom folkbokföringen,
+10. make, barn, föräldrar, vårdnadshavare och annan person som 
+den registrerade har samband med inom folkbokföringen, 
 
-11. samband enligt 10 som är grundat på adoption,
+11. samband enligt 10 som är grundat på adoption, 
 
-12. inflyttning från utlandet,
+12. inflyttning från utlandet, 
 
-13. avregistrering enligt 19–22 §§ folkbokföringslagen 
+13. avregistrering enligt 19-22 §§ folkbokföringslagen 
 (1991:481),
 
-14. anmälan enligt 5 kap. 2 § vallagen (2005:837),
+14. anmälan enligt 5 kap. 2 § vallagen (2005:837), 
 
-15. gravsättning,
+15. gravsättning, 
 
 16. personnummer som personen har tilldelats i ett annat 
-nordiskt land, och
+nordiskt land,
 
-17. uppehållsrätt för en person som är folkbokförd.
+17. uppehållsrätt för en person som är folkbokförd,
+
+18. tidpunkt för när vilandeförklaring kan komma att ske 
+enligt 18 d § 1 folkbokföringslagen, 
+
+19. vilandeförklaring av ett samordningsnummer med angivande 
+av om förklaringen skett på grund av 18 d § 1 eller 2 
+folkbokföringslagen, och
+
+20. tidpunkt för när en person med samordningsnummer har 
+avlidit.
 
 I databasen får uppgifter behandlas som den 30 juni 1991 
-enligt särskilda bestämmelser var antecknade i sådan 
-personakt som avses i 16 § i den upphävda 
-folkbokföringskungörelsen (1967:495), oavsett om uppgifterna 
-är sådana som avses i 1 kap. 6 §.
+enligt särskilda bestämmelser var antecknade i sådan personakt 
+som avses i 16 § i den upphävda folkbokföringskungörelsen 
+(1967:495), oavsett om uppgifterna är sådana som avses i 
+1 kap. 6 §.
 
 I ärenden om tilldelning av personnummer enligt 18 b § 
 folkbokföringslagen eller samordningsnummer får även anges 
-grunden för tilldelningen och de handlingar som har legat 
-till grund för identifiering. I ärenden om tilldelning av 
+grunden för tilldelningen och de handlingar som har legat till 
+grund för identifiering. I ärenden om tilldelning av 
 samordningsnummer får även anges uppgift om att det råder 
-osäkerhet om personens identitet. Lag (2018:689).
+osäkerhet om personens identitet. Lag (2021:377).
 
 4 § I databasen får uppgifter behandlas om yrkanden, grunder
 och beslut i ett ärende samt andra uppgifter som behövs för

@@ -340,25 +340,68 @@ lagras med åtta siffror i register som förs med hjälp av
 automatisk databehandling; fyra för året, två för månaden och
 två för dagen. Lag (2009:272).
 
-18 a § En person som inte är eller har varit folkbokförd får
-efter begäran från en myndighet eller ett annat organ som
-regeringen bestämmer tilldelas ett särskilt nummer
-(samordningsnummer).
+18 a § En person som inte är eller har varit folkbokförd får 
+tilldelas ett samordningsnummer som identitetsbeteckning.
 
-Samordningsnumret ska utgå från den födelsetid som det
-rekvirerande organet uppger. Numret ska anges med två siffror
-för vardera år, månad och dag i nu nämnd ordning. Siffrorna
-för dag ska adderas med 60. Därefter anges ett tresiffrigt
-individnummer, som är udda för män och jämnt för kvinnor,
-samt en kontrollsiffra.
+Ett samordningsnummer får tilldelas efter
 
-Vad som sägs i 18 § fjärde stycket gäller även
-samordningsnummer. Lag (2009:272).
+1. begäran från en myndighet eller ett annat organ som 
+regeringen bestämmer, eller
+
+2. ansökan av en enskild som
+
+a) har en sådan anknytning till Sverige att han eller hon kan 
+antas behöva en identitetsbeteckning, och
+
+b) inställer sig personligen hos Skatteverket och styrker sin 
+identitet.
+
+Samordningsnumret ska utgå från den enskildes födelsetid. 
+Numret ska anges med två siffror för vardera år, månad och dag 
+i nu nämnd ordning. Siffrorna för dag ska adderas med 60. 
+Därefter anges ett tresiffrigt individnummer, som är udda för 
+män och jämnt för kvinnor, samt en kontrollsiffra.
+
+Vad som sägs i 18 § tredje och fjärde styckena gäller även 
+samordningsnummer. Lag (2021:375).
 
 18 b § En person som enligt 5 § inte ska folkbokföras får
 tilldelas ett personnummer enligt 18 § om han eller hon har
 rätt att vistas i landet och uppfyller de förutsättningar som
 anges i 3 § första stycket. Lag (2009:272).
+
+18 c § Ett samordningsnummer får förnyas efter anmälan av den 
+som kan begära tilldelning av samordningsnummer enligt 18 a § 
+andra stycket 1. Det får också förnyas på ansökan av den 
+enskilde, om han eller hon uppfyller förutsättningarna i 
+18 a § andra stycket 2. Lag (2021:375).
+
+18 d § Ett samordningsnummer ska förklaras vilande
+
+1. om inte någon anmälan eller ansökan om förnyelse enligt 
+18 c § har kommit in vid utgången av det femte kalenderåret 
+efter det år då numret tilldelades eller senast förnyades, 
+eller
+
+2. om det finns andra skäl för det.
+Lag (2021:375).
+
+18 e § Skatteverket får efter ansökan av den enskilde eller 
+den som kan begära tilldelning av samordningsnummer förnya ett 
+nummer som har förklarats vilande.
+
+Ett samordningsnummer som är vilande får förnyas endast om 
+förutsättningarna för tilldelning av samordningsnummer enligt 
+18 a § är uppfyllda vid prövningen av ansökan om förnyelse.
+
+Om en persons samordningsnummer är vilande, ska en begäran 
+eller ansökan om ett nytt samordningsnummer anses som en 
+ansökan om förnyelse enligt första stycket. Lag (2021:375).
+
+18 f § Regeringen eller den myndighet som regeringen bestämmer 
+kan med stöd av 8 kap. 7 § regeringsformen meddela ytterligare 
+föreskrifter om tilldelning och förnyelse av 
+samordningsnummer. Lag (2021:375).
 
 Avregistrering från folkbokföringen
 
@@ -456,6 +499,14 @@ göras senast en vecka före utresan och ska innehålla uppgift
 om utresedagen. Om utresan ställs in eller skjuts upp ska
 detta anmälas senast den tidigare uppgivna utresedagen.
 Lag (2013:380).
+
+27 a § En person med ett samordningsnummer som har en 
+kontaktadress registrerad i folkbokföringsdatabasen ska anmäla 
+ändringar av adressen till Skatteverket.
+
+Anmälningsskyldigheten gäller inte om samordningsnumret är 
+vilande eller personen omfattas av lagen (1976:661) om 
+immunitet och privilegier i vissa fall. Lag (2021:375).
 
 28 § En anmälan enligt 25 eller 26 § ska innehålla följande
 uppgifter:
@@ -575,6 +626,18 @@ Kontrollbesök ska genomföras på ett sådant sätt att det
 innebär så litet intrång för den enskilde som möjligt.
 Lag (2018:684).
 
+32 c § En myndighet ska underrätta Skatteverket om det kan 
+antas att en uppgift i folkbokföringen om en person som är 
+eller har varit folkbokförd är oriktig eller ofullständig.
+
+En sådan underrättelse behöver inte lämnas om särskilda skäl 
+talar mot det. 
+
+Skyldigheten i första stycket gäller inte för Skatteverkets 
+brottsbekämpande verksamhet. Den gäller inte heller i fråga om 
+uppgifter som omfattas av sekretess enligt 24 kap. 8 § 
+offentlighets- och sekretesslagen (2009:400). Lag (2021:375).
+
 33 § Bestämmelser om dödsbevis och intyg om dödsorsaken finns i
 begravningslagen (1990:1144).
 
@@ -635,34 +698,47 @@ folkbokföring skulle ha skett om anmälan hade godtagits.
 Skatteverkets övriga beslut enligt denna lag överklagas hos
 Förvaltningsrätten i Stockholm. Lag (2010:12).
 
-39 § Vitesföreläggande enligt 37 § får inte överklagas. 
+39 § Följande beslut enligt lagen får inte överklagas:
 
-Skatteverkets beslut om fastställande av födelsenummer och 
-kontrollsiffra i personnummer samt tilldelning av 
-samordningsnummer får inte överklagas.
+1. om vitesföreläggande,
 
-Beslut om kontrollbesök får inte överklagas. 
-Lag (2018:684).
+2. om kontrollbesök, 
+
+3. om fastställande av födelsenummer och kontrollsiffra i 
+personnummer,
+
+4. om individnummer och kontrollsiffra i samordningsnummer, 
+
+5. om tilldelning av samordningsnummer enligt 18 a § andra 
+stycket 1,
+
+6. om förnyelse efter anmälan enligt 18 c § eller ansökan 
+enligt 18 e § första stycket av den som kan begära tilldelning 
+av samordningsnummer, och
+
+7. om vilandeförklaring enligt 18 d § 1 med anledning av att 
+någon anmälan om förnyelse inte har kommit in i rätt tid.
+Lag (2021:375).
 
 40 § Andra beslut av Skatteverket än som anges i 39 § får 
-överklagas av den person vars folkbokföring beslutet gäller 
-och av det allmänna ombudet hos Skatteverket. Om ett barn 
-står under vårdnad av två vårdnadshavare, får ett beslut om 
-barnets folkbokföring även överklagas av en av dem ensam. Om 
-en socialnämnd har ansökt om skyddad folkbokföring enligt 
-30 § tredje stycket, får beslutet även överklagas av nämnden. 
-Ett beslut om en persons bosättning får även överklagas av en 
+överklagas av den person som beslutet gäller och av det 
+allmänna ombudet hos Skatteverket. Om ett barn står under 
+vårdnad av två vårdnadshavare, får ett beslut om barnets 
+folkbokföring även överklagas av en av dem ensam. Om en 
+socialnämnd har ansökt om skyddad folkbokföring enligt 30 § 
+tredje stycket, får beslutet även överklagas av nämnden. Ett 
+beslut om en persons bosättning får även överklagas av en 
 kommun som berörs av beslutet.
 
-En enskilds överklagande av ett beslut om folkbokföring 
-enligt 3–17, 20, 21 och 22 §§ ska ha kommit in till 
-Skatteverket inom tre veckor från den dag den klagande fick 
-del av beslutet. Beslut i en annan fråga får överklagas av en 
-enskild utan begränsning till en viss tid.
+En enskilds överklagande av ett beslut om folkbokföring enligt 
+3-17, 20, 21 och 22 §§ ska ha kommit in till Skatteverket inom 
+tre veckor från den dag den klagande fick del av beslutet. 
+Beslut i en annan fråga får överklagas av en enskild utan 
+begränsning till en viss tid.
 
 Det allmänna ombudets eller en kommuns överklagande ska ha 
 kommit in till Skatteverket inom tre veckor från den dag 
-beslutet meddelades. Lag (2018:684).
+beslutet meddelades. Lag (2021:375).
 
 41 § Prövningstillstånd krävs vid överklagande till
 kammarrätten. Lag (1997:989).
@@ -790,3 +866,11 @@ beslutet om kvarskrivning.
 4. Bestämmelserna i 16 och 17 §§ i den äldre lydelsen gäller 
 fortfarande när en domstol prövar ett överklagande av ett 
 beslut om kvarskrivning.
+
+2021:375
+
+1. Denna lag träder i kraft den 18 juni 2021.
+
+2. Vid tillämpningen av 18 d § 1 ska en person som har 
+tilldelats ett samordningsnummer före 2016 anses ha tilldelats 
+numret under 2016.
