@@ -101,32 +101,31 @@ EES, och
 9. filialer till institut för elektroniska pengar från länder 
 utanför EES. Lag (2018:175).
 
-4 § 
-I denna lag betyder
+4 § I denna lag betyder 
 
 autentisering: ett förfarande där en betaltjänstanvändares 
 personliga behörighetsfunktioner används och genom vilket en 
 betaltjänstleverantör kan kontrollera betaltjänstanvändarens 
-identitet eller ett betalningsinstruments giltighet,
+identitet eller ett betalningsinstruments giltighet, 
 
 autogiro: en betaltjänst för debitering av en betalares 
 betalkonto, där initiativet till en betalningstransaktion tas 
 av betalningsmottagaren på grundval av betalarens samtycke 
 till mottagaren, mottagarens betaltjänstleverantör eller 
-betalarens egen betaltjänstleverantör,
+betalarens egen betaltjänstleverantör, 
 
 bankdag: en dag på vilken en betaltjänstleverantör har öppet 
 för verksamhet i den utsträckning som krävs för genomförande 
 av en betalningstransaktion,
 
 betalare: en fysisk eller juridisk person som är antingen 
-betalkontoinnehavare och som godkänner en betalningsorder 
-från detta betalkonto, eller en fysisk eller juridisk person 
-som lämnar en betalningsorder,
+betalkontoinnehavare och som godkänner en betalningsorder från 
+detta betalkonto, eller en fysisk eller juridisk person som 
+lämnar en betalningsorder,
 
 betalkonto: ett konto som innehas i en eller flera 
-betaltjänstanvändares namn och som är avsett för 
-genomförandet av betalningstransaktioner,
+betaltjänstanvändares namn och som är avsett för genomförandet 
+av betalningstransaktioner, 
 
 betalkontodirektivet: Europaparlamentets och rådets direktiv 
 2014/92/EU av den 23 juli 2014 om jämförbarhet för avgifter 
@@ -134,24 +133,24 @@ som avser betalkonto, byte av betalkonto och tillgång till
 betalkonto med grundläggande funktioner, i den ursprungliga 
 lydelsen,
 
-betalningsinstitut: ett aktiebolag eller en ekonomisk 
-förening som har fått tillstånd att tillhandahålla 
-betaltjänster enligt 2 kap.,
+betalningsinstitut: ett aktiebolag eller en ekonomisk förening 
+som har fått tillstånd att tillhandahålla betaltjänster enligt 
+2 kap.,
 
 betalningsinitieringstjänst: en tjänst för att på begäran av 
 betaltjänstanvändaren initiera en betalningsorder från ett 
-betalkonto hos en annan betaltjänstleverantör,
+betalkonto hos en annan betaltjänstleverantör, 
 
 betalningsinstrument: ett kontokort eller något annat 
 personligt instrument eller en personlig rutin som enligt 
 avtal används för att initiera en betalningsorder,
 
 betalningsmottagare: en fysisk eller juridisk person som är 
-den avsedda mottagaren av medel vid en 
-betalningstransaktion,
+den avsedda mottagaren av medel vid en betalningstransaktion,
+
 betalningsorder: varje instruktion som en betalare eller 
 betalningsmottagare ger sin betaltjänstleverantör om att en 
-betalningstransaktion ska genomföras,
+betalningstransaktion ska genomföras, 
 
 betalningssystem: ett generellt betalsystem enligt 1 kap. 3 § 
 andra stycket lagen (2004:297) om bank- och 
@@ -160,25 +159,25 @@ finansieringsrörelse,
 betalningstransaktion: insättning, uttag eller överföring av 
 medel som initieras av betalaren eller betalningsmottagaren, 
 oberoende av eventuella underliggande förpliktelser mellan 
-betalaren och betalningsmottagaren,
+betalaren och betalningsmottagaren, 
 
 betaltjänstanvändare: en fysisk eller juridisk person som 
-utnyttjar en betaltjänst,
+utnyttjar en betaltjänst, 
 
 betaltjänstdirektivet: Europaparlamentets och rådets direktiv 
-(EU) 2015/2366 av den 25 november 2015 om betaltjänster på 
-den inre marknaden, om ändring av direktiven 2002/65/EG, 
+(EU) 2015/2366 av den 25 november 2015 om betaltjänster på den 
+inre marknaden, om ändring av direktiven 2002/65/EG, 
 2009/110/EG och 2013/36/EU samt förordning (EU) nr 1093/2010 
 och om upphävande av direktiv 2007/64/EG, i den ursprungliga 
 lydelsen,
 
-debitera: att medel dras från ett konto,
+debitera: att medel dras från ett konto, 
 
 elektroniskt kommunikationsnät: detsamma som i 1 kap. 7 § 
-lagen (2003:389) om elektronisk kommunikation, 
+lagen (2003:389) om elektronisk kommunikation,
 
 elektronisk kommunikationstjänst: detsamma som i 1 kap. 7 § 
-lagen om elektronisk kommunikation,
+lagen om elektronisk kommunikation, 
 
 filial: ett avdelningskontor med självständig förvaltning, 
 varvid även ett utländskt betalningsinstituts etablering av 
@@ -186,22 +185,22 @@ flera driftställen ska anses som en enda filial,
 
 grupp: en grupp av företag som är knutna till varandra genom 
 ett sådant förhållande som avses i 1 kap. 4, 5 eller 5 a § 
-årsredovisningslagen (1995:1554) eller en grupp av företag 
-som avses i artiklarna 4–7 i kommissionens delegerade 
-förordning (EU) nr 241/2014 av den 7 januari 2014 om 
-komplettering av Europaparlamentets och rådets förordning 
-(EU) nr 575/2013 med avseende på tekniska tillsynsstandarder 
-för kapitalbaskrav på institut och som är knutna till 
-varandra genom ett sådant förhållande som avses i artikel 
-10.1 eller artikel 113.6 eller 113.7 i tillsynsförordningen,
+årsredovisningslagen (1995:1554) eller en grupp av företag som 
+avses i artiklarna 4-7 i kommissionens delegerade förordning 
+(EU) nr 241/2014 av den 7 januari 2014 om komplettering av 
+Europaparlamentets och rådets förordning (EU) nr 575/2013 med 
+avseende på tekniska tillsynsstandarder för kapitalbaskrav på 
+institut och som är knutna till varandra genom ett sådant 
+förhållande som avses i artikel 10.1 eller artikel 113.6 eller 
+113.7 i tillsynsförordningen,
 
-hemland: det land där ett företag har fått tillstånd att 
-driva sådan verksamhet som avses i denna lag,
+hemland: det land där ett företag har fått tillstånd att driva 
+sådan verksamhet som avses i denna lag, 
 
 inlösen av transaktionsbelopp: en betaltjänst där en 
 betaltjänstleverantör accepterar och behandlar 
 betalningsmottagarens betalningstransaktioner för att sedan 
-överföra medel till betalningsmottagaren,
+överföra medel till betalningsmottagaren, 
 
 kapitalbas: detsamma som i 1 kap. 5 § 9 lagen om bank- och 
 finansieringsrörelse,
@@ -211,7 +210,7 @@ betalningsmottagares betalkonto med en betalningstransaktion
 från en betalares betalkonto, som utförs av en 
 betaltjänstleverantör som har tillgång till betalarens 
 betalkonto, på grundval av en instruktion som lämnats av 
-betalaren,
+betalaren, 
 
 kontoförvaltande betaltjänstleverantör: en 
 betaltjänstleverantör som tillhandahåller och förvaltar ett 
@@ -223,22 +222,22 @@ betalkonton som betaltjänstanvändaren har hos en eller flera
 andra betaltjänstleverantörer,
 
 konsument: en fysisk person som handlar huvudsakligen för 
-ändamål som faller utanför näringsverksamhet,
+ändamål som faller utanför näringsverksamhet, 
 
-kreditera: att medel tillförs ett konto,
+kreditera: att medel tillförs ett konto, 
 
 kreditinstitut: detsamma som i 1 kap. 5 § 10 lagen om bank- 
 och finansieringsrörelse,
 
 kvalificerat innehav: detsamma som i 1 kap. 5 § 15 lagen om 
-bank- och finansieringsrörelse,
+bank- och finansieringsrörelse, 
 
 känslig betalningsuppgift: en personlig behörighetsfunktion 
-eller annan uppgift som kan användas för svikliga 
-förfaranden, dock inte kontoinnehavarens namn och kontonummer 
-i sådan verksamhet som drivs av en leverantör av 
+eller annan uppgift som kan användas för svikliga förfaranden, 
+dock inte kontoinnehavarens namn och kontonummer i sådan 
+verksamhet som drivs av en leverantör av 
 betalningsinitieringstjänster eller en leverantör av 
-kontoinformationstjänster,
+kontoinformationstjänster, 
 
 lagligen bosatt inom EES: en fysisk person som har rätt att 
 bosätta sig inom EES i enlighet med unionsrätten eller 
@@ -261,30 +260,30 @@ betalare, utan att något betalkonto öppnas i betalarens eller
 betalningsmottagarens namn, uteslutande i syfte att överföra 
 motsvarande belopp till en mottagare eller en annan 
 betaltjänstleverantör som agerar på mottagarens vägnar, eller 
-där dessa medel tas emot på mottagarens vägnar och ställs 
-till mottagarens förfogande,
+där dessa medel tas emot på mottagarens vägnar och ställs till 
+mottagarens förfogande,
 
-personlig behörighetsfunktion: en personligt anpassad 
-funktion som betaltjänstleverantören tillhandahåller 
-betaltjänstanvändaren för autentiseringsändamål,
+personlig behörighetsfunktion: en personligt anpassad funktion 
+som betaltjänstleverantören tillhandahåller 
+betaltjänstanvändaren för autentiseringsändamål, 
 
 ramavtal: ett avtal om betaltjänster som reglerar 
 genomförandet av kommande enskilda och successiva 
-betalningstransaktioner och som kan innehålla skyldigheter 
-och villkor för att öppna ett betalkonto,
+betalningstransaktioner och som kan innehålla skyldigheter och 
+villkor för att öppna ett betalkonto, 
 
 referensväxelkurs: den växelkurs som ligger till grund för 
-beräkningen av eventuell valutaväxling och görs tillgänglig 
-av betaltjänstleverantören eller härrör från en offentligt 
+beräkningen av eventuell valutaväxling och görs tillgänglig av 
+betaltjänstleverantören eller härrör från en offentligt 
 tillgänglig källa,
 
 referensräntesats: den räntesats som ligger till grund för 
 beräkningen av eventuell tillämplig ränta och som härrör från 
 en offentligt tillgänglig källa som kan kontrolleras av båda 
-parterna i ett avtal om betaltjänster,
+parterna i ett avtal om betaltjänster, 
 
 registrerad betaltjänstleverantör: en betaltjänstleverantör 
-som undantagits från krav på tillstånd enligt 2 kap. 3 §,
+som undantagits från krav på tillstånd enligt 2 kap. 3 §, 
 
 stark kundautentisering: en autentisering som grundas på 
 användning av två eller flera komponenter, kategoriserade som 
@@ -293,39 +292,37 @@ bara användaren har) och unik egenskap (något som användaren
 är), som är fristående från varandra så att det förhållandet 
 att någon har kommit över en av komponenterna inte äventyrar 
 de andra komponenternas tillförlitlighet, och som är utformad 
-för att skydda autentiseringsuppgifterna mot obehörig 
-åtkomst,
+för att skydda autentiseringsuppgifterna mot obehörig åtkomst,
 
 startkapital: detsamma som i 1 kap. 5 § 18 lagen om bank- och 
-finansieringsrörelse,
+finansieringsrörelse, 
 
 säker kommunikation: sådan kommunikation som uppfyller kraven 
 i de tekniska standarder som antagits av Europeiska 
 kommissionen i enlighet med artikel 98 i 
 betaltjänstdirektivet,
 
-tillsynsförordningen: Europaparlamentets och rådets 
-förordning (EU) nr 575/2013 av den 26 juni 2013 om 
-tillsynskrav för kreditinstitut och värdepappersföretag och 
-om ändring av förordning (EU) nr 648/2012,
+tillsynsförordningen: Europaparlamentets och rådets förordning 
+(EU) nr 575/2013 av den 26 juni 2013 om tillsynskrav för 
+kreditinstitut och om ändring av förordning (EU) nr 648/2012,
 
 unik identifikationskod: en kombination av bokstäver, siffror 
 eller symboler som tillhandahållits av en 
 betaltjänstleverantör, och som en betaltjänstanvändare ska 
 uppge för att otvetydigt identifiera en annan 
-betaltjänstanvändare eller dennes betalkonto,
+betaltjänstanvändare eller dennes betalkonto, 
 
 utgivning av betalningsinstrument: en betaltjänst hos en 
 betaltjänstleverantör om att tillhandahålla betalaren ett 
 betalningsinstrument för att initiera och behandla betalarens 
-betalningstransaktioner,
+betalningstransaktioner, 
 
 utländskt kreditinstitut: detsamma som i 1 kap. 5 § 21 lagen 
 om bank- och finansieringsrörelse,
 
 valuteringsdag: den referenstidpunkt som används av en 
 betaltjänstleverantör för att beräkna räntan på de medel som 
-debiterats eller krediterats ett betalkonto. Lag (2018:175).
+debiterats eller krediterats ett betalkonto. Lag (2021:494).
 
 5 § Ett betalningsinstitut och ett annat företag ska anses ha
 nära förbindelser, om
