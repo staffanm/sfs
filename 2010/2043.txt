@@ -84,34 +84,35 @@ eller hälsa en försäkring gäller för.
 Behörig myndighet, EES, försäkringsholdingföretag och
 specialföretag
 
-12 § I denna lag betyder 
+12 § I denna lag betyder
 
 1. behörig myndighet: en utländsk myndighet som har behörighet 
-att utöva tillsyn över en utländsk försäkringsgivare, 
+att utöva tillsyn över en utländsk försäkringsgivare eller 
+över ett försäkringsföretag,
 
 2. blandat finansiellt holdingföretag: ett sådant företag som 
 avses i 1 kap. 3 § 4 lagen (2006:531) om särskild tillsyn över 
-finansiella konglomerat, 
+finansiella konglomerat,
 
-3. EES: Europeiska ekonomiska samarbetsområdet, 
+3. EES: Europeiska ekonomiska samarbetsområdet,
 
 4. EES-försäkringsgivare: en utländsk försäkringsgivare vars 
 hemland hör till EES och som omfattas av Solvens II-
-direktivet, 
+direktivet,
 
 5. externt kreditvärderingsinstitut: ett 
 kreditvärderingsinstitut som har fått tillstånd eller blivit 
 certifierat enligt Europaparlamentets och rådets förordning 
-(EG) nr 1060/2009 av den 16 september 2009 om kredit-
-värderingsinstitut eller en centralbank som utfärdar 
-kreditvärderingar som inte omfattas av den förordningen, 
+(EG) nr 1060/2009 av den 16 september 2009 om 
+kreditvärderingsinstitut eller en centralbank som utfärdar 
+kreditvärderingar som inte omfattas av den förordningen,
 
 6. försäkringsholdingföretag: ett moderföretag som inte är ett 
 försäkringsföretag, en EES-försäkringsgivare, ett 
 försäkringsföretag från tredjeland eller ett blandat 
 finansiellt holdingföretag och vars huvudsakliga verksamhet är 
-att förvärva och förvalta andelar i dotterföretag som ute-
-slutande eller huvudsakligen är försäkringsföretag, EES-
+att förvärva och förvalta andelar i dotterföretag som 
+uteslutande eller huvudsakligen är försäkringsföretag, EES-
 försäkringsgivare eller försäkringsgivare från tredjeland,
 
 7. försäkringsholdingföretag med blandad verksamhet: ett 
@@ -121,7 +122,7 @@ blandat finansiellt holdingföretag eller ett
 försäkringsholdingföretag och som har minst ett dotterföretag 
 som är försäkringsföretag,
 
-8. försäkringsgivare från tredje land: en utländsk 
+8. försäkringsgivare från tredjeland: en utländsk 
 försäkringsgivare vars hemland inte hör till EES och som 
 skulle omfattas av Solvens II-direktivet om dess hemland hörde 
 till EES,
@@ -133,7 +134,7 @@ till EES,
 direktiv 2009/138/EG av den 25 november 2009 om upptagande och 
 utövande av försäkrings- och återförsäkringsverksamhet 
 (Solvens II), i lydelsen enligt Europaparlamentets och rådets 
-direktiv 2014/51/EU,
+direktiv (EU) 2019/2177,
 
 11. specialföretag: ett aktiebolag eller en ekonomisk förening 
 som, utan att vara ett försäkringsföretag eller en utländsk 
@@ -146,14 +147,14 @@ underordnad företagens skyldigheter enligt avtal om
 riskövertagande,
 
 12. tillsynskollegium: en permanent men flexibel struktur för 
-samarbete, samordning och beslutsfattande mellan Finans-
-inspektionen och en eller flera behöriga myndigheter eller 
-mellan flera behöriga myndigheter vid tillsynen över en grupp 
-enligt 19 kap., och
+samarbete, samordning och beslutsfattande mellan 
+Finansinspektionen och en eller flera behöriga myndigheter 
+eller mellan flera behöriga myndigheter vid tillsynen över en 
+grupp enligt 19 kap., och
 
 13. tjänstepensionsföretag: ett företag som har tillstånd att 
 driva tjänstepensionsverksamhet enligt lagen (2019:742) om 
-tjänstepensionsföretag. Lag (2019:766).
+tjänstepensionsföretag. Lag (2021:461).
 
 Ägarintresse
 
@@ -833,6 +834,21 @@ samma fysiska eller juridiska personer som har ägarkontroll
 för elektroniska pengar eller ett värdepappersföretag med
 auktorisation i det landet. Lag (2013:456).
 
+Finansinspektionens underrättelse om gränsöverskridande 
+verksamhet eller sekundäretablering
+
+16 a § Finansinspektionen ska innan den beslutar i fråga om 
+tillstånd underrätta Europeiska försäkrings- och 
+tjänstepensionsmyndigheten och den behöriga myndigheten i ett 
+annat land inom EES, om
+
+1. företaget avser att driva gränsöverskridande verksamhet 
+eller inrätta en sekundäretablering i det landet, och
+
+2. det med hänsyn till det som anges i företagets 
+verksamhetsplan är sannolikt att dess verksamhet kommer att 
+vara relevant för marknaden i det landet. Lag (2021:461).
+
 Ansökan om tillstånd
 
 Aktiebolags ansökan före registrering
@@ -959,9 +975,6 @@ inspektionen meddela beslut om det inom en månad från det att
 underrättelsen togs emot. Den behöriga myndigheten ska genast
 underrättas om beslutet.
 
-Särskilda bestämmelser om tjänstepensionsförsäkring vid en
-sekundäretablering
-
 8 § Har upphävts genom lag (2015:700).
 
 9 § Har upphävts genom lag (2015:700).
@@ -1065,7 +1078,25 @@ förhållanden som har angetts i en underrättelse enligt 15 §,
 efter det att den gränsöverskridande verksamheten har inletts,
 ska 15-20 §§ tillämpas.
 
-22 § Har upphävts genom lag (2015:700).
+Samarbetsplattformar
+
+22 § Finansinspektionen får tillsammans med berörda behöriga 
+myndigheter inrätta en sådan samarbetsplattform som avses i 
+artikel 152b i Solvens II-direktivet för att förbättra 
+informationsutbytet och stärka samarbetet mellan dem när ett 
+försäkringsföretag driver verksamhet i ett eller flera andra 
+länder inom EES. Lag (2021:461).
+
+22 a § Om Finansinspektionen och de berörda behöriga 
+myndigheterna inte kan enas om inrättandet av en 
+samarbetsplattform, får inspektionen begära att Europeiska 
+försäkrings- och tjänstepensionsmyndigheten inrättar en 
+samarbetsplattform. Lag (2021:461).
+
+22 b § Finansinspektionen ska på begäran av Europeiska 
+försäkrings- och tjänstepensionsmyndigheten lämna de uppgifter 
+som den myndigheten behöver för att en samarbetsplattform ska 
+fungera väl. Lag (2021:461).
 
 Bemyndigande
 
@@ -1244,24 +1275,7 @@ värdet flyttas så snart som möjligt överföra värdet och de
 uppgifter om försäkringen som behövs till det andra
 företaget. Lag (2015:700).
 
-17 c § /Upphör att gälla U:2021-04-01/
-Vid återköp eller överföring enligt 11 kap. 5 § 
-försäkringsavtalslagen (2005:104) får försäkringsföretaget ta 
-ut avgifter som högst uppgår till ett belopp som motsvarar
-
-1. direkta kostnader för den administrativa hanteringen av 
-återköp eller överföringar, beräknade för försäkringar av 
-samma slag, och
-
-2. kvarstående anskaffningskostnader som är direkt hänförliga 
-till den återköpta eller överförda försäkringen.
-
-Försäkringsföretaget får inte ta ut avgift enligt första 
-stycket 2 senare än tio år efter det att försäkringsavtalet 
-ingicks. Lag (2019:740).
-
-17 c § /Träder i kraft I:2021-04-01/
-Vid återköp eller överföring enligt 11 kap. 5 § 
+17 c § Vid återköp eller överföring enligt 11 kap. 5 § 
 försäkringsavtalslagen (2005:104) får försäkringsföretaget ta 
 ut avgifter som högst uppgår till ett belopp som motsvarar
 
@@ -2160,18 +2174,37 @@ Lag (2015:700).
 
 Förutsättningar för att använda en intern modell
 
-2 § Tillstånd för ett försäkringsföretag att använda en
-intern modell ska ges, om
+2 § Tillstånd för ett försäkringsföretag att använda en intern 
+modell ska ges, om
 
-1. försäkringsföretaget har ett för ändamålet lämpligt
-utformat riskhanteringssystem som uppfyller kraven i 10 kap.
+1. försäkringsföretaget har ett för ändamålet lämpligt 
+utformat riskhanteringssystem som uppfyller kraven i 10 kap. 
 6 §, och
 
-2. kraven i 6 och 9–18 §§ är uppfyllda.
+2. kraven i 6 och 9-18 §§ är uppfyllda.
+Lag (2021:461).
 
-Finansinspektionen ska fatta beslut i fråga om sådant
-tillstånd inom sex månader från det att en fullständig
-ansökan kom in till inspektionen. Lag (2015:700).
+Underrättelse till Europeiska försäkrings- och 
+tjänstepensionsmyndigheten om en ansökan om tillstånd
+
+2 a § Finansinspektionen ska underrätta Europeiska 
+försäkrings- och tjänstepensionsmyndigheten om en ansökan om 
+tillstånd att använda en intern modell. Lag (2021:461).
+
+Hjälp av Europeiska försäkrings- och 
+tjänstepensionsmyndigheten vid prövning av en ansökan om 
+tillstånd
+
+2 b § Finansinspektionen får begära hjälp av Europeiska 
+försäkrings- och tjänstepensionsmyndigheten när inspektionen 
+prövar en ansökan om tillstånd att använda en intern modell.
+Lag (2021:461).
+
+Handläggning av en ansökan om tillstånd
+
+2 c § Finansinspektionen ska fatta beslut i fråga om tillstånd 
+att använda en intern modell inom sex månader från det att en 
+fullständig ansökan kom in till inspektionen. Lag (2021:461).
 
 Partiell intern modell
 
@@ -2193,22 +2226,23 @@ affärsenheter. Lag (2015:700).
 
 Tillstånd att använda en partiell intern modell
 
-4 § För att ett försäkringsföretag ska få tillstånd att
-använda en partiell intern modell krävs, utöver det som anges
+4 § För att ett försäkringsföretag ska få tillstånd att 
+använda en partiell intern modell krävs, utöver det som anges 
 i 2 §, att
 
-1. det finns godtagbara skäl att avgränsa tillämpningsområdet
-för den interna modellen på det sätt som försäkringsföretaget
-har gjort,
+1. det finns godtagbara skäl att avgränsa tillämpningsområdet 
+för den interna modellen på det sätt som försäkringsföretaget 
+har gjort, 
 
-2. solvenskapitalkravet kan beräknas mer rättvisande utifrån
-försäkringsföretagets riskprofil och bestämmelserna i 8 kap.
-1 och 2 §§ än utifrån standardformeln enligt 8 kap. 5–11 §§,
-och
+2. solvenskapitalkravet kan beräknas mer rättvisande utifrån 
+försäkringsföretagets riskprofil och bestämmelserna i 8 kap. 1 
+och 2 §§ än utifrån standardformeln enligt 8 kap. 5-11 §§, och 
 
-3. den partiella interna modellen kan integreras helt med de
+3. den partiella interna modellen kan integreras helt med de 
 beräkningar som ska ske enligt standardformeln.
-Lag (2015:700).
+
+För Finansinspektionens prövning gäller 2 a-2 c §§.
+Lag (2021:461).
 
 Övergångsplan för utvidgning av en partiell intern modell
 
@@ -2233,20 +2267,18 @@ pröva om styrdokumentet kan godkännas. Lag (2015:700).
 
 Ändring av en intern modell och styrdokument
 
-7 § Ett försäkringsföretag som fått tillstånd att använda en
-intern modell får göra mindre ändringar av denna i enlighet
-med det styrdokument för ändring av den interna modellen som
-godkänts av Finansinspektionen enligt 6 §.
+7 § Ett försäkringsföretag som fått tillstånd att använda en 
+intern modell får göra mindre ändringar av denna i enlighet 
+med det styrdokument för ändring av den interna modellen som 
+godkänts av Finansinspektionen enligt 6 §. 
 
-För större ändringar i den interna modellen krävs tillstånd
-från Finansinspektionen.
+För större ändringar i den interna modellen krävs tillstånd 
+från Finansinspektionen, som vid sin prövning ska tillämpa 
+kraven i 2 §. Vid prövningen gäller 2 a-2 c §§.
 
-Samtliga ändringar av styrdokumentet ska godkännas av
-Finansinspektionen.
-
-Kraven i 2 § ska tillämpas vid Finansinspektionens prövning
-av om tillstånd ska ges enligt andra stycket eller ändring
-godkännas enligt tredje stycket. Lag (2015:700).
+Samtliga ändringar av styrdokumentet ska godkännas av 
+Finansinspektionen, som vid sin prövning ska tillämpa kraven i 
+2 §. Vid prövningen gäller 2 c §. Lag (2021:461).
 
 Återgång till standardformeln
 
@@ -2362,24 +2394,24 @@ Lag (2015:700).
 
 Bemyndiganden
 
-19 § Regeringen eller den myndighet som regeringen bestämmer
-får meddela föreskrifter om
+19 § Regeringen eller den myndighet som regeringen bestämmer 
+får meddela föreskrifter om 
 
-1. förutsättningarna för tillstånd att använda en fullständig
-eller partiell intern modell enligt 1–5 §§,
+1. förutsättningarna för tillstånd att använda en fullständig 
+eller partiell intern modell enligt 1, 2 och 3-5 §§,
 
-2. förutsättningarna för ändring av en intern modell och
-styrdokument enligt 6 och 7 §§,
+2. förutsättningarna för ändring av en intern modell och 
+styrdokument enligt 6 och 7 §§, 
 
-3. krav på användning av statistiska kvalitetsnormer för en
-intern modell enligt 9–14 §§,
+3. krav på användning av statistiska kvalitetsnormer för en 
+intern modell enligt 9-14 §§, 
 
-4. kalibrering av en intern modell enligt 15 §,
+4. kalibrering av en intern modell enligt 15 §, 
 
-5. validering av en intern modell enligt 17 §, och
+5. validering av en intern modell enligt 17 §, och 
 
 6. krav på dokumentation enligt 18 §.
-Lag (2015:700).
+Lag (2021:461).
 
 10 kap. Företagsstyrning
 
@@ -6194,23 +6226,40 @@ riskbaserad metod. Lag (2015:700).
 Samarbete med behöriga myndigheter
 
 3 § Finansinspektionen ska, i den utsträckning som följer av 
-Sveriges medlemskap i Europeiska unionen, i sin till-
-synsverksamhet samarbeta och utbyta information med
+Sveriges medlemskap i Europeiska unionen, i sin 
+tillsynsverksamhet samarbeta och utbyta information med
 
-- andra behöriga myndigheter,
+- behöriga myndigheter,
 
 - Europeiska kommissionen,
 
 - Europeiska försäkrings- och tjänstepensionsmyndigheten, och
 
 - Europeiska centralbanken.
-Lag (2019:732).
+Lag (2021:461).
 
-3 a § Finansinspektionen får hänskjuta frågor som rör ett
-förfarande av en annan behörig myndighet inom EES till
-Europeiska försäkrings- och tjänstepensionsmyndigheten för
-tvistlösning i de fall som framgår av artiklarna 33, 38, 155
-och 158 i Solvens II-direktivet. Lag (2015:700).
+3 a § Finansinspektionen ska underrätta Europeiska 
+försäkrings- och tjänstepensionsmyndigheten och den behöriga 
+myndigheten i ett annat land inom EES, om
+
+1. inspektionen konstaterar försämringar av de ekonomiska 
+förhållandena eller andra framväxande risker i ett 
+försäkringsföretag som driver gränsöverskridande verksamhet 
+eller verksamhet från en sekundäretablering i det landet, och
+
+2. riskerna kan ha en gränsöverskridande effekt.
+Lag (2021:461).
+
+3 b § Finansinspektionen får hänskjuta frågor som rör ett 
+förfarande av en behörig myndighet inom EES till Europeiska 
+försäkrings- och tjänstepensionsmyndigheten för tvistlösning i 
+de fall som framgår av artiklarna 33, 38, 155 och 158 i 
+Solvens II-direktivet.
+
+Finansinspektionen får även hänskjuta frågor till Europeiska 
+försäkrings- och tjänstepensionsmyndigheten och begära hjälp 
+av myndigheten i de fall som framgår av artikel 152a i Solvens 
+II-direktivet. Lag (2021:461).
 
 Underrättelse från ett försäkringsföretag om påbörjad
 verksamhet
@@ -6765,13 +6814,13 @@ för att inom tre månader från den dag då bristen konstaterades
 
 Överträdelser av beslut om rättelse
 
-9 § Om ett försäkringsföretag driver verksamhet i ett annat
-land inom EES och företaget inte rättar sig efter
-Finansinspektionens eller behörig utländsk myndighets begäran
-om rättelse, ska inspektionen vidta de åtgärder som behövs för
-att förhindra fortsatta överträdelser. Inspektionen ska
-underrätta den behöriga utländska myndigheten om vilka åtgärder
-som vidtas. Lag (2015:700).
+9 § Om ett försäkringsföretag driver verksamhet i ett annat 
+land inom EES och företaget inte rättar sig efter 
+Finansinspektionens eller behörig myndighets begäran om 
+rättelse, ska inspektionen vidta de åtgärder som behövs för 
+att förhindra fortsatta överträdelser. Inspektionen ska 
+underrätta den behöriga myndigheten om vilka åtgärder som 
+vidtas. Lag (2021:461).
 
 Förbud eller begränsning i rätten att förfoga över tillgångar
 
@@ -7261,25 +7310,27 @@ Hänskjutande av ett ärende om utseende av
 grupptillsynsmyndighet till Europeiska försäkrings- och
 tjänstepensionsmyndigheten
 
-9 § Om Finansinspektionen eller någon av de berörda behöriga
-myndigheterna inom den tremånadersfrist som anges i 8 § har
-hänskjutit ärendet till Europeiska försäkrings- och
-tjänstepensionsmyndigheten och begärt myndighetens hjälp i
-enlighet med artikel 19 i förordning (EU) nr 1094/2010, i
-lydelse enligt Europaparlamentets och rådets direktiv
-2014/51/EU, ska inspektionen och de berörda behöriga
-myndigheterna invänta det beslut som Europeiska försäkrings-
-och tjänstepensionsmyndigheten kan komma att fatta enligt
-artikel 19.3 i samma förordning. Finansinspektionen ska följa
-ett sådant beslut i sak. Om Finansinspektionen utsetts till
-grupptillsynsmyndighet, ska inspektionen överlämna beslutet
-och skälen för det till försäkringsföretaget och
+9 § Om Finansinspektionen eller någon av de berörda behöriga 
+myndigheterna inom den tremånadersfrist som anges i 8 § har 
+hänskjutit ärendet till Europeiska försäkrings- och 
+tjänstepensionsmyndigheten och begärt myndighetens hjälp i 
+enlighet med artikel 19 i Europaparlamentets och rådets 
+förordning (EU) nr 1094/2010 av den 24 november 2010 om 
+inrättande av en europeisk tillsynsmyndighet (Europeiska 
+försäkrings- och tjänstepensionsmyndigheten), om ändring av 
+beslut nr 716/2009/EG och om upphävande av kommissionens 
+beslut 2009/79/EG, ska inspektionen och de berörda behöriga 
+myndigheterna invänta det beslut som Europeiska försäkrings- 
+och tjänstepensionsmyndigheten kan komma att fatta enligt 
+artikel 19.3 i samma förordning. Om Finansinspektionen utsetts 
+till grupptillsynsmyndighet, ska inspektionen överlämna 
+beslutet och skälen för det till försäkringsföretaget och 
 tillsynskollegiet.
 
-Finansinspektionen får inte hänskjuta ett ärende till
-Europeiska försäkrings- och tjänstepensionsmyndigheten efter
-det att tremånadersperioden löpt ut eller ett beslut har
-fattats. Lag (2015:700).
+Finansinspektionen får inte hänskjuta ett ärende till 
+Europeiska försäkrings- och tjänstepensionsmyndigheten efter 
+det att tremånadersperioden löpt ut eller ett beslut har 
+fattats. Lag (2021:461).
 
 10 § Om ett beslut enligt 8 och 9 §§ inte kan fattas, ska
 uppgiften som grupptillsynsmyndighet utföras av den myndighet
@@ -7494,7 +7545,7 @@ som ska beaktas i följande fall:
 1. då det inte finns kapitalbindningar mellan vissa av
 företagen i en grupp,
 
-2.  då en berörd behörig myndighet har bedömt att ett direkt
+2. då en berörd behörig myndighet har bedömt att ett direkt
 eller indirekt innehav av röster eller kapital i ett företag
 ska räknas som ägarintresse på grund av att ett betydande
 inflytande utövas över det företaget, eller
@@ -7518,16 +7569,18 @@ finansiering. Lag (2015:700).
 
 Standardformeln och interna modeller på gruppnivå
 
-21 § Om det gruppbaserade solvenskapitalkravet beräknas
-enligt konsolideringsmetoden, kan beräkningen ske antingen
-med användning av standardformeln eller med användning av en
+21 § Om det gruppbaserade solvenskapitalkravet beräknas enligt 
+konsolideringsmetoden, kan beräkningen ske antingen med 
+användning av standardformeln eller med användning av en 
 fullständig eller partiell intern modell.
 
-Bestämmelserna i 8 kap. 1–3 och 5–11 §§ ska gälla vid
-beräkning av det gruppbaserade solvenskapitalkravet enligt
-standardformeln. Bestämmelserna i 9 kap. 1–18 §§ ska gälla
-för en intern modell som används för att beräkna det
-gruppbaserade solvenskapitalkravet. Lag (2015:700).
+Bestämmelserna i 8 kap. 1-3 och 5-11 §§ ska gälla vid 
+beräkning av det gruppbaserade solvenskapitalkravet enligt 
+standardformeln. Bestämmelserna i 9 kap. 1-18 §§ ska gälla för 
+en intern modell som används för att beräkna det gruppbaserade 
+solvenskapitalkravet. Om det finns ett tillsynskollegium, ska 
+9 kap. 2 a-2 c §§ inte gälla för en sådan ansökan som avses i 
+23 a §. Lag (2021:461).
 
 Minsta värde av det gruppbaserade solvenskapitalkravet om
 konsolideringsmetoden används
@@ -7548,104 +7601,121 @@ i primärkapitalbasen enligt 7 kap. 12 §. Lag (2015:700).
 
 Tillstånd till användning av interna modeller inom en grupp
 
-23 § En intern modell som används för beräkning av det
-gruppbaserade solvenskapitalkravet får även användas för
-beräkning av solvenskapitalkravet för ett enskilt
-försäkringsföretag eller en enskild EES-försäkringsgivare som
-ingår i gruppen.
+23 § En intern modell som används för beräkning av det 
+gruppbaserade solvenskapitalkravet får även användas för 
+beräkning av solvenskapitalkravet för ett enskilt 
+försäkringsföretag eller en enskild EES-försäkringsgivare som 
+ingår i gruppen. Lag (2021:461).
 
-En ansökan om tillstånd att använda en intern modell för
-beräkning av det gruppbaserade solvenskapitalkravet och
-solvenskapitalkravet för försäkringsföretag eller
-EES-försäkringsgivare som ingår i gruppen får lämnas in till
-Finansinspektionen, när inspektionen är
-grupptillsynsmyndighet. En sådan ansökan får göras av ett
-försäkringsföretag, en EES-försäkringsgivare och dess
-anknutna företag eller gemensamt av företag som är anknutna
-till ett försäkringsholdingföretag eller ett blandat
-finansiellt holdingföretag.
+Ansökan om tillstånd att använda en intern modell inom en 
+grupp
 
-När Finansinspektionen är grupptillsynsmyndighet, ska
-inspektionen också ta emot ansökningar om tillstånd att
-använda en intern modell för beräkningen av
-solvenskapitalkravet för de försäkringsföretag och
-EES-försäkringsgivare som ingår i gruppen, om en sådan
-ansökan görs
+23 a § En ansökan om tillstånd att använda en intern modell 
+för beräkning av det gruppbaserade solvenskapitalkravet och 
+solvenskapitalkravet för försäkringsföretag eller EES-
+försäkringsgivare som ingår i gruppen får lämnas in till 
+Finansinspektionen, när inspektionen är 
+grupptillsynsmyndighet. En sådan ansökan får göras av ett 
+försäkringsföretag, en EES-försäkringsgivare och dess anknutna 
+företag eller gemensamt av företag som är anknutna till ett 
+försäkringsholdingföretag eller ett blandat finansiellt 
+holdingföretag.
 
-1. gemensamt av ett sådant försäkringsföretag som avses i 2 §
-andra stycket 1 eller 2 och de övriga försäkringsföretag och
+När Finansinspektionen är grupptillsynsmyndighet, ska 
+inspektionen också ta emot ansökningar om tillstånd att 
+använda en intern modell för beräkningen av 
+solvenskapitalkravet för de försäkringsföretag och EES-
+försäkringsgivare som ingår i gruppen, om en sådan ansökan 
+görs
+
+1. gemensamt av ett sådant försäkringsföretag som avses i 2 § 
+andra stycket 1 eller 2 och de övriga försäkringsföretag och 
 EES-försäkringsgivare som ingår i gruppen, eller
 
-2. gemensamt av sådana försäkringsföretag i en grupp som
-avses i 2 § andra stycket 3 och sådana EES-försäkringsgivare
-som ingår i gruppen.
+2. gemensamt av sådana försäkringsföretag i en grupp som avses 
+i 2 § andra stycket 3 och sådana EES-försäkringsgivare som 
+ingår i gruppen. Lag (2021:461).
 
-Om Finansinspektionen, utan att vara grupptillsynsmyndighet,
-har tagit emot en sådan ansökan som avses i andra eller
-tredje stycket och som görs av försäkringsföretag och
-EES-försäkringsgivare som ingår i gruppen ska den lämnas över
-till grupptillsynsmyndigheten.
+Överlämnande av ansökningar
 
-Finansinspektionen ska snarast möjligt överlämna ansökningar
-enligt andra och tredje styckena till de berörda behöriga
-myndigheterna. Lag (2015:700).
+23 b § Finansinspektionen ska, när inspektionen är 
+grupptillsynsmyndighet, snarast möjligt överlämna ansökningar 
+enligt 23 a § till övriga medlemmar i tillsynskollegiet, 
+inbegripet Europeiska försäkrings- och 
+tjänstepensionsmyndigheten. Även de handlingar som företag har 
+lämnat in tillsammans med en sådan ansökan ska överlämnas.
+Lag (2021:461).
+
+23 c § Om Finansinspektionen, när inspektionen inte är 
+grupptillsynsmyndighet, har tagit emot en sådan ansökan som 
+avses i 23 a §, ska den överlämnas till 
+grupptillsynsmyndigheten. Lag (2021:461).
 
 Tillämplig lag vid prövningen av en tillståndsansökan
 
-24 § När Finansinspektionen prövar en ansökan enligt 23 §
-andra stycket tillämpas denna lag. Inspektionen får dock även
-tillämpa bestämmelser som enligt författningar i en annan
-stat inom EES gäller för en sådan intern modell som avses i
-ansökan. När ansökan har lämnats in till inspektionen, gäller
-detta dock bara om det är nödvändigt för en effektiv tillsyn
-över försäkringsföretag eller EES-försäkringsgivare.
-Lag (2015:700).
+24 § När Finansinspektionen prövar en ansökan enligt 23 a § 
+tillämpas denna lag. Inspektionen får dock även tillämpa 
+bestämmelser som enligt författningar i en annan stat inom EES 
+gäller för en sådan intern modell som avses i ansökan. När 
+ansökan har lämnats in till inspektionen, gäller detta dock 
+bara om det är nödvändigt för en effektiv tillsyn över 
+försäkringsföretag eller EES-försäkringsgivare. 
+Lag (2021:461).
+
+Hjälp av Europeiska försäkrings- och 
+tjänstepensionsmyndigheten vid prövning av en 
+tillståndsansökan
+
+24 a § Finansinspektionen får begära hjälp av Europeiska 
+försäkrings- och tjänstepensionsmyndigheten när inspektionen 
+prövar en ansökan enligt 23 a §. Lag (2021:461).
 
 Handläggningen av tillståndsansökningar
 
-25 § När Finansinspektionen är grupptillsynsmyndighet, ska
-inspektionen inom sex månader från det att en fullständig
-ansökan enligt 23 § har lämnats in, om möjligt, komma överens
-med de berörda behöriga myndigheterna om vilket beslut som
-bör fattas med anledning av ansökan. Denna överenskommelse
-och skälen för den ska redovisas skriftligen.
-Finansinspektionen ska fatta ett beslut i enlighet med
+25 § När Finansinspektionen är grupptillsynsmyndighet, ska 
+inspektionen inom sex månader från det att en fullständig 
+ansökan enligt 23 a § har lämnats in, om möjligt, komma 
+överens med de berörda behöriga myndigheterna om vilket beslut 
+som bör fattas med anledning av ansökan. Denna överenskommelse 
+och skälen för den ska redovisas skriftligen. 
+Finansinspektionen ska fatta ett beslut i enlighet med 
 överenskommelsen och sända över det till sökandena.
 
-Om en sådan överenskommelse som avses i första stycket inte
-kan träffas inom den angivna perioden, ska Finansinspektionen
-ensam fatta beslut med anledning av ansökan. Beslutet ska
-innehålla de skäl som bestämt utgången i ärendet och redovisa
-synpunkter och reservationer från behöriga myndigheter som
-kommit till uttryck under sexmånadersperioden.
-Lag (2015:700).
+Om en sådan överenskommelse som avses i första stycket inte 
+kan träffas inom den angivna perioden, ska Finansinspektionen 
+ensam fatta beslut med anledning av ansökan. Beslutet ska 
+innehålla de skäl som bestämt utgången i ärendet och redovisa 
+synpunkter och reservationer från behöriga myndigheter som 
+kommit till uttryck under sexmånadersperioden. Lag (2021:461).
 
 Tvistlösning
 
-26 § Om Finansinspektionen eller någon av de berörda behöriga
-myndigheterna inom den sexmånadersperiod som avses i 25 §
-första stycket har hänskjutit ärendet till Europeiska
-försäkrings- och tjänstepensionsmyndigheten i enlighet med
-artikel 19 i förordning (EU) nr 1094/2010, i lydelsen enligt
-Europaparlamentets och rådets direktiv 2014/51/EU, ska
-inspektionen avvakta med ett beslut enligt 25 § andra stycket
-och invänta det beslut som Europeiska försäkrings- och
-tjänstepensionsmyndigheten kan komma att fatta enligt artikel
-19.3 i samma förordning. Finansinspektionen ska följa ett
-beslut i saken från Europeiska försäkrings- och
-tjänstepensionsmyndigheten.
+26 § Om Finansinspektionen eller någon av de berörda behöriga 
+myndigheterna inom den sexmånadersperiod som avses i 25 § 
+första stycket har hänskjutit ärendet till Europeiska 
+försäkrings- och tjänstepensionsmyndigheten i enlighet med 
+artikel 19 i Europaparlamentets och rådets förordning (EU) nr 
+1094/2010, ska inspektionen avvakta med ett beslut enligt 25 § 
+andra stycket och invänta det beslut som Europeiska 
+försäkrings- och tjänstepensionsmyndigheten kan komma att 
+fatta enligt artikel 19.3 i samma förordning.
 
-Om ett ärende hänskjutits till Europeiska försäkrings- och
-tjänstepensionsmyndigheten och det beslut som föreslås av
-panelen i enlighet med artiklarna 41.2, 41.3 och 44.1.3 i
-förordning (EU) nr 1094/2010, i lydelsen enligt
-Europaparlamentets och rådets direktiv 2014/51/EU, avvisas,
+Om Europeiska försäkrings- och tjänstepensionsmyndigheten har 
+fattat ett sådant beslut som avses i första stycket, ska 
+Finansinspektionen fatta sitt slutliga beslut i enlighet med 
+Europeiska försäkrings- och tjänstepensionsmyndighetens 
+beslut.
+
+Om ett ärende hänskjutits till Europeiska försäkrings- och 
+tjänstepensionsmyndigheten och den myndigheten inte fattar ett 
+sådant beslut som avses i första stycket inom den tid som 
+anges i artikel 231.3 andra stycket i Solvens II-direktivet, 
 ska Finansinspektionen fatta det slutliga beslutet.
 
-Finansinspektionen får inte hänskjuta ett ärende till
-Europeiska försäkrings- och tjänstepensionsmyndigheten efter
-det att den sexmånadersperiod som avses i första stycket har
-löpt ut eller ett beslut har fattats. Lag (2015:700).
+Finansinspektionen får inte hänskjuta ett ärende till 
+Europeiska försäkrings- och tjänstepensionsmyndigheten efter 
+det att den sexmånadersperiod som avses i första stycket har 
+löpt ut eller ett beslut har fattats. Lag (2021:461).
 
 Beslut av en utländsk grupptillsynsmyndighet
 
@@ -7746,17 +7816,16 @@ det tredjelandet. Lag (2015:700).
 Hänskjutande till Europeiska försäkrings- och
 tjänstepensionsmyndigheten vid oenighet om likvärdighet
 
-31 § Finansinspektionen får hänskjuta ett ärende till
-Europeiska försäkrings- och tjänstepensionsmyndigheten i
-enlighet med artikel 19 i förordning (EU) nr 1094/2010, i
-lydelsen enligt Europaparlamentets och rådets direktiv
-2014/51/EU, om inspektionen inte samtycker till ett beslut i
-fråga om likvärdighet som fattats av en
-grupptillsynsmyndighet enligt artikel 227.2 i Solvens
-II-direktivet. Ett ärende får hänskjutas till Europeiska
-försäkrings- och tjänstepensionsmyndigheten inom tre månader
+31 § Finansinspektionen får hänskjuta ett ärende till 
+Europeiska försäkrings- och tjänstepensionsmyndigheten i 
+enlighet med artikel 19 i Europaparlamentets och rådets 
+förordning (EU) nr 1094/2010 om inspektionen inte samtycker 
+till ett beslut i fråga om likvärdighet som fattats av en 
+grupptillsynsmyndighet enligt artikel 227.2 i Solvens II-
+direktivet. Ett ärende får hänskjutas till Europeiska 
+försäkrings- och tjänstepensionsmyndigheten inom tre månader 
 från det att grupptillsynsmyndigheten meddelat sitt beslut.
-Lag (2015:700).
+Lag (2021:461).
 
 Återkommande beräkningar av kapitalbas och kapitalkrav på
 gruppnivå
@@ -8515,46 +8584,45 @@ tillsyn. Lag (2015:700).
 Hänskjutande till Europeiska försäkrings- och
 tjänstepensionsmyndigheten vid oenighet om ansökningar
 
-86 § Finansinspektionen får hänskjuta ett ärende till
-Europeiska försäkrings- och tjänstepensionsmyndigheten i
-enlighet med artikel 19 i förordning (EU) nr 1094/2010, i
-lydelsen enligt Europaparlamentets och rådets direktiv
-2014/51/EU, om inspektionen inte inom tre månader kan komma
-överens med berörda behöriga myndigheter enligt 85 § första
-stycket. Ett ärende får inte hänskjutas till Europeiska
-försäkrings- och tjänstepensionsmyndigheten efter det att
-tremånadersperioden löpt ut eller ett beslut har fattats.
+86 § Finansinspektionen får hänskjuta ett ärende till 
+Europeiska försäkrings- och tjänstepensionsmyndigheten i 
+enlighet med artikel 19 i Europaparlamentets och rådets 
+förordning (EU) nr 1094/2010 om inspektionen inte inom tre 
+månader kan komma överens med berörda behöriga myndigheter 
+enligt 85 § första stycket. Ett ärende får inte hänskjutas 
+till Europeiska försäkrings- och tjänstepensionsmyndigheten 
+efter det att tremånadersperioden löpt ut eller ett beslut har 
+fattats.
 
-Om ett ärende som avses i första stycket hänskjutits till
-Europeiska försäkrings- och tjänstepensionsmyndigheten och
-det beslut som föreslås av panelen i enlighet med artiklarna
-41.2, 41.3 samt 44.1.3 i förordning (EU) nr 1094/2010, i
-lydelsen enligt Europaparlamentets och rådets direktiv
-2014/51/EU, avvisas, ska grupptillsynsmyndigheten fatta det
-slutliga beslutet. Lag (2015:700).
+Om ett ärende som avses i första stycket hänskjutits till 
+Europeiska försäkrings- och tjänstepensionsmyndigheten och den 
+myndigheten inte fattar något beslut inom den tid som anges i 
+artikel 237.3 andra stycket i Solvens II-direktivet, ska 
+Finansinspektionen, när inspektionen är 
+grupptillsynsmyndighet, fatta det slutliga beslutet.
+Lag (2021:461).
 
-87 § Tillstånd att omfattas av särskild tillsynsordning får
-meddelas endast om
+87 § Tillstånd att omfattas av särskild tillsynsordning får 
+meddelas endast om 
 
-1. Finansinspektionen utövar grupptillsyn över moderföretaget
-på gruppnivå och inte har beslutat att utelämna
+1. Finansinspektionen utövar grupptillsyn över moderföretaget 
+på gruppnivå och inte har beslutat att utelämna 
 dotterföretaget med stöd av 11 §,
 
-2. dotterföretaget omfattas av moderföretagets
-riskhanteringsprocesser och mekanismer för internkontroll
-samt de berörda myndigheterna har konstaterat att
-moderföretaget utövar en ansvarsfull ledning över
-dotterföretaget,
+2. dotterföretaget omfattas av moderföretagets 
+riskhanteringsprocesser och mekanismer för internkontroll samt 
+de berörda myndigheterna har konstaterat att moderföretaget 
+utövar en ansvarsfull ledning över dotterföretaget,
 
-3. moderföretaget har fått ett godkännande enligt artikel
-246.4 i Solvens II-direktivet att göra en egen risk- och
-solvensbedömning som omfattar hela gruppen och på nivån för
-dotterföretaget, och
+3. moderföretaget har fått ett godkännande enligt 
+artikel 246.4 i Solvens II-direktivet att göra en egen risk- 
+och solvensbedömning som omfattar hela gruppen och på nivån 
+för dotterföretaget, och
 
-4. moderföretaget har fått ett godkännande enligt artikel
-256.2 i Solvens II-direktivet att offentligöra en gemensam
-solvens- och verksamhetsrapport på gruppnivå och på nivån för
-dotterföretaget. Lag (2015:700).
+4. moderföretaget har fått ett godkännande enligt 
+artikel 256.2 i Solvens II-direktivet att offentliggöra en 
+gemensam solvens- och verksamhetsrapport på gruppnivå och på 
+nivån för dotterföretaget. Lag (2021:461).
 
 Innebörden av särskild tillsynsordning
 
@@ -8693,50 +8761,48 @@ enskilt försäkringsföretag. Lag (2015:700).
 Hänskjutande till Europeiska försäkrings- och
 tjänstepensionsmyndigheten vid oenighet om åtgärdsförslag
 
-96 § Finansinspektionen får hänskjuta ett ärende till
-Europeiska försäkrings- och tjänstepensionsmyndigheten i
-enlighet med artikel 19 i förordning (EU) nr 1094/2010, i
-lydelsen enligt Europaparlamentets och rådets direktiv
-2014/51/EU, om inspektionen inte inom angiven tid kan komma
-överens med grupptillsynsmyndigheten angående sådana förslag
-som avses i 89, 90, 92 och 93 §§.
+96 § Finansinspektionen får hänskjuta ett ärende till 
+Europeiska försäkrings- och tjänstepensionsmyndigheten i 
+enlighet med artikel 19 i Europaparlamentets och rådets 
+förordning (EU) nr 1094/2010 om inspektionen inte inom angiven 
+tid kan komma överens med grupptillsynsmyndigheten om sådana 
+förslag som avses i 89, 90, 92 och 93 §§.
 
-Om Finansinspektionen är grupptillsynsmyndighet och inte kan
-komma överens med den behöriga myndighet som auktoriserat en
-EES-försäkringsgivare som är ett dotterföretag och som
-omfattas av särskild tillsynsordning, får inspektionen under
-de förutsättningar som anges i första stycket hänskjuta
-ärendet till Europeiska försäkrings- och
+Om Finansinspektionen är grupptillsynsmyndighet och inte kan 
+komma överens med den behöriga myndighet som auktoriserat en 
+EES-försäkringsgivare som är ett dotterföretag och som 
+omfattas av särskild tillsynsordning, får inspektionen under 
+de förutsättningar som anges i första stycket hänskjuta 
+ärendet till Europeiska försäkrings- och 
 tjänstepensionsmyndigheten.
 
-Gäller ett ärende ett förslag enligt 89 eller 90 § får det
-hänskjutas till Europeiska försäkrings- och
-tjänstepensionsmyndigheten inom en månad från inspektionens
-förslag.
+Gäller ett ärende ett förslag enligt 89 eller 90 § får det 
+hänskjutas till Europeiska försäkrings- och 
+tjänstepensionsmyndigheten inom en månad från inspektionens 
+förslag. 
 
-Finansinspektionen får inte hänskjuta ett ärende enligt 92
-eller 93 § till Europeiska försäkrings- och
-tjänstepensionsmyndigheten, om det är en krissituation och
-inte heller efter det att fyramånadersperioden i 92 § andra
-stycket eller enmånadsperioden i 93 § andra stycket har löpt
-ut. Lag (2015:700).
+Finansinspektionen får inte hänskjuta ett ärende enligt 92 
+eller 93 § till Europeiska försäkrings- och 
+tjänstepensionsmyndigheten, om det är en krissituation och 
+inte heller efter det att fyramånadersperioden i 92 § andra 
+stycket eller enmånadsperioden i 93 § andra stycket har löpt 
+ut. Lag (2021:461).
 
-97 § Om ett ärende hänskjutits till Europeiska försäkrings-
-och tjänstepensionsmyndigheten enligt 86 eller 96 §, ska
-Finansinspektionen skjuta upp sitt beslut och invänta det
-beslut som Europeiska försäkrings- och
-tjänstepensionsmyndigheten kan komma att fatta enligt artikel
-19.3 i förordning (EU) nr 1094/2010, i lydelsen enligt
-Europaparlamentets och rådets direktiv 2014/51/EU.
-Finansinspektionen ska följa ett beslut i saken från
-Europeiska försäkrings- och tjänstepensionsmyndigheten.
-Inspektionen ska även fatta ett beslut i enlighet med
-Europeiska försäkrings- och tjänstepensionsmyndighetens
-beslut. Inspektionens beslut ska innehålla de skäl som har
-bestämt utgången i ärendet och överlämnas till
-dotterföretaget och tillsynskollegiet. Beslutet är bindande
-för de berörda företagen och Finansinspektionen och ska ligga
-till grund för inspektionens tillsyn. Lag (2015:700).
+97 § Om ett ärende hänskjutits till Europeiska försäkrings- 
+och tjänstepensionsmyndigheten enligt 86 eller 96 §, ska 
+Finansinspektionen skjuta upp sitt beslut och invänta det 
+beslut som Europeiska försäkrings- och 
+tjänstepensionsmyndigheten kan komma att fatta enligt 
+artikel 19.3 i Europaparlamentets och rådets förordning (EU) 
+nr 1094/2010. Finansinspektionen ska följa ett beslut i saken 
+från Europeiska försäkrings- och tjänstepensionsmyndigheten. 
+Inspektionen ska även fatta ett beslut i enlighet med 
+Europeiska försäkrings- och tjänstepensionsmyndighetens 
+beslut. Inspektionens beslut ska innehålla de skäl som har 
+bestämt utgången i ärendet och överlämnas till dotterföretaget 
+och tillsynskollegiet. Beslutet är bindande för de berörda 
+företagen och Finansinspektionen och ska ligga till grund för 
+inspektionens tillsyn. Lag (2021:461).
 
 Upphörande av särskild tillsynsordning
 
@@ -9001,13 +9067,13 @@ och dessa åtgärder bedöms tillräckliga. Lag (2015:700).
 
 Överträdelser av beslut om rättelser
 
-14 § Om ett specialföretag driver verksamhet i ett annat land
-inom EES och företaget inte rättar sig efter
-Finansinspektionens eller en behörig utländsk myndighets
-begäran om rättelse, ska inspektionen vidta de åtgärder som
-behövs för att förhindra fortsatta överträdelser.
-Inspektionen ska underrätta den behöriga utländska
-myndigheten om vilka åtgärder som vidtas. Lag (2015:700).
+14 § Om ett specialföretag driver verksamhet i ett annat land 
+inom EES och företaget inte rättar sig efter 
+Finansinspektionens eller en behörig myndighets begäran om 
+rättelse, ska inspektionen vidta de åtgärder som behövs för 
+att förhindra fortsatta överträdelser. Inspektionen ska 
+underrätta den behöriga myndigheten om vilka åtgärder som 
+vidtas. Lag (2021:461).
 
 Vid återkallelse av tillstånd
 
@@ -9416,27 +9482,7 @@ avser tjänstepensionsförsäkring.
 
 1. Denna lag träder i kraft den 1 januari 2020.
 
-2. /Upphör att gälla U:2021-04-01/
-Vid återköp eller överföring enligt 11 kap. 5 § 
-försäkringsavtalslagen (2005:104) ska försäkringsföretaget, i 
-fråga om försäkringsavtal som har ingåtts före 
-ikraftträdandet, men efter den 30 juni 2007 och inte förnyats 
-efter ikraftträdandet,
-
-a) bestämma avgifter på grundval av de kostnader som belöper 
-på återköpet eller överföringen, men utan beaktande av den 
-fordran som kvarstår mot försäkringstagaren för kostnader som 
-har uppkommit i samband med att försäkringsavtalet ingicks, 
-enligt 11 kap. 18 §, 12 kap. 69 § eller 13 kap. 23 § i den 
-äldre lydelsen, och 
-
-b) ta ut avgifter som högst uppgår till ett belopp som 
-motsvarar kvarstående anskaffningskostnader som är direkt 
-hänförliga till den återköpta eller överförda försäkringen 
-enligt 4 kap. 17 c § första stycket 2 och andra stycket.
-
-2. /Träder i kraft I:2021-04-01/
-Vid återköp eller överföring enligt 11 kap. 5 § 
+2. Vid återköp eller överföring enligt 11 kap. 5 § 
 försäkringsavtalslagen (2005:104) ska försäkringsföretaget, i 
 fråga om försäkringsavtal som har ingåtts före 
 ikraftträdandet, men efter den 30 juni 2007 och inte förnyats 
