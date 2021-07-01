@@ -49,8 +49,10 @@ Hälso- och sjukvård	Verksamhet som avses i hälso- och
 			lagen (2018:744) om försäkringsmedicinska 
 			utredningar, lagen (2019:1297) om 
 			koordineringsinsatser för sjukskrivna 
-			patienter samt den upphävda lagen 
-			(1944:133) om kastrering.
+			patienter, lagen (2021:363) om estetiska 
+			kirurgiska ingrepp och estetiska 
+			injektionsbehandlingar samt den upphävda 
+			lagen (1944:133) om kastrering.
 
 Journalhandling		Framställning i skrift eller bild samt 
 			upptagning som kan läsas, avlyssnas 
@@ -63,6 +65,8 @@ Journalhandling		Framställning i skrift eller bild samt
 			eller om vidtagna eller planerade 
 			vårdåtgärder.
 
+	
+
 Patientjournal		En eller flera journalhandlingar som 
 			rör samma patient.
 
@@ -72,6 +76,8 @@ journalföring		Ett elektroniskt system, som gör det
 			få direktåtkomst till personuppgifter 
 			hos en annan vårdgivare.
 
+	
+
 Vårdgivare		Statlig myndighet, region och kommun i 
 			fråga om sådan hälso- och sjukvård som 
 			myndigheten, regionen eller kommunen har 
@@ -79,7 +85,7 @@ Vårdgivare		Statlig myndighet, region och kommun i
 			annan juridisk person eller enskild 
 			näringsidkare som bedriver hälso- och 
 			sjukvård (privat vårdgivare).
-Lag (2019:1299).
+Lag (2021:365).
 
 Förhållandet till annan dataskyddsreglering
  
@@ -324,12 +330,7 @@ oriktig eller missvisande, ska det antecknas i journalen.
 9 § Uppgifter som ska antecknas enligt 6-8 §§ ska föras in i
 journalen så snart som möjligt.
 
-10 § /Upphör att gälla U:2021-07-01/
-En journalanteckning ska, om det inte finns något
-synnerligt hinder, signeras av den som ansvarar för uppgiften.
-
-10 § /Träder i kraft I:2021-07-01/
-En journalanteckning ska, om det inte är obehövligt eller 
+10 § En journalanteckning ska, om det inte är obehövligt eller 
 finns något synnerligt hinder mot det, signeras av den som är 
 ansvarig för uppgiften. Lag (2020:1042).
 
@@ -339,18 +340,7 @@ patientjournalen vem som har fått handlingen, avskriften eller
 kopian och när denna har lämnats ut. Detta gäller dock inte
 utlämnande genom direktåtkomst.
 
-12 § /Upphör att gälla U:2021-07-01/
-Regeringen eller den myndighet som regeringen bestämmer
-får meddela föreskrifter om undantag från 6 § andra stycket 1
-när det gäller provtagning för viss sjukdom och från 10 § om
-signeringskrav.
-
-Regeringen eller den myndighet som regeringen bestämmer får
-meddela föreskrifter om en journalhandlings innehåll och
-utformning.
-
-12 § /Träder i kraft I:2021-07-01/
-Regeringen eller den myndighet som regeringen bestämmer 
+12 § Regeringen eller den myndighet som regeringen bestämmer 
 får meddela föreskrifter om 
 
 1. undantag från 6 § andra stycket 1 när det gäller 
@@ -488,25 +478,7 @@ för vården av patienten göras tillgängliga.
 
 Skydd för identitet i vissa fall
 
-6 § /Upphör att gälla U:2021-05-01/
-I 14 § lagen (1996:1156) om receptregister finns 
-bestämmelser om att E-hälsomyndigheten ska lämna ut vissa 
-uppgifter till regionerna om förskrivning av läkemedel och 
-andra varor och att uppgifter om patientens identitet ska vara 
-krypterade vid utlämnandet.
-
-Uppgifter som avses i första stycket får inte behandlas i 
-syfte att röja en patients identitet utan att patienten 
-samtycker till det.
-
-Uppgifter om en patients identitet som har dokumenterats inom 
-hälso- och sjukvården och som regionerna ska sambearbeta med 
-sådana uppgifter som avses i första stycket, ska vara 
-krypterade så att patientens identitet skyddas vid 
-behandlingen. Lag (2019:931).
-
-6 § /Träder i kraft I:2021-05-01/
-I 6 kap. 3 § lagen (2018:1212) om nationell 
+6 § I 6 kap. 3 § lagen (2018:1212) om nationell 
 läkemedelslista finns bestämmelser om att E-hälsomyndigheten 
 ska lämna ut vissa uppgifter till regionerna om förskrivning 
 av läkemedel och andra varor och att uppgifter om patientens 
@@ -579,16 +551,23 @@ automatiserad behandling.
 
 Direktåtkomst till uppgifter hos en annan vårdgivare
 
-1 § En vårdgivare får, under de förutsättningar som anges 
-i 2 §, ha direktåtkomst till personuppgifter som behandlas av 
+1 § En vårdgivare får, under de förutsättningar som anges i 
+2 §, ha direktåtkomst till personuppgifter som behandlas av 
 andra vårdgivare för ändamål som anges i 2 kap. 4 § första 
 stycket 1 och 2.
 
 En vårdgivare får inte ha direktåtkomst till personuppgifter 
 som behandlas av en annan vårdgivare i en utredning enligt 
 lagen (2018:744) om försäkringsmedicinska utredningar. I den 
-lagen finns särskilda bestämmelser om direktåtkomst vid 
-sådana utredningar. Lag (2018:747).
+lagen finns särskilda bestämmelser om direktåtkomst vid sådana 
+utredningar.
+
+En vårdgivare får inte ha direktåtkomst till personuppgifter 
+som behandlas av en annan vårdgivare i verksamhet som omfattas 
+av lagen (2021:363) om estetiska kirurgiska ingrepp och 
+estetiska injektionsbehandlingar. I den lagen finns särskilda 
+bestämmelser om direktåtkomst vid sådan verksamhet.
+Lag (2021:365).
 
 Patientens inflytande vid sammanhållen journalföring m.m.
 
