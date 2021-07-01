@@ -236,19 +236,19 @@ kontroller av punktskattepliktiga varor. Lag (2012:775).
 
 Enskilds rätt att ta del av uppgifter
 
-5 § Från databasen får nedan angivna uppgifter lämnas ut 
-till en enskild, om det inte av särskild anledning kan antas 
-att den enskilde som uppgiften avser eller någon närstående 
-lider men om uppgiften röjs. 
+5 § Från databasen får nedan angivna uppgifter lämnas ut till 
+en enskild, om det inte av särskild anledning kan antas att 
+den enskilde som uppgiften avser eller någon närstående lider 
+men om uppgiften röjs.
 
-Uppgifter får lämnas ut om 
+Uppgifter får lämnas ut om
 
 1. namn och personnummer,
 
 2. organisationsnummer, namn, företagsnamn och juridisk form 
 samt i fråga om handelsbolag och andra juridiska personer 
 sådana uppgifter om huvudkontor och säte som avses i 67 kap. 
-8 § skatteförfarandelagen (2011:1244),
+8 § skatteförfarandelagen (2011:1244), 
 
 3. registrering enligt skatteförfarandelagen samt särskilt 
 registrerings- eller redovisningsnummer, 
@@ -261,19 +261,22 @@ betala arbetsgivaravgifter,
 
 6. slag av näringsverksamhet, 
 
-7. beslut om likvidation, förenklad avveckling eller 
-konkurs,
+7. beslut om likvidation, förenklad avveckling eller konkurs,
 
 8. huruvida en fysisk eller juridisk person är godkänd som 
 skattebefriad förbrukare enligt lagen (1994:1564) om 
 alkoholskatt eller lagen (1994:1776) om skatt på energi och i 
-sådana fall från vilken tidpunkt, och
+sådana fall från vilken tidpunkt,
 
 9. huruvida en fysisk eller juridisk person är godkänd som 
-registrerad avsändare enligt lagen (1994:1563) om 
-tobaksskatt, lagen om alkoholskatt eller lagen om skatt på 
-energi och i sådana fall från vilken tidpunkt.
-Lag (2018:1678).
+registrerad avsändare enligt lagen (1994:1563) om tobaksskatt, 
+lagen om alkoholskatt eller lagen om skatt på energi och i 
+sådana fall från vilken tidpunkt, och
+
+10. huruvida en distansförsäljare enligt lagen om tobaksskatt, 
+lagen om alkoholskatt eller lagen om skatt på energi har 
+ställt säkerhet för skatten på de varor som sänds från det 
+andra EU-landet. Lag (2021:430).
 
 Utlämnande av uppgifter till enskilda på medium för
 automatiserad behandling
@@ -428,7 +431,7 @@ handlingarna kan hänföras till gick ut.
 12 § Uppgifter och handlingar som avser
 
 1. revision ska gallras tio år efter utgången av det 
-kalenderår då revisionen avslutades, och 
+kalenderår då revisionen avslutades, och
 
 2. fastighetstaxering ska gallras tolv år efter utgången av 
 det taxeringsår som uppgifterna eller handlingarna kan 
@@ -448,9 +451,10 @@ skatt på kemikalier i viss elektronik, lagen (2018:696) om
 skatt på vissa nikotinhaltiga produkter och lagen (2020:32) om 
 skatt på plastbärkassar samt uppgifter och handlingar om 
 registrerade mottagare och registrerade EU-handlare enligt 
-lagen om skatt på kemikalier i viss elektronik ska gallras sju 
-år efter utgången av det kalenderår då godkännandet blev 
-återkallat.
+lagen om skatt på kemikalier i viss elektronik och 
+registrerade distansförsäljare av tuggtobak och övrig tobak 
+enligt lagen om tobaksskatt ska gallras sju år efter utgången 
+av det kalenderår då godkännandet blev återkallat.
 
 Uppgifter och handlingar som avses i 4 a § ska gallras tio år 
 efter utgången av det kalenderår då de meddelanden som är 
@@ -458,7 +462,7 @@ kopplade till den administrativa referenskoden enligt 22 b §
 andra stycket lagen om tobaksskatt, 21 b § andra stycket lagen 
 om alkoholskatt eller 6 kap. 4 § andra stycket lagen om skatt 
 på energi eller annan sammanhållande identifikationsuppgift 
-senast ändrades. Lag (2020:570).
+senast ändrades. Lag (2021:430).
 
 13 § Vad som sägs i 11 och 12 §§ hindrar inte att regeringen
 eller den myndighet som regeringen bestämmer meddelar
