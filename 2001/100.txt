@@ -313,6 +313,8 @@ Ekonomistyrningsverket
 
 Finansinspektionen
 
+Folkhälsomyndigheten
+
 Försäkringskassan
 
 Havs- och vattenmyndigheten
@@ -323,11 +325,11 @@ Konjunkturinstitutet
 
 Kungliga biblioteket
 
-Medlingsinstitutet 
+Medlingsinstitutet
 
 Myndigheten för familjerätt och föräldraskapsstöd
 
-Myndigheten för kulturanalys 
+Myndigheten för kulturanalys
 
 Myndigheten för tillväxtpolitiska utvärderingar och analyser
 
@@ -370,6 +372,8 @@ Demokrati
 Energi
 
 Finansmarknad
+
+Folkhälsa
 
 Handel med varor och tjänster
 
@@ -467,9 +471,20 @@ Aktieägarstatistik                      Finansinspektionen
 Finansiella företag utom försäkring     Finansinspektionen
 Försäkring                              Finansinspektionen
 
-HANDEL MED VAROR OCH TJÄNSTER
-Inrikeshandel                           SCB
-Utrikeshandel                           SCB
+FOLKHÄLSA	
+Folkhälsans utveckling			Folkhälsomyndigheten
+Smittskydd				Folkhälsomyndigheten 
+
+Behandling av känsliga personuppgifter m.m.
+
+För framställning av statistik över Folkhälsans utveckling och 
+Smittskydd får personuppgifter enligt 8 § behandlas som avser 
+enskilda personers hälsotillstånd och sexualliv eller sexuella 
+läggning. 
+
+HANDEL MED VAROR OCH TJÄNSTER	
+Inrikeshandel				SCB
+Utrikeshandel				SCB
 
 HÄLSO- OCH SJUKVÅRD
 Hälsa och sjukdomar                     Socialstyrelsen
@@ -670,4 +685,4 @@ kommunal vuxenutbildning som särskild utbildning.
 För framställning av statistik över Folkhögskola får 
 personuppgifter enligt 8 § behandlas som avser enskilda 
 personers hälsotillstånd.
-Förordning (2021:26).
+Förordning (2021:581).
