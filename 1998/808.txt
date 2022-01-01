@@ -3668,24 +3668,22 @@ enskilda trädstammar. Lag (2016:781).
 8 § Regeringen eller den myndighet som regeringen bestämmer 
 får meddela
 
-1. föreskrifter om hantering, införsel och utförsel av 
-kemiska produkter, biotekniska organismer och varor i frågor 
-som avses i 2 kap. 2–4 §§,
+1. föreskrifter om hantering, införsel och utförsel av kemiska 
+produkter, biotekniska organismer och varor i frågor som avses 
+i 2 kap. 2-4 §§,
 
 2. föreskrifter som behövs från hälso- eller 
-miljöskyddssynpunkt om krav på tillstånd eller godkännande 
-för hantering, införsel och utförsel av en kemisk produkt, 
+miljöskyddssynpunkt om krav på tillstånd eller godkännande för 
+hantering, införsel och utförsel av en kemisk produkt, 
 bioteknisk organism eller vara,
 
 3. föreskrifter om särskilda villkor som behövs från hälso- 
-eller miljöskyddssynpunkt för hantering, införsel och 
-utförsel av en kemisk produkt, bioteknisk organism eller 
-vara,
+eller miljöskyddssynpunkt för hantering, införsel och utförsel 
+av en kemisk produkt, bioteknisk organism eller vara,
 
 4. föreskrifter om förbud som är av särskild betydelse från 
 hälso- eller miljöskyddssynpunkt mot hantering, införsel och 
-utförsel av en kemisk produkt, bioteknisk organism eller 
-vara,
+utförsel av en kemisk produkt, bioteknisk organism eller vara,
 
 5. föreskrifter om krav på anmälan innan ett bekämpningsmedel 
 saluhålls eller används,
@@ -3694,18 +3692,18 @@ saluhålls eller används,
 stycket att sprida bekämpningsmedel från luftfartyg som det 
 finns synnerliga skäl för,
 
-7. föreskrifter om införsel, överlåtelse och förbränning av 
-bränsle, handel med bränsle samt bränsles egenskaper och 
-kvalitet som behövs för att motverka utsläpp i luften av 
-ämnen som kan medföra olägenhet för människors hälsa eller 
-miljön,
+7. föreskrifter om hantering, införsel, överlåtelse och 
+förbränning av bränsle, handel med bränsle samt bränsles 
+egenskaper och kvalitet som behövs för att motverka utsläpp i 
+luften av ämnen som kan medföra olägenhet för människors hälsa 
+eller miljön,
 
-8. föreskrifter som behövs till följd av Sveriges medlemskap 
-i Europeiska unionen om hantering, införsel och utförsel av 
+8. föreskrifter som behövs till följd av Sveriges medlemskap i 
+Europeiska unionen om hantering, införsel och utförsel av 
 kemiska produkter, biotekniska organismer och varor, 
 
-9. föreskrifter som behövs till följd av Sveriges medlemskap 
-i Europeiska unionen om att på marknaden släppa ut, 
+9. föreskrifter som behövs till följd av Sveriges medlemskap i 
+Europeiska unionen om att på marknaden släppa ut, 
 tillhandahålla eller ta i drift utrustning som är avsedd för 
 hantering av kemiska produkter eller biotekniska organismer, 
 och
@@ -3714,15 +3712,15 @@ och
 i Europeiska unionen om kontroll av utrustning som är avsedd 
 för spridning av bekämpningsmedel.
 
-Föreskrifter om varor enligt första stycket 1, 2, 3, 4 eller 
-8 får meddelas endast i fråga om varor som på grund av sitt 
+Föreskrifter om varor enligt första stycket 1, 2, 3, 4 eller 8 
+får meddelas endast i fråga om varor som på grund av sitt 
 innehåll av en kemisk produkt eller på grund av att de har 
 behandlats med en kemisk produkt kan befaras medföra skada på 
-människor eller miljön eller andra intressen som skyddas 
-genom denna balk.
+människor eller miljön eller andra intressen som skyddas genom 
+denna balk.
 
 Regeringen får överlåta åt en kommun att meddela sådana 
-föreskrifter som avses i första stycket 7. Lag (2016:781).
+föreskrifter som avses i första stycket 7. Lag (2021:881).
 
 9 § Den myndighet som regeringen bestämmer får i det enskilda
 fallet ge dispens från förbuden i 7 § andra stycket, om det
@@ -3939,14 +3937,23 @@ syftar till att behandla uttjänta bilar, och
 bygg- och rivningsavfall: avfall från bygg- och 
 rivningsarbeten. Lag (2020:601).
 
-9 § Med producent avses i detta kapitel den som
+8 a § Med producent avses i detta kapitel den som yrkesmässigt
 
-1. yrkesmässigt tillverkar, för in till Sverige eller 
-överlåter en vara eller en förpackning, eller 
+1. utvecklar, tillverkar, bearbetar, behandlar eller överlåter 
+produkter, eller
 
-2. den som i sin yrkesmässiga verksamhet frambringar avfall 
-som kräver särskilda åtgärder av renhållnings- eller 
-miljöskäl. Lag (2016:782).
+2. för in produkter till Sverige. Lag (2021:881).
+
+9 § I denna balk avses med
+
+system för utökat producentansvar för avfallshantering: ett 
+system som innebär att producenter ansvarar ekonomiskt eller 
+organisatoriskt för hanteringen av avfallsledet i en produkts 
+livscykel, och
+
+producentansvarsorganisation: en juridisk person som 
+förebygger eller hanterar avfall från producenters produkter.
+Lag (2021:881).
 
 När avfall upphör att vara avfall
 
@@ -4033,44 +4040,68 @@ med 10 §, och
 2. kostnaderna för att hantera det avfall som har producerats.
 Lag (2020:601).
 
-Producentansvar
+Producentens och producentansvarsorganisationens ansvar
 
-12 § Regeringen eller den myndighet som regeringen bestämmer 
-får meddela föreskrifter om skyldighet för producenter att se 
-till att avfall samlas in, transporteras bort, återvinns 
-eller bortskaffas på ett hälso- och miljömässigt godtagbart 
-sätt. Sådana föreskrifter får endast avse avfall från sådan 
-verksamhet som producenterna bedriver och avfall som utgörs 
-av sådana varor eller förpackningar som producenterna 
-tillverkar, för in till Sverige eller överlåter. 
+12 § För att införa system för utökat producentansvar för 
+avfallshantering får regeringen eller den myndighet som 
+regeringen bestämmer meddela föreskrifter om skyldighet för 
+producenter att
 
-Föreskrifter enligt första stycket om skyldighet för en 
-producent att hantera avfall som utgörs av varor eller 
-förpackningar som producenten inte tillverkat, fört in till 
-Sverige eller överlåtit får endast avse den del av avfallet 
-som motsvarar producentens andel av marknaden för nya sådana 
-varor eller förpackningar eller på annat sätt står i rimlig 
-proportion till producentens verksamhet. Lag (2016:782).
+1. se till att avfall hanteras i enlighet med 11 § och på ett 
+sätt som möjliggör en lämplig behandling enligt 10 §,
+
+2. betala avgifter för att täcka det allmännas kostnader för 
+hantering av avfall som skräpats ned och information om 
+nedskräpning, eller på annat sätt ansvara ekonomiskt för 
+avfallshantering och information om hanteringen,
+
+3. inrätta ett system för egenkontroll för att säkerställa att 
+skyldigheter enligt denna balk, föreskrifter som är meddelade 
+med stöd av balken och skyldigheter som följer av EU-
+förordningar inom balkens tillämpningsområde följs, och
+
+4. vidta åtgärder som möjliggör en effektiv insamling av 
+avfall.
+
+Föreskrifter enligt första stycket får endast avse avfall som 
+utgörs av den typ av produkter som producenterna utvecklar, 
+tillverkar, bearbetar, behandlar, överlåter eller för in till 
+Sverige. Föreskrifter som avser sådant avfall, och som utgörs 
+även av produkter som producenten inte utvecklat, tillverkat, 
+bearbetat, behandlat, överlåtit eller fört in till Sverige får 
+endast avse den del av avfallet som motsvarar producentens 
+andel av marknaden för nya produkter av sådan typ eller som på 
+annat sätt står i rimlig proportion till producentens 
+verksamhet. Lag (2021:881).
 
 13 § Regeringen eller den myndighet som regeringen bestämmer 
 får, för att främja avfallsförebyggande åtgärder eller en 
 hälso- och miljömässigt godtagbar avfallshantering, meddela 
 föreskrifter om skyldighet för producenterna att
 
-1. märka en vara eller förpackning,
+1. se till att produkter är märkta,
 
-2. lämna uppgifter av betydelse för producentansvaret om 
-vilka ämnen och material som en vara eller en förpackning 
-innehåller samt om insamling, återanvändningsgrad, 
-återvinningsgrad eller andra förhållanden, och
+2. lämna information och uppgifter om vilka ämnen och material 
+som en produkt innehåller samt om insamling, 
+återanvändningsgrad, återvinningsgrad eller andra 
+förhållanden,
 
-3. se till att varor eller förpackningar har en viss 
-sammansättning, återanvändbarhet och återvinningsbarhet.
+3. se till att produkter har en viss sammansättning, 
+återanvändbarhet och återvinningsbarhet,
 
-Föreskrifter enligt första stycket 3 får i fråga om andra 
-varor än förpackningar avse endast sådana skyldigheter som 
-behövs till följd av Sveriges medlemskap i Europeiska 
-unionen. Lag (2016:782).
+4. vidta åtgärder som möjliggör en effektiv insamling av 
+använda produkter, och
+
+5. vidta andra avfallsförebyggande åtgärder.
+
+Föreskrifterna om skyldigheter för en producent att vidta 
+åtgärder som möjliggör en effektiv insamling av använda 
+produkter som producenten inte utvecklat, tillverkat, 
+bearbetat, behandlat, överlåtit eller fört in till Sverige får 
+dock enbart avse den del av marknaden som motsvarar 
+producentens andel av marknaden för sådana produkter eller som 
+på annat sätt står i rimlig proportion till producentens 
+verksamhet. Lag (2021:881).
 
 14 § Regeringen eller den myndighet som regeringen bestämmer 
 får meddela föreskrifter om
@@ -4087,75 +4118,49 @@ skyldigheter. Lag (2016:782).
 15 § Regeringen eller den myndighet som regeringen bestämmer 
 får meddela föreskrifter om
 
-1. skyldighet för producenter av förpackningar, producenter av 
-papper för tidningar, tidskrifter, direktreklam, kataloger 
-eller andra liknande pappersprodukter och producenter av 
-elektriska eller elektroniska produkter att se till att 
-förpackningarna, papperet eller de elektriska och elektroniska 
-produkterna omfattas av ett insamlingssystem för behandling 
-eller återanvändning,
+1. skyldighet för producenter att tillhandahålla eller anlita 
+en producentansvarsorganisation,
 
-2. tillstånd för yrkesmässig drift av ett sådant 
-insamlingssystem,
+2. förbud att yrkesmässigt överlåta eller saluföra produkter 
+om produktens producent inte tillhandahåller eller har anlitat 
+en producentansvarsorganisation,
 
-3. skyldighet för den som driver ett sådant insamlingssystem 
-att
+3. tillstånd, godkännande eller anmälan för yrkesmässig drift 
+av en producentansvarsorganisation,
 
-a) lämna information till producenter och avfallsproducenter 
-om återanvändning, sortering, insamling och behandling, och
+4. kriterier för hur ersättning som en 
+producentansvarsorganisation tar ut från producenterna ska 
+bestämmas, och
 
-b) vidta åtgärder för att främja återanvändning, och
-
-4. skyldighet för den som driver ett system för återanvändning 
-av förpackningar att anmäla detta.
-
-Föreskrifter enligt första stycket 1 får endast avse 
-producenter som omfattas av föreskrifter som har meddelats med 
-stöd av 12 §. Lag (2020:601).
+5. skyldighet för en producentansvarsorganisation att fullgöra 
+sådana skyldigheter som kan föreskrivas för producenter enligt 
+12 och 13 §§. Lag (2021:881).
 
 16 § Regeringen eller den myndighet som regeringen bestämmer 
-får i fråga om förpackningar för konsumtionsfärdig dryck 
-gjorda av plast eller metall meddela föreskrifter om
+får meddela föreskrifter om att den som driver eller avser att 
+driva ett yrkesmässigt system för återanvändning av 
+förpackningar ska anmäla det. Lag (2021:881).
 
-1. att insamlingssystem för sådana förpackningar utformas så 
-att de genom utbetalning av pant eller premie uppmuntrar att 
-förpackningar lämnas tillbaka till systemen,
+16 a § Regeringen eller den myndighet som regeringen bestämmer 
+får meddela föreskrifter om att den som är etablerad i Sverige 
+och yrkesmässigt förmedlar distansförsäljning av produkter som 
+omfattas av ett system för utökat producentansvar till 
+slutanvändare i Sverige
 
-2. skyldighet för producenter av sådana förpackningar att se 
-till att förpackningarna förses med märkning med uppgifter om 
-insamlingssystemet,
+1. ska vara skyldig att registrera sig, och
 
-3. förbud för producenter av sådana förpackningar att 
-överlåta eller saluföra dem om de inte omfattas av ett 
-insamlingssystem,
-
-4. krav på tillstånd för yrkesmässig tappning av 
-konsumtionsfärdig dryck i sådana förpackningar, 
-
-5. krav på tillstånd för införsel till Sverige av 
-konsumtionsfärdig dryck i sådana förpackningar, och
-
-6. avgift vid införsel, och de andra åtgärder som behövs, för 
-att säkerställa att inhemska och till Sverige införda 
-förpackningar av detta slag kan konkurrera på lika villkor.
-Lag (2016:782).
+2. endast får förmedla distansförsäljning från säljare som har 
+uppfyllt skyldigheter enligt föreskrifter som har meddelats 
+med stöd av 15 § 1. Lag (2021:881).
 
 Tillstånds- och anmälningsplikt för viss avfallshantering
 
 17 § Regeringen eller den myndighet som regeringen bestämmer 
-får meddela föreskrifter om att det krävs tillstånd eller 
-anmälan för att yrkesmässigt transportera avfall.
-Lag (2016:782).
+får meddela föreskrifter om att det krävs tillstånd, anmälan 
+eller registrering för att yrkesmässigt hantera avfall.
+Lag (2021:881).
 
-18 § Regeringen eller den myndighet som regeringen bestämmer 
-får meddela föreskrifter om att det krävs en anmälan till den 
-myndighet som regeringen bestämmer eller till kommunen för 
-att
-
-1. yrkesmässigt samla in avfall, eller
-
-2. yrkesmässigt köpa eller sälja avfall eller förmedla avfall 
-för bortskaffande eller återvinning. Lag (2016:782).
+18 § Har upphävts genom lag (2021:881).
 
 19 § Regeringen eller den myndighet eller kommun som 
 regeringen bestämmer får meddela föreskrifter om att det 
@@ -4196,9 +4201,10 @@ omständigheterna. Lag (2020:601).
 
 21 § Regeringen eller den myndighet som regeringen bestämmer 
 får meddela föreskrifter om undantag från kommunens ansvar 
-enligt 20 och 20 a §§ i fråga om avfall som omfattas av 
-producentansvar enligt föreskrifter som har meddelats med stöd 
-av 12 §. Lag (2020:601).
+enligt 20 och 20 a §§ i fråga om avfall som ska samlas in 
+eller behandlas av en producent eller en 
+producentansvarsorganisation enligt föreskrifter som har 
+meddelats med stöd av 12 eller 15 §. Lag (2021:881).
 
 22 § Regeringen eller den myndighet eller kommun som 
 regeringen bestämmer får meddela föreskrifter om att kommunen 
@@ -4482,7 +4488,7 @@ kap. gäller dock vad som är föreskrivet om brottmål i
 allmänhet.
 
 Närmare bestämmelser om vilka mål och ärenden som prövas av
-respek-  tive prövningsmyndighet finns i 17 kap. 1–4 §§, 18
+respektive prövningsmyndighet finns i 17 kap. 1–4 §§, 18
 kap. 1–2 §§, 19 kap. 1–2 §§, 21 kap. 1 § och i lagen
 (2010:921) om mark- och miljödomstolar.
 
@@ -4901,6 +4907,8 @@ Mindre avvikelse
 8 § Om det finns särskilda skäl får länsstyrelsen tillåta en
 mindre avvikelse från ett tillåtlighetsbeslut som gäller en
 väg eller järnväg. Lag (2012:441).
+
+17 a kap. Har upphävts genom lag (2021:876).
 
 18 kap. Regeringens prövning av överklagade avgöranden m.m.
 
@@ -6218,14 +6226,14 @@ Verkan av domar och beslut enligt miljöbalken
 ansökningsmål enligt 21 kap. 1 a § första stycket denna balk 
 eller 7 kap. 1 § lagen (1998:812) med särskilda bestämmelser 
 om vattenverksamhet avser tillstånd till en verksamhet enligt 
-balken och domen eller beslutet har vunnit laga kraft, gäller 
-tillståndet mot alla, såvitt avser frågor som har prövats i 
-domen eller beslutet. Detsamma gäller beslut om tillstånd 
-till miljöfarlig verksamhet som har meddelats av en 
-länsstyrelse eller kommun med stöd av 9 kap. 8 § samt beslut 
-om tillstånd till markavvattning som har meddelats av en 
-länsstyrelse enligt 11 kap. Om tillståndet avser utförandet 
-av en vattenanläggning, innefattar det rätt att bibehålla 
+balken och domen eller beslutet har fått laga kraft, gäller 
+tillståndet mot alla, vad avser frågor som har prövats i domen 
+eller beslutet. Detsamma gäller beslut om tillstånd till 
+miljöfarlig verksamhet som har meddelats av en länsstyrelse 
+eller kommun med stöd av 9 kap. 8 § samt beslut om tillstånd 
+till markavvattning som har meddelats av en länsstyrelse 
+enligt 11 kap. Om tillståndet avser utförandet av en 
+vattenanläggning, innefattar det rätt att bibehålla 
 anläggningen. Till följd av detta kapitel, till följd av 
 7 kap. 20 eller 22 §, 9 kap. 5 §, 10 kap. 17 §, 11 kap. 9 c § 
 eller 12 kap. 10 § denna balk eller till följd av 2 kap. 10 § 
@@ -6239,9 +6247,9 @@ enligt 10 kap. 14 § eller 26 kap. 9 § fjärde stycket.
 Med tillstånd avses i detta kapitel även godkännande av 
 arbeten eller åtgärder enligt 11 kap. 16 §.
 
-En omprövningsdom eller ett omprövningsbeslut har samma 
-verkan som en tillståndsdom eller ett tillståndsbeslut.
-Lag (2018:1407).
+En omprövningsdom eller ett omprövningsbeslut har samma verkan 
+som en tillståndsdom eller ett tillståndsbeslut. 
+Lag (2021:876).
 
 2 § Tillståndet förfaller, om tillståndshavaren inte iakttar de
 bestämmelser som har meddelats i tillståndsdomen eller
@@ -6522,34 +6530,35 @@ längre behövs. Lag (2018:1407).
 
 Oförutsedda skador
 
-18 § Om en vattenverksamhet eller en vattenanläggning, som har
-utförts i enlighet med ett tillstånd enligt denna balk, medför
-skador som inte förutsågs av mark- och miljödomstolen när
-tillståndet meddelades, får den skadelidande framställa anspråk
-på ersättning enligt 31 kap.
+18 § Om en vattenverksamhet eller en vattenanläggning, som har 
+utförts i enlighet med ett tillstånd enligt denna balk, medför 
+skador som inte förutsågs av mark- och miljödomstolen när 
+tillståndet meddelades, får den skadelidande framställa 
+anspråk på ersättning enligt 31 kap.
 
-Om fråga är om betydande skador för enskild eller för något
-allmänt intresse, får begäras sådana ändringar på
-verksamhetsutövarens bekostnad av vattenverksamheten eller
-vattenanläggningen som, utan att medföra skador för tredje man
-eller väsentliga olägenheter för tillståndshavaren, är ägnade
-att förebygga eller minska framtida skador. I fråga om allmänna
-intressen förs talan av Naturvårdsverket, Havs- och
+Om fråga är om betydande skador för enskild eller för något 
+allmänt intresse, får begäras sådana ändringar på 
+verksamhetsutövarens bekostnad av vattenverksamheten eller 
+vattenanläggningen som, utan att medföra skador för tredje man 
+eller väsentliga olägenheter för tillståndshavaren, är ägnade 
+att förebygga eller minska framtida skador. I fråga om 
+allmänna intressen förs talan av Naturvårdsverket, Havs- och 
 vattenmyndigheten, Kammarkollegiet, länsstyrelse eller kommun.
 
-Anspråk på grund av oförutsedda skador ska för att få tas upp
-till prövning framställas till mark- och miljödomstolen inom
-fem år eller den längre tid, högst tjugo år, som kan ha
-bestämts i samband med tillståndet. Tiden räknas från utgången
-av den av domstolen bestämda tiden inom vilken arbetena ska
+Anspråk på grund av oförutsedda skador ska för att få tas upp 
+till prövning framställas till mark- och miljödomstolen inom 
+fem år eller den längre tid, högst tjugo år, som kan ha 
+bestämts i samband med tillståndet. Tiden räknas från utgången 
+av den av domstolen bestämda tiden inom vilken arbetena ska 
 vara utförda.
 
-Vid skada som avses i 7 kap. 7 § lagen (1998:812) med särskilda
-bestämmelser om vattenverksamhet utgår tiden för framställan
-dock aldrig tidigare än två år från det att skadan uppkom.
+Vid skada som avses i 7 kap. 7 § lagen (1998:812) med 
+särskilda bestämmelser om vattenverksamhet utgår tiden för 
+framställan dock aldrig tidigare än två år från det att skadan 
+uppkom.
 
-Bestämmelserna i preskriptionslagen (1981:130) gäller inte
-anspråk enligt denna paragraf. Lag (2018:1407).
+Bestämmelserna i preskriptionslagen (1981:130) gäller inte 
+anspråk enligt denna paragraf. Lag (2021:876).
 
 19 § En framställan som avses i 18 § ska vara skriftlig 
 och ges in till mark- och miljödomstolen i tre exemplar. Ett 
@@ -7367,8 +7376,8 @@ anlitar,
 
 2. åtgärder som kommunen vidtar i syfte att informera hushåll 
 och verksamhetsutövare som producerar avfall som kommunen 
-ansvarar för enligt 15 kap. 20 § om avfallsförebyggande 
-åtgärder, och
+ansvarar för enligt 15 kap. 20 § om avfallshantering och 
+avfallsförebyggande åtgärder, och
 
 3. åtgärder som kommunen vidtar för att underlätta insamling 
 och sortering av återanvändbara produkter från hushåll och 
@@ -7380,7 +7389,7 @@ eller till den som utför renhållningen.
 
 Särskilda bestämmelser om avgift för hantering av avfall från 
 fartyg finns i lagen (1980:424) om åtgärder mot förorening 
-från fartyg. Lag (2020:601).
+från fartyg. Lag (2021:881).
 
 5 § En avgift som avses i 4 § första stycket ska vara årlig 
 eller på annat sätt periodisk. Om avgiften avser insamling, 
@@ -7412,21 +7421,7 @@ anges i 5 § skall då beaktas.
 Taxan skall innehålla bestämmelser om vem som är avgiftsskyldig
 och till vem avgiften skall betalas.
 
-Producentavgift
-
-7 § Regeringen eller den myndighet eller kommun som 
-regeringen bestämmer får meddela föreskrifter om att 
-producenter ska betala avgift för insamling, transport och 
-bortskaffande av avfall som utförs genom kommunens försorg. 
-Sådana föreskrifter får enbart avse avfall för vilket 
-producentansvar gäller enligt föreskrifter som har meddelats 
-med stöd av 15 kap. 12 §. 
-
-Avgiften får avse även kostnader för information om 
-hanteringen.
-
-Avgiften ska betalas till den kommun eller till den myndighet 
-som regeringen bestämmer. Lag (2016:782).
+7 § Har upphävts genom lag (2021:881).
 
 Bygdeavgift och fiskeavgift
 
@@ -8025,22 +8020,21 @@ omfattning eller av allvarlig art eller har pågått under lång
 tid. Lag (2010:742).
 
 4 § För otillåten miljöverksamhet döms till böter eller 
-fängelse i högst två år den som med uppsåt eller av 
-oaktsamhet 
+fängelse i högst två år den som med uppsåt eller av oaktsamhet
 
 1. påbörjar eller bedriver en verksamhet eller vidtar en 
 åtgärd utan tillstånd eller godkännande eller utan att ha 
-gjort en anmälan, eller efter att ha gjort en anmälan 
-påbörjar en verksamhet eller åtgärd utan att följa en 
-föreskriven tidsfrist, allt enligt vad som krävs i
+gjort en anmälan, eller efter att ha gjort en anmälan påbörjar 
+en verksamhet eller åtgärd utan att följa en föreskriven 
+tidsfrist, allt enligt vad som krävs i
 
 a) bestämmelsen i 7 kap. 28 a § om skydd för särskilda 
 naturområden, om verksamheten eller åtgärden inte omfattas av 
-ett tillstånd eller en dispens enligt bestämmelserna i 9 
-eller 11–15 kap.,
+ett tillstånd eller en dispens enligt bestämmelserna i 9 eller 
+11-15 kap.,
 
-b) föreskrifter som regeringen har meddelat med stöd av 9 
-kap. 6 § om miljöfarliga verksamheter,
+b) föreskrifter som regeringen har meddelat med stöd av 9 kap. 
+6 § om miljöfarliga verksamheter,
 
 c) bestämmelsen i 9 kap. 6 c § om anmälningspliktiga 
 miljöfarliga verksamheter,
@@ -8063,12 +8057,12 @@ genetiskt modifierade organismer och om att släppa ut
 produkter som innehåller eller består av sådana organismer på 
 marknaden,
 
-i) föreskrifter som regeringen har meddelat med stöd av 13 
-kap. 16 § om innesluten användning av genetiskt modifierade 
+i) föreskrifter som regeringen har meddelat med stöd av 
+13 kap. 16 § om innesluten användning av genetiskt modifierade 
 organismer,
 
-j) föreskrifter som regeringen har meddelat med stöd av 14 
-kap. 8 § om hantering, införsel, utförsel, tillstånd, 
+j) föreskrifter som regeringen har meddelat med stöd av 
+14 kap. 8 § om hantering, införsel, utförsel, tillstånd, 
 godkännande eller anmälan av kemiska produkter, biotekniska 
 organismer eller varor, 
 
@@ -8080,13 +8074,13 @@ bilaga XIV till den förordningen eller släppa ut ett sådant
 l) bestämmelserna i artikel 28.1 i förordning (EG) nr 
 1107/2009 om krav på produktgodkännande av växtskyddsmedel, 
 
-m) bestämmelserna om krav på godkännande av biocidprodukter 
-i artikel 17.1 i förordning (EU) nr 528/2012,
+m) bestämmelserna om krav på godkännande av biocidprodukter i 
+artikel 17.1 i förordning (EU) nr 528/2012,
 
-n) föreskrifter som regeringen har meddelat med stöd av 15 
-kap. 15 § om krav på tillstånd för yrkesmässig drift av 
-insamlingssystem för avfall från elektriska och elektroniska 
-produkter, eller
+n) föreskrifter som regeringen har meddelat med stöd av 
+15 kap. 15 § om krav på tillstånd för yrkesmässig drift av en 
+producentansvarsorganisation för avfall från elektriska och 
+elektroniska produkter, eller
 
 o) bestämmelserna i 17 kap. om regeringens 
 tillåtlighetsprövning, eller
@@ -8096,15 +8090,13 @@ om tillåtlighet, godkännande eller dispens som gäller för
 verksamheten eller åtgärden och som har meddelats med stöd av 
 balken, förordning (EG) nr 1907/2006, förordning (EG) nr 
 1107/2009 eller förordning (EU) nr 528/2012 bryter mot ett 
-villkor eller en bestämmelse i tillståndet eller i 
-beslutet.
+villkor eller en bestämmelse i tillståndet eller i beslutet.
 
-I fråga om ett villkor eller en bestämmelse om 
-buller (bullervillkor) som har angetts i ett sådant tillstånd 
-eller beslut som avses i första stycket 2 ska det 
-förhållandet att en bostadsbyggnad är utsatt för 
-omgivningsbuller i strid med bullervillkoret inte anses 
-utgöra ett brott mot villkoret, om 
+I fråga om ett villkor eller en bestämmelse om buller 
+(bullervillkor) som har angetts i ett sådant tillstånd eller 
+beslut som avses i första stycket 2 ska det förhållandet att 
+en bostadsbyggnad är utsatt för omgivningsbuller i strid med 
+bullervillkoret inte anses utgöra ett brott mot villkoret, om 
 
 1. byggnaden ingår i ett område med detaljplan eller omfattas 
 av ett bygglov enligt plan- och bygglagen (2010:900), 
@@ -8118,9 +8110,9 @@ intresset att förebygga olägenhet för människors hälsa.
 
 Ansvar ska inte dömas ut enligt denna paragraf, om ansvar för 
 gärningen kan dömas ut enligt 1 § eller om gärningen omfattas 
-av en föreskrift som regeringen har meddelat med stöd av 30 
-kap. 1 § om skyldighet att betala miljösanktionsavgift.
-Lag (2017:419).
+av en föreskrift som regeringen har meddelat med stöd av 
+30 kap. 1 § om skyldighet att betala miljösanktionsavgift.
+Lag (2021:881).
 
 4 a § För otillåten avfallstransport döms till böter eller 
 fängelse i högst två år den som med uppsåt eller av oaktsamhet
@@ -8576,10 +8568,10 @@ gärningen kan dömas ut enligt 1 §. Lag (2020:601).
 från allmän synpunkt. Lag (2008:240).
 
 11 § Om en gärning som avses i 2, 2 a, 2 b, 2 c, 3, 3 a eller 
-3 b §, 4 § första stycket 2, 4 a §, 5 § 1 eller 7 a, 8 eller 
-9 § är att anse som ringa, döms det inte till ansvar. En 
-gärning är att anse som ringa om den framstår som obetydlig 
-med hänsyn till det intresse som är avsett att skyddas genom 
+3 b §, 4 § första stycket 2, 4 a §, 5 § 1 eller 8 eller 9 § är 
+att anse som ringa, döms det inte till ansvar. En gärning är 
+att anse som ringa om den framstår som obetydlig med hänsyn 
+till det intresse som är avsett att skyddas genom 
 straffbestämmelsen.
 
 Till ansvar enligt detta kapitel döms inte om gärningen är 
@@ -8597,7 +8589,7 @@ omfattas av föreläggandet.
 Om en gärning som avses i 1-9 §§ kan föranleda 
 miljösanktionsavgift och inte kan antas föranleda annan 
 påföljd än böter, får åtal väckas av åklagare endast om åtal 
-är påkallat från allmän synpunkt. Lag (2020:1174).
+är påkallat från allmän synpunkt. Lag (2021:881).
 
 12 § Egendom får förklaras förverkad, om det inte är uppenbart 
 oskäligt och egendomen 
@@ -8658,12 +8650,12 @@ högre belopp än vad som influtit vid försäljningen. Om
 avfallet har förstörts, ges ersättning med skäligt belopp.
 Lag (2019:496).
 
-13 § Den som begått brott enligt 8 § första stycket 12 döms
-vid svensk domstol, även om 2 kap. 2 eller 3 § brottsbalken
-inte är tillämplig. Har brottet förövats i Sveriges
-ekonomiska zon, får åtal väckas vid den tingsrätt vars
-domkrets är närmast den plats där brottet förövades.
-Lag (2010:742).
+13 § Svensk domstol är behörig att döma över brott enligt 8 § 
+första stycket 12 även om det inte finns domsrätt enligt 
+2 kap. 3 § brottsbalken. Har brottet begåtts i Sveriges 
+ekonomiska zon, får åtal väckas vid den tingsrätt vars 
+domkrets är närmast den plats där brottet begicks. 
+Lag (2021:1018).
 
 14 § Om någon som ådragit sig ansvar enligt 1 §, frivilligt har
 avvärjt en sådan fara eller verkan som anges där innan en
@@ -9851,6 +9843,25 @@ målet eller ärendet är slutligt avgjort.
 2. I fråga om återvinning och bortskaffande av bygg- och 
 rivningsavfall gäller 15 kap. 20 § första stycket i den äldre 
 lydelsen till och med utgången av 2022.
+
+2021:875
+
+1. Denna lag träder i kraft den 15 oktober 2021.
+
+2. Lagen får tillämpas på ansökningar som lämnas in efter den 
+16 september 2021.
+
+2021:876
+
+1. Denna lag träder i kraft den 1 januari 2022.
+
+2. Äldre föreskrifter gäller dock fortfarande för tillstånd 
+som meddelats före den 1 januari 2022.
+
+2021:881
+
+Denna lag träder i kraft den 1 januari 2022 i fråga om 29 kap. 
+11 § och i övrigt den 1 november 2021.
 
 
 Bilaga 1 Har upphävts genom lag (2001:1079).
