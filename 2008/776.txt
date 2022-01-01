@@ -92,17 +92,17 @@ Den genomsnittliga kostnaden per insats ska uppdateras årligen.
 Förordning (2010:1338).
 
 6 § Personalkostnadsindexet beräknas dels utifrån 
-kostnadsuppgifter från räkenskapssammandraget 2019, dels 
+kostnadsuppgifter från räkenskapssammandraget 2020, dels 
 utifrån den standardkostnad som beräknats enligt 4 § första 
 stycket. Beräkningen görs på följande sätt. 
 
 Först beräknas ett belopp motsvarande 70 procent av skillnaden 
-mellan en beräknad personalkostnad per kommun för 2019 och den 
+mellan en beräknad personalkostnad per kommun för 2020 och den 
 personalkostnad som ingår i standardkostnaden enligt 4 § 
 första stycket. Detta belopp adderas till standardkostnaden 
 enligt 4 § första stycket. Summan som fås divideras med 
 standardkostnaden som beräknats enligt 4 § första stycket.
-Förordning (2020:984).
+Förordning (2021:1086).
 
 7 § För beräkningarna gäller i övrigt de beräkningsmetoder och
 närmare detaljer som anges i bilagan till denna förordning.
@@ -149,7 +149,7 @@ stycket sista meningen i deras nya lydelser. Detta gäller
 dock endast till och med utjämningsåret 2012.
 
 
-Bilaga 
+Bilaga
 
 Beräkningsmetoder och närmare detaljer för kostnadsutjämningen
 
@@ -161,8 +161,8 @@ Konsumentprisindex med fast ränta
 Uppräkning till utjämningsårets kostnadsnivå sker med hjälp av 
 utvecklingen av konsumentprisindex med fast ränta. Som 
 genomsnittlig procentuell förändring i konsumentprisindex med 
-fast ränta för respektive år används följande: 2020 (0,3) och 
-2021 (1,2).
+fast ränta för respektive år används följande: 2021 (1,8) och 
+2022 (1,5).
 
 Genomsnittskostnaden
 
@@ -192,9 +192,10 @@ service till vissa funktionshindrade = nettokostnader från rad
 2 lagen om stöd och service till vissa funktionshindrade + 
 antal beslut enligt 51 kap. socialförsäkringsbalken x 0,50).
 
-Personlig assistans enligt 51 kap. socialförsäkringsbalken = 
-genomsnittskostnaden för personlig assistans enligt lagen om 
-stöd och service till vissa funktionshindrade x 0,50.
+Personlig assistans enligt 51 kap. 
+socialförsäkringsbalken = genomsnittskostnaden för personlig 
+assistans enligt lagen om stöd och service till vissa 
+funktionshindrade x 0,50.
 
 Daglig verksamhet
 
@@ -220,11 +221,11 @@ Korttidstillsyn = genomsnittskostnaden för korttidsvistelse x
 Avlösarservice = genomsnittskostnaden för korttidsvistelse x 
 0,25.
 
-Ledsagarservice = genomsnittskostnaden för korttidsvistelse x 
-0,25.
+Ledsagarservice = genomsnittskostnaden för korttidsvistelse 
+x 0,25.
 
-Kontaktperson = genomsnittskostnaden för korttidsvistelse x 
-0,10.
+Kontaktperson = genomsnittskostnaden för korttidsvistelse 
+x 0,10.
 
 Standardkostnadsberäkning
 
@@ -318,7 +319,7 @@ S = Standardkostnad enligt tidigare beräkning.
 Beräknade personalkostnader
 
 Lönekostnader inklusive personalomkostnadspålägg (PO-pålägg) 
-för anställda som är 26-64 år är 39,15 procent.
+för anställda som är 26-64 år är 40,15 procent.
 
 Tillkommer 85 procent av köp av verksamhet, övriga interna 
 kostnader, internt fördelade kostnader.
@@ -326,8 +327,8 @@ kostnader, internt fördelade kostnader.
 Avgår 85 procent av ersättning från Försäkringskassan, 
 försäljning till andra kommuner, interna intäkter.
 
-Tillkommer kommunens beräknade personalkostnad för köpta verk-
-samheter avseende personlig assistans.
+Tillkommer kommunens beräknade personalkostnad för köpta 
+verksamheter avseende personlig assistans.
 
 Steg 1
 
@@ -360,11 +361,10 @@ Den slutliga standardkostnaden erhålls genom att den
 ursprungliga standardkostnaden multipliceras med 
 personalkostnadsindex. Produkten multipliceras därefter med 
 konsumentprisindex med fast ränta och en korrigeringsfaktor 
-för att summan av standardkostnaderna, inklusive personal-
-kostnadsindex, efter uppräkning med konsumentprisindex med 
-fast ränta ska överensstämma med kommunernas sammanlagda 
+för att summan av standardkostnaderna, inklusive 
+personalkostnadsindex, efter uppräkning med konsumentprisindex 
+med fast ränta ska överensstämma med kommunernas sammanlagda 
 nettokostnader, uppräknade till utjämningsårets prisnivå. 
 Produkten divideras med antalet invånare = S x PK-IX x 
 konsumentprisindex med fast ränta x korrigeringsfaktorn / 
-antalet invånare i kommunen.
-Förordning (2020:984).
+antalet invånare i kommunen. Förordning (2021:1086).
