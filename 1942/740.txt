@@ -2686,29 +2686,7 @@ II. Om rättegången i brottmål
 
 19 Kap. Om laga domstol
 
-1 § /Upphör att gälla U:2022-01-01/
-Laga domstol i brottmål är rätten i den ort, där brottet förövades.
-Brott anses förövat å den ort, där den brottsliga handlingen företogs,
-och, om brottet fullbordades eller, vid försök, det tillämnade brottet
-skulle hava fullbordats å annan ort, även å den orten. Förövades brottet
-å orter under skilda domstolar, äge de lika behörighet. Har det skett å
-svenskt fartyg eller luftfartyg under resa inom eller utom riket, vare
-även rätten i den ort, dit den misstänkte med fartyget eller
-luftfartyget först ankommer eller där han gripits eller eljest
-uppehåller sig, behörig.
-
-Är, då åtal väckes, ovisst, var brottet förövades, må åtal upptagas av
-rätten i någon av de orter, där det kan antagas hava skett, eller i den
-ort, där den misstänkte gripits eller eljest uppehåller sig.
-
-Åtal för brott må ock upptagas av den rätt, där den misstänkte skall
-svara i tvistemål i allmänhet, eller rätten i den ort, där den
-misstänkte mera varaktigt uppehåller sig, om rätten med hänsyn till
-utredningen samt kostnader och andra omständigheter finner det lämpligt.
-Lag (1957:299).
-
-1 § /Träder i kraft I:2022-01-01/
-Laga domstol i brottmål är rätten i den ort där brottet 
+1 § Laga domstol i brottmål är rätten i den ort där brottet 
 begåtts. Ett brott anses ha begåtts på den ort där 
 gärningsmannen handlade. I fråga om straffbar underlåtenhet 
 anses brottet ha begåtts där gärningsmannen borde ha handlat 
@@ -3577,15 +3555,44 @@ tillhandahållas för besiktning eller förordnande att allmän handling som
 kan antas ha betydelse som bevis skall tillhandahållas vid
 förundersökningen. Lag (1990:443).
 
-15 § Är fara, att bevis, som skall åberopas vid huvudförhandlingen,
-därförinnan går förlorat eller då endast med svårighet kan föras, får
-på yrkande av undersökningsledaren eller den misstänkte rätten genast
-ta upp beviset. Om beviset gäller i tillämpliga delar vad som är
-föreskrivet om bevis, som tas upp utom huvudförhandling. Kostnaden
-för bevisupptagningen och för den misstänktes inställelse vid rätten
-skall utgå av allmänna medel. Ersättning för den misstänktes
-inställelse betalas enligt föreskrifter som meddelas av regeringen.
-Lag (1996:1624).
+15 § På yrkande av undersökningsledaren eller den misstänkte 
+får rätten ta upp bevis under förundersökningen om 
+
+1. det finns en risk att ett bevis som ska åberopas vid 
+huvudförhandlingen dessförinnan går förlorat eller blir svårt 
+att ta upp vid förhandlingen, eller
+
+2. någon är skäligen misstänkt för brottet och har 
+underrättats om misstanken enligt 18 § och det är lämpligt att 
+ta upp bevis.
+
+Vid bedömningen av om det enligt första stycket 2 är lämpligt 
+att ta upp bevis ska rätten beakta utredningens omfattning, 
+brottets beskaffenhet, bevisupptagningens betydelse för frågan 
+om att häva ett häktningsbeslut eller restriktioner enligt 24 
+kap. 5 a § och övriga omständigheter. Lag (2021:1107).
+
+15 a § Ett sammanträde för bevisupptagning enligt 15 § ska 
+hållas skyndsamt. Om bevisupptagningen kan antas få betydelse 
+för frågan om att häva ett häktningsbeslut eller restriktioner 
+ska sammanträdet hållas före eller vid en ny förhandling i 
+häktningsfrågan, dock senast inom två veckor efter det att 
+yrkandet har framställts. Lag (2021:1107).
+
+15 b § Bestämmelserna om bevis som tas upp utom 
+huvudförhandling gäller i tillämpliga delar även för bevis som 
+tas upp av rätten under förundersökningen. Ska en misstänkt 
+höras enligt 15 § gäller dock att rätten, om det är nödvändigt 
+med hänsyn till utredningen, får besluta om undantag i fråga 
+om kallelse och närvaro när det gäller andra misstänkta och 
+deras försvarare i samma mål.
+
+Kostnaden för bevisupptagningen och för den misstänktes 
+inställelse ska betalas av allmänna medel.
+
+Regeringen kan med stöd av 8 kap. 7 § regeringsformen meddela 
+närmare föreskrifter om ersättning för den misstänktes 
+inställelse. Lag (2021:1107).
 
 16 § I fråga om användande av tvångsmedel under
 förundersökningen gäller 24–28 kap.
@@ -3639,6 +3646,19 @@ hålla ett särskilt sammanträde med den misstänkte eller
 försvararen, om det kan antas vara till fördel för 
 åtalsbeslutet eller för sakens fortsatta handläggning i 
 övrigt. Lag (2017:176).
+
+18 c § Om den misstänkte eller försvararen ska närvara vid ett 
+förhör med någon annan än den misstänkte för att ställa 
+frågor, har de rätt att ta del av det som förekommit vid 
+förundersökningen i den utsträckning det behövs för att den 
+misstänkte ska kunna ta tillvara sin rätt vid förhöret. 
+Detsamma gäller om förhöret ska ske inför rätten enligt 15 § 
+på yrkande av undersökningsledaren.
+
+Rätten enligt första stycket att ta del av det som har 
+förekommit vid förundersökningen gäller med de begränsningar 
+som följer av 10 kap. 3 § offentlighets- och sekretesslagen 
+(2009:400). Lag (2021:1107).
 
 19 § Om undersökningsledaren har slutfört den utredning som 
 han eller hon anser är nödvändig utan att bifalla en begäran 
@@ -6372,34 +6392,36 @@ rätt tas upp på nytt endast om det finns synnerliga skäl.
 Om ett bevis inte tas upp på nytt ska det läggas fram på 
 lämpligt sätt. Lag (2016:37).
 
-14 § En berättelse, som någon har avgett skriftligen med
-anledning av en redan inledd eller förestående rättegång,
-eller en uppteckning av en berättelse, som någon med
-anledning av en sådan rättegång lämnat inför åklagare eller
-Polismyndigheten eller annars utom rätta, får åberopas som
-bevis i rättegången endast
+14 § En berättelse som någon har lämnat skriftligen med 
+anledning av en redan inledd eller förestående rättegång, 
+eller en uppteckning av en berättelse som någon med anledning 
+av en sådan rättegång har lämnat inför åklagare eller 
+Polismyndigheten eller annars utom rätta, får åberopas som 
+bevis i rättegången
 
 1. om det är särskilt föreskrivet,
 
-2. om förhör med den som lämnat berättelsen inte kan hållas
-vid eller utom huvudförhandling eller i övrigt inför rätten
+2. om förhör med den som lämnat berättelsen inte kan hållas 
+vid eller utom huvudförhandling eller i övrigt inför rätten,
+
+3. om det finns särskilda skäl med hänsyn till de kostnader 
+eller olägenheter som ett förhör vid eller utom 
+huvudförhandling kan antas medföra, fördelarna med ett sådant 
+förhör, berättelsens betydelse och övriga omständigheter, 
 eller
 
-3. om det finns särskilda skäl med hänsyn till de kostnader
-eller olägenheter som ett förhör vid eller utom
-huvudförhandling kan antas medföra, vad som kan antas stå att
-vinna med ett sådant förhör, berättelsens betydelse och
-övriga omständigheter.
+4. om parterna godtar det och det inte är uppenbart olämpligt.
 
-Även i annat fall än som sägs i första stycket får dock 
-tvistemål en sådan skriftlig berättelse eller uppteckning av
-en berättelse som avses där åberopas som bevis i rättegången,
-om parterna godtar det och det inte är uppenbart olämpligt.
+Det som sägs i första stycket om en skriftlig eller upptecknad 
+berättelse ska också tillämpas i fråga om en ljudupptagning 
+eller en ljud- och bildupptagning av en berättelse. 
+Lag (2021:1107).
 
-Vad som sägs i första och andra styckena om en skriftlig
-eller upptecknad berättelse ska också tillämpas i fråga om en
-ljudupptagning eller en ljud- och bildupptagning av en
-berättelse. Lag (2014:649).
+15 § I brottmål får en berättelse som lämnats vid ett förhör 
+inför en brottsbekämpande myndighet och som dokumenterats 
+genom en ljud- och bildupptagning åberopas som bevis i 
+rättegången även i andra fall än de som anges i 14 §, om det 
+är lämpligt. Lag (2021:1107).
 
 36 Kap. Om vittne
 
@@ -6639,16 +6661,17 @@ Lag (1975:1288).
 får dock med rättens medgivande använda sig av anteckningar 
 till stöd för minnet.
 
-Vid ett vittnesförhör får det som vittnet tidigare har 
-berättat inför rätten eller inför åklagare eller 
-Polismyndigheten läggas fram endast när vittnets berättelse 
-vid förhöret avviker från vad han eller hon tidigare har 
-berättat eller när vittnet vid förhöret förklarar att han 
-eller hon inte kan eller inte vill yttra sig. Avser förhöret 
-någon som tidigare har hörts inför rätten och har det förra 
-förhöret dokumenterats genom en ljud- och bildupptagning, ska 
-dock förhöret inledas med en uppspelning av upptagningen om 
-det inte är olämpligt. Lag (2016:37).
+Vid ett vittnesförhör får, om inte berättelsen åberopas enligt 
+35 kap. 15 §, det som vittnet tidigare har berättat inför 
+rätten eller inför åklagare eller Polismyndigheten läggas fram 
+endast när vittnets berättelse vid förhöret avviker från vad 
+han eller hon tidigare har berättat eller när vittnet vid 
+förhöret förklarar att han eller hon inte kan eller inte vill 
+yttra sig. Avser förhöret någon som tidigare har hörts inför 
+rätten och har det förra förhöret dokumenterats genom en ljud- 
+och bildupptagning, ska dock förhöret inledas med en 
+uppspelning av upptagningen om det inte är olämpligt.
+Lag (2021:1107).
 
 17 § Ett vittnesförhör skall inledas av den part som åberopat förhöret,
 om inte rätten bestämmer annat. Vid förhöret skall vittnet först beredas
@@ -6711,9 +6734,15 @@ huvudförhandlingen, eller
 3. om det kan antas att målet kommer att avgöras utan 
 huvudförhandling.
 
-I 43 kap. 3 § och 46 kap. 3 § finns bestämmelser om när 
-rätten får ta upp muntlig bevisning om en huvudförhandling 
-ställs in. Lag (2016:37).
+I brottmål får förhör med ett vittne utom huvudförhandling 
+dessutom ske om åklagaren eller en part i ansvarsfrågan yrkar 
+det och det är lämpligt. Vid bedömningen av om det är lämpligt 
+ska rätten beakta målets omfattning, brottets beskaffenhet och 
+övriga omständigheter.
+
+I 43 kap. 3 § och 46 kap. 3 § finns bestämmelser om när rätten 
+får ta upp muntlig bevisning om en huvudförhandling ställs in.
+Lag (2021:1107).
 
 20 § Om ett vittne som kallats enligt 7 § uteblir får rätten
 besluta att vittnet ska hämtas till domstolen, antingen
@@ -6756,21 +6785,27 @@ staten.
 I 9 kap. 7 § finns bestämmelser om kostnader när något vite
 inte har satts ut. Lag (2000:564).
 
-24 § Ett vittne har rätt till ersättning enligt vad som sägs nedan.
+24 § Ett vittne har rätt till ersättning.
 
-Ersättning till ett vittne, som har åberopats av en enskild part
-skall betalas av parten. Om det är skäligt med hänsyn till partens
-ekonomiska förhållanden får dock rätten besluta att ersättningen
-skall betalas av allmänna medel. Har rätten självmant inkallat ett
-vittne och är saken sådan, att förlikning därom är tillåten, eller är
-fråga om ansvar för brott, som inte hör under allmänt åtal, skall
-ersättningen betalas av parterna en för båda och båda för en. I annat
-fall skall ersättningen betalas av allmänna medel.
+I de fall ett vittne har åberopats av en enskild part ska 
+ersättningen betalas av parten. I annat fall ska ersättningen 
+betalas av allmänna medel. Även i de fall ett vittne har 
+åberopats av en enskild part får rätten besluta att 
+ersättningen ska betalas av allmänna medel om
 
-Ersättning som skall betalas av en part, skall avse nödvändiga
-kostnader för resa, uppehälle och tidsspillan efter vad rätten prövar
-skäligt. Ersättning, som skall betalas av allmänna medel, fastställs
-av rätten enligt bestämmelser som regeringen meddelar. Lag (1996:1624).
+1. det är skäligt med hänsyn till partens ekonomiska 
+förhållanden, eller
+
+2. det i brottmål finns särskilda skäl med hänsyn till den 
+tilltalades möjligheter att ta tillvara sin rätt.
+
+Ersättning som ska betalas av en part ska avse nödvändiga 
+kostnader för resa, uppehälle och tidsspillan efter vad rätten 
+bedömer är skäligt. Ersättning som ska betalas av allmänna 
+medel fastställs av rätten.
+
+Regeringen kan med stöd av 8 kap. 7 § regeringsformen meddela 
+närmare föreskrifter om ersättning. Lag (2021:1107).
 
 25 §  Den som kallats till vittne äge att i förskott erhålla ersättning
 för kostnader till resa och uppehälle. Förskott skall erläggas av den
@@ -7869,27 +7904,35 @@ sammanträde eller genom skriftväxling eller annan
 handläggning. Om det är lämpligt får olika former av
 förberedelse förenas. Lag (2014:320).
 
-10 a § Ett mål skall avgöras efter huvudförhandling. Utan en
+10 a § Ett mål ska avgöras efter huvudförhandling. Utan en 
 sådan förhandling får rätten dock
 
 1. avgöra ett mål på annat sätt än genom dom,
 
-2. meddela frikännande dom enligt 20 kap. 9 § andra stycket,
+2. meddela frikännande dom enligt 20 kap. 9 § andra stycket, 
 och
 
-3. meddela dom i mål där det inte finns anledning att döma till
-annan påföljd än böter, om huvudförhandling varken begärs av
-någon av parterna eller behövs med hänsyn till utredningen i
+3. meddela dom i mål där det inte finns anledning att döma 
+till annan påföljd än böter eller villkorlig dom eller sådana 
+påföljder i förening, om huvudförhandling varken begärs av 
+någon av parterna eller behövs med hänsyn till utredningen i 
 målet.
 
-Innan ett mål avgörs med stöd av första stycket 3, skall
+Innan ett mål avgörs med stöd av första stycket 3, ska
 
-1. den tilltalade informeras om att målet kan komma att avgöras
-utan huvudförhandling och om sin rätt till en sådan
+1. den tilltalade informeras om att målet kan komma att 
+avgöras utan huvudförhandling och om sin rätt till en sådan 
 förhandling, och
 
-2. parterna, om de inte kan anses redan ha slutfört sin talan,
-ges tillfälle till detta. Lag (2005:683).
+2. parterna, om de inte kan anses redan ha slutfört sin talan, 
+ges tillfälle till detta.
+
+Ett beslut enligt 34 kap. 3 § brottsbalken likställs med de 
+påföljder som anges i första stycket 3, om det inte samtidigt 
+finns anledning att förverka villkorligt medgiven frihet från 
+fängelsestraff. Det som sägs i första stycket 3 om villkorlig 
+dom gäller inte villkorlig dom som förenas med föreskrift om 
+samhällstjänst. Lag (2021:1095).
 
 11 §  Finnes, för att målet skall kunna vid huvudförhandlingen slutföras
 i ett sammanhang, förundersökningen böra fullständigas eller, om
@@ -9131,24 +9174,28 @@ sammanställningen. Lag (2005:683).
 får hänskjuta en fråga till prövning av Högsta domstolen.
 Lag (2016:37).
 
-13 § Hovrätten får avgöra målet utan huvudförhandling, om
-klagandens ändringsyrkande har medgetts eller om det är
-uppenbart att överklagandet är ogrundat.
+13 § Hovrätten får avgöra målet utan huvudförhandling, om 
+klagandens 
 
-Kan saken utredas tillfredsställande får hovrätten även i andra
-fall avgöra målet utan huvudförhandling,
+ändringsyrkande har medgetts eller om det är uppenbart att 
+överklagandet 
 
-1. om parterna har begärt att målet skall avgöras utan
-huvudförhandling eller
+är ogrundat.
 
-2. om ingen av parterna, sedan fråga väckts om avgörande utan
+Om saken kan utredas tillfredsställande får hovrätten även i 
+andra fall avgöra målet utan huvudförhandling,
+
+1. om parterna har begärt att målet ska avgöras utan 
+huvudförhandling, eller
+
+2. om ingen av parterna, sedan fråga väckts om avgörande utan 
 huvudförhandling, haft någon invändning mot detta.
 
-Ett mål får alltid avgöras utan huvudförhandling, om det är
-uppenbart att sådan förhandling är obehövlig.
+Ett mål får alltid avgöras utan huvudförhandling, om en sådan 
+förhandling är obehövlig.
 
-För prövning som inte avser själva saken behöver
-huvudförhandling inte hållas. Lag (1999:84).
+För prövning som inte avser själva saken behöver 
+huvudförhandling inte hållas. Lag (2021:1095).
 
 14 § Innan ett mål avgörs utan huvudförhandling, skall
 parterna, om det inte är uppenbart att de redan har slutfört sin
