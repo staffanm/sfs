@@ -58,14 +58,15 @@ Förordning (2019:189).
 
 Elektronisk kommunikation
 
-5 § Det totala avgiftsuttaget för de årliga avgifter som 
-enligt lagen (2003:389) om elektronisk kommunikation ska 
-betalas av dem som bedriver verksamhet som är anmäld enligt 
-lagen och av dem som har tillstånd att använda nummer får 
-uppgå till högst 140 000 000 kr per år.
+5 § Den som bedriver verksamhet som är anmäld enligt 2 kap. 
+1 § lagen (2003:389) om elektronisk kommunikation och den som 
+har tillstånd att använda nummer enligt 3 kap. 19 § samma lag 
+ska betala årlig avgift i enlighet med bilagan.
 
-Av beloppet ska högst 30 000 000 kr per år utgöra avgift för 
-tillstånd att använda nummer. 
+Avgifterna ska finansiera Post- och telestyrelsens verksamhet 
+enligt lagen om elektronisk kommunikation förutom sådan 
+verksamhet som finansieras med stöd av 6-8 §§ denna 
+förordning. Förordning (2021:1230).
 
 6 § Det totala avgiftsuttaget för de årliga avgifter som 
 enligt lagen (2003:389) om elektronisk kommunikation ska 
@@ -133,3 +134,100 @@ skäl till det. Förordning (2019:189).
 13 § Post- och telestyrelsen ska offentliggöra en översikt 
 över sina kostnader under året och den sammanlagda summan av 
 de avgifter som har betalats till myndigheten.
+
+
+Bilaga 
+
+Avgifter för tillstånd att använda nummer och årlig avgift för 
+anmäld verksamhet enligt lagen (2003:389) om elektronisk 
+kommunikation
+
+I denna bilaga avses med 
+
+CUG IC: Closed User Group Interlock Code 
+
+DNIC: Data Network Identification Codes 
+(datanätsidentifikationskod)
+
+ERMES operatörskod: European Radio Messaging System (ett 
+personsökningssystem)
+
+IIN: Issuer Identifier Numbers (utgivaridentiteter)
+
+ISPC: International Signalling Point Codes (internationella 
+signalpunktskoder)
+
+MNC: Mobile Network Codes (mobila nätkoder)
+
+(T)MNC: TETRA Mobile Network Codes (TETRA mobila nätkoder)
+
+NDC: National Destination Code (nationell destinationskod)
+
+NSPC: National Signalling Point Codes (nationella 
+signalpunktskoder)
+
+Årsomsättning: Omsättningen under närmast föregående 
+räkenskapsår i den verksamhet som omfattas av kravet på 
+anmälan i 2 kap. 1 § lagen (2003:389) om elektronisk 
+kommunikation
+
+Årlig avgift för anmäld verksamhet 
+
+Den som bedriver verksamhet som är anmäld enligt 2 kap. 1 § 
+lagen (2003:389) om elektronisk kommunikation ska betala 
+avgift enligt följande: 
+
+- om årsomsättningen understiger 5 000 000 kr, ska en årlig 
+avgift om 4 000 kr betalas, och 
+
+- om årsomsättningen uppgår till 5 000 000 kr eller mer, ska 
+en årlig avgift som motsvarar 0,158 procent av årsomsättningen 
+betalas. 
+
+Avgifter för tillstånd att använda nummer 
+
+1. Geografiska nummer
+
+Abonnentnummer för riktnummerområdena  
+08 (Stockholm), 031 (Göteborg) och 040 
+(Malmö)                                 0,35 kr per nummer
+
+Abonnentnummer för övriga 
+riktnummerområden	                0,15 kr per nummer
+
+2. Icke-geografiska nummer
+
+Frisamtalsnummer, betalteletjänster, 
+massanropstjänster, tjänster med delad  
+kostnad, mobilnummer, personliga 
+nummer, nummer för geografiskt 
+oberoende tjänster, samt nummer för 
+operatörspecifika tjänster, oavsett 
+numrets längd	                        0,15 kr per nummer
+
+Personsökningsnummer, telematiktjänster 
+samt mobila bredbandstjänster	        0,05 kr per nummer
+
+3. Korta nummer
+
+Operatörsprefix, nationella 
+företagsnummer ur 90-serien och nummer 
+ur 11-serien för nummerupplysning, 
+hälso- och sjukvårdsupplysning samt 
+polis, m.m.	                        10 000 kr per prefix 
+                                        eller nummer
+
+Tresiffriga dirigeringsadresser (NDC)	50 000 kr per adress
+
+4. Nummer ur tekniska planer
+
+Dirigeringsprefix vid 
+nummerportabilitet, MNC, ISPC samt IIN  10 000 kr per nummer
+
+DNIC, ERMES operatörskod, CUG IC samt 
+(T)MNC)	                                1 000 kr per nummer
+
+NSPC som omfattas av föreskrifter om 
+tillstånd för användning av kapacitet 
+ur tekniska planer	                100 kr per nummer
+Förordning (2021:1230).
