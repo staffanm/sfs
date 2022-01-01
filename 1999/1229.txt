@@ -1,4 +1,3 @@
-
 AVD. I INNEHÅLL OCH DEFINITIONER
 
 1 kap. Grundläggande bestämmelser om kommunal och statlig
@@ -1464,11 +1463,21 @@ om Skatteverket har meddelat beslut enligt 5 a § tredje
 stycket den lagen, 
 
 5. återförda avdrag för periodiseringsfond och 
-ersättningsfond, 
+ersättningsfond,
 
-6. schablonintäkt enligt 30 kap. 6 a §, och
+6. schablonintäkt enligt 30 kap. 6 a §, 
 
-7. återfört uppskovsbelopp enligt 47 kap.
+7. återfört uppskovsbelopp enligt 47 kap., och
+
+8. inkomst från ett svenskt handelsbolag, om den begränsat 
+skattskyldige 
+
+- inte beskattas för inkomsten i den stat där denne hör hemma 
+på grund av klassificeringen i skattehänseende av 
+handelsbolaget enligt denna stats lagstiftning, och
+
+- anses vara i intressegemenskap med handelsbolaget enligt 
+24 b kap. 3 §.
 
 Ersättning i form av royalty eller periodvis utgående avgift 
 för att materiella eller immateriella tillgångar utnyttjas ska 
@@ -1478,7 +1487,7 @@ driftställe här.
 
 En kapitalförlust ska dras av, om den som är begränsat 
 skattskyldig skulle ha varit skattskyldig för en motsvarande 
-kapitalvinst. Lag (2020:1068).
+kapitalvinst. Lag (2021:473).
 
 12 § Utländska juridiska personer är inte skattskyldiga för den
 del av inkomsterna enligt 11 § som delägarna i den juridiska
@@ -7746,12 +7755,19 @@ Lag (2018:1206).
 
 Avdragsförbud för ränteutgifter på vissa efterställda skulder
 
-9 § Ett företag som omfattas av Europaparlamentets och rådets 
-förordning (EU) nr 575/2013 av den 26 juni 2013 om 
-tillsynskrav för kreditinstitut och värdepappersföretag och om 
-ändring av förordning (EU) nr 648/2012, får inte dra av 
-ränteutgifter på efterställda skulder som får ingå i 
-kapitalbasen vid tillämpning av den förordningen.
+9 § Ett företag som omfattas av någon av följande EU-
+förordningar får inte dra av ränteutgifter på efterställda 
+skulder som får ingå i kapitalbasen vid tillämpning av 
+respektive förordning. Detta gäller företag som omfattas av
+
+1. Europaparlamentets och rådets förordning (EU) nr 575/2013 
+av den 26 juni 2013 om tillsynskrav för kreditinstitut och om 
+ändring av förordning (EU) nr 648/2012, eller
+
+2. Europaparlamentets och rådets förordning (EU) 2019/2033 av 
+den 27 november 2019 om tillsynskrav för värdepappersföretag 
+och om ändring av förordningarna (EU) nr 1093/2010, (EU) 
+nr 575/2013, (EU) nr 600/2014 och (EU) nr 806/2014.
 
 Ett svenskt försäkringsföretag som omfattas av 7 kap. 
 försäkringsrörelselagen (2010:2043) eller av lagen (2019:742) 
@@ -7775,7 +7791,7 @@ genomför Europaparlamentets och rådets direktiv (EU) 2016/2341
 av den 14 december 2016 om verksamhet i och tillsyn över 
 tjänstepensionsinstitut. Vad som avses med ett utländskt 
 tjänstepensionsinstitut framgår av 39 kap. 13 a §.
-Lag (2019:787).
+Lag (2021:489).
 
 Avdragsrätt för ränteutgifter på vinstandelslån
 
@@ -8644,28 +8660,28 @@ skatteförmånen. Lag (2019:1241).
 
 Definitioner
 
-3 § Företag ska vid tillämpning av detta kapitel anses vara i 
-intressegemenskap om 
+3 § Företag ska vid tillämpning av detta kapitel och 6 kap. 
+11 § första stycket 8 anses vara i intressegemenskap om
 
 1. företagen ingår i en koncern av sådant slag som anges i 
-1 kap. 4 § årsredovisningslagen (1995:1554), 
+1 kap. 4 § årsredovisningslagen (1995:1554),
 
-2. ett av företagen, direkt eller indirekt, innehar minst 25 
-procent av kapitalet eller rösterna i det andra företaget 
+2. ett av företagen, direkt eller indirekt, innehar minst 
+25 procent av kapitalet eller rösterna i det andra företaget 
 eller har rätt till minst 25 procent av vinsten i det andra 
-företaget, eller 
+företaget, eller
 
 3. en och samma person, direkt eller indirekt, innehar minst 
-25 procent av kapitalet eller rösterna i företagen. 
+25 procent av kapitalet eller rösterna i företagen.
 
 Vid bedömningen av om företagen är i intressegemenskap ska 
 personer som agerar tillsammans i fråga om innehav av 
 kapitalet eller rösterna i ett annat företag behandlas som en 
 enda person.
 
-Vid tillämpning av 8-11, 13 och 14 §§ ska, i stället för 25 
-procent i första stycket 2-3, 50 procent gälla. 
-Lag (2019:1241).
+Vid tillämpning av 8-11, 13 och 14 §§ och 6 kap. 11 § första 
+stycket 8 ska, i stället för 25 procent i första stycket 2-3, 
+50 procent gälla. Lag (2021:473).
 
 4 § Ett företag ska vid tillämpning av detta kapitel anses 
 höra hemma i en viss stat om företaget enligt lagstiftningen i 
@@ -10378,7 +10394,8 @@ Det finns bestämmelser om
 
 Näringsbidrag
 
-2 § Med näringsbidrag avses stöd utan återbetalningsskyldighet 
+2 § /Upphör att gälla U:2022-01-01/
+Med näringsbidrag avses stöd utan återbetalningsskyldighet 
 som lämnas till en näringsidkare för näringsverksamheten av 
 staten, Europeiska unionen eller Europeiska 
 atomenergigemenskapen, regioner, kommuner, juridiska personer 
@@ -10407,6 +10424,38 @@ om stödet inte
 
 - avser betalning för nyemitterade eller egna aktier.
 Lag (2019:907).
+
+2 § /Träder i kraft I:2022-01-01/
+Med näringsbidrag avses stöd utan återbetalningsskyldighet 
+som lämnas till en näringsidkare för näringsverksamheten av 
+staten, Europeiska unionen eller Europeiska 
+atomenergigemenskapen, regioner, kommuner, juridiska personer 
+som avses i 7 kap. 16, 17 och 20 §§, allmänningsskogar enligt 
+lagen (1952:167) om allmänningsskogar i Norrland och Dalarna 
+samt stöd av detta slag som beslutas av en europeisk 
+gruppering för territoriellt samarbete.
+
+Med näringsbidrag avses också stöd som lämnas i form av 
+
+1. elcertifikat till sådana skattskyldiga som avses i 17 
+kap. 22 a § 1,
+
+2. utsläppsrätter till sådana skattskyldiga som avses i 17 
+kap. 22 b § första stycket,
+
+3. utsläppsminskningsenheter och certifierade 
+utsläppsminskningar till sådana skattskyldiga som avses i 
+17 kap. 22 b § andra stycket 1, och
+
+4. stöd enligt lagen (2015:1016) om resolution eller lagen 
+(2015:1017) om förebyggande statligt stöd till kreditinstitut, 
+om stödet inte
+
+- redovisas som en skuld i räkenskaperna, eller 
+
+- avser betalning för nyemitterade eller egna aktier.
+
+Skattereduktioner utgör inte näringsbidrag. Lag (2021:932).
 
 3 § Med stöd utan återbetalningsskyldighet avses också stöd som
 ska återbetalas bara om
@@ -21458,29 +21507,25 @@ betalat. Lag (2007:1419).
 Bilförmån
 
 5 § Värdet av bilförmån exklusive drivmedel ska för ett 
-kalenderår beräknas till summan av
+kalenderår beräknas till summan av 
 
-– 0,29 prisbasbelopp,
+- 0,29 prisbasbelopp,
 
-– ett ränterelaterat belopp,
+- ett ränterelaterat belopp, 
 
-– ett prisrelaterat belopp, och
+- ett prisrelaterat belopp, och 
 
-– bilens fordonsskatt enligt vägtrafikskattelagen 
-(2006:227).
+- bilens fordonsskatt enligt vägtrafikskattelagen (2006:227).
 
-Det ränterelaterade beloppet ska beräknas till 75 procent av 
-statslåneräntan vid utgången av november året närmast före 
-det kalenderår under vilket beskattningsåret går ut 
-multiplicerat med bilmodellens nybilspris. Statslåneräntan 
-ska dock som lägst anses vara 0,5 procent.
+Det ränterelaterade beloppet ska beräknas till bilmodellens 
+nybilspris multiplicerat med summan av 70 procent av 
+statslåneräntan och 0,01. Med statslåneräntan avses här 
+räntenivån vid utgången av november året närmast före det 
+kalenderår under vilket beskattningsåret går ut, dock lägst 
+0,5 procent.
 
-Det prisrelaterade beloppet ska beräknas till 9 procent av 
-bilmodellens nybilspris, om detta uppgår till högst 7,5 
-prisbasbelopp. Om bilmodellens nybilspris är högre, ska det 
-prisrelaterade beloppet beräknas till summan av 9 procent av 
-7,5 prisbasbelopp och 20 procent av den del av nybilspriset 
-som överstiger 7,5 prisbasbelopp. Lag (2017:1212).
+Det prisrelaterade beloppet ska beräknas till 13 procent av 
+bilmodellens nybilspris. Lag (2021:479).
 
 5 a § Utgifter för väg-, bro- och färjeavgifter samt 
 trängselskatt ingår inte i bilförmån enligt 5 §.
@@ -26658,6 +26703,37 @@ Forskarskattenämnden senast den 31 mars 2021.
 5. Vid beslut om förlängd giltighetstid enligt punkt 4 är 
 Forskarskattenämnden beslutsför med ordföranden eller vice 
 ordföranden ensam.
+
+2021:473
+
+1. Denna lag träder i kraft den 1 juli 2021.
+
+2. Lagen tillämpas första gången för beskattningsår, eller i 
+fråga om svenska handelsbolag räkenskapsår, som börjar efter 
+den 30 juni 2021. 
+
+2021:479
+
+1. Denna lag träder i kraft den 1 juli 2021. 
+
+2. Lagen tillämpas första gången på 
+
+a) bilar som blir skattepliktiga enligt vägtrafikskattelagen 
+(2006:227) för första gången den 1 juli 2021 eller senare, och
+
+b) bilar som är registrerade utomlands och som inte är 
+skattepliktiga här i landet enligt vägtrafikskattelagen.
+
+3. Äldre bestämmelser gäller fortfarande för bilar som var 
+skattepliktiga enligt vägtrafikskattelagen (2006:227) före 
+ikraftträdandet. 
+
+2021:489
+
+1. Denna lag träder i kraft den 26 juni 2021.
+
+2. Lagen tillämpas första gången på ränteutgifter som belöper 
+sig på tiden efter den 25 juni 2021.
 
 
 Bilaga 6 a.1
