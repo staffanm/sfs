@@ -411,8 +411,13 @@ Ett samtycke till kandidaturen för ett parti i ett val gäller
 
 Valmyndigheter
 
-1 § Det skall finnas en central valmyndighet som har det
+1 § Det ska finnas en central valmyndighet som har det 
 övergripande ansvaret för frågor om val.
+
+Den centrala valmyndigheten ska inför varje val ta fram 
+utbildningsmaterial avseende valet. Materialet ska 
+tillhandahållas länsstyrelserna och valnämnderna.
+Lag (2021:1328).
 
 2 § Länsstyrelsen är regional valmyndighet med ansvar i länet
 för frågor om val och för utbildning av valnämnderna.
@@ -431,15 +436,19 @@ Röstmottagare
 röstmottagare, varav en ordförande och en ersättare för
 ordföranden. Lag (2014:301).
 
-5 § Röstmottagare förordnas av valnämnden. Röstmottagare hos
-en utlandsmyndighet förordnas dock av myndighetens chef. Om
-valnämnden har beslutat att röstmottagning ska äga rum på ett
-sjukhus, en kriminalvårdsanstalt, ett häkte eller någon
-liknande inrättning, får nämnden överlåta åt den som är chef
+5 § Röstmottagare förordnas av valnämnden. Röstmottagare hos 
+en utlandsmyndighet förordnas dock av myndighetens chef. Om 
+valnämnden har beslutat att röstmottagning ska äga rum på ett 
+sjukhus, en kriminalvårdsanstalt, ett häkte eller någon 
+liknande inrättning, får nämnden överlåta åt den som är chef 
 för inrättningen att förordna röstmottagare där.
 
-Som röstmottagare får endast den förordnas som har fått sådan
-utbildning som behövs för uppdraget. Lag (2014:301).
+Som röstmottagare får endast den förordnas som har fått sådan 
+utbildning som behövs för uppdraget. Vid utbildningen ska det 
+utbildningsmaterial som tillhandahålls av den centrala 
+valmyndigheten användas. Valnämnden får dock ersätta delar av 
+materialet eller komplettera detta om det behövs med hänsyn 
+till lokala förhållanden. Lag (2021:1328).
 
 6 § På varje röstmottagningsställe ska det finnas så många
 röstmottagare som behövs för att röstmottagningen ska kunna
@@ -1141,7 +1150,7 @@ vald.
 
 Om en väljare skriver till en kandidat på en valsedel för ett 
 parti som inte har registrerat sin partibeteckning eller 
-anmält kandidater enligt 4, ska väljaren anses ha lämnat 
+anmält kandidater enligt 2 kap., ska väljaren anses ha lämnat 
 en personröst för den kandidaten. Om väljaren skriver till 
 flera kandidater på en sådan valsedel, ska väljaren anses ha 
 lämnat en personröst för den första kandidaten.
@@ -1160,14 +1169,16 @@ märkningar. Lag (2018:1969).
 
 Hur man röstar på ett röstmottagningsställe
 
-3 § Väljare ska göra i ordning sina röster bakom en valskärm
-och därefter lämna valkuverten till röstmottagarna.
+3 § Varje väljare ska vara ensam bakom en valskärm och själv 
+göra i ordning sina röster där. Därefter ska väljaren lämna 
+valkuverten till röstmottagarna.
 
-Väljare som på grund av funktionsnedsättning eller liknande
-inte själva kan göra i ordning sina röster, ska på begäran få
-hjälp med detta av röstmottagarna i den utsträckning som
-behövs. En sådan väljare får också anlita någon annan person
-som hjälper honom eller henne vid röstningen. Lag (2014:301).
+Väljare som på grund av funktionsnedsättning eller liknande 
+inte själva kan göra i ordning sina röster, ska dock på 
+begäran få hjälp med detta av röstmottagarna i den 
+utsträckning som behövs. En sådan väljare får också anlita 
+någon annan person som hjälper honom eller henne vid 
+röstningen. Lag (2021:1328).
 
 Röstning genom ambulerande röstmottagare
 
@@ -1373,25 +1384,26 @@ görs enligt denna paragraf.
 
 Röstmottagning på röstmottagningsställen
 
-Utrustning
+Utrustning m.m.
 
 1 § På ett röstmottagningsställe skall det finnas ett lämpligt
 antal avskilda platser (valskärmar) där väljarna kan rösta utan
 insyn.
 
 2 § I anslutning till ett röstmottagningsställe ska det ordnas 
-en lämplig avskärmad plats där valsedlar kan läggas ut. Om en 
+en lämplig avskärmad plats där valsedlar kan läggas ut och där 
+väljarna var för sig kan ta sina valsedlar utan insyn. Om en 
 sådan plats inte kan anordnas i anslutning till 
 röstmottagningsstället får den i stället ordnas inne i 
-lokalen. På denna plats ska väljarna ha tillgång till 
+lokalen. På denna plats ska väljarna ha tillgång till
 
-1. valsedlar med enbart valbeteckning, 
+1. valsedlar med enbart valbeteckning,
 
 2. valsedlar med parti- och valbeteckning
 
 a) för val till riksdagen samt region- och kommunfullmäktige 
 för varje parti som vid något av de två senaste riksdagsvalen 
-har fått mer än 1 procent av rösterna i hela landet, 
+har fått mer än 1 procent av rösterna i hela landet,
 
 b) för val till region- och kommunfullmäktige för varje parti 
 som redan är representerat där och som inte uppfyller kraven i 
@@ -1405,12 +1417,23 @@ av rösterna i hela landet eller valsedlar med parti- och
 valbeteckning samt uppgifter om kandidater om ett sådant parti 
 deltar med endast en valsedel.
 
-De partier som deltar i valen ska också kunna lägga ut sina 
-valsedlar på denna plats.
+De partier som deltar i valen ska också kunna ge väljarna 
+tillgång till sina valsedlar. Det är dock valnämnden eller 
+utlandsmyndigheten som lägger ut valsedlarna på den avskärmade 
+platsen.
+
+Valsedlarna ska presenteras på ett likformigt sätt.
 
 Första stycket 2 och 3 gäller endast under förutsättning att 
-partiet har gjort en begäran enligt 6 kap. 7 §.
-Lag (2019:923).
+partiet har gjort en begäran enligt 6 kap. 7 §. 
+Lag (2021:1328).
+
+2 a § Väljare som på grund av funktionsnedsättning eller 
+liknande inte själva kan ta sina valsedlar på den avskärmade 
+plats där valsedlarna finns utlagda, ska på begäran få hjälp 
+med detta av röstmottagarna i den utsträckning som behövs. En 
+sådan väljare får också anlita någon annan person som hjälper 
+honom eller henne med detta. Lag (2021:1328).
 
 Ordning m.m.
 
@@ -1418,12 +1441,16 @@ Ordning m.m.
 detta får det inte förekomma propaganda eller annat som syftar
 till att påverka eller hindra väljarna i deras val.
 
-4 § Röstmottagarna ansvarar för ordningen på
-röstmottagningsstället. Den som finns i lokalen eller i ett
-utrymme intill denna skall rätta sig efter de anvisningar som
-röstmottagarna ger för att röstmottagningen skall kunna
-genomföras. Blir det sådan oordning att den inte kan avstyras
-får röstmottagningen tillfälligt avbrytas.
+4 § Röstmottagarna ansvarar för ordningen på 
+röstmottagningsstället. Den som befinner sig i lokalen eller i 
+ett utrymme intill denna ska rätta sig efter de anvisningar 
+som röstmottagarna ger för att röstmottagningen ska kunna 
+genomföras. Den som inte följer röstmottagarnas anvisningar 
+får uppmanas att tillfälligt lämna lokalen eller utrymmet, om 
+det är av väsentlig betydelse för genomförandet av 
+röstmottagningen. Kan röstmottagningen på grund av en 
+ordningsstörning inte genomföras får den tillfälligt avbrytas.
+Lag (2021:1328).
 
 5 § Väljare som finns på ett röstmottagningsställe eller på en
 plats som de har anvisats till intill detta när tiden för
@@ -2218,7 +2245,7 @@ tillsätts de efter jämförelsetalen enligt 10 §.
 
 12 § Om ett parti i någon valkrets fått fler mandat än vad som
 motsvarar antalet kandidater på partiets valsedlar, skall
-överskjutande mandat med tilllämpning av beräkningen i 5 §
+överskjutande mandat med tillämpning av beräkningen i 5 §
 andra stycket flyttas till en annan valkrets där partiet deltar
 i fördelningen av fasta valkretsmandat.
 
@@ -2732,3 +2759,10 @@ Europaparlamentet 2019.
 3. Äldre föreskrifter gäller vid ett omval som hålls på grund 
 av att ett ordinarie val till riksdagen eller landstings- 
 eller kommunfullmäktige i september 2018 upphävts.
+
+2021:1328
+
+1. Denna lag träder i kraft den 1 februari 2022.
+
+2. Lagen tillämpas första gången inför och vid ordinarie val 
+till riksdagen, regionfullmäktige och kommunfullmäktige 2022.
