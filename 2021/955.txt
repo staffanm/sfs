@@ -94,7 +94,7 @@ Anmälan vid säkerhetshotande händelser eller verksamhet
 Säkerhetspolisen om 
 
 1. det finns skäl att anta att en säkerhetsskyddsklassificerad 
-uppgift otilllåtet har röjts,
+uppgift otillåtet har röjts,
 
 2. det inträffat en it-incident i ett informationssystem som 
 verksamhetsutövaren är ansvarig för och som har betydelse för 
@@ -690,121 +690,7 @@ registerkontroll och särskild personutredning gäller vid
 
 Tillsyn
 
-1 § /Upphör att gälla U:2022-01-01/
-Följande myndigheter är tillsynsmyndigheter enligt 
-säkerhetsskyddslagen (2018:585) och denna förordning för 
-angivna tillsynsområden. 
-
-Tillsynsmyndighet
-
-Försvarsmakten
-
-Säkerhetspolisen
-
-Affärsverket svenska
-
-kraftnät
-
-Transportstyrelsen
-
-Post- och telestyrelsen
-
-Försvarets materielverk
-
-Finansinspektionen
-
-Statens energimyndighet
-
-Strålsäkerhetsmyndigheten
-
-Länsstyrelsen i 
-
-Stockholms län
-
-Länsstyrelsen i 
-
-Skåne län
-
-Länsstyrelsen i 
-
-Västra Götalands län
-
-Länsstyrelsen i Norrbottens län	
-
-Tillsynsområde
-
-Fortifikationsverket, Försvarshögskolan och de myndigheter som 
-hör till Försvarsdepartementet
-
-domstolarna som inte hör till Försvarsdepartementet, 
-Domstolsverket, Domarnämnden, Åklagarmyndigheten, 
-Polismyndigheten, Ekobrottsmyndigheten, Kriminalvården, 
-Kustbevakningen, Tullverket, Skatteverket, Försäkringskassan, 
-Pensionsmyndigheten, Statens servicecenter, Riksgäldskontoret, 
-Riksarkivet, Finansinspektionen, Statens fastighetsverk, 
-Inspektionen för strategiska produkter, Myndigheten för 
-samhällsskydd och beredskap, Lantmäteriet, Post- och 
-telestyrelsen, Transportstyrelsen, Affärsverket svenska 
-kraftnät, Strålsäkerhetsmyndigheten, Statens energimyndighet, 
-Livsmedelsverket, Luftfartsverket, Sjöfartsverket, 
-Trafikverket, Folkhälsomyndigheten, Socialstyrelsen, Statens 
-jordbruksverk, Statens veterinärmedicinska anstalt, E-
-hälsomyndigheten, Läkemedelsverket, Migrationsverket och 
-länsstyrelserna
-
-enskilda verksamhetsutövare inom områdena elförsörjning och 
-dammanläggningar, med undantag för kärnteknisk verksamhet
-
-enskilda verksamhetsutövare inom områdena vägtrafik, sjöfart, 
-spårbunden trafik, civil luftfart, flygtrafiktjänster för 
-civil luftfart och flygtrafikledningstjänst för militär 
-luftfart
-
-enskilda verksamhetsutövare inom områdena elektronisk 
-kommunikation och posttjänst 
-
-enskilda verksamhetsutövare inom området försvarsmateriel
-
-enskilda verksamhetsutövare inom området finansiella företag 
-samt för motsvarande utländska företag som är etablerade i 
-Sverige 
-
-enskilda verksamhetsutövare inom områdena fjärrvärme-, 
-naturgas-, olje- och drivmedelsförsörjning
-
-enskilda verksamhetsutövare inom området kärnteknisk 
-verksamhet
-
-kommuner och regioner som hör till Stockholms, Uppsala, 
-Södermanlands, Västmanlands, Värmlands, Gotlands, Örebro, 
-Dalarnas eller Gävleborgs län och statliga myndigheter, utom 
-Säkerhetspolisen och Justitiekanslern, och enskilda 
-verksamhetsutövare som har sitt säte i något av dessa län, om 
-de inte hör till någon annan tillsynsmyndighets tillsynsområde
-
-kommuner och regioner som hör till Kronobergs, Blekinge, 
-Kalmar eller Skåne län och statliga myndigheter och enskilda 
-verksamhetsutövare som har sitt säte i något av dessa län, om 
-de inte hör till någon annan tillsynsmyndighets tillsynsområde 
-
-kommuner och regioner som hör till Hallands, Jönköpings, 
-Västra Götalands eller Östergötlands län och statliga 
-myndigheter och enskilda verksamhetsutövare som har sitt säte 
-i något av dessa län, om de inte hör till någon annan 
-tillsynsmyndighets tillsynsområde 
-
-kommuner och regioner som hör till Västernorrlands, Jämtlands, 
-Västerbottens eller Norrbottens län och statliga myndigheter 
-och enskilda verksamhetsutövare som har sitt säte i något av 
-dessa län, om de inte hör till någon annan tillsynsmyndighets 
-tillsynsområde
-
-En tillsynsmyndighet får utöva tillsyn hos en aktör som en 
-verksamhetsutövare inom tillsynsmyndighetens tillsynsområde 
-har ingått ett säkerhetsskyddsavtal med enligt 4 kap. 1 §  
-säkerhetsskyddslagen (2018:585). 
-
-1 § /Träder i kraft I:2022-01-01/
+1 § /Upphör att gälla U:2022-04-01/
 Följande myndigheter är tillsynsmyndigheter enligt 
 säkerhetsskyddslagen (2018:585) och denna förordning för 
 angivna tillsynsområden. 
@@ -917,6 +803,122 @@ En tillsynsmyndighet får utöva tillsyn hos en aktör som en
 verksamhetsutövare inom tillsynsmyndighetens tillsynsområde 
 har ingått ett säkerhetsskyddsavtal med enligt 4 kap. 1 §  
 säkerhetsskyddslagen (2018:585). Förordning (2021:1116).
+
+1 § /Träder i kraft I:2022-04-01/
+Följande myndigheter är tillsynsmyndigheter enligt 
+säkerhetsskyddslagen (2018:585) och denna förordning för 
+angivna tillsynsområden. 
+
+Tillsynsmyndighet       Tillsynsområde
+
+Försvarsmakten          Fortifikationsverket, Försvarshögskolan 
+                        och de myndigheter som hör till 
+                        Försvarsdepartementet
+
+Säkerhetspolisen        domstolarna som inte hör till 
+                        Försvarsdepartementet, Domstolsverket, 
+                        Domarnämnden, Åklagarmyndigheten,  
+                        Polismyndigheten, Ekobrottsmyndigheten, 
+                        Kriminalvården, Kustbevakningen, 
+                        Tullverket, Skatteverket, 
+                        Försäkringskassan, Pensionsmyndigheten, 
+                        Statens servicecenter, Riksgäldskontoret, 
+                        Riksarkivet, Finansinspektionen, Statens 
+                        fastighetsverk, Inspektionen för 
+                        strategiska produkter, Myndigheten för 
+                        samhällsskydd och beredskap, 
+                        Lantmäteriet, Post- och telestyrelsen, 
+                        Transportstyrelsen, Affärsverket svenska 
+                        kraftnät, Strålsäkerhetsmyndigheten, 
+                        Statens energimyndighet, 
+                        Livsmedelsverket, Luftfartsverket, 
+                        Sjöfartsverket, Trafikverket, 
+                        Folkhälsomyndigheten, Socialstyrelsen, 
+                        Statens jordbruksverk, Statens 
+                        veterinärmedicinska anstalt, 
+                        E-hälsomyndigheten, Läkemedelsverket, 
+                        Migrationsverket, Myndigheten för 
+                        psykologiskt försvar, Säkerhets- och 
+                        integritetsskyddsnämnden och 
+                        länsstyrelserna
+
+Affärsverket svenska    enskilda verksamhetsutövare inom 
+kraftnät                områdena elförsörjning och 
+                        dammanläggningar, med undantag för 
+                        kärnteknisk verksamhet
+
+Transportstyrelsen      enskilda verksamhetsutövare inom 
+                        områdena vägtrafik, sjöfart, spårbunden 
+                        trafik, civil luftfart, 
+                        flygtrafiktjänster för civil luftfart 
+                        och flygtrafikledningstjänst för 
+                        militär luftfart
+
+Post- och telestyrelsen enskilda verksamhetsutövare inom 
+                        områdena elektronisk kommunikation och 
+                        posttjänst
+
+Försvarets materielverk enskilda verksamhetsutövare inom 
+                        området försvarsmateriel
+
+Finansinspektionen      enskilda verksamhetsutövare inom 
+                        området finansiella företag samt för 
+                        motsvarande utländska företag som är 
+                        etablerade i Sverige 
+
+Statens energimyndighet enskilda verksamhetsutövare inom 
+                        områdena fjärrvärme-, naturgas-, olje- 
+                        och drivmedelsförsörjning
+
+Strålsäkerhetsmyndig-
+heten                   enskilda verksamhetsutövare inom 
+                        området kärnteknisk verksamhet         
+
+Länsstyrelsen i 
+Stockholms län          kommuner och regioner som hör till 
+                        Stockholms, Uppsala, Södermanlands, 
+                        Västmanlands, Värmlands, Gotlands, 
+                        Örebro, Dalarnas eller Gävleborgs län 
+                        och statliga myndigheter, utom 
+                        Säkerhetspolisen och Justitiekanslern, 
+                        och enskilda verksamhetsutövare som har 
+                        sitt säte i något av dessa län, om de 
+                        inte hör till någon annan 
+                        tillsynsmyndighets tillsynsområde
+
+Länsstyrelsen i 
+Skåne län               kommuner och regioner som hör till 
+                        Kronobergs, Blekinge, Kalmar eller 
+                        Skåne län och statliga myndigheter och 
+                        enskilda verksamhetsutövare som har 
+                        sitt säte i något av dessa län, om 
+                        de inte hör till någon annan 
+                        tillsynsmyndighets tillsynsområde
+
+Länsstyrelsen i 
+Västra Götalands län    kommuner och regioner som hör till 
+                        Hallands, Jönköpings, Västra Götalands 
+                        eller Östergötlands län och statliga 
+                        myndigheter och enskilda 
+                        verksamhetsutövare som har sitt säte 
+                        i något av dessa län, om de inte hör 
+                        till någon annan tillsynsmyndighets 
+                        tillsynsområde
+
+Länsstyrelsen i 
+Norrbottens län         kommuner och regioner som hör till 
+                        Västernorrlands, Jämtlands, 
+                        Västerbottens eller Norrbottens län och 
+                        statliga myndigheter och enskilda 
+                        verksamhetsutövare som har sitt säte i 
+                        något av dessa län, om de inte hör till 
+                        någon annan tillsynsmyndighets 
+                        tillsynsområde
+
+En tillsynsmyndighet får utöva tillsyn hos en aktör som en 
+verksamhetsutövare inom tillsynsmyndighetens tillsynsområde 
+har ingått ett säkerhetsskyddsavtal med enligt 4 kap. 1 §  
+säkerhetsskyddslagen (2018:585). Förordning (2022:125).
 
 2 § Säkerhetspolisen och Försvarsmakten ska vara 
 samordningsmyndigheter. Myndigheterna ska 
@@ -1096,416 +1098,7 @@ organisation eller utländsk leverantör behöver inte tillämpas
 förrän den 1 januari 2025.
 
 
-Bilaga /Upphör att gälla U:2022-01-01/
-
-Följande statliga myndigheter beslutar om placering i 
-säkerhetsklass i enlighet med vad som anges i 5 kap. 8 § .
-
-Affärsverket svenska kraftnät
-
-Allmänna domstolarna
-
-Allmänna förvaltningsdomstolarna
-
-Arbetsdomstolen
-
-Arbetsförmedlingen
-
-Arbetsgivarverket
-
-Arbetsmiljöverket
-
-Brottsförebyggande rådet
-
-Centrala studiestödsnämnden
-
-Domarnämnden
-
-Domstolsverket
-
-E-hälsomyndigheten
-
-Ekobrottsmyndigheten
-
-Ekonomistyrningsverket
-
-Elsäkerhetsverket
-
-Energimarknadsinspektionen
-
-Exportkreditnämnden
-
-Finansinspektionen
-
-Folke Bernadotteakademin
-
-Folkhälsomyndigheten
-
-Fortifikationsverket
-
-Försvarets materielverk
-
-Försvarets radioanstalt
-
-Försvarshögskolan
-
-Försvarsmakten
-
-Försvarsunderrättelsedomstolen
-
-Försäkringskassan
-
-Granskningsnämnden för försvarsuppfinningar
-
-Göteborgs universitet
-
-Havs- och vattenmyndigheten
-
-Hyres- och arrendenämnderna
-
-Inspektionen för strategiska produkter
-
-Institutet för rymdfysik
-
-Integritetsskyddsmyndigheten
-
-Justitiekanslern
-
-Kammarkollegiet
-
-Kemikalieinspektionen
-
-Konkurrensverket
-
-Kriminalvården
-
-Kronofogdemyndigheten
-
-Kungl. Tekniska högskolan
-
-Kustbevakningen
-
-Lantmäteriet
-
-Linköpings universitet
-
-Livsmedelsverket
-
-Luftfartsverket
-
-Lunds universitet
-
-Läkemedelsverket
-
-Länsstyrelserna
-
-Migrationsverket
-
-Myndigheten för digital förvaltning
-
-Myndigheten för samhällsskydd och beredskap
-
-Myndigheten för tillväxtpolitiska utvärderingar och analyser
-
-Mälardalens högskola
-
-Naturvårdsverket
-
-Patent- och registreringsverket
-
-Pensionsmyndigheten
-
-Polarforskningssekretariatet
-
-Polismyndigheten
-
-Post- och telestyrelsen
-
-Regeringskansliet
-
-Riksantikvarieämbetet
-
-Riksarkivet
-
-Riksgäldskontoret
-
-Rymdstyrelsen
-
-Rättshjälpsmyndigheten
-
-Sjöfartsverket
-
-Skatteverket
-
-Socialstyrelsen
-
-Statens energimyndighet
-
-Statens fastighetsverk
-
-Statens haverikommission
-
-Statens inspektion för försvarsunderrättelseverksamheten
-
-Statens jordbruksverk
-
-Statens servicecenter
-
-Statens tjänstepensionsverk
-
-Statens veterinärmedicinska anstalt
-
-Statens överklagandenämnd
-
-Statistiska centralbyrån
-
-Statskontoret
-
-Stockholms universitet
-
-Strålsäkerhetsmyndigheten
-
-Styrelsen för internationellt utvecklingssamarbete
-
-Sveriges geologiska undersökning
-
-Sveriges lantbruksuniversitet
-
-Sveriges meteorologiska och hydrologiska institut
-
-Säkerhets- och integritetsskyddsnämnden
-
-Säkerhetspolisen
-
-Totalförsvarets forskningsinstitut
-
-Totalförsvarets plikt- och prövningsverk
-
-Trafikverket
-
-Transportstyrelsen
-
-Tullverket
-
-Umeå universitet
-
-Uppsala universitet
-
-Valmyndigheten
-
-Verket för innovationssystem
-
-Vetenskapsrådet
-
-Åklagarmyndigheten
-                                                                       
-Bilaga /Träder i kraft I:2022-01-01/
-
-Följande statliga myndigheter beslutar om placering i 
-säkerhetsklass i enlighet med vad som anges i 5 kap. 8 §.
-
-Affärsverket svenska kraftnät 
-
-Allmänna domstolarna 
-
-Allmänna förvaltningsdomstolarna 
-
-Arbetsdomstolen 
-
-Arbetsförmedlingen 
-
-Arbetsgivarverket 
-
-Arbetsmiljöverket 
-
-Brottsförebyggande rådet 
-
-Centrala studiestödsnämnden 
-
-Domarnämnden 
-
-Domstolsverket 
-
-E-hälsomyndigheten 
-
-Ekobrottsmyndigheten 
-
-Ekonomistyrningsverket 
-
-Elsäkerhetsverket 
-
-Energimarknadsinspektionen 
-
-Exportkreditnämnden 
-
-Finansinspektionen 
-
-Folke Bernadotteakademin 
-
-Folkhälsomyndigheten 
-
-Fortifikationsverket 
-
-Försvarets materielverk 
-
-Försvarets radioanstalt 
-
-Försvarshögskolan 
-
-Försvarsmakten 
-
-Försvarsunderrättelsedomstolen 
-
-Försäkringskassan 
-
-Granskningsnämnden för försvarsuppfinningar 
-
-Göteborgs universitet 
-
-Havs- och vattenmyndigheten 
-
-Hyres- och arrendenämnderna 
-
-Inspektionen för strategiska produkter 
-
-Institutet för rymdfysik 
-
-Integritetsskyddsmyndigheten 
-
-Justitiekanslern 
-
-Kammarkollegiet 
-
-Kemikalieinspektionen 
-
-Konkurrensverket 
-
-Kriminalvården 
-
-Kronofogdemyndigheten 
-
-Kungl. Tekniska högskolan 
-
-Kustbevakningen 
-
-Lantmäteriet 
-
-Linköpings universitet 
-
-Livsmedelsverket 
-
-Luftfartsverket 
-
-Lunds universitet
-
-Läkemedelsverket 
-
-Länsstyrelserna 
-
-Migrationsverket 
-
-Myndigheten för digital förvaltning 
-
-Myndigheten för psykologiskt försvar
-
-Myndigheten för samhällsskydd och beredskap 
-
-Myndigheten för tillväxtpolitiska utvärderingar och analyser 
-
-Mälardalens högskola
-
-Naturvårdsverket 
-
-Patent- och registreringsverket 
-
-Pensionsmyndigheten 
-
-Polarforskningssekretariatet 
-
-Polismyndigheten 
-
-Post- och telestyrelsen 
-
-Regeringskansliet 
-
-Riksantikvarieämbetet 
-
-Riksarkivet 
-
-Riksgäldskontoret 
-
-Rymdstyrelsen 
-
-Rättshjälpsmyndigheten 
-
-Sjöfartsverket 
-
-Skatteverket 
-
-Socialstyrelsen 
-
-Statens energimyndighet 
-
-Statens fastighetsverk 
-
-Statens haverikommission 
-
-Statens inspektion för försvarsunderrättelseverksamheten 
-
-Statens jordbruksverk 
-
-Statens servicecenter 
-
-Statens tjänstepensionsverk 
-
-Statens veterinärmedicinska anstalt 
-
-Statens överklagandenämnd 
-
-Statistiska centralbyrån 
-
-Statskontoret 
-
-Stockholms universitet 
-
-Strålsäkerhetsmyndigheten 
-
-Styrelsen för internationellt utvecklingssamarbete 
-
-Sveriges geologiska undersökning 
-
-Sveriges lantbruksuniversitet 
-
-Sveriges meteorologiska och hydrologiska institut 
-
-Säkerhets- och integritetsskyddsnämnden 
-
-Säkerhetspolisen 
-
-Totalförsvarets forskningsinstitut 
-
-Totalförsvarets plikt- och prövningsverk 
-
-Trafikverket 
-
-Transportstyrelsen 
-
-Tullverket 
-
-Umeå universitet 
-
-Uppsala universitet 
-
-Valmyndigheten 
-
-Verket för innovationssystem
-
-Vetenskapsrådet 
-
-Åklagarmyndigheten
-Förordning (2021:1116).
-
-Bilaga /Träder i kraft I:2022-01-24/
+Bilaga /Upphör att gälla U:2022-04-01/
 
 Följande statliga myndigheter beslutar om placering i 
 säkerhetsklass i enlighet med vad som anges i 5 kap. 8 §.
@@ -1710,3 +1303,211 @@ Vetenskapsrådet
 
 Åklagarmyndigheten
 Förordning (2021:1281).
+
+Bilaga /Träder i kraft I:2022-04-01/
+
+Följande statliga myndigheter beslutar om placering i 
+säkerhetsklass i enlighet med vad som anges i 5 kap. 8 §.
+
+Affärsverket svenska kraftnät 
+
+Allmänna domstolarna 
+
+Allmänna förvaltningsdomstolarna 
+
+Arbetsdomstolen 
+
+Arbetsförmedlingen 
+
+Arbetsgivarverket 
+
+Arbetsmiljöverket 
+
+Brottsförebyggande rådet 
+
+Centrala studiestödsnämnden 
+
+Domarnämnden 
+
+Domstolsverket 
+
+E-hälsomyndigheten 
+
+Ekobrottsmyndigheten 
+
+Ekonomistyrningsverket 
+
+Elsäkerhetsverket 
+
+Energimarknadsinspektionen 
+
+Exportkreditnämnden 
+
+Finansinspektionen 
+
+Folke Bernadotteakademin 
+
+Folkhälsomyndigheten 
+
+Fortifikationsverket 
+
+Försvarets materielverk 
+
+Försvarets radioanstalt 
+
+Försvarshögskolan 
+
+Försvarsmakten 
+
+Försvarsunderrättelsedomstolen 
+
+Försäkringskassan 
+
+Granskningsnämnden för försvarsuppfinningar 
+
+Göteborgs universitet 
+
+Havs- och vattenmyndigheten 
+
+Hyres- och arrendenämnderna 
+
+Inspektionen för strategiska produkter 
+
+Institutet för rymdfysik 
+
+Integritetsskyddsmyndigheten 
+
+Justitiekanslern 
+
+Kammarkollegiet 
+
+Kemikalieinspektionen 
+
+Konkurrensverket 
+
+Kriminalvården 
+
+Kronofogdemyndigheten 
+
+Kungl. Tekniska högskolan 
+
+Kustbevakningen 
+
+Lantmäteriet 
+
+Linköpings universitet 
+
+Livsmedelsverket 
+
+Luftfartsverket 
+
+Luleå tekniska universitet
+
+Lunds universitet
+
+Läkemedelsverket 
+
+Länsstyrelserna 
+
+Migrationsverket 
+
+Myndigheten för digital förvaltning 
+
+Myndigheten för psykologiskt försvar
+
+Myndigheten för samhällsskydd och beredskap 
+
+Myndigheten för tillväxtpolitiska utvärderingar och analyser 
+
+Mälardalens universitet
+
+Naturvårdsverket 
+
+Patent- och registreringsverket 
+
+Pensionsmyndigheten 
+
+Polarforskningssekretariatet 
+
+Polismyndigheten 
+
+Post- och telestyrelsen 
+
+Regeringskansliet 
+
+Riksantikvarieämbetet 
+
+Riksarkivet 
+
+Riksgäldskontoret 
+
+Rymdstyrelsen 
+
+Rättshjälpsmyndigheten 
+
+Sjöfartsverket 
+
+Skatteverket 
+
+Socialstyrelsen 
+
+Statens energimyndighet 
+
+Statens fastighetsverk 
+
+Statens haverikommission 
+
+Statens inspektion för försvarsunderrättelseverksamheten 
+
+Statens jordbruksverk 
+
+Statens servicecenter 
+
+Statens tjänstepensionsverk 
+
+Statens veterinärmedicinska anstalt 
+
+Statens överklagandenämnd 
+
+Statistiska centralbyrån 
+
+Statskontoret 
+
+Stockholms universitet 
+
+Strålsäkerhetsmyndigheten 
+
+Styrelsen för internationellt utvecklingssamarbete 
+
+Sveriges geologiska undersökning 
+
+Sveriges lantbruksuniversitet 
+
+Sveriges meteorologiska och hydrologiska institut 
+
+Säkerhets- och integritetsskyddsnämnden 
+
+Säkerhetspolisen 
+
+Totalförsvarets forskningsinstitut 
+
+Totalförsvarets plikt- och prövningsverk 
+
+Trafikverket 
+
+Transportstyrelsen 
+
+Tullverket 
+
+Umeå universitet 
+
+Uppsala universitet 
+
+Valmyndigheten 
+
+Verket för innovationssystem
+
+Vetenskapsrådet 
+
+Åklagarmyndigheten
+Förordning (2022:125).
