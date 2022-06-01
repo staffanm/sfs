@@ -330,8 +330,8 @@ Klass	Benämning				Tabell
 60	Övriga ekonomibyggnader	
 Förordning (2016:368).
 
-11 § För ekonomibyggnader ska det upprättas 54 
-relationstabeller (E-tabeller). För samtliga 
+11 § För ekonomibyggnader ska det upprättas 
+54 relationstabeller (E-tabeller). För samtliga 
 byggnadskategorier, utom byggnadskategori 60, ska det finnas 
 tre E-tabeller, en med G betecknad tabell för 
 glesbygdsförhållanden, en med M betecknad tabell för 
@@ -339,25 +339,25 @@ normalförhållanden och en med T betecknad tabell för
 tätortsinfluerade områden. E-tabellerna ska ange det relativa 
 värdet av en värderingsenhet vid skilda förhållanden 
 beträffande värdefaktorerna storlek, ålder och beskaffenhet. 
-Normenheten för ekonomibyggnader ska avse ett djurstall för 
-nötkreatur som är byggt under åren 1995–2004, har en normal 
-beskaffenhet och har en storlek av 1100–1299 kvadratmeter. De 
-relativa värdena i E-tabellerna ska bestämmas i en värdenivå 
-vid vilken en sådan ekonomibyggnad har ett värde av 1 000 
-kronor.
+Normenheten för ekonomibyggnader ska avse en maskinhall, 
+gårdsverkstad eller liknande som är byggd under åren 2010-
+2019, har en normal beskaffenhet och har en storlek av 1 000-
+1 199 kvadratmeter. De relativa värdena i E-tabellerna ska 
+bestämmas i en värdenivå vid vilken en sådan ekonomibyggnad 
+har ett värde av 1 000 kronor.
 
-Det ska finnas 53 värdenivåer för ekonomibyggnader. De 
-erhålls genom att värdena i E-tabellerna multipliceras med 
-E-nivåfaktorer. De ska vara 100, 150, 200, 250, 300, 350, 
-400, 450, 500, 550, 600, 650, 700, 750, 800, 850, 900, 950, 
-1 000, 1 100, 1 200, 1 300, 1 400, 1 500, 1 600, 1 700, 1 800, 
-1 900, 2 000, 2 100, 2 200, 2 300, 2 400, 2 500, 2 600, 2 700, 
-2 800, 2 900, 3 000, 3 200, 3 400, 3 600, 3 800, 4 000, 4 200, 
-4 400, 4 600, 4 800, 5 000, 5 250, 5 500, 5 750 och 6 000.
+Det ska finnas 53 värdenivåer för ekonomibyggnader. De erhålls 
+genom att värdena i E-tabellerna multipliceras med E-
+nivåfaktorer. De ska vara 100, 150, 200, 250, 300, 350, 400, 
+450, 500, 550, 600, 650, 700, 750, 800, 850, 900, 950, 1 000, 
+1 100, 1 200, 1 300, 1 400, 1 500, 1 600, 1 700, 1 800, 1 900, 
+2 000, 2 100, 2 200, 2 300, 2 400, 2 500, 2 600, 2 700, 2 800, 
+2 900, 3 000, 3 200, 3 400, 3 600, 3 800, 4 000, 4 200, 4 400, 
+4 600, 4 800, 5 000, 5 250, 5 500, 5 750 och 6 000.
 
 I bilaga 3 anges hur E-tabellerna ska utformas och hur 
 värdefaktorerna storlek, ålder och beskaffenhet ska 
-klassindelas. Förordning (2016:368).
+klassindelas. Förordning (2022:287).
 
 12 § Riktvärdena för värderingsenheter omfattande en eller flera
 ekonomibyggnader eller del av ekonomibyggnad bestäms och
@@ -502,10 +502,10 @@ förhållanden beträffande värdefaktorerna beskaffenhet och
 dränering och av betesmark vid olika beskaffenhet. De relativa 
 värdena i J-tabellerna ska bestämmas i en värdenivå vid vilken 
 ett hektar åkermark enligt 13 kap. 2 § 
-fastighetstaxeringslagen (1979:1152) har ett värde av  
-1 000 kronor.
+fastighetstaxeringslagen (1979:1152) har ett värde av 1 000 
+kronor.
 
-Det ska finnas 89 skilda värdenivåer för åker- och betesmark. 
+Det ska finnas 94 skilda värdenivåer för åker- och betesmark. 
 De erhålls genom att relativvärdena i en J-tabell 
 multipliceras med J-nivåfaktorer. Dessa ska vara 1,0, 1,5, 
 2,0, 2,5, 3,0, 3,5, 4,0, 4,5, 5,0, 5,5, 6,0, 6,5, 7,0, 7,5, 
@@ -516,21 +516,22 @@ multipliceras med J-nivåfaktorer. Dessa ska vara 1,0, 1,5,
 85,0, 90,0, 95,0, 100,0, 110,0, 120,0, 130,0, 140,0, 150,0, 
 160,0, 170,0, 180,0, 190,0, 200,0, 210,0, 220,0, 230,0, 240,0, 
 250,0, 260,0, 270,0, 280,0, 290,0, 300,0, 310,0, 320,0, 330,0, 
-340,0, 350,0, 360,0, 370,0, 380,0, 390,0 och 400,0.
+340,0, 350,0, 360,0, 370,0, 380,0, 390,0, 400,0, 410,0, 420,0, 
+430,0, 440,0 och 450,0.
 
-Tabell J1 ska användas då värdenivån bestäms av J-
-nivåfaktorerna 1,0-10,0, tabell J2 då värdenivån bestäms av 
-faktorerna 11,0-30,0, tabell J3 då värdenivån bestäms av 
-faktorerna 32,0-50,0, tabell J4 då värdenivån bestäms av 
-faktorerna 55,0-75,0, tabell J5 då värdenivån bestäms av 
-faktorerna 80,0-100,0, tabell J6 då värdenivån bestäms av 
-faktorerna 110,0-150,0, tabell J7 då värdenivån bestäms av 
-faktorerna 160,0-250,0 och tabell J8 då värdenivån bestäms av 
-faktorerna 260,0-400,0.
+Tabell J1 ska användas då värdenivån bestäms av 
+J-nivåfaktorerna 1,0-20,0, tabell J2 då värdenivån bestäms av 
+faktorerna 21,0-40,0, tabell J3 då värdenivån bestäms av 
+faktorerna 42,0-60,0, tabell J4 då värdenivån bestäms av 
+faktorerna 65,0-95,0, tabell J5 då värdenivån bestäms av 
+faktorerna 100,0-150,0, tabell J6 då värdenivån bestäms av 
+faktorerna 160,0-250,0, tabell J7 då värdenivån bestäms av 
+faktorerna 260,0-350,0 och tabell J8 då värdenivån bestäms av 
+faktorerna 360,0-450,0.
 
 I bilaga 4 anges hur J-tabellerna ska utformas och hur 
 värdefaktorerna beskaffenhet och dränering ska klassindelas.
-Förordning (2019:221).
+Förordning (2022:287).
 
 18 § Riktvärden för värderingsenheter omfattande åkermark eller
 betesmark bestäms och redovisas enligt följande formel.
@@ -559,8 +560,8 @@ vid skilda förhållanden beträffande värdefaktorn virkesförråd.
 De relativa värdena i skogstabell M ska bestämmas i en 
 värdenivå vid vilken ett hektar genomsnittlig produktiv 
 skogsmark utan avverkningsrestriktioner enligt 14 kap. 2 § 
-fastighetstaxeringslagen (1979:1152) har ett värde av 1 000 
-kronor. Med genomsnittlig produktiv skogsmark utan 
+fastighetstaxeringslagen (1979:1152) har ett värde av 
+1 000 kronor. Med genomsnittlig produktiv skogsmark utan 
 avverkningsrestriktioner ska avses produktiv skogsmark med 
 bonitetsklass C. Den genomsnittliga produktiva skogsmarkens 
 virkesförråd barrträd och virkesförråd lövträd i olika 
@@ -573,27 +574,28 @@ Region				Virkesförråd
 				Barrträd	Lövträd
 1 Del av Jämtlands, 
 Västerbottens och  
-Norrbottens län 		74		13
+Norrbottens län 		82		13
 
 2 Del av Jämtlands, 
 Västerbottens och 
 Norrbottens län samt 
-Gotlands län 			97		20
+Gotlands län                    100             21
 
-3 Dalarnas, Gävleborgs och 
-Västernorrlands län		112		20
+3 Dalarnas, 
+Gävleborgs och 
+Västernorrlands län             117             21
 
 4 Stockholms, Uppsala, 
 Södermanlands, 
 Östergötlands, Värmlands, 
 Örebro, Västmanlands och 
-Västra Götalands län		133		32
+Västra Götalands län            144             35
 
 5 Jönköpings, Kronobergs och 
-Kalmar län			141		30
+Kalmar län                      136             31
 
 6 Blekinge, Skåne och 
-Hallands län			118		75
+Hallands län                    124             77
 
 Det ska finnas 83 skilda värdenivåer för produktiv skogsmark 
 utan avverkningsrestriktioner. De erhålls genom att 
@@ -605,13 +607,13 @@ skogsnivåfaktorer. Dessa ska vara 1,0, 1,5, 2,0, 2,5, 3,0,
 29,0, 30,0, 32,0, 34,0, 36,0, 38,0, 40,0, 42,0, 44,0, 46,0, 
 48,0, 50,0, 52,0, 54,0, 56,0, 58,0, 60,0, 62,0, 64,0, 66,0, 
 68,0, 70,0, 72,0, 75,0, 77,0, 80,0, 82,0, 85,0, 87,0, 90,0, 
-92,0, 95,0, 97,0, 100,0, 102,0, 105,0, 107,0, 110,0, 
-115,0,120,0, 125,0, 130,0, 135,0, 140,0, 145,0 och 150,0.
+92,0, 95,0, 97,0, 100,0, 102,0, 105,0, 107,0, 110,0, 115,0, 
+120,0, 125,0, 130,0, 135,0, 140,0, 145,0 och 150,0.
 
 Skogstabell M ska upprättas enligt regionindelningen. I 
 bilaga 5 a anges hur omfattningen av region 1 och 2 ska 
 beskrivas och hur virkesförråd ska klassindelas.
-Förordning (2019:221).
+Förordning (2022:287).
 
 20 § Riktvärde för en värderingsenhet produktiv skogsmark 
 utan avverkningsrestriktioner omfattande mindre än 30 hektar 
@@ -2189,3 +2191,10 @@ fastighetstaxering 2021.
 
 2. Förordningen tillämpas första gången vid förenklad 
 fastighetstaxering år 2022.
+
+2022:287
+
+1. Denna förordning träder i kraft den 1 juni 2022.
+
+2. Förordningen tillämpas första gången vid allmän 
+fastighetstaxering 2023.
