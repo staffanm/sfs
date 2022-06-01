@@ -127,38 +127,38 @@ svårhetsgrad samt övriga omständigheter.
 
 5 § Innan åklagaren utfärdar en utredningsorder ska åklagaren 
 ansöka om domstolens tillstånd till att utfärda 
-utredningsordern, om utrednings-åtgärden avser
+utredningsordern, om utredningsåtgärden avser 
 
 1. kvarhållande av försändelse enligt 27 kap. 9 § 
-rättegångsbalken,
+rättegångsbalken, 
 
 2. hemlig avlyssning av elektronisk kommunikation, hemlig 
 övervakning av elektronisk kommunikation, hemlig 
 kameraövervakning, hemlig rumsavlyssning eller hemlig 
-dataavläsning, eller
+dataavläsning, eller 
 
 3. rättsmedicinsk undersökning enligt 16 § lagen (1995:832) om 
-obduktion m.m.
+obduktion m.m. 
 
 I avvaktan på domstolens beslut får åklagaren under de 
 förutsättningar som anges i 27 kap. 9 a och 21 a §§ 
 rättegångsbalken eller 17 § lagen (2020:62) om hemlig 
-dataavläsning utfärda en utredningsorder för kvarhållande av 
+dataavläsning utfärda en utredningsorder för kvar-hållande av 
 försändelse, hemlig avlyssning av elektronisk kommunikation, 
 hemlig övervakning av elektronisk kommunikation, hemlig 
 kameraövervakning eller hemlig dataavläsning. Åklagaren ska 
 utan dröjsmål anmäla till domstolen att en utredningsorder har 
 utfärdats.
 
-Innan en utredningsorder för husrannsakan, kroppsvisitation 
-eller kroppsbesiktning utfärdas, får åklagaren enligt 28 kap. 
-4 § första stycket och 13 § första stycket rättegångsbalken 
-ansöka om domstolens tillstånd till att utfärda 
-utredningsordern.
+Innan en utredningsorder för husrannsakan, genomsökning på 
+distans, kroppsvisitation eller kroppsbesiktning utfärdas, får 
+åklagaren enligt 28 kap. 4 § första stycket, 10 d § andra 
+stycket och 13 § första stycket rättegångs-balken ansöka om 
+domstolens tillstånd till att utfärda utredningsordern.
 
 För domstolens handläggning gäller vad som är föreskrivet i 
 rättegångsbalken eller annan författning för den åtgärd som 
-avses. Lag (2020:67).
+avses. Lag (2022:326).
 
 Särskilda formkrav eller förfaranden
 
@@ -234,32 +234,35 @@ Innan en utredningsorder enligt första stycket 2 utfärdas,
 ska den frihetsberövade personens inställning till 
 överförandet inhämtas.
 
-Beslag
+Beslag och kopiering
 
-13 §   En utredningsorder får utfärdas för beslag av ett 
-föremål som kan antas komma att påträffas i en annan 
-medlemsstat, trots att föremålet inte är tillgängligt vid 
-utfärdandet. 
+13 § En utredningsorder får utfärdas för 
+
+1. beslag av ett föremål som kan antas komma att påträffas i 
+en annan medlemsstat, trots att föremålet inte är tillgängligt 
+vid utfärdandet, eller
+
+2. kopiering av en handling enligt 27 kap. 17 a § 
+rättegångsbalken som kan antas komma att påträffas i en annan 
+medlemsstat, trots att handlingen inte är tillgänglig vid 
+utfärdandet.
 
 Vad som sägs i denna paragraf och i 14 och 15 §§ om föremål 
-ska också gälla i fråga om skriftlig handling. 
+ska också gälla i fråga om skriftlig handling. Lag (2022:326).
 
 14 § När en utredningsorder för beslag har verkställts i den 
 andra medlemsstaten, ska följande bestämmelser i 27 kap. 
-rättegångsbalken tillämpas: 
+rättegångsbalken tillämpas:
 
-– 2 § fjärde stycket om åklagarens skyldighet att anmäla 
-verkställt beslag av ett skriftligt meddelande,
+- 6 § första stycket om rättens prövning,
 
-– 6 § första stycket om rättens prövning, 
+- 7 § om tid för åtals väckande,
 
-– 7 § om tid för åtals väckande, 
+- 8 § första och fjärde styckena om hävande av beslag,
 
-– 8 § första och fjärde styckena om hävande av beslag, 
+- 11 § om underrättelseskyldighet, och
 
-– 11 § om underrättelseskyldighet, och
-
-– 13 § om protokoll och om rätt för den som drabbats av ett 
+- 13 § om protokoll och om rätt för den som drabbats av ett 
 beslag att få ett bevis om beslaget.
 
 Den som berörs av beslaget ska, i förekommande fall, 
@@ -269,11 +272,20 @@ beslaget.
 Om föremålet inte har överlämnats till Sverige när brottmålet 
 avgörs, ska rätten med tillämpning av 27 kap. 8 § femte 
 stycket rättegångsbalken pröva om beslaget fortfarande ska 
-bestå.
+bestå. Lag (2022:326).
 
 15 § Ett föremål som överlämnas till Sverige enligt en 
 utredningsorder för beslag ska tas i förvar av åklagaren och 
 anses vara taget i beslag enligt rättegångsbalken. 
+
+15 a § När en utredningsorder har verkställts i den andra 
+medlemsstaten och handlingar som omfattas av ett beslag eller 
+som påträffats vid en husrannsakan eller en genomsökning på 
+distans har kopierats, ska 27 kap. 17 c-17 e §§ 
+rättegångsbalken tillämpas. 
+
+En kopia som överlämnas till Sverige ska anses vara kopierad 
+enligt 27 kap. 17 a § rättegångsbalken. Lag (2022:326).
 
 Avspärrning och tillträdesförbud m.m.
 
@@ -413,28 +425,27 @@ privilegier eller om skydd för uppgifter som avses i 36 kap. 5
 och 5 a §§ rättegångsbalken,
 
 2. ordern avser beslag av en skriftlig handling eller ett 
-skriftligt meddelande eller ett föreläggande att bevara en 
-viss lagrad uppgift och det enligt 27 kap. 2 § 
-rättegångsbalken finns hinder mot att ta handlingen eller 
-meddelandet i beslag eller enligt 27 kap. 16 § fjärde stycket 
+föreläggande att bevara en viss lagrad uppgift och det enligt 
+27 kap. 2 § rättegångsbalken finns hinder mot att ta 
+handlingen i beslag eller enligt 27 kap. 16 § fjärde stycket 
 samma balk meddela ett föreläggande,
 
 3. det skulle medföra fara för Sveriges säkerhet, äventyra 
 enskilda personers säkerhet eller medföra risk för röjande av 
-uppgifter som rör underrättelseverksamhet, 
+uppgifter som rör underrättelseverksamhet,
 
 4. den gärning som avses i utredningsordern har begåtts 
 utanför den utfärdande medlemsstatens territorium och helt 
 eller delvis i Sverige, och gärningen inte motsvarar ett brott 
-enligt svensk lag, eller 
+enligt svensk lag, eller
 
-5. utredningsåtgärden inte motsvarar en åtgärd som anges i 1 
-kap. 4 §.
+5. utredningsåtgärden inte motsvarar en åtgärd som anges i 
+1 kap. 4 §.
 
 En utredningsorder får inte vägras enligt första stycket 5, om 
 en annan utredningsåtgärd kan vidtas som ger motsvarande 
 resultat som den åtgärd som utredningsordern avser.
-Lag (2021:241).
+Lag (2022:326).
 
 Fakultativa vägransgrunder
 
@@ -483,12 +494,12 @@ vidtas efter rättens tillstånd, ska åklagaren överlämna till
 domstol att pröva om utredningsordern ska erkännas och 
 verkställas. Detsamma gäller om utredningsordern avser en 
 åtgärd som åklagaren i en svensk förundersökning eller 
-rättegång i brottmål skulle ha inhämtat rättens tillstånd 
-till enligt 28 kap. 4 § första stycket eller 13 § första 
-stycket rättegångsbalken.
+rättegång i brottmål skulle ha inhämtat rättens tillstånd till 
+enligt 28 kap. 4 § första stycket, 10 d § andra stycket eller 
+13 § första stycket rättegångsbalken.
 
 Första stycket gäller inte om åklagaren vägrar erkännande och 
-verkställighet av utredningsordern.
+verkställighet av utredningsordern. Lag (2022:326).
 
 10 § I avvaktan på domstolens beslut enligt 9 § första stycket 
 får åklagaren, enligt de förutsättningar som anges i 27 kap. 
@@ -708,27 +719,27 @@ förhöret utan bistånd från svensk myndighet. Åklagaren ska i
 sådant fall underrätta den som ska höras om tid och plats för 
 förhöret.
 
-Beslag
+Beslag och kopiering
 
 32 § När en utredningsorder för beslag har verkställts, får 
 den som har drabbats av beslaget begära prövning av 
-verkställbarhetsförklaringen i domstol. 
-
-En utredningsorder för beslag som har verkställts med stöd av 
-27 kap. 2 § andra stycket 2–8 rättegångsbalken ska av 
-åklagaren anmälas till domstolen för prövning av 
-verkställbarhetsförklaringen. 
+verkställbarhetsförklaringen i domstol. Detsamma gäller när en 
+utredningsorder har verkställts och handlingar som påträffats 
+vid en husrannsakan eller en genomsökning på distans har 
+kopierats.
 
 Bestämmelserna i 27 kap. 7 § rättegångsbalken om tid för 
-väckande av åtal ska inte tillämpas. 
+väckande av åtal ska inte tillämpas.
 
-Behörig domstol enligt första och andra styckena är den 
-tingsrätt inom vars domkrets beslaget har verkställts.
+Behörig domstol enligt första stycket är den tingsrätt inom 
+vars domkrets beslaget, husrannsakan eller genomsökningen på 
+distans har verkställts. 
 
-Om domstolen vid sin prövning enligt första eller andra 
-stycket finner att verkställbarhetsförklaringen ska upphävas, 
-ska de verkställighetsåtgärder som vidtagits återgå, så långt 
-det är möjligt. 
+Om domstolen vid sin prövning enligt första stycket finner att 
+verkställbarhetsförklaringen ska upphävas, ska de 
+verkställighetsåtgärder som vidtagits återgå, så långt det är 
+möjligt och en kopia som framställts med tillämpning av 
+27 kap. 17 a § rättegångsbalken förstöras. Lag (2022:326).
 
 Avspärrning och tillträdesförbud m.m.
 
@@ -844,19 +855,16 @@ andra medlemsstaten bestämmer.
 40 § Ett överlämnande av inhämtat bevismaterial ska skjutas 
 upp i avvaktan på domstolens prövning, om
 
-1. en sådan prövning har begärts enligt 32 § första 
-stycket,
+1. en sådan prövning har begärts enligt 32 § första stycket, 
+eller
 
-2. åklagaren ska anmäla ett verkställt beslag till 
-domstolen enligt 32 § andra stycket, eller
+2. åklagaren har meddelat en verkställbarhetsförklaring med 
+stöd av 10 § och domstolen inte har fastställt förklaringen.
 
-3. åklagaren har meddelat en verkställbarhetsförklaring med 
-stöd av 10 § och domstolen inte har fastställt förklaringen. 
-
-Trots första stycket ska bevismaterialet överlämnas 
-omedelbart om det finns särskilda skäl. Detta gäller inte om 
+Trots första stycket ska bevismaterialet överlämnas omedelbart 
+om det finns särskilda skäl. Detta gäller inte om 
 överlämnandet skulle medföra allvarlig skada för den som 
-drabbas av åtgärden. 
+drabbas av åtgärden. Lag (2022:326).
 
 41 § Om den behöriga myndigheten i den andra medlemsstaten, 
 med anledning av en utredningsorder för beslag, har begärt 
@@ -868,8 +876,8 @@ för verkställigheten av utredningsordern får förlängas.
 
 Upphävande av en verkställbarhetsförklaring
 
-42 § En verkställbarhetsförklaring ska utan dröjsmål 
-upphävas, om
+42 § En verkställbarhetsförklaring ska utan dröjsmål upphävas, 
+om 
 
 1. det framkommer omständigheter som medför att 
 utredningsordern inte skulle ha erkänts om omständigheterna 
@@ -880,31 +888,30 @@ verkställbarhetsförklaringen meddelades,
 av en utredningsorder ska bestå enligt 41 §, 
 
 3. den utredningsåtgärd som utredningsordern avser inte kan 
-verkställas i Sverige, eller
+verkställas i Sverige, eller 
 
 4. utredningsordern återkallas. 
 
-En verkställbarhetsförklaring som avser en utredningsorder 
-som hand-läggs av domstol enligt 8 § första stycket upphävs 
-av domstolen. Detsamma gäller vid upphävande enligt första 
+En verkställbarhetsförklaring som avser en utredningsorder som 
+handläggs av domstol enligt 8 § första stycket upphävs av 
+domstolen. Detsamma gäller vid upphävande enligt första 
 stycket 2 om domstolen har bestämt tiden för verkställigheten 
-enligt 41 §. I övriga fall upphävs 
-verkställbarhetsförklaringen av åklagare. Åklagaren får 
-begära att domstolen prövar frågan om upphävande i de fall 
-domstolen har meddelat eller fastställt 
+enligt 41 §. I övriga fall upphävs verkställbarhetsförklaringen 
+av åklagare. Åklagaren får begära att domstolen prövar frågan 
+om upphävande i de fall domstolen har meddelat eller fastställt 
 verkställbarhetsförklaringen och upphävandet ska ske med stöd 
 av första stycket 1. Beslut om att upphäva en 
-verkställbarhetsförklaring ska innehålla skälen för 
-beslutet.
+verkställbarhetsförklaring ska innehålla skälen för beslutet. 
 
 När bevismaterial, som har överlämnats till en behörig 
 myndighet i den andra medlemsstaten med anledning av en 
 utredningsorder för beslag, återlämnas till Sverige med stöd 
-av 39 §, ska åklagaren upphäva verkställbarhetsförklaringen. 
+av 39 §, ska åklagaren upphäva verkställbarhetsförklaringen.
 
 Om en verkställbarhetsförklaring upphävs, ska de 
 verkställighetsåtgärder som vidtagits återgå, så långt det är 
-möjligt. 
+möjligt och en kopia som framställts med tillämpning av 
+27 kap. 17 a § rättegångsbalken förstöras. Lag (2022:326).
 
 4 kap. Övriga bestämmelser
 
