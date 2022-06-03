@@ -28,20 +28,19 @@ Uttryck i lagen
 1. nätverk och informationssystem:
 
 a) ett elektroniskt kommunikationsnät enligt 1 kap. 7 § lagen 
-(2003:389) om elektronisk kommunikation, 
+(2022:482) om elektronisk kommunikation,
 
-b) en enhet eller en grupp enheter som är sammankopplade 
-eller hör samman med varandra, av vilka en eller flera genom 
-ett program utför automatisk behandling av digitala 
-uppgifter, eller
+b) en enhet eller en grupp enheter som är sammankopplade eller 
+hör samman med varandra, av vilka en eller flera genom ett 
+program utför automatisk behandling av digitala uppgifter, 
+eller
 
 c) digitala uppgifter som lagras, behandlas, hämtas eller 
-överförs med sådana hjälpmedel som omfattas av a och b för 
-att de ska kunna driftas, användas, skyddas och 
-underhållas,
+överförs med sådana hjälpmedel som omfattas av a och b för att 
+de ska kunna driftas, användas, skyddas och underhållas,
 
-2. säkerhet i nätverk och informationssystem: 
-nätverks och informationssystems förmåga att vid en viss 
+2. säkerhet i nätverk och informationssystem: nätverks och 
+informationssystems förmåga att vid en viss 
 tillförlitlighetsnivå motstå åtgärder som undergräver 
 tillgängligheten, autenticiteten, riktigheten eller 
 konfidentialiteten hos lagrade, överförda eller behandlade 
@@ -50,43 +49,43 @@ eller är tillgängliga via dessa nätverk och
 informationssystem,
 
 3. samhällsviktig tjänst: en tjänst som är viktig för att 
-upprätthålla kritisk samhällelig eller ekonomisk verksamhet, 
+upprätthålla kritisk samhällelig eller ekonomisk verksamhet,
 
 4. digital tjänst: en tjänst i den mening som avses i artikel 
 1.1 b i Europaparlamentets och rådets direktiv (EU) 2015/1535 
 av den 9 september 2015 om ett informationsförfarande 
-beträffande tekniska föreskrifter och beträffande 
-föreskrifter för informationssamhällets tjänster, och som 
-utgör en internetbaserad marknadsplats, internetbaserad 
-sökmotor eller molntjänst,
+beträffande tekniska föreskrifter och beträffande föreskrifter 
+för informationssamhällets tjänster, och som utgör en 
+internetbaserad marknadsplats, internetbaserad sökmotor eller 
+molntjänst,
 
 5. internetbaserad marknadsplats: en tjänst som gör det 
 möjligt för konsumenter eller näringsidkare enligt 
 definitionen i artikel 4.1 a respektive 4.1 b i 
 Europaparlamentets och rådets direktiv 2013/11/EU av den 
-21 maj 2013 om alternativ tvistlösning vid konsumenttvister och 
-om ändring av förordning (EG) nr 2006/2004 och direktiv 
-2009/22/EG (direktivet om alternativ tvistlösning) att ingå 
-internetbaserade köpeavtal eller tjänsteavtal med 
+21 maj 2013 om alternativ tvistlösning vid konsumenttvister 
+och om ändring av förordning (EG) nr 2006/2004 och 
+direktiv 2009/22/EG (direktivet om alternativ tvistlösning) 
+att ingå internetbaserade köpeavtal eller tjänsteavtal med 
 näringsidkare, antingen på webbplatsen för den 
 internetbaserade marknadsplatsen eller på en webbplats som 
 tillhör en näringsidkare och där datatjänster som 
 tillhandahålls av en internetbaserad marknadsplats används,
 
-6. internetbaserad sökmotor: en tjänst som gör det möjligt 
-för användare att göra sökningar på i princip alla 
-webbplatser eller webbplatser på ett visst språk genom en 
-förfrågan om vilket ämne som helst i form av ett nyckelord, 
-en fras eller någon annan inmatning, och som returnerar 
-länkar som innehåller information om det begärda innehållet, 
+6. internetbaserad sökmotor: en tjänst som gör det möjligt för 
+användare att göra sökningar på i princip alla webbplatser 
+eller webbplatser på ett visst språk genom en förfrågan om 
+vilket ämne som helst i form av ett nyckelord, en fras eller 
+någon annan inmatning, och som returnerar länkar som 
+innehåller information om det begärda innehållet,
 
 7. molntjänst: en tjänst som möjliggör tillgång till en 
 skalbar och elastisk pool av delbara dataresurser,
 
-8. NIS-direktivet: Europaparlamentets och rådets direktiv 
-(EU) 2016/1148 av den 6 juli 2016 om åtgärder för en hög 
-gemensam nivå på säkerhet i nätverks- och informationssystem 
-i hela unionen,
+8. NIS-direktivet: Europaparlamentets och rådets direktiv (EU) 
+2016/1148 av den 6 juli 2016 om åtgärder för en hög gemensam 
+nivå på säkerhet i nätverks- och informationssystem i hela 
+unionen,
 
 9. företrädare: en fysisk eller juridisk person som 
 uttryckligen har utsetts att agera för en leverantör och till 
@@ -99,7 +98,7 @@ säkerheten i nätverk och informationssystem, och
 
 11. risk: en rimligen identifierbar omständighet eller 
 händelse med en potentiell negativ inverkan på säkerheten i 
-nätverk och informationssystem.
+nätverk och informationssystem. Lag (2022:508).
 
 Lagens tillämpningsområde
 
@@ -130,11 +129,11 @@ Undantag från lagens tillämpningsområde
 
 Leverantörer av elektroniska kommunikationstjänster
 
-5 § Lagen gäller inte för företag som tillhandahåller 
-allmänna kommunikationsnät eller allmänt tillgängliga 
+5 § Lagen gäller inte för företag som tillhandahåller allmänna 
+elektroniska kommunikationsnät eller allmänt tillgängliga 
 elektroniska kommunikationstjänster och därför omfattas av 
-kraven i 5 kap. 6 b och c §§ lagen (2003:389) om elektronisk 
-kommunikation.
+kraven i 8 kap. 1 och 3 §§ lagen (2022:482) om elektronisk 
+kommunikation. Lag (2022:508).
 
 Leverantörer av betrodda tjänster
 

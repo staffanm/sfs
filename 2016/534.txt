@@ -7,11 +7,11 @@ minska kostnaderna för utbyggnad av höghastighetsnät för
 elektronisk kommunikation. 
 
 Bestämmelser som genomför direktivet finns även i väglagen 
-(1971:948), ledningsrättslagen (1973:1144), lagen (2003:389) 
-om elektronisk kommunikation och plan- och bygglagen 
-(2010:900).
+(1971:948), ledningsrättslagen (1973:1144), plan- och 
+bygglagen (2010:900) och lagen (2022:482) om elektronisk 
+kommunikation. Lag (2022:504).
 
-2 § I denna lag avses med
+2 § I denna lag avses med 
 
 bredbandsnät: elektroniskt kommunikationsnät som kan leverera 
 tjänster för bredbandstillgång med en hastighet av minst 
@@ -27,13 +27,13 @@ kopplingsskåp, byggnader, ingångar till byggnader,
 antenninstallationer, torn och stolpar, och
 
 nätinnehavare: den som tillhandahåller ett allmänt 
-kommunikationsnät eller en infrastruktur avsedd för att 
-tillhandahålla 
+elektroniskt kommunikationsnät eller en infrastruktur avsedd 
+för att tillhandahålla
 
-1. en transporttjänst, eller 
+1. en transporttjänst, eller
 
 2. en tjänst för produktion, transport eller distribution av 
-gas, el, uppvärmning eller vatten.
+gas, el, uppvärmning eller vatten. Lag (2022:504).
 
 3 § Denna lag gäller inte fysisk infrastruktur som används 
 för att tillhandahålla dricksvatten. 
@@ -52,43 +52,49 @@ föreskrifter meddelade med stöd av lagen.
 
 2 kap. Tillträde till fysisk infrastruktur
 
-1 § En nätinnehavare ska på rättvisa och rimliga villkor 
-medge tillträde till fysisk infrastruktur på begäran av en 
-bredbandsutbyggare. Det åligger nätinnehavaren att söka 
-sådana tillstånd som krävs för att tillträdet ska kunna 
-realiseras och som bredbandsutbyggaren själv inte kan söka. 
-Nätinnehavaren får avslå bredbandsutbyggarens begäran om det 
-begärda tillträdet inte är rimligt med hänsyn till
+1 § En nätinnehavare ska på rättvisa och rimliga villkor medge 
+tillträde till fysisk infrastruktur på begäran av en 
+bredbandsutbyggare. Nätinnehavaren ska söka sådana tillstånd 
+som krävs för att tillträdet ska kunna realiseras och som 
+bredbandsutbyggaren själv inte kan söka. Nätinnehavaren får 
+avslå bredbandsutbyggarens begäran om det begärda tillträdet 
+inte är rimligt med hänsyn till
 
 1. den fysiska infrastrukturens tekniska lämplighet för 
 tillträde,
 
-2. brist på utrymme i den fysiska infrastrukturen,
+2. brist på utrymme i den fysiska infrastrukturen, 
 
-3. personlig säkerhet och folkhälsa,
+3. personlig säkerhet och folkhälsa, 
 
 4. risk för skada för allmän säkerhet, totalförsvaret eller 
 Sveriges säkerhet i övrigt,
 
 5. driftsäkerhet för befintligt nät,
 
-6. risk för att andra tjänster som infrastrukturen används 
-för störs, 
+6. risk för att andra tjänster som infrastrukturen används för 
+störs, 
 
 7. att nätinnehavaren erbjuder alternativt tillträde på 
 rättvisa och rimliga villkor, eller
 
 8. andra liknande omständigheter.
 
-Första stycket ska inte tillämpas om bredbandsutbyggaren, 
-enligt beslut som har fattats med stöd av 4 kap. 4 och 8 §§ 
-lagen (2003:389) om elektronisk kommunikation, har rätt att 
-begära tillträde till eller användning av den fysiska 
-infrastrukturen. Första stycket ska inte heller tillämpas om 
-nätinnehavaren enligt 4 kap. 14 § samma lag har förpliktats 
+Första stycket ska inte tillämpas
+
+1. om bredbandsutbyggaren, enligt beslut som har fattats med 
+stöd av 5 kap. 8 § och 15 eller 16 § lagen (2022:482) om 
+elektronisk kommunikation har rätt att begära tillträde till 
+eller användning av den fysiska infrastrukturen,
+
+2. om nätinnehavaren enligt 5 kap. 32 § samma lag har ålagts 
 att tillhandahålla bredbandsutbyggaren samlokalisering eller 
 andra möjligheter till gemensamt utnyttjande av den fysiska 
-infrastrukturen.
+infrastrukturen, eller
+
+3. i fråga om installation av trådlösa accesspunkter med kort 
+räckvidd eller anslutning av sådana accesspunkter till ett 
+stamnät enligt 5 kap. 44 § samma lag. Lag (2022:504).
 
 2 § En begäran om tillträde ska vara skriftlig och innehålla 
 en redogörelse och en tidsplan för anläggandet eller 
@@ -291,17 +297,17 @@ särskilda omständigheter.
 
 5 kap. Övriga bestämmelser
 
-1 § Tillhandahållare av allmänna kommunikationsnät som är 
-anmälda enligt 2 kap. 1 § lagen (2003:389) om elektronisk 
-kommunikation ska betala en årlig avgift för tvistlösning och 
-tillsyn enligt denna lag. 
+1 § Tillhandahållare av allmänna elektroniska 
+kommunikationsnät som är anmälda enligt 2 kap. 1 § lagen 
+(2022:482) om elektronisk kommunikation ska betala en årlig 
+avgift för tvistlösning och tillsyn enligt denna lag.
 
 De avgifter som tas ut ska fördelas med skälig andel mellan 
-dem som är skyldiga att betala avgiften. 
+dem som är skyldiga att betala avgiften.
 
 Regeringen eller den myndighet som regeringen bestämmer får 
 meddela föreskrifter om avgifter för tvistlösning och tillsyn 
-enligt denna lag.
+enligt denna lag. Lag (2022:504).
 
 2 § Tvistlösningsmyndigheten får förelägga en part att 
 tillhandahålla myndigheten de uppgifter och handlingar som 
@@ -337,4 +343,4 @@ Prövningstillstånd krävs vid överklagande till kammarrätten.
 och 4 kap. 9 § ska handläggas skyndsamt.
 
 8 § En myndighets beslut enligt denna lag gäller omedelbart, 
-om inte myndigheten bestämmer något annat. 
+om inte myndigheten bestämmer något annat.
