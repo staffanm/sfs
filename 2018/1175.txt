@@ -203,15 +203,15 @@ tjänster ska göras till CSIRT-enheten.
 
 CSIRT-enhet
 
-12 § Myndigheten för samhällsskydd och beredskap är 
-CSIRT-enhet.
+12 § Myndigheten för samhällsskydd och beredskap är CSIRT-
+enhet.
 
 CSIRT-enheten ska 
 
 1. ta emot incidentrapporter som lämnas enligt lagen 
 (2018:1174) om informationssäkerhet för samhällsviktiga och 
 digitala tjänster eller enligt föreskrifter som har meddelats 
-i anslutning till den lagen, 
+i anslutning till den lagen,
 
 2. utan dröjsmål tillgängliggöra informationen i 
 incidentrapporter för tillsynsmyndigheterna och 
@@ -221,11 +221,20 @@ Socialstyrelsen, och
 anmäla incidenter som kan antas ha sin grund i en brottslig 
 gärning.
 
-CSIRT-enheten ska även uppfylla de krav och fullgöra de 
-uppgifter som framgår av bilaga 1 till NIS-direktivet samt i 
-vissa fall informera rapporterande leverantörer, andra 
+CSIRT-enheten ska även 
+
+1. uppfylla de krav och fullgöra de uppgifter som framgår av 
+bilaga 1 till NIS-direktivet,
+
+2. i vissa fall informera rapporterande leverantörer, andra 
 medlemsstater och allmänheten om incidenter enligt artiklarna 
-14.5, 14.6, 16.6 och 16.7 i NIS-direktivet. 
+14.5, 14.6, 16.6 och 16.7 i NIS-direktivet, och
+
+3. på begäran av Post- och telestyrelsen bistå myndigheten i 
+frågor om hantering av säkerhetsincidenter enligt lagen 
+(2022:482) om elektronisk kommunikation när det gäller frågor 
+som ingår i CSIRT-enhetens uppgifter enligt punkt 2 i bilaga 1 
+till NIS-direktivet. Förordning (2022:521).
 
 Innehållet i en incidentrapport 
 
