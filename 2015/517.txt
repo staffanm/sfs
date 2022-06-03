@@ -12,19 +12,21 @@ Ord och uttryck i förordningen
 växthusgas: koldioxid, metan, dikväveoxid, fluorkolväten, 
 perfluorkolväten, svavelhexafluorid eller kvävetrifluorid, 
 
-laddningspunkt för normalladdning: en laddningspunkt med en 
-effekt på lägst 3,7 kilowatt och högst 22 kilowatt där el kan 
-överföras till elfordon, och 
+laddningspunkt för AC-laddning: en laddningspunkt för 
+växelström där el kan överföras till elfordon, 
 
-laddningspunkt för snabbladdning: en laddningspunkt med en 
-effekt på mer än 22 kilowatt där el kan överföras till 
-elfordon. 
+laddningspunkt för DC-laddning: en laddningspunkt för likström 
+där el kan överföras till elfordon, och
+
+konkurrensutsatt anbudsförfarande: ett sådant förfarande som 
+avses i artikel 2.38 i kommissionens 
+förordning (EU) nr 651/2014 av den 17 juni 2014 genom vilken 
+vissa kategorier av stöd förklaras förenliga med den inre 
+marknaden enligt artiklarna 107 och 108 i fördraget. 
 
 I övrigt har ord och uttryck i förordningen samma betydelse 
-som i kommissionens förordning (EU) nr 651/2014 av den 17 
-juni 2014 genom vilken vissa kategorier av stöd förklaras 
-förenliga med den inre marknaden enligt artiklarna 107 och 
-108 i fördraget. Förordning (2017:815).
+som i kommissionens förordning (EU) nr 651/2014.
+Förordning (2022:439).
 
 Allmänna förutsättningar för stöd
 
@@ -51,6 +53,11 @@ och till marknadsintroduktion, och
 
 3. åtgärdernas effekter på andra miljökvalitetsmål, hälsa och 
 sysselsättning. Förordning (2019:526).
+
+4 a § Om stöd ges genom ett konkurrensutsatt anbudsförfarande 
+får andra urvalskriterier än de som anges i 4 § användas. 
+Urvalskriterierna ska offentliggöras inför varje 
+prövningstillfälle. Förordning (2022:439).
 
 5 § Stöd får inte ges till privatpersoner. 
 
@@ -128,29 +135,41 @@ Förordning (2016:358).
 Särskilda förutsättningar för stöd som avser laddningspunkter 
 för elfordon
 
-10 § Stöd som avser en laddningspunkt för normalladdning 
-eller snabbladdning av elfordon får endast ges om 
-laddningspunkten 
+10 § Stöd som avser en laddningspunkt för AC-laddning eller 
+DC-laddning av elfordon får ges endast om laddningspunkten 
 
 1. är förberedd för elmätning och debitering av elkostnad, 
 
-2. utrustas med uttag eller anslutningsdon för fordon av typ 
-2 som beskrivs i standarden EN 62196-2 eller av typ Combo 2 
-som beskrivs i standarden EN 62196-3, 
+2. utrustas på ett sådant sätt att informationen om 
+laddningspunkten kan förmedlas i realtid, i de fall 
+laddningspunkten är tillgänglig för allmänheten, och 
 
-3. utrustas på ett sådant sätt att informationen om 
-laddningspunkten kan förmedlas i realtid, om laddningspunkten 
-är tillgänglig för allmänheten, och 
-
-4. placeras så att den kan anses bidra till en ändamålsenlig 
+3. placeras så att den kan anses bidra till en ändamålsenlig 
 fördelning av laddningspunkter i det aktuella området. 
 
-Stödet får ges med högst 50 procent av 
-investeringskostnaden.
+Stödet får ges med högst 50 procent av investeringskostnaden 
+om 
+
+1. stödet beviljas i enlighet med kommissionens förordning 
+(EU) nr 1407/2013, eller
+
+2. laddningspunkten inte är tillgänglig för allmänheten. 
 
 Stöd får inte ges till laddningspunkter som installeras i 
-privata hushåll eller som i första hand är avsedda för 
-laddning av annat än elfordon. Förordning (2017:815).
+privata hushåll. Förordning (2022:439).
+
+10 a § Om en laddningspunkt som avses i 10 § utrustas med 
+uttag eller don för kabelanslutning för fordon ska uttaget 
+eller donet vara utformat i enlighet med typ 2 som beskrivs i 
+standarden EN 62196-2 för AC-laddning eller typ Combo 2 som 
+beskrivs i standarden EN 62196-3 för DC-laddning.
+Förordning (2022:439).
+
+10 b § Länsstyrelsen ska hålla öppna offentliga samråd för att 
+utreda behov av stöd enligt artikel 36a.7 i kommissionens 
+förordning (EU) nr 651/2014. Ett sådant samråd ska hållas 
+endast om Naturvårdsverket har bedömt att ett samråd ska 
+genomföras. Förordning (2022:439).
 
 Ansökan om stöd
 
@@ -225,16 +244,26 @@ Naturvårdsverket beslutar om antalet prövningstillfällen per
 år och publicerar uppgifter om prövningstillfällena på sin 
 webbplats. Förordning (2017:815).
 
-16 a § En ansökan som avser en sådan åtgärd som anges i 
-8 § andra stycket ska prövas av Naturvårdsverket i enlighet 
-med kommissionens meddelande Riktlinjer för statligt stöd till 
-miljöskydd och energi för 2014–2020 (2014/C 200/01). Om 
-Naturvårdsverket bedömer att det finns förutsättningar för 
-att ge stöd till åtgärden enligt denna förordning, ska verket 
+16 a § En ansökan som avser en sådan åtgärd som anges i 8 § 
+andra stycket ska prövas av Naturvårdsverket i enlighet med 
+kommissionens meddelande riktlinjer för statligt stöd till 
+klimat, miljöskydd och energi 2022 (C/2022/481). Om 
+Naturvårdsverket bedömer att det finns förutsättningar för att 
+ge stöd till åtgärden enligt denna förordning, ska verket 
 enligt 12 § första stycket lagen (2013:388) om tillämpning av 
-Europeiska unionens statsstödsregler lämna upplysningar till 
-regeringen eller den myndighet som regeringen bestämmer. 
-Förordning (2018:1456).
+Europeiska unionens statsstödsregler lämna upplysningar om 
+åtgärderna till regeringen eller den myndighet som regeringen 
+bestämmer. Förordning (2022:439).
+
+16 b § I ärenden där stöd ges genom ett konkurrensutsatt 
+anbudsförfarande får en sökande rätta, förtydliga eller 
+komplettera en ansökan eller en handling som lämnats in av 
+sökanden tillsammans med ansökan endast om Naturvårdsverket 
+tillåter eller begär det.
+
+En åtgärd enligt första stycket ska vara förenlig med 
+principerna om likabehandling och öppenhet. 
+Förordning (2022:439).
 
 17 § Naturvårdsverkets beslut att ge stöd ska förenas med 
 villkor om när åtgärden senast ska vara slutförd och med de 
@@ -282,6 +311,11 @@ finansieras av medel från Europeiska unionen, i enlighet med
 artikel 34.2 i Europaparlamentets och rådets förordning (EU) 
 2021/241 av den 12 februari 2021 om inrättande av faciliteten 
 för återhämtning och resiliens. Förordning (2021:1277).
+
+17 b § I ärenden där stöd ges genom ett konkurrensutsatt 
+anbudsförfarande ska Naturvårdsverket inte tillämpa 
+bestämmelserna i 10 och 25 §§ förvaltningslagen (2017:900) om 
+partsinsyn och kommunikation. Förordning (2022:439).
 
 Uppgifter från Statens energimyndighet
 
