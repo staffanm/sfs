@@ -22,26 +22,26 @@ bestämmelser. Förordning (2018:2109).
 
 2 § I denna förordning avses med 
 
-omgivningsbuller: buller från vägar, järnvägar, flygplatser 
+- omgivningsbuller: buller från vägar, järnvägar, flygplatser 
 och industriell verksamhet, 
 
-industriell verksamhet: verksamhet som är tillståndspliktig 
+- industriell verksamhet: verksamhet som är tillståndspliktig 
 eller omfattas av ett tillstånd enligt 
 miljöprövningsförordningen (2013:251) med en verksamhetskod 
 som slutar med -i eller som är en tillståndspliktig hamn 
 enligt den förordningen,
 
-direktiv 2002/49/EG: Europaparlamentets och rådets direktiv 
+- direktiv 2002/49/EG: Europaparlamentets och rådets direktiv 
 2002/49/EG av den 25 juni 2002 om bedömning och hantering av 
-omgivningsbuller, i lydelsen enligt kommissionens direktiv 
-(EU) 2015/996,
+omgivningsbuller, i lydelsen enligt kommissionens delegerade 
+direktiv (EU) 2021/1226, 
 
-Lden: bullermått för allmän störning definierat på det sätt 
+- Lden: bullermått för allmän störning definierat på det sätt 
 som anges i bilaga 1 punkt 1 i direktiv 2002/49/EG, och 
 
-Lnight: bullermått för sömnstörning definierat på det sätt som 
-anges i bilaga 1 punkt 2 i direktiv 2002/49/EG.
-Förordning (2019:64).
+- Lnight: bullermått för sömnstörning definierat på det sätt 
+som anges i bilaga 1 punkt 2 i direktiv 2002/49/EG.
+Förordning (2022:414).
 
 Skyldighet att kartlägga buller och upprätta åtgärdsprogram
 
@@ -84,16 +84,16 @@ ska vid behov se över och ändra en bullerkarta även om det
 inte har gått fem år från det att kartan togs fram.
 Förordning (2012:51).
 
-8 a § Den som ska upprätta bullerkartor enligt 3, 4, 5 eller
-6 § ska vart femte år upprätta ett förslag till åtgärdsprogram
-och fastställa det. Programmet ska vara fastställt senast den
-18 juli året efter det att bullerkartorna senast ska ha tagits
-fram.
+8 a § Den som ska upprätta bullerkartor enligt 3, 4, 5 eller 
+6 § ska vart femte år upprätta ett förslag till åtgärdsprogram 
+och fastställa det. Programmet ska vara fastställt senast den 
+18 juli två år efter det att bullerkartorna senast ska ha 
+tagits fram. 
 
-Om det sker en större förändring av förhållandena som påverkar
-bullersituationen, ska åtgärdsprogrammet omprövas och vid
-behov ändras även om det inte har gått fem år från det att
-programmet fastställdes. Förordning (2012:51).
+Om det sker en större förändring av förhållandena som påverkar 
+bullersituationen, ska åtgärdsprogrammet omprövas och vid 
+behov ändras även om det inte har gått fem år från det att 
+programmet fastställdes. Förordning (2022:414).
 
 Kartläggningen
 
@@ -169,45 +169,62 @@ belägna inom dessa gränslinjer.
 
 12 § Ett åtgärdsprogram ska innehålla
 
-1. en uppgift om att åtgärdsprogrammet är upprättat i 
-enlighet med denna förordning och vilken myndighet eller 
-kommun som upprättat åtgärdsprogrammet,
+1. en uppgift om att åtgärdsprogrammet är upprättat i enlighet 
+med denna förordning och vilken myndighet eller kommun som 
+upprättat åtgärdsprogrammet,
 
 2. en beskrivning av vilka bullerkällor som myndigheten eller 
-kommunen ska kartlägga enligt 3–6 §§ och bullerkällornas 
+kommunen ska kartlägga enligt 3-6 §§ och bullerkällornas 
 omgivningar,
 
-3. en sammanfattning av bullerkartläggningen som ska 
-innefatta en uppskattning av det antal personer som beräknas 
-vara utsatta för buller,
+3. en sammanfattning av bullerkartläggningen som ska innefatta 
+en uppskattning av det antal personer som beräknas vara 
+utsatta för buller,
 
-4. en beskrivning av situationer som behöver förbättras samt 
+4. en bedömning av på vilket sätt och i vilken omfattning de 
+personer som avses i 3 påverkas av skadliga effekter av 
+buller,
+
+5. en beskrivning av situationer som behöver förbättras samt 
 problem som bedöms vara prioriterade och kriterierna för hur 
 dessa valts ut,
 
-5. en sammanställning över de samråd som skett enligt 5 kap. 
-7 § miljöbalken,
+6. en sammanställning över de samråd som skett enligt 
+5 kap. 7 § miljöbalken,
 
-6. en beskrivning av de bullerminskande åtgärder som 
-vidtagits eller planeras, däribland åtgärder som planeras att 
-vidtas under de kommande fem åren,
+7. en beskrivning av de bullerminskande åtgärder som vidtagits 
+och planeras, däribland åtgärder som planeras att vidtas under 
+de kommande fem åren,
 
-7. en beskrivning av åtgärder för att skydda områden där 
+8. en beskrivning av åtgärder för att skydda områden där 
 ljudnivån ansetts utgöra en särskild kvalitet såsom parker, 
 rekreationsområden, friluftsområden och andra natur- och 
 kulturmiljöer,
 
-8. en långsiktig strategi för hantering av buller och 
-effekten av buller, vid behov även minskning av buller,
+9. en långsiktig strategi för hantering av buller och effekten 
+av buller, vid behov även minskning av buller,
 
-9. en beskrivning av hur åtgärdsprogrammets genomförande och 
+10. en uppskattning av antalet personer som i minskad 
+omfattning 
+
+a) påverkas av skadliga effekter av buller, till följd av de 
+bullerminskande åtgärder som vidtagits, och 
+
+b) kommer att påverkas av skadliga effekter av buller, efter 
+att de planerade bullerminskande åtgärderna är vidtagna,
+
+11. en beskrivning av hur åtgärdsprogrammets genomförande och 
 resultat avses att utvärderas,
 
-10. en analys av kostnaderna i förhållande till 
+12. en analys av kostnaderna i förhållande till 
 åtgärdsprogrammets effektivitet och nytta, och
 
-11. en sammanfattning av åtgärdsprogrammet på högst tio 
-sidor. Förordning (2018:2109).
+13. en sammanfattning av åtgärdsprogrammet på högst tio sidor.
+
+Vid en bedömning av skadliga effekter av buller enligt första 
+stycket 4 och 10 ska de bedömningsmetoder som anges i bilaga 3 
+till direktiv 2002/49/EG eller andra likvärdiga metoder 
+tillämpas. Förordning (2022:414).
 
 13 § Bestämmelser om samråd finns i 5 kap. 7 § 
 miljöbalken.
@@ -231,23 +248,29 @@ dem.
 Sammanställning av information och rapportering till Europeiska
 kommissionen
 
-15 § En myndighet eller en kommun som har tagit fram en
-bullerkarta eller fastställt ett åtgärdsprogram ska senast en
-månad efter den tidpunkt då kartan eller programmet enligt 3,
-4, 5, 6 eller 8 a § ska tagits fram respektive fastställts,
-sända en kopia av kartan eller programmet till
-Naturvårdsverket och andra myndigheter och kommuner som
-berörs.
+15 § En myndighet eller en kommun som har tagit fram en 
+bullerkarta eller fastställt ett åtgärdsprogram ska, senast en 
+månad efter den tidpunkt då kartan eller programmet enligt 3, 
+4, 5, 6 eller 8 a § ska tagits fram respektive fastställts, 
+sända en kopia av kartan eller programmet till 
+Naturvårdsverket och andra myndigheter och kommuner som 
+berörs. 
 
-En myndighet eller en kommun ska när en bullerkarta varit
-föremål för översyn enligt 8 § eller ett åtgärdsprogram
-omprövats enligt 8 a §, sända en kopia av kartan eller
-programmet till Naturvårdsverket och andra myndigheter eller
-kommuner som berörs.
+En myndighet eller en kommun ska, när en bullerkarta varit 
+föremål för översyn enligt 8 § eller ett åtgärdsprogram 
+omprövats enligt 8 a §, sända en kopia av kartan eller 
+programmet till Naturvårdsverket och andra myndigheter eller 
+kommuner som berörs. Förordning (2022:414).
 
-Naturvårdsverket ska sammanställa informationen från
-bullerkartläggningarna och åtgärdsprogrammen.
-Förordning (2012:51).
+15 a § Naturvårdsverket ska på det sätt som framgår av 
+artikel 9.1 i direktiv 2002/49/EG göra de bullerkartor och 
+åtgärdsprogram som sänts till myndigheten enligt 15 § 
+tillgängliga för allmänheten och andra som är berörda eller 
+har intresse av dem.
+
+Naturvårdsverket ska sammanställa informationen från 
+bullerkartläggningarna och åtgärdsprogrammen som har sänts 
+till myndigheten enligt 15 §. Förordning (2022:414).
 
 16 § Naturvårdsverket skall fullgöra de uppgifter i fråga om
 rapportering till Europeiska kommissionen som framgår av
