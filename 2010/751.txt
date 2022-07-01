@@ -171,16 +171,6 @@ inre marknaden, om ändring av direktiven 2002/65/EG,
 och om upphävande av direktiv 2007/64/EG, i den ursprungliga 
 lydelsen,
 
-/Upphör att gälla U:2022-06-03/
-debitera: att medel dras från ett konto, 
-
-elektroniskt kommunikationsnät: detsamma som i 1 kap. 7 § 
-lagen (2003:389) om elektronisk kommunikation,
-
-elektronisk kommunikationstjänst: detsamma som i 1 kap. 7 § 
-lagen om elektronisk kommunikation, 
-
-/Träder i kraft I:2022-06-03/
 debitera: att medel dras från ett konto,
 
 elektroniskt kommunikationsnät: detsamma som i 1 kap. 7 § 
@@ -694,15 +684,14 @@ andra författningar som reglerar företagets verksamhet,
 a) penningtvätt enligt 1 kap. 6 § lagen (2017:630) om åtgärder 
 mot penningtvätt och finansiering av terrorism, eller
 
-b) brott enligt 2 § 2, 3 § eller 4 § lagen (2002:444) om 
-straff för finansiering av särskilt allvarlig brottslighet i 
-vissa fall, såvitt avser brott enligt 2 § lagen (2003:148) om 
-straff för terroristbrott.
+b) finansiering av terrorism enligt 6 § terroristbrottslagen 
+(2022:666) eller försök till sådant brott, avseende 
+terroristbrott enligt 4 § samma lag.
 
 Om företaget har eller kan förväntas komma att få nära 
 förbindelser med någon annan, får tillstånd enligt 1 § ges 
 bara om förbindelserna inte hindrar en effektiv tillsyn av 
-företaget. Lag (2019:1251).
+företaget. Lag (2022:682).
 
 8 § Bestämmelserna om ägarprövning i kreditinstitut i 14 kap.
 lagen (2004:297) om bank- och finansieringsrörelse ska
@@ -1906,6 +1895,12 @@ marknadsstörningsavgift. Sådan information ska anses vara
 väsentlig enligt 10 § tredje stycket den lagen.
 Lag (2018:175).
 
+Bevisbörda
+
+21 a § En betaltjänstleverantör ska kunna styrka att 
+information har lämnats i enlighet med detta kapitel.
+Lag (2022:723).
+
 Bemyndiganden
 
 22 § Regeringen eller den myndighet som regeringen 
@@ -2186,7 +2181,10 @@ betalaren uttryckligen har lämnat sitt samtycke till att den
 genomförs. Samtycket ska lämnas antingen direkt till den 
 kontoförvaltande betaltjänstleverantören eller via 
 betalningsmottagaren eller, i förekommande fall, leverantören 
-av betalningsinitieringstjänsten. Lag (2018:175).
+av betalningsinitieringstjänsten.
+
+En betaltjänstleverantör ska kunna styrka att ett sådant 
+samtycke har lämnats. Lag (2022:723).
 
 Begränsning av betalningsinstrumentets användning
 
@@ -2808,13 +2806,14 @@ Betalningstransaktioner som initierats av betalaren
 
 47 § Betalarens betaltjänstleverantör ansvarar gentemot 
 betalaren för att en betalningsorder som betalaren har 
-initierat utförs korrekt.
+initierat utförs korrekt. Betaltjänstleverantören ska kunna 
+styrka att betalningsordern har utförts korrekt.
 
-Om betalarens betaltjänstleverantör kan styrka att 
-mottagarens leverantör har tagit emot 
-betalningstransaktionens belopp enligt 40 §, ansvarar 
-mottagarens leverantör gentemot mottagaren för att 
-transaktionen genomförs korrekt. Lag (2018:175).
+Om betalarens betaltjänstleverantör kan styrka att mottagarens 
+leverantör har tagit emot betalningstransaktionens belopp 
+enligt 40 §, ansvarar mottagarens leverantör gentemot 
+mottagaren för att transaktionen genomförs korrekt.
+Lag (2022:723).
 
 48 § Om betalarens betaltjänstleverantör ansvarar för 
 genomförandet av en betalningstransaktion enligt 47 § första 
@@ -2867,19 +2866,20 @@ gentemot mottagaren för att betalningstransaktionens belopp
 ställs till mottagarens förfogande enligt 42 § och för att en 
 betalningsorder som initierats av eller via mottagaren 
 överförs korrekt till betalarens betaltjänstleverantör i 
-enlighet med 41 §.
+enlighet med 41 §. Betalningsmottagarens betaltjänstleverantör 
+ska kunna styrka att betalningsordern har utförts korrekt.
 
-Om betalningsmottagarens betaltjänstleverantör har försökt 
-att överföra en betalningsorder i enlighet med första stycket 
-men misslyckats, ska leverantören så snart som möjligt 
-överföra den berörda betalningsordern på nytt till betalarens 
+Om betalningsmottagarens betaltjänstleverantör har försökt att 
+överföra en betalningsorder i enlighet med första stycket men 
+misslyckats, ska leverantören så snart som möjligt överföra 
+den berörda betalningsordern på nytt till betalarens 
 betaltjänstleverantör.
 
 Om betalningsmottagarens betaltjänstleverantör inte har 
 överfört en betalningsorder enligt första stycket, ska 
 betalningstransaktionens belopp valuteras på mottagarens 
 betalkonto senast den dag då beloppet skulle ha valuterats om 
-betalningsordern hade överförts korrekt. Lag (2018:175).
+betalningsordern hade överförts korrekt. Lag (2022:723).
 
 51 § Betalarens betaltjänstleverantör ansvarar gentemot 
 betalaren för en inte genomförd eller bristfälligt genomförd 
@@ -2987,9 +2987,9 @@ Möjlighet att avvika från bestämmelserna
 
 59 § En betaltjänstleverantör får komma överens med en 
 betaltjänstanvändare som inte är konsument om avvikelser från 
-bestämmelserna i 1 § första stycket, 28–30 §§, 35–37 och 
-47 §§, 48 § första–tredje styckena, 49–53 §§ och 54 § 
-första stycket. Lag (2018:175).
+bestämmelserna i 1 § första stycket, 3 § andra stycket, 28-
+30 §§, 35-37 och 47 §§, 48 § första-tredje styckena, 49-53 §§ 
+och 54 § första stycket. Lag (2022:723).
 
 Bemyndiganden
 
