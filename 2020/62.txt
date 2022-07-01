@@ -69,43 +69,7 @@ eller för något annat motstående intresse.
 
 Hemlig dataavläsning under en förundersökning
 
-4 § /Upphör att gälla U:2022-06-01/
-Ett tillstånd till hemlig dataavläsning får, om åtgärden 
-är av synnerlig vikt för utredningen och inte annat anges i 
-6 § första stycket, beviljas vid en förundersökning om 
-
-1. brott för vilket det inte är föreskrivet lindrigare straff 
-än fängelse i två år,
-
-2. brott som avses i 27 kap. 2 § andra stycket 2-7 
-rättegångsbalken,
-
-3. försök, förberedelse eller stämpling till brott som avses i 
-1 eller 2, om en sådan gärning är belagd med straff, eller
-
-4. annat brott om det med hänsyn till omständigheterna kan 
-antas att brottets straffvärde överstiger fängelse i två år.
-
-Ett tillstånd enligt första stycket får, om inte annat anges i 
-5 §, endast avse ett avläsningsbart informationssystem som 
-används, eller som det finns särskild anledning att anta har 
-använts eller kommer att användas, av någon som är skäligen 
-misstänkt för brottet.
-
-Ett tillstånd enligt första stycket som gäller 
-kommunikationsavlyssnings-, kommunikationsövervaknings- eller 
-platsuppgifter får, om inte annat anges i 5 §, även avse ett 
-avläsningsbart informationssystem som det finns synnerlig 
-anledning att anta att den misstänkte under den tid som 
-tillståndet avser har kontaktat eller kommer att kontakta.
-
-Ett tillstånd enligt första stycket som gäller 
-kameraövervakningsuppgifter får endast avse en plats där den 
-misstänkte kan antas komma att uppehålla sig. En sådan plats 
-får dock inte vara någons stadigvarande bostad.
-
-4 § /Träder i kraft I:2022-06-01/
-Ett tillstånd till hemlig dataavläsning får, om åtgärden 
+4 § Ett tillstånd till hemlig dataavläsning får, om åtgärden 
 är av synnerlig vikt för utredningen och inte annat anges i 
 6 § första stycket, beviljas vid en förundersökning om 
 
@@ -208,7 +172,7 @@ ett avläsningsbart informationssystem som det finns synnerlig
 anledning att anta att en person som anges i 7 § under den tid 
 som tillståndet avser har kontaktat eller kommer att kontakta.
 
-Särskild utlänningskontroll
+Särskild kontroll av vissa utlänningar
 
 9 § Ett tillstånd till hemlig dataavläsning får beviljas för 
 att läsa av eller ta upp uppgifter i ett avläsningsbart 
@@ -216,14 +180,13 @@ informationssystem som används, eller som det finns särskild
 anledning att anta har använts eller kommer att användas, av 
 en utlänning som omfattas av
 
-1. ett utvisningsbeslut enligt 1 § 2 lagen (1991:572) om 
-särskild utlänningskontroll, eller
+1. ett utvisningsbeslut enligt 2 kap. 1 § lagen (2022:700) om 
+särskild kontroll av vissa utlänningar, eller
 
-2. ett avvisnings- eller utvisningsbeslut enligt 8 eller 
-8 a kap. utlänningslagen (2005:716) eller motsvarande äldre 
-bestämmelser och det finns sådana omständigheter i fråga om 
-utlänningen som avses i 1 § 2 lagen om särskild 
-utlänningskontroll.
+2. ett avvisnings- eller utvisningsbeslut enligt 8 kap. eller 
+8 a kap. utlänningslagen (2005:716) om det finns sådana 
+omständigheter i fråga om utlänningen som avses i 2 kap. 1 § 
+lagen om särskild kontroll av vissa utlänningar.
 
 Ett tillstånd till hemlig dataavläsning som gäller 
 kommunikationsavlyssnings-, kommunikationsövervaknings- eller 
@@ -234,21 +197,32 @@ tid som tillståndet avser har kontaktat eller kommer att
 kontakta.
 
 Tillståndet får beviljas endast om Migrationsverket, 
-regeringen eller en domstol har beslutat att 19-22 §§ lagen om 
-särskild utlänningskontroll samt denna lag ska tillämpas på 
-utlänningen. Det förfarande och de förutsättningar som gäller 
-för ett beslut om att 19-22 §§ lagen om särskild 
-utlänningskontroll ska tillämpas i fråga om utlänningen gäller 
-också för ett beslut i fråga om hemlig dataavläsning.
+regeringen eller en domstol har beslutat att 5 kap. 5 och 6 §§ 
+lagen om särskild kontroll av vissa utlänningar samt denna lag 
+ska tillämpas på utlänningen. Det förfarande och de 
+förutsättningar som gäller för ett beslut om att 5 kap. 5 och 
+6 §§ lagen om särskild kontroll av vissa utlänningar ska 
+tillämpas i fråga om utlänningen gäller också för ett beslut i 
+fråga om hemlig dataavläsning.
 
 Ett tillstånd får beviljas endast om det finns synnerliga skäl 
-och det är av betydelse för att utreda om utlänningen eller en 
-organisation eller grupp som han eller hon tillhör eller 
-verkar för planlägger eller förbereder terroristbrott enligt 
-2 § lagen (2003:148) om straff för terroristbrott.
+och det är av betydelse för att klarlägga om
 
-Ett tillstånd får inte avse kameraövervaknings- eller 
-rumsavlyssningsuppgifter.
+1. utlänningen tillhör eller verkar för en organisation eller 
+grupp som planlägger eller förbereder brott enligt 
+terroristbrottslagen (2022:666) eller om det finns en risk för 
+att utlänningen kan komma att engagera sig i en sådan 
+organisation eller grupp,
+
+2. det finns risk för att utlänningen själv planlägger eller 
+förbereder brott som avses i 1, eller
+
+3. det finns risk för att utlänningen själv eller tillsammans 
+med andra medverkar i eller på annat sätt främjar ett 
+allvarligt brott som rör Sveriges säkerhet.
+
+Ett tillstånd får inte avse rumsavlyssningsuppgifter.
+Lag (2022:711).
 
 Förebyggande, förhindrande och upptäckande av brottslig 
 verksamhet
@@ -321,20 +295,9 @@ Tillståndsprövning
 
 14 § Frågor om hemlig dataavläsning prövas av rätten på 
 ansökan av åklagare. En ansökan om hemlig dataavläsning enligt 
-9 § ska dock göras av Säkerhetspolisen eller Polismyndigheten. 
+9 § ska dock göras av Säkerhetspolisen. Lag (2022:711).
 
-15 § /Upphör att gälla U:2022-06-01/
-Frågor om hemlig dataavläsning under en förundersökning 
-prövas av den domstol som anges i 19 kap. rättegångsbalken. Om 
-förundersökningen avser brott som anges i 27 kap. 2 § andra 
-stycket 2-8 rättegångsbalken får frågan även prövas av 
-Stockholms tingsrätt. 
-
-Frågor om hemlig dataavläsning enligt 7-10 §§ prövas av 
-Stockholms tingsrätt.
-
-15 § /Träder i kraft I:2022-06-01/
-Frågor om hemlig dataavläsning under en förundersökning 
+15 § Frågor om hemlig dataavläsning under en förundersökning 
 prövas av den domstol som anges i 19 kap. rättegångsbalken. Om 
 förundersökningen avser brott som anges i 27 kap. 18 § andra 
 stycket 2-7 rättegångsbalken eller försök, förberedelse eller 
@@ -445,19 +408,7 @@ brottsutredning till nackdel för den som har omfattats av
 
 Skyldighet att medverka
 
-24 § /Upphör att gälla U:2022-06-03/
-Den som bedriver verksamhet som är anmälningspliktig 
-enligt 2 kap. 1 § lagen (2003:389) om elektronisk 
-kommunikation är på begäran av den verkställande myndigheten 
-skyldig att medverka i samband med verkställighet av hemlig 
-dataavläsning.
-
-Den som medverkar enligt första stycket har rätt till 
-ersättning för kostnader som uppstår vid sådan medverkan. 
-Ersättningen ska betalas av den verkställande myndigheten.
-
-24 § /Träder i kraft I:2022-06-03/
-Den som bedriver verksamhet som ska anmälas enligt 
+24 § Den som bedriver verksamhet som ska anmälas enligt 
 2 kap. 1 § lagen (2022:482) om elektronisk kommunikation är på 
 begäran av den verkställande myndigheten skyldig att medverka 
 i samband med verkställighet av hemlig dataavläsning.
@@ -563,14 +514,15 @@ för hemlig dataavläsning i övrigt
 kommunikationsutrustning ska avse avläsningsbart 
 informationssystem.
 
-Särskild utlänningskontroll
+Särskild kontroll av vissa utlänningar
 
 30 § När hemlig dataavläsning används eller har använts i fall 
-som anges i 9 § ska 21 a § och 22 § första och andra styckena 
-lagen (1991:572) om särskild utlänningskontroll tillämpas. Det 
-som anges där om hemlig avlyssning och övervakning av 
-elektronisk kommunikation ska tillämpas för hemlig 
-dataavläsning.
+som anges i 9 § ska 5 kap. 20 och 23 §§ lagen (2022:700) om 
+särskild kontroll av vissa utlänningar tillämpas. Det som 
+anges där om hemlig avlyssning av elektronisk kommunikation, 
+hemlig övervakning av elektronisk kommunikation och hemlig 
+kameraövervakning ska tillämpas för hemlig dataavläsning.
+Lag (2022:711).
 
 Förebyggande, förhindrande och upptäckande av brottslig 
 verksamhet
@@ -591,16 +543,7 @@ för beslut om att inleda en förundersökning.
 
 Tystnadsplikt
 
-32 § /Upphör att gälla U:2022-06-03/
-Den som i samband med verksamhet som är anmälningspliktig 
-enligt 2 kap. 1 § lagen (2003:389) om elektronisk 
-kommunikation har fått del av eller tillgång till en uppgift 
-som hänför sig till användning av hemlig dataavläsning, får 
-inte obehörigen föra vidare eller utnyttja det han eller hon 
-fått del av eller tillgång till.
-
-32 § /Träder i kraft I:2022-06-03/
-Den som i samband med verksamhet som ska anmälas enligt 
+32 § Den som i samband med verksamhet som ska anmälas enligt 
 2 kap. 1 § lagen (2022:482) om elektronisk kommunikation har 
 fått del av eller tillgång till en uppgift som hänför sig till 
 användning av hemlig dataavläsning, får inte obehörigen föra 
@@ -616,3 +559,15 @@ föreskrifter om
 1. underrättelser enligt 23 §, och
 
 2. medverkan och ersättning enligt 24 §.
+
+
+Övergångsbestämmelser
+
+2022:711
+
+1. Denna lag träder i kraft den 1 juli 2022.
+
+2. Bestämmelsen i 9 § första stycket 1 i den nya lydelsen 
+tillämpas även vid ett beslut om utvisning som har meddelats 
+före ikraftträdandet enligt 1 § 2 och 2 § första stycket i den 
+upphävda lagen (1991:572) om särskild utlänningskontroll.
