@@ -62,6 +62,10 @@ vattentäkt, om lagringen behövs med anledning av en storm
 eller orkan och virket hålls väl avgränsat från annat virke.
 Förordning (2020:528).
 
+/Rubriken träder i kraft I:2023-07-01/
+/Rubriken upphör att gälla U:2024-06-01/
+Tillfälligt undantag från tillståndsplikt
+
 /Rubriken upphör att gälla U:2023-07-01/
 Tillfälligt undantag från tillståndsplikt
 
@@ -80,7 +84,21 @@ industriutsläppsförordningen (2013:250), efter ändringen
 omfattas av en verksamhetskod som är markerad med -i.
 Förordning (2022:111).
 
-5 b § Har upphävts genom förordning (2020:529).
+5 b § /Upphör att gälla U:2024-06-01 genom förordning (2022:1604)./
+Trots 4 § krävs det inte tillstånd till en tillfällig 
+ändring av en verksamhet enligt 21 kap. 8-10 §§ som använder 
+gas som bränsle, om ändringen behövs till följd av en 
+överhängande risk för brist på gas och verksamheten avser 
+produktion av
+
+1. fjärrvärme, eller
+
+2. fjärrvärme och el.
+
+Det krävs dock tillstånd om ändringen leder till att 
+verksamhetens totala installerade tillförda effekt ökar eller 
+om verksamheten omfattas av en annan verksamhetskod.
+Förordning (2022:1601).
 
 5 c § Har upphävts genom förordning (2020:529).
 
@@ -130,13 +148,26 @@ Anmälningsplikten gäller även ändringar av en verksamhet
 utan att vara tillståndspliktig, om ändringen inte är 
 tillståndspliktig enligt 4 §,
 
-2. om ändringen undantas från tillståndsplikt enligt 5 eller 
-5 a §, eller
+2. om ändringen undantas från tillståndsplikt enligt 5, 5 a 
+eller 5 b §, eller
 
 3. som avses i 10 §, om ändringen har betydelse från 
-störningssynpunkt. Förordning (2022:111).
+störningssynpunkt. Förordning (2022:1601).
 
 11 § /Träder i kraft I:2023-07-01/
+Anmälningsplikten gäller även ändringar av en verksamhet
+
+1. som avses i 3 § eller som omfattas av ett sådant tillstånd 
+utan att vara tillståndspliktig, om ändringen inte är 
+tillståndspliktig enligt 4 §,
+
+2. om ändringen undantas från tillståndsplikt enligt 5 eller 
+5 b §, eller
+
+3. som avses i 10 §, om ändringen har betydelse från 
+störningssynpunkt. Förordning (2022:1603).
+
+11 § /Träder i kraft I:2024-06-01/
 Anmälningsplikten gäller även ändringar av en verksamhet
 
 1. som avses i 3 § eller som omfattas av ett sådant tillstånd 
@@ -147,7 +178,7 @@ tillståndspliktig enligt 4 §,
 eller
 
 3. som avses i 10 §, om ändringen har betydelse från 
-störningssynpunkt. Förordning (2022:112).
+störningssynpunkt. Förordning (2022:1604).
 
 12 § I förordningen (1998:899) om miljöfarlig verksamhet och 
 hälsoskydd finns särskilda bestämmelser om anmälningsplikt 
@@ -166,14 +197,19 @@ behandling, verksamheter med bassängbad och skolverksamheter
 Handläggning av anmälningar
 
 13 § /Upphör att gälla U:2023-07-01/
-Bestämmelser om anmälningar finns i 22, 24-27 b och 46 §§ 
+Bestämmelser om anmälningar finns i 22, 24-27 c och 46 §§ 
 förordningen (1998:899) om miljöfarlig verksamhet och 
-hälsoskydd. Förordning (2022:111).
+hälsoskydd. Förordning (2022:1601).
 
 13 § /Träder i kraft I:2023-07-01/
+Bestämmelser om anmälningar finns i 22, 24-27 a, 27 c och 
+46 §§ förordningen (1998:899) om miljöfarlig verksamhet och 
+hälsoskydd. Förordning (2022:1603).
+
+13 § /Träder i kraft I:2024-06-01/
 Bestämmelser om anmälningar finns i 22, 24-27 a och 46 §§ 
 förordningen (1998:899) om miljöfarlig verksamhet och 
-hälsoskydd. Förordning (2022:112).
+hälsoskydd. Förordning (2022:1604).
 
 Verksamhetskoder
 
@@ -1597,16 +1633,7 @@ Andra mineraliska produkter
 anläggning för tillverkning av asbest eller av asbestbaserade 
 produkter. Förordning (2016:1188).
 
-16 § /Upphör att gälla U:2023-01-01/
-Tillståndsplikt B och verksamhetskod 26.140 gäller för 
-anläggning för behandling eller omvandling av asbest.
-
-Tillståndsplikten gäller inte om verksamheten är 
-tillståndspliktig enligt 15 § eller 4 kap. 16 §. Förordning 
-(2016:1188).
-
-16 § /Träder i kraft I:2023-01-01/
-Tillståndsplikt B och verksamhetskod 26.140 gäller för 
+16 § Tillståndsplikt B och verksamhetskod 26.140 gäller för 
 anläggning för behandling eller omvandling av asbest eller 
 produkter som innehåller asbest.
 
@@ -2022,7 +2049,7 @@ kalenderår. Förordning (2016:1188).
 3 § Tillståndsplikt B och verksamhetskod 39.15 gäller för 
 anläggning där det per kalenderår förbrukas
 
-1. mer än 5 ton halogenerade organiska lösningsmedel, 
+1. mer än 5 ton halogenerade organiska lösningsmedel,
 
 2. mer än totalt 25 ton organiska lösningsmedel,
 
@@ -2030,17 +2057,15 @@ anläggning där det per kalenderår förbrukas
 farmaceutiska produkter, eller
 
 4. mer än 100 ton organiska lösningsmedel i tillverkning av 
-lack, tryckfärg, lim eller andra beläggningspreparat. 
+lack, tryckfärg, lim eller andra beläggningspreparat.
 
-Vid tillämpningen av första stycket ska inte sådana organiska 
+När förbrukningen beräknas ska inte sådana organiska 
 lösningsmedel medräknas som omfattas av förordningen 
-(2007:846) om fluorerade växthusgaser och ozonnedbrytande 
-ämnen eller av föreskrifter som har meddelats med stöd av den 
-förordningen.
+(2016:1128) om fluorerade växthusgaser.
 
 Tillståndsplikten gäller inte om verksamheten är 
 tillståndspliktig enligt 2 §. Tillståndsplikten enligt första 
-stycket 2 gäller inte sjukhus. Förordning (2016:1188).
+stycket 2 gäller inte sjukhus. Förordning (2022:1601).
 
 4 § Anmälningsplikt C och verksamhetskod 39.30 gäller för 
 anläggning där organiska lösningsmedel förbrukas per 
@@ -2555,26 +2580,13 @@ personekvivalenter. Förordning (2018:1460).
 
 Ordförklaringar
 
-1 § /Upphör att gälla U:2023-01-01/
-Med avfall, återvinna avfall, förbereda avfall för 
-återanvändning, materialåtervinna avfall, bortskaffa avfall, 
-samla in avfall och uttjänt bil avses i detta kapitel 
-detsamma som i 15 kap. miljöbalken. Förordning (2016:1188).
-
-1 § /Träder i kraft I:2023-01-01/
-Med avfall, behandla avfall, återvinna avfall, förbereda 
+1 § Med avfall, behandla avfall, återvinna avfall, förbereda 
 avfall för återanvändning, materialåtervinna avfall, 
 bortskaffa avfall, samla in avfall, deponi, deponera avfall 
 och uttjänt bil avses i detta kapitel detsamma som i 15 kap. 
 miljöbalken. Förordning (2022:1306).
 
-2 § /Upphör att gälla U:2023-01-01/
-Med farligt avfall och deponering avses i detta kapitel 
-detsamma som i avfallsförordningen (2020:614).
-Förordning (2020:691).
-
-2 § /Träder i kraft I:2023-01-01/
-Med farligt avfall och icke-farligt avfall avses i detta 
+2 § Med farligt avfall och icke-farligt avfall avses i detta 
 kapitel detsamma som i avfallsförordningen (2020:614).
 Förordning (2022:1306).
 
@@ -2695,19 +2707,7 @@ I den tillförda mängden inräknas inte rent träavfall eller
 avfall som anges i 17 § 1–3 och 5 i förordningen (2013:253) 
 om förbränning av avfall. Förordning (2016:1188).
 
-17 § /Upphör att gälla U:2023-01-01/
-Anmälningsplikt C och verksamhetskod 90.230 gäller för 
-samförbrännings- eller avfallsförbränningsanläggning där 
-icke-farligt avfall förbränns yrkesmässigt, om den tillförda 
-mängden är högst 50 ton per kalenderår.
-
-Anmälningsplikten gäller inte anläggning som endast 
-förbränner rent träavfall eller avfall som anges i 17 § 1–3 
-och 5 i förordningen (2013:253) om förbränning av avfall. 
-Förordning (2016:1188).
-
-17 § /Träder i kraft I:2023-01-01/
-Anmälningsplikt C och verksamhetskod 90.230 gäller för 
+17 § Anmälningsplikt C och verksamhetskod 90.230 gäller för 
 samförbrännings- eller avfallsförbränningsanläggning där icke-
 farligt avfall förbränns yrkesmässigt, om den tillförda 
 mängden är högst 50 ton per kalenderår.
@@ -2730,19 +2730,7 @@ från, om
 2. föroreningsrisken inte endast är ringa. Förordning 
 (2016:1188).
 
-19 § /Upphör att gälla U:2023-01-01/
-Anmälningsplikt C och verksamhetskod 90.281 gäller 
-för att deponera icke-farliga muddermassor på land längs små 
-sund, kanaler eller vattenvägar som massorna har muddrats 
-från, om 
-
-1. mängden massor är högst 1 000 ton, och 
-
-2. föroreningsrisken endast är ringa.
-Förordning (2018:1460).
-
-19 § /Träder i kraft I:2023-01-01/
-Anmälningsplikt C och verksamhetskod 90.281 gäller för 
+19 § Anmälningsplikt C och verksamhetskod 90.281 gäller för 
 att deponera icke-farliga muddermassor på land längs små sund, 
 kanaler eller vattenvägar som massorna har muddrats från eller 
 icke-farliga rensningsmassor på land i anslutning till det 
@@ -2805,43 +2793,11 @@ förordningen (2001:512) om deponering av avfall, fram till
 dess åtgärder inte längre behöver vidtas enligt 33 § samma 
 förordning. Förordning (2016:1188).
 
-/Rubriken upphör att gälla U:2023-01-01/
-Återvinning eller bortskaffande av avfall som uppkommit i 
-egen verksamhet
+27 § Har upphävts genom förordning (2022:1306).
 
-27 § /Upphör att gälla U:2023-01-01 genom förordning (2022:1306)./
-Tillståndsplikt B och verksamhetskod 90.381 gäller för 
-att
+28 § Har upphävts genom förordning (2022:1306).
 
-1. återvinna farligt avfall som har uppkommit i egen 
-verksamhet, om mängden avfall är mer än 500 ton men högst 2 
-500 ton per kalenderår, eller 
-
-2. bortskaffa farligt avfall som har uppkommit i egen 
-verksamhet, om mängden avfall är högst 2 500 ton per 
-kalenderår. 
-
-Tillståndsplikten gäller inte om behandlingen är 
-anmälningspliktig enligt 38 §. Förordning (2016:1188).
-
-28 § /Upphör att gälla U:2023-01-01 genom förordning (2022:1306)./
-Tillståndsplikt B och verksamhetskod 90.383 gäller för 
-att behandla farligt avfall som har uppkommit i egen 
-verksamhet, om mängden avfall är mer än 2 500 ton per 
-kalenderår. 
-
-Tillståndsplikten gäller inte om behandlingen är 
-tillståndspliktig enligt 67 §. Förordning (2016:1188).
-
-29 § /Upphör att gälla U:2023-01-01 genom förordning (2022:1306)./
-Anmälningsplikt C och verksamhetskod 90.391 gäller för 
-att återvinna farligt avfall som har uppkommit i egen 
-verksamhet, om
-
-1. mängden avfall är högst 500 ton per kalenderår, och
-
-2. behandlingen leder till materialåtervinning. Förordning 
-(2016:1188).
+29 § Har upphävts genom förordning (2022:1306).
 
 Biologisk behandling
 
@@ -2881,15 +2837,7 @@ Förordning (2016:1188).
 
 Animaliskt avfall
 
-32 § /Upphör att gälla U:2023-01-01/
-Tillståndsplikt B och verksamhetskod 90.241-i gäller för 
-att behandla animaliskt avfall på annat sätt än genom 
-biologisk behandling eller förbränning, om den tillförda 
-mängden avfall är mer än 10 ton per dygn eller mer än 2 500 
-ton per kalenderår. Förordning (2016:1188).
-
-32 § /Träder i kraft I:2023-01-01/
-Tillståndsplikt B och verksamhetskod 90.241-i gäller för 
+32 § Tillståndsplikt B och verksamhetskod 90.241-i gäller för 
 att behandla animaliskt avfall om den tillförda mängden avfall 
 är mer än 10 ton per dygn eller mer än 2 500 ton per 
 kalenderår.
@@ -2898,15 +2846,7 @@ Tillståndsplikten gäller inte om behandlingen är tillstånds-
 eller anmälningspliktig enligt någon av 5-17, 30 eller 31 §§.
 Förordning (2022:1306).
 
-33 § /Upphör att gälla U:2023-01-01/
-Anmälningsplikt C och verksamhetskod 90.251 gäller för 
-att yrkesmässigt behandla animaliskt avfall på annat sätt än 
-genom biologisk behandling eller förbränning, om den 
-tillförda mängden avfall är högst 10 ton per dygn eller högst 
-2 500 ton per kalenderår. Förordning (2016:1188).
-
-33 § /Träder i kraft I:2023-01-01/
-Anmälningsplikt C och verksamhetskod 90.251 gäller för 
+33 § Anmälningsplikt C och verksamhetskod 90.251 gäller för 
 att yrkesmässigt behandla animaliskt avfall om den tillförda 
 mängden avfall är högst 10 ton per dygn eller högst 2 500 ton 
 per kalenderår.
@@ -2939,16 +2879,7 @@ Tillståndsplikten gäller inte om behandlingen är tillstånds-
 eller anmälningspliktig enligt 25 eller 37 §. Förordning 
 (2016:1188).
 
-37 § /Upphör att gälla U:2023-01-01/
-Anmälningsplikt C och verksamhetskod 90.370 gäller för 
-att behandla avfall som utgörs av uppgrävda förorenade massor 
-från den plats där behandlingen sker, om behandlingen pågår 
-under högst en tolvmånadersperiod och inte är 
-tillståndspliktig enligt 21, 22, 23, 24 eller 25 §. 
-Förordning (2016:1188).
-
-37 § /Träder i kraft I:2023-01-01/
-Anmälningsplikt C och verksamhetskod 90.370 gäller för 
+37 § Anmälningsplikt C och verksamhetskod 90.370 gäller för 
 att behandla avfall som utgörs av uppgrävda förorenade massor 
 från den plats där behandlingen sker, om behandlingen pågår 
 under högst en tolvmånadersperiod och inte är 
@@ -3264,17 +3195,7 @@ eller avfallsförbränningsanläggning eller innan behandling av
 avfall enligt någon av de andra punkterna i denna paragraf. 
 Förordning (2016:1188).
 
-68 § /Upphör att gälla U:2023-01-01/
-Tillståndsplikt A och verksamhetskod 90.410 gäller för 
-att behandla icke-farligt avfall, om den tillförda mängden 
-avfall är mer än 100 000 ton per kalenderår.
-
-Tillståndsplikten gäller inte om behandlingen är 
-tillståndspliktig enligt någon annan bestämmelse i detta 
-kapitel. Förordning (2016:1188).
-
-68 § /Träder i kraft I:2023-01-01/
-Tillståndsplikt A och verksamhetskod 90.410 gäller för 
+68 § Tillståndsplikt A och verksamhetskod 90.410 gäller för 
 att behandla icke-farligt avfall, om den tillförda mängden 
 avfall är mer än 100 000 ton per kalenderår.
 
@@ -3282,18 +3203,7 @@ Tillståndsplikten gäller inte om behandlingen är tillstånds-
 eller anmälningspliktig enligt någon annan bestämmelse i detta 
 kapitel. Förordning (2022:1306).
 
-69 § /Upphör att gälla U:2023-01-01/
-Tillståndsplikt B och verksamhetskod 90.420 gäller för 
-att behandla icke-farligt avfall, om den tillförda mängden 
-avfall är mer än 500 ton men högst 100 000 ton per 
-kalenderår.
-
-Tillståndsplikten gäller inte om behandlingen är 
-tillståndspliktig enligt någon annan bestämmelse i detta 
-kapitel. Förordning (2016:1188).
-
-69 § /Träder i kraft I:2023-01-01/
-Tillståndsplikt B och verksamhetskod 90.420 gäller för 
+69 § Tillståndsplikt B och verksamhetskod 90.420 gäller för 
 att behandla icke-farligt avfall, om den tillförda mängden 
 avfall är mer än 500 ton men högst 100 000 ton per kalenderår.
 
@@ -3309,8 +3219,7 @@ Anmälningsplikten gäller inte om behandlingen är anmälnings-
 eller tillståndspliktig enligt någon annan bestämmelse i 
 detta kapitel. Förordning (2016:1188).
 
-70 a § /Träder i kraft I:2023-01-01/
-Tillståndsplikt B och verksamhetskod 90.436 gäller för 
+70 a § Tillståndsplikt B och verksamhetskod 90.436 gäller för 
 att behandla icke-farligt avfall genom kemisk behandling om 
 den tillförda mängden avfall är mer än 100 ton per dygn.
 
@@ -3527,3 +3436,10 @@ datumet krävs en anmälan. Om en anmälan har gjorts till
 tillsynsmyndigheten före den 1 januari 2024 får verksamheten 
 dock fortsätta till dess att handläggningen av anmälan 
 avslutats, om tillsynsmyndigheten inte bestämmer annat.
+
+2022:1601
+
+1. Denna förordning träder i kraft den 1 januari 2023.
+
+2. Bestämmelserna i 1 kap. 5 b § tillämpas även på anmälningar 
+som har gjorts före ikraftträdandet.
