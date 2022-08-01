@@ -33,10 +33,10 @@ person om villkoren i 6–10 §§ är uppfyllda.
 6 § Skuldsanering får beviljas om gäldenären har sina 
 huvudsakliga intressen i Sverige. 
 
-7 § Skuldsanering får beviljas om gäldenären inte rätteligen 
-kan betala sina skulder och denna oförmåga med hänsyn till 
-samtliga omständigheter kan antas bestå under överskådlig tid 
-(kvalificerad insolvens).
+7 § Skuldsanering får beviljas om gäldenären är insolvent och 
+så skuldsatt att han eller hon med hänsyn till samtliga 
+omständigheter inte kan antas ha förmåga att betala sina 
+skulder inom överskådlig tid. Lag (2022:998).
 
 8 § Om gäldenären är en näringsidkare, får skuldsanering 
 beviljas endast om de ekonomiska förhållandena i 
@@ -148,23 +148,26 @@ har fått laga kraft. För gäldenärens betalningar gäller i
 övrigt 38 § första stycket och 39 §.
 
 19 § När ett inledandebeslut har meddelats ska detta genast 
-kungöras i Post- och Inrikes Tidningar. Om det finns 
-särskilda skäl, får kungörelsen införas även i en eller flera 
-ortstidningar.
+kungöras i Post- och Inrikes Tidningar. Om det finns särskilda 
+skäl, får kungörelsen införas även i en eller flera 
+ortstidningar. 
 
 I kungörelsen ska varje borgenär som har en fordran mot 
 gäldenären uppmanas att inom en månad från dagen för 
 kungörelsen skriftligen
 
-1. anmäla sina fordringar mot gäldenären,
+1. uppge sitt namn och person- eller organisationsnummer eller 
+motsvarande identifieringsnummer,
 
-2. lämna närmare uppgifter om fordringarna och andra 
-uppgifter av betydelse för prövningen av ärendet, och
+2. anmäla sina fordringar mot gäldenären,
 
-3. ange till vilket konto som betalning ska ske.
+3. lämna närmare uppgifter om fordringarna och andra uppgifter 
+av betydelse för prövningen av ärendet, och
 
-Fristen i andra stycket får förlängas till två månader, om 
-det finns särskilda skäl.
+4. ange till vilket konto som betalning ska ske.
+
+Fristen i andra stycket får förlängas till två månader, om det 
+finns särskilda skäl. Lag (2022:998).
 
 Handläggningen efter inledandebeslut
 
@@ -310,7 +313,6 @@ finns beaktansvärda skäl att bestämma en kortare tid.
 
 Betalningsplanen börjar löpa från beslutet om skuldsanering. 
 
-
 Vid bestämmandet av tidpunkten för när betalningsplanen löper 
 ut ska den tid som inledandebeslutet gällt räknas av från 
 betalningsplanens längd, om det inte med hänsyn till 
@@ -365,6 +367,25 @@ räknats av.
 41 § Inbetalda medel som tillhör borgenärerna jämte ränta ska 
 Kronofogdemyndigheten betala ut till borgenärerna en gång om 
 året.
+
+Utbetalning till en borgenär ska göras till det konto som 
+angetts av borgenären. Om det finns särskilda skäl, får 
+utbetalning göras på annat sätt.
+
+Om utbetalning till en borgenär inte görs, ska en 
+underrättelse skickas till borgenären. Lag (2022:998).
+
+41 a § En borgenär förlorar sin rätt till inbetalda medel 
+enligt 40 § om borgenären inte inom tre månader från dagen för 
+den sista utbetalningen till borgenärerna enligt beslutet om 
+skuldsanering lämnar sådana uppgifter till 
+Kronofogdemyndigheten att medlen kan betalas ut till 
+borgenären enligt 41 § andra stycket.
+
+De medel som en borgenär har förlorat sin rätt till ska 
+fördelas mellan övriga borgenärer och i andra hand betalas 
+tillbaka till gäldenären. Om utbetalning eller återbetalning 
+inte är möjlig, tillfaller medlen staten. Lag (2022:998).
 
 Exekutiva åtgärder
 
@@ -515,12 +536,14 @@ skuldsanering.
 54 § Om gäldenären försätts i konkurs, förfaller ansökan om 
 skuldsanering.
 
-Om en ansökan om förhandling om offentligt ackord tas upp 
-sedan gäldenären har ansökt om skuldsanering, ska 
-skuldsaneringsärendet förklaras vilande. Om ackordet 
-fastställs, förfaller ansökan om skuldsanering. 
+Om en ansökan om planförhandling under företagsrekonstruktion 
+tas upp sedan gäldenären har ansökt om skuldsanering, ska 
+skuldsaneringsärendet förklaras vilande. Om en 
+rekonstruktionsplan fastställs, förfaller ansökan om 
+skuldsanering.
 
-Om gäldenären avlider, förfaller ansökan om skuldsanering. 
+Om gäldenären avlider, förfaller ansökan om skuldsanering.
+Lag (2022:998).
 
 55 § Om gäldenären återkallar en ansökan om skuldsanering, 
 ska ärendet avskrivas från vidare handläggning. Detsamma 
@@ -586,3 +609,22 @@ ska ske till Kronofogdemyndigheten i enlighet med 38 § andra
 stycket. I sådant fall gäller för beslutet även 29, 33 och 
 35–37 §§, 38 § tredje stycket och 39–53 §§. Vilka fordringar 
 som omfattas av skuldsaneringen får inte ändras.
+
+2022:998
+
+1. Denna lag träder i kraft den 1 augusti 2022.
+
+2. Bestämmelsen i 19 § i den nya lydelsen gäller inte för 
+ärenden där ett beslut att inleda skuldsanering har meddelats 
+före ikraftträdandet.
+
+3. Den nya 41 a § gäller även i fråga om ärenden där 
+betalningsplanen löpt ut före ikraftträdandet. För sådana 
+ärenden tillämpas paragrafen dock från och med den 1 november 
+2022.
+
+4. Bestämmelsen i 54 § i den äldre lydelsen gäller fortfarande 
+för det fall beslut om förhandling om offentligt ackord 
+meddelas eller ett ackord fastställs enligt den upphävda lagen 
+(1996:764) om företagsrekonstruktion efter att gäldenären 
+ansökt om skuldsanering.

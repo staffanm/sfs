@@ -157,16 +157,15 @@ säkerhet erbjuds av tredje man.
 Med säkerhet som har ställts eller erbjuds av tredje man avses även
 borgen, om borgensmannen svarar som för egen skuld.
 
-10 a § Om företagsrekonstruktion pågår enligt lagen (1996:764)
-om företagsrekonstruktion, skall en borgenärs ansökan om
-konkurs, i fall gäldenären begär det, förklaras vilande i
-avvaktan på att företagsrekonstruktionen upphör.
+10 a § Om det pågår en företagsrekonstruktion, ska en 
+borgenärs ansökan om konkurs, ifall gäldenären begär det, 
+förklaras vilande i avvaktan på att företagsrekonstruktionen 
+upphör.
 
-Finns det särskilda skäl att anta att borgenärens rätt
-allvarligt äventyras, får dock rätten besluta att försätta
-gäldenären i konkurs. Innan ett sådant beslut meddelas skall
-rekonstruktören beredas tillfälle att yttra sig.
-Lag (2003:538).
+Om det finns särskilda skäl att anta att borgenärens rätt 
+allvarligt äventyras, får dock rätten besluta att försätta 
+gäldenären i konkurs. Innan ett sådant beslut meddelas ska 
+rekonstruktören ges tillfälle att yttra sig. Lag (2022:979).
 
 Säkerhetsåtgärder
 
@@ -961,15 +960,16 @@ En fordran i utländskt myntslag skall beräknas efter den kurs som gäller
 den dag då utdelningsförslaget upprättas. Betalas medel ut i förskott
 till borgenären, sker beräkningen efter kursen på betalningsdagen.
 
-14 § Om en gäldenär som i en konkurs har fått ackord återigen blir
-försatt i konkurs innan ackordet har fullgjorts, har en borgenär vars
-fordran har satts ned genom ackordet rätt till utdelning för
-fordringens hela ursprungliga belopp med avdrag för vad han redan har
-uppburit. Han får dock inte uppbära mer än vad han har rätt till
-enligt ackordet.
+14 § Om en gäldenär som i en konkurs har fått ackord återigen 
+blir försatt i konkurs innan ackordet har fullgjorts, har en 
+borgenär vars fordran har satts ned genom ackordet rätt till 
+utdelning för fordringens hela ursprungliga belopp med avdrag 
+för vad borgenären redan har fått. Utdelningen får dock inte 
+vara större än vad borgenären har rätt till enligt ackordet.
 
-Första stycket tillämpas också när gäldenären har fått ackord enligt
-lagen (1996:764) om företagsrekonstruktion. Lag (1996:1056).
+Första stycket tillämpas också när gäldenären har fått en 
+skulduppgörelse i en under företagsrekonstruktion fastställd 
+rekonstruktionsplan. Lag (2022:979).
 
 Kvittning i konkurs
 
@@ -3588,3 +3588,11 @@ deras äldre lydelser.
 
 3. De nya 6 kap. 2 a, 2 b och 5 a §§ gäller endast i en 
 konkurs som har beslutats efter ikraftträdandet.
+
+2022:979
+
+1. Denna lag träder i kraft den 1 augusti 2022.
+
+2. Den äldre lydelsen av 5 kap. 14 § gäller fortfarande när en 
+gäldenär har fått ackord enligt den upphävda lagen (1996:764) 
+om företagsrekonstruktion.
