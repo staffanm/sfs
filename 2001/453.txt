@@ -489,8 +489,7 @@ Kommunen ska följa upp insatserna med utgångspunkt i
 kommunens riktlinjer, insatsernas kvalitet enligt 3 kap. 3 § 
 och värdegrunden i 5 kap. 4 §. Lag (2018:669).
 
-2 b § /Träder i kraft I:2022-07-01/
-Den som har hemtjänst med stöd av 1 eller 2 a § ska 
+2 b § Den som har hemtjänst med stöd av 1 eller 2 a § ska 
 erbjudas en fast omsorgskontakt, om det inte bedöms vara 
 uppenbart obehövligt. 
 
@@ -944,16 +943,22 @@ eller den unges behov och önskemål. Lag (2015:982).
 8 § Vårdas ett barn med stöd av denna lag i ett annat hem än 
 det egna, ska socialnämnden minst en gång var sjätte månad 
 överväga om vården fortfarande behövs och hur vården bör 
-inriktas och utformas.
+inriktas och utformas. Lag (2022:665).
 
-När barnet har varit placerat i samma familjehem under tre år 
-från det att placeringen verkställdes, ska socialnämnden 
-särskilt överväga om det finns skäl att ansöka om 
-överflyttning av vårdnaden enligt 6 kap. 8 § föräldrabalken. 
-Därefter ska frågan övervägas årligen.
+8 a § När ett barn är placerat i ett sådant hem som avses i 
+6 kap. 6 § första stycket och en vårdnadshavare eller barnet, 
+om barnet har fyllt 15 år, begär att vården ska upphöra, ska 
+socialnämnden särskilt överväga om det finns skäl att ansöka 
+om flyttningsförbud enligt 24 § lagen (1990:52) med särskilda 
+bestämmelser om vård av unga. Lag (2022:665).
 
-Vid övervägande enligt andra stycket ska följande särskilt 
-beaktas:
+8 b § När barnet har varit placerat i samma familjehem under 
+två år från det att placeringen verkställdes, ska 
+socialnämnden särskilt överväga om det finns skäl att ansöka 
+om överflyttning av vårdnaden enligt 6 kap. 8 § 
+föräldrabalken. Därefter ska frågan övervägas årligen.
+
+Vid ett sådant övervägande ska följande särskilt beaktas:
 
 - barnets och familjehemsföräldrarnas inställning till en 
 vårdnadsöverflyttning,
@@ -966,7 +971,7 @@ uppväxt,
 tillgodose barnets behov av kontakt med sina föräldrar och 
 andra närstående, och
 
-- barnets relation till sina föräldrar. Lag (2020:1260).
+- barnets relation till sina föräldrar. Lag (2022:665).
 
 9 § Ett medgivande enligt 6 § att ta emot ett barn för
 stadigvarande vård och fostran meddelas av socialnämnden i
@@ -993,33 +998,33 @@ vårdnadshavare begär det. Lag (2012:776).
 
 Placering av ett barn över nationsgränserna
 
-11 a § Socialnämnden får godkänna att en utländsk myndighet
-placerar ett barn i Sverige endast om
+11 a § Socialnämnden får godkänna att en utländsk myndighet 
+placerar ett barn i Sverige endast om 
 
-1. det är bäst för barnet att placeras här, särskilt med
-beaktande av barnets anknytning hit,
+1. det är bäst för barnet att placeras här, särskilt med 
+beaktande av barnets anknytning hit, 
 
-2. barnets inställning till placeringen så långt det är
-möjligt har klarlagts,
+2. barnets inställning till placeringen så långt det är 
+möjligt har klarlagts, 
 
-3. barnets vårdnadshavare och, om barnet fyllt 15 år, barnet
-samtycker till åtgärden,
+3. barnets vårdnadshavare och, om barnet fyllt 15 år, barnet 
+samtycker till åtgärden, 
 
-4. förhållandena i det enskilda hemmet och förutsättningarna
-för vård i hemmet är utredda av nämnden,
+4. förhållandena i det enskilda hemmet och förutsättningarna 
+för vård i hemmet är utredda av nämnden, 
 
-5. barnet har beviljats uppehållstillstånd, om ett sådant
-tillstånd behövs, och
+5. barnet har beviljats uppehållstillstånd, om ett sådant 
+tillstånd behövs, och 
 
-6. placeringen sker med stöd av rådets förordning (EG) nr
-2201/2003 av den 27 november 2003 om domstols behörighet och
-om erkännande och verkställighet av domar i äktenskapsmål och
-mål om föräldraansvar samt om upphävande av förordning (EG) nr
-1347/2000 eller med stöd av den i Haag den 19 oktober 1996
-dagtecknade konventionen om behörighet, tillämplig lag,
-erkännande, verkställighet och samarbete i frågor om
-föräldraansvar och åtgärder till skydd för barn.
-Lag (2012:321).
+6. placeringen sker med stöd av rådets förordning (EU) 
+2019/1111 av den 25 juni 2019 om behörighet, erkännande och 
+verkställighet av avgöranden i äktenskapsmål och mål om 
+föräldraansvar, och om internationella bortföranden av barn 
+(Bryssel II-förordningen) eller med stöd av den i Haag den 19 
+oktober 1996 dagtecknade konventionen om behörighet, 
+tillämplig lag, erkännande, verkställighet och samarbete i 
+frågor om föräldraansvar och åtgärder till skydd för barn.
+Lag (2022:956).
 
 11 b § Socialnämnden får placera ett barn i ett annat land
 endast om
@@ -1380,16 +1385,16 @@ dock inget förbehåll göras.
 Minimibeloppet ska, om inte annat följer av 8 §, alltid per 
 månad utgöra lägst en tolftedel av
 
-1. 1,4044 prisbasbelopp för ensamstående, eller
+1. 1,4789 prisbasbelopp för ensamstående, eller 
 
-2. 1,1694 prisbasbelopp för var och en av sammanlevande makar 
+2. 1,2066 prisbasbelopp för var och en av sammanlevande makar 
 och sambor.
 
 Minimibeloppet enligt första stycket ska täcka normalkostnader 
 för livsmedel, kläder, skor, fritid, hygien, dagstidning, 
 telefon, hemförsäkring, öppen hälso- och sjukvård, tandvård, 
 hushållsel, förbrukningsvaror, resor, möbler, husgeråd och 
-läkemedel. Lag (2021:1314).
+läkemedel. Lag (2022:1034).
 
 8 § Kommunen ska höja minimibeloppet i skälig omfattning 
 om den enskilde på grund av särskilda omständigheter 
@@ -1471,6 +1476,7 @@ ersättningsskyldige genom att återbetala kostnaden eller en del
 av denna kan antas bli ur stånd att klara sin försörjning eller
 sin dagliga livsföring i övrigt eller annars synnerliga skäl
 talar mot bifall till ersättningsanspråket. Lag (2009:836).
+
 4 § Socialnämnden får helt eller delvis efterge den
 ersättningsskyldighet som avses i 1 och 2 §§ och i 8 kap. 1 §
 första och andra styckena.
@@ -1500,15 +1506,16 @@ Delegation
 4 § Uppdrag att besluta på socialnämndens vägnar får ges 
 endast åt en särskild avdelning som består av ledamöter eller 
 ersättare i nämnden i ärenden som är en uppgift för nämnden 
-enligt 6 kap. 6, 8 och 11 a-13 §§ denna lag, 4, 6 och 6 a §§, 
-11 § första och andra styckena, 13 §, 14 § tredje stycket, 21, 
-22, 24, 26, 27, 31 b, 31 d, 31 i och 43 §§ lagen (1990:52) med 
-särskilda bestämmelser om vård av unga samt 11 och 13 §§ lagen 
+enligt 6 kap. 6, 8-8 b och 11 a-13 §§ denna lag, 4, 6 och 
+6 a §§, 11 § första och andra styckena, 13, 13 b och 13 c §§, 
+14 § tredje stycket, 21, 22, 24, 26, 27, 31 b, 31 d, 31 i, 
+32 a, 32 b och 43 §§ lagen (1990:52) med särskilda 
+bestämmelser om vård av unga samt 11 och 13 §§ lagen 
 (1988:870) om vård av missbrukare i vissa fall.
 
 Första stycket gäller även i ärenden enligt 6 kap. 14 § om 
 samtycke vägras och beslut enligt 9 kap. 3 § om att föra talan 
-om återkrav enligt 9 kap. 1 §. Lag (2020:353).
+om återkrav enligt 9 kap. 1 §. Lag (2022:665).
 
 5 § Uppdrag att besluta på socialnämndens vägnar får när 
 det gäller föräldrabalken avse endast uppgifter som anges i 
@@ -1638,15 +1645,19 @@ av unga föreligger, bedöms vara i särskilt behov av nämndens
 stöd eller skydd men samtycke till sådan åtgärd saknas.
 Lag (2012:776).
 
-4 b § Socialnämnden får besluta om uppföljning av ett barns
-situation efter det att en placering i ett familjehem eller i
-ett hem för vård eller boende har upphört.
+4 b § Socialnämnden får besluta om uppföljning av ett barns 
+situation efter det att en placering med stöd av denna lag i 
+ett familjehem eller i ett hem för vård eller boende har 
+upphört.
 
-En sådan uppföljning får ske om barnet, utan att förhållanden
-som avses i lagen (1990:52) med särskilda bestämmelser om vård
-av unga föreligger, bedöms vara i särskilt behov av nämndens
+En sådan uppföljning får ske om barnet, utan att förhållanden 
+som avses i lagen (1990:52) med särskilda bestämmelser om vård 
+av unga föreligger, bedöms vara i särskilt behov av nämndens 
 stöd eller skydd men samtycke till sådan åtgärd saknas.
-Lag (2012:776).
+
+Bestämmelser om uppföljning när vård enligt lagen med 
+särskilda bestämmelser om vård av unga upphör finns i 21 b och 
+21 c §§ den lagen. Lag (2022:665).
 
 4 c § Vid en uppföljning enligt 4 a eller 4 b § får nämnden ta
 de kontakter som anges i 2 § första stycket och samtala med
@@ -2721,3 +2732,10 @@ att vara fast omsorgskontakt, trots att han eller hon inte har
 fått bevis enligt 4 kap. 5 a § patientsäkerhetslagen 
 (2010:659) om rätt att använda yrkestiteln undersköterska, 
 dock längst fram till och med den 30 juni 2033.
+
+2022:1034
+
+1. Denna lag träder i kraft den 2 augusti 2022.
+
+2. Lagen ska dock tillämpas för tid från och med den 1 augusti 
+2022.
