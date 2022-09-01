@@ -36,45 +36,7 @@ annan näringsidkare. Lag (2020:874).
 
 Definitioner
 
-3 § /Upphör att gälla U:2022-06-03/
-I denna lag avses med
-
-affärsbeslut: ett beslut som fattas av en konsument eller en
-näringsidkare om huruvida, hur och under vilka förutsättningar
-en produkt ska köpas, om hela eller delar av köpesumman ska
-betalas, om produkten ska behållas eller överlåtas, eller om en
-avtalsenlig rättighet i samband med produkten ska utnyttjas,
-oavsett om konsumenten eller näringsidkaren beslutar att handla
-eller att avstå från att handla,
-
-elektronisk post: ett adresserat eller på något annat sätt
-individualiserat elektroniskt meddelande i form av text, röst,
-ljud eller bild som sänds via ett allmänt kommunikationsnät och
-som kan lagras i nätet eller i mottagarens terminalutrustning
-tills mottagaren hämtar det,
-
-god marknadsföringssed: god affärssed eller andra vedertagna
-normer som syftar till att skydda konsumenter och näringsidkare
-vid marknadsföring av produkter,
-
-konsument: en fysisk person som handlar huvudsakligen för
-ändamål som faller utanför näringsverksamhet,
-
-marknadsföring: reklam och andra åtgärder i näringsverksamhet
-som är ägnade att främja avsättningen av och tillgången till
-produkter inbegripet en näringsidkares handlande, underlåtenhet
-eller någon annan åtgärd eller beteende i övrigt före, under
-eller efter försäljning eller leverans av produkter till
-konsumenter eller näringsidkare,
-
-näringsidkare: en fysisk eller juridisk person som handlar för
-ändamål som har samband med den egna näringsverksamheten,
-
-produkter: varor, tjänster, fast egendom, arbetstillfällen och
-andra nyttigheter.
-
-3 § /Träder i kraft I:2022-06-03/
-I denna lag avses med 
+3 § I denna lag avses med 
 
 affärsbeslut: ett beslut som fattas av en konsument eller en 
 näringsidkare om huruvida, hur och under vilka förutsättningar 
@@ -82,7 +44,21 @@ en produkt ska köpas, om hela eller delar av köpesumman ska
 betalas, om produkten ska behållas eller överlåtas, eller om 
 en avtalsenlig rättighet i samband med produkten ska 
 utnyttjas, oavsett om konsumenten eller näringsidkaren 
-beslutar att handla eller att avstå från att handla, 
+beslutar att handla eller att avstå från att handla,
+
+digitalt innehåll: data som framställs och tillhandahålls i 
+digital form,
+
+digital tjänst: en tjänst som gör det möjligt för konsumenten 
+att skapa, bearbeta, lagra eller få tillgång till uppgifter i 
+digital form, eller att utbyta uppgifter eller interagera på 
+annat sätt med uppgifter i digital form som laddas upp eller 
+skapas av konsumenten eller av andra användare av tjänsten,
+
+driftskompatibilitet: förmåga att fungera med annan hårdvara 
+eller programvara än sådan som normalt används med samma typ 
+av varor med digitala delar, digitalt innehåll eller digitala 
+tjänster,
 
 elektronisk post: ett adresserat eller på något annat sätt 
 individualiserat elektroniskt meddelande i form av text, röst, 
@@ -94,6 +70,11 @@ god marknadsföringssed: god affärssed eller andra vedertagna
 normer som syftar till att skydda konsumenter och 
 näringsidkare vid marknadsföring av produkter,
 
+kompatibilitet: förmåga att utan konvertering fungera med 
+sådan hårdvara eller programvara som normalt används med samma 
+typ av varor med digitala delar, digitalt innehåll eller 
+digitala tjänster,
+
 konsument: en fysisk person som handlar huvudsakligen för 
 ändamål som faller utanför näringsverksamhet,
 
@@ -104,11 +85,31 @@ underlåtenhet eller någon annan åtgärd eller beteende i övrigt
 före, under eller efter försäljning eller leverans av 
 produkter till konsumenter eller näringsidkare,
 
-näringsidkare: en fysisk eller juridisk person som handlar för 
-ändamål som har samband med den egna näringsverksamheten, 
+marknadsplats online: en tjänst som använder programvara, 
+inbegripet en webbplats, en del av en webbplats eller en 
+applikation, som administreras av en näringsidkare eller för 
+dennes räkning och som gör det möjligt för konsumenten att 
+ingå distansavtal med andra näringsidkare eller konsumenter,
 
-produkter: varor, tjänster, fast egendom, arbetstillfällen och 
-andra nyttigheter. Lag (2022:494).
+näringsidkare: en fysisk eller juridisk person som handlar för 
+ändamål som har samband med den egna näringsverksamheten,
+
+produkter: alla typer av varor och tjänster, även digitala 
+tjänster, digitalt innehåll, fast egendom och rättigheter och 
+skyldigheter, 
+
+rankning: den relativa position som en näringsidkare tilldelar 
+produkter så som de presenteras, organiseras eller 
+vidarebefordras, oberoende av vilka tekniska medel som används 
+för sådan presentation, organisation eller vidarebefordran,
+
+vara: lös sak, med eller utan digitala delar,
+
+vara med digitala delar: lös sak som är integrerad eller 
+sammankopplad med ett digitalt innehåll eller en digital 
+tjänst på ett sådant sätt att avsaknaden av det digitala 
+innehållet eller den digitala tjänsten gör att varan inte kan 
+användas på det sätt som är avsett. Lag (2022:656).
 
 Otillbörlig marknadsföring
 
@@ -258,30 +259,70 @@ sätt lämna informationen.
 
 Köperbjudanden
 
-12 § Marknadsföringen är vilseledande om näringsidkaren i en
-framställning erbjuder konsumenter en bestämd produkt med en
-prisangivelse utan att följande väsentliga information framgår:
+12 § Marknadsföringen är vilseledande om näringsidkaren i en 
+framställning erbjuder konsumenter en bestämd produkt med en 
+prisangivelse utan att följande väsentliga information 
+framgår: 
 
-1. produktens utmärkande egenskaper i den omfattning som är
+1. produktens utmärkande egenskaper i den omfattning som är 
 lämplig för mediet och produkten,
 
-2. pris och jämförpris angivet på det sätt som framgår av 7-10
-§§ prisinformationslagen (2004:347),
+2. pris och jämförpris angivet på det sätt som framgår av 7-
+10 §§ prisinformationslagen (2004:347),
 
 3. näringsidkarens identitet och geografiska adress,
 
-4. villkor för betalning, leverans, fullgörande och hantering
-av reklamationer om dessa avviker från vad som är normalt för
-branschen eller produkten i fråga,
+4. villkor för betalning, leverans och fullgörande om de 
+avviker från vad som är normalt för branschen eller produkten 
+i fråga,
 
-5. information om ångerrätt eller rätt att häva ett köp som ska
-lämnas till konsumenten enligt lag.
+5. information om ångerrätt eller rätt att häva ett köp som 
+ska lämnas till konsumenten enligt lag.
 
-Marknadsföringen är också vilseledande om näringsidkaren i en
-framställning erbjuder konsumenter flera bestämda produkter med
-en uppgift om ett gemensamt pris, utan att erbjudandet
-innehåller väsentlig information enligt punkterna 1-5 i första
+Marknadsföringen är också vilseledande om näringsidkaren i en 
+framställning erbjuder konsumenter flera bestämda produkter 
+med en uppgift om ett gemensamt pris, utan att erbjudandet 
+innehåller väsentlig information enligt punkterna 1-5 i första 
+stycket. Lag (2022:656).
+
+12 a § Om en konsument i en framställning på en marknadsplats 
+online erbjuds en bestämd produkt med en prisangivelse eller 
+flera bestämda produkter med en uppgift om ett gemensamt pris, 
+ska den näringsidkare som tillhandahåller marknadsplatsen 
+informera konsumenten om huruvida den som erbjuder produkten 
+är näringsidkare eller inte, baserat på den uppgift om det som 
+denne lämnat. Informationen ska anses vara väsentlig enligt 
+10 § tredje stycket. Lag (2022:656).
+
+Rankning av produkter
+
+12 b § En näringsidkare som ger konsumenter möjlighet att söka 
+digitalt efter produkter ska informera om de kriterier som 
+främst bestämmer rankningen av produkter som presenteras och 
+deras betydelse jämfört med 
+
+andra kriterier. Informationen ska ges i ett särskilt avsnitt 
+i onlinegränssnittet och vara direkt och lätt tillgängligt 
+från den plats där sökresultaten presenteras. 
+
+Informationen ska anses vara väsentlig enligt 10 § tredje 
 stycket.
+
+Information om hur rankningen går till behöver inte lämnas av 
+leverantörer av sökmotorer enligt artikel 2.6 i 
+Europaparlamentets och rådets förordning (EU) 2019/1150 av den 
+20 juni 2019 om främjande av rättvisa villkor och transparens 
+för företagsanvändare av onlinebaserade förmedlingstjänster.
+Lag (2022:656).
+
+Konsumentrecensioner
+
+12 c § En näringsidkare som ger tillgång till 
+konsumentrecensioner av produkter ska informera om huruvida 
+näringsidkaren säkerställer att recensionerna kommer från 
+konsumenter som har använt eller köpt produkterna och i så 
+fall på vilket sätt det görs. Informationen ska anses vara 
+väsentlig enligt 10 § tredje stycket. Lag (2022:656).
 
 Vilseledande förpackningsstorlekar
 
@@ -298,6 +339,15 @@ förväxlas med någon annan näringsidkares kända och särpräglade
 produkter. Detta gäller dock inte efterbildningar vilkas
 utformning huvudsakligen tjänar till att göra produkten
 funktionell.
+
+Marknadsföring av varor som identiska
+
+14 a § En näringsidkare får vid marknadsföring av en vara inte 
+framställa den som identisk med en vara som marknadsförs i 
+andra medlemsstater i Europeiska unionen, om varornas 
+sammansättning eller egenskaper väsentligt skiljer sig åt och 
+det inte är motiverat av legitima och objektiva skäl.
+Lag (2022:656).
 
 Konkursutförsäljningar
 
@@ -410,22 +460,7 @@ den fysiska personen tydligt motsatt sig att metoden används.
 
 Information om garantier
 
-22 § /Upphör att gälla U:2022-05-01/
-En näringsidkare, som vid marknadsföringen erbjuder sig
-att genom en garanti eller liknande utfästelse under en viss
-tid svara för en produkt eller del därav eller för en egenskap
-hos produkten, ska vid försäljningen lämna köparen tydlig
-information om utfästelsens innehåll och de uppgifter som är
-nödvändiga för att köparen ska kunna göra den gällande.
-Information ska även lämnas om att köparens rättigheter enligt
-lag inte påverkas av utfästelsen.
-
-Utfästelsen och informationen ska lämnas i en handling eller i
-någon annan läsbar och varaktig form som är tillgänglig för
-köparen.
-
-22 § /Träder i kraft I:2022-05-01/
-En näringsidkare, som vid marknadsföringen erbjuder sig 
+22 § En näringsidkare, som vid marknadsföringen erbjuder sig 
 att genom en garanti eller liknande utfästelse under en viss 
 tid svara för en produkt eller del därav eller för en egenskap 
 hos produkten, ska lämna köparen klar och begriplig 
@@ -445,27 +480,27 @@ Information innan ett konsumentavtal ingås
 affärslokaler enligt 1 kap. 2 § lagen (2005:59) om 
 distansavtal och avtal utanför affärslokaler ska 
 näringsidkaren innan avtalet ingås ge konsumenten klar och 
-begriplig information om
+begriplig information om 
 
-1. sitt namn och telefonnummer samt sin gatuadress och 
-e-postadress,
+1. sitt namn och telefonnummer samt sin gatuadress och e-
+postadress, 
 
 2. produktens huvudsakliga egenskaper i den omfattning som är 
 lämplig med hänsyn till produkten och till hur informationen 
-ges,
+ges, 
 
 3. produktens pris, inbegripet skatter och avgifter, eller, om 
-priset inte kan anges i förväg, hur priset beräknas,
+priset inte kan anges i förväg, hur priset beräknas, 
 
 4. kostnader för leverans eller porto och andra tillkommande 
-kostnader,
+kostnader, 
 
 5. villkoren för betalning samt för leverans eller fullgörande 
 på något annat sätt och tidpunkt för leverans eller 
-fullgörande,
+fullgörande, 
 
 6. den rätt som konsumenten har att reklamera enligt lag och 
-hur reklamation kan göras,
+hur reklamation kan göras, 
 
 7. åtaganden från näringsidkaren eller tillverkaren om att, 
 utöver vad som följer av lag, betala tillbaka det som betalats 
@@ -473,33 +508,43 @@ för produkten, byta ut eller reparera den eller utföra någon
 form av service på den, ifall produkten inte överensstämmer 
 med uppgifter som lämnats i utfästelser eller marknadsföring 
 eller om det finns andra avvikelser från uppgifter som lämnats 
-på ett sådant sätt,
+på ett sådant sätt, 
 
-8. den assistans och service som gäller efter försäljningen,
+8. den assistans och service som gäller efter försäljningen, 
 
 9. avtalets löptid,
 
 10. villkoren för att säga upp avtalet, om det gäller tills 
-vidare eller förnyas automatiskt, och
+vidare eller förnyas automatiskt,
 
-11. funktionen hos digitalt innehåll, inbegripet tekniska 
-skyddsåtgärder, och, i den utsträckning näringsidkaren känner 
-till eller rimligen kan förväntas känna till det, vilken 
-maskin- och programvara som krävs för att använda det digitala 
-innehållet.
+11. funktionen hos en vara med digitala delar, digitalt 
+innehåll eller en digital tjänst, inbegripet tekniska 
+skyddsåtgärder, och
+
+12. kompatibilitet och driftskompatibilitet mellan varor med 
+digitala delar, digitalt innehåll och digitala tjänster, i den 
+utsträckning näringsidkaren känner till eller borde känna till 
+det.
 
 Informationsskyldigheten enligt första stycket gäller inte, om 
 informationen framgår av sammanhanget. 
 Informationsskyldigheten gäller inte heller i fråga om
 
-1. vardagliga avtal som fullgörs omedelbart,
+1. avtal som inte innebär en betalningsförpliktelse för 
+konsumenten eller, i fråga om avtal om digitalt innehåll som 
+levereras på något annat sätt än på ett fysiskt medium eller 
+digitala tjänster, att konsumenten ska tillhandahålla 
+personuppgifter på det sätt som anges i 2 kap. 1 § andra 
+stycket lagen om distansavtal och avtal utanför affärslokaler, 
 
-2. andra avtal om fast egendom än sådana som avser uthyrning 
+2. vardagliga avtal som fullgörs omedelbart,
+
+3. andra avtal om fast egendom än sådana som avser uthyrning 
 av fast egendom, eller
 
-3. avtal som anges i 2 kap. 1 § andra stycket 1, 2 och 6-8 
-samt fjärde stycket och i 3 kap. lagen om distansavtal och 
-avtal utanför affärslokaler. Lag (2020:170).
+4. avtal som anges i 2 kap. 1 a § första stycket 1, 2 och 6-8 
+samt andra stycket och i 3 kap. lagen om distansavtal och 
+avtal utanför affärslokaler. Lag (2022:656).
 
 Förbud och ålägganden
 
@@ -595,74 +640,78 @@ Förutsättningar för avgift
 29 § En näringsidkare får åläggas att betala en särskild 
 avgift (marknadsstörningsavgift) om näringsidkaren, eller 
 någon som handlar på näringsidkarens vägnar, uppsåtligen eller 
-av oaktsamhet har brutit mot
+av oaktsamhet har brutit mot någon bestämmelse i denna lag 
+eller i bilaga I till direktiv 2005/29/EG.
 
-- 7 §,
+Vid överträdelser av 5 § får marknadsstörningsavgift åläggas 
+endast om överträdelsen omfattas av ett beslut om förbud eller 
+åläggande enligt denna lag som har fått laga kraft.
 
-- 8 § och någon av bestämmelserna i 9, 10, 12-17 §§,
-
-- 18 §,
-
-- 20 §, eller
-
-- någon av bestämmelserna i bilaga I till direktiv 2005/29/EG.
-
-Detsamma gäller om en näringsidkare uppsåtligen eller av 
-oaktsamhet bryter mot någon av bestämmelserna i
-
-- 64 kap. 46 § socialförsäkringsbalken,
-
-- 7 kap. 3 § alkohollagen (2010:1622),
-
-- 8 kap. 7 § första stycket, 8, 9 eller 14 § första eller 
-andra stycket, 9 a kap. 10 och 11 §§ eller 15 kap. 4 § radio- 
-och tv-lagen (2010:696),
-
-- 11 § lagen (1995:1571) om insättningsgaranti när det gäller 
-ett erbjudande som inte är riktat bara till andra än 
-konsumenter,
-
-- 4 kap. 1 § 2 eller 3, 3 §, 4 § första stycket 2 eller 5 § 2 
-eller 3 lagen (2018:2088) om tobak och liknande produkter.
-
-Vad som sägs i första och andra styckena gäller också en 
+Det som anges i första och andra styckena gäller också en 
 näringsidkare som uppsåtligen eller av oaktsamhet väsentligt 
-har bidragit till överträdelsen. 
+har bidragit till överträdelsen.
 
-Avgiften tillfaller staten. Lag (2020:1035).
+Avgiften tillfaller staten. Lag (2022:656).
 
 29 a § Vid prövningen av om marknadsstörningsavgift ska 
 åläggas ska det beaktas hur allvarlig överträdelsen är. 
 Särskild hänsyn ska tas till överträdelsens art, varaktighet, 
 omfattning och spridning. Lag (2016:793).
 
-30 § En marknadsstörningsavgift får inte åläggas någon för en
-överträdelse av ett förbud eller en underlåtelse att följa ett
-åläggande som har meddelats vid vite enligt denna lag.
+30 § Talan om att påföra en marknadsstörningsavgift för en 
+överträdelse får inte tas upp till prövning, om överträdelsen 
+omfattas av ett förbud eller ett åläggande som har förenats 
+med vite enligt denna lag och talan om utdömande av vitet har 
+väckts. Lag (2022:656).
 
 Avgiftens storlek
 
 31 § Marknadsstörningsavgiften ska fastställas till lägst tio 
-tusen kronor och högst tio miljoner kronor.
+tusen kronor och högst fyra procent av näringsidkarens 
+omsättning räkenskapsåret innan överträdelsen upphörde eller 
+när näringsidkaren delgavs stämningsansökan, om den inte har 
+upphört dessförinnan.
 
-Avgiften får inte överstiga tio procent av näringsidkarens 
-årsomsättning.
-
-Årsomsättningen ska avse omsättningen närmast föregående 
-räkenskapsår. Om överträdelsen har skett under 
-näringsidkarens första verksamhetsår eller om uppgifter om 
-årsomsättning annars saknas eller är bristfälliga, får 
-årsomsättningen uppskattas.
+Om överträdelsen har inträffat under näringsidkarens första 
+verksamhetsår eller om uppgifter om årsomsättningen annars 
+saknas eller är bristfälliga, får årsomsättningen uppskattas. 
+Avgiften får i ett sådant fall fastställas till ett belopp i 
+kronor motsvarande högst två miljoner euro.
 
 Riktas talan mot flera näringsidkare ska avgiften fastställas 
-särskilt för var och en av dem. Lag (2016:793).
+särskilt för var och en av dem. Lag (2022:656).
 
-32 § När marknadsstörningsavgiften fastställs ska särskild 
-hänsyn tas till hur allvarlig överträdelsen är och hur länge 
-den har pågått.
+32 § När marknadsstörningsavgiften fastställs ska domstolen ta 
+hänsyn till 
 
-Avgiften får efterges om det finns synnerliga skäl för det.
-Lag (2016:793).
+1. överträdelsens allvar med beaktande särskilt av dess art, 
+varaktighet och omfattning,
+
+2. åtgärder som näringsidkaren har vidtagit för att lindra 
+eller avhjälpa den skada som en konsument eller en annan 
+näringsidkare har lidit, 
+
+3. tidigare överträdelser som näringsidkaren har gjort sig 
+skyldig till, 
+
+4. i den utsträckning det framgår, den vinst som 
+näringsidkaren har gjort eller förlust som undvikits genom 
+överträdelsen,
+
+5. i gränsöverskridande fall, sanktioner som har påförts 
+näringsidkaren för samma överträdelse i andra medlemsstater i 
+Europeiska unionen, ifall information om sådana sanktioner 
+finns tillgänglig via den mekanism som inrättats genom 
+Europaparlamentets och rådets förordning (EU) 2017/2394 av den 
+12 december 2017 om samarbete mellan de nationella myndigheter 
+som har tillsynsansvar för konsumentskyddslagstiftningen och 
+om upphävande av förordning (EG) nr 2006/2004, och
+
+6. försvårande eller förmildrande omständigheter utöver dem i 
+1-5.
+
+Näringsidkaren får befrias från att betala avgiften om det 
+finns synnerliga skäl för det. Lag (2022:656).
 
 Betalning av avgiften
 
@@ -1056,3 +1105,10 @@ och ekonomiska föreningar som omfattas av punkt 2 och 3 i
 ikraftträdande- och övergångsbestämmelserna till lagen 
 (2020:1026) om upphävande av lagen (2004:299) om 
 inlåningsverksamhet.
+
+2022:656
+
+1. Denna lag träder i kraft den 1 september 2022.
+
+2. Äldre bestämmelser gäller för marknadsföring som har 
+vidtagits före ikraftträdandet.
