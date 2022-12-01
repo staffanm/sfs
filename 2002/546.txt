@@ -1,4 +1,3 @@
-
 Lagens tillämpningsområde
 
 1 § Denna lag tillämpas vid behandling av personuppgifter 
@@ -60,21 +59,22 @@ för
 1. handläggning av ärenden,
 
 2. publicering av platsinformation, information om 
-kompletterande aktörer och ansökningar om anställning,
+leverantörer som utför arbetsmarknadspolitiska insatser på 
+uppdrag av Arbetsförmedlingen och ansökningar om anställning, 
 
 3. planering, metodutveckling, tillsyn, uppföljning, 
 resultatredovisning och utvärdering av verksamheten,
 
 4. kontroll av ekonomiskt stöd till arbetsgivare och enskilda 
 som tar del av insatser inom den arbetsmarknadspolitiska 
-verksamheten,
+verksamheten, 
 
-5. framställning av avidentifierad statistik, och
+5. framställning av avidentifierad statistik, och 
 
 6. samarbete på det arbetsmarknadspolitiska området inom 
 Europeiska unionen och Europeiska ekonomiska samarbetsområdet 
 samt enligt överenskommelsen den 6 mars 1982 om en gemensam 
-nordisk arbetsmarknad. Lag (2020:481).
+nordisk arbetsmarknad. Lag (2022:1240).
 
 5 § Arbetsförmedlingen får behandla personuppgifter för 
 tillhandahållande av information som behövs inom 
@@ -95,20 +95,20 @@ bedömning enligt 4 kap. utsökningsbalken av i vilken
 utsträckning en gäldenär har utmätningsbar egendom, 
 
 5. socialnämndernas verksamhet som underlag för beslut om och 
-kontroll av ekonomiskt bistånd enligt 4 kap. 
-socialtjänstlagen (2001:453), 
+kontroll av ekonomiskt bistånd enligt 4 kap. socialtjänstlagen 
+(2001:453), 
 
 6. Migrationsverkets verksamhet som underlag för beslut om 
 bistånd enligt lagen (1994:137) om mottagande av asylsökande 
-m.fl., samt 
+m.fl., och 
 
-7. kompletterande aktörers verksamhet enligt uppdrag från 
-Arbetsförmedlingen.
+7. leverantörers verksamhet att utföra arbetsmarknadspolitiska 
+insatser på uppdrag av Arbetsförmedlingen. 
 
 Arbetsförmedlingen får även behandla personuppgifter för att 
 tillhandahålla information till riksdagen eller regeringen 
 eller till någon annan för att fullgöra uppgiftslämnande i 
-enlighet med lag eller förordning. Lag (2018:259).
+enlighet med lag eller förordning. Lag (2022:1240).
 
 5 a § Personuppgifter som behandlas enligt 4 § får 
 behandlas även för andra ändamål, under förutsättning att 
@@ -170,28 +170,31 @@ Lag (2010:2029).
 
 Direktåtkomst och utlämnande av personuppgifter
 
-12 § Försäkringskassan, Centrala studiestödsnämnden,
-Inspektionen för arbetslöshetsförsäkringen,
-arbetslöshetskassorna, Kronofogdemyndigheten, en socialnämnd
-och Migrationsverket får ha direktåtkomst till personuppgifter
-som behandlas i en arbetsmarknadspolitisk databas om det behövs
-för de ändamål som avses i 5 §. En socialnämnd får ha
-direktåtkomst först sedan Arbetsförmedlingen har försäkrat sig
-om att handläggare hos socialnämnden bara kan ta del av
-uppgifter om personer som är aktuella i ärenden hos nämnden.
+12 § Försäkringskassan, Centrala studiestödsnämnden, 
+Inspektionen för arbetslöshetsförsäkringen, 
+arbetslöshetskassorna, Kronofogdemyndigheten, en socialnämnd 
+och Migrationsverket får ha direktåtkomst till personuppgifter 
+som behandlas i en arbetsmarknadspolitisk databas om det 
+behövs för de ändamål som avses i 5 §. En socialnämnd får ha 
+direktåtkomst först sedan Arbetsförmedlingen har försäkrat sig 
+om att handläggare hos socialnämnden bara kan ta del av 
+uppgifter om personer som är aktuella i ärenden hos nämnden. 
 
-En enskild får i en arbetsmarknadspolitisk databas ha
-direktåtkomst till uppgifter om sig själv samt till sådana
-uppgifter om arbetsgivare och kompletterande aktörer som får
-behandlas enligt 4 § 2.
+En enskild får i en arbetsmarknadspolitisk databas ha 
+direktåtkomst till uppgifter om sig själv samt till sådana 
+uppgifter som får behandlas enligt 4 § 2 och som avser 
+arbetsgivare och leverantörer som utför 
+arbetsmarknadspolitiska insatser på uppdrag av 
+Arbetsförmedlingen. 
 
-En arbetsgivare får i en arbetsmarknadspolitisk databas ha
-direktåtkomst till sådana uppgifter om en arbetssökande som får
-behandlas enligt 4 § 2.
+En arbetsgivare får i en arbetsmarknadspolitisk databas ha 
+direktåtkomst till sådana uppgifter om en arbetssökande som 
+får behandlas enligt 4 § 2. 
 
-Regeringen meddelar föreskrifter om vilka personuppgifter som
-får omfattas av direktåtkomst enligt första–tredje styckena.
-Lag (2010:2029).
+Regeringen eller den myndighet som regeringen bestämmer kan 
+med stöd av 8 kap. 7 § regeringsformen meddela föreskrifter om 
+vilka personuppgifter som får omfattas av direktåtkomst enligt 
+första-tredje styckena. Lag (2022:1240).
 
 13 § Uppgifter i databasen får lämnas ut till en enskild på
 medium för automatiserad behandling endast om regeringen har
@@ -230,18 +233,18 @@ användas. Lag (2018:259).
 Gallring
 
 16 § Uppgifter om arbetssökande i en arbetsmarknadspolitisk 
-databas ska gallras senast tre år efter utgången av det år 
-då behandlingen av uppgifterna har avslutats i ett ärende 
-hos Arbetsförmedlingen.
+databas ska gallras senast tre år efter utgången av det år då 
+behandlingen av uppgifterna har avslutats i ett ärende hos 
+Arbetsförmedlingen. 
 
 Uppgifter som har avskilts för statistikändamål ska gallras 
-tio år efter avskiljandet.
+när uppgifterna inte längre är nödvändiga för detta ändamål. 
 
 Regeringen eller den myndighet som regeringen bestämmer får 
-meddela föreskrifter om undantag från dessa gallringstider 
-när det gäller bevarande av material för vetenskapliga eller 
-historiska forskningsändamål. Sådant material ska lämnas över 
-till en arkivmyndighet. Lag (2018:259).
+meddela föreskrifter om att personuppgifter, trots det som 
+sägs om gallring i första och andra styckena, får bevaras för 
+arkivändamål av allmänt intresse och vetenskapliga eller 
+historiska forskningsändamål. Lag (2022:1240).
 
 Ytterligare föreskrifter
 
