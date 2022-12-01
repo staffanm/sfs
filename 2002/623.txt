@@ -19,7 +19,7 @@ arbetsmarknadspolitiska verksamheten. Förordning
 Uppgifter som får behandlas för att användas i
 Arbetsförmedlingens verksamhet
 
-3 § För handläggning av ärenden, för planering, metodutveckling, tillsyn, uppföljning, resultatredovisning, utvärdering av verksamheten, kontroll av ekonomiskt stöd till arbetsgivare och enskilda som tar del av insatser inom den arbetsmarknadspolitiska verksamheten samt för samarbete inom Europeiska unionen eller Europeiska ekonomiska samarbetsområdet enligt 4 § 1, 3, 4 och 6 lagen (2002:546) om behandling av personuppgifter i den arbetsmarknadspolitiska verksamheten får i fråga om arbetssökande och andra personer som omfattas av verksamheten endast följande personuppgifter behandlas:
+3 § För handläggning av ärenden, för planering, metodutveckling, tillsyn, uppföljning, resultatredovisning, utvärdering av verksamheten, för kontroll av ekonomiskt stöd till arbetsgivare och enskilda som tar del av insatser inom den arbetsmarknadspolitiska verksamheten samt för samarbete inom Europeiska unionen eller Europeiska ekonomiska samarbetsområdet, allt enligt 4 § 1, 3, 4 och 6 lagen (2002:546) om behandling av personuppgifter i den arbetsmarknadspolitiska verksamheten, får i fråga om arbetssökande och andra personer som omfattas av verksamheten endast följande personuppgifter behandlas:
 
 1. namn, kön, person- eller samordningsnummer, adress, e-postadress, telefonnummer och andra kontakt- och identifieringsuppgifter,
 
@@ -27,7 +27,7 @@ Arbetsförmedlingens verksamhet
 
 3. medborgarskap och födelseland,
 
-4. uppgifter om arbetslöshet, tidsperiod då en person är eller har varit anmäld hos den offentliga arbetsförmedlingen och tillhörighet till arbetslöshetskassa enligt registrering,
+4. uppgifter om arbetslöshet, tidsperiod då en person är eller har varit anmäld hos Arbetsförmedlingen och tillhörighet till arbetslöshetskassa enligt registrering,
 
 5. uppgifter om inresedatum till Sverige, ansökan om uppehållstillstånd, folkbokföringsdatum, arbetstillstånd och uppehållstillstånd eller uppehållskort,
 
@@ -35,9 +35,15 @@ Arbetsförmedlingens verksamhet
 
 7. uppgifter om behov av språk-, syn- eller teckentolk, arbetshjälpmedel eller särskild anpassning av insatser,
 
-8. uppgifter om tidpunkter, händelser och innehåll i kontakter med den offentliga arbetsförmedlingen och kompletterande aktörer,
+8. uppgifter om tidpunkter, händelser och innehåll i kontakter med Arbetsförmedlingen och leverantörer som utför arbetsmarknadspolitiska insatser på uppdrag av Arbetsförmedlingen,
 
-9. uppgifter om den arbetssökande som rapporteras in av en kompletterande aktör, en myndighet eller en arbetsgivare,
+9. uppgifter om den arbetssökande som rapporteras in av
+
+a) en myndighet,
+
+b) en arbetsgivare, eller
+
+c) en leverantör som utför arbetsmarknadspolitiska insatser på uppdrag av Arbetsförmedlingen,
 
 10. uppgifter som behövs som underlag för beslut om anvisning till arbetsmarknadspolitiska program eller insatser eller för beslut om nystartsjobb eller statlig ersättning för arbete i etableringsjobb,
 
@@ -56,7 +62,7 @@ Arbetsförmedlingens verksamhet
 Första stycket gäller även behandling av personuppgifter om en arbetssökandes barn, make, maka eller sambo eller annan närstående person, om uppgifterna har betydelse i ett ärende om ersättning enligt förordningen om ersättning till deltagare i arbetsmarknadspolitiska insatser eller i ett ärende om etableringsinsatser enligt förordningen om etableringsinsatser för vissa nyanlända invandrare.
 
 Personuppgifter som avses i första stycket och som avser en arbetssökandes barn, make, maka eller sambo eller annan närstående person får även behandlas i andra ärenden än som anges i andra stycket om uppgifterna är absolut nödvändiga för handläggningen av ärendet.
-Förordning (2022:808).
+Förordning (2022:816).
 
 3 a § För publicering av ansökningar om anställning 
 enligt 4 § 2 lagen (2002:546) om behandling av 
@@ -83,63 +89,34 @@ samtycke. Efter ett återkallande får personuppgifterna inte
 längre behandlas för publicering av ansökningar om 
 anställning. Förordning (2018:263).
 
-4 § För handläggning av ärenden, publicering av 
-platsinformation och information om kompletterande aktörer, 
-för planering, metodutveckling, tillsyn, uppföljning, 
-resultatredovisning, utvärdering av verksamheten, kontroll av 
-ekonomiskt stöd till arbetsgivare och enskilda som tar del av 
-insatser inom den arbetsmarknadspolitiska verksamheten samt 
-för samarbete inom Europeiska unionen eller Europeiska 
-ekonomiska samarbetsområdet enligt 4 § 1-4 och 6 lagen 
-(2002:546) om behandling av personuppgifter i den 
-arbetsmarknadspolitiska verksamheten får i fråga om 
-arbetsgivare, kompletterande aktörer, kontaktpersoner och 
-andra personer som omfattas av verksamheten endast följande 
-uppgifter behandlas:
+4 § För handläggning av ärenden, publicering av platsinformation och information om leverantörer som utför arbetsmarknadspolitiska insatser på uppdrag av Arbetsförmedlingen, för planering, metodutveckling, tillsyn, uppföljning, resultatredovisning, utvärdering av verksamheten, för kontroll av ekonomiskt stöd till arbetsgivare och enskilda som tar del av insatser inom den arbetsmarknadspolitiska verksamheten samt för samarbete inom Europeiska unionen eller Europeiska ekonomiska samarbetsområdet, allt enligt 4 § 1–4 och 6 lagen (2002:546) om behandling av personuppgifter i den arbetsmarknadspolitiska verksamheten, får i fråga om arbetsgivare, leverantörer som utför arbetsmarknadspolitiska insatser på uppdrag av Arbetsförmedlingen, kontaktpersoner och andra personer som omfattas av verksamheten endast följande uppgifter behandlas:
 
-1. namn, kod för arbetsställe, adress, e-postadress, 
-telefonnummer och andra kontakt- och identifieringsuppgifter 
-samt uppgifter om kontaktpersoners eller anställdas funktion i 
-ett företag, i en organisation eller hos en myndighet,
+1. namn, kod för arbetsställe, adress, e-postadress, telefonnummer och andra kontakt- och identifieringsuppgifter samt uppgifter om kontaktpersoners eller anställdas funktion i ett företag, i en organisation eller hos en myndighet,
 
-2. när det gäller arbetsgivare och kompletterande aktörer, 
-personnummer, samordningsnummer eller organisationsnummer, 
+2. när det gäller arbetsgivare och leverantörer som utför arbetsmarknadspolitiska insatser på uppdrag av Arbetsförmedlingen:
 
-3. när det gäller arbetsgivare och kompletterande aktörer, 
-kontouppgifter samt uppgifter om godkännande för F-skatt, 
-momsregistrering, ansvarsförsäkring, näringsförbud, 
-betalningsanmärkningar och skatteskulder som har överlämnats 
-till Kronofogdemyndigheten,
+a) personnummer, samordningsnummer eller organisationsnummer,
 
-4. uppgifter om näringsgren, verksamhetsort, antal anställda, 
-beskrivning av verksamheten och bedömning av 
-sysselsättningsutvecklingen i verksamheten, uppgifter om 
-tjänsteutbud och speciell kompetens samt om vilka personer som 
-utför tjänsterna,
+b) kontouppgifter, och
 
-5. uppgifter som behöver behandlas för uppföljning och 
-bedömning av tjänstekvalitet,
+c) uppgifter om godkännande för F-skatt, momsregistrering, ansvarsförsäkring, näringsförbud, betalningsanmärkningar och skatteskulder som har överlämnats till Kronofogdemyndigheten,
 
-6. uppgifter om lönekostnader som behövs som underlag för 
-beräkning av stöd och ersättningar, 
+3. uppgifter om näringsgren, verksamhetsort, antal anställda, beskrivning av verksamheten och bedömning av sysselsättningsutvecklingen i verksamheten, uppgifter om tjänsteutbud och speciell kompetens samt om vilka personer som utför tjänsterna,
 
-7. uppgifter som ingår i arbetsgivares platsinformation,
+4. uppgifter som behöver behandlas för uppföljning och bedömning av tjänstekvalitet,
 
-8. sådana uppgifter om arbetsgivare och kompletterande aktörer 
-som behöver behandlas för beslut om anvisningar till 
-arbetsmarknadspolitiska program eller för beslut om 
-nystartsjobb, 
+5. uppgifter om lönekostnader som behövs som underlag för beräkning av stöd och ersättningar,
 
-9. uppgifter om det antal personer hos en arbetsgivare som 
-deltar i ett arbetsmarknadspolitiskt program eller i en 
-arbetsmarknadspolitisk insats eller som har ett nystartsjobb, 
+6. uppgifter som ingår i arbetsgivares platsinformation,
 
-10. uppgifter om att en arbetskonflikt pågår på arbetsplatsen, 
-och
+7. sådana uppgifter, om arbetsgivare och om leverantörer som utför arbetsmarknadspolitiska insatser på uppdrag av Arbetsförmedlingen, som behöver behandlas för beslut om anvisningar till arbetsmarknadspolitiska program eller för beslut om nystartsjobb,
 
-11. andra uppgifter som har lämnats i ett ärende eller som är 
-absolut nödvändiga för ett ärendes handläggning.
-Förordning (2020:624).
+8. uppgifter om det antal personer hos en arbetsgivare som deltar i ett arbetsmarknadspolitiskt program eller i en arbetsmarknadspolitisk insats eller som har ett nystartsjobb,
+
+9. uppgifter om att en arbetskonflikt pågår på arbetsplatsen, och
+
+10. andra uppgifter som har lämnats i ett ärende eller som är absolut nödvändiga för ett ärendes handläggning.
+Förordning (2022:816).
 
 5 § I fråga om arbetsgivare och arbetstagare som berörs av
 varsel om driftsinskränkning enligt lagen (1974:13) om vissa
@@ -239,53 +216,30 @@ näringsverksamhet. Detsamma gäller det underlag som behövs
 för utbetalning av stöd till nystartsjobb genom kreditering
 på en arbetsgivares skattekonto. Förordning (2010:2034).
 
-7 a § För tillhandahållande av information till Inspektionen 
-för arbetslöshetsförsäkringen enligt 5 § 3 lagen (2002:546) 
-om behandling av personuppgifter i den 
-arbetsmarknadspolitiska verksamheten får följande 
-personuppgifter behandlas för verksamhet som avser tillsyn 
-och uppföljning:
+7 a § För tillhandahållande av information till Inspektionen för arbetslöshetsförsäkringen enligt 5 § 3 lagen (2002:546) om behandling av personuppgifter i den arbetsmarknadspolitiska verksamheten får följande personuppgifter behandlas för verksamhet som avser tillsyn och uppföljning:
 
 1. namn, person- eller samordningsnummer samt postnummer,
 
 2. uppgift om huruvida den arbetssökande är utrikes född,
 
-3. uppgift om arbetslöshet och tillhörighet till 
-arbetslöshetskassa enligt registrering,
+3. uppgift om arbetslöshet och tillhörighet till arbetslöshetskassa enligt registrering,
 
-4. uppgift om arbets- och uppehållstillstånd, 
+4. uppgift om arbets- och uppehållstillstånd,
 
-5. önskemål om typ av arbete, arbetstid, arbetsort, 
-anställningsform och varaktighet samt uppgifter om körkort, 
-körkortsklass och tillgång till bil, utbildning, 
-arbetslivserfarenhet, tidigare arbetsgivare, speciell 
-kompetens, språkkunskaper och andra uppgifter som har 
-betydelse vid arbetssökning,
+5. önskemål om typ av arbete, arbetstid, arbetsort, anställningsform och varaktighet samt uppgifter om körkort, körkortsklass och tillgång till bil, utbildning, arbetslivserfarenhet, tidigare arbetsgivare, speciell kompetens, språkkunskaper och andra uppgifter som har betydelse vid arbetssökning,
 
-6. uppgifter om tidpunkter, händelser och innehåll i 
-kontakter med Arbetsförmedlingen eller en kompletterande 
-aktör,
+6. uppgifter om tidpunkter, händelser och innehåll i kontakter med Arbetsförmedlingen eller en leverantör som utför arbetsmarknadspolitiska insatser på uppdrag av Arbetsförmedlingen,
 
-7. uppgifter om anvisning till arbetsmarknadspolitiska 
-program, typ av program, utbetald ersättning från 
-arbetslöshetskassa eller för deltagande i 
-arbetsmarknadspolitiska program, de tidsperioder 
-utbetalningarna avser och om samordning med andra förmåner, 
+7. uppgifter om anvisning till arbetsmarknadspolitiska program, typ av program, utbetald ersättning från arbetslöshetskassa eller för deltagande i arbetsmarknadspolitiska program, de tidsperioder utbetalningarna avser och om samordning med andra förmåner,
 
-8. uppgifter om sökta arbeten, anvisningar att söka arbete 
-och resultatet av anvisningarna,
+8. uppgifter om sökta arbeten, anvisningar att söka arbete och resultatet av anvisningarna,
 
-9. uppgifter ur de arbetssökandes individuella 
-handlingsplaner,
+9. uppgifter ur de arbetssökandes individuella handlingsplaner,
 
-10. uppgifter som avses i 16 § förordningen (2000:628) om den 
-arbetsmarknadspolitiska verksamheten, med undantag för andra 
-adressuppgifter än postnummer, och
+10. uppgifter som avses i 16 § förordningen (2000:628) om den arbetsmarknadspolitiska verksamheten, med undantag för andra adressuppgifter än postnummer, och
 
-11. de uppgifter som i övrigt behövs för att fullgöra den 
-uppgiftsskyldighet som framgår av 9 kap. 2 § förordningen 
-(2017:819) om ersättning till deltagare i 
-arbetsmarknadspolitiska insatser. Förordning (2017:825).
+11. de uppgifter som i övrigt behövs för att fullgöra den uppgiftsskyldighet som framgår av 9 kap. 2 § förordningen (2017:819) om ersättning till deltagare i arbetsmarknadspolitiska insatser.
+Förordning (2022:816).
 
 7 b § För tillhandahållande av information till Inspektionen
 för arbetslöshetsförsäkringen enligt 5 § 3 lagen (2002:546)
@@ -367,37 +321,22 @@ ska ta emot den nyanlände för bosättning, och
 har avböjt eller inte har kunnat utnyttja en anvisning. 
 Förordning (2016:41).
 
-7 f § För tillhandahållande av information till 
-kompletterande aktörer enligt 5 § 7 lagen (2002:546) om 
-behandling av personuppgifter i den arbetsmarknadspolitiska 
-verksamheten får följande personuppgifter behandlas:
+7 f § För tillhandahållande av information till leverantörer som utför arbetsmarknadspolitiska insatser på uppdrag av Arbetsförmedlingen enligt 5 § 7 lagen (2002:546) om behandling av personuppgifter i den arbetsmarknadspolitiska verksamheten får följande personuppgifter behandlas:
 
-1. namn, person- eller samordningsnummer, adress, 
-telefonnummer och e-postadress,
+1. namn, person- eller samordningsnummer, adress, telefonnummer och e-postadress,
 
-2. uppgift om arbetsutbud, önskemål om typ av arbete, 
-arbetstid, arbetsort, anställningsform och varaktighet, 
-uppgift om körkort och tillgång till bil, utbildning, 
-arbetslivserfarenhet och tidigare arbetsgivare, speciell 
-kompetens samt andra uppgifter som har betydelse vid 
-arbetssökning,
+2. uppgift om arbetsutbud, önskemål om typ av arbete, arbetstid, arbetsort, anställningsform och varaktighet, uppgift om körkort och tillgång till bil, utbildning, arbetslivserfarenhet och tidigare arbetsgivare, speciell kompetens samt andra uppgifter som har betydelse vid arbetssökning,
 
-3. uppgifter om anvisningar att söka arbete och 
-arbetsmarknadspolitiska program samt uppgifter om att en 
-anvisning avbrutits,
+3. uppgifter om anvisningar att söka arbete och arbetsmarknadspolitiska program samt uppgifter om att en anvisning avbrutits,
 
-4. uppgifter om behov av språk-, syn- eller teckentolk eller 
-arbetshjälpmedel eller om behov av anpassning av insatsen på 
-grund av funktionsnedsättning,
+4. uppgifter om behov av språk-, syn- eller teckentolk eller arbetshjälpmedel eller om behov av anpassning av insatsen på grund av funktionsnedsättning,
 
-5. uppgifter om omständigheter som berättigar den 
-kompletterande aktören till resultatbaserad ersättning,
+5. uppgifter om omständigheter som berättigar leverantören till resultatbaserad ersättning,
 
 6. uppgifter som ingår i en individuell handlingsplan, och
 
-7. andra uppgifter som är absolut nödvändiga för att den 
-kompletterande aktören ska kunna utföra sitt uppdrag.
-Förordning (2017:825).
+7. andra uppgifter som är absolut nödvändiga för att leverantören ska kunna utföra sitt uppdrag.
+Förordning (2022:816).
 
 Avskiljande av uppgifter som behövs för Arbetsförmedlingens
 planering och uppföljning av verksamheten m.m.
@@ -491,13 +430,8 @@ behandling
 får lämnas ut på ett medium för automatiserad behandling till
 arbetsgivare. Förordning (2014:1443).
 
-11 b § Arbetsförmedlingen får lämna ut personuppgifter i form 
-av namn och person- eller samordningsnummer på ett medium för 
-automatiserad behandling till kreditinstitut och 
-försäkringsgivare i en begäran enligt lagen (2020:474) om 
-skyldighet för kreditinstitut och försäkringsgivare att lämna 
-vissa uppgifter till Arbetsförmedlingen. 
-Förordning (2020:624).
+11 b § Arbetsförmedlingen får lämna ut personuppgifter på ett medium för automatiserad behandling om det behövs för att någon annan ska kunna lämna ut personuppgifter till myndigheten.
+Förordning (2022:816).
 
 11 c § Personuppgifter som enligt 21 och 23 §§ förordningen (2022:807) om statlig ersättning för arbete i etableringsjobb ska lämnas ut till en partsorganisation får lämnas ut på ett medium för automatiserad behandling.
 Förordning (2022:808).
@@ -532,9 +466,8 @@ Kronofogdemyndigheten. Förordning (2014:1443).
 lämnas ut på ett medium för automatiserad behandling till
 socialnämnderna. Förordning (2014:1443).
 
-13 c § Personuppgifter som får behandlas enligt 7 f § får
-lämnas ut på ett medium för automatiserad behandling till
-kompletterande aktörer. Förordning (2014:1443).
+13 c § Personuppgifter som får behandlas enligt 7 f § får lämnas ut på ett medium för automatiserad behandling till leverantörer som utför arbetsmarknadspolitiska insatser på uppdrag av Arbetsförmedlingen.
+Förordning (2022:816).
 
 13 d § Personuppgifter som får behandlas enligt 5 § andra
 stycket lagen (2002:546) om behandling av personuppgifter i
@@ -543,15 +476,18 @@ medium för automatiserad behandling, om det i det enskilda
 fallet bedöms lämpligt ur integritetssynpunkt. Förordning
 (2014:1443).
 
-14 § Personuppgifter om en enskild som får behandlas enligt
-3–5 och 9 §§ får lämnas ut på ett medium för automatiserad
-behandling till den enskilde själv. Detsamma gäller för
-arbetsgivares platsinformation, sådana uppgifter om
-kompletterande aktörer som avses i 4 § 4 och uppgifter om en
-arbetsgivares eller en kompletterande aktörs namn, adress,
-e-postadress och telefonnummer samt om kontaktpersoners namn,
-telefonnummer och funktion i företaget. Förordning
-(2014:1443).
+14 § Arbetsförmedlingen får till en enskild lämna ut följande personuppgifter på ett medium för automatiserad behandling:
+
+1. uppgifter om den enskilde själv som får behandlas enligt 3–5 och 9 §§,
+
+2. uppgifter om kontaktpersoners namn, telefonnummer och funktion i företaget,
+
+3. arbetsgivares platsinformation,
+
+4. när det gäller en arbetsgivare eller en leverantör som utför arbetsmarknadspolitiska insatser på uppdrag av Arbetsförmedlingen: namn, adress, e-postadress och telefonnummer, och
+
+5. sådana uppgifter om leverantörer som utför arbetsmarknadspolitiska insatser på uppdrag av Arbetsförmedlingen som får behandlas enligt 4 § 3.
+Förordning (2022:816).
 
 15 § Uppgifter om lediga platser får lämnas ut på ett medium
 för automatiserad behandling till de länder som Sverige
@@ -588,15 +524,18 @@ personer som är aktuella i ärenden hos nämnden.
 Migrationsverket får ha direktåtkomst till de personuppgifter
 som får behandlas enligt 7 e §. Förordning (2014:1443).
 
-16 a § En enskild får ha direktåtkomst till personuppgifter
-om henne eller honom själv som får behandlas enligt 3–5 och 9
-§§. En enskild får också ha direktåtkomst till arbetsgivares
-platsinformation, sådana uppgifter om kompletterande aktörer
-som avses i 4 § 4 samt till uppgifter om en arbetsgivares
-eller kompletterande aktörs namn, adress, e-postadress och
-telefonnummer. Detsamma gäller för uppgifter om
-kontaktpersoners telefonnummer och funktion i företaget.
-Förordning (2014:1443).
+16 a § En enskild får ha direktåtkomst till följande personuppgifter:
+
+1. uppgifter om den enskilde själv som får behandlas enligt 3–5 och 9 §§,
+
+2. uppgifter om kontaktpersoners telefonnummer och funktion i företaget,
+
+3. arbetsgivares platsinformation,
+
+4. när det gäller en arbetsgivare eller en leverantör som utför arbetsmarknadspolitiska insatser på uppdrag av Arbetsförmedlingen: namn, adress, e-postadress och telefonnummer, och
+
+5. sådana uppgifter om leverantörer som utför arbetsmarknadspolitiska insatser på uppdrag av Arbetsförmedlingen som får behandlas enligt 4 § 3.
+Förordning (2022:816).
 
 17 § Har upphävts genom förordning (2011:179).
 
@@ -686,12 +625,8 @@ Förordning (2011:179).
 
 Gallring
 
-21 § Riksarkivet får meddela föreskrifter om undantag 
-från bestämmelserna om gallring i 16 § lagen (2002:546) om 
-behandling av personuppgifter i den arbetsmarknadspolitiska 
-verksamheten, för att uppgifter ska kunna bevaras för 
-vetenskapliga eller historiska forskningsändamål.
-Förordning (2018:263).
+21 § Riksarkivet får meddela föreskrifter om att personuppgifter, trots det som sägs om gallring i 16 § första och andra styckena lagen (2002:546) om behandling av personuppgifter i den arbetsmarknadspolitiska verksamheten, får bevaras för arkivändamål av allmänt intresse och vetenskapliga eller historiska forskningsändamål.
+Förordning (2022:816).
 
 Ytterligare föreskrifter
 
