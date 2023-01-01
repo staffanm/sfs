@@ -117,14 +117,16 @@ gäller vid tillämpningen av denna lag.
 
 Behörigheten enligt 4 kap. 2 § patientdatalagen ska alltid 
 begränsas så att personuppgifter som behandlas hos en annan 
-vårdenhet eller inom en annan vårdprocess hos vårdgivaren 
-inte får göras tillgängliga genom elektronisk åtkomst vid en 
+vårdenhet eller inom en annan vårdprocess hos vårdgivaren inte 
+får göras tillgängliga genom elektronisk åtkomst vid en 
 försäkringsmedicinsk utredning.
 
 En vårdgivare får vid en försäkringsmedicinsk utredning inte 
-ha direktåtkomst enligt 6 kap. 1 § patientdatalagen till 
-personuppgifter om den försäkrade som behandlas av andra 
-vårdgivare.
+genom direktåtkomst eller annat elektroniskt utlämnande enligt 
+lagen (2022:913) om sammanhållen vård- och 
+omsorgsdokumentation ha tillgång till sådana personuppgifter 
+om den försäkrade som behandlas av andra vårdgivare.
+Lag (2022:918).
 
 14 § Av patientskadelagen (1996:799) och 
 patientsäkerhetslagen (2010:659) framgår att dessa lagar 

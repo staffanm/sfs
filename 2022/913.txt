@@ -1,0 +1,475 @@
+1 kap. Inledande bestämmelser
+
+Uttryck i lagen
+
+1 § I denna lag används följande uttryck med nedan angiven 
+betydelse.
+
+Uttryck	                Betydelse
+
+EU:s 
+dataskyddsförordning	Europaparlamentets och rådets förordning 
+                        (EU) 2016/679 av den 27 april 2016 om 
+                        skydd för fysiska personer med avseende 
+                        på behandling av personuppgifter och om 
+                        det fria flödet av sådana uppgifter och 
+                        om upphävande av direktiv 95/46/EG 
+                        (allmän dataskyddsförordning).
+
+Hälso- och sjukvård	Verksamhet som avses i hälso- och 
+                        sjukvårdslagen (2017:30), tandvårdslagen 
+                        1985:125), lagen (1991:1128) om 
+                        psykiatrisk tvångsvård, lagen 
+                        (1991:1129) om rättspsykiatrisk vård, 
+                        smittskyddslagen (2004:168), lagen 
+                        (1972:119) om fastställande av 
+                        könstillhörighet i vissa fall, lagen 
+                        (2006:351) om genetisk integritet m.m., 
+                        lagen (2019:1297) om 
+                        koordineringsinsatser för sjukskrivna 
+                        patienter samt den upphävda lagen 
+                        (1944:133) om kastrering. 
+
+Insatser för äldre 
+personer eller 
+personer med 
+funktionsnedsättning	Insatser
+
+                        1. enligt 4 kap. 1 § socialtjänstlagen 
+                        (2001:453) som avses i 3 kap. 6 § första 
+                        stycket samma lag och som lämnas till 
+                        äldre personer eller personer med 
+                        funktionsnedsättning,
+
+                        2. enligt 4 kap. 1 § socialtjänstlagen 
+                        som avses i 5 kap. 5 och 7 §§ samma lag,
+
+                        3. enligt 4 kap. 2 a § socialtjänstlagen, 
+                        eller 
+                        
+                        4. enligt lagen (1993:387) om stöd och 
+                        service till vissa funktionshindrade.
+
+Omsorgsgivare	        Myndighet i kommun eller region som har 
+                        ansvar för eller utför insatser för äldre 
+                        personer eller personer med 
+                        funktionsnedsättning samt annan juridisk 
+                        person eller enskild näringsidkare som 
+                        utför sådana insatser.
+
+Omsorgsmottagare	Person som fått eller får insatser för 
+                        äldre personer eller personer med 
+                        funktionsnedsättning eller som fått 
+                        eller får behovet av sådana insatser 
+                        bedömda.
+
+Patient	                Person som fått, får eller är registrerad 
+                        för att få hälso- och sjukvård.
+
+Sammanhållen vård- och 
+omsorgsdokumentation	Ett elektroniskt system som gör det 
+                        möjligt för en vårdgivare eller 
+                        omsorgsgivare att ge eller få tillgång, 
+                        genom direktåtkomst eller annat 
+                        elektroniskt utlämnande, till 
+                        personuppgifter hos andra vårdgivare 
+                        eller omsorgsgivare.
+
+Vårdgivare	        Statlig myndighet, region och kommun i 
+                        fråga om sådan hälso- och sjukvård som 
+                        myndigheten, regionen eller kommunen 
+                        har ansvar för samt annan juridisk 
+                        person eller enskild näringsidkare som 
+                        bedriver hälso- och sjukvård.
+
+Förhållandet till annan dataskyddsreglering
+
+2 § Denna lag innehåller bestämmelser som kompletterar EU:s 
+dataskyddsförordning, patientdatalagen (2008:355), lagen 
+(2001:454) om behandling av personuppgifter inom 
+socialtjänsten och föreskrifter som har meddelats i anslutning 
+till dessa lagar.
+
+Vid behandling av personuppgifter enligt denna lag gäller 
+lagen (2018:218) med kompletterande bestämmelser till EU:s 
+dataskyddsförordning och föreskrifter som har meddelats i 
+anslutning till den lagen, om inte annat följer av denna lag 
+eller föreskrifter som har meddelats i anslutning till lagen.
+
+Tillämpningsområde
+
+3 § Bestämmelserna i denna lag får tillämpas på vårdgivares 
+behandling av personuppgifter enligt patientdatalagen 
+(2008:355). 
+
+Bestämmelserna i denna lag får också tillämpas på 
+omsorgsgivares behandling av omsorgsmottagares personuppgifter 
+enligt lagen (2001:454) om behandling av personuppgifter inom 
+socialtjänsten för dokumentation
+
+1. enligt 11 kap. 5 § socialtjänstlagen (2001:453), eller
+
+2. enligt 21 a § lagen (1993:387) om stöd och service till 
+vissa funktionshindrade.
+
+Andra stycket gäller dock bara om dokumentationen förs för 
+varje omsorgsmottagare för sig.
+
+2 kap. Vårdgivares och omsorgsgivares tillgängliggörande av 
+uppgifter 
+
+Tillgång genom direktåtkomst eller annat elektroniskt 
+utlämnade 
+
+1 § En vårdgivare får, under de förutsättningar som anges i 
+2-6 §§ och 3 kap. 1, 3, 5 och 6 §§, ges tillgång, genom 
+direktåtkomst eller annat elektroniskt utlämnande, till 
+personuppgifter som behandlas av andra vårdgivare eller av 
+omsorgsgivare. En omsorgsgivare får, under de förutsättningar 
+som anges i 2-6 §§ och 3 kap. 2 och 4 §§, ges tillgång, genom 
+direktåtkomst eller annat elektroniskt utlämnande, till 
+personuppgifter som behandlas av andra vårdgivare eller av 
+omsorgsgivare.
+
+Tillgången enligt första stycket får bara avse personuppgifter 
+som behandlas
+
+1. för ändamål som anges i 2 kap. 4 § 1 och 2 patientdatalagen 
+(2008:355), eller
+
+2. för att ansvara för eller utföra insatser eller för 
+administration av sådana insatser eller sådan dokumentation 
+som avses i 1 kap. 3 § andra stycket.
+
+Information till patienter och omsorgsmottagare
+
+2 § Innan uppgifter om en patient eller en omsorgsmottagare 
+görs tillgängliga för andra vårdgivare eller omsorgsgivare ska 
+patienten eller omsorgsmottagaren av vårdgivare eller 
+omsorgsgivare informeras om 
+
+1. vad sammanhållen vård- och omsorgsdokumentation innebär, 
+och 
+
+2. möjligheten att motsätta sig att uppgifter görs 
+tillgängliga för andra vårdgivare eller omsorgsgivare genom 
+sådan dokumentation.
+
+En patient ska också informeras om att
+
+1. uppgiften om att det finns spärrade uppgifter om patienten 
+och vilken vårdgivare som har spärrat uppgifterna ska göras 
+tillgängliga för andra vårdgivare, och 
+
+2. vid fara för patientens liv eller när det annars finns 
+allvarlig risk för dennes hälsa får en annan vårdgivare ta del 
+av uppgift om vilken vårdgivare som har spärrat uppgifterna.
+
+En patients eller en omsorgsmottagares inflytande 
+
+3 § Om en patient eller en omsorgsmottagare motsätter sig det, 
+får uppgifter om patienten eller omsorgsmottagaren inte göras 
+tillgängliga för andra vårdgivare eller omsorgsgivare. I 
+sådant fall ska uppgifterna genast spärras av vårdgivaren 
+eller omsorgsgivaren.
+
+En vårdnadshavare för ett barn får dock inte motsätta sig att 
+uppgifter om barnet görs tillgängliga för andra vårdgivare 
+eller omsorgsgivare. 
+
+En patient eller en omsorgsmottagare kan när som helst begära 
+att den vårdgivare eller omsorgsgivare som har spärrat 
+uppgifterna häver spärren.
+
+Ospärrade uppgifter
+
+4 § Ospärrade uppgifter om en patient eller en 
+omsorgsmottagare ska göras tillgängliga för de vårdgivare 
+eller omsorgsgivare som är anslutna till sammanhållen vård- 
+och omsorgsdokumentation. 
+
+Om det finns ospärrade uppgifter om patienten eller 
+omsorgsmottagaren, ska det föras in en uppgift om detta. Andra 
+vårdgivare eller omsorgsgivare ska kunna ta del av denna 
+uppgift utan att ta del av uppgiften om vilken vårdgivare 
+eller omsorgsgivare som har gjort uppgiften tillgänglig eller 
+av de ospärrade uppgifternas innehåll. 
+
+Uppgift om spärrade uppgifter om en patient
+
+5 § Uppgift om att det finns spärrade uppgifter om en patient 
+samt uppgift om vilken vårdgivare som har spärrat uppgifterna 
+ska göras tillgängliga för andra vårdgivare. En annan 
+vårdgivare får, endast under de förutsättningar som anges i 
+3 kap. 5 och 6 §§, ta del av uppgift om vilken vårdgivare som 
+har spärrat uppgifterna.
+
+En patient eller en omsorgmottagare som inte endast 
+tillfälligt saknar förmåga att ta ställning 
+
+6 § En vårdgivare eller en omsorgsgivare får tillgängliggöra 
+uppgifter om en patient eller en omsorgsmottagare, som inte 
+endast tillfälligt saknar förmåga att ta ställning enligt 3 § 
+första stycket, för andra vårdgivare eller omsorgsgivare som 
+är anslutna till sammanhållen vård- och omsorgsdokumentation, 
+om
+
+1. patientens eller omsorgsmottagarens inställning till sådan 
+behandling av personuppgifter så långt som möjligt har 
+klarlagts, och
+
+2. det inte finns anledning att anta att patienten eller 
+omsorgsmottagaren skulle ha motsatt sig behandlingen av 
+personuppgifterna.
+
+3 kap. Vårdgivares och omsorgsgivares tillgång till och 
+behandling av personuppgifter
+
+En vårdgivares behandling av uppgifter
+
+1 § En vårdgivare får behandla uppgifter som en annan 
+vårdgivare eller omsorgsgivare har gjort tillgängliga enligt 
+2 kap. 4 eller 6 § om
+
+1. uppgifterna rör en patient som det finns en aktuell 
+patientrelation med, 
+
+2. patienten samtycker till det, och 
+
+3. uppgifterna kan antas ha betydelse 
+
+a) för att inom hälso- och sjukvården förebygga, utreda eller 
+behandla sjukdomar och skador hos patienten, utföra insatser 
+enligt lagen (2019:1297) om koordineringsinsatser för 
+sjukskrivna patienter eller bedöma behovet av sådana insatser, 
+eller 
+
+b) vid utfärdande av ett sådant intyg som avses i 3 kap. 16 § 
+patientdatalagen (2008:355). 
+
+I fall som avses i första stycket 3 b gäller detta också när 
+uppgifterna avser någon som det tidigare har funnits en 
+patientrelation till.
+
+Patientens samtycke krävs inte om denne är ett barn som inte 
+självt kan samtycka.
+
+En omsorgsgivares behandling av uppgifter
+
+2 § En omsorgsgivare får behandla uppgifter som en annan 
+omsorgsgivare eller vårdgivare har gjort tillgängliga enligt 
+2 kap. 4 eller 6 § om
+
+1. uppgifterna rör en omsorgsmottagare som får omsorgsgivarens 
+insatser eller är föremål för en utredning om att få sådana 
+insatser, 
+
+2. uppgifterna kan antas ha betydelse för omsorgsgivarens 
+insatser enligt 1, och
+
+3. omsorgsmottagaren samtycker till det.
+
+Omsorgsmottagarens samtycke krävs inte om behandlingen avser 
+uppgifter som en annan omsorgsgivare gjort tillgängliga och 
+omsorgsmottagaren är ett barn som inte självt kan samtycka.
+
+När patienten inte kan samtycka
+
+3 § En vårdgivare får ta del av uppgift om vilka andra 
+vårdgivare eller omsorgsgivare som har gjort uppgifter 
+tillgängliga enligt 2 kap. 4 eller 6 § om en patient inte 
+endast tillfälligt saknar förmåga att lämna samtycke enligt 
+1 § första stycket 2.
+
+Vårdgivaren får i en sådan situation behandla också de 
+uppgifter som avses i 2 kap. 4 eller 6 §, om
+
+1. vårdgivaren bedömer att dessa kan antas ha betydelse för 
+den vård som är nödvändig med hänsyn till patientens 
+hälsotillstånd,
+
+2. patientens inställning till sådan behandling av 
+personuppgifter så långt som möjligt har klarlagts, och
+
+3. det inte finns anledning att anta att patienten skulle ha 
+motsatt sig behandlingen av personuppgifterna.
+
+När omsorgsmottagaren inte kan samtycka
+
+4 § En omsorgsgivare får ta del av uppgift om vilka andra 
+omsorgsgivare som har gjort uppgifter tillgängliga enligt 
+2 kap. 4 eller 6 § om en omsorgsmottagare inte endast 
+tillfälligt saknar förmåga att lämna samtycke enligt 2 § 
+första stycket 3.
+
+Omsorgsgivaren får i en sådan situation behandla också de 
+uppgifter som avses i 2 kap. 4 eller 6 § som andra 
+omsorgsgivare gjort tillgängliga om
+
+1. omsorgsgivaren bedömer att dessa kan antas ha betydelse för 
+de insatser som är nödvändiga med hänsyn till 
+omsorgsmottagarens behov eller en utredning om sådana 
+insatser,
+
+2. omsorgsmottagarens inställning till sådan behandling av 
+personuppgifter så långt som möjligt har klarlagts, och
+
+3. det inte finns anledning att anta att omsorgsmottagaren 
+skulle ha motsatt sig behandlingen av personuppgifterna.
+
+En vårdgivares behandling av uppgifter vid fara för patientens 
+liv eller hälsa 
+
+5 § En vårdgivare får ta del av uppgift om vilken eller vilka 
+vårdgivare som har spärrat uppgifter om 
+
+1. det finns fara för en patients liv eller det finns 
+allvarlig risk för dennes hälsa, och
+
+2. patienten saknar förmåga att begära att spärren ska hävas 
+enligt 2 kap. 3 § tredje stycket.
+
+Om vårdgivaren med ledning av uppgiften enligt första stycket 
+bedömer att de spärrade uppgifterna kan antas ha betydelse för 
+den vård som patienten oundgängligen behöver, får vårdgivaren 
+begära hos den vårdgivare som har spärrat uppgifterna att 
+denne häver spärren.
+
+6 § En vårdgivare får ta del av uppgift om vilken eller vilka 
+vårdgivare som har gjort ospärrade uppgifter tillgängliga om
+
+1. det finns fara för en patients liv eller det annars finns 
+allvarlig risk för dennes hälsa, och
+
+2. patientens samtycke inte kan inhämtas enligt 1 § första 
+stycket 2.
+
+Om vårdgivaren med ledning av uppgiften enligt första stycket 
+bedömer att de ospärrade uppgifterna kan antas ha betydelse 
+för den vård som patienten oundgängligen behöver, får 
+vårdgivaren behandla de ospärrade uppgifterna.
+
+Lagens reglering är uttömmande 
+
+7 § En vårdgivare eller en omsorgsgivare får inte behandla en 
+annan vårdgivares eller omsorgsgivares uppgifter om en patient 
+eller en omsorgsmottagare under andra förutsättningar än dem 
+som anges i 1-6 §§, även om patienten eller omsorgsmottagaren 
+uttryckligen samtycker till det.
+
+4 kap. Vårdgivarnas och omsorgsgivarnas ansvar för 
+dokumentationen
+
+Personuppgiftsansvar 
+
+1 § En vårdgivare eller en omsorgsgivare är 
+personuppgiftsansvarig för behandling av personuppgifter 
+enligt denna lag. I en region eller i en kommun är varje 
+myndighet som bedriver hälso- och sjukvård 
+personuppgiftsansvarig för den behandling av personuppgifter 
+som myndigheten utför.
+
+Personuppgiftsansvaret omfattar även sådan behandling av 
+personuppgifter som utförs när någon genom direktåtkomst eller 
+annat elektroniskt utlämnande i ett enskilt fall bereder sig 
+tillgång till personuppgifter hos en annan vårdgivare eller 
+omsorgsgivare. 
+
+Regeringen eller den myndighet som regeringen bestämmer får 
+meddela föreskrifter om vem som ska ha personuppgiftsansvar 
+för övergripande frågor om tekniska och organisatoriska 
+säkerhetsåtgärder vid sammanhållen vård- och 
+omsorgsdokumentation.
+
+Patientens och omsorgsmottagarens elektroniska tillgång till 
+dokumentation
+
+2 § En vårdgivare eller en omsorgsgivare får medge en patient 
+eller en omsorgsmottagare tillgång, genom direktåtkomst eller 
+annat elektroniskt utlämnande, till sådana uppgifter om 
+patienten eller omsorgsmottagaren själv som får lämnas ut till 
+honom eller henne och som en annan vårdgivare eller 
+omsorgsgivare får ha tillgång till enligt 2 kap. 4 §. 
+Patienten eller omsorgsmottagaren får också medges tillgång, 
+genom direktåtkomst eller annat elektroniskt utlämnande, till 
+sådan dokumentation som avses i 4 § första och tredje 
+styckena.
+
+Tillgång enligt första stycket första meningen får dock inte 
+medges till sådana uppgifter som en annan vårdgivare eller 
+omsorgsgivare får ha tillgång till enligt 2 kap. 6 §.
+
+Regeringen eller den myndighet som regeringen bestämmer kan 
+med stöd av 8 kap. 7 § regeringsformen meddela närmare 
+föreskrifter om de krav på säkerhetsåtgärder som ska gälla vid 
+sådan direktåtkomst eller annat elektroniskt utlämnande som 
+avses i första stycket.
+
+I 5 kap. 5 § patientdatalagen (2008:355) finns det ytterligare 
+bestämmelser om patientens tillgång, genom direktåtkomst eller 
+annat elektroniskt utlämnande, till uppgifter hos vårdgivare 
+om patienten själv.
+
+Tilldelning av behörighet för intern elektronisk åtkomst och 
+kontroll av elektronisk åtkomst
+
+3 § En omsorgsgivare ska bestämma villkor för tilldelning av 
+behörighet till personalen i den egna organisationen för 
+åtkomst till personuppgifter som gjorts tillgängliga för andra 
+omsorgsgivare eller vårdgivare. Sådan behörighet ska begränsas 
+till vad som behövs för att den behörige ska kunna fullgöra 
+sina arbetsuppgifter i fråga om insatser för omsorgsmottagare, 
+administration av sådana insatser och dokumentation som avses 
+i 1 kap. 1 § andra stycket.
+
+Regeringen eller den myndighet som regeringen bestämmer kan 
+med stöd av 8 kap. 7 § regeringsformen meddela närmare 
+föreskrifter om tilldelning av behörighet enligt första 
+stycket.
+
+I 4 kap. 2 § patientdatalagen (2008:355) finns det 
+bestämmelser om vårdgivares behörighetstilldelning. De 
+bestämmelserna gäller även för vårdgivares 
+behörighetstilldelning avseende åtkomst till sammanhållen 
+vård- och omsorgsdokumentation. 
+
+
+4 § En omsorgsgivare ska se till att åtkomst till 
+personuppgifter som gjorts tillgängliga för andra 
+omsorgsgivare eller vårdgivare enligt denna lag dokumenteras 
+och kan kontrolleras. Omsorgsgivaren ska göra systematiska och 
+återkommande kontroller av om någon obehörigen kommer åt 
+uppgifterna. 
+
+Regeringen eller den myndighet som regeringen bestämmer kan 
+med stöd av 8 kap. 7 § regeringsformen meddela närmare 
+föreskrifter om dokumentation och kontroll enligt första 
+stycket.
+
+I 4 kap. 3 § patientdatalagen (2008:355) finns det 
+bestämmelser om vårdgivares kontroll av elektronisk åtkomst. 
+De bestämmelserna gäller även för vårdgivares dokumentation om 
+och kontroll av åtkomst till sammanhållen vård- och 
+omsorgsdokumentation.
+
+Information om den elektroniska åtkomst som förekommit
+
+5 § En omsorgsgivare ska på begäran av en omsorgsmottagare 
+lämna information om den åtkomst till omsorgsmottagarens 
+personuppgifter som förekommit enligt denna lag.
+
+Regeringen eller den myndighet som regeringen bestämmer kan 
+med stöd av 8 kap. 7 § regeringsformen meddela närmare 
+föreskrifter om information enligt första stycket.
+
+I 8 kap. 5 § patientdatalagen (2008:355) finns det 
+bestämmelser om att en vårdgivare på begäran av en patient ska 
+lämna information om den direktåtkomst och elektroniska 
+åtkomst till uppgifter om patienten som har förekommit.
+
+Bevarande och gallring
+
+6 § När en handling är tillgänglig för flera vårdgivare eller 
+omsorgsgivare enligt denna lag gäller skyldigheten att bevara 
+handlingen bara för den vårdgivare eller omsorgsgivare som 
+ansvarar för den.

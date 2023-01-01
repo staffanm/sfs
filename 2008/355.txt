@@ -33,76 +33,69 @@ obehöriga inte får tillgång till dem.
 Definitioner
 
 3 § I denna lag används följande uttryck med nedan angiven 
-betydelse.
+betydelse
 
-Uttryck			Betydelse
+Uttryck	                Betydelse
 
 Hälso- och sjukvård	Verksamhet som avses i hälso- och 
-			sjukvårdslagen (2017:30), 
-			tandvårdslagen (1985:125), lagen 
-			(1991:1128) om psykiatrisk tvångsvård, 
-			lagen (1991:1129) om rättspsykiatrisk 
-			vård, smittskyddslagen (2004:168), 
-			lagen (1972:119) om fastställande av 
-			könstillhörighet i vissa fall, lagen 
-			(2006:351) om genetisk integritet m.m., 
-			lagen (2018:744) om försäkringsmedicinska 
-			utredningar, lagen (2019:1297) om 
-			koordineringsinsatser för sjukskrivna 
-			patienter, lagen (2021:363) om estetiska 
-			kirurgiska ingrepp och estetiska 
-			injektionsbehandlingar samt den upphävda 
-			lagen (1944:133) om kastrering.
+                        sjukvårdslagen (2017:30), tandvårdslagen 
+                        (1985:125), lagen (1991:1128) om 
+                        psykiatrisk tvångsvård, lagen (1991:1129) 
+                        om rättspsykiatrisk vård, 
+                        smittskyddslagen (2004:168), lagen 
+                        (1972:119) om fastställande av 
+                        könstillhörighet i vissa fall, lagen 
+                        (2006:351) om genetisk integritet m.m., 
+                        lagen (2018:744) om försäkringsmedicinska 
+                        utredningar, lagen (2019:1297) om 
+                        koordineringsinsatser för sjukskrivna 
+                        patienter, lagen (2021:363) om estetiska 
+                        kirurgiska ingrepp och estetiska 
+                        injektionsbehandlingar samt den upphävda 
+                        lagen (1944:133) om kastrering.
 
-Journalhandling		Framställning i skrift eller bild samt 
-			upptagning som kan läsas, avlyssnas 
-			eller på annat sätt uppfattas endast 
-			med tekniskt hjälpmedel och som 
-			upprättas eller inkommer i samband med 
-			vården av en patient och som innehåller 
-			uppgifter om patientens hälsotillstånd 
-			eller andra personliga förhållanden 
-			eller om vidtagna eller planerade 
-			vårdåtgärder.
+Journalhandling	        Framställning i skrift eller bild samt 
+                        upptagning som kan läsas, avlyssnas 
+                        eller på annat sätt uppfattas endast med 
+                        tekniskt hjälpmedel och som upprättas 
+                        eller inkommer i samband med vården av 
+                        en patient och som innehåller uppgifter 
+                        om patientens hälsotillstånd eller andra 
+                        personliga förhållanden eller om 
+                        vidtagna eller planerade vårdåtgärder.
 
-	
+Patientjournal	        En eller flera journalhandlingar som rör 
+                        samma patient.
 
-Patientjournal		En eller flera journalhandlingar som 
-			rör samma patient.
-
-Sammanhållen 
-journalföring		Ett elektroniskt system, som gör det 
-			möjligt för en vårdgivare att ge eller 
-			få direktåtkomst till personuppgifter 
-			hos en annan vårdgivare.
-
-	
-
-Vårdgivare		Statlig myndighet, region och kommun i 
-			fråga om sådan hälso- och sjukvård som 
-			myndigheten, regionen eller kommunen har 
-			ansvar för (offentlig vårdgivare) samt 
-			annan juridisk person eller enskild 
-			näringsidkare som bedriver hälso- och 
-			sjukvård (privat vårdgivare).
-Lag (2021:365).
+Vårdgivare	        Statlig myndighet, region och kommun i 
+                        fråga om sådan hälso- och sjukvård som 
+                        myndigheten, regionen eller kommunen har 
+                        ansvar för (offentlig vårdgivare) samt 
+                        annan juridisk person eller enskild 
+                        näringsidkare som bedriver hälso- och 
+                        sjukvård (privat vårdgivare).
+Lag (2022:915).
 
 Förhållandet till annan dataskyddsreglering
- 
-4 § Denna lag innehåller bestämmelser som kompletterar 
-EU:s dataskyddsförordning, vid sådan behandling av 
-personuppgifter inom hälso- och sjukvården som är helt eller 
-delvis automatiserad eller där uppgifterna ingår i eller är 
-avsedda att ingå i en strukturerad samling av personuppgifter 
-som är tillgängliga för sökning eller sammanställning enligt 
+
+4 § Denna lag innehåller bestämmelser som kompletterar EU:s 
+dataskyddsförordning, vid sådan behandling av personuppgifter 
+inom hälso- och sjukvården som är helt eller delvis 
+automatiserad eller där uppgifterna ingår i eller är avsedda 
+att ingå i en strukturerad samling av personuppgifter som är 
+tillgängliga för sökning eller sammanställning enligt 
 särskilda kriterier.
 
 Vid behandling av personuppgifter som avses i första stycket 
 gäller lagen (2018:218) med kompletterande bestämmelser till 
-EU:s dataskyddsförordning och föreskrifter som har meddelats 
-i anslutning till den lagen, om inte annat följer av denna 
-lag eller föreskrifter som har meddelats i anslutning till 
-lagen. Lag (2018:447).
+EU:s dataskyddsförordning och föreskrifter som har meddelats i 
+anslutning till den lagen, om inte annat följer av denna lag 
+eller föreskrifter som har meddelats i anslutning till lagen.
+
+I lagen (2022:913) om sammanhållen vård- och 
+omsorgsdokumentation finns ytterligare bestämmelser om 
+vårdgivares behandling av personuppgifter inom hälso- och 
+sjukvården. Lag (2022:915).
 
 2 kap. Grundläggande bestämmelser om behandling av
 personuppgifter
@@ -114,22 +107,21 @@ behandling av personuppgifter som avses i 1 kap. 4 §.
 
 Den enskildes inställning till personuppgiftsbehandling
 
-2 § Behandling av personuppgifter som är tillåten enligt denna
-lag får utföras även om den enskilde motsätter sig den. Det
-gäller dock inte i de fall som anges i 4 kap. 4 §, 6 kap. och 7
-kap. 2 § eller om något annat framgår av annan lag eller
-förordning.
+2 § Behandling av personuppgifter som är tillåten enligt denna 
+lag får utföras även om den enskilde motsätter sig den. Det 
+gäller dock inte i de fall som anges i 4 kap. 4 § och 7 kap. 
+2 § eller om något annat framgår av annan lag eller 
+förordning. Lag (2022:915).
 
-3 § Behandling av personuppgifter som inte är tillåten enligt
-denna lag får ändå ske, om den enskilde lämnat ett uttryckligt
-samtycke till behandlingen. Det gäller dock inte i de fall som
-anges i 6 kap. 5 § eller om något annat framgår av annan lag
-eller förordning.
+3 § Behandling av personuppgifter som inte är tillåten enligt 
+denna lag får ändå ske, om den enskilde lämnat ett uttryckligt 
+samtycke till behandlingen. Det gäller dock inte om något 
+annat framgår av annan lag eller förordning.
 
-Regeringen får meddela föreskrifter om att en behandling av
-personuppgifter som inte är tillåten enligt denna lag inte
-heller i andra fall får utföras trots att den enskilde lämnat
-samtycke till behandlingen.
+Regeringen får meddela föreskrifter om att en behandling av 
+personuppgifter som inte är tillåten enligt denna lag inte 
+heller i andra fall får utföras trots att den enskilde lämnat 
+samtycke till behandlingen. Lag (2022:915).
 
 Ändamål med personuppgiftsbehandlingen
 
@@ -182,8 +174,9 @@ myndigheten genom direktåtkomst i ett enskilt fall bereder sig
 tillgång till personuppgifter om en patient hos en annan 
 vårdgivare eller annan myndighet i samma region eller kommun.
 
-I 6 och 7 kap. finns särskilda bestämmelser om 
-personuppgiftsansvar. Lag (2019:931).
+I 7 kap. och i 4 kap. 1 § lagen (2022:913) om sammanhållen 
+vård- och omsorgsdokumentation finns särskilda bestämmelser om 
+personuppgiftsansvar. Lag (2022:915).
 
 Personuppgifter som får behandlas
 
@@ -233,13 +226,15 @@ sammanställningar. Lag (2018:447).
 
 Inledande bestämmelse
 
-1 § Vid vård av patienter ska det föras patientjournal. En
-patientjournal ska föras för varje patient och får inte vara
+1 § Vid vård av patienter ska det föras patientjournal. En 
+patientjournal ska föras för varje patient och får inte vara 
 gemensam för flera patienter.
 
-I 6 kap. finns bestämmelser om direktåtkomst till andra
-vårdgivares uppgifter om patienter genom sammanhållen
-journalföring.
+I lagen (2022:913) om sammanhållen vård- och 
+omsorgsdokumentation finns bestämmelser om tillgång, genom 
+direktåtkomst eller annat elektroniskt utlämnande, till andra 
+vårdgivares uppgifter om patienter genom sammanhållen vård- 
+och omsorgsdokumentation. Lag (2022:915).
 
 Syftet med en patientjournal
 
@@ -424,27 +419,29 @@ fullgöra sina arbetsuppgifter inom hälso- och sjukvården.
 Personuppgifter som behandlas i en utredning enligt lagen 
 (2018:744) om försäkringsmedicinska utredningar för ändamål 
 som anges i 2 kap. 4 § första stycket 1 och 2 får inte göras 
-tillgängliga genom elektronisk åtkomst för den som arbetar 
-vid en annan vårdenhet eller inom en annan vårdprocess hos 
-samma vårdgivare. I den lagen finns särskilda bestämmelser om 
+tillgängliga genom elektronisk åtkomst för den som arbetar vid 
+en annan vårdenhet eller inom en annan vårdprocess hos samma 
+vårdgivare. I den lagen finns särskilda bestämmelser om 
 elektronisk åtkomst vid sådana utredningar.
 
-Regeringen eller den myndighet som regeringen bestämmer får 
-meddela föreskrifter om tilldelning av behörighet enligt 
-första stycket för åtkomst till uppgifter som förs helt eller 
-delvis automatiserat. Lag (2018:747).
+Regeringen eller den myndighet som regeringen bestämmer kan 
+med stöd av 8 kap. 7 § regeringsformen meddela närmare 
+föreskrifter om tilldelning av behörighet enligt första 
+stycket för åtkomst till uppgifter som förs helt eller delvis 
+automatiserat. Lag (2022:915).
 
 Kontroll av elektronisk åtkomst
 
-3 § En vårdgivare ska se till att åtkomst till sådana uppgifter
-om patienter som förs helt eller delvis automatiserat
-dokumenteras och kan kontrolleras. Vårdgivare ska göra
-systematiska och återkommande kontroller av om någon obehörigen
-kommer åt sådana uppgifter.
+3 § En vårdgivare ska se till att åtkomst till sådana 
+uppgifter om patienter som förs helt eller delvis 
+automatiserat dokumenteras och kan kontrolleras. Vårdgivare 
+ska göra systematiska och återkommande kontroller av om någon 
+obehörigen kommer åt sådana uppgifter.
 
-Regeringen eller den myndighet som regeringen bestämmer får
-meddela föreskrifter om dokumentation och kontroll enligt
-första stycket.
+Regeringen eller den myndighet som regeringen bestämmer kan 
+med stöd av 8 kap. 7 § regeringsformen meddela närmare 
+föreskrifter om dokumentation och kontroll enligt första 
+stycket. Lag (2022:915).
 
 Patientens möjlighet att begränsa elektronisk åtkomst för
 vårdsyfte
@@ -517,7 +514,7 @@ om uppgift ur journalen begärs för särskilt fall, samma
 skyldighet att lämna uppgiften som den haft som ansvarat för
 journalen före överlämnandet till myndigheten.
 
-Utlämnande genom direktåtkomst
+Direktåtkomst eller annat elektroniskt utlämnande
 
 4 § Utlämnande genom direktåtkomst till personuppgifter är 
 tillåten endast i den utsträckning som anges i lag eller 
@@ -528,197 +525,32 @@ genom flera myndigheter, får en sådan myndighet ha
 direktåtkomst till personuppgifter som behandlas av någon 
 annan sådan myndighet i samma region eller kommun.
 
-Ytterligare bestämmelser om utlämnande genom direktåtkomst 
-finns i 5 §, 6 kap. och i 7 kap. 9 §. Lag (2019:931).
+Ytterligare bestämmelser om direktåtkomst och annat 
+elektroniskt utlämnande finns i 5 §, 7 kap. 9 § och i lagen 
+(2022:913) om sammanhållen vård- och omsorgsdokumentation.
+Lag (2022:915).
 
-5 § En vårdgivare får medge en enskild direktåtkomst till
-sådana uppgifter om den enskilde själv som får lämnas ut till
-honom eller henne och som behandlas för ändamål som anges i 2
-kap. 4 § första stycket 1 och 2. Den enskilde får under samma
-förutsättningar medges direktåtkomst till sådan dokumentation
-som avses i 4 kap. 3 § första stycket första meningen.
+5 § En vårdgivare får medge en enskild tillgång, genom 
+direktåtkomst eller annat elektroniskt utlämnande, till sådana 
+uppgifter om den enskilde själv som får lämnas ut till honom 
+eller henne och som behandlas för ändamål som anges i 2 kap. 
+4 § första stycket 1 och 2. Den enskilde får under samma 
+förutsättningar medges tillgång, genom direktåtkomst eller 
+annat elektroniskt utlämnande, till sådan dokumentation som 
+avses i 4 kap. 3 § första stycket första meningen.
 
-Regeringen eller den myndighet som regeringen bestämmer får
-meddela föreskrifter om de krav på säkerhetsåtgärder som ska
-gälla vid sådan direktåtkomst som avses i första stycket.
+Regeringen eller den myndighet som regeringen bestämmer kan 
+med stöd 8 kap. 7 § regeringsformen meddela närmare 
+föreskrifter om de krav på säkerhetsåtgärder som ska gälla vid 
+sådan direktåtkomst eller annat elektroniskt utlämnande som 
+avses i första stycket. Lag (2022:915).
 
 Utlämnande på medium för automatiserad behandling
 
 6 § Får en personuppgift lämnas ut, kan det ske på medium för
 automatiserad behandling.
 
-6 kap. Sammanhållen journalföring
-
-Direktåtkomst till uppgifter hos en annan vårdgivare
-
-1 § En vårdgivare får, under de förutsättningar som anges i 
-2 §, ha direktåtkomst till personuppgifter som behandlas av 
-andra vårdgivare för ändamål som anges i 2 kap. 4 § första 
-stycket 1 och 2.
-
-En vårdgivare får inte ha direktåtkomst till personuppgifter 
-som behandlas av en annan vårdgivare i en utredning enligt 
-lagen (2018:744) om försäkringsmedicinska utredningar. I den 
-lagen finns särskilda bestämmelser om direktåtkomst vid sådana 
-utredningar.
-
-En vårdgivare får inte ha direktåtkomst till personuppgifter 
-som behandlas av en annan vårdgivare i verksamhet som omfattas 
-av lagen (2021:363) om estetiska kirurgiska ingrepp och 
-estetiska injektionsbehandlingar. I den lagen finns särskilda 
-bestämmelser om direktåtkomst vid sådan verksamhet.
-Lag (2021:365).
-
-Patientens inflytande vid sammanhållen journalföring m.m.
-
-2 § Om en patient motsätter sig det får andra uppgifter om
-patienten än dem som anges i andra stycket inte göras
-tillgängliga för andra vårdgivare genom sammanhållen
-journalföring.
-
-Uppgift om att det finns spärrade uppgifter om en patient samt
-uppgift om vilken vårdgivare som har spärrat uppgifterna får
-göras tillgängliga för andra vårdgivare genom sammanhållen
-journalföring. En annan vårdgivare får ta del av uppgift om
-vilken vårdgivare som har spärrat uppgifterna endast under de
-förutsättningar som anges i 4 §.
-
-Innan uppgifter om en patient görs tillgängliga för andra
-vårdgivare genom sammanhållen journalföring, ska patienten
-informeras om vad den sammanhållna journalföringen innebär och
-om att patienten kan motsätta sig att andra uppgifter än dem
-som anges i andra stycket görs tillgängliga för andra
-vårdgivare genom sammanhållen journalföring.
-
-Om en patient motsätter sig att andra uppgifter än dem som
-anges i andra stycket görs tillgängliga för andra vårdgivare
-genom sammanhållen journalföring ska uppgifterna genast
-spärras. Vårdnadshavaren till ett barn kan dock inte spärra
-uppgifter om barnet. En patient kan när som helst begära att
-den vårdgivare som har spärrat uppgifterna häver spärren.
-
-Ospärrade uppgifter om patienten ska göras tillgängliga för de
-vårdgivare som är anslutna till systemet med sammanhållen
-journalföring. Det ska vidare införas en uppgift i systemet om
-att det finns ospärrade uppgifter om patienten. Andra
-vårdgivare ska kunna ta del av denna uppgift utan att ta del av
-uppgift om vilken vårdgivare som har gjort uppgiften
-tillgänglig och övriga uppgifters innehåll.
-
-2 a §  En vårdgivare får göra uppgifter om en patient som inte
-endast tillfälligt saknar förmåga att ta ställning enligt 2 §
-tillgängliga för de vårdgivare som är anslutna till systemet
-med sammanhållen journalföring, om
-
-1. patientens inställning till sådan personuppgiftsbehandling
-så långt som möjligt klarlagts, och
-
-2. det inte finns anledning att anta att patienten skulle ha
-motsatt sig personuppgiftsbehandlingen. Lag (2014:829).
-
-3 § För att en vårdgivare ska få behandla uppgifter som en 
-annan vårdgivare gjort tillgängliga i systemet med 
-sammanhållen journalföring enligt 2 § femte stycket krävs att
-
-1. uppgifterna rör en patient som det finns en aktuell 
-patientrelation med,
-
-2. uppgifterna kan antas ha betydelse för att förebygga, 
-utreda eller behandla sjukdomar och skador hos patienten inom 
-hälso- och sjukvården, eller för att bedöma behovet av eller 
-utföra insatser enligt lagen (2019:1297) om 
-koordineringsinsatser för sjukskrivna patienter, och
-
-3. patienten samtycker till det.
-
-Vårdgivaren får även behandla sådana uppgifter om
-
-1. uppgifterna rör en patient som det finns eller har funnits 
-en patientrelation med,
-
-2. uppgifterna kan antas ha betydelse för att utfärda ett 
-sådant intyg som avses i 3 kap. 16 §, och
-
-3. patienten samtycker till det.
-
-För att en vårdgivare ska få behandla sådana uppgifter som en 
-vårdnadshavare inte har rätt att spärra enligt 2 § fjärde 
-stycket andra meningen krävs att förutsättningarna enligt 
-första stycket 1 och 2 eller andra stycket 1 och 2 är 
-uppfyllda. Lag (2019:1299).
-
-3 a § En vårdgivare får ta del av uppgift om vilken
-vårdgivare som har gjort uppgifter tillgängliga enligt 2
-eller 2 a §, om patienten inte endast tillfälligt saknar
-förmåga att lämna samtycke enligt 3 § första stycket 3.
-
-Vårdgivaren får även behandla de uppgifter som avses i 2
-eller 2 a §, om
-
-1. vårdgivaren bedömer att dessa kan antas ha betydelse för
-den vård som är nödvändig med hänsyn till patientens
-hälsotillstånd,
-
-2. patientens inställning till sådan personuppgiftsbehandling
-så långt som möjligt klarlagts, och
-
-3. det inte finns anledning att anta att patienten skulle ha
-motsatt sig personuppgiftsbehandlingen. Lag (2014:829).
-
-4 § Om det finns spärrade uppgifter om en patient och det
-föreligger fara för dennes liv eller det annars föreligger
-allvarlig risk för dennes hälsa, får vårdgivaren, om patienten
-inte kan häva spärren enligt 2 § fjärde stycket, ta del av
-uppgift om vilken eller vilka vårdgivare som har spärrat
-uppgifterna. Om vårdgivaren med ledning av denna uppgift
-bedömer att de spärrade uppgifterna kan antas ha betydelse för
-den vård som patienten oundgängligen behöver, får vårdgivaren
-begära hos den vårdgivare som har spärrat uppgifterna att denne
-häver spärren.
-
-Om det finns ospärrade uppgifter om en patient och det
-föreligger fara för dennes liv eller det annars föreligger
-allvarlig risk för dennes hälsa, får vårdgivaren, om patientens
-samtycke inte kan inhämtas enligt 3 §, ta del av uppgift om
-vilken eller vilka vårdgivare som har gjort uppgifterna
-tillgängliga. Om vårdgivaren med ledning av denna uppgift
-bedömer att de ospärrade uppgifterna kan antas ha betydelse för
-den vård som patienten oundgängligen behöver, får vårdgivaren
-behandla de ospärrade uppgifterna.
-
-5 § En vårdgivare får inte behandla en annan vårdgivares
-uppgifter om en patient i systemet med sammanhållen
-journalföring under andra förutsättningar än dem som anges i
-3–4 §§, även om patienten uttryckligen samtycker till det.
-Lag (2014:829).
-
-Personuppgiftsansvar vid sammanhållen journalföring
-
-6 § Regeringen eller den myndighet som regeringen bestämmer får
-meddela föreskrifter om vem som ska ha personuppgiftsansvar för
-övergripande frågor om tekniska och organisatoriska
-säkerhetsåtgärder vid sammanhållen journalföring.
-
-I 2 kap. 6 § finns allmänna bestämmelser om
-personuppgiftsansvar.
-
-Behörighetstilldelning och åtkomstkontroll
-
-7 § Bestämmelserna i 4 kap. 2 och 3 §§ gäller även för
-behörighetstilldelning och åtkomstkontroll vid sammanhållen
-journalföring.
-
-Bevarande och gallring
-
-8 § När patientjournaler är tillgängliga för flera vårdgivare
-genom sammanhållen journalföring gäller skyldigheten enligt 3
-kap. 17 § att bevara en journalhandling bara den vårdgivare som
-ansvarar för handlingen.
-
-Om en journalhandling eller annan handling är tillgänglig för
-en myndighet bara genom sammanhållen journalföring och
-myndigheten inte ansvarar för den, får myndigheten gallra
-handlingen från sitt arkiv.
+6 kap. Kapitlet har upphävts genom lag (2022:915).
 
 7 kap. Nationella och regionala kvalitetsregister
 
@@ -929,27 +761,30 @@ uppgifterna och behandlingen,
 3. rätten enligt 4 kap. 4 § att i vissa fall begära att 
 uppgifter spärras,
 
-4. rätten enligt 5 § att få information om den direktåtkomst 
-och elektroniska åtkomst som förekommit,
+4. rätten enligt 5 § att få information om den åtkomst som 
+förekommit,
 
-5. rätten enligt artikel 82 i EU:s dataskyddsförordning och 7 
-kap. 1 § lagen (2018:218) med kompletterande bestämmelser 
+5. rätten enligt artikel 82 i EU:s dataskyddsförordning och 
+7 kap. 1 § lagen (2018:218) med kompletterande bestämmelser 
 till EU:s dataskyddsförordning till skadestånd vid behandling 
 av personuppgifter i strid med denna lag, och
 
-6. vad som gäller i fråga om sökbegrepp, direktåtkomst och 
-utlämnande av uppgifter på medium för automatiserad 
-behandling.
+6. vad som gäller i fråga om sökbegrepp, direktåtkomst, 
+utlämnande av uppgifter på medium för automatiserad behandling 
+och annat elektroniskt utlämnande.
 
-I 6 kap. 2 § och 7 kap. 3 § finns ytterligare bestämmelser om 
-vilken information som ska lämnas i vissa fall. 
-Lag (2018:447).
+I 7 kap. 3 § och i 2 kap. 2 § lagen (2022:913) om sammanhållen 
+vård- och omsorgsdokumentation finns ytterligare bestämmelser 
+om vilken information som ska lämnas i vissa fall.
+Lag (2022:915).
 
-Andra rättigheter enligt denna lag
+Andra rättigheter
 
-7 § I denna lag finns föreskrifter om andra rättigheter för den
-enskilde i 3 kap. 8 §, 4 kap. 4 §, 6 kap. 2 § samt 7 kap. 2 och
-3 §§.
+7 § I denna lag finns föreskrifter om andra rättigheter för 
+den enskilde i 3 kap. 8 § och 4 kap. 4 § samt 7 kap. 2 och 
+3 §§. Sådana föreskrifter finns även i 2 kap. 3 § första 
+stycket lagen (2022:913) om sammanhållen vård- och 
+omsorgsdokumentation. Lag (2022:915).
 
 9 kap. Omhändertagande och återlämnande av patientjournal
 
