@@ -1092,35 +1092,35 @@ Den för landet genomsnittliga standardkostnaden i kronor per
 invånare före uppräkning till utjämningsårets kostnadsnivå för 
 var och en av följande verksamheter är:
 
-Förskola 	                6 862
+Förskola 	                6 994
 
-Pedagogisk omsorg	        102
+Pedagogisk omsorg	        93
 
-Fritidshem	                1 540
+Fritidshem	                1 568
 
-Förskoleklass	                745
+Förskoleklass	                742
 
-Grundskola	                11 368
+Grundskola	                11 774
 
-Gymnasieskola	                4 146
+Gymnasieskola	                4 254
 
-Individ- och familjeomsorg	4 676
+Individ- och familjeomsorg	4 816
 
 Vuxenutbildning på 
-grundläggande nivå	        141
+grundläggande nivå	        136
 
 Vuxenutbildning på gymnasial 
-nivå	                        262
+nivå	                        261
 
-Svenska för invandrare	        268
+Svenska för invandrare	        276
 
-Äldreomsorg		        10 984
+Äldreomsorg		        11 342
 
-Hälso- och sjukvård	        23 927
+Hälso- och sjukvård	        25 135
 
-Kollektivtrafik	                2 858
+Kollektivtrafik	                2 804
 
-Beloppen avser år 2020.
+Beloppen avser år 2021.
 
 Uppräkning med prisindex
 
@@ -1128,7 +1128,8 @@ Uppräkning till utjämningsårets prisnivå sker med hjälp av
 utvecklingen av konsumentprisindex med fast ränta. Som 
 genomsnittlig procentuell förändring i konsumentprisindex med 
 fast ränta för respektive år används följande: 2017 (2,0), 
-2018 (2,1), 2019 (1,7), 2020 (0,5), 2021 (1,8) och 2022 (1,5).
+2018 (2,1), 2019 (1,7), 2020 (0,5), 2021 (2,4), 2022 (7,9) och 
+2023 (5,2).
 
 Följande verksamheters och kostnadsslags standardkostnad 
 räknas upp till utjämningsårets prisnivå med hjälp av 
@@ -1207,7 +1208,7 @@ Statistik över antal lärare och elever hämtas från Statens
 skolverk.
 
 Lönekostnadspålägget i beräkningen av genomsnittlig kostnad är 
-40,15 procent. 
+40,15 procent.
 
 Glesbygds- respektive löneindex för förskoleklass och 
 grundskola 
@@ -1224,7 +1225,7 @@ Gymnasieskola
 Glesbygdsindex för gymnasieskola
 
 Glesbygdsindex för gymnasieskola anges under rubriken Fasta 
-index för kommuner.
+index för kommuner. 
 
 Programvalsfaktor för gymnasieskola
 
@@ -1232,33 +1233,34 @@ Programvalsfaktorn för respektive kommun beräknas genom att
 produkten av antalet folkbokförda elever per hemkommun och 
 program och landets genomsnittskostnad per program summeras 
 med produkten av antalet ungdomar i åldern 16-18 år i kommunen 
-som inte är inskrivna i gymnasieskolan och genomsnitts-
-kostnaden för nationella gymnasieprogram och introduktions-
-program. Denna summa ska sedan minskas med ett relationstal. 
+som inte är inskrivna i gymnasieskolan och 
+genomsnittskostnaden för nationella gymnasieprogram och 
+introduktionsprogram. Denna summa ska sedan minskas med ett 
+relationstal. 
 
 Relationstalet ska beräknas genom att antalet ungdomar i 
 åldern 16-18 år i kommunen multipliceras med gymnasiets 
 genomsnittskostnad i landet per ungdom i åldersgruppen. 
 Därefter divideras denna produkt med antalet invånare i 
-kommunen. 
+kommunen.
 
 Uppgifter om kostnader för de nationella gymnasieprogrammen 
 hämtas från Statens skolverks statistik. Kostnaden för 
 introduktionsprogrammen uppgår till 111 523 kronor i 2016 års 
-prisnivå och ska räknas upp med den genomsnittliga kostnads-
-utvecklingen för de nationella programmen (riksprislistan) 
-till motsvarande år.
+prisnivå och ska räknas upp med den genomsnittliga 
+kostnadsutvecklingen för de nationella programmen 
+(riksprislistan) till motsvarande år.
 
 Lönekostnadsandel gymnasieskola
 
-Lönekostnadsandelen i gymnasieskola är 0,678.
+Lönekostnadsandelen i gymnasieskola är 0,678. 
 
 Individ- och familjeomsorg
 
 Beräkning av det modellberäknade värdet
 
 Det modellberäknade värdet för individ- och familjeomsorg 
-beräknas genom att summera 
+beräknas genom att summera
 
 1. 488,71,
 
@@ -1271,20 +1273,21 @@ bistånd,
 födda i Sverige i åldern 20-40 år i kommunen,
 
 4. 2,60 multiplicerat med roten ur tätortsbefolkningen i 
-kommunen, 
+kommunen,
 
 5. 2 797,15 multiplicerat med andelen av befolkningen i 
 kommunen boende i flerfamiljshus byggda 1965-1975,
 
 6. 17,29 multiplicerat med ohälsotalet i kommunen,
 
-7. - 495,53 multiplicerat med en variabel för justering av en 
+7. -495,53 multiplicerat med en variabel för justering av en 
 inkomsteffekt av gränspendling i kommunen.
 
 Med låg inkomststandard avses den definition som används av 
 Statistiska centralbyrån, där hushållets disponibla inkomst 
-sätts i relation till hushållets baskonsumtion. Uppgiften 
-avser tre år före utjämningsåret.
+sätts i relation till hushållets baskonsumtion, med 
+justeringen att inkomster från andra länder exkluderas. 
+Uppgiften avser tre år före utjämningsåret.
 
 Med andel lågutbildade personer avses personer som har 
 grundskola som högsta avslutade utbildningsnivå.
@@ -1293,17 +1296,17 @@ Med ohälsotal avses genomsnittligt antal dagar med sjukpenning
 eller sjukersättning i åldersgruppen 16-64 år i kommunen. 
 Uppgifter om ohälsotal hämtas från Försäkringskassan.
 
-Variabeln roten ur tätortsbefolkningen i kommunen avser år 
-2015 och uppdateras vart femte år.
+Variabeln roten ur tätortsbefolkningen i kommunen avser 
+år 2015 och uppdateras vart femte år.
 
 Variabeln för justering av en inkomsteffekt av gränspendling 
 definieras som produkten av andelen av befolkningen i åldern 
-16-74 som gränspendlar till Norge eller Danmark multiplicerad 
-med andelen barn och ungdomar i åldern 0-19 år som lever i 
-hushåll med låg inkomststandard. Uppgifterna som avser andelen 
-i befolkningen som gränspendlar till Danmark är från 2015 och 
-motsvarande uppgifter avseende Norge är från 2014 och dessa 
-uppgifter uppdateras inte.
+16-74 år som gränspendlar till Norge eller Danmark 
+multiplicerad med andelen barn och ungdomar i åldern 0-19 år 
+som lever i hushåll med låg inkomststandard. Uppgifterna som 
+avser andelen i befolkningen som gränspendlar till Danmark är 
+från 2015 och motsvarande uppgifter avseende Norge är från 
+2014 och dessa uppgifter uppdateras inte.
 
 Beräkning av korrigeringsfaktorn
 
@@ -1315,7 +1318,7 @@ befolkningen i kommunen, därefter summeras produkterna för
 samtliga kommuner. Summan divideras därefter med befolkningen 
 i landet den 31 december två år före utjämningsåret. Den 
 genomsnittliga standardkostnaden för individ- och 
-familjeomsorg divideras därefter med denna kvot. 
+familjeomsorg divideras därefter med denna kvot.
 
 Lönekostnadsandel individ- och familjeomsorg
 
@@ -1752,4 +1755,4 @@ Västerbotten	4 574,97
 Norrbotten	4 160,17
 
 Fasta index för kommuner /inte med här - se SFS 2019:797/
-Förordning (2021:1087).
+Förordning (2022:1476).
