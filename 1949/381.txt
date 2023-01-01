@@ -1691,30 +1691,7 @@ sätt. Lag (2018:1288).
 bifallas för längre tid tillbaka än tre år före den dag då talan
 väcktes, om inte den bidragsskyldige medger det. Lag (1978:853).
 
-9 § /Upphör att gälla U:2022-08-01/
-Rätten att kräva ut fastställt underhållsbidrag går förlorad fem
-år efter den ursprungligen gällande förfallodagen, om inte annat
-följer av andra eller tredje stycket.
-
-Har utmätning för underhållsbidraget skett före den tidpunkt som
-anges i första stycket eller har den bidragsskyldige blivit försatt i
-konkurs på grund av ansökan som har gjorts före denna tidpunkt, får
-betalning för fordringen tas ut ur den utmätta egendomen eller
-erhållas i konkursen även därefter.
-
-Har före den tidpunkt som anges i första stycket ansökan gjorts om
-företagsrekonstruktion enligt lagen (1996:764) om
-företagsrekonstruktion, får underhållsbidraget krävas ut inom tre
-månader från det att beslut om företagsrekonstruktionens upphörande
-meddelades. Kommer ackord till stånd, får fordringen krävas ut inom
-tre månader från det att ackordet skulle ha fullgjorts. Har utmätning
-skett för underhållsbidraget eller konkursansökan gjorts inom tid som
-nu har angetts, gäller vad som föreskrivs i andra stycket.
-
-Avtal i strid mot denna paragraf är ogiltigt. Lag (1996:766).
-
-9 § /Träder i kraft I:2022-08-01/
-Rätten att kräva ut fastställt underhållsbidrag går 
+9 § Rätten att kräva ut fastställt underhållsbidrag går 
 förlorad fem år efter den ursprungligen gällande 
 förfallodagen, om inte annat följer av andra eller tredje 
 stycket.
@@ -1864,12 +1841,21 @@ Lag (2005:434).
 
 9 kap. Om underårigs omyndighet
 
-1 § Den som är under arton år (underårig) är omyndig och får inte
-själv råda över sin egendom eller åta sig förbindelser i vidare mån
-än som följer av vad som skall gälla på grund av lag eller villkor
-vid förvärv genom gåva, testamente eller förmånstagarförordnande vid
-försäkring eller pensionssparande enligt lagen (1993:931) om
-individuellt pensionssparande. Lag (1994:1433).
+1 § Den som är under arton år (underårig) är omyndig och får 
+inte själv råda över sin egendom eller åta sig förbindelser i 
+vidare mån än som följer av vad som ska gälla på grund av lag 
+eller villkor vid förvärv genom gåva, testamente eller 
+förmånstagarförordnande vid 
+
+- försäkring,
+
+- pensionssparande enligt lagen (1993:931) om individuellt 
+pensionssparande, eller
+
+- sparande i en sådan PEPP-produkt som avses i 
+Europaparlamentets och rådets förordning (EU) 2019/1238 av den 
+20 juni 2019 om en paneuropeisk privat pensionsprodukt (PEPP-
+produkt). Lag (2022:1747).
 
 2 § Om rätt för underårig att själv taga tjänst eller annat arbete
 stadgas i 6 kap. Lag (1974:236).
@@ -1895,7 +1881,6 @@ Post- och Inrikes Tidningar och ortstidning. Lag (1977:658).
 förvärvat efter det han fyllt sexton år. Detsamma gäller avkastningen
 av sådan egendom och vad som trätt i egendomens ställe.
 
-
 Förmyndaren må med överförmyndarens samtycke omhändertaga egendom,
 varom i första stycket sägs, såvitt det må anses erforderligt med
 hänsyn till myndlingens uppfostran eller välfärd. Innan samtycke
@@ -1904,15 +1889,18 @@ sig.
 
 3 a § har upphävts genom lag (1974:236).
 
-4 § Om en underårig har fått egendom genom gåva, testamente eller
-förmånstagarförordnande vid försäkring eller pensionssparande enligt
-lagen (1993:931) om individuellt pensionssparande under villkor att
-den underårige själv skall få råda över egendomen, skall 3 § andra
-stycket tillämpas också beträffande sådan egendom. Överförmyndarens
-samtycke krävs dock bara om den underårige har fyllt sexton år. Innan
-samtycke lämnas skall överförmyndaren ge fångesmannen eller hans
-arvingar tillfälle att yttra sig, om det kan ske utan påtagligt
-besvär eller större tidsförlust. Lag (1994:1433).
+4 § Om en underårig har fått egendom genom gåva, testamente 
+eller förmånstagarförordnande vid försäkring, pensionssparande 
+enligt lagen (1993:931) om individuellt pensionssparande eller 
+sparande i en sådan PEPP-produkt som avses i 
+Europaparlamentets och rådets förordning (EU) 2019/1238, under 
+villkor att den underårige själv ska få råda över egendomen, 
+ska 3 § andra stycket tillämpas också beträffande sådan 
+egendom. Överförmyndarens samtycke krävs dock bara om den 
+underårige har fyllt sexton år. Innan samtycke lämnas ska 
+överförmyndaren ge fångesmannen eller hans eller hennes 
+arvingar tillfälle att yttra sig, om det kan ske utan 
+påtagligt besvär eller större tidsförlust. Lag (2022:1747).
 
 5 § En underårig som driver rörelse med samtycke enligt 13 kap. 13 §
 eller 14 kap. 14 § andra stycket, får ingå sådana rättshandlingar som
@@ -2218,24 +2206,28 @@ förvaltare i något annat fall skall förordnas på grund av ett beslut
 enligt första stycket, skall förordnandet meddelas av
 överförmyndaren. Lag (1994:1433).
 
-8 § Trots ett förvaltarförordnande enligt 7 § har den som avses med
-förordnandet rätt att själv
+8 § Trots ett förvaltarförordnande enligt 7 § har den som 
+avses med förordnandet rätt att själv
 
 1. sluta avtal om tjänst eller annat arbete,
 
-2. förfoga över vad han eller hon genom eget arbete har förvärvat
-efter det att förvaltare har förordnats, liksom avkastningen av sådan
-egendom och vad som har trätt i egendomens ställe samt
+2. förfoga över vad han eller hon genom eget arbete har 
+förvärvat efter det att förvaltare har förordnats, liksom 
+avkastningen av sådan egendom och vad som har trätt i 
+egendomens ställe samt
 
-3. förfoga över vad han eller hon efter det att förvaltare har
-förordnats får genom gåva, testamente eller förmånstagarförordnande
-vid försäkring eller pensionssparande enligt lagen (1993:931) om
-individuellt pensionssparande under villkor att egendomen inte skall
-omfattas av förvaltarens rådighet.
+3. förfoga över vad han eller hon efter det att förvaltare har 
+förordnats får genom gåva, testamente eller 
+förmånstagarförordnande vid försäkring, pensionssparande 
+enligt lagen (1993:931) om individuellt pensionssparande eller 
+sparande i en sådan PEPP-produkt som avses i 
+Europaparlamentets och rådets förordning (EU) 2019/1238 under 
+villkor att egendomen inte ska omfattas av förvaltarens 
+rådighet.
 
-Om det finns särskilda skäl för det, får dock rätten föreskriva att
-förvaltaruppdraget skall omfatta även förhållanden som avses i första
-stycket. Lag (1994:1433).
+Om det finns särskilda skäl för det, får dock rätten 
+föreskriva att förvaltaruppdraget ska omfatta även 
+förhållanden som avses i första stycket. Lag (2022:1747).
 
 9 § Förvaltaren har inom ramen för förvaltaruppdraget ensam rådighet
 över den enskildes egendom och företräder denne i alla angelägenheter
@@ -2503,21 +2495,24 @@ förvaltares verksamhet
 
 Förmyndares skyldigheter
 
-1 § Förmyndare skall förvalta omyndigas tillgångar och företräda dem
-i angelägenheter som rör tillgångarna.
+1 § Förmyndare ska förvalta omyndigas tillgångar och företräda 
+dem i angelägenheter som rör tillgångarna.
 
-Detta gäller inte i fråga om tillgångar som omyndiga enligt lag
-själva råder över eller som de har förvärvat genom gåva, testamente
-eller förmånstagarförordnande vid försäkring eller pensionssparande
-enligt lagen (1993:931) om individuellt pensionssparande med villkor
-att egendomen skall stå under förvaltning av någon annan än
-förmyndaren, utan bestämmanderätt för förmyndaren, och med angivande
-av vem som skall utöva förvaltningen (särskild förvaltning). Är
-särskild förvaltning anordnad, skall den som utövar förvaltningen
-årligen lämna redovisning över förvaltningen till förmyndaren.
+Detta gäller inte i fråga om tillgångar som omyndiga enligt 
+lag själva råder över eller som de har förvärvat genom gåva, 
+testamente eller förmånstagarförordnande vid försäkring, 
+pensionssparande enligt lagen (1993:931) om individuellt 
+pensionssparande eller sparande i en sådan PEPP-produkt som 
+avses i Europaparlamentets och rådets förordning (EU) 
+2019/1238 med villkor att egendomen ska stå under förvaltning 
+av någon annan än förmyndaren, utan bestämmanderätt för 
+förmyndaren, och med angivande av vem som ska utöva 
+förvaltningen (särskild förvaltning). Är särskild förvaltning 
+anordnad, ska den som utövar förvaltningen årligen lämna 
+redovisning över förvaltningen till förmyndaren.
 
-Förmyndaren företräder i övrigt den omyndige när detta inte enligt
-lag skall göras av någon annan. Lag (1994:1433).
+Förmyndaren företräder i övrigt den omyndige när detta inte 
+enligt lag ska göras av någon annan. Lag (2022:1747).
 
 Gode mäns och förvaltares skyldigheter
 
@@ -2736,30 +2731,36 @@ gäller bestämmelserna i 15 kap. Lag (1994:1433).
 
 Kontroll av förvaltningen av viss egendom
 
-2 § När värdet på en omyndigs tillgångar, som ska förvaltas
-av föräldrarna, genom arv, gåva, värdestegring eller på
-något annat sätt har kommit att överstiga åtta gånger
-gällande prisbasbelopp enligt 2 kap. 6 och 7 §§
-socialförsäkringsbalken, tillämpas bestämmelserna i 3–7 §§
-för förvaltningen.
+2 § När värdet på en omyndigs tillgångar, som ska förvaltas av 
+föräldrarna, genom arv, gåva, värdestegring eller på något 
+annat sätt har kommit att överstiga åtta gånger gällande 
+prisbasbelopp enligt 2 kap. 6 och 7 §§ 
+socialförsäkringsbalken, tillämpas bestämmelserna i 3-7 §§ för 
+förvaltningen. 
 
-Dessa bestämmelser gäller även egendom som, under villkor
-om att förvaltningen av den ska stå under överförmyndarens
-kontroll (särskild överförmyndarkontroll), har tillfallit
-den omyndige
+Dessa bestämmelser gäller även egendom som, under villkor om 
+att förvaltningen av den ska stå under överförmyndarens 
+kontroll (särskild överförmyndarkontroll), har tillfallit den 
+omyndige
 
 1. genom arv eller testamente,
 
-2. genom gåva, under förutsättning att givaren skriftligen
-har anmält gåvan till överförmyndaren, eller
+2. genom gåva, under förutsättning att givaren skriftligen har 
+anmält gåvan till överförmyndaren, eller
 
-3. genom förmånstagarförordnande vid försäkring med
-anledning av dödsfall eller vid pensionssparande enligt
-lagen (1993:931) om individuellt pensionssparande.
+3. genom förmånstagarförordnande vid
 
-Med egendom som anges i andra stycket jämställs egendom som
-har trätt i stället för sådan egendom samt avkastning av
-egendomen. Lag (2010:1203).
+- försäkring med anledning av dödsfall, 
+
+- pensionssparande enligt lagen (1993:931) om individuellt 
+pensionssparande, eller
+
+- sparande i en sådan PEPP-produkt som avses i 
+Europaparlamentets och rådets förordning (EU) 2019/1238.
+
+Med egendom som anges i andra stycket jämställs egendom som 
+har trätt i stället för sådan egendom samt avkastning av 
+egendomen. Lag (2022:1747).
 
 3 § Inom en månad efter det att värdet på en omyndigs tillgångar
 överstigit det belopp som anges i 2 § första stycket skall
@@ -3647,55 +3648,58 @@ filial i Sverige. Lag (2020:1027).
 Utbetalning till bank och underrättelse till överförmyndaren i
 vissa fall
 
-11 § När en omyndig på grund av arv eller testamente har fått
-pengar till ett värde överstigande ett prisbasbelopp enligt 2
-kap. 6 och 7 §§ socialförsäkringsbalken eller med villkor om
-särskild överförmyndarkontroll, ska den som ombesörjer
-utbetalningen från dödsboet för den omyndiges räkning sätta
-in medlen hos bank eller kreditmarknadsföretag, med uppgift
-om att medlen inte får tas ut utan överförmyndarens
-tillstånd.
+11 § När en omyndig på grund av arv eller testamente har fått 
+pengar till ett värde som överstiger ett prisbasbelopp enligt 
+2 kap. 6 och 7 §§ socialförsäkringsbalken eller med villkor om 
+särskild överförmyndarkontroll, ska den som ombesörjer 
+utbetalningen från dödsboet för den omyndiges räkning sätta in 
+medlen hos bank eller kreditmarknadsföretag, med uppgift om 
+att medlen inte får tas ut utan överförmyndarens tillstånd.
 
-Vad som nu sagts om skyldighet att betala till bank eller
+Vad som nu sagts om skyldighet att betala till bank eller 
 kreditmarknadsföretag ska även gälla
 
-1. försäkringsgivare vid utbetalning av försäkringsbelopp som
+1. försäkringsgivare vid utbetalning av försäkringsbelopp som 
 den omyndige har rätt till,
 
-2. pensionssparinstitut vid utbetalning enligt lagen
+2. pensionssparinstitut vid utbetalning enligt lagen 
 (1993:931) om individuellt pensionssparande,
 
-3. Brottsoffermyndigheten vid utbetalning av ersättning
-enligt brottsskadelagen (2014:322),
+3. PEPP-sparinstitut vid utbetalning från sparande i en sådan 
+PEPP-produkt som avses i Europaparlamentets och rådets 
+förordning (EU) 2019/1238, 
 
-4. huvudman vid utbetalning av skadestånd enligt 6 kap. 12 §
+4. Brottsoffermyndigheten vid utbetalning av ersättning enligt 
+brottsskadelagen (2014:322),
+
+5. huvudman vid utbetalning av skadestånd enligt 6 kap. 12 § 
 skollagen (2010:800), och
 
-5. myndighet som betalar ut ersättning med anledning av
+6. myndighet som betalar ut ersättning med anledning av 
 skadeståndsanspråk mot staten.
 
-Om betalningen avser en periodisk förmån, gäller skyldigheten
-att betala till bank eller kreditmarknadsföretag endast när
+Om betalningen avser en periodisk förmån, gäller skyldigheten 
+att betala till bank eller kreditmarknadsföretag endast när 
 den första utbetalningen görs.
 
-När utbetalning enligt första eller andra stycket görs, ska
-den som ombesörjer utbetalningen genast göra anmälan till
-förmyndaren och överförmyndaren. En sådan anmälan ska också
-göras om en omyndig på grund av arv eller testamente har fått
-värdehandlingar till ett värde som överstiger i första
-stycket nämnt belopp eller med villkor om att
-värdehandlingarna ska stå under särskild
+När utbetalning enligt första eller andra stycket görs, ska 
+den som ombesörjer utbetalningen genast göra anmälan till 
+förmyndaren och överförmyndaren. En sådan anmälan ska också 
+göras om en omyndig på grund av arv eller testamente har fått 
+värdehandlingar till ett värde som överstiger det belopp som 
+anges i första stycket eller med villkor om att 
+värdehandlingarna ska stå under särskild 
 överförmyndarkontroll.
 
-Bestämmelserna i första–fjärde styckena gäller inte vid
-utbetalning av medel som den omyndige får förvalta själv.
-Andra–fjärde styckena gäller inte heller om utbetalning görs
+Bestämmelserna i första-fjärde styckena gäller inte vid 
+utbetalning av medel som den omyndige får förvalta själv. 
+Andra-fjärde styckena gäller inte heller om utbetalning görs 
 från försäkring som har tagits inom ramen för en rörelse.
 
-Bestämmelserna i denna paragraf gäller också vid betalning
-eller utgivande av värdehandlingar till någon för vilken det
-har förordnats god man med uppgift att förvalta egendom eller
-för vilken det har förordnats förvaltare. Lag (2014:323).
+Bestämmelserna i denna paragraf gäller också vid betalning 
+eller utgivande av värdehandlingar till någon för vilken det 
+har förordnats god man med uppgift att förvalta egendom eller 
+för vilken det har förordnats förvaltare. Lag (2022:1747).
 
 Överförmyndarens handläggning
 
@@ -4222,24 +4226,7 @@ Lag (2006:458).
 
 Överflyttning av barn i andra fall
 
-7 § /Upphör att gälla U:2022-08-01/
-Även om en dom eller ett beslut som avses i 1 § inte finns,
-kan barnets vårdnadshavare, när barnet vistas hos någon annan,
-begära att rätten beslutar om åtgärd för att barnet skall
-överflyttas till vårdnadshavaren.
-
-Rätten kan vägra att vidta den begärda åtgärden, om det av
-hänsyn till barnets bästa behövs en prövning av frågan om
-vårdnaden.
-
-En åtgärd enligt första stycket får inte beslutas, om ett
-flyttningsförbud enligt lagen (1990:52) med särskilda
-bestämmelser om vård av unga gäller i fråga om barnet.
-
-I övrigt gäller 1-6 §§. Lag (2006:458).
-
-7 § /Träder i kraft I:2022-08-01/
-Även om en dom eller ett beslut som avses i 1 a § första 
+7 § Även om en dom eller ett beslut som avses i 1 a § första 
 stycket inte finns, kan barnets vårdnadshavare, när barnet 
 vistas hos någon annan, begära att rätten beslutar om en 
 åtgärd för att barnet ska flyttas över till vårdnadshavaren. 
