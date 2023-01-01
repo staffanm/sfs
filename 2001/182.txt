@@ -2,7 +2,8 @@
 
 Lagens tillämpningsområde
 
-1 § Denna lag tillämpas vid behandling av personuppgifter i
+1 § /Upphör att gälla U:2023-09-01/
+Denna lag tillämpas vid behandling av personuppgifter i
 Skatteverkets folkbokföringsverksamhet, om behandlingen
 är helt eller delvis automatiserad eller om uppgifterna ingår i
 eller är avsedda att ingå i en strukturerad samling av
@@ -11,6 +12,21 @@ sammanställning enligt särskilda kriterier.
 
 Bestämmelserna i 4 och 5 §§ samt 2 kap. gäller även vid
 behandling av uppgifter om avlidna. Lag (2003:671).
+
+1 § /Träder i kraft I:2023-09-01/
+Denna lag tillämpas vid behandling av personuppgifter i 
+Skatteverkets folkbokföringsverksamhet, om behandlingen är 
+helt eller delvis automatiserad eller om uppgifterna ingår i 
+eller är avsedda att ingå i en strukturerad samling av 
+personuppgifter som är tillgängliga för sökning eller 
+sammanställning enligt särskilda kriterier.
+
+Lagen gäller också vid behandling av personuppgifter i 
+passmyndigheternas verksamhet som rör identitetskontroller 
+enligt lagen (2022:1697) om samordningsnummer.
+
+Bestämmelserna i 4 och 5 §§ samt 2 kap. gäller även vid 
+behandling av uppgifter om avlidna. Lag (2022:1700).
 
 Förhållandet till annan reglering
 
@@ -62,8 +78,15 @@ uppgifterna samlades in. Lag (2018:229).
 
 Personuppgiftsansvar
 
-5 § Skatteverket är personuppgiftsansvarigt för den behandling
+5 § /Upphör att gälla U:2023-09-01/
+Skatteverket är personuppgiftsansvarigt för den behandling
 av personuppgifter som verket skall utföra. Lag (2003:671).
+
+5 § /Träder i kraft I:2023-09-01/
+Skatteverket och varje passmyndighet är 
+personuppgiftsansvarig för den behandling av personuppgifter 
+som respektive myndighet utför enligt denna lag.
+Lag (2022:1700).
 
 Behandling av känsliga personuppgifter m.m.
 
@@ -81,9 +104,10 @@ Lag (2018:229).
 
 7 § /Träder i kraft I:2023-09-01/
 När en kontroll enligt 26 b och 26 c §§ 
-folkbokföringslagen (1991:481) har genomförts, ska 
+folkbokföringslagen (1991:481) eller enligt 2 kap. 3 och 4 §§ 
+lagen (2022:1697) om samordningsnummer har genomförts, ska 
 fingeravtryck och ansiktsbilder samt de biometriska uppgifter 
-som har tagits fram omedelbart förstöras. Lag (2022:1281).
+som har tagits fram omedelbart förstöras. Lag (2022:1701).
 
 2 kap. Folkbokföringsdatabasen
 
@@ -94,7 +118,8 @@ används gemensamt i verksamheten för de i 1 kap. 4 § angivna
 
 Innehåll
 
-2 § I databasen får uppgifter behandlas om
+2 § /Upphör att gälla U:2023-09-01/
+I databasen får uppgifter behandlas om
 
 1. personer som är eller har varit folkbokförda här i landet,
 
@@ -105,6 +130,13 @@ folkbokföringslagen (1991:481), och
 
 Uppgifter om andra personer får behandlas om det behövs för
 handläggningen av ett ärende. Lag (2009:274).
+
+2 § /Träder i kraft I:2023-09-01/
+I databasen får uppgifter behandlas om personer som har 
+tilldelats personnummer eller samordningsnummer.
+
+Uppgifter om andra personer får behandlas om det behövs för 
+handläggningen av ett ärende. Lag (2022:1700).
 
 3 § /Upphör att gälla U:2023-09-01/
 För de ändamål som anges i 1 kap. 4 § får följande 
@@ -216,14 +248,15 @@ nordiskt land,
 17. uppehållsrätt för en person som är folkbokförd,
 
 18. tidpunkt för när vilandeförklaring kan komma att ske 
-enligt 18 d § 1 folkbokföringslagen,
+enligt 3 kap. 2 § 1 lagen (2022:1697) om samordningsnummer, 
 
-19. vilandeförklaring av ett samordningsnummer med angivande 
-av om förklaringen skett på grund av 18 d § 1 eller 2 
-folkbokföringslagen,
+19. vilandeförklaring enligt 3 kap. 2 § lagen om 
+samordningsnummer med angivande av om förklaringen skett med 
+stöd av punkt 1 eller 2 i den paragrafen, 
 
-20. tidpunkt för när en person med samordningsnummer har 
-avlidit, och
+20. tidpunkt för när en person med samordningsnummer eller en 
+person med personnummer som inte är eller har varit 
+folkbokförd har avlidit, och
 
 21. fingeravtryck, ansiktsbilder och biometriska uppgifter som 
 tas fram ur dessa.
@@ -237,9 +270,9 @@ som avses i 16 § i den upphävda folkbokföringskungörelsen
 I ärenden om tilldelning av personnummer enligt 18 b § 
 folkbokföringslagen eller samordningsnummer får även anges 
 grunden för tilldelningen och de handlingar som har legat till 
-grund för identifiering. I ärenden om tilldelning av 
-samordningsnummer får även anges uppgift om att det råder 
-osäkerhet om personens identitet. Lag (2022:1281).
+grund för identifiering. I ärenden om tilldelning eller 
+förnyelse av samordningsnummer får även anges om den enskildes 
+identitet är styrkt, sannolik eller osäker. Lag (2022:1701).
 
 4 § I databasen får uppgifter behandlas om yrkanden, grunder
 och beslut i ett ärende samt andra uppgifter som behövs för
@@ -348,7 +381,8 @@ meddelats i anslutning till lagen. Lag (2018:229).
 (1990:1536) om folkbokföringsregister och lagen (1995:743) om
 aviseringsregister skall upphöra att gälla.
 
-2. Punkt 2 av övergångsbestämmelserna till lagen (1997:997) om
+2. /Upphör att gälla U:2023-09-01 genom lag (2022:1700)./
+Punkt 2 av övergångsbestämmelserna till lagen (1997:997) om
 ändring i lagen (1990:1536) om folkbokföringsregister gäller
 fortfarande i fråga om personnummer som har tilldelats en
 person utan samband med folkbokföring.
@@ -403,3 +437,19 @@ ikraftträdandet.
 
 2. Äldre föreskrifter om straff gäller fortfarande för 
 överträdelser som har skett före ikraftträdandet.
+
+2022:1281
+
+1. Denna lag träder i kraft den 1 september 2023. 
+Lag (2022:1701).
+
+2. För samordningsnummer som tilldelats efter egen ansökan 
+före ikraftträdandet får, om samordningsnumret inte är 
+förklarat vilande, uppgift registreras om att identiteten är 
+styrkt. Lag (2022:1701).
+
+3. För samordningsnummer som tilldelats i andra fall före 
+ikraftträdandet och där det inte råder osäkerhet om personens 
+identitet får, om samordningsnumret inte är förklarat vilande, 
+uppgift registreras om att identiteten är sannolik. 
+Lag (2022:1701).

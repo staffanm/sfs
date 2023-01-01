@@ -47,30 +47,31 @@ Registerinnehåll
 varit folkbokförda i landet och personer som har tilldelats 
 personnummer enligt 18 b § folkbokföringslagen (1991:481). 
 SPAR får även innehålla uppgifter om personer som har 
-tilldelats samordningsnummer, om det inte råder osäkerhet om 
-personernas identitet. Följande uppgifter får anges:
+tilldelats samordningsnummer och som har styrkt sin identitet 
+eller gjort identiteten sannolik. Följande uppgifter får 
+anges:
 
 1. namn,
 
-2. person- eller samordningsnummer, 
+2. person- eller samordningsnummer,
 
-3. födelsetid, 
+3. födelsetid,
 
-4. adress, 
+4. adress,
 
-5. folkbokföringsort och distrikt, 
+5. folkbokföringsort och distrikt,
 
-6. födelsehemort, 
+6. födelsehemort,
 
-7. svenskt medborgarskap, 
+7. svenskt medborgarskap,
 
-8. make eller vårdnadshavare, 
+8. make eller vårdnadshavare,
 
-9. avregistrering från folkbokföringen enligt 19-22 §§ 
-folkbokföringslagen, med angivande av tidpunkt,
+9. avregistrering enligt 19-22 §§ folkbokföringslagen, med 
+angivande av tidpunkt,
 
 10. summan av fastställd förvärvsinkomst och inkomst av 
-kapital, dock lägst noll kronor, 
+kapital, dock lägst noll kronor,
 
 11. ägare av småhusenhet eller lantbruksenhet med småhus på 
 tomtmark samt uppgift om kommun (belägenhet),
@@ -78,27 +79,32 @@ tomtmark samt uppgift om kommun (belägenhet),
 12. taxeringsvärde för småhusenhet,
 
 13. tidpunkt för när ett samordningsnummer har tilldelats och 
-när vilandeförklaring kan komma att ske enligt 18 d § 1 
-folkbokföringslagen,
+när vilandeförklaring kan komma att ske enligt 3 kap. 2 § 1 
+lagen (2022:1697) om samordningsnummer, 
 
 14. tidpunkt för vilandeförklaring av ett samordningsnummer 
-med angivande av om förklaringen skett på grund av 18 d § 1 
-eller 2 folkbokföringslagen, och
+enligt 3 kap. 2 § lagen om samordningsnummer med angivande av 
+om förklaringen skett med stöd av punkt 1 eller 2 i den 
+paragrafen,
 
-15. tidpunkt för när en person med samordningsnummer har 
-avlidit.
+15. tidpunkt för när en person med samordningsnummer eller en 
+person med personnummer som inte är eller har varit 
+folkbokförd har avlidit, och
+
+16. om den enskildes identitet vid tilldelning eller förnyelse 
+av samordningsnummer har styrkts eller gjorts sannolik.
 
 På begäran av en registrerad ska det i SPAR också anges att 
 uppgifter om denne inte får behandlas vid urvalsdragningar 
-enligt 3 § 2 för direktreklam. Lag (2021:376).
+enligt 3 § 2 för direktreklam. Lag (2022:1699).
 
-5 § Uppgifter som avses i 4 § första stycket 1-9 och 13-15 
+5 § Uppgifter som avses i 4 § första stycket 1-9 och 13-16 
 hämtas från folkbokföringsdatabasen enligt lagen (2001:182) om 
 behandling av personuppgifter i Skatteverkets 
 folkbokföringsverksamhet. Övriga uppgifter som avses i 4 § 
 första stycket hämtas från beskattningsdatabasen enligt lagen 
 (2001:181) om behandling av uppgifter i Skatteverkets 
-beskattningsverksamhet. Lag (2021:376).
+beskattningsverksamhet. Lag (2022:1699).
 
 Utlämnande av uppgifter
 
