@@ -10,7 +10,15 @@ artikel 8.3a i rådets direktiv 2011/16/EU av den 15 februari
 2011 om administrativt samarbete i fråga om beskattning, i 
 lydelsen enligt direktiv 2014/107/EU, tillämpas även lagen 
 (2015:912) om automatiskt utbyte av upplysningar om 
-finansiella konton. Lag (2015:919).
+finansiella konton.
+
+Vid utbyte av upplysningar om inkomster från digitala 
+plattformar enligt artikel 8ac i rådets direktiv 2011/16/EU av 
+den 15 februari 2011 om administrativt samarbete i fråga om 
+beskattning, i lydelsen enligt direktiv (EU) 2021/514, 
+tillämpas lagen (2022:1682) om automatiskt utbyte av 
+upplysningar om inkomster genom digitala plattformar.
+Lag (2022:1687).
 
 2 § Denna lag gäller för alla typer av skatter som tas ut på
 de territorier där fördraget om Europeiska unionen och
@@ -68,7 +76,7 @@ allmänna hänsyn att lämna.
 
 Definitioner
 
-7 § I denna lag avses med 
+7 § I denna lag avses med
 
 behörig myndighet: den myndighet i en medlemsstat som har 
 utsetts som sådan av medlemsstaten eller ett centralt 
@@ -81,7 +89,7 @@ medlemsstater när det gäller administrativt samarbete,
 
 kontaktorgan: varje annat kontor än det centrala 
 kontaktkontoret som har utsetts som sådant för att direkt 
-utbyta upplysningar enligt denna lag, 
+utbyta upplysningar enligt denna lag,
 
 behörig tjänsteman: varje tjänsteman som har fått behörighet 
 att direkt utbyta upplysningar enligt direktivet, 
@@ -95,8 +103,8 @@ medlemsstaterna genomför för att fullgöra sina skyldigheter
 att sörja för en korrekt tillämpning av skattelagstiftningen, 
 
 utbyte av upplysningar på begäran: utbyte av upplysningar 
-baserat på en begäran som en begärande medlemsstat lämnar 
-till en anmodad medlemsstat avseende ett specifikt fall,
+baserat på en begäran som en begärande medlemsstat lämnar till 
+en anmodad medlemsstat avseende ett specifikt fall,
 
 automatiskt utbyte: systematisk överföring av på förhand 
 bestämda upplysningar, utan föregående begäran, med i förväg 
@@ -108,19 +116,45 @@ föregående begäran,
 
 person:
 
-– fysisk person, 
+- fysisk person, 
 
-– juridisk person, 
+- juridisk person, 
 
-– om gällande lagstiftning medger det, en sammanslutning av 
-personer som har befogenhet att utföra rättshandlingar men 
-som inte har en juridisk persons rättsliga ställning, eller 
+- om gällande lagstiftning medger det, en sammanslutning av 
+personer som har befogenhet att utföra rättshandlingar men som 
+inte har en juridisk persons rättsliga ställning, eller
 
-– varje annan juridisk konstruktion, oavsett slag eller 
-form, och oberoende av om den har status som juridisk person, 
-som äger eller förvaltar tillgångar, inklusive inkomster som 
-härrör därifrån, som omfattas av en skatt som denna lag 
-gäller för. Lag (2016:1229).
+- varje annan juridisk konstruktion, oavsett slag eller form, 
+och oberoende av om den har status som juridisk person, som 
+äger eller förvaltar tillgångar, inklusive inkomster som 
+härrör därifrån, som omfattas av en skatt som denna lag gäller 
+för,
+
+gemensam revision: en administrativ utredning som utförs 
+gemensamt av de behöriga myndigheterna i två eller flera 
+medlemsstater, och som är kopplad till en eller flera personer 
+som är av gemensamt eller kompletterande intresse för de 
+behöriga myndigheterna i de medlemsstaterna,
+
+uppgiftsincident: en säkerhetsöverträdelse som leder till 
+förstöring, förlust eller ändring eller olämplig eller 
+obehörig åtkomst till, utlämning eller användning av 
+uppgifter, inbegripet men inte begränsat till personuppgifter 
+som överförts, lagrats eller på annat sätt behandlats, till 
+följd av avsiktliga olagliga handlingar, försumlighet eller 
+olycka och som kan röra uppgifters konfidentialitet, 
+tillgänglighet och integritet,
+
+på elektronisk väg: med hjälp av elektronisk utrustning för 
+behandling, inbegripet digital signalkomprimering, och lagring 
+av uppgifter via kabel, radio, optisk teknik eller andra 
+elektromagnetiska medel,
+
+CCN-nätet: den gemensamma plattform som bygger på gemensamma 
+kommunikationsnätet (CCN) och som Europeiska unionen har 
+utformat för att säkerställa all överföring på elektronisk väg 
+mellan behöriga myndigheter på området för tull och 
+beskattning. Lag (2022:1687).
 
 7 a § Med förhandsbesked i gränsöverskridande skattefrågor 
 avses avtal, meddelande eller varje annat instrument eller 
@@ -231,78 +265,81 @@ Automatiskt utbyte av upplysningar
 12 § Skatteverket ska till varje annan medlemsstats behöriga 
 myndighet genom automatiskt utbyte överföra upplysningar som 
 verket tagit emot i form av kontrolluppgifter eller 
-motsvarande uppgifter och uppgifter i inkomstdeklarationer 
-och som avser personer hemmahörande i den andra medlemsstaten 
-när det gäller 
+motsvarande uppgifter och uppgifter i inkomstdeklarationer och 
+som avser personer hemmahörande i den andra medlemsstaten när 
+det gäller
 
-1. inkomster från anställning, 
+1. inkomster från anställning,
 
-2. styrelsearvoden, 
+2. styrelsearvoden,
 
-3. livförsäkringsprodukter som inte omfattas av 
+3. livförsäkringsprodukter som inte omfattas av
 
-a) andra unionsrättsakter, om utbyte av upplysningar och 
-andra liknande åtgärder, än rådets direktiv 2011/16/EU, 
-eller
+a) andra unionsrättsakter, om utbyte av upplysningar och andra 
+liknande åtgärder, än rådets direktiv 2011/16/EU, eller
 
 b) lagen (2015:912) om automatiskt utbyte av upplysningar om 
 finansiella konton,
 
-4. pensioner, och 
+4. pensioner,
 
-5. ägande av och inkomster från fastighet.
+5. ägande av och inkomster från fastighet, och
+
+6. royaltyer.
 
 Upplysningarna ska överföras minst en gång om året.
-Lag (2015:919).
+Lag (2022:1687).
 
-12 a § Skatteverket ska till varje annan medlemsstats 
-behöriga myndighet och till Europeiska kommissionen genom 
-automatiskt utbyte lämna upplysningar om förhandsbesked i 
+12 a § Skatteverket ska till varje annan medlemsstats behöriga 
+myndighet och till Europeiska kommissionen genom automatiskt 
+utbyte lämna upplysningar om förhandsbesked i 
 gränsöverskridande skattefrågor och förhandsbesked om 
-prissättning i den omfattning som framgår av 12 b och 
-12 c §§. Detta gäller dock inte förhandsbesked i 
-gränsöverskridande skattefrågor som uteslutande avser och 
-omfattar en eller flera fysiska personers skatteärenden.
+prissättning i den omfattning som framgår av 12 b och 12 c §§. 
+Detta gäller dock inte förhandsbesked i gränsöverskridande 
+skattefrågor som uteslutande avser och omfattar en eller flera 
+fysiska personers skatteärenden.
 
-Upplysningarna ska lämnas inom tre månader efter utgången av 
-det kalenderhalvår då förhandsbeskedet utfärdats, ändrats 
-eller förnyats.
+Upplysningarna ska lämnas snarast men senast inom tre månader 
+efter utgången av det kalenderhalvår då förhandsbeskedet 
+utfärdats, ändrats eller förnyats.
 
 Förhandsbesked enligt lagen (1998:189) om förhandsbesked i 
 skattefrågor ska vid tillämpning av denna lag anses ha 
 utfärdats, ändrats eller förnyats när beskedet fått laga 
-kraft. Lag (2016:1229).
+kraft. Lag (2022:1687).
 
 12 b § De upplysningar som Skatteverket ska lämna enligt 
 12 a § är följande:
 
-1. identiteten på personen, med undantag för fysiska 
-personer, som fått förhandsbeskedet och när det är lämpligt, 
-även identiteten på gruppen av personer som personen 
-tillhör,
+1. identiteten på personen, med undantag för fysiska personer, 
+som fått förhandsbeskedet och när det är lämpligt, även 
+identiteten på gruppen av personer som personen tillhör,
 
-2. en sammanfattning av innehållet i förhandsbeskedet,
+2. en sammanfattning av förhandsbeskedet,
 
 3. datum för utfärdandet, ändringen eller förnyelsen av 
 förhandsbeskedet,
 
-4. i förekommande fall giltighetsperiod för förhandsbeskedet, 
+4. i förekommande fall giltighetsperiod för förhandsbeskedet,
 
 5. typ av förhandsbesked,
 
 6. i förekommande fall transaktionens eller transaktionernas 
-beloppsmässiga omfattning, 
+beloppsmässiga omfattning,
 
 7. andra medlemsstater som sannolikt kommer att beröras av 
 förhandsbeskedet,
 
 8. andra personer, med undantag för fysiska personer, som 
 sannolikt kommer att beröras av förhandsbeskedet i andra 
-medlemsstater, och
+medlemsstater,
 
 9. huruvida uppgifterna som lämnats är hämtade från ett 
 förhandsbesked eller från en ansökan om förhandsbesked om 
-prissättning.
+prissättning, och
+
+10. andra upplysningar som kan hjälpa den behöriga myndigheten 
+vid bedömningen av en potentiell skatterisk.
 
 Om förhandsbeskedet avser prissättning ska upplysningar även 
 lämnas om
@@ -314,7 +351,7 @@ internprissättningen.
 
 Upplysningar enligt första stycket 1, 2 och 8 samt andra 
 stycket 1 ska inte lämnas till Europeiska kommissionen.
-Lag (2016:1229).
+Lag (2022:1687).
 
 12 c § Upplysningar om förhandsbesked om prissättning som 
 grundas på en överenskommelse med ett land utanför Europeiska 
@@ -384,15 +421,10 @@ efter utgången av det kalenderkvartal då uppgifter lämnades
 till Skatteverket enligt 33 b kap. skatteförfarandelagen 
 (2011:1244). Lag (2020:438).
 
-13 § Skatteverket ska överföra upplysningar enligt 12 § till 
-en medlemsstat endast om den staten har meddelat Europeiska 
-kommissionen att den har upplysningar tillgängliga beträffande 
-minst en av de inkomster och tillgångar som avses i 12 §.
-
-Om en behörig myndighet i en annan medlemsstat har meddelat 
-att den inte önskar få vissa upplysningar enligt 12 § första 
-stycket, ska Skatteverket inte överföra sådana upplysningar 
-till den medlemsstaten.
+13 § Om en behörig myndighet i en annan medlemsstat har 
+meddelat att den inte önskar få vissa upplysningar enligt 12 § 
+första stycket, ska Skatteverket inte överföra sådana 
+upplysningar till den medlemsstaten.
 
 Skatteverket ska inte lämna upplysningar enligt 12 b § första 
 stycket 2, 12 c § tredje stycket 2 och enligt 12 d § om 
@@ -401,9 +433,9 @@ skatteförfarandelagen (2011:1244), om utlämnandet
 
 1. kan leda till att en affärshemlighet, företagshemlighet, 
 yrkeshemlighet eller ett i näringsverksamhet använt 
-förfaringssätt röjs, eller 
+förfaringssätt röjs, eller
 
-2. skulle strida mot allmänna hänsyn. Lag (2020:438).
+2. skulle strida mot allmänna hänsyn. Lag (2022:1687).
 
 Utbyte av upplysningar utan föregående begäran
 
@@ -465,11 +497,88 @@ Vissa andra former av administrativt samarbete
 
 Närvaro av tjänsteman från en annan medlemsstat
 
-17 § Efter överenskommelse mellan Skatteverket och den
-begärande myndigheten får tjänstemän som bemyndigats av den
-begärande myndigheten, i enlighet med de villkor som
-Skatteverket bestämmer, närvara vid Skatteverkets kontor och
-vid sådana utredningar som verket utför enligt 9 §.
+17 § Skatteverket får, på begäran av en annan behörig 
+myndighet inom Europeiska unionen, tillåta att tjänstemän som 
+bemyndigats av den myndigheten, i enlighet med de villkor som 
+Skatteverket bestämmer,
+
+1. närvarar vid de kontor där Skatteverket utför sina 
+arbetsuppgifter,
+
+2. närvarar vid de administrativa utredningar som utförs i 
+Sverige, och 
+
+3. deltar, när så är lämpligt, via elektroniska 
+kommunikationsmedel i de administrativa utredningar som utförs 
+av Skatteverket. Lag (2022:1687).
+
+17 a § Skatteverket får begära att tjänstemän som bemyndigats 
+av verket, i enlighet med de villkor som den behöriga 
+myndigheten i den anmodade medlemsstaten bestämmer,
+
+1. närvarar vid de kontor där förvaltningsmyndigheterna i den 
+anmodade medlemsstaten utför sina arbetsuppgifter,
+
+2. närvarar vid de administrativa utredningar som utförs på 
+den anmodade medlemsstatens territorium, och 
+
+3. deltar, när så är lämpligt, via elektroniska 
+kommunikationsmedel i de administrativa utredningar som utförs 
+av den anmodade medlemsstaten. Lag (2022:1687).
+
+17 b § Om tjänstemän vid den begärande myndigheten är 
+närvarande under administrativa utredningar eller deltar i 
+administrativa utredningar via elektroniska 
+kommunikationsmedel, får de ställa frågor till personer och 
+granska handlingar med förbehåll för de förfaranderegler som 
+fastställts av den anmodade medlemsstaten. Lag (2022:1687).
+
+/Rubriken träder i kraft I:2024-01-01/
+Gemensamma revisioner
+
+17 c § /Träder i kraft I:2024-01-01/
+Skatteverket får begära att en behörig myndighet i en 
+eller flera andra medlemsstater ska utföra en gemensam 
+revision i en eller flera medlemsstater tillsammans med 
+Skatteverket. Lag (2022:1687).
+
+17 d § /Träder i kraft I:2024-01-01/
+Om Skatteverket tar emot en begäran om gemensam 
+revision i en eller flera medlemsstater från en behörig 
+myndighet i en eller flera andra medlemsstater, ska 
+Skatteverket besvara begäran inom 60 dagar från mottagandet. 
+Skatteverket får avslå en sådan begäran om det finns skäl för 
+det. Lag (2022:1687).
+
+17 e § /Träder i kraft I:2024-01-01/
+Skatteverket och den eller de övriga behöriga 
+myndigheter som deltar i revisionen ska i förväg komma överens 
+om på vilket sätt revisionen ska genomföras. En aktivitet vid 
+en gemensam revision ska ske i enlighet med lagstiftningen och 
+förfarandekraven i den medlemsstat där aktiviteten äger rum.
+
+Tjänstemän från en annan behörig myndighet som deltar i en 
+revision i Sverige ska ha samma rättigheter och skyldigheter 
+som gäller för Skatteverkets tjänstemän vid en revision som 
+genomförs i Sverige. 
+
+Tjänstemän från Skatteverket som deltar i en revision i en 
+eller flera andra medlemsstater ska följa gällande 
+lagstiftning i den medlemsstat där aktiviteten äger rum. De 
+får dock inte utöva några befogenheter som de inte har enligt 
+svensk lagstiftning. Lag (2022:1687).
+
+17 f § /Träder i kraft I:2024-01-01/
+Om en aktivitet vid den gemensamma revisionen äger rum 
+i Sverige, ska Skatteverket utse en företrädare med ansvar för 
+att övervaka och samordna den gemensamma revisionen i Sverige. 
+Skatteverket ska, i enlighet med bestämmelserna i 17 e §, 
+tillåta att tjänstemän från en behörig myndighet i en annan 
+medlemsstat som deltar i aktiviteter i Sverige i en gemensam 
+revision, i enlighet med de förfaranderegler som fastställts, 
+kan ställa frågor till personer och granska handlingar 
+tillsammans med tjänstemännen från Skatteverket.
+Lag (2022:1687).
 
 Delgivning av handlingar
 
@@ -485,47 +594,61 @@ svårigheter att delge personen i Sverige.
 
 Användning och vidarebefordran av upplysningar m.m.
 
-20 § Upplysningar som Skatteverket tar emot från en myndighet
-i en annan medlemsstat får användas för beskattningsändamål i
-fråga om de skatter som denna lag gäller för. De får också
-användas för fastställande och uppbörd av andra skatter och
-avgifter som omfattas av lagen (2011:1537) om bistånd med
-indrivning av skatter och avgifter inom Europeiska unionen
-eller för fastställande och uppbörd av socialavgifter. De får
-dessutom användas i samband med rättsliga och administrativa
-förfaranden som kan leda till påföljd och som inletts på grund
+20 § Upplysningar som Skatteverket tar emot från en myndighet 
+i en annan medlemsstat får användas för beskattningsändamål i 
+fråga om de skatter som denna lag gäller för samt 
+mervärdesskatt och andra indirekta skatter. De får också 
+användas för fastställande och uppbörd av andra skatter och 
+avgifter som omfattas av lagen (2011:1537) om bistånd med 
+indrivning av skatter och avgifter inom Europeiska unionen 
+eller för fastställande och uppbörd av socialavgifter. De får 
+dessutom användas i samband med rättsliga och administrativa 
+förfaranden som kan leda till påföljd och som inletts på grund 
 av överträdelse av skattelagstiftningen.
 
-Upplysningarna får inte användas för andra ändamål än de som
-anges i första stycket utan att den myndighet som
-tillhandahåller upplysningarna tillåter det. Om upplysningarna
-ursprungligen härrör från en myndighet i en tredje
-medlemsstat, kan sådant tillstånd endast beviljas av den
-myndigheten. Tillstånd krävs dock inte för att upplysningar,
-rapporter, redogörelser och andra dokument eller vidimerade
-kopior av eller utdrag ur sådana ska få åberopas eller
+Upplysningarna får inte användas för andra ändamål än de som 
+anges i första stycket utan att den myndighet som 
+tillhandahåller upplysningarna tillåter det. Om upplysningarna 
+ursprungligen härrör från en myndighet i en tredje 
+medlemsstat, kan sådant tillstånd endast beviljas av den 
+myndigheten. Tillstånd krävs dock inte för att upplysningar, 
+rapporter, redogörelser och andra dokument eller vidimerade 
+kopior av eller utdrag ur sådana ska få åberopas eller 
 användas som bevisning.
 
-En svensk myndighet ska följa de villkor som gäller för
-användningen av upplysningarna enligt denna paragraf, oavsett
-vad som annars är föreskrivet i lag eller annan författning.
+Skatteverket får använda upplysningar som det fått från en 
+behörig myndighet i en annan medlemsstat för ändamål som den 
+andra behöriga myndigheten har uppgett i en förteckning och 
+meddelat att den tillåter användning för, utan att tillåtelse 
+enligt andra stycket behövs.
 
-21 § Skatteverket ska tillåta att upplysningar som verket
-tillhandahåller en myndighet i en annan medlemsstat får
-användas i den andra medlemsstaten för andra ändamål än sådana
-som avses i 20 § första stycket, om de får användas för
+En svensk myndighet ska följa de villkor som gäller för 
+användningen av upplysningarna enligt denna paragraf, oavsett 
+vad som annars är föreskrivet i lag eller annan författning.
+Lag (2022:1687).
+
+21 § Skatteverket ska tillåta att upplysningar som verket 
+tillhandahåller en myndighet i en annan medlemsstat får 
+användas i den andra medlemsstaten för andra ändamål än sådana 
+som avses i 20 § första stycket, om de får användas för 
 liknande ändamål enligt svensk lag.
-Om Skatteverket anser att upplysningar som verket har tagit
-emot från en myndighet i en annan medlemsstat sannolikt kan
-vara till nytta för en tredje medlemsstat för de ändamål som
-avses i 20 § första stycket, får verket vidarebefordra dessa
-upplysningar till den medlemsstaten, under de villkor som i
-övrigt gäller enligt denna lag. Skatteverket ska underrätta
-den medlemsstat som upplysningarna härrör från om sin avsikt
-att vidarebefordra uppgifterna till en tredje medlemsstat. Den
-medlemsstat som upplysningarna härrör från kan motsätta sig
-ett sådant utbyte av uppgifter inom tio arbetsdagar från den
-dag då den tog emot underrättelsen.
+
+Skatteverket får till de behöriga myndigheterna i samtliga 
+övriga medlemsstater lämna en förteckning över sådana ändamål 
+som Skatteverket tillåter att de andra behöriga myndigheterna 
+använder upplysningarna för.
+
+Om Skatteverket anser att upplysningar som verket har tagit 
+emot från en myndighet i en annan medlemsstat sannolikt kan 
+vara till nytta för en tredje medlemsstat för de ändamål som 
+avses i 20 § första stycket, får verket vidarebefordra dessa 
+upplysningar till den medlemsstaten, under de villkor som i 
+övrigt gäller enligt denna lag. Skatteverket ska underrätta 
+den medlemsstat som upplysningarna härrör från om sin avsikt 
+att vidarebefordra uppgifterna till en tredje medlemsstat. Den 
+medlemsstat som upplysningarna härrör från kan motsätta sig 
+ett sådant utbyte av uppgifter inom tio arbetsdagar från den 
+dag då den tog emot underrättelsen. Lag (2022:1687).
 
 22 § Upplysningar som Skatteverket tagit emot vid samarbete
 enligt denna lag får lämnas till länder utanför Europeiska
@@ -546,6 +669,35 @@ uppgifterna avser om att en överträdelse av skyddet för
 uppgifterna har skett, om överträdelsen sannolikt kommer att 
 påverka skyddet av deras personuppgifter eller integritet 
 negativt. Lag (2015:919).
+
+22 b § Om en uppgiftsincident har inträffat i Sverige ska 
+Skatteverket utan dröjsmål rapportera uppgiftsincidenten och 
+eventuella efterföljande korrigerande åtgärder till Europeiska 
+kommissionen.
+
+Om uppgiftsincidenten inte omedelbart kan begränsas på ett 
+lämpligt sätt, ska Skatteverket skriftligen begära hos 
+Europeiska kommissionen att verkets tillträde till CCN-nätet 
+tillfälligtvis upphävs.
+
+Skatteverket ska rapportera till Europeiska kommissionen när 
+uppgiftsincidenten har åtgärdats. Lag (2022:1687).
+
+22 c § Skatteverket får tillfälligt och omedelbart avbryta 
+utbytet av upplysningar med den eller de medlemsstater där en 
+uppgiftsincident inträffat, genom att meddela detta 
+skriftligen till Europeiska kommissionen och den eller de 
+berörda medlemsstaterna.
+
+Om en annan medlemsstat rapporterat att en uppgiftsincident 
+har åtgärdats, får Skatteverket begära att Europeiska 
+kommissionen, tillsammans med Skatteverket eller tillsammans 
+med Skatteverket och en eller flera behöriga myndigheter i 
+andra medlemsstater, ska kontrollera att uppgiftsincidenten 
+har åtgärdats.
+
+Skatteverket ska återuppta utbytet av upplysningar när 
+uppgiftsincidenten har åtgärdats. Lag (2022:1687).
 
 23 § Sådana rapporter och dokument som utarbetats av 
 Europeiska kommissionen och som avses i artikel 23a i rådets 
@@ -634,3 +786,11 @@ i fråga om uppgifter om rapporteringspliktiga arrangemang som
 lämnats till Skatteverket efter den 30 juni 2020 och före den 
 1 mars 2021, lämna upplysningar senast den 30 april 2021.
 Förordning (2020:683).
+
+2022:1687
+
+1. Denna lag träder i kraft den 1 januari 2024 i fråga om 
+17 c-17 f §§ och i övrigt den 1 januari 2023.
+
+2. Äldre föreskrifter gäller fortfarande för sådana ärenden om 
+administrativt samarbete som har inletts före ikraftträdandet.
