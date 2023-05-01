@@ -33,9 +33,16 @@ obehöriga inte får tillgång till dem.
 Definitioner
 
 3 § I denna lag används följande uttryck med nedan angiven 
-betydelse
+betydelse.
 
 Uttryck	                Betydelse
+
+Antalsberäkning inför   Beräkning som på förfrågan av forskare
+klinisk forskning       inför planerad klinisk forskning görs 
+                        av hur många personer som uppfyller 
+                        vissa i förväg uppställda kriterier och 
+                        som därmed kan komma att omfattas av 
+                        forskningen.
 
 Hälso- och sjukvård	Verksamhet som avses i hälso- och 
                         sjukvårdslagen (2017:30), tandvårdslagen 
@@ -64,8 +71,8 @@ Journalhandling	        Framställning i skrift eller bild samt
                         personliga förhållanden eller om 
                         vidtagna eller planerade vårdåtgärder.
 
-Patientjournal	        En eller flera journalhandlingar som rör 
-                        samma patient.
+Patientjournal	        En eller flera journalhandlingar som 
+                        rör samma patient.
 
 Vårdgivare	        Statlig myndighet, region och kommun i 
                         fråga om sådan hälso- och sjukvård som 
@@ -73,8 +80,8 @@ Vårdgivare	        Statlig myndighet, region och kommun i
                         ansvar för (offentlig vårdgivare) samt 
                         annan juridisk person eller enskild 
                         näringsidkare som bedriver hälso- och 
-                        sjukvård (privat vårdgivare).
-Lag (2022:915).
+                        sjukvård (privat vårdgivare). 
+Lag (2023:167).
 
 Förhållandet till annan dataskyddsreglering
 
@@ -125,30 +132,33 @@ samtycke till behandlingen. Lag (2022:915).
 
 Ändamål med personuppgiftsbehandlingen
 
-4 § Personuppgifter får behandlas inom hälso- och sjukvården om
-det behövs för
+4 § Personuppgifter får behandlas inom hälso- och sjukvården 
+om det behövs för 
 
-1. att fullgöra de skyldigheter som anges i 3 kap. och upprätta
-annan dokumentation som behövs i och för vården av patienter,
+1. att fullgöra de skyldigheter som anges i 3 kap. och 
+upprätta annan dokumentation som behövs i och för vården av 
+patienter, 
 
-2. administration som rör patienter och som syftar till att ge
-vård i enskilda fall eller som annars föranleds av vård i
-enskilda fall,
+2. administration som rör patienter och som syftar till att ge 
+vård i enskilda fall eller som annars föranleds av vård i 
+enskilda fall, 
 
-3. att upprätta annan dokumentation som följer av lag,
-förordning eller annan författning,
+3. att upprätta annan dokumentation som följer av lag, 
+förordning eller annan författning, 
 
-4. att systematiskt och fortlöpande utveckla och säkra
+4. att systematiskt och fortlöpande utveckla och säkra 
 kvaliteten i verksamheten,
 
-5. administration, planering, uppföljning, utvärdering och
-tillsyn av verksamheten, eller
+5. administration, planering, uppföljning, utvärdering och 
+tillsyn av verksamheten,
 
-6. att framställa statistik om hälso- och sjukvården.
+6. att framställa statistik om hälso- och sjukvården, eller
 
-I 7 kap. 4 och 5 §§ finns särskilda bestämmelser om ändamålen
-med behandling av personuppgifter i nationella och regionala
-kvalitetsregister.
+7. antalsberäkning inför klinisk forskning.
+
+I 7 kap. 4 och 5 §§ finns särskilda bestämmelser om ändamålen 
+med behandling av personuppgifter i nationella och regionala 
+kvalitetsregister. Lag (2023:167).
 
 5 § Personuppgifter som behandlas för ändamål som anges i 
 4 § får också behandlas för att fullgöra uppgiftslämnande som 
@@ -550,6 +560,15 @@ Utlämnande på medium för automatiserad behandling
 6 § Får en personuppgift lämnas ut, kan det ske på medium för
 automatiserad behandling.
 
+Utlämnande av resultatet efter antalsberäkning inför klinisk 
+forskning
+
+7 § Resultatet av antalsberäkning inför klinisk forskning får 
+lämnas ut till den som gjort förfrågan endast i form av 
+uppgift om det antal personer som uppfyller de i förväg 
+uppställda kriterierna. Resultatet får anges med ett exakt 
+antal eller som ett intervall. Lag (2023:167).
+
 6 kap. Kapitlet har upphävts genom lag (2022:915).
 
 7 kap. Nationella och regionala kvalitetsregister
@@ -610,19 +629,21 @@ personuppgifter i nationella och regionala kvalitetsregister
 får behandlas för ändamålet att systematiskt och fortlöpande
 utveckla och säkra vårdens kvalitet.
 
-5 § Personuppgifter som behandlas för de ändamål som anges i
-4 § får också behandlas för ändamålen
+5 § Personuppgifter som behandlas för de ändamål som anges i 4 § 
+får också behandlas för ändamålen
 
 1. framställning av statistik,
 
-2. forskning inom hälso- och sjukvården,
+2. antalsberäkning inför klinisk forskning,
 
-3. utlämnande till den som ska använda uppgifterna för
-ändamål som anges i 1 och 2 eller i 4 §, och
+3. forskning inom hälso- och sjukvården,
 
-4. fullgörande av någon annan uppgiftsskyldighet som följer
-av lag eller förordning än den som anges i 6 kap. 5 §
-offentlighets- och sekretesslagen (2009:400). Lag (2009:525).
+4. utlämnande till den som ska använda uppgifterna för ändamål 
+som anges i 1 och 3 eller i 4 §, och
+
+5. fullgörande av någon annan uppgiftsskyldighet som följer av 
+lag eller förordning än den som anges i 6 kap. 5 § 
+offentlighets- och sekretesslagen (2009:400). Lag (2023:167).
 
 6 § Personuppgifter i nationella och regionala
 kvalitetsregister får inte behandlas för några andra ändamål än
