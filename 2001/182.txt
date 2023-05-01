@@ -2,19 +2,7 @@
 
 Lagens tillämpningsområde
 
-1 § /Upphör att gälla U:2023-09-01/
-Denna lag tillämpas vid behandling av personuppgifter i
-Skatteverkets folkbokföringsverksamhet, om behandlingen
-är helt eller delvis automatiserad eller om uppgifterna ingår i
-eller är avsedda att ingå i en strukturerad samling av
-personuppgifter som är tillgängliga för sökning eller
-sammanställning enligt särskilda kriterier.
-
-Bestämmelserna i 4 och 5 §§ samt 2 kap. gäller även vid
-behandling av uppgifter om avlidna. Lag (2003:671).
-
-1 § /Träder i kraft I:2023-09-01/
-Denna lag tillämpas vid behandling av personuppgifter i 
+1 § Denna lag tillämpas vid behandling av personuppgifter i 
 Skatteverkets folkbokföringsverksamhet, om behandlingen är 
 helt eller delvis automatiserad eller om uppgifterna ingår i 
 eller är avsedda att ingå i en strukturerad samling av 
@@ -25,8 +13,8 @@ Lagen gäller också vid behandling av personuppgifter i
 passmyndigheternas verksamhet som rör identitetskontroller 
 enligt lagen (2022:1697) om samordningsnummer.
 
-Bestämmelserna i 4 och 5 §§ samt 2 kap. gäller även vid 
-behandling av uppgifter om avlidna. Lag (2022:1700).
+Bestämmelserna i 4-5 §§ samt 2 och 2 a kap. gäller även vid 
+behandling av uppgifter om avlidna. Lag (2023:164).
 
 Förhållandet till annan reglering
 
@@ -76,14 +64,14 @@ förordning. Insamlade uppgifter får behandlas även för andra
 på ett sätt som är oförenligt med det ändamål för vilket 
 uppgifterna samlades in. Lag (2018:229).
 
+4 a § Uppgifter får också behandlas för att tillhandahålla 
+information som behövs för dataanalyser och urval i syfte att 
+förebygga, förhindra och upptäcka felaktiga uppgifter i 
+folkbokföringsverksamheten. Lag (2023:161).
+
 Personuppgiftsansvar
 
-5 § /Upphör att gälla U:2023-09-01/
-Skatteverket är personuppgiftsansvarigt för den behandling
-av personuppgifter som verket skall utföra. Lag (2003:671).
-
-5 § /Träder i kraft I:2023-09-01/
-Skatteverket och varje passmyndighet är 
+5 § Skatteverket och varje passmyndighet är 
 personuppgiftsansvarig för den behandling av personuppgifter 
 som respektive myndighet utför enligt denna lag.
 Lag (2022:1700).
@@ -102,8 +90,7 @@ Uppgifter som avses i första stycket får i annat fall
 behandlas endast om det särskilt anges i 2 kap.
 Lag (2018:229).
 
-7 § /Träder i kraft I:2023-09-01/
-När en kontroll enligt 26 b och 26 c §§ 
+7 § När en kontroll enligt 26 b och 26 c §§ 
 folkbokföringslagen (1991:481) eller enligt 2 kap. 3 och 4 §§ 
 lagen (2022:1697) om samordningsnummer har genomförts, ska 
 fingeravtryck och ansiktsbilder samt de biometriska uppgifter 
@@ -118,94 +105,13 @@ används gemensamt i verksamheten för de i 1 kap. 4 § angivna
 
 Innehåll
 
-2 § /Upphör att gälla U:2023-09-01/
-I databasen får uppgifter behandlas om
-
-1. personer som är eller har varit folkbokförda här i landet,
-
-2. personer som har tilldelats personnummer enligt 18 b §
-folkbokföringslagen (1991:481), och
-
-3. personer som har tilldelats samordningsnummer.
-
-Uppgifter om andra personer får behandlas om det behövs för
-handläggningen av ett ärende. Lag (2009:274).
-
-2 § /Träder i kraft I:2023-09-01/
-I databasen får uppgifter behandlas om personer som har 
+2 § I databasen får uppgifter behandlas om personer som har 
 tilldelats personnummer eller samordningsnummer.
 
 Uppgifter om andra personer får behandlas om det behövs för 
 handläggningen av ett ärende. Lag (2022:1700).
 
-3 § /Upphör att gälla U:2023-09-01/
-För de ändamål som anges i 1 kap. 4 § får följande 
-uppgifter behandlas i databasen:
-
-1. person- eller samordningsnummer,
-
-2. namn,
-
-3. födelsetid,
-
-4. födelsehemort,
-
-5. födelseort,
-
-6. adress,
-
-7. folkbokföringsfastighet, lägenhetsnummer, 
-folkbokföringsort, distrikt och folkbokföring under särskild 
-rubrik, 
-
-8. medborgarskap,
-
-9. civilstånd, 
-
-10. make, barn, föräldrar, vårdnadshavare och annan person som 
-den registrerade har samband med inom folkbokföringen, 
-
-11. samband enligt 10 som är grundat på adoption, 
-
-12. inflyttning från utlandet, 
-
-13. avregistrering enligt 19-22 §§ folkbokföringslagen 
-(1991:481),
-
-14. anmälan enligt 5 kap. 2 § vallagen (2005:837), 
-
-15. gravsättning, 
-
-16. personnummer som personen har tilldelats i ett annat 
-nordiskt land,
-
-17. uppehållsrätt för en person som är folkbokförd,
-
-18. tidpunkt för när vilandeförklaring kan komma att ske 
-enligt 18 d § 1 folkbokföringslagen, 
-
-19. vilandeförklaring av ett samordningsnummer med angivande 
-av om förklaringen skett på grund av 18 d § 1 eller 2 
-folkbokföringslagen, och
-
-20. tidpunkt för när en person med samordningsnummer har 
-avlidit.
-
-I databasen får uppgifter behandlas som den 30 juni 1991 
-enligt särskilda bestämmelser var antecknade i sådan personakt 
-som avses i 16 § i den upphävda folkbokföringskungörelsen 
-(1967:495), oavsett om uppgifterna är sådana som avses i 
-1 kap. 6 §.
-
-I ärenden om tilldelning av personnummer enligt 18 b § 
-folkbokföringslagen eller samordningsnummer får även anges 
-grunden för tilldelningen och de handlingar som har legat till 
-grund för identifiering. I ärenden om tilldelning av 
-samordningsnummer får även anges uppgift om att det råder 
-osäkerhet om personens identitet. Lag (2021:377).
-
-3 § /Träder i kraft I:2023-09-01/
-För de ändamål som anges i 1 kap. 4 § får följande 
+3 § För de ändamål som anges i 1 kap. 4 § får följande 
 uppgifter behandlas i databasen:
 
 1. person- eller samordningsnummer,
@@ -358,6 +264,47 @@ tryckfrihetsförordningen, eller
 2. en registrerads rätt enligt artikel 12.5 i EU:s 
 dataskyddsförordning. Lag (2018:229).
 
+2 a kap. Analys- och urvalsdatabasen
+
+1 § I folkbokföringsverksamheten ska det finnas en samling 
+personuppgifter som med hjälp av automatiserad behandling 
+används gemensamt i verksamheten för de i 1 kap. 4 a § angivna 
+ändamålen (analys- och urvalsdatabas). Lag (2023:161).
+
+Innehåll
+
+2 § I analys- och urvalsdatabasen får uppgifter om de personer 
+som anges i 2 kap. 2 § behandlas. Lag (2023:161).
+
+3 § För de ändamål som anges i 1 kap. 4 a § får de uppgifter 
+som avses i 2 kap. 3 och 4 §§ behandlas.
+
+Regeringen eller den myndighet som regeringen bestämmer kan 
+med stöd av 8 kap. 7 § regeringsformen meddela ytterligare 
+föreskrifter om vilka uppgifter som får behandlas i analys- 
+och urvalsdatabasen. Lag (2023:161).
+
+Sökbegrepp
+
+4 § Vid sökning i analys- och urvalsdatabasen gäller det som i 
+2 kap. 10 § sägs om sökbegrepp vid sökning i 
+folkbokföringsdatabasen. Lag (2023:161).
+
+Krav på dokumentation
+
+5 § Metoder för att ta fram urval och sökbegrepp som används 
+vid sökningar i analys- och urvalsdatabasen ska dokumenteras 
+på ett sådant sätt att de kan kontrolleras i efterhand.
+Lag (2023:161).
+
+Längsta tid för behandling
+
+6 § Uppgifter som behandlas i analys- och urvalsdatabasen får 
+inte behandlas under en längre tid än som behövs med hänsyn 
+till ändamålet med behandlingen. Uppgifterna får dock aldrig 
+behandlas under en längre tid än tre år från den tidpunkt när 
+de tillfördes databasen. Lag (2023:161).
+
 3 kap. Enskildas rättigheter
 
 Rätten att göra invändningar
@@ -373,6 +320,7 @@ meddelats i anslutning till lagen. Lag (2018:229).
 
 4 § Har upphävts genom lag (2018:229).
 
+
 Övergångsbestämmelser
 
 2001:182
@@ -381,11 +329,7 @@ meddelats i anslutning till lagen. Lag (2018:229).
 (1990:1536) om folkbokföringsregister och lagen (1995:743) om
 aviseringsregister skall upphöra att gälla.
 
-2. /Upphör att gälla U:2023-09-01 genom lag (2022:1700)./
-Punkt 2 av övergångsbestämmelserna till lagen (1997:997) om
-ändring i lagen (1990:1536) om folkbokföringsregister gäller
-fortfarande i fråga om personnummer som har tilldelats en
-person utan samband med folkbokföring.
+2. Har upphävts genom lag (2022:1700).
 
 3. Bestämmelser i lagen om grundläggande krav på behandling av
 personuppgifter samt behandling av känsliga personuppgifter och
