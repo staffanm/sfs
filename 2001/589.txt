@@ -7,15 +7,15 @@ Förordning (2003:1024).
 
 Skyldighet att behandla uppgifter
 
-2 § När en person folkbokförs eller när ändring sker av någon
-uppgift som får behandlas enligt 2 kap. 3 § lagen (2001:182) om
-behandling av personuppgifter i Skatteverkets
-folkbokföringsverksamhet skall uppgift om detta registreras i
-databasen. Förordning (2003:1024).
+2 § När en person folkbokförs eller när ändring görs av någon 
+uppgift som får behandlas enligt 2 kap. 3 § lagen (2001:182) 
+om behandling av personuppgifter i Skatteverkets 
+folkbokföringsverksamhet ska uppgift om detta registreras i 
+folkbokföringsdatabasen. Förordning (2023:156).
 
 3 § Har upphävts genom förordning (2003:1024).
 
-Uppgifter som får behandlas i databasen
+Uppgifter som får behandlas i folkbokföringsdatabasen
 
 4 § För handläggning av ärenden får i databasen behandlas
 uppgifter som avses i 5 kap. 2 § offentlighets- och
@@ -45,6 +45,18 @@ den personens belägenhetsadress på den fastighet där personen
 (1991:481). Med distrikt avses här detsamma som i 2 §
 förordningen (2015:493) om distrikt. Förordning (2015:494).
 
+Analys- och urvalsdatabasen
+
+5 b § Skatteverket ska ha rutiner för utformningen av 
+urvalsmodeller och användandet av sökbegrepp i analys- och 
+urvalsdatabasen. Förordning (2023:156).
+
+5 c § I databasen får sådana uppgifter behandlas som ska 
+lämnas av andra myndigheter till Skatteverket för kontroll av 
+uppgifter i folkbokföringsverksamheten. Uppgifter om 
+fastigheter, byggnader, lagfarter och tomträtter får också 
+behandlas. Förordning (2023:156).
+
 Underrättelser från Skatteverket
 
 6 § Statistiska centralbyrån ska underrättas när registrering
@@ -71,8 +83,8 @@ Förordning (2013:809).
 1. ett barn har folkbokförts eller registrerats enligt 1 § 
 andra stycket folkbokföringslagen (1991:481) och faderskapet 
 eller föräldraskapet enligt 1 kap. 9 § föräldrabalken till 
-barnet inte följer av 1 kap. 1 §, 9 § första stycket eller 11 
-a § föräldrabalken eller annan lag,
+barnet inte följer av 1 kap. 1 §, 9 § första stycket eller 
+11 a § föräldrabalken eller annan lag,
 
 2. gemensam vårdnad om barn har registrerats efter en anmälan 
 enligt 6 kap. 4 § andra stycket 2 föräldrabalken, 
@@ -80,7 +92,7 @@ enligt 6 kap. 4 § andra stycket 2 föräldrabalken,
 3. ett barn saknar registrerad vårdnadshavare, eller 
 
 4. sekretessmarkering i fråga om ett barn har förts in i 
-databasen.
+folkbokföringsdatabasen.
 
 Om modern vid barnets födelse är myndig och folkbokförd, 
 inträder skyldigheten att enligt första stycket 1 underrätta 
@@ -92,7 +104,7 @@ inte har fastställts.
 Underrättelse enligt första och andra styckena ska lämnas till 
 socialnämnden i den kommun där barnet är folkbokfört eller, om 
 barnet inte är folkbokfört, till socialnämnden i den kommun 
-där barnet har fötts. Förordning (2021:1050).
+där barnet har fötts. Förordning (2023:156).
 
 8 § Försäkringskassan och Pensionsmyndigheten ska
 underrättas när registrering skett beträffande
@@ -111,8 +123,9 @@ berörda centrala myndigheter. Förordning (2003:1024).
 
 Personbevis
 
-11 § Formulär för personbevis och andra utdrag ur databasen
-fastställs av Skatteverket. Förordning (2003:1024).
+11 § Formulär för personbevis och andra utdrag ur 
+folkbokföringsdatabasen fastställs av Skatteverket.
+Förordning (2023:156).
 
 12 § Har upphävts genom förordning (2015:910). 
 
@@ -123,10 +136,11 @@ automatiserad behandling
 
 13 § För de ändamål som anges i 1 kap. 4 § 5 och 6 lagen 
 (2001:182) om behandling av personuppgifter i Skatteverkets 
-folkbokföringsverksamhet får uppgifter ur databasen som avses 
-i 2 kap. 3 § första stycket samma lag lämnas ut till Svenska 
-kyrkan. Uppgifterna får lämnas ut på medium för automatiserad 
-behandling. Förordning (2015:910).
+folkbokföringsverksamhet får uppgifter som avses i 2 kap. 3 § 
+första stycket samma lag lämnas ut från 
+folkbokföringsdatabasen till Svenska kyrkan. Uppgifterna får 
+lämnas ut på medium för automatiserad behandling.
+Förordning (2023:156).
 
 14 § För de ändamål som anges i 1 kap. 4 § 5 och 6 lagen 
 (2001:182) om behandling av personuppgifter i Skatteverkets 
@@ -136,11 +150,11 @@ registreringsmyndighet för folkbokföring i det nordiska land
 personen är medborgare i. Uppgifterna får lämnas ut på medium 
 för automatiserad behandling. Förordning (2015:910).
 
-14 a § Uppgifter i databasen får lämnas ut till 
+14 a § Uppgifter i folkbokföringsdatabasen får lämnas ut till 
 arbetslöshetskassorna vid en underrättelse enligt 3 § lagen 
 (2008:206) om underrättelseskyldighet vid felaktiga 
 utbetalningar från välfärdssystemen. Uppgifterna får lämnas ut 
-på medium för automatiserad behandling. Förordning (2022:1079).
+på medium för automatiserad behandling. Förordning (2023:156).
 
 15 § Uppgifter om den enskilde själv får lämnas ut till denne 
 på medium för automatiserad behandling. 
@@ -204,21 +218,21 @@ andra styckena. Förordning (2015:910).
 
 Avgifter
 
-18 § När uppgifter ur databasen lämnas ut för ändamål som 
-avses i 1 kap. 4 § 5 och 6 lagen (2001:182) om behandling av 
-personuppgifter i Skatteverkets folkbokföringsverksamhet ska 
-en avgift tas ut.
+18 § När uppgifter ur folkbokföringsdatabasen lämnas ut för 
+ändamål som avses i 1 kap. 4 § 5 och 6 lagen (2001:182) om 
+behandling av personuppgifter i Skatteverkets 
+folkbokföringsverksamhet ska en avgift tas ut.
 
-När uppgifter ur databasen lämnas ut i andra fall får en 
-avgift tas ut. 
+När uppgifter ur folkbokföringsdatabasen lämnas ut i andra 
+fall får en avgift tas ut. 
 
 Statliga myndigheter, med undantag för affärsverken, är fria 
-från sådana avgifter som avses i första och andra stycket när 
-uppgifter ur databasen lämnas ut genom direktåtkomst eller på 
-medium för automatiserad behandling. 
+från sådana avgifter som avses i första och andra styckena när 
+uppgifter ur folkbokföringsdatabasen lämnas ut genom 
+direktåtkomst eller på medium för automatiserad behandling. 
 
-Skatteverket fastställer avgifterna för att lämna ut 
-uppgifter ur databasen. Förordning (2017:494).
+Skatteverket fastställer avgifterna för att lämna ut uppgifter 
+ur folkbokföringsdatabasen. Förordning (2023:156).
 
 Verkställighetsföreskrifter
 
@@ -227,6 +241,7 @@ verkställighet av bestämmelserna i lagen (2001:182) om
 behandling av personuppgifter i Skatteverkets
 folkbokföringsverksamhet och denna förordning.
 Förordning (2003:1024).
+
 
 Övergångsbestämmelser
 
