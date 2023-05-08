@@ -7,15 +7,17 @@ Skatteverkets beskattningsverksamhet och i verkets
 handläggning enligt lagen (2007:324) om Skatteverkets 
 hantering av vissa borgenärsuppgifter, lagen (2013:948) om 
 stöd vid korttidsarbete, lagen (1991:1047) om sjuklön och 
-lagen (2020:548) om omställningsstöd, om behandlingen är helt 
-eller delvis automatiserad eller om uppgifterna ingår i eller 
-är avsedda att ingå i en strukturerad samling av 
-personuppgifter som är tillgängliga för sökning eller 
-sammanställning enligt särskilda kriterier.
+lagen (2020:548) om omställningsstöd samt vid handläggning av 
+sådant stöd som avses i lagen (2023:230) om förfarande för 
+elstöd till företag, om behandlingen är helt eller delvis 
+automatiserad eller om uppgifterna ingår i eller är avsedda 
+att ingå i en strukturerad samling av personuppgifter som är 
+tillgängliga för sökning eller sammanställning enligt 
+särskilda kriterier.
 
 Bestämmelserna i 4-6 och 8 §§ samt 2 kap. gäller även vid 
 behandling av uppgifter om juridiska personer och avlidna.
-Lag (2020:550).
+Lag (2023:231).
 
 Definitioner
 
@@ -74,10 +76,12 @@ d) enligt lagen (2017:182) om automatiskt utbyte av land-för-
 land-rapporter på skatteområdet och 33 a kap. 
 skatteförfarandelagen,
 
-e) enligt 33 b kap. skatteförfarandelagen, 
+e) enligt 33 b kap. skatteförfarandelagen,
 
 f) enligt lagen (2013:948) om stöd vid korttidsarbete och 
-lagen (2020:548) om omställningsstöd, och
+lagen (2020:548) om omställningsstöd samt handläggning av 
+sådant stöd som avses i lagen (2023:230) om förfarande för 
+elstöd till företag, och
 
 g) enligt lagen (2022:1681) om plattformsoperatörers 
 inhämtande av vissa uppgifter på skatteområdet, lagen 
@@ -96,7 +100,7 @@ utlänning som inte har rätt att vistas i Sverige,
 9. hantering av uppgifter om sjuklönekostnad, och
 
 10. tillsyn, kontroll, uppföljning och planering av 
-verksamheten. Lag (2022:1684).
+verksamheten. Lag (2023:231).
 
 5 § Uppgifter som behandlas enligt 4 § får även behandlas 
 för
@@ -215,7 +219,9 @@ utfört av en utlänning som inte har rätt att vistas i Sverige,
 
 13. uppgifter som behövs för handläggning enligt lagen 
 (2013:948) om stöd vid korttidsarbete eller lagen (2020:548) 
-om omställningsstöd, och
+om omställningsstöd eller för handläggning av sådant stöd som 
+avses i lagen (2023:230) om förfarande för elstöd till 
+företag, och
 
 14. uppgifter om sjuklönekostnad.
 
@@ -226,7 +232,7 @@ bindande internationellt åtagande.
 Regeringen eller den myndighet som regeringen bestämmer kan 
 med stöd av 8 kap. 7 § regeringsformen meddela närmare 
 föreskrifter om vilka uppgifter som får behandlas i databasen 
-enligt första stycket. Lag (2020:550).
+enligt första stycket. Lag (2023:231).
 
 4 § En handling som har kommit in i ett ärende får behandlas i
 databasen och får innehålla uppgifter som avses i 1 kap. 7 §.
@@ -234,15 +240,7 @@ En handling som upprättats i ett ärende får behandlas i
 databasen och får innehålla sådana uppgifter om de är
 nödvändiga för ärendets handläggning.
 
-4 a § /Upphör att gälla U:2023-02-13/
-I databasen får uppgifter och handlingar behandlas som
-ingår i det datoriserade system som avses i artikel 1 i
-Europaparlamentets och rådets beslut nr 1152/2003/EG av den 16
-juni 2003 om datorisering av uppgifter om förflyttningar och
-kontroller av punktskattepliktiga varor. Lag (2012:775).
-
-4 a § /Träder i kraft I:2023-02-13/
-I databasen får uppgifter och handlingar behandlas som 
+4 a § I databasen får uppgifter och handlingar behandlas som 
 ingår i det datoriserade system som avses i artikel 1 i 
 Europaparlamentets och rådets beslut (EU) 2020/263 av den 
 15 januari 2020 om datorisering av uppgifter om förflyttningar 
@@ -250,51 +248,7 @@ och kontroller av punktskattepliktiga varor. Lag (2022:169).
 
 Enskilds rätt att ta del av uppgifter
 
-5 § /Upphör att gälla U:2023-02-13/
-Från databasen får nedan angivna uppgifter lämnas ut till 
-en enskild, om det inte av särskild anledning kan antas att 
-den enskilde som uppgiften avser eller någon närstående lider 
-men om uppgiften röjs.
-
-Uppgifter får lämnas ut om
-
-1. namn och personnummer,
-
-2. organisationsnummer, namn, företagsnamn och juridisk form 
-samt i fråga om handelsbolag och andra juridiska personer 
-sådana uppgifter om huvudkontor och säte som avses i 67 kap. 
-8 § skatteförfarandelagen (2011:1244), 
-
-3. registrering enligt skatteförfarandelagen samt särskilt 
-registrerings- eller redovisningsnummer, 
-
-4. på vilket sätt den preliminära skatten ska betalas för en 
-fysisk person, 
-
-5. registrering av skyldighet att göra skatteavdrag eller 
-betala arbetsgivaravgifter, 
-
-6. slag av näringsverksamhet, 
-
-7. beslut om likvidation, förenklad avveckling eller konkurs,
-
-8. huruvida en fysisk eller juridisk person är godkänd som 
-skattebefriad förbrukare enligt lagen (1994:1564) om 
-alkoholskatt eller lagen (1994:1776) om skatt på energi och i 
-sådana fall från vilken tidpunkt,
-
-9. huruvida en fysisk eller juridisk person är godkänd som 
-registrerad avsändare enligt lagen (1994:1563) om tobaksskatt, 
-lagen om alkoholskatt eller lagen om skatt på energi och i 
-sådana fall från vilken tidpunkt, och
-
-10. huruvida en distansförsäljare enligt lagen om tobaksskatt, 
-lagen om alkoholskatt eller lagen om skatt på energi har 
-ställt säkerhet för skatten på de varor som sänds från det 
-andra EU-landet. Lag (2021:430).
-
-5 § /Träder i kraft I:2023-02-13/
-Från databasen får nedan angivna uppgifter lämnas ut till 
+5 § Från databasen får nedan angivna uppgifter lämnas ut till 
 en enskild, om det inte av särskild anledning kan antas att 
 den enskilde som uppgiften avser eller någon närstående lider 
 men om uppgiften röjs.
@@ -354,40 +308,7 @@ Regeringen meddelar närmare föreskrifter om vilka uppgifter
 direktåtkomst enligt första stycket får omfatta.
 Lag (2017:454).
 
-8 § /Upphör att gälla U:2023-02-13/
-Kronofogdemyndigheten får ha direktåtkomst till uppgifter 
-som avses i 3 § 1–5, 8, 10 och 11. Direktåtkomst till 
-uppgifter som avses i 3 § 4, 5, 8, 10 och 11 får endast avse 
-den som
-
-1. har ansökt om skuldsanering eller F-skuldsanering,
-
-2. är registrerad som gäldenär hos Kronofogdemyndigheten,
-
-3. är make eller likställd med make till den som har ansökt 
-om skuldsanering eller F-skuldsanering, eller
-
-4. är make eller likställd med make till gäldenär hos 
-Kronofogdemyndigheten.
-
-Tullverket får ha direktåtkomst till uppgifter som avses i 3 § 
-1–5, 10 och 11. Åtkomsten får endast avse den som är eller 
-kan antas vara gäldenär enligt tullagstiftningen, skyldig att 
-betala skatt för vara vid import eller föremål för 
-Tullverkets kontrollverksamhet enligt lagen (1998:506) om 
-punktskattekontroll av transporter m.m. av alkoholvaror, 
-tobaksvaror och energiprodukter. 
-
-Tullverket får ha direktåtkomst till uppgifter och handlingar 
-som avses i 4 a §.
-
-Regeringen kan med stöd av 8 kap. 7 § regeringsformen meddela 
-närmare föreskrifter om vilka uppgifter och handlingar 
-direktåtkomst enligt första till tredje styckena får 
-omfatta. Lag (2016:684).
-
-8 § /Träder i kraft I:2023-02-13/
-Kronofogdemyndigheten får ha direktåtkomst till uppgifter 
+8 § Kronofogdemyndigheten får ha direktåtkomst till uppgifter 
 som avses i 3 § 1-5, 8, 10 och 11. Direktåtkomst till 
 uppgifter som avses i 3 § 4, 5, 8, 10 och 11 får endast avse 
 den som
@@ -518,89 +439,7 @@ anges i 12 §, gallras senast sju år efter utgången av det
 kalenderår då den beskattningperiod som uppgifterna eller
 handlingarna kan hänföras till gick ut.
 
-12 § /Upphör att gälla U:2023-02-13/
-Uppgifter och handlingar som avser
-
-1. revision ska gallras tio år efter utgången av det 
-kalenderår då revisionen avslutades, och
-
-2. fastighetstaxering ska gallras tolv år efter utgången av 
-det taxeringsår som uppgifterna eller handlingarna kan 
-hänföras till.
-
-Uppgifter och handlingar om godkända upplagshavare, 
-registrerade varumottagare, tillfälligt registrerade 
-varumottagare, registrerade avsändare eller godkända 
-skatteupplag enligt lagen (1994:1563) om tobaksskatt, lagen 
-(1994:1564) om alkoholskatt samt lagen (1994:1776) om skatt på 
-energi ska gallras sju år efter utgången av det kalenderår då 
-aktören avregistrerades.
-
-Uppgifter och handlingar om godkända lagerhållare enligt lagen 
-om tobaksskatt, lagen om skatt på energi, lagen (2016:1067) om 
-skatt på kemikalier i viss elektronik, lagen (2018:696) om 
-skatt på vissa nikotinhaltiga produkter och lagen (2020:32) om 
-skatt på plastbärkassar samt uppgifter och handlingar om 
-registrerade mottagare och registrerade EU-handlare enligt 
-lagen om skatt på kemikalier i viss elektronik och 
-registrerade distansförsäljare av tuggtobak och övrig tobak 
-enligt lagen om tobaksskatt ska gallras sju år efter utgången 
-av det kalenderår då godkännandet blev återkallat.
-
-Uppgifter och handlingar som avses i 4 a § ska gallras tio år 
-efter utgången av det kalenderår då de meddelanden som är 
-kopplade till den administrativa referenskoden enligt 22 b § 
-andra stycket lagen om tobaksskatt, 21 b § andra stycket lagen 
-om alkoholskatt eller 6 kap. 4 § andra stycket lagen om skatt 
-på energi eller annan sammanhållande identifikationsuppgift 
-senast ändrades. Lag (2021:430).
-
-12 § /Träder i kraft I:2023-02-13/
-Uppgifter och handlingar som avser 
-
-1. revision ska gallras tio år efter utgången av det 
-kalenderår då revisionen avslutades, och
-
-2. fastighetstaxering ska gallras tolv år efter utgången av 
-det taxeringsår som uppgifterna eller handlingarna kan 
-hänföras till.
-
-Uppgifter och handlingar om godkända upplagshavare, 
-registrerade varumottagare, tillfälligt registrerade 
-varumottagare, registrerade avsändare, godkända skatteupplag, 
-certifierade mottagare, tillfälligt certifierade mottagare, 
-certifierade avsändare, tillfälligt certifierade avsändare, 
-registrerade distansförsäljare och tillfälligt registrerade 
-distansförsäljare enligt lagen (1994:1776) om skatt på energi, 
-lagen (2022:155) om tobaksskatt samt lagen (2022:156) om 
-alkoholskatt ska gallras sju år efter utgången av det 
-kalenderår då aktören avregistrerades.
-
-Uppgifter och handlingar om godkända lagerhållare enligt lagen 
-om skatt på energi, lagen (2016:1067) om skatt på kemikalier i 
-viss elektronik, lagen (2018:696) om skatt på vissa 
-nikotinhaltiga produkter, lagen (2020:32) om skatt på 
-plastbärkassar och lagen om tobaksskatt samt uppgifter och 
-handlingar om registrerade mottagare och registrerade EU-
-handlare enligt lagen om skatt på kemikalier i viss elektronik 
-och registrerade distansförsäljare av tuggtobak och övrig 
-tobak enligt lagen om tobaksskatt ska gallras sju år efter 
-utgången av det kalenderår då godkännandet blev återkallat.
-
-Uppgifter och handlingar som avses i 4 a § ska gallras tio år 
-efter utgången av det kalenderår då de meddelanden som är 
-kopplade till den administrativa referenskoden enligt 4 b kap. 
-4 § tredje stycket lagen om skatt på energi, 5 kap. 4 § tredje 
-stycket lagen om tobaksskatt eller 5 kap. 4 § tredje stycket 
-lagen om alkoholskatt, den förenklade administrativa 
-referenskoden enligt 4 e kap. 3 § tredje stycket lagen om 
-skatt på energi, 8 kap. 4 § tredje stycket lagen om 
-tobaksskatt eller 8 kap. 4 § tredje stycket lagen om 
-alkoholskatt eller annan sammanhållande identifikationsuppgift 
-senast ändrades. Lag (2022:169).
-
-12 § /Träder i kraft I:2023-03-01/
-Uppgifter och handlingar som avser
+12 § Uppgifter och handlingar som avser
 
 1. revision ska gallras tio år efter utgången av det 
 kalenderår då revisionen avslutades, och
