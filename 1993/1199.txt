@@ -109,9 +109,8 @@ Småhus
 
 6 § För småhus ingående i småhusenhet ska det upprättas en 
 tabell för grund- och marginalvärden (SV-tabell), tabeller för 
-åldersinverkan  
-(SO-tabeller S) och en tabell för värdeinverkan av 
-värdefaktorerna fastighetsrättsliga förhållanden och 
+åldersinverkan (SO-tabeller S) och en tabell för värdeinverkan 
+av värdefaktorerna fastighetsrättsliga förhållanden och 
 värdeordning (FV-tabell S).
 
 SV-tabellen ska utvisa värden för småhus, som uppförts under 
@@ -121,20 +120,20 @@ värdefaktorerna storlek och standard och i en värdenivå vid
 vilken ett småhus enligt 8 kap. 2 § fastighetstaxeringslagen 
 (1979:1152), normhus, har ett värde av 100 000 kronor.
 
-Det ska finnas 77 skilda värdenivåer för normhuset. De erhålls 
+Det ska finnas 88 skilda värdenivåer för normhuset. De erhålls 
 genom att värdena i SV-tabellen multipliceras med nivåfaktorer 
-för småhus  
-(S-nivåfaktorer). Dessa ska vara 1,5, 1,6, 1,7, 1,8, 1,9, 2,0, 
-2,1, 2,2, 2,3, 2,4, 2,5, 2,6, 2,7, 2,8, 2,9, 3,0, 3,1, 3,2, 
-3,3, 3,4, 3,5, 3,6, 3,7, 3,8, 3,9, 4,0, 4,2, 4,4, 4,6, 4,8, 
-5,0, 5,25, 5,5, 5,75, 6,0, 6,25, 6,5, 6,75, 7,0, 7,25, 7,5, 
-7,75, 8,0, 8,25, 8,5, 8,75, 9,0, 9,5, 10,0, 10,5, 11,0, 11,5, 
-12,0, 12,5, 13,0, 14,0, 15,0, 16,0, 17,0, 18,0, 19,0, 20,0, 
-22,0, 24,0, 26,0, 28,0, 30,0, 32,0, 34,0, 36,0, 38,0, 40,0, 
-42,0, 44,0, 46,0, 48,0 och 50,0.
+för småhus (S-nivåfaktorer). Dessa ska vara 1,5, 1,6, 1,7, 
+1,8, 1,9, 2,0, 2,1, 2,2, 2,3, 2,4, 2,5, 2,6, 2,7, 2,8, 2,9, 
+3,0, 3,1, 3,2, 3,3, 3,4, 3,5, 3,6, 3,7, 3,8, 3,9, 4,0, 4,2, 
+4,4, 4,6, 4,8, 5,0, 5,25, 5,5, 5,75, 6,0, 6,25, 6,5, 6,75, 
+7,0, 7,25, 7,5, 7,75, 8,0, 8,25, 8,5, 8,75, 9,0, 9,25, 9,5, 
+9,75, 10,0, 10,5, 11,0, 11,5, 12,0, 12,5, 13,0, 13,5, 14,0, 
+14,5, 15,0, 16,0, 17,0, 18,0, 19,0, 20,0, 21,0, 22,0, 23,0, 
+24,0, 26,0, 28,0, 30,0, 32,0, 34,0, 36,0, 38,0, 40,0, 42,0, 
+44,0, 46,0, 48,0, 50,0, 52,0, 54,0, 56,0, 58,0 och 60,0.
 
 Det ska upprättas en SV-tabell. Denna ska avse S-
-nivåfaktorerna 1,5-50,0.
+nivåfaktorerna 1,5-60,0.
 
 SO-tabellerna S ska genom åldersfaktorer utvisa 
 värderelationerna mellan lika stora byggnader vid skilda 
@@ -159,7 +158,7 @@ vara 1,0.
 SV-, SO- och FV-tabellerna ska utformas och värdefaktorerna 
 storlek, ålder, standard, fastighetsrättsliga förhållanden och 
 värdeordning klassindelas på det sätt som anges i bilaga 1.
-Förordning (2019:221).
+Förordning (2023:186).
 
 6 a § Har upphävts genom förordning (1997:452).
 
@@ -2198,3 +2197,10 @@ fastighetstaxering år 2022.
 
 2. Förordningen tillämpas första gången vid allmän 
 fastighetstaxering 2023.
+
+2023:186
+
+1. Denna förordning träder i kraft den 1 juni 2023.
+
+2. Förordningen tillämpas första gången vid förenklad 
+fastighetstaxering 2024.
