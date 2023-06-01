@@ -22,17 +22,18 @@ Lag (2022:596).
 
 - 7 kap. Kommunala elföretag,
 
-- 8 kap. Övergripande systemansvar och balansansvar m.m.,
+- 8 kap. Övergripande systemansvar och balansansvar,
+
+- 9 kap. Leverans av el och aggregeringstjänster,
 
 - 10 kap. Avbrottsersättning,
 
-- 11 kap. Särskilda bestämmelser om överföring och leverans av 
-el till konsumenter,
+- 11 kap. Avbrytande av överföring av el till konsumenter,
 
 - 12 kap. Tillsyn m.m., och
 
 - 13 kap. Övriga bestämmelser.
-Lag (2022:596).
+Lag (2023:238).
 
 3 § Bestämmelser om elsäkerhet finns i elsäkerhetslagen 
 (2016:732). Lag (2022:596).
@@ -51,15 +52,38 @@ energitillsynsmyndigheter,
 
 aggregering: en sammanslagning av flera elanvändares 
 förbrukning eller sammanslagning av producerad el för 
-försäljning, anskaffning eller auktionering på elmarknader, 
+försäljning, anskaffning eller auktionering på elmarknader,
+
+aggregeringstjänst: en tjänst som förutsätter aggregering, 
+
+balansansvar: det ekonomiska ansvaret för att det nationella 
+elsystemet tillförs lika mycket el som tas ut i en uttagspunkt 
+eller att lika mycket el tas ut från systemet som det tillförs 
+i en inmatningspunkt,
 
 distribution: överföring av el för någon annans räkning genom 
-ett lokalnät eller ett regionnät, 
+ett lokalnät eller ett regionnät,
 
 distributionsnätsföretag: ett nätföretag som innehar ett 
 lokalnät eller ett regionnät,
 
-elleverantör: den som yrkesmässigt levererar el, 
+dynamiska elpriser: priser som återspeglar de priser som vid 
+varje tidpunkt gäller på spotmarknaderna med ett intervall som 
+minst motsvarar frekvensen för avräkning på marknaden,
+
+efterfrågeflexibilitet: att en elanvändare ändrar sin 
+förbrukning jämfört med sitt normala eller nuvarande 
+förbrukningsmönster som ett svar på marknadssignaler eller med 
+anledning av att någon har antagit elanvändarens anbud att 
+minska eller öka sin förbrukning mot en bestämd ersättning på 
+en sådan organiserad marknad som avses i artikel 2.4 i 
+kommissionens genomförandeförordning (EU) nr 1348/2014 av den 
+17 december 2014 om rapportering av uppgifter för att 
+genomföra artikel 8.2 och 8.6 i Europaparlamentets och rådets 
+förordning (EU) nr 1227/2011 om integritet och öppenhet på 
+grossistmarknaderna för energi,
+
+elleverantör: den som yrkesmässigt levererar el,
 
 elmarknadsdirektivet: Europaparlamentets och rådets direktiv 
 (EU) 2019/944 av den 5 juni 2019 om gemensamma regler för den 
@@ -70,15 +94,16 @@ energilagringsanläggning: en sådan anläggning i elsystemet som
 används för att i systemet skjuta upp den slutliga 
 användningen av el till en senare tidpunkt än 
 produktionstillfället eller för omvandling av elenergi till en 
-form 
-
-av energi som kan lagras, lagringen av den energin och den 
-följande återomvandlingen av energin till el eller någon annan 
-energibärare, 
+form av energi som kan lagras, lagringen av den energin och 
+den följande återomvandlingen av energin till el eller någon 
+annan energibärare,
 
 EU:s elmarknadsförordning: Europaparlamentets och rådets 
 förordning (EU) 2019/943 av den 5 juni 2019 om den inre 
-marknaden för el, 
+marknaden för el,
+
+fastkraftsavtal: avtal om att under en angiven tid leverera en 
+fastställd mängd el,
 
 icke frekvensrelaterad stödtjänst: en stödtjänst som används 
 av ett nätföretag för spänningsreglering i stationärt 
@@ -86,32 +111,46 @@ tillstånd, snabba inmatningar av reaktiv effekt, tröghet för
 upprätthållande av stabiliteten i lokalnät, kortslutningsström 
 samt förmåga till dödnätsstart och till ödrift,
 
+inmatningspunkt: den punkt på elnätet där en elproducent, 
+enligt avtal med ett nätföretag, matar in el från en 
+produktionsanläggning,
+
 intäktsram: de samlade intäkter som en nätkoncessionshavare 
 högst får uppbära från nätverksamheten under en 
-tillsynsperiod, 
+tillsynsperiod,
+
+konsument: en fysisk person som el överförs eller levereras 
+till huvudsakligen för ändamål som faller utanför 
+näringsverksamhet,
 
 laddningspunkt: ett gränssnitt där el kan överföras till ett 
 elfordon i taget eller där batteriet på ett elfordon i taget 
-kan bytas ut, 
+kan bytas ut,
+
+leveranspunkt: en inmatnings- eller uttagspunkt, 
 
 lokalnät: ett ledningsnät som omfattas av en nätkoncession för 
-område utan en lägsta tillåtna spänning, 
+område utan en lägsta tillåtna spänning,
 
 nätföretag: den som bedriver nätverksamhet,
 
-nätverksamhet: att med stöd av en nätkoncession ställa en 
+nätverksamhet: att med stöd av nätkoncession ställa en 
 starkströmsledning till förfogande för överföring av el för 
 någon annans räkning och vidta de åtgärder som behövs för 
-överföringen, 
+överföringen,
 
 regionnät: en ledning eller ett ledningsnät som inte ingår i 
 ett transmissionsnät och som omfattas av en nätkoncession för 
 linje eller av en nätkoncession för område med en lägsta 
 tillåtna spänning,
 
+små företag: företag som sysselsätter färre än 50 personer och 
+vars omsättning eller balansomslutning inte överstiger 
+10 miljoner euro per år,
+
 stödtjänst: en tjänst som behövs för driften av ett 
 nätföretags elnät med undantag för hantering av 
-överbelastning, 
+överbelastning,
 
 transmission: överföring av el för någon annans räkning genom 
 ett transmissionsnät,
@@ -119,10 +158,14 @@ ett transmissionsnät,
 transmissionsnät: ett tekniskt och driftsmässigt 
 sammanhängande ledningsnät som har en spänning om 220 kilovolt 
 eller mer, sträcker sig över flera nätregioner i Sverige och 
-länkar samman det nationella elnätet med elnät i andra länder, 
+länkar samman det nationella elnätet med elnät i andra länder,
 
 transmissionsnätsföretag: ett nätföretag som innehar en 
-ledning som ingår i ett transmissionsnät. Lag (2022:596).
+ledning som ingår i ett transmissionsnät,
+
+uttagspunkt: den punkt på ett elnät där en elanvändare, enligt 
+avtal med ett nätföretag, tar ut el för förbrukning.
+Lag (2023:238).
 
 Nätmyndighet
 
@@ -906,16 +949,16 @@ marknadsorienterat sätt. Lag (2022:596).
 
 6 § Ett nätföretag som anskaffar stödtjänster ska i 
 förhållande till elproducenter behandla aktörer som 
-tillhandahåller tjänster i form av ändrad elförbrukning genom 
-aggregering på ett icke-diskriminerande sätt på grundval av 
-aktörernas tekniska kapacitet. Lag (2022:596).
+tillhandahåller efterfrågeflexibilitet genom aggregering på 
+ett icke-diskriminerande sätt på grundval av aktörernas 
+tekniska kapacitet. Lag (2023:238).
 
 7 § Ett nätföretag får inte ingå avtal om stödtjänster förrän 
 nätmyndigheten har godkänt de metoder som har använts för att 
-utforma avtalen. 
+utforma avtalen.
 
-Första stycket gäller inte avtal enligt 8 kap. 4 § andra 
-stycket. Lag (2022:596).
+Första stycket gäller inte avtal enligt 8 kap. 14 §.
+Lag (2023:238).
 
 8 § Nätmyndigheten ska godkänna de metoder som avses i 7 § 
 första stycket, om metoderna kan antas leda till att 
@@ -969,9 +1012,13 @@ marknader för el,
 
 2. nätföretag och andra företag som är verksamma på 
 elmarknaden att samarbeta i frågor som rör möjligheten att 
-delta på marknader för stödtjänster, och
+delta på marknader för stödtjänster, 
 
-3. nätföretag att utbyta information. Lag (2022:596).
+3. nätföretag att utbyta information, och 
+
+4. nätföretag att sända underrättelser med anledning av att en 
+elleverantör påbörjar eller övertar leveranserna av el i en 
+uttagspunkt. Lag (2023:238).
 
 Tillåten verksamhet för ett nätföretag
 
@@ -1234,15 +1281,13 @@ Lag (2022:596).
 Förbud mot att försvåra efterfrågeflexibilitet
 
 41 § Ett nätföretag får inte ställa tekniska krav eller andra 
-villkor som försvårar tillhandahållandet av tjänster i form av 
-ändrad elförbrukning. Dock får de villkor ställas som behövs 
-med hänsyn till en säker, tillförlitlig och effektiv drift av 
-ledningsnätet. Lag (2022:596).
+villkor som försvårar efterfrågeflexibilitet. Dock får de 
+villkor ställas som behövs för en säker, tillförlitlig och 
+effektiv drift av ledningsnätet. Lag (2023:238).
 
 42 § Regeringen eller den myndighet som regeringen bestämmer 
 får meddela föreskrifter om vilka tekniska krav som nätföretag 
-får ställa i fråga om sådana tjänster som avses i 41 §.
-Lag (2022:596).
+får ställa i fråga om efterfrågeflexibilitet. Lag (2023:238).
 
 Ersättning vid inmatning av el
 
@@ -1516,10 +1561,8 @@ att underlätta anslutningen av anläggningar för produktion av
 förnybar el, ska avgiften för anslutning utformas så att den 
 som vill ansluta en anläggning ersätter nätföretagets 
 kostnader för sådana åtgärder i den del som svarar mot 
-anläggningens andel 
-
-av den totala kapacitetsökningen. Detta gäller även om 
-nätkoncessionen överlåts. Lag (2022:596).
+anläggningens andel av den totala kapacitetsökningen. Detta 
+gäller även om nätkoncessionen överlåts. Lag (2022:596).
 
 11 § En elanvändare som har ett abonnemang för en säkring om 
 högst 63 ampere ska inte betala någon avgift för att ansluta 
@@ -1773,45 +1816,76 @@ nätföretaget skickat ett skriftligt ställningstagande till den
 berörda parten under partens senaste kända adress.
 Lag (2022:596).
 
-Fakturering
+Hantering av klagomål
 
-40 § Ett nätföretags faktura till en elanvändare ska vara 
-tydlig.
+40 § Ett nätföretag ska ha fastställda rutiner för hanteringen 
+av klagomål från kunder som är konsumenter. Lag (2023:238).
 
-Nätföretaget ska ge den elanvändare som begär det en 
-förklaring till hur det belopp som anges i fakturan har 
-beräknats. Lag (2022:596).
+Information om avtalsvillkor och andra uppgifter
 
-41 § Ett nätföretag får inte ta ut någon avgift för fakturor 
-och faktureringsinformation till elanvändare.
+41 § Ett avtal mellan en konsument och ett nätföretag ska 
+innehålla uppgifter om
 
-Nätföretaget ska erbjuda elanvändaren fakturor i elektronisk 
-form. Lag (2022:596).
+1. nätföretagets namn, adress, telefonnummer och webbplats,
+
+2. när avtalet träffas och dess giltighetstid,
+
+3. nätföretagets åtagande gentemot konsumenten,
+
+4. villkoren för fakturering och betalning,
+
+5. villkoren för uppsägning av avtalet,
+
+6. villkoren för ersättning om nätföretaget inte uppfyller 
+sitt åtagande enligt avtalet,
+
+7. var konsumenten kan hitta information om nätföretagets 
+priser och övriga villkor, och
+
+8. hur konsumentrelaterad information tillhandahålls.
+Lag (2023:238).
 
 42 § Regeringen eller den myndighet som regeringen bestämmer 
-får meddela föreskrifter om vilken information ett nätföretags 
-faktura till en elanvändare ska innehålla och hur fakturan ska 
-utformas. Lag (2022:596).
+får meddela föreskrifter om vilken konsumentrelaterad 
+information ett nätföretag ska tillhandahålla och hur 
+informationen ska tillhandahållas. Lag (2023:238).
+
+Fakturering och information som nätföretag ska lämna till 
+elanvändare
+
+43 § Regeringen eller den myndighet som regeringen bestämmer 
+får meddela föreskrifter om nätföretags fakturering av 
+elanvändare och om skyldighet för nätföretag att lämna viss 
+information till elanvändaren i samband med fakturering.
+Lag (2023:238).
+
+44 § Ett nätföretag får inte ta ut någon avgift för att 
+tillhandahålla elanvändaren fakturor och information enligt 
+43 §. Lag (2023:238).
+
+45 § Om ett nätföretag tillämpar ett system med 
+förskottsbetalning, ska villkoren vara skäliga.
+Lag (2023:238).
 
 Förhandsprövning av villkor
 
-43 § Ett nätföretag får inte ingå avtal i frågor om anslutning 
-till elnätet eller överföring av el förrän de metoder som 
-används för att utforma avtalsvillkoren har prövats av 
+46 § Ett nätföretag får inte ingå avtal i frågor om anslutning 
+till elnätet eller överföring av el förrän de metoder som ska 
+användas för att utforma avtalsvillkoren har prövats av 
 nätmyndigheten. Prövningen ska dock inte omfatta metoder för 
 att utforma avgifter för anslutning eller överföring.
-Lag (2022:596).
+Lag (2023:238).
 
-44 § Nätmyndigheten ska godkänna de metoder som ska prövas 
-enligt 43 §, om de kan antas leda till att villkoren i avtalen 
+47 § Nätmyndigheten ska godkänna de metoder som ska prövas 
+enligt 46 §, om de kan antas leda till att villkoren i avtalen 
 blir objektiva och icke-diskriminerande.
 
-Om nätmyndigheten inte godkänner en metod, ska myndigheten i 
-beslutet ange hur villkoren i stället ska utformas.
+Om nätmyndigheten inte godkänner en metod, ska myndigheten 
+ange i beslutet hur villkoren i stället ska utformas.
 
 Beslut enligt denna paragraf gäller omedelbart. Nätmyndigheten 
 ska delge sådana beslut enligt 49 § första stycket 1 och andra 
-stycket delgivningslagen (2010:1932). Lag (2022:596).
+stycket delgivningslagen (2010:1932). Lag (2023:238).
 
 5 kap. Intäktsram för nätverksamhet
 
@@ -2268,7 +2342,10 @@ Rapportering av mätresultat
 
 3 § Ett nätföretag ska på begäran rapportera resultaten av de 
 mätningar som görs enligt 1 § till ett företag som 
-elanvändaren eller elproducenten har utsett. Lag (2022:596).
+elanvändaren eller elproducenten har utsett. På begäran av 
+elanvändaren ska nätföretaget även lämna uppgifter om 
+elanvändarens historiska elförbrukning till ett företag som 
+elanvändaren har utsett. Lag (2023:238).
 
 4 § Regeringen eller den myndighet som regeringen bestämmer 
 får meddela föreskrifter om skyldighet för nätföretag att 
@@ -2348,7 +2425,7 @@ kommunallagen (2017:725) bedriver sådan verksamhet som avses
 i 1 § 1, ska verksamheten drivas på affärsmässig grund och 
 redovisas särskilt. Lag (2017:740).
 
-8 kap. Övergripande systemansvar och balansansvar m.m.
+8 kap. Övergripande systemansvar och balansansvar
 
 Övergripande systemansvar
 
@@ -2356,72 +2433,73 @@ redovisas särskilt. Lag (2017:740).
 övergripande ansvaret för att elektriska anläggningar 
 samverkar driftsäkert så att balans inom hela eller delar av 
 landet kortsiktigt upprätthålls mellan produktion och 
-förbrukning av el (systemansvarig myndighet). 
-Lag (2018:435).
+förbrukning av el (systemansvarig myndighet). Lag (2023:238).
 
-1 a § Har betecknats 8 kap. 3 b § genom lag (2018:435).
+Särskilda åtgärder för att öka eller minska produktionen eller 
+förbrukningen av el
 
-2 § Den systemansvariga myndigheten får, i den utsträckning
-det behövs för att kunna utöva systemansvaret, beordra
-elproducenter att, mot marknadsmässig ersättning, öka eller
-minska produktionen av el.
+2 § I den utsträckning som det behövs för att den 
+systemansvariga myndigheten ska kunna utöva det övergripande 
+systemansvaret får myndigheten beordra
 
-Om systemansvaret inte kan utövas genom åtgärder som nämns i
-första stycket, får den systemansvariga myndigheten, i den
-utsträckning det behövs för att kunna utöva systemansvaret,
-beordra innehavare av nätkoncession att begränsa eller avbryta
-överföring av el till elanvändare. I den utsträckning
-systemansvaret så medger ska begränsning och avbrytande av
-överföringen genomföras så att samhällsviktiga elanvändare
-prioriteras.
+1. balansansvariga att öka eller minska produktionen eller 
+förbrukningen av el, och 
 
-Regeringen, eller den myndighet som regeringen bestämmer, får
-meddela föreskrifter om de åtgärder som behövs för att öka
-eller minska produktionen av el enligt första stycket och för
-att begränsa eller avbryta överföring av el till elanvändare
-enligt andra stycket. Lag (2011:476).
+2. elproducenter att öka eller minska produktionen av el.
+Lag (2023:238).
 
-3 § Regeringen får meddela föreskrifter om skyldighet för
-elproducenter och elanvändare att till den systemansvariga
-myndigheten lämna de uppgifter om produktion eller konsumtion
-av el som behövs för utövandet av systemansvaret.
+3 § Den som enligt 2 § ska öka eller minska produktionen eller 
+förbrukningen av el har rätt att av den systemansvariga 
+myndigheten få marknadsmässig ersättning för ökningen eller 
+minskningen. Lag (2023:238).
 
-3 a § Den systemansvariga myndigheten får inte ställa upp
-krav som utesluter elproducenter från att tillhandahålla
-tjänster med anknytning till det övergripande systemansvaret
-med hänvisning endast till kraftslag. Myndigheten ska
-anskaffa sådana tjänster från elproducenter på ett öppet,
-icke-diskriminerande och marknadsorienterat sätt.
-Lag (2014:270).
+4 § Den systemansvariga myndigheten beslutar om ersättning 
+enligt 3 §. Lag (2023:238).
+
+5 § Om det övergripande systemansvaret inte kan utövas med 
+åtgärder enligt 2 §, får den systemansvariga myndigheten i den 
+utsträckning som behövs beordra nätföretag att begränsa eller 
+avbryta överföring av el till elanvändare.
+
+I den utsträckning det övergripande systemansvaret medger det 
+ska begränsningen eller avbrytandet genomföras så att 
+samhällsviktiga elanvändare prioriteras. Lag (2023:238).
+
+6 § Regeringen eller den myndighet som regeringen bestämmer 
+får meddela föreskrifter om de åtgärder som får vidtas enligt 
+2 och 5 §§. Lag (2023:238).
+
+Skyldighet att lämna uppgifter till den systemansvariga 
+myndigheten
+
+7 § Regeringen eller den myndighet som regeringen bestämmer 
+får meddela föreskrifter om skyldighet för balansansvariga och 
+innehavare av elektriska anläggningar att till den 
+systemansvariga myndigheten lämna de uppgifter om produktion, 
+överföring eller förbrukning av el som behövs för utövandet av 
+det övergripande systemansvaret. Lag (2023:238).
+
+Tjänster med anknytning till det övergripande systemansvaret
+
+8 § Den systemansvariga myndigheten ska anskaffa tjänster med 
+anknytning till det övergripande systemansvaret från 
+elproducenter på ett öppet, icke-diskriminerande och 
+marknadsorienterat sätt.
+
+Myndigheten får inte med hänvisning enbart till kraftslag 
+ställa upp villkor som utesluter elproducenter från att 
+tillhandahålla tjänster med anknytning till det övergripande 
+systemansvaret. Lag (2023:238).
 
 Driftsäkerhet
 
-3 b § Den systemansvariga myndigheten ska fastställa mål 
-för driftsäkerhet under förutsebara förhållanden på 
-transmissionsnät i Sverige och på de utlandsförbindelser som 
-är anslutna till ett sådant transmissionsnät. Målen ska vara 
-objektiva, öppna och icke-diskriminerande. De ska 
-underställas regeringen för godkännande. Regeringen bestämmer 
-hur de godkända målen ska offentliggöras.
+9 § Regeringen eller den myndighet som regeringen bestämmer 
+får meddela föreskrifter om sådana generellt tillämpliga krav 
+för anslutning av anläggningar till elnätet som avses i
 
-Regeringen eller den myndighet som regeringen bestämmer får 
-meddela föreskrifter om de krav och skyldigheter som måste 
-iakttas för att de enligt första stycket godkända målen ska 
-uppnås.
-
-Innan föreskrifterna meddelas ska samråd ske med 
-systemansvariga i länder vars elsystem är förbundna med 
-transmissionsnät i Sverige. Lag (2018:1448).
-
-3 c § Regeringen eller den myndighet som regeringen 
-bestämmer får meddela föreskrifter om sådana generellt 
-tillämpliga krav för anslutning av anläggningar till elnätet 
-som avses i 
-
-1. artikel 7.1 i kommissionens förordning (EU) 2016/631 av 
-den 14 april 2016 om fastställande av nätföreskrifter med 
-krav för nätanslutning av generatorer, i den ursprungliga 
-lydelsen,
+1. artikel 7.1 i kommissionens förordning (EU) 2016/631 av den 
+14 april 2016 om fastställande av nätföreskrifter med krav för 
+nätanslutning av generatorer, i den ursprungliga lydelsen,
 
 2. artikel 6.1 i kommissionens förordning (EU) 2016/1388 av 
 den 17 augusti 2016 om fastställande av nätföreskrifter för 
@@ -2431,448 +2509,638 @@ anslutning av förbrukare, i den ursprungliga lydelsen, och
 den 26 augusti 2016 om fastställande av nätföreskrifter med 
 krav för nätanslutning av system för högspänd likström och 
 likströmsanslutna kraftparksmoduler, i den ursprungliga 
-lydelsen. Lag (2018:435).
+lydelsen. Lag (2023:238).
 
-3 d § Regeringen eller den myndighet som regeringen 
-bestämmer får meddela föreskrifter om kontroll, provning, 
-besiktning eller andra krav för att säkerställa 
-driftsäkerheten hos det nationella elsystemet när det 
-gäller
+10 § Regeringen eller den myndighet som regeringen bestämmer 
+får meddela föreskrifter om kontroll, provning, besiktning 
+eller andra krav för att säkerställa driftsäkerheten hos det 
+nationella elsystemet när det gäller
 
-1. elektriska anläggningar, 
+1. elektriska anläggningar,
 
 2. anordningar avsedda att anslutas till en elektrisk 
-anläggning, 
+anläggning,
 
 3. elektrisk materiel, och
 
 4. elektriska installationer.
-Lag (2018:435).
+Lag (2023:238).
 
-3 e § Regeringen eller den myndighet som regeringen 
-bestämmer får meddela föreskrifter om sådant datautbyte som 
-avses i artikel 40.5 i kommissionens förordning (EU) 
-2017/1485 av den 2 augusti 2017 om fastställande av 
-riktlinjer för driften av elöverföringssystem, i den 
-ursprungliga lydelsen. Lag (2018:435).
+11 § Regeringen eller den myndighet som regeringen bestämmer 
+får meddela föreskrifter om sådant datautbyte som avses i 
+artikel 40.5 i kommissionens förordning (EU) 2017/1485 av den 
+2 augusti 2017 om fastställande av riktlinjer för driften av 
+elöverföringssystem, i den ursprungliga lydelsen. 
+Lag (2023:238).
 
-Balansansvar
+Krav på balansansvar
 
-4 § En elleverantör får bara leverera el i uttagspunkter där 
-någon har åtagit sig det ekonomiska ansvaret för att det 
-nationella elsystemet tillförs lika mycket el som tas ut i 
-uttagspunkten (balansansvar). Med uttagspunkt avses den punkt 
-där en elanvändare, enligt avtal med nätkoncessionshavaren, 
-tar ut el för förbrukning.
+12 § En elleverantör får leverera eller ta emot el endast i en 
+leveranspunkt där någon har åtagit sig balansansvaret.
 
-Ett åtagande enligt första stycket ska göras genom avtal dels 
-med den systemansvariga myndigheten, dels med den som utför 
-avräkningen mellan de balansansvariga. Avtalet med den 
-systemansvariga myndigheten ska innehålla ett åtagande att 
-säkerställa balans mellan tillförsel och uttag av el. Avtalet 
-med den som utför avräkningen mellan de balansansvariga ska 
-innehålla villkoren för avräkningen.
+Detta gäller dock inte under den tidsfrist som anges i 33 § 
+första stycket. Lag (2023:238).
 
-Första och andra styckena tillämpas inte under den tidsfrist 
-som anges i 4 e § första stycket. Lag (2015:598).
+13 § En leverantör av aggregeringstjänster får tillhandahålla 
+sådana tjänster i en leveranspunkt endast om någon har åtagit 
+sig ett balansansvar i leveranspunkten som särskilt avser de 
+obalanser som tjänsterna kan medföra. Lag (2023:238).
 
-4 a § Villkoren i avtalen enligt 4 § andra stycket ska vara 
+Avtal om balansansvar
+
+14 § Den som åtar sig balansansvar ska ingå avtal dels med den 
+systemansvariga myndigheten, dels med den som enligt 22 § 
+utför avräkningen mellan de balansansvariga.
+
+Villkoren i avtalen ska vara objektiva och icke-
+diskriminerande. Lag (2023:238).
+
+15 § Ett avtal enligt 14 § mellan den balansansvarige och den 
+systemansvariga myndigheten ska innehålla ett åtagande av den 
+balansansvarige
+
+1. att säkerställa balans mellan tillförsel och uttag av el, 
+och 
+
+2. att betala en ersättning till den systemansvariga 
+myndigheten om balansansvaret omfattar sådana obalanser som 
+kan uppkomma genom tillhandahållande av tjänster för 
+efterfrågeflexibilitet. 
+
+Ersättning enligt första stycket 2 ska motsvara sådana 
+kostnader som myndigheten enligt 26 § första stycket ska 
+kompensera elleverantörer för. Lag (2023:238).
+
+16 § När det gäller tillhandahållande av tjänster för 
+efterfrågeflexibilitet ska metoden för att beräkna 
+omfattningen av balansansvaret enligt 13 § eller den 
+ersättning som avses i 15 § första stycket 2 utformas så att
+
+1. den inte hindrar aggregering eller efterfrågeflexibilitet, 
+
+2. kompensationen för balansansvariga och elleverantörer avser 
+endast de kostnader för att anskaffa el som uppkommer under 
+aktiveringen av efterfrågeflexibiliteten, och 
+
+3. hänsyn tas till de fördelar som aggregeringstjänsten kan 
+innebära för någon annan som åtagit sig balansansvar eller som 
+levererar el i leveranspunkten. Lag (2023:238).
+
+17 § Ett avtal enligt 14 § mellan balansansvariga och den som 
+utför avräkningen mellan de balansansvariga ska innehålla 
+villkoren för avräkningen. Lag (2023:238).
+
+Förhandsprövning av villkor för balansansvar
+
+18 § Den systemansvariga myndigheten och den som utför 
+avräkningen mellan de balansansvariga får inte ingå avtal 
+enligt 14 § förrän de metoder som ska användas för att utforma 
+avtalen har godkänts av nätmyndigheten. Lag (2023:238).
+
+19 § Nätmyndigheten ska godkänna de metoder som avses i 18 §, 
+om metoderna kan antas leda till att villkoren i avtalen blir 
 objektiva och icke-diskriminerande.
 
-Den systemansvariga myndigheten och den som utför avräkningen 
-mellan de balansansvariga får inte ingå avtal enligt 4 § 
-andra stycket förrän de metoder som har använts för att 
-utforma avtalen har godkänts av nätmyndigheten. Godkännande 
-ska lämnas, om metoderna kan antas leda till att villkoren i 
-avtalen uppfyller kraven i första stycket.
+Nätmyndighetens beslut i fråga om godkännande gäller 
+omedelbart. Nätmyndigheten ska delge beslutet enligt 49 § 
+första stycket 1 och andra stycket delgivningslagen 
+(2010:1932). Lag (2023:238).
 
-Ett beslut enligt andra stycket gäller omedelbart. 
-Nätmyndigheten ska delge beslutet enligt 49 § första stycket 
-1 och andra stycket delgivningslagen (2010:1932). 
-Lag (2015:598).
+Offentliggörande av villkor för balansansvar
 
-4 b § Den systemansvariga myndigheten och den som utför 
-avräkningen mellan de balansansvariga ska offentliggöra de 
-villkor som de tillämpar i avtalen enligt 4 § andra stycket 
-och på begäran utan dröjsmål lämna skriftlig uppgift om 
-villkoren.
+20 § Den systemansvariga myndigheten och den som utför 
+avräkningen mellan de balansansvariga ska offentliggöra 
+villkoren i sådana avtal som avses i 14 § och på begäran utan 
+dröjsmål ge den som begär det skriftlig information om 
+villkoren. Lag (2023:238).
 
-Regeringen eller, efter regeringens bemyndigande, 
-nätmyndigheten får meddela föreskrifter om offentliggörande 
-av villkor enligt första stycket. Lag (2015:598).
+Anskaffning av produktionskapacitet för att fullgöra ett 
+åtagande
 
-4 c § När den systemansvariga myndigheten får kännedom om att 
-ett avtal enligt 4 § andra stycket ska upphöra att gälla, ska 
-myndigheten utan dröjsmål underrätta de nätkoncessionshavare 
-på vars ledningsnät de uttagspunkter är belägna där 
-balansansvaret kommer att upphöra att gälla. 
-Nätkoncessionshavarna ska utan dröjsmål underrätta berörda 
-elleverantörer.
-
-När någon, som i ett avtal med en elleverantör har åtagit sig 
-balansansvaret i de uttagspunkter där elleverantören 
-levererar el, får kännedom om att detta avtal ska upphöra att 
-gälla, ska den balansansvarige utan dröjsmål underrätta den 
-systemansvariga myndigheten och de nätkoncessionshavare på 
-vars ledningsnät de uttagspunkter är belägna där 
-balansansvaret kommer att upphöra att gälla. 
-Nätkoncessionshavarna ska utan dröjsmål underrätta 
-elleverantören.
-
-Regeringen eller den myndighet som regeringen bestämmer kan 
-med stöd av 8 kap. 7 § regeringsformen meddela närmare 
-föreskrifter om underrättelseskyldigheterna i första och 
-andra styckena. Lag (2015:598).
-
-4 d § En elleverantör får ingå avtal om leverans av el i en
-viss uttagspunkt endast med den elanvändare som enligt avtal
-med nätkoncessionshavaren har rätt att ta ut el i den
-uttagspunkten. Lag (2006:926).
-
-4 e § En elleverantör som med omedelbar verkan förlorat sitt
-balansansvar äger återställa balansansvaret inom en tidsfrist
-om tio vardagar, dock högst femton kalenderdagar. Tidsfristen
-börjar löpa dagen efter den då elleverantören tagit del av
-eller haft möjlighet att ta del av den först mottagna
-underrättelsen enligt 4 c § första eller andra stycket.
-
-Den tidsfrist för att återställa balansansvaret som anges i
-första stycket gäller också en elleverantör vars avtal om
-balansansvar sagts upp och upphör att gälla före fristens
-utgång.
-
-Första och andra styckena gäller inte om elleverantören trätt
-i likvidation, ställt in betalningarna, försatts i konkurs
-eller förklarat sig inte ha för avsikt att återställa
-balansansvaret.
-
-Om elleverantören under tidsfristen träder i likvidation,
-ställer in betalningarna, försätts i konkurs, eller förklarar
-sig inte ha för avsikt att återställa balansansvaret upphör
-tidsfristen omedelbart att löpa. Lag (2009:580).
-
-4 f § En elleverantör som under tidsfristen återställer sitt
-balansansvar ska underrätta berörda nätkoncessionshavare om
-vem som har åtagit sig balansansvaret i de uttagspunkter där
-elleverantören levererar el. En sådan underrättelse ska ha
-mottagits av nätkoncessionshavaren innan tidsfristen har löpt
-ut.
-
-Ett balansansvar som en ny balansansvarig åtagit sig gäller,
-trots det som anges i 9 §, från och med dagen efter det att
-berörd nätkoncessionshavare mottagit underrättelsen från
-elleverantören.
-
-Om nätkoncessionshavaren inte har mottagit en underrättelse
-från elleverantören om vem som är ny balansansvarig i berörda
-uttagspunkter innan tidsfristen har löpt ut, ska
-nätkoncessionshavaren dagen efter fristens utgång anvisa
-berörda elanvändare en elleverantör. Denne ska gentemot
-nätkoncessionshavaren ha åtagit sig att leverera el till
-elanvändare som saknar elleverantör. Ett balansansvar som en
-ny balansansvarig åtagit sig gäller, trots det som anges i
-9 §, från och med dagen för anvisningen.
-
-Nätkoncessionshavaren ska utan dröjsmål underrätta
-elanvändarna om vilken elleverantör som har anvisats och om
-ellagens bestämmelser om byte av elleverantör. Den anvisade
-elleverantören ska utan dröjsmål underrätta elanvändarna om
-de villkor för leveransen som elleverantören tillämpar.
-
-Regeringen eller, efter regeringens bemyndigande,
-nätmyndigheten meddelar närmare föreskrifter om de
-underrättelser som anges i första och fjärde styckena.
-Lag (2009:580).
-
-4 g § Om en elleverantör inte äger återställa balansansvaret
-enligt 4 e § eller om en sådan tidsfrist som avses där upphör
-att löpa enligt 4 e § fjärde stycket, ska
-nätkoncessionshavaren så snart som möjligt anvisa berörda
-elanvändare en elleverantör, som gentemot
-nätkoncessionshavaren har åtagit sig att leverera el till
-elanvändare som saknar elleverantör. Den nye balansansvariges
-balansansvar gäller, trots det som anges i 9 §, från och med
-dagen för anvisningen.
-
-Nätkoncessionshavaren ska utan dröjsmål underrätta
-elanvändarna om vilken elleverantör som har anvisats och om
-ellagens bestämmelser om byte av elleverantör. Den anvisade
-elleverantören ska utan dröjsmål underrätta elanvändarna om
-de villkor för leveransen som elleverantören tillämpar.
-Lag (2009:580).
-
-5 § En elleverantör som levererar el till en elanvändare i en
-viss uttagspunkt är, oavsett vad som avtalats, skyldig att
-fortsätta leverera el tills leveransskyldigheten upphör
-enligt andra stycket.
-
-Leveransskyldigheten upphör om elanvändaren slutar att ta ut
-el i uttagspunkten, om någon annan elleverantör börjar
-leverera el till elanvändaren i uttagspunkten eller om
-överföringen av el enligt 11 kap. 3 eller 4 § eller enligt
-avtal får avbrytas på grund av att elanvändaren har försummat
-sina skyldigheter gentemot elleverantören.
-
-Den elleverantör som har ett tidsbestämt avtal med
-elanvändaren om leverans av el ska tidigast 90 dagar och
-senast 60 dagar före det att avtalet löper ut informera
-elanvändaren om
-
-1. tidpunkten för avtalets upphörande, och
-
-2. konsekvenserna av avtalets upphörande.
-
-Bestämmelserna i denna paragraf gäller inte de elleverantörer
-som avses i 7 §.
-
-Regeringen eller den myndighet som regeringen bestämmer
-meddelar närmare föreskrifter om elleverantörernas
-informationsskyldighet enligt tredje stycket. Lag (2009:580).
-
-5 a § En elleverantör som levererar el till en elanvändare
-som har rätt till skattereduktion för mikroproduktion av
-förnybar el enligt 67 kap. inkomstskattelagen (1999:1229) är
-skyldig att ta emot den el som matas in från elanvändarens
-produktionsanläggning.
-
-Första stycket gäller inte om elanvändaren har ingått avtal
-med någon annan om att ta emot elen. Lag (2014:1467).
-
-6 § En elleverantör, som ska börja leverera el i en
-uttagspunkt eller överta leveranserna till en elanvändare i
-dennes uttagspunkt, ska anmäla detta till berörd innehavare av
-nätkoncession. Anmälan ska även innehålla en uppgift om vem
-som har åtagit sig balansansvaret i uttagspunkten. En anmälan
-om att börja leverera el ska göras omedelbart.
-
-En elleverantör får överta leveranserna till en elanvändare i
-dennes uttagspunkt fjorton dagar efter anmälan enligt första
-stycket.
-
-Bestämmelserna i första och andra styckena gäller inte de
-elleverantörer som avses i 7 §.
-
-En innehavare av nätkoncession som tar emot en anmälan enligt
-första stycket ska sända underrättelser i anledning därav
-enligt de närmare föreskrifter som meddelas av regeringen
-eller, efter regeringens bemyndigande, nätmyndigheten.
-Regeringen eller, efter regeringens bemyndigande,
-nätmyndigheten får meddela ytterligare föreskrifter om
-elleverantörers skyldigheter enligt första stycket.
-Lag (2011:712).
-
-7 § En elleverantör som avser att under en angiven tid leverera
-en fastställd mängd el till en elanvändare skall anmäla detta
-till den elleverantör som enligt 5 § första stycket är
-leveransskyldig i elanvändarens uttagspunkt och till den som
-har åtagit sig balansansvaret i uttagspunkten.
-Lag (1999:770).
-
-8 § Elanvändare som saknar leveransavtal med en elleverantör 
-ska av berörd nätkoncessionshavare anvisas en elleverantör, 
-som gentemot nätkoncessionshavaren har åtagit sig att på 
-skäliga villkor leverera el till sådana elanvändare. 
-Metoderna för att utforma leveransvillkoren ska framgå av 
-avtalet mellan nätkoncessionshavaren och elleverantören.
-
-Nätkoncessionshavaren ska utan dröjsmål underrätta 
-elanvändaren om vilken elleverantör som anvisats, om 
-innebörden av en sådan anvisning och om ellagens bestämmelser 
-om byte av elleverantör. Lag (2017:18).
-
-8 a § Den anvisade elleverantören ska utan dröjsmål 
-underrätta elanvändaren om de villkor för leveransen som 
-elleverantören avser att tillämpa och om den dag då 
-elleverantören avser att påbörja leveransen enligt avtalet. I 
-underrättelsen ska det anges att avtalet är ett anvisat 
-avtal.
-
-Ett anvisat avtal får inte ha en längre uppsägningstid än 14 
-dagar. Lag (2017:18).
-
-8 b § Regeringen får meddela föreskrifter om att de priser 
-som en anvisad elleverantör tillämpar för leverans till en 
-elanvändare enligt 8 § inte får överstiga vissa nivåer under 
-en viss tid efter det att anvisning skett. Lag (2017:18).
-
-8 c § En anvisad elleverantör ska minst en gång per kvartal 
-särskilt lämna följande information till elanvändare med 
-anvisat avtal:
-
-1. en redogörelse för vilka avtalstyper som elleverantören 
-erbjuder samt uppgift om priser och leveransvillkor, och
-
-2. uppgift om var elanvändaren, oberoende av elleverantören, 
-kan hitta information om priser och leveransvillkor som andra 
-elleverantörer tillämpar för leverans av el till 
-elanvändare. Lag (2017:18).
-
-8 d § Nätkoncessionshavaren ska anvisa en elleverantör för en 
-elanvändare trots att elanvändaren har ett leveransavtal med 
-en elleverantör, om elanvändaren har förbrukat el som inte 
-har levererats enligt ett leveransavtal med en elleverantör 
-som är leveransskyldig enligt 5 § och elanvändaren inte har 
-anvisats en ny elleverantör enligt 8 §. Anvisningen ska avse 
-den tid som elanvändaren har saknat ett leveransavtal.
-Lag (2017:18).
-
-8 e § En elanvändare som har förbrukat el som inte har 
-levererats enligt ett leveransavtal med en elleverantör som 
-är leveransskyldig enligt 5 § ska betala för elen till den 
-elleverantör som elanvändaren anvisas enligt 8 eller 8 d § 
-och enligt de villkor som leverantören tillämpar.
-Lag (2017:18).
-
-9 § Den som övertar balansansvaret i en elanvändares
-uttagspunkt efter en anmälan enligt 6 § första stycket får
-göra det från och med den dag då elleverantören övertar
-leveranserna.
-
-I andra fall får balansansvaret bara övertas från och med den
-första dagen i en kalendermånad. Den elleverantör som enligt
-5 § första stycket är leveransskyldig i uttagspunkten ska
-enligt de närmare föreskrifter som regeringen eller, efter
-regeringens bemyndigande, nätmyndigheten meddelar underrätta
-berörd innehavare av nätkoncession om övertagandet senast en
-månad innan det ska ske.
-
-Den systemansvariga myndigheten får, om det finns särskilda
-skäl, i det enskilda fallet medge att balansansvaret i en
-uttagspunkt ska börja gälla tidigare än vad som följer av
-andra stycket.
-
-En innehavare av nätkoncession som tar emot en anmälan enligt
-andra stycket ska sända underrättelser i anledning därav
-enligt de närmare föreskrifter som meddelas av regeringen
-eller, efter regeringens bemyndigande, nätmyndigheten.
-Lag (2011:712).
-
-10 § En innehavare av nätkoncession ska enligt de närmare
-föreskrifter som meddelas av regeringen eller av den
-myndighet som regeringen bestämmer hålla den systemansvariga
-myndigheten underrättad om byte av balansansvarig enligt
-4 f § första och tredje styckena, 4 g § första stycket och
-9 §.
-
-Nätkoncessionshavaren ska dessutom hålla den systemansvariga
-myndigheten underrättad om vem som har åtagit sig
-balansansvaret för hans egna inköp. Lag (2009:580).
-
-11 § Den systemansvariga myndigheten ska ansvara för att 
-avräkning sker mellan de balansansvariga. Myndigheten får 
-uppdra åt någon annan att utföra avräkningen.
-Lag (2015:598).
-
-11 a § En elleverantör som har levererat el till en 
-uttagspunkt där det saknas någon som är balansansvarig ska 
-anses som balansansvarig för uttagspunkten vid avräkning 
-enligt 11 §. Ersättning ska betalas enligt villkor som 
-motsvarar villkor för andra balansansvariga enligt sådana 
-avtal som avses i 4 § andra stycket tredje meningen.
-Lag (2015:598).
-
-11 b § En elleverantör ska till nätmyndigheten lämna uppgift 
-om de priser och leveransvillkor som elleverantören tillämpar 
-för leverans av el i en elanvändares uttagspunkt.
-
-Regeringen eller den myndighet som regeringen bestämmer kan 
-med stöd av 8 kap. 7 § regeringsformen meddela närmare 
-föreskrifter om elleverantörens skyldigheter enligt första 
-stycket. Lag (2016:914).
-
-11 c § En balansansvarig, som använder någon annans 
+21 § En balansansvarig som använder någon annans 
 produktionskapacitet särskilt för att fullgöra sina åtaganden 
-enligt sådana avtal som avses i 4 § andra stycket, får inte 
-ställa upp villkor som utesluter elproducenter från att 
-tillhandahålla sådan kapacitet med hänvisning endast till 
-kraftslag. Den balansansvarige ska anskaffa kapacitet på ett 
-öppet, icke-diskriminerande och marknadsorienterat sätt.
-Lag (2015:598).
+enligt sådana avtal som avses i 14 § får inte ställa upp 
+villkor som utesluter elproducenter från att tillhandahålla 
+sådan kapacitet med hänvisning endast till kraftslag. Den 
+balansansvarige ska anskaffa kapacitet på ett öppet, icke-
+diskriminerande och marknadsorienterat sätt. Lag (2023:238).
 
-Angivande av elens ursprung
+Balansavräkning
 
-12 § Elleverantörer ska på eller i samband med fakturor
-avseende försäljning av el och i reklam som vänder sig till
-elanvändare lämna uppgift om
+22 § Den systemansvariga myndigheten ska ansvara för att 
+avräkning sker mellan de balansansvariga. Myndigheten får 
+uppdra åt någon annan att utföra avräkningen. Lag (2023:238).
 
-1. varje enskild energikällas andel av den genomsnittliga
-sammansättning av energikällor som använts för att framställa
-den el som elleverantören sålde under närmast föregående
-kalenderår, och
+23 § En elleverantör som har levererat eller tagit emot el i 
+en leveranspunkt där det saknas någon som är balansansvarig 
+ska vid avräkning enligt 22 § anses som balansansvarig för 
+leveranspunkten. Lag (2023:238).
 
-2. den inverkan på miljön i form av utsläpp av koldioxid samt
-den mängd kärnbränsleavfall som framställningen av den
-försålda elen har orsakat.
+24 § Den som utför aggregeringstjänster i en leveranspunkt för 
+vilken det saknas någon som har åtagit sig balansansvar för 
+obalanser som tjänsterna kan medföra ska vid avräkning enligt 
+22 § anses ha åtagit sig ett sådant ansvar. Lag (2023:238).
 
-Om elleverantören har köpt el på en elbörs eller importerat
-den från företag som är belägna utanför Europeiska unionen får
-uppgifterna enligt första stycket 1 baseras på uppgifter som
-elbörsen eller företagen tillhandahållit.
+25 § Den som anses vara balansansvarig enligt 23 eller 24 § 
+ska betala ersättning till den systemansvariga myndigheten 
+enligt villkor som motsvarar villkor för balansansvariga 
+enligt sådana avtal som avses i 14 §. Lag (2023:238).
 
-De uppgifter som anges i första stycket 2 får lämnas genom
-hänvisning till referenskällor som är tillgängliga för
-allmänheten.
+Ersättning till elleverantörer
 
-Om en elleverantör överför ursprungsgarantier som avser energi
-från förnybara energikällor till en annan innehavare, ska den
-mängd energi som motsvarar ursprungsgarantierna dras från
-andelen energi från förnybara energikällor när uppgifter
-lämnas enligt första stycket 1.
+26 § Den systemansvariga myndigheten ska ersätta 
+elleverantörer som har anmält till myndigheten att de 
+levererar el i en uttagspunkt för sådana kostnader för att 
+anskaffa el som en leverantör av aggregeringstjänster orsakar 
+genom att tillhandahålla tjänster för efterfrågeflexibilitet i 
+uttagspunkten, om kostnaderna uppkommer under aktiveringen av 
+efterfrågeflexibiliteten.
 
-Regeringen eller, efter regeringens bemyndigande,
-nätmyndigheten får meddela närmare föreskrifter om hur sådana
-uppgifter som avses i första–fjärde styckena ska beräknas och
-redovisas för elanvändarna. Lag (2010:602).
+Ersättningen ska beräknas enligt grunder som anges i sådana 
+avtal som avses i 15 §. Lag (2023:238).
 
-13 § Elproducenter skall offentliggöra de uppgifter som
-elleverantörer behöver för att kunna fullgöra sina skyldigheter
-enligt 12 § första stycket.
+Övertagande av balansansvar i en leveranspunkt
 
-En elleverantör som inte producerar el skall på begäran av
-andra elleverantörer lämna de uppgifter som de behöver för att
-kunna fullgöra sina skyldigheter enligt 12 § första stycket.
+27 § Ett övertagande av balansansvaret enligt 12 § i en 
+leveranspunkt där någon har åtagit sig balansansvaret får, när 
+det inte samtidigt sker ett byte av elleverantör, göras endast 
+från och med den första dagen i en kalendermånad.
 
-Regeringen eller, efter regeringens bemyndigande,
-nätmyndigheten får meddela närmare föreskrifter om de
-skyldigheter som anges i första och andra styckena.
-Lag (2005:404).
+Balansansvaret får i ett sådant fall övertas endast om den 
+elleverantör som vill byta balansansvarig har informerat 
+nätföretaget om bytet senast en månad före övertagandet.
+Lag (2023:238).
 
-Fakturering och debitering
+28 § Den systemansvariga myndigheten får i det enskilda fallet 
+medge att balansansvaret i en leveranspunkt ska börja gälla 
+tidigare än vad som följer av 27 §, om det finns särskilda 
+skäl. Lag (2023:238).
 
-14 § Elleverantörer får inte debitera någon avgift för att 
-tillhandahålla elanvändarna fakturor och 
-faktureringsinformation om energianvändningen. 
-Lag (2022:596).
+29 § Regeringen eller den myndighet som regeringen bestämmer 
+får meddela föreskrifter om skyldighet för ett nätföretag att 
+sända underrättelser med anledning av en anmälan enligt 27 § 
+andra stycket. Lag (2023:238).
 
-15 § En elleverantörs debitering av kunderna ska avse
-uppmätta mängder.
+Underrättelser om att balansansvaret upphör
 
-Om elleverantören inte har fått tillgång till mätvärden, får
-debiteringen grundas på uppskattad förbrukning. Lag (2014:270).
+30 § Om den systemansvariga myndigheten får kännedom om att 
+ett avtal enligt 14 § ska upphöra att gälla, ska myndigheten 
+genast underrätta de nätföretag på vilkas ledningsnät de 
+leveranspunkter är belägna för vilka balansansvaret kommer att 
+upphöra. Detta gäller dock endast om det rör sig om ett avtal 
+som har ingåtts med någon som i ett avtal med en elleverantör 
+har åtagit sig balansansvaret i leveranspunkter där 
+elleverantören levererar eller tar emot el. Lag (2023:238).
 
-16 § En elleverantörs faktura till en elanvändare ska vara 
-tydlig. 
+31 § Den som i ett avtal med en elleverantör har åtagit sig 
+balansansvaret i de leveranspunkter där elleverantören 
+levererar eller tar emot el ska, när den får kännedom om att 
+avtalet ska upphöra att gälla, utan dröjsmål underrätta den 
+systemansvariga myndigheten och de nätföretag på vars 
+ledningsnät de leveranspunkter är belägna där balansansvaret 
+kommer att upphöra att gälla. Lag (2023:238).
 
-Fakturan ska innehålla information om den uppmätta 
-förbrukningen och de aktuella elpriser som fakturan grundas 
-på.
+32 § Ett nätföretag som tar emot en underrättelse enligt 30 
+eller 31 § ska utan dröjsmål underrätta berörda elleverantörer 
+om att balansansvaret kommer att upphöra. Lag (2023:238).
 
-Om leveransavtalet förutsätter att mängden överförd el mäts 
-per timme, får informationen göras tillgänglig via 
-elleverantörens webbplats. Fakturan ska då innehålla uppgift 
-om var elanvändaren kan hitta informationen. Lag (2017:18).
+Återställande av balansansvar
 
-17 § Regeringen eller den myndighet som regeringen bestämmer 
-får meddela ytterligare föreskrifter om vilken information en 
-elleverantörs faktura ska innehålla. Lag (2017:18).
+33 § En elleverantör som med omedelbar verkan förlorat sitt 
+balansansvar får återställa balansansvaret inom en tidsfrist 
+om tio vardagar, dock högst femton kalenderdagar. Tidsfristen 
+börjar löpa dagen efter den dag då elleverantören har tagit 
+del av eller haft möjlighet att ta del av den först mottagna 
+underrättelsen enligt 32 §.
 
-18 § En elleverantör ska fakturera elanvändaren åtminstone 
-varje kvartal.
+Den tidsfrist för att återställa balansansvaret som anges i 
+första stycket gäller också en elleverantör vars avtal om 
+balansansvar sagts upp och upphör att gälla före fristens 
+utgång. Lag (2023:238).
 
-Elleverantören ska erbjuda elanvändaren fakturor i 
-elektronisk form. Lag (2017:18).
+34 § En elleverantör kan inte återställa sitt balansansvar 
+enligt 33 § om elleverantören har trätt i likvidation, ställt 
+in betalningarna, försatts i konkurs eller har förklarat sig 
+inte ha för avsikt att återställa balansansvaret.
 
-9 kap. Har upphävts genom lag (2016:733).
+Om elleverantören under tidsfristen träder i likvidation, 
+ställer in betalningarna, försätts i konkurs eller förklarar 
+sig inte ha för avsikt att återställa balansansvaret, upphör 
+tidsfristen omedelbart att löpa. Lag (2023:238).
+
+35 § För att balansansvaret ska bli återställt ska 
+elleverantören underrätta berörda nätföretag om vem som har 
+åtagit sig balansansvaret i de leveranspunkter där 
+elleverantören levererar eller tar emot el. Underrättelsen ska 
+ha tagits emot inom tidsfristen. Lag (2023:238).
+
+36 § Ett återställt balansansvar gäller från och med dagen 
+efter det att en underrättelse enligt 35 § har tagits emot.
+Lag (2023:238).
+
+Anvisning av elleverantör när ett balansansvar har upphört
+
+37 § Om nätföretaget inte har tagit emot en underrättelse från 
+elleverantören om vem som är ny balansansvarig i berörda 
+leveranspunkter innan den tidsfrist som anges i 33 § har löpt 
+ut, ska nätföretaget dagen efter fristens utgång anvisa 
+berörda elanvändare eller elproducenter en elleverantör. Den 
+elleverantören ska gentemot nätföretaget ha åtagit sig att 
+leverera el till elanvändare eller ta emot el från 
+elproducenter som saknar en elleverantör. Lag (2023:238).
+
+38 § Om en elleverantör inte får återställa balansansvaret 
+enligt 33 § eller om den tidsfrist som anges där upphör att 
+löpa enligt 34 § andra stycket, ska nätföretaget så snart som 
+möjligt anvisa berörda elanvändare eller elproducenter en 
+elleverantör. Den elleverantören ska gentemot nätföretaget ha 
+åtagit sig att leverera el till elanvändarna eller ta emot el 
+från elproducenterna. Lag (2023:238).
+
+39 § Nätföretaget ska utan dröjsmål underrätta
+
+1. elanvändarna och elproducenterna om den elleverantör som 
+har anvisats enligt 37 eller 38 §, och 
+
+2. elanvändarna om bestämmelserna i denna lag om byte av 
+elleverantör. Lag (2023:238).
+
+40 § En elleverantör som har anvisats enligt 37 eller 38 § ska 
+utan dröjsmål underrätta
+
+1. elanvändarna om leverantörens villkor för leveransen, och
+
+2. elproducenterna om leverantörens villkor för mottagande av 
+el. Lag (2023:238).
+
+41 § Om ett nätföretag enligt 37 eller 38 § anvisar en 
+elleverantör, gäller ett balansansvar som en ny balansansvarig 
+åtagit sig från och med dagen för anvisningen. Lag (2023:238).
+
+Skyldighet för nätföretag att underrätta den systemansvariga 
+myndigheten
+
+42 § Ett nätföretag ska hålla den systemansvariga myndigheten 
+underrättad om vem som har åtagit sig balansansvaret för 
+nätföretagets egna inköp. Lag (2023:238).
+
+43 § Regeringen eller den myndighet som regeringen bestämmer 
+får meddela föreskrifter om skyldighet för ett nätföretag att 
+hålla den systemansvariga myndigheten underrättad om byte av 
+balansansvariga enligt detta kapitel. Lag (2023:238).
+
+9 kap. Leverans av el och aggregeringstjänster
+
+Leverans av el enligt leveransavtal
+
+1 § En elleverantör får ingå avtal om leverans av el i en 
+uttagspunkt enbart med den elanvändare som enligt avtal med 
+det berörda nätföretaget har rätt att ta ut el i 
+uttagspunkten. Lag (2023:238).
+
+2 § En elleverantör, som ska börja leverera el i en 
+uttagspunkt eller överta leveranserna till en elanvändare i 
+dennes uttagspunkt, ska omedelbart anmäla till det berörda 
+nätföretaget att leverans ska påbörjas. Anmälan ska även 
+innehålla en uppgift om vem som har åtagit sig balansansvaret 
+i uttagspunkten.
+
+En elleverantör får överta leveranserna till en elanvändare i 
+dennes uttagspunkt fjorton dagar efter anmälan.
+
+Första och andra styckena gäller inte elleverantörer som avser 
+att leverera el enligt fastkraftsavtal. Leverans får i dessa 
+fall påbörjas endast efter att elleverantören anmält det till 
+den elleverantör som enligt 14 § första stycket är 
+leveransskyldig i elanvändarens uttagspunkt och till den som 
+åtagit sig balansansvaret i den uttagspunkten. Lag (2023:238).
+
+Leverans av el om leveransavtal saknas
+
+3 § Nätföretaget ska anvisa en elleverantör till en 
+elanvändare som saknar ett leveransavtal med en elleverantör.
+
+Den elleverantör som anvisas ska ha åtagit sig gentemot 
+nätföretaget att leverera el till elanvändaren på skäliga 
+villkor. Metoderna för att utforma leveransvillkoren ska 
+framgå av avtalet mellan nätföretaget och elleverantören.
+Lag (2023:238).
+
+4 § Regeringen får meddela föreskrifter om att de priser som 
+en anvisad elleverantör tillämpar för leverans till en 
+elanvändare enligt 3 § under en viss tid efter det att 
+elleverantören har anvisats inte får överstiga vissa nivåer.
+Lag (2023:238).
+
+5 § Nätföretaget ska utan dröjsmål underrätta elanvändaren om
+
+1. vilken elleverantör som anvisats enligt 3 §, 
+
+2. innebörden av en sådan anvisning, och 
+
+3. bestämmelserna i denna lag om byte av elleverantör.
+Lag (2023:238).
+
+6 § En anvisad elleverantör ska utan dröjsmål underrätta 
+elanvändaren om de villkor för leveransen som elleverantören 
+avser att tillämpa och om den dag då elleverantören avser att 
+påbörja leveransen enligt det anvisade avtalet. I 
+underrättelsen ska det anges att avtalet är anvisat.
+Lag (2023:238).
+
+7 § En anvisad elleverantör ska minst en gång per kvartal 
+lämna följande information till elanvändaren:
+
+1. en redogörelse för vilka olika avtal som elleverantören 
+erbjuder samt uppgifter om priser och leveransvillkor för de 
+olika avtalen, och
+
+2. uppgifter om var elanvändaren, oberoende av elleverantören, 
+kan hitta information om priser och leveransvillkor som andra 
+elleverantörer tillämpar för leverans av el till elanvändare.
+Lag (2023:238).
+
+8 § Ett anvisat elavtal får inte ha
+
+1. en längre uppsägningstid än 14 dagar, eller 
+
+2. dynamiskt elpris.
+Lag (2023:238).
+
+9 § Nätföretaget ska anvisa en elleverantör till en 
+elanvändare fastän elanvändaren redan har ett leveransavtal 
+med en elleverantör, om elanvändaren
+
+1. har förbrukat el som inte har levererats enligt ett 
+leveransavtal med en elleverantör som är leveransskyldig 
+enligt 14 §, och
+
+2. inte har anvisats en ny elleverantör enligt 3 §. 
+
+Anvisningen ska avse den tid som elanvändaren har saknat ett 
+leveransavtal. Lag (2023:238).
+
+10 § En elanvändare som har förbrukat el som inte har 
+levererats enligt ett leveransavtal med en elleverantör som är 
+leveransskyldig enligt 14 § ska betala för elen till den 
+elleverantör som elanvändaren anvisas enligt 3 eller 9 § och 
+enligt de villkor som den anvisade elleverantören tillämpar.
+Lag (2023:238).
+
+Byte av elleverantör
+
+11 § En elleverantör ska på ett icke-diskriminerande sätt i 
+fråga om kostnader, arbete och tidsåtgång säkerställa att en 
+elanvändare kan byta elleverantör inom tre veckor från begäran 
+om byte.
+
+Ett byte av elleverantör ska vara kostnadsfritt för 
+konsumenter och små företag. Lag (2023:238).
+
+12 § När konsumenter eller små företag i förtid säger upp 
+tidsbestämda avtal om att el helt eller delvis ska levereras 
+till fast pris, får elleverantören, trots vad som sägs i 11 § 
+andra stycket, ta ut en avgift. Avgiften får endast avse 
+kostnader som hänför sig till den el som levereras till fast 
+pris, den ska vara skälig och får inte överstiga den direkta 
+ekonomiska förlust som den förtida uppsägningen orsakar.
+
+Avgiften får endast tas ut om det tydligt framgår av 
+elleveransavtalet att den får tas ut och vad den omfattar.
+Lag (2023:238).
+
+13 § Vid byte av elleverantör ska den frånträdande 
+elleverantören se till att elanvändaren får en slutfaktura 
+inom sex veckor från den dag då elleveransen upphörde.
+Lag (2023:238).
+
+Elleverantörens leveransskyldighet
+
+14 § En elleverantör som levererar el till en elanvändare i en 
+uttagspunkt är, oavsett vad som avtalats, skyldig att 
+fortsätta leverera el till dess
+
+1. elanvändaren slutar att ta ut el i uttagspunkten, 
+
+2. någon annan elleverantör börjar leverera el till 
+elanvändaren i uttagspunkten, eller 
+
+3. överföringen av el enligt 11 kap. 2 eller 3 § eller enligt 
+avtal får avbrytas på grund av att elanvändaren har åsidosatt 
+sina skyldigheter gentemot elleverantören. 
+
+Första stycket gäller inte leverans av el enligt ett 
+fastkraftsavtal. Lag (2023:238).
+
+15 § En elleverantör som har ett tidsbestämt avtal med 
+elanvändaren om leverans av el ska tidigast 90 dagar och 
+senast 60 dagar innan avtalet löper ut informera elanvändaren 
+om
+
+1. tidpunkten för avtalets upphörande, och 
+
+2. konsekvenserna av att avtalet upphör. 
+
+Första stycket gäller inte leverans av el enligt ett 
+fastkraftsavtal. Lag (2023:238).
+
+Elleverantörens skyldighet att ta emot el
+
+16 § En elleverantör som levererar el till en elanvändare som 
+enligt 67 kap. inkomstskattelagen (1999:1229) kan få 
+skattereduktion för mikroproduktion av förnybar el ska på 
+villkor som är skäliga ta emot den el som matas in från 
+elanvändarens produktionsanläggning.
+
+Första stycket gäller inte om elanvändaren har ingått avtal 
+med någon annan om att ta emot elen. Lag (2023:238).
+
+Dynamiska elpriser
+
+17 § Innan en elleverantör och en elanvändare ingår ett avtal 
+med dynamiskt elpris ska elleverantören informera elanvändaren 
+om vilka möjligheter, kostnader och risker som finns med ett 
+sådant avtal och särskilt inhämta elanvändarens samtycke till 
+de villkor som ett dynamiskt elpris innebär.
+
+Ett gällande elavtal får inte omvandlas till ett avtal med 
+dynamiskt elpris utan att elanvändaren har fått den 
+information som avses i första stycket och lämnat sitt 
+samtycke. Lag (2023:238).
+
+18 § En elleverantör som har leveransavtal med fler än 200 000 
+elanvändare ska kunna erbjuda avtal med dynamiska elpriser 
+till elanvändare som har en mätare och mätutrustning som kan 
+mäta mängden överförd el och registrera den med ett 
+tidsintervall som minst motsvarar frekvensen för avräkning på 
+marknaden. Lag (2023:238).
+
+Rutiner för hantering av klagomål
+
+19 § En elleverantör ska ha fastställda rutiner för att kunna 
+hantera klagomål från elanvändare på ett snabbt, enkelt och 
+rättvist sätt. Lag (2023:238).
+
+Elleverantörens skyldighet att lämna uppgifter till 
+nätmyndigheten om priser och leveransvillkor
+
+20 § En elleverantör ska lämna uppgifter till nätmyndigheten 
+om de priser och leveransvillkor som företaget tillämpar för 
+leverans av el i en elanvändares uttagspunkt. Lag (2023:238).
+
+Uppgifter i avtal mellan en elleverantör och en elanvändare
+
+21 § Ett avtal mellan en elleverantör och en elanvändare om 
+leverans av el i elanvändarens uttagspunkt ska innehålla 
+uppgifter om
+
+1. elleverantörens namn, adress, telefonnummer och webbplats,
+
+2. när avtalet träffas och vid vilken tidpunkt elleverantören 
+planerar att påbörja leveranserna till elanvändaren, 
+
+3. den tid som avtalet löper på eller om det löper tills 
+vidare, 
+
+4. vilka tjänster som avtalet omfattar,
+
+5. elleverantörens åtagande gentemot elanvändaren,
+
+6. villkoren för fakturering och betalning,
+
+7. vad som gäller i fråga om förlängning av ett avtal som 
+löper under en viss tid,
+
+8. villkoren för uppsägning av avtalet och om avtalet kan 
+sägas upp avgiftsfritt,
+
+9. hur ersättningen beräknas vid uppsägning i förtid av ett 
+avtal som löper under viss tid,
+
+10. villkoren för ersättning om elleverantören inte uppfyller 
+sitt åtagande enligt avtalet,
+
+11. var elanvändaren kan hitta information om elleverantörens 
+priser, övriga tjänster och villkor samt om 
+konsumenträttigheter, och 
+
+12. hur tvistlösning utanför domstol inleds.
+
+Elleverantören ska lämna information om avtalsvillkoren till 
+elanvändaren innan avtalet ingås eller bekräftas, även i de 
+fall avtalet ingås genom en mellanhand. 
+
+Elleverantören ska tillhandahålla elanvändaren en kortfattad 
+och lättillgänglig sammanfattning av de viktigaste 
+avtalsvillkoren. Lag (2023:238).
+
+22 § Regeringen eller den myndighet som regeringen bestämmer 
+får meddela föreskrifter om
+
+1. att elleverantörer ska vara skyldiga att lämna viss 
+information till elanvändare på sina webbplatser, i reklam 
+eller på något annat sätt, och
+
+2. vilka delar av avtalsinnehållet enligt 21 § som ska finnas 
+med i den sammanfattning som elleverantörer ska tillhandahålla 
+enligt tredje stycket samma paragraf och hur sammanfattningen 
+ska tillhandahållas. Lag (2023:238).
+
+Information om ändrade avtalsvillkor
+
+23 § En elleverantör som avser att ändra villkoren för ett 
+avtal som löper tills vidare ska i ett särskilt meddelande 
+underrätta elanvändaren om ändringen och om elanvändarens rätt 
+att säga upp avtalet. Om villkorsändringen gäller priset för 
+leverans av el, ska även skälen och villkoren för ändringen 
+redovisas i meddelandet.
+
+Elleverantören ska underrätta elanvändaren senast två veckor 
+innan de nya villkoren börjar tillämpas. Om elanvändaren är 
+konsument ska elleverantören underrätta elanvändaren senast 
+två månader innan de nya villkoren börjar tillämpas.
+Lag (2023:238).
+
+Fakturering och information som elleverantörer ska lämna till 
+elanvändare
+
+24 § En elleverantörs fakturering av elanvändare ska baseras 
+på uppmätt faktisk förbrukning eller, vid avsaknad av 
+mätvärden, på beräknade mängder.
+
+Första stycket gäller inte leverans av el enligt ett 
+fastkraftsavtal. Lag (2023:238).
+
+25 § Regeringen eller den myndighet som regeringen bestämmer 
+får meddela föreskrifter om elleverantörers fakturering av 
+elanvändare och om skyldighet för elleverantörer att lämna 
+viss information till elanvändaren i samband med fakturering.
+Lag (2023:238).
+
+26 § På begäran av elanvändaren ska elleverantören lämna 
+uppgifter om elanvändarens historiska elförbrukning till ett 
+företag som elanvändaren har utsett. Lag (2023:238).
+
+27 § En elleverantör får inte ta ut någon avgift för att 
+tillhandahålla elanvändaren fakturor och information enligt 
+25 §. Lag (2023:238).
+
+28 § Regeringen eller den myndighet som regeringen bestämmer 
+får meddela föreskrifter om de uppgifter som en elproducent 
+eller annan aktör ska offentliggöra för att information ska 
+kunna lämnas till elanvändaren om vilka energikällor som 
+bidrar till den köpta elen. Lag (2023:238).
+
+Betalningssätt
+
+29 § Elleverantörer ska erbjuda flera betalningssätt vid 
+fakturering och får inte missgynna en elanvändare på grund av 
+det betalningssätt som denne har valt.
+
+De avgifter som tas ut för ett visst betalningssätt eller för 
+ett system för förskottsbetalning får inte överstiga 
+betalningsmottagarens kostnader för användningen av 
+betalningssättet eller systemet. Lag (2023:238).
+
+Aggregeringstjänster
+
+30 § En leverantör av aggregeringstjänster får inte hindras av 
+andra marknadsaktörer från att få tillträde till 
+elmarknaderna. Lag (2023:238).
+
+31 § En elanvändare ska, oberoende av sitt avtal med en 
+elleverantör och utan dennes godkännande, kunna köpa och sälja 
+andra eltjänster än elleverans. Lag (2023:238).
+
+32 § Innan en leverantör av aggregeringstjänster börjar 
+tillhandahålla sådana tjänster i en elanvändares uttagspunkt 
+ska leverantören göra en anmälan till det nätföretag som 
+elanvändaren har avtal med. Motsvarande gäller innan 
+leverantören övertar leveranser av aggregeringstjänster från 
+en annan leverantör av sådana tjänster. Lag (2023:238).
+
+33 § En elleverantör får inte ta ut oskäliga avgifter eller 
+ställa oskäliga krav på en elanvändare med anledning av att 
+elanvändaren har ett avtal om tillhandahållande av en 
+aggregeringstjänst. Lag (2023:238).
+
+34 § En leverantör av aggregeringstjänster ska på ett icke-
+diskriminerande sätt i fråga om kostnader, arbete och 
+tidsåtgång
+
+1. lämna information till elanvändare om avtalsvillkor innan 
+ett avtal om aggregeringstjänster träffas, 
+
+2. på begäran av en elanvändare lämna uppgifter om 
+elanvändarens efterfrågeflexibilitet, och 
+
+3. säkerställa att en elanvändare kan byta leverantör av 
+aggregeringstjänster inom tre veckor från begäran om byte.
+
+Uppgifterna enligt första stycket 2 ska lämnas till 
+elanvändaren utan kostnad. Ett byte av leverantör av 
+aggregeringstjänster ska vara kostnadsfritt för konsumenter 
+och små företag. Lag (2023:238).
 
 10 kap. Avbrottsersättning
 
@@ -2985,289 +3253,146 @@ koncessionshavares ledningsnät, rätt att från den
 koncessionshavaren få ersättning för det som enligt 10-13 §§
 har betalats till elanvändaren. Lag (2005:1110).
 
-11 kap. Särskilda bestämmelser om överföring och leverans av el
-till konsumenter
+11 kap. Avbrytande av överföring av el till konsumenter
 
-Inledande bestämmelser
+1 § Detta kapitel gäller avbrytande av överföring av el till 
+konsumenter.
 
-1 § Detta kapitel gäller överföring och leverans av el till
-konsumenter. Med konsument avses en fysisk person till vilken
-el överförs eller levereras huvudsakligen för ändamål som
-faller utanför näringsverksamhet.
+Avtalsvillkor som i jämförelse med bestämmelserna i kapitlet 
+är till nackdel för konsumenten är utan verkan mot denne.
+Lag (2023:238).
 
-2 § Avtalsvillkor som i jämförelse med bestämmelserna i detta
-kapitel är till nackdel för konsumenten är utan verkan mot
-denne.
-
-Avbrytande av överföring av el på grund av konsumentens
+Avbrytande av överföring av el på grund av konsumentens 
 avtalsbrott
 
-3 § Överföring av el till en konsument får avbrytas, om
+2 § Överföring av el till en konsument får avbrytas, om
 
-1. konsumenten har försummat sina skyldigheter enligt avtalet 
-med nätkoncessionshavaren eller elleverantören om överföring 
-eller leverans av elen,
+1. konsumenten har åsidosatt sina skyldigheter enligt avtalet 
+med nätföretaget eller elleverantören om överföring eller 
+leverans av el, 
 
-2. försummelsen är ett väsentligt avtalsbrott,
+2. det rör sig om ett väsentligt avtalsbrott, 
 
-3. konsumenten har uppmanats att inom en viss skälig tid 
-vidta rättelse och, om försummelsen inte är en 
-betalningsförsummelse, tillsammans med uppmaningen 
-informerats om att överföringen annars kan komma att 
-avbrytas, 
+3. konsumenten har uppmanats att inom en viss skälig tid vidta 
+rättelse och, om det inte rör sig om utebliven betalning, 
+tillsammans med uppmaningen informerats om att överföringen 
+annars kan komma att avbrytas,
 
-4. den skäliga tid som avses i 3 har löpt ut,
+4. den tid som avses i 3 har löpt ut, 
 
-5. rättelse inte har skett, och
+5. rättelse inte har skett, och 
 
 6. omständigheterna är sådana att det saknas anledning att 
 befara att ett avbrott skulle medföra en personskada som inte 
 är obetydlig eller en omfattande sakskada.
 
-Om konsumenten har handlat otillbörligt får överföringen 
-avbrytas trots att omständigheterna inte är sådana som anges 
-i första stycket 6. Lag (2018:1448).
+Om konsumenten har handlat otillbörligt, får överföringen 
+avbrytas trots att omständigheterna inte är sådana som anges i 
+första stycket 6. Lag (2023:238).
 
-4 § När försummelsen är en betalningsförsummelse, får 
-överföringen avbrytas endast om
+3 § Vid utebliven betalning får överföringen av el till en 
+konsument avbrytas endast om
 
-1. betalningen avser överföring eller leverans av el,
+1. betalningen avser överföring eller leverans av el, 
 
-2. förutsättningarna för avbrytande enligt 3 § är 
-uppfyllda,
+2. förutsättningarna för avbrytande enligt 2 § är uppfyllda 
+och konsumenten i god tid har informerats om vilka alternativ 
+som finns för att undvika att överföringen avbryts, 
 
-3. konsumenten efter att den tid för rättelse som 
-avses i 3 § första stycket 3 löpt ut har uppmanats att betala 
-inom tre veckor från det att konsumenten har delgetts 
-uppmaningen tillsammans med information om att överföringen 
-annars kan avbrytas,
+3. konsumenten efter att den tid för rättelse som avses i 2 § 
+första stycket 3 löpt ut har uppmanats att betala inom tre 
+veckor från det att konsumenten har delgetts uppmaningen 
+tillsammans med information om att överföringen annars kan 
+avbrytas, 
 
 4. ett meddelande om den uteblivna betalningen samtidigt med 
 uppmaningen enligt 3 har lämnats till socialnämnden i den 
-kommun där konsumenten får elen överförd,
+kommun där konsumenten får elen överförd, 
 
-5. de tre veckorna som avses i 3 har löpt ut,
+5. de tre veckorna som avses i 3 har löpt ut, 
 
 6. socialnämnden inte inom de tre veckorna skriftligen har 
 meddelat den som lämnade meddelandet enligt 4 att nämnden tar 
-på sig betalningsansvaret för skulden,
+på sig betalningsansvaret för skulden, 
 
-7. betalningen inte är gjord, och
+7. betalningen inte har skett, och 
 
 8. fordringen inte är tvistig.
-Lag (2018:1448).
+Lag (2023:238).
 
-5 § En nätkoncessionshavare eller elleverantör har rätt 
-till skälig ersättning av konsumenten för kostnader för
+4 § Ett nätföretag och en elleverantör har rätt till skälig 
+ersättning av en konsument för kostnaderna för
 
-1. uppmaningar och information till konsumenten enligt 3 och 
-4 §§,
+1. uppmaningar och information till konsumenten enligt 2 och 
+3 §§, dock inte i fråga om information som rör vilka 
+alternativ som finns för att undvika att överföringen avbryts,
 
-2. meddelanden till socialnämnden enligt 4 §, och
+2. meddelanden till socialnämnden enligt 3 §, och 
 
-3. avstängningsåtgärden. 
-Lag (2018:1448).
+3. avstängningsåtgärden.
+Lag (2023:238).
 
-6 § Har upphävts genom lag (2018:1448).
+Avbrytande av överföring av el av säkerhetsskäl
 
-Avbrytande av överföring av el av elsäkerhetsskäl m.m.
+5 § Nätföretaget får avbryta överföringen av el till en 
+konsument om det behövs för att företaget ska kunna
 
-7 § Innehavaren av nätkoncession får avbryta överföringen av el
-för att vidta åtgärder som är motiverade av elsäkerhetsskäl
-eller för att upprätthålla en god drift- och leveranssäkerhet.
-Avbrottet får inte i något fall pågå längre än åtgärden kräver.
+1. vidta åtgärder som är motiverade av elsäkerhetsskäl, eller 
 
-Om innehavaren av nätkoncession kan förutse annat än kortvariga
-avbrott i överföringen, skall konsumenten underrättas i god tid
-före avbrottet. Konsumenten skall underrättas personligen
-eller, om det är lämpligt, genom anslag.
+2. upprätthålla en god drift- och leveranssäkerhet. 
+
+Ett sådant avbrott får inte pågå längre än vad åtgärden 
+kräver. 
+
+Om nätföretaget kan förutse annat än kortvariga avbrott i 
+överföringen, ska konsumenten underrättas om detta i god tid 
+före avbrottet. Konsumenten ska underrättas personligen eller, 
+om det är lämpligt, genom anslag. Lag (2023:238).
 
 Skadestånd vid avbruten överföring av el
 
-8 § Avbryts överföringen av el på grund av konsumentens
-försummelse utan att förutsättningarna i 3 och 4 §§ är
-uppfyllda, har konsumenten rätt till ersättning för skada av
-nätkoncessionshavaren.
+6 § Om överföringen av el avbryts med hänvisning till 
+konsumentens avtalsbrott utan att förutsättningarna i 2 eller 
+3 § är uppfyllda har konsumenten rätt till ersättning för 
+skada som har orsakats av nätföretaget.
 
-Har överföringen av el avbrutits på begäran av elleverantören,
-skall denne, i stället för koncessionshavaren, ersätta
-konsumenten för den uppkomna skadan.
+Om överföringen av el har avbrutits på begäran av 
+elleverantören, ska i stället denne ersätta konsumenten för 
+den uppkomna skadan. Lag (2023:238).
 
-9 § Om innehavaren av nätkoncession inte har underrättat
-konsumenten enligt 7 § andra stycket, har konsumenten rätt till
-ersättning för skada av koncessionshavaren.
+7 § Om nätföretaget inte har underrättat konsumenten enligt 
+5 § tredje stycket, har konsumenten rätt till ersättning för 
+skada som har orsakats av nätföretaget. Lag (2023:238).
 
-10 § Om överföringen av el avbryts utan att det beror på
-konsumentens försummelse och utan att det finns rätt att
-avbryta överföringen enligt 7 § första stycket, har konsumenten
-rätt till ersättning för skada av nätkoncessionshavaren om inte
-denne visar att avbrottet beror på ett hinder utanför hans
-kontroll som han inte skäligen kunde förväntas ha räknat med
-och vars följder han inte heller skäligen kunde ha undvikit
-eller övervunnit.
+8 § En konsument har rätt till ersättning för skada som har 
+orsakats av nätföretaget, om överföringen av el avbryts utan 
+att det beror på konsumentens avtalsbrott och utan att det 
+finns rätt att avbryta överföringen enligt 5 § första stycket. 
+Detta gäller dock inte om nätföretaget visar att avbrottet 
+beror på ett hinder utanför dess kontroll som nätföretaget 
+inte skäligen kunde förväntas ha räknat med och vars följder 
+företaget inte heller skäligen kunde ha undvikit eller 
+övervunnit.
 
-Beror avbrottet på någon som koncessionshavaren har anlitat för
-att utföra underhåll, reparation eller liknande arbete, är
-koncessionshavaren fri från skadeståndsskyldighet endast om
-också den som han har anlitat skulle vara fri enligt första
-stycket.
+Om avbrottet beror på någon som nätföretaget har anlitat för 
+att utföra underhåll, reparation eller liknande arbete, är 
+nätföretaget fritt från skadeståndsskyldighet endast om också 
+den som företaget har anlitat skulle vara fri enligt första 
+stycket. Lag (2023:238).
 
-11 § Skadestånd enligt 8-10 §§ omfattar ersättning för utgifter
-och inkomstbortfall samt annan förlust på grund av avbrottet.
+9 § Skadestånd enligt 6-8 §§ omfattar ersättning för utgifter 
+och inkomstbortfall samt för annan förlust på grund av 
+avbrottet. Lag (2023:238).
 
-Om skyldigheten att utge skadestånd skulle vara oskäligt
-betungande med hänsyn till den skadeståndsskyldiges ekonomiska
-förhållanden, kan skadeståndet jämkas efter vad som är skäligt.
-Vid bedömningen skall även beaktas föreliggande försäkringar
-och försäkringsmöjligheter, den skadeståndsskyldiges
-förutsättningar att förutse och hindra skadan samt andra
-särskilda omständigheter.
+10 § Konsumenten ska underrätta motparten om anspråk på 
+ersättning enligt 6-8 §§ inom två år från det att skadan 
+inträffade. Om konsumenten inte gör det, går rätten till 
+ersättning för den uppkomna skadan förlorad. Lag (2023:238).
 
-12 § Konsumenten skall underrätta motparten om anspråk på
-ersättning inom två år från det att skadan inträffade. Gör han
-inte det, har han förlorat sin rätt till ersättning för den
-uppkomna skadan.
+Skada som orsakas av el
 
-12 a § Bestämmelser om ansvar för skada som orsakas av el 
-finns i elsäkerhetslagen (2016:732). Lag (2016:733).
-
-Uppgifter i avtal
-
-13 § Ett avtal mellan en konsument och en elleverantör om 
-leverans av el i konsumentens uttagspunkt ska innehålla 
-uppgifter om 
-
-1. elleverantörens namn, adress, telefonnummer och webbplats, 
-
-2. elleverantörens åtagande gentemot konsumenten, 
-
-3. när avtalet träffas och vid vilken tidpunkt elleverantören 
-planerar att överta leveranserna till konsumenten,
-
-4. var konsumenten kan finna information om elleverantörens 
-priser och övriga villkor, 
-
-5. villkoren för fakturering och betalning, 
-
-6. den tid som avtalet löper eller om det löper tills vidare, 
-
-7. vad som gäller avseende förlängning av ett avtal som löper 
-under viss tid, 
-
-8. villkoren för uppsägning av avtalet, 
-
-9. hur ersättningen beräknas vid uppsägning i förtid av ett 
-avtal som löper under viss tid,  
-
-10. villkoren för ersättning om elleverantören inte uppfyller 
-sitt åtagande enligt avtalet, och 
-
-11. hur elleverantören på sin webbplats samt på begäran på 
-annat sätt tillhandahåller den ytterligare 
-konsumentrelaterade information som anges i 18 §. 
-
-Information om avtalsvillkoren och uppgifterna enligt första 
-stycket ska lämnas till konsumenten innan avtalet ingås eller 
-bekräftas. Lag (2016:914).
-
-14 § Ett avtal mellan en konsument och en nätkoncessionshavare
-ska innehålla uppgifter om
-
-1. nätkoncessionshavarens namn, adress, telefonnummer och
-webbplats,
-
-2. nätkoncessionshavarens åtagande gentemot konsumenten,
-
-3. när avtalet träffas,
-
-4. var konsumenten kan finna information om
-nätkoncessionshavarens priser och övriga villkor,
-
-5. villkoren för fakturering och betalning,
-
-6. villkoren för uppsägning av avtalet,
-
-7. villkoren för ersättning om nätkoncessionshavaren inte
-uppfyller sitt åtagande enligt avtalet, och
-
-8. hur nätkoncessionshavaren på sin webbplats samt på begäran
-på annat sätt tillhandahåller den ytterligare
-konsumentrelaterade information som anges i 18 §.
-Lag (2011:712).
-Betalningssätt
-
-15 § En elleverantör får inte missgynna en konsument endast
-på grund av det betalningssätt konsumenten har valt.
-
-Om en nätkoncessionshavare tillämpar ett system med
-förskottsbetalning för konsumenter, ska detta vara skäligt.
-Lag (2014:270).
-
-Ändrade avtalsvillkor
-
-16 § En elleverantör som avser att ändra villkoren för ett
-avtal som löper tills vidare med en konsument ska underrätta
-konsumenten om ändringen. Underrättelse ska ske genom ett
-särskilt meddelande till konsumenten. Av meddelandet ska det
-framgå att konsumenten har rätt att säga upp avtalet.
-
-De nya villkoren får inte börja tillämpas förrän tidigast två
-månader efter det att meddelandet har skickats.
-Lag (2011:712).
-
-Prishöjningar
-
-17 § När en prishöjning har skett ska konsumenten underrättas
-om detta i den nästkommande fakturan från elleverantören. Det
-ska framgå när prisändringen trädde i kraft och hur priset
-ändrats. Lag (2011:712).
-
-Information om konsumentens rättigheter
-
-18 § Elleverantörer och nätkoncessionshavare som träffar
-avtal med konsumenter ska på sina webbplatser lämna tydlig
-information om
-
-1. konsumentens rättigheter,
-
-2. hur konsumenten ska gå till väga för att lämna klagomål,
-
-3. vilka organ konsumenten kan vända sig till för information
-eller tvistlösning, och
-
-4. oberoende användarrådgivning, där konsumenterna kan få råd
-om tillgängliga energieffektivitetsåtgärder och
-jämförelseprofiler.
-
-På konsumentens begäran ska informationen lämnas på annat
-sätt.
-
-Elleverantörer och nätkoncessionshavare ska på eller i
-samband med fakturor till konsumenter och, i de fall som
-anges i första stycket 1–3, i reklam som vänder sig till
-konsumenter antingen lämna den information som följer av
-första stycket eller hänvisa till att informationen finns på
-webbplatsen och på begäran tillhandahålls på annat sätt.
-Lag (2014:270).
-
-Byte av elleverantör
-
-19 § Ett byte av elleverantör ska genomföras utan särskild
-kostnad för konsumenten.
-
-Vid byte av elleverantör ska konsumenten få en slutfaktura
-inom sex veckor från den dag då den frånträdande
-elleverantörens leverans upphörde. Lag (2011:712).
-
-Hantering av klagomål
-
-20 § Elleverantörer och nätkoncessionshavare ska ha
-fastställda rutiner för hanteringen av klagomål från
-konsumenter. Lag (2011:712).
-
-Installation av nya mätare
-
-21 § Har upphävts genom lag (2022:596).
+11 § Bestämmelser om ansvar för skada som orsakas av el finns 
+i elsäkerhetslagen (2016:732). Lag (2023:238).
 
 12 kap. Tillsyn m.m.
 
@@ -3280,14 +3405,13 @@ frågor om driftsäkerheten hos det nationella elsystemet.
 
 I övrigt utövar nätmyndigheten tillsyn över att lagen och 
 föreskrifter eller villkor som har meddelats i anslutning till 
-lagen följs. Tillsynen omfattar 
-
-inte 7 och 10 kap. samt 11 kap. 1-12 §§ och inte heller att 
-elleverantörerna följer sina skyldigheter enligt 8 kap. 1-
-4 §§, 5 § första och andra styckena, 6, 7, 9 och 11 a §§.
+lagen följs. Tillsynen omfattar inte att 7, 10 och 11 kap. 
+följs. När det gäller elleverantörers skyldigheter enligt 
+8 kap. omfattar tillsynen endast att elleverantörerna följer 
+8 kap. 40 §.
 
 Nätmyndigheten är tillsynsmyndighet enligt EU:s 
-elmarknadsförordning. Lag (2022:596).
+elmarknadsförordning. Lag (2023:238).
 
 1 a § Ärenden om undantag enligt artikel 63.1, 63.2 och 63.3 i 
 EU:s elmarknadsförordning prövas av regeringen.
@@ -3323,11 +3447,11 @@ Ett föreläggande gäller omedelbart, om det
 
 1. avser driftsäkerheten hos det nationella elsystemet,
 
-2. avser riktigheten av lämnade uppgifter enligt 8 kap. 
-11 b §, eller
+2. avser riktigheten av lämnade uppgifter enligt 9 kap. 20 §, 
+eller
 
 3. har meddelats med anledning av en anmälan enligt 14 § 
-första stycket. Lag (2016:733).
+första stycket. Lag (2023:238).
 
 3 a § Har upphävts genom lag (2018:1448).
 
@@ -3493,9 +3617,10 @@ Till böter döms den som uppsåtligen eller av oaktsamhet
 1. bryter mot 2 kap. 47 §, eller
 
 2. bryter mot föreskrifter som har meddelats med stöd av 
-8 kap. 3 d §. 
+8 kap. 10 §.
 
-I ringa fall döms inte till ansvar. Lag (2021:741).
+I ringa fall ska gärningen inte utgöra brott.
+Lag (2023:238).
 
 2 § Till ansvar enligt denna lag döms inte om gärningen är
 belagd med straff enligt brottsbalken.
@@ -3538,15 +3663,15 @@ inte överklagas. Lag (2021:741).
 
 Överklagande till allmän förvaltningsdomstol
 
-7 § Andra beslut av en förvaltningsmyndighet enligt 
-denna lag än de som avses i 5 och 6 §§ får överklagas till 
-allmän förvaltningsdomstol.
+7 § Andra beslut av en förvaltningsmyndighet enligt denna lag 
+än de som avses i 5 och 6 §§ får överklagas till allmän 
+förvaltningsdomstol.
 
-Den systemansvariga myndighetens beslut enligt 8 kap. 2 § får 
-dock inte överklagas.
+Den systemansvariga myndighetens beslut enligt 8 kap. 2 och 
+5 §§ får dock inte överklagas.
 
-Prövningstillstånd krävs vid överklagande till 
-kammarrätten. Lag (2018:1448).
+Prövningstillstånd krävs vid överklagande till kammarrätten.
+Lag (2023:238).
 
 Miljöorganisationers rätt att överklaga
 
@@ -4057,3 +4182,19 @@ tillämpas inte 5 kap. 12 a och 12 b §§.
 8. Allmän domstol får pröva ett mål som har inletts före 
 ikraftträdandet trots 3 kap. 44 §, 4 kap. 13 och 39 §§ och 
 6 kap. 8 §.
+
+2023:238
+
+1. Denna lag träder i kraft den 1 juni 2023.
+
+2. Bestämmelserna i 8 kap. 13, 24 och 26 §§ ska inte tillämpas 
+i fråga om aggregeringstjänster som tillhandahålls i en 
+leveranspunkt innan nätmyndigheten för första gången har 
+godkänt metoder för att utforma avtal enligt 8 kap. 14 § när 
+det gäller de obalanser som aggregeringstjänsterna kan 
+medföra. 
+
+3. Äldre föreskrifter gäller fortfarande i fråga om vilka 
+uppgifter ett avtal mellan en elleverantör och en elanvändare 
+om leverans av el ska innehålla, om avtalet är tidsbegränsat 
+och har träffats före ikraftträdandet.
