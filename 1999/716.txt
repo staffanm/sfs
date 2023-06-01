@@ -30,20 +30,7 @@ avgifter för överföring av el ansluter till varandra, eller
 för linje som har olika avgifter för överföring av el ansluter 
 till varandra. Förordning (2022:587).
 
-1 d § /Upphör att gälla U:2023-11-01/
-Med förbrukningsprofil avses i denna förordning summan 
-av
-
-1. den totala mängd el som registreras per timme i 
-schablonberäkningsområdet för sådan förbrukning i 
-uttagspunkter som har en huvudsäkring om högst 63 ampere och 
-vars mätvärden rapporteras månadsvis, och
-
-2. nätförluster. 
-Förordning (2022:587).
-
-1 d § /Träder i kraft I:2023-11-01/
-Med förbrukningsprofil avses i denna förordning summan 
+1 d § Med förbrukningsprofil avses i denna förordning summan 
 av
 
 1. den totala mängd el som registreras per kvart i 
@@ -117,24 +104,11 @@ komma överens i frågan.
 Nätmyndighetens beslut får inte överklagas.
 Förordning (2022:587).
 
-6 § /Upphör att gälla U:2023-11-01/
-I en inmatningspunkt ska mätning avse överförd el under 
-varje timme eller det kortare tidsintervall som elproducenten 
-begär. Förordning (2016:352).
-
-6 § /Träder i kraft I:2023-11-01/
-I en inmatningspunkt ska mätning avse överförd el under 
+6 § I en inmatningspunkt ska mätning avse överförd el under 
 varje kvart eller det kortare tidsintervall som elproducenten 
 begär. Förordning (2022:588).
 
-6 a § /Upphör att gälla U:2023-11-01/
-I en uttagspunkt som inte ingår i förbrukningsprofilen 
-ska mätning avse överförd el under varje timme eller det 
-kortare tidsintervall som elanvändaren begär.
-Förordning (2022:587).
-
-6 a § /Träder i kraft I:2023-11-01/
-I en uttagspunkt som inte ingår i förbrukningsprofilen 
+6 a § I en uttagspunkt som inte ingår i förbrukningsprofilen 
 ska mätning avse överförd el under varje kvart eller det 
 kortare tidsintervall som elanvändaren begär. 
 Förordning (2022:588).
@@ -143,28 +117,14 @@ Förordning (2022:588).
 mätning avse överförd el under högst en månad.
 Förordning (2022:587).
 
-6 c § /Upphör att gälla U:2023-11-01/
-Om en elanvändare som omfattas av 6 b § har ingått ett 
-avtal om leverans av el som förutsätter att den överförda elen 
-mäts varje timme, eller begär sådan mätning, ska mätning i 
-uttagspunkten göras i enlighet med avtalet eller begäran. 
-Mätresultaten ska rapporteras enligt 9 § 3. 
-Förordning (2022:587).
-
-6 c § /Träder i kraft I:2023-11-01/
-Om en elanvändare som omfattas av 6 b § har ingått ett 
+6 c § Om en elanvändare som omfattas av 6 b § har ingått ett 
 avtal om leverans av el som förutsätter att den överförda elen 
 mäts varje timme eller kvart, eller begär sådan mätning, ska 
 mätning i uttagspunkten göras i enlighet med avtalet eller 
 begäran. Mätresultaten ska rapporteras enligt 9 § 3. 
 Förordning (2022:588).
 
-6 d § /Upphör att gälla U:2023-11-01/
-Mätning i en gränspunkt ska avse överförd el under 
-varje timme. Förordning (2016:352).
-
-6 d § /Träder i kraft I:2023-11-01/
-Mätning i en gränspunkt ska avse överförd el under varje 
+6 d § Mätning i en gränspunkt ska avse överförd el under varje 
 kvart. Förordning (2022:588).
 
 7 § Styrelsen för ackreditering och teknisk kontroll meddelar
@@ -175,61 +135,7 @@ måttenheter, mätningar och mätdon. Lag (2010:855).
 
 8 § Har upphävts genom förordning (2016:352).
 
-9 § /Upphör att gälla U:2023-11-01/
-Ett nätföretag ska rapportera resultaten av sina 
-mätningar. Rapporterna ska visa mätresultaten för varje timme 
-på dygnet och i fråga om
-
-1. inmatningspunkt sändas till
-
-a) den elproducent som matat in el i inmatningspunkten,
-
-b) den elleverantör som tagit emot elen i inmatningspunkten,
-
-c) Affärsverket svenska kraftnät, om mätresultaten avser en 
-produktionsanläggning som kan leverera en effekt om 1 megawatt 
-eller mer, och
-
-d) kontoföringsmyndigheten för elcertifikat och 
-ursprungsgarantier, om mätresultaten avser el som matas in 
-från en produktionsanläggning som har rätt till tilldelning av 
-elcertifikat enligt lagen (2011:1200) om elcertifikat eller 
-som har rätt till tilldelning av ursprungsgarantier enligt 
-lagen (2010:601) om ursprungsgarantier för el,
-
-2. den samlade inmatade produktionen uppdelad per typ av 
-elproduktion, elleverantör som tar emot elen och 
-balansansvarig sändas till Affärsverket svenska kraftnät, om 
-mätresultaten avser produktionsanläggningar som var och en 
-levererar en effekt som understiger 1 megawatt,
-
-3. uttagspunkt sändas till
-
-a) den berörda elanvändaren, och
-
-b) den elleverantör som levererat el i uttagspunkten,
-
-4. den samlade förbrukningen inom ett schablonberäkningsområde 
-eller inom ett ledningsnät som omfattas av nätkoncession för 
-linje uppdelad per typ av elanvändning, elleverantör och 
-balansansvarig sändas till Affärsverket svenska kraftnät,
-
-5. gränspunkt sändas till den som är nätkoncessionshavare för 
-det angränsande nätet, och
-
-6. samlade flöden i gränspunkter sändas till Affärsverket 
-svenska kraftnät och avse gränspunkter
-
-a) mellan schablonberäkningsområden,
-
-b) mellan ett schablonberäkningsområde och ledningsnät som 
-omfattas av nätkoncession för linje, och
-
-c) mellan ledningsnät med nätkoncession för linje.
-Förordning (2022:587).
-
-9 § /Träder i kraft I:2023-11-01/
-Ett nätföretag ska rapportera resultaten av sina 
+9 § Ett nätföretag ska rapportera resultaten av sina 
 mätningar. Rapporterna ska visa mätresultaten för varje kvart 
 på dygnet och i fråga om
 
@@ -368,23 +274,11 @@ Förordning (2016:352).
 avläsning och rapportering, utformningen av rapporter samt
 förfarandet vid rapportering. Förordning (2011:964).
 
-Leverantörsbyte m.m.
+20 § Har upphävts genom förordning (2023:246).
 
-20 § Nätmyndigheten får meddela föreskrifter om anmälningar
-enligt 8 kap. 6 § första stycket ellagen (1997:857).
-Förordning (2011:964).
+21 § Har upphävts genom förordning (2023:246).
 
-21 § Nätmyndigheten får meddela föreskrifter om underrättelser
-enligt 8 kap. 6 § fjärde stycket ellagen (1997:857).
-Förordning (2011:964).
-
-Övertagande av balansansvar
-
-22 § Nätmyndigheten får meddela föreskrifter om underrättelser
-enligt 8 kap. 9 § andra och fjärde styckena och 10 § ellagen
-(1997:857). Förordning (2011:964).
-
-23 § Har upphävts genom förordning (2015:600).
+22 § Har upphävts genom förordning (2023:246).
 
 Funktionskrav för mätsystem och mätutrustning
 
