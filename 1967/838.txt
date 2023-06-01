@@ -1,3 +1,4 @@
+Har upphävts genom förordning (2024:1020).
 Patentansökan och diarium
 
 1 § Svensk patentansökan ges in till patent- och
@@ -773,12 +774,16 @@ Patentregistret m. m.
 hjälp av automatiserad behandling. Registren ska hållas
 tillgängliga hos Patentverket. Förordning (2007:1120).
 
-38 a § Patentregistret innehåller uppgift om
+38 a § Patentregistret innehåller uppgifter i fråga om 
 
-1. patent som meddelats här i riket, och
+1. patent som har meddelats i Sverige, 
 
-2. europeiskt patent som har verkan här i riket.
-Förordning (2001:774).
+2. europeiska patent som har verkan i Sverige utan att ha 
+enhetlig verkan som avses i 80 § tredje stycket patentlagen 
+(1967:837), och 
+
+3. tilläggsskydd och förlängd giltighetstid för tilläggsskydd 
+som avses i 105 § patentlagen. Förordning (2023:218).
 
 38 b § De register som avses i 38 § ska ge offentlighet åt den
 information som ingår i registren.
@@ -831,43 +836,58 @@ Förordning (2007:1120).
 
 38 g § Har upphävts genom förordning (2018:375).
 
-39 § I patentregistret skall antecknas de uppgifter som anges i
-31 § 1-14. Därutöver skall antecknas uppgifter om
+39 § I patentregistret antecknas de uppgifter som anges i 31 § 
+1-14. Där antecknas även uppgifter om 
 
-1. den dag då en invändning mot patentet har getts in,
+1. dagen då en invändning mot patentet kommit in, och 
 
-2. den dag då beslut har meddelats om patentets upprätthållande
-i ändrad lydelse eller om begränsning eller upphävande av
-patentet eller om avslag på en invändning, och
+2. dagen då ett beslut meddelats om avslag på en invändning, 
+om patentets upprätthållande i ändrad lydelse eller om 
+begränsning eller upphävande av patentet. 
+Förordning (2023:218).
 
-3. den dag då panträtt har upplåtits i patentet och då ansökan
-gjorts om registrering samt panthavarens namn och adress.
-Förordning (2007:519).
+40 § Ett europeiskt patent ska föras in i registret när det 
+europeiska patentverket har kungjort sitt beslut att bifalla 
+patentansökan och sökanden har gett in en översättning och 
+betalat en avgift enligt 82 § första stycket patentlagen 
+(1967:837). När ett europeiskt patent förs in i registret 
+antecknas 
 
-40 § Ett europeiskt patent ska föras in i registret när det
-europeiska patentverket har kungjort sitt beslut att bifalla
-patentansökan, om sökanden har gett in översättningen och
-betalat avgiften enligt 82 § första stycket patentlagen
-(1967:837). När ett europeiskt patent förs in i registret,
-ska det antecknas dagen då det europeiska patentverket har
-kungjort sitt beslut, dagen då översättningen och avgiften
-enligt 82 § första stycket patentlagen har kommit in samt
-uppgifter motsvarande de som anges i 31 § och 39 § 3, om
-sådana uppgifter finns.
+1. dagen då det europeiska patentverket kungjorde beslutet, 
 
-Om det europeiska patentverket har upphävt ett europeiskt
-patent eller beslutat att ett sådant patent ska upprätthållas
-i ändrad lydelse eller begränsas, ska det antecknas i
-registret. Om patenthavaren i ett fall då patentet ska
-upprätthållas i ändrad lydelse eller begränsas har gett in
-översättning och betalat avgift som avses i 82 § andra
-stycket patentlagen, ska det antecknas.
+2. dagen då översättningen respektive avgiften kom in, och
 
-Om det europeiska patentverket enligt artikel 112 a i den
-europeiska patentkonventionen har undanröjt ett beslut och
-det undanröjda beslutet avsåg ett europeiskt patent med
-verkan i Sverige, ska beslutet antecknas i registret.
-Förordning (2014:435).
+3. i förekommande fall
+
+a) uppgifter motsvarande de som anges i 31 §, och
+
+b) uppgifter som anges i 44 § tredje stycket första meningen.
+
+Om det europeiska patentverket har upphävt ett europeiskt 
+patent eller beslutat att ett sådant patent ska upprätthållas 
+i ändrad lydelse eller begränsas, ska det antecknas i 
+registret. Om patenthavaren i ett fall då patentet ska 
+upprätthållas i ändrad lydelse eller begränsas har gett in 
+översättning och betalat avgift enligt 82 § andra stycket 
+patentlagen, ska det antecknas.
+
+Om det europeiska patentverket enligt artikel 112 a i den 
+europeiska patentkonventionen har undanröjt ett beslut och det 
+undanröjda beslutet avsåg ett europeiskt patent med verkan i 
+Sverige, ska beslutet antecknas i registret. 
+Förordning (2023:218).
+
+40 a § Om ett europeiskt patent som har förts in i registret 
+enligt 40 § första stycket också har enhetlig verkan som avses 
+i 80 § tredje stycket patentlagen (1967:837), ska det 
+antecknas i registret tillsammans med en upplysning om 
+innehållet i 82 a § samma lag. 
+
+Om ett europeiskt patent som har kungjorts enligt 82 § femte 
+stycket patentlagen också har enhetlig verkan som avses i 80 § 
+tredje stycket samma lag, ska Patentverket kungöra detta 
+tillsammans med en upplysning om innehållet i 82 a § samma 
+lag. Förordning (2023:218).
 
 41 § En kungörelse om beslut angående en invändning enligt 25 §
 fjärde stycket patentlagen skall innehålla uppgift om patentets
@@ -884,39 +904,64 @@ Har framställning gjorts enligt 72 § patentlagen om att årsavgift skall
 anses erlagd i rätt tid, antecknas detta ofördröjligen i registret. Även
 slutligt beslut i ärendet antecknas.
 
-43 § Har någon till patentverket anmält, att han väckt talan om patents
-ogiltighet, om överförande av patent eller om tvångslicens, antecknas
-det i registret.
+43 § Om någon har anmält till Patentverket enligt 64 § 
+patentlagen (1967:837) att han eller hon vill väcka eller har 
+väckt talan om ogiltighet, överföring eller meddelande av 
+tvångslicens, ska det antecknas i registret. 
 
-När avskrift av dom eller slutligt beslut sänts till patentverket enligt
-70 § patentlagen, antecknas det i registret. När domen eller beslutet
-vunnit laga kraft göres sådan anteckning, att den huvudsakliga utgången
-i målet kan utläsas av registret.
+När Patentverket har underrättats om dom eller slutligt beslut 
+enligt 70 § patentlagen, antecknas det i registret. Detsamma 
+gäller i fråga om ett slutligt avgörande av den domstol som 
+avses i 93 a § samma lag. När domen, beslutet eller avgörandet 
+fått laga kraft, antecknas den huvudsakliga utgången i målet.
 
-Har patentverket förklarat patent upphört enligt 54 § patentlagen,
-antecknas det i registret.
+Om Patentverket har förklarat att ett patent har upphört 
+enligt 54 § patentlagen, antecknas det i registret.
+Förordning (2023:218).
 
-44 § En anteckning om övergång eller licensupplåtelse av patent enligt
-44 § patentlagen skall innehålla rättsinnehavarens namn och adress samt
-dagen för övergången eller upplåtelsen. På begäran skall beträffande
-licens antecknas om patenthavarens rätt att upplåta ytterligare licens
-begränsats. Om en fråga om anteckning av övergång eller licensupplåtelse
-inte omedelbart kan avgöras, skall det ändå anmärkas i registret att
+44 § En anteckning om övergång eller licensupplåtelse enligt 
+44 § patentlagen (1967:837) ska innehålla uppgifter om 
+rättsinnehavarens namn och adress samt dagen för övergången 
+eller upplåtelsen. En uppgift om begränsning av patenthavarens 
+rätt att upplåta fler licenser antecknas på begäran. Om en 
+fråga om anteckning om övergång eller licensupplåtelse inte 
+omedelbart kan avgöras, ska det ändå anmärkas att en sådan 
 anteckning har begärts.
 
-Har patent utmätts, belagts med kvarstad eller tagits i anspråk genom
-betalningssäkring, antecknas det efter anmälan i registret.
+Om ett patent har utmätts, belagts med kvarstad eller tagits i 
+anspråk genom betalningssäkring, antecknas detta efter 
+anmälan. 
 
-Registrering enligt 95 § patentlagen om panträtt i patent skall
-innehålla panthavarens namn och adress samt dagen för pantupplåtelsen,
-dagen för ansökan om registrering och dagen för beslut om registrering.
+En registrering enligt 95 § första stycket patentlagen ska 
+innehålla uppgifter om dagen för pantupplåtelsen, dagen för 
+ansökan om registrering och panthavarens namn och adress. När 
+en sådan ansökan görs i fråga om ett europeiskt patent som kan 
+få eller har enhetlig verkan som avses i 80 § tredje stycket 
+patentlagen, ska Patentverket informera patenthavaren om 
+innehållet i 94 och 94 a §§ samma lag.
 
-Anmälan om ändring rörande ombud antecknas i registret.
+En anmälan om ändring i fråga om ombud antecknas i registret. 
 
-Har patentverket fått en sådan underrättelse om överföring av deposition
-som avses i 17 b § tredje stycket eller sådant kvitto på ny deposition
-som avses i 17 c § tredje stycket, skall anteckning om överföringen
-eller den nya depositionen göras i registret. Förordning (1991:1331).
+Om Patentverket har fått en underrättelse om överföring av 
+deposition enligt 17 b § tredje stycket eller ett kvitto på ny 
+deposition enligt 17 c § tredje stycket, görs en anteckning om 
+överföringen eller den nya depositionen i registret.
+Förordning (2023:218).
+
+44 a § I patentregistret antecknas 
+
+1. uppgifter som har kungjorts enligt 
+
+a) artiklarna 9.2, 9.3, 11 och 17 i Europaparlamentets och 
+rådets förordning (EG) nr 469/2009 av den 6 maj 2009 om 
+tilläggsskydd för läkemedel, 
+
+b) artiklarna 9.2, 11 och 16 i Europaparlamentets och rådets 
+förordning (EG) nr 1610/96 av den 23 juli 1996 om införande av 
+tilläggsskydd för växtskyddsmedel, och
+
+2. uppgifter om när årsavgift har betalats enligt 105 § andra 
+stycket patentlagen (1967:837). Förordning (2023:218).
 
 Avgifter
 
@@ -1075,23 +1120,43 @@ förflutit från dagtecknandet till dess sökanden tog emot underrättelsen.
 
 Diarium över europeiska patentansökningar
 
-59 § Patentverket för ett särskilt diarium över sådana
-europeiska patentansökningar beträffande vilka översättningar
-som avses i 88 § patentlagen (1967:837) har kommit in till
-Patentverket. Diariet är tillgängligt för allmänheten.
+59 § Patentverket för ett särskilt diarium över de europeiska 
+patentansökningar beträffande vilka översättningar enligt 88 § 
+patentlagen (1967:837) har kommit in till verket. Diariet är 
+tillgängligt för allmänheten.
 
-I diariet antecknas för varje ansökan dess nummer vid det
-europeiska patentverket, sökandens namn och adress samt dagen
-då översättningen kom in liksom om översättningen har
-kungjorts. I övrigt antecknas den dag som har fastställts som
-ingivningsdag för ansökan, uppfinnarens namn och adress,
-uppfinningens benämning, sådana uppgifter som avses i 7 §
-tredje stycket 4, 9 och 13 samt om ansökan är en europeisk
-avdelad ansökan.
+I diariet antecknas för varje ansökan 
 
-Om det ges in en översättning som avses i 82 § första stycket
-patentlagen, ska detta antecknas i diariet liksom om
-översättningen har kungjorts. Förordning (2014:435).
+1. ansökans nummer vid det europeiska patentverket, 
+
+2. sökandens namn och adress,
+
+3. ansökans fastställda ingivningsdag,
+
+4. uppfinnarens namn och adress,
+
+5. uppfinningens benämning,
+
+6. dagen då översättningen kom in till Patentverket, och
+
+7. i förekommande fall
+
+a) att den är en europeisk avdelad ansökan,
+
+b) dagen för Patentverkets kungörelse av översättningen,
+
+c) uppgifter i fråga om ombud, prioritet och pant enligt 7 § 
+tredje stycket.4, 9 och 13, och
+
+d) dagen då en översättning som avses i 82 § första stycket 
+patentlagen kom in till Patentverket och dagen då den 
+översättningen kungjordes av Patentverket enligt 82 § femte 
+stycket samma lag.
+
+När en ansökan görs om registrering av ett avtal om 
+pantsättning av en europeisk patentansökan, ska Patentverket 
+informera patenthavaren om innehållet i 94 och 94 a §§ 
+patentlagen. Förordning (2023:218).
 
 Översättning av europeiskt patent och europeisk patentansökan
 
@@ -1167,19 +1232,7 @@ Patentverket får meddela ytterligare föreskrifter om
 innehållet i och handläggningen av en ansökan i ärenden om
 tilläggsskydd enligt 105 § patentlagen. Förordning (2014:435).
 
-68 § I patentregistret skall antecknas
-
-1. uppgifter som har kungjorts enligt artiklarna 9.2, 11 och 16
-i rådets förordning (EEG) nr 1768/92 av den 18 juni 1992 om
-införande av tilläggsskydd för läkemedel ,
-
-2. uppgifter som har kungjorts enligt artiklarna 9.2, 11 och 16
-i Europaparlamentets och rådets förordning (EG) nr 1610/96 av
-den 23 juli 1996 om införande av tilläggsskydd för
-växtskyddsmedel , och
-
-3. när årsavgift har betalats enligt 105 § andra stycket
-patentlagen. Förordning (1997:42).
+68 § Har betecknats 44 a § genom förordning (2023:218).
 
 Övergångsbestämmelser
 
@@ -1454,11 +1507,6 @@ patenlagen                                                        500
 
 Avgift till patentmyndigheten enligt 36 eller 37 § patentlagen  1 000
 
-/Upphör att gälla U:2023-03-18/
-Återupptagningsavgift enligt 15 § tredje stycket
-eller 19 § andra stycket patentlagen                    500
-	
-/Träder i kraft I:2023-03-18/
 Återupptagningsavgift enligt 15 § tredje stycket 
 eller 19 § andra stycket patentlagen	                1 000
 
@@ -1484,59 +1532,6 @@ Avgift enligt 88 § första stycket patentlagen           500
 
 Registreringsavgift enligt 104 § patentlagen            500
 
-/Upphör att gälla U:2023-03-18/
-Avdelning B
-
-Årsavgifter för patentansökningar och patent ska betalas med 
-följande belopp
-
-År                      Kronor
-
-1	       		0	
-
-2	       		0	
-
-3			1 400  	
-
-4			1 500	
-
-5			1 700	
-
-6			1 900	
-
-7			2 100	
-
-8			2 400	
-
-9			2 700	
-
-10			3 000	
-
-11			3 400	
-
-12			3 800	
-
-13			4 200	
-
-14			4 600	
-
-15			5 000	
-
-16			5 400	
-
-17			5 800	
-
-18			6 200	
-
-19			6 600	
-
-20			7 000	
-
-En årsavgift, som enligt 41 § tredje stycket eller 42 § 
-tredje stycket patentlagen betalas senare än när den förföll 
-till betalning, ska höjas med 20 procent.
-	
-/Träder i kraft I:2023-03-18/
 Avdelning B
 
 Årsavgifter för patentansökningar och patent ska betalas med 
