@@ -1,36 +1,57 @@
 Inledande bestämmelser
 
-1 § Denna förordning innehåller i anslutning till 
-luftfartslagen (2010:500) föreskrifter om registrering i 
-luftfartygsregistret samt om anteckningar i bihanget till 
-detta. 
+1 § Denna förordning är meddelad med stöd av 8 kap. 7 § 
+regeringsformen. Förordning (2023:226).
 
-Förordningen innehåller även föreskrifter som kompletterar 
-bestämmelserna om operatörsregister i artikel 14 i 
-kommissionens genomförandeförordning (EU) 2019/947 av den 24 
-maj 2019 om regler och förfaranden för drift av obemannade 
-luftfartyg (genomförandeförordningen).
+1 a § I förordningen avses med
 
-Transportstyrelsen är personuppgiftsansvarig för den 
-behandling av personuppgifter som myndigheten utför enligt 
-denna förordning och genomförandeförordningen.
-Förordning (2020:1065).
+drönarförordningen: kommissionens genomförandeförordning (EU) 
+2019/947 av den 24 maj 2019 om regler och förfaranden för 
+drift av obemannade luftfartyg,
 
-1 a § Denna förordning innehåller bestämmelser som 
-kompletterar Europaparlamentets och rådets förordning (EU) 
-2016/679 av den 27 april 2016 om skydd för fysiska personer 
-med avseende på behandling av personuppgifter och om det fria 
-flödet av sådana uppgifter och om upphävande av direktiv 
-95/46/EG (allmän dataskyddsförordning). 
-Förordning (2020:1065).
+U-space-förordningen: kommissionens genomförandeförordning 
+(EU) 2021/664 av den 22 april 2021 om ett regelverk för U-
+space,
 
-1 b § Vid behandling av personuppgifter enligt denna 
+luftfartygsregistret: det register över luftfartyg med svensk 
+registrering som avses i 2 kap. 1 § första stycket 
+luftfartslagen (2010:500),
+
+bihanget till luftfartygsregistret: bihang till 
+luftfartygsregistret i vilket ett luftfartyg antecknas i 
+samband med en svensk interimistisk registrering, och
+
+operatörsregistret: det register som avses i artikel 14 i 
+drönarförordningen. Förordning (2023:226).
+
+1 b § Förordningen innehåller
+
+1. bestämmelser om registrering i luftfartygsregistret och om 
+anteckningar i registrets bihang,
+
+2. bestämmelser som kompletterar drönarförordningens 
+artikel 14 om operatörsregistret och U-space-förordningens 
+artikel 3.5 a om tillgång till data från operatörsregistret, 
+och
+
+3. bestämmelser som kompletterar Europaparlamentets och rådets 
+förordning (EU) 2016/679 av den 27 april 2016 om skydd för 
+fysiska personer med avseende på behandling av personuppgifter 
+och om det fria flödet av sådana uppgifter och om upphävande 
+av direktiv 95/46/EG (allmän dataskyddsförordning).
+Förordning (2023:226).
+
+1 c § Vid behandling av personuppgifter enligt denna 
 förordning gäller lagen (2018:218) med kompletterande 
 bestämmelser till EU:s dataskyddsförordning och föreskrifter 
 som har meddelats i anslutning till den lagen, om inte annat 
 följer av denna förordning eller föreskrifter som har 
 meddelats i anslutning till förordningen. 
-Förordning (2020:1065).
+Förordning (2023:226).
+
+1 d § Transportstyrelsen är personuppgiftsansvarig för den 
+behandling av personuppgifter som myndigheten utför enligt 
+denna förordning och drönarförordningen. Förordning (2023:226).
 
 2 § I luftfartygsregistret eller i bihanget till detta skall
 föras in uppgifter om motordrivna luftfartyg och segelflygplan.
@@ -151,66 +172,65 @@ Operatörsregistrets innehåll och ändamålen med behandling av
 uppgifter i registret
 
 11 a § Utöver de uppgifter som anges i artikel 14.2 i 
-genomförandeförordningen ska operatörsregistret innehålla 
-uppgift om det unika digitala registreringsnummer som ska 
-utfärdas enligt artikel 14.6 i den förordningen. För fysiska 
-personer ska operatörsregistret även innehålla person- eller 
-samordningsnummer. Förordning (2020:1065).
+drönarförordningen ska operatörsregistret innehålla uppgifter 
+om det unika digitala registreringsnummer som ska utfärdas 
+enligt artikel 14.6 i den förordningen. För fysiska personer 
+ska operatörsregistret även innehålla person- eller 
+samordningsnummer. Förordning (2023:226).
 
 11 b § Personuppgifter får behandlas i operatörsregistret om 
-det är nödvändigt för att hantera frågor om
+det är nödvändigt för att
 
-1. tillståndsprövning och tillsyn av efterlevnaden av reglerna 
-i genomförandeförordningen och om utövande av marknadskontroll 
-enligt kommissionens delegerade förordning (EU) 2019/945 av 
-den 12 mars 2019 om obemannade luftfartygssystem och om 
-tredjelandsoperatörer av obemannade luftfartygssystem, eller
+1. hantera frågor om tillståndsprövning och tillsyn över att 
+drönarförordningen och U-space-förordningen följs, 
 
-2. avgifter. 
+2. hantera frågor som gäller utövningen av den 
+marknadskontroll som ska säkerställa att produkter 
+överensstämmer med kraven i kommissionens delegerade 
+förordning (EU) 2019/945 av den 12 mars 2019 om obemannade 
+luftfartygssystem och om tredjelandsoperatörer av obemannade 
+luftfartygssystem,
 
-Personuppgifter får även behandlas i operatörsregistret om det 
-är nödvändigt för att tillhandahålla sådana uppgifter om 
-operatörer som behövs i en verksamhet som stat, kommun eller 
-leverantör av flygtrafikledningstjänst ansvarar för enligt lag 
-eller förordning, när det gäller
+3. hantera frågor om avgifter, eller
 
-1. statlig eller kommunal räddningstjänst, eller
+4. tillhandahålla sådana uppgifter om operatörer som behövs i
 
-2. säkerhets-, flygsäkerhets- eller miljöändamål. 
+a) en verksamhet som staten, en kommun, en leverantör av 
+flygtrafikledningstjänst eller en leverantör av U-space-
+tjänster ansvarar för enligt lag eller förordning, när det 
+gäller statlig eller kommunal räddningstjänst eller när det 
+gäller säkerhets-, flygsäkerhets- eller miljöändamål,
 
-Personuppgifter får även behandlas i operatörsregistret när 
-det är nödvändigt för att tillhandahålla sådana uppgifter om 
-operatörer som behövs i
-
-1. Polismyndighetens, Säkerhetspolisens, Kustbevakningens 
+b) Polismyndighetens, Säkerhetspolisens, Kustbevakningens 
 eller Tullverkets verksamhet för att förebygga, förhindra 
 eller upptäcka brottslig verksamhet eller utreda eller lagföra 
 brott,
 
-2. Polismyndighetens och Kustbevakningens verksamhet för att 
+c) Polismyndighetens eller Kustbevakningens verksamhet för att 
 upprätthålla allmän ordning och säkerhet, eller
 
-3. Försvarsmaktens arbete med att försvara Sverige och främja 
-samhällets säkerhet. Förordning (2020:1065).
+d) Försvarsmaktens arbete med att försvara Sverige och främja 
+samhällets säkerhet. Förordning (2023:226).
 
 11 c § Personuppgifter som behandlas enligt 11 b § får även 
-behandlas när det är nödvändigt för att fullgöra en 
-förpliktelse som följer av ett internationellt åtagande.
+behandlas om det är nödvändigt för att
 
-Personuppgifter som behandlas enligt 11 b § får även behandlas 
-när det är nödvändigt för att tillhandahålla information till
+1. fullgöra en förpliktelse som följer av ett internationellt 
+åtagande, eller
 
-1. riksdagen eller regeringen,
+2. tillhandahålla information till
 
-2. en annan myndighet eller en enskild, om uppgifterna lämnas 
-med stöd av lag eller förordning, eller 
+a) riksdagen eller regeringen,
 
-3. en utländsk myndighet, ett EU-organ eller en mellanfolklig 
+b) en annan myndighet eller en enskild, om uppgifterna lämnas 
+med stöd av lag eller förordning, eller
+
+c) en utländsk myndighet, ett EU-organ eller en mellanfolklig 
 organisation, om utlämnandet av uppgifterna sker med anledning 
 av Sveriges medlemskap i Europeiska unionen eller i enlighet 
 med en internationell konvention som Sverige har tillträtt 
 eller ett av riksdagen godkänt avtal med en främmande stat 
-eller en mellanfolklig organisation. Förordning (2020:1065).
+eller en mellanfolklig organisation. Förordning (2023:226).
 
 Registreringen i luftfartygsregistret
 
@@ -518,9 +538,9 @@ personuppgifter som rör honom eller henne.
 Förordning (2020:1065).
 
 37 b § Uppgifter i operatörsregistret får lämnas ut till 
-statliga myndigheter och kommuner på medium för automatiserad 
-behandling för de ändamål som anges i 11 b § andra och tredje 
-stycket. Förordning (2020:1065).
+statliga myndigheter, kommuner och leverantörer av 
+flygtrafikledningstjänst genom elektroniskt utlämnande för de 
+ändamål som anges i 11 b § 4. Förordning (2023:226).
 
 Bemyndigande
 
