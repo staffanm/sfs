@@ -447,35 +447,33 @@ Skattepliktens omfattning och skattebelopp m.m.
 av andra stycket eller 1 b §, betalas för följande bränslen 
 med angivna belopp:
 
-KN-nr           Slag av bränsle  Skattebelopp
-                                 Energiskatt    Koldioxidskatt  Summa skatt
+KN-nr	        Slag av bränsle	Skattebelopp	
+			        Energiskatt	Koldioxidskatt  Summa skatt
 
-1.2710 11 41, 
+1. 2710 11 41, 
 2710 11 45 
 eller 
 2710 11 49	Bensin som 
-		uppfyller 
-		krav för	
+                uppfyller 
+                krav för	
 
 		a) miljöklass 1			
-
-		– motorbensin	3 kr 44 öre 	2 kr 87 öre 	6 kr 31 öre
-				per liter	per liter	per liter
-
-		- alkylatbensin	1 kr 14 öre     2 kr 87 öre     4 kr 01 öre
+		- motorbensin	2 kr 57 öre     3 kr 14 öre     5 kr 71 öre 
 		                per liter       per liter       per liter
-	 	 
-		b) miljöklass 2	3 kr 48 öre 	2 kr 87 öre	6 kr 35 öre 
-				per liter	per liter	per liter
 
+		- alkylatbensin	1 kr 42 öre     3 kr 14 öre     4 kr 56 öre 
+		                per liter       per liter       per liter
+		
+		b) miljöklass 2	2 kr 61 öre     3 kr 14 öre     5 kr 75 öre
+		                per liter       per liter       per liter
+	
 2. 2710 11 31, 
-2710 11 51 
-eller 
-2710 11 59	Annan bensin 
-		än som avses
-		under 1 eller 7	4 kr 48 öre 	2 kr 87 öre	7 kr 35 öre
-				per liter	per liter	per liter
-
+2710 11 51 eller 
+2710 11 59	Annan bensin än 
+                som avses under 
+                1 eller 7       3 kr 61 öre     3 kr 14 öre     6 kr 75 öre
+                                per liter	per liter       per liter
+	 
 3. 2710 19 21, 
 2710 19 25, 
 2710 19 41-
@@ -483,87 +481,79 @@ eller
 eller 
 2710 19 61-
 2710 19 69	Eldningsolja, 
-		dieselbrännolja, 
-		fotogen, m.m.
-		som			
+                dieselbrännolja, 
+                fotogen, 
+                m.m. som			
 
 		a) har försetts 
-		med märk- och 
+		med märk- och
 		färgämnen eller 
-		ger mindre än 
-		85 volymprocent 
-		destillat vid 
-		350°C,		279 kr 		3 793 kr	4 072 kr
-				per m3	 	per m3		per m3
-
+		ger mindre 
+                än 85 volymprocent 
+                destillat 
+                vid 350°C,      305 kr          3 887 kr        4 192 kr	
+                                per m3	        per m3          per m3
+                                
 		b) inte har 
 		försetts med 
-		märk- och 
-		färgämnen och 
-		ger minst 85 
-		volymprocent 
-		destillat vid 
-		350°C, 
-		tillhörig
+		märk- och färgämnen 
+                och ger minst 
+                85 volymprocent 
+                destillat vid 350°C, 
+                tillhörig
 			
+		miljöklass 1	1 470 kr        2 723 kr 	4 193 kr 
+                                per m3	        per m3          per m3
 
-                miljöklass 1	1 582 kr 	2 491 kr	4 073 kr
-				per m3	 	per m3		per m3
+		miljöklass 2	1 868 kr        2 723 kr        4 591 kr 
+		                per m3	        per m3	        per m3
 
-		miljöklass 2	1 940 kr 	2 491 kr	4 431 kr
-				per m3	 	per m3 		per m3
-	
-		miljöklass 3
+		miljöklass 3 
 		eller inte 
 		tillhör någon 
-		miljöklass	2 125 kr 	2 491 kr	4 616 kr
-				per m3	 	per m3		per m3
+		miljöklass	2 074 kr 	2 723 kr 	4 797 kr
+                                per m3          per m3          per m3
+					
 
 4. 2711 12 11-
-2711 19 00	Gasol m.m. 
-		som används 
-		för
-			
+2711 19 00	Gasol m.m. som 
+                används för
 		a) drift av 
 		motordrivet 
-		fordon, 
-		fartyg eller 
-		luftfartyg	0 kr per 	3 991 kr 	3 991 kr 
-				1 000 kg	per 1 000 kg	per 1 000 kg
-				
+		fordon, fartyg 
+		eller 
+		luftfartyg	0 kr per        4 363 kr per 	4 363 kr per  
+                                1 000 kg	1 000 kg        1 000 kg
 		b) annat ändamål 
 		än som avses 
-		under a		1 287 kr	3 991 kr	5 278 kr
-				per 1 000 kg	per 1 000 kg	per 1 000 kg
+		under a         1 407 kr per 	4 363 kr per    5 770 kr per  
+                                1 000 kg        1 000 kg        1 000 kg
 
 5. 2711 11 00, 
 2711 21 00	Naturgas som 
-		används för
+                används för
+		a) drift av 
+		motordrivet 
+		fordon, fartyg 
+		eller 
+                luftfartyg	0 kr per        3 104 kr per 	3 104 kr per
+                                1 000 m3        1 000 m3        1 000 m3
+		b) annat ändamål 
+		än som avses 
+		under a         1 209 kr per    3 104 kr per 	4 313 kr per  
+                                1 000 m3        1 000 m3        1 000 m3
+	
+6. 2701, 2702 
+eller 2704	Kol och koks	833 kr          3 608 kr per    4 441 kr per
+                                per 1 000 kg	1 000 kg	1 000 kg
 
-		a) drift av
-		motordrivet
-		fordon, 
-		fartyg eller 
-		luftfartyg	0 kr 		2 840 kr	2 840 kr
-				per 1 000 m3	per 1 000 m3	per 1 000 m3
-				 
-		b) annat 
-		ändamål än 
-		som avses 
-		under a		1 106 kr 	2 840 kr	3 946 kr
-				per 1 000 m3	per 1 000 m3	per 1 000 m3
+					
 
-6. 2701, 2702
-eller 2704	Kol och koks 	762 kr 		3 301 kr	4 063 kr
-				per 1 000 kg	per 1 000 kg	per 1 000 kg
-
-7. 2710 11 31	Flygbensin
-		med en 
-		blyhalt om 
-		högst 0,005 
-		gram per 
-		liter		3 kr 48 öre 	2 kr 87 öre	6 kr 35 öre
-				per liter	per liter	per liter
+7. 2710 11 31	Flygbensin med 
+                en blyhalt om 
+                högst 0,005 gram  
+                per liter	2 kr 61 öre	3 kr 14 öre     5 kr 75 öre 
+                                per liter       per liter       per liter
 
 I fall som avses i 5 kap. 16 § 3 och 4 samt 6 kap. 10 § 3 tas 
 skatt ut med ett belopp som motsvarar skillnaden mellan de 
@@ -596,15 +586,163 @@ stycket 3 b, om bränsle enligt 3 eller 4 § har förvärvats med
 skatt som motsvarar skatten som gäller för bränsle enligt 
 första stycket 3 a.
 
-I fall som avses i 5 kap. 16 § 6 c tillämpas tredje stycket 
-1-3 avseende flygfotogen (KN-nr 2710 19 21). Lag (2022:1776).
+I fall som avses i 5 kap. 16 § 6 c tillämpas tredje stycket 1-
+3 avseende flygfotogen (KN-nr 2710 19 21). Lag (2023:810).
+
+1 § /Träder i kraft I:2025-01-01/
+Energiskatt och koldioxidskatt ska, om inte annat följer 
+av andra stycket eller 1 b §, betalas för följande bränslen 
+med angivna belopp:
+
+KN-nr	        Slag av bränsle	Skattebelopp	
+        			Energiskatt	Koldioxidskatt  Summa skatt
+1. 2710 11 41, 
+2710 11 45 
+eller 
+2710 11 49	Bensin som 
+                uppfyller krav för	
+		
+		a) miljöklass 1			
+		- motorbensin	2 kr 19 öre     3 kr 27 öre	5 kr 46 öre
+                                per liter       per liter       per liter
+
+		- alkylatbensin	1 kr 57 öre     3 kr 27 öre 	4 kr 84 öre
+                                per liter       per liter       per liter
+
+		b) miljöklass 2	2 kr 23 öre     3 kr 27 öre 	5 kr 50 öre
+                                per liter       per liter       per liter
+					
+2. 2710 11 31, 
+2710 11 51 
+eller 
+2710 11 59	Annan bensin än 
+                som avses under 
+                1 eller 7       3 kr 30 öre     3 kr 27 öre     6 kr 57 öre
+                                per liter	per liter       per liter
+
+3. 2710 19 21, 
+2710 19 25, 
+2710 19 41-
+2710 19 49 
+eller 
+2710 19 61-
+2710 19 69	Eldningsolja, 
+                dieselbrännolja, 
+                fotogen, m.m. 
+                som			
+
+		a) har försetts 
+		med märk- och 
+		färgämnen 
+                eller ger mindre 
+                än 85 volymprocent 
+                destillat vid 
+                350°C,          318 kr 	        4 048 kr 	4 366 kr 
+                                per m3          per m3          per m3
+
+		b) inte har 
+		försetts med 
+		märk- och färgämnen 
+                och ger minst 
+                85 volymprocent 
+                destillat vid 350°C, 
+                tillhörig
+		miljöklass 1    1 615 kr  	2 836 kr 	4 451 kr 
+                                per m3          per m3          per m3
+		
+		miljöklass 2	2 037 kr 	2 836 kr 	4 873 kr 
+                                per m3          per m3          per m3
+
+		miljöklass 3 
+		eller inte 
+		tillhör någon 
+                miljöklass	2 256 kr 	2 836 kr 	5 092 kr 
+                                per m3          per m3          per m3
+					
+4. 2711 12 11-
+2711 19 00	Gasol m.m. som 
+                används för
+			
+		a) drift av 
+		motordrivet 
+		fordon, fartyg 
+		eller 
+		luftfartyg	0 kr     	4 544 kr  	4 544 kr 
+                                per 1 000 kg    per 1 000 kg    per 1 000 kg
+	
+		b) annat ändamål 
+		än som avses 
+		under a         1 465 kr 	4 544 kr        6 009 kr  
+                                per 1 000 kg    per 1 000 kg    per 1 000 kg
+
+5. 2711 11 00, 
+2711 21 00	Naturgas som 
+                används för
+			
+		a) drift av 
+		motordrivet 
+		fordon, fartyg 
+		eller 
+		luftfartyg	0 kr per        3 233 kr        3 233 kr 
+                                1 000 m3	per 1 000 m3	per 1 000 m3
+
+		b) annat ändamål 
+		än som avses 
+		under a         1 259 kr per	3 233 kr 	4 492 kr 
+                                1 000 m3        per 1 000 m3    per  1 000 m3
+					
+
+6. 2701, 2702 
+eller 2704	Kol och koks	868 kr 	        3 758 kr 	4 626 kr
+                                per 1 000 kg    per 1 000 kg    per 1 000 kg
+				
+7. 2710 11 31	Flygbensin 
+                med en blyhalt 
+                om högst 
+                0,005 gram  
+                per liter	2 kr 23 öre 	3 kr 27 öre     5 kr 50 öre
+                                per liter       per liter       per liter
+
+I fall som avses i 5 kap. 16 § 3 och 4 samt 6 kap. 10 § 3 tas 
+skatt ut med ett belopp som motsvarar skillnaden mellan de 
+skattebelopp som gäller för bränslets olika användningssätt. 
+
+I fall som avses i 5 kap. 16 § 6 a och b och 6 kap. 10 § 4 tas 
+skatt ut med ett belopp som motsvarar
+
+1. skatten som gäller för bränsle enligt första stycket 3 b, 
+om bränsle enligt första stycket 3 a har förvärvats utan 
+skatt,
+
+2. skillnaden mellan de skattebelopp som gäller för bränsle 
+enligt första stycket 3 a respektive bränsle enligt första 
+stycket 3 b, om bränsle enligt första stycket 3 a har 
+förvärvats med skatt,
+
+3. skatten som gäller för annat bränsle enligt första stycket, 
+om sådant bränsle i annat fall än som avses i 1 har förvärvats 
+utan skatt,
+
+4. skatten som gäller för det bränsle enligt första stycket 
+som det använda bränslet anses likvärdigt med enligt 3 eller 
+4 §, om bränsle enligt 3 eller 4 § har förvärvats utan skatt, 
+och
+
+5. skillnaden mellan de skattebelopp som gäller för bränsle 
+enligt första stycket 3 a respektive bränsle enligt första 
+stycket 3 b, om bränsle enligt 3 eller 4 § har förvärvats med 
+skatt som motsvarar skatten som gäller för bränsle enligt 
+första stycket 3 a.
+
+I fall som avses i 5 kap. 16 § 6 c tillämpas tredje stycket 1-
+3 avseende flygfotogen (KN-nr 2710 19 21). Lag (2023:811).
 
 1 a § Energiskatt skall även betalas för råtallolja (KN-nr 
 3803 00 10) med en skattesats som motsvarar den sammanlagda 
 skatt som tas ut på bränsle enligt 1 § första stycket 3 a. 
 Lag (1998:1699).
 
-1 b § För kalenderåret 2024 och efterföljande kalenderår ska 
+1 b § För kalenderåret 2026 och efterföljande kalenderår ska 
 energiskatt och koldioxidskatt betalas med belopp som 
 motsvarar de i 1 § angivna skattebeloppen efter en årlig 
 omräkning enligt andra stycket. Regeringen fastställer före 
@@ -633,10 +771,10 @@ omräknade koldioxidskattebeloppet enligt a.
 Med jämförelsetal avses det värde, uttryckt i procent, som 
 anger förhållandet mellan det allmänna prisläget i juni månad 
 året närmast före det år beräkningen avser och prisläget i 
-juni 2022.
+juni 2024.
 
 Beloppen enligt andra stycket 1, 2 a och 2 b avrundas var för 
-sig till hela kronor och ören. Lag (2022:1775).
+sig till hela kronor och ören. (Lag (2023:810).
 
 2 § För bränslen som beskattas enligt 1 § första stycket 1-3
 eller enligt 1 a § gäller angivna skattebelopp bränslets volym
@@ -2831,11 +2969,10 @@ befrielse från energiskatten med ett belopp som motsvarar
 100 procent av den koldioxidskatt som tas ut på bränsle enligt 
 2 kap. 1 § första stycket 3 a. Lag (2022:1775).
 
-2 a § /Upphör att gälla U:2024-01-01/
-För drift av skepp och båtar utan medgivande enligt 
+2 a § För drift av skepp och båtar utan medgivande enligt 
 2 kap. 9 § samt andra motordrivna fordon än personbilar, 
 lastbilar och bussar medges befrielse från koldioxidskatt med 
-2 262 kronor per kubikmeter bränsle som avses i 2 kap. 1 § 
+2 456 kronor per kubikmeter bränsle som avses i 2 kap. 1 § 
 första stycket 3 b, om det förbrukas i yrkesmässig
 
 1. jordbruks- eller skogsbruksverksamhet, eller
@@ -2843,7 +2980,7 @@ första stycket 3 b, om det förbrukas i yrkesmässig
 2. vattenbruksverksamhet.
 
 För sådan förbrukning som avses i första stycket ska även 
-befrielse från energiskatt medges med 1 582 kronor per 
+befrielse från energiskatt medges med 1 470 kronor per 
 kubikmeter.
 
 När det gäller skepp och båtar för vilka fiskelicens som inte 
@@ -2854,28 +2991,7 @@ stycket 3 a.
 
 Befrielse från skatt enligt denna paragraf får dock högst 
 uppgå till de skattebelopp som gäller vid skattskyldighetens 
-inträde för det förbrukade bränslet. Lag (2023:437).
-
-2 a § /Träder i kraft I:2024-01-01/
-För drift av skepp och båtar utan medgivande enligt 
-2 kap. 9 § samt andra motordrivna fordon än personbilar, 
-lastbilar och bussar medges befrielse från koldioxidskatt med 
-1 930 kronor per kubikmeter bränsle som avses i 2 kap. 1 § 
-första stycket 3 b, om det förbrukas i yrkesmässig
-
-1. jordbruks- eller skogsbruksverksamhet, eller
-
-2. vattenbruksverksamhet.
-
-När det gäller skepp och båtar för vilka fiskelicens som inte 
-är begränsad till fiske enbart i enskilt vatten meddelats 
-enligt fiskelagen (1993:787) medges skattebefrielse enligt 
-första stycket också för bränsle som avses i 2 kap. 1 § första 
-stycket 3 a.
-
-Befrielse från skatt enligt denna paragraf får dock högst 
-uppgå till de skattebelopp som gäller vid skattskyldighetens 
-inträde för det förbrukade bränslet. Lag (2023:362).
+inträde för det förbrukade bränslet. (Lag 2023:810).
 
 2 b § Har upphävts genom lag (2020:1045).
 
@@ -3328,17 +3444,11 @@ kilogram som utsläppet har minskat. Lag (2001:518).
 
 7 § Ansökan om återbetalning eller kompensation enligt 2-6 §§ 
 ska omfatta en period om ett kalenderkvartal och ska lämnas 
-elektroniskt. I fråga om återbetalning enligt 2 § som görs med 
-stöd av 6 a kap. 2 a § ska dock återbetalningen omfatta en 
-period om ett kalenderår. Om sökanden beräknas förbruka 
-bränsle i större omfattning, får dock beskattningsmyndigheten 
-medge att ansökan görs per kalenderkvartal. Ett sådant beslut 
-får återkallas om sökanden begär det eller förutsättningar för 
-medgivande inte finns.
+elektroniskt.
 
 Ansökan om återbetalning eller kompensation ska lämnas in till 
 beskattningsmyndigheten inom tre år efter utgången av 
-kalenderåret respektive kalenderkvartalet. Lag (2021:410).
+kalenderkvartalet. (Lag (2023:810).
 
 8 § Rätt till återbetalning eller kompensation enligt 2, 3 och 
 6 §§ föreligger endast när ersättningen för ett 
@@ -5454,7 +5564,7 @@ med 2 491 kronor per kubikmeter. Lag (2023:437).
 
 2023:362
 
-1. Denna lag träder i kraft den 1 januari 2024.
+1. Denna lag träder i kraft den 1 januari 2025. (Lag 2023:812).
 
 2. Äldre bestämmelser gäller fortfarande för förbrukning som 
 sker före ikraftträdandet.
@@ -5470,3 +5580,17 @@ ikraftträdandet.
 3. Bestämmelserna i 11 kap. 17 § andra stycket i den nya 
 lydelsen ska dock tillämpas för ansökan om återbetalning och 
 yrkande om avdrag som görs efter ikraftträdandet. (2023:436).
+
+2023:810
+
+1. Denna lag träder i kraft den 1 januari 2024.
+
+2. Äldre bestämmelser gäller fortfarande för förhållanden som 
+hänför sig till tiden före ikraftträdandet.
+
+2023:811
+
+1. Denna lag träder i kraft den 1 januari 2025.
+
+2. Äldre bestämmelser gäller fortfarande för förhållanden som 
+hänför sig till tiden före ikraftträdandet.
