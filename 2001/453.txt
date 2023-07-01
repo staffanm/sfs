@@ -271,17 +271,7 @@ som har behov av samhällets särskilda stöd. Socialnämnden ska
 i sin verksamhet främja den enskildes rätt till arbete,
 bostad och utbildning. Lag (2015:982).
 
-3 § /Upphör att gälla U:2023-07-01/
-Insatser inom socialtjänsten ska vara av god kvalitet.
-
-För utförande av uppgifter inom socialtjänsten ska det finnas
-personal med lämplig utbildning och erfarenhet.
-
-Kvaliteten i verksamheten ska systematiskt och fortlöpande
-utvecklas och säkras. Lag (2009:596).
-
-3 § /Träder i kraft I:2023-07-01/
-Insatser inom socialtjänsten ska vara av god kvalitet. 
+3 § Insatser inom socialtjänsten ska vara av god kvalitet. 
 
 För utförande av uppgifter inom socialtjänsten ska det finnas 
 personal med lämplig utbildning och erfarenhet.
@@ -333,8 +323,7 @@ Den myndighet som regeringen bestämmer får i enskilda fall
 bedöma om kraven enligt första stycket är uppfyllda.
 Lag (2016:147).
 
-3 d § /Träder i kraft I:2023-07-01/
-I verksamhet enligt denna lag får endast den som har ett 
+3 d § I verksamhet enligt denna lag får endast den som har ett 
 sådant bevis om rätt att använda yrkestiteln undersköterska 
 som avses i 4 kap. 5 a § patientsäkerhetslagen (2010:659) 
 utses till fast omsorgskontakt. Lag (2022:388).
@@ -357,38 +346,49 @@ Nämnden bör även i övrigt tillhandahålla sociala tjänster
 genom rådgivningsbyråer, socialcentraler och liknande, social
 jour eller annan därmed jämförlig verksamhet. Lag (2012:776).
 
-6 a § Socialnämnden ansvarar för att det finns tillgång till
-öppna insatser för att kunna möta barns, ungas och
+6 a § Socialnämnden ansvarar för att det finns tillgång till 
+öppna insatser för att kunna möta barns, ungas och 
 vårdnadshavares olika behov.
 
-För barn som har fyllt 15 år får nämnden besluta om öppna
-insatser även utan vårdnadshavarens samtycke, om det är
+För ett barn som har fyllt 12 men inte 15 år får nämnden 
+besluta om öppna insatser även utan vårdnadshavarens samtycke, 
+om det är lämpligt och barnet samtycker till det.
+
+För ett barn som har fyllt 15 år får nämnden besluta om öppna 
+insatser även utan vårdnadshavarens samtycke, om det är 
 lämpligt och barnet begär eller samtycker till det.
 
-I 6 b § finns särskilda bestämmelser om kontaktperson och om
-kontaktfamilj. Lag (2015:982).
+I 6 b § finns särskilda bestämmelser om kontaktperson och om 
+kontaktfamilj. Lag (2023:292).
 
-6 b § Socialnämnden får utse en särskild person
-(kontaktperson) eller en familj (kontaktfamilj) med uppgift
-att hjälpa den enskilde och hans eller hennes närmaste i
-personliga angelägenheter, om den enskilde begär eller
-samtycker till det. För barn som inte har fyllt 15 år får
-kontaktperson utses endast om barnets vårdnadshavare begär
-eller samtycker till det. Har barnet fyllt 15 år får
-kontaktperson utses endast om barnet självt begär eller
-samtycker till det.
+6 b § Socialnämnden får utse en särskild person 
+(kontaktperson) eller en familj (kontaktfamilj) med uppgift 
+att hjälpa den enskilde och hans eller hennes närmaste i 
+personliga angelägenheter, om den enskilde begär eller 
+samtycker till det. 
 
-Om en person som inte har fyllt 21 år har behov av särskilt
-stöd och särskild vägledning för att motverka en risk för
-missbruk av beroendeframkallande medel, för brottslig
-verksamhet eller för något annat socialt nedbrytande beteende,
-får nämnden utse en särskilt kvalificerad kontaktperson för
-den unge om denne begär eller samtycker till det. För barn som
-inte har fyllt 15 år får en sådan kontaktperson utses endast
-om barnets vårdnadshavare begär eller samtycker till det. Har
-barnet fyllt 15 år får en särskilt kvalificerad kontaktperson
-utses endast om barnet självt begär eller samtycker till det.
-Lag (2012:776).
+Om en person som inte har fyllt 21 år har behov av särskilt 
+stöd och särskild vägledning för att motverka en risk för 
+missbruk av beroendeframkallande medel, för brottslig 
+verksamhet eller för något annat socialt nedbrytande beteende, 
+får nämnden utse en särskilt kvalificerad kontaktperson för 
+den unge om denne begär eller samtycker till det.
+
+För ett barn 
+
+- som inte har fyllt 12 år får en kontaktperson eller en 
+särskilt kvalificerad kontaktperson utses endast om barnets 
+vårdnadshavare begär eller samtycker till det, 
+
+- som har fyllt 12 men inte 15 år får en kontaktperson eller 
+en särskilt kvalificerad kontaktperson utses om barnets 
+vårdnadshavare begär eller samtycker till det eller, om sådant 
+samtycke saknas, om det är lämpligt och barnet samtycker till 
+det, 
+
+- som har fyllt 15 år får en kontaktperson eller en särskilt 
+kvalificerad kontaktperson utses endast om det är lämpligt och 
+barnet begär eller samtycker till det. Lag (2023:292).
 
 6 c § Socialnämnden ska kontinuerligt följa hur insatser som
 avses i 6 b § genomförs när dessa har beviljats barn och
@@ -1869,12 +1869,13 @@ uppgifter som omfattas av sekretess enligt 26 kap. 3 §
 offentlighets- och sekretesslagen (2009:400).
 Lag (2011:1407).
 
-8 § Har en domstol dömt någon till ungdomsvård eller till
-ungdomstjänst, skall socialnämnden underrätta
-åklagarmyndigheten, om det kan antas att det finns
-förutsättningar för åtgärd enligt 30 b § lagen (1964:167) med
-särskilda bestämmelser om unga lagöverträdare eller 32 kap. 4 §
-brottsbalken. Lag (2006:901).
+8 § Om en domstol har dömt någon till ungdomsvård eller till 
+ungdomstjänst, eller om ungdomstjänst har förordnats genom ett 
+strafföreläggande som har godkänts, ska socialnämnden 
+underrätta åklagaren, om det kan antas att det finns 
+förutsättningar för åtgärd enligt 30 b § lagen (1964:167) med 
+särskilda bestämmelser om unga lagöverträdare eller 32 kap. 
+4 § brottsbalken. Lag (2023:313).
 
 9 § Om socialnämnden i sin verksamhet iakttagit något som
 tyder på att nya medel används för missbruksändamål eller att
@@ -2255,32 +2256,7 @@ av beslut enligt denna lag.
 
 Böter
 
-6 § /Upphör att gälla U:2023-07-01/
-Till böter döms den som
-
-1. överträder ett förbud eller en begränsning som har
-meddelats med stöd
-av 5 kap. 2 §,
-
-2. åsidosätter någon av bestämmelserna i 6 kap. 6 § första
-stycket eller 12 § första stycket, eller, om inte gärningen är
-belagd med straff i lagen (1997:192) om internationell
-adoptionsförmedling, 10 §,
-
-3. utan tillstånd driver verksamhet som avses i 7 kap. 1 §,
-
-4. i strid mot ett förbud som har meddelats enligt 13 kap. 9
-eller 10 § fortsätter verksamheten.
-
-Allmänt åtal för brott som avses i första stycket 1 eller 2
-får väckas endast efter medgivande av Socialstyrelsen.
-
-Allmänt åtal för brott som avses i första stycket 3 eller 4
-får väckas endast efter medgivande av Inspektionen för vård
-och omsorg. Lag (2012:944).
-
-6 § /Träder i kraft I:2023-07-01/
-Till böter döms den som
+6 § Till böter döms den som
 
 1. bryter mot 3 kap. 3 § tredje stycket,
 
