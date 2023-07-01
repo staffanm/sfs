@@ -232,38 +232,9 @@ lättförstörbara varor.
 Skyldighet att betala annan skatt än tull
 
 1 § Bestämmelser om skyldighet att betala annan skatt än tull 
-vid import eller införsel till det svenska tullområdet finns i 
-
-- mervärdesskattelagen (1994:200),
-
-- lagen (1994:1563) om tobaksskatt,
-
-- lagen (1994:1564) om alkoholskatt, 
-
-- lagen (1994:1776) om skatt på energi, 
-
-- lagen (2016:1067) om skatt på kemikalier i viss elektronik,
-
-- lagen (2018:696) om skatt på vissa nikotinhaltiga produkter, 
-och
-
-- lagen (2020:32) om skatt på plastbärkassar.
-
-Skatt som avses i första stycket ska fastställas och betalas 
-enligt det förfarande som gäller för tull, om inte något annat 
-föreskrivits. Om det i beskattningsunderlaget för sådan skatt 
-ska ingå tullvärde, tull eller motsvarande avgift som 
-fastställts i annan valuta, ska sådant underlag omräknas till 
-svensk valuta efter den kurs som enligt tullagstiftningen 
-gällde den dag då tullvärdet fastställdes. Lag (2021:1170).
-
-1 § /Träder i kraft I:2023-02-13/
-Bestämmelser om skyldighet att betala annan skatt än tull 
 vid import eller införsel till det svenska tullområdet finns i
 
-- mervärdesskattelagen (1994:200),
-
-- lagen (1994:1776) om skatt på energi, 
+- lagen (1994:1776) om skatt på energi,
 
 - lagen (2016:1067) om skatt på kemikalier i viss elektronik, 
 
@@ -271,9 +242,11 @@ vid import eller införsel till det svenska tullområdet finns i
 
 - lagen (2020:32) om skatt på plastbärkassar,
 
-- lagen (2022:155) om tobaksskatt, och
+- lagen (2022:155) om tobaksskatt, 
 
-- lagen (2022:156) om alkoholskatt.
+- lagen (2022:156) om alkoholskatt, och
+
+- mervärdesskattelagen (2023:200).
 
 Skatt som avses i första stycket ska fastställas och betalas 
 enligt det förfarande som gäller för tull, om inte något annat 
@@ -281,31 +254,29 @@ föreskrivits. Om det i beskattningsunderlaget för sådan skatt
 ska ingå tullvärde, tull eller motsvarande avgift som 
 fastställts i annan valuta, ska sådant underlag omräknas till 
 svensk valuta efter den kurs som enligt tullagstiftningen 
-gällde den dag då tullvärdet fastställdes. Lag (2022:175).
+gällde den dag då tullvärdet fastställdes. Lag (2023:209).
 
 2 § Mervärdesskatt som avses i 1 § första stycket ska inte tas 
 ut enligt denna lag utan i enlighet med skatteförfarandelagen 
 (2011:1244), om deklaranten eller, om deklaranten är ett 
-ombud, den för vars räkning ombudet handlar är registrerad 
-till mervärdesskatt i Sverige vid tidpunkten för beslutet om 
+ombud, den för vars räkning ombudet handlar är registrerad för 
+mervärdesskatt i Sverige vid tidpunkten för beslutet om 
 fastställande av tull och 
 
 1. agerar i egenskap av beskattningsbar person enligt 
-mervärdesskattelagen (1994:200) vid importen eller införseln, 
-eller 
+mervärdesskattelagen (2023:200) vid importen eller införseln, 
+eller
 
 2. är en juridisk person som inte agerar i egenskap av 
 beskattningsbar person enligt mervärdesskattelagen vid 
-importen eller införseln. 
+importen eller införseln.
 
 Det som sägs om beskattningsunderlag i 1 § gäller även i de 
 fall som avses i första stycket.
 
 Vid tillämpning av det särskilda förfarandet för 
-mervärdesskatt vid import i 27-29 §§ lagen (2011:1245) om 
-särskilda ordningar för mervärdesskatt för distansförsäljning 
-av varor och för tjänster ska mervärdesskatt alltid tas ut 
-enligt 1 §. Lag (2020:1161).
+mervärdesskatt vid import i 23 kap. mervärdesskattelagen ska 
+mervärdesskatt alltid tas ut enligt 1 §. Lag (2023:209).
 
 2 a § Om en tulldeklaration har getts in i ett annat EU-land 
 med stöd av ett tillstånd för centraliserad klarering enligt 
@@ -407,7 +378,7 @@ enligt 8 §.
 
 10 § Ränta enligt 8 eller 9 § tas inte ut på belopp som får 
 dras av vid redovisning av skatt enligt mervärdesskattelagen 
-(1994:200).
+(2023:200). Lag (2023:209).
 
 11 § Det som föreskrivs i tullagstiftningen om uppbörd, 
 indrivning och återbetalning av tull tillämpas även i fråga 
@@ -487,8 +458,8 @@ indrivning ske enligt 16 §.
 Återbetalning och eftergift 
 
 19 § Om en ansökan om återbetalning eller eftergift av tull 
-görs enligt bestämmelserna i artikel 121 i förordning (EU) nr 
-952/2013, i den ursprungliga lydelsen, ska även frågan om 
+görs enligt bestämmelserna i artikel 121 i förordning (EU) 
+nr 952/2013, i den ursprungliga lydelsen, ska även frågan om 
 återbetalning eller eftergift av skatt som avses i 1 § första 
 stycket prövas. Vid prövningen gäller artiklarna 116-120 i den 
 förordningen, i den ursprungliga lydelsen, i tillämpliga 
@@ -498,9 +469,9 @@ Om en sådan ansökan görs i ett annat EU-land där en tullskuld
 uppkommit till följd av ingivandet av en tulldeklaration med 
 stöd av ett tillstånd för centraliserad klarering enligt 
 artikel 179 i förordning (EU) nr 952/2013, i den ursprungliga 
-lydelsen, ska Tullverket på begäran av den skattskyldige pröva 
-frågan om återbetalning eller eftergift av skatt som beslutats 
-för samma varor enligt 2 a §. 
+lydelsen, ska Tullverket på begäran av den som är skyldig att 
+betala skatten pröva frågan om återbetalning eller eftergift 
+av skatt som beslutats för samma varor enligt 2 a §.
 
 Bestämmelsen om återbetalning och eftergift på eget initiativ 
 i artikel 116.4 i förordning (EU) nr 952/2013, i den 
@@ -512,9 +483,9 @@ annan skatt som ska betalas till Tullverket. I lagen
 (1985:146) om avräkning vid återbetalning av skatter och 
 avgifter finns också föreskrifter som begränsar rätten till 
 återbetalning. Belopp som får dras av vid redovisning av skatt 
-enligt mervärdesskattelagen (1994:200) eller som medför rätt 
-till återbetalning enligt 10 kap. 9, 11-13 och 15 §§ den lagen 
-betalas inte tillbaka. Lag (2021:1153).
+enligt mervärdesskattelagen (2023:200) eller som medför rätt 
+till återbetalning enligt 14 kap. 49 § den lagen betalas inte 
+tillbaka. Lag (2023:209).
 
 20 § Om det finns synnerliga skäl, får regeringen eller den 
 myndighet som regeringen bestämmer medge nedsättning av eller 
@@ -1415,12 +1386,11 @@ tillräckligt underlag för ett riktigt beslut, eller
 2. den uppenbart inte kan läggas till grund för ett beslut.
 
 7 § Tulltillägget enligt 5 § är tjugo procent av den tull som 
-inte skulle ha tagits ut, om den oriktiga uppgiften 
-godtagits.
+inte skulle ha tagits ut, om den oriktiga uppgiften godtagits.
 
 Tulltillägget är dock tio procent när det gäller 
-mervärdesskatt som får dras av vid redovisning av skatt 
-enligt mervärdesskattelagen (1994:200).
+mervärdesskatt som får dras av vid redovisning av skatt enligt 
+mervärdesskattelagen (2023:200). Lag (2023:209).
 
 8 § Tulltillägg ska tas ut av gäldenären i de fall då
 
@@ -1598,29 +1568,30 @@ Detsamma gäller vid överklagande i mål som avses i 5 kap.
 
 Tiden för överklagande
 
-3 § Om ett överklagande enligt 2 § gäller beslut om tull 
-eller beslut om annan skatt än tull enligt 2 kap. 1 § andra 
-stycket, ska överklagandet ha kommit in till Tullverket inom 
-tre år från den dag då tullskulden uppkom eller 
-skattskyldigheten inträdde. Om beslutet har meddelats senare 
-än två och ett halvt år efter den dag då tullskulden uppkom 
-eller skattskyldigheten inträdde, får överklagandet dock 
-komma in inom två månader från den dag då gäldenären eller 
-den skattskyldige fick del av beslutet, om tiden för 
-överklagande därigenom blir längre.
+3 § Om ett överklagande enligt 2 § gäller beslut om tull eller 
+beslut om annan skatt än tull enligt 2 kap. 1 § andra stycket, 
+ska överklagandet ha kommit in till Tullverket inom tre år 
+från den dag då tullskulden uppkom, skattskyldigheten inträdde 
+eller den beskattningsgrundande händelsen inträffade.
+
+Om beslutet har meddelats senare än två och ett halvt år efter 
+den dag som avses i första stycket, får överklagandet dock 
+komma in inom två månader från den dag då gäldenären eller den 
+skattskyldige fick del av beslutet, om tiden för överklagande 
+därigenom blir längre.
 
 Om beslut som avses i första stycket har omprövats, får även 
 omprövningsbeslutet överklagas inom treårsfristen. Om 
 omprövningsbeslutet meddelats senare än två och ett halvt år 
-efter den dag då tullskulden uppkom eller skattskyldigheten 
-inträdde, får överklagandet dock komma in inom två månader 
-från den dag då gäldenären eller den skattskyldige fick del 
-av omprövningsbeslutet, om tiden för överklagande därigenom 
-blir längre.
+efter den dag som avses i första stycket, får överklagandet 
+dock komma in inom två månader från den dag då gäldenären 
+eller den skattskyldige fick del av omprövningsbeslutet, om 
+tiden för överklagande därigenom blir längre.
 
-Gäldenären eller den skattskyldige får överklaga ett beslut 
-som avses i första och andra styckena även om beslutet inte 
-är till nackdel för denne.
+Gäldenären eller den som är skyldig att betala skatten får 
+överklaga ett beslut som avses i första eller tredje stycket 
+även om beslutet inte är till nackdel för denne.
+Lag (2023:209).
 
 Omprövning av det överklagade beslutet
 
@@ -1647,20 +1618,21 @@ omprövning.
 Överklagande av beslut om ränta, tulltillägg och 
 förseningsavgift
 
-7 § Bestämmelserna i 3–6 §§ gäller också överklagande av 
-beslut om ränta, tulltillägg och förseningsavgift. 
+7 § Bestämmelserna i 3-6 §§ gäller också överklagande av 
+beslut om ränta, tulltillägg och förseningsavgift.
 
-En gäldenärs eller skattskyldigs yrkande i fråga om 
-tulltillägg ska, oavsett tidsfristerna i 3 §, prövas om 
-beslutet om den tull som tulltillägget avser inte har fått 
-laga kraft. Detsamma gäller om Tullverket eller det allmänna 
-ombudet framställt ett sådant yrkande till förmån för 
-gäldenären eller den skattskyldige. Om yrkandet framställs 
-först i domstol, kan domstolen besluta att det ska tas upp 
-till prövning av Tullverket.
+Ett yrkande som avser tulltillägg och som görs av en gäldenär 
+eller den som är skyldig att betala skatten ska, oavsett 
+tidsfristerna i 3 §, prövas om beslutet om den tull som 
+tulltillägget avser inte har fått laga kraft. Detsamma gäller 
+om Tullverket eller det allmänna ombudet framställt ett sådant 
+yrkande till förmån för gäldenären eller den som är skyldig 
+att betala skatten. Om yrkandet framställs först i domstol, 
+kan domstolen besluta att det ska tas upp till prövning av 
+Tullverket.
 
 Bestämmelserna i andra stycket gäller även en deklarants 
-yrkande i fråga om förseningsavgift.
+yrkande i fråga om förseningsavgift. Lag (2023:209).
 
 Anslutningsöverklagande
 
@@ -2012,3 +1984,10 @@ eftergift som görs efter ikraftträdandet.
 
 2. Äldre bestämmelser gäller dock fortfarande för förhållanden 
 som hänför sig till tiden före ikraftträdandet.
+
+2023:209
+
+1. Denna lag träder i kraft den 1 juli 2023.
+
+2. Äldre föreskrifter gäller fortfarande för förhållanden som 
+hänför sig till tiden före ikraftträdandet.
