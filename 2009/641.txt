@@ -560,7 +560,9 @@ röstlängdsregister
 Skatteverkets databas över identitetskort för folkbokförda i 
 Sverige
 
-Socialstyrelsens register över hälso- och sjukvårdspersonal
+Socialstyrelsens register över legitimerad hälso- och 
+sjukvårdspersonal och personal med bevis om rätt att använda 
+yrkestiteln undersköterska
 
 Statens jordbruksverks register över hund- och kattägare
 
@@ -570,7 +572,7 @@ Totalförsvarets plikt- och prövningsverks register över
 totalförsvarets personal
 
 Transportstyrelsens vägtrafikregister
-Förordning (2022:1557).
+Förordning (2023:297).
 
 Föreskrifter med stöd av 24 kap. 8 § offentlighets- och
 sekretesslagen
@@ -895,7 +897,7 @@ Regeringskansliet       undersökningar i    sekretessen gäller
                         Justitie-           endast uppgifter om
                         departementet       enskildas personliga
                         dels om             förhållanden
-                        utvisning på
+                        utvisning på                               
                         grund av brott
                         (Ju 2001:J),
                         dels om
@@ -920,44 +922,40 @@ Regeringskansliet       undersökningar i    sekretessen gäller
                         förmögenhets-
                         fördelning samt om
                         fördelnings-
-                        effekter av de
+                        effekter av de          
                         offentliga
-                        välfärdssystemen
+                        välfärdssystemen        
 
-                        undersökningar om
-                        utveckling,
-                        förändring samt
-                        effekter av
-                        åtgärder inom
-                        områdena jakt och
-                        fiske, djur, jord-
-                        och skogsbruk,
-                        livsmedel,
-                        landsbygd, miljö
-                        och naturresurser,
-                        energi,
-                        kommunikationer,
-                        näringsverksamhet,
-                        arbetsmarknad,
-                        undervisning och
-                        utbildning,
-                        socialtjänst,
-                        hälso- och
-                        sjukvård,
-                        tandvård,
-                        planläggning,
-                        byggande samt
-                        bostad
+	                undersökningar om 
+	                utveckling, 
+	                förändring samt 
+                        effekter av åtgärder   
+                        inom områdena jakt 
+                        och fiske, djur, 
+                        jord- och skogsbruk, 
+                        livsmedel, landsbygd, 
+                        miljö och 
+                        naturresurser, energi, 
+                        kommunikationer, 
+                        näringsverksamhet, 
+                        arbetsmarknad, 
+                        undervisning och 
+                        utbildning, 
+                        socialtjänst, hälso- 
+                        och sjukvård, tandvård, 
+                        planläggning, byggande, 
+                        bostad, migration samt 
+                        brottslighet	
 
-                        undersökningar om
-                        effekter av
-                        förändringar i
-                        finansiella
-                        instituts
-                        ekonomiska
-                        förhållanden
+                        undersökningar om 
+                        effekter av 
+                        förändringar i 
+                        finansiella 
+                        instituts 
+                        ekonomiska 
+                        förhållanden	
 
-                        undersökning om     sekretessen gäller
+	                undersökning om     sekretessen gäller
                         särbehandlande      endast uppgifter om
                         åtgärder mot        enskildas personliga
                         romer under         förhållanden
@@ -1172,7 +1170,7 @@ forskningsinrättningar  pedagogiska eller   enskildas personliga
                         uppföljning och
                         utveckling av
                         åklagarverksamheten
-Förordning (2022:1557).
+Förordning (2023:297).
 
 Föreskrifter med stöd av 30 kap. 7 § offentlighets- och
 sekretesslagen
@@ -2888,8 +2886,7 @@ enligt taxitrafiklagen
 om trafiktillstånd enligt
 motsvarande äldre
 föreskrifter
-                                
-/Träder i kraft I:2023-05-30/   
+
 78. stöd enligt förordningen    sekretessen gäller inte för  
 (2023:233) om elstöd till       uppgifter i beslut i ärenden,  
 företag och lagen (2023:230)    med undantag för uppgift om
@@ -3354,23 +3351,6 @@ beredskap eller enligt
 motsvarande äldre 
 bestämmelser	
 
-/Upphör att gälla U:2023-05-30/
-124. utredning enligt           sekretessen enligt 9 § första
-förordningen (2008:834)         stycket 1 gäller inte om
-om producentansvar för          intresset av allmän kännedom om
-batterier och                   något förhållande som rör
-förordningen (2014:1075)        människors hälsa, miljön,
-om producentansvar för          redligheten i handeln eller ett
-elutrustning samt               liknande allmänintresse har
-tillsyn i fråga om              sådan vikt att uppgifterna bör
-elektriska och                  lämnas ut
-elektroniska produkter,
-elutrustning och
-batterier enligt
-miljötillsynsförordningen
-(2011:13)
-
-/Träder i kraft I:2023-05-30/
 124. utredning enligt           sekretessen enligt 9 § första 
 förordningen (2008:834)         stycket 1 gäller inte om 
 om producentansvar för          intresset av allmän kännedom om
@@ -3404,6 +3384,11 @@ läkemedel.
 127. tillsyn enligt 
 2 kap. 4 § lagen 
 (2022:155) om tobaksskatt	
+
+128. tillsyn enligt             sekretessen gäller inte 
+biobankslagen (2023:38)         beslut i ärenden
+eller enligt motsvarande 
+äldre bestämmelser	
 
 130. utredning,                 sekretessen gäller inte
 tillståndsgivning och           beslut i ärenden 
@@ -3777,18 +3762,6 @@ radiologiska olyckor eller
 enligt motsvarande äldre 
 bestämmelser	
 
-/Upphör att gälla U:2023-05-30/
-170. utredning enligt           sekretessen enligt 9 § första 
-förordningen (2007:185) om      stycket 1 gäller inte om
-producentansvar för bilar och   intresset av allmän kännedom om
-förordningen (1994:1236) om     något förhållande som rör
-producentansvar för däck samt   människors hälsa, miljön,
-tillsyn i fråga om bilar och    redligheten i handeln eller ett
-däck enligt                     liknande allmänintresse har
-miljötillsynsförordningen       sådan vikt att uppgiften bör
-(2011:13)                       lämnas ut
-
-/Träder i kraft I:2023-05-30/
 170. utredning enligt           sekretessen enligt 9 § första 
 förordningen (2023:132)         stycket 1 gäller inte om 
 om producentansvar för          intresset av allmän kännedom om 
@@ -3934,8 +3907,8 @@ Importreglering                                 22
 Informationssäkerhet				153
 Industrifonden                                  83
 Industrigarantilån                              75
-Inspektionen för vård och omsorg		33, 58, 133, 153
-Investeringar
+Inspektionen för vård och omsorg	        33, 58, 128, 133, 153
+Investeringar	                                9, 90
 
 Jordbruk                                        24, 107
 Järnvägstrafik                                  14
@@ -4045,16 +4018,9 @@ Salmonella					30
 Sametinget					24, 106
 Silver						51
 Sjöfart                                         36, 49, 68, 118
-/Upphör att gälla U:2023-05-30/
-Sjöräddningscentralen i Göteborg                105
-Skatteverket                                    112, 113, 127, 160
-Skjutvapen                                      89
-	
-/Träder i kraft I:2023-05-30/
 Sjöräddningscentralen i Göteborg                105
 Skatteverket	                                78, 112, 113, 127, 160
 Skjutvapen	                                89
-
 Skogsbruket                                     53
 Skogsodlingsmaterial				39, 81
 Skogsstyrelsen					39, 106, 141
@@ -4122,4 +4088,4 @@ Yrkestrafiklagen                                77
 Ägarfrågor                                      10
 
 Öppenvårdsapoteksservice                        139
-Förordning (2023:255).
+Förordning (2023:297).
