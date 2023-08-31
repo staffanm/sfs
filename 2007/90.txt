@@ -1986,6 +1986,15 @@ trafikantgrupp			Fordonsslaget eller
 				trafikantgruppen anges med 
 				symbol enligt 28 §.
 
+F31a Färdväg för långa 
+fordonståg                      Märket anger färdväg enligt 
+                                föreskrifter meddelade med 
+                                stöd av 4 kap. 17 f § 
+                                trafikförordningen (1998:1276).
+
+                                Avvikelse från färg får inte 
+                                ske.
+
 F32 Farligt gods		Märket anger rekommenderad 
 				färdväg för fordon med last som 
 				omfattas av krav på märkning 
@@ -2004,7 +2013,7 @@ F33 Räddningsplats		Märket anger en räddningsplats
 
 				Avvikelse från färg får inte 
 				ske.
-Förordning (2017:923).
+Förordning (2023:70).
 
 Lokaliseringsmärken för vägvisning av gång- och cykeltrafik
 
