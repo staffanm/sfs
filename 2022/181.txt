@@ -154,27 +154,7 @@ unionens funktionssätt, och
 stödordningen som hänför sig till primär jordbruksproduktion.
 Förordning (2022:1742).
 
-9 § /Upphör att gälla U:2023-07-01/
-Ett företag som ansöker om godkännande som upplagshavare, 
-registrerad varumottagare eller lagerhållare ska vid 
-fullgörandet av sin uppgiftsskyldighet enligt 8 § 2 ange den 
-region på NUTS 2-nivå där företagets huvudkontor finns. 
-
-Om företaget ansöker om godkännande som upplagshavare eller 
-lagerhållare och avser att driva verksamhet som innebär att 
-företaget är en stödmottagare enligt 1 kap. 11 b § lagen 
-(1994:1776) om skatt på energi, ska även regionen för sådan 
-verksamhet anges på den NUTS 2-nivå där företagets 
-huvudsakliga verksamhet avses att drivas inom respektive 
-stödordning. 
-
-Andra stycket gäller även ett företag som ansöker om 
-godkännande som registrerad varumottagare och avser att driva 
-en verksamhet som innebär att företaget är en stödmottagare 
-enligt 1 kap. 11 b § 2 lagen om skatt på energi.
-
-9 § /Träder i kraft I:2023-07-01/
-Ett företag som ansöker om godkännande som upplagshavare, 
+9 § Ett företag som ansöker om godkännande som upplagshavare, 
 registrerad varumottagare eller lagerhållare ska vid 
 fullgörandet av sin uppgiftsskyldighet enligt 8 § första 
 stycket 2 ange den region på NUTS 2-nivå där företagets 
@@ -194,19 +174,7 @@ en verksamhet som innebär att företaget är en stödmottagare
 enligt 1 kap. 11 b § 2 lagen om skatt på energi.
 Förordning (2023:141).
 
-10 § /Upphör att gälla U:2023-07-01/
-Ett företag som ansöker om godkännande som upplagshavare, 
-registrerad varumottagare eller lagerhållare ska vid 
-fullgörandet av sin uppgiftsskyldighet enligt 8 § 3 ange det 
-verksamhetsområde som företagets verksamhet huvudsakligen hör 
-till på Nace-gruppnivå. Om företaget avser att driva 
-verksamhet som innebär att företaget är en stödmottagare 
-enligt 1 kap. 11 b § lagen (1994:1776) om skatt på energi, ska 
-huvudsakligt verksamhetsområde även anges för respektive 
-stödordning.
-
-10 § /Träder i kraft I:2023-07-01/
-Ett företag som ansöker om godkännande som upplagshavare, 
+10 § Ett företag som ansöker om godkännande som upplagshavare, 
 registrerad varumottagare eller lagerhållare ska vid 
 fullgörandet av sin uppgiftsskyldighet enligt 8 § första 
 stycket 3 ange det verksamhetsområde som företagets verksamhet 
@@ -320,21 +288,7 @@ om den sökande beräknas ha en årlig omsättning på minst
 
 Märk- och färgämnen
 
-18 § /Upphör att gälla U:2023-07-01/
-En oljeprodukt ska enligt 2 kap. 1 § första stycket 3 a 
-och 9 § lagen (1994:1776) om skatt på energi anses vara 
-försedd med 
-
-1. märkämne om den innehåller minst 6 och högst 9 milligram N-
-etyl-N-[2-(1-isobutoxietoxi)etyl]-4-(fenylazo)anilin per liter 
-olja, och 
-
-2. färgämne om den innehåller ett stabilt blått färgämne som 
-är ett derivat av 1,4-diaminoantrakinon av sådan halt att 
-oljan får en klar grön färg.
-
-18 § /Träder i kraft I:2023-07-01/
-En oljeprodukt ska enligt 2 kap. 1 § första stycket 3 a 
+18 § En oljeprodukt ska enligt 2 kap. 1 § första stycket 3 a 
 och 9 § lagen (1994:1776) om skatt på energi anses vara 
 försedd med
 
@@ -437,11 +391,10 @@ punktskattepliktiga varor efter frisläppande för konsumtion,
 samt om fastställande av det formulär som ska användas för 
 intyget om undantag. Förordning (2022:1742).
 
-Dokumenthantering i det datoriserade systemet vid flyttningar 
-under uppskovsförfarandet 
+Dokumenthantering vid flyttningar under uppskovsförfarandet
 
 Hantering av elektroniska administrativa dokument, 
-mottagningsapporter och exportrapporter
+mottagningsrapporter, exportrapporter och ersättningsdokument
 
 24 § När Skatteverket har tilldelat ett elektroniskt 
 administrativt dokument en administrativ referenskod, ska 
@@ -465,15 +418,20 @@ avsändarmedlemsstaten om den bristande överensstämmelsen.
 26 § Skatteverket ska vidarebefordra mottagningsrapporter för 
 bränsle som tagits emot i Sverige till den behöriga 
 myndigheten i respektive avsändarmedlemsstat via det 
-datoriserade systemet. Om uppgifterna i en mottagningsrapport 
-inte är giltiga, ska Skatteverket i stället utan dröjsmål 
-underrätta den som upprättat mottagningsrapporten om detta. 
+datoriserade systemet. 
+
+Skatteverket ska göra en elektronisk kontroll av 
+mottagningsrapporten. Är uppgifterna i mottagningsrapporten 
+giltiga, ska Skatteverket bekräfta mottagandet av rapporten. 
+Om uppgifterna inte är giltiga, ska Skatteverket i stället 
+utan dröjsmål underrätta den som upprättat 
+mottagningsrapporten om detta. 
 
 När det datoriserade systemet inte är tillgängligt, ska 
 Skatteverket i stället skicka en kopia av det 
 ersättningsdokument som avses i 4 b kap. 16 § lagen 
 (1994:1776) om skatt på energi till den behöriga myndigheten i 
-avsändarmedlemsstaten.
+avsändarmedlemsstaten. Förordning (2023:429).
 
 27 § Skatteverket ska vidarebefordra elektroniska 
 administrativa dokument som är ställda till upplagshavare, 
@@ -505,7 +463,12 @@ land, ska exportrapporten därefter snarast sändas till den
 behöriga myndigheten i det landet via det datoriserade 
 systemet. Har bränslet avsänts från Sverige, ska 
 exportrapporten i stället vidarebefordras via det datoriserade 
-systemet till den som avsänt bränslet.
+systemet till den som avsänt bränslet. När det datoriserade 
+systemet inte är tillgängligt, ska Skatteverket i stället 
+skicka en kopia av det ersättningsdokument som avses i 
+4 b kap. 16 § lagen (1994:1776) om skatt på energi till den 
+behöriga myndigheten i avsändarmedlemsstaten respektive den 
+som från Sverige avsänt bränslet. Förordning (2023:429).
 
 29 § Om bränsle för vilket en exportdeklaration har getts in 
 till Tullverket har avsänts under uppskovsförfarandet till en 
@@ -569,7 +532,7 @@ medlemsstat får ske på svenskt territorium.
 33 § För sådan uppdelning av en flyttning av bränsle under 
 uppskovsförfarande som avses i artikel 23 i 
 punktskattedirektivet där flyttningen påbörjats i Sverige 
-krävs att  
+krävs att 
 
 1. uppdelningen sker på svenskt territorium eller på 
 territoriet hos en annan medlemsstat som tillåter sådan 
@@ -581,19 +544,19 @@ och
 3. avsändaren via det datoriserade systemet informerar 
 Skatteverket om i vilken medlemsstat uppdelningen sker. 
 
-Första stycket 3 gäller inte flyttning av bränsle som sker 
-enbart på svenskt territorium. 
+När det datoriserade systemet inte är tillgängligt, får 
+avsändaren på annat sätt informera Skatteverket om en sådan 
+uppdelning. Informationen ska lämnas till Skatteverket innan 
+uppdelningen sker. När det datoriserade systemet åter är 
+tillgängligt ska avsändaren snarast lämna uppgifter i systemet 
+om uppdelningen. 
+
+Första stycket 3 och andra stycket gäller inte flyttning av 
+bränsle som sker enbart på svenskt territorium. 
 
 Närmare bestämmelser om meddelanden som ska utbytas genom det 
-datoriserade systemet vid uppdelning av flyttning finns i 
-
-- artikel 7 i kommissionens delegerade förordning (EU) 
-2022/1636 av den 5 juli 2022 om komplettering av rådets 
-direktiv (EU) 2020/262 genom fastställande av form och 
-innehåll för de dokument som utbyts i samband med flyttning av 
-punktskattepliktiga varor och om fastställande av ett 
-tröskelvärde för förluster till följd av varornas 
-beskaffenhet, och 
+datoriserade systemet vid uppdelning av flyttning och om 
+ersättningsdokument finns i 
 
 - artikel 5 i kommissionens genomförandeförordning (EU) 
 2022/1637 av den 5 juli 2022 om fastställande av 
@@ -602,10 +565,18 @@ gäller användning av dokument i samband med flyttning av
 punktskattepliktiga varor under ett uppskovsförfarande och 
 flyttning av punktskattepliktiga varor efter frisläppande för 
 konsumtion, samt om fastställande av det formulär som ska 
-användas för intyget om undantag. Förordning (2022:1742).
+användas för intyget om undantag, och 
 
-Dokumenthantering i det datoriserade systemet vid flyttningar 
-under förfarandet för beskattade varor
+- artiklarna 7 och 9.2 i kommissionens delegerade förordning 
+(EU) 2022/1636 av den 5 juli 2022 om komplettering av rådets 
+direktiv (EU) 2020/262 genom fastställande av form och 
+innehåll för de dokument som utbyts i samband med flyttning av 
+punktskattepliktiga varor och om fastställande av ett 
+tröskelvärde för förluster till följd av varornas 
+beskaffenhet. Förordning (2023:429).
+
+Dokumenthantering vid flyttningar under förfarandet för 
+beskattade varor
 
 34 § När Skatteverket har tilldelat ett elektroniskt förenklat 
 administrativt dokument en förenklad administrativ 
@@ -617,17 +588,21 @@ destinationsmedlemsstaten via det datoriserade systemet.
 bränsle som tagits emot i Sverige till den behöriga 
 myndigheten i respektive avsändarmedlemsstat enligt 4 e kap. 
 7 § lagen (1994:1776) om skatt på energi, ska det ske via det 
-datoriserade systemet.
+datoriserade systemet. 
 
-Om uppgifterna i en mottagningsrapport inte är giltiga, ska 
-Skatteverket i stället utan dröjsmål underrätta den som 
-upprättat mottagningsrapporten om detta. 
+Skatteverket ska göra en elektronisk kontroll av 
+mottagningsrapporten. Är uppgifterna i mottagningsrapporten 
+giltiga, ska Skatteverket bekräfta mottagandet av rapporten. 
+Om uppgifterna inte är giltiga, ska Skatteverket i stället 
+utan dröjsmål underrätta den som upprättat 
+mottagningsrapporten om detta. 
 
 När det datoriserade systemet inte är tillgängligt, ska 
 Skatteverket i stället, om förutsättningarna i första stycket 
 är uppfyllda, skicka en kopia av det ersättningsdokument som 
 avses i 4 e kap. 10 § lagen om skatt på energi till den 
 behöriga myndigheten i avsändarmedlemsstaten.
+Förordning (2023:429).
 
 36 § Skatteverket ska vidarebefordra elektroniska förenklade 
 administrativa dokument som är ställda till tillfälligt 
