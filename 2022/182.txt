@@ -204,8 +204,7 @@ punktskattepliktiga varor efter frisläppande för konsumtion,
 samt om fastställande av det formulär som ska användas för 
 intyget om undantag. Förordning (2022:1743).
 
-Dokumenthantering i det datoriserade systemet vid flyttningar 
-under uppskovsförfarandet
+Dokumenthantering vid flyttningar under uppskovsförfarandet
 
 14 § När Skatteverket har tilldelat ett elektroniskt 
 administrativt dokument en administrativ referenskod, ska 
@@ -230,15 +229,20 @@ myndigheterna i avsändarmedlemsstaten om den bristande
 16 § Skatteverket ska vidarebefordra mottagningsrapporter för 
 varor som tagits emot i Sverige till den behöriga myndigheten 
 i respektive avsändarmedlemsstat via det datoriserade 
-systemet. Om uppgifterna i en mottagningsrapport inte är 
-giltiga, ska Skatteverket i stället utan dröjsmål underrätta 
-den som upprättat mottagningsrapporten om detta. 
+systemet. 
+
+Skatteverket ska göra en elektronisk kontroll av 
+mottagningsrapporten. Är uppgifterna i mottagningsrapporten 
+giltiga, ska Skatteverket bekräfta mottagandet av rapporten. 
+Om uppgifterna inte är giltiga, ska Skatteverket i stället 
+utan dröjsmål underrätta den som upprättat 
+mottagningsrapporten om detta. 
 
 När det datoriserade systemet inte är tillgängligt, ska 
 Skatteverket i stället skicka en kopia av det 
 ersättningsdokument som avses i 5 kap. 16 § lagen (2022:155) 
 om tobaksskatt till den behöriga myndigheten i 
-avsändarmedlemsstaten.
+avsändarmedlemsstaten. Förordning (2023:430).
 
 17 § Skatteverket ska vidarebefordra elektroniska 
 administrativa dokument som är ställda till upplagshavare, 
@@ -251,18 +255,18 @@ registrerade avsändare i Sverige.
 18 § En exportrapport ska grundas på den underrättelse om att 
 de punktskattepliktiga varorna har lämnat unionens territorium 
 som lämnas av utförseltullkontoret enligt artikel 329 i 
-kommissionens genomförandeförordning (EU) 2015/2447 av den 
+kommissionens genomförande-förordning (EU) 2015/2447 av den 
 24 november 2015 om närmare regler för genomförande av vissa 
 bestämmelser i Europaparlamentets och rådets förordning (EU) 
 nr 952/2013 om fastställande av en tullkodex för unionen eller 
 av det kontor där formaliteterna enligt artikel 2.2 i 
-punktskattedirektivet fullgjorts. 
+punktskatte-direktivet fullgjorts. 
 
 I de fall som avses i artikel 16.1 a v i punktskattedirektivet 
 ska exportrapporten grundas på underrättelse om att varorna 
 övergått till förfarandet för extern transitering som lämnas 
 av utförseltullkontoret enligt artikel 329.5 i kommissionens 
-genomförandeförordning (EU) 2015/2447.
+genomförandeförordning (EU) 2015/2447. 
 
 Skatteverket ska göra en elektronisk kontroll av uppgifterna i 
 underrättelsen. Om varorna har avsänts från ett annat EU-land, 
@@ -270,7 +274,12 @@ ska exportrapporten därefter snarast sändas till den behöriga
 myndigheten i det landet via det datoriserade systemet. Har 
 varorna avsänts från Sverige, ska exportrapporten i stället 
 vidarebefordras via det datoriserade systemet till den som 
-avsänt varorna.
+avsänt varorna. När det datoriserade systemet inte är 
+tillgängligt, ska Skatteverket i stället skicka en kopia av 
+det ersättningsdokument som avses i 5 kap. 16 § lagen 
+(2022:155) om tobaksskatt till den behöriga myndigheten i 
+avsändarmedlemsstaten respektive den som från Sverige avsänt 
+varorna. Förordning (2023:430).
 
 19 § Om varor för vilka en exportdeklaration har getts in till 
 Tullverket har avsänts under uppskovsförfarandet till en 
@@ -288,8 +297,8 @@ längre ska föras ut, ska Skatteverket lämna en kopia av
 dokumentet till den som avsänt varorna eller på annat sätt 
 hålla dokumentet tillgängligt för denne.
 
-Dokumenthantering i det datoriserade systemet vid flyttningar 
-under förfarandet för beskattade varor
+Dokumenthantering vid flyttningar under förfarandet för 
+beskattade varor
 
 21 § När Skatteverket har tilldelat ett elektroniskt förenklat 
 administrativt dokument en förenklad administrativ 
@@ -303,15 +312,18 @@ i respektive avsändarmedlemsstat enligt 8 kap. 8 § lagen
 (2022:155) om tobaksskatt, ska det ske via det datoriserade 
 systemet. 
 
-Om uppgifterna i en mottagningsrapport inte är giltiga, ska 
-Skatteverket i stället utan dröjsmål underrätta den som 
-upprättat mottagningsrapporten om detta. 
+Skatteverket ska göra en elektronisk kontroll av 
+mottagningsrapporten. Är uppgifterna i mottagningsrapporten 
+giltiga, ska Skatteverket bekräfta mottagandet av rapporten. 
+Om uppgifterna inte är giltiga, ska Skatteverket i stället 
+utan dröjsmål underrätta den som upprättat 
+mottagningsrapporten om detta. 
 
 När det datoriserade systemet inte är tillgängligt, ska 
 Skatteverket i stället, om förutsättningarna i första stycket 
 är uppfyllda, skicka en kopia av det ersättningsdokument som 
 avses i 8 kap. 11 § lagen om tobaksskatt till den behöriga 
-myndigheten i avsändarmedlemsstaten.
+myndigheten i avsändarmedlemsstaten. Förordning (2023:430).
 
 23 § Skatteverket ska vidarebefordra elektroniska förenklade 
 administrativa dokument som är ställda till tillfälligt 
