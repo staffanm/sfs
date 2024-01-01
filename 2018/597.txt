@@ -495,11 +495,11 @@ I. Immateriella anläggningstillgångar
 
 II. Materiella anläggningstillgångar
 
- 1. Mark, byggnader och tekniska anläggningar
+1. Mark, byggnader och tekniska anläggningar
 
- 2. Maskiner och inventarier
+2. Maskiner och inventarier
 
- 3. Övriga materiella anläggningstillgångar
+3. Övriga materiella anläggningstillgångar
 
 III. Finansiella anläggningstillgångar
 
@@ -519,11 +519,15 @@ EGET KAPITAL, AVSÄTTNINGAR OCH SKULDER
 
 A. Eget kapital
 
-I. Årets resultat
+I. Eget kapital vid årets början
 
-II. Resultatutjämningsreserv
+varav resultatreserv
 
-III. Övrigt eget kapital
+II. Årets resultat
+
+III. Eget kapital vid årets slut 
+
+varav resultatreserv
 
 B. Avsättningar
 
@@ -547,6 +551,7 @@ a) Pensionsförpliktelser som inte har upptagits bland
 skulderna eller avsättningarna
 
 b) Övriga ansvarsförbindelser
+Lag (2023:643).
 
 3 § Posterna i balansräkningen ska tas upp var för sig i 
 den ordningsföljd som anges i uppställningsformen i 2 §. 
@@ -970,11 +975,11 @@ Balanskravsutredning
 
 10 § Förvaltningsberättelsen ska innehålla upplysningar om 
 dels årets resultat efter balanskravsjusteringar, dels detta 
-resultat med justering för förändring av 
-resultatutjämningsreserven (balanskravsresultat). 
+resultat med justering för förändring av resultatreserven 
+(balanskravsresultat).
 
 Balanskravsjusteringar görs genom att följande uppgifter inte 
-beaktas vid beräkningen av årets resultat: 
+beaktas vid beräkningen av årets resultat:
 
 1. realisationsvinster som inte står i överensstämmelse med 
 god ekonomisk hushållning, 
@@ -982,10 +987,14 @@ god ekonomisk hushållning,
 2. realisationsförluster till följd av försäljning som står i 
 överensstämmelse med god ekonomisk hushållning, 
 
-3. orealiserade vinster och förluster i värdepapper, och 
+3. orealiserade vinster och förluster i värdepapper, och
 
 4. återföring av orealiserade vinster och förluster i 
 värdepapper.
+
+Om medel från en resultatreserv har använts ska det i 
+förvaltningsberättelsen framgå till vad och varför medlen har 
+använts. Lag (2023:643).
 
 Negativt balanskravsresultat
 
@@ -1006,7 +1015,7 @@ Den kommunala koncernen
 
 12 § Om kommunen eller regionen ingår i en kommunal koncern, 
 ska förvaltningsberättelsen innehålla upplysningar om 
-koncernen enligt 1-5 och 7-9 §§. Lag (2019:986).
+koncernen enligt 1-5, 7 och 9 §§. Lag (2023:643).
 
 Privata utförare
 
@@ -1156,3 +1165,25 @@ redovisning.
 
 5. Äldre föreskrifter gäller fortfarande för upplösning av 
 bidrag till infrastruktur som har beslutats under år 2009.
+
+2023:643
+
+1. Denna lag träder i kraft den 1 januari 2024.
+
+2. Lagen tillämpas första gången för räkenskapsåret 2024. 
+
+3. Om en kommun eller en region har en sådan 
+resultatutjämningsreserv som avses i 11 kap. 14 § 
+kommunallagen (2017:725) i dess lydelse före den 1 januari 
+2024, ska balansräkningen ställas upp enligt 6 kap. 2 § med 
+följande tillägg under EGET KAPITAL, AVSÄTTNINGAR OCH 
+SKULDER: A. Eget kapital, I. Eget kapital vid årets början, 
+varav resultatutjämningsreserv och III. Eget kapital vid årets 
+slut, varav resultatutjämningsreserv.
+
+4. Vid användning av medel från en sådan 
+resultatutjämningsreserv som avses i 11 kap. 14 § 
+kommunallagen i dess lydelse före den 1 januari 2024 ska 
+upplysningarna i förvaltningsberättelsen enligt 11 kap. 10 § 
+även innehålla årets resultat med justering för förändring av 
+resultatutjämningsreserven.
