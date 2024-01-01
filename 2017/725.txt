@@ -1513,7 +1513,7 @@ av principiell beskaffenhet eller annars av större vikt,
 delegeras.
 
 Beslutanderätten får inte heller delegeras till en 
-automatiserad beslutsfunktion när det gäller
+automatiserad besluts-funktion när det gäller 
 
 1. ärenden där beslut överklagas enligt bestämmelserna i 
 13 kap.,
@@ -1523,8 +1523,8 @@ får överklagas,
 
 3. ärenden om upphandling, eller
 
-4. ärenden om valfrihetssystem.
-Lag (2022:638).
+4. ärenden om auktorisations- eller valfrihetssystem.
+Lag (2023:708).
 
 39 § En nämnd får uppdra åt ordföranden, eller en annan 
 ledamot som nämnden har utsett, att besluta på nämndens 
@@ -1681,13 +1681,19 @@ sekretesslagen (2009:400) är en nämnd skyldig att lämna
 personalföreträdarna de upplysningar som behövs för deras 
 verksamhet. 
 
-17 § I fråga om jäv för personalföreträdare i nämnden ska bestämmelserna i 6 kap. 28–32 §§ tillämpas.
+17 § I fråga om jäv för personalföreträdare i nämnden ska 
+bestämmelserna i 6 kap. 28-32 §§ tillämpas.
 
-Personalföreträdaren ska dock inte anses jävig enligt 6 kap. 28 § 4 enbart på grund av att han eller hon
+Personalföreträdaren ska dock inte anses jävig enligt 6 kap. 
+28 § 4 enbart på grund av att han eller hon
 
-1. är förtroendeman eller funktionär hos en arbetstagarorganisation som har intressen att bevaka i ärendet, eller
+1. är förtroendeman eller funktionär hos en 
+arbetstagarorganisation som har intressen att bevaka i 
+ärendet, eller
 
-2. har företrätt organisationen som förtroendeman eller funktionär i en sådan förhandling i ärendet som har ägt rum enligt lagen (1976:580) om medbestämmande i arbetslivet.
+2. har företrätt organisationen som förtroendeman eller 
+funktionär i en sådan förhandling i ärendet som har ägt rum 
+enligt lagen (1976:580) om medbestämmande i arbetslivet.
 Lag (2023:642).
 
 18 § Personalföreträdarna ska kallas till sammanträden på 
@@ -1908,8 +1914,10 @@ fullmäktige.
 
 Insyn i revisionsberättelserna
 
-16 a § Revisionsberättelserna ska hållas tillgängliga för allmänheten på kommunens eller regionens webbplats från och med tillkännagivandet av det sammanträde med fullmäktige då revisionsberättelserna ska behandlas.
-Lag (2023:642).
+16 a § Revisionsberättelserna ska hållas tillgängliga för 
+allmänheten på kommunens eller regionens webbplats från och 
+med tillkännagivandet av det sammanträde med fullmäktige då 
+revisionsberättelserna ska behandlas. Lag (2023:642).
 
 Insyn i privata utförares verksamhet
 
@@ -2403,8 +2411,13 @@ Lag (2019:835).
 
 Mål för den ekonomiska förvaltningen 
 
-1 § Kommuner och regioner ska ha en god ekonomisk hushållning i sin verksamhet och i sådan verksamhet som bedrivs genom sådana juridiska personer som avses i 10 kap. 2–6 §§. Fullmäktige ska besluta om riktlinjer för god ekonomisk hushållning för kommunen eller regionen. Om kommunen eller regionen har en sådan resultatreserv som avses i 14 §, ska riktlinjerna även omfatta hanteringen av den.
-Lag (2023:642).
+1 § Kommuner och regioner ska ha en god ekonomisk hushållning 
+i sin verksamhet och i sådan verksamhet som bedrivs genom 
+sådana juridiska personer som avses i 10 kap. 2-6 §§. 
+Fullmäktige ska besluta om riktlinjer för god ekonomisk 
+hushållning för kommunen eller regionen. Om kommunen eller 
+regionen har en sådan resultatreserv som avses i 14 §, ska 
+riktlinjerna även omfatta hanteringen av den. Lag (2023:642).
 
 Medelsförvaltningen
 
@@ -2419,13 +2432,16 @@ medelsförvaltningen.
 
 Budgetens innehåll 
 
-5 § Kommuner och regioner ska varje år upprätta en budget för nästa kalenderår (budgetår).
+5 § Kommuner och regioner ska varje år upprätta en budget för 
+nästa kalenderår (budgetår).
 
-Budgeten ska upprättas så att intäkterna överstiger kostnaderna.
+Budgeten ska upprättas så att intäkterna överstiger 
+kostnaderna.
 
-Undantag från andra stycket får göras
+Undantag från andra stycket får göras 
 
-1. i den utsträckning som medel från en resultatreserv tas i anspråk enligt 14 §, eller
+1. i den utsträckning som medel från en resultatreserv tas i 
+anspråk enligt 14 §, eller 
 
 2. om det finns synnerliga skäl.
 Lag (2023:642).
@@ -2445,7 +2461,10 @@ period av tre år. Budgetåret ska då alltid vara periodens
 första år. Planen ska innehålla sådana finansiella mål som 
 anges i första stycket.
 
-6 a § Budgeten ska innehålla en redogörelse för ekonomin under budgetåret i de kommunala koncernföretagen. Med kommunala koncernföretag avses detsamma som i 2 kap. 5 § lagen (2018:597) om kommunal bokföring och redovisning.
+6 a § Budgeten ska innehålla en redogörelse för ekonomin under 
+budgetåret i de kommunala koncernföretagen. Med kommunala 
+koncernföretag avses detsamma som i 2 kap. 5 § lagen 
+(2018:597) om kommunal bokföring och redovisning. 
 Lag (2023:642).
 
 7 § Fullmäktige får besluta att inte anvisa några medel till 
@@ -2503,16 +2522,28 @@ skäl.
 
 Resultatreserver
 
-14 § Kommuner och regioner får i en resultatreserv reservera medel som får användas för att en god ekonomisk hushållning ska uppnås.
+14 § Kommuner och regioner får i en resultatreserv reservera 
+medel som får användas för att en god ekonomisk hushållning 
+ska uppnås. 
 
-Reservering får göras med högst ett belopp som motsvarar det lägsta av antingen den del av årets resultat eller den del av årets resultat efter balanskravsjusteringar enligt 11 kap. 10 § lagen (2018:597) om kommunal bokföring och redovisning, som överstiger
+Reservering får göras med högst ett belopp som motsvarar det 
+lägsta av antingen den del av årets resultat eller den del av 
+årets resultat efter balanskravsjusteringar enligt 11 kap. 
+10 § lagen (2018:597) om kommunal bokföring och redovisning, 
+som överstiger 
 
-1. en procent av summan av skatteintäkter samt generella statsbidrag och utjämning, eller
+1. en procent av summan av skatteintäkter samt generella 
+statsbidrag och utjämning, eller 
 
-2. två procent av summan av skatteintäkter samt generella statsbidrag och utjämning, om kommunen eller regionen har ett negativt eget kapital, inklusive ansvarsförbindelsen för pensionsförpliktelser.
+2. två procent av summan av skatteintäkter samt generella 
+statsbidrag och utjämning, om kommunen eller regionen har ett 
+negativt eget kapital, inklusive ansvarsförbindelsen för 
+pensionsförpliktelser.
 
-En reservering får göras om resultatreserven efter reserveringen uppgår till ett belopp som motsvarar högst fem procent av summan av skatteintäkter samt generella statsbidrag och utjämning.
-Lag (2023:642).
+En reservering får göras om resultatreserven efter 
+reserveringen uppgår till ett belopp som motsvarar högst fem 
+procent av summan av skatteintäkter samt generella statsbidrag 
+och utjämning. Lag (2023:642).
 
 Utgiftsbeslut under budgetåret 
 
@@ -2826,16 +2857,20 @@ till före överklagandetidens utgång.
 
 1. det inte har kommit till på lagligt sätt,
 
-2. beslutet rör något som inte är en angelägenhet för kommunen eller regionen,
+2. beslutet rör något som inte är en angelägenhet för kommunen 
+eller regionen,
 
-3. det organ som har fattat beslutet inte har haft rätt att göra det, eller
+3. det organ som har fattat beslutet inte har haft rätt att 
+göra det, eller
 
 4. beslutet annars strider mot lag eller annan författning.
 
-Första stycket 3 och 4 gäller inte beslut enligt 11 kap. 5 § andra och tredje styckena samt 12 och 13 §§ och beslut om att använda medel från en resultatreserv enligt 14 §.
+Första stycket 3 och 4 gäller inte beslut enligt 11 kap. 5 § 
+andra och tredje styckena samt 12 och 13 §§ och beslut om att 
+använda medel från en resultatreserv enligt 14 §. 
 
-Domstolen får inte ersätta det överklagade beslutet med något annat beslut.
-Lag (2023:642).
+Domstolen får inte ersätta det överklagade beslutet med något 
+annat beslut. Lag (2023:642).
 
 9 § Om ett fel har saknat betydelse för ärendets utgång, 
 behöver beslutet inte upphävas. Detsamma gäller om beslutet 
@@ -2943,6 +2978,17 @@ ikraftträdandet.
 
 2. Lagen tillämpas första gången för räkenskapsåret 2024.
 
-3. En kommun eller en region som vid ikraftträdandet har en sådan resultatutjämningsreserv som avses i 11 kap. 14 § i den äldre lydelsen får ha kvar resultatutjämningsreserven till utgången av 2033, då kvarvarande medel upplöses i eget kapital. Riktlinjerna för god ekonomisk hushållning enligt 11 kap. 1 § ska omfatta även hanteringen av resultatutjämningsreserven. I fråga om användning av medel från en resultatutjämningsreserv gäller fortfarande 11 kap. 14 § första stycket och 13 kap. 8 § i den äldre lydelsen.
+3. En kommun eller en region som vid ikraftträdandet har en 
+sådan resultatutjämningsreserv som avses i 11 kap. 14 § i den 
+äldre lydelsen får ha kvar resultatutjämningsreserven till 
+utgången av 2033, då kvarvarande medel upplöses i eget 
+kapital. Riktlinjerna för god ekonomisk hushållning enligt 
+11 kap. 1 § ska omfatta även hanteringen av 
+resultatutjämningsreserven. I fråga om användning av medel 
+från en resultatutjämningsreserv gäller fortfarande 11 kap. 
+14 § första stycket och 13 kap. 8 § i den äldre lydelsen. 
 
-4. Undantag från 11 kap. 5 § andra stycket får göras även i den utsträckning som medel från en resultatutjämningsreserv tas i anspråk enligt 11 kap. 14 § första stycket i den äldre lydelsen.
+4. Undantag från 11 kap. 5 § andra stycket får göras även i 
+den utsträckning som medel från en resultatutjämningsreserv 
+tas i anspråk enligt 11 kap. 14 § första stycket i den äldre 
+lydelsen.
