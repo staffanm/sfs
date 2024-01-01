@@ -50,11 +50,9 @@ annonspliktiga upphandlingar av tjänster enligt bilaga 2
 
 - direktupphandling (19 a kap.),
 
-- avtalsspärr, överprövning och skadestånd (20 kap.),
+- avtalsspärr, överprövning och skadestånd (20 kap.), och
 
-- upphandlingsskadeavgift (21 kap.), och
-
-- tillsyn (22 kap.).
+- tillsyn och upphandlingsskadeavgift (21 kap.).
 
 Till lagen hör följande bilagor:
 
@@ -64,7 +62,7 @@ Till lagen hör följande bilagor:
 tjänster (bilaga 2), och
 
 - Definitioner av vissa tekniska specifikationer (bilaga 3).
-Lag (2021:1110).
+Lag (2023:815)
 
 Offentlig upphandling
 
@@ -3289,10 +3287,14 @@ Dokumentation
 
 Dokumentationsplikt
 
-14 § En upphandlande myndighet ska dokumentera genomförandet 
-av en upphandling. Dokumentationen ska vara tillräcklig för 
-att motivera myndighetens beslut under upphandlingens 
-samtliga skeden. 
+14 § En upphandlande myndighet ska löpande dokumentera genom-
+förandet av en upphandling. Dokumentationen ska vara 
+tillräcklig för att myndigheten ska kunna motivera sina beslut 
+under upphandlingens samtliga skeden. 
+
+Dokumentationen ska vara slutförd senast 30 dagar efter att 
+myndigheten har ingått avtal eller fattat beslut om att 
+avbryta upphandlingen. Lag (2023:815).
 
 Individuella rapporter 
 
@@ -3303,34 +3305,38 @@ och dynamiskt inköpssystem som inrättas.
 Detta gäller inte för kontrakt som tilldelas på grundval av 
 ett ramavtal enligt 7 kap. 4 eller 6 §.
 
-16 § Av en individuell rapport ska följande framgå: 
+16 § Av en individuell rapport ska följande framgå:
 
-1. skäl till att ett anbud som har förkastats har ansetts 
-vara onormalt lågt, 
+1. skäl till att ett anbud som har förkastats har ansetts vara 
+onormalt lågt,
 
 2. skäl till att ett kontrakt eller ramavtal inte har 
-tilldelats en leverantör, 
+tilldelats en leverantör,
 
-3. skäl till att en leverantör inte har godkänts som 
-deltagare i ett dynamiskt inköpssystem,
+3. skäl till att en leverantör inte har godkänts som deltagare 
+i ett dynamiskt inköpssystem,
 
 4. skäl till att förhandlat förfarande med föregående 
-annonsering, förhandlat förfarande utan föregående 
-annonsering eller konkurrenspräglad dialog har tillämpats, 
+annonsering, förhandlat förfarande utan föregående annonsering 
+eller konkurrenspräglad dialog har tillämpats,
 
 5. skäl till att inlämning av anbud med andra medel än 
 elektroniska har godkänts, och
 
-6. intressekonflikter och åtgärder som vidtagits till följd 
-av dem. 
+6. intressekonflikter och åtgärder som vidtagits till följd av 
+dem.
+
+En individuell rapport ska ha upprättats senast 30 dagar efter 
+att myndigheten har ingått avtal eller fattat beslut om 
+avbrytande av upphandlingen.
 
 Den individuella rapporten eller huvuddragen i den ska på 
 begäran skickas till Europeiska kommissionen eller den 
-tillsynsmyndighet som avses i 22 kap. 1 §.
+tillsynsmyndighet som avses i 21 kap. 1 §.
 
 Regeringen kan med stöd av 8 kap. 7 § regeringsformen meddela 
-närmare föreskrifter om vilka uppgifter en individuell 
-rapport ska innehålla.
+närmare föreskrifter om vilka uppgifter en individuell rapport 
+ska innehålla. Lag (2023:815)
 
 Bevarande av handlingar 
 
@@ -4599,10 +4605,11 @@ och
 slag som anges i bilaga 2.
 
 Vid upphandling enligt detta kapitel gäller även 
-bestämmelserna i 1-3 kap., 5 kap. och 20-22 kap.
+bestämmelserna i  
+1-3 kap., 5 kap., 20 och 21 kap.
 
 Om direktupphandling får användas enligt 19 a kap. gäller 
-endast bestämmelserna i det kapitlet. Lag (2021:1110).
+endast bestämmelserna i det kapitlet. Lag (2023:815)
 
 Principer för offentlig upphandling
 
@@ -4831,15 +4838,19 @@ Dokumentation
 
 Dokumentation av genomförandet av en upphandling
 
-22 § En upphandlande myndighet ska dokumentera genomförandet 
-av en upphandling. Dokumentationen ska vara tillräcklig för 
-att myndigheten ska kunna motivera sina beslut under 
-upphandlingens samtliga skeden.
+22 § En upphandlande myndighet ska löpande dokumentera genom-
+förandet av en upphandling. Dokumentationen ska vara 
+tillräcklig för att myndigheten ska kunna motivera sina beslut 
+under upphandlingens samtliga skeden.
 
 Vid upphandling av en tjänst av sådant slag som anges i 
 bilaga 2 ska en upphandlande myndighet dokumentera 
 upphandlingen med tillämpning av 12 kap. 15 och 16 §§ om 
-individuella rapporter. Lag (2021:1110).
+individuella rapporter.
+
+Dokumentationen ska vara slutförd senast 30 dagar efter att 
+myndigheten har ingått avtal eller fattat beslut om att 
+avbryta upphandlingen. Lag (2023:815).
 
 Bevarande av handlingar
 
@@ -4952,8 +4963,8 @@ kontrakt eller ingående av ramavtal utan krav på att den
 upphandlande myndigheten först ska informera om sin avsikt att 
 upphandla genom en annons om anbudsinfordran.
 
-Vid direktupphandling gäller även 1-3 kap., 5 kap. och 
-20-22 kap. Lag (2021:1110).
+Vid direktupphandling gäller även 1-3 kap., 5 kap., 20 och 
+21 kap. Lag (2023:815).
 
 Direktupphandling under vissa belopp
 
@@ -5081,11 +5092,15 @@ Dokumentation
 
 Dokumentation av en direktupphandling
 
-11 § En upphandlande myndighet ska dokumentera genomförandet 
-av en direktupphandling om upphandlingens värde uppgår till 
-minst 100 000 kronor. Dokumentationen ska vara tillräcklig för 
-att myndigheten ska kunna motivera sina beslut under 
-upphandlingens samtliga skeden. Lag (2021:1110).
+11 § En upphandlande myndighet ska löpande dokumentera 
+genomförandet av en direktupphandling om upphandlingens värde 
+överstiger 100 000 kronor. Dokumentationen ska vara 
+tillräcklig för att myndigheten ska kunna motivera sina beslut 
+under upphandlingens samtliga skeden.
+
+Dokumentationen ska vara slutförd senast 30 dagar efter att 
+myndigheten har ingått avtal eller fattat beslut om att 
+avbryta upphandlingen. Lag (2023:815).
 
 Bevarande av handlingar
 
@@ -5482,133 +5497,125 @@ ett år från den dag då avgörandet fick laga kraft.
 Om talan inte väcks i tid, är rätten till skadestånd förlorad.
 Lag (2022:778).
 
-21 kap. Upphandlingsskadeavgift
+21 kap. Tillsyn och upphandlingsskadeavgift
 
-Allmänna bestämmelser om upphandlingsskadeavgift
+Tillsyn
 
-1 § Allmän förvaltningsdomstol får besluta att en upphandlande 
+Allmänna bestämmelser om tillsyn
+
+1 § Den myndighet som regeringen bestämmer ska utöva tillsyn 
+över att denna lag följs. Lag (2023:815).
+
+2 § Tillsynsmyndigheten får hämta in upplysningar som är 
+nödvändiga för tillsynsverksamheten från en upphandlande 
+myndighet eller den som tillsynsmyndigheten bedömer vara en 
+upphandlande myndighet. Om det behövs på grund av brådska, 
+materialets omfång eller något annat förhållande, får 
+upplysningarna hämtas in genom besök hos den upphandlande 
+myndigheten. Lag (2023:815).
+
+3 § En upphandlande myndighet eller den som 
+tillsynsmyndigheten bedömer vara en upphandlande myndighet är 
+skyldig att lämna de upplysningar som tillsynsmyndigheten 
+begär för sin tillsyn. Lag (2023:815).
+
+Förelägganden
+
+4 § Tillsynsmyndigheten får förelägga en upphandlande 
+myndighet eller den som tillsynsmyndigheten bedömer vara en 
+upphandlande myndighet att besluta om riktlinjer för 
+direktupphandling enligt 19 a kap. 15 §. Lag (2023:815).
+
+5 § Om det behövs för att tillsynsmyndigheten ska kunna utöva 
+tillsyn får myndigheten förelägga en upphandlande myndighet 
+eller den som tillsynsmyndigheten bedömer vara en upphandlande 
+myndighet att lämna uppgifter, visa upp en handling eller 
+lämna över en kopia av handlingen. Lag (2023:815).
+
+Upphandlingsskadeavgift
+
+Beslut om upphandlingsskadeavgift
+
+6 § Tillsynsmyndigheten ska besluta att en upphandlande 
 myndighet ska betala en särskild avgift 
-(upphandlingsskadeavgift), om
+(upphandlingsskadeavgift) om en allmän förvaltningsdomstol i 
+ett avgörande som fått laga kraft har fastställt
 
-1. allmän förvaltningsdomstol i ett avgörande som fått laga 
-kraft har fastställt att ett avtal får bestå, trots att det 
-har slutits i strid med bestämmelserna om avtalsspärr i 
-20 kap. 1, 3 eller 8 §,
-
-2. allmän förvaltningsdomstol i ett avgörande som fått laga 
-kraft har fastställt att ett avtal får bestå på grund av 
-tvingande hänsyn till ett allmänintresse enligt 20 kap. 14 §, 
+1. att ett avtal får bestå, trots att det har slutits i strid 
+med bestämmelserna om avtalsspärr i 20 kap. 1, 3 eller 8 §, 
 eller
 
-3. myndigheten har slutit avtal med en leverantör utan 
-föregående annonsering enligt 10 kap. 1, 2 eller 3 §, 18 kap. 
-2 § eller 19 kap. 6 §. Lag (2021:1110).
+2. att ett avtal får bestå på grund av tvingande hänsyn till 
+ett allmänintresse enligt 20 kap. 14 §. Lag (2023:815).
 
-2 § Tillsynsmyndigheten ska hos allmän förvaltningsdomstol 
-ansöka om att en upphandlande myndighet ska betala 
-upphandlingsskadeavgift i de fall som anges i 1 § 1 och 2.
+7 § Tillsynsmyndigheten får besluta att en upphandlande 
+myndighet ska betala en upphandlingsskadeavgift om den 
+upphandlande myndigheten har slutit ett avtal med en 
+leverantör utan föregående annonsering enligt 10 kap. 1, 2 
+eller 3 §, 18 kap. 2 § eller 19 kap. 6 §. Lag (2023:815).
 
-Tillsynsmyndigheten får hos allmän förvaltningsdomstol ansöka 
-om att en upphandlande myndighet ska betala 
-upphandlingsskadeavgift i de fall som avses i 1 § 3.
+8 § I ringa fall ska någon upphandlingsskadeavgift inte 
+påföras. Vidare får eftergift beviljas om det finns synnerliga 
+skäl. Lag (2023:815).
 
-Behörig domstol
+Upphandlingsskadeavgiftens storlek
 
-3 § En ansökan om att en upphandlande myndighet ska betala 
-upphandlingsskadeavgift ska göras hos den förvaltningsrätt i 
-vars domkrets den upphandlande myndigheten har sin hemvist.
-
-Prövningstillstånd krävs vid överklagande till 
-kammarrätten.
-
-Avgiftens storlek
-
-4 § Upphandlingsskadeavgiften ska uppgå till lägst 
-10 000 kronor och högst 10 000 000 kronor. Avgiften får inte 
+9 § Upphandlingsskadeavgiften ska uppgå till lägst 
+10 000 kronor och högst 20 000 000 kronor. Avgiften får inte 
 överstiga tio procent av upphandlingens värde enligt 5 kap.
-Lag (2021:1110).
 
-5 § Vid fastställande av upphandlingsskadeavgiftens storlek 
-ska särskild hänsyn tas till hur allvarlig överträdelsen 
-är.
+Vid fastställande av upphandlingsskadeavgiftens storlek ska 
+särskild hänsyn tas till hur allvarlig överträdelsen är.
+Lag (2023:815).
 
-I ringa fall ska någon avgift inte beslutas. Avgiften 
-får efterges, om det finns synnerliga skäl.
+Tidsfrister för beslut om avgift
 
-Tidsfrister för ansökan om avgift
+10 § Ett beslut om upphandlingsskadeavgift enligt 6 § ska 
+meddelas inom sex månader från den tidpunkt då det avgörande 
+som beslutet grundas på fick laga kraft. Lag (2023:815).
 
-6 § En ansökan om upphandlingsskadeavgift enligt 1 § 1 eller 
-2 ska ha kommit in till förvaltningsrätten inom sex månader 
-från den tidpunkt då det avgörande som ansökan grundas på har 
-fått laga kraft.
+11 § Ett beslut om upphandlingsskadeavgift enligt 7 § ska 
+meddelas inom två år från det att avtalet slöts. Beslutet får 
+dock inte meddelas innan tiden för att ansöka om överprövning 
+av ett avtals giltighet har löpt ut.
 
-7 § När en ansökan om upphandlingsskadeavgift grundas på 1 § 
-3 och en eller flera leverantörer har ansökt om överprövning 
-av avtalets giltighet inom de tidsfrister som anges i 20 kap. 
-17 §, får ansökan inte göras förrän fristen har löpt ut och 
-samtliga beslut med anledning av överprövningen har fått laga 
-kraft. Ansökan ska ha kommit in till förvaltningsrätten inom 
-sex månader från den tidpunkt då samtliga beslut med 
-anledning av överprövningen har fått laga kraft.
-
-Om ingen leverantör har ansökt om överprövning av avtalets 
-giltighet inom de tidsfrister som anges i 20 kap. 17 §, ska 
-ansökan ha kommit in till förvaltningsrätten inom ett år från 
-det att avtalet slöts.
+Om en eller flera leverantörer har ansökt om överprövning av 
+avtalets giltighet får ett beslut om upphandlingsskadeavgift 
+inte meddelas förrän samtliga beslut med anledning av 
+överprövningen har fått laga kraft. Beslutet ska då meddelas 
+inom sex månader från den tidpunkt då samtliga beslut med 
+anledning av överprövningen fick laga kraft. Lag (2023:815).
 
 Betalning av avgift
 
-8 § Upphandlingsskadeavgiften tillfaller staten.
+12 § Upphandlingsskadeavgiften tillfaller staten.
+Lag (2023:815).
 
-9 § Upphandlingsskadeavgift ska betalas till 
-tillsynsmyndigheten inom 30 dagar från det att avgörandet 
-om avgiften har fått laga kraft eller inom den längre tid 
-som anges i avgörandet.
+13 § En upphandlingsskadeavgift ska betalas till 
+tillsynsmyndigheten inom 30 dagar från det att beslutet fick 
+laga kraft eller inom den längre tid som anges i beslutet.
 
 Om avgiften inte betalas i tid, ska tillsynsmyndigheten lämna 
 den obetalda avgiften till indrivning. Bestämmelser om 
 indrivning finns i lagen (1993:891) om indrivning av statliga 
-fordringar m.m.
+fordringar m.m. Lag (2023:815).
 
-10 § En beslutad upphandlingsskadeavgift faller bort, om 
-avgörandet beträffande avgiften inte har kunnat verkställas 
-inom fem år från det att avgörandet har fått laga kraft.
+14 § En beslutad upphandlingsskadeavgift faller bort, om 
+beslutet inte har kunnat verkställas inom fem år från att det 
+fick laga kraft. Lag (2023:815).
 
-22 kap. Tillsyn 
+Överklagande
 
-Allmänna bestämmelser om tillsyn
-
-1 § En myndighet ska utöva tillsyn över upphandling enligt 
-denna lag.
-
-2 § Tillsynsmyndigheten får från en upphandlande myndighet 
-eller från den som tillsynsmyndigheten bedömer vara en 
-upphandlande myndighet inhämta upplysningar som är nödvändiga 
-för tillsynsverksamheten. Om det behövs på grund av brådska, 
-materialets omfång eller något annat förhållande, får 
-upplysningarna inhämtas genom besök hos den upphandlande 
-myndigheten.
-
-3 § En upphandlande myndighet är skyldig att tillhandahålla 
-de upplysningar som tillsynsmyndigheten begär för sin 
-tillsyn. Detsamma gäller den som tillsynsmyndigheten bedömer 
-vara en upphandlande myndighet.
-
-Föreläggande
-
-4 § Om det behövs för att tillsynsmyndigheten ska kunna utöva 
-sin tillsyn enligt denna lag, får myndigheten förelägga en 
-upphandlande myndighet eller den som tillsynsmyndigheten 
-bedömer vara en upphandlande myndighet att lämna uppgifter, 
-visa upp en handling eller lämna över en kopia av 
-handlingen.
-
-5 § Tillsynsmyndighetens föreläggande får överklagas till den 
-förvaltningsrätt i vars domkrets den som föreläggandet riktar 
-sig till har sin hemvist. När ett föreläggande överklagas, är 
-tillsynsmyndigheten motpart i domstolen.
+15 § Tillsynsmyndighetens beslut om upphandlingsskadeavgift 
+eller förelägganden får överklagas till den förvaltningsrätt i 
+vars domkrets den som beslutet riktar sig till har sin 
+hemvist. När ett beslut överklagas är tillsynsmyndigheten 
+motpart i domstolen.
 
 Prövningstillstånd krävs vid överklagande till kammarrätten.
+Lag (2023:815)
+
+22 kap. Kapitlet har upphävts genom lag (2023:815).
 
 
 Övergångsbestämmelser
@@ -5662,6 +5669,13 @@ gäller 20 kap. 17 och 18 §§ i den äldre lydelsen.
 även på fordringar som har uppkommit före ikraftträdandet, om 
 rätten till skade-stånd inte dessförinnan har gått förlorad 
 enligt äldre föreskrifter.
+
+2023:815
+
+1. Denna lag träder i kraft den 1 januari 2024.
+
+2. Äldre bestämmelser gäller fortfarande för sådana 
+upphandlingar som har påbörjats före ikraftträdandet.
 
 
 Bilaga 1 /Bilagan är inte med här/
