@@ -1361,6 +1361,7 @@ mono-, di-, tri-, tetraklormetan eller 1,2-dikloretan.
 
 2903 23 Tetrakloreten (perkloretylen).
 
+/Upphör att gälla U:2024-01-01/
 2903 29 Andra omättade klorderivat av acykliska kolväten än
 mono-, tri- eller tetrakloreten.
 
@@ -1368,6 +1369,53 @@ mono-, tri- eller tetrakloreten.
 
 2903 39 Andra fluor-, brom- eller jodderivat av acykliska
 kolväten än 1,2-dibrometan.
+
+2903 71 Klordifluormetan.
+
+/Träder i kraft I:2024-01-01/
+2903 29 Andra omättade klorderivat av acykliska kolväten än 
+mono-, tri- eller tetrakloreten.
+
+2903 41 Trifluormetan (HFC-23).
+
+2903 42 Difluormetan (HFC-32).
+
+2903 43 Fluormetan (HFC-41), 1,2-difluoretan (HFC-152) och 
+1,1-difluoretan (HFC-152a).
+
+2903 44 Pentafluoretan (HFC-125), 1,1,1-trifluoretan (HFC-
+143a) och 1,1,2-trifluoretan (HFC-143).
+
+2903 45 1,1,1,2-tetrafluoretan (HFC-134a) och 1,1,2,2-
+tetrafluoretan (HFC-134).
+
+2903 46 1,1,1,2,3,3,3-heptafluorpropan (HFC-227ea), 
+1,1,1,2,2,3-hexafluorpropan (HFC-236cb), 1,1,1,2,3,3-
+hexafluorpropan (HFC-236ea) och 1,1,1,3,3,3-hexafluorpropan 
+(HFC-236fa).
+
+2903 47 1,1,1,3,3-pentafluorpropan (HFC-245fa) och 1,1,2,2,3-
+pentafluorpropan (HFC-245ca).
+
+2903 48 1,1,1,3,3-pentafluorbutan (HFC-365mfc) och 
+1,1,1,2,2,3,4,5,5,5-dekafluorpentan (HFC-43-10mee).
+
+2903 49 Mättade fluorderivat av acykliska kolväten, andra 
+slag.
+
+2903 51 2,3,3,3-tetrafluorpropen (HFO-1234yf), 1,3,3,3-
+tetrafluorpropen (HFO-1234ze) och (Z)-1,1,1,4,4,4-hexafluor-2-
+buten (HFO-1336mzz).
+
+2903 59 Omättade fluorderivat av acykliska kolväten, andra 
+slag.
+
+2903 61 Metylbromid (brommetan).
+
+2903 62 Etylendibromid (ISO) (1,2-dibrometan).
+
+2903 69 Brom- eller jodderivat av acykliska kolväten, andra 
+slag.
 
 2903 71 Klordifluormetan.
 
@@ -1584,6 +1632,7 @@ etylenglykol eller dietylenglykol.
 monoalkyletrar) samt halogen-, sulfo-, nitro- och
 nitrosoderivat av eteralkoholer.
 
+/Upphör att gälla U:2024-01-01/
 2909 50 Eterfenoler, eteralkoholfenoler samt halogen-, sulfo-,
 nitro- och nitrosoderivat av sådana föreningar.
 
@@ -1593,6 +1642,18 @@ föreningar.
 
 2910 Epoxider, epoxialkoholer, epoxifenoler och epoxietrar 
 med tre atomer i ringen samt halogen-, sulfo-, nitro- och 
+nitrosoderivat av sådana föreningar, enligt följande:
+
+/Träder i kraft I:2024-01-01/
+2909 50 Eterfenoler, eteralkoholfenoler samt halogen-, sulfo-, 
+nitro- och nitrosoderivat av sådana föreningar.
+
+2909 60 Alkoholperoxider, eterperoxider, acetalperoxider och 
+hemiacetalperoxider, ketonperoxider samt halogen-, sulfo-, 
+nitro- och nitrosoderivat av sådana föreningar.
+
+2910 Epoxider, epoxialkoholer, epoxifenoler och epoxietrar med 
+tre atomer i ringen samt halogen-, sulfo-, nitro- och 
 nitrosoderivat av sådana föreningar, enligt följande:
 
 2910 10 Oxiran (etylenoxid).
@@ -2109,6 +2170,7 @@ kvartenär ammonium, karboxamid, karboximid, imino, nitril,
 organiska derivat av hydrazin eller hydroxylamin, diazo, azo,
 azoxi eller isocyanater.
 
+/Upphör att gälla U:2024-01-01/
 2930 Svavelorganiska föreningar enligt följande:
 
 2930 20 Tiokarbamater och ditiokarbamater.
@@ -2163,6 +2225,69 @@ metylfosfonat.
 2932 Heterocykliska föreningar med enbart syre som 
 heteroatom(er) enligt följande:
 
+/Träder i kraft I:2024-01-01/
+2930 Svavelorganiska föreningar enligt följande:
+
+2930 10 2-(N,N-dimetylamino)etantiol.
+
+2930 20 Tiokarbamater och ditiokarbamater.
+
+2930 30 Mono-, di- och tetrasulfider av tiuram.
+
+2930 40 Metionin.
+
+2930 60 2-(N,N-dietylamino)etantiol.
+
+2930 70 Bis(2-hydroxietyl)sulfid(tiodiglykol (INN)).
+
+2930 80 Aldikarb (ISO), kaptafol (ISO) och metamidofos (ISO).
+
+2930 90 Andra svavelorganiska föreningar (andra än 
+tiokarbamater, ditiokarbamater, sulfider av tiuram, metionin, 
+2-(N,N-dietylamino)etantiol, bis(2-
+hydroxietyl)sulfid(tiodiglykol), aldikarb, kaptafol och 
+metamidofos).
+
+2931 Andra organiska-oorganiska föreningar enligt följande:
+
+2931 41 Dimetylmetylfosfonat.
+
+2931 42 Dimetylpropylfosfonat.
+
+2931 43 Dietyletylfosfonat.
+
+2931 44 Metylfosfonsyra.
+
+2931 45 Salt av metylfosfonsyra och (aminoiminometyl)urea (1 : 
+1).
+
+2931 46 2,4,6-tripropyl-1,3,5,2,4,6-trioxatrifosfinan-2,4,6-
+trioxid.
+
+2931 47 (5-etyl-2-metyl-2-oxido-1,3,2-dioxafosfinan-5-
+yl)metyl-metyl-metylfosfonat.
+
+2931 48 3,9-dimetyl-2,4,8,10-tetraoxa-3,9-
+difosfaspiro[5.5]undekan-3,9-dioxid.
+
+2931 49 Icke-halogenerade organiska fosforderivat, andra slag.
+
+2931 51 Metylfosfonsyradiklorid.
+
+2931 52 Propylfosfonsyradiklorid.
+
+2931 53 O-(3-kloropropyl) O-[4-nitro-3-(trifluorometyl)fenyl] 
+metylfosfonotionat.
+
+2931 54 Triklorfon (ISO).
+
+2931 59 Halogenerade organiska fosforderivat, andra slag.
+
+2931 90 Andra organiska-oorganiska föreningar. 
+
+2932 Heterocykliska föreningar med enbart syre som 
+heteroatom(er) enligt följande:
+
 2932 11 Tetrahydrofuran.
 
 2932 12 2-furaldehyd (furfuraldehyd).
@@ -2186,11 +2311,24 @@ sukralos).
 
 2932 94 Safrol.
 
+/Upphör att gälla U:2024-01-01/
 2932 95 Tetrahydrocannabinoler (alla isomerer).
 
 2932 99 Andra heterocykliska föreningar med enbart syre som
 heteroatom(er) som inte är specificerade någon annanstans i
 denna bilaga.
+
+2933 Heterocykliska föreningar med enbart kväve som 
+heteroatom(er) enligt följande:
+
+/Träder i kraft I:2024-01-01/
+2932 95 Tetrahydrocannabinoler (alla isomerer).
+
+2932 96 Karbofuran (ISO).
+
+2932 99 Andra heterocykliska föreningar med enbart syre som 
+heteroatom(er) som inte är specificerade någon annanstans i 
+denna bilaga. 
 
 2933 Heterocykliska föreningar med enbart kväve som 
 heteroatom(er) enligt följande:
@@ -2207,6 +2345,7 @@ heteroatom(er) enligt följande:
 
 2933 31 Pyridin och salter av pyridin.
 
+/Upphör att gälla U:2024-01-01/
 2933 32 Piperidin och salter av piperidin.
 
 2933 33 Alfentanil (INN), anileridin (INN), besitramid (INN),
@@ -2223,6 +2362,31 @@ av sådana föreningar.
 (även hydrogenerad) i sin struktur (andra än pyridin,
 piperidin
 eller de som är specificerade i varuslag 2933 33).
+
+2933 41 Levorfanol (INN) och salter av levorfanol.
+
+/Träder i kraft I:2024-01-01/
+2933 32 Piperidin och salter av piperidin.
+
+2933 33 Alfentanil (INN), anileridin (INN), besitramid (INN), 
+bromazepam (INN), karfentanil (INN), difenoxin (INN), 
+difenoxylat (INN), dipipanon (INN), fentanyl (INN), 
+ketobemidon (INN), metylfenidat (INN), pentazocin (INN), 
+petidin (INN), petidin (INN) intermediärt A, fencyclidin (INN) 
+(PCP), fenoperidin (INN), pipradrol (INN), piritramid (INN), 
+propiram (INN), remifentanil (INN) och trimeperidin (INN); 
+salter av sådana föreningar.
+
+2933 34 Andra fentanyler och derivat av dessa.
+
+2933 35 3-Kinuklidinol.
+
+2933 36 4-anilino-N-fenetylpiperidin (ANPP).
+
+2933 37 N-fenetyl-4-piperidon (NPP).
+
+2933 39 Föreningar med en icke kondenserad pyridinring (även 
+hydrogenerad) i sin struktur, andra slag.
 
 2933 41 Levorfanol (INN) och salter av levorfanol.
 
@@ -2295,6 +2459,7 @@ hydrogenerat) i sin struktur, inte vidare kondenserade.
 2934 30 Föreningar med ett fentiazinringsystem (även
 hydrogenerat) i sin struktur, inte vidare kondenserade.
 
+/Upphör att gälla U:2024-01-01/
 2934 91 Aminorex (INN), brotizolam (INN), klotiazepam (INN),
 kloxazolam (INN), dextromoramid (INN), haloxazolam (INN),
 ketazolam (INN), mesokarb (INN), oxazolam (INN), pemolin
@@ -2305,6 +2470,18 @@ salter av dessa föreningar.
 2934 99 Andra nukleinsyror och andra heterocykliska 
 föreningar som inte är specificerade någon annanstans i denna 
 bilaga.
+
+/Träder i kraft I:2024-01-01/
+2934 91 Aminorex (INN), brotizolam (INN), klotiazepam (INN), 
+kloxazolam (INN), dextromoramid (INN), haloxazolam (INN), 
+ketazolam (INN), mesokarb (INN), oxazolam (INN), pemolin 
+(INN), fendimetrazin (INN), fenmetrazin (INN) och sufentanil 
+(INN); salter av dessa föreningar.
+
+2934 92 Andra fentanyler och derivat av dessa.
+
+2934 99 Andra nukleinsyror och andra heterocykliska föreningar 
+som inte är specificerade någon annanstans i denna bilaga.
 
 2935 Sulfonamider enligt följande:
 
@@ -2388,6 +2565,7 @@ salter av sådana ämnen.
 
 2939 42 Pseudoefedrin (INN) och salter av pseudoefedrin.
 
+/Upphör att gälla U:2024-01-01/
 2939 43 Katin (INN) och salter av katin.
 
 2939 49 Andra efedriner och salter av efedriner (andra än
@@ -2421,6 +2599,44 @@ denna bilaga.
 2939 80 Andra alkaloider, naturliga eller syntetiskt 
 reproducerade, samt salter, etrar, estrar och andra derivat 
 av alkaloider.
+
+/Träder i kraft I:2024-01-01/
+2939 43 Katin (INN) och salter av katin.
+
+2939 45 Levometamfetamin, metamfetamin (INN), 
+metamfetaminracemat och salter av sådana ämnen.
+
+2939 49 Alkaloider, naturliga eller syntetiskt reproducerade, 
+samt salter, etrar, estrar och andra derivat av alkaloider, 
+andra slag.
+
+2939 51 Fenetyllin (INN) och salter av fenetyllin.
+
+2939 59 Andra teofyllin och aminofyllin 
+(teofyllinetylendiamin) samt derivat av dessa alkaloider; 
+salter av sådana ämnen (andra än fenetyllin).
+
+2939 61 Ergometrin (INN) och salter av ergometrin.
+
+2939 62 Ergotamin (INN) och salter av ergotamin.
+
+2939 63 Lysergsyra och salter av lysergsyra.
+
+2939 69 Andra alkaloider ur rågmjöldryga och derivat av sådana 
+alkaloider; salter av sådana ämnen (andra än ergometrin, 
+ergotamin och lysergsyra).
+
+2939 72 Kokain, ekgonin; salter, estrar och andra derivat av 
+dessa ämnen.
+
+2939 79 Andra växtalkaloider, naturliga eller syntetiskt 
+reproducerade, samt salter, etrar, estrar och andra derivat av 
+alkaloider som inte är specificerade någon annanstans i denna 
+bilaga.
+
+2939 80 Andra alkaloider, naturliga eller syntetiskt 
+reproducerade, samt salter, etrar, estrar och andra derivat av 
+alkaloider.
 
 2940 Sockerarter, kemiskt rena, andra än sackaros, laktos, 
 maltos, glukos och fruktos; sockeretrar, sockeracetaler och 
@@ -2563,10 +2779,9 @@ slag som används vid tillverkning av målningsfärger i grupp
 
 3204 Syntetiska organiska färgämnen, även kemiskt definierade;
 preparat på basis av syntetiska organiska färgämnen;
-syntetiska
-organiska produkter av sådana slag som används som optiska
-vitmedel eller som luminoforer, även kemiskt definierade;
-enligt följande:
+syntetiska organiska produkter av sådana slag som används som 
+optiska vitmedel eller som luminoforer, även kemiskt 
+definierade; enligt följande:
 
 3204 11 Dispersionsfärgämnen samt preparat på basis av sådana
 färgämnen.
@@ -2588,11 +2803,22 @@ basis av sådana färgämnen.
 3204 16 Reaktivfärgämnen samt preparat på basis av sådana
 färgämnen.
 
+/Upphör att gälla U:2024-01-01/
 3204 17 Pigment samt preparat på basis av pigment.
 
 3204 19 Andra syntetiska organiska färgämnen samt preparat på
 basis av sådana färgämnen, inbegripet blandningar av två eller
 flera färgämnen i varuslagen 3204 11–3204 19.
+
+/Träder i kraft I:2024-01-01/
+3204 17 Pigment samt preparat på basis av pigment.
+
+3204 18 Färgämnen på basis av karotenoider samt preparat på 
+basis av sådana färgämnen.
+
+3204 19 Andra syntetiska organiska färgämnen samt preparat på 
+basis av sådana färgämnen, inbegripet blandningar av två eller 
+flera färgämnen i varuslagen 3204 11-3204 19.
 
 3204 20 Syntetiska organiska produkter av sådana slag som
 används som optiska vitmedel.
@@ -2802,6 +3028,7 @@ annat ändamål än kroppsvård.
 3401 20 Tvål och såpa i annan form som är avsedd för annat
 ändamål än kroppsvård.
 
+/Upphör att gälla U:2024-01-01/
 3402 Organiska ytaktiva ämnen (andra än tvål och såpa);
 ytaktiva preparat, tvättmedel (inbegripet tvätthjälpmedel) och
 rengöringsmedel, även innehållande tvål eller såpa, andra än i
@@ -2825,6 +3052,34 @@ detaljhandelsförpackningar.
 3402 90 Andra ytaktiva preparat, tvättmedel och
 rengöringsmedel
 i grupp 3402, som inte är i detaljhandelsförpackningar.
+
+/Träder i kraft I:2024-01-01/
+3402 Organiska ytaktiva ämnen (andra än tvål och såpa); 
+ytaktiva preparat, tvättmedel (inbegripet tvätthjälpmedel) och 
+rengöringsmedel, även innehållande tvål eller såpa, andra än i 
+grupp 3401; enligt följande:
+
+3402 31 Linjära alkylbensensulfonsyror och salter av sådana 
+ämnen.
+
+3402 39 Anjonaktiva organiska ytaktiva ämnen, även i 
+detaljhandelsförpackningar.
+
+3402 41 Katjonaktiva organiska ytaktiva ämnen, även i 
+detaljhandelsförpackningar.
+
+3402 42 Nonjonaktiva organiska ytaktiva ämnen, även i 
+detaljhandelsförpackningar.
+
+3402 49 Andra organiska ytaktiva ämnen (andra än anjon-, 
+katjon- och nonjoniska), även i detaljhandelsförpackningar.
+
+3402 50 Ytaktiva preparat, tvättmedel och rengöringsmedel, i 
+detaljhandelsförpackningar.
+
+3402 90 Andra ytaktiva preparat, tvättmedel och 
+rengöringsmedel i grupp 3402, som inte är i 
+detaljhandelsförpackningar.
 
 3403 Beredda smörjmedel (inbegripet sådana beredda skäroljor,
 preparat för losstagning av bultar och muttrar,
@@ -3073,6 +3328,7 @@ försäljning i detaljhandeln eller som preparat eller
 utformade artiklar (t.ex. band, vekar och ljus, preparerade 
 med svavel, samt flugpapper), enligt följande:
 
+/Upphör att gälla U:2024-01-01/
 3808 52 DDT (ISO) (klofenotan (INN)) i förpackningar med ett 
 nettoviktinnehåll av högst 300 gram. 
 
@@ -3100,6 +3356,39 @@ denna förening; tributyltennföreningar. Registreringsplikten
 omfattar även dammande pulver-preparat som innehåller en 
 blandning av benomyl (ISO), karbofuran (ISO) och tiram 
 (ISO).
+
+3808 61 Varor i förpackningar med ett nettoviktinnehåll av 
+högst 300 gram som innehåller alfacypermetrin (ISO), 
+bendiokarb (ISO), bifentrin (ISO), klorfenapyr (ISO), 
+cyflutrin (ISO), deltametrin (INN, ISO), etofenprox (INN), 
+fenitrotion (ISO), lambda-cyhalotrin (ISO), malation (ISO), 
+pirimifosmetyl (ISO) eller propoxur (ISO).
+
+/Träder i kraft I:2024-01-01/
+3808 52 DDT (ISO) (klofenotan (INN)) i förpackningar med ett 
+nettoviktinnehåll av högst 300 gram.
+
+3808 59 Andra varor som innehåller ett eller flera av följande 
+ämnen: alaklor (ISO), aldikarb (ISO); aldrin (ISO); 
+azinfosmetyl (ISO); binapakryl (ISO); kamfeklor (ISO) 
+(toxafen); kaptafol (ISO); karbofuran (ISO); klordan (ISO); 
+klordimeform (ISO); klorbensilat (ISO); DDT (ISO) (klofenotan 
+(INN), 1,1,1- triklor-2,2-bis(p-klorfenyl)etan); dieldrin 
+(ISO, INN); 4,6-dinitro-o-kresol (DNOC (ISO)) eller salter av 
+4,6-dinitro-o-kresol; dinoseb (ISO) och salter eller estrar av 
+dinoseb; endosulfan (ISO); etylendibromid (ISO) (1,2-
+dibrometan); etylendiklorid (ISO) (1,2-dikloretan); 
+fluoracetamid (ISO); heptaklor (ISO); hexaklorbensen (ISO); 
+1,2,3,4,5,6-hexaklorcyklohexan (HCH (ISO)), inbegripet lindan 
+(ISO, INN); kvicksilverföreningar; metamidofos (ISO); 
+monokrotofos (ISO); oxiran (etylenoxid); paration (ISO); 
+parationmetyl (ISO) (metylparation); pentaklorfenol (ISO) och 
+salter eller estrar av pentaklorfenol; perfluoroktansulfonsyra 
+och salter av perfluoroktansulfonsyra; 
+perfluoroktansulfonamider; perfluoroktansulfonylfluorid; 
+fosfamidon (ISO); 2,4,5-T (ISO) (2,4,5-triklorfenoxiättiksyra) 
+och salter eller estrar av denna förening; 
+tributyltennföreningar; triklorfon (ISO).
 
 3808 61 Varor i förpackningar med ett nettoviktinnehåll av 
 högst 300 gram som innehåller alfacypermetrin (ISO), 
@@ -3238,6 +3527,7 @@ metall eller föreningar av ädel metall som aktiv beståndsdel.
 metall och deras föreningar som aktiv beståndsdel), utfällda
 på en bärsubstans.
 
+/Upphör att gälla U:2024-01-01/
 3815 90 Andra beredda katalysatorer utan bärsubstans,
 reaktionsinitiatorer och reaktionsacceleratorer.
 
@@ -3245,6 +3535,17 @@ reaktionsinitiatorer och reaktionsacceleratorer.
 liknande eldfasta beredningar (andra än de i grupp 3801).
 
 3817 Blandningar av alkylbensener och blandningar av
+alkylnaftalener (andra än sådana i grupp 2707 eller 2902).
+
+/Träder i kraft I:2024-01-01/
+3815 90 Andra beredda katalysatorer utan bärsubstans, 
+reaktionsinitiatorer och reaktionsacceleratorer.
+
+3816 Eldfast cement, eldfast murbruk, eldfast betong och 
+liknande eldfasta beredningar, inbegripet stampmassa av 
+dolomit, andra än produkter enligt nr 3801.
+
+3817 Blandningar av alkylbensener och blandningar av 
 alkylnaftalener (andra än sådana i grupp 2707 eller 2902).
 
 3818 Kemiska grundämnen (och föreningar) dopade för användning
@@ -3284,9 +3585,8 @@ olje- och tallfettsyra); sura oljor från raffinering.
 3824 Beredda bindemedel för gjutformar eller gjutkärnor; 
 kemiska produkter samt preparat från kemiska eller närstående 
 industrier (inbegripet sådana som består av blandningar av 
-naturprodukter), inte nämnda eller inbegripna någon 
-annanstans i denna bilaga; registreringsplikten omfattar 
-endast: 
+naturprodukter), inte nämnda eller inbegripna någon annanstans 
+i denna bilaga; registreringsplikten omfattar endast: 
 
 3824 10 Beredda bindemedel för gjutformar eller gjutkärnor.
 
@@ -3299,6 +3599,7 @@ betong.
 3824 50 Färdigblandad betong, dock inte vått bruk eller våt
 betong.
 
+/Upphör att gälla U:2024-01-01/
 3824 60 Sorbitol, annan än sorbitol specificerad i 2905 44.
 
 3824 71 Blandningar innehållande halogenerade derivat av
@@ -3381,6 +3682,145 @@ någon annanstans i denna bilaga.
 3826 Biodiesel och blandningar av biodiesel, inte 
 innehållande, eller innehållande mindre än 70 viktprocent, 
 oljor erhållna ur petroleum eller ur bituminösa mineral.
+
+3901 Polymerer av eten, i obearbetad form, enligt följande:
+
+/Träder i kraft I:2024-01-01/
+3824 60 Sorbitol, annan än sorbitol specificerad i 2905 44.
+
+3824 81 Blandningar och preparat innehållande oxiran 
+(etylenoxid).
+
+3824 82 Blandningar och preparat innehållande polyklorerade 
+bifenyler (PCB), polyklorerade terfenyler (PCT) eller 
+polybromerade bifenyler (PBB).
+
+3824 83 Blandningar och preparat innehållande tris(2,3-
+dibrompropyl)fosfat.
+
+3824 84 Varor innehållande aldrin (ISO), kamfeklor (ISO) 
+(toxafen), klordan (ISO), klordekon (ISO), DDT (ISO) 
+(klofenotan (INN), 1,1,1-triklor-2,2-bis(p-klorfenyl)etan), 
+dieldrin (ISO, INN), endosulfan (ISO), endrin (ISO), heptaklor 
+(ISO) eller mirex (ISO).
+
+3824 85 Varor innehållande 1,2,3,4,5,6-hexaklorcyklohexan (HCH 
+(ISO)), inbegripet lindan (ISO, INN).
+
+3824 86 Varor innehållande pentaklorbensen (ISO) eller 
+hexaklorbensen (ISO).
+
+3824 87 Varor innehållande perfluoroktansulfonsyra, salter av 
+perfluoroktansulfonsyra, perfluoroktansulfonamider eller 
+perfluoroktansulfonylfluorid.
+
+3824 88 Varor innehållande tetra-, penta-, hexa-, hepta- eller 
+oktabromdifenyletrar.
+
+3824 89 Varor innehållande klorparaffiner med kort kolkedja.
+
+3824 91 Blandningar och preparat som till största delen består 
+av (5-etyl-2-metyl-2-oxido-1,3,2-dioxafosfinan-5-yl)metyl-
+metyl-metylfosfonat och bis[(5-etyl-2-metyl-2-oxido-1,3,2-
+dioxafosfinan-5-yl)metyl]metylfosfonat.
+
+3824 92 Varor innehållande polyglykolestrar av 
+metylfosfonsyra.
+
+3824 99 Andra kemiska produkter samt preparat från kemiska 
+eller närstående industrier (inbegripet sådana som består av 
+blandningar av naturprodukter), inte nämnda eller inbegripna 
+någon annanstans i denna bilaga.
+
+3826 Biodiesel och blandningar av biodiesel, inte 
+innehållande, eller innehållande mindre än 70 viktprocent, 
+oljor erhållna ur petroleum eller ur bituminösa mineral.
+
+3827 Blandningar innehållande halogenerade derivat av metan, 
+etan eller propan, inte nämnda eller inbegripna någon 
+annanstans; enligt följande: 
+
+3827 11 Innehållande klorfluorkolväten (HCFC), 
+perfluorkarboner (PFC) eller fluorkolväten (HFC).
+
+3827 12 Innehållande bromfluorkolväten (HBFC).
+
+3827 13 Innehållande koltetraklorid.
+
+3827 14 Innehållande 1,1,1-trikloretan (metylkloroform).
+
+3827 20 Innehållande bromklordifluormetan (Halon-1211), 
+bromtrifluormetan (Halon-1301) eller dibromtetrafluoretaner 
+(Halon-2402).
+
+3827 31 Innehållande klorfluorkolväten (HCFC), även 
+innehållande perfluorkarboner (PFC) eller fluorkolväten (HFC), 
+dock inte innehållande klorfluorkarboner (CFC); Innehållande 
+föreningar enligt nr 2903 41-2903 48.
+
+3827 32 Innehållande klorfluorkolväten (HCFC), även 
+innehållande perfluorkarboner (PFC) eller fluorkolväten (HFC), 
+dock inte innehållande klorfluorkarboner (CFC); Andra, 
+innehållande föreningar enligt nr 2903 71-2903 75.
+
+3827 39 Innehållande klorfluorkolväten (HCFC), även 
+innehållande perfluorkarboner (PFC) eller fluorkolväten (HFC), 
+dock inte innehållande klorfluorkarboner (CFC); Andra.
+
+3827 40 Innehållande metylbromid (brommetan) eller 
+bromklormetan.
+
+3827 51 Innehållande trifluormetan (HFC-23) eller 
+perfluorkarboner (PFC), dock inte innehållande 
+klorfluorkarboner (CFC) eller klorfluorkolväten (HCFC).
+
+3827 59 Innehållande trifluormetan (HFC-23) eller 
+perfluorkarboner (PFC), dock inte innehållande 
+klorfluorkarboner (CFC) eller klorfluorkolväten (HCFC); Andra.
+
+3827 61 Innehållande andra fluorkolväten (HFC), dock inte 
+innehållande klorfluorkarboner (CFC) eller klorfluorkolväten 
+(HCFC); Innehållande 15 viktprocent eller mer av 1,1,1-
+trifluoretan (HFC-143a).
+
+3827 62 Innehållande andra fluorkolväten (HFC), dock inte 
+innehållande klorfluorkarboner (CFC) eller klorfluorkolväten 
+(HCFC); Andra, inte inbegripna i det föregående numret, 
+innehållande 55 viktprocent eller mer av pentafluoretan (HFC-
+125), dock inte innehållande omättade fluorderivat av 
+acykliska kolväten (HFO).
+
+3827 63 Innehållande andra fluorkolväten (HFC), dock inte 
+innehållande klorfluorkarboner (CFC) eller klorfluorkolväten 
+(HCFC); Andra, inte inbegripna i de föregående numren, 
+innehållande 40 viktprocent eller mer av pentafluoretan (HFC-
+125).
+
+3827 64 Innehållande andra fluorkolväten (HFC), dock inte 
+innehållande klorfluorkarboner (CFC) eller klorfluorkolväten 
+(HCFC); Andra, inte inbegripna i de föregående numren, 
+innehållande 30 viktprocent eller mer av 1,1,1,2-
+tetrafluoretan (HFC-134a), dock inte innehållande omättade 
+fluorderivat av acykliska kolväten (HFO).
+
+3827 65 Innehållande andra fluorkolväten (HFC), dock inte 
+innehållande klorfluorkarboner (CFC) eller klorfluorkolväten 
+(HCFC); Andra, inte inbegripna i de föregående numren, 
+innehållande 20 viktprocent eller mer av difluormetan (HFC-32) 
+och 20 viktprocent eller mer av pentafluoretan (HFC-125).
+
+3827 68 Innehållande andra fluorkolväten (HFC), dock inte 
+innehållande klorfluorkarboner (CFC) eller klorfluorkolväten 
+(HCFC); Andra, inte inbegripna i de föregående numren, 
+innehållande föreningar enligt nr 2903 41-2903 48.
+
+3827 69 Innehållande andra fluorkolväten (HFC), dock inte 
+innehållande klorfluorkarboner (CFC) eller klorfluorkolväten 
+(HCFC); Andra.
+
+3827 90 Andra blandningar innehållande halogenerade derivat av 
+metan, etan eller propan, inte nämnda eller inbegripna någon 
+annanstans.
 
 3901 Polymerer av eten, i obearbetad form, enligt följande:
 
@@ -3585,6 +4025,7 @@ suspensioner) och lösningar, eller
 b) block av oregelbunden form, klumpar, pulver (inbegripet
 press- och sprutmassor), korn, flingor o.d.
 
+/Upphör att gälla U:2024-01-01/
 3907 Polyacetaler, andra polyetrar samt epoxihartser, i 
 obearbetad form; polykarbonater, alkydhartser, 
 polyallylestrar och andra polyestrar, i obearbetad form; 
@@ -3593,6 +4034,19 @@ enligt följande:
 3907 10 Polyacetaler.
 
 3907 20 Andra polyetrar (andra än polyacetaler).
+
+3907 30 Epoxihartser.
+
+/Träder i kraft I:2024-01-01/
+3907 Polyacetaler, andra polyetrar samt epoxihartser, i 
+obearbetad form; polykarbonater, alkydhartser, polyallylestrar 
+och andra polyestrar, i obearbetad form; enligt följande: 
+
+3907 10 Polyacetaler.
+
+3907 21 Bis(polyoxietylen)metylfosfonat.
+
+3907 29 Andra polyetrar (andra än polyacetaler).
 
 3907 30 Epoxihartser.
 
@@ -3704,6 +4158,7 @@ suspensioner) och lösningar, eller
 b) block av oregelbunden form, klumpar, pulver (inbegripet
 press- och sprutmassor), korn, flingor o.d.
 
+/Upphör att gälla U:2024-01-01/
 3911 Petroleumhartser, kumaronindenhartser, polyterpener,
 polysulfider, polysulfoner och andra produkter, inte nämnda
 eller inbegripna någon annanstans i denna bilaga, i obearbetad
@@ -3732,6 +4187,39 @@ a) vätskor och pastor, inbegripet dispersioner (emulsioner och
 suspensioner) och lösningar, eller
 
 b) block av oregelbunden form, klumpar, pulver (inbegripet
+press- och sprutmassor), korn, flingor o.d.
+
+/Träder i kraft I:2024-01-01/
+3911 Petroleumhartser, kumaronindenhartser, polyterpener, 
+polysulfider, polysulfoner och andra produkter, inte nämnda 
+eller inbegripna någon annanstans i denna bilaga, i obearbetad 
+form, enligt följande: 
+
+3911 10 Petroleumhartser, kumaron-, inden- och 
+kumaronindenhartser samt polyterpener.
+
+3911 20 Poly(1,3-fenylenmetylfosfonat).
+
+3911 90 Andra varuslag i grupp 3911 (dvs. polyterpener, 
+polysulfider, polysulfoner och andra obearbetade polymerer) 
+som inte är specificerade någon annanstans i denna bilaga.
+
+Registreringsplikten omfattar endast varor som framställts 
+genom kemisk syntes och som är
+
+a) lågpolymeriserade hartser av kumaronindentyp,
+
+b) andra syntetiska polymerer med ett genomsnitt av minst 
+5 monomera enheter, eller
+
+c) andra prepolymerer.
+
+Med obearbetad form avses endast produkter i form av
+
+a) vätskor och pastor, inbegripet dispersioner (emulsioner och 
+suspensioner) och lösningar, eller
+
+b) block av oregelbunden form, klumpar, pulver (inbegripet 
 press- och sprutmassor), korn, flingor o.d.
 
 3912 Cellulosa och kemiska cellulosaderivat, inte nämnda eller
@@ -3893,4 +4381,4 @@ registreringsplikten omfattar endast:
 
 6812 99 Bearbetade asbestfibrer; blandningar på basis av
 asbest eller på basis av asbest och magnesiumkarbonat.
-Förordning (2018:1457).
+Förordning (2023:728).
