@@ -1012,7 +1012,6 @@ Bilaga
 
 1	Statsrådsberedningen 
 
-
 1.1	Förvaltningsärenden 
 
 Förvaltningsärenden som gäller 
@@ -1048,7 +1047,6 @@ Svenska institutet för europapolitiska studier,
 Harpsundsnämnden. 
 
 2	Justitiedepartementet 
-
 
 2.1	Förvaltningsärenden 
 
@@ -1201,7 +1199,6 @@ Trafikskadenämnden,
 Stiftelsen för rättsinformation. 
 
 3	Utrikesdepartementet 
-
 
 3.1	Förvaltningsärenden 
 
@@ -1404,7 +1401,6 @@ auktoriserade handelskamrar,
 A/O Sweden House. 
 
 4	Försvarsdepartementet 
-
 
 4.1	Förvaltningsärenden
 
@@ -2097,6 +2093,8 @@ Statens servicecenter,
 
 Upphandlingsmyndigheten,
 
+Utbetalningsmyndigheten,
+
 Stipendiestiftelsen för studier av japanskt näringsliv,
 
 Statens fastighetsverk, 
@@ -2499,7 +2497,7 @@ Klimatpolitiska rådet,
 
 Statens geotekniska institut,
 
-	Konkurrensverket, 
+Konkurrensverket, 
 
 Sveriges geologiska undersökning, 
 
@@ -2677,8 +2675,6 @@ regionala museer,
 
 övriga museer som inte hör till något annat departement, 
 
-Statens medieråd, 
-
 Stiftelsen Svenska Filminstitutet, 
 
 stiftelser med kulturella ändamål som departementet eller 
@@ -2686,7 +2682,7 @@ myndighet som hör till departementet ska tillgodose,
 
 Myndigheten för tillgängliga medier, 
 
-Myndigheten för press, radio och tv, 
+Mediemyndigheten,
 
 Forum för levande historia, 
 
@@ -2763,8 +2759,8 @@ departement,
 översättare och tolkar, i den mån sådana ärenden inte hör till 
 något annat departement,
 
-samordning och utveckling av frågor för att minska och 
-motverka segregation på nationell, regional och lokal nivå.
+samordning och utveckling av frågor om att minska och motverka 
+utanförskap på nationell, regional och lokal nivå.
 
 10.2	Lagstiftningsärenden 
 
@@ -3013,7 +3009,7 @@ livsmedelskedjan,
 
 beredskapen för livsmedelsförsörjning, 
 
-utsädesontroll, växtskydd, 
+utsädeskontroll, växtskydd, 
 
 husdjurskontroll, djursjukdomar, djurens hälso- och sjukvård, 
 djurskydd, 
@@ -3110,5 +3106,4 @@ Trafikanalys,
 
 Boverket, 
 
-Lantmäteriet.
-Förordning (2022:1873).
+Lantmäteriet. Förordning (2023:801).
