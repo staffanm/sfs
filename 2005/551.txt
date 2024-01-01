@@ -2186,12 +2186,20 @@ fattades.
 
 Ort för bolagsstämma
 
-15 § Bolagsstämman skall hållas på den ort där styrelsen har
-sitt säte. I bolagsordningen får det dock föreskrivas att
-stämman skall eller kan hållas på annan angiven ort i Sverige.
+15 § Bolagsstämman ska hållas på den ort där styrelsen har 
+sitt säte. I bolagsordningen får det dock bestämmas att 
+stämman ska eller får hållas på en annan angiven ort i Sverige 
+eller digitalt.
 
-Om extraordinära omständigheter kräver det, får bolagsstämman
-hållas på annan ort än som anges i första stycket.
+Bolagsstämman får hållas på någon annan ort än den som följer 
+av första stycket eller digitalt, om extraordinära 
+omständigheter kräver det.
+
+En bolagsstämma som Bolagsverket ska kalla till enligt 17 § 
+andra stycket får alltid hållas på den ort som följer av 
+första stycket. Detsamma gäller en bolagsstämma som en 
+likvidator ska kalla till enligt 25 kap. 44 § andra stycket 
+eller 46 §. Lag (2023:774).
 
 Aktieägares initiativrätt
 
@@ -2315,50 +2323,54 @@ Europeiska ekonomiska samarbetsområdet, gäller 56 a § och
 
 Kallelsens innehåll
 
-24 § Kallelsen ska innehålla uppgift om tid och plats för
-bolagsstämman samt uppgift om förutsättningarna enligt 2 § för
-aktieägares rätt att delta i stämman. Kallelsen ska också
-innehålla ett förslag till dagordning för bolagsstämman. I
-förslaget till dagordning ska styrelsen tydligt ange de ärenden
-som ska behandlas vid bolagsstämman. Ärendena ska vara
+24 § Kallelsen ska innehålla uppgift om tid och plats för 
+bolagsstämman samt uppgift om förutsättningarna enligt 2 § för 
+aktieägares rätt att delta i stämman. Om bolagsstämman ska 
+hållas digitalt ska kallelsen innehålla uppgift om hur 
+aktieägarna ska gå till väga för att delta. Kallelsen ska 
+också innehålla ett förslag till dagordning för bolagsstämman. 
+I förslaget till dagordning ska styrelsen tydligt ange de 
+ärenden som ska behandlas vid bolagsstämman. Ärendena ska vara 
 numrerade.
 
-Det huvudsakliga innehållet i varje framlagt förslag ska anges,
-om förslaget inte rör en fråga av mindre betydelse för bolaget.
-Avser ett ärende en ändring av bolagsordningen, ska det
-huvudsakliga innehållet i förslaget till ändring alltid anges.
+Det huvudsakliga innehållet i varje framlagt förslag ska 
+anges, om förslaget inte rör en fråga av mindre betydelse för 
+bolaget. Avser ett ärende en ändring av bolagsordningen, ska 
+det huvudsakliga innehållet i förslaget till ändring alltid 
+anges.
 
-Om aktieägarna ska kunna utöva rösträtt vid bolagsstämman med
-användning av en sådan fullmakt som avses i 4 § andra stycket,
-genom poströstning eller med användning av elektroniska
-hjälpmedel, ska det framgå av kallelsen hur de ska gå till
+Om aktieägarna ska kunna utöva rösträtt vid bolagsstämman med 
+användning av en sådan fullmakt som avses i 4 § andra stycket, 
+genom poströstning eller med användning av elektroniska 
+hjälpmedel, ska det framgå av kallelsen hur de ska gå till 
 väga.
 
-Särskilda bestämmelser om innehållet i en kallelse finns i
+Särskilda bestämmelser om innehållet i en kallelse finns i 
+följande paragrafer:
 
-2 § detta kapitel (deltagande i stämma),
+- 2 § detta kapitel (deltagande i stämma),
 
-13 kap. 10, 33 och 36 §§ (nyemission av aktier),
+- 13 kap. 10, 33 och 36 §§ (nyemission av aktier),
 
-14 kap. 12, 26 och 29 §§ (emission av teckningsoptioner),
+- 14 kap. 12, 26 och 29 §§ (emission av teckningsoptioner),
 
-15 kap. 12, 31 och 34 §§ (emission av konvertibler),
+- 15 kap. 12, 31 och 34 §§ (emission av konvertibler),
 
-16 kap. 3–5 och 7 §§ (vissa riktade emissioner m.m.),
+- 16 kap. 3-5 och 7 §§ (vissa riktade emissioner m.m.),
 
-18 kap. 8 § (vinstutdelning),
+- 18 kap. 8 § (vinstutdelning),
 
-19 kap. 26 och 35 §§ (förvärv eller överlåtelse av egna
+- 19 kap. 26 och 35 §§ (förvärv eller överlåtelse av egna 
 aktier),
 
-20 kap. 16 § (minskning av aktiekapitalet), och
+- 20 kap. 16 § (minskning av aktiekapitalet), och
 
-25 kap. 5 § (likvidation).
+- 25 kap. 5 § (likvidation).
 
-I fråga om publika aktiebolag, vars aktier är upptagna till
-handel på en reglerad marknad eller en motsvarande marknad
-utanför Europeiska ekonomiska samarbetsområdet, gäller även
-63 §. Lag (2010:1516).
+I fråga om publika aktiebolag, vars aktier är upptagna till 
+handel på en reglerad marknad eller en motsvarande marknad 
+utanför Europeiska ekonomiska samarbetsområdet, gäller även 
+63 §. Lag (2023:774).
 
 Tillhandahållande av handlingar inför årsstämman
 
@@ -2652,26 +2664,27 @@ till nackdel för bolaget eller någon annan aktieägare.
 
 Stämmoprotokoll
 
-48 § Ordföranden ska se till att det förs protokoll vid
+48 § Ordföranden ska se till att det förs protokoll vid 
 bolagsstämman.
 
-I protokollet ska det antecknas dag och ort för bolagsstämman
-samt vilka beslut som bolagsstämman har fattat. Om ett beslut
-har fattats genom omröstning, ska det i protokollet antecknas
-vad som har yrkats och utfallet av omröstningen. Röstlängden
-ska tas in i eller läggas som en bilaga till protokollet.
+I protokollet ska det antecknas dag och ort för bolagsstämman, 
+eller att stämman hållits digitalt, samt vilka beslut som 
+bolagsstämman har fattat. Om ett beslut har fattats genom 
+omröstning, ska det i protokollet antecknas vad som har yrkats 
+och utfallet av omröstningen. Röstlängden ska tas in i eller 
+läggas som en bilaga till protokollet.
 
-Protokollet ska undertecknas av protokollföraren. Det ska
-justeras av ordföranden, om han eller hon inte har fört
-protokollet, och av minst en justeringsman som bolagsstämman
-har utsett. Om ordföranden eller protokollföraren ensam eller
-de två tillsammans företräder samtliga aktier i bolaget,
-behövs inte någon justeringsman.
+Protokollet ska undertecknas av protokollföraren. Det ska 
+justeras av ordföranden, om han eller hon inte har fört 
+protokollet, och av minst en justerare som bolagsstämman har 
+utsett. Om ordföranden eller protokollföraren ensam eller de 
+två tillsammans företräder samtliga aktier i bolaget, behöver 
+någon justerare inte utses.
 
-I fråga om publika aktiebolag vars aktier är upptagna till
-handel på en reglerad marknad eller en motsvarande marknad
-utanför Europeiska ekonomiska samarbetsområdet gäller även
-68 § andra stycket. Lag (2014:539).
+I fråga om publika aktiebolag vars aktier är upptagna till 
+handel på en reglerad marknad eller en motsvarande marknad 
+utanför Europeiska ekonomiska samarbetsområdet gäller även 
+68 § andra stycket. Lag (2023:774).
 
 48 a § Vid ett beslut av bolagsstämman att godkänna en 
 fusions-, delnings- eller ombildningsplan som avser ett 
@@ -5950,7 +5963,7 @@ Hur en emission av teckningsoptioner beslutas
 Upprättande av förslag
 
 3 § Om bolagsstämman skall pröva en fråga om emission av
-tecknings ptioner, skall styrelsen eller, om förslaget väcks av
+teckningsoptioner, skall styrelsen eller, om förslaget väcks av
 någon annan, förslagsställaren upprätta ett förslag till beslut
 enligt bestämmelserna i 4-10 §§.
 
@@ -14064,6 +14077,7 @@ en tiondel av samtliga aktier i bolaget, vid bolagsstämma har
 biträtt ett förslag om att väcka en skadeståndstalan eller, när
 det gäller en styrelseledamot eller den verkställande
 direktören, har röstat mot ett förslag om ansvarsfrihet.
+
 8 § En uppgörelse i fråga om skadeståndsskyldighet till bolaget
 enligt 1-3 §§ får träffas endast av bolagsstämman och endast
 under förutsättning att inte ägare till minst en tiondel av
