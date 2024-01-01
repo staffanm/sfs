@@ -37,9 +37,9 @@ postlagen (2010:1045) ska betala en särskild avgift.
 ska betala en särskild avgift för obeställbara brev som sänds 
 in till Post- och telestyrelsen. Det totala avgiftsuttaget ska 
 motsvara de kostnader som myndigheten har för denna verksamhet 
-och får uppgå till högst 13 000 000 kronor per år. Avgiften 
-ska fördelas med skälig andel på tillståndshavarna.
-Förordning (2022:1389).
+och får uppgå till högst 14 000 000 kronor per år. Avgiften 
+ska fördelas med skälig andel på tillståndshavarna. 
+Förordning (2023:696).
 
 Gränsöverskridande paketleveranstjänster
 
@@ -137,7 +137,7 @@ skäl till det. Förordning (2019:189).
 de avgifter som har betalats till myndigheten.
 
 
-Bilaga 
+Bilaga
 
 Avgifter för tillstånd att använda nummer och årlig avgift för 
 anmäld verksamhet enligt lagen (2022:482) om elektronisk 
@@ -149,9 +149,6 @@ CUG IC: Closed User Group Interlock Code
 
 DNIC: Data Network Identification Codes 
 (datanätsidentifikationskod)
-
-ERMES operatörskod: European Radio Messaging System (ett 
-personsökningssystem)
 
 IIN: Issuer Identifier Numbers (utgivaridentiteter)
 
@@ -167,7 +164,7 @@ NDC: National Destination Code (nationell destinationskod)
 NSPC: National Signalling Point Codes (nationella 
 signalpunktskoder)
 
-Årsomsättning: Omsättningen under närmast föregående 
+Årsomsättning: omsättningen under närmast föregående 
 räkenskapsår i den verksamhet som omfattas av kravet på 
 anmälan i 2 kap. 1 § lagen (2022:482) om elektronisk 
 kommunikation
@@ -176,60 +173,63 @@ kommunikation
 
 Den som bedriver verksamhet som är anmäld enligt 2 kap. 1 § 
 lagen (2022:482) om elektronisk kommunikation ska betala 
-avgift enligt följande: 
+avgift enligt följande:
 
 - om årsomsättningen uppgår till 30 000 000 kr eller mer, ska 
-en årlig avgift som motsvarar 0,1762 procent av 
-årsomsättningen betalas,
+en årlig avgift som motsvarar 0,178 procent av årsomsättningen 
+betalas,
 
 - om årsomsättningen understiger 30 000 000 kr ska ingen 
-avgift betalas. 
+avgift betalas.
 
 Avgifter för tillstånd att använda nummer 
 
 1. Geografiska nummer
 
-Abonnentnummer för riktnummerområdena 
-08 (Stockholm), 031 (Göteborg) och 040 
-(Malmö)	                                0,35 kr per nummer
+Abonnentnummer för                      0,35 kr per nummer
+riktnummerområdena 08 
+(Stockholm), 031 
+(Göteborg) och 040 
+(Malmö)	
 
 Abonnentnummer för övriga 
-riktnummerområden	                0,15 kr per nummer
+riktnummerområden                       0,15 kr per nummer
 
 2. Icke-geografiska nummer
 
-Frisamtalsnummer, betalteletjänster, 
-massanropstjänster, tjänster med delad 
-kostnad, mobilnummer, personliga 
-nummer, nummer för geografiskt 
-oberoende tjänster, samt nummer för 
-operatörspecifika tjänster, oavsett 
-numrets längd	                        0,15 kr per nummer
+Frisamtalsnummer, betaltele-            0,15 kr per nummer
+tjänster, massanropstjänster, 
+tjänster med delad kostnad, 
+mobilnummer, personliga nummer, 
+nummer för geografiskt 
+oberoende tjänster, samt 
+nummer för operatörspecifika 
+tjänster, oavsett numrets 
+längd
 
-Personsökningsnummer, telematiktjänster 
-samt mobila bredbandstjänster	        0,05 kr per nummer
+Personsökningsnummer,                   0,05 kr per nummer
+telematiktjänster samt 
+mobila bredbandstjänster
 
 3. Korta nummer
 
-Operatörsprefix, nationella 
-företagsnummer ur 90-serien och nummer 
-ur 11-serien för nummerupplysning, 
-hälso- och sjukvårdsupplysning samt 
-polis, m.m.	                        10 000 kr per prefix 
-                                        eller nummer
+Operatörsprefix, nationella             10 000 kr per prefix 
+företagsnummer ur 90-serien             eller nummer
+och nummer ur 11-serien för 
+nummerupplysning, hälso- och 
+sjukvårdsupplysning samt polis, 
+m.m. 
 
-Tresiffriga dirigeringsadresser (NDC)   50 000 kr per 
-adress
+Tresiffriga dirigeringsadresser         50 000 kr per adress
+(NDC)
 
 4. Nummer ur tekniska planer
 
-Dirigeringsprefix vid 
-nummerportabilitet, MNC, ISPC samt IIN  10 000 kr per nummer
+Dirigeringsprefix vid                   10 000 kr per nummer
+nummerportabilitet, MNC, 
+ISPC samt IIN
 
-DNIC, ERMES operatörskod, CUG IC samt 
-(T)MNC)	                                1 000 kr per nummer
+DNIC, CUG IC samt (T)MNC                1 000 kr per nummer
 
-NSPC som omfattas av föreskrifter om 
-tillstånd för användning av kapacitet 
-ur tekniska planer	                100 kr per nummer
-Förordning (2022:1544).
+NSPC                                    100 kr per nummer
+Förordning (2023:696).
