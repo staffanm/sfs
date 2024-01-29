@@ -656,16 +656,16 @@ vattenverksamhet som inletts före ikraftträdandet.
 av ärenden som har inletts före ikraftträdandet.
 
 
-Bilaga 
+Bilaga
 
 Tid för ansökan om prövning för moderna miljövillkor
 
-Huvudav-	Prövningsgrupp	Tidpunkt för 	
-rinningsområde			ansökan
+Huvudavrinningsområde	Prövningsgrupp	Tidpunkt för 
+ansökan
 
 Torneälven	Torneälven	1 september 2022
 
-Sangisälven	Sangisälven	1 februari 2024
+Sangisälven	Sangisälven	1 april 2024
 
 Luleälven	Bodån	        1 februari 2026
 
@@ -677,7 +677,7 @@ Alterälven	Alterälven	1 februari 2025
 
 Piteälven	Piteälven	1 september 2024
 
-Åbyälven	Åbyälven	1 februari 2024
+Åbyälven	Åbyälven	1 april 2024
 
 Kågeälven	Kågeälven	1 september 2022
 
@@ -687,9 +687,9 @@ Bureälven	Bureälven	1 februari 2031
 
 Rickleån	Rickleån	1 februari 2022
 
-Sävarån	        Sävarån	        1 februari 2025
+Sävarån	        Sävarån 	1 februari 2025
 
-Tavelån	        Tavelån	        1 februari 2024
+Tavelån	        Tavelån	        1 april 2024
 
 Umeälven	Vindelälven	1 februari 2027
 
@@ -703,10 +703,10 @@ Husån	        Husån	        1 september 2025
 
 Gideälven	Gideälven	1 september 2026
 
-Kustavrinnings- Idbyån          1 februari 2024
-område 20		
+Kustavrinnings-
+område 20	Idbyån	        1 april 2024
 
-Moälven	        Moälven	        1 september 2025
+Moälven	        Moälven 	1 september 2025
 
 Nätraån	        Nätraån	        1 februari 2031
 
@@ -750,7 +750,7 @@ Indalsälven	Storsjön	1 september 2034
 
 Ljungan	        Gimån	        1 februari 2025
 
-Ljungan	        Ljungan	        1 februari 2024
+Ljungan	        Ljungan	        1 april 2024
 
 Gnarpsån	Gnarpsån	1 september 2032
 
@@ -836,16 +836,16 @@ Norrström	Nedre Arbogaån	1 februari 2035
 
 Tyresån	        Tyresån	        1 februari 2022
 
-Trosaån	        Trosaån	        1 februari 2022
+Trosaån	Trosaån	1 februari 2022
 
-Nyköpingsån	Nyköpingsån	1 februari 2024
+Nyköpingsån	Nyköpingsån	1 april 2024
 
 Kilaån	        Kilaån	        1 februari 2022
 
-Kustavrinnings- Norr Bråviken	1 februari 2024
-område 16	
+Kustavrinnings
+område 16	Norr Bråviken	1 april 2024
 
-Motala ström	Stångån	1 september 2030
+Motala ström	Stångån	        1 september 2030
 
 Motala ström	Huskvarnaån	1 februari 2032
 
@@ -859,13 +859,13 @@ Motala ström	Vättern norra	1 februari 2026
 
 Motala ström	Vättern södra	1 februari 2026
 
-Söderköpingsån	Söderköpingsån	1 februari 2024
+Söderköpingsån	Söderköpingsån	1 april 2024
 
-Kustavrinnings- Mellan          1 februari 2024
+Kustavrinnings- Mellan          1 april 2024
 område 14	Söderköpingsån 
-                och Vindån
-	
-Vindån	        Vindån	        1 februari 2024
+                och Vindån      
+
+Vindån	        Vindån	        1 april 2024
 
 Storån	        Storån	        1 februari 2035
 
@@ -911,10 +911,10 @@ Ronnebyån	Ronnebyån	1 september 2035
 
 Vierydsån	Vierydsån	1 september 2032
 
-Bräkneån	Bräkneån	1 februari 2024
+Bräkneån	Bräkneån	1 april 2024
 
-Kustavrinnings- Hällarydsån	1 februari 2024
-område 15	
+Kustavrinnings-
+område 15	Hällarydsån	1 april 2024
 
 Mieån	        Mieån	        1 september 2022
 
@@ -1009,8 +1009,9 @@ Rolfsån	        Rolfsån	        1 september 2022
 
 Kungsbackaån	Kungsbackaån	1 september 2024
 
-Kustavrinnings- Mellan          1 februari 2024
-område 8	Onsalahalvön 
+Kustavrinnings-
+område 8	Mellan          1 april 2024
+                Onsalahalvön 
                 och Göta älv
 
 Göta älv	Alsterälven	1 februari 2031
@@ -1083,11 +1084,11 @@ Gullspångsälven	Svartälven övre	1 februari 2025
 
 Gullspångsälven	Sikforsån	1 september 2025
 
-Gullspångsälven	Gullspångsälven 1 februari 2024
+Gullspångsälven	Gullspångsälven 1 april 2024
                 nedre	
 
 Tidan	        Ösan uppströms  1 februari 2030
-                Östen	
+                Östen
 
 Tidan	        Tidan uppströms 1 februari 2030 
                 Östen	
@@ -1106,7 +1107,7 @@ Göta älv        Göta älvs       1 februari 2033
 nedströms       huvudfåra
 Vänern	 	
 
-Bäveån	        Bäveån	        1 februari 2024
+Bäveån	        Bäveån  	1 april 2024
 
 Örekilsälven	Örekilsälven	1 februari 2022
 
@@ -1114,17 +1115,17 @@ Enningdalsälven	Enningdalsälven	1 februari 2022
 
 Nea	        Nea	        1 februari 2026
 
-Kustavrinnings- Gotland nordost	1 februari 2022
+Kustavrinnings- Gotland nordost 1 februari 2022
 område 5	
 
-Fjällav-        Avrinning till  1 februari 2024
-rinningsområde  Norge inom 
-3               domsområdet 	  
+Fjällav-        Avrinning till  1 april 2024
+rinningsområde  Norge inom
+3               domsområdet 
                 för Mark- och 
                 miljödomstolen 
                 vid Umeå 
                 tingsrätt
-	
+
 Kustavrinnings- Avrinning till  1 februari 2025
 område 17	Östersjön inom 
                 domsområdet för 
@@ -1134,28 +1135,28 @@ område 17	Östersjön inom
                 tingsrätt
 
 Fjällav-        Avrinning till  1 februari 2028
-rinningsområde  Norge inom
-2               domsområdet för 	 
-                Mark- och 
+rinningsområde  Norge inom 
+2               domsområdet 
+                för Mark- och 
                 miljödomstolen 
                 vid Östersunds 
-                tingsrätt	
+                tingsrätt
 
-Kustavrinnings- Avrinning till  1 februari 2024
+Kustavrinnings- Avrinning till  1 april 2024
 område 4	Östersjön inom 
-                domsområdet för
-                Mark- och 
-                miljödomstolen 
-                vid Östersunds 
-                tingsrätt	
+                domsområdet för 
+                Mark- och miljö-
+                domstolen vid 
+                Östersunds 
+                tingsrätt
 
 Fjällav-        Avrinning till  1 februari 2027
 rinningsområde  Norge inom
 1               domsområdet för 
-                Mark- och 
-                miljödomstolen 
-                vid Vänersborgs 
-                tingsrätt	
+                Mark- och miljö-
+                domstolen vid 
+                Vänersborgs 
+                tingsrätt
 
 Kustavrinnings- Avrinning till  1 februari 2022
 område 7	Östersjön inom 
@@ -1166,20 +1167,19 @@ område 7	Östersjön inom
                 tingsrätt
 	
 Kustavrinnings- Avrinning till  1 februari 2022
-område 12	Västerhavet 
-                inom 
-                domsområdet för 
-                Mark- och 
+område 12       Västerhavet 
+                inom domsområdet 
+                för Mark- och 
                 miljödomstolen 
-                vid Vänersborgs 
-                tingsrätt	
+                vid Vänersborgs
+                tingsrätt
 
-Kustavrinnings- Avrinning till  1 februari 2024
-område 3	Östersjön och 
-                Västerhavet inom 
-                domsområdet för 
-                Mark- och 
+Kustavrinnings- Avrinning till  1 april 2024
+område 3        Östersjön och 
+                Västerhavet 
+                inom domsområdet 
+                för Mark- och 
                 miljödomstolen 
                 vid Växjö 
-                tingsrätt	
-Förordning (2023:4).
+                tingsrätt
+Förordning (2023:950).
