@@ -1,25 +1,6 @@
 Syfte och tillämpningsområde
 
-1 § /Upphör att gälla U:2024-05-01/
-Genom denna lag genomförs Europaparlamentets och rådets 
-direktiv 2019/520/EU av den 19 mars 2019 om 
-driftskompatibilitet mellan elektroniska vägtullsystem och 
-underlättande av gränsöverskridande informationsutbyte om 
-underlåtenhet att betala vägavgifter i unionen, i den 
-ursprungliga lydelsen. 
-
-Syftet med lagen är att främja betalningen av vägtullar genom 
-att 
-
-1. säkerställa driftskompatibilitet mellan elektroniska 
-vägtullssystem, och
-
-2. underlätta gränsöverskridande utbyte av information om 
-fordon och ägare eller innehavare av fordon.
-Lag (2022:351).
-
-1 § /Träder i kraft I:2024-05-01/
-Genom denna lag genomförs Europaparlamentets och rådets 
+1 § Genom denna lag genomförs Europaparlamentets och rådets 
 direktiv (EU) 2019/520 av den 19 mars 2019 om 
 driftskompatibilitet mellan elektroniska vägtullsystem och 
 underlättande av gränsöverskridande informationsutbyte om 
@@ -209,36 +190,47 @@ informera EETS-väganvändaren om giltiga sätt att betala en
 vägtull, 
 
 3. offentliggöra information om sin täckning enligt 6 § och 
-eventuella förändringar av den,
+eventuella förändringar av den, 
 
 4. inom en månad från registreringen offentliggöra eventuella 
-planer på att utvidga sin täckning enligt 6 §,
+planer på att utvidga sin täckning enligt 6 §, 
 
 5. vid behov förse de EETS-väganvändare med vilka avtal om 
 utförande av vägtullstjänster har träffats med 
 fordonsutrustning som uppfyller föreskrivna tekniska krav och 
-visa att utrustningen uppfyller kraven,
+visa att utrustningen uppfyller kraven, 
 
 6. föra en förteckning över fordonsutrustning som inte längre 
 är godkänd och som är kopplad till ett avtal mellan 
-förmedlaren och en EETS-väganvändare,
+förmedlaren och en EETS-väganvändare, 
 
-7. offentliggöra sina villkor för att träffa avtal med EETS-
-väganvändare, 
+7. offentliggöra sina villkor för att träffa avtal om EETS,
 
 8. ge en avgiftsupptagare den information som behövs för att 
 kunna beräkna och ta ut en vägtull eller för att kontrollera 
-EETS-betalningsförmedlarens beräkning av den vägtull som tas 
+EETS-betalningsför-medlarens beräkning av den vägtull som tas 
 ut av en EETS-väganvändare, och
 
-9. samarbeta med en avgiftsupptagare och omedelbart ge 
-avgiftsupptagaren uppgifter om ett berört fordon och den kund 
-som har träffat avtal med EETS-betalningsförmedlaren om 
-utförande av vägtullstjänster för fordonet, när det är 
-nödvändigt för indrivning av en vägtull eller för att 
-avgiftsupptagaren ska kunna underrätta kunden om en skyldighet 
-att betala en vägtull eller när det misstänks att kunden inte 
-har betalat en vägtull. Lag (2022:351).
+9. samarbeta med en avgiftsupptagare genom att i fråga om 
+fordon som omfattas av ett avtal mellan EETS-
+betalningsförmedlaren och en kund om utförande av 
+vägtullstjänster 
+
+a) omedelbart ge avgiftsupptagaren uppgifter om ett fordon och 
+den kund som fordonet hänförs till, när det är nödvändigt för 
+indrivning av en vägtull eller för att avgiftsupptagaren ska 
+kunna underrätta kunden om en skyldighet att betala en vägtull 
+eller när det misstänks att kunden inte har betalat en 
+vägtull, och
+
+b) ge en avgiftsupptagare i Sverige uppgifter om alla fordon 
+som under en viss tidsperiod har färdats i avgiftsupptagarens 
+vägtullsområde och de kunder som fordonen hänförs till, inom 
+två dagar från det att EETS-betalningsförmedlaren tagit emot 
+en begäran från avgiftsupptagaren om att få de uppgifter som 
+behövs för att avgiftsupptagaren ska kunna fullgöra sina 
+skyldigheter i förhållande till en skattemyndighet.
+Lag (2024:304).
 
 8 § Om en faktura från en EETS-betalningsförmedlare till en 
 EETS-väganvändare baseras på en myndighets beslut om vägtull, 
@@ -441,32 +433,7 @@ Informationsutbyte
 kontaktpunkt vid utbyte av information med andra länders 
 kontaktpunkter enligt denna lag. Lag (2022:351).
 
-28 § /Upphör att gälla U:2024-05-01/
-Om det behövs för att kunna kräva betalning för en 
-vägtull som har förfallit till betalning av en ägare eller 
-innehavare av ett fordon som är registrerat i ett land inom 
-Europeiska ekonomiska samarbetsområdet (EES), får den svenska 
-kontaktpunkten elektroniskt utbyta sådana uppgifter som anges 
-i bilaga I till direktiv 2019/520/EU, i den ursprungliga 
-lydelsen, med utländska kontaktpunkter. 
-
-Utbyte av uppgifter enligt första stycket får även ske om det 
-behövs för att underrätta en sådan ägare eller innehavare av 
-ett fordon om en skyldighet att betala en vägtull, och 
-
-1. ägaren eller innehavaren av fordonet inte kan identifieras 
-på något annat sätt, och 
-
-2. underrättelsen är nödvändig för att kunna kräva betalning 
-av vägtullen. 
-
-Om en uppgift som anges i del II i bilaga I till direktiv 
-2019/520/EU, i den ursprungliga lydelsen, omfattas av 
-sekretess enligt offentlighets- och sekretesslagen (2009:400), 
-får uppgiften inte lämnas ut. Lag (2022:351).
-
-28 § /Träder i kraft I:2024-05-01/
-För betalning av en vägtull för ett fordon som är 
+28 § För betalning av en vägtull för ett fordon som är 
 registrerat i ett land inom Europeiska ekonomiska 
 samarbetsområdet (EES) får den svenska kontaktpunkten 
 elektroniskt utbyta uppgifter med utländska kontaktpunkter, om 
@@ -523,11 +490,17 @@ som deras respektive verksamhet innebär. Lag (2022:351).
 32 § Personuppgifter som har erhållits enligt 28 § får endast 
 behandlas för att identifiera ett fordon eller en ägare eller 
 innehavare av ett fordon i syfte att ta upp eller driva in 
-vägtullar. 
+vägtullar. Lag (2024:304).
 
-Första stycket gäller även för personuppgifter som har 
-erhållits enligt 7 § 9, om avgiftsupptagaren även är 
-betalningsförmedlare. Lag (2022:351).
+32 a § En avgiftsupptagare som också är betalningsförmedlare 
+får behandla personuppgifter som inhämtats enligt 7 § 9 endast 
+för att
+
+1. identifiera ett fordon eller en ägare eller innehavare av 
+ett fordon i syfte att ta upp eller driva in vägtullar, eller
+
+2. fullgöra en skyldighet i förhållande till en 
+skattemyndighet. Lag (2024:304).
 
 Tystnadsplikt
 
