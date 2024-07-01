@@ -66,7 +66,7 @@ registrerats enligt 13, 14 eller 16 a §,
 enligt 16 b §,
 
 7. nätverk: en struktur för samarbete i vilken minst ett 
-revisionsföretag ingår och som 
+revisionsföretag ingår och som
 
 a) tydligt syftar till vinstdelning eller kostnadsdelning,
 
@@ -84,12 +84,12 @@ f) i betydande omfattning har gemensam personal,
 8. revisionsverksamhet:
 
 a) verksamhet som består i sådan granskning av förvaltning 
-eller ekonomisk information som utmynnar i en rapport eller 
-någon annan handling som är avsedd att utgöra 
-bedömningsunderlag även för någon annan än uppdragsgivaren, 
-samt
+eller ekonomisk information eller hållbarhetsinformation som 
+utmynnar i en rapport eller någon annan handling som är avsedd 
+att utgöra bedömningsunderlag även för någon annan än 
+uppdragsgivaren, samt
 
-b) rådgivning eller annat biträde som föranleds av 
+b) rådgivning eller annat biträde som motiveras av 
 iakttagelser vid granskning enligt a,
 
 9. företag av allmänt intresse:
@@ -115,19 +115,18 @@ tjänstepensionsföretag,
 
 10. EES: Europeiska ekonomiska samarbetsområdet,
 
-11. tredjeland: en stat utanför EES.
-Lag (2020:658).
+11. tredjeland: en stat utanför EES. Lag (2024:355).
 
 Revisorsinspektionen
 
 3 § Revisorsinspektionen ska
 
-1. pröva frågor om auktorisation, godkännande och 
-registrering enligt denna lag,
+1. pröva frågor om auktorisation, godkännande, behörighet att 
+granska hållbarhetsrapporter och registrering enligt denna 
+lag,
 
-2. utöva tillsyn över revisionsverksamhet samt över 
-revisorer, registrerade revisionsbolag och revisorer från ett 
-tredjeland,
+2. utöva tillsyn över revisionsverksamhet samt över revisorer, 
+registrerade revisionsbolag och revisorer från ett tredjeland,
 
 3. pröva frågor om disciplinära och andra åtgärder mot 
 revisorer, registrerade revisionsbolag, revisorer från ett 
@@ -138,8 +137,7 @@ detta revisorer, och
 utvecklas på ett ändamålsenligt sätt.
 
 Regeringen kan med stöd av 8 kap. 7 § regeringsformen meddela 
-närmare föreskrifter om Revisorsinspektionen. 
-Lag (2016:1339).
+närmare föreskrifter om Revisorsinspektionen. Lag (2024:355).
 
 3 a § Revisorsinspektionen ska utöva tillsyn över att 
 revisorer och registrerade revisionsbolag fullgör sina 
@@ -367,31 +365,40 @@ registreras som ett revisionsbolag. Lag (2016:430).
 
 Registrering av revisorer från tredjeland
 
-16 b § En fysisk person eller ett företag från ett tredjeland
-får registreras som revisor från tredjeland, om kraven på
-lagstadgad revision och på dem som utför revisionen i den
-staten är likvärdiga med dem som följer av svensk rätt.
-Lag (2009:564).
+16 b § En fysisk person eller ett företag från tredjeland får 
+registreras som revisor från ett tredjeland för revision av 
+finansiella rapporter, om kraven på lagstadgad revision och på 
+dem som utför revisionen i den staten är likvärdiga med de 
+krav som följer av svensk rätt. Detsamma gäller för granskning 
+av hållbarhetsrapporter om kraven på sådan granskning och på 
+dem som utför granskningen är likvärdiga med de krav som 
+följer av svensk rätt. Lag (2024:355).
 
 Huvudansvarig i revisionsverksamhet
 
 17 § Ett handelsbolag eller aktiebolag som utövar 
-revisionsverksamhet ska för varje uppdrag som det åtar sig 
-och som utgör revisionsverksamhet utse en av de 
-yrkesverksamma revisorerna i bolaget att vara huvudansvarig. 
-Den huvudansvarige ska vara auktoriserad revisor, om det 
-behövs för att uppfylla föreskrifter i lag eller annan 
-författning. Bolaget ska utan dröjsmål underrätta 
-uppdragsgivaren om vem som är huvudansvarig.
+revisionsverksamhet ska för varje uppdrag som det åtar sig och 
+som utgör revisionsverksamhet utse en av de yrkesverksamma 
+revisorerna i bolaget att vara huvudansvarig. Den 
+huvudansvariga ska vara auktoriserad revisor, om det behövs 
+för att uppfylla föreskrifter i lag eller annan författning. 
+Om uppdraget avser granskning av en hållbarhetsrapport, ska en 
+huvudansvarig utses för den delen. Bolaget ska utan dröjsmål 
+underrätta uppdragsgivaren om vem eller vilka som är 
+huvudansvariga.
 
-Den huvudansvarige ska underteckna revisionsberättelser och 
-andra utlåtanden. Om en berättelse eller ett utlåtande 
-undertecknas av flera revisorer, ska det anges vem som är 
-huvudansvarig.
+Om uppdraget avser både revision av finansiella rapporter och 
+granskning av hållbarhetsrapporter, får samma person vara 
+huvudansvarig för hela uppdraget.
 
-Första och andra styckena gäller även ett registrerat 
+Den huvudansvariga ska underteckna revisionsberättelser, 
+granskningsberättelser och andra utlåtanden. Om en berättelse 
+eller ett utlåtande undertecknas av flera revisorer, ska det 
+anges vem som är huvudansvarig.
+
+Första-tredje styckena gäller även ett registrerat 
 revisionsbolag från en annan stat inom EES än Sverige.
-Lag (2016:430).
+Lag (2024:355).
 
 Giltighetstid för auktorisation, godkännande och
 registrering
@@ -406,9 +413,12 @@ Revisorsinspektionen får i ett enskilt fall besluta att en
 auktorisation ska gälla i längre tid än fem år, dock längst 
 sex år.
 
-Revisorsinspektionen eller, efter överklagande, en domstol 
-får bestämma att ett beslut om avslag på en ansökan som avses 
-i första stycket ska gälla omedelbart. Lag (2016:1339).
+Revisorsinspektionen eller, efter överklagande, en domstol får 
+bestämma att ett beslut om avslag på en ansökan som avses i 
+första stycket ska gälla omedelbart.
+
+Behörighet att granska hållbarhetsrapporter gäller så länge 
+auktorisationen gäller. Lag (2024:355).
 
 Revisorns skyldigheter
 
@@ -522,8 +532,43 @@ följande tjänster:
 6. värdering.
 Lag (2016:430).
 
-22 § Revisorsinspektionen ska på ansökan av en revisor 
-meddela förhandsbesked om huruvida
+21 c § En revisor som granskar en hållbarhetsrapport för ett 
+företag av allmänt intresse, eller någon i revisorns nätverk, 
+får inte tillhandahålla det granskade företaget, dess 
+moderföretag eller dess kontrollerade företag inom EES de 
+icke-revisionstjänster som anges i artikel 5.1 andra 
+stycket b, c och e-k i EU:s revisorsförordning. Detta gäller
+
+a) från början av den period som är föremål för granskning 
+till dess att granskningsberättelsen lämnas, och
+
+b) under räkenskapsåret närmast före den period som avses i a, 
+för de tjänster som avses i artikel 5.1 andra stycket e i EU:s 
+revisorsförordning.
+
+Andra icke-revisionstjänster än de som anges i första stycket 
+får tillhandahållas om företagets revisionsutskott har godkänt 
+det, efter en prövning enligt 20-21 a §§. Lag (2024:355).
+
+21 d § En revisor som avses i 21 c § ska pröva om ett 
+tillhandahållande av sådana icke-revisionstjänster som avses i 
+artikel 5.1 andra stycket b, c och e-k i EU:s 
+revisorsförordning kan rubba förtroendet för hans eller hennes 
+opartiskhet eller självständighet, om icke-revisionstjänsterna 
+tillhandahålls av någon i revisorns nätverk och riktar sig 
+till ett företag som har sitt säte i tredjeland och som 
+kontrolleras av det granskade företaget.
+
+Om förtroendet kan rubbas behöver dock revisorn inte avböja 
+eller avsäga sig uppdraget om han eller hon vidtar åtgärder 
+som medför att det inte finns anledning att ifrågasätta hans 
+eller hennes opartiskhet eller självständighet eller om 
+revisorn kan motivera varför tillhandahållandet av tjänsten 
+inte påverkar vare sig det professionella omdömet eller 
+granskningsberättelsen. Lag (2024:355).
+
+22 § Revisorsinspektionen ska på ansökan av en revisor meddela 
+förhandsbesked om huruvida
 
 1. förhållandena är sådana att revisorn enligt 21 § första 
 stycket är skyldig att avböja eller avsäga sig uppdraget,
@@ -536,13 +581,13 @@ enskilda fallet eller vidtagna åtgärder medför att revisorn
 3. en viss tjänst omfattas av förbudet mot tillhandahållande 
 av andra tjänster än revision i artikel 5 i EU:s 
 revisorsförordning och, om så är fallet, huruvida tjänsten 
-ändå får tillhandahållas enligt 21 b §.
+ändå får tillhandahållas enligt 21 b, 21 c eller 21 d §.
 
 När ett förhandsbesked har fått laga kraft, är det bindande 
-för inspektionen i förhållande till revisorn. 
-Förhandsbeskedet upphör att gälla vid förändrade 
-förutsättningar eller vid författningsändringar som påverkar 
-den fråga som beskedet avser. Lag (2016:1339).
+för inspektionen i förhållande till revisorn. Förhandsbeskedet 
+upphör att gälla vid förändrade förutsättningar eller vid 
+författningsändringar som påverkar den fråga som beskedet 
+avser. Lag (2024:355).
 
 22 a § Revisorsinspektionen får på ansökan av en revisor 
 bevilja undantag från bestämmelserna om förhållandet mellan 
@@ -823,6 +868,16 @@ brottsbekämpande verksamhet. Lag (2017:455).
 begära att en behörig myndighet i en annan stat inom EES ska 
 biträda inspektionen. Lag (2016:1339).
 
+Revisor som granskar en hållbarhetsrapport
+
+31 b § I fråga om en revisor som granskar en 
+hållbarhetsrapport ska, vid tillämpningen av 21, 21 a, 25 a 
+och 28 a-28 c §§, det som sägs om revisionsuppdrag i stället 
+avse uppdrag att granska en hållbarhetsrapport, det som sägs 
+om revision i stället avse granskning av en hållbarhetsrapport 
+och det som sägs om revisionsklient i stället avse det företag 
+som granskningen avser. Lag (2024:355).
+
 Disciplinära åtgärder m.m.
 
 Upphävande, varning och erinran
@@ -860,15 +915,16 @@ det finns särskilda skäl för det, får inspektionen även
 besluta om en sanktionsavgift eller om ett tidsbegränsat 
 förbud att
 
-1. utöva revisionsverksamhet,
+1. utöva revisionsverksamhet
 
-2. underteckna revisionsberättelser, eller
+2. underteckna revisionsberättelser eller 
+granskningsberättelser över hållbarhetsrapporter, eller
 
 3. ha ett sådant uppdrag i ett revisionsföretag som avses i 
 11 § första stycket 3.
 
 I fråga om valet av disciplinär åtgärd finns det ytterligare 
-bestämmelser i 32 d och 32 e §§. Lag (2016:1339).
+bestämmelser i 32 d och 32 e §§. Lag (2024:355).
 
 32 b § En sanktionsavgift för en fysisk person ska 
 fastställas till högst en miljon kronor.
@@ -1099,11 +1155,13 @@ tredjeland. Lag (2016:1339).
 
 Bemyndiganden
 
-41 § Regeringen eller den myndighet som regeringen bestämmer
-får meddela ytterligare föreskrifter om auktorisation,
-godkännande och registrering samt om villkor för
-verksamheten. Föreskrifterna får innehålla undantag från
-bestämmelserna i 24 §. Lag (2013:217).
+41 § Regeringen eller den myndighet som regeringen bestämmer 
+får meddela ytterligare föreskrifter om auktorisation, 
+godkännande, behörighet att granska hållbarhetsrapporter och 
+registrering samt om villkor för verksamheten. Föreskrifterna 
+får innehålla undantag från bestämmelserna i 24 §.
+Lag (2024:355).
+
 
 Övergångsbestämmelser
 
