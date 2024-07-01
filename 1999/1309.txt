@@ -28,15 +28,17 @@ inom EES har anmält till Europeiska värdepappers- och
 marknadsmyndigheten eller till Eftas övervakningsmyndighet, 
 eller ett likställt avvecklingssystem,
 
-clearingorganisation: ett företag som har tillstånd att driva 
-clearingverksamhet enligt lagen (2007:528) om 
-värdepappersmarknaden eller förordning (EU) nr 648/2012,
+central motpart: detsamma som i 1 kap. 4 b § lagen (2007:528) 
+om värdepappersmarknaden,
 
-EES: Europeiska ekonomiska samarbetsområdet, 
+clearingbolag: detsamma som i 1 kap. 1 § lagen (2024:114) om 
+clearing och avveckling av betalningar,
+
+EES: Europeiska ekonomiska samarbetsområdet,
 
 kollektivt obeståndsförfarande: konkurs, 
 företagsrekonstruktion eller annat därmed jämförbart 
-förfarande, 
+förfarande,
 
 likställt avvecklingssystem: ett avvecklingssystem som 
 Finansinspektionen enligt 9 a § har beslutat att likställa med 
@@ -46,10 +48,10 @@ Eftas övervakningsmyndighet,
 
 samverkande system: två eller flera anmälda avvecklingssystem 
 vars administratörer har ingått ett ömsesidigt arrangemang som 
-innebär att överföringsuppdrag verkställs mellan systemen, och 
+innebär att överföringsuppdrag verkställs mellan systemen, och
 
 värdepapperscentral: detsamma som i artikel 2.1.1 i förordning 
-(EU) nr 909/2014, i den ursprungliga lydelsen. Lag (2021:468).
+(EU) nr 909/2014, i den ursprungliga lydelsen. Lag (2024:119).
 
 Godkännande av avvecklingssystem
 
@@ -59,13 +61,13 @@ avvecklingssystem enligt denna lag. Riksbanken får driva
 avvecklingssystem utan Finansinspektionens godkännande.
 Lag (2018:2019).
 
-4 § Ett avvecklingssystem ska ha en administratör. 
+4 § Ett avvecklingssystem ska ha en administratör.
 
-Administratör i ett avvecklingssystem får vara: 
+Administratör i ett avvecklingssystem får vara
 
-1. clearingorganisation, 
+1. central motpart och clearingbolag,
 
-2. svensk värdepapperscentral, 
+2. svensk värdepapperscentral,
 
 3. företag med tillstånd att driva bank- eller 
 finansieringsrörelse enligt lagen (2004:297) om bank- och 
@@ -75,8 +77,8 @@ finansieringsrörelse, samt
 lagen (2007:528) om värdepappersmarknaden.
 
 Särskilda regler om driften av avvecklingssystem för 
-värdepapper finns i artikel 18.2 i förordning (EU) nr 
-909/2014. Lag (2017:686).
+värdepapper finns i artikel 18.2 i förordning (EU) 
+nr 909/2014. Lag (2024:119).
 
 5 § Ett avvecklingssystem skall ha tre eller flera deltagare
 förutom administratören. Det skall ha tillfredsställande
@@ -85,8 +87,9 @@ utföra överföringsuppdrag samt regler som anger att svensk lag
 skall vara tillämplig på systemet.
 
 6 § Ett avvecklingssystem som uppfyller kraven i 5 och 8 §§ 
-samt administreras av en clearingorganisation eller en svensk 
-värdepapperscentral ska godkännas. Lag (2016:54).
+samt administreras av en central motpart, ett clearingbolag 
+eller en svensk värdepapperscentral ska godkännas.
+Lag (2024:119).
 
 7 § Ett avvecklingssystem som uppfyller kraven i 5 och 8 §§ 
 samt administreras av ett företag med tillstånd att driva 
@@ -109,24 +112,24 @@ beskrivas liksom hur dessa risker ska hanteras
 
 Deltagare i avvecklingssystem
 
-8 § Deltagare i ett avvecklingssystem får vara:
+8 § Deltagare i ett avvecklingssystem får vara
 
-1. Riksbanken och andra centralbanker, 
+1. Riksbanken och andra centralbanker,
 
 2. Riksgäldskontoret och utländska offentliga institutioner 
 som i sitt hemland driver verksamhet som är jämförbar med 
-kontorets, 
+kontorets,
 
-3. clearingorganisationer,
+3. centrala motparter och clearingbolag,
 
 4. svenska värdepapperscentraler,
 
 5. företag som har tillstånd att driva bank- eller 
 finansieringsrörelse enligt lagen (2004:297) om bank- och 
-finansieringsrörelse, 
+finansieringsrörelse,
 
 6. företag som har tillstånd enligt 2 kap. 1 § lagen 
-(2007:528) om värdepappersmarknaden, 
+(2007:528) om värdepappersmarknaden,
 
 7. utländska företag som i hemlandet driver sådan verksamhet 
 som avses i 3-6,
@@ -139,10 +142,7 @@ och
 
 Utländska företag som avses i första stycket 7 ska i hemlandet 
 stå under betryggande tillsyn av en myndighet eller något 
-annat behörigt organ. Lag (2021:468).
-
-Anmälan av avvecklingssystem till Europeiska värdepappers-
-och marknadsmyndigheten
+annat behörigt organ. Lag (2024:119).
 
 9 § Finansinspektionen ska anmäla godkända avvecklingssystem
 till Europeiska värdepappers- och marknadsmyndigheten, liksom
@@ -215,20 +215,19 @@ för ett samverkande system. Lag (2011:733).
 
 Säkerheter vid samverkande system
 
-13 a § En administratör, dock inte en sådan central motpart
-som avses i förordning (EU) nr 648/2012, som ställer säkerhet
-till en annan administratör genom pantavtal med anledning av
-ett samverkande system får inte medge panthavaren rätt att
-förfoga över panten på annat sätt än att panthavaren får
-realisera den på grund av pantsättarens konkurs eller
-avtalsbrott.
+13 a § En administratör, dock inte en central motpart, som 
+ställer säkerhet till en annan administratör genom pantavtal 
+med anledning av ett samverkande system får inte ge 
+panthavaren rätt att förfoga över panten på annat sätt än att 
+panthavaren får realisera den på grund av pantsättarens 
+konkurs eller avtalsbrott.
 
-Om säkerhetsställandet i stället görs genom en
-säkerhetsöverlåtelse (återköpsavtal), ska den
-säkerhetsställande administratören se till att den överlåtna
-egendomen eller motsvarande egendom återförs till
+Om säkerhetsställandet i stället görs genom en 
+säkerhetsöverlåtelse (återköpsavtal), ska den 
+säkerhetsställande administratören se till att den överlåtna 
+egendomen eller motsvarande egendom återförs till 
 administratören om förvärvaren försätts i konkurs.
-Lag (2014:483).
+Lag (2024:119).
 
 Tillsyn
 
@@ -259,27 +258,28 @@ för detta betalas av administratören. Lag (2018:2019).
 16 § Godkännande av ett avvecklingssystem ska återkallas av 
 Finansinspektionen om
 
-1. administratörens tillstånd för clearingverksamhet enligt 
-lagen (2007:528) om värdepappersmarknaden eller auktorisation 
-som värdepapperscentral enligt förordning (EU) nr 909/2014 
-har återkallats,
+1. administratörens tillstånd som central motpart enligt 
+förordning (EU) nr 648/2012, tillstånd för clearingverksamhet 
+enligt lagen (2024:114) om clearing och avveckling av 
+betalningar eller auktorisation som värdepapperscentral enligt 
+förordning (EU) nr 909/2014 har återkallats,
 
 2. administratörens tillstånd att driva bank- eller 
 finansieringsrörelse enligt lagen (2004:297) om bank- och 
-finansieringsrörelse eller tillstånd enligt 2 kap. 1 § 1, 2, 
-4, 8 eller 9 lagen om värdepappersmarknaden har återkallats, 
-eller
+finansieringsrörelse eller tillstånd enligt 2 kap. 1 § 
+1, 2, 4, 8 eller 9 lagen (2007:528) om värdepappersmarknaden 
+har återkallats, eller
 
 3. avvecklingssystemet inte längre uppfyller kraven i denna 
-lag. 
+lag.
 
 Finansinspektionen ska omedelbart underrätta Europeiska 
 värdepappers- och marknadsmyndigheten samt Eftas 
-övervakningsmyndighet om återkallelsen. 
+övervakningsmyndighet om återkallelsen.
 
 Om det är tillräckligt får inspektionen i de fall som anges i 
 första stycket 3 meddela varning i stället för att återkalla 
-godkännandet. Lag (2017:686).
+godkännandet. Lag (2024:119).
 
 17 § Finansinspektionen ska besluta att ett likställt 
 avvecklingssystem inte längre ska vara ett sådant 
