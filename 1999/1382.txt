@@ -43,7 +43,7 @@ Västernorrlands län: Sollefteå och Ånge kommuner.
 
 Jämtlands län: Samtliga kommuner.
 
-Gävleborgs län: Ljusdals kommun. 
+Gävleborgs län: Ljusdals kommun.
 
 Dalarnas län: Malung-Sälens, Mora, Orsa, Vansbro och Älvdalens 
 kommuner.
@@ -67,45 +67,49 @@ Ovanåkers och Söderhamns kommuner.
 
 Dalarnas län: Avesta, Gagnefs, Hedemora, Leksands, Ludvika, 
 Rättviks, Smedjebackens och Säters kommuner samt Borlänge och 
-Faluns kommuner utom undantagna DeSO-områden.
+Falu kommuner utom undantagna DeSO-områden.
 
 Värmlands län: Arvika, Eda, Filipstads, Hagfors, Munkfors, 
-Storfors, Sunne, Säffle och Årjängs kommuner. 
+Storfors, Sunne, Säffle och Årjängs kommuner.
 
 Västra Götalands län: Bengtsfors, Dals-Eds, Färgelanda, 
 Melleruds och Åmåls kommuner.
 
 Stödområde 3
 
-Gävleborgs län: Hofors och Sandvikens kommuner. 
+Gävleborgs län: Hofors och Sandvikens kommuner.
 
 Västmanlands län: Fagersta, Norbergs och Skinnskattebergs 
+kommuner.
+
+Örebro län: Degerfors, Hallsbergs, Hällefors, Laxå, 
+Lindesbergs och Ljusnarsbergs kommuner.
+
+Värmlands län: Forshaga, Grums, Kils och Kristinehamns 
 kommuner. 
 
-Örebro län: Hallsbergs, Hällefors, Laxå, Lindesbergs och 
-Ljusnarsbergs kommuner. 
-
-Södermanlands län: Flens, Katrineholms och Vingåkers kommuner. 
+Södermanlands län: Flens, Katrineholms och Vingåkers kommuner.
 
 Östergötlands län: Boxholms, Finspångs, Kinda, Motala, 
-Valdemarsviks, Ydre, Åtvidabergs och Ödeshögs kommuner. 
+Valdemarsviks, Ydre, Åtvidabergs och Ödeshögs kommuner.
 
-Jönköpings län: Aneby, Nässjö och Tranås kommuner. 
+Jönköpings län: Aneby, Nässjö och Tranås kommuner.
 
-Västra Götalands län: Gullspångs, Karlsborgs, Tibro och 
-Töreboda kommuner. 
+Västra Götalands län: Gullspångs, Karlsborgs, Munkedals, 
+Tanums, Tibro och Töreboda kommuner.
 
-Gotlands län: Gotlands kommun. 
+Gotlands län: Gotlands kommun.
 
 Kalmar län: Emmaboda, Hultsfreds, Högsby, Oskarshamns, Torsås 
-och Västerviks kommuner. 
+och Västerviks kommuner.
 
-Kronobergs län: Lessebo, Markaryds och Uppvidinge kommuner. 
+Kronobergs län: Lessebo, Markaryds, Tingsryds och Uppvidinge 
+kommuner.
 
-Blekinge län: Karlshamns, Olofströms och Ronneby kommuner. 
+Blekinge län: Karlshamns, Olofströms och Ronneby kommuner.
 
 Skåne län: Bromölla, Hässleholms, Osby, Perstorps och Östra 
-Göinge kommuner. 
+Göinge kommuner.
 
 Undantagna DeSO-områden
 
@@ -121,8 +125,7 @@ Sundsvalls kommun: 2281C1030-2281C1050, 2281C1070-2281C1150,
 2281C1170-2281C1230, 2281C1260, 2281C1300-2281C1310.
 
 Borlänge kommun: 2081C1050, 2081C1070-2081C1110, 2081C1130-
-2081C1160, 2081C1180-2081C1200. 
+2081C1160, 2081C1180-2081C1200.
 
 Falu kommun: 2080C1050-2080C1090, 2080C1110, 2080C1130-
-2080C1190, 2080C1210, 2080C1230. 
-Förordning (2021:1323).
+2080C1190, 2080C1210, 2080C1230. Förordning (2024:303).
