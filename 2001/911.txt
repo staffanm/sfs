@@ -246,10 +246,18 @@ den 20 juni 2019 om en paneuropeisk privat pensionsprodukt
 den 30 maj 2022 om en pilotordning för marknadsinfrastrukturer 
 som baseras på teknik för distribuerade liggare och om ändring 
 av förordningarna (EU) nr 600/2014 och (EU) nr 909/2014 samt 
-direktiv 2014/65/EU, och
+direktiv 2014/65/EU,
 
 - lagen (2023:714) om förvärv och förvaltning av nödlidande 
-kreditavtal. Förordning (2023:859).
+kreditavtal,
+
+- Europaparlamentets och rådets förordning (EU) 2023/1114 av 
+den 31 maj 2023 om marknader för kryptotillgångar och om 
+ändring av förordningarna (EU) nr 1093/2010 och (EU) nr 
+1095/2010, och
+
+- lagen (2024:114) om clearing och avveckling av betalningar.
+Förordning (2024:429).
 
 4 § Avgift enligt 3 § ska betalas enligt följande 
 avgiftsklasser och med följande belopp:
@@ -350,11 +358,13 @@ eller dennes ställföreträdare i
 
 - bank,
 
-- betalningsinstitut,
+- betalningsinstitut, 
 
 - börs,
 
-- clearingorganisation,
+- centrala motparter,
+
+- clearingbolag,
 
 - finansiellt institut,
 
@@ -382,6 +392,10 @@ enligt lagen (2018:1219) om försäkringsdistribution,
 
 - institut för elektroniska pengar,
 
+- juridisk person som har tillstånd att vara kreditförvaltare 
+enligt lagen (2023:714) om förvärv och förvaltning av 
+nödlidande kreditavtal, 
+
 - juridisk person som är registrerad betaltjänstleverantör 
 enligt lagen (2010:751) om betaltjänster,
 
@@ -395,9 +409,13 @@ pensionsutfästelse m.m.,
 - registrerad utgivare enligt lagen (2011:755) om elektroniska 
 pengar,
 
-- tjänstepensionsföretag, eller
+- tjänstepensionsföretag,
 
-- värdepappersbolag.
+- utgivare av sådana tillgångsanknutna kryptotillgångar som 
+avses i avdelning III i Europaparlamentets och rådets 
+förordning (EU) 2023/1114, eller
+
+- värdepappersbolag. 
 
 I fråga om försäkringsförmedlare tas avgift ut även för 
 prövning av anmälan av person i motsvarande ställning som dem 
@@ -405,36 +423,38 @@ som avses i första stycket.
 
 I fråga om försäkringsföretag tas avgift ut även för prövning 
 av anmälan om ny ansvarig för central funktion enligt 10 kap. 
-4 § försäkringsrörelselagen (2010:2043).
+4 § försäkringsrörelselagen (2010:2043). 
 
 I fråga om tjänstepensionsföretag tas avgift ut även för 
 prövning av anmälan om ny ansvarig för central funktion enligt 
-9 kap. 8 § lagen (2019:742) om tjänstepensionsföretag.
+9 kap. 8 § lagen (2019:742) om tjänstepensionsföretag. 
 
 I fråga om betalningsinstitut och juridisk person som är 
 registrerad betaltjänstleverantör enligt lagen om 
 betaltjänster tas avgift ut även för prövning av anmälan om ny 
 ansvarig för betaltjänstverksamheten eller dennes 
-ställföreträdare.
+ställföreträdare. 
 
 I fråga om institut för elektroniska pengar och registrerade 
 utgivare enligt lagen om elektroniska pengar tas avgift ut 
 även för prövning av anmälan om ny ansvarig för verksamheten 
 med utgivning av elektroniska pengar eller dennes 
-ställföreträdare.
+ställföreträdare. 
 
 Avgift tas ut för prövning av anmälan om ny styrelseledamot, 
 styrelsesuppleant, verkställande direktör eller dennes 
 ställföreträdare i aktiebolag, eller person i motsvarande 
 ställning i någon annan juridisk person, som har ett 
 kvalificerat innehav i ett sådant företag som avses i första 
-stycket.
+stycket. 
 
 För avgiftens storlek enligt första-sjunde styckena gäller 
-4 §, avgiftsklass G utom i fråga om finansiellt institut och 
-företag som driver verksamhet enligt den upphävda lagen om 
-inlåningsverksamhet för vilka i stället avgiftsklass E gäller
-Förordning (2022:1665).
+4 §, avgiftsklass G, med följande undantag. I fråga om 
+finansiella institut och företag som driver verksamhet enligt 
+den upphävda lagen om inlåningsverksamhet gäller i stället 
+avgiftsklass E. I fråga om juridiska personer som har 
+tillstånd att vara kreditförvaltare gäller i stället 
+avgiftsklass F. Förordning (2024:429).
 
 5 b § Avgift tas ut för intyg om verksamhetstillstånd som
 Finansinspektionen har beviljat en fysisk eller juridisk
@@ -1031,6 +1051,20 @@ till Finansinspektionen före ikraftträdandet.
 som har kommit in till Finansinspektionen före 
 ikraftträdandet.
 
+2024:429
+
+1. Denna förordning träder i kraft den 1 juli 2024.
+
+2. Äldre bestämmelser gäller för ansökningar eller anmälningar 
+som har kommit in till Finansinspektionen före 
+ikraftträdandet. Avgifter enligt denna förordning ska dock 
+betalas för ansökningar enligt Europaparlamentets och rådets 
+förordning (EU) 2023/1114 av den 31 maj 2023 om marknader för 
+kryptotillgångar och om ändring av förordningarna (EU) nr 
+1093/2010 och (EU) nr 1095/2010 samt direktiven 2013/36/EU och 
+(EU) 2019/1937 som kommit in till Finansinspektionen före 
+ikraftträdandet.
+
 
 Bilaga 
 
@@ -1061,7 +1095,13 @@ enligt 9 a § första och andra styckena
 Inkassolagen (1974:182)
 
 Ansökan om tillstånd att bedriva 
-inkassoverksamhet (2 § )                	H
+inkassoverksamhet (2 § )                        H
+                                        	
+Anmälan om ändring av sakkunnig och 
+omdömesgill person (3 § )               	G
+
+Medgivande till överlåtelse eller upplåtelse 
+av gäldenärsregister (10 a § )     	        E
 
 Trafikskadelagen (1975:1410)
 
@@ -1413,7 +1453,7 @@ Godkännande av ersättning till förvaringsinstitut (9 kap.
 Tillstånd till ett direkt eller indirekt förvärv av aktier i 
 ett fondbolag (11 kap. 1 §)					I
 
-Lagen (2004:297) om bank- och finansieringsrörelse	
+Lagen (2004:297) om bank- och finansieringsrörelse
 
 Undantag från vissa bestämmelser i lagen om bank- och 
 finansieringsrörelse (1 kap. 8 §)				G
@@ -1469,29 +1509,34 @@ finansiellt stöd för kreditinstitut (6 b kap. 3 §)		M–S
 Anmälan om givande av koncerninternt finansiellt stöd för 
 kreditinstitut (6 b kap. 11 §)					G
 
-Tillstånd att skjuta upp avyttring av egendom i vissa fall (7 
-kap. 6 §)							G
+Tillstånd att skjuta upp avyttring av egendom 
+i vissa fall (7 kap. 6 § )	                G
 
-Tillstånd till förvärv av egendom i vissa fall 
-(7 kap. 12 §)							H
+Tillstånd till förvärv av egendom i vissa 
+fall (7 kap. 12 § )                     	I
 
-Prövning av om en delegat eller anställd har ledande 
-ställning (8 kap. 5 §)						D
+Prövning av om en delegat eller anställd har 
+ledande ställning (8 kap. 5 § )	                D
 
-Undantag från krav att vissa befattningshavare ska vara 
-bosatta inom EES (10 kap. 1 §)					D
+Undantag från krav att vissa befattningshavare 
+ska vara bosatta inom EES (10 kap. 1 § )	D
 
-Tillstånd för styrelseledamot eller verkställande direktör i 
-ett bankaktiebolag som är betydande att ha ytterligare ett 
-uppdrag som styrelseledamot (10 kap. 8 b §)			G
+Tillstånd för styrelseledamot eller 
+verkställande direktör i ett 
+bankaktiebolag som är betydande att ha 
+ytterligare ett uppdrag som styrelseledamot 
+(10 kap. 8 b § )	                        G
 
-Medgivande till minskning av aktiekapitalet utan tillstånd 
-från allmän domstol (10 kap. 13 §)				G
+Medgivande till minskning av aktiekapitalet 
+utan tillstånd från allmän domstol 
+(10 kap. 13 § )	                                G
 
-Tillstånd att verkställa fusionsplan (10 kap. 20 och 25 §§)	M
+Tillstånd att verkställa fusionsplan (10 kap. 
+20 och 25 §§ )                          	N
 
-Tillstånd för bankaktiebolag att använda ordet sparbank i 
-sitt företagsnamn (10 kap. 36 §)				D
+Tillstånd för bankaktiebolag att använda 
+ordet sparbank i sitt företagsnamn 
+(10 kap. 36 § )	                                D
 
 Tillstånd till flyttning av ett europabolags säte till en 
 annan stat (10 kap. 40 § och 11 kap. 1 §)			J
@@ -1525,13 +1570,14 @@ Undantag från 21 kap. 1, 3 eller 5 § (21 kap. 8 §)              D
 
 Undantag från förteckning över lån (21 kap. 10 §)               C
 
-Lagen (2006:451) om offentliga uppköpserbjudanden på 
-aktiemarknaden	
+Lagen (2006:451) om offentliga 
+uppköpserbjudanden på aktiemarknaden
 
-Godkännande och registrering enligt 2 a kap. lagen (1991:980) 
-om handel med finansiella instrument av erbjudandehandling 
-som getts in vid ett offentligt uppköpserbjudande där 
-vederlaget utgörs av kontanter (2 kap. 3 §)			G
+Godkännande och registrering enligt 2 a kap. 
+lagen (1991:980) om handel med finansiella 
+instrument av erbjudandehandling som getts 
+in vid ett offentligt uppköpserbjudande 
+(2 kap. 3 § )                           	H
 
 Lagen (2007:528) om värdepappersmarknaden
 
@@ -1707,40 +1753,26 @@ Tillstånd för börs till förvärv av egendom i vissa fall
 (13 kap. 13 § första stycket)					H
 
 Undantag för börs från kravet på disciplinnämnd 
-(13 kap. 14 § tredje stycket)					G
+(13 kap. 14 § tredje stycket)                                   G
 
-Undantag från att tillämpa positionslimiter för råvaruderivat 
-(15 a kap. 6 §)						G
+Undantag från att tillämpa positionslimiter 
+för råvaruderivat (15 a kap. 6 § )                      	G
 
-Tillstånd att driva clearingverksamhet (19 kap. 1 §)		R-AG
+Undantag från handelsstopp (22 kap. 5 § 
+andra stycket)                          	                D
 
-Godkännande av ändring av bolagsordning eller stadgar för 
-clearingorganisation (19 kap. 6 §)				F
+Tillstånd till ett direkt eller indirekt 
+förvärv av aktier eller andelar i ett 
+värdepappersbolag eller en börs (24 kap.1 § )	                I
 
-Tillstånd för utländskt företag att driva clearingverksamhet 
-från filial i Sverige (19 kap. 12 §)				R-AG
-
-Godkännande av clearingorganisations beslut att efterge kravet 
-på säkerhet (20 kap. 4 §)					D
-
-Tillstånd för clearingorganisation till förvärv 
-av egendom i vissa fall (20 kap. 6 § första stycket) 		H
-
-Tillstånd för clearingorganisation att driva en 
-sidoverksamhet (20 kap. 7 § andra och tredje styckena)		J
-
-Undantag från handelsstopp (22 kap. 5 § andra stycket) 		D
-
-Tillstånd till ett direkt eller indirekt förvärv 
-av aktier eller andelar i ett värdepappersbolag, 
-en börs eller en svensk clearingorganisation (24 kap. 1 §)	I
-
-Undantag från Europaparlamentets och rådets förordning (EU)
-nr 648/2012 om OTC-derivat, centrala motparter och 
-transaktionsregister när det gäller C6-energiderivatkontrakt 
-(punkt 5 i ikraftträdande- och övergångsbestämmelserna till 
-lagen [2017:679] om ändring i lagen [2007:528] om
-värdepappersmarknaden)						I
+Undantag från Europaparlamentets och rådets 
+förordning (EU) nr 648/2012 om OTC-derivat, 
+centrala motparter och transaktionsregister 
+när det gäller C6-energiderivatkontrakt 
+(punkt 5 i ikraftträdande- och 
+övergångsbestämmelserna till lagen [2017:679] 
+om ändring i lagen [2007:528] om 
+värdepappersmarknaden)	                                        I
 
 Lagen (2010:751) om betaltjänster	
 
@@ -1886,14 +1918,16 @@ beräkna kapitalkravet för försäkringsrisker (8 kap. 7 §) 	Q–T
 Tillstånd att beräkna kapitalkravet för aktiekursrisk enligt 
 en särskild metod (8 kap. 8 §)		      			G–N
 
-Tillstånd att använda en intern modell för beräkning 
-av solvenskapitalkravet (9 kap. 1 §)		  		N–AD
+Tillstånd att använda en intern modell för 
+beräkning av solvenskapitalkravet 
+(9 kap. 1 § )	                                                N-AD
 
-Tillstånd att genomföra större ändringar av en intern modell 
-(9 kap. 7 § andra stycket)		   			M–U
+Tillstånd att genomföra större ändringar 
+av en intern modell (9 kap. 7 § andra stycket)	                M-X
 
-Tillstånd att genomföra ändringar av styrdokument för 
-ändringar av en intern modell (9 kap. 7 § tredje stycket) 	H–T
+Tillstånd att genomföra ändringar av 
+styrdokument för ändringar av en intern modell 
+(9 kap. 7 § tredje stycket)             	                H-T
 
 Tillstånd för att återgå från en intern modell till att 
 beräkna solvenskapitalkravet med standardformeln (9 kap. 
@@ -2100,9 +2134,9 @@ för marknadsgarant (artikel 17.9)                               E
 Underrättelse om ändrade förhållanden avseende undantag
 för primärmarknadsoperationer (artikel 17.10)                   E
 
-Europaparlamentets och rådets förordning (EU) nr 648/2012 
-av den 4 juli 2012 om OTC-derivat, centrala motparter och 
-transaktionsregister	
+Europaparlamentets och rådets förordning (EU) 
+nr 648/2012 av den 4 juli 2012 om OTC-derivat, 
+centrala motparter och transaktionsregister
 
 Underrättelse om undantag från clearingskyldighet 
 (artikel 4.2 a)							J
@@ -2124,14 +2158,15 @@ Ansökan om auktorisation som central motpart (artikel 14)	S–AD
 Ansökan om utvidgning av auktorisation som central 
 motpart (artikel 15)						M–AD
 
-Anmälan om förändring av ledning i en central motpart 
-(artikel 31.1)							G
+Anmälan om förändring av ledning i en central 
+motpart (artikel 31.1)                  	                G
 
-Underrättelse om ett direkt eller indirekt förvärv av 
-andel av röstetalet eller kapitalet i en central motpart 
-(artikel 31.2)							I
+Underrättelse om ett direkt eller indirekt 
+förvärv av andel av röstetalet eller kapitalet 
+i en central motpart (artikel 31.2)     	                M
 
-Ansökan om godkännande av utkontraktering (artikel 35)		N
+Ansökan om godkännande av utkontraktering 
+(artikel 35)	                                                N
 
 Ansökan om godkännande av modeller och parametrar 
 (artikel 41) 							M-Å
@@ -2237,45 +2272,54 @@ ytterligare delfond, även i samband med underrättelse om
 marknadsföring av en alternativ investeringsfond till 
 professionella investerare i Sverige (4 kap. 6 §)		D
 
-Tillstånd för svensk AIF-förvaltare att marknadsföra en icke 
-EES-baserad alternativ investeringsfond eller en matarfond, 
-vars mottagarfond eller dess förvaltare inte är 
-EES-baserad, till professionella investerare i Sverige 
-(4 kap. 8 §)							G
+Tillstånd för svensk AIF-förvaltare att 
+marknadsföra en icke EES-baserad alternativ 
+investeringsfond eller en matarfond, vars 
+mottagarfond eller dess förvaltare inte är 
+EES-baserad, till professionella investerare 
+i Sverige (4 kap. 8 § )                 	                G
 
-Anmälan av svensk AIF-förvaltare om väsentlig ändring i en 
-underrättelse eller en ansökan om tillstånd till 
-marknadsföring (4 kap. 11 §)					D
+Anmälan om väsentlig ändring av svensk 
+AIF-förvaltare (4 kap. 11 § )           	                G
 
-Tillstånd för utländsk EES-baserad AIF-förvaltare att 
-förvalta en specialfond (5 kap. 2 §)				I
+Tillstånd för utländsk EES-baserad 
+AIF-förvaltare att förvalta en specialfond 
+(5 kap. 2 § )	                                                I
 
-Tillstånd för utländsk EES-baserad AIF-förvaltare att 
-marknadsföra en icke EES-baserad alternativ investeringsfond 
-eller en matarfond, vars mottagarfond eller dess förvaltare 
-inte är EES-baserad, till professionella investerare i 
-Sverige (5 kap. 5 §)						H
+Tillstånd för utländsk EES-baserad 
+AIF-förvaltare att marknadsföra en icke 
+EES-baserad alternativ investeringsfond eller 
+en matarfond, vars mottagarfond eller dess 
+förvaltare inte är EES-baserad, till 
+professionella investerare i Sverige 
+(5 kap. 5 § )                                           	H
 
-Tillstånd för utländsk EES-baserad AIF-förvaltare att 
-marknadsföra en alternativ investeringsfond som inte är en 
-specialfond till icke-professionella investerare i Sverige 
-(5 kap. 6 §)	      						I
+Tillstånd för utländsk EES-baserad 
+AIF-förvaltare att marknadsföra en alternativ 
+investeringsfond som inte är en specialfond 
+till icke-professionella investerare i Sverige 
+(5 kap. 6 § )                                           	L
 
-Tillstånd för utländsk EES-baserad AIF-förvaltare att 
-marknadsföra en EES-baserad alternativ investeringsfond som
-inte är en specialfond i Sverige (5 kap. 7 § första stycket)	H
+Tillstånd för utländsk EES-baserad 
+AIF-förvaltare att marknadsföra en 
+EES-baserad alternativ investeringsfond som 
+inte är en specialfond i Sverige 
+(5 kap. 7 § första stycket)             	                H
 
-Tillstånd för utländsk EES-baserad AIF-förvaltare att 
-marknadsföra en icke EES-baserad alternativ investeringsfond 
-i Sverige (5 kap. 7 § andra stycket)				H
+Tillstånd för utländsk EES-baserad 
+AIF-förvaltare att marknadsföra en icke
+EES-baserad alternativ investeringsfond i 
+Sverige (5 kap. 7 § andra stycket)      	                H
 
-Anmälan av utländsk AIF-förvaltare om väsentlig ändring i en 
-ansökan om tillstånd (5 kap. 9 och 13 §§)			D
+Anmälan av utländsk AIF-förvaltare om 
+väsentlig ändring i en ansökan om tillstånd 
+(5 kap. 9 och 13 §§ )                   	                G
 
-Tillstånd för icke EES-baserad AIF-förvaltare att 
-marknadsföra en alternativ investeringsfond till 
-professionella investerare i Sverige, inbegripet en delfond 
-till fonden (5 kap. 10 §)	      				G
+Tillstånd för icke EES-baserad 
+AIF-förvaltare att marknadsföra en alternativ
+investeringsfond till professionella 
+investerare i Sverige, inbegripet en delfond 
+till fonden (5 kap. 10 § )              	                G
 
 Tillstånd för icke EES-baserad AIF-förvaltare att 
 marknadsföra ytterligare delfond, även i samband med 
@@ -2385,25 +2429,33 @@ Godkännande av ersättning till förvaringsinstitutet
 (12 kap. 18 § jämförd med 9 kap. 6 § lagen om 
 värdepappersfonder)						E
 
-Europaparlamentets och rådets förordning (EU) nr 345/2013 
-av den 17 april 2013 om europeiska riskkapitalfonder
+Europaparlamentets och rådets förordning 
+(EU) nr 345/2013 av den 17 april 2013 om 
+europeiska riskkapitalfonder
 
-Underrättelse om sonderande marknadsföring (artikel 4a)         D
+Underrättelse om sonderande marknadsföring 
+(artikel 4a)                            	                D
 
-Underrättelse om användning av beteckningen EuVECA vid 
-marknadsföring av godkända riskkapitalfonder (artikel 14), 
-inklusive anmälan om registrering av AIF-förvaltare enligt 
-2 kap. 3 § lagen (2013:561) om förvaltare av alternativa 
-investeringsfonder						I
+Underrättelse om användning av beteckningen 
+EuVECA vid marknadsföring av godkända 
+riskkapitalfonder (artikel 14), inklusive 
+anmälan om registrering av AIF-förvaltare 
+enligt 2 kap. 3 § lagen (2013:561) om 
+förvaltare av alternativa investeringsfonder	                I
 
-Ansökan om registrering av godkända riskkapitalfonder för 
-vilka beteckningen EuVECA ska användas (artikel 14a)		I
+Ansökan om registrering av godkända 
+riskkapitalfonder för vilka beteckningen 
+EuVECA ska användas (artikel 14a)                               I
 
-Underrättelse om marknadsföring av en ny godkänd 
-riskkapitalfond (artikel 15 a)					F
+Anmälan om väsentlig ändring av villkoren för 
+dess ursprungliga registrering (artikel 14.6)	                D
 
-Underrättelse om marknadsföring av en godkänd riskkapitalfond 
-i ytterligare ett land inom EES (artikel 15 b)			D
+Underrättelse om marknadsföring av en ny 
+godkänd riskkapitalfond (artikel 15 a)  	                F
+
+Underrättelse om marknadsföring av en godkänd 
+riskkapitalfond i ytterligare ett land inom 
+EES (artikel 15 b)                      	                D
 
 Europaparlamentets och rådets förordning (EU) nr 346/2013 
 av den 17 april 2013 om europeiska fonder för socialt 
@@ -2428,9 +2480,10 @@ Underrättelse om marknadsföring av en godkänd fond för
 socialt företagande i ytterligare ett land inom EES 
 (artikel 16 b)							D
 
-Europaparlamentets och rådets förordning (EU) nr 575/2013 
-av den 26 juni 2013 om tillsynskrav för kreditinstitut och 
-om ändring av förordning (EU) nr 648/2012
+Europaparlamentets och rådets förordning (EU) 
+nr 575/2013 av den 26 juni 2013 om tillsynskrav 
+för kreditinstitut och om ändring av förordning 
+(EU) nr 648/2012	
 
 Bedömning av gränsöverskridande likviditetsundergrupper 
 vid ansökan om undantag från likviditetskrav (artikel 8.3)	T
@@ -2443,15 +2496,16 @@ Tillstånd för olika metoder för konsolidering (artikel 18)	G
 Tillstånd att undanta vissa företag vid beräkning av 
 de gruppbaserade kraven m.m. (artikel 19.2)			G
 
-Tillstånd att räkna in delårs- eller årsöverskott i 
-kärnprimärkapital innan stämmobeslut föreligger 
-(artikel 26.2)							E
+Tillstånd att räkna in delårs- eller 
+årsöverskott i kärnprimärkapital innan 
+stämmobeslut föreligger (artikel 26.2)  	                E
 
-Tillstånd att klassificera kapitalinstrument som 
-kärnprimärkapitalinstrument (artikel 26.3)			H
+Tillstånd att klassificera kapitalinstrument 
+som kärnprimärkapitalinstrument (artikel 26.3)	                L
 
 Tillstånd att räkna in kapitalinstrument i 
-kärnprimärkapital vid krissituationer (artikel 31)		K
+kärnprimärkapital vid krissituationer 
+(artikel 31)	                                                K
 
 Tillstånd för avdrag av förmånsbestämda pensionsplaner 
 (artikel 41)							G
@@ -2462,40 +2516,49 @@ i en enhet i den finansiella sektorn (artikel 49.1)		G
 Tillstånd för utdelning på kapitalbasinstrument 
 (artikel 73)							G
 
-Tillstånd att använda en konservativ skattning när det 
-gäller indexinnehav av kapitalinstrument (artikel 76)		G
+Tillstånd att använda en konservativ 
+skattning när det gäller indexinnehav 
+av kapitalinstrument (artikel 76)	                        G
 
-Tillstånd för reducering av kapitalbasen (artiklarna 77.1 
-och 78)								J
+Tillstånd för reducering av kapitalbasen 
+(artiklarna 77.1 och 78)	                                L
 
-Tillstånd för ändring av beräkningsunderlag för fasta 
-omkostnader (artikel 97) 					G
+Tillstånd för ändring av beräkningsunderlag 
+för fasta omkostnader (artikel 97)	                        G
 
-Tillstånd för beräkning av riskvägda exponeringsbelopp 
-(artikel 113)							G
+Tillstånd att omklassificera en position i 
+handelslagret som en position utanför 
+handelslagret, eller omvänt, i syfte att 
+fastställa kapitalbaskrav (artikel 104a.2)	                G-N
 
-Tillstånd att använda en grundläggande internmetod för 
-att beräkna riskvägda exponeringsbelopp (artikel 143)		T–Å
+Tillstånd för beräkning av riskvägda 
+exponeringsbelopp (artikel 113)	                                G
 
-Tillstånd att använda en avancerad internmetod för att 
-beräkna riskvägda exponeringsbelopp när institutet redan 
-har tillstånd att använda en grundläggande internmetod 
-(artikel 143)							S–Å
+Tillstånd att använda en grundläggande 
+internmetod för att beräkna riskvägda 
+exponeringsbelopp (artikel 143)	                                T-Å
 
-Tillstånd att använda en avancerad internmetod för att 
-beräkna riskvägda exponeringsbelopp när institutet inte 
-redan har tillstånd att använda en grundläggande 
-internmetod (artikel 143)					U–Å
+Tillstånd att använda en avancerad 
+internmetod för att beräkna riskvägda 
+exponeringsbelopp när institutet redan har 
+tillstånd att använda en grundläggande 
+internmetod (artikel 143)               	                S-Å
 
-Tillstånd att utföra metodändring i del av den 
+Tillstånd att använda en avancerad 
+internmetod för att beräkna riskvägda 
+exponeringsbelopp när institutet inte redan 
+har tillstånd att använda en grundläggande 
+internmetod (artikel 143)               	                U-Å
 
-internmetod för att beräkna riskvägda exponeringsbelopp 
-som tidigare godkänts av Finansinspektionen 
-(artikel 143)							J–T
+Tillstånd att utföra metodändring i del av 
+den internmetod för att beräkna riskvägda 
+exponeringsbelopp som tidigare godkänts av 
+Finansinspektionen (artikel 143)        	                J-X
 
-Tillstånd att tillämpa en grundläggande eller avancerad 
-internmetod på exponeringar som tidigare undantagits 
-för stegvis införande (artikel 143)				J–U
+Tillstånd att tillämpa en grundläggande 
+eller avancerad internmetod på exponeringar 
+som tidigare undantagits för stegvis införande 
+(artikel 143)	                                                J-U
 
 Ansökan om godkännande av utrullningsplan (artikel 148)		I
 
@@ -2539,21 +2602,23 @@ riskvägda exponeringsbelopp vid värdepapperiseringar
 Tillstånd att använda förenklad formelbaserad metod 
 (artikel 262)							G
 
-Tillstånd att använda annan metod vid beräkning av 
-exponeringsbelopp gällande likviditetsfaciliteter 
-(artikel 263)							G
+Tillstånd att använda annan metod vid 
+beräkning av exponeringsbelopp gällande 
+likviditetsfaciliteter (artikel 263)	                        G
 
-Tillstånd att använda en metod med interna modeller för 
-att beräkna exponeringars värde (artikel 283) 			J–U
+Tillstånd att använda en metod med interna 
+modeller för att beräkna exponeringars värde 
+(artikel 283)	                                                Q-Å
 
-Tillstånd att utföra metodändring i den metod med interna
-modeller som tidigare godkänts av Finansinspektionen 
-(artikel 283)							J–S
+Tillstånd att utföra metodändring i den 
+metod med interna modeller som tidigare 
+godkänts av Finansinspektionen (artikel 283)	                J-S
 
-Tillstånd att använda nettningsavtal (artikel 296) 		J
+Anmälan om nettningsavtal (artikel 296)	I
 
-Tillstånd att använda ursprunglig eller återstående löptid 
-i fråga om räntekontrakt (artikel 298)				G
+Tillstånd att använda ursprunglig eller 
+återstående löptid i fråga om räntekontrakt 
+(artikel 298)	                                                G
 
 Tillstånd att använda en alternativ schablonmetod vid 
 beräkning av kapitalbaskravet för operativa risker 
@@ -2591,11 +2656,71 @@ Tillstånd att ändra beräkningen av det treåriga
 genomsnittet vid beräkningen av den relevanta indikatorn 
 vid användning av schablonmetoden (artikel 317)	                G-P
 
-Tillstånd i samband med beräkning av sammanställda 
-kapitalbaskrav för marknadsrisk (artiklarna 325 och 325b)       G-P
+Tillstånd i samband med beräkning av 
+sammanställda kapitalbaskrav för marknadsrisk 
+(artiklarna 325 och 325b)               	                G-P
 
-Tillstånd att använda eget delta för optioner och 
-warranter (artikel 329)	                                        J-T
+Tillstånd att byta genomlysningsmetod för 
+hantering av indexinstrument och andra 
+instrument med multipla underliggande 
+instrument (artikel 325i.4)             	                G-N
+
+Tillstånd att beräkna kapitalbaskrav för 
+marknadsrisk för kollektiva investeringar i 
+enlighet med de gränser som anges i fondens 
+mandat och tillämplig rätt (artikel 325j.1b)	                G-N
+
+Tillstånd att använda data om skillnader i 
+årsberäknad avkastning för en period som är 
+kortare än tolv månader (artikel 325j.2)	                G-N
+
+Tillstånd att dividera med 1,5 de komponenter 
+CVRk- och CVRk+ som anges i artikel 325g.2 på 
+ett konsekvent sätt för alla 
+valutariskfaktorer (artikel 325q.6)     	                I-N
+
+Tillstånd att ersätta rapportvaluta för alla 
+avistaväxelkurser med en annan valuta för att 
+uttrycka delta- och kurvriskfaktorerna för 
+valutakursrisk (artikel 325q.7)         	                I-N
+
+Tillstånd att använda alternativa definitioner
+av deltariskkänsligheter vid beräkningen av 
+kapitalbaskraven (artikel 325t.5)       	                L-T
+
+Tillstånd att beräkna vegakänsligheter utifrån 
+en linjär transformation av alternativa 
+definitioner av känsligheter vid beräkningen 
+av kapitalbaskraven (artikel 325t.6)    	                L-T
+
+Tillstånd att för alla känsligheter avseende 
+valutakursriskfaktorer tillämpa den riskvikt 
+som avses i artikel 325av, punkt 1, delad med 
+2 (artikel 325av.5)                     	                G-N
+
+Tillstånd att beräkna kapitalbaskrav för 
+portföljen med alla de positioner som 
+förvaltas av handlarbord med användning av 
+alternativa interna modeller i enlighet med 
+artikel 325ba (artikel 325az.2)         	                S-Å
+
+Tillstånd att genomföra väsentliga ändringar 
+i användningen av alternativa interna modeller 
+som institutet har fått tillstånd att använda, 
+utvidgning av användningen av alternativa 
+interna modeller som institutet har fått 
+tillstånd att använda och väsentliga ändringar 
+i institutens urval av modellerbara 
+riskfaktorer enligt vad som avses i artikel 
+325bc.2 (artikel 325az.7)               	                K-X
+
+Tillstånd att använda en intern modell för 
+fallissemangsrisk för att beräkna 
+kapitalbaskraven enligt artikel 325ba.2 
+(artikel 325bm.1)                       	                K-V
+
+Tillstånd att använda eget delta för 
+optioner och warranter (artikel 329)    	                J-T
 
 Tillstånd att använda känslighetsmodeller vid beräkning 
 av positioner som avser derivatinstrument (artikel 331)   	J–T
@@ -2691,18 +2816,20 @@ tillämpning av arrangemang enligt artikel 473a (artikel
 Tillstånd att beräkna bruttosoliditetsgrad vid kvartalets 
 utgång (artikel 499.3)						G
 
-Lagen (2014:275) om viss verksamhet med konsumentkrediter 
+Lagen (2014:275) om viss verksamhet med 
+konsumentkrediter
 
-Ansökan om tillstånd att driva viss verksamhet med 
-konsumentkrediter (4 §)		      				L
+Ansökan om tillstånd att driva viss 
+verksamhet med konsumentkrediter (4 § ) 	                N
 
-Ansökan om tillstånd för utländskt företag att driva viss 
-verksamhet med konsumentkrediter från filial i Sverige 
-(8 §)								L
+Ansökan om tillstånd för utländskt företag 
+att driva viss verksamhet med 
+konsumentkrediter från filial i Sverige (8 § )	                N
 
-Ansökan om tillstånd för ett svenskt företag som driver 
-viss verksamhet med konsumentkrediter att inrätta filial 
-i ett annat land (9 §)						G
+Ansökan om tillstånd för ett svenskt företag 
+som driver viss verksamhet med 
+konsumentkrediter att inrätta filial i ett 
+annat land (9 § )                       	                G
 
 Tillstånd till ett direkt eller indirekt förvärv av aktier 
 eller andelar i ett företag som driver viss verksamhet med 
@@ -2773,11 +2900,12 @@ utövande av försäkringsverksamhet (Solvens II)
 stycket j, 77.1 första stycket d, 77.1 första stycket h och 
 333)								K
 
-Europaparlamentets och rådets förordning (EU) nr 909/2014 av 
-den 23 juli 2014 om förbättrad värdepappersavveckling i 
-Europeiska unionen och om värdepapperscentraler samt ändring 
-av direktiv 98/26/EG och 2014/65/EU och förordning (EU) nr 
-236/2012
+Europaparlamentets och rådets förordning 
+(EU) nr 909/2014 av den 23 juli 2014 om 
+förbättrad värdepappersavveckling i Europeiska 
+unionen och om värdepapperscentraler samt 
+ändring av direktiv 98/26/EG och 
+2014/65/EU och förordning (EU) nr 236/2012
 
 Ansökan om auktorisation som värdepapperscentral (artikel 
 16.1)								S–Ö
@@ -2793,22 +2921,27 @@ Ansökan om auktorisation av utvidgning av verksamheter och
 tjänster (artiklarna 19.1 a–e och 48.2)				N–Ö
 
 Anmälan om upprättande av samverkande länkar (artiklarna 
-19.5, 48.2 och 50) 						N
+19.5, 48.2 och 50) 	N
 
-Anmälan om anknutna tjänster (artikel 19.8) 			J
+Anmälan om anknutna tjänster (artikel 19.8)	                J
 
-Anmälan om tillhandahållande av tjänster eller inrättande av 
-filial i ett annat land inom Europeiska ekonomiska 
-samarbetsområdet (artikel 23.3)					J
+Anmälan om tillhandahållande av tjänster 
+eller inrättande av filial i ett annat land 
+inom Europeiska ekonomiska samarbetsområdet 
+(artikel 23.3 och 23.4)	                                        J
 
-Anmälan om ändring av omfattning av tillhandahållna tjänster 
-eller av filial i ett annat land inom Europeiska ekonomiska 
-samarbetsområdet eller om ändring av förhållanden om vilka 
-uppgift har lämnats i tidigare anmälan (artikel 23.3 och 23.7) 	J
+Anmälan om ändring av omfattning av 
+tillhandahållna tjänster eller av filial i 
+ett annat land inom Europeiska ekonomiska 
+samarbetsområdet eller om ändring av 
+förhållanden om vilka uppgift har lämnats 
+i tidigare anmälan (artikel 23.3, 23.4 och 
+23.9)                                   	                J
 
-Ansökan om godkännande av vissa förvärv eller avyttringar 
-av innehav i en värdepapperscentral (artikel 27.7 första 
-stycket b)							I
+Ansökan om godkännande av vissa förvärv 
+eller avyttringar av innehav i en 
+värdepapperscentral (artikel 27.7 första 
+stycket b)                              	                I
 
 Ansökan om auktorisation att tillhandahålla anknutna 
 banktjänster (artikel 54.2 a) 		       			Q–Y
@@ -2883,24 +3016,34 @@ i ett land utanför EES (3 kap. 5 §) 				G
 Tillstånd för en kreditförmedlare från ett land utanför EES 
 att driva verksamhet från filial i Sverige (3 kap. 7 §)		L
 
-Europaparlamentets och rådets förordning (EU) nr 2015/760 av 
-den 29 april 2015 om europeiska långsiktiga 
-investeringsfonder
+Europaparlamentets och rådets förordning 
+(EU) nr 2015/760 av den 29 april 2015 om 
+europeiska långsiktiga investeringsfonder
 
-Tillstånd för en AIF-förvaltare att förvalta en europeisk 
-långsiktig investeringsfond, inklusive godkännande av 
-fondbestämmelserna för fonden (artiklarna 5.2, 6.1 och 
-6.2)								H
+Tillstånd för en AIF-förvaltare att förvalta 
+en europeisk långsiktig investeringsfond, 
+inklusive godkännande av fondbestämmelserna 
+för fonden (artiklarna 5.2, 6.1 och 6.2)                        I
 
-Tillstånd för en AIF-förvaltare att ta över förvaltningen 
-av en auktoriserad europeisk långsiktig investeringsfond 
-(artikel 5.2) 							G
+Tillstånd för en AIF-förvaltare att ta över 
+förvaltningen av en auktoriserad europeisk 
+långsiktig investeringsfond (artikel 5.2)	                G
 
-Underrättelse om ändringar av den dokumentation som 
-avses i artikel 5.1 och 5.2 (artikel 5.4)			G
+Underrättelse om ändringar av den 
+dokumentation som avses i artikel 5.1 och 
+5.2 (artikel 5.4)                       	                G
 
-Europaparlamentets och rådets förordning (EU) nr 600/2014 av 
-den 15 maj 2014 om marknader för finansiella instrument och om 
+Underrättelse om marknadsföring av andelar i 
+en europeisk långsiktig investeringsfond i 
+Sverige (artikel 31.1)	                                        F
+
+Underrättelse om marknadsföring av andelar i 
+en europeisk långsiktig investeringsfond inom 
+EES (artikel 31.2)                      	                F
+
+Europaparlamentets och rådets förordning 
+(EU) nr 600/2014 av den 15 maj 2014 om 
+marknader för finansiella instrument och om 
 ändring av förordning (EU) nr 648/2012
 
 Undantag från krav på den som driver en handelsplats 
@@ -2930,18 +3073,17 @@ avseende aktier, depåbevis, börshandlade fonder,
 certifikat och andra liknande finansiella instrument 
 (artikel 20)							H
 
-Tillstånd för ett värdepappersinstitut att skjuta upp 
-offentliggörandet av uppgifter om transaktioner 
-avseende obligationer, strukturerade finansiella 
-produkter, utsläppsrätter och derivat (artikel 21)		H
+Tillstånd för ett värdepappersinstitut 
+att skjuta upp offentliggörandet av uppgifter 
+om transaktioner avseende obligationer, 
+strukturerade finansiella produkter, 
+utsläppsrätter och derivat (artikel 21)                 	H
 
-Tillstånd för en handelsplats att få tillträde till en 
-central motpart (artikel 35.2)					J
+Anmälan om utsedd publiceringsenhet 
+(artikel 21a.1)	                                                G
 
-Tillstånd för en central motpart att använda sig av 
-övergångsarrangemang när det gäller överlåtbara 
-värdepapper och penningmarknadsinstrument för att 
-inte omfattas av kraven i artikel 35 (artikel 35.5)		H
+Tillstånd för en handelsplats att få tillträde 
+till en central motpart (artikel 35.2)                          J
 
 Tillstånd för en central motpart att få tillträde 
 till en handelsplats (artikel 36.2)				J
@@ -3147,100 +3289,115 @@ gemensamma och säkra öppna kommunikationsstandarder
 Undantag från skyldighet att upprätta en beredskapsmekanism 
 enligt artikel 33.4 (artikel 33.6)				M
 
-Europaparlamentets och rådets förordning (EU) 2017/1129 av 
-den 14 juni 2017 om prospekt som ska offentliggöras när 
-värdepapper erbjuds till allmänheten eller tas upp till 
-handel på en reglerad marknad, och om upphävande av 
+Europaparlamentets och rådets förordning (EU) 
+2017/1129 av den 14 juni 2017 om prospekt som 
+ska offentliggöras när värdepapper erbjuds 
+till allmänheten eller tas upp till handel på 
+en reglerad marknad, och om upphävande av 
 direktiv 2003/71/EG
 
-Godkännande och registrering av prospekt avseende 
-aktierelaterade värdepapper (artikel 6)	                        M
+Godkännande och registrering av prospekt 
+avseende aktierelaterade värdepapper 
+(artikel 6)                                             	N
 
 Godkännande och registrering av prospekt 
-(registreringsdokument) avseende aktierelaterade 
-värdepapper (artikel 6)                 	                J
+(registreringsdokument) avseende 
+aktierelaterade värdepapper (artikel 6)	                        L
 
-Godkännande och registrering av prospekt (värdepappersnot 
-och sammanfattning) avseende aktierelaterade värdepapper 
-(artikel 6)	                                                I
+Godkännande och registrering av prospekt 
+(värdepappersnot och sammanfattning) avseende 
+aktierelaterade värdepapper (artikel 6)	                        K
 
-Godkännande och registrering av prospekt avseende 
-icke-aktierelaterade värdepapper - proportionerlig 
-granskning (artikel 6)	                                        I
+Godkännande och registrering av prospekt 
+avseende icke-aktierelaterade värdepapper - 
+proportionerlig granskning (artikel 6)  	                I
 
-Godkännande och registrering av prospekt avseende 
+Godkännande och registrering av prospekt 
+avseende icke-aktierelaterade värdepapper 
+(artikel 6)                             	                L
+
+Godkännande och registrering av prospekt 
+(registreringsdokument) avseende 
 icke-aktierelaterade värdepapper (artikel 6)	                K
 
 Godkännande och registrering av prospekt 
-(registreringsdokument) avseende icke-aktierelaterade 
-värdepapper (artikel 6)	                                        H
-
-Godkännande och registrering av prospekt (värdepappersnot 
-och sammanfattning) avseende icke-aktierelaterade 
-värdepapper (artikel 6)	                                        G
+(värdepappersnot och sammanfattning) avseende 
+icke-aktierelaterade värdepapper (artikel 6)	                H
 
 Godkännande och registrering av grundprospekt - 
 proportionerlig granskning (artikel 8)	                        I
 
-Godkännande och registrering av grundprospekt (artikel 8)	L
+Godkännande och registrering av grundprospekt 
+(artikel 8)                             	                L
 
 Godkännande och registrering av universellt 
-registreringsdokument (artikel 9)	                        J
+registreringsdokument (artikel 9)       	                J
 
-Registrering av universellt registreringsdokument 
-(artikel 9)	                                                C
-
-Godkännande och registrering av prospekt för 
-sekundäremissioner avseende aktierelaterade värdepapper 
-(artikel 14)	K
+Registrering av universellt 
+registreringsdokument (artikel 9)       	                C
 
 Godkännande och registrering av prospekt för 
-sekundäremissioner (registreringsdokument) avseende 
-aktierelaterade värdepapper (artikel 14)	                H
+sekundäremissioner avseende aktierelaterade 
+värdepapper (artikel 14)                	                L
 
 Godkännande och registrering av prospekt för 
-sekundäremissioner (värdepappersnot och sammanfattning) 
-avseende aktierelaterade värdepapper (artikel 14)	        F
+sekundäremissioner (registreringsdokument) 
+avseende aktierelaterade värdepapper 
+(artikel 14)	                                                K
 
 Godkännande och registrering av prospekt för 
-sekundäremissioner avseende icke-aktierelaterade 
-värdepapper (artikel 14)                                        I
+sekundäremissioner (värdepappersnot och 
+sammanfattning) avseende aktierelaterade 
+värdepapper (artikel 14)                	                H
 
 Godkännande och registrering av prospekt för 
-sekundäremissioner (registreringsdokument) avseende 
-icke-aktierelaterade värdepapper (artikel 14)	                G
+sekundäremissioner avseende 
+icke-aktierelaterade värdepapper (artikel 14)	                J
 
 Godkännande och registrering av prospekt för 
-sekundäremissioner (värdepappersnot och sammanfattning) 
-avseende icke-aktierelaterade värdepapper (artikel 14)	        F
+sekundäremissioner (registreringsdokument) 
+avseende icke-aktierelaterade värdepapper 
+(artikel 14)                            	                H
 
-Godkännande och registrering av EU-tillväxtprospekt 
-avseende aktierelaterade värdepapper (artikel 15)	        L
+Godkännande och registrering av prospekt för 
+sekundäremissioner (värdepappersnot och 
+sammanfattning) avseende icke-aktierelaterade 
+värdepapper (artikel 14)                	                G
 
-Godkännande och registrering av EU-tillväxtprospekt 
-(registreringsdokument) avseende aktierelaterade värdepapper 
-(artikel 15)	                                                H
+Godkännande och registrering av 
+EU-tillväxtprospekt avseende aktierelaterade 
+värdepapper (artikel 15)                	                L
 
-Godkännande och registrering av EU-tillväxtprospekt 
-(värdepappersnot och sammanfattning) avseende 
-aktierelaterade värdepapper (artikel 15)			G
+Godkännande och registrering av 
+EU-tillväxtprospekt (registreringsdokument) 
+avseende aktierelaterade värdepapper 
+(artikel 15)                            	                K
 
-Godkännande och registrering av EU-tillväxtprospekt avseende 
-icke-aktierelaterade värdepapper (artikel 15)			I
-		
-Godkännande och registrering av EU-tillväxtprospekt 
-(registreringsdokument) avseende icke-aktierelaterade 
-värdepapper (artikel 15)					G
+Godkännande och registrering av 
+EU-tillväxtprospekt (värdepappersnot och 
+sammanfattning) avseende aktierelaterade 
+värdepapper (artikel 15)                	                H
 
-Godkännande och registrering av EU-tillväxtprospekt 
-(värdepappersnot och sammanfattning) avseende 
-icke-aktierelaterade värdepapper (artikel 15)			F
+Godkännande och registrering av 
+EU-tillväxtprospekt avseende icke-
+aktierelaterade värdepapper (artikel 15)	                J
 
-Överlämnande av ansökan om godkännande av prospekt till en 
-behörig myndighet i ett annat land inom EES (artikel 20.8)	E
+Godkännande och registrering av 
+EU-tillväxtprospekt (registreringsdokument) 
+avseende icke-aktierelaterade värdepapper 
+(artikel 15)                            	                H
 
-Godkännande och registrering av tillägg till prospekt 
-(artikel 23)							E
+Godkännande och registrering av 
+EU-tillväxtprospekt (värdepappersnot och 
+sammanfattning) avseende icke-aktierelaterade 
+värdepapper (artikel 15)                	                G
+
+Överlämnande av ansökan om godkännande av 
+prospekt till en behörig myndighet i ett annat 
+land inom EES (artikel 20.8)            	                E
+
+Godkännande och registrering av tillägg till 
+prospekt (artikel 23)                   	                E
 
 Lagen (2019:414) med kompletterande bestämmelser till EU:s 
 prospektförordning
@@ -3410,16 +3567,18 @@ andra stycket)	                                                I
 Tillstånd för värdepappersbolag att minska sitt innehav av 
 likvida tillgångar (artikel 44.1)	                        I
 
-Europaparlamentets och rådets förordning (EU) 2020/1503 av den 
-7 oktober 2020 om europeiska leverantörer av 
-gräsrotsfinansieringstjänster för företag och om ändring av 
-förordning (EU) 2017/1129 och direktiv (EU) 2019/1937
+Europaparlamentets och rådets förordning (EU) 
+2020/1503 av den 7 oktober 2020 om europeiska 
+leverantörer av gräsrotsfinansieringstjänster 
+för företag och om ändring av förordning (EU) 
+2017/1129 och direktiv (EU) 2019/1937
 
 Ansökan om auktorisation som leverantör av 
-gräsrotsfinansieringstjänster (artikel 12)	                P
+gräsrotsfinansieringstjänster (artikel 12)	                Q
 
-Ansökan om utvidgning av auktorisation som leverantör av 
-gräsrotsfinansieringstjänster (artikel 13)	                M
+Ansökan om utvidgning av auktorisation som 
+leverantör av gräsrotsfinansieringstjänster 
+(artikel 13)	                                                M
 
 Underrättelse om väsentliga ändringar av förutsättningarna för 
 auktorisation (artikel 15.3)	                                G
@@ -3519,10 +3678,99 @@ Tillstånd eller undantag för en operatör av DLT-
 marknadsinfrastruktur som avser att införa väsentliga 
 förändringar i verksamheten (artikel 8.13, 9.13 eller 10.13)    O-Y
 
-Lagen (2023:714) om förvärv och förvaltning av nödlidande 
-kreditavtal
+Lagen (2023:714) om förvärv och förvaltning av 
+nödlidande kreditavtal
 
-Ansökan om tillstånd att bedriva kreditförvaltning (3 kap. 1 §)	L
+Ansökan om tillstånd att bedriva 
+kreditförvaltning (3 kap. 1 § )         	                L
 
-Anmälan om gränsöverskridande kreditförvaltning (5 kap. 1 §)	G
-Förordning (2023:859).
+Anmälan av kreditförvaltare om direkt eller 
+indirekt förvärv av aktier i kreditförvaltaren 
+(3 kap. 2 § 3)                          	                F
+
+Anmälan om gränsöverskridande kreditförvaltning 
+(5 kap. 1 § )                           	                G
+
+Underrättelse om ändrade förhållanden vid 
+gränsöverskridande kreditförvaltning (5 kap. 
+1 § andra stycket)                      	                D
+
+Europaparlamentets och rådets förordning (EU) 
+2023/1114 av den 31 maj 2023 om marknader för 
+kryptotillgångar och om ändring av 
+förordningarna (EU) nr 1093/2010 och (EU) 
+nr 1095/2010
+
+Tillstånd att till allmänheten erbjuda 
+tillgångsanknutna kryptotillgångar eller 
+ansöka om upptagande till handel av 
+tillgångsanknutna kryptotillgångar 
+(artikel 16.1)	                                                R-AG
+
+Godkännande av kreditinstituts vitbok om 
+tillgångsanknutna kryptotillgångar 
+(artikel 17.1 a)                        	                I
+
+Underrättelse från kreditinstitut om att till 
+allmänheten erbjuda tillgångsanknutna 
+kryptotillgångar eller ansöka om upptagande 
+till handel av tillgångsanknutna 
+kryptotillgångar (artikel 17.1 b)       	                M-R
+
+Underrättelse om revidering av en 
+offentliggjord vitbok om tillgångsanknutna 
+kryptotillgångar (artikel 25)           	                H
+
+Tillstånd till förvärv av utgivare av 
+tillgångsanknutna kryptotillgångar 
+(artikel 41)                            	                I
+
+Prövning av återhämtningsplan för sådana 
+tillgångsanknutna kryptotillgångar som inte 
+är betydande (artikel 46.2)             	                M
+
+Prövning av återhämtningsplan för sådana 
+tillgångsanknutna kryptotillgångar som är 
+betydande (artikel 46.2)                	                O-R
+
+Prövning av plan för inlösen för 
+tillgångsanknutna kryptotillgångar 
+(artikel 47.3)	                                                M
+
+Prövning av återhämtningsplan för 
+kryptotillgångar som inte är tillgångsanknutna 
+utan hänvisar till en officiell valuta och 
+som inte är betydande (artikel 55 andra 
+stycket)                                	                M
+
+Prövning av återhämtningsplan för 
+kryptotillgångar som inte är tillgångsanknutna 
+utan hänvisar till en officiell valuta och 
+som är betydande (artikel 55 andra stycket)	                O-R
+
+Prövning av plan för inlösen för 
+kryptotillgångar som inte är tillgångsanknutna 
+utan hänvisar till en officiell valuta 
+(artikel 55 tredje stycket)             	                M
+
+Lagen (2024:114) om clearing och avveckling 
+av betalningar
+
+Tillstånd för aktiebolag och filialer till 
+utländska clearingbolag att driva 
+clearingverksamhet (2 kap. 1 § )        	                R-AG
+
+Godkännande av bolagsordning (2 kap. 5 § )	                F
+
+Godkännande av uppdragsavtal (3 kap. 6 § )	                O-X
+
+Godkännande av sidoverksamhet (3 kap. 8 § )	                K-U
+
+Godkännande av förvärv av egendom som 
+överstiger 25 procent av kapitalet 
+(3 kap. 9 § )                           	                H
+
+Tillstånd till ett direkt eller indirekt 
+förvärv av aktier eller andelar i ett 
+clearingbolag (5 kap. 8 § )             	                I
+Förordning (2024:429).
