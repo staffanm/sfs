@@ -9,27 +9,36 @@ informationssäkerhet och skydd av personuppgifter kan
 upprätthållas och att det inte innebär risker för Sveriges 
 säkerhet.
 
+1 a § Denna lag kompletterar Europaparlamentets och rådets 
+förordning (EU) 2022/868 av den 30 maj 2022 och europeisk 
+dataförvaltning och om ändring av förordning (EU) 2018/1724 
+(dataförvaltningsakten), i denna lag benämnd EU:s 
+dataförvaltningsförordning. Lag (2024:501).
+
 2 § Denna lag påverkar inte tillämpningen av bestämmelser i 
 någon annan lag eller förordning som ger någon rätt att få 
-tillgång till data eller som begränsar en sådan rätt.
+tillgång till data eller skyddade data eller som begränsar en 
+sådan rätt.
 
 Lagen påverkar inte heller tillämpningen av bestämmelser i 
 någon annan lag eller förordning om skyddet av 
-personuppgifter.
+personuppgifter. Lag (2024:501).
 
 3 § Om det i någon annan lag eller i en förordning finns mer 
-långtgående krav i fråga om tillgängliggörande av data än i 
-denna lag, ska de kraven tillämpas.
+långtgående krav i fråga om tillgängliggörande av data eller 
+skyddade data än i denna lag, ska de kraven tillämpas.
+Lag (2024:501).
 
 Ord och uttryck i lagen
 
-4 § I lagen avses med 
+4 § I lagen avses med
 
 begäran om tillgängliggörande av data för vidareutnyttjande: 
-en begäran om att data ska göras tillgängliga för 
-vidareutnyttjande i enlighet med denna lag,
+en begäran om att data eller skyddade data ska göras 
+tillgängliga för vidareutnyttjande i enlighet med denna lag 
+eller kapitel II i EU:s dataförvaltningsförordning,
 
-bulknedladdning: nedladdning av en avgränsad datamängd, 
+bulknedladdning: nedladdning av en avgränsad datamängd,
 
 data: information i digitalt format oberoende av medium,
 
@@ -40,29 +49,29 @@ forskningsdata: data som till någon del är offentligt
 finansierade, som samlas in eller framställs inom ramen för 
 vetenskaplig forskningsverksamhet och som görs direkt 
 tillgängliga för vidareutnyttjande genom en dataplattform som 
-är allmänt åtkomlig, 
+är allmänt åtkomlig,
 
 gränssnitt: en regeluppsättning för dynamiskt datautbyte 
-mellan pro-gramvaror,
+mellan programvaror,
 
 maskinläsbart format: ett filformat som är strukturerat på ett 
-sådant sätt att det enkelt kan läsas av ett datorprogram, 
+sådant sätt att det enkelt kan läsas av ett datorprogram,
 
 offentligt företag: ett företag som en eller flera myndigheter 
 har ett bestämmande inflytande över och som är verksamt
 
 - inom de sektorer som framgår av 2 kap. 1 § och 5-8 §§ lagen 
-(2016:1146) om upphandling inom försörjningssektorerna, 
+(2016:1146) om upphandling inom försörjningssektorerna,
 
 - som ett kollektivtrafikföretag enligt Europaparlamentets och 
 rådets förordning (EG) nr 1370/2007 av den 23 oktober 2007 om 
 kollektivtrafik på järnväg och väg och om upphävande av rådets 
-förordning (EEG) nr 1191/69 och (EEG) nr 1107/70, 
+förordning (EEG) nr 1191/69 och (EEG) nr 1107/70,
 
 - som ett lufttrafikföretag som har allmän trafikplikt enligt 
-artikel 16 i Europaparlamentets och rådets förordning (EG) 
-nr 1008/2008 av den 24 september 2008 om gemensamma regler för 
-tillhandahållande av lufttrafik i gemenskapen, eller 
+artikel 16 i Europaparlamentets och rådets förordning (EG) nr 
+1008/2008 av den 24 september 2008 om gemensamma regler för 
+tillhandahållande av lufttrafik i gemenskapen, eller
 
 - som ett rederi inom gemenskapen som uppfyller förpliktelser 
 vid allmän trafik enligt artikel 4 i rådets förordning (EEG) 
@@ -74,6 +83,9 @@ offentligt styrt organ: ett sådant organ som avses i 1 kap.
 18 § lagen (2016:1145) om offentlig upphandling eller en 
 sammanslutning av sådana organ,
 
+skyddade data: sådana kategorier av data som avses i 
+artikel 3.1 i EU:s dataförvaltningsförordning,
+
 vidareutnyttjande: bearbetning av data från den offentliga 
 sektorn för valfritt ändamål,
 
@@ -84,6 +96,7 @@ direktivet,
 öppna data-direktivet: Europaparlamentets och rådets direktiv 
 (EU) 2019/1024 av den 20 juni 2019 om öppna data och 
 vidareutnyttjande av information från den offentliga sektorn.
+Lag (2024:501).
 
 Vilka som ska tillämpa lagen
 
@@ -121,35 +134,44 @@ tillgängliga.
 finansieras med public service-avgift enligt lagen (2018:1893) 
 om finansiering av radio och tv i allmänhetens tjänst.
 
+7 a § Bestämmelserna om vidareutnyttjande av skyddade data ska 
+endast tillämpas av myndigheter, dock inte av kultur- eller 
+utbildningsinstitutioner. Lag (2024:501).
+
 När lagen ska tillämpas
 
-8 § Lagen ska tillämpas 
+8 § Lagen ska tillämpas
 
-1. när någon som har rätt att få tillgång till data enligt 
-någon annan lag eller förordning framställer en begäran om 
-tillgängliggörande av data för vidareutnyttjande, 
+1. när någon som har rätt att få tillgång till data eller 
+skyddade data enligt någon annan lag eller förordning 
+framställer en begäran om tillgängliggörande av data för 
+vidareutnyttjande,
 
 2. när en myndighet eller ett offentligt företag på eget 
 initiativ tillgängliggör data som omfattas av lagen i syfte 
-att de ska kunna vidareutnyttjas, eller
+att de ska kunna vidareutnyttjas,
 
-3. när data lämnas till en statlig eller kommunal myndighet 
+3. när en myndighet på eget initiativ tillgängliggör skyddade 
+data som omfattas av lagen i syfte att de ska kunna 
+vidareutnyttjas, eller
+
+4. när data lämnas till en statlig eller kommunal myndighet 
 som ska använda dem i en konkurrensutsatt verksamhet som avser 
 tillhandahållande av data.
 
 Trots första stycket ska lagen inte tillämpas
 
-1. när data, i andra fall än som avses i första stycket 3, 
-lämnas 
+1. när data, i andra fall än som avses i första stycket 4, 
+lämnas
 
-a) mellan statliga och kommunala myndigheter, 
+a) mellan statliga och kommunala myndigheter,
 
 b) från ett organ som enligt 1 kap. 5 § andra stycket 
 jämställs med en myndighet eller ett offentligt företag till 
 en statlig eller kommunal myndighet, eller
 
 2. när en statlig eller kommunal myndighet tillhandahåller 
-data i en konkurrensutsatt verksamhet. 
+data i en konkurrensutsatt verksamhet. Lag (2024:501).
 
 Undantag för vissa data
 
@@ -212,6 +234,19 @@ för jämförbara slag av vidareutnyttjande. Ett villkor får inte
 begränsa konkurrensen eller i onödan inskränka möjligheterna 
 att vidareutnyttja data.
 
+5 a § En myndighet som tillgängliggör skyddade data för 
+vidareutnyttjande ska ställa upp villkor för 
+vidareutnyttjandet i enlighet med artikel 5 i EU:s 
+dataförvaltningsförordning. 
+
+En myndighet som tillgängliggör skyddade data till en 
+vidareutnyttjare som avser att överföra dem till tredjeland i 
+enlighet med artikel 5.10 i EU:s dataförvaltningsförordning är 
+skyldig att anmäla de överträdelser av artikel 5.14 som 
+myndigheten får kännedom om till tillsynsmyndigheten enligt 
+lagen (2024:500) med kompletterande bestämmelser till EU:s 
+dataförvaltningsförordning. Lag (2024:501).
+
 Förteckning över data som är tillgängliga eller sökbara
 
 6 § Den statliga myndighet som regeringen bestämmer ska 
@@ -223,6 +258,24 @@ kunna vidareutnyttjas.
 En myndighet eller ett offentligt företag ska informera den 
 myndighet som publicerar förteckningen om sådana data som 
 avses i första stycket. 
+
+En gemensam informationspunkt
+
+6 a § Den myndighet som regeringen bestämmer ska 
+tillhandahålla en gemensam informationspunkt enligt artikel 8 
+i EU:s dataförvaltningsförordning. 
+
+En myndighet som tillgängliggör skyddade data för 
+vidareutnyttjande ska informera den myndighet som 
+tillhandahåller den gemensamma informationspunkten om sådana 
+data och villkoren för vidareutnyttjande av dessa.
+Lag (2024:501).
+
+Behöriga organ enligt EU:s dataförvaltningsförordning
+
+7 § Den eller de myndigheter som regeringen bestämmer ska vara 
+behöriga organ enligt artikel 7 i EU:s 
+dataförvaltningsförordning. Lag (2024:501).
 
 3 kap. Exklusiv rätt att vidareutnyttja data
 
@@ -236,6 +289,11 @@ tillhandahållas.
 De avtalsvillkor som avser den exklusiva rätten ska publiceras 
 digitalt senast två månader innan de träder i kraft. Avtalet 
 ska omprövas vart tredje år. 
+
+1 a § En myndighet som innehar skyddade data får ge någon en 
+exklusiv rätt att vidareutnyttja dessa data endast om det är 
+tillåtet enligt artikel 4 i EU:s dataförvaltningsförordning.
+Lag (2024:501).
 
 2 § Bestämmelserna i 1 § gäller inte när bibliotek, museer 
 eller arkiv ger någon en exklusiv rätt att vidareutnyttja data 
@@ -296,6 +354,12 @@ lagra data samt en rimlig avkastning på investeringar.
 Detsamma gäller för en myndighet som är skyldig att ta ut en 
 avgift för att täcka en väsentlig del av kostnaderna för en 
 verksamhet.
+
+2 a § En myndighet som tillgängliggör skyddade data för 
+vidareutnyttjande får ta ut en avgift för tillgängliggörandet. 
+
+Regeringen eller den myndighet som regeringen bestämmer får 
+meddela ytterligare föreskrifter om avgiften. Lag (2024:501).
 
 3 § Forskningsdata ska tillgängliggöras avgiftsfritt.
 
@@ -373,12 +437,16 @@ Handläggningen hos en myndighet
 
 1 § En myndighet ska inom fyra veckor avgöra ett ärende till 
 följd av en begäran om tillgängliggörande av data för 
-vidareutnyttjande. 
+vidareutnyttjande.
 
-Tidsfristen får förlängas med ytterligare fyra veckor, om en 
-begäran är omfattande eller komplicerad. Myndigheten ska 
-underrätta sökanden om förlängningen och redovisa skälen för 
-den senast tre veckor från den dag då begäran kom in. 
+Om en sådan begäran avser skyddade data ska ärendet avgöras 
+inom åtta veckor. 
+
+Tidsfristen enligt första eller andra stycket får förlängas 
+med ytterligare fyra veckor, om en begäran är omfattande eller 
+komplicerad. Myndigheten ska underrätta sökanden om 
+förlängningen och redovisa skälen för den senast tre veckor 
+från den dag då begäran kom in. Lag (2024:501).
 
 2 § En myndighet ska lämna ett skriftligt och motiverat beslut 
 om sökanden begär det.
