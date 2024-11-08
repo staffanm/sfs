@@ -713,20 +713,22 @@ rätten.
 
 1 § En förhandling vid domstol ska vara offentlig.
 
-Kan det antas att det vid en förhandling kommer att läggas 
-fram uppgift, för vilken hos domstolen gäller sekretess som 
-avses i offentlighets- och sekretesslagen (2009:400), får 
-rätten, om det bedöms vara av synnerlig vikt att uppgiften 
-inte röjs, besluta att förhandlingen i den del som rör 
-uppgiften ska hållas inom stängda dörrar. Även i annat fall 
-får en förhandling hållas inom stängda dörrar, om sekretessen 
-gäller enligt 35 kap. 12, 13 eller 17 § eller 36 kap. 1 eller 
-2 § offentlighets- och sekretesslagen eller, när det gäller 
-domstolsförhandling under förundersökning i brottmål eller 
-därmed likställt mål eller ärende, enligt 18 kap. 1, 2, 3 
-eller 17 § eller 35 kap. 1 eller 2 § samma lag eller i ärende 
-enligt lagen (2024:326) om hemliga tvångsmedel i syfte att 
-verkställa frihetsberövande påföljder. En förhandling ska 
+Om det kan antas att det vid en förhandling kommer att läggas 
+fram en uppgift som är sekretessbelagd hos domstolen enligt 
+offentlighets- och sekretesslagen (2009:400), får rätten, om 
+det bedöms vara av synnerlig vikt att uppgiften inte röjs, 
+besluta att förhandlingen i den del som rör uppgiften ska 
+hållas inom stängda dörrar. Även i annat fall får en 
+förhandling hållas inom stängda dörrar, om sekretessen gäller 
+enligt 35 kap. 12, 13 eller 17 § eller 36 kap. 1 eller 2 § 
+offentlighets- och sekretesslagen. En förhandling får också 
+hållas inom stängda dörrar om sekretessen gäller enligt 
+18 kap. 1, 1 a, 2, 3 eller 17 § eller 35 kap. 1 eller 2 § 
+samma lag, när det gäller domstolsförhandling under 
+förundersökning i brottmål eller därmed likställt mål eller 
+ärende, under utredning om självständigt förverkande eller i 
+ärende enligt lagen (2024:326) om hemliga tvångsmedel i syfte 
+att verkställa frihetsberövande påföljder. En förhandling ska 
 alltid hållas inom stängda dörrar, om sekretessen gäller 
 enligt 27 kap. 5 § andra och tredje styckena eller 34 kap. 4 § 
 samma lag och det skulle strida mot avtal som avses där att 
@@ -735,9 +737,8 @@ uppgiften röjs vid förhandlingen.
 Förhör med den som är under femton år eller lider av en 
 psykisk störning får hållas inom stängda dörrar.
 
-Är det annars för särskilt fall föreskrivet att förhandling 
-får hållas inom stängda dörrar, ska det gälla. 
-Lag (2024:327).
+Om det i ett särskilt fall är föreskrivet att förhandling får 
+hållas inom stängda dörrar, ska det gälla. Lag (2024:784).
 
 2 § Tillträde till offentlig förhandling må, när rättens ordförande
 finner skäl därtill, vägras den som enligt vad är känt eller må 
@@ -1134,16 +1135,7 @@ allmän åklagare än riksåklagaren eller vice riksåklagaren.
 Riksåklagaren får förordna extra åklagare att utföra talan i
 Högsta domstolen. Lag (2004:1264).
 
-8 § /Upphör att gälla U:2024-10-01/
-För särskilda åklagare gäller vad som är föreskrivet för
-dem.
-
-Ingen annan särskild åklagare än justitiekanslern eller en
-justitieombudsman får besluta att åtal skall väckas eller
-fullföljas i Högsta domstolen. Lag (2001:280).
-
-8 § /Träder i kraft I:2024-10-01/
-För särskilda åklagare gäller vad som är föreskrivet för 
+8 § För särskilda åklagare gäller vad som är föreskrivet för 
 dem.
 
 Ingen annan särskild åklagare än justitiekanslern, en 
@@ -1156,15 +1148,21 @@ Det som sägs om jäv i 6 § första-tredje styckena gäller för
 särskilda åklagare. Lag (2024:462).
 
 9 § Det som anges i 6 § om åklagare tillämpas även på 
-anställda vid Skatteverket eller Tullverket och andra 
-anställda än åklagare vid Ekobrottsmyndigheten som har att 
-vidta åtgärd eller meddela beslut i brottsbekämpande 
-verksamhet. En fråga om jäv prövas av respektive myndighet.
+anställda vid Skatteverket och andra anställda än åklagare vid 
+Ekobrottsmyndigheten som har att vidta åtgärd eller meddela 
+beslut i brottsbekämpande verksamhet. En fråga om jäv prövas 
+av respektive myndighet.
 
-Bestämmelser om jäv för anställda vid Polismyndigheten och 
-Säkerhetspolisen finns i 7 § polislagen (1984:387). 
-Bestämmelser om jäv för anställda vid Kustbevakningen finns i 
-2 kap. 2 § kustbevakningslagen (2019:32). Lag (2019:33).
+Bestämmelser om jäv för anställda vid
+
+1. Polismyndigheten och Säkerhetspolisen finns i 7 § 
+polislagen (1984:387),
+
+2. Tullverket finns i 11 kap. 1 § tullbefogenhetslagen 
+(2024:710), och
+
+3. Kustbevakningen finns i 2 kap. 2 § kustbevakningslagen 
+(2019:32). Lag (2024:711).
 
 8 kap. Om advokater
 
@@ -3312,28 +3310,43 @@ misstänkas för brottet och om tillräckliga skäl föreligga för åtal mot
 honom, samt målet så beredas, att bevisningen kan vid huvudförhandlingen
 förebringas i ett sammanhang.
 
-3 § Beslut att inleda en förundersökning ska fattas av
-Polismyndigheten, Säkerhetspolisen eller åklagaren. Har
-förundersökningen inletts av Polismyndigheten eller
-Säkerhetspolisen och är saken inte av enkel beskaffenhet, ska
-ledningen av förundersökningen om brottet övertas av
-åklagaren, så snart någon skäligen kan misstänkas för
-brottet. Åklagaren ska också i annat fall överta ledningen
-när det är motiverat av särskilda skäl.
+3 § Beslut att inleda en förundersökning ska fattas av 
+Polismyndigheten, Säkerhetspolisen eller åklagaren. En 
+förundersökning inleds även genom att en polisman beslutar om 
+och verkställer ett tvångsmedel enligt 24-28 kap., om inte
 
-När förundersökningen leds av åklagaren, får han eller hon
-anlita biträde av Polismyndigheten eller Säkerhetspolisen för
-att genomföra den. Åklagaren får också uppdra åt en polisman
-att vidta en viss åtgärd som hör till förundersökningen, om
+1. 22 § är tillämplig,
+
+2. ett föremål tas i beslag för att det skäligen kan antas bli 
+förverkat enligt 36 kap. 12 § brottsbalken om förverkande av 
+särskilda brottsverktyg, eller
+
+3. förutsättningarna för rapporteftergift enligt 9 § andra 
+stycket polislagen (1984:387), 3 kap. 18 § andra stycket 
+kustbevakningslagen (2019:32) eller 2 kap. 9 § 
+tullbefogenhetslagen (2024:710) är uppfyllda. Om 
+förundersökningen har inletts av Polismyndigheten eller 
+Säkerhetspolisen och saken inte är av enkel beskaffenhet, ska 
+ledningen av förundersökningen om brottet övertas av 
+åklagaren, så snart någon skäligen kan misstänkas för brottet. 
+Åklagaren ska också i annat fall överta ledningen när det är 
+motiverat av särskilda skäl.
+
+När förundersökningen leds av åklagaren, får han eller hon 
+anlita biträde av Polismyndigheten eller Säkerhetspolisen för 
+att genomföra den. Åklagaren får också uppdra åt en polisman 
+att vidta en viss åtgärd som hör till förundersökningen, om 
 det är lämpligt med hänsyn till åtgärdens beskaffenhet.
 
-Det som i denna balk föreskrivs om Polismyndigheten gäller
-för Säkerhetspolisen då den leder förundersökning eller
-biträder åklagare i en förundersökning.
+Det som i denna balk föreskrivs om Polismyndigheten gäller för 
+Säkerhetspolisen då den leder förundersökning eller biträder 
+åklagare i en förundersökning.
 
-Innan förundersökning hunnit inledas, får en polisman hålla
-förhör och vidta andra utredningsåtgärder som är av betydelse
-för utredningen. Lag (2014:649).
+Innan förundersökning hunnit inledas, får en polisman hålla 
+förhör och vidta andra utredningsåtgärder som är av betydelse 
+för utredningen. Detsamma gäller i fall där förundersökning 
+inletts genom en polismans användning av tvångsmedel.
+Lag (2024:784).
 
 4 § En förundersökning ska bedrivas objektivt. Vid 
 förundersökningen ska undersökningsledaren och den som 
@@ -3802,24 +3815,33 @@ eller försvararen, när undersökningsledaren har slutfört den
 utredning som han eller hon anser är nödvändig. För rättens 
 prövning gäller 19 § andra stycket. Lag (2017:176).
 
-22 § Förundersökning enligt detta kapitel behöver inte
-genomföras, om det ändå finns tillräckliga skäl för åtal och
-det gäller ett brott som inte kan antas föranleda någon annan
-påföljd än böter eller ett sådant brott som avses i 45 kap. 2 §
-första eller andra stycket. Beslag får i dessa fall användas
-enligt vad som föreskrivs i 27 kap.
+22 § Förundersökning enligt detta kapitel behöver inte 
+genomföras, om det ändå finns tillräckliga skäl för åtal och 
+det gäller ett brott som inte kan antas föranleda någon annan 
+påföljd än böter eller ett sådant brott som avses i 45 kap. 
+2 § första eller andra stycket. Beslag och penningbeslag får i 
+dessa fall användas enligt vad som föreskrivs i 27 kap.
 
-Vill åklagaren utvidga väckt åtal, får det ske, utan att
-förundersökning enligt detta kapitel ägt rum. Lag (2004:504).
+Vill åklagaren utvidga väckt åtal, får det ske, utan att 
+förundersökning enligt detta kapitel ägt rum. Lag (2024:784).
 
 23 § Finnes, sedan åtal väckts, ytterligare utredning erforderlig,
 gälle därom i tillämpliga delar vad i detta kapitel stadgas.
 
 24 § Regeringen eller den myndighet som regeringen bestämmer 
 kan med stöd av 8 kap. 7 § regeringsformen meddela närmare 
-föreskrifter om undersökningsledares verksamhet, om 
-underrättelse enligt 18 a § första stycket samt om protokoll 
-och anteckningar vid förundersökning. Lag (2017:176).
+föreskrifter om
+
+1. fördelningen av uppgifter mellan allmänna åklagare och 
+undersökningsledare vid Polismyndigheten, Säkerhetspolisen, 
+Tullverket och Kustbevakningen,
+
+2. undersökningsledares verksamhet,
+
+3. underrättelse enligt 18 a § första stycket, och 
+
+4. protokoll och anteckningar vid förundersökning.
+Lag (2024:711).
 
 24 kap. Om häktning och anhållande
 
@@ -4422,32 +4444,49 @@ kvarstad. Lag (1981:828).
 utsökningsbalken. Rätten får meddela närmare föreskrifter om
 verkställandet, om det behövs. Lag (1981:828).
 
-27 kap. Om beslag, kopiering, biometrisk autentisering och 
-hemliga tvångsmedel
+27 kap. Om beslag, penningbeslag, kopiering, biometrisk 
+autentisering och hemliga tvångsmedel
 
 Beslag m.m.
 
-1 § Ett föremål får tas i beslag om det skäligen kan antas 
+1 § Ett föremål får tas i beslag om det skäligen kan antas att
 
-1. ha betydelse för utredning om brott, 
+1. föremålet har betydelse för utredning om brott,
 
-2. ha tagits ifrån någon genom brott, 
+2. någon har blivit av med föremålet genom brott,
 
-3. vara förverkat på grund av brott, 
+3. föremålet kan bli förverkat,
 
-4. kunna användas för att utföra en genomsökning på distans, 
-eller 
+4. föremålet kan användas för att utföra en genomsökning på 
+distans, eller
 
-5. ha betydelse för utredning om förverkande av utbyte av 
-brottslig verksamhet enligt 36 kap. 1 b § brottsbalken.
+5. föremålet har betydelse för en utredning om förverkande.
 
-Vad som sägs i detta kapitel om föremål gäller också om 
-skriftlig handling, om inte annat är föreskrivet.
+Det som sägs i detta kapitel om föremål ska också tillämpas i 
+fråga om skriftlig handling, om inte annat är föreskrivet.
 
 Tvångsmedel enligt detta kapitel får beslutas endast om skälen 
 för åtgärden uppväger det intrång eller men i övrigt som 
 åtgärden innebär för den misstänkte eller för något annat 
-motstående intresse. Lag (2022:316).
+motstående intresse. Lag (2024:784).
+
+1 a § Egendom i form av pengar, fordran eller annan rättighet 
+får tas i penningbeslag om det skäligen kan antas att
+
+1. någon blivit av med egendomen genom brott, eller
+
+2. egendomen kan bli förverkad.
+
+Penningbeslag får endast avse sådan egendom som finns 
+tillgänglig.
+
+Avser penningbeslaget en fordran eller annan rättighet, ska 
+gäldenären eller någon annan förpliktad meddelas förbud att 
+fullgöra sin förpliktelse till någon annan än 
+Polismyndigheten.
+
+För penningbeslag gäller i övrigt bestämmelserna om beslag i 
+denna balk. Lag (2024:784).
 
 2 § En skriftlig handling får inte tas i beslag om 
 
@@ -4710,9 +4749,7 @@ det brott som misstanken avser. Lag (2016:546).
 14 §  Vad i 25 kap. 8 § är stadgat om reseförbud äge motsvarande
 tillämpning beträffande beslag.
 
-14 a §  Kan föremål skäligen antagas vara förverkat enligt 36 kap. 3 §
-brottsbalken, må det tagas i beslag. Härvid äga bestämmelserna i detta
-kapitel om beslag motsvarande tillämpning. Lag (1975:403).
+14 a § Har upphävts genom lag (2024:784)
 
 15 §  För säkerställande av utredning om brott må byggnad eller rum
 tillstängas, tillträde till visst område förbjudas, förbud meddelas mot
@@ -4756,11 +4793,11 @@ Kopiering
 17 a § En handling som omfattas av ett beslag eller påträffas 
 vid en husrannsakan eller en genomsökning på distans får 
 kopieras om den skäligen kan antas ha betydelse för utredning 
-om brott eller om förverkande av utbyte av brottslig 
-verksamhet enligt 36 kap. 1 b § brottsbalken. 
+om brott eller om utvidgat förverkande enligt 36 kap. 6 § 
+brottsbalken.
 
 En handling som inte får tas i beslag enligt 2 eller 3 § får 
-inte heller kopieras. Lag (2022:316).
+inte heller kopieras. Lag (2024:784).
 
 17 b § Den som med laga rätt verkställer ett beslag, en 
 husrannsakan eller en genomsökning på distans får besluta om 
@@ -5711,21 +5748,21 @@ rum eller slutet förvaringsställe för att söka efter föremål
 som kan tas i beslag eller i förvar eller som kan användas för 
 att utföra en genomsökning på distans eller annars för att 
 utröna omständigheter som kan vara av betydelse för utredning 
-om brottet eller om förverkande av utbyte av brottslig 
-verksamhet enligt 36 kap. 1 b § brottsbalken. 
+om brottet eller om utvidgat förverkande enligt 36 kap. 6 § 
+brottsbalken.
 
-Hos annan än den som skäligen kan misstänkas för brottet får 
-husrannsakan dock företas bara om brottet har begåtts hos 
+Hos någon annan än den som skäligen kan misstänkas för brottet 
+får husrannsakan dock företas bara om brottet har begåtts hos 
 honom eller henne eller om den misstänkte har gripits där 
 eller om det annars finns synnerlig anledning att det vid 
 husrannsakan ska anträffas föremål som kan tas i beslag eller 
 i förvar eller att annan utredning om brottet eller om 
-förverkande av utbyte av brottslig verksamhet enligt 36 kap. 
-1 b § brottsbalken kan vinnas. 
+utvidgat förverkande enligt 36 kap. 6 § brottsbalken kan 
+vinnas.
 
 För husrannsakan hos den misstänkte får hans eller hennes 
 samtycke inte åberopas i något fall, om inte den misstänkte 
-själv har begärt att husrannsakan ska göras. Lag (2022:316).
+själv har begärt att husrannsakan ska göras. Lag (2024:784).
 
 2 § För eftersökande av den som skall gripas, anhållas eller häktas,
 hämtas till förhör eller till inställelse vid rätten eller
@@ -5840,20 +5877,19 @@ genomsökningen. Lag (2022:316).
 10 b § Om det finns anledning att anta att ett brott har 
 begåtts på vilket fängelse kan följa får en genomsökning på 
 distans utföras för att söka efter handlingar som kan vara av 
-betydelse för utredning om brottet eller om förverkande av 
-utbyte av brottslig verksamhet enligt 36 kap. 1 b § 
-brottsbalken. 
+betydelse för utredning om brottet eller om utvidgat 
+förverkande enligt 36 kap. 6 § brottsbalken.
 
 Genomsökning på distans får utföras i ett avläsningsbart 
 informationssystem som den som skäligen kan misstänkas för 
 brottet kan antas ha använt. Även i annat fall får en 
 genomsökning på distans utföras om det finns synnerlig 
 anledning att anta att det går att påträffa handlingar som 
-avses i första stycket. 
+avses i första stycket.
 
 Genomsökning på distans får endast utföras genom autentisering 
 i det avläsningsbara informationssystem som åtgärden avser.
-Lag (2022:316).
+Lag (2024:784).
 
 10 c § Genomsökning på distans får inte avse uppgifter som 
 enligt 27 kap. 2 § hindrar beslag. 
@@ -5945,19 +5981,19 @@ föremål som kan tas i beslag eller i förvar eller som kan
 användas för att utföra en genomsökning på distans. 
 Kroppsvisitation får också annars göras för att utröna 
 omständigheter som kan vara av betydelse för utredning om 
-brottet eller om förverkande av utbyte av brottslig verksamhet 
-enligt 36 kap. 1 b § brottsbalken.
+brottet eller om utvidgat förverkande enligt 36 kap. 6 § 
+brottsbalken.
 
 Någon annan än den som skäligen kan misstänkas för brottet får 
 kroppsvisiteras endast om det finns synnerlig anledning att 
 anta att det därigenom kommer att anträffas sådana föremål som 
 avses i första stycket eller att det annars är av betydelse 
-för utredningen om brottet eller om förverkande av utbyte av 
-brottslig verksamhet enligt 36 kap. 1 b § brottsbalken.
+för utredningen om brottet eller om utvidgat förverkande 
+enligt 36 kap. 6 § brottsbalken.
 
 Med kroppsvisitation avses en undersökning av kläder och annat 
 som någon bär på sig samt av väskor, paket och andra föremål 
-som någon har med sig. Lag (2022:316).
+som någon har med sig. Lag (2024:784).
 
 12 § Den som skäligen kan misstänkas för ett brott på vilket 
 fängelse kan följa, får kroppsbesiktigas
