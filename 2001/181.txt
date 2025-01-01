@@ -3,16 +3,28 @@
 Lagens tillämpningsområde
 
 1 § Denna lag tillämpas vid behandling av personuppgifter i 
-Skatteverkets beskattningsverksamhet och i verkets 
-handläggning enligt lagen (2007:324) om Skatteverkets 
-hantering av vissa borgenärsuppgifter, lagen (2013:948) om 
-stöd vid korttidsarbete och lagen (2020:548) om 
-omställningsstöd, vid handläggning av sådant stöd som avses i 
-lagen (2023:230) om förfarande för elstöd till företag samt 
-vid handläggning av sådan kompensation som avses i lagen 
+Skatteverkets beskattningsverksamhet och i verkets
+
+1. handläggning enligt lagen (2007:324) om Skatteverkets 
+hantering av vissa borgenärsuppgifter,
+
+2. handläggning enligt lagen (2013:948) om stöd vid 
+korttidsarbete,
+
+3. handläggning enligt lagen (2020:548) om omställningsstöd,
+
+4. handläggning av sådant stöd som avses i lagen (2023:230) om 
+förfarande för elstöd till företag,
+
+5. handläggning av sådan kompensation som avses i lagen 
 (2024:404) om skattefrihet och förfarande för kompensation 
 till personer födda 1957 på grund av höjd åldersgräns för 
-förhöjt grundavdrag, om behandlingen är helt eller delvis 
+förhöjt grundavdrag, och
+
+6. hantering enligt lagen (2024:1300) om uppgiftsskyldighet i 
+fråga om frånvaro på grund av vård av barn.
+
+Lagen gäller endast om behandlingen är helt eller delvis 
 automatiserad eller om uppgifterna ingår i eller är avsedda 
 att ingå i en strukturerad samling av personuppgifter som är 
 tillgängliga för sökning eller sammanställning enligt 
@@ -20,7 +32,7 @@ särskilda kriterier.
 
 Bestämmelserna i 4-6 och 8 §§ samt 2 kap. gäller även vid 
 behandling av uppgifter om juridiska personer och avlidna.
-Lag (2024:405).
+Lag (2024:1301).
 
 Definitioner
 
@@ -101,10 +113,13 @@ bindande internationellt åtagande,
 8. hantering av underrättelser från arbetsgivare om 
 anställning av utlänningar som avses i lagen (2013:644) om 
 rätt till lön och annan ersättning för arbete utfört av en 
-utlänning som inte har rätt att vistas i Sverige, och
+utlänning som inte har rätt att vistas i Sverige,
 
-9. tillsyn, kontroll, uppföljning och planering av 
-verksamheten. Lag (2024:405).
+9. hantering enligt lagen (2024:1300) om uppgiftsskyldighet i 
+fråga om frånvaro på grund av vård av barn, och
+
+10. tillsyn, kontroll, uppföljning och planering av 
+verksamheten. Lag (2024:1301).
 
 4 a § Uppgifter som betaltjänstleverantörer har lämnat enligt 
 bestämmelserna i 33 c kap. skatteförfarandelagen (2011:1244) 
@@ -213,9 +228,9 @@ gemensamt i verksamheten för de i 1 kap. 4-5 a §§ angivna
 Innehåll
 
 2 § I databasen får uppgifter behandlas om personer som 
-omfattas av verksamhet enligt 1 kap. 4 § 1-8 och 4 a §. 
+omfattas av verksamhet enligt 1 kap. 4 § 1-9 och 4 a §. 
 Uppgifter om andra personer får behandlas om det behövs för 
-handläggningen av ett ärende. Lag (2024:405).
+handläggningen av ett ärende. Lag (2024:1301).
 
 3 § För de ändamål som anges i 1 kap. 4 och 4 a §§ får 
 följande uppgifter behandlas i databasen:
@@ -251,17 +266,25 @@ medlemskap i fackförening,
 12. uppgifter som behövs vid hantering av underrättelser från 
 arbetsgivare om anställning av utlänningar som avses i lagen 
 (2013:644) om rätt till lön och annan ersättning för arbete 
-utfört av en utlänning som inte har rätt att vistas i Sverige, 
-och
+utfört av en utlänning som inte har rätt att vistas i Sverige,
 
-13. uppgifter som behövs för handläggning enligt lagen 
-(2013:948) om stöd vid korttidsarbete eller lagen (2020:548) 
-om omställningsstöd eller för handläggning av sådant stöd som 
-avses i lagen (2023:230) om förfarande för elstöd till företag 
-eller för handläggning av sådan kompensation som avses i lagen 
-(2024:404) om skattefrihet och förfarande för kompensation 
-till personer födda 1957 på grund av höjd åldersgräns för 
-förhöjt grundavdrag.
+13. uppgifter som behövs för handläggning
+
+a) enligt lagen (2013:948) om stöd vid korttidsarbete,
+
+b) enligt lagen (2020:548) om omställningsstöd,
+
+c) av sådant stöd som avses i lagen (2023:230) om förfarande 
+för elstöd till företag,
+
+d) av sådan kompensation som avses i lagen (2024:404) om 
+skattefrihet och förfarande för kompensation till personer 
+födda 1957 på grund av höjd åldersgräns för förhöjt 
+grundavdrag, och
+
+14. uppgifter som behövs vid hantering enligt lagen 
+(2024:1300) om uppgiftsskyldighet i fråga om frånvaro på grund 
+av vård av barn.
 
 I databasen får även andra uppgifter behandlas som behövs för 
 fullgörande av ett åliggande som följer av ett för Sverige 
@@ -270,7 +293,7 @@ bindande internationellt åtagande.
 Regeringen eller den myndighet som regeringen bestämmer kan 
 med stöd av 8 kap. 7 § regeringsformen meddela närmare 
 föreskrifter om vilka uppgifter som får behandlas i databasen 
-enligt första stycket. Lag (2024:405).
+enligt första stycket. Lag (2024:1301).
 
 4 § En handling som har kommit in i ett ärende får behandlas i
 databasen och får innehålla uppgifter som avses i 1 kap. 7 §.
@@ -473,9 +496,10 @@ användas. Lag (2015:901).
 Gallring
 
 11 § Uppgifter och handlingar i databasen ska, om inget annat 
-anges i 11 a eller 12 §, gallras senast sju år efter utgången 
-av det kalenderår då den beskattningsperiod som uppgifterna 
-eller handlingarna kan hänföras till gick ut. Lag (2023:639).
+anges i 11 a, 12 eller 12 a §, gallras senast sju år efter 
+utgången av det kalenderår då den beskattningsperiod som 
+uppgifterna eller handlingarna kan hänföras till gick ut.
+Lag (2024:1301).
 
 11 a § Uppgifter som avses i 1 kap. 4 a § första stycket ska 
 gallras senast fem år efter utgången av det kalenderår då 
@@ -539,6 +563,11 @@ skatt på energi, 8 kap. 4 § tredje stycket lagen om
 tobaksskatt eller 8 kap. 4 § tredje stycket lagen om 
 alkoholskatt eller annan sammanhållande identifikationsuppgift 
 senast ändrades. Lag (2023:803).
+
+12 a § Sådana uppgifter om frånvaro som avses i lagen 
+(2024:1300) om uppgiftsskyldighet i fråga om frånvaro på grund 
+av vård av barn ska gallras när de har lämnats ut till 
+Försäkringskassan. Lag (2024:1301).
 
 13 § Vad som sägs i 11-12 §§ hindrar inte att regeringen eller 
 den myndighet som regeringen bestämmer meddelar föreskrifter 
