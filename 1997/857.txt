@@ -357,40 +357,7 @@ Lag (2021:741).
 
 Tillämpning av miljöbalken
 
-17 § /Upphör att gälla U:2025-01-01/
-Vid en prövning av frågor om beviljande av nätkoncession 
-för linje ska 2-4 kap. och 5 kap. 3-5 och 18 §§ miljöbalken 
-tillämpas.
-
-För en starkströmsledning som ska prövas för en nätkoncession 
-för linje ska
-
-1. frågan om huruvida byggandet eller användandet kan antas 
-medföra en betydande miljöpåverkan avgöras genom ett särskilt 
-beslut enligt 6 kap. 26 och 27 §§ miljöbalken efter det att en 
-undersökning enligt 6 kap. 23-26 §§ har gjorts, om något annat 
-inte följer av 6 kap. 23 § andra stycket,
-
-2. en specifik miljöbedömning göras, information lämnas och 
-samordning ske enligt 6 kap. 28-46 §§ miljöbalken, om en 
-betydande miljöpåverkan kan antas, och
-
-3. en liten miljökonsekvensbeskrivning tas fram enligt 6 kap. 
-47 § miljöbalken, om länsstyrelsen beslutar att en betydande 
-miljöpåverkan inte kan antas.
-
-Trots första och andra styckena behöver frågor som har prövats 
-i ett mål eller ärende om tillstånd enligt miljöbalken inte 
-prövas på nytt i ärendet om nätkoncession. Om det i målet 
-eller ärendet om tillstånd enligt miljöbalken finns en 
-miljökonsekvensbeskrivning som beskriver de direkta och 
-indirekta effekter på människors hälsa och miljön som 
-ledningen kan medföra, behöver det inte finnas någon särskild 
-miljökonsekvensbeskrivning i koncessionsärendet. 
-Lag (2021:741).
-
-17 § /Träder i kraft I:2025-01-01/
-Vid en prövning av frågor om beviljande av nätkoncession 
+17 § Vid en prövning av frågor om beviljande av nätkoncession 
 för linje ska 2-4 kap. och 5 kap. 3-5 och 18 §§ miljöbalken 
 tillämpas.
 
@@ -599,28 +566,7 @@ drift av nätverksamheten. Lag (2021:741).
 4. nätkoncessionen är förenad med sådana villkor som behövs 
 enligt 18 §. Lag (2021:741).
 
-35 § /Upphör att gälla U:2025-01-01/
-Vid en omprövning enligt 31 § ska 2-4 kap. och 5 kap. 3-5 
-och 18 §§ miljöbalken tillämpas.
-
-För den nätkoncession som ska omprövas ska
-
-1. frågan om huruvida en betydande miljöpåverkan kan antas 
-avgöras genom ett särskilt beslut enligt 6 kap. 26 och 27 §§ 
-miljöbalken efter det att en undersökning enligt 6 kap. 23-
-26 §§ har gjorts, om något annat inte följer av 6 kap. 23 § 
-andra stycket,
-
-2. en specifik miljöbedömning göras, information lämnas och 
-samordning ske enligt 6 kap. 28-46 §§ miljöbalken, om en 
-betydande miljöpåverkan kan antas, och
-
-3. en liten miljökonsekvensbeskrivning tas fram enligt 6 kap. 
-47 § miljöbalken, om länsstyrelsen beslutar att en betydande 
-miljöpåverkan inte kan antas. Lag (2021:741).
-
-35 § /Träder i kraft I:2025-01-01/
-Vid en omprövning enligt 31 § ska 2-4 kap. och 5 kap. 3-5 
+35 § Vid en omprövning enligt 31 § ska 2-4 kap. och 5 kap. 3-5 
 och 18 §§ miljöbalken tillämpas.
 
 För den nätkoncession som ska omprövas ska
@@ -2423,22 +2369,43 @@ och
 3. de funktionskrav som mätsystem och mätutrustning ska 
 uppfylla. Lag (2022:596).
 
-Rapportering av mätresultat
+Rapportering av och tillgång till mätresultat
 
-3 § Ett nätföretag ska på begäran rapportera resultaten av de 
-mätningar som görs enligt 1 § till ett företag som 
-elanvändaren eller elproducenten har utsett. På begäran av 
-elanvändaren ska nätföretaget även lämna uppgifter om 
-elanvändarens historiska elförbrukning till ett företag som 
-elanvändaren har utsett. Lag (2023:238).
+3 § I kommissionens genomförandeförordning (EU) 2023/1162 av 
+den 6 juni 2023 om krav på driftskompatibilitet och icke-
+diskriminerande och transparenta förfaranden för tillgång till 
+mät- och förbrukningsuppgifter finns bestämmelser om tillgång 
+till mätresultat.
+
+Ett nätföretag har de skyldigheter och ska utföra de uppgifter 
+som enligt kommissionens genomförandeförordning (EU) 2023/1162 
+gäller för
+
+1. administratörer av mätuppgifter, med undantag för vad som 
+anges i artikel 5.3,
+
+2. mätpunktsadministratörer,
+
+3. leverantörer av uppgiftstillgång, och
+
+4. tillståndsadministratörer. Lag (2024:1187).
+
+3 a § Ett nätföretag ska på begäran av en elproducent 
+rapportera resultaten av de mätningar som görs enligt 1 § till 
+ett företag som elproducenten har utsett. Lag (2024:1187).
 
 4 § Regeringen eller den myndighet som regeringen bestämmer 
-får meddela föreskrifter om skyldighet för nätföretag att 
-rapportera 
+får meddela föreskrifter om
 
-1. mätresultat, och 
+1. skyldighet för nätföretag att rapportera
 
-2. beräkningar av mängden överförd el. Lag (2022:596).
+a) mätresultat, 
+
+b) beräkningar av mängden överförd el, och
+
+2. vad som ska gälla på kommunikations- och komponentnivåerna 
+vid informationsutbyte enligt kommissionens 
+genomförandeförordning (EU) 2023/1162. Lag (2024:1187).
 
 Kostnader för mätning
 
@@ -2455,10 +2422,11 @@ i uttagspunkten.
 En elanvändare får inte debiteras merkostnader för att den har
 
 1. ingått ett avtal om leverans av el som förutsätter att 
-mängden överförd el ska mätas per timme, eller
+mängden överförd el ska mätas per kvart eller per timme, eller
 
 2. begärt att nätföretaget ska lämna information som visar 
-elanvändarens förbrukning per timme. Lag (2022:596).
+elanvändarens förbrukning per kvart eller per timme.
+Lag (2024:1187).
 
 6 § Ett nätföretag ska debitera en elproducent kostnaden för 
 en mätare med tillhörande insamlingsutrustning och för dess 
@@ -2470,16 +2438,32 @@ Lag (2022:596).
 elproducenter kostnader för mätning endast i den utsträckning 
 som anges i 5 och 6 §§. Lag (2022:596).
 
-Tvister om kostnader för mätning
+Kostnader för att göra mätresultat tillgängliga
+
+7 a § Ett nätföretag ska debitera en sådan berättigad part som 
+avses i kommissionens genomförandeförordning (EU) 2023/1162 
+kostnader som uppstår på grund av att nätföretaget
+
+1. hanterar en begäran om att ge den berättigade parten 
+tillgång till mätresultat,
+
+2. hanterar en begäran från den berättigade parten om att 
+avsluta överföring av mätresultat, eller
+
+3. ger den berättigade parten tillgång till mätresultat.
+Lag (2024:1187).
+
+Tvister om kostnader för mätning och för att göra mätresultat 
+tillgängliga
 
 8 § Nätmyndigheten ska ta upp en tvist om vilka kostnader som 
-ska debiteras enligt 5 eller 6 §. 
+ska debiteras enligt 5, 6 eller 7 a §.
 
 En tvist ska dock inte prövas om ansökan om prövning kommit in 
 till nätmyndigheten senare än två år efter det att 
 nätföretaget skickat ett skriftligt ställningstagande till den 
 berörda parten under partens senaste kända adress.
-Lag (2022:596).
+Lag (2024:1187).
 
 Installation av nya mätare 
 
@@ -2490,6 +2474,15 @@ Lag (2022:596).
 10 § Regeringen eller den myndighet som regeringen bestämmer 
 får meddela föreskrifter om skyldigheten att lämna information 
 enligt 9 §. Lag (2022:596).
+
+Upplysningar om nationell praxis
+
+11 § Regeringen eller den myndighet som regeringen bestämmer 
+får meddela föreskrifter om skyldighet för nätföretag att 
+lämna sådana upplysningar som är nödvändiga för att Sverige 
+ska kunna uppfylla sina skyldigheter enligt artikel 10 i 
+kommissionens genomförandeförordning (EU) 2023/1162.
+Lag (2024:1187).
 
 7 kap. Kommunala elföretag
 
@@ -3162,9 +3155,7 @@ elanvändare och om skyldighet för elleverantörer att lämna
 viss information till elanvändaren i samband med fakturering.
 Lag (2023:238).
 
-26 § På begäran av elanvändaren ska elleverantören lämna 
-uppgifter om elanvändarens historiska elförbrukning till ett 
-företag som elanvändaren har utsett. Lag (2023:238).
+26 § Har upphävts genom lag (2024:1187).
 
 27 § En elleverantör får inte ta ut någon avgift för att 
 tillhandahålla elanvändaren fakturor och information enligt 
