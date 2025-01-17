@@ -2393,26 +2393,31 @@ resurser och rutiner för att institutet ska kunna
 tillhandahålla investeringstjänster och utföra 
 investeringsverksamhet kontinuerligt och regelbundet.
 
+Informations- och kommunikationstekniksystem ska uppfylla 
+kraven i Europaparlamentets och rådets förordning (EU) 
+2022/2554 av den 14 december 2022 om digital operativ 
+motståndskraft för finanssektorn och om ändring av 
+förordningarna (EG) nr 1060/2009, (EU) nr 648/2012, (EU) nr 
+600/2014, (EU) nr 909/2014 och (EU) 2016/1011.
+
 Ett värdepappersinstitut ska ha sunda skyddsmekanismer för 
-att säkerställa skyddet och autentiseringen vid 
-informationsöverföring och för att minimera risken för 
-dataförvanskning och obehörig åtkomst till informationen.
-Lag (2017:679).
+att, i enlighet med kraven i Europaparlamentets och rådets 
+förordning (EU) 2022/2554, säkerställa skyddet och 
+autentiseringen vid informationsöverföring och för att 
+minimera risken för dataförvanskning och obehörig åtkomst till 
+informationen. Lag (2024:1285).
 
-11 § Ett värdepappersinstitut skall
+11 § Ett värdepappersinstitut ska
 
-1. tillämpa sunda rutiner för
+1. tillämpa sunda rutiner för 
 
-a) förvaltning av verksamheten, och
+a) förvaltning av verksamheten, och 
 
 b) redovisning,
 
-2. ha rutiner för intern kontroll,
+2. ha rutiner för intern kontroll, och
 
-3. ha effektiva metoder för riskbedömning, och
-
-4. ha effektiv drift och förvaltning av sina
-informationssystem.
+3. ha effektiva metoder för riskbedömning. Lag (2024:1285).
 
 Intressekonflikter
 
@@ -2670,12 +2675,13 @@ Allmänna krav
 23 § Ett värdepappersinstitut som bedriver algoritmisk handel 
 ska ha effektiva system och riskkontroller som är anpassade 
 för den verksamheten. Systemen och kontrollerna ska 
-säkerställa att institutets handelssystem är 
-motståndskraftiga och har tillräcklig kapacitet, att de 
-omfattas av lämpliga handelströsklar och handelslimiter och 
-att de förhindrar att felaktiga order skickas eller att 
-systemet på annat sätt fungerar så att det kan skapa eller 
-bidra till en oordnad marknad.
+säkerställa att institutets handelssystem är motståndskraftiga 
+och har tillräcklig kapacitet i enlighet med kraven i 
+kapitel II i Europaparlamentets och rådets förordning (EU) 
+2022/2554, att de omfattas av lämpliga handelströsklar och 
+handelslimiter och att de förhindrar att felaktiga order 
+skickas eller att systemet på annat sätt fungerar så att det 
+kan skapa eller bidra till en oordnad marknad.
 
 Värdepappersinstitutet ska också ha effektiva system och 
 åtgärder för riskkontroll för att säkerställa att 
@@ -2685,15 +2691,20 @@ på en handelsplats till vilken institutet är anslutet.
 
 Värdepappersinstitutet ska ha inrättat effektiva arrangemang 
 för kontinuerlig drift av verksamheten för att hantera 
-driftavbrott i sina handelssystem och ska se till att 
-systemen är fullt testade och lämpligt övervakade för att 
-säkerställa att de uppfyller kraven i första och andra 
-styckena.
+driftavbrott i sina handelssystem, inbegripet en IKT-
+kontinuitetspolicy och IKT-kontinuitetsplaner samt IKT-
+relaterade åtgärds- och återställningsplaner för informations- 
+och kommunikationsteknik som inrättas i enlighet med artikel 
+11 i Europaparlamentets och rådets förordning (EU) 2022/2554. 
+Institutet ska se till att systemen är fullt testade och 
+lämpligt övervakade för att säkerställa att de uppfyller 
+kraven i första och andra styckena och kraven i kapitlen II 
+och IV i samma förordning.
 
-Värdepappersinstitutet ska dokumentera de åtgärder som det 
-har vidtagit enligt första–tredje styckena så att 
+Värdepappersinstitutet ska dokumentera de åtgärder som det har 
+vidtagit enligt första-tredje styckena så att 
 Finansinspektionen har möjlighet att övervaka att institutet 
-har följt denna lag. Lag (2017:679).
+har följt denna lag. Lag (2024:1285).
 
 24 § Ett värdepappersinstitut som bedriver algoritmisk handel 
 ska anmäla detta till Finansinspektionen och till den 
@@ -2825,49 +2836,46 @@ tillhandahållandet av tjänsten. Lag (2017:679).
 Bemyndiganden
 
 35 § Regeringen eller den myndighet som regeringen bestämmer 
-får meddela föreskrifter om
+får meddela föreskrifter om 
 
 1. vilka åtgärder ett värdepappersbolag ska vidta för att 
 uppfylla de krav på soliditet och likviditet, riskhantering, 
-ersättningssystem och genomlysning samt riktlinjer 
-och instruktioner som avses i 3-8 §§,
+ersättningssystem och genomlysning samt riktlinjer och 
+instruktioner som avses i 3-8 §§, 
 
 2. värdepappersbolags mångfaldspolicy vid tillsättandet av 
 styrelse samt resurser för introduktion och utbildning av 
-styrelseledamöter,
+styrelseledamöter, 
 
 3. de riktlinjer, regler och rutiner ett värdepappersinstitut 
 ska upprätta och tillämpa enligt 9 §,
 
-4. vilka system, resurser och rutiner ett värdepappersinstitut 
-ska ha enligt 10 §,
-
-5. vad ett värdepappersinstitut ska iaktta för att uppfylla 
+4. vad ett värdepappersinstitut ska iaktta för att uppfylla 
 skyldigheterna i 11 §,
 
-6. de processer för produktgodkännande och översyn ett 
+5. de processer för produktgodkännande och översyn ett 
 värdepappersinstitut ska ha enligt 13 §,
 
-7. den information ett värdepappersinstitut ska lämna enligt 
+6. den information ett värdepappersinstitut ska lämna enligt 
 14 § första stycket,
 
-8. de arrangemang ett värdepappersinstitut ska ha för att få 
+7. de arrangemang ett värdepappersinstitut ska ha för att få 
 information och för att förstå egenskaperna hos finansiella 
 instrument och den fastställda målgruppen för instrumenten 
 enligt 14 § andra stycket,
 
-9. de arrangemang ett värdepappersinstitut som distribuerar 
+8. de arrangemang ett värdepappersinstitut som distribuerar 
 finansiella instrument ska ha för urvalet av finansiella 
 instrument och tjänster som erbjuds eller rekommenderas till 
 kunder,
 
-10. kraven för bedömning av kunskap och kompetens enligt 15 §,
+9. kraven för bedömning av kunskap och kompetens enligt 15 §,
 
-11. dokumentation enligt 16 § och hur lång tid dokumentation 
+10. dokumentation enligt 16 § och hur lång tid dokumentation 
 ska sparas enligt 20 §, och
 
-12. övervakning av handeln och kursbildningen enligt 21 §.
-Lag (2021:480).
+11. övervakning av handeln och kursbildningen enligt 21 §.
+Lag (2024:1285).
 
 36 § Ny beteckning genom lag (2017:679).
 
@@ -5019,45 +5027,45 @@ och
 
 Allmänna krav på verksamheten
 
-1 § En börs ska driva sin verksamhet hederligt, rättvist
-och professionellt och på ett sätt så att allmänhetens
-förtroende för värdepappersmarknaden upprätthålls.
+1 § En börs ska driva sin verksamhet hederligt, rättvist och 
+professionellt och på ett sätt så att allmänhetens förtroende 
+för värdepappersmarknaden upprätthålls. 
 
-När börsen driver en reglerad marknad, ska den tillämpa
-principerna om
+När börsen driver en reglerad marknad, ska den tillämpa 
+principerna om 
 
-1. fritt tillträde, som innebär att var och en som uppfyller
-de krav som ställs i denna lag och av börsen får delta i
-handeln,
+1. fritt tillträde, som innebär att var och en som uppfyller 
+de krav som ställs i denna lag och av börsen får delta i 
+handeln, 
 
-2. neutralitet, som innebär att börsens regler för den
-reglerade marknaden tillämpas på ett likformigt sätt gentemot
-alla som deltar i handeln, och
+2. neutralitet, som innebär att börsens regler för den 
+reglerade marknaden tillämpas på ett likformigt sätt gentemot 
+alla som deltar i handeln, och 
 
-3. god genomlysning, som innebär att deltagarna får en snabb,
-samtidig och korrekt information om handeln och att
-allmänheten får tillfälle att ta del av sådan information.
+3. god genomlysning, som innebär att deltagarna får en snabb, 
+samtidig och korrekt information om handeln och att 
+allmänheten får tillfälle att ta del av sådan information. 
 
 En börs ska också
 
-1. identifiera och hantera de risker som kan uppstå i
-verksamheten,
+1. identifiera och hantera de risker, inbegripet IKT-risker i 
+enlighet med kapitel II i Europaparlamentets och rådets 
+förordning (EU) 2022/2554, som kan uppstå i verksamheten, och
 
-2. ha säkra tekniska system, samt
-
-3. identifiera och hantera de intressekonflikter som kan
-uppstå mellan börsens eller dess ägares intressen och
-intresset av att en reglerad marknad drivs i enlighet med
+2. identifiera och hantera de intressekonflikter som kan 
+uppstå mellan börsens eller dess ägares intressen och 
+intresset av att en reglerad marknad drivs i enlighet med 
 första och andra styckena.
 
-En börs får inte i sitt regelverk ställa oskäliga krav på
-emittenter och deltagare vid en reglerad marknad. Vad som
-utgör ett oskäligt krav ska bedömas med hänsyn till dess
-ändamål, EG-rätten och övriga omständigheter.
-Lag (2009:588).
+En börs får inte i sitt regelverk ställa oskäliga krav på 
+emittenter och deltagare vid en reglerad marknad. Vad som 
+utgör ett oskäligt krav ska bedömas med hänsyn till dess 
+ändamål, EU-rätten och övriga omständigheter. Lag (2024:1285).
 
-1 a § En börs ska inrätta effektiva system, förfaranden och 
-arrangemang för att säkerställa att handelssystemen 
+1 a § En börs ska inrätta och upprätthålla en operativ 
+motståndskraft i enlighet med kraven i kapitel II i 
+Europaparlamentets och rådets förordning (EU) 2022/2554 för 
+att säkerställa att handelssystemen
 
 1. är motståndskraftiga, 
 
@@ -5066,12 +5074,16 @@ påfrestningar på marknaden i fråga om order- och
 meddelandevolymer, 
 
 3. kan upprätthålla ordnad handel vid förhållanden med 
-påfrestningar på marknaden, 
+påfrestningar på marknaden,
 
-4. är fullständigt testade, och 
+4. är fullständigt testade, och
 
 5. garanterar kontinuitet i verksamheten vid eventuella 
-driftavbrott i handelssystemet. Lag (2017:679).
+driftavbrott i handelssystemet, inbegripet en IKT-
+kontinuitetspolicy och IKT-kontinuitetsplaner samt IKT-
+relaterade åtgärds- och återställningsplaner i enlighet med 
+artikel 11 i Europaparlamentets och rådets förordning (EU) 
+2022/2554. Lag (2024:1285).
 
 1 b § En börs ska ingå skriftliga avtal med samtliga 
 värdepappersinstitut som bedriver en marknadsgarantstrategi 
@@ -5119,23 +5131,24 @@ eventuella otillbörliga marknadsförhållanden som kan uppstå
 till följd av användningen av sådana algoritmiska 
 handelssystem. 
 
-I de förfaranden som avses i första stycket ska det ingå 
+I de förfaranden som avses i första stycket ska det ingå
 
-1. krav på deltagarna att utföra lämpliga tester av 
-algoritmer och att tillhandahålla miljöer för att underlätta 
-sådana tester, 
+1. krav på deltagarna att utföra lämpliga tester av algoritmer 
+och att tillhandahålla miljöer för att underlätta sådana 
+tester, i enlighet med kraven i kapitlen II och IV i 
+Europaparlamentets och rådets förordning (EU) 2022/2554,
 
 2. system för att begränsa andelen inte utförda order i 
 förhållande till transaktionerna som kan läggas in i systemet 
-av en deltagare,
+av en deltagare, 
 
 3. system för att det ska vara möjligt att bromsa orderflödet 
 om det finns en risk för att taket för systemkapaciteten 
-uppnås, och
+uppnås, och 
 
 4. system för att begränsa och upprätthålla den minsta 
 prisändring som får tillämpas på den reglerade marknaden.
-Lag (2017:679).
+Lag (2024:1285).
 
 1 e § En börs som tillåter direkt elektroniskt tillträde till 
 en reglerad marknad som börsen driver ska ha effektiva 
@@ -7266,15 +7279,15 @@ ett ingripande. Lag (2024:115).
 1 a § Finansinspektionen ska ingripa mot någon som ingår i ett 
 svenskt värdepappersinstituts styrelse eller är dess 
 verkställande direktör, eller ersättare för någon av dem, om 
-värdepappersinstitutet har åsidosatt sina skyldigheter enligt
+värdepappersinstitutet har åsidosatt sina skyldigheter enligt 
 
-1. 5 kap. 1, 3, 6 eller 7 §,
+1. 5 kap. 1, 3, 6 eller 7 §, 
 
 2. 6 kap. 1, 4 eller 6 §,
 
 3. någon av 8 kap. 8 e eller 9-34 §§ eller föreskrifter som 
 meddelats med stöd av någon av bestämmelserna i 8 kap. 35 § 3-
-12,
+11,
 
 4. någon av 9 kap. 1 §, 8 § tredje stycket, 9-12, 14-17 a, 
 19 a-41 eller 43 §§ eller föreskrifter som meddelats med stöd 
@@ -7290,14 +7303,19 @@ företag trots att kraven i 13 § inte är uppfyllda,
 
 8. 22 kap. 2 § andra stycket, 5 eller 6 § eller inte har följt 
 ett beslut som meddelats av Finansinspektionen enligt 22 kap. 
-1 §, 2 § första stycket eller 3 §, eller
+1 §, 2 § första stycket eller 3 §,
 
 9. 23 kap. 2 § första stycket eller föreskrifter som meddelats 
 med stöd av 23 kap. 15 § 1, eller inte har följt en begäran, 
 ett föreläggande eller ett beslut som meddelats av 
 Finansinspektionen enligt 23 kap. 2 § tredje stycket, 3 § 
 första stycket, 3 a eller 3 b § eller har motsatt sig en 
-undersökning enligt 23 kap. 4 §. Lag (2021:968).
+undersökning enligt 23 kap. 4 §, eller
+
+10. någon av artiklarna 5-10, 11.1-11.10, 12-14, 16.1, 16.2, 
+17, 18.1, 18.2, 19.1, 19.3, 19.4, 23-25, 26.1-26.8, 27, 28.1-
+28.8, 29, 30.1-30.4, 31.12 eller 45 i Europaparlamentets och 
+rådets förordning (EU) 2022/2554. Lag (2024:1285).
 
 1 b § Finansinspektionen ska ingripa mot en sådan person som 
 avses i 1 a § om värdepappersinstitutet har åsidosatt sina 
@@ -7518,18 +7536,18 @@ börs styrelse eller är dess verkställande direktör, eller
 ersättare för någon av dem, om börsen 
 
 1. har fått sitt tillstånd genom att lämna falska uppgifter 
-eller på annat otillbörligt sätt,
+eller på annat otillbörligt sätt, 
 
 2. har tillåtit en styrelseledamot, verkställande direktören 
 eller ersättare för någon av dem att åta sig ett sådant 
 uppdrag i företaget eller kvarstå i företaget trots att kraven 
 i 12 kap. 2 § 4 eller 5 eller någon av 6 b-6 d §§ inte är 
-uppfyllda,
+uppfyllda, 
 
 3. har åsidosatt sina skyldigheter enligt
 
 a) 8 kap. 21 § eller föreskrifter som meddelats med stöd av 
-8 kap. 35 § 12,
+8 kap. 35 § 11,
 
 b) någon av 11 kap. 1 §, 1 a § andra stycket, 1 b-4 a eller 
 12 §§ eller driver en tillväxtmarknad för små och medelstora 
@@ -7561,18 +7579,26 @@ undersökning enligt 23 kap. 4 §,
 
 4. i strid med 24 kap. 5 § första stycket låter bli att till 
 Finansinspektionen anmäla sådana förvärv och avyttringar som 
-avses där, eller
+avses där,
 
 5. i strid med 24 kap. 5 § tredje stycket låter bli att till 
 Finansinspektionen anmäla namnen på de ägare som har ett 
 kvalificerat innehav av aktier eller andelar i företaget samt 
-storleken på innehaven.
+storleken på innehaven, eller
+
+6. har åsidosatt sina skyldigheter enligt någon av artiklarna 
+5-10,  
+11.1-11.10, 12-14, 16.1, 16.2, 17, 18.1, 18.2, 19.1, 19.3, 
+19.4, 23-25,  
+26.1-26.8, 27, 28.1-28.8, 29, 30.1-30.4, 31.12 eller 45 i 
+Europaparlamentets och rådets förordning (EU) 2022/2554.
 
 Om en sådan person som avses i första stycket omfattas av 
 tillstånds- eller underrättelseskyldighet enligt 24 kap. 1 
 eller 4 § för förvärv eller avyttring av aktier eller andelar 
 i företaget, ska första stycket 4 och 5 inte gälla för den 
-personen i fråga om dessa aktier eller andelar. Lag (2021:968).
+personen i fråga om dessa aktier eller andelar.
+Lag (2024:1285).
 
 1 f § Finansinspektionen ska ingripa mot en sådan person som 
 avses i 1 e § om börsen har åsidosatt sina skyldigheter enligt 
@@ -7667,7 +7693,7 @@ central motparts styrelse eller är dess verkställande
 direktör, eller ersättare för någon av dem, om den centrala 
 motparten har åsidosatt sina skyldigheter enligt förordningen 
 om återhämtning och resolution av centrala motparter genom att 
-inte
+inte 
 
 1. utarbeta, upprätthålla och uppdatera en återhämtningsplan 
 (artikel 9), 
@@ -7678,19 +7704,52 @@ resolutionsplan (artikel 13), eller
 3. underrätta Finansinspektionen om att den centrala motparten 
 fallerar eller sannolikt kommer att fallera (artikel 70.1).
 
+Finansinspektionen ska även ingripa mot en sådan fysisk person 
+som avses i första stycket om den centrala motparten har 
+åsidosatt sina skyldigheter enligt någon av artiklarna 5-10, 
+11.1-11.10, 12-14, 16.1, 16.2, 17, 18.1, 18.2, 19.1, 19.3, 
+19.4, 23-25, 26.1-26.8, 27, 28.1-28.8, 29,  
+30.1-30.4, 31.12 eller 45 i Europaparlamentets och rådets 
+förordning (EU) 2022/2554.
+
 Ingripande får ske genom en eller båda av följande sanktioner:
 
-1. att den fysiska personen under en viss tid, lägst tre och 
-högst tio år, inte får vara styrelseledamot eller 
+1. beslut att den fysiska personen under en viss tid, lägst 
+tre och högst tio år, inte får vara styrelseledamot eller 
 verkställande direktör i en central motpart, eller ersättare 
 för någon av dem, eller
 
-2. sanktionsavgift. 
+2. beslut om sanktionsavgift.
 
-Ett ingripande enligt första stycket får ske bara om den 
-centrala motpartens överträdelse är allvarlig och den fysiska 
-personen i fråga uppsåtligen eller av grov oaktsamhet orsakat 
-överträdelsen. Lag (2022:743).
+Ett ingripande enligt första eller andra stycket får ske bara 
+om den centrala motpartens överträdelse är allvarlig och den 
+fysiska personen i fråga uppsåtligen eller av grov oaktsamhet 
+orsakat överträdelsen. Lag (2024:1285).
+
+1 j § Finansinspektionen ska ingripa mot någon som ingår i en 
+leverantör av datarapporteringstjänsters styrelse eller är 
+dess verkställande direktör, eller ersättare för någon av dem, 
+om leverantören har åsidosatt sina skyldigheter enligt någon 
+av artiklarna 5-10, 11.1-11.10, 12-14, 16.1, 16.2, 17, 18.1, 
+18.2, 19.1, 19.3, 19.4, 23-25, 26.1-26.8, 27, 28.1-28.8, 29,  
+30.1-30.4, 31.12 eller 45 i Europaparlamentets och rådets 
+förordning (EU) 2022/2554. 
+
+Ingripande får ske genom en eller båda av följande sanktioner: 
+
+1. beslut att den fysiska personen under en viss tid, lägst 
+tre och högst tio år, inte får vara styrelseledamot eller 
+verkställande direktör i en leverantör av 
+datarapporteringstjänster, eller ersättare för någon av dem, 
+eller 
+
+2. beslut om sanktionsavgift. 
+
+Ett ingripande får ske bara om Finansinspektionen har tillsyn 
+över leverantören av datarapporteringstjänster och om 
+leverantörens överträdelse är allvarlig och den fysiska 
+personen i fråga uppsåtligen eller av grov oaktsamhet har 
+orsakat överträdelsen. Lag (2024:1285).
 
 2 § Vid valet av sanktion ska Finansinspektionen ta hänsyn 
 till hur allvarlig överträdelsen är och hur länge den pågått. 
@@ -7901,21 +7960,21 @@ följd av regelöverträdelsen. Lag (2017:679).
 Sanktionsföreläggande
 
 10 a § Frågor om ingripanden mot fysiska personer för 
-överträdelser enligt någon av 1 a, 1 b, 1 d-1 f, 1 i, 15 a 
-eller 15 b §§ tas upp av Finansinspektionen genom 
-sanktionsföreläggande.
+överträdelser enligt någon av 1 a, 1 b, 1 d-1 f, 1 i, 1 j, 
+15 a eller 15 b §§ tas upp av Finansinspektionen genom 
+sanktionsföreläggande. 
 
 Ett sanktionsföreläggande innebär att den fysiska personen 
 föreläggs att inom en viss tid godkänna ett ingripande enligt 
-1 c § andra stycket, 1 d § fjärde stycket eller 1 i § andra 
-stycket som är bestämt till tid eller belopp eller enligt 
-1 g § andra stycket eller 15 c § andra stycket som är bestämt 
-till belopp.
+1 c § andra stycket, 1 d § fjärde stycket, 1 i § tredje 
+stycket eller 1 j § andra stycket som är bestämt till tid 
+eller belopp eller enligt 1 g § andra stycket eller 15 c § 
+andra stycket som är bestämt till belopp.
 
 När föreläggandet har godkänts, gäller det som ett 
 domstolsavgörande som fått laga kraft. Ett godkännande som 
 görs efter den tid som angetts i föreläggandet är utan verkan.
-Lag (2022:743).
+Lag (2024:1285).
 
 10 b § Ett sanktionsföreläggande ska innehålla uppgift om
 
@@ -8052,44 +8111,43 @@ av denna paragraf. Lag (2017:679).
 
 15 a § Finansinspektionen ska ingripa mot den eller de 
 personer som har ansvaret för ledningen av en filial till ett 
-sådant företag som anges i 15 §, om företaget
+sådant företag som anges i 15 §, om företaget 
 
 1. har fått sitt tillstånd genom att lämna falska uppgifter 
-eller på annat otillbörligt sätt,
+eller på annat otillbörligt sätt, 
 
 2. har tillåtit en person som har ansvaret för ledningen av 
 filialen att åta sig ett sådant uppdrag i filialen eller att 
 kvarstå i detta trots att kraven i 4 kap. 4 § 5 eller i 
 föreskrifter som meddelats med stöd av 3 kap. 12 § 2 inte är 
-uppfyllda, eller
+uppfyllda, eller 
 
 3. har åsidosatt sina skyldigheter enligt
 
 a) någon av 8 kap. 9-20 eller 21-34 §§ eller föreskrifter som 
 meddelats med stöd av någon av bestämmelserna i 8 kap. 35 § 3-
-12,
-
-b) någon av 9 kap. 1 §, 8 § tredje stycket, 9-12, 14-17 a, 
-19 a-30, 31-41 eller 43 §§ eller föreskrifter som meddelats 
-med stöd av någon av bestämmelserna i 9 kap. 50 § 1, 3-9 eller 
 11,
+
+b) någon av 9 kap. 1 §, 8 § tredje stycket, 9-12, 14-17 a, 19 
+a-30, 31-41 eller 43 §§ eller föreskrifter som meddelats med 
+stöd av någon av bestämmelserna i 9 kap. 50 § 1, 3-9 eller 11, 
 
 c) någon av 11 kap. 1 §, 1 a § andra stycket, 1 b-4 eller 
 12 §§ eller driver en tillväxtmarknad för små och medelstora 
-företag trots att kraven i 13 § inte är uppfyllda,
+företag trots att kraven i 13 § inte är uppfyllda, 
 
-d) någon av 13 kap. 1 a-1 j, 6 a eller 9 §§,
+d) någon av 13 kap. 1 a-1 j, 6 a eller 9 §§, 
 
 e) 22 kap. 2 § andra stycket, 5 eller 6 § eller inte har följt 
 ett beslut som meddelats av Finansinspektionen enligt 22 kap. 
-1 §, 2 § första stycket eller 3 §, eller
+1 §, 2 § första stycket eller 3 §, eller 
 
 f) 23 kap. 2 § första stycket eller föreskrifter som meddelats 
 med stöd av 23 kap. 15 § 1, eller inte har följt en begäran, 
 ett föreläggande eller ett beslut som meddelats av 
 Finansinspektionen enligt 23 kap. 2 § tredje stycket, 3 § 
 första stycket, 3 a eller 3 b § eller har motsatt sig en 
-undersökning enligt 23 kap. 4 §. Lag (2021:968).
+undersökning enligt 23 kap. 4 §. Lag (2024:1285).
 
 15 b § Finansinspektionen ska ingripa mot en sådan person som 
 avses i 15 a §, om företaget har åsidosatt sina skyldigheter 
