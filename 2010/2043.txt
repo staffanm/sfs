@@ -2452,13 +2452,17 @@ Lag (2015:700).
 
 Kontinuitet i verksamheten
 
-3 § Ett försäkringsföretag ska ha system, resurser och
-rutiner som är lämpliga för att verksamheten ska kunna
-bedrivas med kontinuitet och i enlighet med gällande
-regler.
+3 § Ett försäkringsföretag ska ha system, resurser och rutiner 
+som är lämpliga för att verksamheten ska kunna bedrivas med 
+kontinuitet och i enlighet med gällande regler. Nätverks- och 
+informationssystem ska uppfylla kraven i Europaparlamentets 
+och rådets förordning (EU) 2022/2554 av den 14 december 2022 
+om digital operativ motståndskraft för finanssektorn och om 
+ändring av förordningarna (EG) nr 1060/2009, (EU) nr 648/2012, 
+(EU) nr 600/2014, (EU) nr 909/2014 och (EU) 2016/1011.
 
 Ett försäkringsföretag ska ha en beredskapsplan.
-Lag (2015:700).
+Lag (2024:1287).
 
 Centrala funktioner
 
@@ -2856,22 +2860,23 @@ lag eller är särskilt föreskrivet. Hänvisningar i
 aktiebolagslagen (2005:551) till bestämmelser i samma lag ska 
 i de fall de förekommer avse de bestämmelser i denna lag som 
 gäller i stället för eller utöver bestämmelserna i 
-aktiebolagslagen.
+aktiebolagslagen. 
 
 I fråga om försäkringsaktiebolag ska det som anges om 
 Bolagsverket i följande bestämmelser avse Finansinspektionen:
 
-- 8 kap. 9 och 30 §§ samt 37 § andra stycket aktiebolagslagen,
+1. 8 kap. 9 och 30 §§ samt 37 § andra stycket 
+aktiebolagslagen,
 
-- 23 kap. 45 b § aktiebolagslagen,
+2. 23 kap. 45 b § aktiebolagslagen,
 
-- 24 kap. 47 § aktiebolagslagen, och
+3. 24 kap. 47 § aktiebolagslagen, och
 
-- 24 a kap. 24 § aktiebolagslagen.
+4. 24 a kap. 24 § aktiebolagslagen.
 
 Bestämmelserna i 32 kap. aktiebolagslagen om aktiebolag med 
 särskild vinstutdelningsbegränsning gäller inte för 
-försäkringsaktiebolag. Lag (2022:1650).
+försäkringsaktiebolag. Lag (2024:1287).
 
 Hinder mot bildande
 
@@ -7136,6 +7141,20 @@ Ett ingripande enligt första stycket får ske endast om
 personen i fråga uppsåtligen eller av grov oaktsamhet orsakat 
 överträdelsen. Lag (2017:653).
 
+1 b § Finansinspektionen ska ingripa mot någon som ingår i 
+försäkringsföretagets styrelse eller är dess verkställande 
+direktör, eller ersättare för någon av dem, om företaget har 
+åsidosatt sina skyldigheter enligt någon av artiklarna 5-10, 
+11.1-11.10, 12-14, 16.1, 16.2, 17, 18.1, 18.2, 19.1, 19.3, 
+19.4, 23-25, 26.1-26.8, 27, 28.1-28.8, 29, 30.1-30.4, 31.12 
+eller 45 i Europaparlamentets och rådets förordning (EU) 
+2022/2554. 
+
+Ett ingripande enligt första stycket får ske bara om 
+företagets överträdelse är allvarlig och den fysiska personen 
+i fråga uppsåtligen eller av grov oaktsamhet orsakat 
+överträdelsen. Lag (2024:1287).
+
 Hur Finansinspektionen ska ingripa
 
 2 § Ingripande med stöd av 1 § sker genom utfärdande av
@@ -7149,13 +7168,15 @@ Om en överträdelse är allvarlig ska försäkringsföretagets
 tillstånd återkallas eller, om det är tillräckligt, varning
 meddelas. Lag (2015:700).
 
-2 a § Ingripande enligt 1 a § sker genom
+2 a § Ett ingripande enligt 1 a eller 1 b § får ske genom en 
+eller båda av följande sanktioner:
 
 1. beslut att personen i fråga under en viss tid, lägst tre 
 och högst tio år, inte får upprätthålla en funktion som avses 
-i 1 a § första stycket i ett försäkringsföretag, eller 
+i 1 a § första stycket och 1 b § första stycket i ett 
+försäkringsföretag, eller
 
-2. beslut om sanktionsavgift. Lag (2017:653).
+2. beslut om sanktionsavgift. Lag (2024:1287).
 
 Omständigheter som ska beaktas och Finansinspektionens 
 möjligheter att avstå från ingripande
@@ -7491,12 +7512,12 @@ regelöverträdelsen. Lag (2017:653).
 Sanktionsföreläggande
 
 18 a § Frågor om ingripanden mot fysiska personer för 
-överträdelser enligt 1 a § tas upp av Finansinspektionen 
-genom sanktionsföreläggande.
+överträdelser enligt 1 a eller 1 b § tas upp av 
+Finansinspektionen genom sanktionsföreläggande.
 
 Finansinspektionen ska då tillämpa bestämmelserna om 
-sanktionsföreläggande i 15 kap. 9 a–9 d §§ lagen (2004:297) 
-om bank- och finansieringsrörelse. Lag (2017:653).
+sanktionsföreläggande i 15 kap. 9 a-9 d §§ lagen (2004:297) om 
+bank- och finansieringsrörelse. Lag (2024:1287).
 
 Förseningsavgift
 
@@ -9668,15 +9689,34 @@ som avses i 10 §. Lag (2015:700).
 
 Överklagande av Finansinspektionens beslut
 
-1 § Finansinspektionens beslut i ärenden enligt 17 kap. 13 § 
-första stycket och 18 kap. 25 § andra stycket samt beslut om 
-sanktionsföreläggande får inte överklagas. Lag (2019:766).
+1 § Följande beslut av Finansinspektionen får inte överklagas: 
 
-2 § Finansinspektionens beslut som avses i 11 kap. 1 § andra 
-stycket 1 får överklagas till allmän förvaltningsdomstol. 
+1. beslut om sammankallande av styrelse eller stämma enligt 
+17 kap. 13 § första stycket, 
 
-Prövningstillstånd krävs vid överklagande till kammarrätten.
-Lag (2019:766).
+2. beslut om sanktionsföreläggande enligt 18 kap. 18 a §, 
+
+3. beslut om föreläggande att den som driver rörelsen ska 
+lämna de upplysningar om rörelsen som inspektionen behöver för 
+att bedöma om lagen är tillämplig på rörelsen enligt 18 kap. 
+25 § andra stycket, 
+
+4. beslut om begäran att den som är revisor i ett företag ska 
+lämna sådana upplysningar om företagets rörelse enligt 18 kap. 
+25 § andra stycket, eller 
+
+5. beslut om förordnande av sakkunnig enligt 
+
+- 11 kap. 1 § andra stycket 2 denna lag och 23 kap. 45 b § 
+aktiebolagslagen (2005:551), 
+
+- 11 kap. 1 § andra stycket 3 denna lag och 24 kap. 47 § 
+aktiebolagslagen, eller 
+
+- 11 kap. 1 § andra stycket 4 denna lag och 24 a kap. 24 § 
+aktiebolagslagen. Lag (2024:1287).
+
+2 § Har upphävts genom lag (2024:1287).
 
 3 § Andra beslut av Finansinspektionen i enskilda fall enligt
 denna lag får överklagas hos allmän förvaltningsdomstol.
