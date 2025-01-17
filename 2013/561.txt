@@ -3732,33 +3732,41 @@ Lag (2021:970).
 
 Organisatoriska krav
 
-2 § En AIF-förvaltare ska ha sunda rutiner för
+2 § En AIF-förvaltare ska ha sunda rutiner för 
 
 1. förvaltning av verksamheten och redovisning,
 
-2. drift och förvaltning av sina informationssystem, och
+2. drift och förvaltning av sina nätverks- och 
+informationssystem, och
 
 3. intern kontroll.
 
-AIF-förvaltaren ska särskilt
+Rutinerna enligt första stycket 2 ska uppfylla kraven i 
+Europaparlamentets och rådets förordning (EU) 2022/2554 av den 
+14 december 2022 om digital operativ motståndskraft för 
+finanssektorn och om ändring av förordningarna (EG) nr 
+1060/2009, (EU) nr 648/2012, (EU) nr 600/2014, (EU) nr 
+909/2014 och (EU) 2016/1011.
 
-1. upprätta och tillämpa regler för anställdas egna
-transaktioner,
+AIF-förvaltaren ska särskilt 
 
-2. upprätta och tillämpa regler för investeringar som görs
-för förvaltarens egen räkning,
+1. upprätta och tillämpa regler för anställdas egna 
+transaktioner, 
 
-3. ha rutiner för att kunna säkerställa att varje transaktion
-som genomförs för en alternativ investeringsfonds räkning är
-möjlig att rekonstruera i efterhand med avseende på dess
-ursprung, art, parter, tidpunkt och plats, samt
+2. upprätta och tillämpa regler för investeringar som görs för 
+förvaltarens egen räkning,
 
-4. ha rutiner för att säkerställa att tillgångarna i de
-alternativa investeringsfonder som förvaltaren förvaltar
-investeras i enlighet med denna lag och andra författningar
-som reglerar verksamheten eller lagstiftningen i det land där
-fonden är etablerad samt fondbestämmelser, bolagsordning
-eller motsvarande regelverk.
+3. ha rutiner för att kunna säkerställa att varje transaktion 
+som genomförs för en alternativ investeringsfonds räkning är 
+möjlig att rekonstruera i efterhand med avseende på dess 
+ursprung, art, parter, tidpunkt och plats, samt 
+
+4. ha rutiner för att säkerställa att tillgångarna i de 
+alternativa investeringsfonder som förvaltaren förvaltar 
+investeras i enlighet med denna lag och andra författningar 
+som reglerar verksamheten eller lagstiftningen i det land där 
+fonden är etablerad samt fondbestämmelser, bolagsordning eller 
+motsvarande regelverk. Lag (2024:1289).
 
 Arbetsordning och instruktioner om arbetsfördelningen mellan
 bolagsorganen
@@ -6011,6 +6019,29 @@ i första stycket i en AIF-förvaltare, eller
 
 2. beslut om sanktionsavgift. Lag (2017:658).
 
+1 b § Finansinspektionen ska ingripa mot någon som ingår i en 
+AIF-förvaltares ledning eller styrelse eller är förvaltarens 
+verkställande direktör eller motsvarande, eller ersättare för 
+någon av dem, om förvaltaren har åsidosatt sina skyldigheter 
+enligt någon av artiklarna 5-10, 11.1-11.10,  
+12-14, 16.1, 16.2, 17, 18.1, 18.2, 19.1, 19.3, 19.4, 23-25, 
+26.1-26.8, 27, 28.1-28.8, 29, 30.1-30.4, 31.12 eller 45 i 
+Europaparlamentets och rådets förordning (EU) 2022/2554. 
+
+Ett ingripande enligt första stycket får ske bara om AIF-
+förvaltarens överträdelse är allvarlig och den fysiska 
+personen i fråga uppsåtligen eller av grov oaktsamhet orsakat 
+överträdelsen. 
+
+Ingripande får ske genom en eller båda av följande sanktioner: 
+
+1. beslut att den fysiska personen under en viss tid, lägst 
+tre och högst tio år, inte får upprätthålla en funktion som 
+avses i första stycket i en AIF-förvaltare, eller ersättare 
+för någon av dem, eller 
+
+2. beslut om sanktionsavgift. Lag (2024:1289).
+
 2 § Vid valet av sanktion ska Finansinspektionen ta hänsyn 
 till hur allvarlig överträdelsen är och hur länge den pågått. 
 Särskild hänsyn ska tas till överträdelsens art, skador som 
@@ -6258,13 +6289,13 @@ fastställa. Lag (2017:658).
 
 Sanktionsföreläggande
 
-13 a § Frågor om ingripanden mot fysiska personer enligt 1 a 
-eller 9 a § tas upp av Finansinspektionen genom 
+13 a § Frågor om ingripanden mot fysiska personer enligt 1 a, 
+1 b eller 9 a § tas upp av Finansinspektionen genom 
 sanktionsföreläggande.
 
 Finansinspektionen ska då tillämpa bestämmelserna om 
-sanktionsföreläggande i 12 kap. 9 a–9 d §§ lagen (2004:46) 
-om värdepappersfonder. Lag (2017:658).
+sanktionsföreläggande i 12 kap. 9 a-9 d §§ lagen (2004:46) om 
+värdepappersfonder. Lag (2024:1289).
 
 Förseningsavgift
 
