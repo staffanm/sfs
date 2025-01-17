@@ -3124,12 +3124,28 @@ Lag (2018:175).
 
 Hantering av operativa risker
 
-1 § En betaltjänstleverantör ska ha ett system med 
+1 § /Upphör att gälla U:2025-01-17/
+En betaltjänstleverantör ska ha ett system med 
 lämpliga åtgärder och kontrollmekanismer för att hantera 
 operativa risker och säkerhetsrisker som är förknippade med 
 de betaltjänster som den tillhandahåller. Inom ramen för 
 detta system ska betaltjänstleverantören reglera hur 
 incidenter ska hanteras. Lag (2018:175).
+
+1 § /Träder i kraft I:2025-01-17/
+En betaltjänstleverantör ska ha ett system med lämpliga 
+åtgärder och kontrollmekanismer för att hantera operativa 
+risker och säkerhetsrisker som är förknippade med de 
+betaltjänster som den tillhandahåller. Inom ramen för detta 
+system ska betaltjänstleverantören reglera hur incidenter ska 
+hanteras.
+
+För betaltjänstleverantörer som omfattas av Europaparlamentets 
+och rådets förordning (EU) 2022/2554 av den 14 december 2022 
+om digital operativ motståndskraft för finanssektorn och om 
+ändring av förordningarna (EG) nr 1060/2009, (EU) nr 648/2012, 
+(EU) nr 600/2014, (EU) nr 909/2014 och (EU) 2016/1011 gäller 
+även kapitel II i den förordningen. Lag (2024:1286).
 
 2 § En betaltjänstleverantör ska till Finansinspektionen 
 rapportera vilka operativa risker och säkerhetsrisker som är 
@@ -3142,7 +3158,8 @@ statistiska uppgifter om svikliga förfaranden som har ägt rum
 i samband med användningen av leverantörens betaltjänster.
 Lag (2018:175).
 
-3 § En betaltjänstleverantör ska så snart det kan ske 
+3 § /Upphör att gälla U:2025-01-17/
+En betaltjänstleverantör ska så snart det kan ske 
 underrätta Finansinspektionen om en allvarlig operativ 
 incident eller säkerhetsincident som uppkommit i 
 verksamheten. Finansinspektionen ska så snart det kan ske 
@@ -3154,6 +3171,25 @@ betaltjänstanvändarnas ekonomiska intressen, ska
 betaltjänstleverantören så snart det kan ske informera 
 användarna om incidenten och om de åtgärder som kan vidtas 
 för att begränsa risken för skada. Lag (2018:175).
+
+3 § /Träder i kraft I:2025-01-17/
+En betaltjänstleverantör ska så snart det kan ske 
+underrätta Finansinspektionen om en allvarlig operativ 
+incident eller säkerhetsincident som uppkommit i verksamheten. 
+Finansinspektionen ska så snart det kan ske informera 
+Riksbanken, andra berörda svenska myndigheter, Europeiska 
+bankmyndigheten och Europeiska centralbanken. 
+
+Om incidenten påverkar eller kan påverka 
+betaltjänstanvändarnas ekonomiska intressen, ska 
+betaltjänstleverantören så snart det kan ske informera 
+användarna om incidenten och om de åtgärder som kan vidtas för 
+att begränsa risken för skada.
+
+Första och andra styckena gäller inte för 
+betaltjänstleverantörer som omfattas av bestämmelserna i 
+Europaparlamentets och rådets förordning (EU) 2022/2554.
+Lag (2024:1286).
 
 Stark kundautentisering
 
@@ -3192,7 +3228,8 @@ betaltjänstanvändaren. Lag (2018:175).
 
 Bemyndiganden
 
-6 § Regeringen eller den myndighet som regeringen 
+6 § /Upphör att gälla U:2025-01-17/
+Regeringen eller den myndighet som regeringen 
 bestämmer får meddela föreskrifter om
 
 1. hur ett system enligt 1 § ska utformas, 
@@ -3209,6 +3246,25 @@ påverka betaltjänstanvändarnas ekonomiska intressen enligt
 
 5. hur betaltjänstanvändarna ska informeras enligt 3 § andra 
 stycket. Lag (2018:175). 
+
+6 § /Träder i kraft I:2025-01-17/
+Regeringen eller den myndighet som regeringen bestämmer 
+får meddela föreskrifter om
+
+1. hur ett system enligt 1 § första stycket ska utformas,
+
+2. vilka upplysningar en betaltjänstleverantör ska lämna 
+enligt 2 § samt hur och när uppgifterna ska lämnas, 
+
+3. vad som utgör en allvarlig operativ incident eller 
+säkerhetsincident enligt 3 § första stycket, 
+
+4. hur bedömningen av om en incident påverkar eller kan 
+påverka betaltjänstanvändarnas ekonomiska intressen enligt 3 § 
+andra stycket ska göras, och
+
+5. hur betaltjänstanvändarna ska informeras enligt 3 § andra 
+stycket. Lag (2024:1286).
 
 6 kap. Behandling av personuppgifter m.m.
 
@@ -3678,7 +3734,32 @@ i första stycket hos ett betalningsinstitut, eller
 
 2. beslut om sanktionsavgift. Lag (2024:1164).
 
-9 § Vid valet av ingripande ska Finansinspektionen ta hänsyn 
+8 b § /Träder i kraft I:2025-01-17/
+Finansinspektionen ska ingripa mot någon som ingår i 
+betalningsinstitutets styrelse eller är dess verkställande 
+direktör, eller ersättare för någon av dem, om institutet har 
+åsidosatt sina skyldigheter enligt någon av artiklarna 5-10, 
+11.1-11.10, 12-14, 16.1, 16.2, 17, 18.1, 18.2, 19.1, 19.3, 
+19.4, 23-25, 26.1-26.8, 27, 28.1-28.8, 29, 30.1-30.4, 31.12 
+eller 45 i Europaparlamentets och rådets förordning (EU) 
+2022/2554. 
+
+Ett ingripande enligt första stycket får ske bara om 
+institutets överträdelse är allvarlig och den fysiska personen 
+i fråga uppsåtligen eller av grov oaktsamhet orsakat 
+överträdelsen. 
+
+Ingripande får ske genom en eller båda av följande sanktioner: 
+
+1. beslut att den fysiska personen under en viss tid, lägst 
+tre och högst tio år, inte får vara styrelseledamot eller 
+verkställande direktör i ett betalningsinstitut, eller 
+ersättare för någon av dem, eller 
+
+2. beslut om sanktionsavgift. Lag (2024:1286).
+
+9 § /Upphör att gälla U:2025-01-17/
+Vid valet av ingripande ska Finansinspektionen ta hänsyn 
 till hur allvarlig överträdelsen är och hur länge den har 
 pågått. Särskild hänsyn ska tas till skador som har uppstått 
 och graden av ansvar.
@@ -3695,6 +3776,25 @@ institutet gör rättelse, eller
 3. någon annan myndighet har vidtagit åtgärder mot institutet 
 eller den fysiska personen i betalningsinstitutets ledning 
 som bedöms vara tillräckliga. Lag (2017:652).
+
+9 § /Träder i kraft I:2025-01-17/
+Vid valet av ingripande ska Finansinspektionen ta hänsyn 
+till hur allvarlig överträdelsen är och hur länge den har 
+pågått. Särskild hänsyn ska tas till skador som har uppstått 
+och graden av ansvar.
+
+Finansinspektionen får avstå från ingripande enligt 8-8 b §§ 
+om
+
+1. en överträdelse är ringa eller ursäktlig,
+
+2. betalningsinstitutet gör rättelse eller om den fysiska 
+personen i betalningsinstitutets ledning verkat för att 
+institutet gör rättelse, eller
+
+3. någon annan myndighet har vidtagit åtgärder mot institutet 
+eller den fysiska personen i betalningsinstitutets ledning som 
+bedöms vara tillräckliga. Lag (2024:1286).
 
 9 a § I försvårande riktning ska det beaktas om 
 betalningsinstitutet tidigare har begått en överträdelse 
@@ -3878,13 +3978,23 @@ Lag (2017:652).
 
 Sanktionsföreläggande
 
-16 a § Frågor om ingripanden mot fysiska personer enligt 
+16 a § /Upphör att gälla U:2025-01-17/
+Frågor om ingripanden mot fysiska personer enligt 
 8 a § tas upp av Finansinspektionen genom 
 sanktionsföreläggande.
 
 Finansinspektionen ska då tillämpa bestämmelserna i 15 kap. 
 9 a–9 d §§ lagen (2004:297) om bank- och 
 finansieringsrörelse. Lag (2017:652).
+
+16 a § /Träder i kraft I:2025-01-17/
+Frågor om ingripanden mot fysiska personer enligt 8 a 
+eller 8 b § tas upp av Finansinspektionen genom 
+sanktionsföreläggande.
+
+Finansinspektionen ska då tillämpa bestämmelserna i 15 kap. 
+9 a-9 d §§ lagen (2004:297) om bank- och finansieringsrörelse.
+Lag (2024:1286).
 
 Förseningsavgift
 
@@ -4102,6 +4212,73 @@ i första stycket hos en registrerad betaltjänstleverantör,
 eller
 
 2. beslut om sanktionsavgift. Lag (2024:1164).
+
+23 b § /Upphör att gälla U:2025-01-17/
+Finansinspektionen ska ingripa mot en person som ingår 
+i en registrerad betaltjänstleverantörs styrelse eller är dess 
+verkställande direktör eller på motsvarande sätt företräder 
+betaltjänstleverantören, eller är ersättare för någon av dem, 
+om den registrerade betaltjänstleverantören har befunnits 
+ansvarig för en överträdelse av lagen (2017:630) om åtgärder 
+mot penningtvätt och finansiering av terrorism eller 
+föreskrifter som har meddelats med stöd av den lagen eller en 
+överträdelse av Europaparlamentets och rådets förordning (EU) 
+2023/1113. 
+
+Ett ingripande enligt första stycket får ske endast om 
+överträdelsen är allvarlig, upprepad eller systematisk och 
+personen i fråga uppsåtligen eller av grov oaktsamhet orsakat 
+överträdelsen.
+
+Ingripande sker genom
+
+1. beslut att personen i fråga under en viss tid, lägst tre 
+och högst tio år, inte får upprätthålla en funktion som avses 
+i första stycket hos en registrerad betaltjänstleverantör, 
+eller
+
+2. beslut om sanktionsavgift. Lag (2024:1164).
+
+23 b § /Träder i kraft I:2025-01-17/
+Finansinspektionen ska ingripa mot någon som ingår i en 
+registrerad betaltjänstleverantörs styrelse eller är dess 
+verkställande direktör eller på motsvarande sätt företräder 
+betaltjänstleverantören, eller är ersättare för någon av dem, 
+om den registrerade betaltjänstleverantören har befunnits 
+ansvarig för en överträdelse av lagen (2017:630) om åtgärder 
+mot penningtvätt och finansiering av terrorism eller 
+föreskrifter som har meddelats med stöd av den lagen eller en 
+överträdelse av Europaparlamentets och rådets förordning (EU) 
+2023/1113. 
+
+Ett ingripande enligt första stycket får ske bara om 
+överträdelsen är allvarlig, upprepad eller systematisk och 
+personen i fråga uppsåtligen eller av grov oaktsamhet orsakat 
+överträdelsen. 
+
+Finansinspektionen ska även ingripa mot någon som ingår i en 
+registrerad betaltjänstleverantörs styrelse eller är dess 
+verkställande direktör eller på motsvarande sätt företräder 
+betaltjänstleverantören, eller är ersättare för någon av dem, 
+om den registrerade betaltjänstleverantören har åsidosatt sina 
+skyldigheter enligt någon av artiklarna 5-10, 11.1-11.10, 12-
+14, 16.1, 16.2, 17, 18.1, 18.2, 19.1, 19.3, 19.4, 23-25, 26.1-
+26.8, 27, 28.1-28.8, 29, 30.1-30.4, 31.12 eller 45 i 
+Europaparlamentets och rådets förordning (EU) 2022/2554. 
+
+Ett ingripande enligt tredje stycket får ske bara om den 
+registrerade betaltjänstleverantörens överträdelse är 
+allvarlig och den fysiska personen i fråga uppsåtligen eller 
+av grov oaktsamhet orsakat överträdelsen. 
+
+Ingripande får ske genom en eller båda av följande sanktioner:
+
+1. beslut att personen i fråga under en viss tid, lägst tre 
+och högst tio år, inte får upprätthålla en funktion som avses 
+i första stycket hos en registrerad betaltjänstleverantör, 
+eller
+
+2. beslut om sanktionsavgift. Lag (2024:1286).
 
 23 c § Vid beslut om ingripande enligt 23 a § andra stycket 
 och 23 b § gäller 15 b och 16 a §§. 
