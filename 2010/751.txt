@@ -468,18 +468,7 @@ dotterföretag till ett och samma moderföretag, utom när en
 annan betaltjänstleverantör än ett företag i samma grupp 
 medverkar som mellanhand. Lag (2018:175).
 
-8 § /Upphör att gälla U:2024-12-30/
-Europaparlamentets och rådets förordning (EU) 2015/847 av 
-den 20 maj 2015 om uppgifter som ska åtfölja överföringar av 
-medel och om upphävande av förordning (EG) nr 1781/2006 ska 
-inte tillämpas på överföringar av medel inom Sverige till en 
-betalningsmottagares betalkonto som uteslutande möjliggör 
-betalning för tillhandahållande av varor eller tjänster, om 
-förutsättningarna enligt artikel 2.5 a–c i förordning (EU) 
-2015/847 är uppfyllda. Lag (2017:652).
-
-8 § /Träder i kraft I:2024-12-30/
-Europaparlamentets och rådets förordning (EU) 2023/1113 av 
+8 § Europaparlamentets och rådets förordning (EU) 2023/1113 av 
 den 31 maj 2023 om uppgifter som ska åtfölja överföringar av 
 medel och vissa kryptotillgångar och ändring av direktiv (EU) 
 2015/849 ska inte tillämpas på överföringar av medel inom 
@@ -846,7 +835,8 @@ hänsyn till det totala kreditbeloppet. Lag (2018:175).
 
 Skyddskrav
 
-7 § Ett betalningsinstitut eller en registrerad 
+7 § /Upphör att gälla U:2025-04-09/
+Ett betalningsinstitut eller en registrerad 
 betaltjänstleverantör ska vidta särskilda åtgärder för att 
 skydda en betaltjänstanvändares medel som mottagits för 
 genomförande av betalningstransaktioner. Sådana medel ska
@@ -879,6 +869,47 @@ en registrerad betaltjänstleverantör, om det är möjligt att
 på grundval av historiska uppgifter och efter tillstånd av 
 Finansinspektionen, göra en uppskattning av denna andel.
 Lag (2018:175).
+
+7 § /Träder i kraft I:2025-04-09/
+Ett betalningsinstitut eller en registrerad 
+betaltjänstleverantör ska vidta särskilda åtgärder för att 
+skydda en betaltjänstanvändares medel som mottagits för 
+genomförande av betalningstransaktioner. Sådana medel ska
+
+1. hållas avskilda från betalningsinstitutets eller den 
+registrerade betaltjänstleverantörens egna tillgångar och 
+medel som innehas för annans räkning än betaltjänstanvändares, 
+eller
+
+2. omfattas av en försäkring eller garanti som
+
+a) tillhandahålls av ett försäkringsföretag eller ett 
+kreditinstitut som inte ingår i samma koncern som 
+betalningsinstitutet eller den registrerade 
+betaltjänstleverantören, och
+
+b) ger samma skydd för betaltjänstanvändaren som om medlen 
+hålls åtskilda enligt 1.
+
+Medel för genomförande av transaktioner enligt 
+första stycket 1, som fortfarande innehas av 
+betalningsinstitutet eller den registrerade 
+betaltjänstleverantören vid slutet av bankdagen efter den dag 
+då medlen mottogs, ska deponeras på ett särskilt konto hos ett 
+kreditinstitut eller ett utländskt kreditinstitut eller 
+investeras i likvida tillgångar med låg risk.
+
+Första och andra styckena gäller även i de fall då ett 
+betalningsinstitut eller en registrerad betaltjänstleverantör 
+tar emot medel där en andel ska användas för framtida 
+betalningstransaktioner och återstoden för andra tjänster än 
+betaltjänster. Om det inte går att fastställa hur stor andel 
+av användares medel som kommer att användas till 
+betalningstransaktionerna, får ett betalningsinstitut eller en 
+registrerad betaltjänstleverantör, om det är möjligt att på 
+grundval av historiska uppgifter och efter tillstånd av 
+Finansinspektionen, göra en uppskattning av denna andel.
+Lag (2024:1370).
 
 Bevarande av uppgifter
 
@@ -3124,16 +3155,7 @@ Lag (2018:175).
 
 Hantering av operativa risker
 
-1 § /Upphör att gälla U:2025-01-17/
-En betaltjänstleverantör ska ha ett system med 
-lämpliga åtgärder och kontrollmekanismer för att hantera 
-operativa risker och säkerhetsrisker som är förknippade med 
-de betaltjänster som den tillhandahåller. Inom ramen för 
-detta system ska betaltjänstleverantören reglera hur 
-incidenter ska hanteras. Lag (2018:175).
-
-1 § /Träder i kraft I:2025-01-17/
-En betaltjänstleverantör ska ha ett system med lämpliga 
+1 § En betaltjänstleverantör ska ha ett system med lämpliga 
 åtgärder och kontrollmekanismer för att hantera operativa 
 risker och säkerhetsrisker som är förknippade med de 
 betaltjänster som den tillhandahåller. Inom ramen för detta 
@@ -3158,22 +3180,7 @@ statistiska uppgifter om svikliga förfaranden som har ägt rum
 i samband med användningen av leverantörens betaltjänster.
 Lag (2018:175).
 
-3 § /Upphör att gälla U:2025-01-17/
-En betaltjänstleverantör ska så snart det kan ske 
-underrätta Finansinspektionen om en allvarlig operativ 
-incident eller säkerhetsincident som uppkommit i 
-verksamheten. Finansinspektionen ska så snart det kan ske 
-informera Riksbanken, andra berörda svenska myndigheter, 
-Europeiska bankmyndigheten och Europeiska centralbanken.
-
-Om incidenten påverkar eller kan påverka 
-betaltjänstanvändarnas ekonomiska intressen, ska 
-betaltjänstleverantören så snart det kan ske informera 
-användarna om incidenten och om de åtgärder som kan vidtas 
-för att begränsa risken för skada. Lag (2018:175).
-
-3 § /Träder i kraft I:2025-01-17/
-En betaltjänstleverantör ska så snart det kan ske 
+3 § En betaltjänstleverantör ska så snart det kan ske 
 underrätta Finansinspektionen om en allvarlig operativ 
 incident eller säkerhetsincident som uppkommit i verksamheten. 
 Finansinspektionen ska så snart det kan ske informera 
@@ -3228,27 +3235,7 @@ betaltjänstanvändaren. Lag (2018:175).
 
 Bemyndiganden
 
-6 § /Upphör att gälla U:2025-01-17/
-Regeringen eller den myndighet som regeringen 
-bestämmer får meddela föreskrifter om
-
-1. hur ett system enligt 1 § ska utformas, 
-
-2. vilka upplysningar en betaltjänstleverantör ska lämna 
-enligt 2 § samt hur och när uppgifterna ska lämnas, 
-
-3. vad som utgör en allvarlig operativ incident eller 
-säkerhetsincident enligt 3 § första stycket, 
-
-4. hur bedömningen av om en incident påverkar eller kan 
-påverka betaltjänstanvändarnas ekonomiska intressen enligt 
-3 § andra stycket ska göras, och
-
-5. hur betaltjänstanvändarna ska informeras enligt 3 § andra 
-stycket. Lag (2018:175). 
-
-6 § /Träder i kraft I:2025-01-17/
-Regeringen eller den myndighet som regeringen bestämmer 
+6 § Regeringen eller den myndighet som regeringen bestämmer 
 får meddela föreskrifter om
 
 1. hur ett system enligt 1 § första stycket ska utformas,
@@ -3399,7 +3386,8 @@ betalningssystem, om betaltjänstleverantören uppfyller sådana
 krav för tillträde till betalningssystemet som uppställts i
 enlighet med 1 §.
 
-3 § Bestämmelserna i 1 och 2 §§ gäller inte för
+3 § /Upphör att gälla U:2025-04-09/
+Bestämmelserna i 1 och 2 §§ gäller inte för
 
 1. betalningssystem enligt lagen (1999:1309) om system för
 avveckling av förpliktelser på finansmarknaden, eller
@@ -3411,6 +3399,16 @@ betalningssystemets ledning, och denne betaltjänstleverantör
 tillåter andra betaltjänstleverantörer att delta i
 betalningssystemet utan att dessa kan förhandla om avgifter
 mellan sig avseende betalningssystemet.
+
+3 § /Träder i kraft I:2025-04-09/
+Bestämmelserna i 1 och 2 §§ gäller inte för 
+betalningssystem i vilka en betaltjänstleverantör verkar eller 
+kan verka både som betalarens och betalningsmottagarens 
+betaltjänstleverantör samt är ensamt ansvarig för 
+betalningssystemets ledning, och denne betaltjänstleverantör 
+tillåter andra betaltjänstleverantörer att delta i 
+betalningssystemet utan att dessa kan förhandla om avgifter 
+mellan sig avseende betalningssystemet. Lag (2024:1370).
 
 4 § Om en deltagare i ett betalningssystem enligt lagen 
 (1999:1309) om system för avveckling av förpliktelser på 
@@ -3689,30 +3687,7 @@ eller en anmärkning. Om överträdelsen är allvarlig ska
 betalningsinstitutets tillstånd återkallas eller, om det är 
 tillräckligt, varning meddelas. Lag (2024:392).
 
-8 a § /Upphör att gälla U:2024-12-30/
-Finansinspektionen ska ingripa mot någon som ingår i 
-betalningsinstitutets styrelse eller är dess verkställande 
-direktör, eller ersättare för någon av dem, om institutet har 
-befunnits ansvarigt för en överträdelse av lagen (2017:630) 
-om åtgärder mot penningtvätt och finansiering av terrorism 
-eller föreskrifter som har meddelats med stöd av den lagen 
-eller en överträdelse av förordning (EU) 2015/847.
-
-Ett ingripande enligt första stycket får ske endast om 
-överträdelsen är allvarlig, upprepad eller systematisk och 
-personen i fråga uppsåtligen eller av grov oaktsamhet orsakat 
-överträdelsen.
-
-Ingripande sker genom
-
-1. beslut att personen i fråga under en viss tid, lägst tre 
-och högst tio år, inte får upprätthålla en funktion som avses 
-i första stycket hos ett betalningsinstitut, eller
-
-2. beslut om sanktionsavgift. Lag (2017:652).
-
-8 a § /Träder i kraft I:2024-12-30/
-Finansinspektionen ska ingripa mot någon som ingår i 
+8 a § Finansinspektionen ska ingripa mot någon som ingår i 
 betalningsinstitutets styrelse eller är dess verkställande 
 direktör, eller ersättare för någon av dem, om institutet har 
 befunnits ansvarigt för en överträdelse av lagen (2017:630) om 
@@ -3734,8 +3709,7 @@ i första stycket hos ett betalningsinstitut, eller
 
 2. beslut om sanktionsavgift. Lag (2024:1164).
 
-8 b § /Träder i kraft I:2025-01-17/
-Finansinspektionen ska ingripa mot någon som ingår i 
+8 b § Finansinspektionen ska ingripa mot någon som ingår i 
 betalningsinstitutets styrelse eller är dess verkställande 
 direktör, eller ersättare för någon av dem, om institutet har 
 åsidosatt sina skyldigheter enligt någon av artiklarna 5-10, 
@@ -3758,27 +3732,7 @@ ersättare för någon av dem, eller
 
 2. beslut om sanktionsavgift. Lag (2024:1286).
 
-9 § /Upphör att gälla U:2025-01-17/
-Vid valet av ingripande ska Finansinspektionen ta hänsyn 
-till hur allvarlig överträdelsen är och hur länge den har 
-pågått. Särskild hänsyn ska tas till skador som har uppstått 
-och graden av ansvar.
-
-Finansinspektionen får avstå från ingripande enligt 8 och 
-8 a §§ om
-
-1. en överträdelse är ringa eller ursäktlig, 
-
-2. betalningsinstitutet gör rättelse eller om den fysiska 
-personen i betalningsinstitutets ledning verkat för att 
-institutet gör rättelse, eller
-
-3. någon annan myndighet har vidtagit åtgärder mot institutet 
-eller den fysiska personen i betalningsinstitutets ledning 
-som bedöms vara tillräckliga. Lag (2017:652).
-
-9 § /Träder i kraft I:2025-01-17/
-Vid valet av ingripande ska Finansinspektionen ta hänsyn 
+9 § Vid valet av ingripande ska Finansinspektionen ta hänsyn 
 till hur allvarlig överträdelsen är och hur länge den har 
 pågått. Särskild hänsyn ska tas till skador som har uppstått 
 och graden av ansvar.
@@ -3915,29 +3869,7 @@ med betaltjänster.
 Avgiften får inte vara så stor att institutet därefter inte 
 uppfyller kraven i 3 kap. 2 §. Lag (2017:652).
 
-15 a § /Upphör att gälla U:2024-12-30/
-När det är fråga om en överträdelse av lagen 
-(2017:630) om åtgärder mot penningtvätt och finansiering av 
-terrorism eller föreskrifter som har meddelats med stöd av 
-den lagen eller en överträdelse av förordning (EU) 2015/847, 
-ska den sanktionsavgift som kan beslutas enligt 14 § uppgå 
-till lägst 5 000 kronor och som högst fastställas till det 
-högsta av
-
-1. tio procent av betalningsinstitutets omsättning närmast 
-föregående räkenskapsår eller, i förekommande fall, 
-motsvarande omsättning på koncernnivå, 
-
-2. två gånger den vinst som institutet gjort till följd av 
-regelöverträdelsen, om beloppet går att fastställa, eller
-
-3. ett belopp i kronor motsvarande fem miljoner euro.
-
-Avgiften får inte vara så stor att institutet därefter inte 
-uppfyller kraven i 3 kap. 2 §. Lag (2017:652).
-
-15 a § /Träder i kraft I:2024-12-30/
-När det är fråga om en överträdelse av lagen (2017:630) 
+15 a § När det är fråga om en överträdelse av lagen (2017:630) 
 om åtgärder mot penningtvätt och finansiering av terrorism 
 eller föreskrifter som har meddelats med stöd av den lagen 
 eller en överträdelse av Europaparlamentets och rådets 
@@ -3978,17 +3910,7 @@ Lag (2017:652).
 
 Sanktionsföreläggande
 
-16 a § /Upphör att gälla U:2025-01-17/
-Frågor om ingripanden mot fysiska personer enligt 
-8 a § tas upp av Finansinspektionen genom 
-sanktionsföreläggande.
-
-Finansinspektionen ska då tillämpa bestämmelserna i 15 kap. 
-9 a–9 d §§ lagen (2004:297) om bank- och 
-finansieringsrörelse. Lag (2017:652).
-
-16 a § /Träder i kraft I:2025-01-17/
-Frågor om ingripanden mot fysiska personer enligt 8 a 
+16 a § Frågor om ingripanden mot fysiska personer enligt 8 a 
 eller 8 b § tas upp av Finansinspektionen genom 
 sanktionsföreläggande.
 
@@ -4033,38 +3955,7 @@ eller sanktionsföreläggandet godkändes. Lag (2017:652).
 
 Ingripande mot utländska företag
 
-21 § /Upphör att gälla U:2024-12-30/
-Finansinspektionen får förelägga ett utländskt 
-företag som tillhandahåller betaltjänster i enlighet med 3 
-kap. 26 § att göra rättelse, om dess verksamhet med 
-betaltjänster i Sverige inte drivs enligt gällande 
-bestämmelser om åtgärder mot penningtvätt och finansiering av 
-terrorism eller i enlighet med Europaparlamentets och rådets 
-förordning (EU) 2015/847.
-
-Om ett utländskt företag som i Sverige tillhandahåller 
-betaltjänster från en filial eller genom ett ombud enligt 3 
-kap. 26 § inte driver denna verksamhet i enlighet med 
-bestämmelserna i denna lag, ska Finansinspektionen så snart 
-det kan ske underrätta den behöriga myndigheten i företagets 
-hemland. Finansinspektionen får förelägga företaget att göra 
-rättelse om dess verksamhet med betaltjänster i Sverige inte 
-drivs i enlighet med 4 och 5–5 b kap.
-
-Om ett företag inte följer ett föreläggande enligt första 
-eller andra stycket ska Finansinspektionen underrätta den 
-behöriga myndigheten i företagets hemland.
-
-Om rättelse inte sker, får Finansinspektionen förbjuda 
-företaget att påbörja nya betalningstransaktioner här i 
-landet. Innan förbud meddelas ska inspektionen underrätta den 
-behöriga myndigheten i företagets hemland. I brådskande fall 
-får inspektionen meddela förbud utan föregående underrättelse 
-till myndigheten i företagets hemland. Denna ska dock 
-underrättas så snart det kan ske. Lag (2018:175).
-
-21 § /Träder i kraft I:2024-12-30/
-Finansinspektionen får förelägga ett utländskt företag 
+21 § Finansinspektionen får förelägga ett utländskt företag 
 som tillhandahåller betaltjänster i enlighet med 3 kap. 26 § 
 att göra rättelse, om dess verksamhet med betaltjänster i 
 Sverige inte drivs enligt gällande bestämmelser om åtgärder 
@@ -4129,24 +4020,7 @@ den som driver verksamheten att lämna de upplysningar om
 verksamheten som behövs för att bedöma om så är fallet.
 Lag (2024:392).
 
-23 a § /Upphör att gälla U:2024-12-30/
-Vid en överträdelse av lagen (2017:630) om åtgärder 
-mot penningtvätt och finansiering av terrorism eller 
-föreskrifter som har meddelats med stöd av den lagen eller en 
-överträdelse av förordning (EU) 2015/847, som inte är ringa, 
-får Finansinspektionen ingripa mot en registrerad 
-betaltjänstleverantör som är en juridisk person genom beslut 
-om sanktionsavgift som bestäms i enlighet med 15 a §.
-
-Om den registrerade betaltjänstleverantören är en fysisk 
-person, får sanktionsavgift beslutas endast om överträdelsen 
-är allvarlig, upprepad eller systematisk och personen i fråga 
-uppsåtligen eller av grov oaktsamhet orsakat överträdelsen.
-
-Avgiften tillfaller staten. Lag (2017:652).
-
-23 a § /Träder i kraft I:2024-12-30/
-Vid en överträdelse av lagen (2017:630) om åtgärder mot 
+23 a § Vid en överträdelse av lagen (2017:630) om åtgärder mot 
 penningtvätt och finansiering av terrorism eller föreskrifter 
 som har meddelats med stöd av den lagen eller en överträdelse 
 av Europaparlamentets och rådets förordning (EU) 2023/1113, 
@@ -4162,85 +4036,7 @@ uppsåtligen eller av grov oaktsamhet orsakat överträdelsen.
 
 Avgiften tillfaller staten. Lag (2024:1164).
 
-23 b § /Upphör att gälla U:2024-12-30/
-Finansinspektionen ska ingripa mot en person som ingår 
-i en registrerad betaltjänstleverantörs styrelse eller är 
-dess verkställande direktör eller på motsvarande sätt 
-företräder betaltjänstleverantören, eller är ersättare för 
-någon av dem, om den registrerade betaltjänstleverantören har 
-befunnits ansvarig för en överträdelse av lagen (2017:630) om 
-åtgärder mot penningtvätt och finansiering av terrorism eller 
-föreskrifter som har meddelats med stöd av den lagen eller en 
-överträdelse av förordning (EU) 2015/847.
-
-Ett ingripande enligt första stycket får ske endast om 
-överträdelsen är allvarlig, upprepad eller systematisk och 
-personen i fråga uppsåtligen eller av grov oaktsamhet orsakat 
-överträdelsen.
-
-Ingripande sker genom
-
-1. beslut att personen i fråga under en viss tid, lägst tre 
-och högst tio år, inte får upprätthålla en funktion som avses 
-i första stycket hos en registrerad betaltjänstleverantör, 
-eller 
-
-2. beslut om sanktionsavgift. Lag (2017:652).
-
-23 b § /Träder i kraft I:2024-12-30/
-Finansinspektionen ska ingripa mot en person som ingår 
-i en registrerad betaltjänstleverantörs styrelse eller är dess 
-verkställande direktör eller på motsvarande sätt företräder 
-betaltjänstleverantören, eller är ersättare för någon av dem, 
-om den registrerade betaltjänstleverantören har befunnits 
-ansvarig för en överträdelse av lagen (2017:630) om åtgärder 
-mot penningtvätt och finansiering av terrorism eller 
-föreskrifter som har meddelats med stöd av den lagen eller en 
-överträdelse av Europaparlamentets och rådets förordning (EU) 
-2023/1113. 
-
-Ett ingripande enligt första stycket får ske endast om 
-överträdelsen är allvarlig, upprepad eller systematisk och 
-personen i fråga uppsåtligen eller av grov oaktsamhet orsakat 
-överträdelsen.
-
-Ingripande sker genom
-
-1. beslut att personen i fråga under en viss tid, lägst tre 
-och högst tio år, inte får upprätthålla en funktion som avses 
-i första stycket hos en registrerad betaltjänstleverantör, 
-eller
-
-2. beslut om sanktionsavgift. Lag (2024:1164).
-
-23 b § /Upphör att gälla U:2025-01-17/
-Finansinspektionen ska ingripa mot en person som ingår 
-i en registrerad betaltjänstleverantörs styrelse eller är dess 
-verkställande direktör eller på motsvarande sätt företräder 
-betaltjänstleverantören, eller är ersättare för någon av dem, 
-om den registrerade betaltjänstleverantören har befunnits 
-ansvarig för en överträdelse av lagen (2017:630) om åtgärder 
-mot penningtvätt och finansiering av terrorism eller 
-föreskrifter som har meddelats med stöd av den lagen eller en 
-överträdelse av Europaparlamentets och rådets förordning (EU) 
-2023/1113. 
-
-Ett ingripande enligt första stycket får ske endast om 
-överträdelsen är allvarlig, upprepad eller systematisk och 
-personen i fråga uppsåtligen eller av grov oaktsamhet orsakat 
-överträdelsen.
-
-Ingripande sker genom
-
-1. beslut att personen i fråga under en viss tid, lägst tre 
-och högst tio år, inte får upprätthålla en funktion som avses 
-i första stycket hos en registrerad betaltjänstleverantör, 
-eller
-
-2. beslut om sanktionsavgift. Lag (2024:1164).
-
-23 b § /Träder i kraft I:2025-01-17/
-Finansinspektionen ska ingripa mot någon som ingår i en 
+23 b § Finansinspektionen ska ingripa mot någon som ingår i en 
 registrerad betaltjänstleverantörs styrelse eller är dess 
 verkställande direktör eller på motsvarande sätt företräder 
 betaltjänstleverantören, eller är ersättare för någon av dem, 
