@@ -97,7 +97,7 @@ sekretesslagen (2009:400) i stället för första stycket.
 Rättslig förpliktelse
 
 1 § Personuppgifter får behandlas med stöd av artikel 
-6.1 c i EU:s data-skyddsförordning, om behandlingen är 
+6.1 c i EU:s dataskyddsförordning, om behandlingen är 
 nödvändig för att den personuppgiftsansvarige ska kunna 
 fullgöra en rättslig förpliktelse som följer av lag eller 
 annan författning, av kollektivavtal eller av beslut som har 
@@ -139,12 +139,10 @@ om barnet är minst 13 år. Om barnet är under 13 år, ska sådan
 behandling vara tillåten endast om samtycke ges eller 
 godkänns av den som har föräldraansvar för barnet.
 
-/Rubriken träder i kraft I:2025-04-01/
 Möjlighet för enskilda att lämna uppgifter till 
 brottsbekämpande myndigheter
 
-5 § /Träder i kraft I:2025-04-01/
-Enskilda får behandla personuppgifter för att lämna 
+5 § Enskilda får behandla personuppgifter för att lämna 
 uppgifter som har begärts av Ekobrottsmyndigheten, 
 Kustbevakningen, Polismyndigheten, Skatteverket, 
 Säkerhetspolisen, Tullverket och Åklagarmyndigheten för att 
@@ -412,6 +410,24 @@ indrivning får verkställighet ske enligt utsökningsbalken.
 sanktionsavgifter enligt EU:s dataskyddsförordning och denna 
 lag.
 
+Besked om handläggningen av ett klagomål
+
+8 § Om tillsynsmyndigheten inte inom tre månader från den dag 
+då ett klagomål kom in till myndigheten har tagit ställning 
+till om tillsyn ska inledas med anledning av klagomålet, ska 
+myndigheten efter skriftlig begäran av den registrerade lämna 
+besked i frågan. Om tillsynsmyndigheten inte kan lämna besked 
+i frågan ska den i ett särskilt beslut avslå begäran.
+
+Tillsynsmyndigheten ska lämna ett besked eller meddela ett 
+beslut inom två veckor från den dag då begäran kom in till 
+myndigheten. Om så inte har skett ska begäran anses ha 
+avslagits.
+
+Om tillsynsmyndigheten har avslagit en begäran får den 
+registrerade lämna in en ny begäran tidigast tre månader 
+därefter. Lag (2025:256).
+
 7 kap. Skadestånd och överklagande
 
 Skadestånd
@@ -447,6 +463,14 @@ domstolen.
 Prövningstillstånd krävs vid överklagande till 
 kammarrätten.
 
+3 a § Tillsynsmyndighetens beslut att avslå en begäran enligt 
+6 kap. 8 § första stycket får överklagas till allmän 
+förvaltningsdomstol. Detsamma gäller en begäran som anses ha 
+avslagits enligt 6 kap. 8 § andra stycket. 
+
+Prövningstillstånd krävs vid överklagande till kammarrätten.
+Lag (2025:256).
+
 Överklagande av vissa andra beslut 
 
 4 § Beslut enligt 2 kap. 3 § andra stycket, 3 kap. 6 § 
@@ -460,6 +484,13 @@ kammarrätten.
 
 5 § Andra beslut enligt EU:s dataskyddsförordning eller 
 denna lag än de som avses i 2–4 §§ får inte överklagas.
+
+Föreläggande när handläggningen av ett klagomål har försenats
+
+6 § Om domstolen bifaller ett överklagande som avses i 3 a §, 
+ska den förelägga tillsynsmyndigheten att snarast lämna den 
+registrerade besked i frågan om huruvida tillsyn kommer att 
+inledas. Lag (2025:256).
 
 
 Övergångsbestämmelser
