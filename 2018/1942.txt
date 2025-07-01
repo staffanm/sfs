@@ -44,6 +44,14 @@ myndighet som avses i 3 kap. 6 § andra stycket lagen
 (2018:1693) om polisens behandling av personuppgifter inom 
 brottsdatalagens område.
 
+4 a § En automatiserad ansikts- eller fingeravtrycksjämförelse enligt 6 a kap. 1 § lagen (2018:1693) om polisens behandling av personuppgifter inom brottsdatalagens område ska efterföljas av en manuell forensisk analys innan resultatet redovisas.
+Förordning (2025:150).
+
+Uppgifter i biometriregistren
+
+4 b § Biometriregistren får utöver vad som följer av 5 kap. 2 § lagen (2018:1693) om polisens behandling av personuppgifter inom brottsdatalagens område innehålla uppgifter om ärendenummer, andra referensuppgifter och brottskod. Biometriregistren över misstänkta och dömda får även innehålla uppgifter om den registrerades namn, personnummer, samordningsnummer eller liknande identitetsuppgifter.
+Förordning (2025:150).
+
 Utlämnande av personuppgifter
 
 5 § Om en uppgift i en förundersökning kan antas ha 
@@ -70,21 +78,14 @@ Direktåtkomst får inte medges innan Polismyndigheten eller
 Ekobrottsmyndigheten har försäkrat sig om att den mottagande 
 myndigheten uppfyller kraven på behörighet och säkerhet.
 
-8 § Säkerhetspolisens, Ekobrottsmyndighetens, 
-Åklagarmyndighetens, Tullverkets och Kustbevakningens 
-direktåtkomst till register över dna-profiler enligt 5 kap. 
-10 § lagen (2018:1693) om polisens behandling av 
-personuppgifter inom brottsdatalagens område, ska begränsas 
-till uppgifter om huruvida någon förekommer i sådana 
-register.
+8 § Säkerhetspolisens, Ekobrottsmyndighetens, Åklagarmyndighetens, Tullverkets och Kustbevakningens direktåtkomst till uppgifter i biometriregister enligt 5 kap. 16 § lagen (2018:1693) om polisens behandling av personuppgifter inom brottsdatalagens område ska när det gäller dnaprofiler och fingeravtryck begränsas till uppgifter om huruvida någon förekommer i registren.
+Förordning (2025:150).
 
-9 § Säkerhetspolisens, Ekobrottsmyndighetens, Tullverkets, 
-Kustbevakningens och Skatteverkets direktåtkomst enligt 5 kap. 
-17 § lagen (2018:1693) om polisens behandling av 
-personuppgifter inom brottsdatalagens område ska, när det 
-gäller uppgifter om fingeravtryck, begränsas till uppgifter om 
-huruvida någon förekommer i fingeravtrycksregister.
-Förordning (2020:1297).
+8 a § Skatteverkets direktåtkomst till uppgifter i biometriregister enligt 5 kap. 16 § lagen (2018:1693) om polisens behandling av personuppgifter inom brottsdatalagens område ska begränsas till fingeravtryck, fotografier och signalement. När det gäller fingeravtryck ska åtkomsten begränsas till uppgifter om huruvida någon förekommer i registren.
+Förordning (2025:150).
+
+9 § Kriminalvårdens direktåtkomst till uppgifter i biometriregister enligt 5 kap. 16 § lagen (2018:1693) om polisens behandling av personuppgifter inom brottsdatalagens område ska begränsas till dna-profiler, fingeravtryck och fotografier. När det gäller dna-profiler och fingeravtryck ska åtkomsten begränsas till uppgifter om huruvida någon förekommer i registren
+Förordning (2025:150).
 
 10 § När Polismyndigheten med stöd av 24 c § förordningen 
 (1999:1134) om belastningsregister överför uppgifter om en dom 
@@ -209,8 +210,10 @@ skildringarna infördes i referensbiblioteket.
 
 Rätt att meddela föreskrifter
 
-20 § Riksarkivet får, efter att ha gett berörd myndighet tillfälle att yttra sig, meddela föreskrifter om att personuppgifter som avses i 4 kap. 2 och 7–11 a §§ och 5 kap. 15, 16, 20, 22 och 26 §§ lagen (2018:1693) om polisens behandling av personuppgifter inom brottsdatalagens område får behandlas under längre tid för arkivändamål av allmänt intresse och vetenskapliga, statistiska eller historiska ändamål.
-Förordning (2025:120).
+20 § Riksarkivet får, efter att ha gett berörd myndighet tillfälle att yttra sig, meddela föreskrifter om att personuppgifter som avses i 4 kap. 2 och 7–11 a §§ och 5 kap. 10–14, 20, 22 och 26 §§ lagen (2018:1693) om polisens behandling av personuppgifter inom brottsdatalagens område får behandlas under längre tid för arkivändamål av allmänt intresse och vetenskapliga, statistiska eller historiska ändamål.
+
+Av 5 kap. 27 § lagen om polisens behandling av personuppgifter inom brottsdatalagens område framgår att föreskrifterna inte får avse uppgifter om dna-profiler.
+Förordning (2025:150).
 
 21 § Polismyndigheten får, efter att ha gett Riksarkivet 
 tillfälle att yttra sig, meddela närmare föreskrifter om 
