@@ -352,8 +352,7 @@ bättre alternativ för miljön åstadkomma den nytta som följer
 av att vattenförekomsten är konstgjord eller kraftigt 
 modifierad. Förordning (2018:2103).
 
-3 a § /Träder i kraft I:2025-06-26/
-När vatten lagras för kraftproduktion ska 
+3 a § När vatten lagras för kraftproduktion ska 
 vattenmyndigheten vid bedömningen av om förutsättningarna är 
 uppfyllda för att förklara en ytvattenförekomst som kraftigt 
 modifierad enligt 3 § särskilt beakta intresset av en 
@@ -361,13 +360,26 @@ nationell effektiv tillgång till vattenkraftsel, vilket ska
 bidra till att säkerställa
 
 1. att riktvärdet för det aktuella huvudavrinningsområdet 
-enligt bilaga 2 inte riskerar att överskridas, 
+enligt bilaga 3 inte riskerar att överskridas, 
 
-2. att den nationella elberedskapen inte försämras, och 
+2. att den nationella elberedskapen inte försämras, och
 
 3. reglerkraften i en vattenverksamhet för produktion av 
-vattenkraftsel som är av vikt för elsystemets leveranssäkerhet 
-i Sverige. Förordning (2025:543).
+vattenkraftsel
+
+som är av vikt för elsystemets leveranssäkerhet i Sverige.
+Förordning (2025:715).
+
+3 b § En ytvattenförekomsts fysiska karaktär ska anses ha 
+ändrats på ett väsentligt sätt till följd av att vatten lagras 
+för kraftproduktion när 
+
+1. minst två hydromorfologiska kvalitetsfaktorer kan antas ha 
+sämre än god status, eller 
+
+2. det på annat sätt framgår att påverkan på 
+ytvattenförekomstens fysiska karaktär är väsentlig. 
+Förordning (2025:715).
 
 Krav för ytvatten
 
@@ -406,6 +418,28 @@ kemisk ytvattenstatus som enligt bilaga V till direktiv
 direktiv 2008/105/EG ska ha nåtts vid den tidpunkten.
 Förordning (2015:516).
 
+4 b § När maximal ekologisk potential bestäms för en 
+ytvattenförekomst som förklarats kraftigt modifierad till 
+följd av att vatten lagras för kraftproduktion, ska de 
+åtgärder eller kombinationer av åtgärder väljas som
+
+1. effektivt förbättrar vattenmiljön, med beaktande av att 
+ytvattenförekomstens fysiska karaktär är väsentligt ändrad, 
+och 
+
+2. inte påverkar kraftproduktionen på ett betydande negativt 
+sätt i den mening som avses i 3 § 1 d. 
+
+När god ekologisk potential fastställs för en kraftigt 
+modifierad ytvattenförekomst som avses i första stycket ska de 
+åtgärder eller kombinationer av åtgärder väljas som under 
+jämförbara förhållanden har visats vara effektiva för att 
+uppnå ett tillstånd som motsvarar lätta 
+
+förändringar jämfört med ytvattenförekomstens ekologiska 
+förhållanden vid maximal ekologisk potential.
+Förordning (2025:715).
+
 Krav för grundvatten
 
 5 § Kvalitetskraven för grundvatten ska fastställas så att
@@ -416,10 +450,10 @@ till direktiv 2000/60/EG och bilagorna I–IV till direktiv
 
 Krav för skyddade områden
 
-6 § Kvalitetskraven för skyddade områden skall fastställas så
-att alla normer och mål uppfylls senast den 22 december 2015,
-om inte annat följer av den lagstiftning enligt vilken de
-skyddade områdena har fastställts.
+6 § Kvalitetskraven för skyddade områden ska fastställas så 
+att alla normer och mål uppfylls, om inte annat följer av den 
+lagstiftning enligt vilken de skyddade områdena har 
+fastställts. Förordning (2025:715).
 
 6 a § Kvalitetskraven för skyddade områden ska i fråga om
 badvatten fastställas så att
@@ -512,8 +546,7 @@ grundvatten, och
 4. vattnets kvalitet inte riskerar att försämras 
 ytterligare. Förordning (2018:2103).
 
-10 a § /Träder i kraft I:2025-06-26/
-När vatten lagras för kraftproduktion ska 
+10 a § När vatten lagras för kraftproduktion ska 
 vattenmyndigheten vid bedömningen av om förutsättningarna är 
 uppfyllda för att besluta om mindre stränga krav för en 
 ytvattenförekomst enligt 10 § särskilt beakta intresset av en 
@@ -521,13 +554,13 @@ nationell effektiv tillgång till vattenkraftsel, vilket ska
 bidra till att säkerställa
 
 1. att riktvärdet för det aktuella huvudavrinningsområdet 
-enligt bilaga 2 inte riskerar att överskridas, 
+enligt bilaga 3 inte riskerar att överskridas, 
 
-2. att den nationella elberedskapen inte försämras, och 
+2. att den nationella elberedskapen inte försämras, och
 
 3. reglerkraften i en vattenverksamhet för produktion av 
 vattenkraftsel som är av vikt för elsystemets leveranssäkerhet 
-i Sverige. Förordning (2025:543).
+i Sverige. Förordning (2025:715).
 
 11 § Trots 5 kap. 4 § miljöbalken får en myndighet eller 
 kommun tillåta en verksamhet eller åtgärd som
@@ -1072,7 +1105,7 @@ enlighet med 5 kap. 5 §.
 ska göras första gången senast den 12 juli 2027.
 
 
-Bilaga 1 
+Bilaga 1
 
 Information i förvaltningsplaner för vattendistrikt
 
@@ -1268,8 +1301,7 @@ d) en sammanfattning av varje ytterligare övergångsåtgärd som
 i enlighet med 22 har fastställts sedan den senaste versionen 
 av förvaltningsplanen. Förordning (2016:734).
 
-
-Bilaga 2/Träder i kraft I:2025-06-26/
+Bilaga 3
 
 Riktvärden för produktionsförlust av vattenkraftsel fördelat 
 på huvudavrinningsområden
@@ -1323,4 +1355,4 @@ Delångersån	        0,001
 
 Sammanlagt för övriga 
 avrinningsområden	0,167
-Förordning (2025:543).
+Förordning (2025:715).
