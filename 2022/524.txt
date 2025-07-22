@@ -469,7 +469,7 @@ Fortifikationsverket och Försvarshögskolan, och
 11 samt 21 § utom i fråga om Kustbevakningen.
 
 
-Bilaga 1 
+Bilaga 1
 
 Förteckning över beredskapsmyndigheter
 
@@ -478,6 +478,8 @@ Affärsverket svenska kraftnät
 Arbetsförmedlingen
 
 Bolagsverket
+
+Boverket
 
 Domstolsverket
 
@@ -490,6 +492,8 @@ Finansinspektionen
 Folkhälsomyndigheten
 
 Försäkringskassan
+
+Kommerskollegium
 
 Kriminalvården
 
@@ -511,7 +515,7 @@ Myndigheten för digital förvaltning
 
 Myndigheten för psykologiskt försvar
 
-Myndigheten för samhällsskydd och beredskap 
+Myndigheten för samhällsskydd och beredskap
 
 Naturvårdsverket
 
@@ -519,7 +523,11 @@ Pensionsmyndigheten
 
 Polismyndigheten
 
-Post- och telestyrelsen 
+Post- och telestyrelsen
+
+Riksantikvarieämbetet
+
+Riksarkivet
 
 Riksgäldskontoret
 
@@ -541,9 +549,13 @@ Statens veterinärmedicinska anstalt
 
 Strålsäkerhetsmyndigheten
 
+Sveriges geologiska undersökning
+
 Sveriges meteorologiska och hydrologiska institut
 
 Säkerhetspolisen
+
+Tillväxtverket
 
 Trafikverket
 
@@ -554,9 +566,9 @@ Tullverket
 Utbetalningsmyndigheten
 
 Åklagarmyndigheten
-Förordning (2023:473).
+Förordning (2025:742).
 
-Bilaga 2 
+Bilaga 2
 
 Förteckning över beredskapssektorernas indelning
 
@@ -608,12 +620,20 @@ grunddata	        Skatteverket	        Bolagsverket
 		                                Myndigheten för 
 		                                digital 
 		                                förvaltning
+		                                
+		                                Riksarkivet
 
 Hälsa, vård och omsorg	Socialstyrelsen	        E-hälsomyndigheten
 
 		                                Folkhälsomyndigheten
 
 		                                Läkemedelsverket
+
+Industri, byggande                
+och handel              Tillväxtverket          Boverket
+                                                
+                                                Sveriges geologiska 
+                                                undersökning
 
 Livsmedelsförsörjning 
 och dricksvatten	Livsmedelsverket        Länsstyrelserna
@@ -662,4 +682,6 @@ Transporter	        Trafikverket	        Luftfartsverket
 		                                Sjöfartsverket
 
 		                                Transportstyrelsen
-Förordning (2023:473).
+
+Utrikeshandel	        Kommerskollegium	Tullverket
+Förordning (2025:742).
