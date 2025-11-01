@@ -129,6 +129,12 @@ tekniken i fråga är avsedd för den användning som avses i
 avsnitt G del 3.2 b eller c i bilaga II till samma förordning.
 Förordning (2022:1075).
 
+Nationell kontrollförteckning
+
+4 g § Tillstånd krävs för export av de produkter med dubbla 
+användningsområden som anges i bilagan till denna förordning.
+Förordning (2025:878).
+
 Produkter som kräver tillstånd för införsel
 
 5 § Inspektionen för strategiska produkter får meddela
@@ -346,3 +352,637 @@ tillhör kategori 0.
 
 I andra fall ska tillsynen utövas av Inspektionen för 
 strategiska produkter. Förordning (2022:1075).
+
+
+Bilaga
+
+Nationell kontrollförteckning
+
+I denna bilaga tillämpas de allmänna anmärkningar, akronymer, 
+förkortningar och definitioner som finns i del I i bilaga I 
+till Europaparlamentets och rådets förordning (EU) 2021/821 av 
+den 20 maj 2021 om upprättande av en unionsordning för 
+kontroll av export, förmedling, transitering och överföring 
+samt tekniskt bistånd för produkter med dubbla 
+användningsområden. 
+
+Termer som anges inom dubbla citattecken (") definieras i del 
+I i bilaga I till förordning (EU) 2021/821.
+
+Termer som anges inom enkla citattecken (') definieras i en 
+teknisk anmärkning till den berörda produkten.
+
+Kategori 2: Materialbearbetning
+
+2B Test-, inspektions- och produktionsutrustning 
+
+2B901 Följande utrustning för additiv tillverkning som är 
+konstruerad för framställning av metaller eller 
+legeringskomponenter och som har de egenskaper som räknas upp 
+i a-d, samt särskilda konstruerade komponenter till dessa:
+
+a)	Har minst en av följande konsolideringskällor:
+
+        1. "laser",
+
+        2. elektronstråle,
+
+        3. ljusbåge.
+
+b)	Har någon av följande kontrollerade 
+        processatmosfärer:
+
+        1. inert gas, 
+
+        2. vakuum (tryck 100 Pa eller mindre).
+
+c)	Har någon av följande utrustning för 'övervakning 
+        under processens gång' i 'koaxialkonfiguration' eller 
+        'paraxiell konfiguration':
+
+        1. bildkamera som har sin maximala känslighet inom ett 
+        våglängdsområde som överstiger 380 nm men inte 14 000 
+        nm,
+
+        2. pyrometer som är konstruerad för att mäta 
+        temperaturer på över 1273,15 K (1 000 °C),
+
+        3. radiometer eller spektrometer som har sin maximala 
+        känslighet inom ett våglängdsområde som överstiger 380 
+        nm men inte 3 000 nm.
+
+d)	Ett sådant styrsystem för ett slutet system som är 
+        konstruerat för att ändra konsolideringskällans 
+        parametrar, byggstig eller inställningar under 
+        byggperioden på grundval av återkoppling från den 
+        utrustning för 'övervakning under processens gång' som 
+        specificeras i avsnitt 2B901.c.
+
+Teknisk anmärkning: Vid tillämpning av avsnitt 2B901
+
+1.	'Övervakning under processen gång' som även kallas in 
+        situ-processövervakning, avser observation och mätning 
+        av processen för additiv tillverkning, inklusive 
+        elektromagnetisk strålning eller värmestrålning från 
+        smältbassängen. 
+
+2.	'Koaxialkonfiguration' som även kallas axel- eller 
+        diagonalkonfiguration, avser en eller flera sensorer 
+        som är installerade på en optisk väg som delas med 
+        "laser"-konsolideringskällan. 
+
+3.	'Paraxiell konfiguration' avser en eller flera 
+        sensorer som är fysiskt installerade på eller 
+        integrerade i en komponent i "laser-", elektronståls- 
+        eller ljusbågskonsolideringskällan. 
+
+4.	Både i 'koaxialkonfiguration' och 'paraxiell 
+        konfiguration' är sensorns eller sensorernas synfält 
+        fäst vid konsolideringskällans rörliga referensram och 
+        synfältet rör sig längs samma avsökningslinjer som 
+        konsolideringskällan under hela byggprocessen.
+
+2E Teknik
+
+2E901 "Teknik" i enlighet med den allmänna anmärkningen 
+rörande teknik för "utveckling" eller produktion av den 
+utrustning som specificeras i avsnitt 2B. 
+
+2E902 "Teknik" som inte specificeras särskilt någon annanstans 
+för "utveckling" eller "produktion" av 'ytbeläggningssystem' 
+som har alla följande egenskaper:
+
+a)	Konstruerad för att skydda i avsnitt 1C007 i bilaga I 
+        till förordning (EU) 2021/821 specificerade keramiska 
+        "matris"-"komposit"-material mot korrosion.
+
+b)	Konstruerad för drift i temperaturer på över 1373,15 
+        K (1 100 °C).
+
+Teknisk anmärkning: Vid tillämpning av avsnitt 2E902 ska 
+'ytbeläggningssystem' bestå av ett eller flera materialskikt 
+(till exempel bindlager, mellanskikt, skyddsbeläggning) som 
+belägger substratet.
+
+Kategori 3: Elektronik
+
+3A System, utrustning och komponenter
+
+3A901 Elektroniska produkter enligt följande:
+
+Anmärkning: Integrerade kretsar omfattar följande typer:
+
+- "monolitiska integrerade kretsar"
+
+- "integrerade hybridkretsar"
+
+- "integrerade multikretsar"
+
+- "integrerade kretsar av filmtyp", inklusive 
+integrerade kretsar av typ kisel på safir
+
+- "optiska integrerade kretsar"
+
+- "tredimensionella integrerade kretsar"
+
+- "monolitiska integrerade mikrovågskretsar" ("MMIC")
+
+a)	Integrerade komplementära metalloxidhalvledarkretsar 
+        (CMOS-kretsar) som inte specificeras i avsnitt 
+        3A001.a.2 i bilaga I till förordning (EU) 2021/821 och 
+        som är konstruerade för drift i en temperatur på högst 
+        4,5 K (-268,65 °C).
+
+        Anmärkning: Statusen för wafers (färdigbearbetade eller 
+        obearbetade) vars funktion har fastställts, ska bedömas 
+        efter parametrarna i 3A901.a.
+
+        Teknisk anmärkning: Vid tillämpning av avsnitt 3A901.a 
+        används också termerna kryogen CMOS eller kryo-CMOS för 
+        integrerade CMOS-kretsar.
+
+b)	Parametriska signalförstärkare som har alla följande 
+        egenskaper:
+
+        1. Konstruerad för drift i en temperatur på mindre än 
+        1 K
+
+        2. (-272,15°C).
+
+        3. Konstruerad för att fungera vid någon frekvens från 
+        2 GHz upp till och med 15 GHz.
+
+        4. Brustalet är lägre (bättre) än 0,015 dB vid någon 
+        frekvens från 2 GHz upp till och med 15 GHz vid en 
+        temperatur på 1 K
+
+        5. (-272,15 °C).
+
+        Anmärkning: Parametriska förstärkare omfattar 
+        parametriska förstärkare för vandringsvågor (traveling 
+        wave parametric amplifier, TWPA).
+
+        Teknisk anmärkning: Parametriska förstärkare kallas 
+        också kvantbegränsade förstärkare (quantum-limited 
+        amplifier, QLA).
+
+c)	Integrerade kretsar vars totala överföringshastighet 
+        i båda riktningar är minst 600 gigabyte per sekund vid 
+        alla ingångar och utgångar samt mellan integrerade 
+        kretsar, med undantag för flyktiga minnen, och som har 
+        eller kan programmeras med något av följande:
+
+        6. En eller flera digitala processorer som utför 
+        maskininstruktioner vars 'totala prestanda' är minst 
+        6 000.
+
+        7. En eller flera digitala 'primitiva 
+        beräkningsenheter', med undantag för de enheter som 
+        deltar i utförandet av maskininstruktioner och som 
+        specificeras i avsnitt 3A901.c, vars 'totala prestanda' 
+        är minst 6 000.
+
+        8. En eller flera analoga 'primitiva beräkningsenheter' 
+        vars 'totala prestanda' är minst 6 000.
+
+        9. Vilken som helst kombination av digitala processorer 
+        och 'primitiva beräkningsenheter' på en integrerad 
+        krets där kombinationens sammanräknade 'totala 
+        prestanda' i avsnitt 3A901.c.1, 3A901.c.2 och 3A901.c.3 
+        sammantaget är minst 6 000.
+
+        Anmärkning: De integrerade kretsar som specificeras i 
+        avsnitt 3A901.c omfattar grafikprocessorer (GPU), 
+        tensorprocessorer (TPU), neuroprocessorer, 
+        minnesprocessorer, bildprocessorer, textprocessorer, 
+        hjälpprocessorer/acceleratorer, adaptiva processorer, 
+        fältprogrammerbara logiska komponenter (FPLD) och 
+        applikationsspecifika integrerade kretsar (ASIC).
+
+        Anmärkning: I fråga om "digitala datorer" och 
+        "elektroniska sammansättningar" som innehåller de 
+        integrerade kretsar som specificeras i avsnitt 3A901.c, 
+        se avsnitt 4A902 i denna bilaga.
+
+        Teknisk anmärkning: Vid tillämpning av avsnitt 3A901.c.
+
+1.	'Total prestanda' ('TPP') avser bitlängd per 
+        räkneoperation multiplicerad med den prestanda som 
+        uppmätts i tera-operationer (1012) per sekund (TOPS) i 
+        alla processorer i den integrerade kretsen. Till 
+        exempel när den integrerade kretsen har två digitala 
+        processorer där båda processorernas prestanda är 200 
+        tera-operationer per sekund per 16 bit, är dess 'TPP' 
+        6 400 (2 processorer × 200 TOPS × 16 bit = 6 400). 
+        I avsnitt 3A901.c.3 är 'TPP' för varje analog 'primitiv 
+        beräkningsenhet' prestandan uttryckt i tera-operationer 
+        per sekund multiplicerat med 8.
+
+2.	'Primitiv beräkningsenhet' avser en enhet som 
+        innehåller noll eller flera modifierbara 
+        viktkoefficienter där det finns en eller flera ingångar 
+        och en eller flera utgångar. Beräkningsenheten anses 
+        alltid utföra 2N-1 räkneoperationer när en utgång 
+        uppdateras utifrån N ingångar, och varje sådan vikt i 
+        processorelementet som ska modifieras räknas som en 
+        utgång. Varje ingång, vikt och utgång kan vara en 
+        analog signalnivå eller ett skalärt digitalt värde som 
+        beskrivs med hjälp av en eller flera bitar. Sådana 
+        enheter är
+
+        - artificiella neuroner
+
+        - multiplicera/ackumuleraenheter (MAC-enheter)
+
+        - flyttalsenheter (FPU)
+
+        - analoga multiplikatorenheter
+
+        - processorer som använder memristorer, spinntronik 
+        eller magnonik
+
+        - processorer som använder fotonik eller icke-linjär 
+        optik
+
+        - processorer som använder analoga eller icke-flyktiga 
+        viktkoefficienter i flera nivåer
+
+        - processorer som använder flernivåminnen eller analoga 
+        minnen
+
+        - pluralistiska enheter eller flernivåenheter
+
+        - spikande(artificiella)neuroner.
+
+3.	Räkneoperationer som är väsentliga för beräkningen av 
+        TOPS är både beräkningar av skalära tal och skalära 
+        delar av kompositberäkningar, såsom vektorberäkningar, 
+        matrisberäkningar och tensorberäkningar. Skalära 
+        beräkningar är heltalsoperationer, flyttalsoperationer 
+        (som ofta mäts som flyttalsoperationer per sekund, 
+        FLOPS), beräkningar av fixpunkter och bitoperationer. 
+
+4.	TOPS-hastigheten är det högsta teoretiskt sett 
+        möjliga värdet när alla processorer körs samtidigt. 
+        TOPS-hastigheten och den sammanräknade 
+        överföringshastigheten i båda riktningar antas vara det 
+        högsta värde som tillverkaren anger för chipet i en 
+        manual eller broschyr.
+
+5.	Bitlängden för beräkningen är lika stor som den 
+        största bitlängden för någon av ingångarna eller 
+        utgångarna i samma beräkning. Om processorn är 
+        konstruerad för beräkningar som ger olika bitar × 
+        TOPS-värden ska dessutom det högsta värdet för bitar × 
+        TOPS användas.
+
+6.	TOPS-värdena för processorer som processar glesa och 
+        täta matriser är processvärdena för täta matriser (till 
+        exempel utan gleshet).
+
+3A902 Kryogena kylsystem och komponenter till dem, enligt 
+följande:
+
+a)	System som är dimensionerade för att producera en 
+        kyleffekt på minst 600 µW i en temperatur på högst 
+        0,1 K (-273,05 °C) i mer än 48 timmar.
+
+b)	Tvåfasiga pulse tube-kryokylare som är dimensionerade 
+        för att hålla en temperatur på under 4 K (-269,15 °C) 
+        och producera en kyleffekt på minst 1,5 W vid en 
+        temperatur på högst 4,2 K (-268,95 °C).
+
+3B Test-, inspektions- och produktionsutrustning
+
+3B901 Utrustning konstruerad för tillverkning av 
+halvledarenheter eller material, enligt följande, och för 
+dessa utrustningar särskilt konstruerade komponenter och 
+tillbehör:
+
+a)	Utrustning konstruerad för torretsning, med någon av 
+        följande egenskaper:
+
+        1. Utrustning konstruerad eller modifierad för isotrop 
+        torretsning med en största 'etsselektivitet, 
+        kiselgermanium-till-kisel, (SiGE:Si)' som är minst 
+        100:1.
+
+        2. Utrustning konstruerad eller modifierad för 
+        anisotrop torretsning med samtliga följande egenskaper:
+
+                a) radiofrekvenskällor med minst en pulsad 
+                radiofrekvensutgång,
+
+                b) snabba gasomkopplare med en omkopplingstid 
+                på mindre än 300 millisekunder,
+
+                c) elektrostatisk chuck med tjugo eller fler 
+                separat reglerbara variabla temperaturelement.
+
+Anmärkning 1: Avsnitt 3B901.a omfattar etsning genom 
+'radikaler', joner, sekventiella reaktioner eller icke-
+sekventiella reaktioner.
+
+Anmärkning 2: Avsnitt 3B901.a.2 omfattar etsning med hjälp av 
+RF-pulsexciterad plasma, pulsad exciterad plasma med hög 
+pulskvot, plasma modifierad med pulsad spänning på elektroder, 
+cyklisk injektion och urluftning av gaser i kombination med 
+plasmaetsning, plasmaatomlageretsning eller 
+plasmakvasiatomlageretsning.
+
+Teknisk anmärkning 1: I avsnitt 3B901.a mäts 
+'etsselektiviteten kiselgermanium-till-kisel (SiGe:Si)' för en 
+koncentration av Ge på minst 30 procent (Si0,70Ge0,30).
+
+Teknisk anmärkning 2: I avsnitt 3B901.a definieras en 
+'radikal' som en atom, molekyl eller jon som har en oparad 
+elektron i en öppen elektronskalskonfiguration.
+
+b)	'EUV'-masker och 'EUV'-mastermasker som är 
+        konstruerade för integrerade kretsar och som inte 
+        specificeras i avsnitt 3B001.g i bilaga I till 
+        förordning (EU) 2021/821 och som har mask-"skivor" som 
+        specificeras i avsnitt 3B001.j i bilaga I till 
+        förordning (EU) 2021/821.
+
+        Teknisk anmärkning 1: 'EUV' ('extremt ultraviolett') 
+        avser att det elektromagnetiska spektrumet har 
+        våglängder som är större än 5 nm och mindre än 124 nm. 
+
+        Teknisk anmärkning 2: Vid tillämpning av avsnitt 
+        3B901.b ska masker och mastermasker som försetts med 
+        skyddsöverdrag betraktas som masker och mastermasker.
+
+3B902 Utrustning för svepelektronmikroskop, konstruerad för 
+avbildning av halvledarkomponenter eller integrerade kretsar, 
+med samtliga följande egenskaper:
+
+a)	en positioneringsnoggrannhet som är högst 30 nm,
+
+b)	positioneringsnoggrannhet genom laserinterferometri,
+
+c)	positionskalibrering inom ett synfält baserat på 
+        längdmätning med laserinterferometer,
+
+d)	förmåga att samla in och lagra bilder med mer än 2 × 
+        108 pixlar,
+
+e)	en synfältsöverlappning på mindre än 5 procent i 
+        vertikala och horisontella riktningar,
+
+f)	en sammanfogningsöverlappning av synfältet på mindre 
+        än 50 nm,
+
+g)	en accelerationsspänning som är mer än 21 kV.
+
+Anmärkning 1: Avsnitt 3B902 omfattar utrustning för 
+svepelektronmikroskop som är konstruerad för att återställa 
+kretsmönster från mikroskopfoton.
+
+Anmärkning 2: Avsnitt 3B902 omfattar inte utrustning för 
+svepelektronmikroskop som är konstruerad för att ta emot en 
+standardenlig Semiconductor Equipment and Materials 
+International (SEMI)-inkapslad wafer, såsom en 200 mm eller 
+större Front Opening Unified Pod (FOUP)-kapsel.
+
+3B903 Sådan kryogen utrustning för testning av wafers som har 
+alla följande egenskaper:
+
+a)	Konstruerad för testning av utrustning i temperaturer 
+        på högst 4,5 K (-268,65 °C).
+
+b)	Konstruerad för wafers vars diameter är minst eller 
+        lika med 100 mm.
+
+3C Material
+
+3C901 Epitaxiella material som består av ett "substrat" som 
+har minst ett epitaxiellt tillvuxet lager av något av 
+följande:
+
+a)	kisel som innehåller mindre än 0,08 procent andra 
+        kiselisotoper än kisel-28 eller kisel-30 som isotopiska 
+        föroreningar,
+
+b)	germanium som innehåller mindre än 0,08 procent andra 
+        germaniumisotoper än germanium-70, germanium-72, 
+        germanium-74 eller germanium-76 som isotopiska 
+        föroreningar.
+
+3C902 Sådana fluorider, hybrider eller klorider av kisel och 
+germanium som består av något av följande:
+
+a)	kisel som innehåller mindre än 0,08 procent andra 
+        kiselisotoper än kisel-28 eller kisel-30 som isotopiska 
+        föroreningar,
+
+b)	germanium som innehåller mindre än 0,08 procent andra 
+        germaniumisotoper än germanium-70, germanium-72, 
+        germanium-74 eller germanium-76 som isotopiska 
+        föroreningar.
+
+3C903 Kisel, kiseloxider, germanium eller germaniumoxider som 
+består av något av följande:
+
+a)	kisel som innehåller mindre än 0,08 procent andra 
+        kiselisotoper än kisel-28 eller kisel-30 som isotopiska 
+        föroreningar,
+
+b)	germanium som innehåller mindre än 0,08 procent andra 
+        germaniumisotoper än germanium-70, germanium-72, 
+        germanium-74 eller germanium-76 som isotopiska 
+        föroreningar.
+
+Anmärkning: Avsnitt 3C903 omfattar "substrat", stycken, 
+tackor, stavar och skivor.
+
+3D Programvara
+
+3D901 "Programvara" konstruerad för att extrahera 'GDSII' 
+eller motsvarande standardiserade layoutdata och utföra lager- 
+till lageruppriktning från svepelektronikmikroskopbilder samt 
+generera 'GDSII'-data i flera lager eller en kretsnätlista.
+
+Teknisk anmärkning: 'GDSII' ('Graphic Design System II') är 
+ett databasfilformat för datautbyte avseende ritningar 
+(artwork) över integrerade kretsar eller integrerade kretsars 
+layout.
+
+3D902 "Programvara" som är särskilt konstruerad för 
+"användning" av den utrustning som specificeras i avsnitt 
+3B901.a.
+
+3D903 "Programvara" som är särskilt konstruerad för 
+"utveckling" eller "produktion" av den utrustning som 
+specificeras i avsnitt 3A901.b eller 3B.
+
+3E Teknik
+
+3E901 "Teknik" i enlighet med den allmänna anmärkningen 
+rörande teknik för "utveckling" eller "produktion" av den 
+utrustning och de material som specificeras i avsnitt 3A, 3B 
+eller 3C. 
+
+3E902 "Teknik" enligt den allmänna anmärkningen rörande teknik 
+för "utveckling" eller "produktion" av integrerade kretsar 
+eller anordningar med hjälp av "GAA-fälteffekttransistor"-
+strukturer ("GAAFET").
+
+Anmärkning 1: 3E902 omfattar 'processanvisningar'.
+
+Anmärkning 2: 3E902 omfattar inte besiktning eller underhåll 
+av verktyg.
+
+Anmärkning 3: 3E902 omfattar inte 'processdesignsatser' 
+('Process design Kits') ('PDK') om de inte omfattar bibliotek 
+som genomför funktioner eller tekniker för föremål som 
+specificeras i avsnitt 3A001 i bilaga I till förordning (EU) 
+2021/821 eller avsnitt 3A901 i denna bilaga.
+
+Teknisk anmärkning: 'Processanvisning' avser en uppsättning 
+villkor och parametrar för en viss del av en process.
+
+Teknisk anmärkning: En 'processdesignsats' ('PDK') är en 
+programvara som tillhandahålls av en halvledartillverkare för 
+att säkerställa att gällande praxis och regler för design 
+beaktas så att det framgångsrikt kan produceras en särskild 
+integrerad kretskonstruktion i en särskild halvledarprocess, i 
+enlighet med tekniska och tillverkningsmässiga krav (alla 
+tillverkningsprocesser för halvledare har sin egen 
+'processdesignsats').
+
+Kategori 4: Datorer
+
+4A System, utrustning och komponenter
+
+4A901 Kvantdatorer och tillhörande "elektroniska 
+sammansättningar" och komponenter till dessa enligt följande:
+
+a)	Kvantdatorer enligt följande:
+
+        1. Kvantdatorer som stödjer minst 34, men färre än 100, 
+        'helt kontrollerade', 'anslutna' och 'fungerande' 
+        'fysiska kvantbitar' och vars C-NOT-fel är högst 10-4.
+
+        2. Kvantdatorer som stödjer minst 100 men färre än 200 
+        'helt kontrollerade', 'anslutna' och 'fungerande' 
+        'fysiska kvantbitar' och vars C-NOT-fel är högst 10-3.
+
+        3. Kvantdatorer som stödjer minst 200 men färre än 350 
+        'helt kontrollerade', 'anslutna' och 'fungerande' 
+        'fysiska kvantbitar' och vars C-NOT-fel är högst 2 × 
+        10-3.
+
+        4. Kvantdatorer som stödjer minst 350 men färre än 500 
+        'helt kontrollerade', 'anslutna' och 'fungerande' 
+        'fysiska kvantbitar' och vars C-NOT-fel är högst 3 × 
+        10-3.
+
+        5. Kvantdatorer som stödjer minst 500 men färre än 700 
+        'helt kontrollerade', 'anslutna' och 'fungerande' 
+        'fysiska kvantbitar' och vars C-NOT-fel är högst 4 × 
+        10-3.
+
+        6. Kvantdatorer som stödjer minst 700 men färre än 
+        1 100 'helt kontrollerade', 'anslutna' och 'fungerande' 
+        'fysiska kvantbitar' och vars C-NOT-fel är högst 5 × 
+        10-3.
+
+        7. Kvantdatorer som stödjer minst 1 100 men färre än 
+        2 000 'helt kontrollerade', 'anslutna' och 'fungerande' 
+        'fysiska kvantbitar' och vars C-NOT-fel är högst 6 × 
+        10-3.
+
+        8. Kvantdatorer som stödjer minst 2 000 'helt 
+        kontrollerade', 'anslutna' och 'fungerande' 'fysiska 
+        kvantbitar'.
+
+b)	Kvantbitenheter och kvantbitkretsar som innehåller 
+        eller stödjer system med 'fysiska kvantbitar' och som 
+        är särskilt konstruerade för produkter som anges i 
+        avsnitt 4A901.a.
+
+c)	Kvantkontrollkomponenter och kvantmätningsutrustning 
+        som är särskilt konstruerade för produkter som anges i 
+        avsnitt 4A901.a.
+
+Anmärkning 1: Avsnitt 4A901 gäller kvantdatorer av kretsmodell 
+(eller gatebaserade kvantdatorer) och envägs-kvantdatorer 
+(eller mätningsbaserade kvantdatorer). Detta avsnitt omfattar 
+inte adiabatiska kvantdatorer eller annealing-kvantdatorer.
+
+Anmärkning 2: Produkter som anges i avsnitt 4A901 behöver inte 
+nödvändigtvis fysiskt innehålla några kvantbitar. Exempelvis 
+innehåller kvantdatorer som bygger på fotonik inte permanent 
+någon fysisk enhet som kan identifieras som en kvantbit. De 
+fotoniska kvantbitarna genereras medan datorn är i drift och 
+kasseras därefter.
+
+Anmärkning 3: Produkter som anges i avsnitt 4A901.b omfattar 
+halvledare, supraledare, fotoniska kvantbitchip och 
+chipsystem, ytjonfällor, annan teknik för inneslutning av 
+kvantbitar, samt koherenta sammankopplingar mellan sådana 
+produkter.
+
+Anmärkning 4: Avsnitt 4A901.c gäller enheter som är 
+konstruerade för kalibrering, initiering, manipulering eller 
+mätning av stationära kvantbitar i en kvantdator. 
+
+Teknisk anmärkning: Vid tillämpning av avsnitt 4A901:
+
+1.	En 'fysisk kvantbit' är ett kvantsystem i två nivåer 
+        som används för att representera den elementära enheten 
+        inom kvantlogiken genom manipulationer och mätningar 
+        som inte är felkorrigerade. De 'fysiska kvantbitarna' 
+        skiljer sig från de logiska kvantbitarna genom att de 
+        senare är felkorrigerade kvantbitar som består av många 
+        fysiska kvantbitar. 
+
+2.	'Helt kontrollerad' innebär att den fysiska 
+        kvantbiten vid behov kan kalibreras, initieras, styras 
+        och avläsas.
+
+3.	'Anslutna' innebär att tvåkvantbitsgrindoperationer 
+        kan utföras mellan vilket godtyckligt par som helst av 
+        de tillgängliga 'fungerande' 'fysiska kvantbitarna'. 
+        Detta innebär inte nödvändigtvis alla-till-alla-
+        anslutning. 
+
+4.	'Fungerande' innebär att en 'fysisk kvantbit' utför 
+        beräkningar med universell kvantdatorteknik i enlighet 
+        med den kvantbitnoggrannhet som fastställts för 
+        systemet.
+
+5.	Som stöder minst 34 'helt kontrollerade', 'anslutna' 
+        och 'fungerande' 'fysiska kvantbitar' avser förmågan 
+        hos en kvantdator att innesluta, kontrollera, mäta och 
+        behandla den kvantinformation som finns i 34 eller fler 
+        'fysiska kvantbitar'.
+
+6.	'C-NOT-fel' är den genomsnittliga felfrekvensen för 
+        fysisk grind hos två 'fysiska kvantbitars' CNOT 
+        (Controlled-NOT)närmaste-granne-grindar.
+
+4A902 Datorer, "elektroniska sammansättningar", och 
+"komponenter" med en eller flera integrerade kretsar som 
+beskrivs i avsnitt 3A901.c.
+
+Teknisk anmärkning: Vid tillämpning av avsnitt 4A902 är 
+datorer "digitala datorer", hybriddatorer och analoga datorer.
+
+4D Programvara
+
+4D901 "Programvara" som är särskilt konstruerad eller 
+modifierad för "utveckling" eller "produktion" av produkter 
+som specificeras i avsnitt 4A901.b eller 4A901.c.
+
+4E Teknik
+
+4E901 "Teknik" enligt den allmänna anmärkningen rörande teknik 
+för "utveckling" eller "produktion" av de produkter som 
+specificeras i avsnitt 4A901.b, 4A901.c eller 4D901.
+
+4E902 "Teknik" i enlighet med den allmänna anmärkningen 
+rörande teknik för "utveckling", "produktion" eller 
+"användning" av den utrustning som specificeras i avsnitt 
+4A902. Förordning (2025:878).
