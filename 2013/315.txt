@@ -1,148 +1,52 @@
-Inledande bestämmelser
+1 § Denna lag gäller sådana intelligenta transportsystem för 
+vägtransporter, och systemens gränssnitt mot andra trafikslag, 
+som
 
-1 § Genom denna lag genomförs Europaparlamentets och rådets
-direktiv 2010/40/EU av den 7 juli 2010 om ett ramverk för
-införande av intelligenta transportsystem på
-vägtransportområdet och för gränssnitt mot andra
-transportslag.
+1. förmedlar information i syfte att underlätta transporter 
+och resande eller bidra till trafiksäkerhet, effektivitet och 
+hållbar mobilitet, och
 
-Lagen innehåller allmänna bestämmelser om införande och
-användning av intelligenta transportsystem vid transporter på
-väg.
+2. tillhandahålls i syfte att kunna användas i Sverige och 
+gränsöverskridande inom Europeiska unionen. Lag (2025:1016).
 
-2 § Denna lag syftar till att främja att information,
-kommunikation och infrastruktur som används i samt tjänster
-som förmedlas genom intelligenta transportsystem för
-transporter på väg och deras gränssnitt mot andra
-transportslag uppfyller uppställda krav för att systemen ska
-fungera gränsöverskridande inom Europeiska unionen.
+2 § Lagen gäller inte verksamhet som bedrivs av 
+Försvarsmakten, Försvarets materielverk, Totalförsvarets 
+forskningsinstitut, Försvarets radioanstalt eller 
+Säkerhetspolisen. Lag (2025:1016).
 
-3 § I denna lag betyder
+3 § I denna lag betyder 
 
-väg: sådan väg, gata, torg och annan led eller plats som
-allmänt används för trafik med motorfordon,
+intelligenta transportsystem: system där informations- och 
+kommunikationsteknik tillämpas på vägtransportområdet, 
+inklusive infrastruktur, fordon och användare, och för 
+trafikledning och mobilitetshantering samt för gränssnitt mot 
+andra trafikslag, och 
 
-intelligenta transportsystem, ITS: system med informations-
-och kommunikationsteknik som tillämpas för transporter på
-väg, inbegripet infrastruktur, fordon och användare,
-trafikledning och mobilitetshantering, samt för gränssnitt
-mot andra transportslag,
+gränssnitt: teknik eller tjänst som möjliggör koppling och 
+interaktion mellan system. Lag (2025:1016).
 
-ITS-tillämpning: operativt instrument för användningen av
-ITS,
+4 § Det ska finnas en digital nationell åtkomstpunkt för data 
+som används i intelligenta transportsystem. Den myndighet som 
+regeringen bestämmer ska ansvara för den nationella 
+åtkomstpunkten. Lag (2025:1016).
 
-ITS-tjänst: tillhandahållandet av ITS-tillämpning inom ett
-bestämt organisatoriskt och operativt område i syfte att
-bidra till användarens säkerhet, effektivitet och komfort
-samt att underlätta eller stödja transporter och resande,
+5 § Regeringen eller den myndighet som regeringen bestämmer 
+får meddela föreskrifter om intelligenta transportsystem, om 
+data och tjänster som används i systemen och om den nationella 
+åtkomstpunkten. Lag (2025:1016).
 
-vägdata: data om väginfrastruktur, inbegripet fasta vägmärken
-eller annan reglering av trafiksäkerhetskaraktär,
+6 § Regeringen får meddela föreskrifter om undantag från 
+lagens tillämpningsområde för andra verksamheter som avser 
+försvaret eller den nationella säkerheten än de som anges i 
+2 §. Regeringen får också meddela föreskrifter om undantag 
+från lagens tillämpningsområde som avser fordon.
+Lag (2025:1016).
 
-vägtrafikdata: historiska data och realtidsdata om
-vägtrafiken,
+7 § Har upphävts genom lag (2025:1016).
 
-resedata: grundläggande data, till exempel tidtabeller för
-allmänna transportmedel samt tariffer, som är nödvändiga för
-att tillhandahålla multimodal reseinformation före och under
-resan för att underlätta reseplanering, bokning och
-anpassning av resan,
+8 § Har upphävts genom lag (2025:1016).
 
-gränssnitt: en möjlighet till sammankoppling av interaktion
-mellan system,
-
-interoperabilitet: systemens och de underliggande
-affärsprocessernas kapacitet att utbyta data och dela
-information och kunskap, och
-
-kompatibilitet: en anordnings eller ett systems allmänna
-förmåga att utan ändring fungera tillsammans med en annan
-anordning eller ett annat system.
-
-Fordonstermerna i denna lag har samma betydelse som i lagen
-(2001:559) om vägtrafikdefinitioner.
-
-Tillämpningsområde
-
-4 § Denna lag gäller ITS för transporter på väg.
-
-Lagen gäller inte verksamhet som bedrivs av Försvarsmakten,
-Försvarets materielverk, Totalförsvarets forskningsinstitut,
-Försvarets radioanstalt och Säkerhetspolisen. Även annan
-verksamhet som avser försvaret och den nationella säkerheten
-får undantas från lagens tillämpningsområde.
-
-5 § Lagen gäller för ITS-tillämpningar och ITS-tjänster som
-ska kunna fungera gränsöverskridande inom Europeiska unionen
-och som avser
-
-1. användning av väg-, vägtrafik- och resedata,
-
-2. trafikledning och hantering av godstransporter,
-
-3. stöd för trafiksäkerhet och skydd av transporter, och
-
-4. samverkan mellan fordon och transportinfrastruktur.
-
-Krav på ITS
-
-6 § ITS-tillämpningar och ITS-tjänster ska uppfylla de krav
-om kompatibilitet och interoperabilitet som behövs för ITS.
-
-7 § ITS-tillämpningar och ITS-tjänster ska uppfylla de krav
-som behövs för
-
-1. tillhandahållande av multimodala
-reseinformationstjänster,
-
-2. tillhandahållande av informationstjänster i realtid,
-
-3. data vid kostnadsfritt tillhandahållande av
-vägsäkerhetsrelaterad allmän trafikinformation,
-
-4. tillhandahållande av ett system för fordonspositionering
-vid trafikolycka knutet till larmcentral inom Europeiska
-unionen,
-
-5. tillhandahållande av informationstjänster för säkra och
-skyddade parkeringsplatser för lastbilar och andra fordon i
-kommersiell trafik, och
-
-6. tillhandahållande av bokningstjänster för säkra och
-skyddade parkeringsplatser för lastbilar och andra fordon i
-kommersiell trafik.
-
-8 § Bestämmelser om behandling av personuppgifter finns i 
-Europaparlamentets och rådets förordning (EU) 2016/679 av den 
-27 april 2016 om skydd för fysiska personer med avseende på 
-behandling av personuppgifter och om det fria flödet av sådana 
-uppgifter och om upphävande av direktiv 95/46/EG (allmän 
-dataskyddsförordning), lagen (2018:218) med kompletterande 
-bestämmelser till EU:s dataskyddsförordning och 
-vägtrafikdatalagen (2019:369). 
-
-I lagen (2022:482) om elektronisk kommunikation finns 
-bestämmelser om behandling av personuppgifter och 
-integritetsskydd. 
-
-I lagen (2022:818) om den offentliga sektorns 
-tillgängliggörande av data finns bestämmelser om myndigheters 
-och offentliga företags tillgängliggörande av data för 
-vidareutnyttjande.
-
-I produktansvarslagen (1992:18) finns bestämmelser om 
-skadeståndsansvar för produkter med säkerhetsbrister.
-Lag (2022:819).
-
-Bemyndiganden
-
-9 § Regeringen får meddela föreskrifter om undantag från
-lagens tillämpningsområde enligt 4 § andra stycket.
-Regeringen får också meddela föreskrifter om undantag från
-lagens tillämpningsområde som avser fordon.
-
-Regeringen eller den myndighet som regeringen bestämmer får
-meddela föreskrifter om de krav som avses i 6 och 7 §§.
+9 § Har upphävts genom lag (2025:1016).
 
 
 Övergångsbestämmelser
