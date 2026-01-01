@@ -136,16 +136,7 @@ Direktåtkomst
 
 10 § Har upphävts genom förordning (2022:871).
 
-11 § /Upphör att gälla U:2025-10-01/
-Arbetslöshetskassornas direktåtkomst till
-personuppgifter som behandlas i Centrala studiestödsnämndens
-studiestödsverksamhet får endast avse uppgifter enligt 23 §
-förordningen (1997:835) om arbetslöshetsförsäkring och
-särskilt identifikationsnummer som getts av Centrala
-studiestödsnämnden.
-
-11 § /Träder i kraft I:2025-10-01/
-Arbetslöshetskassornas direktåtkomst till personuppgifter 
+11 § Arbetslöshetskassornas direktåtkomst till personuppgifter 
 som behandlas i Centrala studiestödsnämndens 
 studiestödsverksamhet får endast avse uppgifter enligt 17 § 
 förordningen (2024:1350) om arbetslöshetsförsäkring och 
@@ -225,26 +216,20 @@ Inkassoföretag		Namn, adress, personnummer,
 			inkassoföretaget ska vidta och orsak 
 			till en återkallelse av begäran.
 			
-Kommun			– Personnummer, samordningsnummer, 
-			särskilt identifikationsnummer som getts 
-			av Centrala studiestödsnämnden, kommunkod, 
-			läroanstaltens kod, studieväg, klass, 
-			studietid, tid för studieavbrott och 
-			närvaro på läroanstalten i fråga om 
-			studerande som har fått studiehjälp och 
-			som ansökt om stöd till inackordering 
-			enligt 15 kap. 32 § skollagen (2010:800),
-			– namn, adress, personnummer och 
-			samordningsnummer för betalningsmottagare 
-			av studiehjälp, och
-			– namn, personnummer eller samordningsnummer, 
-			adress och tidigare studiestöd för att 
-			kommunen ska kunna fullgöra sina uppgifter 
-			enligt lagen (2017:527) om studiestartsstöd, 
-			uppgift om den studerande har beviljats 
-			studiestartsstöd samt uppgifter om kommunens 
-			elektroniska åtkomst till personuppgifter hos 
-			Centrala studiestödsnämnden.
+Kommun          	- Personnummer, samordningsnummer, 
+                        särskilt identifikationsnummer som 
+                        getts av Centrala studiestödsnämnden, 
+                        kommunkod, läroanstaltens kod, 
+                        studieväg, klass, studietid, tid för 
+                        studieavbrott och närvaro på 
+                        läroanstalten i fråga om studerande 
+                        som har fått studiehjälp och som har 
+                        ansökt om stöd till inackordering 
+                        enligt 15 kap. 32 § skollagen 
+                        (2010:800), och
+                        - namn, adress, personnummer och 
+                        samordningsnummer för 
+                        betalningsmottagare av studiehjälp.
 
 Kronofogdemyndigheten	- Uppgifter som krävs för handläggning 
                         av ärenden enligt lagen (1990:746) om 
@@ -258,93 +243,80 @@ Kronofogdemyndigheten	- Uppgifter som krävs för handläggning
                         ska kunna besluta om utmätning enligt 
                         7 kap. utsökningsbalken.
 
-Migrationsverket	Uppgift om att en person som har fyllt 18 
-			men inte 21 år har beviljats studiehjälp 
-			enligt studiestödslagen (1999:1395), som 
-			krävs för prövningen av om en kommun har rätt 
-			till ersättning enligt förordningen (1990:927) 
-			om statlig ersättning för flyktingmottagande m.m. 
-			eller enligt förordningen (2010:1122) om statlig 
-			ersättning för insatser för vissa utlänningar, 
-			samt namn, personnummer och samordningsnummer.
+Migrationsverket	Uppgift om att en person som har fyllt 
+                        18 men inte 21 år har beviljats 
+                        studiehjälp enligt studiestödslagen 
+                        (1999:1395), som krävs för prövningen 
+                        av om en kommun har rätt till 
+                        ersättning enligt förordningen 
+                        (1990:927) om statlig ersättning för 
+                        flyktingmottagande m.m. eller enligt 
+                        förordningen (2010:1122) om statlig 
+			ersättning för insatser för vissa 
+			utlänningar, samt namn, personnummer 
+			och samordningsnummer.
 
-Myndighet eller 
-organisation som är 
-mottagare av 
-underrättelse enligt 
+Myndighet eller         Uppgifter som krävs för att lämna en 
+organisation som är     underrättelse enligt 3 § lagen om 
+mottagare av            underrättelseskyldighet vid felaktiga
+underrättelse enligt    utbetalningar från välfärdssystemen. 
 lagen (2008:206) om 
 underrättelseskyldighet 
 vid felaktiga 
 utbetalningar från 
-välfärdssystemen        Uppgifter som krävs för att lämna en 
-                        underrättelse enligt 3 § lagen om 
-                        underrättelseskyldighet vid felaktiga 
-                        utbetalningar från välfärdssystemen. 
+välfärdssystemen
 
-Myndighet som anges i 
-2 § förordningen 
-(2016:775) om 
-uppgiftsskyldighet vid 
-samverkan mot viss 
+Myndighet som anges i   Uppgifter som behövs för den mottagande 
+2 § förordningen        myndighetens deltagande i samverkan 
+(2016:775) om           enligt lagen (2016:774) om 
+uppgiftsskyldighet vid  uppgiftsskyldighet vid samverkan mot 
+samverkan mot viss      viss organiserad brottslighet.
 organiserad 
-brottslighet	        Uppgifter som behövs för den mottagande 
-                        myndighetens deltagande i samverkan enligt 
-                        lagen (2016:774) om uppgiftsskyldighet 
-                        vid samverkan mot viss organiserad 
-                        brottslighet.
+brottslighet
 
-Myndighet som anges i 
-2 § lagen (2025:170) 
-om skyldighet att 
-lämna uppgifter 
-till de 
-brottsbekämpande 
-myndigheterna           Uppgifter som behövs i de 
-                        brottsbekämpande myndigheternas 
-                        brottsbekämpande verksamhet enligt 4 
-                        och 5 §§ lagen om skyldighet att lämna 
-                        uppgifter till de brottsbekämpande 
-                        myndigheterna.
+Myndighet som anges i   Uppgifter som behövs i de 
+2 § lagen (2025:170)    brottsbekämpande myndigheternas 
+om skyldighet att       brottsbekämpande verksamhet enligt 4 
+lämna uppgifter         och 5 §§ lagen om skyldighet att lämna 
+till de                 uppgifter till de brottsbekämpande 
+brottsbekämpande        myndigheterna.
+myndigheterna
 
-Myndighet som begär 
-det eller sådant organ 
-som anges i bilagan 
-till offentlighets- 
-och sekretesslagen 
+Myndighet som begär     Namn, adress, den studerandes länskod,
+det eller sådant organ  kommunkod, läroanstaltens kod, studie-
+som anges i bilagan     vägskod, årskurs, läroanstaltens namn,
+till offentlighets-     utbildningens namn och läroanstaltens
+och sekretesslagen      länskod.
 (2009:400) som begär 
-det                     Namn, adress, den studerandes länskod,
-                        kommunkod, läroanstaltens kod, studie-
-                        vägskod, årskurs, läroanstaltens namn,
-                        utbildningens namn och läroanstaltens
-                        länskod.
+det
 
-Omställningsorganisa-
-tion enligt 5 § lagen 
-(2022:856) om 
-omställningsstudiestöd  Uppgifter som omfattas av Centrala 
-                        studiestödsnämndens uppgiftsskyldighet 
-                        enligt 35 § förordningen (2022:857) om 
-                        omställningsstudiestöd och uppgifter 
+Omställningsorganisa-   Uppgifter som omfattas av Centrala 
+tion enligt 5 § lagen   studiestödsnämndens uppgiftsskyldighet 
+(2022:856) om           enligt 35 § förordningen (2022:857) om 
+omställningsstudiestöd  omställningsstudiestöd och uppgifter 
                         som krävs för att 
                         omställningsorganisationen ska kunna 
                         fullgöra sina uppgifter enligt lagen om 
                         omställningsstudiestöd, förordningen om 
-                        omställningsstudiestöd, lagen (2022:850) 
-                        om grundläggande omställnings- och 
-                        kompetensstöd och förordningen 
-                        (2022:852) om grundläggande omställnings- 
-                        och kompetensstöd.
+                        omställningsstudiestöd, lagen 
+                        (2022:850) om grundläggande 
+                        omställnings- och kompetensstöd och 
+                        förordningen (2022:852) om 
+                        grundläggande omställnings- och 
+                        kompetensstöd.
 
-Polismyndigheten 	Uppgifter som krävs dels för att Centrala 
-			studiestödsnämnden ska kunna göra anmälningar 
-			enligt bidragsbrottslagen (2007:612), dels för 
-			Polismyndighetens handläggning av sådana 
-			anmälningar.
+Polismyndigheten 	Uppgifter som krävs dels för att 
+                        Centrala studiestödsnämnden ska kunna 
+                        göra anmälningar enligt 
+                        bidragsbrottslagen (2007:612), dels för 
+			Polismyndighetens handläggning av 
+			sådana anmälningar.
 
 Skatteverket	        Uppgifter som krävs för att fullgöra 
-                        skyldigheten att lämna kontrolluppgifter 
-                        eller uppgifter om betalningsmottagare 
-                        i arbetsgivardeklarationer enligt 
+                        skyldigheten att lämna 
+                        kontrolluppgifter eller uppgifter om 
+                        betalningsmottagare i 
+                        arbetsgivardeklarationer enligt 
                         skatteförfarandelagen (2011:1244) och 
                         uppgifter som krävs för att fullgöra 
                         uppgiftsskyldigheter enligt 
@@ -363,27 +335,26 @@ Utbetalningsmyndigheten	Uppgifter som omfattas av Centrala
                         Utbetalningsmyndigheten.
 
 Örebro kommun	        Namn, personnummer, samordningsnummer, 
-                        särskilt identifikationsnummer som getts 
-                        av Centrala studiestödsnämnden, beviljat 
-                        belopp i bidrag enligt förordningen 
-                        (1995:667) om bidrag till vissa 
-                        funktionshindrade elever i gymnasieskolan 
-                        som utbetalas till Örebro kommun för 
-                        kostnad för kost, logi och annan service 
-                        i samband med boendet som kommunen 
-                        tillhandahåller samt den totala kostnaden 
-                        för sådant.
+                        särskilt identifikationsnummer som 
+                        getts av Centrala studiestödsnämnden, 
+                        beviljat belopp i bidrag enligt 
+                        förordningen (1995:667) om bidrag till 
+                        vissa funktionshindrade elever i 
+                        gymnasieskolan som utbetalas till 
+                        Örebro kommun för kostnad för kost, 
+                        logi och annan service i samband med 
+                        boendet som kommunen tillhandahåller 
+                        samt den totala kostnaden för sådant.
 
-Överklagandenämnden 
-för studiestöd 	        Uppgifter som krävs för prövning av 
-                        överklagade beslut som Centrala 
+Överklagandenämnden     Uppgifter som krävs för prövning av
+för studiestöd 	        överklagade beslut som Centrala 
                         studiestödsnämnden har fattat.
 
 Centrala studiestödsnämnden får också lämna ut personuppgifter 
 elektroniskt på annat sätt än genom direktåtkomst i den 
 utsträckning det behövs för att någon annan ska kunna lämna ut 
 personuppgifter elektroniskt till myndigheten.
-Förordning (2025:197).
+Förordning (2025:1555).
 
 Gallring
 
@@ -423,3 +394,11 @@ kontrolluppgifter.
 
 2. Bestämmelserna i den nya lydelsen tillämpas första gången 
 på uppgifter som avser kalenderår 2019.
+
+2025:1555
+
+1. Denna förordning träder i kraft den 1 januari 2026.
+
+2. Äldre bestämmelser gäller fortfarande i fråga om uppgifter 
+som avser studiestartsstöd enligt den upphävda lagen 
+(2017:527) om studiestartsstöd.
