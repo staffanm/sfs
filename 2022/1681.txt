@@ -1,4 +1,3 @@
-/Träder i kraft I:2023-01-01/
 1 kap. Lagens tillämpningsområde och innehåll
 
 1 § I denna lag finns bestämmelser om vilka åtgärder 
@@ -289,7 +288,7 @@ Hemvist
 
 20 § En plattformsoperatör ska anses ha hemvist i en stat 
 eller jurisdiktion där den har skatterättslig hemvist i 
-enlighet med den statens eller jurisdiktionens lagstiftning.
+enlighet med den statens eller jurisdiktionens lagstiftning. 
 
 En rapporteringsskyldig plattformsoperatör ska anse att en 
 säljare har hemvist i den stat eller jurisdiktion där denne 
@@ -304,14 +303,12 @@ Om säljaren har lämnat upplysningar om förekomsten av ett fast
 driftställe enligt 6 kap. 4 § 6 ska den rapporteringsskyldiga 
 plattformsoperatören anse att säljaren har hemvist även i 
 respektive medlemsstat i Europeiska unionen som angetts av 
-säljaren. 
+säljaren.
 
 En rapporteringsskyldig plattformsoperatör ska därutöver anse 
 att en säljare har hemvist i var och en av de stater och 
-jurisdiktioner som bekräftats av en sådan elektronisk 
-identifieringstjänst som avses i 6 kap. 5 § och som 
-tillgängliggörs av en stat eller jurisdiktion eller av 
-Europeiska unionen.
+jurisdiktioner som bekräftats av en sådan identifieringstjänst 
+som avses i 29 §. Lag (2025:1388).
 
 Identifikationskod för finansiellt konto
 
@@ -391,6 +388,14 @@ nummer saknas.
 Varor
 
 28 § Med varor avses alla materiella tillgångar.
+
+Identifieringstjänst
+
+29 § Med identifieringstjänst avses en elektronisk process som 
+en medlemsstat eller Europeiska unionen utan kostnad 
+tillgängliggör för en rapporteringsskyldig plattformsoperatör 
+för att fastställa en säljares identitet och skatterättsliga 
+hemvist. Lag (2025:1388).
 
 3 kap. Anmälningsskyldighet för rapporteringsskyldiga 
 plattformsoperatörer som har anknytning till Sverige
@@ -554,14 +559,7 @@ verksamhet utförs i Europeiska unionen och, när sådant finns,
 med uppgift om i vilka medlemsstater det finns ett sådant fast 
 driftställe.
 
-5 § Om en rapporteringsskyldig plattformsoperatör använder sig 
-av en direkt bekräftelse genom en identifieringstjänst som 
-tillgängliggörs av en stat eller jurisdiktion eller av 
-Europeiska unionen för att fastställa säljarens identitet och 
-skatterättsliga hemvist, är operatören inte skyldig att 
-inhämta de upplysningar som anges i 3 § 2-5 och 4 § 2-6 med 
-avseende på den stat eller jurisdiktion som tillgängliggjort 
-tjänsten.
+5 § Har upphävts genom lag (2025:1388).
 
 6 § Den rapporteringsskyldiga plattformsoperatören är inte 
 skyldig att samla in de upplysningar som anges i 3 § 3 och 4 § 

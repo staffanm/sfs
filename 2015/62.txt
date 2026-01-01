@@ -390,7 +390,7 @@ kreditinstitut eller liknande verksamhet.
 9 § En enhet är ett finansiellt institut om den i sin 
 näringsverksamhet, eller om den förvaltas av en annan enhet 
 som i sin näringsverksamhet, bedriver en eller flera av 
-följande verksamheter för en kunds räkning:
+följande verksamheter för en kunds räkning: 
 
 1. handel med penningmarknadsinstrument, valuta, valuta-, 
 ränte- eller indexinstrument, överlåtbara värdepapper eller 
@@ -403,12 +403,27 @@ investeras, administreras eller förvaltas.
 
 Första stycket ska tolkas i enlighet med definitionen av 
 begreppet finansiellt institut i de i februari 2012 antagna 
-rekommendationerna från arbetsgruppen för finansiella 
-åtgärder (Financial Action Task Force, FATF) som avses i 
-artikel 1.1 j andra stycket i FATCA-avtalet.
+rekommendationerna från arbetsgruppen för finansiella åtgärder 
+(Financial Action Task Force, FATF) som avses i artikel 1.1 j 
+andra stycket i FATCA-avtalet.
 
-Sådana finansiella institut som avses i första stycket 
-benämns i denna lag investeringsenheter. Lag (2018:2035).
+Med finansiellt institut avses enligt denna paragraf inte en 
+enhet
+
+1. som inte bedriver eller tidigare har bedrivit någon 
+affärsverksamhet och som investerar kapital i tillgångar i 
+syfte att bedriva näringsverksamhet som inte utgör verksamhet 
+i ett finansiellt institut samt har etablerats inom de senaste 
+24 månaderna, eller
+
+2. som inte har varit ett finansiellt institut under de 
+senaste fem åren och som håller på att avveckla sina 
+tillgångar eller genomgår en omorganisation i syfte att 
+fortsätta eller återuppta näringsverksamhet som inte utgör 
+verksamhet i ett finansiellt institut.
+
+Sådana finansiella institut som avses i första stycket benämns 
+i denna lag investeringsenheter. Lag (2025:1385).
 
 10 § En enhet är ett finansiellt institut om den är ett
 sådant försäkringsföretag eller försäkringsföretags
@@ -946,104 +961,7 @@ undantagen faktisk innehavare, och
 ett sådant finansiellt institut som avses i 2 kap. 8 § eller
 en undantagen faktisk innehavare.
 
-8 § /Upphör att gälla U:2021-01-01/
-Med finansiellt institut med lokalt kundunderlag avses
-ett finansiellt institut som uppfyller följande krav:
-
-1. Det har
-
-a) tillstånd av Finansinspektionen att bedriva verksamhet
-eller förvaltas av någon som har sådant tillstånd,
-
-b) beviljats undantag från tillståndsplikt enligt 2 kap. 3 §
-lagen (2010:751) om betaltjänster, eller
-
-c) registrerats hos Finansinspektionen enligt 7 § lagen
-(2004:299) om inlåningsverksamhet.
-
-2. Det har inte något fast driftställe utanför Sverige.
-
-3. Det marknadsför sig inte till kunder eller kontohavare
-utanför Sverige.
-
-4. Minst 98 procent av värdet på de finansiella konton som
-förs av institutet ska innehas av personer med hemvist i
-Sverige eller en annan medlemsstat i Europeiska unionen.
-
-5. Det hade senast den 1 juli 2014 infört riktlinjer och
-förfaranden för att
-
-a) förhindra att det tillhandahåller finansiella konton till
-ett icke FATCA-deltagande finansiellt institut, och
-
-b) kontrollera om det öppnar eller håller ett finansiellt
-konto för en specificerad amerikansk person som inte har sin
-hemvist i Sverige eller för en passiv icke-finansiell enhet
-vars personer med bestämmande inflytande är medborgare eller
-har hemvist i USA och inte samtidigt har hemvist i Sverige.
-
-6. Dess riktlinjer och förfaranden som avses i 5 anger att
-om det fastställts att ett sådant finansiellt konto innehas
-av en specificerad amerikansk person som inte har sin hemvist
-i Sverige eller av en passiv icke-finansiell enhet vars
-personer med bestämmande inflytande är medborgare eller har
-hemvist i USA och inte samtidigt har hemvist i Sverige, ska
-det finansiella institutet rapportera ett sådant finansiellt
-konto som om det finansiella institutet vore ett
-rapporteringsskyldigt svenskt finansiellt institut och
-registrera sig i enlighet med 8 kap. 2 § eller stänga det
-finansiella kontot.
-
-7. Det granskar befintliga konton som innehas av en fysisk
-person som inte har sin hemvist i Sverige eller av en enhet,
-i enlighet med de förfaranden i 4–8 kap. som gäller för
-befintliga konton för att identifiera eventuella amerikanska
-rapporteringspliktiga konton eller finansiella konton som
-förs av ett icke FATCA-deltagande finansiellt institut, och
-rapporterar sådant finansiellt konto som om det finansiella
-institutet vore ett rapporteringsskyldigt svenskt finansiellt
-institut, eller stänger det finansiella kontot.
-
-8. Varje sådan till det finansiella institutet närstående
-enhet som är ett finansiellt institut ska vara etablerad
-eller registrerad i Sverige och uppfylla kraven i denna
-paragraf, utom när det gäller närstående enheter som är
-pensionsstiftelser.
-
-9. Det har inte riktlinjer eller förfaranden som
-diskriminerar mot finansiella konton som öppnas eller förs
-för fysiska personer som är specificerade amerikanska
-personer med hemvist i Sverige.
-
-Vid tillämpning av första stycket 2 avses med fast
-driftställe inte en sådan plats som inte marknadsförs till
-allmänheten och från vilken det finansiella institutet endast
-bedriver administrativa stödfunktioner.
-
-Vid tillämpning av första stycket 3 ska ett finansiellt
-institut inte anses marknadsföra sig till kunder eller
-kontohavare utanför Sverige endast på grund av att det
-finansiella institutet
-
-1. har en webbplats, om det på webbplatsen inte specifikt
-anges att det finansiella institutet tillhandahåller
-finansiella konton eller tjänster till kunder som inte har
-hemvist i Sverige och det finansiella institutet inte på
-annat sätt är inriktat på eller marknadsför sig till
-amerikanska kunder eller kontohavare, eller
-
-2. annonserar i tryckta medier eller via radio- eller
-tv-kanal som distribueras eller sänds huvudsakligen inom
-Sverige men som tillfälligtvis distribueras eller sänds även
-i andra länder, om det i marknadsföringen inte specifikt
-anges att det finansiella institutet tillhandahåller
-finansiella konton eller tjänster till kunder som inte har
-hemvist i Sverige och det finansiella institutet inte på
-annat sätt är inriktat på eller marknadsför sig till
-amerikanska kunder eller kontohavare.
-
-8 § /Träder i kraft I:2021-01-01/
-Med finansiellt institut med lokalt kundunderlag avses ett 
+8 § Med finansiellt institut med lokalt kundunderlag avses ett 
 finansiellt institut som uppfyller följande krav:
 
 1. Det har 
