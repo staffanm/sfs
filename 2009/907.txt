@@ -455,7 +455,7 @@ Myndighet	                Får myndigheten ha ett
 
 Affärsverket svenska kraftnät	
 
-Allmänna reklamationsnämnden	Ja 
+Allmänna reklamationsnämnden	Ja
 
 Arbetsdomstolen	
 
@@ -465,7 +465,7 @@ Arbetsgivarverket
 
 Arbetsmiljöverket	
 
-Barnombudsmannen	        Ja 
+Barnombudsmannen	        Ja
 
 Blekinge tekniska högskola	
 
@@ -473,9 +473,9 @@ Bolagsverket
 
 Boverket	
 
-Brottsförebyggande rådet	Ja 
+Brottsförebyggande rådet	Ja
 
-Brottsoffermyndigheten	Ja 
+Brottsoffermyndigheten	        Ja
 
 Centrala studiestödsnämnden	
 
@@ -483,26 +483,24 @@ Diskrimineringsombudsmannen
 
 Domstolsverket	
 
-E-hälsomyndigheten	        Ja 
+E-hälsomyndigheten	        Ja
 
 Ekobrottsmyndigheten	
 
-Ekonomistyrningsverket	
-
-Elsäkerhetsverket	        Ja 
+Elsäkerhetsverket	        Ja
 
 Energimarknadsinspektionen	
 
 Exportkreditnämnden	
 
-Finansinspektionen	        Ja 
+Finansinspektionen	        Ja
 
-Folke Bernadotteakademien	Ja 
+Folke Bernadotteakademien	Ja
 
 Folkhälsomyndigheten	
 
 Forskningsrådet för hälsa, 
-arbetsliv och välfärd	        Ja 
+arbetsliv och välfärd	        Ja
 
 Forskningsrådet för miljö, 
 areella näringar och 
@@ -518,14 +516,14 @@ Försvarshögskolan
 
 Försäkringskassan	
 
-Gymnastik- och idrottshögskolan	Ja 
+Gymnastik- och idrottshögskolan	Ja
 
 Göteborgs universitet	
 
 Havs- och vattenmyndigheten	
 
 Hälso- och sjukvårdens 
-ansvarsnämnd	                Ja 
+ansvarsnämnd	                Ja
 
 Högskolan Dalarna	
 
@@ -544,21 +542,20 @@ Högskolan Väst
 Institutet för rymdfysik	
 
 Inspektionen för strategiska 
-produkter	                Ja 
+produkter	                Ja
 
-Inspektionen för vård och 
-omsorg	
+Inspektionen för vård och omsorg	
 
 Institutet för arbetsmarknads- 
 och utbildningspolitisk 
-utvärdering	                Ja 
+utvärdering	                Ja
 
 Institutet för språk och 
-folkminnen	                Ja 
+folkminnen	                Ja
 
-Integritetsskyddsmyndigheten	Ja 
+Integritetsskyddsmyndigheten	Ja
 
-Justitiekanslern	        Ja 
+Justitiekanslern	        Ja
 
 Kammarkollegiet	
 
@@ -576,7 +573,7 @@ Konkurrensverket
 
 Konstfack	
 
-Konstnärsnämnden	        Ja 
+Konstnärsnämnden	        Ja
 
 Konsumentverket	
 
@@ -589,7 +586,7 @@ Kungl. biblioteket
 Kungl. Konsthögskolan	
 
 Kungl. Musikhögskolan i 
-Stockholm	                Ja 
+Stockholm	                Ja
 
 Kungl. Tekniska högskolan	
 
@@ -623,28 +620,27 @@ Mittuniversitetet
 
 Moderna museet	
 
-Myndigheten för delaktighet	Ja 
+Myndigheten för civilt försvar	
 
-Myndigheten för familjerätt och 
-föräldraskapsstöd	        Ja 
+Myndigheten för delaktighet     Ja
 
-Myndigheten för samhällsskydd och 
-beredskap	
+Myndigheten för familjerätt 
+och föräldraskapsstöd	        Ja
 
 Myndigheten för tillgängliga 
-medier	                        Ja 
+medier	                        Ja
 
-Myndigheten för tillväxtpolitiska 
-utvärderingar och analyser
+Myndigheten för 
+tillväxtpolitiska utvärderingar 
+och analyser
 	
+Myndigheten för ungdoms- 
+och civilsamhällesfrågor	
 
-Myndigheten för ungdoms- och 
-civilsamhällesfrågor	
+Myndigheten för vård- 
+och omsorgsanalys	
 
-Myndigheten för vård- och 
-omsorgsanalys	
-
-Myndigheten för yrkeshögskolan	Ja 
+Myndigheten för yrkeshögskolan	Ja
 
 Mälardalens universitet	
 
@@ -654,9 +650,10 @@ Naturhistoriska riksmuseet
 
 Naturvårdsverket	
 
-Nordiska Afrikainstitutet	Ja 
+Nordiska Afrikainstitutet	Ja
 
-Patent- och registreringsverket	
+Patent- och 
+registreringsverket	
 
 Pensionsmyndigheten	
 
@@ -666,22 +663,22 @@ Polismyndigheten
 
 Post- och telestyrelsen	
 
-Revisorsinspektionen	        Ja 
+Revisorsinspektionen	        Ja
 
 Riksantikvarieämbetet	
 
-Riksarkivet	                Ja 
+Riksarkivet	                Ja
 
-Riksgäldskontoret	        Ja 
+Riksgäldskontoret	        Ja
 
 Rymdstyrelsen	
 
 Rådet för Europeiska 
-socialfonden i Sverige	        Ja 
+socialfonden i Sverige	        Ja
 
 Rättsmedicinalverket	
 
-Sameskolstyrelsen	        Ja 
+Sameskolstyrelsen	        Ja
 
 Sametinget	
 
@@ -696,37 +693,32 @@ Socialstyrelsen
 Specialpedagogiska 
 skolmyndigheten	
 
-Spelinspektionen	        Ja 
+Spelinspektionen	        Ja
 
-Statens beredning för medicinsk 
-och social utvärdering	        Ja 
-
-Statens centrum för 
-arkitektur och design	
+Statens beredning för 
+medicinsk och social 
+utvärdering	                Ja
 
 Statens energimyndighet	
 
 Statens fastighetsverk	
 
-Statens försvarshistoriska museer	
-
 Statens geotekniska institut	
 
-Statens haverikommission	Ja 
+Statens haverikommission	Ja
 
 Statens historiska museer	
 
-Statens institutionsstyrelse 	 
+Statens institutionsstyrelse	
 
 Statens jordbruksverk	
 
-Statens konstråd	        Ja 
+Statens kulturråd	        Ja
 
-Statens kulturråd	        Ja 
-
-Statens maritima och 
-transporthistoriska museer	
-
+Statens museer för maritim-, 
+transport- och 
+försvarshistoria
+	
 Statens museer för världskultur	
 
 Statens musikverk	
@@ -750,26 +742,27 @@ Statistiska centralbyrån
 Statskontoret	
 
 Stockholms konstnärliga 
-högskola	                Ja 
+högskola	                Ja
 
 Stockholms universitet	
 
-Strålsäkerhetsmyndigheten 	
+Strålsäkerhetsmyndigheten	
 
-Styrelsen för ackreditering och 
-teknisk kontroll	
+Styrelsen för ackreditering 
+och teknisk kontroll	
 
 Styrelsen för internationellt 
 utvecklingsarbete	
 
 Svenska institutet	
 
-Sveriges geologiska undersökning	
+Sveriges geologiska 
+undersökning	
 
 Sveriges lantbruksuniversitet	
 
-Sveriges meteorologiska och 
-hydrologiska institut	
+Sveriges meteorologiska 
+och hydrologiska institut	
 
 Säkerhetspolisen	
 
@@ -778,7 +771,7 @@ Södertörns högskola
 Tandvårds- och 
 läkemedelsförmånsverket	
 
-Tillväxtverket 	
+Tillväxtverket	
 
 Totalförsvarets 
 forskningsinstitut	
@@ -786,29 +779,30 @@ forskningsinstitut
 Totalförsvarets plikt- 
 och prövningsverk	
 
-Trafikanalys 	
+Trafikanalys	
 
 Trafikverket	
 
-Transportstyrelsen 	
+Transportstyrelsen	
 
-Tullverket 	
+Tullverket	
 
 Umeå universitet	
 
-Universitets- och högskolerådet	
+Universitets- och 
+högskolerådet	
 
 Universitetskanslersämbetet	
 
-Upphandlingsmyndigheten 	
+Upphandlingsmyndigheten	
 
 Uppsala universitet	
 
-Valmyndigheten	                Ja 
+Valmyndigheten	Ja
 
-Verket för innovationssystem 	
+Verket för innovationssystem	
 
-Vetenskapsrådet	                Ja 
+Vetenskapsrådet	Ja
 
 Åklagarmyndigheten	
 
@@ -816,4 +810,4 @@ Vetenskapsrådet	                Ja
 
 Överklagandenämnden för 
 studiestöd	                Ja
-Förordning (2025:631).
+Förordning (2025:1523).
