@@ -1,38 +1,38 @@
-
 Lagens tillämpningsområde
 
-1 § Denna lag gäller teknisk drift av nationella toppdomäner
-för Sverige på Internet samt tilldelning och registrering av
-domännamn under dessa toppdomäner.
+1 § Denna lag gäller teknisk drift av nationella toppdomäner 
+för Sverige på internet samt tilldelning och registrering av 
+domännamn under dessa toppdomäner. Lag (2025:1510).
 
 Definitioner
 
 2 § I denna lag avses med
 
-domännamnssystemet: det internationella hierarkiska system som
-för befordringsändamål på Internet används för att tilldela
+domännamnssystemet: det internationella hierarkiska system som 
+för befordringsändamål på internet används för att tilldela 
 domännamn,
 
 domän: nivå i domännamnssystemet och del av domännamn,
 
-domännamn: unikt namn sammansatt av domäner, där en i
-domännamnssystemet lägre placerad domän står före en domän som
+domännamn: unikt namn sammansatt av domäner, där en i 
+domännamnssystemet lägre placerad domän står före en domän som 
 är högre placerad i systemet,
 
 toppdomän: den domän som återfinns sist i ett domännamn,
 
-nationell toppdomän: toppdomän som betecknar en nation eller en
-region,
+nationell toppdomän: toppdomän som betecknar en nation eller 
+en region,
 
-administration: teknisk drift av en toppdomän samt tilldelning
+administration: teknisk drift av en toppdomän samt tilldelning 
 och registrering av domännamn under denna,
 
-domänadministratör: den som ansvarar för administration av en
+domänadministratör: den som ansvarar för administration av en 
 nationell toppdomän för Sverige,
 
-namnserver: dator i ett elektroniskt kommunikationsnät som
-programmerats så att den lagrar och distribuerar information om
-domännamn samt tar emot och svarar på frågor om domännamn.
+namnserver: dator i ett elektroniskt kommunikationsnät som 
+programmerats så att den lagrar och distribuerar information 
+om domännamn samt tar emot och svarar på frågor om domännamn.
+Lag (2025:1510).
 
 Förhållandet till annan dataskyddsreglering
 
@@ -52,116 +52,124 @@ lagen. Lag (2018:367).
 
 Anmälan
 
-4 § En domänadministratör skall anmäla sin verksamhet till den
-myndighet som regeringen bestämmer (tillsynsmyndigheten).
-Domänadministratören skall också till tillsynsmyndigheten
-anmäla om administrationen helt eller delvis uppdras åt annan.
+4 § En domänadministratör ska anmäla sin verksamhet till den 
+myndighet som regeringen bestämmer (tillsynsmyndigheten). 
+Domänadministratören ska också till tillsynsmyndigheten anmäla 
+om administrationen helt eller delvis uppdras åt annan.
+Lag (2025:1510).
 
 Teknisk drift
 
-5 § En domänadministratör skall bedriva verksamheten på ett
-säkert och effektivt sätt i allmänhetens intresse.
-Domänadministratören skall
+5 § En domänadministratör ska bedriva verksamheten på ett 
+säkert och effektivt sätt i allmänhetens intresse. 
+Domänadministratören ska
 
-1. lagra tilldelade domännamn och andra uppgifter som är
-nödvändiga för att stödja den del av domännamnssystemet som
+1. lagra tilldelade domännamn och andra uppgifter som är 
+nödvändiga för att stödja den del av domännamnssystemet som 
 toppdomänen omfattar i en databas,
 
-2. distribuera uppgifterna till namnservrarna för toppdomänen
-och se till att informationen i dessa är korrekt och lätt
+2. distribuera uppgifterna till namnservrarna för toppdomänen 
+och se till att informationen i dessa är korrekt och lätt 
 tillgänglig,
 
-3. säkerställa en fungerande trafik mellan namnservrarna och
-Internet,
+3. säkerställa en fungerande trafik mellan namnservrarna och 
+internet,
 
-4. upprätthålla ett effektivt skydd av uppgifterna i
+4. upprätthålla ett effektivt skydd av uppgifterna i 
 toppdomänen,
 
-5. ha personal med tillräcklig kompetens och erfarenhet för
+5. ha personal med tillräcklig kompetens och erfarenhet för 
 verksamheten, samt
 
-6. ha sådana rutiner för verksamheten som uppfyller erkända
-standarder.
+6. ha sådana rutiner för verksamheten som uppfyller erkända 
+standarder. Lag (2025:1510).
 
 Register
 
-6 § En domänadministratör skall föra ett register över
-tilldelade domännamn under toppdomänen och löpande upprätta
+6 § En domänadministratör ska föra ett register över 
+tilldelade domännamn under toppdomänen och löpande upprätta 
 säkerhetskopior av registeruppgifterna.
 
-Registret skall innehålla
+Registret ska innehålla
 
 1. domännamnet,
 
-2. namnet på domännamnsinnehavaren och dennes postadress,
-telefonnummer och adress för elektronisk post,
+2. namnet på domännamnsinnehavaren och dennes telefonnummer 
+och  
+e-postadress,
 
-3. namnet på den som tekniskt administrerar domännamnet och
-dennes postadress, telefonnummer och adress för elektronisk
-post,
+3. namnet på den som tekniskt administrerar domännamnet och 
+dennes telefonnummer och e-postadress,
 
 4. uppgifter om de namnservrar som är knutna till domännamnet,
-samt
 
-5. övrig teknisk information som behövs för att administrera
-domännamnet.
+5. övrig teknisk information som behövs för att administrera 
+domännamnet, och
 
-Uppgifterna i registret skall kunna hämtas utan avgift via
-Internet.
+6. registreringsdatum.
 
-Personuppgifter får dock göras tillgängliga på detta sätt
-endast om den registrerade har samtyckt till det.
+Uppgifterna i registret ska kunna hämtas utan avgift via 
+internet. 
 
-Domänadministratören är personuppgiftsansvarig för behandling
-av personuppgifter i registret.
+Personuppgifter får dock göras tillgängliga på internet endast 
+om den registrerade har samtyckt till det.
+
+Därutöver ska uppgifter lämnas ut till den som gör en lagligen 
+grundad och motiverad begäran. Uppgifterna ska då lämnas ut 
+skyndsamt och senast 72 timmar från mottagandet av begäran.
+
+Domänadministratören är personuppgiftsansvarig för behandling 
+av personuppgifter i registret. Lag (2025:1510).
 
 Tilldelning av domännamn
 
-7 § En domänadministratör skall fastställa och ge offentlighet
-åt sina regler för tilldelning, registrering, avregistrering
-och överföring av domännamn under toppdomänen. Reglerna skall
-utformas så att förfarandet är öppet och icke-diskriminerande,
+7 § En domänadministratör ska fastställa och ge offentlighet 
+åt sina regler för tilldelning, registrering, avregistrering 
+och överföring av domännamn under toppdomänen. Reglerna ska 
+utformas så att förfarandet är öppet och icke-diskriminerande, 
 med särskilt beaktande av
 
 1. skyddet för den personliga integriteten,
 
 2. användarnas intressen och andra allmänna intressen, samt
 
-3. utvecklingen inom Internetområdet.
+3. utvecklingen inom internetområdet.
 
-Domänadministratören skall tillhandahålla ett effektivt
+Domänadministratören ska tillhandahålla ett effektivt 
 förfarande för lösning av tvister om tilldelning av domännamn.
+Lag (2025:1510).
 
 Överföring av uppgifter
 
-8 § En domänadministratör skall se till att uppgifterna i den
-databas som anges i 5 § 1 och det register som anges i 6 §
-överförs till tillsynsmyndigheten.
+8 § En domänadministratör ska se till att uppgifterna i den 
+databas som anges i 5 § 1 och det register som anges i 6 § 
+överförs till tillsynsmyndigheten. Lag (2025:1510).
 
 Bemyndigande
 
-9 § Regeringen eller, efter regeringens bemyndigande,
+9 § Regeringen eller, efter regeringens bemyndigande, 
 tillsynsmyndigheten får meddela föreskrifter om
 
-1. på vilket sätt skyldigheter enligt 5 § skall fullgöras,
+1. på vilket sätt skyldigheter enligt 5 § ska fullgöras,
 
 2. register och säkerhetskopior enligt 6 §, samt
 
-3. överföring enligt 8 §.
+3. överföring enligt 8 §. Lag (2025:1510).
 
 Tillsyn
 
-10 § Tillsynsmyndigheten skall ha tillsyn över efterlevnaden av
+10 § Tillsynsmyndigheten ska ha tillsyn över efterlevnaden av 
 lagen och av föreskrifter som har meddelats med stöd av lagen.
+Lag (2025:1510).
 
-11 § En domänadministratör skall på tillsynsmyndighetens
-begäran lämna den information och bereda den tillgång till
-utrustning och annat som behövs för tillsynen.
+11 § En domänadministratör ska på tillsynsmyndighetens begäran 
+lämna den information och bereda den tillgång till utrustning 
+och annat som behövs för tillsynen.
 
-Tillsynsmyndigheten har rätt att när det behövs för tillsynen
-få tillträde till områden, lokaler och andra utrymmen, dock
-inte bostäder, där verksamhet som omfattas av denna lag
-bedrivs.
+Tillsynsmyndigheten har rätt att när det behövs för tillsynen 
+få tillträde till områden, lokaler och andra utrymmen, dock 
+inte bostäder, där verksamhet som omfattas av denna lag 
+bedrivs. Lag (2025:1510).
 
 12 § Tillsynsmyndigheten får meddela de förelägganden som
 behövs för efterlevnaden av denna lag eller föreskrifter som
