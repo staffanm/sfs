@@ -1,4 +1,3 @@
-/Träder i kraft I:2023-09-01/
 1 kap. Inledande bestämmelser
 
 1 § Denna lag innehåller bestämmelser om samordningsnummer. 
@@ -10,13 +9,35 @@ Lagen innehåller även bestämmelser om personnummer som före
 
 2 § Skatteverket beslutar i ärenden enligt denna lag.
 
-Uppgifter om personer som har tilldelats samordningsnummer 
-registreras i folkbokföringsdatabasen enligt lagen (2001:182) 
-om behandling av personuppgifter i Skatteverkets 
-folkbokföringsverksamhet.
+Skatteverket ska registrera följande uppgifter om en person:
+
+1. samordningsnummer,
+
+2. personnummer,
+
+3. namn,
+
+4. födelsetid,
+
+5. medborgarskap,
+
+6. födelseort och födelseland,
+
+7. kontaktadress, 
+
+8. om personens identitet är styrkt, sannolik eller osäker,
+
+9. tidpunkt för när vilandeförklaring kan komma att ske enligt 
+3 kap. 2 § 1,
+
+10. vilandeförklaring enligt 3 kap. 2 §, med angivande av om 
+förklaringen skett med stöd av punkt 1 eller 2 i den 
+paragrafen, och
+
+11. tidpunkt för när en person har avlidit.
 
 Bestämmelser om folkbokföring och personnummer finns i 
-folkbokföringslagen (1991:481).
+folkbokföringslagen (1991:481). Lag (2026:154).
 
 2 kap. Tilldelning av samordningsnummer
 
@@ -63,6 +84,10 @@ fingeravtryck eller ansiktsbild är sparade, ska innehavaren på
 begäran låta den myndighet som utför identitetskontrollen ta 
 fingeravtryck och ansiktsbild i digitalt format för att 
 kontrollera att dessa motsvarar dem som finns i handlingen.
+
+När en kontroll enligt första stycket har genomförts, ska 
+fingeravtryck och ansiktsbilder samt de biometriska uppgifter 
+som har tagits fram omedelbart förstöras. Lag (2026:154).
 
 Samordningsnummer till personer som gjort sin identitet 
 sannolik
@@ -167,25 +192,25 @@ föreskrifter om förnyelse enligt detta kapitel.
 4 kap. Underrättelse- och anmälningsskyldighet
 
 1 § En myndighet ska underrätta Skatteverket om det kan antas 
-att en uppgift i folkbokföringsdatabasen om någon som har 
-tilldelats ett samordningsnummer är oriktig eller 
+att en uppgift som har registrerats enligt 1 kap. 2 § om någon 
+som har tilldelats ett samordningsnummer är oriktig eller 
 ofullständig.
 
 En sådan underrättelse behöver inte lämnas om särskilda skäl 
 talar mot det.
 
 Skyldigheten i första stycket gäller inte för Skatteverkets 
-brottsbekämpande verksamhet. Den gäller inte heller i fråga 
-om uppgifter som omfattas av sekretess enligt 24 kap. 8 § 
-offentlighets- och sekretesslagen (2009:400).
+brottsbekämpande verksamhet. Den gäller inte heller i fråga om 
+uppgifter som omfattas av sekretess enligt 24 kap. 8 § 
+offentlighets- och sekretesslagen (2009:400). Lag (2026:154).
 
 2 § Om en person med ett samordningsnummer har en 
-kontaktadress registrerad i folkbokföringsdatabasen, ska han 
-eller hon anmäla ändringar av adressen till Skatteverket.
+kontaktadress registrerad, ska han eller hon anmäla ändringar 
+av adressen till Skatteverket.
 
 Anmälningsskyldigheten gäller inte om samordningsnumret är 
 vilande eller personen omfattas av lagen (1976:661) om 
-immunitet och privilegier i vissa fall.
+immunitet och privilegier i vissa fall. Lag (2026:154).
 
 5 kap. Överklagande
 
