@@ -134,7 +134,7 @@ Förordning (2023:952).
 5 § Stöd får lämnas som ekonomiskt bidrag i den mån det finns 
 medel. 
 
-6 § Stöd får inte lämnas 
+6 § Stöd får inte lämnas
 
 1. för insatser som staten, regioner eller kommuner ska 
 ansvara för enligt lag eller annan författning,
@@ -147,9 +147,15 @@ definitionen i riktlinjer för statligt stöd till undsättning
 och omstrukturering av icke finansiella företag i svårigheter 
 EUT C 249, 31.7.2014, s. 1 (Celex 52014XC0731).
 
-Första stycket 1 och 2 gäller dock inte stöd enligt 5 kap. med 
-undantag för stöd enligt 13 §, eller 8 kap. Första stycket 3 
-gäller inte stöd enligt 5, 7 eller 8 kap.
+Första stycket 1 och 2 gäller dock inte stöd enligt 5 kap. 
+eller 8 kap., med undantag för stöd enligt 5 kap. 13 §.
+
+Första stycket 2 gäller inte åtaganden enligt 7 kap. 13 § 2 
+som uppfyller sådana krav enligt nationell rätt som går utöver 
+motsvarande obligatoriska minimikrav i unionslagstiftningen. 
+
+Första stycket 3 gäller inte stöd enligt 5, 7 eller 8 kap.
+Förordning (2026:288).
 
 Termer och uttryck
 
@@ -210,30 +216,7 @@ för bete eller odling utan några särskilda
 förberedandeåtgärder utöver användning av sedvanliga 
 jordbruksmetoder och jordbruksmaskiner. Förordning (2023:952).
 
-7 c § /Upphör att gälla U:2025-10-16/
-I denna förordning betyder djurenhet 
-
-1. när ordet används i 5, 7 och 8 kap.: en enhet enligt 
-bilagan till kommissionens genomförandeförordning (EU) 
-2021/2290 av den 21 december 2021 om fastställande av regler 
-om beräkningsmetoder för de gemensamma output- och 
-resultatindikatorer som anges i bilaga I till 
-Europaparlamentets och rådets förordning (EU) 2021/2115 om 
-fastställande av regler om stöd för de strategiska planer som 
-medlemsstaterna ska upprätta inom ramen för den gemensamma 
-jordbrukspolitiken (strategiska GJP-planer) och som 
-finansieras av Europeiska garantifonden för jordbruket (EGFJ) 
-och Europeiska jordbruksfonden för landsbygdsutveckling 
-(Ejflu) samt om upphävande av förordningarna (EU) nr 1305/2013 
-och (EU) nr 1307/2013, och 
-
-2. när ordet används i 12 kap: en enhet beräknad utifrån den 
-andel av dagarna i en räkningsperiod som ett djur hålls på en 
-anläggning som anges i en ansökan om stöd. 
-Förordning (2023:952).
-
-7 c § /Träder i kraft I:2025-10-16/
-I denna förordning betyder djurenhet 
+7 c § I denna förordning betyder djurenhet 
 
 1. när ordet används i 12 kap.: en enhet beräknad utifrån den 
 andel av dagarna i en räkningsperiod som ett djur hålls på en 
@@ -305,9 +288,9 @@ Ejflu som framgår av Europaparlamentets och rådets förordning
 förordning eller i förordningen (2009:1464) med instruktion 
 för Statens jordbruksverk.
 
-15 § Ekonomistyrningsverket är attesterande organ enligt 
-artikel 12 i Europaparlamentets och rådets förordning (EU) 
-2021/2116.
+15 § Statskontoret är attesterande organ enligt artikel 12 i 
+Europaparlamentets och rådets förordning (EU) 2021/2116.
+Förordning (2025:1322).
 
 Övervakningskommittéer och nationellt nätverk
 
@@ -673,40 +656,7 @@ möjligheter att betala ut stödet.
 
 Beräkning av arealbaserade stöd
 
-22 § /Upphör att gälla U:2026-01-01/
-Följande stöd ska beräknas enligt 23-25 b §§ :
-
-- grundläggande inkomststöd för hållbarhet enligt 5 kap. 5 §, 
-
-- kompletterande omfördelningsinkomststöd enligt 5 kap. 7 §,
-
-- kompletterande inkomststöd till unga jordbrukare enligt 5 
-kap. 8 §,
-
-- stöd för ekologisk produktion enligt 5 kap. 14 §,
-
-- stöd för odling av mellangröda och fånggröda och för 
-vårbearbetning enligt 5 kap. 20 §,
-
-- stöd för precisionsjordbruk enligt 5 kap. 24 §,
-
-- stöd för blommande åker och fältkant enligt 5 kap. 28 a §, 
-
-- stöd för skötsel av betesmarker och slåtterängar enligt 7 
-kap. 12 §,
-
-- stöd för fäbodar enligt 7 kap. 16 §,
-
-- stöd för skötsel av våtmarker och dammar enligt 7 kap. 19 §,
-
-- stöd för skyddszoner mot vattenområden och anpassade 
-skyddszoner enligt 7 kap. 20 §, och
-
-- kompensationsstöd för bergsområden och områden med naturliga 
-begränsningar enligt 8 kap. Förordning (2024:1204).
-
-22 § /Träder i kraft I:2026-01-01/
-Följande stöd ska beräknas enligt 23-25 b §§ : 
+22 § Följande stöd ska beräknas enligt 23-25 b §§ : 
 
 - grundläggande inkomststöd för hållbarhet enligt 5 kap. 5 §,
 
@@ -749,6 +699,12 @@ stöd med samma belopp.
 
 När det gäller stöd enligt 8 kap. ska genomsnittsvärdena för 
 respektive areal i ansökan beaktas vid beräkningen.
+
+23 a § När det gäller stöd enligt 5 kap. 28 a § ska 
+beräkningen av den största tillåtna arealen ske på grundval av 
+den totala areal åkermark som är registrerad i 
+Jordbruksverkets it-system på det sista tillåtna datumet för 
+att lägga till ny mark. Förordning (2025:1322).
 
 24 § När det gäller en ansökan om stöd enligt 5 kap. 7 eller 
 8 § där arealen i en grupp enligt 23 § andra stycket är större 
@@ -937,11 +893,14 @@ tillförs ärendet till it-systemen.
 eller en lokal aktionsgrupp har lämnat till it-systemen ska på 
 begäran lämnas ut till Jordbruksverket.
 
-41 § Jordbruksverket ska på begäran lämna uppgifter i ärenden 
-om stöd till Ekonomistyrningsverket. 
+41 § Jordbruksverket ska 
 
-Jordbruksverket ska på begäran av en lokal aktionsgrupp lämna 
-ut de uppgifter som behövs för gruppens handläggning av stöd.
+1. på begäran lämna uppgifter till Statskontoret i ärenden om 
+stöd, och
+
+2. på begäran av en lokal aktionsgrupp lämna ut de uppgifter 
+som behövs för gruppens handläggning av stöd.
+Förordning (2025:1322).
 
 42 § Uppgifter om stödmottagare i Blekinge län som 
 Länsstyrelsen i Skåne län har lämnat till it-systemen ska på 
@@ -961,11 +920,12 @@ Direktåtkomst
 länsstyrelserna, Sametinget, Skogsstyrelsen eller en lokal 
 aktionsgrupp har lämnat till it-systemen.
 
-45 § Ekonomistyrningsverket får ha direktåtkomst till 
-uppgifter i ärenden om stöd som myndigheten behöver för att 
-kunna fullgöra sitt arbete som attesterande organ för 
-Europeiska garantifonden för jordbruket (EGFJ) och Europeiska 
+45 § Statskontoret får ha direktåtkomst till uppgifter i 
+ärenden om stöd som myndigheten behöver för att kunna fullgöra 
+sitt arbete som attesterande organ för Europeiska 
+garantifonden för jordbruket (EGFJ) och Europeiska 
 jordbruksfonden för landsbygdsutveckling (Ejflu).
+Förordning (2025:1322).
 
 46 § En lokal aktionsgrupp får ha direktåtkomst till uppgifter 
 i ärenden som avser stödinsatser som gruppen ska besluta om 
@@ -1034,12 +994,42 @@ och i bilaga III i Europaparlamentets och rådets förordning
 (EU) 2021/2115 och de normer för god jordbrukshävd och goda 
 miljöförhållanden som anges i detta kapitel.
 
+1 a § Kraven i 4-7 §§ gäller inte jordbrukare som är 
+certifierade i enlighet med Europaparlamentets och rådets 
+förordning (EU) 2018/848 och vars hela jordbruksföretag består 
+av ekologiska produktionsenheter eller produktionsenheter 
+under omställning enligt definitionerna i artikel 3.10-11 i 
+den förordningen. Förordning (2026:288).
+
+1 b § Kraven i 10-10 b §§ gäller inte 
+
+1. jordbrukare som är certifierade i enlighet med 
+Europaparlamentets och rådets förordning (EU) 2018/848 och 
+vars hela jordbruksföretag består 
+
+av ekologiska produktionsenheter eller produktionsenheter 
+under omställning enligt definitionerna i artikel 3.10-11 i 
+den förordningen,
+
+2. företag med högst tio hektar åkermark, 
+
+3. företag med åkermark som till mer än 75 procent används för 
+produktion av gräs eller annat örtartat foder, används för 
+odling av baljväxter eller ligger i träda, eller en 
+kombination av dessa, eller 
+
+4. företag med en stödberättigande jordbruksareal som till mer 
+än 75 procent är permanent gräsmark eller används för 
+produktion av gräs eller annat örtartat foder, eller en 
+kombination av dessa. Förordning (2026:288).
+
 Bevarande av permanent gräsmark (GAEC 1)
 
 2 § Andelen permanent gräsmark på nationell nivå i förhållande 
 till den totala arealen jordbruksmark får inte minska med mer 
-än 5 procent i förhållande till andelen 2018 (gränsvärde). Om 
+än 10 procent i förhållande till andelen 2018 (gränsvärde). Om 
 en sådan minskning inträffar gäller 22 §.
+Förordning (2026:288).
 
 Skydd av våt- och torvmark (GAEC 2)
 
@@ -1136,10 +1126,6 @@ förordning (EU) 2018/848. Förordning (2024:1204).
 9 § Jordbruksverket får meddela föreskrifter om vilka grödor 
 som godkänns som marktäckning enligt 7 §.
 
-/Rubriken upphör att gälla U:2025-10-16/
-Växtföljd (GAEC 7)
-
-/Rubriken träder i kraft I:2025-10-16/
 Växtföljd och gröddiversifiering (GAEC 7)
 
 10 § En jordbrukare ska byta gröda på minst 33 procent av 
@@ -1160,8 +1146,7 @@ för god jordbrukshävd och goda miljöförhållanden (GAEC-normer)
 7 och 8 för ansökningsåret 2023. Referensår för kraven är 
 2023.
 
-10 a § /Träder i kraft I:2026-01-01/
-Jordbruksföretag med en åkermarksareal mellan 10 och 
+10 a § Jordbruksföretag med en åkermarksareal mellan 10 och 
 30 hektar får i stället för att följa kraven på växtföljd 
 enligt 10 § första och andra styckena tillämpa diversifiering 
 av grödor, om 
@@ -1171,8 +1156,7 @@ av grödor, om
 2. huvudgrödan inte upptar mer än 75 procent av åkermarken. 
 Förordning (2025:845).
 
-10 b § /Träder i kraft I:2026-01-01/
-Jordbruksföretag med en åkermarksareal som överstiger 
+10 b § Jordbruksföretag med en åkermarksareal som överstiger 
 30 hektar får i stället för att följa kraven på växtföljd 
 enligt 10 § första och andra styckena tillämpa diversifiering 
 av grödor, om
@@ -1210,42 +1194,7 @@ Om ett sådant grödbyte görs som avses i första stycket får
 färskpotatis odlas på samma yta i mer än tre år i sträck.
 Förordning (2024:1204).
 
-14 §/Upphör att gälla U:2026-01-01/
-Kraven på växtföljd gäller inte 
-
-1. företag med mindre än tio hektar åkermark, 
-
-2. företag som är certifierade enligt Europaparlamentets och 
-rådets förordning (EU) 2018/848, 
-
-3. företag med åkermark som till mer än 75 procent används för 
-produktion av gräs eller annat örtartat foder, används för 
-odling av baljväxter eller ligger i träda, eller en 
-kombination av dessa, eller 
-
-4. företag med en stödberättigande jordbruksareal som till mer 
-än 75 procent av den stödberättigande jordbruksarealen är 
-permanent gräsmark, används för produktion av gräs eller annat 
-örtartat foder eller en kombination av dessa. 
-
-14 § /Träder i kraft I:2026-01-01/
-Kraven på växtföljd och gröddiversifiering gäller inte 
-
-1. företag med högst tio hektar åkermark,
-
-2. företag som är certifierade enligt Europaparlamentets och 
-rådets förordning (EU) 2018/848, 
-
-3. företag med åkermark som till mer än 75 procent används för 
-produktion av gräs eller annat örtartat foder, används för 
-odling av baljväxter eller ligger i träda, eller en 
-kombination av dessa, eller 
-
-4. företag med en stödberättigande jordbruksareal som till mer 
-än 75 procent av den stödberättigande jordbruksarealen är 
-permanent gräsmark eller används för produktion av gräs eller 
-annat örtartat foder, eller en kombination av dessa. 
-Förordning (2025:845).
+14 § Har betecknats 4 kap. 1 b § genom förordning (2026:288).
 
 15 § Har upphävts genom förordning (2024:1204).
 
@@ -1270,21 +1219,7 @@ Förordning (2025:845).
 Bibehållande av landskapselement och förbud mot klippning av 
 häckar och träd (GAEC 8)
 
-19 § /Upphör att gälla U:2026-01-01/
-Landskapselement i utpekade områden enligt bilaga 2 som 
-utgörs av solitärträd, småvatten, öppna diken, stenmurar i 
-åkermark, permanenta grödor på åkermark och permanent gräsmark 
-på åkermark får inte tas bort eller skadas. Landskapselement 
-som omfattas av biotopskydd enligt 7 kap. 11 § miljöbalken och 
-för vilka dispens har medgetts enligt 7 kap. 11 § miljöbalken 
-får dock tas bort.
-
-Landskapselement som inte omfattas av biotopskydd får tas bort 
-om länsstyrelsen har godkänt detta enligt vad som gäller för 
-dispens från förbudet i 7 kap. 11 § miljöbalken.
-
-19 § /Träder i kraft I:2026-01-01/
-Landskapselement som utgörs av solitärträd, småvatten, 
+19 § Landskapselement som utgörs av solitärträd, småvatten, 
 öppna diken, stenmurar i åkermark, permanenta grödor på 
 åkermark eller permanent gräsmark på åkermark får inte tas 
 bort eller skadas. 
@@ -1306,29 +1241,27 @@ Förordning (2023:952).
 Omställning eller plöjning av betesmarker och slåtterängar i 
 Natura 2000-områden (GAEC 9)
 
-21 § Betesmarker och slåtterängar som är belägna inom ett 
-Natura 2000-område får inte ställas om till annan 
+21 § Betesmarker och slåtterängar som är permanent gräsmark 
+inom ett Natura 2000-område får inte ställas om till annan 
 markanvändning eller plöjas om inte bevarandeplanen för Natura 
-2000-området tillåter det.
+2000-området tillåter det. Förordning (2025:1322).
 
 Jordbruksverkets åtgärder om andelen permanent gräsmark 
 minskar
 
-22 § I fall som avses i 2 § gäller följande.
-
-Jordbruksverket ska ålägga de jordbruksföretag som under året 
-och de två föregående åren har ställt om permanent gräsmark 
-till åkermark att återställa åkermarken till permanent 
-gräsmark så att den nationella kvoten av permanent gräsmark 
-åter kommer att ligga inom gränsvärdet. 
-
-Jordbruksverket ska bestämma hur mycket åkermark som varje 
-jordbruksföretag ska återställa.
+22 § I fall som avses i 2 § ska Jordbruksverket besluta att de 
+jordbruksföretag som under året och de två föregående åren har 
+ställt om permanent gräsmark till åkermark ska återställa 
+åkermarken till permanent gräsmark så att den nationella 
+kvoten av permanent gräsmark åter ligger inom gränsvärdet. I 
+ett sådant beslut ska myndigheten bestämma hur mycket åkermark 
+som varje jordbruksföretag ska återställa.
 
 Jordbruksverket får besluta om förbud mot att ställa om 
 permanent gräsmark till åkermark för att säkerställa att 
 andelen permanent gräsmark i förhållande till den totala 
-arealen jordbruksmark är inom gränsvärdet.
+arealen jordbruksmark är inom gränsvärdet. 
+Förordning (2026:288).
 
 23 § Jordbruksverket ska varje år fastställa andelen permanent 
 gräsmark i förhållande till den totala arealen jordbruksmark 
@@ -1639,14 +1572,7 @@ juridisk person, gäller de villkor som anges i 9-11 §§.
 
 Stöd för klimatet och miljön
 
-13 § /Upphör att gälla U:2026-01-01/
-Stöd för klimatet och miljön enligt artikel 31 i 
-Europaparlamentets och rådets förordning (EU) 2021/2115 lämnas 
-enligt 14-27 och 28 a §§. Sådant stöd får kombineras i den 
-utsträckning som framgår av bilaga 7. Förordning (2024:1204).
-
-13 § /Träder i kraft I:2026-01-01/
-Stöd för klimatet och miljön enligt artikel 31 i 
+13 § Stöd för klimatet och miljön enligt artikel 31 i 
 Europaparlamentets och rådets förordning (EU) 2021/2115 lämnas 
 enligt 14-27, 28 a och 28 b §§. Sådant stöd får kombineras i 
 den utsträckning som framgår av bilaga 7. 
@@ -1765,29 +1691,15 @@ stöd till precisionsjordbruk.
 
 Stöd för blommande åker och fältkant 
 
-28 a § /Upphör att gälla U:2025-10-16/
-Stöd enligt artikel 31.1 a i Europaparlamentets och 
-rådets förordning (EU) 2021/2115 får lämnas årligen för 
-nyskapande av landskapselement och bevarande av ickeproduktiva 
-arealer i form av blommande åker och fältkant på ägoslaget 
-åkermark. Stöd lämnas inte för arealer med permanent gräsmark 
-eller permanenta grödor. 
-
-Stöd för landskapselement får lämnas för ett jordbruksskifte 
-som är minst 0,1 hektar och högst 0,5 hektar. Stöd för 
-ickeproduktiva arealer får lämnas för ett jordbruksskifte som 
-är större än 0,5 hektar.
-
-Stöd lämnas till den som förfogar över marken. Stöd lämnas med 
-ett enhetsbelopp enligt bilaga 3. Förordning (2024:1204).
-
-28 a § /Träder i kraft I:2025-10-16/
-Stöd enligt artikel 31.1 a i Europaparlamentets och 
+28 a § Stöd enligt artikel 31.1 a i Europaparlamentets och 
 rådets förordning (EU) 2021/2115 får lämnas årligen för 
 nyskapande av landskapselement och bevarande av ickeproduktiva 
 arealer i form av blommande åker och fältkant på ägoslaget 
 åkermark. Stöd lämnas inte för arealer med permanent gräsmark 
 eller permanenta grödor.
+
+Stöd lämnas för högst tio hektar åkermark och därutöver för 
+20 procent av den areal åkermark som överstiger tio hektar. 
 
 Stöd för landskapselement får lämnas för ett jordbruksskifte 
 som är minst 0,1 hektar och högst 0,5 hektar. Stöd för 
@@ -1797,13 +1709,11 @@ ickeproduktiva arealer får lämnas för ett jordbruksskifte som
 Stöd lämnas till den som förfogar över marken. Stöd lämnas med 
 ett enhetsbelopp enligt bilaga 3. Med Götalands södra 
 slättbygder i bilaga 3 avses de områden som anges i bilaga 8.
-Förordning (2025:845).
+Förordning (2025:1322).
 
-/Rubriken träder i kraft I:2026-01-01/
 Stöd för vallodling 
 
-28 b § /Träder i kraft I:2026-01-01/
-Stöd enligt artikel 31 i Europaparlamentets och rådets 
+28 b § Stöd enligt artikel 31 i Europaparlamentets och rådets 
 förordning (EU) 2021/2115 får lämnas årligen för vallodling 
 utanför sådana områden med kompensationsstöd som anges i 
 bilaga 6. Stöd lämnas för 
@@ -1974,30 +1884,39 @@ erkända i Sverige. Förordning (2023:517).
 Investeringar i materiella eller immateriella tillgångar 
 
 13 § Som förutsättning för stöd för investeringar som avser 
-förvärv av materiella eller immateriella tillgångar gäller att
+förvärv av materiella eller immateriella tillgångar gäller att 
 
-1. organisationen ska äga tillgångarna efter förvärvet och 
-använda dem i enlighet med deras karaktär, mål och avsedda 
-användning enligt det godkända operativa programmet,
+1. organisationen ska äga tillgångarna eller förfoga över dem 
+enligt ett avtal om leasing,
 
-2. tillgångarna ska finnas i organisationens, ett dotterbolags 
+2. organisationen ska använda tillgångarna i enlighet med 
+deras karaktär, mål och avsedda användning enligt det godkända 
+operativa programmet,
+
+3. tillgångarna ska finnas i organisationens, ett dotterbolags 
 eller en enskild medlems besittning, och
 
-3. en förvärvad tillgång som finns hos en enskild medlem som 
-upphör att vara medlem i organisationen ska 
+4. en tillgång som finns hos en enskild medlem som upphör att 
+vara medlem i organisationen ska 
 
 a) överlämnas till organisationen eller till en annan medlem, 
 eller
 
 b) lösas ut av medlemmen till tillgångens restvärde.
 
-I fråga om investeringar i byggnader gäller första stycket 1 
-och 2 under tio år och i fråga om andra tillgångar i fem år 
-från och med den dag då tillgången förvärvades.
+I fråga om investeringar i byggnader gäller första stycket 1-3 
+under tio år och i fråga om andra tillgångar i fem år från och 
+med den dag då tillgången förvärvades. För investeringar som 
+omfattas av ett leasingavtal ska dessa tidsperioder i stället 
+räknas från och med den dag då organisationen fick rätt att 
+förfoga över tillgången.
 
-Med dotterbolag enligt första stycket 2 avses dotterbolag som 
-organisationen eller sammanslutningen av organisationer äger 
-till minst 90 procent. Förordning (2023:517).
+Med leasingavtal avses i denna bestämmelse endast sådana 
+leasingavtal där äganderätten övergår till leasingtagaren 
+efter leasingperiodens slut. Med dotterbolag enligt första 
+stycket 3 avses dotterbolag som organisationen eller 
+sammanslutningen av organisationer äger till minst 90 procent.
+Förordning (2025:1322).
 
 Tillämpad forskning och utveckling
 
@@ -2134,28 +2053,14 @@ enligt artikel 70 i Europaparlamentets och rådets förordning
 2 § Ersättningar enligt detta kapitel får kombineras i den 
 utsträckning som framgår av bilaga 7.
 
-3 § /Upphör att gälla U:2026-01-01/
-Ersättning får lämnas årligen under förutsättning att 
-mottagaren åtar sig att under en period av fem år vidta sådana 
-åtgärder eller bedriva sådan odling som avses i detta kapitel. 
-
-För djurvälfärdsersättning som avser får, mjölkkor och suggor 
-enligt 13 § gäller dock att ersättning lämnas om mottagaren 
-åtar sig att under en period av ett år vidta sådana åtgärder.
-
-3 § /Träder i kraft I:2026-01-01/
-Ersättning får lämnas årligen under förutsättning att 
+3 § Ersättning får lämnas årligen under förutsättning att 
 mottagaren åtar sig att under en period av tre år vidta sådana 
-åtgärder eller bedriva sådan odling som avses i detta kapitel.  
-
-För ersättning för skötsel av våtmarker och dammar enligt 19 § 
-gäller i stället att ersättning lämnas om mottagaren åtar sig 
-att under en period av fem år vidta sådana åtgärder.
+åtgärder eller bedriva sådan odling som avses i detta kapitel.
 
 För djurvälfärdsersättning som avser får, mjölkkor och suggor 
 enligt 13 § gäller i stället att ersättning lämnas om 
 mottagaren åtar sig att under en period av ett år vidta sådana 
-åtgärder. Förordning (2025:845).
+åtgärder. Förordning (2026:288).
 
 4 § Ersättning för skötsel av våtmarker och dammar 
 (markersättning) får inte lämnas för en sammanlagd period om 
@@ -2167,37 +2072,15 @@ ska en ansökan om åtagande göras inom två stödår efter det att
 våtmarken är färdigställd för att berättiga till 
 markersättning.
 
-5 § /Upphör att gälla U:2025-10-16/
-Ersättning får lämnas med de belopp som anges i bilaga 4.
-
-5 § /Träder i kraft I:2025-10-16/
-Ersättning får lämnas med de belopp som anges i bilaga 4. 
+5 § Ersättning får lämnas med de belopp som anges i bilaga 4. 
 Med Götalands södra slättbygder i bilaga 4 avses de områden 
 som anges i bilaga 8. Förordning (2025:845).
 
-6 § /Upphör att gälla U:2026-01-01/
-Ett åtagande kan i syfte att uppnå högre miljönytta enbart 
+6 § Ett åtagande kan i syfte att uppnå högre miljönytta enbart 
 omvandlas till ett åtagande för skötsel av våtmarker och 
 dammar. Ett sådant nytt åtagande ska minst omfatta en period 
-om fem år, oavsett hur mycket av en period som återstår av det 
-ursprungliga åtagandet. 
-
-I de fall en kompletterande insats läggs till i ett befintligt 
-åtagande för skötsel av betesmarker och slåtterängar eller 
-fäbodar ska det befintliga åtagandet omvandlas till ett nytt 
-åtagande. Även i det fall nivån särskild skötsel läggs till i 
-ett befintligt åtagande för skötsel av betesmarker och 
-slåtterängar ska det befintliga åtagandet omvandlas till ett 
-nytt åtagande. Ett sådant nytt åtagande ska minst omfatta en 
-period om fem år, oavsett hur mycket av en period som återstår 
-av det ursprungliga åtagandet.
-
-6 § /Träder i kraft I:2026-01-01/
-Ett åtagande kan i syfte att uppnå högre miljönytta enbart 
-omvandlas till ett åtagande för skötsel av våtmarker och 
-dammar. Ett sådant nytt åtagande ska minst omfatta en period 
-om fem år, oavsett hur mycket av en period som återstår av det 
-ursprungliga åtagandet.  
+om tre år, oavsett hur mycket av en period som återstår av det 
+ursprungliga åtagandet.
 
 I de fall en kompletterande insats läggs till i ett befintligt 
 åtagande för skötsel av betesmarker och slåtterängar eller 
@@ -2207,7 +2090,7 @@ ett befintligt åtagande för skötsel av betesmarker och
 slåtterängar ska det befintliga åtagandet omvandlas till ett 
 nytt åtagande. Ett sådant nytt åtagande ska minst omfatta en 
 period om tre år, oavsett hur mycket av en period som återstår 
-av det ursprungliga åtagandet. Förordning (2025:845).
+av det ursprungliga åtagandet. Förordning (2026:288).
 
 7 § Den handläggande myndigheten får medge att befintliga 
 åtaganden utökas inom samma åtagandeperiod, om detta ger ökad 
@@ -2253,14 +2136,15 @@ Förordning (2023:336).
 
 Djurvälfärdsersättning 
 
-13 § Djurvälfärdsersättning får lämnas årligen till djurägare 
-som åtar sig att under ett år vidta åtgärder för
+13 § Djurvälfärdsersättning får lämnas årligen till den som 
+håller djur och som åtar sig att under ett år vidta åtgärder 
+för 
 
-1. djurvälfärd för får,
+1. djurvälfärd för får
 
 2. djurvälfärd för mjölkkor, eller
 
-3. djurvälfärd för suggor. 
+3. djurvälfärd för suggor. Förordning (2025:1322).
 
 14 § För djurvälfärdsersättning som avser får gäller att 
 sökanden ska ha minst en djurenhet i sin ansökan. 
@@ -2319,34 +2203,34 @@ finns risk för erosion och ytavrinning.
 
 Ersättning för hotade husdjursraser
 
-24 § Ersättning får lämnas till djurägare som håller minst ett 
-renrasigt djur av följande hotade husdjursraser: 
+24 § Ersättning får lämnas till den som håller minst ett 
+renrasigt djur av följande hotade husdjursraser:
 
 1. fjällko, rödkulla, allmogeko (väneko, ringamålako och 
-bohuskulla) och svensklågland, 
+bohuskulla) och svensklågland,
 
 2. allmogefår (dala pälsfår, fjällnäsfår, gestrikefår, 
 helsingefår, klövsjöfår, roslagsfår, svärdsjöfår, värmlandsfår 
 och åsenfår), gutefår, ryafår, svenskt finullsfår och 
-tabacktorpsfår, 
+tabacktorpsfår,
 
 3. svensk lantrasget och allmogeget (göingeget, jämtget och 
 lappget), och
 
-4. linderödssvin. 
+4. linderödssvin. Förordning (2025:1322).
 
-25 § Ersättning får lämnas till djurägare som håller fjäderfä 
-i minst en genbank av följande raser: 
+25 § Ersättning får lämnas till den som håller fjäderfä i 
+minst en genbank av följande raser:
 
 1. bohuslän-dals svarthöna, bjurholmshöna, gotlandshöna, 
 hedemorahöna, kindahöna, gammalsvensk dvärghöna, svensk 
 dvärghöna, orusthöna, skånsk blommehöna, åsbohöna, ölandshöna, 
-öländsk dvärghöna, och fiftyfive flowery, 
+öländsk dvärghöna, och fiftyfive flowery,
 
-2. skånegås och ölandsgås, och 
+2. skånegås och ölandsgås, och
 
 3. blekingeanka, svensk gul anka, svensk blå anka och svensk 
-myskanka. 
+myskanka. Förordning (2025:1322).
 
 26 § Nötkreatur ska vara äldre än sex månader och registrerade 
 i Jordbruksverkets centrala nötkreatursregister (CDB) för att 
@@ -2473,28 +2357,7 @@ skörd men som inte är växtodlingsgrödor och grovfodergrödor.
 
 Gemensamma bestämmelser 
 
-1 § /Upphör att gälla U:2025-10-16/
-Stöd för investeringar och projekt samt startstöd enligt 
-detta kapitel lämnas  
-
-1. som investeringsstöd för diversifiering till annan 
-verksamhet än jordbruksverksamhet, kalkfilterdiken, ökad 
-konkurrenskraft, vattenvårdsåtgärder, bevattningsdammar och 
-förädling av jordbruksprodukter,
-
-2. som projektstöd till lantrasföreningar, samarbete, 
-samarbete för innovation inom Europeiska 
-innovationspartnerskapet för produktivitet och hållbarhet inom 
-jordbruket (EIP) och lokalt ledd utveckling genom Leader, 
-kompetensutveckling, och
-
-3. som startstöd för unga jordbrukare. 
-
-Bestämmelserna i 4-7 §§ gäller inte startstöd för unga 
-jordbrukare. Förordning (2023:952).
-
-1 § /Träder i kraft I:2025-10-16/
-Stöd för investeringar och projekt samt startstöd enligt 
+1 § Stöd för investeringar och projekt samt startstöd enligt 
 detta kapitel lämnas
 
 1. som investeringsstöd för diversifiering till annan 
@@ -2653,13 +2516,7 @@ lämnas till företag som äger marken där investeringen
 genomförs, eller har tillstånd av markägaren för att genomföra 
 investeringen.
 
-11 § /Upphör att gälla U:2025-10-16/
-Stöd lämnas med 30 procent av de stödberättigande 
-kostnaderna. Lägsta stödberättigande utgifter är 
-200 000 kronor. Stöd får lämnas med högst 750 000 kronor. 
-
-11 § /Träder i kraft I:2025-10-16/
-Stöd lämnas med 40 procent av de stödberättigande 
+11 § Stöd lämnas med 40 procent av de stödberättigande 
 kostnaderna. Lägsta stödberättigande utgifter är 
 200 000 kronor. Stöd får lämnas med högst 1 600 000 kronor.
 Förordning (2025:845).
@@ -2719,25 +2576,9 @@ Förordning (2023:952).
 utlysning. Sametinget får även lämna stöd löpande.
 Förordning (2023:517).
 
-/Rubriken upphör att gälla U:2025-10-16/
-Investeringsstöd för kalkfilterdiken
-
-/Rubriken träder i kraft I:2025-10-16/
 Investeringsstöd för täckdikning med kalkfilter
 
-19 § /Upphör att gälla U:2025-10-16/
-Stöd för anläggning av kalkfilterdiken enligt artikel 73 
-i Europaparlamentets och rådets förordning (EU) 2021/2115 får 
-lämnas till företag som bedriver jordbruksverksamhet eller 
-till företag som genomför investeringar i mark som används i 
-en jordbruksverksamhet. 
-
-Med anläggning av kalkfilterdiken avses ny- eller omanläggning 
-av täckdiken där strukturkalk blandas in i jorden som används 
-för att återfylla ledningsschakten.
-
-19 § /Träder i kraft I:2025-10-16/
-Stöd för täckdikning med kalkfilter enligt artikel 73 i 
+19 § Stöd för täckdikning med kalkfilter enligt artikel 73 i 
 Europaparlamentets och rådets förordning (EU) 2021/2115 får 
 lämnas till företag som bedriver jordbruksverksamhet eller 
 till företag som genomför investeringar i mark som används i 
@@ -2751,13 +2592,7 @@ att återfylla ledningsschakten. Förordning (2025:845).
 investeringen genomförs eller har tillstånd av markägaren att 
 genomföra investeringen.
 
-21 § /Upphör att gälla U:2025-10-16/
-Stöd för anläggning av kalkfilterdiken får lämnas med 
-50 procent av de stödberättigande kostnaderna. Investeringen 
-ska genomföras på åkermark med lerjord.
-
-21 § /Träder i kraft I:2025-10-16/
-Stöd för täckdikning med kalkfilter får lämnas med 
+21 § Stöd för täckdikning med kalkfilter får lämnas med 
 60 procent av de stödberättigande kostnaderna. Investeringen 
 ska genomföras på åkermark med lerjord. Förordning (2025:845).
 
@@ -2780,73 +2615,60 @@ Stöd lämnas inte för hästavel och hästuppfödning.
 Stöd lämnas inte för den del av en akvaponi som avser 
 fiskodling. Förordning (2024:1204).
 
-25 § /Upphör att gälla U:2025-10-16/
-Stöd lämnas med 30 procent av de stödberättigande 
-kostnaderna.
+25 § Stöd lämnas med 30 procent av de stödberättigande 
+kostnaderna om inte något annat följer av andra till fjärde 
+styckena. 
 
-Stöd till rennäringen och till sådana företagare inom 
-lantbruks- och trädgårdsnäringen som är högst 40 år den dag då 
-ansökan om stöd lämnas in får dock lämnas med 40 procent av de 
-stödberättigande kostnaderna, om stödet avser något annat än 
-investeringar i täckdikning och energiskog.
+Stöd får lämnas med 40 procent av de stödberättigande 
+kostnaderna när det gäller 
 
-För investeringar för minskad ammoniakavgång får stöd lämnas 
-med 50 procent av de stödberättigande kostnaderna.
-Förordning (2024:1204).
+1. stöd till rennäringen, 
 
-25 § /Träder i kraft I:2025-10-16/
-Stöd lämnas med 30 procent av de stödberättigande 
-kostnaderna. 
+2. stöd för investeringar i ny teknik som möjliggör innovativa 
+hållbara produktionssystem,
 
-Stöd till rennäringen och till sådana företagare inom 
-lantbruks- och trädgårdsnäringen som är högst 40 år den dag då 
-ansökan om stöd lämnas in och som är ansvariga för ett företag 
-i enlighet med 5 kap. 10 §, får dock lämnas med 40 procent av 
-de stödberättigande kostnaderna, om stödet avser något annat 
-än investeringar i täckdikning eller energiskog. 
+3. stöd för investeringar i Västernorrlands, Jämtlands, 
+Västerbottens eller Norrbottens län, och 
+
+4. stöd till sådana företagare inom lantbruks- och 
+trädgårdsnäringen som är högst 40 år den dag då ansökan om 
+stöd lämnas in och som är ansvariga för ett företag i enlighet 
+med 5 kap. 10 §.
+
+Stöd får lämnas med 50 procent av de stödberättigande 
+kostnaderna om stödet lämnas till sådana företagare som avses 
+i andra stycket 4 och investeringen sker i Västernorrlands, 
+Jämtlands, Västerbottens eller Norrbottens län.
 
 För investeringar för minskad ammoniakavgång får stöd lämnas 
 med 80 procent av de stödberättigande kostnaderna.
-Förordning (2025:845).
+Förordning (2026:288).
 
 26 § Lägsta stödberättigande kostnader är 200 000 kronor. För 
 täckdikning, energiskog och rennäringen är dock lägsta 
 stödberättigande kostnader 100 000 kronor.
 
-27 § /Upphör att gälla U:2025-10-16/
-Högsta stödbelopp är 2 400 000 kronor för södra Sverige 
-och 3 500 000 kronor för norra Sverige.  
-
-För investeringar som enbart avser åtgärder för minskad 
-ammoniakavgång är högsta stödbelopp 500 000 kronor.  
-
-Om stöd enligt första och andra styckena kombineras är högsta 
-stödbeloppen 2 900 000 respektive 4 000 000 kronor. 
-
-27 § /Träder i kraft I:2025-10-16/
-Högsta stödbelopp är 2 400 000 kronor för södra Sverige 
-och 3 500 000 kronor för norra Sverige.
+27 § Högsta stödbelopp är 4 700 000 kronor för Västernorrlands 
+län, Jämtlands län, Västerbottens län och Norrbottens län, 
+3 500 000 kronor för Gävleborgs län, Dalarnas län och 
+Värmlands län och 2 400 000 kronor för övriga län.
 
 Om stöd lämnas för investeringar som, helt eller delvis, avser 
 åtgärder för minskad ammoniakavgång är dock högsta stödbelopp 
-3 200 000 kronor för södra Sverige och 4 300 000 kronor för 
-norra Sverige.
+5 500 000 kronor för Västernorrlands län, Jämtlands län, 
+Västerbottens län och Norrbottens län, 4 300 000 kronor för 
+Gävleborgs län, Dalarnas län och Värmlands län och 3 200 000 
+kronor för övriga län.
 
-I stödbeloppen enligt första stycket ingår inte stöd som 
-lämnas för investeringar som enbart avser täckdiken eller 
-energiskog. För sådana investeringar gäller ett separat högsta 
-stödbelopp som är 2 400 000 kronor för södra Sverige och 
-3 500 000 kronor för norra Sverige. Förordning (2025:845).
+I stödbeloppen enligt första stycket ingår inte stöd som ges 
+för investeringar som enbart avser täckdiken eller energiskog. 
+För sådana investeringar gäller ett separat högsta stödbelopp 
+som är 4 700 000 kronor för Västernorrlands län, Jämtlands 
+län, Västerbottens län och Norrbottens län, 3 500 000 kronor 
+för Gävleborgs län, Dalarnas län och Värmlands län och 
+2 400 000 kronor för övriga län. Förordning (2025:1322).
 
-28 § Vid tillämpningen av 27 § avses med södra Sverige Skåne 
-län, Blekinge län, Kronobergs län, Hallands län, Kalmar län, 
-Jönköpings län, Gotlands län, Västra Götalands län, 
-Östergötlands län, Södermanlands län, Örebro län, Stockholms 
-län, Västmanlands län och Uppsala län. 
-
-Med norra Sverige avses Norrbottens län, Västerbottens län, 
-Jämtlands län, Västernorrlands län, Gävleborgs län, Dalarnas 
-län och Värmlands län.
+28 § Har upphävts genom förordning (2025:1322).
 
 29 § Ett företag kan sammanlagt inte få stöd med mer än det 
 högsta stödbeloppet enligt 27 § under en period av tre år, 
@@ -2861,20 +2683,7 @@ ammoniakavgång. Förordning (2024:1204).
 
 Investeringsstöd för vattenvårdsåtgärder
 
-31 § /Upphör att gälla U:2025-10-16/
-Stöd får lämnas enligt artikel 73 i Europaparlamentets 
-och rådets förordning (EU) 2021/2115 för investeringar i 
-vattenvårdsåtgärder. Stöd lämnas till jordbruksföretag, 
-trädgårdsföretag, rennäringsföretag och företag som genomför 
-investeringar i mark som används i en jordbruksverksamhet. 
-
-Stöd lämnas inte till bevattningsdammar och kalkfilterdiken.
-
-Stöd får lämnas med 100 procent av de stödberättigande 
-kostnaderna.
-
-31 § /Träder i kraft I:2025-10-16/
-Stöd får lämnas enligt artikel 73 i Europaparlamentets 
+31 § Stöd får lämnas enligt artikel 73 i Europaparlamentets 
 och rådets förordning (EU) 2021/2115 för investeringar i 
 vattenvårdsåtgärder. Stöd lämnas till jordbruksföretag, 
 trädgårdsföretag, rennäringsföretag och företag som genomför 
@@ -2909,13 +2718,7 @@ terrasser på en eller båda sidor.
 
 36 § Lägsta stödberättigande utgifter är 30 000 kronor.
 
-37 § /Upphör att gälla U:2025-10-16/
-Högsta stödbelopp är 400 000 kronor per hektar för 
-våtmarker och dammar, 600 000 kronor per hektar för 
-fosfordammar och 1 000 kronor per meter för tvåstegsdiken. 
-
-37 § /Träder i kraft I:2025-10-16/
-Högsta stödbelopp är 600 000 kronor per hektar för 
+37 § Högsta stödbelopp är 600 000 kronor per hektar för 
 våtmarker och dammar, 600 000 kronor per hektar för 
 fosfordammar och 1 000 kronor per meter för tvåstegsdiken.
 Förordning (2025:845).
@@ -3136,17 +2939,7 @@ livsmiljö.
 Stöd lämnas med ett belopp som motsvarar mellan 40 och 
 100 procent av de stödberättigande utgifterna.  
 
-57 § /Upphör att gälla U:2025-10-16/
-Stöd får även lämnas för insatser som huvudsakligen 
-syftar till att gynna enstaka kommersiella verksamheter. 
-
-Stöd lämnas med ett belopp som motsvarar mellan 40 och 
-70 procent av de stödberättigande utgifterna. 
-
-Stöd får dock lämnas med högst 200 000 kronor.
-
-57 § /Träder i kraft I:2025-10-16/
-Stöd får även lämnas för insatser som huvudsakligen 
+57 § Stöd får även lämnas för insatser som huvudsakligen 
 syftar till att gynna enstaka kommersiella verksamheter.  
 
 Stöd lämnas med ett belopp som motsvarar mellan 40 och 70 
@@ -3155,16 +2948,7 @@ procent av de stödberättigande utgifterna.
 Stöd får dock lämnas med högst 300 000 kronor.
 Förordning (2025:845).
 
-58 § /Upphör att gälla U:2025-10-16/
-Stöd till paraplyprojekt får endast lämnas till lokala 
-aktionsgrupper. 
-
-Stöd får inte lämnas för investeringar. 
-
-Stöd får lämnas med högst 400 000 kronor.
-
-58 § /Träder i kraft I:2025-10-16/
-Stöd till paraplyprojekt får endast lämnas till lokala 
+58 § Stöd till paraplyprojekt får endast lämnas till lokala 
 aktionsgrupper.  
 
 Stöd får inte lämnas för investeringar. 
@@ -3456,27 +3240,7 @@ verksamhetskrav eller normer för god jordbrukssed och goda
 miljöförhållanden får de olika kontrollerna göras vid olika 
 tillfällen.
 
-13 § /Upphör att gälla U:2026-01-01/
-En kontroll på plats av ansökningar om arealbaserade stöd 
-ska omfatta 
-
-1. minst 5 procent av de stödmottagare som ansöker om stöd 
-enligt 5 kap. 5, 8, 14, 20, 24 och 28 a §§, 7 kap. 12, 16, 19 
-och 20 §§ samt 8 kap., och 
-
-2. minst 30 procent av de arealer som anges i ansökningarna om 
-stöd för produktion av hampa i enlighet med artikel 8.3 (i) i 
-kommissionens genomförandeförordning (EU) 2022/1173.
-
-Den lägsta kontrollnivån enligt första stycket 1 får uppnås 
-för varje stöd eller efter gruppering av stöd enligt första 
-stycket 1. Om kontrollnivån ska uppnås efter gruppering av 
-stöd ska urvalet omfatta ett tillräckligt stort urval per stöd 
-för att det ska gå att bedöma om kontrollerna är effektiva.
-Förordning (2024:1204).
-
-13 § /Träder i kraft I:2026-01-01/
-En kontroll på plats av ansökningar om arealbaserade stöd 
+13 § En kontroll på plats av ansökningar om arealbaserade stöd 
 ska omfatta  
 
 1. minst 5 procent av de stödmottagare som ansöker om stöd 
@@ -3518,11 +3282,13 @@ kompletterande urvalet inte överstiga 50 procent.
 Återstående kontroller på plats ska väljas ut på grundval av 
 en riskanalys.
 
-16 § Om kontrollerna på plats visar avsevärda felfrekvenser 
-när det gäller villkoren för ett visst stöd eller för en 
-gruppering av stöd ska Jordbruksverket öka antalet 
-stödmottagare som ska kontrolleras under det efterföljande 
-året. 
+16 § Jordbruksverket ska inför varje stödår utvärdera 
+felfrekvenserna för stöd och grupperingar av stöd baserat på 
+senast tillgängliga resultat från kontrollerna på plats. Om 
+denna utvärdering visar avsevärda felfrekvenser när det gäller 
+villkoren för ett visst stöd eller för en gruppering av stöd, 
+ska Jordbruksverket öka antalet stödmottagare som ska 
+kontrolleras.
 
 Antalet kontroller ska beräknas för hela landet och bestämmas 
 för varje enskild länsstyrelse som ansvarar för kontroll på 
@@ -3535,6 +3301,7 @@ grundval av samtliga kontroller av stödet.
 Jordbruksverket får avstå från att öka antalet stödmottagare 
 som ska kontrolleras på plats om det finns andra sätt att 
 säkerställa att antalet avvikelser minskar.
+Förordning (2025:1322).
 
 17 § Om kontrollerna på plats visar att felfrekvensen är lägre 
 än 2 procent för ett visst stöd eller gruppering av stöd får 
@@ -3546,13 +3313,21 @@ Kontrollurval och kontrollfrekvens för grundvillkor
 18 § Kontroll på plats av grundvillkor ska omfatta 1 procent 
 av de stödmottagare som har ansökt om stöd enligt 5, 7 eller 
 8 kap. och vars jordbruksföretag överstiger tio hektar 
-jordbruksareal som redovisats i enlighet med artikel 69.1 i 
-Europaparlamentets och rådets förordning (EU) 2021/2116. 
+stödberättigande areal som redovisats i enlighet med 
+artikel 69.1 i Europaparlamentets och rådets förordning (EU) 
+2021/2116.
 
 Kontrollnivån ska uppnås för hela landet. Om kontrollerna inte 
 genomförs av det utbetalande organet, är det dock tillräckligt 
 att den lägsta kontrollnivån uppnås hos den länsstyrelse som 
-ansvarar för kontrollen. Förordning (2024:659).
+ansvarar för kontrollen. Förordning (2026:288).
+
+18 a § Stödmottagare vars jordbruksföretag omfattar högst 
+30 hektar jordbruksareal som redovisats i enlighet med 
+artikel 69.1 i Europaparlamentets och rådets förordning (EU) 
+2021/2116 ska undantas från kontroll avseende kraven på 
+växtföljd och gröddiversifiering (GAEC 7) enligt 4 kap. 10-10 
+b §§. Förordning (2026:288).
 
 19 § Vid urvalet av stödmottagare för kontroller på plats som 
 avser uppfyllande av grundvillkor enligt artikel 83.6 d) i 
@@ -3566,13 +3341,15 @@ inte överstiga 50 procent. Återstående stödmottagare som ska
 bli föremål för kontroller på plats ska väljas ut på grundval 
 av en riskanalys.
 
-20 § Om kontrollerna på plats visar avsevärda felfrekvenser 
-när det gäller ett visst grundvillkor eller gruppering av 
-grundvillkor ska Jordbruksverket öka antalet stödmottagare som 
-ska kontrolleras på plats under det efterföljande året. Det 
-ökade antalet kontroller får begränsas till att avse de 
-vanligaste felen. Antalet kontroller ska beräknas för hela 
-landet
+20 § Jordbruksverket ska inför varje stödår utvärdera 
+felfrekvenserna för grundvillkor och grupperingar av 
+grundvillkor baserat på senast tillgängliga resultat från 
+kontrollerna på plats. Om denna utvärdering visar avsevärda 
+felfrekvenser när det gäller ett visst grundvillkor eller 
+gruppering av grundvillkor, ska Jordbruksverket öka antalet 
+stödmottagare som ska kontrolleras på plats. Det ökade antalet 
+kontroller får begränsas till att avse de vanligaste felen. 
+Antalet kontroller ska beräknas för hela landet
 
 1. för varje verksamhetskrav alternativt för varje norm för 
 god jordbrukshävd och goda miljöförhållanden, eller
@@ -3580,29 +3357,22 @@ god jordbrukshävd och goda miljöförhållanden, eller
 2. genom att gruppera verksamhetskrav och normer.
 
 Antalet kontroller ska bestämmas för varje länsstyrelse som 
-ansvarar för kontrollen.
-
-Beräkningen av antalet kontroller ska göras på grundval av 
-slumpmässigt utvalda kontroller enligt 19 §. Om antalet 
-slumpmässigt utvalda kontroller understiger 20 för ett visst 
-grundvillkor eller gruppering av grundvillkor ska beräkningen 
-göras på grundval av samtliga kontroller av stödet.
+ansvarar för kontrollen. Beräkningen av antalet kontroller ska 
+göras på grundval av slumpmässigt utvalda kontroller enligt 
+19 §. Om antalet slumpmässigt utvalda kontroller understiger 
+20 för ett visst grundvillkor eller gruppering av grundvillkor 
+ska beräkningen göras på grundval av samtliga kontroller av 
+stödet. 
 
 Jordbruksverket får avstå från att öka antalet stödmottagare 
 som ska kontrolleras på plats om det finns andra sätt att 
-säkerställa att felfrekvensen minskar. Förordning (2023:517).
+säkerställa att felfrekvensen minskar. Förordning (2025:1322).
 
 Kontrollmetod
 
 Arealbaserade stöd
 
-21 § /Upphör att gälla U:2025-10-16/
-En kontroll på plats av arealbaserade stöd ska omfatta 
-alla jordbruksskiften i de ansökningar om stöd som har valts 
-ut för kontroll på plats.
-
-21 § /Träder i kraft I:2025-10-16/
-En kontroll på plats av arealbaserade stöd som görs 
+21 § En kontroll på plats av arealbaserade stöd som görs 
 enligt 13 § ska omfatta alla jordbruksskiften i de ansökningar 
 om stöd som har valts ut för kontroll på plats. 
 Förordning (2025:845).
@@ -3995,44 +3765,7 @@ kompensationsstöd
 
 Minskning av arealbaserat stöd 
 
-6 § /Upphör att gälla U:2026-01-01/
-Administrativa sanktioner ska tas ut enligt andra stycket 
-genom att minska följande stöd:
-
-- grundläggande inkomststöd för hållbarhet enligt 5 kap. 5 §,
-
-- kompletterande omfördelningsinkomststöd enligt 5 kap. 7 §, 
-
-- kompletterande inkomststöd till unga jordbrukare enligt 5 
-kap. 8 §,
-
-- stöd för ekologisk produktion enligt 5 kap. 14 §,
-
-- stöd för odling av mellangröda och fånggröda och för 
-vårbearbetning enligt 5 kap. 20 §,
-
-- stöd för precisionsjordbruk enligt 5 kap. 24 §, 
-
-- stöd för blommande åker och fältkant enligt 5 kap. 28 a §, 
-och
-
-- kompensationsstöd för bergsområden och områden med naturliga 
-begränsningar enligt 8 kap.
-
-Om skillnaden mellan den areal som stöd har sökts för och 
-arealen i en grupp enligt 3 kap. 23 § andra stycket är mer än 
-två hektar eller 5 procent större än arealen i gruppen, ska 
-stödet minskas med ett belopp motsvarande 1,5 gånger den 
-skillnad som har konstaterats. Minskningen får inte överstiga 
-100 procent av det belopp som stöd har sökts för.
-
-Om det belopp som beräknas för minskningen inte kan avräknas 
-helt under innevarande kalenderår och de tre kalenderår som 
-följer på det kalenderår då felaktigheten upptäcktes, ska det 
-utestående beloppet efterskänkas. Förordning (2024:1204).
-
-6 § /Träder i kraft I:2026-01-01/
-Administrativa sanktioner ska tas ut enligt andra stycket 
+6 § Administrativa sanktioner ska tas ut enligt andra stycket 
 genom att minska följande stöd: 
 
 - grundläggande inkomststöd för hållbarhet enligt 5 kap. 5 §,
@@ -4243,12 +3976,21 @@ inte har angetts i ansökan om stöd.
 Minskning av stöd till följd av överträdelse av grundvillkor
 
 22 § Om en stödmottagare inte uppfyller de grundvillkor som 
-anges i 4 kap. ska stödet minskas enligt 23-30 §§.
+anges i 4 kap. ska stödet minskas enligt 23-30 §§. 
 
-Första stycket gäller inte för stödmottagare vars 
-jordbruksföretag omfattar högst tio hektar jordbruksareal som 
-redovisats i enlighet med artikel 69.1 i Europaparlamentets 
-och rådets förordning (EU) 2021/2116. Förordning (2024:659).
+Första stycket gäller inte 
+
+1. för stödmottagare vars jordbruksföretag omfattar högst tio 
+hektar stödberättigande areal som redovisats i enlighet med 
+artikel 69.1 i Europaparlamentets och rådets förordning (EU) 
+2021/2116, eller
+
+2. om överträdelsen avser kraven på växtföljd och 
+gröddiversifiering (GAEC 7) enligt 4 kap. 10-10 b §§ och 
+stödmottagarens jordbruksföretag omfattar högst 30 hektar 
+jordbruksareal som redovisats i enlighet med artikel 69.1 i 
+Europaparlamentets och rådets förordning (EU) 2021/2116.
+Förordning (2026:288).
 
 23 § Av artikel 9.1 i kommissionens delegerade förordning (EU) 
 2022/1172 och artikel 85.2 i Europaparlamentets och rådets 
@@ -4568,15 +4310,7 @@ någon annan anledning framstår som oskäligt.
 Jordbruksverket får meddela föreskrifter om vad som avses med 
 uppenbara fel.
 
-34 § /Upphör att gälla U:2025-10-16/
-Administrativa sanktioner enligt 23-30 §§ eller 32 b-
-32 j §§ ska inte tillämpas om den överträdelse som ligger till 
-grund för sanktionen beror på force majeure eller 
-exceptionella omständigheter eller ett beslut av en myndighet.
-Förordning (2024:1204).
-
-34 § /Träder i kraft I:2025-10-16/
-Administrativa sanktioner enligt 23-30 §§ eller 32 b-
+34 § Administrativa sanktioner enligt 23-30 §§ eller 32 b-
 32 j §§ ska inte tillämpas om den överträdelse som ligger till 
 grund för sanktionen beror på force majeure eller ett beslut 
 av en myndighet. Administrativa sanktioner enligt 23-30 §§ ska 
@@ -4586,43 +4320,7 @@ Förordning (2025:845).
 
 Avdragsordning
 
-35 § /Upphör att gälla U:2026-01-01/
-För följande stöd ska avdrag ske i den ordning som anges 
-i 36 § :
-
-- grundläggande inkomststöd för hållbarhet enligt 5 kap. 5 §, 
-
-- kompletterande omfördelningsinkomststöd för hållbarhet 
-enligt 5 kap. 7 §, 
-
-- kompletterande inkomststöd till unga jordbrukare enligt 
-5 kap. 8 §,
-
-- ersättning för ekologisk produktion enligt 5 kap. 14 §,
-
-- ersättning för odling av mellangröda för kolinlagring, 
-fånggröda för minskat kväveläckage och vårbearbetning för 
-minskat kväveläckage enligt 5 kap. 20 §, 
-
-- ersättning för precisionsjordbruk enligt 5 kap. 24 §, 
-
-- ersättning för blommande åker och fältkant enligt 5 kap. 28 
-a §, 
-
-- stöd för skötsel av betesmarker och slåtterängar enligt 
-7 kap. 12 §,
-
-- ersättning för fäbodar enligt 7 kap. 16 §, ersättning för 
-skötsel av våtmarker och dammar enligt 7 kap. 19 §, ersättning 
-för skyddszoner mot vattenområden och anpassade skyddszoner 
-enligt 7 kap. 20 §, och
-
-- kompensationsstöd för bergsområden, områden med naturliga 
-begränsningar och områden med särskilda begränsningar enligt 
-8 kap. Förordning (2024:1204).
-
-35 § /Träder i kraft I:2026-01-01/
-För följande stöd ska avdrag ske i den ordning som anges 
+35 § För följande stöd ska avdrag ske i den ordning som anges 
 i 36 § : 
 
 - grundläggande inkomststöd för hållbarhet enligt 5 kap. 5 §,
@@ -4869,21 +4567,21 @@ beräknas enligt räntelagen (1975:635). Förordning (2025:290).
 Överklagande och verkställighet
 
 7 § Länsstyrelsens beslut om stöd, åtaganden eller utbetalning 
-av stöd enligt 5 kap., 7 kap. och 8 kap., återkrav av sådana 
-stöd enligt 12 kap. 4 § och beslut om avdrag för överträdelse 
-av grundvillkoren enligt 12 kap. 23-30 §§ och 32 b-32 j §§ får 
+av stöd enligt 5, 7 och 8 kap., återkrav av sådana stöd enligt 
+12 kap. 4 § och beslut om avdrag för överträdelse av 
+grundvillkoren enligt 12 kap. 23-30 §§ och 32 b-32 j §§ får 
 överklagas till Jordbruksverket.
 
 I 40 § förvaltningslagen (2017:900) finns bestämmelser om 
-överklagande till allmän förvaltningsdomstol. 
+överklagande till allmän förvaltningsdomstol.
 
 Andra beslut än Jordbruksverkets beslut i ett överklagat 
 ärende enligt första stycket, beslut om utbetalning av stöd 
 enligt 3 kap. 3, 5-9 §§, 16 § tredje stycket och 33 §, beslut 
 om godkännande av operativa program enligt 3 kap. 6 §, beslut 
 om upphävande av stöd enligt 12 kap. 1 § och beslut om 
-återkrav enligt 12 kap. 4 § av stöd enligt 6 kap. och 9 kap. 
-får dock inte överklagas. Förordning (2024:1204).
+återkrav enligt 12 kap. 4 § får dock inte överklagas.
+Förordning (2025:1322).
 
 8 § Beslut om att inte betala ut stöd enligt 3 kap. 33 §, 
 beslut om stöd och åtaganden enligt 5 kap., 7 kap. och 8 kap. 
@@ -5016,5 +4714,15 @@ och i övrigt den 16 oktober 2025.
 2. Bestämmelsen i 4 kap. 19 § i den äldre lydelsen och den 
 upphävda bilaga 2 gäller fortfarande för stöd som sökts före 
 den 1 januari 2026.
+
+2026:288
+
+1. Denna förordning träder i kraft den 20 april 2026.
+
+2. Bestämmelserna i 1 kap. 6 §, 4 kap. 1 a och 1 b §§, 
+7 kap. 3 och 6 §§, 11 kap. 18 och 18 a §§, 12 kap. 22 § och 
+bilaga 4 i den nya lydelsen tillämpas dock första gången för 
+stödåret 2026.
+
 
 /Bilagorna är inte med här./
