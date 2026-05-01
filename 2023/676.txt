@@ -15,7 +15,7 @@ nr 305/2011.
 2 § Denna förordning är meddelad med stöd av
 
 - 6 § lagen (2023:254) om vissa produkters och tjänsters 
-tillgänglighet i fråga om 4-7 §§,
+tillgänglighet i fråga om 4-7 a §§,
 
 - 8 § samma lag i fråga om 8-11 §§,
 
@@ -27,7 +27,7 @@ tillgänglighet i fråga om 4-7 §§,
 
 - 14 § samma lag i fråga om 17 och 18 §§,
 
-- 15 och 16 §§ samma lag i fråga om 19 §,
+- 15 och 16 §§ samma lag i fråga om 19 §, 
 
 - 15 § samma lag i fråga om 21 §,
 
@@ -46,6 +46,7 @@ tillgänglighet i fråga om 4-7 §§,
 - 8 kap. 11 § regeringsformen i fråga om 34 §, och
 
 - 8 kap. 7 § regeringsformen i fråga om övriga bestämmelser.
+Förordning (2026:290).
 
 Ord och uttryck
 
@@ -101,6 +102,23 @@ Föreskrifter som berör en annan myndighets ansvarsområde än
 den som meddelar föreskrifterna får meddelas först efter att 
 den myndigheten har getts tillfälle att yttra sig.
 Förordning (2025:335).
+
+Kriterier för funktionsprestanda 
+
+7 a § De kriterier för funktionsprestanda som anges i bilaga 3 
+till denna förordning ska användas när de tillgänglighetskrav 
+som avses i 4 och 6 §§ inte omfattar en eller flera funktioner 
+avseende utformningen och tillverkningen av produkter eller 
+tillhandahållandet av tjänster. 
+
+Kriterierna får också användas som ett alternativ till ett 
+eller flera särskilda tekniska krav om tillämpningen av 
+kriterierna för funktionsprestanda uppfyller 
+tillgänglighetskraven som avses i 4 och 6 §§ och om 
+utformningen och tillverkningen av produkterna och 
+tillhandahållandet av tjänsterna resulterar i likvärdig eller 
+ökad tillgänglighet för den förutsebara användningen bland 
+personer med funktionsnedsättning. Förordning (2026:290).
 
 Bedömning av att ett tillgänglighetskrav inte ska gälla
 
@@ -420,6 +438,7 @@ Verkställighetsföreskrifter
 verkställigheten av lagen (2023:254) om vissa produkters och 
 tjänsters tillgänglighet och denna förordning. 
 
+
 Bilaga 1
 
 Följande krav på tillgänglighet gäller för samtliga produkter 
@@ -656,3 +675,76 @@ support, samtalsförmedlande tjänster och utbildningstjänster)
 finns att tillgå ska de, via tillgängliga kommunikationssätt, 
 tillhandahålla information om tjänstens tillgänglighet och 
 kompatibilitet med tekniska hjälpmedel.
+
+Bilaga 3
+
+Kriterier för funktionsprestanda
+
+Användning utan syn
+
+1. Om produkten eller tjänsten har visuella driftslägen ska 
+den ha minst ett driftsläge som inte kräver syn.
+
+Användning med begränsad syn
+
+2. Om produkten eller tjänsten har visuella driftslägen ska 
+den ha minst ett driftsläge som innebär att användarna kan 
+hantera produkten med begränsad syn. 
+
+Användning utan färguppfattning
+
+3. Om produkten eller tjänsten har visuella driftslägen ska 
+den ha minst ett driftsläge som inte kräver att användaren kan 
+uppfatta färger. 
+
+Användning utan hörsel
+
+4. Om produkten eller tjänsten har auditiva driftslägen ska 
+den ha minst ett driftsläge som inte kräver hörsel. 
+
+Användning med begränsad hörsel
+
+5. Om produkten eller tjänsten har auditiva driftslägen ska 
+den ha minst ett driftsläge som innebär att användarna kan 
+hantera produkten med begränsad hörsel. 
+
+Användning utan talförmåga
+
+6. Om produkten eller tjänsten kräver talkommandon från 
+användaren ska den ha minst ett driftsläge som inte kräver 
+talkommandon. Talkommandon inbegriper alla muntliga ljud som 
+tal, visslingar eller klickljud.
+
+Användning med begränsad manipuleringsförmåga eller styrka
+
+7. Om produkten eller tjänsten kräver manuella åtgärder ska 
+den ha minst ett driftsläge som innebär att användarna kan 
+hantera produkten genom alternativa åtgärder som inte kräver 
+finmotorisk styrning, manipulering eller handstyrka och inte 
+heller kräver att fler än en styrning används samtidigt.
+
+Användning med begränsad räckvidd
+
+8. Produktens driftsfunktioner måste finnas inom räckhåll för 
+alla användare. Om produkten eller tjänsten har manuella 
+driftslägen ska den ha minst ett driftsläge med begränsad 
+räckvidd och styrka. 
+
+Minimering av risken för anfall på grund av ljuskänslighet
+
+9. Om produkten har visuella driftslägen ska den undvika 
+driftslägen som utlöser anfall på grund av ljuskänslighet.
+
+Användning med begränsad kognitiv förmåga
+
+10. Produkten eller tjänsten ska ha minst ett driftsläge som 
+omfattar funktioner som gör den enklare och lättare att 
+använda.
+
+Privatliv
+
+11. Om produkten eller tjänsten innehåller funktioner som 
+tillhandahålls för tillgänglighet, ska den ha minst ett 
+driftsläge som skyddar användarens privatliv vid användning av 
+de funktioner som tillhandahåller tillgänglighet.
+Förordning (2026:290).
