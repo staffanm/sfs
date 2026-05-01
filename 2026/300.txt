@@ -1,0 +1,293 @@
+Lagens tillämpningsområde och innehåll
+
+1 § Denna lag gäller för sådant automatiskt utbyte av 
+tilläggsskatterapporter som avses i
+
+1. rådets direktiv (EU) 2025/872 av den 14 april 2025 om 
+ändring av direktiv 2011/16/EU om administrativt samarbete i 
+fråga om beskattning, och
+
+2. gällande avtal mellan behöriga myndigheter om automatiskt 
+utbyte av GloBE-information.
+
+2 § I lagen finns
+
+- definitioner och förklaringar (3-11 §§ ),
+
+- bestämmelser om överföring av uppgifter (12-14 §§ ),
+
+- bestämmelser om samarbete för att se till att avtal följs 
+och tillämpas (15-18 §§ ),
+
+- bestämmelser om användning av upplysningar som Skatteverket 
+tar emot (19 § ),
+
+- bestämmelser om underrättelser och åtgärder vid 
+uppgiftsincidenter och andra överträdelser av sekretessen 
+eller brister i skyddet för uppgifter (20 och 21 §§ ).
+
+Definitioner och förklaringar
+
+3 § Termer och uttryck som används i denna lag har, om inte 
+något annat anges, samma betydelse som i lagen (2023:875) om 
+tilläggsskatt.
+
+4 § Med OECD:s dataöverföringssystem avses i denna lag det 
+gemensamma system som OECD har utformat för att säkerställa 
+överföring på elektronisk väg mellan behöriga myndigheter på 
+området för beskattning.
+
+Termen uppgiftsincident har samma betydelse som i 7 § lagen 
+(2012:843) om administrativt samarbete inom Europeiska unionen 
+i fråga om beskattning.
+
+5 § Med rapporteringspliktig jurisdiktion avses i denna lag
+
+1. en medlemsstat i Europeiska unionen, eller
+
+2. en annan stat med vilken Sverige har ett gällande avtal 
+mellan behöriga myndigheter om automatiskt utbyte av 
+tilläggsskatterapporter och vilken har identifierats som en 
+sådan i en lista som publicerats av det koordineringsorgan som 
+avses i artikel 24.3 i bilaga 1 till lagen (1990:313) om 
+Europaråds- och OECD-konventionen om ömsesidig handräckning i 
+skatteärenden.
+
+6 § Med det allmänna avsnittet avses det avsnitt i en 
+tilläggsskatterapport som innehåller allmänna upplysningar om 
+den multinationella koncernen som helhet, inklusive dess 
+bolagsstruktur och en övergripande sammanfattning av 
+tillämpningen av reglerna.
+
+7 § Med avsnitt om jurisdiktion avses de avsnitt i en 
+tilläggsskatterapport som innehåller information om den 
+närmare tillämpningen av reglerna om tilläggsskatt eller 
+kvalificerad nationell tilläggsskatt för varje stat där den 
+multinationella koncernen bedriver verksamhet.
+
+8 § Med stat som har beskattningsrätt avses den stat som har 
+rätt att ta ut ett tilläggsskattebelopp enligt en huvudregel 
+för tilläggsskatt, en kompletteringsregel för tilläggsskatt 
+eller en regel om nationell tilläggsskatt. Detta gäller även 
+om tilläggsskattebeloppet är noll.
+
+9 § Med genomförandestat avses en stat som, för ett givet 
+rapporterat beskattningsår, har genomfört 
+
+1. en huvudregel för tilläggsskatt, 
+
+2. en kompletteringsregel för tilläggsskatt, eller 
+
+3. både en huvudregel för tilläggsskatt och en 
+kompletteringsregel för tilläggsskatt. 
+
+10 § Med stat som enbart tillämpar kvalificerad nationell 
+tilläggsskatt avses en stat som enbart har genomfört en regel 
+om nationell tilläggsskatt för ett givet rapporterat 
+beskattningsår.
+
+11 § Med rapporterat beskattningsår avses det beskattningsår 
+som tilläggsskatterapporten avser.
+
+Överföring av uppgifter
+
+12 § Skatteverket ska till en rapporteringspliktig 
+jurisdiktions behöriga myndighet genom automatiskt utbyte 
+överföra uppgifter som Skatteverket har fått i en 
+tilläggsskatterapport enligt 33 d kap. skatteförfarandelagen 
+(2011:1244) från moderföretaget eller den koncernenhet som har 
+utsetts att lämna tilläggsskatterapport och som hör hemma i 
+Sverige. Uppgifter ska överföras i enlighet med 13 § och den 
+rapporterande enhetens anvisningar.
+
+Skatteverket ska inte lämna de uppgifter som avses i första 
+stycket, om uppgifterna är så bristfälliga att de uppenbart 
+inte kan läggas till grund för de syften som uppgifterna 
+enligt 33 d kap. skatteförfarandelagen lämnas för.
+
+13 § Uppgifter ska överföras enligt följande:
+
+1. Det allmänna avsnittet i tilläggsskatterapporten ska 
+överföras till den genomförandestat där moderföretaget eller 
+koncernenheter i koncernen hör hemma.
+
+2. Det allmänna avsnittet i tilläggsskatterapporten, med 
+undantag av den övergripande sammanfattningen, ska överföras 
+till de stater som enbart tillämpar kvalificerad nationell 
+tilläggsskatt och
+
+a) där koncernenheter i koncernen hör hemma,
+
+b) där ett samriskföretag eller dotterföretag till ett 
+samriskföretag i koncernen hör hemma, om samriskföretag och 
+dotterföretag till samriskföretag omfattas av statens 
+kvalificerade nationella tilläggsskatt, eller
+
+c) där statslösa koncernenheter eller statslösa samriskföretag 
+och dotterföretag till samriskföretag i koncernen omfattas av 
+statens kvalificerade nationella tilläggsskatt. 
+
+3. Ett eller flera avsnitt om jurisdiktion i 
+tilläggsskatterapporten ska överföras till stater som har 
+beskattningsrätt med avseende på de stater som avsnitten 
+gäller.
+
+Med undantag för vad som anges i första stycket 3 ska dock en 
+stat som har beskattningsrätt endast genom kompletterande 
+tilläggsskatt och som har en procentsats för kompletterande 
+tilläggsskatt som är noll, enbart tillhandahållas den del av 
+tilläggsskatterapporten som innehåller information om 
+fördelning av kompletterande tilläggsskatt med avseende på den 
+staten. 
+
+Den genomförandestat där moderföretaget hör hemma ska 
+tillhandahållas samtliga avsnitt om jurisdiktion.
+
+14 § Uppgifter ska överföras inom tre månader från den dag 
+tilläggsskatterapporten senast ska lämnas enligt 33 d kap. 
+13 § skatteförfarandelagen (2011:1244). 
+
+Om tilläggsskatterapporten lämnas in för sent, ska uppgifterna 
+överföras senast inom tre månader från den dag 
+tilläggsskatterapporten lämnades.
+
+Samarbete om korrigeringar, efterlevnad och 
+efterlevnadskontroll 
+
+15 § Om det finns skäl att anta att uppgifter i en 
+tilläggsskatterapport som Skatteverket har mottagit genom 
+automatiskt utbyte behöver ändras, får Skatteverket anmäla 
+detta till behörig myndighet i den stat där moderföretaget 
+eller den koncernenhet som utsetts att lämna 
+tilläggsskatterapporten hör hemma. Om felet är uppenbart ska 
+Skatteverket anmäla detta.
+
+16 § Om en svensk koncernenhet har underrättat Skatteverket om 
+vilken enhet som lämnar tilläggsskatterapporten och i vilken 
+stat den enheten hör hemma men uppgifter inte har överförts 
+från den rapporteringspliktiga jurisdiktionens behöriga 
+myndighet inom tre månader från den dag 
+tilläggsskatterapporten senast ska lämnas i den staten, ska 
+Skatteverket underrätta den behöriga myndigheten om att 
+uppgifterna inte har mottagits. 
+
+För en tilläggsskatterapport som avser det första rapporterade 
+beskattningsåret för den rapporteringspliktiga jurisdiktionen, 
+gäller första stycket om tilläggsskatterapporten inte 
+mottagits inom sex månader från den dag 
+tilläggsskatterapporten senast ska lämnas i den staten.
+
+Med första rapporterat beskattningsår avses det första 
+beskattningsår för vilket en huvudregel för tilläggsskatt, en 
+kompletteringsregel för tilläggsskatt eller en regel om 
+nationell tilläggsskatt är tillämplig i en stat.
+
+17 § Om moderföretaget eller den koncernenhet som utsetts att 
+lämna tilläggsskatterapport hör hemma i Sverige och en annan 
+rapporteringspliktig jurisdiktions behöriga myndighet 
+underrättar Skatteverket om att det finns skäl att anta att 
+uppgifter som har lämnats i en tilläggsskatterapport behöver 
+kompletteras eller ändras, ska Skatteverket vid behov och utan 
+oskäligt dröjsmål vidta lämpliga åtgärder för att inhämta 
+kompletteringar eller en ändrad tilläggsskatterapport från 
+moderföretaget eller den koncernenhet som utsetts att lämna 
+tilläggsskatterapport. 
+
+Skatteverket ska så snart som möjligt överföra uppgifter i den 
+ändrade tilläggsskatterapporten i enlighet med 12 §. 
+
+18 § Om en annan rapporteringspliktig jurisdiktions behöriga 
+myndighet underrättar Skatteverket om att uppgifter i 
+tilläggsskatterapporten inte har överförts inom den tidsfrist 
+som anges i 14 §, ska Skatteverket utan oskäligt dröjsmål ta 
+reda på skälet till att uppgifterna inte har överförts. 
+Skatteverket ska inom en månad från den dag underrättelsen 
+togs emot meddela den behöriga myndigheten skälet till att 
+uppgifterna inte har överförts och, i de fall det är relevant, 
+informera om när uppgifterna kan förväntas överföras. 
+
+Den nya förväntade dagen för överföring ska fastställas till 
+en dag senast tre månader efter den dag underrättelsen om den 
+uteblivna överföringen togs emot.
+
+Användning av upplysningar som Skatteverket tar emot
+
+19 § Upplysningar som Skatteverket tar emot från en behörig 
+myndighet i en annan stat inom ramen för det automatiska 
+informationsutbyte som avses i ett gällande avtal mellan 
+behöriga myndigheter om automatiskt utbyte av 
+tilläggsskatterapporter, får användas endast på det sätt som 
+föreskrivs i artikel 22.2-22.4 i bilaga 1 till lagen 
+(1990:313) om Europaråds- och OECD-konventionen om ömsesidig 
+handräckning i skatteärenden.
+
+För användning och vidarebefordran av upplysningar som 
+Skatteverket tar emot från en behörig myndighet i en annan 
+stat inom ramen för det automatiska informationsutbyte som 
+avses i rådets direktiv 2011/16/EU av den 15 februari 2011 om 
+administrativt samarbete i fråga om beskattning, i lydelsen 
+enligt rådets direktiv (EU) 2025/872, gäller 20-22 och 23 §§ 
+lagen (2012:843) om administrativt samarbete inom Europeiska 
+unionen i fråga om beskattning.
+
+Underrättelser och åtgärder vid uppgiftsincidenter och andra 
+överträdelser av sekretessen eller brister i skyddet för 
+uppgifter
+
+20 § Skatteverket ska omedelbart underrätta sekretariatet vid 
+det koordineringsorgan som avses i artikel 24.3 i bilaga 1 
+till lagen (1990:313) om Europaråds- och OECD-konventionen om 
+ömsesidig handräckning i skatteärenden vid överträdelser av 
+sekretessen enligt ett gällande avtal mellan behöriga 
+myndigheter om automatiskt utbyte av tilläggsskatterapporter 
+eller vid uppgiftsincidenter eller andra brister i skyddet för 
+uppgifter som har tagits emot. Skatteverket ska då även 
+underrätta koordineringsorganets sekretariat om eventuella 
+påföljder och avhjälpande åtgärder som detta har resulterat i.
+
+Om en överträdelse av sekretessen eller en uppgiftsincident 
+eller annan brist i skyddet för uppgifterna har inträffat i 
+Sverige tillämpas även 22 b § lagen (2012:843) om 
+administrativt samarbete inom Europeiska unionen i fråga om 
+beskattning.
+
+21 § Skatteverket får tillfälligt och omedelbart avbryta 
+utbytet av upplysningar med en stat som inte är en medlemsstat 
+i Europeiska unionen om den staten, till följd av en 
+uppgiftsincident eller andra överträdelser av sekretessen och 
+brister i skyddet för uppgifter,
+
+1. inte anses vara en lämplig partner för automatiskt utbyte 
+av tilläggsskatterapporter,
+
+2. tillfälligtvis har fått sitt tillträde till OECD:s 
+dataöverföringssystem upphävt, eller
+
+3. har skickat en underrättelse som är gällande till 
+sekretariatet vid det koordineringsorgan som anges i 20 § om 
+att den inte ska ta emot uppgifter från andra stater.
+
+Skatteverket ska återuppta utbytet av upplysningar när 
+förutsättningarna enligt första stycket 1-3 inte längre är 
+uppfyllda.
+
+Om Skatteverket avbryter utbytet av upplysningar enligt första 
+stycket 1, ska Skatteverket underrätta den aktuella staten om 
+detta.
+
+Om en uppgiftsincident har inträffat i en eller flera 
+medlemsstater i Europeiska unionen tillämpas 22 b § lagen 
+(2012:843) om administrativt samarbete inom Europeiska unionen 
+i fråga om beskattning.
+
+
+Övergångsbestämmelser
+
+2026:300
+
+1. Denna lag träder i kraft den 1 maj 2026.
+
+2. För beskattningsår som avslutas före den 31 mars 2025, ska 
+överföring av uppgifter ske inom sex månader från den dag 
+tilläggsskatterapporten senast ska lämnas. Överföring av 
+uppgifter ska dock inte ske före den 1 december 2026.
