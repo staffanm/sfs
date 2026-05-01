@@ -48,9 +48,7 @@ om 7 kap. 2 §,
 
 - 7 kap. 21 § i samma lag i fråga om 7 kap. 3 §,
 
-- 8 kap. 1 och 3 §§ i samma lag i fråga om 8 kap. 4 och 5 §§,
-
-- 8 kap. 4-6 §§ i samma lag i fråga om 8 kap. 4 §,
+- 8 kap. 1 och 2 §§ i samma lag i fråga om 8 kap. 3 §,
 
 - 9 kap. 5 § i samma lag i fråga om 9 kap. 1 §,
 
@@ -62,12 +60,12 @@ om 7 kap. 2 §,
 
 - 9 kap. 30 § i samma lag i fråga om 9 kap. 13 §,
 
-- 8 kap. 11 § regeringsformen i fråga om 2 kap. 2 §, 
-3 kap. 28 §, 4 kap. 8 §, 7 kap. 4 §, 8 kap. 6 §, 9 kap. 9, 11 
-och 12 §§ och 11 kap. 1 §, och
+- 8 kap. 11 § regeringsformen i fråga om 2 kap. 2 §, 3 kap. 
+28 §, 4 kap. 8 §, 7 kap. 4 §, 8 kap. 4 §, 9 kap. 9, 11 och 
+12 §§ och 11 kap. 1 §, och
 
 - 8 kap. 7 § regeringsformen i fråga om övriga bestämmelser.
-Förordning (2024:190).
+Förordning (2025:1512).
 
 3 § Ord och uttryck som används i denna förordning har samma 
 betydelse som i lagen (2022:482) om elektronisk kommunikation. 
@@ -109,10 +107,18 @@ som behövs för sådan registrering.
 
 Kommunikationsverksamhet vid höjd beredskap
 
-8 § Post- och telestyrelsen får meddela föreskrifter om den fredstida planeringen för totalförsvarets behov av elektroniska kommunikationer under sådana förhållanden som anges i 1 kap. 11 § första stycket lagen (2022:482) om elektronisk kommunikation. Post- och telestyrelsen ska då beakta frågor om prioriterade abonnemang och krigsabonnentplaner.
+8 § Post- och telestyrelsen får meddela föreskrifter om den 
+fredstida planeringen för totalförsvarets behov av 
+elektroniska kommunikationer under sådana förhållanden som 
+anges i 1 kap. 11 § första stycket lagen (2022:482) om 
+elektronisk kommunikation. Post- och telestyrelsen ska då 
+beakta frågor om prioriterade abonnemang och 
+krigsabonnentplaner.
 
-Innan föreskrifter som avser den fredstida planeringen för totalförsvarets behov av elektroniska kommunikationer meddelas ska Post- och telestyrelsen samråda med Försvarsmakten och Myndigheten för civilt försvar.
-Förordning (2025:1160).
+Innan föreskrifter som avser den fredstida planeringen för 
+totalförsvarets behov av elektroniska kommunikationer meddelas 
+ska Post- och telestyrelsen samråda med Försvarsmakten och 
+Myndigheten för civilt försvar. Förordning (2025:1160).
 
 9 § En skyldighet att på visst sätt beakta totalförsvarets 
 behov av elektronisk kommunikation under höjd beredskap enligt 
@@ -122,9 +128,13 @@ behov av elektronisk kommunikation under höjd beredskap enligt
 Samverkan inför eller vid fredstida krissituationer och höjd 
 beredskap
 
-9 a § Post- och telestyrelsen, Affärsverket svenska kraftnät, Försvarsmakten, Myndigheten för civilt försvar och Trafikverket ska ingå i en nationell telesamverkansgrupp.
+9 a § Post- och telestyrelsen, Affärsverket svenska kraftnät, 
+Försvarsmakten, Myndigheten för civilt försvar och 
+Trafikverket ska ingå i en nationell telesamverkansgrupp.
 
-I telesamverkansgruppen ingår även de aktörer som med stöd av 1 kap. 13 § lagen (2022:482) om elektronisk kommunikation har ålagts en skyldighet att delta i gruppens verksamhet.
+I telesamverkansgruppen ingår även de aktörer som med stöd av 
+1 kap. 13 § lagen (2022:482) om elektronisk kommunikation har 
+ålagts en skyldighet att delta i gruppens verksamhet.
 Förordning (2025:1160).
 
 9 b § Den nationella telesamverkansgruppen har till uppgift 
@@ -203,28 +213,58 @@ om uppgifterna har lämnats
 2. efter ansökningstidens utgång på uppmaning av Post- och 
 telestyrelsen.
 
-3 § Undantag enligt 3 kap. 10 § första stycket 3 lagen (2022:482) om elektronisk kommunikation gäller för radioanvändning som behövs för verksamhet som bedrivs i syfte att tillgodose allmän ordning, säkerhet eller hälsa, om verksamheten bedrivs av
+3 § Undantag enligt 3 kap. 10 § första stycket 3 lagen 
+(2022:482) om elektronisk kommunikation gäller för 
+radioanvändning som behövs för verksamhet som bedrivs i syfte 
+att tillgodose allmän ordning, säkerhet eller hälsa, om 
+verksamheten bedrivs av
 
-1. Försvarsmakten, Kriminalvården, Kustbevakningen, Myndigheten för civilt försvar, Polismyndigheten, Säkerhetspolisen eller Tullverket,
+1. Försvarsmakten, Kriminalvården, Kustbevakningen, 
+Myndigheten för civilt försvar, Polismyndigheten, 
+Säkerhetspolisen eller Tullverket,
 
-2. regeringen, Regeringskansliet och de myndigheter som anges i bilaga 1 till förordningen (2022:524) om statliga myndigheters beredskap, när det gäller fredstida krishantering,
+2. regeringen, Regeringskansliet och de myndigheter som anges 
+i bilaga 1 till förordningen (2022:524) om statliga 
+myndigheters beredskap, när det gäller fredstida 
+krishantering,
 
-3. en kommun eller region enligt lagen (2006:544) om kommuners och regioners åtgärder inför och vid extraordinära händelser i fredstid och höjd beredskap,
+3. en kommun eller region enligt lagen (2006:544) om kommuners 
+och regioners åtgärder inför och vid extraordinära händelser i 
+fredstid och höjd beredskap,
 
-4. en kommun, en länsstyrelse, Sjöfartsverket eller Transportstyrelsen, när det gäller räddningstjänst enligt lagen (2003:778) om skydd mot olyckor,
+4. en kommun, en länsstyrelse, Sjöfartsverket eller 
+Transportstyrelsen, när det gäller räddningstjänst enligt 
+lagen (2003:778) om skydd mot olyckor,
 
-5. den som äger eller utövar farlig verksamhet på en anläggning och som enligt beslut av länsstyrelsen enligt 2 kap. 3 § förordningen (2003:789) om skydd mot olyckor är skyldig att i skälig omfattning hålla eller bekosta beredskap med personal och egendom och i övrigt vidta nödvändiga åtgärder för att hindra eller begränsa allvarliga skador på människor eller miljön,
+5. den som äger eller utövar farlig verksamhet på en 
+anläggning och som enligt beslut av länsstyrelsen enligt 
+2 kap. 3 § förordningen (2003:789) om skydd mot olyckor är 
+skyldig att i skälig omfattning hålla eller bekosta beredskap 
+med personal och egendom och i övrigt vidta nödvändiga 
+åtgärder för att hindra eller begränsa allvarliga skador på 
+människor eller miljön,
 
-6. Strålsäkerhetsmyndigheten, när det gäller rådgivning enligt förordningen (2003:789) om skydd mot olyckor,
+6. Strålsäkerhetsmyndigheten, när det gäller rådgivning enligt 
+förordningen (2003:789) om skydd mot olyckor,
 
-7. en kommun eller region, när det gäller akutsjukvård och katastrofmedicinsk beredskap enligt hälso- och sjukvårdslagen (2017:30),
+7. en kommun eller region, när det gäller akutsjukvård och 
+katastrofmedicinsk beredskap enligt hälso- och sjukvårdslagen 
+(2017:30),
 
-8. ett alarmeringsföretag i verksamhet där myndigheter bistås med stöd av lagen (1981:1104) om verksamheten hos vissa regionala alarmeringscentraler,
+8. ett alarmeringsföretag i verksamhet där myndigheter bistås 
+med stöd av lagen (1981:1104) om verksamheten hos vissa 
+regionala alarmeringscentraler,
 
-9. en koncessionshavare eller elleverantör enligt ellagen (1997:857), när det gäller verksamhet som är av omedelbar betydelse för att upprätthålla elöverföringen, och
+9. en koncessionshavare eller elleverantör enligt ellagen 
+(1997:857), när det gäller verksamhet som är av omedelbar 
+betydelse för att upprätthålla elöverföringen, och
 
-10. den som enligt radio- och tv-lagen (2010:696) eller tillståndsvillkor som meddelats med stöd av den lagen är skyldig att kostnadsfritt sända meddelanden enligt lagen (2023:407) om viktigt meddelande till allmänheten eller, om en myndighet begär det, andra meddelanden som är av vikt för allmänheten.
-Förordning (2025:1160).
+10. den som enligt radio- och tv-lagen (2010:696) eller 
+tillståndsvillkor som meddelats med stöd av den lagen är 
+skyldig att kostnadsfritt sända meddelanden enligt lagen 
+(2023:407) om viktigt meddelande till allmänheten eller, om en 
+myndighet begär det, andra meddelanden som är av vikt för 
+allmänheten. Förordning (2025:1160).
 
 Amatörradiosändare
 
@@ -236,20 +276,36 @@ användning.
 
 Åtgärder mot störningar
 
-5 § Det är förbjudet att inneha elektriska eller elektroniska anläggningar som, utan att vara radioanläggningar, är avsedda att sända radiovågor i annat syfte än ett sådant som avses i 3 kap. 24 § första stycket lagen (2022:482) om elektronisk kommunikation.
+5 § Det är förbjudet att inneha elektriska eller elektroniska 
+anläggningar som, utan att vara radioanläggningar, är avsedda 
+att sända radiovågor i annat syfte än ett sådant som avses i 
+3 kap. 24 § första stycket lagen (2022:482) om elektronisk 
+kommunikation.
 
 Förbudet gäller inte sådana anläggningar som
 
-1. behövs i verksamhet som bedrivs av Försvarets materielverk, Försvarets radioanstalt eller Försvarsmakten,
+1. behövs i verksamhet som bedrivs av Försvarets materielverk, 
+Försvarets radioanstalt eller Försvarsmakten,
 
-2. Polismyndigheten behöver i sin bombskyddsverksamhet eller som en nationell resurs i sin verksamhet till skydd mot obemannade luftfartyg,
+2. Polismyndigheten behöver i sin bombskyddsverksamhet eller i 
+sin verksamhet till skydd mot obemannade luftfartyg,
 
-3. Post- och telestyrelsen eller Elsäkerhetsverket innehar i samband med utövande av marknadskontroll, eller
+3. Säkerhetspolisen behöver i sin verksamhet till skydd mot 
+obemannade luftfartyg,
 
-4. Myndigheten för civilt försvar förvarar, underhåller och transporterar i sin verksamhet inom ramen för Europeiska unionens civila krishantering.
+4. Post- och telestyrelsen eller Elsäkerhetsverket innehar i 
+samband med utövande av marknadskontroll, eller
 
-Post- och telestyrelsen får efter ansökan av Kriminalvården besluta att förbudet inte ska gälla för en sådan anläggning som behövs i en anstalt eller ett häkte inom Kriminalvården för att hindra otillåten mobiltelefonkommunikation, om anläggningen kan användas utan att skadlig störning uppstår utanför anstalten eller häktet.
-Förordning (2025:1160).
+5. Myndigheten för civilt försvar förvarar, underhåller och 
+transporterar i sin verksamhet inom ramen för Europeiska 
+unionens civila krishantering.
+
+Post- och telestyrelsen får efter ansökan av Kriminalvården 
+besluta att förbudet inte ska gälla för en sådan anläggning 
+som behövs i en anstalt eller ett häkte inom Kriminalvården 
+för att hindra otillåten mobiltelefonkommunikation, om 
+anläggningen kan användas utan att skadlig störning uppstår 
+utanför anstalten eller häktet. Förordning (2026:309).
 
 Överlåtelse och uthyrning av tillstånd
 
@@ -646,42 +702,43 @@ gäller enligt lag.
 Tillträde för installation av trådlösa accesspunkter med kort 
 räckvidd
 
-9 § Undantag från skyldigheten att ge tillträde enligt 5 kap. 44 § lagen (2022:482) om elektronisk kommunikation gäller för
+9 § Undantag från skyldigheten att ge tillträde enligt 5 kap. 
+44 § lagen (2022:482) om elektronisk kommunikation gäller för
 
-– Akademiska Hus AB,
+- Akademiska Hus AB,
 
-– Fortifikationsverket,
+- Fortifikationsverket,
 
-– Försvarets materielverk,
+- Försvarets materielverk,
 
-– Försvarets radioanstalt,
+- Försvarets radioanstalt,
 
-– Försvarsmakten,
+- Försvarsmakten,
 
-– Försvarsunderrättelsedomstolen,
+- Försvarsunderrättelsedomstolen,
 
-– Myndigheten för civilt försvar,
+- Myndigheten för civilt försvar,
 
-– Naturvårdsverket,
+- Myndigheten för säkerhet och integritetsskydd,
 
-– Polismyndigheten,
+- Naturvårdsverket,
 
-– Specialfastigheter Sverige AB,
+- Polismyndigheten,
 
-– Statens Fastighetsverk,
+- Specialfastigheter Sverige AB,
 
-– Statens inspektion för försvarsunderrättelseverksamheten,
+- Statens Fastighetsverk,
 
-– Säkerhetsfastigheter AB,
+- Statens inspektion för försvarsunderrättelseverksamheten,
 
-– Säkerhets- och integritetsskyddsnämnden,
+- Säkerhetsfastigheter AB,
 
-– Säkerhetspolisen,
+- Säkerhetspolisen,
 
-– Totalförsvarets forskningsinstitut, och
+- Totalförsvarets forskningsinstitut, och
 
-– Totalförsvarets plikt- och prövningsverk.
-Förordning (2025:1160).
+- Totalförsvarets plikt- och prövningsverk. 
+Förordning (2026:19).
 
 10 § Post- och telestyrelsen ska ta emot anmälningar enligt 
 artikel 3.3 och fullgöra den rapporteringsskyldighet som 
@@ -779,12 +836,17 @@ stycket i samma lag, och
 abonnentuppgifter enligt 7 kap. 38 § i samma lag.
 Förordning (2023:583).
 
-3 § Innan Post- och telestyrelsen meddelar föreskrifter ska myndigheten ge
+3 § Innan Post- och telestyrelsen meddelar föreskrifter ska 
+myndigheten ge
 
-1. Ekobrottsmyndigheten, Polismyndigheten och Åklagarmyndigheten tillfälle att yttra sig i fråga om föreskrifter enligt 2 § 5 och 6 som avser skyldigheter enligt 7 kap. 19 eller 20 § lagen (2022:482) om elektronisk kommunikation, och
+1. Ekobrottsmyndigheten, Polismyndigheten och 
+Åklagarmyndigheten tillfälle att yttra sig i fråga om 
+föreskrifter enligt 2 § 5 och 6 som avser skyldigheter enligt 
+7 kap. 19 eller 20 § lagen (2022:482) om elektronisk 
+kommunikation, och
 
-2. Myndigheten för civilt försvar tillfälle att yttra sig i fråga om föreskrifter enligt 2 § 10.
-Förordning (2025:1160).
+2. Myndigheten för civilt försvar tillfälle att yttra sig i 
+fråga om föreskrifter enligt 2 § 10. Förordning (2025:1160).
 
 4 § Post- och telestyrelsen får i enskilda fall besluta om 
 undantag från skyldigheterna enligt 7 kap. 18-20 §§ lagen 
@@ -802,61 +864,37 @@ tillfälle att yttra sig.
 
 8 kap. Säkerhet i nät och tjänster 
 
-1 § Post- och telestyrelsen ska informera allmänheten om 
-säkerhetsincidenter, om myndigheten bedömer att det ligger i 
-allmänhetens intresse att lämna sådan information. Post- och 
-telestyrelsen ska vid behov även informera behöriga 
-myndigheter i andra medlemsstater i Europeiska unionen och 
-Europeiska unionens cybersäkerhetsbyrå om säkerhetsincidenter. 
-
-Post- och telestyrelsen ska varje år lämna en sammanfattande 
-rapport till Europeiska kommissionen och Europeiska unionens 
-cybersäkerhetsbyrå om vilka rapporter om säkerhetsincidenter 
-som myndigheten har fått och vilka åtgärder som myndigheten 
-har vidtagit med anledning av rapporterna.
-
-Information och rapportering enligt första och andra styckena 
-får inte innehålla sådana uppgifter som ska anmälas enligt 
-2 kap. 4 § säkerhetsskyddsförordningen (2021:955).
-
-2 § Post- och telestyrelsen är behörig nationell myndighet 
+1 § Post- och telestyrelsen är behörig nationell myndighet 
 enligt kommissionens förordning (EU) nr 611/2013 av den 
 24 juni 2013 om åtgärder tillämpliga på anmälan av 
 personuppgiftsbrott enligt Europaparlamentets och rådets 
 direktiv 2002/58/EG vad gäller personlig integritet och 
-elektronisk kommunikation.
+elektronisk kommunikation. Förordning (2025:1512).
 
-3 § Post- och telestyrelsen ska i den utsträckning som behövs samråda och samarbeta med Finansinspektionen, Försvarsmakten, Inspektionen för vård och omsorg, Integritetsskyddsmyndigheten, Livsmedelsverket, Myndigheten för civilt försvar, Polismyndigheten, Statens energimyndighet, Säkerhetspolisen och Transportstyrelsen i frågor som rör säkerheten i nät och tjänster.
-Förordning (2025:1160).
+2 § Post- och telestyrelsen ska i den utsträckning som behövs 
+samråda och samarbeta med Finansinspektionen, Försvarsmakten, 
+Inspektionen för vård och omsorg, 
+Integritetsskyddsmyndigheten, Livsmedelsverket, Myndigheten 
+för civilt försvar, Polismyndigheten, Statens energimyndighet, 
+Säkerhetspolisen och Transportstyrelsen i frågor som rör 
+säkerheten i nät och tjänster. Förordning (2025:1512).
 
-4 § Post- och telestyrelsen får meddela 
+3 § Post- och telestyrelsen får meddela
 
-1. ytterligare föreskrifter om säkerhetsåtgärder enligt 
-8 kap. 1 § lagen (2022:482) om elektronisk kommunikation,
+1. ytterligare föreskrifter om skyddsåtgärder enligt 8 kap. 
+1 § lagen (2022:482) om elektronisk kommunikation, och
 
-2. ytterligare föreskrifter om rapportering av 
-säkerhetsincidenter enligt 8 kap. 3 § i samma lag, 
+2. föreskrifter om skyddsåtgärder enligt 8 kap. 2 § i samma 
+lag. Förordning (2025:1512).
 
-3. ytterligare föreskrifter om information till användare 
-enligt 8 kap. 4 § i samma lag, 
-
-4. ytterligare föreskrifter om skyddsåtgärder enligt 8 kap. 5 
-§ i samma lag, och
-
-5. föreskrifter om skyddsåtgärder enligt 8 kap. 6 § i samma 
-lag.
-
-5 § Post- och telestyrelsen får meddela föreskrifter om 
-undantag från
-
-1. skyldigheten att vidta säkerhetsåtgärder enligt 8 kap. 1 § 
-lagen (2022:482) om elektronisk kommunikation, och
-
-2. rapporteringsskyldigheten enligt 8 kap. 3 § i samma lag.
-
-6 § Post- och telestyrelsen får meddela närmare föreskrifter 
-om förteckningar över integritetsincidenter enligt 8 kap. 9 § 
+4 § Post- och telestyrelsen får meddela närmare föreskrifter 
+om förteckningar över integritetsincidenter enligt 8 kap. 5 § 
 lagen (2022:482) om elektronisk kommunikation.
+Förordning (2025:1512).
+
+5 § Har upphävts genom förordning (2025:1512).
+
+6 § Har betecknats 4 § genom förordning (2025:1512).
 
 9 kap. Behandling av trafikuppgifter samt integritetsskydd
 
@@ -879,8 +917,11 @@ telefonnumret, eller
 Behandling av uppgifter för att förmedla viktiga meddelanden 
 till allmänheten
 
-3 § Post- och telestyrelsen får, efter att ha gett Myndigheten för civilt försvar tillfälle att yttra sig, meddela föreskrifter om hur länge uppgifter får behandlas innan de enligt 9 kap. 11 § lagen (2022:482) om elektronisk kommunikation ska utplånas.
-Förordning (2025:1160).
+3 § Post- och telestyrelsen får, efter att ha gett Myndigheten 
+för civilt försvar tillfälle att yttra sig, meddela 
+föreskrifter om hur länge uppgifter får behandlas innan de 
+enligt 9 kap. 11 § lagen (2022:482) om elektronisk 
+kommunikation ska utplånas. Förordning (2025:1160).
 
 Lagring och annan behandling av trafikuppgifter m.m. för 
 brottsbekämpande ändamål
@@ -1019,12 +1060,15 @@ om tvistlösning kom in till myndigheten, om inte längre tid är
 nödvändig med hänsyn till tvistens omfattning eller andra 
 särskilda omständigheter.
 
-2 § Post- och telestyrelsen ska inför lösning av en tvist om tillträde enligt 5 kap. 44 § lagen (2022:482) om elektronisk kommunikation höra
+2 § Post- och telestyrelsen ska inför lösning av en tvist om 
+tillträde enligt 5 kap. 44 § lagen (2022:482) om elektronisk 
+kommunikation höra
 
-1. Försvarsmakten och Myndigheten för civilt försvar, om ärendet rör totalförsvaret, och
+1. Försvarsmakten och Myndigheten för civilt försvar, om 
+ärendet rör totalförsvaret, och
 
-2. Säkerhetspolisen, om ärendet annars rör frågor om Sveriges säkerhet.
-Förordning (2025:1160).
+2. Säkerhetspolisen, om ärendet annars rör frågor om Sveriges 
+säkerhet. Förordning (2025:1160).
 
 3 § Post- och telestyrelsen ska på begäran av Försvarsmakten 
 eller Säkerhetspolisen pröva om det finns skäl att återkalla 
