@@ -111,7 +111,7 @@ Småhus
 tabell för grund- och marginalvärden (SV-tabell), tabeller för 
 åldersinverkan (SO-tabeller S) och en tabell för värdeinverkan 
 av värdefaktorerna fastighetsrättsliga förhållanden och 
-värdeordning (FV-tabell S).
+värdeordning (FV-tabell S). 
 
 SV-tabellen ska utvisa värden för småhus, som uppförts under 
 det sjuttonde året före det år då allmän fastighetstaxering av 
@@ -120,7 +120,7 @@ värdefaktorerna storlek och standard och i en värdenivå vid
 vilken ett småhus enligt 8 kap. 2 § fastighetstaxeringslagen 
 (1979:1152), normhus, har ett värde av 100 000 kronor.
 
-Det ska finnas 88 skilda värdenivåer för normhuset. De erhålls 
+Det ska finnas 93 skilda värdenivåer för normhuset. De erhålls 
 genom att värdena i SV-tabellen multipliceras med nivåfaktorer 
 för småhus (S-nivåfaktorer). Dessa ska vara 1,5, 1,6, 1,7, 
 1,8, 1,9, 2,0, 2,1, 2,2, 2,3, 2,4, 2,5, 2,6, 2,7, 2,8, 2,9, 
@@ -130,10 +130,11 @@ för småhus (S-nivåfaktorer). Dessa ska vara 1,5, 1,6, 1,7,
 9,75, 10,0, 10,5, 11,0, 11,5, 12,0, 12,5, 13,0, 13,5, 14,0, 
 14,5, 15,0, 16,0, 17,0, 18,0, 19,0, 20,0, 21,0, 22,0, 23,0, 
 24,0, 26,0, 28,0, 30,0, 32,0, 34,0, 36,0, 38,0, 40,0, 42,0, 
-44,0, 46,0, 48,0, 50,0, 52,0, 54,0, 56,0, 58,0 och 60,0.
+44,0, 46,0, 48,0, 50,0, 52,0, 54,0, 56,0, 58,0, 60,0, 62,0, 
+64,0, 66,0, 68,0 och 70,0.
 
 Det ska upprättas en SV-tabell. Denna ska avse S-
-nivåfaktorerna 1,5-60,0.
+nivåfaktorerna 1,5-70,0.
 
 SO-tabellerna S ska genom åldersfaktorer utvisa 
 värderelationerna mellan lika stora byggnader vid skilda 
@@ -158,7 +159,7 @@ vara 1,0.
 SV-, SO- och FV-tabellerna ska utformas och värdefaktorerna 
 storlek, ålder, standard, fastighetsrättsliga förhållanden och 
 värdeordning klassindelas på det sätt som anges i bilaga 1.
-Förordning (2023:186).
+Förordning (2026:377).
 
 6 a § Har upphävts genom förordning (1997:452).
 
@@ -179,28 +180,7 @@ SO-tabeller L skall utformas och värdefaktorerna ålder och
 standard indelas på sätt som anges i bilaga 1 a.
 Förordning (2004:281).
 
-7 b § /Upphör att gälla U:2025-06-01/
-För småhus ingående i lantbruksenhet ska det upprättas 
-och tillämpas en tabell för värdeinverkan av värdefaktorerna 
-fastighetsrättsliga förhållanden och värdeordning (FV-tabell 
-L). Denna ska ha samma utformning och klassindelning som FV-
-tabell S med undantag för att omräkningsfaktorn för 
-fastighetsrättsliga förhållanden för värderingsenheter utanför 
-grupphusområde för var och en av klasserna får delas upp på 
-tre intervall för  
-S-nivåfaktorer, nämligen 1,50-6,00, 6,25-11,50 och 12,00-
-50,00. Det som sägs i 6 § andra och tredje styckena om värdena 
-i SV-tabellen är tillämpligt för småhus på lantbruksenhet när 
-omräkningsfaktorn enligt FV-tabell L bestämts till 1,0 för 
-normhuset.
-
-I bilaga 1 a anges hur FV-tabell L ska utformas, hur S-
-nivåfaktorn ska indelas i intervall och hur värdefaktorerna 
-fastighetsrättsliga förhållanden och värdeordning ska 
-klassindelas. Förordning (2019:221).
-
-7 b § /Träder i kraft I:2025-06-01/
-För småhus ingående i lantbruksenhet ska det upprättas 
+7 b § För småhus ingående i lantbruksenhet ska det upprättas 
 och tillämpas en tabell för värdeinverkan av värdefaktorerna 
 fastighetsrättsliga förhållanden och värdeordning (FV-tabell 
 L). Denna ska ha samma utformning och klassindelning som FV-
@@ -344,38 +324,7 @@ Klass	Benämning				Tabell
 60	Övriga ekonomibyggnader	
 Förordning (2016:368).
 
-11 § /Upphör att gälla U:2025-06-01/
-För ekonomibyggnader ska det upprättas 
-54 relationstabeller (E-tabeller). För samtliga 
-byggnadskategorier, utom byggnadskategori 60, ska det finnas 
-tre E-tabeller, en med G betecknad tabell för 
-glesbygdsförhållanden, en med M betecknad tabell för 
-normalförhållanden och en med T betecknad tabell för 
-tätortsinfluerade områden. E-tabellerna ska ange det relativa 
-värdet av en värderingsenhet vid skilda förhållanden 
-beträffande värdefaktorerna storlek, ålder och beskaffenhet. 
-Normenheten för ekonomibyggnader ska avse en maskinhall, 
-gårdsverkstad eller liknande som är byggd under åren 2010-
-2019, har en normal beskaffenhet och har en storlek av 1 000-
-1 199 kvadratmeter. De relativa värdena i E-tabellerna ska 
-bestämmas i en värdenivå vid vilken en sådan ekonomibyggnad 
-har ett värde av 1 000 kronor.
-
-Det ska finnas 53 värdenivåer för ekonomibyggnader. De erhålls 
-genom att värdena i E-tabellerna multipliceras med E-
-nivåfaktorer. De ska vara 100, 150, 200, 250, 300, 350, 400, 
-450, 500, 550, 600, 650, 700, 750, 800, 850, 900, 950, 1 000, 
-1 100, 1 200, 1 300, 1 400, 1 500, 1 600, 1 700, 1 800, 1 900, 
-2 000, 2 100, 2 200, 2 300, 2 400, 2 500, 2 600, 2 700, 2 800, 
-2 900, 3 000, 3 200, 3 400, 3 600, 3 800, 4 000, 4 200, 4 400, 
-4 600, 4 800, 5 000, 5 250, 5 500, 5 750 och 6 000.
-
-I bilaga 3 anges hur E-tabellerna ska utformas och hur 
-värdefaktorerna storlek, ålder och beskaffenhet ska 
-klassindelas. Förordning (2022:287).
-
-11 § /Träder i kraft I:2025-06-01/
-För ekonomibyggnader ska det upprättas 
+11 § För ekonomibyggnader ska det upprättas 
 54 relationstabeller (E-tabeller). För samtliga 
 byggnadskategorier, utom byggnadskategori 60, ska det finnas 
 tre E-tabeller, en tabell betecknad G för 
@@ -542,47 +491,7 @@ Förordning (2001:1223).
 
 Åkermark och betesmark
 
-17 § /Upphör att gälla U:2025-06-01/
-För åkermark och betesmark ska det upprättas åtta 
-relationstabeller (J-tabeller). J-tabellerna (tabell J1-J8) 
-ska utvisa relativa hektarvärden av åkermark vid skilda 
-förhållanden beträffande värdefaktorerna beskaffenhet och 
-dränering och av betesmark vid olika beskaffenhet. De relativa 
-värdena i J-tabellerna ska bestämmas i en värdenivå vid vilken 
-ett hektar åkermark enligt 13 kap. 2 § 
-fastighetstaxeringslagen (1979:1152) har ett värde av 1 000 
-kronor.
-
-Det ska finnas 94 skilda värdenivåer för åker- och betesmark. 
-De erhålls genom att relativvärdena i en J-tabell 
-multipliceras med J-nivåfaktorer. Dessa ska vara 1,0, 1,5, 
-2,0, 2,5, 3,0, 3,5, 4,0, 4,5, 5,0, 5,5, 6,0, 6,5, 7,0, 7,5, 
-8,0, 8,5, 9,0, 9,5, 10,0, 11,0, 12,0, 13,0, 14,0, 15,0, 16,0, 
-17,0, 18,0, 19,0, 20,0, 21,0, 22,0, 23,0, 24,0, 25,0, 26,0, 
-27,0, 28,0, 29,0, 30,0, 32,0, 34,0, 36,0, 38,0, 40,0, 42,0, 
-44,0, 46,0, 48,0, 50,0, 55,0, 60,0, 65,0, 70,0, 75,0, 80,0, 
-85,0, 90,0, 95,0, 100,0, 110,0, 120,0, 130,0, 140,0, 150,0, 
-160,0, 170,0, 180,0, 190,0, 200,0, 210,0, 220,0, 230,0, 240,0, 
-250,0, 260,0, 270,0, 280,0, 290,0, 300,0, 310,0, 320,0, 330,0, 
-340,0, 350,0, 360,0, 370,0, 380,0, 390,0, 400,0, 410,0, 420,0, 
-430,0, 440,0 och 450,0.
-
-Tabell J1 ska användas då värdenivån bestäms av 
-J-nivåfaktorerna 1,0-20,0, tabell J2 då värdenivån bestäms av 
-faktorerna 21,0-40,0, tabell J3 då värdenivån bestäms av 
-faktorerna 42,0-60,0, tabell J4 då värdenivån bestäms av 
-faktorerna 65,0-95,0, tabell J5 då värdenivån bestäms av 
-faktorerna 100,0-150,0, tabell J6 då värdenivån bestäms av 
-faktorerna 160,0-250,0, tabell J7 då värdenivån bestäms av 
-faktorerna 260,0-350,0 och tabell J8 då värdenivån bestäms av 
-faktorerna 360,0-450,0.
-
-I bilaga 4 anges hur J-tabellerna ska utformas och hur 
-värdefaktorerna beskaffenhet och dränering ska klassindelas.
-Förordning (2022:287).
-
-17 § /Träder i kraft I:2025-06-01/
-För åkermark och betesmark ska det upprättas sju 
+17 § För åkermark och betesmark ska det upprättas sju 
 relationstabeller (J-tabeller). J-tabellerna (tabell J1-J7) 
 ska utvisa relativa hektarvärden av åkermark vid skilda 
 förhållanden i fråga om värdefaktorerna beskaffenhet och 
@@ -637,73 +546,7 @@ Förordning (1997:452).
 
 Produktiv skogsmark utan avverkningsrestriktioner
 
-19 § /Upphör att gälla U:2025-06-01/
-För produktiv skogsmark utan avverkningsrestriktioner 
-omfattande mindre än 30 hektar ska det upprättas en 
-relationstabell (skogstabell M). Skogstabell M ska ange 
-relativa hektarvärden av produktiv skogsmark utan 
-avverkningsrestriktioner belägen i olika delar av landet och 
-vid skilda förhållanden beträffande värdefaktorn virkesförråd. 
-De relativa värdena i skogstabell M ska bestämmas i en 
-värdenivå vid vilken ett hektar genomsnittlig produktiv 
-skogsmark utan avverkningsrestriktioner enligt 14 kap. 2 § 
-fastighetstaxeringslagen (1979:1152) har ett värde av 
-1 000 kronor. Med genomsnittlig produktiv skogsmark utan 
-avverkningsrestriktioner ska avses produktiv skogsmark med 
-bonitetsklass C. Den genomsnittliga produktiva skogsmarkens 
-virkesförråd barrträd och virkesförråd lövträd i olika 
-regioner ska antas uppgå till följande belopp.
-
-Region				Virkesförråd
-				skogskubikmeter 
-				per hektar
-
-				Barrträd	Lövträd
-1 Del av Jämtlands, 
-Västerbottens och  
-Norrbottens län 		82		13
-
-2 Del av Jämtlands, 
-Västerbottens och 
-Norrbottens län samt 
-Gotlands län                    100             21
-
-3 Dalarnas, 
-Gävleborgs och 
-Västernorrlands län             117             21
-
-4 Stockholms, Uppsala, 
-Södermanlands, 
-Östergötlands, Värmlands, 
-Örebro, Västmanlands och 
-Västra Götalands län            144             35
-
-5 Jönköpings, Kronobergs och 
-Kalmar län                      136             31
-
-6 Blekinge, Skåne och 
-Hallands län                    124             77
-
-Det ska finnas 83 skilda värdenivåer för produktiv skogsmark 
-utan avverkningsrestriktioner. De erhålls genom att 
-relativvärdena i skogstabell M multipliceras med 
-skogsnivåfaktorer. Dessa ska vara 1,0, 1,5, 2,0, 2,5, 3,0, 
-3,5, 4,0, 4,5, 5,0, 5,5, 6,0, 6,5, 7,0, 7,5, 8,0, 8,5, 9,0, 
-9,5, 10,0, 11,0, 12,0, 13,0, 14,0, 15,0, 16,0, 17,0, 18,0, 
-19,0, 20,0, 21,0, 22,0, 23,0, 24,0, 25,0, 26,0, 27,0, 28,0, 
-29,0, 30,0, 32,0, 34,0, 36,0, 38,0, 40,0, 42,0, 44,0, 46,0, 
-48,0, 50,0, 52,0, 54,0, 56,0, 58,0, 60,0, 62,0, 64,0, 66,0, 
-68,0, 70,0, 72,0, 75,0, 77,0, 80,0, 82,0, 85,0, 87,0, 90,0, 
-92,0, 95,0, 97,0, 100,0, 102,0, 105,0, 107,0, 110,0, 115,0, 
-120,0, 125,0, 130,0, 135,0, 140,0, 145,0 och 150,0.
-
-Skogstabell M ska upprättas enligt regionindelningen. I 
-bilaga 5 a anges hur omfattningen av region 1 och 2 ska 
-beskrivas och hur virkesförråd ska klassindelas.
-Förordning (2022:287).
-
-19 § /Träder i kraft I:2025-06-01/
-För produktiv skogsmark utan avverkningsrestriktioner 
+19 § För produktiv skogsmark utan avverkningsrestriktioner 
 omfattande mindre än 30 hektar ska det upprättas en 
 relationstabell (skogstabell M). Skogstabell M ska ange 
 relativa hektarvärden av produktiv skogsmark utan 
@@ -785,34 +628,7 @@ virkesförrådsklass och värdeområdets belägenhet, och
 A = arealen i hektar av värderingsenheten.
 Förordning (2016:368).
 
-21 § /Upphör att gälla U:2025-06-01/
-För produktiv skogsmark utan avverkningsrestriktioner 
-omfattande minst 30 hektar ska det upprättas en tabell 
-(skogstabell S) över beräkningskonstanter för var och en av de 
-i 19 § angivna sex regionerna. Skogstabell S ska utvisa de 
-konstanter som inom varje region behövs för att beräkna 
-relativa hektarvärden vid skilda förhållanden beträffande 
-värdefaktorn bonitet. De tre konstanterna är värdet per hektar 
-kalmark och värdena av barrträd respektive lövträd i kronor 
-per skogskubikmeter. Konstanterna ska bestämmas med 
-utgångspunkt i en värdenivå vid vilken ett hektar genom-
-snittlig produktiv skogsmark utan avverkningsrestriktioner 
-enligt 14 kap. 2 § fastighetstaxeringslagen (1979:1152) har 
-ett värde av 1 000 kronor. Vad som menas med genomsnittlig 
-produktiv skogsmark utan avverkningsrestriktioner anges i 
-19 §.
-
-Det ska finnas 83 skilda värdenivåer för produktiv skogsmark 
-utan avverkningsrestriktioner. De erhålls genom att de 
-relativvärden som beräknats med ledning av skogstabell S 
-multipliceras med de skogsnivåfaktorer som anges i 19 §.
-
-I bilaga 5 b anges hur skogstabell S ska utformas och hur 
-värdefaktorn bonitet ska klassindelas. 
-Förordning (2019:221).
-
-21 § /Träder i kraft I:2025-06-01/
-För produktiv skogsmark utan avverkningsrestriktioner 
+21 § För produktiv skogsmark utan avverkningsrestriktioner 
 omfattande minst 30 hektar ska det upprättas en tabell 
 (skogstabell S) över beräkningskonstanter för var och en av de 
 i 19 § angivna sex regionerna. Skogstabell S ska utvisa de 
@@ -1485,8 +1301,8 @@ taxeringsvärdenivå anpassade värden för normaltomten:
 30, 40, 50, 60, 70, 80, 90, 100, 120, 140, 160, 180, 200, 225, 
 250, 275, 300, 350, 400, 450 och 500 tusen kronor.
 
-2. Om värdet överstiger 500 000 kronor: värde i hela 
-50 000-tal kronor.
+2. Om värdet överstiger 500 000 kronor: värde i hela 50 000-
+tal kronor.
 
 3. Om värdet överstiger 1 000 000 kronor: värde i hela 
 100 000-tal kronor.
@@ -1499,40 +1315,36 @@ Det ska för de i 12 kap. 3 § fastighetstaxeringslagen
 fastighetsrättsliga förhållanden, typ av bebyggelse och närhet 
 till strand finnas följande antal klasser:
 
-Vatten och avlopp                       Sex klasser (VA-klasser)
+Vatten och avlopp	Sex klasser (VA-klasser)
 
-Fastighetsrättsliga förhållanden        Två klasser för
-                                        värderingsenheter
-                                        belägna i grupphusområde
-                                        och tre klasser för
-                                        övriga värderingsenheter
-                                        (FR-klasser)
+Fastighetsrättsliga     Två klasser för värderingsenheter
+förhållanden	        belägna i grupphusområde och tre 
+                        klasser för övriga värderingsenheter 
+                        (FR-klasser)
 
-Typ av bebyggelse                       Tre klasser
-                                        (bebyggelseklasser)
+Typ av bebyggelse	Tre klasser (bebyggelseklasser)
 
-Närhet till strand                      Fyra klasser
-                                        (belägenhetsklasser)
+Närhet till strand	Fyra klasser (belägenhetsklasser)
 
 För tomtmark avseende småhus ska en tabell över 
 belägenhetsfaktorer (FB-tabell) upprättas. Den ska för var och 
 en av belägenhetsklasserna 2 och 3 (strandnära) och 
 belägenhetsklassen 4 (inte strand eller strandnära) utvisa en 
 belägenhetsfaktor i en fast värdeserie inom intervallet 1,0-
-10,0. Det ska finnas 56 belägenhetsfaktorer i en fast 
+12,0. Det ska finnas 60 belägenhetsfaktorer i en fast 
 värdeserie. Dessa ska vara 1,0, 1,1, 1,2, 1,3, 1,4, 1,5, 1,6, 
 1,7, 1,8, 1,9, 2,0, 2,1, 2,2, 2,3, 2,4, 2,5, 2,6, 2,7, 2,8, 
 2,9, 3,0, 3,1, 3,2, 3,3, 3,4, 3,5, 3,6, 3,7, 3,8, 3,9, 4,0, 
 4,2, 4,4, 4,6, 4,8, 5,0, 5,25, 5,5, 5,75, 6,0, 6,25, 6,5, 
 6,75, 7,0, 7,25, 7,5, 7,75, 8,0, 8,25, 8,5, 8,75, 9,0, 9,25, 
-9,5, 9,75 och 10,0. Belägenhetsfaktorn för normaltomten ska 
-vara 1,0.
-
-I bilaga 13 anges hur FB-tabellen ska utformas och hur 
-värdefaktorn närhet till strand ska klassindelas. 
-I riktvärdeangivelsen ska belägenhetsfaktor anges för 
+9,5, 9,75, 10,0, 10,5, 11,0, 11,5 och 12,0. Belägenhetsfaktorn 
+för normaltomten ska vara 1,0. För belägenhetsklass 1 ska 
+belägenhetsfaktorer från den fasta värdeserien tillämpas. I 
+bilaga 13 anges hur FB-tabellen ska utformas och hur 
+värdefaktorn närhet till strand ska klassindelas. I 
+riktvärdeangivelsen ska belägenhetsfaktor anges för 
 belägenhetsklassen 1 (strand) och för belägenhetsklassen 2 
-(strandnära). Förordning (2020:243).
+(strandnära). Förordning (2026:377).
 
 35 b § Till grund för att bestämma riktvärdeangivelsen för en
 normaltomt ska, då bristande ortsprismaterial enligt 5 kap.
@@ -1737,17 +1549,24 @@ Avd. 2 Förfarandet m.m. vid allmän och förenklad fastighetstaxering
 
 Ortspriser m.m.
 
-1 § Sådana överlåtelser som avses i 2 § 8 förordningen 
-(2001:588) om behandling av uppgifter i Skatteverkets 
-beskattningsverksamhet och som kvarstår efter gallring enligt 
-2 och 3 §§ tas upp på förteckningar över representativa 
-överlåtelser. Sådana överlåtelser som gallrats enligt 3 § ska 
-tas upp på förteckningar över bortgallrade överlåtelser.
+1 § Följande överlåtelser som kvarstår efter gallring enligt 2 
+och 3 §§ tas upp på förteckningar över representativa 
+överlåtelser:
 
-Beträffande fastighetsregleringar gäller första stycket 
-endast om mer än fyra hektar överförts från en fastighet till 
-en annan och bebyggelse saknas på den överförda marken. 
-Förordning (2018:1097).
+- lagfarna köp av hela eller delar av fastigheter, och
+
+- fastighetsregleringar vid vilka mer än två hektar åkermark, 
+betesmark och skogsmark överförs från en fastighet till en 
+annan och där det finns en frivillig överenskommelse om 
+likviden.
+
+Sådana överlåtelser som gallrats enligt 3 § ska tas upp på 
+förteckningar över bortgallrade överlåtelser.
+
+Beträffande fastighetsregleringar gäller första och andra 
+styckena endast om mer än fyra hektar överförts från en 
+fastighet till en annan och bebyggelse saknas på den överförda 
+marken. Förordning (2026:176).
 
 2 § Med ledning av registrerade uppgifter om överlåtelser ska
 vid en förberedande gallring (förgallring) följande
@@ -1937,31 +1756,19 @@ blanketter också tillhandahålls av andra statliga eller
 kommunala organ eller på annat lämpligt sätt.
 Förordning (2003:963).
 
-4 § Bestämmelserna i 20 kap. 5 § skatteförfarandeförordningen
-(2011:1261) gäller i tillämpliga delar i fråga om uppgifter i
-fastighetsdeklarationer och andra handlingar, som enligt
-bestämmelserna i fastighetstaxeringslagen (1979:1152) har
-lämnats till ledning för fastighetstaxering eller upprättats
-eller för granskning omhändertagits av en myndighet vid
+4 § Bestämmelserna i 20 kap. 5 § skatteförfarandeförordningen 
+(2011:1261) gäller i tillämpliga delar i fråga om uppgifter i 
+fastighetsdeklarationer och andra handlingar, som enligt 
+bestämmelserna i fastighetstaxeringslagen (1979:1152) har 
+lämnats till ledning för fastighetstaxering eller upprättats 
+eller för granskning omhändertagits av en myndighet vid 
 taxeringskontroll.
 
-Bestämmelserna i 20 kap. 2 § första och tredje styckena
-skatteförfarandeförordningen tillämpas på handlingar som avses
-i första stycket.
+Handlingar som avses i första stycket ska förvaras på sådant 
+sätt att obehöriga inte kan komma åt dem och om möjligt hållas 
+skilda från andra handlingar. Förordning (2026:176).
 
-Handlingar som avses i första stycket ska förvaras på sådant
-sätt att obehöriga inte kan komma åt dem och om möjligt hållas
-skilda från andra handlingar. Förordning (2011:1266).
-
-5 § Fastighetsdeklarationer och andra handlingar som enligt
-bestämmelserna i fastighetstaxeringslagen (1979:1152) har
-lämnats till ledning för allmän eller förenklad
-fastighetstaxering eller upprättats eller för granskning
-omhändertagits av Skatteverket vid taxeringskontroll, skall
-förstöras sedan tolv år förflutit efter taxeringsårets utgång,
-om inte regeringen för ett visst års taxering beslutat att
-handlingarna skall bevaras för framtiden. Detsamma skall gälla
-angående beslut om fastighetstaxering. Förordning (2004:281).
+5 § Har upphävts genom förordning (2026:176).
 
 6 § Den som har att ta emot allmän och förenklad
 fastighetsdeklaration, påpekanden och därtill hörande
@@ -2076,16 +1883,15 @@ senast den 31 oktober under taxeringsåret sända de uppgifter
 som behövs för sammanställning av utfallet av den allmänna och
 förenklade fastighetstaxeringen. Förordning (2003:963).
 
-7 § Statistiska centralbyrån skall upprätta preliminära
-sammanställningar av utfallet av den allmänna och förenklade
-fastighetstaxeringen och överlämna sammanställningarna till
-chefen för Finansdepartementet, till Skatteverket och till
-Ekonomistyrningsverket senast den 30 december under
-taxeringsåret.
+7 § Statistiska centralbyrån ska upprätta preliminära 
+sammanställningar av utfallet av den allmänna och förenklade 
+fastighetstaxeringen och överlämna sammanställningarna till 
+chefen för Finansdepartementet, till Skatteverket och till 
+Statskontoret senast den 30 december under taxeringsåret. 
 
-Statistiska centralbyrån skall upprätta och publicera
-redogörelser över utfallet av den allmänna och förenklade
-fastighetstaxeringen. Förordning (2003:963).
+Statistiska centralbyrån ska upprätta och publicera 
+redogörelser över utfallet av den allmänna och förenklade 
+fastighetstaxeringen. Förordning (2025:1193).
 
 8 § Har upphävts genom förordning (2001:599).
 
@@ -2100,16 +1906,7 @@ Förordning (2003:963).
 2 § Bestämmelserna i 2 kap. 2--4 §§ skall även tillämpas vid särskild
 fastighetstaxering.
 
-3 § Fastighetsdeklarationer och andra handlingar som enligt
-bestämmelserna i fastighetstaxeringslagen (1979:1152) har
-lämnats till ledning för särskild fastighetstaxering eller
-upprättats eller för granskning omhändertagits av Skatteverket
-vid taxeringskontroll skall förstöras samtidigt med motsvarande
-handlingar från den allmänna eller förenklade
-fastighetstaxering som närmast föregått den särskilda
-fastighetstaxeringen, om inte regeringen förordnat att
-handlingarna skall bevaras för framtiden. Detsamma skall gälla
-angående beslut om fastighetstaxering. Förordning (2003:963).
+3 § Har upphävts genom förordning (2026:176).
 
 8 kap. Förberedande åtgärder
 
@@ -2164,16 +1961,15 @@ särskild fastighetstaxering. Förordning (2004:281).
 preliminär sammanställning av utfallet av den särskilda
 fastighetstaxeringen. Förordning (2003:963).
 
-4 § Statistiska centralbyrån skall upprätta preliminära
-sammanställningar över utfallet av den särskilda
-fastighetstaxeringen och överlämna sammanställningarna till
-chefen för Finansdepartementet, till Skatteverket och till
-Ekonomistyrningsverket senast den 31 december under
-taxeringsåret.
+4 § Statistiska centralbyrån ska upprätta preliminära 
+sammanställningar över utfallet av den särskilda 
+fastighetstaxeringen och överlämna sammanställningarna till 
+chefen för Finansdepartementet, till Skatteverket och till 
+Statskontoret senast den 31 december under taxeringsåret. 
 
-Statistiska centralbyrån skall upprätta och publicera
-redogörelser över utfallet av den särskilda
-fastighetstaxeringen. Förordning (2003:963).
+Statistiska centralbyrån ska upprätta och publicera 
+redogörelser över utfallet av den särskilda 
+fastighetstaxeringen. Förordning (2025:1193).
 
 Avd. 4
 
@@ -2184,9 +1980,6 @@ Avd. 4
 14 kap. Har upphävts genom förordning (2001:1223).
 
 15 kap. Har upphävts genom förordning (2001:1223).
-
-
-Bilagorna inte med här.
 
 
 Övergångsbestämmelser
@@ -2413,3 +2206,13 @@ fastighetstaxering 2025.
 
 2. Förordningen tillämpas första gången vid förenklad 
 fastighetstaxering 2026.
+
+2026:377
+
+1. Denna förordning träder i kraft den 1 juni 2026.
+
+2. Förordningen tillämpas första gången vid allmän 
+fastighetstaxering 2027. 
+
+
+Bilagorna inte med här.
