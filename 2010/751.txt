@@ -99,13 +99,13 @@ utanför EES. Lag (2018:175).
 autentisering: ett förfarande där en betaltjänstanvändares 
 personliga behörighetsfunktioner används och genom vilket en 
 betaltjänstleverantör kan kontrollera betaltjänstanvändarens 
-identitet eller ett betalningsinstruments giltighet, 
+identitet eller ett betalningsinstruments giltighet,
 
 autogiro: en betaltjänst för debitering av en betalares 
 betalkonto, där initiativet till en betalningstransaktion tas 
 av betalningsmottagaren på grundval av betalarens samtycke 
 till mottagaren, mottagarens betaltjänstleverantör eller 
-betalarens egen betaltjänstleverantör, 
+betalarens egen betaltjänstleverantör,
 
 bankdag: en dag på vilken en betaltjänstleverantör har öppet 
 för verksamhet i den utsträckning som krävs för genomförande 
@@ -118,7 +118,7 @@ lämnar en betalningsorder,
 
 betalkonto: ett konto som innehas i en eller flera 
 betaltjänstanvändares namn och som är avsett för genomförandet 
-av betalningstransaktioner, 
+av betalningstransaktioner,
 
 betalkontodirektivet: Europaparlamentets och rådets direktiv 
 2014/92/EU av den 23 juli 2014 om jämförbarhet för avgifter 
@@ -132,7 +132,7 @@ som har fått tillstånd att tillhandahålla betaltjänster enligt
 
 betalningsinitieringstjänst: en tjänst för att på begäran av 
 betaltjänstanvändaren initiera en betalningsorder från ett 
-betalkonto hos en annan betaltjänstleverantör, 
+betalkonto hos en annan betaltjänstleverantör,
 
 betalningsinstrument: ett kontokort eller något annat 
 personligt instrument eller en personlig rutin som enligt 
@@ -143,7 +143,7 @@ den avsedda mottagaren av medel vid en betalningstransaktion,
 
 betalningsorder: varje instruktion som en betalare eller 
 betalningsmottagare ger sin betaltjänstleverantör om att en 
-betalningstransaktion ska genomföras, 
+betalningstransaktion ska genomföras,
 
 betalningssystem: ett generellt betalsystem enligt 1 kap. 3 § 
 andra stycket lagen (2004:297) om bank- och 
@@ -152,10 +152,10 @@ finansieringsrörelse,
 betalningstransaktion: insättning, uttag eller överföring av 
 medel som initieras av betalaren eller betalningsmottagaren, 
 oberoende av eventuella underliggande förpliktelser mellan 
-betalaren och betalningsmottagaren, 
+betalaren och betalningsmottagaren,
 
 betaltjänstanvändare: en fysisk eller juridisk person som 
-utnyttjar en betaltjänst, 
+utnyttjar en betaltjänst,
 
 betaltjänstdirektivet: Europaparlamentets och rådets direktiv 
 (EU) 2015/2366 av den 25 november 2015 om betaltjänster på den 
@@ -188,14 +188,14 @@ förhållande som avses i artikel 10.1 eller artikel 113.6 eller
 113.7 i tillsynsförordningen,
 
 hemland: det land där ett företag har fått tillstånd att driva 
-sådan verksamhet som avses i denna lag, 
+sådan verksamhet som avses i denna lag,
 
 inlösen av transaktionsbelopp: en betaltjänst där en 
 betaltjänstleverantör accepterar och behandlar 
 betalningsmottagarens betalningstransaktioner för att sedan 
-överföra medel till betalningsmottagaren, 
+överföra medel till betalningsmottagaren,
 
-kapitalbas: detsamma som i 1 kap. 5 § 9 lagen om bank- och 
+kapitalbas: detsamma som i 1 kap. 5 § lagen om bank- och 
 finansieringsrörelse,
 
 kontobaserad betalning: en betaltjänst för kreditering av en 
@@ -203,7 +203,7 @@ betalningsmottagares betalkonto med en betalningstransaktion
 från en betalares betalkonto, som utförs av en 
 betaltjänstleverantör som har tillgång till betalarens 
 betalkonto, på grundval av en instruktion som lämnats av 
-betalaren, 
+betalaren,
 
 kontoförvaltande betaltjänstleverantör: en 
 betaltjänstleverantör som tillhandahåller och förvaltar ett 
@@ -215,22 +215,22 @@ betalkonton som betaltjänstanvändaren har hos en eller flera
 andra betaltjänstleverantörer,
 
 konsument: en fysisk person som handlar huvudsakligen för 
-ändamål som faller utanför näringsverksamhet, 
+ändamål som faller utanför näringsverksamhet,
 
-kreditera: att medel tillförs ett konto, 
+kreditera: att medel tillförs ett konto,
 
-kreditinstitut: detsamma som i 1 kap. 5 § 10 lagen om bank- 
+kreditinstitut: detsamma som i 1 kap. 5 § lagen om bank- och 
+finansieringsrörelse,
+
+kvalificerat innehav: detsamma som i 1 kap. 5 § lagen om bank- 
 och finansieringsrörelse,
-
-kvalificerat innehav: detsamma som i 1 kap. 5 § 15 lagen om 
-bank- och finansieringsrörelse, 
 
 känslig betalningsuppgift: en personlig behörighetsfunktion 
 eller annan uppgift som kan användas för svikliga förfaranden, 
 dock inte kontoinnehavarens namn och kontonummer i sådan 
 verksamhet som drivs av en leverantör av 
-betalningsinitieringstjänster eller en leverantör av 
-kontoinformationstjänster, 
+betalningsinitieringstjänster eller en leverantör av konto-
+informationstjänster,
 
 lagligen bosatt inom EES: en fysisk person som har rätt att 
 bosätta sig inom EES i enlighet med unionsrätten eller 
@@ -258,12 +258,12 @@ mottagarens förfogande,
 
 personlig behörighetsfunktion: en personligt anpassad funktion 
 som betaltjänstleverantören tillhandahåller 
-betaltjänstanvändaren för autentiseringsändamål, 
+betaltjänstanvändaren för autentiseringsändamål,
 
 ramavtal: ett avtal om betaltjänster som reglerar 
 genomförandet av kommande enskilda och successiva 
 betalningstransaktioner och som kan innehålla skyldigheter och 
-villkor för att öppna ett betalkonto, 
+villkor för att öppna ett betalkonto,
 
 referensväxelkurs: den växelkurs som ligger till grund för 
 beräkningen av eventuell valutaväxling och görs tillgänglig av 
@@ -273,10 +273,10 @@ tillgänglig källa,
 referensräntesats: den räntesats som ligger till grund för 
 beräkningen av eventuell tillämplig ränta och som härrör från 
 en offentligt tillgänglig källa som kan kontrolleras av båda 
-parterna i ett avtal om betaltjänster, 
+parterna i ett avtal om betaltjänster,
 
 registrerad betaltjänstleverantör: en betaltjänstleverantör 
-som undantagits från krav på tillstånd enligt 2 kap. 3 §, 
+som undantagits från krav på tillstånd enligt 2 kap. 3 §,
 
 stark kundautentisering: en autentisering som grundas på 
 användning av två eller flera komponenter, kategoriserade som 
@@ -287,8 +287,8 @@ att någon har kommit över en av komponenterna inte äventyrar
 de andra komponenternas tillförlitlighet, och som är utformad 
 för att skydda autentiseringsuppgifterna mot obehörig åtkomst,
 
-startkapital: detsamma som i 1 kap. 5 § 18 lagen om bank- och 
-finansieringsrörelse, 
+startkapital: detsamma som i 1 kap. 5 § lagen om bank- och 
+finansieringsrörelse,
 
 säker kommunikation: sådan kommunikation som uppfyller kraven 
 i de tekniska standarder som antagits av Europeiska 
@@ -302,20 +302,20 @@ kreditinstitut och om ändring av förordning (EU) nr 648/2012,
 unik identifikationskod: en kombination av bokstäver, siffror 
 eller symboler som tillhandahållits av en 
 betaltjänstleverantör, och som en betaltjänstanvändare ska 
-uppge för att otvetydigt identifiera en annan 
-betaltjänstanvändare eller dennes betalkonto, 
+uppge för att otvetydigt identifiera en annan betaltjänst-
+användare eller dennes betalkonto,
 
 utgivning av betalningsinstrument: en betaltjänst hos en 
 betaltjänstleverantör om att tillhandahålla betalaren ett 
 betalningsinstrument för att initiera och behandla betalarens 
-betalningstransaktioner, 
+betalningstransaktioner,
 
-utländskt kreditinstitut: detsamma som i 1 kap. 5 § 21 lagen 
-om bank- och finansieringsrörelse,
+utländskt kreditinstitut: detsamma som i 1 kap. 5 § lagen om 
+bank- och finansieringsrörelse,
 
 valuteringsdag: den referenstidpunkt som används av en 
 betaltjänstleverantör för att beräkna räntan på de medel som 
-debiterats eller krediterats ett betalkonto. Lag (2022:499).
+debiterats eller krediterats ett betalkonto. Lag (2026:1068).
 
 5 § Ett betalningsinstitut och ett annat företag ska anses ha
 nära förbindelser, om
@@ -1878,6 +1878,12 @@ försäljningsstället finns i Europaparlamentets och rådets
 förordning (EU) 2021/1230 av den 14 juli 2021 om 
 gränsöverskridande betalningar i unionen. Lag (2024:392).
 
+20 b § Om avtalet är ett sådant avtal som avses i 3 kap. lagen 
+(2005:59) om distansavtal och avtal utanför affärslokaler ska 
+information som ges enligt 4-4 b eller 10 § även innehålla de 
+uppgifter som avses i 3 kap. 4 § första stycket 5-10 och 17 
+den lagen. Lag (2026:248).
+
 Påföljd vid utebliven information
 
 21 § Om information inte lämnas i enlighet med 3–6, 10–13 
@@ -2110,17 +2116,13 @@ eller 3 får omedelbar verkan. Lag (2022:1704).
 Bemyndiganden
 
 10 § Regeringen eller den myndighet som regeringen bestämmer 
-får meddela föreskrifter om
+får meddela föreskrifter om 
 
 1. den information och redovisning som en 
-betaltjänstleverantör ska lämna eller hålla tillgänglig 
-enligt 5 §, 
+betaltjänstleverantör ska lämna eller hålla tillgänglig enligt 
+5 §, och
 
-2. rutiner för byte av betalkonto enligt 6 §, och
-
-3. vilka uppgifter om betalkonton med grundläggande 
-funktioner som en betaltjänstleverantör ska lämna till 
-Finansinspektionen. Lag (2017:342).
+2. rutiner för byte av betalkonto enligt 6 §. Lag (2026:1068).
 
 5 kap. Genomförande av betaltjänster
 
@@ -4094,37 +4096,45 @@ kontanttjänster
 Platser för kontantuttag och dagskasseinsättningar
 
 1 § Sådana kreditinstitut och filialer till utländska 
-kreditinstitut som till konsumenter tillhandahåller 
-betalkonton med grundläggande funktioner, ska tillhandahålla 
+kreditinstitut som till konsumenter tillhandahåller betal-
+konton med grundläggande funktioner, ska tillhandahålla 
 tjänster som gör det möjligt att ta ut kontanter från dessa 
 konton (platser för kontantuttag) i betryggande utsträckning i 
-hela landet.
+hela landet. Detsamma gäller för tjänster som gör det möjligt 
+att sätta in kontanter på sådana konton (platser för kontant-
+insättningar).
 
 Sådana kreditinstitut och filialer till utländska 
 kreditinstitut som till företag tillhandahåller betalkonton, 
 ska tillhandahålla tjänster som gör det möjligt att sätta in 
 kontanter på dessa konton (platser för dagskasseinsättningar) 
-i betryggande utsträckning i hela landet. 
+i betryggande utsträckning i hela landet.
 
 Första och andra styckena gäller endast institut och filialer 
 som den 1 juli närmast föregående år hade mer än 70 miljarder 
-kronor i inlåning från allmänheten. Lag (2019:1226).
+kronor i inlåning från allmänheten. Lag (2026:770).
+
+1 a § Kreditinstitut och filialer till utländska 
+kreditinstitut som anges i 1 § andra och tredje styckena ska 
+till företag tillhandahålla behovsanpassade och även i övrigt 
+lämpliga tjänster för växelhantering och dagskasseinsättningar.
+Lag (2026:770).
 
 Tillsyn
 
 2 § Post- och telestyrelsen ska utöva tillsyn över att 
 kreditinstitut och filialer till utländska kreditinstitut 
-uppfyller sina skyldigheter enligt 1 §. Lag (2019:1226).
+uppfyller sina skyldigheter enligt 1 och 1 a §§.
+Lag (2026:770).
 
 Uppgiftsskyldighet
 
-3 § Post- och telestyrelsen får besluta att förelägga företag 
-som tillhandahåller platser för kontantuttag eller 
-dagskasseinsättningar att lämna de uppgifter som behövs för 
-att styrelsen ska kunna utöva tillsyn enligt 2 §.
+3 § Post- och telestyrelsen får förelägga företag som 
+tillhandahåller platser för kontantuttag, kontantinsättningar 
+eller dagskasseinsättningar att lämna de uppgifter som behövs 
+för att styrelsen ska kunna utöva tillsyn enligt 2 §.
 
-Ett beslut om föreläggande får förenas med vite.
-Lag (2019:1226).
+Ett föreläggande får förenas med vite. Lag (2026:770).
 
 Överlämnande
 
@@ -4152,23 +4162,23 @@ Undantag
 
 6 § Post- och telestyrelsen ska inte överlämna ett ärende 
 enligt 4 § och Finansinspektionen ska inte ingripa enligt 5 §, 
-om det med beaktande av samtliga platser för kontantuttag 
-respektive dagskasseinsättningar
+om det med beaktande av samtliga platser för kontantuttag, 
+kontantinsättningar respektive dagskasseinsättningar
 
 1. finns tillgång till sådana platser i betryggande 
-utsträckning i hela landet, eller 
+utsträckning i hela landet, eller
 
 2. endast är ett ringa antal personer som inte har sådan 
-tillgång som avses i 1. Lag (2019:1226).
+tillgång som avses i 1. Lag (2026:770).
 
 Beräkning av sanktionsavgiften
 
 7 § Sanktionsavgiften ska beräknas till produkten av
 
 1. det antal personer, avrundat nedåt till närmaste tusental, 
-som inte har tillgång till platser för kontantuttag respektive 
-dagskasseinsättningar i betryggande utsträckning i hela landet 
-(avvikelsen),
+som inte har tillgång till platser för kontantuttag, 
+kontantinsättningar respektive dagskasseinsättningar i 
+betryggande utsträckning i hela landet (avvikelsen),
 
 2. institutets inlåning från allmänheten i förhållande till 
 den genomsnittliga inlåningen från allmänheten den 1 juli 
@@ -4176,8 +4186,7 @@ närmast föregående år för samtliga kreditinstitut och filialer
 till utländska kreditinstitut som omfattas av 1 § första och 
 andra styckena, och 
 
-3. 5 000 kronor.
-Lag (2019:1226).
+3. 5 000 kronor. Lag (2026:770).
 
 8 § Sanktionsavgiften ska fastställas till det belopp som 
 beräknats enligt 7 § och får inte överstiga det högsta av
@@ -4228,11 +4237,12 @@ Bemyndigande
 får, för tillämpningen av 1 §, meddela föreskrifter om det 
 högsta antal personer som får ha ett visst längsta vägavstånd 
 i kilometer mellan folkbokföringsadressen och den närmaste 
-platsen för kontantuttag respektive dagskasseinsättning.
+platsen för kontantuttag, kontantinsättningar respektive 
+dagskasseinsättningar.
 
 Regeringen eller den myndighet som regeringen bestämmer får 
 meddela föreskrifter om hur avvikelsen enligt 7 § 1 ska 
-fastställas. Lag (2019:1226).
+fastställas. Lag (2026:770).
 
 14 § Regeringen eller den myndighet som regeringen bestämmer 
 får meddela föreskrifter om vilka uppgifter ett företag ska 
