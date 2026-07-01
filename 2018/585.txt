@@ -440,10 +440,18 @@ göras för placering i säkerhetsklass 3. Lag (2023:390).
 
 Utlämnande av uppgifter för säkerhetsprövning
 
-19 § En uppgift som har kommit fram vid en registerkontroll eller särskild personutredning får lämnas ut för säkerhetsprövning endast om uppgiften i det enskilda fallet kan antas ha betydelse för prövningen enligt 3 kap. 2 §. För att en uppgift som gäller den kontrollerades make eller sambo ska lämnas ut krävs därutöver att utlämnandet är absolut nödvändigt.
+19 § En uppgift som har kommit fram vid en registerkontroll 
+eller särskild personutredning får lämnas ut för 
+säkerhetsprövning endast om uppgiften i det enskilda fallet 
+kan antas ha betydelse för prövningen enligt 3 kap. 2 §. För 
+att en uppgift som gäller den kontrollerades make eller sambo 
+ska lämnas ut krävs därutöver att utlämnandet är absolut 
+nödvändigt.
 
-Registerkontrolldelegationen vid Myndigheten för säkerhet och integritetsskydd beslutar om huruvida uppgifter som kommit fram vid en registerkontroll och särskild personutredning ska lämnas ut för säkerhetsprövning.
-Lag (2025:1472).
+Registerkontrolldelegationen vid Myndigheten för säkerhet och 
+integritetsskydd beslutar om huruvida uppgifter som kommit 
+fram vid en registerkontroll och särskild personutredning ska 
+lämnas ut för säkerhetsprövning. Lag (2025:1472).
 
 20 § Innan en uppgift lämnas ut för säkerhetsprövning ska 
 den som uppgiften gäller ges tillfälle att yttra sig över 
@@ -466,7 +474,7 @@ har beslutat något annat.
 4 kap. Skyldigheter när en annan aktör kan få tillgång till 
 säkerhetskänslig verksamhet
 
-Säkerhetsskyddsavtal
+Säkerhetsskyddsavtal och anmälningsplikt
 
 1 § En verksamhetsutövare som avser att genomföra en 
 upphandling, ingå ett avtal eller inleda en samverkan eller 
@@ -490,9 +498,24 @@ Ett säkerhetsskyddsavtal ska ingås innan motparten kan få
 tillgång till den säkerhetskänsliga verksamheten. 
 Lag (2021:952).
 
+1 a § En verksamhetsutövare som har genomfört en upphandling, 
+ingått ett avtal eller inlett en samverkan eller ett samarbete 
+med en annan aktör ska utan dröjsmål anmäla förfarandet till 
+tillsynsmyndigheten, om  
+
+1. förfarandet är pågående och innebär att den andra aktören 
+kan få tillgång till säkerhetsskyddsklassificerade uppgifter i 
+säkerhetsskyddsklassen konfidentiell eller högre, eller annan 
+säkerhetskänslig verksamhet av motsvarande betydelse för 
+Sveriges säkerhet, och 
+
+2. förfarandet inte omfattas av ett krav på 
+säkerhetsskyddsavtal enligt 1 §. Lag (2026:764).
+
 2 § Mellan statliga myndigheter gäller kravet på 
-säkerhetsskyddsavtal enligt 1 § endast vid anskaffning av en 
-vara, tjänst eller byggentreprenad. Lag (2021:952).
+säkerhetsskyddsavtal enligt 1 § eller anmälningsplikt enligt 
+1 a § endast vid anskaffning av en vara, tjänst eller 
+byggentreprenad. Lag (2026:764). 
 
 3 § Ett säkerhetsskyddsavtal ska innehålla de krav på 
 motparten som behövs för att kraven på säkerhetsskydd enligt 
@@ -521,9 +544,10 @@ får meddela ytterligare föreskrifter om säkerhetsskyddsavtal
 enligt 1 och 3-5 §§.
 
 Regeringen får meddela föreskrifter om undantag från 
-skyldigheten att ingå säkerhetsskyddsavtal. Om det finns 
-särskilda skäl får regeringen också besluta om sådana undantag 
-i enskilda fall. Lag (2021:952).
+skyldigheten att ingå säkerhetsskyddsavtal enligt 1 § eller 
+anmälningsplikt enligt 1 a §. Om det finns särskilda skäl får 
+regeringen också besluta om sådana undantag i enskilda fall. 
+Lag (2026:764).
 
 Skyldigheter inför förfaranden som kräver säkerhetsskyddsavtal
 
@@ -588,26 +612,43 @@ får tillsynsmyndigheten besluta att det planerade förfarandet
 inte får genomföras (förbud). Lag (2021:952).
 
 12 § Om ett pågående förfarande som omfattas av ett krav på 
-säkerhetsskyddsavtal enligt 1 § är olämpligt från 
-säkerhetsskyddssynpunkt, får tillsynsmyndigheten besluta om de 
-förelägganden mot verksamhetsutövaren och den andra aktören i 
-förfarandet som behövs för att förhindra skada för Sveriges 
-säkerhet. Ett sådant beslut om föreläggande får förenas med 
-vite. Lag (2021:952).
+säkerhetsskyddsavtal enligt 1 § eller anmälningsplikt enligt 1 
+a § är olämpligt från säkerhetsskyddssynpunkt, får 
+tillsynsmyndigheten besluta om de förelägganden mot 
+verksamhetsutövaren och den andra aktören i förfarandet som 
+behövs för att förhindra skada för Sveriges säkerhet.
+
+Om det finns särskilda skäl, får ett föreläggande enligt 
+första stycket beslutas för tiden till dess att frågan om 
+åtgärder slutligt har avgjorts eller något annat har 
+beslutats. 
+
+Beslut om föreläggande enligt första och andra styckena får 
+förenas med vite. Lag (2026:764).
 
 Skyldigheter inför överlåtelse av säkerhetskänslig verksamhet 
 och viss egendom
 
-13 § En verksamhetsutövare ska göra en särskild säkerhetsskyddsbedömning och lämplighetsprövning enligt 14 § och samråda enligt 15 §, om verksamhetsutövaren avser att överlåta
+13 § En verksamhetsutövare ska göra en särskild 
+säkerhetsskyddsbedömning och lämplighetsprövning enligt 14 § 
+och samråda enligt 15 §, om verksamhetsutövaren avser att 
+överlåta
 
-1. hela eller någon del av den säkerhetskänsliga verksamheten, eller
+1. hela eller någon del av den säkerhetskänsliga verksamheten, 
+eller 
 
-2. egendom som har betydelse för Sveriges säkerhet eller ett för Sverige förpliktande internationellt åtagande om säkerhetsskydd.
+2. egendom som har betydelse för Sveriges säkerhet eller ett 
+för Sverige förpliktande internationellt åtagande om 
+säkerhetsskydd.
 
-Med överlåtelse likställs överföring av äganderätten till fast egendom genom beslut om fastighetsbildning enligt fastighetsbildningslagen (1970:988).
+Med överlåtelse likställs överföring av äganderätten till fast 
+egendom genom beslut om fastighetsbildning enligt 
+fastighetsbildningslagen (1970:988).
 
-Regeringen får meddela föreskrifter om undantag från skyldigheterna enligt första stycket. Om det finns särskilda skäl får regeringen också besluta om sådana undantag i enskilda fall.
-Lag (2026:351).
+Regeringen får meddela föreskrifter om undantag från 
+skyldigheterna enligt första stycket. Om det finns särskilda 
+skäl får regeringen också besluta om sådana undantag i 
+enskilda fall. Lag (2026:351).
 
 14 § Innan ett förfarande för sådan överlåtelse som avses i 
 13 § inleds ska verksamhetsutövaren genom en särskild 
@@ -661,7 +702,10 @@ Om en överlåtelse har genomförts utan samråd enligt 15 eller
 uppfyllda, får tillsynsmyndigheten i efterhand besluta om ett 
 sådant förbud. Överlåtelsen är då ogiltig. Lag (2021:952). 
 
-18 a § Ett beslut om förbud enligt 17 § eller 18 § andra stycket påverkar inte giltigheten av ett beslut om fastighetsbildning enligt fastighetsbildningslagen (1970:988) som innebär att äganderätten till fast egendom överförs.
+18 a § Ett beslut om förbud enligt 17 § eller 18 § andra 
+stycket påverkar inte giltigheten av ett beslut om 
+fastighetsbildning enligt fastighetsbildningslagen (1970:988) 
+som innebär att äganderätten till fast egendom överförs.
 Lag (2026:351).
 
 19 § Om en överlåtelse är ogiltig enligt 18 § får 
@@ -749,15 +793,16 @@ och lämnar underlag enligt 4 §. Lag (2021:952).
 
 Tillsynsmyndighetens uppdrag 
 
-1 § Den myndighet som regeringen bestämmer ska vara 
-tillsynsmyndighet. 
+1 § Den myndighet som regeringen bestämmer ska vara tillsyns-
+myndighet.
 
 Tillsynsmyndigheten ska utöva tillsyn över att 
 verksamhetsutövare följer lagen och de föreskrifter som har 
 meddelats i anslutning till lagen. I det syftet får 
-tillsynsmyndigheten även utöva tillsyn hos de aktörer som 
-verksamhetsutövare har ingått säkerhetsskyddsavtal med.
-Lag (2021:952).
+tillsynsmyndigheten även utöva tillsyn hos den andra aktören i 
+ett förfarande som omfattas eller har omfattats av ett krav på 
+säkerhetsskyddsavtal enligt 4 kap. 1 § eller en 
+anmälningsplikt enligt 4 kap. 1 a §. Lag (2026:764).
 
 Tillsynsmyndighetens undersökningsbefogenheter 
 
@@ -787,8 +832,21 @@ Lag (2021:952).
 6 § Tillsynsmyndigheten får besluta att förelägga en 
 verksamhetsutövare att vidta åtgärder för att fullgöra sina 
 skyldigheter enligt denna lag och föreskrifter som har 
-meddelats i anslutning till lagen. Ett sådant beslut om 
-föreläggande får förenas med vite. Lag (2021:952).
+meddelats i anslutning till lagen.
+
+Tillsynsmyndigheten får besluta att förelägga en 
+verksamhetsutövare att göra en särskild 
+säkerhetsskyddsbedömning och lämplighetsprövning, om det 
+behövs för att tillsynsmyndigheten ska kunna bedöma om ett 
+förfarande som omfattas av anmälningsplikt enligt 4 kap. 1 a § 
+är olämpligt från säkerhetsskyddssynpunkt. 
+
+Om det finns särskilda skäl, får ett föreläggande enligt 
+första eller andra stycket beslutas för tiden till dess att 
+frågan om åtgärder slutligt har avgjorts eller något annat har 
+beslutats. 
+
+Beslut om föreläggande får förenas med vite. Lag (2026:764).
 
 7 kap. Administrativa sanktionsavgifter
 
@@ -805,16 +863,16 @@ anslutning till de bestämmelserna,
 
 b) 3 kap. 1-4 eller 6-9 §§ eller 11 § första stycket eller 
 föreskrifter som har meddelats i anslutning till de 
-bestämmelserna, 
+bestämmelserna,
 
-c) 4 kap. 1 eller 3 §, 9 § första stycket eller 15 § första 
-stycket eller föreskrifter som har meddelats i anslutning till 
-de bestämmelserna,  
+c) 4 kap. 1, 1 a eller 3 §, 9 § första stycket eller 15 § 
+första stycket eller föreskrifter som har meddelats i 
+anslutning till de bestämmelserna,
 
 2. inte har kontrollerat säkerhetsskyddet i den egna 
 verksamheten enligt 2 kap. 1 § tredje stycket eller 
 föreskrifter som har meddelats i anslutning till den 
-bestämmelsen, 
+bestämmelsen,
 
 3. inte har kontrollerat att motparten följer 
 säkerhetsskyddsavtalet enligt 4 kap. 5 § första stycket eller 
@@ -827,7 +885,7 @@ meddelats med stöd av 4 kap. 11 § eller har genomfört en
 av 4 kap. 17 §, eller 
 
 5. har lämnat oriktiga uppgifter i samband med samråd enligt 
-4 kap. 9 eller 15 § eller tillsyn. Lag (2021:952).
+4 kap. 9 eller 15 § eller tillsyn. Lag (2026:764).
 
 2 § Tillsynsmyndigheten får besluta att ta ut en 
 sanktionsavgift av en aktie- eller andelsägare som 
@@ -992,3 +1050,11 @@ har ingåtts före ikraftträdandet.
 
 4. En sanktionsavgift enligt 7 kap. får beslutas endast för 
 överträdelser som skett efter ikraftträdandet.
+
+2026:764
+
+1. Denna lag träder i kraft den 1 juli 2026. 
+
+2. Skyldigheten att anmäla förfaranden enligt de nya 
+bestämmelserna i 4 kap. 1 a § ska fullgöras först från och
+med den 1 januari 2027.
