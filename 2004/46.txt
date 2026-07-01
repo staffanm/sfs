@@ -2,7 +2,7 @@
 
 Definitioner
 
-1 § I denna lag betyder
+1 § I denna lag betyder 
 
 1. alternativ investeringsfond: detsamma som i 1 kap. 2 § 
 lagen (2013:561) om förvaltare av alternativa 
@@ -111,15 +111,15 @@ c) inte är ett matarfondföretag, och
 d) inte placerar medel i en matarfond eller ett 
 matarfondföretag,
 
-21. reglerad marknad: detsamma som i 1 kap. 4 b § lagen 
-(2007:528) om värdepappersmarknaden,
+21. reglerad marknad och MTF-plattform: detsamma som i 1 kap. 
+4 b § lagen (2007:528) om värdepappersmarknaden,
 
 22. penningmarknadsinstrument: statsskuldväxlar, 
 bankcertifikat samt sådana andra finansiella instrument som 
 normalt omsätts på penningmarknaden, är likvida och har ett 
 värde som vid varje tidpunkt exakt kan fastställas,
 
-23. specialfond: detsamma som i 1 kap. 11 § 24 lagen om 
+23. specialfond: detsamma som i 1 kap. 11 § 28 lagen om 
 förvaltare av alternativa investeringsfonder,
 
 24. startkapital: detsamma som i artikel 2.1 k i 
@@ -149,9 +149,9 @@ som avses i 5 kap. 1 § tredje stycket.
 
 Med återköp eller inlösen av andelar enligt första stycket 9 
 och 25 jämställs att andelarna är upptagna till handel på en 
-reglerad marknad, om det är säkerställt att andelarnas 
-noterade värde inte i väsentlig mån avviker från det värde som 
-avses i 4 kap. 10 § tredje stycket. Lag (2022:1725).
+reglerad marknad eller en MTF-plattform, om det är säkerställt 
+att andelarnas noterade värde inte väsentligt avviker från det 
+värde som avses i 4 kap. 10 § tredje stycket. Lag (2026:908).
 
 1 a § Vid bedömningen av om ett innehav utgör ett 
 kvalificerat innehav enligt 1 § första stycket 16 ska 
@@ -241,17 +241,8 @@ Allmänna bestämmelser om tillståndsplikt
 
 4 § Ett svenskt aktiebolag får av Finansinspektionen ges 
 tillstånd att driva fondverksamhet. Bolaget kan därutöver ges 
-tillstånd 
-
-1. för diskretionär portföljförvaltning avseende finansiella 
-instrument, och
-
-2. att ta emot medel med redovisningsskyldighet om bolaget 
-avser att föra investeringssparkonto enligt lagen (2011:1268) 
-om investeringssparkonto. 
-
-Medel som tas emot med redovisningsskyldighet ska omedelbart 
-avskiljas från bolagets egna tillgångar. Lag (2017:1143).
+tillstånd enligt 7 kap. 1 § för sådana tjänster som avses i 
+den paragrafen. Lag (2026:908).
 
 5 § Ett fondbolag får efter tillstånd av Finansinspektionen
 enligt 3 kap. 1 § lagen (2013:561) om förvaltare av
@@ -282,6 +273,19 @@ Särskilda bestämmelser för penningmarknadsfonder
 2017/1131 av den 14 juni 2017 om penningmarknadsfonder finns 
 bestämmelser som avviker från eller kompletterar denna lag.
 Lag (2022:1755).
+
+Administration av referensvärden
+
+5 c § Ett fondbolag får administrera referensvärden efter 
+registrering eller auktorisation enligt Europaparlamentets och 
+rådets förordning (EU) 2016/1011 av den 8 juni 2016 om index 
+som används som referensvärden för finansiella instrument och 
+finansiella avtal eller för att mäta investeringsfonders 
+resultat, och om ändring av direktiven 2008/48/EG och 
+2014/17/EU och förordning (EU) nr 596/2014. Fondbolaget får 
+dock inte administrera sådana referensvärden som används i en 
+värdepappersfond eller ett fondföretag som bolaget förvaltar.
+Lag (2026:908).
 
 Utländska företags verksamhet i Sverige
 
@@ -399,16 +403,16 @@ relevanta uppgifter och handlingar. Lag (2022:195).
 6 d § För den förvaltning av en värdepappersfond som ett 
 förvaltningsbolag utför efter att ha fått tillstånd enligt 
 6 b § gäller 2 kap. 15 c-15 f §§, 3 kap., 4 kap. 1-3 och 8-
-28 §§, 5 kap. 1 och 3-26 §§, 5 a kap., 8 kap. och 9 kap. Det 
-som anges där om fondbolag ska i stället gälla 
-förvaltningsbolaget.
+28 §§, 5 kap. 1 §, 2 § tredje stycket och 2 a-26 §§, 5 a kap., 
+8 kap. och 9 kap. Det som anges där om fondbolag ska i stället 
+gälla förvaltningsbolaget.
 
 Vid sådan förvaltning som avses i första stycket ska det som 
 anges i 9 kap. 1 § första stycket 1 i stället avse fall när 
 förvaltningsbolagets tillstånd återkallats av behörig 
 myndighet i bolagets hemland eller Finansinspektionen enligt 
 12 kap. 15 § tredje stycket beslutat att bolaget inte längre 
-får förvalta en värdepappersfond. Lag (2022:195).
+får förvalta en värdepappersfond. Lag (2026:908).
 
 7 § Ett fondföretag som hör hemma inom EES och i sitt hemland 
 har sådant tillstånd som avses i Europaparlamentets och rådets 
@@ -522,30 +526,42 @@ att beteckningen skall följas av ett förklarande tillägg.
 
 Förutsättningar för tillstånd
 
-1 § Tillstånd för ett svenskt aktiebolag att driva
+1 § Tillstånd för ett svenskt aktiebolag att driva 
 fondverksamhet får ges bara om
 
 1. bolaget har sitt huvudkontor i Sverige,
 
-2. det finns skäl att anta att den planerade verksamheten
-kommer att drivas enligt bestämmelserna i denna lag och andra
+2. det finns skäl att anta att den planerade verksamheten 
+kommer att drivas enligt bestämmelserna i denna lag och andra 
 författningar som reglerar bolagets verksamhet,
 
-3. den som har eller kan förväntas komma att få ett
-kvalificerat innehav i bolaget bedöms lämplig att utöva ett
+3. den som har eller kan förväntas komma att få ett 
+kvalificerat innehav i bolaget bedöms lämplig att utöva ett 
 väsentligt inflytande över ledningen av ett fondbolag,
 
-4. den som ska ingå i styrelsen för bolaget eller vara
-verkställande direktör i det, eller vara ersättare för någon
-av dem, har tillräcklig insikt och erfarenhet för att delta i
-ledningen av ett fondbolag och även i övrigt är lämplig för
-en sådan uppgift,
+4. den som ska ingå i styrelsen för bolaget eller vara 
+verkställande direktör i det, eller vara ersättare för någon 
+av dem, har tillräcklig insikt och erfarenhet för att delta i 
+ledningen av ett fondbolag och även i övrigt är lämplig för en 
+sådan uppgift,
 
-5. fondbestämmelserna har godkänts för den eller de
+5. bolagets verksamhetsinriktning beslutas av minst två 
+fysiska personer som
+
+- har tillräcklig insikt och erfarenhet och även i övrigt är 
+lämpliga för uppgiften,
+
+- har hemvist inom EES, och
+
+- antingen är heltidsanställda av bolaget eller ingår i 
+bolagets styrelse och har åtagit sig att leda verksamheten på 
+heltid, 
+
+6. fondbestämmelserna har godkänts för den eller de 
 värdepappersfonder som bolaget avser att förvalta, och
 
-6. bolaget uppfyller de villkor som i övrigt anges i denna
-lag. Lag (2013:563).
+7. bolaget uppfyller de villkor som i övrigt anges i denna 
+lag. Lag (2026:908).
 
 2 § Vid bedömningen enligt 1 § 3 av om en innehavare är 
 lämplig ska dennes anseende och kapitalstyrka beaktas. Det ska 
@@ -689,6 +705,14 @@ Finansinspektionens beslut i tillståndsfrågan.
 
 Ett fondbolag får inleda sin verksamhet så snart tillstånd
 enligt 1 kap. 4 § har getts.
+
+Underrättelse om väsentlig ändring i verksamhet eller 
+organisation
+
+7 a § Om ett fondbolag avser att genomföra en väsentlig 
+ändring i sin verksamhet eller organisation, ska bolaget 
+skriftligen underrätta Finansinspektionen innan ändringen 
+genomförs. Lag (2026:908).
 
 Kapitalkrav under pågående verksamhet
 
@@ -1107,10 +1131,10 @@ Lag (2016:892).
 
 17 g § Ett fondbolag som i sin verksamhet lämnar råd till 
 kunder om fondandelar i andra fall än det som avses i 7 kap. 
-1 § första stycket 3 ska när det utför sådana tjänster 
+1 § första stycket 4 ska när det utför sådana tjänster 
 tillämpa 8 kap. 12 och 15 §§ och 9 kap. 3-6, 10, 17, 21, 23, 
 23 a och 27-29 §§ lagen (2007:528) om värdepappersmarknaden.
-Lag (2021:969).
+Lag (2026:908).
 
 Principer för aktieägarengagemang
 
@@ -1165,10 +1189,18 @@ behöver dock inte redovisas. Lag (2019:287).
 flera av kraven i 17 h och 17 i §§, om bolaget tydligt anger 
 skälen för det. Lag (2019:287).
 
-17 k § Principerna för aktieägarengagemang enligt 17 h §, den 
+17 k § /Upphör att gälla U:2030-01-10/
+Principerna för aktieägarengagemang enligt 17 h §, den 
 årliga redogörelsen enligt 17 i § och uppgifter enligt 17 j § 
 ska hållas tillgängliga utan kostnad på fondbolagets 
 webbplats. Lag (2019:287).
+
+17 k § /Träder i kraft I:2030-01-10/
+Principerna för aktieägarengagemang enligt 17 h §, den 
+årliga redogörelsen enligt 17 i § och uppgifter enligt 17 j § 
+ska hållas tillgängliga utan kostnad på fondbolagets 
+webbplats. Informationen ska även lämnas till 
+Finansinspektionen. Lag (2026:629).
 
 Förvärvsförbud vid insyn i daglig handel
 
@@ -1211,8 +1243,7 @@ Lag (2016:892).
 
 Uppgiftsskyldighet
 
-19 a § /Träder i kraft I:2025-04-01/
-Ett fondbolag och ett förvaringsinstitut ska på begäran 
+19 a § Ett fondbolag och ett förvaringsinstitut ska på begäran 
 av Polismyndigheten, Skatteverket, Säkerhetspolisen eller 
 Tullverket lämna uppgifter om enskildas förhållanden till 
 företaget, om uppgifterna behövs i ett enskilt fall i 
@@ -1297,6 +1328,146 @@ Skadestånd
 21 § Om en fondandelsägare tillfogats skada genom att 
 fondbolaget överträtt denna lag eller fondbestämmelserna, ska 
 fondbolaget ersätta skadan. Lag (2016:892).
+
+2 a kap. Uppdragsavtal
+
+Allmänna krav
+
+1 § Ett fondbolag får delegera till någon annan att utföra 
+någon av de funktioner som ingår i fondverksamheten eller i en 
+motsvarande verksamhet som avser ett fondföretag som har ett 
+sådant tillstånd som avses i Europaparlamentets och rådets 
+direktiv 2009/65/EG, i lydelsen enligt Europaparlamentets och 
+rådets direktiv (EU) 2024/927, eller någon av de tjänster som 
+avses i 7 kap. 1 § första stycket (uppdragsavtal), om
+
+1. uppdragsavtalet och fondbolagets delegeringsstruktur i 
+övrigt kan motiveras på objektiva grunder, 
+
+2. uppdragstagaren har tillräcklig sakkunskap och kompetens 
+med hänsyn till uppdragets innehåll,
+
+3. uppdragsavtalet inte hindrar
+
+a) fondbolaget från att handla i fondandelsägarnas eller 
+kundernas intresse, eller 
+
+b) Finansinspektionens tillsyn över fondbolaget, och
+
+4. fondbolaget kan övervaka den delegerade funktionen eller 
+tjänsten och ge de anvisningar som behövs samt med omedelbar 
+verkan säga upp uppdragsavtalet om det är i fondandelsägarnas 
+eller kundernas intresse.
+
+Delegering får inte ske i sådan omfattning att fondbolaget i 
+praktiken inte längre kan anses vara förvaltare av 
+värdepappersfonden eller fondföretaget eller den som 
+tillhandahåller de tjänster som har delegerats.
+
+Fondbolaget ska underrätta Finansinspektionen om 
+uppdragsavtalet innan uppdragstagaren börjar utföra de 
+funktioner eller tjänster som avtalet avser. 
+Lag (2026:908).
+
+Förvaltningsuppdrag
+
+2 § Om ett uppdragsavtal innebär att någon får i uppdrag att 
+för fondbolagets räkning förvalta tillgångarna i en 
+värdepappersfond eller i ett fondföretag som har ett sådant 
+tillstånd som avses i Europaparlamentets och rådets direktiv 
+2009/65/EG, i lydelsen enligt Europaparlamentets och rådets 
+direktiv (EU) 2024/927, (förvaltningsuppdrag), ska avtalet 
+innehålla riktlinjer för placering av fondmedlen. Fondbolaget 
+ska tillförsäkra sig en rätt att regelbundet se över och vid 
+behov ändra dessa riktlinjer. 
+
+Ett förvaltningsuppdrag får ges till
+
+1. ett företag som står under Finansinspektionens tillsyn och 
+som har fått inspektionens tillstånd att förvalta 
+värdepappersfonder eller att utföra diskretionär 
+portföljförvaltning avseende finansiella instrument,
+
+2. ett företag med säte i ett annat land inom EES, om 
+företaget står under tillsyn av en behörig myndighet i 
+hemlandet och har tillstånd att driva verksamhet motsvarande 
+den som avses i 1,
+
+3. ett företag med säte i ett land utanför EES under 
+förutsättning att
+
+a) företaget står under tillsyn av en behörig myndighet i 
+hemlandet,
+
+b) företaget har tillstånd att driva verksamhet som motsvarar 
+den som avses i 1, och
+
+c) ett samarbete kan ske mellan Finansinspektionen och en 
+behörig myndighet i hemlandet.
+
+Ett förvaltningsuppdrag får inte ges till förvaringsinstitutet 
+eller något annat företag vars intressen kan komma i konflikt 
+med fondbolagets eller andelsägarnas intressen.
+Lag (2026:908).
+
+Ansvar
+
+3 § Fondbolaget ska säkerställa att funktioner eller tjänster 
+som har delegerats utförs i enlighet med denna lag. 
+Lag (2026:908).
+
+4 § Ett lämnat uppdragsavtal fråntar inte fondbolaget dess 
+ansvar enligt denna lag. Lag (2026:908).
+
+Vidaredelegering
+
+5 § En uppdragstagare får vidaredelegera vissa funktioner 
+eller tjänster till någon annan under förutsättning att 
+
+1. fondbolaget på förhand har godkänt en sådan delegering,
+
+2. fondbolaget har underrättat Finansinspektionen innan de 
+funktioner eller tjänster som ska vidaredelegeras börjar 
+utföras, och
+
+3. uppdragstagaren fortlöpande övervakar hur de 
+vidaredelegerade funktionerna eller tjänsterna utförs.
+
+Vid vidaredelegering tillämpas även 1 och 2 §§ i fråga om dem 
+som har fått funktioner eller tjänster delegerade eller 
+vidaredelegerade till sig.
+
+Om den som har fått vissa funktioner eller tjänster 
+vidaredelegerade till sig i sin tur ger någon annan i uppdrag 
+att utföra dem, gäller villkoren i första och andra styckena i 
+förhållande till den som ska utföra funktionerna eller 
+tjänsterna. Lag (2026:908).
+
+Uppdragsavtal om marknadsföring som utförs av distributör
+
+6 § Kraven på uppdragsavtal i detta kapitel ska inte tillämpas 
+på marknadsföring av andelar i en värdepappersfond eller ett 
+fondföretag som har ett sådant tillstånd som avses i 
+Europaparlamentets och rådets direktiv 2009/65/EG, i lydelsen 
+enligt Europaparlamentets och rådets direktiv (EU) 2024/927, 
+om marknadsföringen utförs av en distributör som agerar för 
+egen räkning i enlighet med 
+
+- lagen (2007:528) om värdepappersmarknaden, eller 
+bestämmelser i distributörens hemland som genomför 
+Europaparlamentets och rådets direktiv 2014/65/EU av den 
+15 maj 2014 om marknader för finansiella instrument och om 
+ändring av direktiv 2002/92/EG och av direktiv 2011/61/EU, i 
+lydelsen enligt Europaparlamentets och rådets direktiv (EU) 
+2024/2811, eller
+
+- lagen (2018:1219) om försäkringsdistribution, eller 
+bestämmelser i distributörens hemland som genomför 
+Europaparlamentets och rådets direktiv (EU) 2016/97 av den 
+20 januari 2016 om försäkringsdistribution, i lydelsen enligt 
+Europaparlamentets och rådets direktiv (EU) 2023/2864, om 
+marknadsföringen sker genom försäkringsbaserade 
+investeringsprodukter. Lag (2026:908).
 
 3 kap. Förvaringsinstitut
 
@@ -1447,20 +1618,24 @@ Allmänna krav på uppdragsavtal
 
 10 § Förvaringsinstitutet får inte uppdra åt någon annan att 
 utföra andra uppgifter än depåförvaring av tillgångar och 
-kontroll av äganderätten enligt 6 § första stycket.
+kontroll av äganderätten enligt 6 § första stycket. 
 
 Delegering enligt första stycket förutsätter att 
 förvaringsinstitutet
 
-1. kan visa att det finns ett objektivt skäl för delegering 
-av uppgifterna och att avsikten inte är att kringgå kraven i 
+1. kan visa att det finns ett objektivt skäl för delegering av 
+uppgifterna och att avsikten inte är att kringgå kraven i 
 denna lag eller annan författning,
 
 2. har handlat med den skicklighet, aktsamhet och omsorg som 
 krävs vid valet av uppdragstagare, och
 
 3. regelbundet övervakar uppdragstagaren och dennes rutiner 
-avseende delegerade uppgifter. Lag (2016:892).
+avseende delegerade uppgifter.
+
+Andra stycket 2 gäller inte om uppdragstagaren är en 
+värdepapperscentral som agerar i egenskap av investerande 
+värdepapperscentral. Lag (2026:908).
 
 Övriga villkor för uppdragsavtal
 
@@ -1602,83 +1777,13 @@ Lag (2013:563).
 3 § Fondbolaget får inte ha hand om egendom som ingår i en
 värdepappersfond som bolaget förvaltar. Lag (2013:563).
 
-Uppdragsavtal
+4 § Har upphävts genom lag (2026:908).
 
-4 § I syfte att effektivisera ett fondbolags verksamhet får
-bolaget uppdra åt någon annan att utföra visst arbete eller
-vissa funktioner som ingår i fondverksamheten eller
-motsvarande verksamhet som avser fondföretag som har sådant
-tillstånd som avses i Europaparlamentets och rådets
-direktiv 2009/65/EG. Ett sådant uppdrag får inte vara av
-sådan omfattning eller karaktär att fondbolaget lämnar ifrån
-sig all verksamhet eller så stor del av verksamheten att
-fondbolaget inte längre har möjlighet att ta till vara
-andelsägarnas gemensamma intressen eller i övrigt inte kan
-uppfylla de skyldigheter som följer av denna lag. Ett lämnat
-uppdrag fråntar aldrig fondbolaget dess ansvar enligt denna
-lag.
+5 § Har upphävts genom lag (2026:908).
 
-Uppdragstagaren måste ha tillfredsställande sakkunskap och
-kompetens med hänsyn till uppdragets innehåll.
+6 § Har upphävts genom lag (2026:908).
 
-Fondbolaget ska i ett avtal med uppdragstagaren som avser
-förvaltningen av en värdepappersfond eller av ett fondföretag
-som har sådant tillstånd som avses i Europaparlamentets och
-rådets direktiv 2009/65/EG eller därmed sammanhängande
-administration förbehålla sig rätten att övervaka den
-anförtrodda verksamheten, att ge de anvisningar som behövs
-för en sund förvaltning samt att med omedelbar verkan säga
-upp avtalet, om en sådan uppsägning är i andelsägarnas
-gemensamma intresse. Lag (2013:563).
-
-5 § Omfattar ett uppdrag enligt 4 § att någon för
-fondbolagets räkning ska förvalta tillgångarna i en
-värdepappersfond eller i ett fondföretag som har sådant
-tillstånd som avses i Europaparlamentets och rådets
-direktiv 2009/65/EG, ska avtalet innehålla riktlinjer för
-placering av fondmedlen. Fondbolaget ska tillförsäkra sig en
-rätt att regelbundet se över och vid behov ändra dessa
-riktlinjer.
-
-Ett förvaltningsuppdrag får ges till
-
-1. företag som står under Finansinspektionens tillsyn och som
-har fått inspektionens tillstånd att förvalta
-värdepappersfonder eller att utföra diskretionär
-portföljförvaltning avseende finansiella instrument,
-
-2. företag med säte i ett annat land inom EES, om företaget
-står under tillsyn av behörig myndighet i hemlandet och har
-tillstånd att driva verksamhet motsvarande den som avses i 1,
-
-3. annat utländskt företag under förutsättning att
-
-a) företaget står under tillsyn av behörig myndighet i
-hemlandet,
-
-b) företaget har tillstånd att driva verksamhet motsvarande
-den som avses i 1, och
-
-c) ett samarbete kan ske mellan Finansinspektionen och
-behörig myndighet i hemlandet. Lag (2013:563).
-
-6 § Ett förvaltningsuppdrag får inte ges till
-förvaringsinstitutet eller något annat företag vars intressen
-kan komma i konflikt med fondbolagets eller andelsägarnas
-intressen.
-
-7 § Avser ett fondbolag att uppdra åt någon annan att för
-bolagets räkning förvalta en värdepappersfond eller ett
-fondföretag som har sådant tillstånd som avses i
-Europaparlamentets och rådets direktiv 2009/65/EG eller sköta
-därmed sammanhängande administration ska bolaget anmäla detta
-och ge in uppdragsavtalet till Finansinspektionen.
-
-Om Finansinspektionen finner att ett uppdragsavtal strider
-mot denna lag, eller att avtalet hindrar en effektiv tillsyn
-av fondbolaget, ska inspektionen förelägga fondbolaget att
-hos motparten begära de ändringar som behövs för att avtalet
-ska uppfylla lagens krav. Lag (2013:563).
+7 § Har upphävts genom lag (2026:908).
 
 Fondbestämmelser
 
@@ -1691,8 +1796,8 @@ Fondbestämmelserna ska ange
 
 2. grunderna för fondens placeringsinriktning och för 
 placeringen av fondmedlen, med särskild upplysning om huruvida 
-medel ska placeras i sådana derivatinstrument som anges i 5 
-kap. 12 §,
+medel ska placeras i sådana derivatinstrument som anges i 
+5 kap. 12 §,
 
 3. vilka andelsklasser som ska finnas och vilka villkor som är 
 förenade med dem,
@@ -1708,10 +1813,13 @@ derivatinstrument som anges i 5 kap. 12 § andra stycket,
 6. grunderna för beräkning av försäljnings- och inlösenpris 
 för fondandelarna,
 
-7. om justerat fondandelsvärde tillämpas enligt 10 b § och, i 
-så fall, vilken metod som används för beräkningen,
+7. de likviditetshanteringsverktyg som fondbolaget tillämpar 
+för fonden och under vilka omständigheter verktygen får 
+användas,
 
-8. var och hur försäljning och inlösen av fondandelar ska ske,
+8. var och hur försäljning och inlösen av fondandelar ska ske, 
+när fonden är öppen för inlösen, och i förekommande fall 
+vilken uppsägningstid som gäller,
 
 9. grunderna för beräkning av fondbolagets och 
 förvaringsinstitutets ersättning från fonden,
@@ -1733,7 +1841,7 @@ För fonder där fondmedlen placeras enligt bestämmelserna i
 5 kap. 8 §, ska det dessutom anges de emittenter eller 
 garanter som gett ut eller garanterat sådana skuldförbindelser 
 som fondmedlen till mer än 35 procent av fondens värde avses 
-att placeras i. Lag (2023:234).
+att placeras i. Lag (2026:908).
 
 9 § Fondbestämmelserna och ändringar i dem ska godkännas av
 Finansinspektionen.
@@ -1781,11 +1889,60 @@ begärd inlösen. Möjlighet att begära inlösen ska ges under
 minst 30 dagar från dagen för underrättelse enligt 9 a §.
 Lag (2011:882).
 
-Fondandelar och inlösen av fondandelar
+Fondandelar
 
-10 § Andelarna i en värdepappersfond ska vara lika stora och 
+10 § /Upphör att gälla U:2030-01-10/
+Andelarna i en värdepappersfond ska vara lika stora och 
 medföra lika rätt till den egendom som ingår i fonden, om inte 
-annat följer av andra stycket.
+annat följer av andra stycket. 
+
+I en värdepappersfond får det finnas andelar av olika slag 
+(andelsklasser). Andelarna i en andelsklass ska vara lika 
+stora och medföra lika rätt till den egendom som ingår i 
+fonden. Andelsklasser i en och samma fond får vara förenade 
+med
+
+1. villkor för
+
+a) utdelning,
+
+b) avgifter,
+
+c) lägsta teckningsbelopp, 
+
+d) distribution av andelar,
+
+e) valutasäkring,
+
+f) i vilken valuta andelarna tecknas och inlöses, och
+
+g) undantag från kravet på att andelarna ska lösas in på 
+andelsägarens begäran om andelarna är upptagna till handel på 
+en reglerad marknad eller en MTF-plattform, och
+
+2. villkor som framgår av föreskrifter som har meddelats med 
+stöd av 13 kap. 1 § 14.
+
+Värdet av en fondandel är fondens värde delat med antalet 
+fondandelar. Om det finns andelsklasser ska värdet av en 
+fondandel dock bestämmas med beaktande av de villkor som är 
+förenade med andelsklassen. Om fondbolaget tillämpar 
+likviditetshanteringsverktyg enligt 5 kap. 2 a § första 
+stycket 4 eller 5 ska värdet av en fondandel justeras enligt 
+de bestämmelserna.
+
+Fondens värde beräknas enligt de grunder som anges i fond-
+bestämmelserna. Den egendom som ingår i fonden ska värderas 
+med ledning av gällande marknadsvärde.
+
+Fondbolaget ska fortlöpande och åtminstone när fonden är öppen 
+för inlösen beräkna och på lämpligt sätt offentliggöra 
+fondandelsvärdet. Lag (2026:908).
+
+10 § /Träder i kraft I:2030-01-10/
+Andelarna i en värdepappersfond ska vara lika stora och 
+medföra lika rätt till den egendom som ingår i fonden, om inte 
+annat följer av andra stycket. 
 
 I en värdepappersfond får det finnas andelar av olika slag 
 (andelsklasser). Andelarna i en andelsklass ska vara lika 
@@ -1803,51 +1960,38 @@ c) lägsta teckningsbelopp,
 
 d) distribution av andelar,
 
-e) valutasäkring, och 
+e) valutasäkring,
 
 f) i vilken valuta andelarna tecknas och inlöses, och
 
+g) undantag från kravet på att andelarna ska lösas in på 
+andelsägarens begäran om andelarna är upptagna till handel på 
+en reglerad marknad eller en MTF-plattform, och
+
 2. villkor som framgår av föreskrifter som har meddelats med 
-stöd av 13 kap. 1 § 15.
+stöd av 13 kap. 1 § 14.
 
 Värdet av en fondandel är fondens värde delat med antalet 
 fondandelar. Om det finns andelsklasser ska värdet av en 
 fondandel dock bestämmas med beaktande av de villkor som är 
-förenade med andelsklassen. Om fondbolaget har tillstånd som 
-avses i 10 b § får värdet av en fondandel justeras enligt den 
-paragrafen.
+förenade med andelsklassen. Om fondbolaget tillämpar 
+likviditetshanteringsverktyg enligt 5 kap. 2 a § första 
+stycket 4 eller 5 ska värdet av en fondandel justeras enligt 
+de bestämmelserna.
 
 Fondens värde beräknas enligt de grunder som anges i 
 fondbestämmelserna. Den egendom som ingår i fonden ska 
-värderas med ledning av gällande marknadsvärde. 
+värderas med ledning av gällande marknadsvärde.
 
-Fondbolaget ska fortlöpande och minst en gång varje vecka 
-beräkna och på lämpligt sätt offentliggöra fondandelsvärdet. 
-Lag (2023:234).
+Fondbolaget ska fortlöpande och åtminstone när fonden är öppen 
+för inlösen beräkna och på lämpligt sätt offentliggöra 
+fondandelsvärdet. Lag (2026:916).
 
 10 a § Fondbolaget får utfärda en
 fondandel bara om det är säkerställt att betalning tillförs
 värdepappersfonden inom rimlig tid. Lag (2013:563).
 
-10 b § Ett fondbolag får efter tillstånd av Finansinspektionen 
-tillämpa ett justerat fondandelsvärde för att motverka att de 
-befintliga eller kvarvarande fondandelsägarna påverkas 
-negativt av transaktionskostnader som uppstår för en 
-värdepappersfond vid betydande nettoflöden in i eller ut ur 
-fonden. 
-
-Tillstånd får ges bara om
-
-1. fondbolaget har den organisation, de system och den 
-kompetens som krävs för att beräkna och använda det justerade 
-fondandelsvärdet, och 
-
-2. det förfarande som fondbolaget tillämpar
-
-a) är förenligt med fondandelsägarnas gemensamma intresse, och
-
-b) ger betryggande möjligheter till insyn och kontroll.
-Lag (2023:234).
+10 b § Har upphävts genom lag (2026:908).
 
 11 § Fondbolaget ska föra eller låta föra ett register 
 över samtliga innehavare av andelar i fonden.
@@ -1899,38 +2043,51 @@ Finansinspektionen, om ett villkor för tillståndet har
 förutsättningarna för tillståndet inte längre uppfylls.
 Lag (2016:58).
 
-13 § En fondandel ska, på begäran av dess ägare, omedelbart
-lösas in om det finns medel tillgängliga i
-värdepappersfonden. Om medel för inlösen behöver anskaffas
-genom försäljning av egendom som ingår i fonden, ska
-försäljning ske och inlösen verkställas så snart som
-möjligt.
+Inlösen av fondandelar och uppsägningstid
 
-Första stycket gäller dock inte om fondandelarna är upptagna
-till handel på en reglerad marknad och det är säkerställt att
-andelarnas noterade värde inte i väsentlig mån avviker från
-det värde som avses i 10 § tredje stycket.
+13 § En fondandel ska, på begäran av dess ägare, lösas in när 
+värdepappersfonden är öppen för inlösen. En värdepappersfond 
+ska vara öppen för inlösen minst två gånger per månad med 
+skäligt mellanrum, eller om det är motiverat med hänsyn till 
+andelsägarnas intressen, en gång per månad. Om en 
+uppsägningstid tillämpas ska fondandelen lösas in när den 
+tiden löpt ut. Uppsägningstiden får inte vara längre än 
+10 bankdagar. Inlösenlikviden ska betalas ut så snart som 
+möjligt efter att fondandelen lösts in.
 
-Under den tid som ett förvaringsinstitut förvaltar en
-värdepappersfond enligt 9 kap. 1 § första eller andra stycket
-eller 5 a kap. 34 eller 42 § får fondandelar inte säljas
-eller lösas in. Lag (2013:563).
+Första stycket gäller dock inte om fondandelarna är upptagna 
+till handel på en reglerad marknad eller en MTF-plattform och 
+det är säkerställt att andelarnas noterade värde inte 
+väsentligt avviker från fondandelsvärdet.
 
-13 a § Ett fondbolag får senarelägga försäljning och inlösen
-av fondandelar, om det finns särskilda skäl för åtgärden och
-den är motiverad av hänsyn till fondandelsägarnas intresse.
+Under den tid som ett förvaringsinstitut förvaltar en 
+värdepappersfond enligt 9 kap. 1 § första eller andra stycket 
+eller 5 a kap. 34 eller 42 § får fondandelar inte säljas eller 
+lösas in. Lag (2026:908).
 
-Fondbolaget ska utan dröjsmål underrätta Finansinspektionen
-samt berörda investerare och andelsägare om åtgärden. Bolaget
-ska också underrätta behöriga myndigheter i andra länder inom
-EES där fondandelar marknadsförs.
+13 a § Ett fondbolag får senarelägga försäljning och inlösen 
+av fondandelar, om det finns särskilda skäl för åtgärden och 
+den är motiverad av hänsyn till fondandelsägarnas intresse. 
 
-Fondbolaget ska sedan orsakerna till senareläggningen upphört
-underrätta Finansinspektionen om detta. Lag (2011:882).
+Fondbolaget ska snarast underrätta Finansinspektionen samt 
+berörda investerare och andelsägare om åtgärden.
 
-13 b § Finansinspektionen får besluta att ett fondbolag ska
-senarelägga försäljning och inlösen av fondandelar om det är i
-fondandelsägarnas eller allmänhetens intresse. Lag (2011:882).
+Fondbolaget ska när orsakerna till senareläggningen upphört 
+underrätta Finansinspektionen om detta. Lag (2026:908).
+
+13 b § Finansinspektionen får besluta att ett fondbolag ska 
+senarelägga eller upphöra med att senarelägga försäljning och 
+inlösen av fondandelar om 
+
+1. exceptionella omständigheter inträffar, 
+
+2. det är i fondandelsägarnas intresse, och 
+
+3. det finns risker för investerarskyddet eller den 
+finansiella stabiliteten.
+
+Innan Finansinspektionen beslutar enligt första stycket ska 
+fondbolaget ges tillfälle att yttra sig. Lag (2026:908).
 
 14 § Är lagen (1998:1479) om värdepapperscentraler och 
 kontoföring av finansiella instrument inte tillämplig på 
@@ -1945,9 +2102,9 @@ Information om värdepappersfonder
 Informationsbroschyr och faktablad
 
 15 § För varje värdepappersfond ska det finnas en aktuell 
-informationsbroschyr. 
+informationsbroschyr.
 
-Informationsbroschyren ska innehålla 
+Informationsbroschyren ska innehålla
 
 1. fondbestämmelserna,
 
@@ -1958,17 +2115,19 @@ den,
 3. en tydlig och lättbegriplig förklaring av fondens 
 riskprofil,
 
-4. uppgifter om det arbete eller de funktioner som fondbolaget 
-får uppdra åt någon annan att utföra enligt 4 och 5 §§,
+4. uppgifter om de funktioner som ingår i fondverksamheten och 
+de tjänster som avses i 7 kap. 1 § första stycket som 
+fondbolaget får uppdra åt någon annan att utföra enligt 
+2 a kap., 
 
-5. uppgifter om vilka tillgångsslag fondmedlen får placeras i, 
+5. uppgifter om vilka tillgångsslag fondmedlen får placeras i,
 
 6. för det fall fondmedlen får placeras i derivatinstrument, 
 uppgifter om i vilket syfte och hur det möjliga resultatet av 
-användningen av derivat instrument kan påverka fondens 
-riskprofil, och 
+användningen av derivatinstrument kan påverka fondens 
+riskprofil, och
 
-7. uppgifter om fondbolagets ersättningspolicy. 
+7. uppgifter om fondbolagets ersättningspolicy.
 
 För en värdepappersfond som hänvisar till ett referensvärde 
 som avses i artikel 3.1.3 i Europaparlamentets och rådets 
@@ -1978,7 +2137,7 @@ finansiella avtal eller för att mäta investeringsfonders
 resultat, och om ändring av direktiven 2008/48/EG och 
 2014/17/EU och förordning (EU) nr 596/2014 finns det i 
 artikel 29.2 ytterligare bestämmelser om 
-informationsbroschyrens innehåll. 
+informationsbroschyrens innehåll.
 
 Bestämmelser om vad en informationsbroschyr ska innehålla 
 finns även i
@@ -1986,7 +2145,7 @@ finns även i
 1. artikel 14 i Europaparlamentets och rådets förordning (EU) 
 2015/2365 av den 25 november 2015 om transparens i 
 transaktioner för värdepappersfinansiering och om 
-återanvändning samt om ändring av förordning (EU) nr 648/2012, 
+återanvändning samt om ändring av förordning (EU) nr 648/2012,
 
 2. artiklarna 6-9 i Europaparlamentets och rådets förordning 
 (EU) 2019/2088 av den 27 november 2019 om 
@@ -1996,7 +2155,7 @@ finansiella tjänstesektorn, och
 3. artiklarna 5-7 i Europaparlamentets och rådets förordning 
 (EU) 2020/852 av den 18 juni 2020 om inrättande av en ram för 
 att underlätta hållbara investeringar och om ändring av 
-förordning (EU) 2019/2088. Lag (2021:1217).
+förordning (EU) 2019/2088. Lag (2026:908).
 
 16 § I informationsbroschyren och i allt övrigt
 marknadsföringsmaterial avseende fonden ska följande
@@ -2018,7 +2177,7 @@ fondens värde placerats i eller avses att placeras i.
 Lag (2013:563).
 
 16 a § För varje värdepappersfond ska det finnas ett aktuellt 
-faktablad.
+faktablad. Namnet på fonden ska anges i faktabladet.
 
 Faktabladet ska på ett lättbegripligt sätt och i 
 sammanfattning innehålla den grundläggande information som 
@@ -2037,12 +2196,12 @@ begäran.
 
 Bestämmelser om hur faktabladet för en värdepappersfond ska 
 vara utformat och om dess innehåll finns i kommissionens 
-förordning (EU) nr 583/2010 av den 1 juli 2010 om 
-genomförande av Europaparlamentets och rådets direktiv 
-2009/65/EG rörande basfakta för investerare och villkor som 
-ska uppfyllas när faktablad med basfakta för investerare 
-eller prospekt tillhandahålls på annat varaktigt medium än 
-papper eller på en webbplats. Lag (2016:892).
+förordning (EU) nr 583/2010 av den 1 juli 2010 om genomförande 
+av Europaparlamentets och rådets direktiv 2009/65/EG rörande 
+basfakta för investerare och villkor som ska uppfyllas när 
+faktablad med basfakta för investerare eller prospekt 
+tillhandahålls på annat varaktigt medium än papper eller på en 
+webbplats. Lag (2026:908).
 
 16 b § Ett faktablad ska anses uppfylla kraven i denna lag om 
 det upprättas, tillhandahålls, ändras och översätts enligt 
@@ -2224,23 +2383,142 @@ effektivisera förvaltningen, ska de bestämmelser i detta
 kapitel som gäller för derivatinstrument tillämpas.
 Lag (2008:282).
 
-2 § Ett fondbolag ska ha ett system för riskhantering som gör
-det möjligt för fondbolaget att vid varje tidpunkt
-kontrollera och bedöma den risk som är knuten till de
-positioner som tas i en värdepappersfond och hur positionerna
-påverkar fondens riskprofil. Fondbolaget ska inte ensidigt
-eller mekaniskt förlita sig på kreditbetyg som har utfärdats
-av kreditvärderingsinstitut för att bedöma kreditvärdigheten
+2 § Ett fondbolag ska ha ett system för riskhantering som gör 
+det möjligt för fondbolaget att vid varje tidpunkt kontrollera 
+och bedöma den risk som är knuten till de positioner som tas i 
+en värdepappersfond och hur positionerna påverkar fondens 
+riskprofil. Fondbolaget ska för varje värdepappersfond det 
+förvaltar till Finansinspektionen regelbundet lämna 
+information om riskhanteringen. Fondbolaget ska inte ensidigt 
+eller mekaniskt förlita sig på kreditbetyg som har utfärdats 
+av kreditvärderingsinstitut för att bedöma kreditvärdigheten 
 hos fondens tillgångar.
 
-Om fondbolaget investerar i sådana derivatinstrument som
-avses i 12 § andra stycket, ska bolagets system för
-riskhantering även möjliggöra en exakt och oberoende
-bedömning av värdet på dessa derivatinstrument.
+Om fondbolaget investerar i sådana derivatinstrument som avses 
+i 12 § andra stycket, ska bolagets system för riskhantering 
+även möjliggöra en exakt och oberoende bedömning av värdet på 
+dessa derivatinstrument.
 
-Fondbolaget ska för varje värdepappersfond det förvaltar till
-Finansinspektionen regelbundet lämna information om
-riskhanteringen. Lag (2014:1017).
+Fondbolaget ska ha riktlinjer och förfaranden för 
+tillämpningen av sådana likviditetshanteringsverktyg som avses 
+i 2 a §. Fondbolaget ska lämna in riktlinjerna och 
+förfarandena till Finansinspektionen. Lag (2026:908).
+
+Likviditetshanteringsverktyg
+
+Val av lämpliga likviditetshanteringsverktyg
+
+2 a § Ett fondbolag ska för varje värdepappersfond som bolaget 
+förvaltar välja minst två av följande 
+likviditetshanteringsverktyg som ska kunna användas i 
+andelsägarnas intresse för att hantera fondens likviditet:
+
+1. en tillfällig och partiell begränsning av fondandelsägares 
+rätt att lösa in sina andelar, som medför att fondandelsägaren 
+bara kan lösa in en viss del av sina andelar,
+
+2. en förlängning av den uppsägningstid som gäller eller ett 
+införande av en uppsägningstid som ska gälla tillfälligt,
+
+3. en avgift för inlösen av andelar, som har fastställts med 
+beaktande av likviditetskostnaden och som innebär att 
+kvarvarande fondandelsägare inte missgynnas på ett orättvist 
+sätt,
+
+4. en på förhand fastställd mekanism som används för att 
+justera fondandelsvärdet genom tillämpning av en faktor 
+(svingfaktor) som återspeglar likviditetskostnaden,
+
+5. en på förhand fastställd mekanism som används för att 
+fastställa försäljnings- och inlösenpriser för fondandelar 
+genom att fondandelsvärdet justeras med en faktor som 
+återspeglar likviditetskostnaden,
+
+6. en avgift för att teckna eller lösa in andelar som 
+kompenserar fonden för de likviditetskostnader som uppstår på 
+grund av transaktionens storlek och som innebär att 
+kvarvarande fondandelsägare inte missgynnas på ett orättvist 
+sätt,
+
+7. överföring av tillgångar som ingår i fonden, i stället för 
+betalningsmedel, vid inlösen av andelar som innehas av en 
+sådan professionell investerare som avses i 1 kap. 11 § 25 
+lagen (2013:561) om förvaltare av alternativa 
+investeringsfonder. 
+
+En överföring enligt första stycket 7 ska motsvara en 
+proportionell andel av fondens tillgångar, om inte fonden 
+
+- marknadsförs bara till professionella investerare, eller
+
+- är en indexfond och andelarna är upptagna till handel på en 
+reglerad marknad eller en MTF-plattform.
+
+De likviditetshanteringsverktyg som fondbolaget väljer enligt 
+första stycket ska vara lämpliga i förhållande till 
+värdepappersfondens investeringsstrategi, likviditetsprofil 
+och inlösenpolicy. Bolaget får inte bara välja de verktyg som 
+anges i första stycket 4 och 5. Lag (2026:908).
+
+2 b § Ett fondbolag som förvaltar en värdepappersfond som har 
+auktoriserats som penningmarknadsfond enligt 
+Europaparlamentets och rådets förordning (EU) 2017/1131 av den 
+14 juni 2017 om penningmarknadsfonder behöver bara välja ett 
+av de verktyg som avses i 2 a § första stycket för en sådan 
+fond. Lag (2026:908).
+
+Avskiljande av tillgångar
+
+2 c § Om de ekonomiska eller rättsliga egenskaperna i fråga om 
+vissa tillgångar i en värdepappersfond har ändrats väsentligt 
+eller blivit osäkra till följd av exceptionella 
+omständigheter, får fondbolaget skilja tillgångarna från 
+övriga tillgångar i fonden i enlighet med det som anges i den 
+delegerade förordning som har antagits av Europeiska 
+kommissionen i enlighet med artikel 18a.5 i Europaparlamentets 
+och rådets direktiv 2009/65/EG, i lydelsen enligt 
+Europaparlamentets och rådets direktiv (EU) 2024/927. 
+
+Kraven i detta kapitel om förvaltning av värdepappersfonder, 
+med undantag för 2 d §, ska inte tillämpas på de avskilda 
+tillgångarna. Lag (2026:908).
+
+2 d § Tillgångar som har avskilts enligt 2 c § ska förvaltas 
+av fondbolaget för de ursprungliga fondandelsägarnas räkning.
+
+Tillgångarna ska säljas eller på annat sätt avvecklas när det 
+finns rimliga förutsättningar för detta. Nettobehållningen ska 
+betalas ut till de ursprungliga fondandelsägarna.
+Lag (2026:908).
+
+2 e § Om en ursprunglig fondandelsägare inte har anmält sitt 
+innehav till fondbolaget inom fem år efter det att 
+fondandelsägaren underrättats om att medel har kunnat betalas 
+ut enligt 2 d § andra stycket, har fondandelsägaren förlorat 
+sin rätt att få sina medel utbetalade. Underrättelsen ska 
+innehålla information om denna tidsfrist.
+
+Medel som inte har kunnat betalas ut till andelsägarna ska 
+tillfalla Allmänna arvsfonden. Lag (2026:908).
+
+2 f § Fondbolaget har för sin förvaltning enligt 2 d § rätt 
+till skälig ersättning ur de avskilda tillgångarna, eller ur 
+de tillgångar som inte har avskilts om de avskilda 
+tillgångarna inte räcker till och det finns särskilda skäl.
+
+Ersättningens storlek ska bestämmas av Finansinspektionen.
+Lag (2026:908).
+
+Underrättelse till Finansinspektionen
+
+2 g § Fondbolaget ska snarast underrätta Finansinspektionen 
+när något av de likviditetshanteringsverktyg som avses i 2 a § 
+första stycket börjar tillämpas respektive inte längre 
+tillämpas, om detta sker på ett sätt som avviker från den 
+verksamhet som normalt sett bedrivs enligt fondbestämmelserna. 
+Fondbolaget ska alltid underrätta Finansinspektionen inom 
+rimlig tid innan bolaget avskiljer tillgångar enligt 2 c §.
+Lag (2026:908).
 
 Överlåtbara värdepapper och penningmarknadsinstrument
 
@@ -2469,13 +2747,17 @@ penningmarknadsinstrument innefattar ett derivatinstrument, ska
 även detta beaktas vid beräkning av exponeringar enligt första
 och andra styckena. Lag (2008:282).
 
-14 § I en värdepappersfond får, med de ytterligare
-begränsningar som kan följa av 21 och 22 §§, exponeringen mot
-en och samma motpart vid transaktioner med sådana
-derivatinstrument som avses i 12 § andra stycket uppgå till
-högst 10 procent av fondens värde, när motparten är ett sådant
-kreditinstitut som anges i 10 §. I andra fall får exponeringen
-uppgå till högst 5 procent av fondens värde.
+14 § I en värdepappersfond får, med de ytterligare 
+begränsningar som kan följa av 21 och 22 §§, exponeringen mot 
+en och samma motpart uppgå till högst 5 procent av fondens 
+värde vid transaktioner med derivatinstrument som inte har 
+överlämnats för clearing hos en auktoriserad eller godkänd 
+central motpart.
+
+Om motparten är ett sådant kreditinstitut som avses i 10 § får 
+transaktioner med sådana derivatinstrument som anges i första 
+stycket i stället uppgå till högst 10 procent av fondens 
+värde. Lag (2026:615).
 
 Fondandelar
 
@@ -3211,25 +3493,36 @@ Lag (2011:882).
 
 6 kap. Kapitlet har upphävts genom lag (2013:563).
 
-7 kap. Portföljförvaltning avseende finansiella instrument
+7 kap. Diskretionär portföljförvaltning avseende finansiella 
+instrument och andra tjänster
 
-1 § Ett fondbolag som enligt 1 kap. 4 § har tillstånd för 
-portföljförvaltning avseende finansiella instrument får, 
-efter tillstånd av Finansinspektionen,
+1 § Ett fondbolag får, efter tillstånd av Finansinspektionen,
 
-1. ta emot fondandelar för förvaring, dock inte sådana 
+1. utföra diskretionär portföljförvaltning avseende 
+finansiella instrument,
+
+2. ta emot fondandelar för förvaring, dock inte sådana 
 fondandelar som ingår i en värdepappersfond, ett fondföretag 
 eller en alternativ investeringsfond som förvaltas av 
 fondbolaget,
 
-2. ta emot medel med redovisningsskyldighet, och
+3. ta emot medel med redovisningsskyldighet,
 
-3. lämna investeringsråd avseende sådana finansiella 
-instrument som avses i 5 kap.
+4. lämna investeringsråd om sådana finansiella instrument som 
+avses i 5 kap.,
+
+5. ta emot och vidarebefordra order i fråga om finansiella 
+instrument, och
+
+6. tillhandahålla andra funktioner och verksamheter än de som 
+avses i  
+1-5 som fondbolaget utför i anslutning till fondverksamheten 
+eller till en tjänst som fondbolaget tillhandahåller enligt 
+denna paragraf eller i enlighet med 1 kap. 5 c §.
 
 Medel som tas emot med redovisningsskyldighet enligt första 
-stycket 2 ska omedelbart avskiljas från bolagets egna 
-tillgångar. Lag (2017:1143).
+stycket 3 ska omedelbart avskiljas från bolagets egna 
+tillgångar. Lag (2026:908).
 
 2 § Ett fondbolag får inte placera en investerares tillgångar
 i andelar i en värdepappersfond, en alternativ
@@ -3238,12 +3531,10 @@ förvaltar, direkt eller på uppdrag av någon annan
 fondförvaltare, om inte investeraren har godkänt detta på
 förhand. Lag (2013:563).
 
-3 § Ett fondbolag som utför diskretionär portföljförvaltning 
-avseende finansiella instrument ska i denna förvaltning och 
-när det utför tjänster enligt 1 § första stycket tillämpa 
-8 kap. 9-12, 14-16 och 22 §§ och 9 kap. 1, 3-6, 9, 10, 12-
-23 a, 25 a-29, 30 a och 40 §§, 41 § första stycket och 43 § 
-lagen (2007:528) om värdepappersmarknaden. Lag (2021:969).
+3 § Ett fondbolag ska, när det utför tjänster enligt 1 § 
+första stycket, tillämpa 8 kap. 9-12 och 14-20 §§ och 9 kap. 
+1, 3-10, 12-29, 30 a och 40 §§, 41 § första stycket och 43 § 
+lagen (2007:528) om värdepappersmarknaden. Lag (2026:908).
 
 8 kap. Fusion och delning av värdepappersfonder m.m.
 
@@ -4163,49 +4454,135 @@ beslut eller genom att göra en anmärkning. Om ett fondbolags
 eller, om det är tillräckligt, varning meddelas.
 Lag (2016:892).
 
-1 a § Finansinspektionen ska ingripa mot någon som ingår i ett 
+1 a § /Upphör att gälla U:2028-01-10/
+Finansinspektionen ska ingripa mot någon som ingår i ett 
 fondbolags styrelse eller är dess verkställande direktör, 
-eller ersättare för någon av dem, om fondbolaget 
+eller ersättare för någon av dem, om fondbolaget
 
 1. har fått tillstånd att driva fondverksamhet genom att lämna 
-falska uppgifter eller på annat otillbörligt sätt, 
+falska uppgifter eller på annat otillbörligt sätt,
 
-2. tillhandahåller diskretionär portföljförvaltning i strid 
-med 1 kap. 4 §, 
+2. påbörjar marknadsföring av en av bolaget förvaltad 
+värdepappersfond i ett annat land inom EES innan en 
+underrättelse om detta gjorts hos Finansinspektionen i 
+enlighet med 2 kap. 15 c §, 
 
-3. påbörjar marknadsföring av en av bolaget förvaltad 
+3. inte uppfyller grundläggande krav på organisation och drift 
+av verksamheten enligt 2 kap. 17 § första stycket 1 eller 2 
+eller tredje stycket eller 17 f § eller föreskrifter som har 
+meddelats med stöd av 13 kap. 1 § 10 avseende dessa 
+bestämmelser,
+
+4. åsidosätter sina skyldigheter eller på annat sätt 
+överträder det som anges om uppdragsavtal i 2 a kap.,
+
+5. påbörjar förvaltning och marknadsföring av en 
+värdepappersfond utan att fondbestämmelserna godkänts enligt 
+4 kap. 9 §,
+
+6. vid upprepade tillfällen låter bli att upprätta eller 
+tillhandahålla informationsbroschyr, faktablad, årsberättelse 
+och halvårsberättelse i enlighet med 4 kap. 15-21 §§,
+
+7. vid upprepade tillfällen placerar medel i en 
+värdepappersfond i strid med det som anges i någon av 5 kap. 
+1, 3-22, 24 eller 25 §§ eller i föreskrifter som har meddelats 
+med stöd av 13 kap. 1 § 19, 20, 23 och 24 avseende dessa 
+bestämmelser,
+
+8. inte uppfyller kraven på hantering av risker i 5 kap. 2 § 
+första eller andra stycket eller i föreskrifter som har 
+meddelats med stöd av 13 kap. 1 § 21 avseende dessa 
+bestämmelser,
+
+9. utför diskretionär portföljförvaltning i strid med 7 kap. 
+1 § första stycket 1,
+
+10. i strid med 11 kap. 5 § första stycket låter bli att till 
+Finansinspektionen anmäla sådana förvärv och avyttringar som 
+avses där,
+
+11. i strid med 11 kap. 5 § tredje stycket låter bli att till 
+Finansinspektionen anmäla namnen på de ägare som har ett 
+kvalificerat innehav av aktier i bolaget samt storleken på 
+innehavet,
+
+12. har befunnits ansvarigt för en allvarlig, upprepad eller 
+systematisk överträdelse av lagen (2017:630) om åtgärder mot 
+penningtvätt och finansiering av terrorism eller föreskrifter 
+som har meddelats med stöd av den lagen, eller
+
+13. har åsidosatt sina skyldigheter enligt någon av artiklarna 
+5-10, 11.1-11.10, 12-14, 16.1, 16.2, 17, 18.1, 18.2, 19.1, 
+19.3, 19.4, 23-25, 26.1-26.8, 27, 28.1-28.8, 29, 30.1-30.4, 
+31.12 eller 45 i Europaparlamentets och rådets förordning (EU) 
+2022/2554.
+
+Om en sådan person som anges i första stycket omfattas av 
+tillstånds- eller underrättelseskyldighet enligt 11 kap. 1 
+eller 4 § för förvärv eller avyttring av aktier i bolaget, ska 
+första stycket 10 och 11 inte gälla för den personen i fråga 
+om dessa aktier.
+
+Ett ingripande enligt första stycket får ske bara om bolagets 
+överträdelse är allvarlig och den fysiska personen i fråga 
+uppsåtligen eller av grov oaktsamhet har orsakat 
+överträdelsen.
+
+Ingripande får ske genom en eller båda av följande sanktioner:
+
+1. beslut att personen i fråga under en viss tid, lägst tre 
+och högst tio år, eller, för upprepade allvarliga 
+överträdelser, permanent inte får vara styrelseledamot eller 
+verkställande direktör i ett fondbolag, eller ersättare för 
+någon av dem, eller
+
+2. beslut om sanktionsavgift. Lag (2026:908).
+
+1 a § /Träder i kraft I:2028-01-10/
+/Upphör att gälla U:2030-01-10/
+Finansinspektionen ska ingripa mot någon som ingår i ett 
+fondbolags styrelse eller är dess verkställande direktör, 
+eller ersättare för någon av dem, om fondbolaget
+
+1. har fått tillstånd att driva fondverksamhet genom att lämna 
+falska uppgifter eller på annat otillbörligt sätt,
+
+2. påbörjar marknadsföring av en av bolaget förvaltad 
 värdepappersfond i ett annat land inom EES innan en 
 underrättelse om detta gjorts hos Finansinspektionen i 
 enlighet med 2 kap. 15 c §,
 
-4. inte uppfyller grundläggande krav på organisation och drift 
+3. inte uppfyller grundläggande krav på organisation och drift 
 av verksamheten enligt 2 kap. 17 § första stycket 1 eller 2 
 eller tredje stycket eller 17 f § eller föreskrifter som har 
-meddelats med stöd av 13 kap. 1 § 11 avseende dessa 
+meddelats med stöd av 13 kap. 1 § 10 avseende dessa 
 bestämmelser,
 
-5. åsidosätter sina skyldigheter eller på annat sätt 
-överträder det som anges om uppdragsavtal i någon av 4 kap. 4-
-6 §§ eller 7 § första stycket,
+4. åsidosätter sina skyldigheter eller på annat sätt 
+överträder det som anges om uppdragsavtal i 2 a kap.,
 
-6. påbörjar förvaltning och marknadsföring av en 
+5. påbörjar förvaltning och marknadsföring av en 
 värdepappersfond utan att fondbestämmelserna godkänts enligt 
 4 kap. 9 §,
 
-7. vid upprepade tillfällen låter bli att upprätta eller 
+6. vid upprepade tillfällen låter bli att upprätta eller 
 tillhandahålla informationsbroschyr, faktablad, årsberättelse 
 och halvårsberättelse i enlighet med 4 kap. 15-21 §§,
 
-8. vid upprepade tillfällen placerar medel i en 
+7. vid upprepade tillfällen placerar medel i en 
 värdepappersfond i strid med det som anges i någon av 5 kap. 
 1, 3-22, 24 eller 25 §§ eller i föreskrifter som har meddelats 
-med stöd av 13 kap. 1 § 21, 22, 24 och 25 avseende dessa 
+med stöd av 13 kap. 1 § 20, 21, 24 och 25 avseende dessa 
 bestämmelser,
 
-9. inte uppfyller kraven på hantering av risker i 5 kap. 2 § 
+8. inte uppfyller kraven på hantering av risker i 5 kap. 2 § 
 första eller andra stycket eller i föreskrifter som har 
-meddelats med stöd av 13 kap. 1 § 23 avseende dessa 
+meddelats med stöd av 13 kap. 1 § 22 avseende dessa 
 bestämmelser,
+
+9. utför diskretionär portföljförvaltning i strid med 7 kap. 
+1 § första stycket 1,
 
 10. i strid med 11 kap. 5 § första stycket låter bli att till 
 Finansinspektionen anmäla sådana förvärv och avyttringar som 
@@ -4248,7 +4625,94 @@ verkställande direktör i ett fondbolag, eller ersättare för
 någon av dem, eller
 
 2. beslut om sanktionsavgift.
-Lag (2024:1283).
+Lag (2026:915).
+
+1 a § /Träder i kraft I:2030-01-10/
+Finansinspektionen ska ingripa mot någon som ingår i ett 
+fondbolags styrelse eller är dess verkställande direktör, 
+eller ersättare för någon av dem, om fondbolaget 
+
+1. har fått tillstånd att driva fondverksamhet genom att lämna 
+falska uppgifter eller på annat otillbörligt sätt,
+
+2. påbörjar marknadsföring av en av bolaget förvaltad 
+värdepappersfond i ett annat land inom EES innan en 
+underrättelse om detta gjorts hos Finansinspektionen i 
+enlighet med 2 kap. 15 c §,
+
+3. inte uppfyller grundläggande krav på organisation och drift 
+av verksamheten enligt 2 kap. 17 § första stycket 1 eller 2 
+eller tredje stycket eller 17 f § eller föreskrifter som har 
+meddelats med stöd av 13 kap. 1 § 10 avseende dessa 
+bestämmelser,
+
+4. åsidosätter sina skyldigheter eller på annat sätt 
+överträder det som anges om uppdragsavtal i 2 a kap.,
+
+5. påbörjar förvaltning och marknadsföring av en 
+värdepappersfond utan att fondbestämmelserna godkänts enligt 
+4 kap. 9 §,
+
+6. vid upprepade tillfällen låter bli att upprätta eller 
+tillhandahålla informationsbroschyr, faktablad, årsberättelse 
+och halvårsberättelse i enlighet med 4 kap. 15-21 §§,
+
+7. vid upprepade tillfällen placerar medel i en 
+värdepappersfond i strid med det som anges i någon av 5 kap. 
+1, 3-22, 24 eller 25 §§ eller i föreskrifter som har meddelats 
+med stöd av 13 kap. 1 § 20, 21, 24 och 25 avseende dessa 
+bestämmelser,
+
+8. inte uppfyller kraven på hantering av risker i 5 kap. 2 § 
+första eller andra stycket eller i föreskrifter som har 
+meddelats med stöd av 13 kap. 1 § 23 avseende dessa 
+bestämmelser,
+
+9. utför diskretionär portföljförvaltning i strid med 7 kap. 
+1 § första stycket 1,
+
+10. i strid med 11 kap. 5 § första stycket låter bli att till 
+Finansinspektionen anmäla sådana förvärv och avyttringar som 
+avses där,
+
+11. i strid med 11 kap. 5 § tredje stycket låter bli att till 
+Finansinspektionen anmäla namnen på de ägare som har ett 
+kvalificerat innehav av aktier i bolaget samt storleken på 
+innehavet,
+
+12. har befunnits ansvarigt för en allvarlig, upprepad eller 
+systematisk överträdelse av lagen (2017:630) om åtgärder mot 
+penningtvätt och finansiering av terrorism eller föreskrifter 
+som har meddelats med stöd av den lagen, eller
+
+13. har åsidosatt sina skyldigheter enligt någon av 
+artiklarna 5-10,  
+11.1-11.10, 12-14, 16.1, 16.2, 17, 18.1, 18.2, 19.1, 19.3, 
+19.4, 23-25,  
+26.1-26.8, 27, 28.1-28.8, 29, 30.1-30.4, 31.12 eller 45 i 
+Europaparlamentets och rådets förordning (EU) 2022/2554.
+
+Om en sådan person som anges i första stycket omfattas av 
+tillstånds- eller underrättelseskyldighet enligt 11 kap. 1 
+eller 4 § för förvärv eller avyttring av aktier i bolaget, ska 
+första stycket 10 och 11 inte gälla för den personen i fråga 
+om dessa aktier.
+
+Ett ingripande enligt första stycket får ske bara om bolagets 
+överträdelse är allvarlig och den fysiska personen i fråga 
+uppsåtligen eller av grov oaktsamhet har orsakat 
+överträdelsen.
+
+Ingripande får ske genom en eller båda av följande sanktioner:
+
+1. beslut att personen i fråga under en viss tid, lägst tre 
+och högst tio år, eller, för upprepade allvarliga 
+överträdelser, permanent inte får vara styrelseledamot eller 
+verkställande direktör i ett fondbolag, eller ersättare för 
+någon av dem, eller
+
+2. beslut om sanktionsavgift.
+Lag (2026:916).
 
 1 b § Finansinspektionen ska ingripa mot någon som ingår i 
 ett förvaringsinstituts styrelse eller är dess verkställande 
@@ -4474,13 +4938,31 @@ stycket beslutas. Lag (2023:827).
 
 Förseningsavgift
 
-10 § Om ett fondbolag inte i tid lämnar de upplysningar som 
+10 § /Upphör att gälla U:2028-01-10/
+Om ett fondbolag inte i tid lämnar de upplysningar som 
 det är skyldigt att göra enligt föreskrifter som har meddelats 
 med stöd av 13 kap. 1 § 32, får Finansinspektionen besluta att 
-bolaget ska betala en förseningsavgift på högst 
-100 000 kronor. 
+bolaget ska betala en förseningsavgift på högst 100 000 kronor. 
 
 Avgiften tillfaller staten. Lag (2023:234).
+
+10 § /Träder i kraft I:2028-01-10/
+/Upphör att gälla U:2030-01-10/
+Om ett fondbolag inte i tid lämnar de upplysningar som 
+det är skyldigt att göra enligt föreskrifter som har meddelats 
+med stöd av 13 kap. 1 § 33, får Finansinspektionen besluta att 
+bolaget ska betala en förseningsavgift på högst 100 000 kronor.
+
+Avgiften tillfaller staten. Lag (2026:628).
+
+10 § /Träder i kraft I:2030-01-10/
+Om ett fondbolag inte i tid lämnar de upplysningar som 
+det är skyldigt att göra enligt föreskrifter som har meddelats 
+med stöd av 13 kap. 1 § 34, får Finansinspektionen besluta att 
+bolaget ska betala en förseningsavgift på högst 100 000 
+kronor. Lag (2026:629).
+
+Avgiften tillfaller staten. 
 
 Verkställighet av beslut om sanktionsavgift och 
 förseningsavgift
@@ -4600,170 +5082,288 @@ med vite. Lag (2008:282).
 
 13 kap. Bemyndiganden
 
-1 § /Upphör att gälla U:2025-04-01/
+1 § /Upphör att gälla U:2028-01-10/
 Regeringen eller den myndighet som regeringen bestämmer 
 får meddela föreskrifter om 
 
-1. vilka åtgärder ett fondbolag ska vidta om det tar emot 
-medel med redovisningsskyldighet enligt 1 kap. 4 § eller 
-7 kap. 1 §, 
-
-2. hur ett förvaltningsbolag eller fondföretag ska 
-tillhandahålla information om de uppgifter som avses i 1 kap. 
-6 c § första stycket och 8 § första stycket, 
-
-3. på vilket språk ett förvaltningsbolag eller fondföretag ska 
-tillhandahålla funktionerna i 1 kap. 6 c § första stycket och 
-8 § första stycket, 
-
-4. på vilket språk ett fondföretag ska tillhandahålla 
-information enligt 1 kap. 9 § första stycket 1 och 2 och 9 a § 
-första stycket, 
-
-5. hur ett fondföretag ska offentliggöra avsikten att upphöra 
-med marknadsföringen av andelar i företaget enligt 1 kap. 9 § 
-första stycket 2, 
-
-6. hur medel för distanskommunikation får användas när ett 
-fondföretag som har upphört med marknadsföring i Sverige av 
-andelar i företaget ska tillhandahålla kvarvarande andelsägare 
-här i landet information enligt 1 kap. 9 a § första stycket, 
-
-7. vilka poster som får räknas in i startkapitalet enligt 
-2 kap. 4 §, 
-
-8. vilka poster som får räknas in i egna medel enligt 2 kap. 
-8-10 §§, 
-
-9. på vilket språk underrättelsen enligt 2 kap. 15 c § första 
-stycket ska skrivas, 
-
-10. hur fondbolaget ska offentliggöra handlingarna enligt 
-2 kap. 15 c § fjärde stycket,
-
-11. vad ett fondbolag ska iaktta för att uppfylla 
-skyldigheterna i 2 kap. 17 § första stycket 1 och 2 och tredje 
-stycket, 17 c och 17 f §§,
-
-12. vilka åtgärder ett fondbolag ska vidta för att uppfylla de 
-krav som följer av 2 kap. 17 g §,
-
-13. hur uppgifter enligt 2 kap. 20 § första stycket ska 
-lämnas,
-
-14. vilken information som ska lämnas i underrättelsen till 
-andelsägare enligt 4 kap. 9 a § och på vilket sätt 
-underrättelsen ska lämnas, 
-
-15. villkor som en andelsklass får vara förenad med enligt 
-4 kap. 10 § andra stycket 2 och under vilka förutsättningar en 
-andelsklass får vara förenad med ett visst villkor, 
-
-16. utformningen och tillämpningen av metoder för justerat 
-fondandelsvärde enligt 4 kap. 10 b § och vilka krav som ska 
-uppfyllas när ett justerat fondandelsvärde beräknas och 
-används, 
-
-17. tillhandahållande av informationsbroschyr och faktablad 
-enligt 4 kap. 20 §, 
-
-18. på vilket språk informationen enligt 4 kap. 20 § ska 
-tillhandahållas, 
-
-19. hur volatiliteten i skillnaden mellan fondens avkastning 
-och jämförelseindexets avkastning enligt 4 kap. 26 § ska 
-beräknas, 
-
-20. hur informationen enligt 4 kap. 28 § ska presenteras, 
-
-21. kriterier för de finansiella tillgångar som medel i en 
-värdepappersfond får placeras i enligt 5 kap. 1 § andra 
-stycket första meningen, 
-
-22. vilka tekniker och instrument ett fondbolag får använda 
-enligt 5 kap. 1 § tredje stycket samt villkor och gränser för 
-sådan användning, 
-
-23. det system för riskhantering ett fondbolag ska ha enligt 
-5 kap. 2 § första och andra styckena, 
-
-24. kriterier för indexfonder enligt 5 kap. 7 §, 
-
-25. beräkning av exponeringar enligt 5 kap. 13 och 14 §§, 
-
-26. på vilket sätt underrättelsen till andelsägarna enligt 5 a 
-kap. 7 § ska lämnas, 
-
-27. vilka fel och försummelser som ska rapporteras enligt 5 a 
-kap. 18 §, 
-
-28. förutsättningar för överföring av finansiella instrument 
-och förvaltning enligt 5 a kap. 37 och 46 §§, 
-
-29. vilka åtgärder ett fondbolag ska vidta för att uppfylla de 
-krav som följer av bestämmelserna i 7 kap. 3 §, 
-
-30. vad informationen enligt 8 kap. 8 § ska innehålla, hur den 
-ska utformas, på vilket sätt den ska tillhandahållas och vad 
-som ska bifogas informationen, 
-
-31. på vilket språk de handlingar som ska lämnas tillsammans 
-med ansökan enligt 8 kap. 19 § ska upprättas, 
-
-32. vilka upplysningar fondbolag, förvaltningsbolag, 
-fondföretag samt förvaringsinstitut ska lämna till 
-Finansinspektionen enligt 10 kap. 2 § första stycket och när 
-upplysningarna ska lämnas, och 
-
-33. sådana avgifter som avses i 10 kap. 11 §. Lag (2024:1283).
-
-1 § /Träder i kraft I:2025-04-01/
-Regeringen eller den myndighet som regeringen bestämmer 
-får meddela föreskrifter om
-
-1. vilka åtgärder ett fondbolag ska vidta om det tar emot 
-medel med redovisningsskyldighet enligt 1 kap. 4 § eller 
-7 kap. 1 §,
-
-2. hur ett förvaltningsbolag eller fondföretag ska 
+1. hur ett förvaltningsbolag eller fondföretag ska 
 tillhandahålla information om de uppgifter som avses i 1 kap. 
 6 c § första stycket och 8 § första stycket,
 
-3. på vilket språk ett förvaltningsbolag eller fondföretag ska 
+2. på vilket språk ett förvaltningsbolag eller fondföretag ska 
 tillhandahålla funktionerna i 1 kap. 6 c § första stycket och 
 8 § första stycket,
 
-4. på vilket språk ett fondföretag ska tillhandahålla 
+3. på vilket språk ett fondföretag ska tillhandahålla 
 information enligt 1 kap. 9 § första stycket 1 och 2 och 9 a § 
 första stycket,
 
-5. hur ett fondföretag ska offentliggöra avsikten att upphöra 
+4. hur ett fondföretag ska offentliggöra avsikten att upphöra 
 med marknadsföringen av andelar i företaget enligt 1 kap. 9 § 
 första stycket 2,
 
-6. hur medel för distanskommunikation får användas när ett 
+5. hur medel för distanskommunikation får användas när ett 
 fondföretag som har upphört med marknadsföring i Sverige av 
 andelar i företaget ska tillhandahålla kvarvarande andelsägare 
 här i landet information enligt 1 kap. 9 a § första stycket,
 
-7. vilka poster som får räknas in i startkapitalet enligt 
+6. vilka poster som får räknas in i startkapitalet enligt 
 2 kap. 4 §,
 
-8. vilka poster som får räknas in i egna medel enligt 2 kap. 
+7. vilka poster som får räknas in i egna medel enligt 2 kap. 
 8-10 §§,
 
-9. på vilket språk underrättelsen enligt 2 kap. 15 c § första 
+8. på vilket språk underrättelsen enligt 2 kap. 15 c § första 
 stycket ska skrivas,
 
-10. hur fondbolaget ska offentliggöra handlingarna enligt 
+9. hur fondbolaget ska offentliggöra handlingarna enligt 
 2 kap. 15 c § fjärde stycket,
 
-11. vad ett fondbolag ska iaktta för att uppfylla 
-skyldigheterna i 2 kap. 17 § första stycket 1 och 2 och tredje 
-stycket, 17 c och 17 f §§,
+10. vad ett fondbolag ska göra för att uppfylla skyldigheterna 
+i 2 kap. 17 § första stycket 1 och 2 och tredje stycket, 17 c 
+och 17 f §§,
 
-12. vilka åtgärder ett fondbolag ska vidta för att uppfylla de 
+11. vilka åtgärder ett fondbolag ska vidta för att uppfylla de 
 krav som följer av 2 kap. 17 g §,
+
+12. hur uppgifter enligt 2 kap. 19 a § första stycket och 20 § 
+första stycket ska lämnas,
+
+13. vilken information som ska lämnas i underrättelsen till 
+andelsägare enligt 4 kap. 9 a § och på vilket sätt 
+underrättelsen ska lämnas,
+
+14. villkor som en andelsklass får vara förenad med enligt 
+4 kap. 10 § andra stycket 2 och under vilka förutsättningar en 
+andelsklass får vara förenad med ett visst villkor,
+
+15. tillhandahållande av informationsbroschyr och faktablad 
+enligt 4 kap. 20 §,
+
+16. på vilket språk informationen enligt 4 kap. 20 § ska 
+tillhandahållas,
+
+17. hur volatiliteten i skillnaden mellan fondens avkastning 
+och jämförelseindexets avkastning enligt 4 kap. 26 § ska 
+beräknas,
+
+18. hur informationen enligt 4 kap. 28 § ska presenteras,
+
+19. kriterier för de finansiella tillgångar som medel i en 
+värdepappersfond får placeras i enligt 5 kap. 1 § andra 
+stycket första meningen,
+
+20. vilka tekniker och instrument ett fondbolag får använda 
+enligt 5 kap. 1 § tredje stycket samt villkor och gränser för 
+sådan användning,
+
+21. det system för riskhantering ett fondbolag ska ha enligt 
+5 kap. 2 § första och andra styckena,
+
+22. utformningen och tillämpningen av de 
+likviditetshanteringsverktyg som avses i 5 kap. 2 a och 
+2 c §§,
+
+23. kriterier för indexfonder enligt 5 kap. 7 §,
+
+24. beräkning av exponeringar enligt 5 kap. 13 och 14 §§,
+
+25. på vilket sätt underrättelsen till andelsägarna enligt 
+5 a kap. 7 § ska lämnas,
+
+26. vilka fel och försummelser som ska rapporteras enligt 
+5 a kap. 18 §,
+
+27. förutsättningar för överföring av finansiella instrument 
+och förvaltning enligt 5 a kap. 37 och 46 §§,
+
+28. vilka åtgärder ett fondbolag ska vidta om det tar emot 
+medel med redovisningsskyldighet enligt 7 kap. 1 §,
+
+29. vilka åtgärder ett fondbolag ska vidta för att uppfylla de 
+krav som följer av bestämmelserna i 7 kap. 3 §,
+
+30. vad informationen enligt 8 kap. 8 § ska innehålla, hur den 
+ska utformas, på vilket sätt den ska tillhandahållas och vad 
+som ska bifogas informationen,
+
+31. på vilket språk de handlingar som ska lämnas tillsammans 
+med ansökan enligt 8 kap. 19 § ska upprättas,
+
+32. vilka upplysningar fondbolag, förvaltningsbolag, 
+fondföretag samt förvaringsinstitut ska lämna till 
+Finansinspektionen enligt 10 kap. 2 § första stycket och när 
+upplysningarna ska lämnas, och
+
+33. sådana avgifter som avses i 10 kap. 11 §.
+Lag (2026:908).
+
+1 § /Träder i kraft I:2028-01-10/
+/Upphör att gälla U:2030-01-10/
+Regeringen eller den myndighet som regeringen bestämmer 
+får meddela föreskrifter om 
+
+1. hur ett förvaltningsbolag eller fondföretag ska 
+tillhandahålla information om de uppgifter som avses i 1 kap. 
+6 c § första stycket och 8 § första stycket,
+
+2. på vilket språk ett förvaltningsbolag eller fondföretag ska 
+tillhandahålla funktionerna i 1 kap. 6 c § första stycket och 
+8 § första stycket,
+
+3. på vilket språk ett fondföretag ska tillhandahålla 
+information enligt 1 kap. 9 § första stycket 1 och 2 och 9 a § 
+första stycket,
+
+4. hur ett fondföretag ska offentliggöra avsikten att upphöra 
+med marknadsföringen av andelar i företaget enligt 1 kap. 9 § 
+första stycket 2,
+
+5. hur medel för distanskommunikation får användas när ett 
+fondföretag som har upphört med marknadsföring i Sverige av 
+andelar i företaget ska tillhandahålla kvarvarande andelsägare 
+här i landet information enligt 1 kap. 9 a § första stycket,
+
+6. vilka poster som får räknas in i startkapitalet enligt 
+2 kap. 4 §,
+
+7. vilka poster som får räknas in i egna medel enligt 2 kap. 
+8-10 §§,
+
+8. på vilket språk underrättelsen enligt 2 kap. 15 c § första 
+stycket ska skrivas,
+
+9. hur fondbolaget ska offentliggöra handlingarna enligt 
+2 kap. 15 c § fjärde stycket,
+
+10. vad ett fondbolag ska göra för att uppfylla skyldigheterna 
+i 2 kap. 17 § första stycket 1 och 2 och tredje stycket, 17 c 
+och 17 f §§,
+
+11. vilka åtgärder ett fondbolag ska vidta för att uppfylla de 
+krav som följer av 2 kap. 17 g §,
+
+12. hur uppgifter enligt 2 kap. 19 a § första stycket och 20 § 
+första stycket ska lämnas,
+
+13. vilken information som ska lämnas i underrättelsen till 
+andelsägare enligt 4 kap. 9 a § och på vilket sätt 
+underrättelsen ska lämnas,
+
+14. villkor som en andelsklass får vara förenad med enligt 
+4 kap. 10 § andra stycket 2 och under vilka förutsättningar en 
+andelsklass får vara förenad med ett visst villkor,
+
+15. tillhandahållande av informationsbroschyr och faktablad 
+enligt 4 kap. 20 §,
+
+16. på vilket språk informationen enligt 4 kap. 20 § ska 
+tillhandahållas,
+
+17. information som ska lämnas till Finansinspektionen enligt 
+4 kap. 21 §,
+
+18. hur volatiliteten i skillnaden mellan fondens avkastning 
+och jämförelseindexets avkastning enligt 4 kap. 26 § ska 
+beräknas,
+
+19. hur informationen enligt 4 kap. 28 § ska presenteras,
+
+20. kriterier för de finansiella tillgångar som medel i en 
+värdepappersfond får placeras i enligt 5 kap. 1 § andra 
+stycket första meningen,
+
+21. vilka tekniker och instrument ett fondbolag får använda 
+enligt 5 kap. 1 § tredje stycket samt villkor och gränser för 
+sådan användning,
+
+22. det system för riskhantering ett fondbolag ska ha enligt 
+5 kap. 2 § första och andra styckena,
+
+23. utformningen och tillämpningen av de 
+likviditetshanteringsverktyg som avses i 5 kap. 2 a och 
+2 c §§,
+
+24. kriterier för indexfonder enligt 5 kap. 7 §,
+
+25. beräkning av exponeringar enligt 5 kap. 13 och 14 §§,
+
+26. på vilket sätt underrättelsen till andelsägarna enligt 
+5 a kap. 7 § ska lämnas,
+
+27. vilka fel och försummelser som ska rapporteras enligt 
+5 a kap. 18 §,
+
+28. förutsättningar för överföring av finansiella instrument 
+och förvaltning enligt 5 a kap. 37 och 46 §§,
+
+29. vilka åtgärder ett fondbolag ska vidta om det tar emot 
+medel med redovisningsskyldighet enligt 7 kap. 1 §,
+
+30. vilka åtgärder ett fondbolag ska vidta för att uppfylla de 
+krav som följer av bestämmelserna i 7 kap. 3 §,
+
+31. vad informationen enligt 8 kap. 8 § ska innehålla, hur den 
+ska utformas, på vilket sätt den ska tillhandahållas och vad 
+som ska bifogas informationen,
+
+32. på vilket språk de handlingar som ska lämnas tillsammans 
+med ansökan enligt 8 kap. 19 § ska upprättas,
+
+33. vilka upplysningar fondbolag, förvaltningsbolag, 
+fondföretag samt förvaringsinstitut ska lämna till 
+Finansinspektionen enligt 10 kap. 2 § första stycket och när 
+upplysningarna ska lämnas, och
+
+34. sådana avgifter som avses i 10 kap. 11 §.
+Lag (2026:915).
+
+1 § /Träder i kraft I:2030-01-10/
+Regeringen eller den myndighet som regeringen bestämmer 
+får meddela föreskrifter om 
+
+1. hur ett förvaltningsbolag eller fondföretag ska 
+tillhandahålla information om de uppgifter som avses i 1 kap. 
+6 c § första stycket och 8 § första stycket,
+
+2. på vilket språk ett förvaltningsbolag eller fondföretag ska 
+tillhandahålla funktionerna i 1 kap. 6 c § första stycket och 
+8 § första stycket,
+
+3. på vilket språk ett fondföretag ska tillhandahålla 
+information enligt 1 kap. 9 § första stycket 1 och 2 och 9 a § 
+första stycket,
+
+4. hur ett fondföretag ska offentliggöra avsikten att upphöra 
+med marknadsföringen av andelar i företaget enligt 1 kap. 9 § 
+första stycket 2,
+
+5. hur medel för distanskommunikation får användas när ett 
+fondföretag som har upphört med marknadsföring i Sverige av 
+andelar i företaget ska tillhandahålla kvarvarande andelsägare 
+här i landet information enligt 1 kap. 9 a § första stycket,
+
+6. vilka poster som får räknas in i startkapitalet enligt 
+2 kap. 4 §,
+
+7. vilka poster som får räknas in i egna medel enligt 2 kap. 
+8-10 §§,
+
+8. på vilket språk underrättelsen enligt 2 kap. 15 c § första 
+stycket ska skrivas,
+
+9. hur fondbolaget ska offentliggöra handlingarna enligt 
+2 kap. 15 c § fjärde stycket,
+
+10. vad ett fondbolag ska göra för att uppfylla skyldigheterna 
+i 2 kap. 17 § första stycket 1 och 2 och tredje stycket, 17 c 
+och 17 f §§,
+
+11. vilka åtgärder ett fondbolag ska vidta för att uppfylla de 
+krav som följer av 2 kap. 17 g §,
+
+12. information som ska lämnas till Finansinspektionen enligt 
+2 kap. 17 k §,
 
 13. hur uppgifter enligt 2 kap. 19 a § första stycket och 20 § 
 första stycket ska lämnas,
@@ -4776,16 +5376,14 @@ underrättelsen ska lämnas,
 4 kap. 10 § andra stycket 2 och under vilka förutsättningar en 
 andelsklass får vara förenad med ett visst villkor,
 
-16. utformningen och tillämpningen av metoder för justerat 
-fondandelsvärde enligt 4 kap. 10 b § och vilka krav som ska 
-uppfyllas när ett justerat fondandelsvärde beräknas och 
-används,
-
-17. tillhandahållande av informationsbroschyr och faktablad 
+16. tillhandahållande av informationsbroschyr och faktablad 
 enligt 4 kap. 20 §,
 
-18. på vilket språk informationen enligt 4 kap. 20 § ska 
+17. på vilket språk informationen enligt 4 kap. 20 § ska 
 tillhandahållas,
+
+18. information som ska lämnas till Finansinspektionen enligt 
+4 kap. 21 §,
 
 19. hur volatiliteten i skillnaden mellan fondens avkastning 
 och jämförelseindexets avkastning enligt 4 kap. 26 § ska 
@@ -4804,36 +5402,43 @@ sådan användning,
 23. det system för riskhantering ett fondbolag ska ha enligt 
 5 kap. 2 § första och andra styckena,
 
-24. kriterier för indexfonder enligt 5 kap. 7 §,
+24. utformningen och tillämpningen av de 
+likviditetshanteringsverktyg som avses i 5 kap. 2 a och 
+2 c §§,
 
-25. beräkning av exponeringar enligt 5 kap. 13 och 14 §§,
+25. kriterier för indexfonder enligt 5 kap. 7 §,
 
-26. på vilket sätt underrättelsen till andelsägarna enligt 
+26. beräkning av exponeringar enligt 5 kap. 13 och 14 §§,
+
+27. på vilket sätt underrättelsen till andelsägarna enligt 
 5 a kap. 7 § ska lämnas,
 
-27. vilka fel och försummelser som ska rapporteras enligt 
+28. vilka fel och försummelser som ska rapporteras enligt 
 5 a kap. 18 §,
 
-28. förutsättningar för överföring av finansiella instrument 
+29. förutsättningar för överföring av finansiella instrument 
 och förvaltning enligt 5 a kap. 37 och 46 §§,
 
-29. vilka åtgärder ett fondbolag ska vidta för att uppfylla de 
+30. vilka åtgärder ett fondbolag ska vidta om det tar emot 
+medel med redovisningsskyldighet enligt 7 kap. 1 §,
+
+31. vilka åtgärder ett fondbolag ska vidta för att uppfylla de 
 krav som följer av bestämmelserna i 7 kap. 3 §,
 
-30. vad informationen enligt 8 kap. 8 § ska innehålla, hur den 
+32. vad informationen enligt 8 kap. 8 § ska innehålla, hur den 
 ska utformas, på vilket sätt den ska tillhandahållas och vad 
 som ska bifogas informationen,
 
-31. på vilket språk de handlingar som ska lämnas tillsammans 
+33. på vilket språk de handlingar som ska lämnas tillsammans 
 med ansökan enligt 8 kap. 19 § ska upprättas,
 
-32. vilka upplysningar fondbolag, förvaltningsbolag, 
+34. vilka upplysningar fondbolag, förvaltningsbolag, 
 fondföretag samt förvaringsinstitut ska lämna till 
 Finansinspektionen enligt 10 kap. 2 § första stycket och när 
 upplysningarna ska lämnas, och
 
-33. sådana avgifter som avses i 10 kap. 11 §.
-Lag (2025:175).
+35. sådana avgifter som avses i 10 kap. 11 §.
+Lag (2026:916).
 
 2 § Regeringen får meddela föreskrifter om handläggningen av
 tillståndsärenden enligt 11 kap. 1, 3 och 3 a §§.
@@ -5102,3 +5707,56 @@ bestämmelserna i 4 kap. 8 § andra stycket 7 i den nya lydelsen
 har getts in före den 31 december 2023, till dess att ansökan 
 har prövats slutligt eller till den senare tidpunkt som 
 Finansinspektionen bestämmer.
+
+2026:908
+
+1. Denna lag träder i kraft den 1 juli 2026. 
+
+2. Ett fondbolag eller ett förvaltningsbolag ska för varje 
+värdepappersfond som det vid utgången av juni 2026 förvaltar 
+ansöka om godkännande av ändring av fondbestämmelserna med 
+anledning av de likviditetshanteringsverktyg som har valts 
+enligt 5 kap. 2 a § första stycket och 2 b § och till 
+Finansinspektionen lämna in sina riktlinjer och förfaranden 
+för tillämpningen av dessa verktyg enligt 5 kap. 2 § tredje 
+stycket senast den 30 december 2026. 
+
+Finansinspektionen ska, med undantag från det som anges i 
+4 kap. 9 § fjärde stycket lagen (2004:46) om 
+värdepappersfonder, underrätta fondbolaget eller 
+förvaltningsbolaget om sitt beslut i enlighet med 4 kap. 9 § 
+första-tredje styckena samma lag med anledning av en ansökan 
+om godkännande av ändringar i fondbestämmelser enligt första 
+stycket inom sex månader från det att en fullständig ansökan 
+har lämnats in till inspektionen. Denna tidsfrist gäller även 
+om en ansökan avser andra ändringar i fondbestämmelserna än 
+bara val av likviditetshanteringsverktyg. Om ansökan avslås 
+får Finansinspektionen ge bolaget tillfälle att ge in en ny 
+ansökan inom skälig tid. För prövningen av en sådan ansökan 
+gäller det som anges i detta stycke.
+
+Ett fondbolag eller ett förvaltningsbolag som förvaltar en 
+värdepappersfond och som vid utgången av juni 2026 har 
+tillstånd att tillämpa ett justerat fondandelsvärde enligt 
+nuvarande 4 kap. 10 b § lagen om värdepappersfonder ska få 
+fortsätta att göra det till dess att en ansökan enligt första 
+eller andra stycket har prövats slutligt.
+
+3. Om en ansökan enligt punkt 2 bara avser val av 
+likviditetshanteringsverktyg, och nödvändiga följdändringar av 
+detta, får Finansinspektionen i enlighet med 4 kap. 9 a § 
+andra stycket första meningen lagen (2004:46) om 
+värdepappersfonder besluta att berörda fondandelsägare ska 
+underrättas om ändringarna genom information på fondbolagets 
+eller förvaltningsbolagets webbplats och genom kungörelse i 
+Post- och Inrikes Tidningar. För en sådan underrättelse gäller 
+övriga bestämmelser i 4 kap. 9 a och 9 b §§ samma lag.
+
+4. Ett fondbolag som vid utgången av juni 2026 har tillstånd 
+att ta emot medel med redovisningsskyldighet enligt nuvarande 
+1 kap. 4 § första stycket 2 ska i stället anses ha tillstånd 
+för detta enligt 7 kap. 1 § första stycket 3.
+
+5. Ett fondbolag som vid utgången av juni 2026 har tillstånd 
+att driva fondverksamhet ska senast den 30 december 2026 
+uppfylla de krav som anges i 2 kap. 1 § 5.
