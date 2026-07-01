@@ -26,11 +26,9 @@ anslutning till den lagen, om inte annat följer av denna lag
 eller föreskrifter som har meddelats i anslutning till lagen.
 Lag (2019:431).
 
-/Rubriken träder i kraft I:den dag som regeringen bestämmer/
 Användning av Ecris-TCN
 
-1 c § /Träder i kraft I:den dag som regeringen bestämmer/
-Det finns bestämmelser om användning av Ecris-TCN i 
+1 c § Det finns bestämmelser om användning av Ecris-TCN i 
 samband med en begäran om uppgifter ur belastningsregistret i 
 
 1. Europaparlamentets och rådets förordning (EU) 2019/816 av 
@@ -43,7 +41,7 @@ kriminalregister och om ändring av förordning (EU) 2018/1726,
 och 
 
 2. lagen (2022:733) med kompletterande bestämmelser till EU:s 
-förordning om Ecris-TCN. Lag (2022:735).
+förordning om Ecris-TCN. Lag (2022:735). 
 
 Ändamål
 
@@ -147,8 +145,8 @@ Svenska myndigheter
 det begärs av
 
 1. Riksdagens ombudsmän, Justitiekanslern, 
-Integritetsskyddsmyndigheten eller Säkerhets- och 
-integritetsskyddsnämnden för deras tillsynsverksamhet,
+Integritetsskyddsmyndigheten eller Myndigheten för säkerhet 
+och integritetsskydd för deras tillsynsverksamhet,
 
 2. Säkerhetspolisen, Skatteverket, Tullverket, 
 Kustbevakningen, en åklagarmyndighet eller allmän domstol för 
@@ -171,7 +169,7 @@ lag eller en gärning som någon har begått innan han eller hon
 har fyllt 15 år, får dock endast lämnas ut till dem som anges 
 i första stycket 1 och endast om uppgifterna behövs där för 
 tillsynen över Polismyndighetens personuppgiftsbehandling 
-enligt denna lag. Lag (2020:1111).
+enligt denna lag. Lag (2025:1467).
 
 7 § En myndighet som har rätt att få uppgifter ur registret
 skall i varje särskilt fall noga pröva behovet av information.
@@ -189,8 +187,8 @@ Enskilda
 av samtliga uppgifter ur registret om sig själv. Om sådana 
 uppgifter finns har den enskilde även rätt att få sådan 
 skriftlig information som anges i 4 kap. 3 § första stycket 1-
-8 brottsdatalagen (2018:1177). Uppgifterna ska på begäran läm-
-nas ut utan avgift en gång per kalenderår.
+8 brottsdatalagen (2018:1177). Uppgifterna ska på begäran 
+lämnas ut utan avgift en gång per kalenderår.
 
 En enskild som behöver ett registerutdrag om sig själv har 
 rätt att få ett begränsat utdrag ur registret
@@ -208,21 +206,28 @@ av personal vid vissa boenden som tar emot barn,
 
 5. enligt bestämmelser i lagen (2010:479) om registerkontroll 
 av personal som utför vissa insatser åt barn med 
-funktionshinder, eller
+funktionshinder,
 
 6. enligt bestämmelser i lagen (2013:852) om registerkontroll 
-av personer som ska arbeta med barn.
+av personer som ska arbeta med barn,
+
+7. enligt bestämmelser i lagen (2026:43) om registerkontroll 
+vid arbete i hemmet åt äldre personer eller vuxna personer med 
+funktionsnedsättning, eller
+
+8. enligt bestämmelser i lagen (2026:44) om registerkontroll 
+vid anställning till ledande befattningar i kommuner.
 
 Regeringen eller den myndighet som regeringen bestämmer får 
 meddela föreskrifter om vilka uppgifter ett sådant utdrag som 
 avses i andra stycket 1-3 ska innehålla.
 
 Regeringen får meddela föreskrifter om vilka uppgifter ett 
-sådant utdrag som avses i andra stycket 4-6 ska innehålla.
+sådant utdrag som avses i andra stycket 4-8 ska innehålla.
 
 En begäran om uppgifter ur registret ska vara skriftlig. 
 Polismyndigheten ska säkerställa att begäran görs av en 
-behörig person. Lag (2019:431).
+behörig person. Lag (2026:46).
 
 9 a § Regeringen får meddela föreskrifter om att 
 personuppgifter ur belastningsregistret ska lämnas ut om det 
@@ -292,21 +297,21 @@ begränsas.
 
 14 § Uppgifter om den som ett beslut om överflyttning gäller 
 ska lämnas till den stat som överflyttning har skett från 
-eller till
+eller till 
 
 1. om verkställighet av en annan påföljd än böter har 
 överförts från Danmark, Finland, Island eller Norge eller till 
 någon av dessa stater från Sverige,
 
-2. om en anteckning har gjorts gällande tillämpningen av 14 
-eller 21 § lagen (1963:193) om samarbete med Danmark, Finland, 
-Island och Norge angående verkställighet av straff m.m., och
+2. om en anteckning har gjorts som avser tillämpningen av 10 
+kap. 16 eller 18 § lagen (2026:786) om nordisk verkställighet 
+i brottmål, och
 
-3. om verkställighet av påföljd har överförts till Sverige 
-från en annan stat eller till någon annan stat härifrån enligt 
+3. om verkställighet av en påföljd har överförts till Sverige 
+från en annan stat eller till en annan stat härifrån enligt 
 lagen (1978:801) om internationellt samarbete rörande 
 kriminalvård i frihet eller lagen (2025:520) om internationell 
-verkställighet i brottmål. Lag (2025:524).
+verkställighet i brottmål. Lag (2026:790).
 
 Utlämnande myndighet
 
@@ -355,16 +360,16 @@ helt har befriats gallras tio år efter domen eller beslutet,
 18 § bötesverkställighetslagen (1979:189) gallras fem år efter 
 det att straffet föll bort,
 
-4. skyddstillsyn eller villkorlig dom gallras
+4. säkerhetsförvaring gallras tio år efter det att påföljden 
+är helt verkställd,
+
+5. skyddstillsyn eller villkorlig dom gallras 
 
 a) tio år efter domen eller beslutet, eller
 
 b) fem år efter domen eller beslutet, om uppgiften avser en 
 person som var under 18 år vid tidpunkten för brottet eller 
 brotten,
-
-5. sluten ungdomsvård gallras tio år efter det att påföljden 
-helt verkställts,
 
 6. ungdomsvård, ungdomstjänst eller ungdomsövervakning gallras
 
@@ -408,7 +413,7 @@ under 18 år vid tidpunkten för brottet,
 
 12. beslut om kontaktförbud enligt lagen (1988:688) om 
 kontaktförbud och förbud enligt 3 kap. 5 § lagen (2015:642) om 
-europeisk skyddsorder gallras tio år efter beslutet, 
+europeisk skyddsorder gallras tio år efter beslutet,
 
 13. beslut om tillträdesförbud enligt lagen (2005:321) om 
 tillträdesförbud vid idrottsarrangemang och lagen (2021:34) om 
@@ -421,7 +426,7 @@ preventiva vistelseförbud gallras
 a) tio år efter beslutet, eller
 
 b) fem år efter beslutet, om uppgiften avser en person som var 
-under 18 år vid tidpunkten för beslutet. Lag (2025:159).
+under 18 år vid tidpunkten för beslutet. Lag (2026:527).
 
 17 a § Utöver vad som följer av 16 och 17 §§ ska en uppgift 
 som har förts in i registret med stöd av 4 a § gallras så 
@@ -443,14 +448,14 @@ gälla om den nya anteckningen avser penningböter.
 
 En uppgift ska dock alltid gallras senast tjugo år efter den 
 dom eller det beslut som ledde till att uppgiften fördes in i 
-registret. I fråga om uppgift som avses i 17 § 1 eller 8 
+registret. I fråga om uppgift som avses i 17 § 1, 4 eller 8 
 gäller detta endast om de tidsfrister som anges där har gått 
 ut.
 
 Ska en uppgift som avses i 3, 4 eller 4 a § gallras enligt 
 denna paragraf, ska även sådana uppgifter som har antecknats i 
 anslutning till uppgiften gallras, om inte regeringen 
-föreskriver annat. Lag (2022:735).
+föreskriver annat. Lag (2026:527).
 
 Tystnadsplikt
 
@@ -543,3 +548,10 @@ registrerats före ikraftträdandet.
 
 Denna lag träder i kraft den 28 juni 2022 i fråga om 12 a, 
 17 a och 18 §§ och i övrigt den dag som regeringen bestämmer.
+
+2026:527
+
+1. Denna lag träder i kraft den 1 juli 2026.
+
+2. Äldre bestämmelser gäller för uppgifter om sluten 
+ungdomsvård.
