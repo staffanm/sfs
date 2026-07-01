@@ -43,18 +43,18 @@ Utredningsåtgärder som en europeisk utredningsorder ska avse
 eller motsvara
 
 4 § En utredningsåtgärd enligt denna lag ska avse eller 
-motsvara
+motsvara 
 
-1. förhör under förundersökning,
+1. förhör under förundersökning, 
 
-2. bevisupptagning vid domstol,
+2. bevisupptagning vid domstol, 
 
-3. förhör genom ljudöverföring eller ljud- och bildöverföring,
+3. förhör genom ljudöverföring eller ljud- och bildöverföring, 
 
 4. beslag, kvarhållande av försändelse enligt 27 kap. 9 § 
 rättegångsbalken, en åtgärd enligt 27 kap. 15 § eller ett 
 föreläggande att bevara en viss lagrad uppgift enligt 27 kap. 
-16 § samma balk,
+16 § samma balk, 
 
 5. husrannsakan och andra åtgärder enligt 28 kap. 
 rättegångsbalken, 
@@ -62,21 +62,24 @@ rättegångsbalken,
 6. hemlig avlyssning av elektronisk kommunikation, hemlig 
 övervakning av elektronisk kommunikation, hemlig 
 kameraövervakning, hemlig rumsavlyssning och hemlig 
-dataavläsning,
+dataavläsning, 
 
-7. tillfälligt överförande av en frihetsberövad person,
+7. tillfälligt överförande av en frihetsberövad person, 
 
-8. rättsmedicinsk undersökning av en avliden person,
+8. rättsmedicinsk undersökning av en avliden person, 
 
 9. kontrollerad leverans, 
 
 10. bistånd i en brottsutredning med användning av en 
 skyddsidentitet, 
 
-11. inhämtande av bevis som finns hos en myndighet, eller
+11. inhämtande av bevis som finns hos en myndighet, 
 
-12. andra åtgärder som inte innebär användning av tvångsmedel 
-eller någon annan tvångsåtgärd. Lag (2021:241).
+12. användning av AI-system för ansiktsigenkänning eller annan 
+biometrisk fjärridentifiering i realtid, eller 
+
+13. andra åtgärder som inte innebär användning av tvångsmedel 
+eller någon annan tvångsåtgärd. Lag (2026:813).
 
 Undantag från lagens tillämpningsområde
 
@@ -107,7 +110,8 @@ Allmänna bestämmelser
 Utfärdande av en utredningsorder
 
 1 § En utredningsorder får utfärdas av åklagare för en 
-utredningsåtgärd som avses i 1 kap. 4 § 1 och 3–12.
+utredningsåtgärd som avses i 1 kap. 4 § 1 och 3-13.
+Lag (2026:813).
 
 2 § En utredningsorder får utfärdas av domstol för en 
 utredningsåtgärd som avses i 1 kap. 4 § 2, 3 och 7.
@@ -125,8 +129,7 @@ de kostnader som kan antas uppkomma, framstår som nödvändig
 och proportionerlig med hänsyn till brottets art och 
 svårhetsgrad samt övriga omständigheter. 
 
-5 § /Upphör att gälla U:2023-10-01/
-Innan åklagaren utfärdar en utredningsorder ska åklagaren 
+5 § Innan åklagaren utfärdar en utredningsorder ska åklagaren 
 ansöka om domstolens tillstånd till att utfärda 
 utredningsordern, om utredningsåtgärden avser 
 
@@ -136,63 +139,31 @@ rättegångsbalken,
 2. hemlig avlyssning av elektronisk kommunikation, hemlig 
 övervakning av elektronisk kommunikation, hemlig 
 kameraövervakning, hemlig rumsavlyssning eller hemlig 
-dataavläsning, eller 
+dataavläsning, 
 
 3. rättsmedicinsk undersökning enligt 16 § lagen (1995:832) om 
-obduktion m.m. 
+obduktion m.m., eller 
 
-I avvaktan på domstolens beslut får åklagaren under de 
-förutsättningar som anges i 27 kap. 9 a och 21 a §§ 
-rättegångsbalken eller 17 § lagen (2020:62) om hemlig 
-dataavläsning utfärda en utredningsorder för kvar-hållande av 
-försändelse, hemlig avlyssning av elektronisk kommunikation, 
-hemlig övervakning av elektronisk kommunikation, hemlig 
-kameraövervakning eller hemlig dataavläsning. Åklagaren ska 
-utan dröjsmål anmäla till domstolen att en utredningsorder har 
-utfärdats.
-
-Innan en utredningsorder för husrannsakan, genomsökning på 
-distans, kroppsvisitation eller kroppsbesiktning utfärdas, får 
-åklagaren enligt 28 kap. 4 § första stycket, 10 d § andra 
-stycket och 13 § första stycket rättegångs-balken ansöka om 
-domstolens tillstånd till att utfärda utredningsordern.
-
-För domstolens handläggning gäller vad som är föreskrivet i 
-rättegångsbalken eller annan författning för den åtgärd som 
-avses. Lag (2022:326).
-
-5 § /Träder i kraft I:2023-10-01/
-Innan åklagaren utfärdar en utredningsorder ska åklagaren 
-ansöka om domstolens tillstånd till att utfärda 
-utredningsordern, om utredningsåtgärden avser 
-
-1. kvarhållande av försändelse enligt 27 kap. 9 § 
-rättegångsbalken, 
-
-2. hemlig avlyssning av elektronisk kommunikation, hemlig 
-övervakning av elektronisk kommunikation, hemlig 
-kameraövervakning, hemlig rumsavlyssning eller hemlig 
-dataavläsning, eller 
-
-3. rättsmedicinsk undersökning enligt 16 § lagen (1995:832) om 
-obduktion m.m.
+4. användning av AI-system enligt lagen (2026:806) om 
+användning av AI-system för ansiktsigenkänning i realtid för 
+brottsbekämpande ändamål. 
 
 I avvaktan på domstolens beslut får åklagaren under de 
 förutsättningar som anges i 27 kap. 9 a och 21 a §§ 
 rättegångsbalken eller 17 § lagen (2020:62) om hemlig 
 dataavläsning utfärda en utredningsorder för en åtgärd som 
 anges i första stycket 1 eller 2. Åklagaren ska utan dröjsmål 
-anmäla till domstolen att en utredningsorder har utfärdats.
+anmäla till domstolen att en utredningsorder har utfärdats. 
 
 Innan en utredningsorder för husrannsakan, genomsökning på 
 distans, kroppsvisitation eller kroppsbesiktning utfärdas, får 
 åklagaren enligt 28 kap. 4 § första stycket, 10 d § andra 
 stycket och 13 § första stycket rättegångsbalken ansöka om 
-domstolens tillstånd till att utfärda utredningsordern.
+domstolens tillstånd till att utfärda utredningsordern. 
 
 För domstolens handläggning gäller det som föreskrivs i 
 rättegångsbalken eller annan författning för den åtgärd som 
-avses. Lag (2023:539).
+avses. Lag (2026:813).
 
 Särskilda formkrav eller förfaranden
 
@@ -388,6 +359,24 @@ de fall där upptagningen eller uppteckningen görs i Sverige
 ska 28 § andra stycket lagen om hemlig dataavläsning 
 tillämpas. Lag (2020:67).
 
+Användning av AI-system för ansiktsigenkänning eller annan 
+biometrisk fjärridentifiering i realtid
+
+19 c § En utredningsorder för användning av AI-system för 
+ansiktsigenkänning eller annan biometrisk fjärridentifiering i 
+realtid i en annan medlemsstat får endast avse en åtgärd 
+enligt 4 § 1-4 lagen (2026:806) om användning av AI-system för 
+ansiktsigenkänning i realtid för brottsbekämpande ändamål.
+Lag (2026:813).
+
+19 d § Om en utredningsorder har utfärdats för användning av 
+AI-system för ansiktsigenkänning eller annan biometrisk 
+fjärridentifiering i realtid ska åklagare, om det inte längre 
+finns skäl för ett tillstånd att använda systemet, omedelbart 
+upphäva beslutet. Polismyndigheten eller Säkerhetspolisen ska 
+omedelbart underrätta åklagaren om omständigheter som har 
+betydelse för om beslutet ska hävas. Lag (2026:813).
+
 Återkallelse av en utredningsorder
 
 20 § Om den utredningsåtgärd som utredningsordern avser har 
@@ -440,12 +429,12 @@ förhållanden och omständigheterna i övrigt.
 
 Hemliga tvångsmedel och vissa andra åtgärder
 
-4 § En utredningsorder för en åtgärd som avses i 1 kap. 4 § 
-6, 9, 10 eller 11 får erkännas och verkställas endast om den 
+4 § En utredningsorder för en åtgärd som avses i 1 kap. 4 § 6, 
+9, 10, 11 eller 12 får erkännas och verkställas endast om den 
 gärning som avses i utredningsordern motsvarar ett brott 
-enligt svensk lag och om övriga förutsättningar som gäller 
-för en motsvarande åtgärd i en svensk förundersökning eller 
-rättegång i brottmål är uppfyllda.
+enligt svensk lag och om övriga förutsättningar som gäller för 
+en motsvarande åtgärd i en svensk förundersökning eller 
+rättegång i brottmål är uppfyllda. Lag (2026:813).
 
 Hinder mot erkännande och verkställighet
 
@@ -535,19 +524,7 @@ enligt 28 kap. 4 § första stycket, 10 d § andra stycket eller
 Första stycket gäller inte om åklagaren vägrar erkännande och 
 verkställighet av utredningsordern. Lag (2022:326).
 
-10 § /Upphör att gälla U:2023-10-01/
-I avvaktan på domstolens beslut enligt 9 § första stycket 
-får åklagaren, enligt de förutsättningar som anges i 27 kap. 
-9 a och 21 a §§ rättegångsbalken eller 17 § lagen (2020:62) om 
-hemlig dataavläsning, besluta att erkänna och verkställa en 
-utredningsorder för kvarhållande av försändelse enligt 27 kap. 
-9 § rättegångsbalken eller för hemlig avlyssning av elektro-
-nisk kommunikation, hemlig övervakning av elektronisk 
-kommunikation, hemlig kameraövervakning eller hemlig 
-dataavläsning. Lag (2020:67).
-
-10 § /Träder i kraft I:2023-10-01/
-I avvaktan på domstolens beslut enligt 9 § första stycket 
+10 § I avvaktan på domstolens beslut enligt 9 § första stycket 
 får åklagaren, enligt de förutsättningar som anges i 27 kap. 
 9 a och 21 a §§ rättegångsbalken eller 17 § lagen (2020:62) om 
 hemlig dataavläsning, besluta att erkänna och verkställa en 
@@ -880,6 +857,16 @@ stycket lagen om hemlig dataavläsning.
 I fråga om underrättelse till en enskild enligt 28 § andra 
 stycket lagen om hemlig dataavläsning ska bestämmelserna i 
 36 § andra stycket tillämpas. Lag (2020:67).
+
+Användning av AI-system för ansiktsigenkänning eller annan 
+biometrisk fjärridentifiering i realtid
+
+37 c § I fråga om underrättelse till en enskild enligt 17 och 
+18 §§ lagen (2026:806) om användning av AI-system för 
+ansiktsigenkänning i realtid för 
+
+brottsbekämpande ändamål ska bestämmelserna i 36 § andra 
+stycket tillämpas. Lag (2026:813).
 
 Överlämnande av bevismaterialet
 
