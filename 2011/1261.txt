@@ -91,6 +91,17 @@ utfärdas bara om den registrerade begär det.
 Första stycket gäller inte registrering enligt 7 kap. 2 b § 
 skatteförfarandelagen. Förordning (2024:474).
 
+4 § Skatteverket får meddela närmare föreskrifter om vilka 
+handlingar som ska godtas som pass, identitetskort eller 
+motsvarande handling enligt 7 kap. 8 § skatteförfarandelagen 
+(2011:1244) och om hur kontrollen enligt 7 kap. 7 och 8 §§ 
+samma lag ska genomföras. Förordning (2026:708).
+
+5 § Skyldigheten enligt 7 kap. 8 § skatteförfarandelagen 
+(2011:1244) att låta Skatteverket ta fingeravtryck gäller inte 
+personer som är permanent fysiskt förhindrade att lämna 
+fingeravtryck. Förordning (2026:708).
+
 3 kap. Preliminär skatt
 
 Godkännande för F-skatt
@@ -235,11 +246,11 @@ fondföretagets namn. Förordning (2013:600).
 
 ISIN-nummer
 
-7 § Skatteverket får meddela föreskrifter om att en
-kontrolluppgift enligt 17–21 kap. skatteförfarandelagen
-(2011:1244) ska innehålla uppgift om fordringsrättens eller
-delägarrättens ISIN-nummer (International Security
-Identification Number).
+7 § Skatteverket får meddela föreskrifter om att en 
+kontrolluppgift enligt 17-21 kap. skatteförfarandelagen 
+(2011:1244) ska innehålla uppgift om fordringsrättens, 
+värdepapprets eller delägarrättens ISIN-nummer (International 
+Security Identification Number). Förordning (2025:1392).
 
 Kontrolluppgift om rapporteringspliktiga konton med anledning 
 av automatiskt utbyte av upplysningar om finansiella konton
@@ -291,6 +302,186 @@ konstruktion			a) att ha en ställning som
 				juridiska konstruktionen.
 Förordning (2018:2041).
 
+8 a § När en kontrolluppgift enligt 22 b kap. 5 § 
+skatteförfarandelagen (2011:1244) ska innehålla uppgift om typ 
+av finansiellt konto, ska uppgift lämnas om att kontot är ett 
+
+1. inlåningskonto, 
+
+2. depåkonto, 
+
+3. försäkringsavtal med kontantvärde eller livränteavtal, 
+eller 
+
+4. en andel i eget kapital i en investeringsenhet.
+Förordning (2025:1392).
+
+8 b § När en kontrolluppgift enligt 22 b kap. 8 a § 
+skatteförfarandelagen (2011:1244) ska innehålla uppgift om på 
+vilket eller vilka sätt som den person som kontrolluppgiften 
+lämnas för innehar andel i eget kapital, ska uppgift lämnas om 
+sättet som personen kan inneha andel i eget kapital.
+
+En person kan inneha andel i eget kapital enligt första 
+stycket på följande sätt:
+
+1. När det gäller en juridisk konstruktion som är en trust, 
+genom att
+
+a) vara stiftare, 
+
+b) vara förvaltare eller, om förvaltaren är en juridisk 
+person, företrädare för förvaltaren, 
+
+c) vara beskyddare, 
+
+d) vara förmånstagare eller tillhöra förmånstagarkretsen, 
+eller 
+
+e) på annat sätt utöva den yttersta kontrollen över trusten, 
+
+2. När det gäller en annan juridisk konstruktion, genom att
+
+a) inneha en ställning som motsvarar att vara stiftare, 
+
+b) inneha en ställning som motsvarar att vara förvaltare, 
+
+c) inneha en ställning som motsvarar att vara beskyddare, 
+
+d inneha en ställning som motsvarar att vara förmånstagare 
+eller att tillhöra förmånstagarkretsen, eller 
+
+e) på annat sätt utöva den yttersta kontrollen över den 
+juridiska konstruktionen. Förordning (2025:1392).
+
+Kontrolluppgift med anledning av automatiskt utbyte av 
+upplysningar om rapporteringspliktiga kryptotillgångar
+
+8 c § När en kontrolluppgift enligt 22 d kap. 7 § 1 
+skatteförfarandelagen (2011:1244) ska innehålla uppgift om 
+fullständig benämning på kryptotillgången, ska den 
+rapporteringsskyldiga leverantören av kryptotillgångstjänster 
+lämna uppgift om digital token-identifikator (DTI) för krypto-
+tillgången. 
+
+Finns inte sådan digital token-identifikator tillgänglig ska 
+den rapporteringsskyldiga leverantören av 
+kryptotillgångstjänster i stället lämna uppgift om det 
+fullständiga namnet på typen av rapporteringspliktig 
+kryptotillgång. Förordning (2025:1392).
+
+8 d § När en kontrolluppgift enligt 22 d kap. 7 § 7 
+skatteförfarandelagen (2011:1244) ska innehålla uppgift om typ 
+av överföringar till rapporteringspliktiga användare, ska 
+uppgift avseende överföringar till den rapporteringspliktiga 
+användaren lämnas om dessa avser 
+
+1. airdrop, 
+
+2. inkomster från staking, 
+
+3. inkomster från mining, 
+
+4. lån, 
+
+5. överföring från annan rapporteringsskyldig leverantör av 
+kryptotillgångstjänster, 
+
+6. försäljning av varor eller tjänster, 
+
+7. säkerhet för lån, 
+
+8. övrigt, eller 
+
+9. okänt. Förordning (2025:1392).
+
+8 e § När en kontrolluppgift enligt 22 d kap. 7 § 8 
+skatteförfarandelagen (2011:1244) ska innehålla uppgift om typ 
+av överföringar från rapporteringspliktiga användare, ska 
+uppgift avseende överföringar gjorda av den 
+rapporteringspliktiga användaren lämnas om dessa avser 
+
+1. överföring till annan rapporteringsskyldig leverantör av 
+kryptotillgångstjänster, 
+
+2. lån, 
+
+3. köp av varor eller tjänster avseende andra transaktioner än 
+massbetalningstransaktioner, 
+
+4. säkerhet för lån, 
+
+5. övrigt, eller 
+
+6. okänt. Förordning (2025:1392).
+
+8 f § När en kontrolluppgift enligt 22 d kap. 12 § 
+skatteförfarandelagen (2011:1244) ska innehålla uppgift om på 
+vilket eller vilka sätt en rapporteringspliktig person utövar 
+bestämmande inflytande, ska uppgift lämnas om detta. 
+
+En person kan utöva bestämmande inflytande enligt första 
+stycket på följande sätt: 
+
+1. När det gäller en juridisk person, genom 
+
+a) aktieinnehav eller annan ägarandel, 
+
+b) anställning eller uppdrag hos eller för den juridiska 
+personen, eller 
+
+c) att på annat sätt utöva den yttersta kontrollen över den 
+juridiska personen, 
+
+2. När det gäller en juridisk konstruktion som är en trust, 
+genom att 
+
+a) vara stiftare, 
+
+b) vara förvaltare eller, om förvaltaren är en juridisk 
+person, företrädare för förvaltaren, 
+
+c) vara beskyddare, 
+
+d) vara förmånstagare eller tillhöra förmånstagarkretsen, 
+eller 
+
+e) på annat sätt utöva den yttersta kontrollen över trusten, 
+
+3. När det gäller en annan juridisk konstruktion, genom att
+
+a) inneha en ställning som motsvarar att vara stiftare,
+
+b) inneha en ställning som motsvarar att vara förvaltare, 
+
+c) inneha en ställning som motsvarar att vara beskyddare, 
+
+d) inneha en ställning som motsvarar att vara förmånstagare 
+eller att tillhöra förmånstagarkretsen, eller 
+
+e) på annat sätt utöva den yttersta kontrollen över den 
+juridiska konstruktionen. Förordning (2025:1392).
+
+8 g § Vid tillämpning av 22 d kap. 10 § andra stycket 
+skatteförfarandelagen (2011:1244) ska någon av följande 
+alternativa värderingsmetoder användas:
+
+1. bokfört värde,
+
+2. ett värde som kan antas vara rättvisande och som 
+tillhandahålls av tredje part eller webbplatser som anger det 
+genomsnittliga värdet från flera handelsplatser,
+
+3. den senaste värderingen av kryptotillgången som vidtagits 
+av den rapporteringsskyldiga leverantören av 
+kryptotillgångstjänster, eller 
+
+4. en rimlig uppskattning 
+
+Värderingen ska göras enligt den metod som är mest 
+tillförlitlig i enlighet med den ordning som följer av första 
+stycket. Förordning (2025:1392).
+
 Åtagande att lämna kontrolluppgift
 
 9 § Ett åtagande enligt 23 kap. 6 § skatteförfarandelagen
@@ -312,6 +503,25 @@ nummer, samt
 Åtagandet ska även innehålla identifikationsuppgifter för
 avtalet om pensionsförsäkring eller tjänstepension i form av
 försäkringsnummer eller motsvarande.
+
+9 a § Ett åtagande enligt 23 kap. 6 a § skatteförfarandelagen 
+(2011:1244) om att fullgöra skyldigheter och om att lämna 
+kontrolluppgifter om skogskonto, skogsskadekonto eller 
+naturvårdskonto ska innehålla följande 
+identifikationsuppgifter för kreditinstitutet och 
+kontohavaren:
+
+1. namn,
+
+2. personnummer, samordningsnummer, organisationsnummer eller 
+motsvarande registreringsnummer och motsvarande utländska 
+nummer, samt
+
+3. postadress.
+
+Åtagandet ska även innehålla identifikationsuppgifter för 
+kontot i form av kontonummer eller motsvarande.
+Förordning (2026:117).
 
 10 § Ett åtagande enligt 23 kap. 8 § skatteförfarandelagen 
 (2011:1244) om att lämna kontrolluppgifter enligt 17 och 
@@ -350,31 +560,50 @@ Förordning (2017:854).
 
 11 a § En kontrolluppgift enligt 22 a kap. 
 skatteförfarandelagen (2011:1244) ska även innehålla uppgift 
-om amerikanskt skatteregistreringsnummer eller motsvarande 
-för den som kontrolluppgiften lämnas för. Om amerikanskt 
-skatteregistreringsnummer eller motsvarande saknas, ska 
-kontrolluppgiften i stället innehålla uppgift om 
-födelsedatum. En sådan kontrolluppgift ska även innehålla 
-uppgift om det Global Intermediary Identification Number 
-(GIIN) som den uppgiftsskyldige fått vid registrering hos den 
-amerikanska federala skattemyndigheten.
+om amerikanskt skatteregistreringsnummer eller motsvarande för 
+den som kontrolluppgiften lämnas för. Om amerikanskt 
+skatteregistreringsnummer eller motsvarande saknas avseende 
+ett befintligt konto, ska kontrolluppgiften i stället 
+innehålla uppgift om födelsedatum. En sådan kontrolluppgift 
+ska även innehålla uppgift om det Global Intermediary 
+Identification Number (GIIN) som den uppgiftsskyldige fått vid 
+registrering hos den amerikanska federala skattemyndigheten.
+
+Om amerikanskt skatteregistreringsnummer eller motsvarande 
+enligt första stycket saknas, ska i kontrolluppgiften i 
+stället anges orsaken till avsaknad av sådant nummer.
 
 En kontrolluppgift enligt 22 b kap. skatteförfarandelagen ska 
 även innehålla uppgifter om utländskt 
 skatteregistreringsnummer eller motsvarande, födelsedatum och 
 födelseort för den som kontrolluppgiften lämnas för. Uppgift 
-om födelseort behöver bara lämnas om den uppgiften finns i 
-den kontrolluppgiftsskyldiges elektroniskt sökbara 
-databaser.
+om födelseort behöver bara lämnas om den uppgiften finns i den 
+kontrolluppgiftsskyldiges elektroniskt sökbara databaser.
 
 Skatteverket får meddela ytterligare föreskrifter om 
 inhämtande och lämnande av uppgifter om utländskt 
 skatteregistreringsnummer, födelseort och födelsedatum som 
 behövs för att fullgöra Sveriges åtaganden inom det 
-internationella utbytet av information.
-Förordning (2018:2041).
+internationella utbytet av information. Förordning (2025:1392).
 
-11 b § En kontrolluppgift enligt 15 kap., 16 kap. 1 § om 
+11 b § En underrättelse enligt 22 a kap. 4 a § eller 22 b kap. 
+4 a § skatteförfarandelagen (2011:1244) ska innehålla följande 
+identifikationsuppgifter för den uppgiftsskyldige: 
+
+1. namn, 
+
+2. organisationsnummer eller motsvarande registreringsnummer, 
+och 
+
+3. postadress. 
+
+En underrättelse enligt 22 a kap. 4 a § skatteförfarandelagen 
+ska även innehålla uppgift om det Global Intermediary 
+Identification Number (GIIN) som den uppgiftsskyldige fått vid 
+registrering hos den amerikanska federala skattemyndigheten.
+Förordning (2025:1392).
+
+11 c § En kontrolluppgift enligt 15 kap., 16 kap. 1 § om 
 ersättning som avses i 16 kap. 3 § 2, 17 och 19–21 kap. samt 
 22 kap. 2, 3, 9–11 §§ skatteförfarandelagen (2011:1244) ska 
 även innehålla uppgift om utländskt skatteregistreringsnummer 
@@ -388,7 +617,32 @@ skatteregistreringsnummer eller motsvarande för den som
 kontrolluppgiften lämnas för om denne är begränsat 
 skattskyldig. Om kontrolluppgiften avser intäkt i 
 inkomstslaget tjänst, ska den även innehålla uppgift om 
-medborgarskap. Förordning (2017:390).
+medborgarskap. Förordning (2025:1392).
+
+11 d § En kontrolluppgift enligt 16 kap. 4 § 3 och 4 
+skatteförfarandelagen (2011:1244) ska i fråga om skogskonto, 
+skogsskadekonto eller naturvårdskonto även innehålla 
+identifikationsuppgifter för:
+
+1. en mottagare vid en överföring, en överlåtelse eller ett 
+övertagande av medel, 
+
+2. ett mottagande kreditinstitut om medel har flyttats från 
+ett kreditinstitut till ett annat, och 
+
+3. de konton mellan vilka en överföring har skett.
+
+De uppgifter som ska lämnas enligt första stycket är 
+
+1. namn, 
+
+2. personnummer, samordningsnummer, organisationsnummer eller 
+motsvarande registreringsnummer och motsvarande utländska 
+nummer, 
+
+3. postadress, samt
+
+4. kontonummer eller motsvarande. Förordning (2026:117).
 
 12 § En kontrolluppgift enligt 22 kap. 9 och 11 §§ 
 skatteförfarandelagen (2011:1244) ska i stället för vad som 
@@ -504,9 +758,9 @@ rapporteringen avser. Förordning (2022:1695).
 12 e § En kontrolluppgift enligt 22 c kap. 
 skatteförfarandelagen (2011:1244) ska i stället för vad som 
 anges i 11 § innehålla följande identifikationsuppgifter för 
-den rapporteringspliktiga säljare som är en fysisk person:
+den rapporteringspliktiga säljare som är en fysisk person: 
 
-1. förnamn och efternamn, 
+1. förnamn och efternamn,
 
 2. primär adress,
 
@@ -516,30 +770,33 @@ eller, om skatteregistreringsnummer saknas, födelseort för
 säljaren,
 
 4. säljarens registreringsnummer för mervärdesskatt om sådant 
-finns tillgängligt, och 
+finns tillgängligt, och
 
 5. födelsedatum.
 
-I den utsträckning uppgifter som anges i första stycket 2-5 
-inte behöver inhämtas enligt 6 kap. 5 och 6 §§ lagen 
-(2022:1681) om plattformsoperatörers inhämtande av vissa 
-uppgifter på skatteområdet behöver de inte heller lämnas i 
-kontrolluppgiften. Om uppgifter inte behöver inhämtas enligt 
-6 kap. 5 § lagen om plattformsoperatörers inhämtande av vissa 
-uppgifter på skatteområdet ska den rapporteringsskyldiga 
-plattformsoperatören ange att den använt sig av en direkt 
-bekräftelse genom en sådan identifieringstjänst som avses i 
-samma paragraf, vilken stat eller jurisdiktion som 
-tillgängliggjort identifieringstjänsten och uppge vilken kod 
-eller vilket nummer som erhållits för bekräftelsen.
-Förordning (2022:1695).
+Om Skatteverket använder en identifieringstjänst som verket 
+eller en annan statlig myndighet tillgängliggör eller som 
+tillgängliggörs av Europeiska unionen och den 
+rapporteringsskyldiga plattformsoperatören använder sig av en 
+direkt bekräftelse av den rapporteringspliktiga säljarens 
+identitet genom denna identifieringstjänst för att fastställa 
+säljarens identitet och skatterättsliga hemvist, behöver dock 
+endast följande uppgifter lämnas:
+
+1. den rapporteringspliktiga säljarens förnamn och efternamn,
+
+2. identifieringstjänstens identifierare för den 
+rapporteringspliktiga säljaren, och
+
+3. vilken eller vilka jurisdiktioner som utfärdat 
+identifieringstjänsten. Förordning (2025:1392).
 
 12 f § En kontrolluppgift enligt 22 c kap. 
 skatteförfarandelagen (2011:1244) ska i stället för vad som 
 anges i 11 § innehålla följande identifikationsuppgifter för 
-den rapporteringspliktiga säljare som är en enhet:
+den rapporteringspliktiga säljare som är en enhet: 
 
-1. fullständigt officiellt namn, 
+1. fullständigt officiellt namn,
 
 2. primär adress,
 
@@ -552,19 +809,127 @@ finns tillgängligt, och
 5. utländskt bolagsregistreringsnummer samt typ av sådant 
 nummer.
 
-I den utsträckning uppgifter som anges i första stycket 2-5 
-inte behöver inhämtas enligt 6 kap. 5 och 6 §§ lagen 
-(2022:1681) om plattformsoperatörers inhämtande av vissa 
-uppgifter på skatteområdet behöver de inte heller lämnas i 
-kontrolluppgiften. Om uppgifter inte behöver inhämtas enligt 
-6 kap. 5 § lagen om plattformsoperatörers inhämtande av vissa 
-uppgifter på skatteområdet ska den rapporteringsskyldiga 
-plattformsoperatören ange att den använt sig av en direkt 
-bekräftelse genom en sådan identifieringstjänst som avses i 
-samma paragraf, vilken stat eller jurisdiktion som 
-tillgängliggjort identifieringstjänsten och uppge vilken kod 
-eller vilket nummer som erhållits för bekräftelsen.
-Förordning (2022:1695).
+Om Skatteverket använder en identifieringstjänst som verket 
+eller en annan statlig myndighet tillgängliggör eller som 
+tillgängliggörs av Europeiska unionen och den 
+rapporteringsskyldiga plattformsoperatören använder sig av en 
+direkt bekräftelse av den rapporteringspliktiga säljarens 
+identitet genom denna identifieringstjänst för att fastställa 
+säljarens identitet och samtliga skatterättsliga hemvister, 
+behöver dock endast följande uppgifter lämnas för den som 
+uppgiften avser:
+
+1. den rapporteringspliktiga säljarens fullständiga officiella 
+namn,
+
+2. identifieringstjänstens identifierare för den 
+rapporteringspliktiga säljaren, och
+
+3. vilken eller vilka jurisdiktioner som utfärdat 
+identifieringstjänsten. Förordning (2025:1392).
+
+12 g § En kontrolluppgift enligt 22 d kap. 
+skatteförfarandelagen (2011:1244) ska i stället för vad som 
+anges i 11 § innehålla följande identifikationsuppgifter för 
+alla rapporteringspliktiga användare 
+
+1. namn,
+
+2. adress,
+
+3. skatterättslig hemvist, 
+
+4. personnummer, samordningsnummer, organisationsnummer eller 
+motsvarande registreringsnummer och utländskt 
+skatteregistreringsnummer, och 
+
+5. när det gäller fysiska personer, födelsedatum och, om 
+uppgift om denna finns tillgänglig, födelseort.
+Förordning (2025:1392).
+
+12 h § När det gäller enheter som har en eller flera personer 
+med bestämmande inflytande som är rapporteringspliktiga 
+personer, ska en kontrolluppgift enligt 22 d kap. 
+skatteförfarandelagen (2011:1244) innehålla följande 
+identifikationsuppgifter för varje person med bestämmande 
+inflytande över enheten:
+
+1. namn, 
+
+2. adress,
+
+3. skatterättslig hemvist,
+
+4. personnummer eller samordningsnummer och utländskt 
+skatteregistreringsnummer, och
+
+5. födelsedatum och, om uppgift om denna finns tillgänglig, 
+födelseort. Förordning (2025:1392).
+
+12 i § Om Skatteverket använder en identifieringstjänst som 
+verket eller en annan statlig myndighet tillgängliggör eller 
+som tillgängliggörs av Europeiska unionen och den 
+rapporteringsskyldiga leverantören av kryptotillgångstjänster 
+använder sig av en direkt bekräftelse av den rapporterings-
+pliktiga personens identitet genom denna identifieringstjänst 
+för att fastställa personens identitet och skatterättsliga 
+hemvist, behöver, i stället för vad som anges i 12 g och 
+12 h §§, endast följande uppgifter lämnas för den som 
+uppgiften avser: 
+
+1. namn,
+
+2. identifieringstjänstens identifierare för den 
+rapporteringspliktiga personen, och
+
+3. vilken eller vilka jurisdiktioner som utfärdat 
+identifieringstjänsten. Förordning (2025:1392).
+
+12 j § Skatteregistreringsnummer behöver inte rapporteras 
+enligt 12 g och 12 h §§ för personer där hemviststaten inte 
+utfärdat ett sådant nummer eller den inhemska lagstiftningen i 
+den staten eller jurisdiktionen inte kräver att 
+skatteregistreringsnummer lämnas. Förordning (2025:1392).
+
+12 k § En kontrolluppgift enligt 22 d kap. 
+skatteförfarandelagen (2011:1244) ska i stället för vad som 
+anges i 11 § innehålla följande identifikationsuppgifter för 
+den rapporteringsskyldiga leverantören av kryptotill-
+gångstjänster 
+
+1. namn,
+
+2. adress,
+
+3. personnummer, samordningsnummer, organisationsnummer eller 
+motsvarande registreringsnummer och utländskt 
+skatteregistreringsnummer, 
+
+4. om det finns tillgängligt,
+
+a) unikt identifieringsnummer, och 
+
+b) den globala identifieringskoden för juridiska personer.
+Förordning (2025:1392).
+
+12 l § En underrättelse enligt 22 d kap. 6 § 
+skatteförfarandelagen (2011:1244) ska innehålla följande 
+identifikationsuppgifter för den som lämnar underrättelsen: 
+
+1. namn,
+
+2. adress,
+
+3. personnummer, samordningsnummer, organisationsnummer eller 
+motsvarande registreringsnummer och utländskt 
+skatteregistreringsnummer, 
+
+4. om det finns tillgängligt,
+
+a) unikt identifieringsnummer, och 
+
+b) den globala identifieringskoden för juridiska personer.
+Förordning (2025:1392).
 
 13 § Skatteverket får meddela föreskrifter om eller i 
 enskilda fall besluta att en viss identifikationsuppgift inte 
@@ -770,35 +1135,7 @@ Inkomstdeklaration
 
 Underrättelse till fysiska personer och dödsbon
 
-6 § /Upphör att gälla U:2026-01-01/
-En underrättelse enligt 31 kap. 4 § skatteförfarandelagen 
-(2011:1244) ska innehålla
-
-1. sådana identifikationsuppgifter som anges i 7 §,
-
-2. uppgifter om intäkter i inkomstslaget tjänst samt intäkter 
-och kostnader i inkomstslaget kapital,
-
-3. uppgifter om avdrag för avgift för pensionsförsäkring och 
-för inbetalning på pensionssparkonto,
-
-4. uppgifter som behövs för beräkning av fastighetsskatt 
-enligt lagen (1984:1052) om statlig fastighetsskatt,
-
-5. uppgift om underlag för skattereduktion för hushållsarbete, 
-gåva, mikroproduktion av förnybar el och avgift till 
-arbetslöshetskassa enligt 67 kap. inkomstskattelagen 
-(1999:1229), och
-
-6. uppgifter som behövs för beräkning av fastighetsavgift 
-enligt lagen (2007:1398) om kommunal fastighetsavgift.
-
-Underrättelsen ska ske genom att uppgifterna anges i det 
-fastställda formuläret för inkomstdeklarationen.
-Förordning (2022:447).
-
-6 § /Träder i kraft I:2026-01-01/
-En underrättelse enligt 31 kap. 4 § skatteförfarandelagen 
+6 § En underrättelse enligt 31 kap. 4 § skatteförfarandelagen 
 (2011:1244) ska innehålla
 
 1. sådana identifikationsuppgifter som anges i 7 §,
@@ -938,6 +1275,7 @@ samt hur vinsten för samma år har disponerats.
 skadeförsäkringsverksamhet i Sverige ska, i stället för vad
 som anges i 9–12 §§, tillsammans med inkomstdeklarationen ge
 in sitt årsbokslut.
+
 14 § I inkomstdeklarationen ska uppgifter om sådana
 pensionsutfästelser som är tryggade med avdragsrätt lämnas av
 den som
@@ -970,6 +1308,59 @@ Betalning till utlandet
 16 § En uppgift om utgift enligt 31 kap. 31 §
 skatteförfarandelagen (2011:1244) ska avse ersättningarnas
 sammanlagda belopp för varje land.
+
+Stöd av mindre betydelse
+
+16 a § Den som i sin inkomstdeklaration ska lämna uppgifter 
+enligt 31 kap. 26 eller 33 c § skatteförfarandelagen 
+(2011:1244) ska lämna följande uppgifter
+
+1. identifikationsuppgifter för företag som ingår i samma 
+enhet som den uppgiftsskyldige,
+
+2. annat stöd som har beviljats den uppgiftsskyldige, och 
+företag som ingår i samma i enhet som den uppgiftsskyldige, 
+under beskattningsåret och de två föregående beskattningsåren 
+och som anses vara sådant stöd av mindre betydelse som avses i
+
+- kommissionens förordning (EU) nr 1407/2013 av den 
+18 december 2013 om tillämpningen av artiklarna 107 och 108 i 
+fördraget om Europeiska unionens funktionssätt på stöd av 
+mindre betydelse, eller
+
+- kommissionens förordning (EU) nr 717/2014 av den 
+27 juni 2014 om tillämpningen av artiklarna 107 och 108 i 
+fördraget om Europeiska unionens funktionssätt på stöd av 
+mindre betydelse inom fiskeri- och vattenbrukssektorn,
+
+3. annat stöd som har beviljats den uppgiftsskyldige, och 
+företag som ingår i samma enhet som den uppgiftsskyldige, 
+under de tre senaste åren och som anses vara sådant stöd av 
+mindre betydelse som avses i
+
+- kommissionens förordning (EU) nr 1408/2013 av den 
+18 december 2013 om tillämpningen av artiklarna 107 och 108 i 
+fördraget om Europeiska unionens funktionssätt på stöd av 
+mindre betydelse inom jordbrukssektorn, eller
+
+- kommissionens förordning (EU) nr 2023/2831 av den 
+13 december 2023 om tillämpningen av artiklarna 107 och 108 i 
+fördraget om Europeiska unionens funktionssätt på stöd av 
+mindre betydelse,
+
+4. de övriga uppgifter Skatteverket behöver för att kunna 
+bedöma begäran, och
+
+5. verksamhetsområde, som anges på Nace-gruppnivå, enligt 
+bilaga 1 till Europaparlamentets och rådets förordning (EG) 
+nr 1893/2006 av den 20 december 2006 om fastställande av den 
+statistiska näringsgrensindelningen Nace rev. 2 och om ändring 
+av rådets förordning (EEG) nr 3037/90.
+
+Med företag som ingår i samma enhet som den uppgiftsskyldige 
+avses ett enda företag enligt Europeiska kommissionens 
+förordningar om stöd av mindre betydelse som anges i första 
+stycket 2 och 3. Förordning (2025:1343).
 
 Bemyndigande
 
@@ -1087,27 +1478,28 @@ för koncernenheterna i den staten. Förordning (2024:474).
 
 Undantag från reglerna under fem år
 
-4 § Om undantaget enligt 6 kap. 16 eller 17 § lagen (2023:875) 
-om tilläggsskatt är tillämpligt ska tilläggsskatterapporten 
-inte innehålla de uppgifter som är nödvändiga för att beräkna 
-den effektiva skattesatsen, tilläggsskattebeloppet och 
-fördelning av tilläggsskatt. 
+4 § Om undantaget enligt 6 kap. 16, 16 a, 16 b, 16 c eller 
+17 § lagen (2023:875) om tilläggsskatt är tillämpligt ska 
+tilläggsskatterapporten inte innehålla de uppgifter som är 
+nödvändiga för att beräkna den effektiva skattesatsen, 
+tilläggsskattebeloppet och fördelning av tilläggsskatt.
 
 För koncerner med koncernenheter i två eller flera stater ska 
-tilläggskatterapporten i stället innehålla följande uppgifter:
+tilläggsskatterapporten i stället innehålla följande 
+uppgifter:
 
 1. referensstat,
 
-2. antal stater som koncernen har koncernenheter i, och 
+2. antal stater som koncernen har koncernenheter i, och
 
 3. det bokförda nettovärdet av materiella tillgångar för 
-koncernenheterna i respektive stat. 
+koncernenheterna i respektive stat.
 
 För koncerner med samtliga koncernenheter i Sverige ska den 
 rapporterande enheten till Skatteverket lämna uppgift om det 
 första beskattningsår som koncernen omfattas av lagen om 
 tilläggsskatt. Uppgiften ska lämnas samtidigt som 
-tilläggsskatterapporten ges in. Förordning (2024:474).
+tilläggsskatterapporten ges in. Förordning (2026:307).
 
 Val av en tillfällig förenklingsregel
 
@@ -1238,13 +1630,13 @@ medlemsstat i Europeiska unionen. Förordning (2020:563).
 
 Informationsuppgifter
 
-3 § Identifikationsuppgifter enligt 5 kap. 11, 11 a, 11 b 
-eller 12 § måste alltid lämnas i sådan informationsuppgift 
-som avses i 34 kap. 3 § skatteförfarandelagen (2011:1244). 
-Detta gäller även om Skatteverket enligt 5 kap. 13 § har 
-meddelat föreskrifter om eller i enskilda fall beslutat att 
-en viss identifikationsuppgift inte behöver lämnas i en 
-kontrolluppgift. Förordning (2017:390).
+3 § Identifikationsuppgifter enligt 5 kap. 11, 11 a, 11 c 
+eller 12 § måste alltid lämnas i sådan informationsuppgift som 
+avses i 34 kap. 3 § skatteförfarandelagen (2011:1244). Detta 
+gäller även om Skatteverket enligt 5 kap. 13 § har meddelat 
+föreskrifter om eller i enskilda fall beslutat att en viss 
+identifikationsuppgift inte behöver lämnas i en 
+kontrolluppgift. Förordning (2025:1392).
 
 3 a § Identifikationsuppgifter enligt 6 kap. 1 eller 2 § 
 måste alltid lämnas i sådan informationsuppgift som avses i 
@@ -1315,7 +1707,7 @@ Betaltjänstleverantörer
 1 a § Sådana uppgifter som avses i 39 kap. 3 c § 
 skatteförfarandelagen (2011:1244) ska bevaras under tre år 
 efter utgången av det kalenderår då betalningen genomfördes.
-Lag (2023:641).
+Förordning (2023:641).
 
 Kassaregister
 
@@ -1927,6 +2319,25 @@ Skatteverket får meddela ytterligare föreskrifter om
 underrättelse av beslut om slutlig skatt i beskedet om 
 slutlig skatt. Förordning (2017:390).
 
+Beslut och besked om tilläggsskatt
+
+8 a § Ett besked om tilläggsskatt enligt 56 a kap. 7 § 
+skatteförfarandelagen (2011:1244) ska innehålla
+
+1. uppgift om fördelning av kompletterande tilläggsskatt 
+mellan svenska koncernenheter och nationell tilläggsskatt, och 
+
+2. storleken på de skatter som anges i 56 a kap. 3 § 
+skatteförfarandelagen. Förordning (2026:307).
+
+8 b § Om Skatteverket i ett beslut om tilläggsskatt har 
+avvikit från lämnade uppgifter i en tilläggsskattedeklaration, 
+får den som beslutet gäller underrättas om beslutet i beskedet 
+om tilläggsskatt om avvikelsen leder till lägre beskattning 
+och avser uppenbar felräkning eller uppenbart felaktig 
+överföring av belopp i tilläggsskattedeklarationen.
+Förordning (2026:307).
+
 Beslut om säkerhet för slutlig skatt för skalbolag
 
 9 § Om Skatteverket enligt 58 kap. 1 § skatteförfarandelagen
@@ -2036,25 +2447,29 @@ enligt 64 kap. 2 § första stycket 2 a skatteförfarandelagen
 (2011:1244), ska beloppet betalas tillbaka senast den dag som
 besked om slutlig skatt ska skickas till kontohavaren.
 
-7 § Om överskjutande ingående mervärdesskatt eller
+7 § Om överskjutande ingående mervärdesskatt eller 
 överskjutande punktskatt ska betalas tillbaka enligt 64 kap. 
-2 § första stycket 2 b eller c skatteförfarandelagen
-(2011:1244), ska beloppet betalas tillbaka senast vid utgången
-av kalendermånaden efter den kalendermånad då
-skattedeklaration senast ska lämnas för aktuell
-redovisningsperiod. Om skattedeklarationen lämnas senare, ska
-återbetalningen göras senast vid utgången av kalendermånaden
+2 § första stycket 2 b eller c skatteförfarandelagen 
+(2011:1244), ska beloppet betalas tillbaka senast vid utgången 
+av kalendermånaden efter den kalendermånad då 
+skattedeklaration senast ska lämnas för aktuell 
+redovisningsperiod. Om skattedeklarationen lämnas senare, ska 
+återbetalningen göras senast vid utgången av kalendermånaden 
 efter den då deklarationen lämnades.
 
-Om skattedeklarationen behöver kontrolleras, får Skatteverket
-besluta att återbetalningen ska skjutas upp. Ett sådant beslut
-får inte meddelas efter utgången av den tid för återbetalning
+Om skattedeklarationen behöver kontrolleras, får Skatteverket 
+besluta att återbetalningen ska skjutas upp. Ett sådant beslut 
+får inte meddelas efter utgången av den tid för återbetalning 
 som anges i första stycket.
 
-Ett beslut om att skjuta upp en återbetalning för kontroll
-förfaller om Skatteverket inte beslutar om föreläggande eller
-revision inom en månad från dagen för beslutet om att skjuta
-upp återbetalningen.
+Ett beslut om att skjuta upp en återbetalning för kontroll 
+upphör att gälla om Skatteverket inte beslutar om föreläggande 
+eller revision inom en månad från dagen för beslutet om att 
+skjuta upp återbetalningen. Beslutet upphör även helt eller 
+delvis att gälla om Skatteverket fattar ett beslut om att 
+överskjutande ingående mervärdesskatt inte ska tillgodoräknas 
+enligt 63 a kap. 1 § skatteförfarandelagen. 
+Förordning (2026:708).
 
 8 § Belopp som ska betalas tillbaka ska administreras av 
 Utbetalningsmyndigheten enligt förordningen (2023:462) om 
@@ -2104,19 +2519,25 @@ förvaltningsdomstol och Skatterättsnämnden.
 
 Bevissäkring
 
-1 § Den som ett beslut om bevissäkring gäller och den som i
-övrigt berörs av verkställigheten ska få ett bevis över
-verkställigheten. Beviset ska utfärdas av den som har
+1 § Den som ett beslut om bevissäkring gäller och den som i 
+övrigt berörs av verkställigheten ska få ett bevis över 
+verkställigheten. Beviset ska utfärdas av den som har 
 verkställt bevissäkringen och innehålla följande uppgifter:
 
 1. när och var beslutet verkställdes,
 
 2. vilka som var närvarande,
 
-3. annat av betydelse som har förekommit vid verkställigheten,
+3. annat av betydelse som har förekommit vid verkställigheten, 
 och
 
 4. en förteckning över det som har tagits om hand.
+
+I fråga om beslut om bevissäkring på distans ska beviset i 
+stället för vad som föreskrivs i första stycket 1 innehålla 
+uppgift om vilket avläsningsbart informationssystem som 
+verkställigheten avsåg samt när och varifrån beslutet 
+verkställdes. Förordning (2026:348).
 
 Betalningssäkring
 
@@ -2224,19 +2645,19 @@ bortse från en uppgift som har lämnats om en
 betalningsmottagare i en sådan arbetsgivardeklaration eller 
 förenklad arbetsgivardeklaration som avses i 26 kap. 
 skatteförfarandelagen (2011:1244), får Skatteverket markera 
-detta genom en särskild anteckning i anslutning till uppgiften 
-i den databas som avses i 2 kap. 1 § lagen (2001:181) om 
-behandling av uppgifter i Skatteverkets 
-beskattningsverksamhet. Förordning (2024:399).
+detta genom en särskild anteckning i anslutning till 
+uppgiften.
+
+En särskild anteckning enligt första stycket ska tas bort om 
+Skatteverket inte längre bortser från uppgiften som har 
+lämnats om betalningsmottagaren. Förordning (2026:185).
 
 11 § Om Skatteverket i ett beslut har haft anledning att göra 
 en bedömning som avviker från en uppgift som har lämnats av en 
 upplagshavare enligt 5 a § eller 6 § första stycket 3 
 förordningen (2022:183) om alkoholskatt, får Skatteverket 
 markera detta genom en särskild anteckning i anslutning till 
-uppgiften i den databas som avses i 2 kap. 1 § lagen 
-(2001:181) om behandling av uppgifter i Skatteverkets 
-beskattningsverksamhet. Förordning (2025:107).
+uppgiften. Förordning (2026:185).
 
 18 kap. Skatteverkets skyldigheter mot kommuner, regioner,
 myndigheter och andra menigheter
@@ -2317,7 +2738,7 @@ snart det finns anledning att anta att någon har gjort sig
 skyldig till
 
 1. brott enligt 30 kap. 1 § första stycket 4 aktiebolagslagen 
-(2005:551),
+(2005:551), 
 
 2. brott enligt 11 § tredje stycket lagen (1967:531) om 
 tryggande av pensionsutfästelse m.m.,
@@ -2337,12 +2758,10 @@ teknik,
 
 6. brott enligt 4 kap. 6 b §, 14 kap. 1-4 och 10 §§ eller 
 15 kap. 10-13 §§ brottsbalken, om gärningen avser uppgift 
-eller handling i ärende hos Skatteverket, 
+eller handling i ärende hos Skatteverket, eller
 
 7. brott enligt lagen (2014:307) om straff för 
-penningtvättsbrott, eller
-
-8. brott enligt lagen (2020:548) om omställningsstöd.
+penningtvättsbrott.
 
 En anmälan ska dock inte göras om det kan antas att brottet 
 inte kommer att medföra påföljd eller om anmälan av något 
@@ -2361,7 +2780,7 @@ till en annan påföljd än böter,
 2. den misstänkte kan antas erkänna gärningen, och
 
 3. den misstänkte har fyllt tjugoett år.
-Förordning (2021:95).
+Förordning (2025:1273).
 
 8 a § I fråga om en felaktighet eller passivitet som ligger
 till grund för ett beslut om skattetillägg ska Skatteverket
@@ -2455,7 +2874,7 @@ Förordning (2015:908).
 20 kap. Uppgifter och handlingar hos Skatteverket och andra
 myndigheter
 
-Förvaring och gallring
+Förvaring
 
 1 § Deklarationer och övriga uppgifter som har lämnats till 
 Skatteverket enligt skatteförfarandelagen (2011:1244) ska 
@@ -2466,31 +2885,9 @@ upprättats eller som har tagits om hand för granskning av
 Skatteverket vid tillämpning av skatteförfarandelagen.
 Förordning (2017:192).
 
-2 § Uppgifter och handlingar som avses i 1 § ska gallras sju 
-år eller, i fråga om uppgifter och handlingar som avser ett 
-aktiebolag, en ekonomisk förening eller en koncernenhet, elva 
-år efter utgången av det kalenderår då beskattningsåret har 
-gått ut.
+2 § Har upphävts genom förordning (2026:185).
 
-Uppgifter och handlingar som avser revision enligt 41 kap. 2 § 
-första stycket 6 eller 7 skatteförfarandelagen (2011:1244) 
-samt tillsyn eller kontrollbesök enligt 42 kap. 
-skatteförfarandelagen ska dock gallras tre år efter utgången 
-av det kalenderår då beslutet om revision, tillsyn eller 
-kontrollbesök meddelades.
-
-Uppgifter och handlingar ska dock inte gallras om de avser ett 
-aktiebolag eller en ekonomisk förening vars styrelse hade sitt 
-säte eller, om sådant saknas, vars förvaltning utövades i 
-Göteborgs kommun eller en kommun som ligger i Östergötlands, 
-Gotlands eller Västernorrlands län den 1 november året före 
-det år då beslut om slutlig skatt enligt 56 kap. 2 § 
-skatteförfarandelagen fattades. Förordning (2024:474).
-
-3 § Uppgifter och handlingar som avser revision enligt 41 kap.
-2 § första stycket 1–5 skatteförfarandelagen (2011:1244) får
-bevaras under längre tid än vad som följer av 2 § om det
-behövs med hänsyn till omständigheterna.
+3 § Har upphävts genom förordning (2026:185).
 
 Granskning av vissa tjänstemän
 
@@ -2550,18 +2947,22 @@ att öretal faller bort.
 
 2 § Uppgifter om belopp som ska lämnas enligt 
 skatteförfarandelagen (2011:1244) och denna förordning ska, om 
-inte annat föreskrivs, anges i svenska kronor.
+inte annat föreskrivs, anges i svenska kronor. 
 
 Uppgifter om belopp som ska lämnas i en tilläggsskatterapport 
-eller tilläggsskattedeklaration ska dock anges i den valuta 
-som beräkningarna enligt lagen (2023:875) om tilläggsskatt ska 
-göras. Förordning (2024:474).
+ska dock anges i den valuta som beräkningarna enligt lagen 
+(2023:875) om tilläggsskatt ska göras. Förordning (2026:307).
 
-3 § Skatteverket ska fastställa formulär enligt
+3 § Skatteverket ska fastställa formulär enligt 
 skatteförfarandelagen (2011:1244) och denna förordning.
 
-Skatteverket ska tillhandahålla fastställda formulär
+Skatteverket ska tillhandahålla fastställda formulär 
 kostnadsfritt.
+
+Skatteverket får fastställa formulär på engelska som avser 
+uppgifter som kan bli föremål för automatiskt utbyte med 
+behörig myndighet i annan stat eller jurisdiktion.
+Förordning (2026:307).
 
 4 § Skatteverket får meddela ytterligare föreskrifter om
 verkställigheten av skatteförfarandelagen (2011:1244) och
@@ -2911,3 +3312,10 @@ inte för beskattningsår som avslutas efter den 30 juni 2030.
 
 2. Äldre bestämmelser gäller fortfarande för uppgifter som 
 avser kalenderåret 2025.
+
+2025:1273
+
+1. Denna förordning träder i kraft den 1 januari 2026.
+
+2. Äldre bestämmelser gäller fortfarande i fråga om brott som 
+har begåtts före ikraftträdandet.
