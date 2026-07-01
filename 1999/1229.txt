@@ -129,22 +129,7 @@ grundavdrag i 63 kap. och om sjöinkomstavdrag i 64 kap. Lag
 
 Skattens beräkning och skattereduktion
 
-11 § /Upphör att gälla U:2026-01-01/
-Bestämmelser om hur skatten ska beräknas finns i 65 kap. 
-
-Bestämmelser om beräkning av skatt på ackumulerad inkomst 
-finns i 66 kap.
-
-Bestämmelser om skattereduktion för underskott av kapital, 
-arbetsinkomst (jobbskatteavdrag), sjukersättning och 
-aktivitetsersättning, förvärvsinkomst, boende i vissa områden 
-(regional skattereduktion), allmän pensionsavgift, sjöinkomst, 
-hushållsarbete, installation av grön teknik, gåva, 
-mikroproduktion av förnybar el och avgift till 
-arbetslöshetskassa finns i 67 kap. Lag (2022:445).
-
-11 § /Träder i kraft I:2026-01-01/
-Bestämmelser om hur skatten ska beräknas finns i 65 kap.
+11 § Bestämmelser om hur skatten ska beräknas finns i 65 kap.
 
 Bestämmelser om beräkning av skatt på ackumulerad inkomst 
 finns i 66 kap.
@@ -1000,6 +985,13 @@ tjänstemän och de andra personer som artikeln enligt
 protokollet ska tillämpas på, ska anses bosatta.
 Lag (2011:293).
 
+6 a § /Träder i kraft I:2026-07-03/
+Den som är obegränsat skattskyldig och avtjänar ett 
+fängelsestraff utomlands enligt lagen (2026:983) om tillfällig 
+verkställighet av svenska fängelsestraff utomlands ska 
+fortsätta att vara obegränsat skattskyldig under 
+verkställigheten. Lag (2026:987).
+
 7 § För att avgöra om en person som tidigare har varit bosatt i
 Sverige har väsentlig anknytning hit ska följande beaktas:
 
@@ -1173,7 +1165,8 @@ näringsverksamhet eller kapital för återförda avdrag för
 ersättningsfond,
 
 7. inkomstslaget näringsverksamhet för uttag eller utbetalning 
-från ett skogskonto eller skogsskadekonto som avses i 21 kap.,
+från ett skogskonto, skogsskadekonto eller naturvårdskonto som 
+avses i 21 kap.,
 
 8. inkomstslaget kapital för ett positivt 
 räntefördelningsbelopp som avser ett fast driftställe, en 
@@ -1192,10 +1185,12 @@ i Sverige,
 47 kap.,
 
 12. inkomstslaget näringsverksamhet eller kapital för 
-utdelning på andelar i svenska ekonomiska föreningar, och
+utdelning på andelar i svenska ekonomiska föreningar,
 
 13. inkomstslaget kapital för återfört investeraravdrag enligt 
-43 kap.
+43 kap., och
+
+14. inkomstslaget näringsverksamhet för återförda skogsavdrag.
 
 Ersättning i form av sådan royalty eller periodvis utgående 
 avgift för att materiella eller immateriella tillgångar 
@@ -1206,7 +1201,7 @@ driftställe här.
 
 Skattskyldighet för inkomster som avses i första stycket 12 
 gäller inte för sådana begränsat skattskyldiga personer som 
-avses i 17 § 2-4. Lag (2020:1071).
+avses i 17 § 2-4. Lag (2026:114).
 
 19 § Den som är begränsat skattskyldig är skattskyldig för
 kapitalvinst på sådana tillgångar och förpliktelser som avses
@@ -1473,39 +1468,41 @@ begränsat skattskyldiga. Lag (2013:569).
 
 Innebörden av begränsad skattskyldighet
 
-11 § Den som är begränsat skattskyldig är skattskyldig för 
+11 § Den som är begränsat skattskyldig är skattskyldig för
 
 1. inkomst från ett fast driftställe eller en fastighet i 
-Sverige, 
+Sverige,
 
 2. inkomst på grund av att en näringsbostadsrätt som 
 innefattar nyttjanderätt till ett hus eller en del av ett hus 
-i Sverige avyttras, 
+i Sverige avyttras,
 
 3. inkomst i form av utdelning på andelar i svenska ekonomiska 
-föreningar, 
+föreningar,
 
 4. inkomster som anges i 7 § första stycket lagen (1991:591) 
 om särskild inkomstskatt för utomlands bosatta artister m.fl., 
 om Skatteverket har meddelat beslut enligt 5 a § tredje 
-stycket den lagen, 
+stycket den lagen,
 
 5. återförda avdrag för periodiseringsfond och 
 ersättningsfond,
 
-6. schablonintäkt enligt 30 kap. 6 a §, 
+6. schablonintäkt enligt 30 kap. 6 a §,
 
-7. återfört uppskovsbelopp enligt 47 kap., och
+7. återfört uppskovsbelopp enligt 47 kap.,
 
 8. inkomst från ett svenskt handelsbolag, om den begränsat 
-skattskyldige 
+skattskyldige
 
 - inte beskattas för inkomsten i den stat där denne hör hemma 
 på grund av klassificeringen i skattehänseende av 
-handelsbolaget enligt denna stats lagstiftning, och
+handelsbolaget enligt denna stats lagstiftning, och 
 
 - anses vara i intressegemenskap med handelsbolaget enligt 
-24 b kap. 3 §.
+24 b kap. 3 §, och
+
+9. återförda skogsavdrag.
 
 Ersättning i form av royalty eller periodvis utgående avgift 
 för att materiella eller immateriella tillgångar utnyttjas ska 
@@ -1515,7 +1512,7 @@ driftställe här.
 
 En kapitalförlust ska dras av, om den som är begränsat 
 skattskyldig skulle ha varit skattskyldig för en motsvarande 
-kapitalvinst. Lag (2021:473).
+kapitalvinst. Lag (2026:114).
 
 12 § Utländska juridiska personer är inte skattskyldiga för den
 del av inkomsterna enligt 11 § som delägarna i den juridiska
@@ -2108,8 +2105,16 @@ och äldreförsörjningsstöd enligt 74 kap.
 socialförsäkringsbalken och liknande ersättningar är 
 skattefria. Lag (2025:422).
 
-12 § Bistånd enligt lagen (1994:137) om mottagande av
-asylsökande m.fl. är skattefria.
+12 § /Upphör att gälla U:2026-10-01/
+Bistånd enligt lagen (1994:137) om mottagande av 
+asylsökande m.fl. och lagen (2026:380) om bistånd till vissa 
+utlänningar vid inhibition av verkställigheten är skattefria.
+Lag (2026:384).
+
+12 § /Träder i kraft I:2026-10-01/
+Bistånd enligt mottagandelagen (2026:999) och lagen 
+(2026:380) om bistånd till vissa utlänningar vid inhibition av 
+verkställigheten är skattefria. Lag (2026:1002).
 
 Ersättningar till nyanlända invandrare
 
@@ -2294,6 +2299,14 @@ Vad som sägs i första stycket gäller i motsvarande utsträckning
 för avdrag på avgifter i bostadsrättsföreningar,
 bostadsföreningar, bostadsaktiebolag och liknande
 sammanslutningar.
+
+/Rubriken träder i kraft I:2026-07-01/
+Vindkraftsersättning
+
+32 § /Träder i kraft I:2026-07-01/
+Vindkraftsersättning enligt lagen (2026:1113) om 
+intäktsdelning från vindkraftsanläggningar är skattefri till 
+den del ersättningen avser en privatbostad. Lag (2026:1114).
 
 9 kap. Utgifter som inte får dras av
 
@@ -2723,11 +2736,9 @@ Med cykel avses sådana fordon som omfattas av punkt 1 eller 2
 i definitionen av cykel i 2 § lagen (2001:559) om 
 vägtrafikdefinitioner. Lag (2021:1158).
 
-/Rubriken upphör att gälla U:2026-07-01/
 Laddning på arbetsplatsen
 
-12 b § /Upphör att gälla U:2026-07-01 genom lag (2023:346)./
-Förmån av elektricitet för laddning av personbil 
+12 b § Förmån av elektricitet för laddning av personbil 
 klass I, lätt lastbil, motorcykel, moped eller cykel vid en 
 laddningspunkt eller ett eluttag som tillhandahålls av 
 arbetsgivaren i anslutning till arbetsplatsen ska inte tas 
@@ -2846,7 +2857,8 @@ ledamöter ska inte tas upp. Lag (2016:1120).
 
 Hälso- och sjukvård
 
-18 § Förmån av hälso- och sjukvård ska inte tas upp om 
+18 § /Upphör att gälla U:2026-07-01/
+Förmån av hälso- och sjukvård ska inte tas upp om 
 förmånen avser vård utomlands vid insjuknande i samband med 
 tjänstgöring utomlands.
 
@@ -2864,6 +2876,29 @@ rehabilitering,
 till tjänstens krav för Försvarsmaktens submarina eller 
 flygande personal och för andra med i huvudsak liknande 
 arbetsförhållanden. Lag (2018:523).
+
+18 § /Träder i kraft I:2026-07-01/
+Förmån av hälso- och sjukvård ska inte tas upp om 
+förmånen avser vård utomlands vid insjuknande i samband med 
+tjänstgöring utomlands.
+
+Följande förmåner ska inte heller tas upp
+
+- läkemedel vid vård utomlands vid insjuknande i samband med 
+tjänstgöring utomlands,
+
+- företagshälsovård, förebyggande behandling eller 
+rehabilitering,
+
+- vaccination som betingas av tjänsten,
+
+- vaccination av medföljande familjemedlemmar vid tjänstgöring 
+utomlands, om vaccinationen betingas av utlandsvistelsen, och
+
+- tandbehandling som har bedömts som nödvändig med hänsyn till 
+tjänstens krav för Försvarsmaktens submarina eller flygande 
+personal och för andra med i huvudsak liknande 
+arbetsförhållanden. Lag (2026:877).
 
 Grupplivförsäkringar m.m.
 
@@ -3177,22 +3212,22 @@ Studiestöd m.m.
 34 § Följande ersättningar i samband med studier ska tas upp:
 
 1. ersättning till deltagare i teckenspråksutbildning för 
-vissa föräldrar (TUFF), 
+vissa föräldrar (TUFF),
 
 2. utbildningsbidrag för kompletterande pedagogisk utbildning 
 som leder till ämneslärarexamen för personer som har en examen 
 på forskarnivå, och
 
 3. omställningsstudiebidrag enligt lagen (2022:856) om 
-omställningsstudiestöd.
+omställnings-studiestöd. 
 
 Studiestöd enligt studiestödslagen (1999:1395) ska inte tas 
-upp. Detta gäller också 
+upp. Detta gäller också
 
 1. statsbidrag som administreras av Specialpedagogiska 
-skolmyndigheten för 
+skolmyndigheten för
 
-- kortare studier om funktionsnedsättning, 
+- kortare studier om funktionsnedsättning,
 
 - kortare studier på grundskole- eller gymnasienivå som är 
 särskilt anpassade för personer med funktionsnedsättning, och
@@ -3201,16 +3236,11 @@ särskilt anpassade för personer med funktionsnedsättning, och
 utbildning,
 
 2. statsbidrag som administreras av Sametinget för kortare 
-studier i alfabetisering i samiska, 
+studier i alfabetisering i samiska, eller
 
 3. kostnadsersättning till elever i gymnasial 
 lärlingsutbildning som betalas ut av Centrala 
-studiestödsnämnden, eller 
-
-4. studiestartsstöd som betalas ut av Centrala 
-studiestödsnämnden. Lag (2023:350).
-
-Bidrag till deltagare i arbetsmarknadsutbildning m.fl.
+studiestödsnämnden. Lag (2025:1361).
 
 35 § Stöd som avser ersättning för utgifter för logi eller 
 resor m.m. ska inte tas upp om det lämnas till deltagare i
@@ -3235,20 +3265,7 @@ utbildning) ska inte tas upp. Lag (2017:588).
 
 Ersättningar vid arbetslöshet
 
-36 § /Upphör att gälla U:2025-10-01/
-Följande ersättningar i samband med arbetslöshet ska tas
-upp:
-
-1. dagpenning från svensk arbetslöshetskassa, och
-
-2. aktivitetsstöd som betalas ut enligt bestämmelser som
-beslutats av regeringen eller av statlig myndighet till den som
-tar del av ett arbetsmarknadspolitiskt program och till andra
-som är likställda med dem när det gäller rätt till sådant stöd.
-Lag (2007:1419).
-
-36 § /Träder i kraft I:2025-10-01/
-Följande ersättningar i samband med arbetslöshet ska tas 
+36 § Följande ersättningar i samband med arbetslöshet ska tas 
 upp:
 
 1. arbetslöshetsersättning enligt lagen (2024:506) om 
@@ -3259,6 +3276,14 @@ beslutats av regeringen eller av en statlig myndighet till den
 som tar del av ett arbetsmarknadspolitiskt program och till 
 andra som är likställda med dem när det gäller rätt till 
 sådant stöd. Lag (2024:513).
+
+Jobbpremie
+
+36 a § En statlig ersättning till den som under viss tid har 
+fått försörjningsstöd enligt socialtjänstlagen (2025:400) och 
+som därefter får inkomst av anställning samt inte får 
+försörjningsstöd (jobbpremie) ska inte tas upp.
+Lag (2025:1361).
 
 Livräntor
 
@@ -3420,6 +3445,14 @@ Ersättning till dagbarnvårdare
 48 § Kostnadsersättning till dagbarnvårdare som betalas ut av
 en kommun ska inte tas upp till den del ersättningen motsvarar
 kostnader i verksamheten. Lag (2007:1419).
+
+Gåvor till godkända gåvomottagare
+
+49 § En gåva som ger en juridisk person rätt till 
+skattereduktion enligt 67 kap. ska inte tas upp som intäkt av 
+någon som direkt eller indirekt äger en andel i den juridiska 
+personen, eller i fråga om ideella föreningar någon som är 
+medlem i föreningen. Lag (2025:1361).
 
 11 a kap. Särskilda bestämmelser om personaloptioner
 
@@ -3732,32 +3765,34 @@ Inskränkningar i avdragsrätten
 Beloppsgränser
 
 2 § Utgifter som avses i följande paragrafer ska dras av utan 
-någon beloppsmässig begränsning, nämligen utgifter 
+någon beloppsmässig begränsning, nämligen utgifter
 
-– vid tjänsteresor enligt 5–17 §§,
+- vid tjänsteresor enligt 5-17 §§,
 
-– vid tillfälligt arbete på annan ort eller vid dubbel 
-bosättning enligt 18–22 och 31 §§,
+- vid tillfälligt arbete på annan ort eller vid dubbel 
+bosättning enligt 
 
-– för hemresor enligt 24 och 31 §§,
+18-22 och 31 §§,
 
-– för egenavgifter enligt 36 §,
+- för hemresor enligt 24 och 31 §§, 
 
-– för arbetsgivaravgifter enligt 36 a §, och
+- för egenavgifter enligt 36 §,
 
-– i hobbyverksamhet enligt 37 §.
+- för arbetsgivaravgifter enligt 36 a §, och
+
+- i hobbyverksamhet enligt 37 §.
 
 Första stycket gäller också i fråga om utgifter för resor i 
 tjänsten som företas med annat transportmedel än egen bil 
 eller förmånsbil.
 
-Utgifter för inställelseresor enligt 25 § och för resor 
-mellan bostaden och arbets- och utbildningsplatsen enligt 
-26–31 §§ ska dras av bara till den del kostnaderna under 
-beskattningsåret sammanlagt överstiger 11 000 kronor. Övriga 
+Utgifter för inställelseresor enligt 25 § och för resor mellan 
+bostaden och arbets- och utbildningsplatsen enligt 26-31 §§ 
+ska dras av bara till den del kostnaderna under 
+beskattningsåret sammanlagt överstiger 15 000 kronor. Övriga 
 utgifter ska dras av bara till den del kostnaderna under 
 beskattningsåret sammanlagt överstiger 5 000 kronor.
-Lag (2016:1055).
+Lag (2025:1375).
 
 Utgifter för vissa skattefria ersättningar
 
@@ -3790,7 +3825,8 @@ arbetar.
 
 Tjänsteresor med egen bil eller förmånsbil
 
-5 § Utgifter för tjänsteresor med egen bil ska dras av med 
+5 § /Upphör att gälla U:2026-07-01/
+Utgifter för tjänsteresor med egen bil ska dras av med 
 2 kronor och 50 öre för varje kilometer. 
 
 Om en skattskyldig använder sin förmånsbil för tjänsteresor 
@@ -3799,6 +3835,22 @@ med resorna, ska utgifter för elektricitet till elbil dras av
 med 95 öre för varje kilometer och utgifter för annat 
 drivmedel med 1 krona och 20 öre för varje kilometer.
 Lag (2022:1806).
+
+5 § /Träder i kraft I:2026-07-01/
+Utgifter för tjänsteresor med egen bil ska dras av med 
+2 kronor och 50 öre för varje kilometer.
+
+Om en skattskyldig använder sin förmånsbil för tjänsteresor 
+och betalar samtliga utgifter för drivmedel som är förenade 
+med resorna, ska utgifter för elektricitet till elbil dras av 
+med 95 öre för varje kilometer och utgifter för annat 
+drivmedel med 1 krona och 20 öre för varje kilometer.
+
+Om den skattskyldige har en laddhybrid som förmånsbil gäller 
+avdragsrätten i andra stycket även i de fall han eller hon 
+laddar förmånsbilen med elektricitet som arbetsgivaren 
+tillhandahåller i anslutning till arbetsplatsen. 
+Lag (2026:464).
 
 Ökade levnadskostnader vid tjänsteresor
 
@@ -4227,30 +4279,7 @@ en pensionsförsäkring. Lag (2008:134).
 
 Egenavgifter
 
-36 § /Upphör att gälla U:2026-01-01/
-Debiterade egenavgifter ska dras av till den del de avser 
-inkomster i inkomstslaget tjänst. Om avgifterna sätts ned, ska 
-motsvarande belopp tas upp i inkomstslaget det beskattningsår 
-då debiteringen ändras.
-
-Vidare ska ett avdrag göras för egenavgifterna för 
-beskattningsåret med högst 25 procent av ett underlag som 
-beräknas enligt tredje stycket. Avdraget ska dock vara högst 
-20 procent om den skattskyldige antingen vid beskattningsårets 
-ingång fyllt 66 år eller då inte fyllt 66 år men under hela 
-året fått hel ålderspension eller dött under året. Avdraget 
-ska återföras till beskattning det följande beskattningsåret.
-
-Underlaget utgörs av sådana intäkter i inkomstslaget tjänst 
-som enligt 59 kap. 14 och 20 §§ socialförsäkringsbalken är 
-inkomst av annat förvärvsarbete, minskade med andra kostnader 
-som ska dras av från dessa intäkter än sådant avdrag som avses 
-i andra stycket och med sjuk- och rehabiliteringspenning och 
-liknande ersättningar som avses i 59 kap. 14 § 4 samma balk.
-Lag (2022:886).
-
-36 § /Träder i kraft I:2026-01-01/
-Debiterade egenavgifter ska dras av till den del de avser 
+36 § Debiterade egenavgifter ska dras av till den del de avser 
 inkomster i inkomstslaget tjänst. Om avgifterna sätts ned, ska 
 motsvarande belopp tas upp i inkomstslaget det beskattningsår 
 då debiteringen ändras.
@@ -4551,21 +4580,26 @@ dubbelräknas. Lag (2007:1419).
 
 Fordringar och skulder i utländsk valuta
 
-8 § Fordringar, skulder, avsättningar och kontanter i utländsk
-valuta, som inte tas upp till det verkliga värdet enligt 17
-kap. 20 §, ska värderas till kursen vid beskattningsårets
-utgång. Om det finns ett terminskontrakt eller någon annan
-liknande valutasäkringsåtgärd för en sådan post, ska posten tas
-upp till det värde som motiveras av valutasäkringen under
+8 § Fordringar, skulder, avsättningar och kontanter i utländsk 
+valuta, som inte tas upp till det verkliga värdet enligt 
+17 kap. 20 §, ska värderas till kursen vid beskattningsårets 
+utgång. Om det finns ett terminskontrakt eller någon annan 
+liknande valutasäkringsåtgärd för en sådan post, ska posten 
+tas upp till det värde som motiveras av valutasäkringen under 
 förutsättning att
 
 - samma värde används i räkenskaperna, och
 
 - värderingen står i överensstämmelse med god redovisningssed.
 
-Om den säkrade posten är sådant lager som tas upp till
-anskaffningsvärdet enligt 17 kap. 20 § ska inte första
-strecksatsen i första stycket tillämpas. Lag (2007:1419).
+Om den säkrade posten är sådant lager som tas upp till 
+anskaffningsvärdet enligt 17 kap. 20 § ska inte första 
+strecksatsen i första stycket tillämpas.
+
+Första stycket gäller inte fordringar på skogskonto, 
+skogsskadekonto eller naturvårdskonto. Valutakursförändringar 
+på sådana fordringar ska beaktas först vid beskattning enligt 
+21 kap. Lag (2026:114).
 
 Kapitalvinster och kapitalförluster
 
@@ -6978,13 +7012,14 @@ Innehåll
 
 - ersättningar för avverkningsrätt i 2 §,
 
-- anläggning av skog och diken i 3 §,
+- anläggning av skog och diken i 3 §, 
 
 - skogsavdrag i 4-19 §§, och
 
-- skogskonto och skogsskadekonto i 21-40 §§.
+- skogskonto, skogsskadekonto och naturvårdskonto i 21-42 §§.
 
-Vad som avses med skogsbruk framgår av 22 §.
+Vad som avses med skogsbruk framgår av 22 §. Vad som avses med 
+naturvårdsavtal framgår av 22 a §. Lag (2026:114).
 
 Ersättningar för avverkningsrätt under flera år
 
@@ -7005,32 +7040,33 @@ Skogsavdrag
 
 Huvudregler
 
-4 § Avdrag på grund av avyttring av skog (skogsavdrag) på en
-fastighet i Sverige som är taxerad som lantbruksenhet och är en
-kapitaltillgång får göras enligt bestämmelserna i 5-19 §§.
+4 § Avdrag på grund av avyttring av skog (skogsavdrag) på en 
+lantbruksenhet inom Europeiska ekonomiska samarbetsområdet som 
+är en kapitaltillgång får göras enligt bestämmelserna i 5-
+19 §§.
 
-Skogsavdrag får inte göras på grund av en intäkt som tas upp
-till beskattning efter det att all mark eller all produktiv
-skogsmark som ingår i näringsverksamheten har förvärvats av en
-ny ägare. Lag (2010:1531).
+Skogsavdrag får inte göras på grund av en intäkt som tas upp 
+till beskattning efter det att all mark eller all produktiv 
+skogsmark som ingår i näringsverksamheten har förvärvats av en 
+ny ägare. Lag (2026:114).
 
 5 § Skogsavdrag ska beräknas med utgångspunkt i skogens
 anskaffningsvärde, avdragsutrymmet och den avdragsgrundande
 skogsintäkten. Lag (2007:1419).
 
-6 § Anskaffningsvärdet är det värde som enligt 12-19 §§ avser
-skog och produktiv skogsmark vid förvärv av en fastighet som är
-taxerad som lantbruksenhet.
+6 § Anskaffningsvärdet är det värde som enligt 12-19 §§ avser 
+skog och produktiv skogsmark vid förvärv av en fastighet som 
+är en lantbruksenhet.
 
-Avdragsutrymmet är det högsta belopp som fastighetsägaren får
+Avdragsutrymmet är det högsta belopp som fastighetsägaren får 
 dra av under innehavstiden.
 
-Avdragsgrundande skogsintäkt är summan av beskattningsårets
-intäkt på grund av upplåtelse av avverkningsrätt och 60 procent
-av beskattningsårets intäkt på grund av avyttring eller uttag
-av skogsprodukter. Med skogsintäkt avses också
+Avdragsgrundande skogsintäkt är summan av beskattningsårets 
+intäkt på grund av upplåtelse av avverkningsrätt och 60 
+procent av beskattningsårets intäkt på grund av avyttring 
+eller uttag av skogsprodukter. Med skogsintäkt avses också 
 försäkringsersättning för skog och skogsprodukter.
-Lag (2010:1531).
+Lag (2026:114).
 
 Avdragsutrymmet och avdragets storlek för juridiska personer
 
@@ -7200,15 +7236,20 @@ när det gäller
 - förvärv av tillgångar till underpris från delägare och
 närstående i 53 kap. 10 och 11 §§. Lag (2006:1422).
 
-Skogskonto och skogsskadekonto
+Skogskonto, skogsskadekonto och naturvårdskonto
 
 Huvudregel
 
-21 § En enskild näringsidkare som har intäkt av skogsbruk
-(skogsintäkt) får göra avdrag enligt bestämmelserna i 23-40 §§
-för belopp som sätts in på ett särskilt konto i ett
-kreditinstitut (skogskonto eller skogsskadekonto). Lag
-(2004:438).
+21 § En enskild näringsidkare som har intäkt av skogsbruk 
+(skogsintäkt) får göra avdrag enligt bestämmelserna i 23-28, 
+29-32 och 33-41 §§ för belopp som sätts in på ett särskilt 
+konto i ett kreditinstitut (skogskonto eller skogsskadekonto).
+
+En enskild näringsidkare som får ersättning för 
+naturvårdsavtal som avser fem år eller längre får göra avdrag 
+enligt bestämmelserna i 28 a-31, 32 a, 33, 35-38, 40 och 42 §§ 
+för belopp som sätts in på ett särskilt konto i ett 
+kreditinstitut (naturvårdskonto). Lag (2026:114).
 
 Skogsbruk
 
@@ -7220,7 +7261,15 @@ lantbruksenhet på grund av en avverkningsrätt som den
 skattskyldige har förbehållit sig vid överlåtelse av en
 fastighet eller vid fastighetsbildning och avyttring av sådan
 avverkningsrätt. Lag (2008:1066).
+
+Naturvårdsavtal
+
+22 a § Med naturvårdsavtal avses sådan skriftlig 
+överenskommelse som anges i 7 kap. 3 § andra stycket 
+jordabalken. Lag (2026:114).
+
 Särskilda bestämmelser om skogsskadekonto
+
 23 § Avdrag för insättning på skogsskadekonto får göras bara om
 stormfällning, brand, insektsangrepp eller någon liknande
 händelse har medfört att mer än en tredjedel av skogen i
@@ -7279,20 +7328,42 @@ som intäkt av näringsverksamhet.
 28 § Vad som sägs i 25-27 §§ tillämpas också på
 försäkringsersättning för skog och skogsprodukter.
 
-29 § Om utdelning från en samfällighet som avses i 6 kap. 6 §
-första stycket tas upp som intäkt av näringsverksamheten, ska
-den del av utdelningen som kommer från intäkt av skogsbruk i
-samfälligheten under det beskattningsår som utdelningen hänför
-sig till likställas med intäkt av skogsbruk som den
-skattskyldige själv bedrivit. Lag (2007:1419).
+28 a § Avdrag för insättning på naturvårdskonto ett visst 
+beskattningsår får motsvara högst 90 procent av ersättningen 
+för ett naturvårdsavtal. Lag (2026:114).
 
-30 § Avdrag får inte göras med så högt belopp att det uppkommer
-ett underskott.
+29 § Om utdelning från en samfällighet som avses i 6 kap. 6 § 
+första stycket tas upp som intäkt av näringsverksamheten, ska 
+den del av utdelningen som kommer från intäkt av skogsbruk i 
+samfälligheten under det beskattningsår som utdelningen hänför 
+sig till likställas med intäkt av skogsbruk som den 
+skattskyldige själv bedrivit.
 
-31 § Avdrag får göras bara om avdragsbeloppet uppgår till minst
-5 000 kronor för skogskonto eller 50 000 kronor för
-skogsskadekonto. Avdraget ska avrundas nedåt till helt
-hundratal kronor. Lag (2007:1419).
+Den del av utdelningen som kommer från ersättning för 
+naturvårdsavtal i samfälligheten under det beskattningsår som 
+utdelningen hänför sig till, ska likställas med ersättning för 
+naturvårdsavtal som den skattskyldige själv fått.
+Lag (2026:114).
+
+30 § Avdrag får inte göras med så högt belopp att det 
+uppkommer ett underskott.
+
+Om det uppkommer underskott när det finns två eller flera 
+konton enligt detta kapitel och minst ett av kontona är ett 
+naturvårdskonto, ska avdrag för insättning på skogskonto eller 
+skogsskadekonto anses ske före avdrag för insättning på 
+naturvårdskonto. Om det finns flera naturvårdskonton ska 
+avdrag i första hand nekas helt eller delvis för en senare 
+gjord insättning framför en tidigare insättning. Om insättning 
+gjorts samma dag på flera naturvårdskonton får den 
+skattskyldige välja vilken ordning som insättningarna ska 
+anses ha gjorts. Lag (2026:114).
+
+31 § Avdrag får göras bara om avdragsbeloppet uppgår till 
+minst 5 000 kronor för ett skogskonto, 50 000 kronor för ett 
+skogsskadekonto eller 25 000 kronor för ett naturvårdskonto. 
+Avdraget ska avrundas nedåt till helt hundratal kronor.
+Lag (2026:114).
 
 Insättning på kontot
 
@@ -7302,10 +7373,19 @@ kreditinstitut. Om så ändå sker får avdrag göras bara för
 insättning hos det först anlitade kreditinstitutet. Lag
 (2004:438).
 
-33 § Avdrag får göras bara om medlen sätts in på ett
-skogskonto eller skogsskadekonto senast den dag som den
-skattskyldige enligt skatteförfarandelagen (2011:1244) ska
-lämna inkomstdeklaration. Lag (2011:1256).
+32 a § En skattskyldig får göra insättning av ersättning för 
+ett naturvårdsavtal på ett naturvårdskonto för varje 
+naturvårdsavtal och beskattningsår.
+
+Om den skattskyldige under ett beskattningsår gör insättningar 
+avseende ersättning för samma naturvårdsavtal på mer än ett 
+naturvårdskonto får avdrag göras bara för insättning på det 
+först öppnade kontot. Lag (2026:114).
+
+33 § Avdrag får göras bara om medlen sätts in på ett 
+skogskonto, skogsskadekonto eller naturvårdskonto senast den 
+dag som den skattskyldige enligt skatteförfarandelagen 
+(2011:1244) ska lämna inkomstdeklaration. Lag (2026:114).
 
 34 § Om den skattskyldige begär avdrag för insättning på
 skogskonto enligt 24 § andra stycket, anses de medel som satts
@@ -7318,102 +7398,200 @@ Skatteverket. En överföring som har skett senare än tio år
 efter ingången av det år då medlen enligt 33 § senast ska ha
 satts in beaktas inte. Lag (2007:1419).
 
-35 § Som skogskonto och skogsskadekonto godtas bara sådant
-konto hos ett svenskt kreditinstitut eller ett utländskt
-kreditinstituts filial i Sverige för vilket ränta
-tillgodoräknas minst en gång per år.
+35 § Som skogskonto, skogsskadekonto eller naturvårdskonto 
+godtas bara sådant konto för vilket ränta tillgodoräknas minst 
+en gång per år och som tillhandahålls från
 
-I lagen (1990:676) om skatt på ränta på skogskontomedel m.m.
-finns bestämmelser om skatt på räntan. Lag (2004:438).
+- ett svenskt kreditinstitut, 
+
+- ett utländskt kreditinstitut som hör hemma i en stat inom 
+Europeiska unionen (EU),
+
+- ett utländskt kreditinstituts filial i Sverige, eller
+
+- ett utländskt kreditinstituts filial i en stat inom EU.
+
+En stat som inte är medlem i EU men som ingår i Europeiska 
+ekonomiska samarbetsområdet, likställs vid tillämpningen av 
+första stycket med en stat inom EU om staten har ingått en 
+särskild överenskommelse med Sverige eller EU om ömsesidigt 
+bistånd för indrivning av skattefordringar som har en räckvidd 
+som är likartad med den som föreskrivs i rådets direktiv 
+2010/24/EU av den 16 mars 2010 om ömsesidigt bistånd för 
+indrivning av fordringar som avser skatter, avgifter och andra 
+åtgärder, i den ursprungliga lydelsen. Lag (2026:114).
+
+35 a § Om kontot tillhandahålls från utlandet godtas kontot 
+som skogskonto, skogsskadekonto eller naturvårdskonto bara om 
+kreditinstitutet har kommit in med ett skriftligt åtagande 
+till Skatteverket enligt 23 kap. 6 a § och 38 kap. 1 § 
+skatteförfarandelagen (2011:1244). Lag (2026:114).
 
 Uttag från kontot
 
-36 § Uttag från ett skogskonto eller skogsskadekonto får göras
-tidigast fyra månader efter insättningsdagen. Ett uttag får
-avse hela det innestående beloppet eller en del av det, dock
-inte lägre belopp än 1 000 kronor.
+36 § Uttag från ett skogskonto, skogsskadekonto eller 
+naturvårdskonto får göras tidigast fyra månader efter 
+insättningsdagen. Ett uttag får avse hela det innestående 
+beloppet eller en del av det, dock inte lägre belopp än 1 000 
+kronor.
 
-Sedan tio år eller, när det gäller skogsskadekonto, tjugo år
-har gått från ingången av det år då insättning enligt 33 §
-senast skulle göras, ska kreditinstitutet betala ut kvarstående
-medel.
+Sedan tio år eller, när det gäller skogsskadekonto, tjugo år 
+har gått från ingången av det år då insättning enligt 33 § 
+senast skulle göras, ska kreditinstitutet betala ut 
+kvarstående medel.
 
-Medel, som enligt 41 § tas över från ett skogskonto eller ett
-skogsskadekonto, får tidigast tas ut och ska betalas ut av
-kreditinstitutet vid de tidpunkter som enligt första och andra
-styckena gäller för insättningen på det ursprungliga kontot.
-Lag (2008:1066).
+Medel som enligt 41 § tas över från ett skogskonto eller ett 
+skogsskadekonto, får tidigast tas ut och ska betalas ut av 
+kreditinstitutet vid de tidpunkter som enligt första och andra 
+styckena gäller för insättningen på det ursprungliga kontot. 
+Detsamma gäller medel som enligt 42 § tas över från ett 
+naturvårdskonto. Lag (2026:114).
 
-37 § Uttag från ett skogskonto eller skogsskadekonto ska tas
-upp som intäkt i inkomstslaget näringsverksamhet det
-beskattningsår då uttaget görs. Motsvarande gäller kvarstående
-medel som betalas ut eller skulle ha betalats ut enligt 36 §
-andra stycket. Lag (2007:1419).
+37 § Uttag från ett skogskonto, skogsskadekonto eller 
+naturvårdskonto ska tas upp som intäkt i inkomstslaget 
+näringsverksamhet det beskattningsår då uttaget görs. 
+Motsvarande gäller kvarstående medel som betalas ut eller 
+skulle ha betalats ut enligt 36 § andra stycket.
+Lag (2026:114).
+
+Avskattning av medel
+
+37 a § Om kontrolluppgift enligt 16 kap. 4 § 2-4 
+skatteförfarandelagen (2011:1244) inte lämnats för skogskonto, 
+skogsskadekonto eller naturvårdskonto, ska medlen på kontot 
+tas upp som intäkt i inkomstslaget näringsverksamhet om inte 
+annat följer av 37 b §.
+
+Medlen ska tas upp till beskattning det beskattningsår som 
+kontrolluppgiften hade avsett om den lämnats. Lag (2026:114).
+
+37 b § Om kreditinstitutet vid enstaka tillfällen har 
+underlåtit att lämna en sådan kontrolluppgift som anges i 
+37 a§, ska medlen på kontot inte tas upp som intäkt i 
+inkomstslaget näringsverksamhet om kontohavaren själv lämnar 
+de uppgifter som skulle ha framgått av kontrolluppgiften 
+senast den 31 oktober året efter beskattningsåret.
+Lag (2026:114).
+
+Valutakursförändring
+
+37 c § Medel på skogskonto, skogsskadekonto eller 
+naturvårdskonto i utländsk valuta ska värderas till kursen den 
+dag medlen betalas ut eller skulle ha betalats ut enligt 36 § 
+andra stycket. Om medlen ska beskattas enligt 37 a § ska 
+värderingen göras till kursen vid utgången av det 
+beskattningsår medlen ska tas upp som intäkt. Lag (2026:114).
 
 Byte av kreditinstitut
 
-38 § Medel på ett skogskonto eller skogsskadekonto får föras
-över till ett annat kreditinstitut utan att beskattning sker
-enligt 37 § om hela det innestående beloppet direkt förs över
-till ett motsvarande konto i det mottagande kreditinstitutet.
-En sådan överföring får även göras när lantbruksenheten och
-kontomedel tas över enligt 41 §.
+38 § Medel på ett skogskonto, skogsskadekonto eller 
+naturvårdskonto får föras över till ett annat kreditinstitut 
+utan att beskattning sker enligt 37 § om hela det innestående 
+beloppet direkt förs över till ett motsvarande konto i det 
+mottagande kreditinstitutet. Detsamma gäller när en 
+lantbruksenhet och kontomedel på ett skogskonto eller ett 
+skogsskadekonto tas över enligt 41 §, eller när hela eller en 
+del av ett område som omfattas av ett naturvårdsavtal och 
+kontomedel på ett naturvårdskonto tas över enligt 42 §.
 
-När kontomedel förs över ska det överförande kreditinstitutet
-lämna det mottagande kreditinstitutet de uppgifter som behövs
-för att det mottagande kreditinstitutet ska kunna fullgöra
-sina skyldigheter enligt detta kapitel och
-skatteförfarandelagen (2011:1244). Lag (2011:1256).
+När kontomedel förs eller tas över enligt första stycket ska 
+det första kreditinstitutet lämna det mottagande 
+kreditinstitutet de uppgifter som behövs för att det 
+mottagande kreditinstitutet ska kunna fullgöra sina 
+skyldigheter enligt detta kapitel och skatteförfarandelagen 
+(2011:1244). Lag (2026:114).
 
-Överföring av lantbruksenhet eller kontomedel m.m.
+Överföring av lantbruksenheter, kontomedel eller områden som 
+omfattas av naturvårdsavtal
 
-39 § Om den skattskyldiges lantbruksenhet övergår till en ny
-ägare genom arv, testamente, bodelning eller på liknande sätt,
-ska medlen på kontona tas upp som intäkt i inkomstslaget
-näringsverksamhet. Detta gäller dock bara om fastigheten
-utgjorde den övervägande delen av näringsverksamheten.
+39 § Om den skattskyldiges lantbruksenhet övergår till en ny 
+ägare genom arv, testamente, bodelning eller på liknande sätt, 
+ska medlen på skogskonto och skogsskadekonto tas upp som 
+intäkt i inkomstslaget näringsverksamhet. Detta gäller dock 
+bara om fastigheten utgjorde den övervägande delen av 
+näringsverksamheten.
 
-Vad som föreskrivs i första stycket gäller inte om äganderätten
-övergår genom gåva och den skattskyldige har gjort avdrag för
-de insatta medlen. Första stycket gäller inte heller i fråga om
-medel som tas över enligt 41 §. Lag (2008:1066).
+Vad som föreskrivs i första stycket gäller inte om 
+äganderätten övergår genom gåva och den skattskyldige har 
+gjort avdrag för de insatta medlen. Första stycket gäller inte 
+heller i fråga om medel som tas över enligt 41 §.
+Lag (2026:114).
 
-40 § Om avtal träffas om överlåtelse eller pantsättning av
-medel på skogskonto eller skogsskadekonto, ska medlen på
-kontona tas upp som intäkt i inkomstslaget näringsverksamhet om
-inte annat följer av 41 §. Det anses inte som överlåtelse eller
-pantsättning att en skattskyldig på begäran av Skogsstyrelsen
-förbinder sig att inte förfoga över medlen utan styrelsens
-tillstånd. Lag (2008:1066).
+40 § Om avtal träffas om överlåtelse eller pantsättning av 
+medel på ett skogskonto, skogsskadekonto eller 
+naturvårdskonto, ska medlen på kontot tas upp som intäkt i 
+inkomstslaget näringsverksamhet om inte annat följer av 
+41 eller 42 §. Det anses inte som överlåtelse eller 
+pantsättning att en skatt-skyldig på begäran av Skogsstyrelsen 
+förbinder sig att inte förfoga över medlen på ett skogskonto 
+eller skogsskadekonto utan styrelsens tillstånd.
+Lag (2026:114).
 
-
-41 § Om den skattskyldiges lantbruksenhet med produktiv
-skogsmark övergår till en närstående genom arv, testamente,
-gåva eller bodelning får denne ta över medel på ett skogskonto
+41 § Om den skattskyldiges lantbruksenhet med produktiv 
+skogsmark övergår till en närstående genom arv, testamente, 
+gåva eller bodelning får denne ta över medel på ett skogskonto 
 eller skogsskadekonto utan att beskattning sker enligt 37 §,
 
-- om mottagaren vid arv, testamente eller bodelning med
-anledning av ena makens död skriftligen förklarar att han tar
-över medlen, eller
+- om mottagaren vid arv, testamente eller bodelning med 
+anledning av ena makens död skriftligen förklarar att 
+mottagaren tar över medlen, eller
 
-- om parterna vid gåva eller bodelning av annan anledning än
-ena makens död träffar skriftligt avtal om att medlen tas över.
+- om parterna vid gåva eller bodelning av annan anledning än 
+ena makens död träffar skriftligt avtal om att medlen tas 
+över.
 
 Utöver vad som sägs i första stycket krävs
 
-- att kontot förs över direkt till mottagaren eller medlen förs
-direkt över till ett motsvarande konto som innehas av
+- att mottagaren är obegränsat skattskyldig i en stat inom 
+Europeiska ekonomiska samarbetsområdet (EES) och inte enligt 
+skatteavtal har hemvist i en stat utanför EES,
+
+- att kontot förs över direkt till mottagaren eller medlen 
+förs direkt över till ett motsvarande konto som innehas av 
 mottagaren, och
 
-- att överföringen sker samma beskattningsår som
+- att överföringen sker samma beskattningsår som 
 lantbruksenheten övergår.
 
-Om bara en del av lantbruksenheten övergår till den närstående,
-får denne ta över högst så stor del av kontomedlen som hans
-andel motsvarar av den övertagna produktiva skogsmarkens
-skogsbruksvärde i förhållande till skogsbruksvärdet för all
-produktiv skogsmark på lantbruksenheten det beskattningsår då
-enheten övergår. Lag (2010:1531).
+Om bara en del av lantbruksenheten övergår till den 
+närstående, får denne ta över högst så stor del av kontomedlen 
+som den närståendes andel motsvarar av den övertagna 
+produktiva skogsmarkens skogsbruksvärde i förhållande till 
+skogsbruksvärdet för all produktiv skogsmark på 
+lantbruksenheten det beskattningsår då enheten övergår.
+Lag (2026:114).
+
+42 § Om hela eller en del av området som omfattas av ett 
+naturvårdsavtal övergår till en närstående genom arv, 
+testamente, gåva eller bodelning får mottagaren ta över 
+kontomedel på det naturvårdskonto som hänför sig till området 
+utan att beskattning sker enligt 37 §, 
+
+- om mottagaren vid arv, testamente eller bodelning med 
+anledning av ena makens död skriftligen förklarar att 
+mottagaren tar över medlen, eller
+
+- om parterna vid gåva eller bodelning av annan anledning än 
+ena makens död träffar skriftligt avtal om att medlen tas 
+över.
+
+Mottagaren får ta över högst den del av kontomedlen som 
+motsvarar värdet av det område som övergår till mottagaren i 
+förhållande till värdet av överlåtarens område omedelbart före 
+överlåtelsen.
+
+Utöver vad som sägs i första stycket krävs
+
+- att mottagaren är obegränsat skattskyldig i en stat inom 
+Europeiska ekonomiska samarbetsområdet (EES) och inte enligt 
+skatteavtal har hemvist i en stat utanför EES,
+
+- att kontot förs över direkt till mottagaren eller medlen 
+förs över direkt till ett motsvarande konto som innehas av 
+mottagaren, och
+
+- att överföringen sker samma beskattningsår som området 
+övergår. Lag (2026:114).
 
 22 kap. Uttag ur näringsverksamhet
 
@@ -7899,21 +8077,23 @@ Hänvisningar
 5 § I inkomstslaget näringsverksamhet tillämpas bestämmelserna 
 i inkomstslaget kapital om
 
+- gåva till godkänd gåvomottagare i 42 kap. 12 a §,
+
 - utnyttjande av företrädesrätt till teckning av 
 vinstandelslån eller kapitalandelslån i 42 kap. 15 §,
 
 - utdelning av andelar i dotterbolag i 42 kap. 16 §,
 
 - utbetalningar vid minskning av aktiekapital, bunden 
-överkursfond eller reservfond och liknande förfaranden i 42 
-kap. 17 §,
+överkursfond eller reservfond och liknande förfaranden i 
+42 kap. 17 §,
 
 - tilldelning av inlösenaktier i 42 kap. 17 a §,
 
-- utskiftning från ideella föreningar i 42 kap. 18 §, 
+- utskiftning från ideella föreningar i 42 kap. 18 §,
 
-- utskiftning och utbetalning från ekonomiska föreningar i 42 
-kap. 19-21 §§,
+- utskiftning och utbetalning från ekonomiska föreningar i 
+42 kap. 19-21 §§,
 
 - emission i ekonomiska föreningar i 42 kap. 21 a §,
 
@@ -7926,9 +8106,10 @@ var begränsat skattskyldiga vid dödsfallet i 42 kap. 23 §,
 
 - skattetillgodohavanden i 42 kap. 24 §,
 
-- spel i 42 kap. 25 §, och
+- spel i 42 kap. 25 §, och 
 
-- schablonintäkt i 42 kap. 43 §. Lag (2023:789).
+- schablonintäkt i 42 kap. 43 §.
+Lag (2025:1361).
 
 Utdelning av vissa andelar
 
@@ -8160,30 +8341,33 @@ Lag (2018:1206).
 
 Avdragsbegränsning
 
-18 § Ett företag som ingår i en intressegemenskap får, om 
-inte annat följer av andra stycket eller 19 §, dra av 
-ränteutgifter avseende en skuld till ett företag i 
-intressegemenskapen bara om det företag inom 
-intressegemenskapen som faktiskt har rätt till den inkomst 
-som motsvarar ränteutgiften
+18 § Ett företag som ingår i en intressegemenskap får, om inte 
+annat följer av andra stycket eller 19 §, dra av ränteutgifter 
+avseende en skuld till ett företag i intressegemenskapen bara 
+om det företag inom intressegemenskapen som faktiskt har rätt 
+till den inkomst som motsvarar ränteutgiften 
 
-– hör hemma i en stat inom Europeiska ekonomiska 
-samarbetsområdet (EES), 
+- hör hemma i Sverige, 
 
-– hör hemma i en stat utanför EES med vilken Sverige har 
-ingått skatteavtal som inte är begränsat till vissa 
-inkomster, om företaget omfattas av avtalets regler om 
-begränsning av beskattningsrätten och har hemvist i denna 
-stat enligt avtalet, eller
+- hör hemma i en stat utanför Europeiska ekonomiska 
+samarbetsområdet (EES) med vilken Sverige har ingått 
+skatteavtal som inte är begränsat till vissa inkomster, om 
+företaget omfattas av avtalets regler om begränsning av 
+beskattningsrätten och har hemvist i denna stat enligt 
+avtalet, eller 
 
-– skulle ha beskattats för inkomsten med minst 10 procent 
+- skulle ha beskattats för inkomsten med minst 10 procent 
 enligt lagstiftningen i den stat där företaget hör hemma, om 
-företaget bara skulle ha haft den inkomsten.
+företaget bara skulle ha haft den inkomsten. 
 
-Om skuldförhållandet uteslutande eller så gott som 
-uteslutande har uppkommit för att intressegemenskapen ska få 
-en väsentlig skatteförmån, får dock ränteutgifterna inte dras 
-av. Lag (2018:1206).
+Om skuldförhållandet uteslutande eller så gott som uteslutande 
+har uppkommit för att intressegemenskapen ska få en väsentlig 
+skatteförmån, får dock ränteutgifterna inte dras av. 
+
+Om det företag inom intressegemenskapen som faktiskt har rätt 
+till den inkomst som motsvarar ränteutgiften hör hemma i en 
+annan stat inom EES ska, i stället för bestämmelserna i första 
+och andra styckena, 19 a § tillämpas. Lag (2025:1333).
 
 19 § Om en skuld till ett företag i intressegemenskapen 
 avser ett förvärv av en delägarrätt från ett annat företag i 
@@ -8195,13 +8379,25 @@ som inte ingår i intressegemenskapen och denna skuld avser
 ett sådant förvärv, ska även den förstnämnda skulden anses 
 avse detta förvärv. Lag (2018:1206).
 
-20 § Bestämmelserna i 18 § och 19 § första stycket 
+19 a § Ett företag som ingår i en intressegemenskap får, om 
+inte annat följer av andra stycket, dra av ränteutgifter som 
+avser en skuld till ett företag i intressegemenskapen, om det 
+företag inom intressegemenskapen som faktiskt har rätt till 
+den inkomst som motsvarar ränteutgiften hör hemma i en annan 
+stat inom Europeiska ekonomiska samarbetsområdet. 
+
+Om skuldförhållandet ingår i ett konstlat upplägg vars syfte 
+är att intressegemenskapen ska få en väsentlig skatteförmån 
+får dock ränteutgifterna inte dras av helt eller delvis.
+Lag (2025:1333).
+
+20 § Bestämmelserna i 18 §, 19 § första stycket och 19 a § 
 tillämpas också på en skuld till ett företag som inte ingår i 
 intressegemenskapen, till den del ett företag i 
 intressegemenskapen har en fordran på det förstnämnda 
-företaget, eller på ett företag som är i intressegemenskap 
-med det förstnämnda företaget, om skulden kan anses ha 
-samband med denna fordran. Lag (2018:1206).
+företaget, eller på ett företag som är i intressegemenskap med 
+det förstnämnda företaget, om skulden kan anses ha samband med 
+denna fordran. Lag (2025:1333).
 
 Avdragsbegränsning för negativa räntenetton
 
@@ -9932,14 +10128,25 @@ Vid tillämpning av 5 § ska det belopp som motsvarar
 fastighetens marknadsvärde vid övergången anses som ersättning
 för fastigheten. Lag (2007:1419).
 
+9 a § Skogsavdrag på fastighet i utlandet ska också återföras
+
+- när ägaren inte längre är obegränsat skattskyldig i en stat 
+inom Europeiska ekonomiska samarbetsområdet (EES), 
+
+- när ägaren enligt skatteavtal får hemvist i en stat utanför 
+EES, eller
+
+- när fastigheten överlåts genom arv, testamente, gåva, 
+bodelning eller på liknande sätt till en person som inte är 
+obegränsat skattskyldig i en stat inom EES eller som enligt 
+skatteavtal har hemvist i en stat utanför EES. Lag (2026:114).
+
 Bostadsrätter
 
 10 § Vid avyttring av en näringsbostadsrätt ska avdrag som
 avser beskattningsåret och de fem föregående beskattningsåren
 för utgifter för förbättrande reparationer och underhåll av
 bostadsrättslägenheten återföras.
-
-
 
 Reparationer och underhåll anses som förbättrande till den del
 lägenheten på grund av åtgärderna är i bättre skick vid
@@ -11064,27 +11271,40 @@ Lag (2011:1256).
 
 Avdrag för avsättningar
 
-1 § Avdrag får göras enligt bestämmelserna i detta kapitel för
+1 § Avdrag får göras enligt bestämmelserna i detta kapitel för 
 belopp som sätts av till
 
 - ersättningsfond för inventarier,
 
 - ersättningsfond för byggnader och markanläggningar,
 
-- ersättningsfond för mark, och
+- ersättningsfond för mark,
 
-- ersättningsfond för djurlager i jordbruk och renskötsel.
+- ersättningsfond för djurlager i jordbruk och renskötsel, och
 
-Med inventarier avses i detta kapitel inte sådana tillgångar
+- ersättningsfond för naturvårdsmark.
+
+Med inventarier avses i detta kapitel inte sådana tillgångar 
 som nämns i 18 kap. 1 § andra stycket.
+
+Med naturvårdsmark avses mark för vilken ersättning har 
+lämnats för övervägande naturvårdande ändamål med stöd av 
+31 kap. miljöbalken eller med stöd av skogsvårdslagen 
+(1979:429) i samband med
+
+- att förfoganderätten till fastigheten inskränks för 
+obegränsad tid, eller 
+
+- inlösen av fastigheten. Lag (2026:114).
 
 2 § När det gäller svenska handelsbolag ska avdraget beräknas
 för bolaget. Lag (2007:1419).
 
-3 § Den som är skyldig att upprätta årsredovisning eller
-årsbokslut enligt bokföringslagen (1999:1078) får göra avdrag
-bara om motsvarande avsättning görs i räkenskaperna. Detta
-gäller dock inte för en ersättningsfond för mark.
+3 § Den som är skyldig att upprätta årsredovisning eller 
+årsbokslut enligt bokföringslagen (1999:1078) får göra avdrag 
+bara om motsvarande avsättning görs i räkenskaperna. Detta 
+gäller dock inte för en ersättningsfond för mark eller en 
+ersättningsfond för naturvårdsmark. Lag (2026:114).
 
 Ersättningar som ger rätt till avdrag
 
@@ -11176,8 +11396,9 @@ inventarier, och
 - nedskrivning av djurlager i jordbruk och renskötsel med de
 begränsningar som framgår av 13 § andra stycket.
 
-12 § En ersättningsfond för mark får tas i anspråk för
-anskaffning av mark som är kapitaltillgång.
+12 § En ersättningsfond för mark eller en ersättningsfond för 
+naturvårdsmark får tas i anspråk för anskaffning av mark som 
+är kapitaltillgång. Lag (2026:114).
 
 13 § En ersättningsfond för djurlager i jordbruk och renskötsel
 får tas i anspråk för nedskrivning av ett sådant djurlager.
@@ -11211,8 +11432,15 @@ byggnadsinventarier och markinventarier.
 
 Turordning
 
-16 § En tidigare avsättning anses ha tagits i anspråk före en
+16 § En tidigare avsättning anses ha tagits i anspråk före en 
 senare avsättning till samma slags ersättningsfond.
+
+Om avsättning gjorts till både ersättningsfond för mark och 
+ersättningsfond för naturvårdsmark ska den avsättning som ska 
+återföras först anses ha tagits i anspråk först. Om 
+ersättningsfonderna ska återföras samtidigt får den 
+skattskyldige välja vilken ersättningsfond som ska anses ha 
+tagits i anspråk först. Lag (2026:114).
 
 Beskattningskonsekvenser när fonderna tas i anspråk
 
@@ -11247,34 +11475,42 @@ fonden behålls under en viss tid därefter. Som längst får den
 behållas till och med det sjätte beskattningsåret efter det
 beskattningsår då avdraget gjordes. Lag (2011:1256).
 
-20 § Avdraget ska återföras, även om tiden i 19 § inte har 
-löpt ut, om 
+19 a § Om avdrag har medgetts för avsättning till 
+ersättningsfond för naturvårdsmark ska i stället för vad som 
+anges i 19 § följande gälla: Om fonden inte tas i anspråk 
+senast under det tionde beskattningsåret efter det 
+beskattningsår då avdraget gjordes, ska avdraget som har 
+medgetts för avsättning till ersättningsfond för 
+naturvårdsmark återföras detta år. Lag (2026:114).
 
-1. fonden tas i anspråk i strid med bestämmelserna i 10-15 §§, 
+20 § Avdraget ska återföras, även om tiden i 19 § respektive 
+19 a § inte har löpt ut, om
+
+1. fonden tas i anspråk i strid med bestämmelserna i 10-15 §§,
 
 2. den huvudsakliga delen av näringsverksamheten överlåts och 
-inte annat följer av 38 kap. 15 §, 
+inte annat följer av 38 kap. 15 §,
 
 3. den huvudsakliga delen av näringsverksamheten tillfaller en 
 eller flera nya ägare på grund av arv, testamente eller 
-bodelning, 
+bodelning,
 
 4. den som innehar fonden upphör att bedriva 
-näringsverksamheten, 
+näringsverksamheten,
 
-5. skattskyldigheten för näringsverksamheten upphör, 
+5. skattskyldigheten för näringsverksamheten upphör,
 
 6. näringsverksamheten inte längre ska beskattas i Sverige på 
 grund av ett skatteavtal med en stat utanför Europeiska 
-ekonomiska samarbetsområdet (EES), 
+ekonomiska samarbetsområdet (EES),
 
 7. den som innehar fonden upplöses genom fusion eller fission 
-och annat inte följer av bestämmelserna i 37 kap. 17 §, 
+och annat inte följer av bestämmelserna i 37 kap. 17 §,
 
 8. det beslutas att innehavaren av fonden ska träda i 
-likvidation, eller 
+likvidation, eller
 
-9. den som innehar fonden försätts i konkurs. 
+9. den som innehar fonden försätts i konkurs.
 
 Vad som sägs i första stycket 2-4 gäller inte om avsättningen 
 grundas på en sådan avyttring som avses i 5 § 1-4.
@@ -11288,23 +11524,24 @@ Detta gäller bara om den stat till vilken näringsverksamheten
 eller det registrerade sätet förs över är medlem i Europeiska 
 unionen eller har ingått en sådan särskild överenskommelse som 
 avses i 63 kap. 14 § andra stycket skatteförfarandelagen 
-(2011:1244).
+(2011:1244). 
 
 I 23 och 24 §§ finns bestämmelser om att ersättningsfonder i 
 vissa fall får tas över av någon annan i stället för att 
-avdragen återförs. Lag (2023:759).
+avdragen återförs. Lag (2026:114).
 
-21 § Om en enskild näringsidkare har fått avdrag för avsättning
-till en ersättningsfond för byggnader och markanläggningar i
-sådana fall som avses i 5 §, ska återföringen göras i
-inkomstslaget näringsverksamhet till den del fonden motsvarar
-belopp som har tagits upp i inkomstslaget näringsverksamhet vid
-återföring av värdeminskningsavdrag m.m. enligt 26 kap.
-Avdraget i övrigt ska återföras i inkomstslaget kapital.
+21 § Om en enskild näringsidkare har fått avdrag för 
+avsättning till en ersättningsfond för byggnader och 
+markanläggningar i sådana fall som avses i 5 §, ska 
+återföringen göras i inkomstslaget näringsverksamhet till den 
+del fonden motsvarar belopp som har tagits upp i inkomstslaget 
+näringsverksamhet vid återföring av värdeminskningsavdrag m.m. 
+enligt 26 kap. Avdraget i övrigt ska återföras i inkomstslaget 
+kapital.
 
-En enskild näringsidkare ska återföra avdrag för avsättning
-till en ersättningsfond för mark i inkomstslaget kapital. Lag
-(2007:1419).
+En enskild näringsidkare ska återföra avdrag för avsättning 
+till en ersättningsfond för mark eller en ersättningsfond för 
+naturvårdsmark i inkomstslaget kapital. Lag (2026:114).
 
 22 § När avdraget återförs ska ett särskilt tillägg om 30
 procent av det återförda beloppet tas upp som intäkt i de
@@ -11440,13 +11677,10 @@ upphovsmannakonto senast den dag som den skattskyldige enligt
 skatteförfarandelagen (2011:1244) ska lämna
 inkomstdeklaration. Lag (2011:1256).
 
-7 § Som upphovsmannakonto godtas bara sådant konto hos ett
-svenskt kreditinstitut eller ett utländskt kreditinstituts
-filial i Sverige för vilket ränta tillgodoräknas minst en gång
-per år.
-
-I lagen (1990:676) om skatt på ränta på skogskontomedel m.m.
-finns bestämmelser om skatt på räntan. Lag (2004:438).
+7 § Som upphovsmannakonto godtas bara sådant konto hos ett 
+svenskt kreditinstitut eller ett utländskt kreditinstituts 
+filial i Sverige för vilket ränta tillgodoräknas minst en gång 
+per år. Lag (2026:114).
 
 Uttag från kontot
 
@@ -11694,12 +11928,16 @@ skuld räknas
 
 - avsättningar för framtida utgifter. Lag (2007:1419).
 
-12 § Vid beräkning av kapitalunderlaget ska tillgångarna tas
-upp till det skattemässiga värdet. I fråga om fastigheter som
+12 § Vid beräkning av kapitalunderlaget ska tillgångarna tas 
+upp till det skattemässiga värdet. I fråga om fastigheter som 
 är kapitaltillgångar finns bestämmelser också i 13 §.
 
-Medel på skogskonto, skogsskadekonto och upphovsmannakonto ska
-tas upp till halva beloppet. Lag (2007:1419).
+Medel på skogskonto, skogsskadekonto, naturvårdskonto och 
+upphovsmannakonto ska tas upp till halva beloppet.
+
+Medel på skogskonto, skogsskadekonto och naturvårdskonto i 
+utländsk valuta ska värderas till kursen vid tidpunkten för 
+den insättning på kontot som medförde avdrag. Lag (2026:114).
 
 13 § Fastigheter i Sverige som är kapitaltillgångar och som har
 förvärvats före den 1 januari 1991 får i stället anses
@@ -13512,23 +13750,23 @@ en annan. Lag (2012:270).
 
 Beskattning av ägarna i det överlåtande företaget
 
-23 § När det gäller beskattningen av ägare till andelar 
-i det överlåtande företaget vid en partiell fission finns 
-särskilda bestämmelser om 
+23 § När det gäller beskattningen av ägare till andelar i det 
+överlåtande företaget vid en partiell fission finns särskilda 
+bestämmelser om
 
-– beräkning av anskaffningsvärdet för andelar i det 
+- beräkning av anskaffningsvärdet för andelar i det 
 övertagande och det överlåtande företaget i 17 kap. 7 a §,
 
-– utdelning i 24 kap. 7 § och 42 kap. 16 b §,
+- utdelning i 24 kap. 7 § och 42 kap. 16 b §,
 
-– beräkning av omkostnadsbeloppet för andelar i det 
+- beräkning av omkostnadsbeloppet för andelar i det 
 övertagande och överlåtande företaget i 48 kap. 18 a och 
 18 c §§,
 
-– turordning vid avyttring i 48 kap. 18 b §, och
+- turordning vid avyttring i 48 kap. 18 b §, och
 
-– kvalificerade andelar i 57 kap. 7–7 c, 12 a, 15, 20 b–20 d, 
-23 a, 24 och 24 a §§. Lag (2018:1206).
+- kvalificerade andelar i 57 kap. 7-7 d, 15, 20 b-20 e, 23 a, 
+24 och 24 a §§. Lag (2025:1361).
 
 39 kap. Särskilda bestämmelser för vissa juridiska personer
 
@@ -15588,6 +15826,12 @@ Skattskyldighet för utdelning
 12 § Utdelning ska tas upp av den som har rätt till utdelningen
 när den kan disponeras. Lag (2007:1419).
 
+12 a § En gåva som ger en juridisk person rätt till 
+skattereduktion enligt 67 kap. ska inte tas upp som utdelning 
+av någon som direkt eller indirekt äger en andel i den 
+juridiska personen, eller i fråga om ideella föreningar någon 
+som är medlem i föreningen. Lag (2025:1361).
+
 Förvärv av rätt till utdelning eller ränta
 
 13 § Om rätt till enbart utdelning förvärvas genom köp, byte
@@ -16171,32 +16415,7 @@ eller flera kapitalförsäkringar eller avtal om sparande i en
 PEPP-produkt ska avdraget i första hand göras för innehav av 
 ett eller flera investeringssparkonton. Lag (2024:1131).
 
-48 § /Upphör att gälla U:2026-01-01/
-Avdraget enligt 45 § uppgår till summan av
-
-1. de sammanlagda schablonintäkterna för det aktuella 
-kalenderåret enligt 36 § för de investeringssparkonton som den 
-fysiska personen innehaft under kalenderåret, och
-
-2. det sammanlagda underlaget för avdrag enligt 49 § för de 
-kapitalförsäkringar och avtal om sparande i en PEPP-produkt 
-som den fysiska personen innehaft under det aktuella 
-kalenderåret multiplicerat med statslåneräntan vid utgången av 
-november närmast före kalenderåret ökad med en procentenhet, 
-dock lägst med 1,25 procent. 
-
-Avdraget får dock högst uppgå till 150 000 kronor 
-multiplicerat med statslåneräntan vid utgången av november 
-närmast före det aktuella kalenderåret ökad med en 
-procentenhet, dock lägst med 1,25 procent.
-
-Vid innehav av ett eller flera investeringssparkonton och en 
-eller flera kapitalförsäkringar eller avtal om sparande i en 
-PEPP-produkt ska avdraget i första hand göras för innehav av 
-ett eller flera investeringssparkonton. Lag (2024:1131).
-
-48 § /Träder i kraft I:2026-01-01/
-Avdraget enligt 45 § uppgår till summan av
+48 § Avdraget enligt 45 § uppgår till summan av
 
 1. de sammanlagda schablonintäkterna för det aktuella 
 kalenderåret enligt 36 § för de investeringssparkonton som den 
@@ -18525,14 +18744,14 @@ omkostnadsbeloppet för andelarna i det överlåtande företaget,
 den genomsnittliga anskaffningsutgiften minskas i motsvarande
 mån. Lag (2007:1419).
 
-Turordning vid avyttring m.m. av andelar i det övertagande
-företaget
+Turordning vid avyttring m.m. av vissa andelar
 
-18 b § Om en ägare i det överlåtande företaget äger andelar av
-samma slag och sort som den mottagna andelen vid tidpunkten för
-den partiella fissionen (gamla andelar) eller förvärvar sådana
-andelar efter den partiella fissionen (nya andelar), ska
-avyttringar anses ske i följande ordning:
+18 b § Om en person vid tidpunkten för den partiella fissionen 
+redan äger andelar av samma slag och sort som den mottagna 
+andelen (gamla andelar) eller förvärvar sådana andelar efter 
+den partiella fissionen (nya andelar), ska andelarna vid en 
+avyttring, om inget annat anges i andra stycket, anses 
+avyttrade i följande ordning:
 
 1. gamla andelar,
 
@@ -18540,18 +18759,45 @@ avyttringar anses ske i följande ordning:
 
 3. nya andelar.
 
-Bestämmelserna i första stycket tillämpas på motsvarande sätt
-när äganderätten övergår till någon annan på annat sätt än
-genom avyttring. Lag (2007:1419).
+Om andelsinnehavet, helt eller delvis, utgörs av andelar till 
+vilka det hör tjänstebelopp för utdelning och för kapitalvinst 
+vid partiell fission ska andelarna vid en avyttring, i stället 
+för vad som anges i första stycket, anses avyttrade i följande 
+ordning:
+
+1. andelar som har förvärvats före andelarna till vilka det 
+hör tjänstebelopp,
+
+2. andelar till vilka det hör tjänstebelopp,
+
+3. andelar som har förvärvats efter andelarna till vilka det 
+hör tjänstebelopp. 
+
+Om ett andelsinnehav som avses i andra stycket har förvärvats 
+vid olika tidpunkter, tillämpas turordningen separat för varje 
+förvärv av sådana andelar. Andelar som har förvärvats med stöd 
+av andra andelar ska dock anses avyttrade direkt efter de 
+andelar som förvärvet grundar sig på.
+
+Bestämmelserna i denna paragraf tillämpas på motsvarande sätt 
+när äganderätten övergår till någon annan på annat sätt än 
+genom avyttring. Lag (2025:1361).
 
 Genomsnittsmetoden
 
-18 c § Om andelar som mottagits vid en partiell fission inte är
-marknadsnoterade eller är kvalificerade enligt 5 kap. 7-7 b §§
-ska de vid tillämpning av genomsnittsmetoden i 48 kap. 7 § inte
-anses vara av samma slag och sort som andra andelar i det
+18 c § Om andelar som mottagits vid en partiell fission inte 
+är marknadsnoterade eller är kvalificerade enligt 57 kap. 7-
+7 b §§ ska de vid tillämpning av genomsnittsmetoden i 7 § inte 
+anses vara av samma slag och sort som andra andelar i det 
 övertagande företaget som innehas av mottagaren. 
-Lag (2007:1419).
+
+Första stycket gäller även andra andelar till vilka det hör 
+tjänstebelopp för utdelning och för kapitalvinst. Om sådana 
+andelar har förvärvats genom utdelning enligt 42 kap. 16 §, 
+ska dock andelarna vid tillämpning av genomsnittsmetoden inte 
+anses vara av samma slag och sort som andra andelar som 
+innehas i det företag som den utdelade aktien avser.
+Lag (2025:1361).
 
 Beräkning av tjänstebelopp för utdelning och tjänstebelopp för
 kapitalvinst
@@ -18894,13 +19140,13 @@ Lag (2008:1343).
 
 Övriga bestämmelser
 
-Turordning vid avyttring m.m. av andelar i det köpande
-företaget
+Turordning vid avyttring m.m. av vissa andelar
 
-15 § Om säljaren äger andelar av samma slag och sort som den
-mottagna andelen vid tidpunkten för andelsbytet (gamla andelar)
-eller förvärvar sådana andelar efter andelsbytet (nya andelar),
-ska avyttringar anses ske i följande ordning:
+15 § Om en person vid tidpunkten för andelsbytet redan äger 
+andelar av samma slag och sort som den mottagna andelen (gamla 
+andelar) eller förvärvar sådana andelar efter andelsbytet (nya 
+andelar), ska andelarna vid en avyttring, om inget annat anges 
+i andra stycket, anses avyttrade i följande ordning:
 
 1. gamla andelar,
 
@@ -18908,17 +19154,45 @@ ska avyttringar anses ske i följande ordning:
 
 3. nya andelar.
 
-Bestämmelserna i första stycket tillämpas på motsvarande sätt
-när äganderätten övergår till någon annan på annat sätt än
-genom avyttring. Lag (2007:1419).
+Om andelsinnehavet, helt eller delvis, utgörs av andelar till 
+vilka det hör tjänstebelopp för utdelning och för kapitalvinst 
+vid andelsbyte ska andelarna vid en avyttring, i stället för 
+vad som anges i första stycket, anses avyttrade i följande 
+ordning:
+
+1. andelar som har förvärvats före andelarna till vilka det 
+hör tjänstebelopp,
+
+2. andelar till vilka det hör tjänstebelopp,
+
+3. andelar som har förvärvats efter andelarna till vilka det 
+hör tjänstebelopp.
+
+Om ett andelsinnehav som avses i andra stycket har förvärvats 
+vid olika tidpunkter, tillämpas turordningen separat för varje 
+förvärv av sådana andelar. Andelar som har förvärvats med stöd 
+av andra andelar ska dock anses avyttrade direkt efter de 
+andelar som förvärvet grundar sig på.
+
+Bestämmelserna i denna paragraf tillämpas på motsvarande sätt 
+när äganderätten övergår till någon annan på annat sätt än 
+genom avyttring. Lag (2025:1361).
 
 Genomsnittsmetoden
 
-16 § Om mottagna andelar inte är marknadsnoterade eller är
-kvalificerade enligt 57 kap. 7-7 b §§, ska de vid tillämpning
-av genomsnittsmetoden i 48 kap. 7 § inte anses vara av samma
-slag och sort som andra andelar i det köpande företaget som
-innehas av säljaren. Lag (2007:1419).
+16 § Om mottagna andelar inte är marknadsnoterade eller är 
+kvalificerade enligt 57 kap. 7-7 b §§, ska de vid tillämpning 
+av genomsnittsmetoden i 48 kap. 7 § inte anses vara av samma 
+slag och sort som andra andelar i det köpande företaget som 
+innehas av säljaren.
+
+Första stycket gäller även andra andelar till vilka det hör 
+tjänstebelopp för utdelning och för kapitalvinst. Om sådana 
+andelar har förvärvats genom utdelning enligt 42 kap. 16 §, 
+ska dock andelarna vid tillämpning av genomsnittsmetoden inte 
+anses vara av samma slag och sort som andra andelar som 
+innehas i det företag som den utdelade aktien avser.
+Lag (2025:1361).
 
 Fiktiv avräkning m.m.
 
@@ -20243,20 +20517,20 @@ fåmansföretag. Lag (2006:1422).
 
 Huvudregler
 
-2 § Utdelning och kapitalvinst på kvalificerade andelar ska hos
-fysiska personer i den omfattning som anges i 20-22 §§ tas upp
-i inkomstslaget tjänst i stället för i inkomstslaget kapital.
-Som utdelning behandlas även vinst vid minskning av
-aktiekapital med indragning av aktier och vinst vid överlåtelse
-till ett aktiebolag av dess egna aktier.
+2 § Utdelning och kapitalvinst på kvalificerade andelar ska 
+hos fysiska personer i den omfattning som anges i detta 
+kapitel tas upp i inkomstslaget tjänst i stället för i 
+inkomstslaget kapital. Som utdelning behandlas även vinst vid 
+minskning av aktiekapital med indragning av aktier och vinst 
+vid överlåtelse till ett aktiebolag av dess egna aktier.
 
-Vid tillämpning av detta kapitel likställs med andelar andra
-delägarrätter i eller avseende företag och med utdelning ränta
-och annan inkomst på grund av innehav av sådana tillgångar.
-Vinstandelsbevis, kapitalandelsbevis och konvertibler ska
-behandlas som delägarrätter oavsett i vilken valuta de getts
-ut. Med andelar likställs även förpliktelser avseende optioner
-som avses i 44 kap. 31 § andra stycket. Lag (2007:1419).
+Vid tillämpning av detta kapitel likställs med andelar andra 
+delägarrätter i eller avseende företag och med utdelning ränta 
+och annan inkomst på grund av innehav av sådana tillgångar. 
+Vinstandelsbevis, kapitalandelsbevis och konvertibler ska 
+behandlas som delägarrätter oavsett i vilken valuta de getts 
+ut. Med andelar likställs även förpliktelser avseende optioner 
+som avses i 44 kap. 31 § andra stycket. Lag (2025:1361).
 
 Definitioner av kvalificerade andelar
 
@@ -20265,20 +20539,20 @@ eller ett fåmanshandelsbolag gäller vid tillämpning av detta
 kapitel, utöver vad som sägs i 56 kap. 2-5 §§, följande. 
 
 Flera delägare ska anses som en enda delägare, om de själva 
-eller genom någon närstående är eller under något av de fem 
+eller genom någon närstående är eller under något av de fyra 
 föregående beskattningsåren har varit verksamma i betydande 
-omfattning i
+omfattning i 
 
 1. företaget eller i ett av företaget helt eller delvis, 
 direkt eller indirekt, ägt fåmansföretag eller 
-fåmanshandelsbolag,
+fåmanshandelsbolag, 
 
 2. ett företag som helt eller delvis, direkt eller indirekt, 
-äger företaget, eller
+äger företaget, eller 
 
 3. ett annat fåmansföretag eller fåmanshandelsbolag som helt 
 eller delvis, direkt eller indirekt, ägs av ett sådant företag 
-som avses i 2.
+som avses i 2. 
 
 Om en delägare uppfyller villkoren i andra stycket och har ett 
 bestämmande inflytande över en stiftelse eller en annan 
@@ -20288,12 +20562,12 @@ personens andelar i företaget. Vid tillämpning av detta stycke
 ska en fysisk person som direkt eller indirekt innehar sådana 
 tillgångar eller förpliktelser i eller avseende företaget som 
 likställs med andelar enligt 2 § andra stycket anses som en 
-delägare.
+delägare. 
 
 Om flera delägare tillsammans har ett bestämmande inflytande 
 över den juridiska personen och i övrigt uppfyller villkoren i 
 tredje stycket, ska delägarna i lika delar anses äga den 
-juridiska personens andelar i företaget. Lag (2021:1147).
+juridiska personens andelar i företaget. Lag (2025:1361).
 
 3 a § En delägare anses ha ett bestämmande inflytande enligt 
 3 § tredje och fjärde styckena över en stiftelse eller en 
@@ -20314,39 +20588,39 @@ Första stycket gäller på motsvarande sätt om det är fråga om
 flera delägare eller flera närstående. Lag (2021:1147).
 
 4 § Med kvalificerad andel avses andel i eller avseende ett 
-fåmansföretag under förutsättning att
+fåmansföretag under förutsättning att 
 
 1. andelsägaren eller någon närstående under beskattningsåret 
-eller något av de fem föregående beskattningsåren varit 
-verksam i betydande omfattning i företaget,
+eller något av de fyra föregående beskattningsåren varit 
+verksam i betydande omfattning i företaget, 
 
 2. företaget, direkt eller indirekt, under beskattningsåret 
-eller något av de fem föregående beskattningsåren har ägt 
+eller något av de fyra föregående beskattningsåren har ägt 
 andelar i ett annat fåmansföretag eller i ett 
 fåmanshandelsbolag och andelsägaren eller någon närstående 
-under beskattningsåret eller något av de fem föregående 
+under beskattningsåret eller något av de fyra föregående 
 beskattningsåren varit verksam i betydande omfattning i detta 
-fåmansföretag eller fåmans-handelsbolag, eller
+fåmansföretag eller fåmanshandelsbolag, eller 
 
 3. andelsägaren eller någon närstående under beskattningsåret 
-eller något av de fem föregående beskattningsåren varit 
+eller något av de fyra föregående beskattningsåren varit 
 verksam i betydande omfattning i ett fåmansföretag eller ett 
 fåmanshandelsbolag som bedriver samma eller likartad 
 verksamhet som ett fåmansföretag eller fåmanshandelsbolag som 
-avses i 1 eller 2.
+avses i 1 eller 2. 
 
 Om en sådan andel i ett fåmansföretag som inte ska anses vara 
 kvalificerad enligt bestämmelserna i första stycket förvärvats 
-under beskattningsåret eller något av de fem föregående 
+under beskattningsåret eller något av de fyra föregående 
 beskattningsåren genom sådan utdelning på en kvalificerad 
 andel i ett annat fåmansföretag som på grund av bestämmelserna 
 i 42 kap. 16 § inte har beskattats, ska villkoren i första 
 stycket tillämpas som om det företag som den utdelade aktien 
-avser vore det företag som delat ut aktien.
+avser vore det företag som delat ut aktien. 
 
 Om ägaren till en kvalificerad andel dör, ska andelen anses 
 kvalificerad även hos dödsboet. Delägare i dödsboet likställs 
-då med närstående. Lag (2019:307).
+då med närstående. Lag (2025:1361).
 
 4 a § En andel i ett fåmansföretag ska inte anses kvalificerad 
 enligt 4 § första stycket enbart på grund av att någon annan 
@@ -20378,7 +20652,7 @@ anses kvalificerad. Lag (2019:307).
 omfattning äger del i företaget och, direkt eller indirekt, 
 har rätt till utdelning, ska en andel anses kvalificerad bara 
 om det finns särskilda skäl. Vid bedömningen ska förhållandena 
-under beskattningsåret och de fem föregående beskattningsåren 
+under beskattningsåret och de fyra föregående beskattningsåren 
 beaktas. 
 
 Med företag avses här det företag i vilket delägaren eller 
@@ -20398,7 +20672,7 @@ avses i 4 § eller andelar i ett fåmanshandelsbolag som avses i
 den paragrafen.
 
 Vid tillämpning av tredje stycket ska sådana andelar som avses 
-i 4 a § likställas med kvalificerade andelar. Lag (2019:307).
+i 4 a § likställas med kvalificerade andelar. Lag (2025:1361).
 
 5 a § Vid tillämpning av 5 § ska ett företag anses ägt av 
 utomstående utom till den del
@@ -20416,23 +20690,24 @@ av förmåner som ges ut av denna person, eller
 b) den avkastning som är hänförlig till den juridiska 
 personens andelar i företaget. Lag (2021:1147).
 
-6 § Upphör ett företag att vara fåmansföretag, ska en andel
-anses kvalificerad under fem beskattningsår därefter eller den
-kortare tid som följer av 4 §. Detta gäller dock bara om
+6 § Upphör ett företag att vara fåmansföretag, ska en andel 
+anses kvalificerad under fyra beskattningsår därefter eller 
+den kortare tid som följer av 4 §. Detta gäller dock bara om 
 andelsägaren eller någon närstående
 
-1. ägde andelen när företaget upphörde att vara fåmansföretag
-och andelen då var kvalificerad, eller
+1. ägde andelen när företaget upphörde att vara fåmansföretag 
+och andelen då var kvalificerad, eller 
 
-2. har förvärvat andelen med stöd av en sådan andel som avses i
-1.
+2. har förvärvat andelen med stöd av en sådan andel som avses 
+i 1.
 
-Om en aktieägare överlåter en kvalificerad andel i ett
-aktiebolag till bolaget och bolaget därefter överlåter en egen
-aktie till honom, ska den från bolaget förvärvade aktien anses
-som en kvalificerad andel hos aktieägaren i det fall den till
-bolaget överlåtna andelen skulle ha varit kvalificerad om han
-fortfarande innehaft den. Lag (2007:1419).
+Om en aktieägare överlåter en kvalificerad andel i ett 
+aktiebolag till bolaget och bolaget därefter överlåter en egen 
+aktie till honom eller henne, ska den från bolaget förvärvade 
+aktien anses som en kvalificerad andel hos aktieägaren i det 
+fall den till bolaget överlåtna andelen skulle ha varit 
+kvalificerad om han eller hon fortfarande innehaft den.
+Lag (2025:1361).
 
 7 § Om en kvalificerad andel avyttras genom ett andelsbyte, ska
 mottagna andelar anses kvalificerade hos andelsägaren. En andel
@@ -20457,21 +20732,22 @@ direkt eller indirekt äger andel i, ska mottagarens andelar i
 det fåmansföretag som direkt eller indirekt förvärvat andelarna
 anses kvalificerade. Lag (2007:1419).
 
-7 b § Om en andel som är kvalificerad enligt 7 eller 7 a §
-övergår till någon annan genom arv, testamente, gåva eller
-bodelning, ska den anses kvalificerad. Detta gäller inte om
-bestämmelsen i 23 a § är tillämplig. En andel ska också anses
-kvalificerad om den förvärvats med stöd av en sådan
-kvalificerad andel.
+7 b § Om en andel som är kvalificerad enligt 7 eller 7 a § 
+övergår till någon annan genom arv, testamente, gåva eller 
+bodelning, ska den anses kvalificerad. Detta gäller inte om 
+bestämmelsen i 23 a § är tillämplig. En andel ska också anses 
+kvalificerad om den förvärvas med stöd av en sådan 
+kvalificerad andel och det inte lämnas någon ersättning för 
+andelen eller ersättningen är lägre än andelens marknadsvärde. 
 
-Det som sägs om en mottagen andel i 7 a § tillämpas även på en
-andel som anses kvalificerad enligt första stycket. Vad som
-sägs om mottagaren i 7 a § gäller i dessa fall den som erhållit
-andelen genom arv, testamente, gåva eller bodelning.
+Det som sägs om en mottagen andel i 7 a § tillämpas även på en 
+andel som anses kvalificerad enligt första stycket. Vad som 
+sägs om mottagaren i 7 a § gäller i dessa fall den som 
+erhållit andelen genom arv, testamente, gåva eller bodelning. 
 
-Det som sägs i första stycket om en andel som är kvalificerad
-enligt 7 eller 7 a § tillämpas också på en andel som blivit
-kvalificerad enligt första stycket. Lag (2007:1419).
+Det som sägs i första stycket om en andel som är kvalificerad 
+enligt 7 eller 7 a § tillämpas också på en andel som blivit 
+kvalificerad enligt första stycket. Lag (2025:1361).
 
 7 c § Om det vid en sådan avyttring som avses i 7 a § finns ett
 sådant tjänstebelopp för utdelning vid andelsbyte eller
@@ -20488,6 +20764,19 @@ tredje stycket eller 48 a kap. 8 b § andra stycket, ska det
 minskas med kapitalvinst som tagits upp i inkomstslaget tjänst
 och fördelas på mottagarens andelar i fåmansföretaget. Lag
 (2007:1419).
+
+7 d § Om en andel som förvärvas är kvalificerad enligt 7 b § 
+första stycket tredje meningen och det till den andel som 
+förvärvet av andelen grundas på hör tjänstebelopp för 
+utdelning och för kapitalvinst vid andelsbyte eller partiell 
+fission som avses i 48 kap. 18 d § eller 48 a kap. 8 a och 
+8 b §§, ska tjänstebeloppen fördelas mellan den andel som 
+förvärvet grundas på och den förvärvade andelen. 
+
+Den del av tjänstebeloppen som enligt första stycket ska 
+fördelas på den förvärvade andelen ska motsvara den minskning 
+av marknadsvärdet som förfarandet medför för den andel som 
+förvärvet grundas på. Lag (2025:1361).
 
 Definitioner för utdelning och kapitalvinst
 
@@ -20506,192 +20795,200 @@ beskattningsåret. Lag (2010:1277).
 
 Gränsbelopp
 
-10 § Gränsbelopp beräknas för kvalificerade andelar och är
+10 § Gränsbelopp beräknas för kvalificerade andelar och är 
 summan av
 
-1. årets gränsbelopp, och
+1. årets gränsbelopp, och 
 
-2. sparat utdelningsutrymme uppräknat med statslåneräntan ökad
-med tre procentenheter.
+2. sparat utdelningsutrymme.
+Lag (2025:1361).
 
-För tillgångar som avses i 2 § andra stycket ska det sparade
-utdelningsutrymmet i stället räknas upp med statslåneräntan
-ökad med en procentenhet. Lag (2007:1419).
-
-10 a § Efter ett andelsbyte beräknas gränsbelopp under
-beskattningsåret för en mottagen andel som om andelen var en
-andel i det avyttrade företaget. Lag (2006:1422).
+10 a § Har upphävts genom lag (2025:1361).
 
 Årets gränsbelopp
 
-11 § Årets gränsbelopp är
+11 § Årets gränsbelopp för en kvalificerad andel är summan av 
 
-1. ett belopp som motsvarar två och tre fjärdedels
-inkomstbasbelopp fördelat med lika belopp på andelarna i
-företaget, eller
+1. ett belopp som motsvarar fyra inkomstbasbelopp 
+(grundbeloppet) fördelat med lika belopp på andelarna i 
+företaget,
 
-2. summan av
+2. för andelar i fåmansföretag eller andelar som fortsätter 
+att vara kvalificerade enligt 6 §, ett lönebaserat utrymme 
+beräknat enligt 16-19 a §§, och
 
-– underlaget för årets gränsbelopp multiplicerat med
-statslåneräntan ökad med nio procentenheter, och
+3. ränta på omkostnadsbeloppet beräknad enligt andra stycket.
 
-– för andelar i fåmansföretag eller företag som avses i 6 §
-lönebaserat utrymme enligt 16–19 a §§.
+Ränta på omkostnadsbeloppet beräknas för andelar av samma slag 
+och sort, på den del av andelarnas sammanlagda 
+omkostnadsbelopp enligt 12 § som överstiger 100 000 kronor. 
+Räntesatsen uppgår till statslåneräntan ökad med nio 
+procentenheter. Räntebeloppet ska fördelas med lika belopp på 
+delägarens andelar av samma slag och sort. 
 
-För tillgångar som avses i 2 § andra stycket ska
-statslåneräntan i stället ökas med en procentenhet.
-Bestämmelserna i första stycket 1 och i 16–19 a §§ gäller
-inte för sådana tillgångar.
+För tillgångar som avses i 2 § andra stycket tillämpas inte 
+första stycket 1 och 2. Vid tillämpningen av andra stycket på 
+sådana tillgångar ska statslåneräntan i stället ökas med en 
+procentenhet. 
 
-Årets gränsbelopp beräknas vid årets ingång och
-tillgodoräknas den som äger andelen vid denna tidpunkt. Om en
-andel förvärvas genom arv, testamente, gåva, bodelning eller
-på liknande sätt, inträder förvärvaren i den tidigare ägarens
-situation i fråga om beräkning av årets gränsbelopp.
-Lag (2013:960).
+Årets gränsbelopp beräknas vid årets ingång och tillgodoräknas 
+den som äger andelen vid denna tidpunkt. Om en andel förvärvas 
+genom arv, testamente, gåva, bodelning eller på liknande sätt, 
+inträder förvärvaren i den tidigare ägarens situation i fråga 
+om beräkning av årets gränsbelopp. Lag (2025:1361).
 
-11 a § Den som äger andelar i flera företag får beräkna årets
-gränsbelopp enligt 11 § första stycket 1 för andelar i endast
-ett av företagen. Lag (2011:1271).
+11 a § Den som äger andelar i flera företag får vid 
+beräkningen av årets gränsbelopp inte tillgodoräkna sig mer än 
+ett grundbelopp. Om de belopp som enligt 11 § första stycket 1 
+har fördelats på en och samma delägares andelar i flera 
+företag sammanlagt överstiger ett grundbelopp, ska 
+grundbeloppet i stället fördelas på delägarens andelar i dessa 
+företag i förhållande till storleken på andelsinnehaven i 
+företagen. Lag (2025:1361).
 
-Underlag för årets gränsbelopp
+12 § Vid beräkningen av årets gränsbelopp ska 
+omkostnadsbeloppet beräknas som om andelen hade avyttrats vid 
+årets ingång.
 
-12 § Underlaget för årets gränsbelopp är det omkostnadsbelopp
-som skulle ha använts om andelen hade avyttrats vid årets
-ingång.
+Omkostnadsbeloppet ska minskas med tillskott som gjorts i 
+annat syfte än att varaktigt tillföra kapital till företaget. 
+Omkostnadsbeloppet ska även minskas med anskaffningsutgift för 
+andelen till den del sådant tillskott, direkt eller indirekt, 
+har ökat värdet på andelen. Lag (2025:1361).
 
-Vid beräkning av omkostnadsbeloppet tillämpas 25-35 §§. Detta
-gäller dock inte för tillgångar som avses i 2 § andra stycket.
-
-Omkostnadsbeloppet ska minskas med tillskott som gjorts i
-annat syfte än att varaktigt tillföra kapital till företaget.
-Omkostnadsbeloppet ska även minskas med anskaffningsutgift för
-andelen till den del sådant tillskott, direkt eller indirekt,
-har ökat värdet på andelen. Lag (2011:1271).
-
-12 a § Omkostnadsbelopp beräknat enligt 25 och 26 §§ för en
-andel i det avyttrade företaget vid ett andelsbyte fördelas på
-de mottagna andelarna.
-
-Omkostnadsbelopp beräknat enligt 25 och 26 §§ för en andel i
-det överlåtande företaget vid en partiell fission fördelas på
-de mottagna andelarna och andelarna i det överlåtande företaget
-på det sätt som omkostnadsbeloppet fördelas enligt 48 kap.
-18 a §. Lag (2006:1422).
+12 a § Har upphävts genom lag (2025:1361).
 
 Sparat utdelningsutrymme
 
-13 § Om utdelningen understiger gränsbeloppet, ska skillnaden
-(sparat utdelningsutrymme) föras vidare till nästa
-beskattningsår. Sparat utdelningsutrymme utgör dock gränsbelopp
-enligt 20 § om ytterligare utdelning sker under
-beskattningsåret. Sparat utdelningsutrymme utgör gränsbelopp
-enligt 20 § om utdelning sker på en mottagen andel under det
-beskattningsår då en partiell fission genomförs. Sparat
-utdelningsutrymme som beräknats vid utdelning under
-beskattningsåret utgör gränsbelopp vid kapitalvinstberäkning
-enligt 21 §.
+13 § Om utdelningen understiger gränsbeloppet, ska skillnaden 
+(sparat utdelningsutrymme) föras vidare till nästa 
+beskattningsår. Sparat utdelningsutrymme utgör dock 
+gränsbelopp enligt 20 § om ytterligare utdelning sker under 
+beskattningsåret. Sparat utdelningsutrymme utgör gränsbelopp 
+enligt 20 § om utdelning sker på en mottagen andel under det 
+beskattningsår då en partiell fission genomförs. Sparat 
+utdelningsutrymme som beräknats vid utdelning under 
+beskattningsåret utgör gränsbelopp vid kapitalvinstberäkning 
+enligt 21 §. 
 
-Lämnar företaget inte någon utdelning, ska hela gränsbeloppet
-föras vidare som sparat utdelningsutrymme. Om andelen mottagits
-vid en partiell fission under beskattningsåret, ska sparat
-utdelningsutrymme inte räknas upp enligt 10 § första stycket 2.
-Sparat utdelningsutrymme ska föras vidare även om andelen under
-något år inte är kvalificerad. Lag (2008:1064).
+Lämnar företaget inte någon utdelning, ska hela gränsbeloppet 
+föras vidare som sparat utdelningsutrymme. Sparat 
+utdelningsutrymme ska föras vidare även om andelen under något 
+år inte är kvalificerad. Lag (2025:1361).
 
 14 § Om en kvalificerad andel övergår till en ny ägare genom
 arv, testamente, gåva, bodelning eller på liknande sätt, tar
 förvärvaren över den tidigare ägarens sparade
 utdelningsutrymme. Lag (2005:1136).
 
-15 § Om kvalificerade andelar avyttras genom ett andelsbyte,
-ska sparat utdelningsutrymme fördelas på de mottagna andelarna.
+15 § Om kvalificerade andelar avyttras genom ett andelsbyte, 
+ska sparat utdelningsutrymme fördelas på de mottagna 
+andelarna. 
 
-Om det vid en partiell fission finns sparat utdelningsutrymme
-enligt 13 § som hör till en andel i det överlåtande företaget,
-ska detta utrymme fördelas mellan de mottagna andelarna och
-andelen i det överlåtande företaget på det sätt som
-omkostnadsbeloppet fördelas enligt 48 kap. 18 a §.
+Om det vid en partiell fission finns sparat utdelningsutrymme 
+enligt 13 § som hör till en andel i det överlåtande företaget, 
+ska detta utrymme fördelas mellan de mottagna andelarna och 
+andelen i det överlåtande företaget på det sätt som 
+omkostnadsbeloppet fördelas enligt 48 kap. 18 a §. 
 
-Om andelar som är kvalificerade enligt 7, 7 a eller 7 b §
-avyttras till ett fåmansföretag eller fåmanshandelsbolag som
-säljaren direkt eller indirekt äger andel i, ska sparat
-utdelningsutrymme fördelas på säljarens andelar i
-fåmansföretaget som förvärvat andelarna direkt eller indirekt.
-Lag (2007:1419).
+Om andelar som är kvalificerade enligt 7, 7 a eller 7 b § 
+avyttras till ett fåmansföretag eller fåmanshandelsbolag som 
+säljaren direkt eller indirekt äger andel i, ska sparat 
+utdelningsutrymme fördelas på säljarens andelar i 
+fåmansföretaget som förvärvat andelarna direkt eller indirekt. 
+
+Om en andel som förvärvas är kvalificerad enligt 7 b § första 
+stycket tredje meningen, ska sparat utdelningsutrymme fördelas 
+mellan den andel som förvärvet grundas på och den förvärvade 
+andelen på motsvarande sätt som tjänstebelopp fördelas enligt 
+7 d §. Lag (2025:1361).
 
 Lönebaserat utrymme
 
-16 § Det lönebaserade utrymmet är 50 procent av
-löneunderlaget enligt 17 och 18 §§ och fördelas med lika
-belopp på andelarna i företaget.
+16 § Det lönebaserade utrymmet är 50 procent av den del av 
+delägarens andel av löneunderlaget som överstiger åtta 
+inkomstbasbelopp. Det lönebaserade utrymmet fördelas med lika 
+belopp på delägarens andelar i företaget.
 
-Om en andel ägts under del av året före beskattningsåret, ska
-bara ersättning som betalats ut under denna tid ingå i
-löneunderlaget vid beräkningen av det lönebaserade utrymmet
-för den andelen.
+Om två delägare i samma företag är makar vid beskattningsårets 
+ingång ska det lönebaserade utrymmet beräknas gemensamt för 
+makarnas andelar och därefter fördelas med lika belopp på 
+makarnas andelar i företaget. 
 
-Det lönebaserade utrymmet för delägarens samtliga andelar får
-inte överstiga ett belopp som motsvarar 50 gånger sådan
-kontant ersättning som avses i 17 § första stycket och som
-delägaren eller någon närstående har fått från företaget och
+Det lönebaserade utrymmet för delägarens samtliga andelar får 
+inte överstiga ett belopp som motsvarar 50 gånger sådan 
+kontant ersättning som avses i 17 § första stycket och som 
+delägaren eller någon närstående har fått från företaget och 
 dess dotterföretag under året före beskattningsåret.
-Lag (2013:960).
+Lag (2025:1361).
 
-17 § Löneunderlaget ska beräknas på grundval av sådan kontant
-ersättning som hos arbetstagaren ska tas upp i inkomstslaget
-tjänst och som under året före beskattningsåret har lämnats
-till arbetstagarna i företaget och i dess dotterföretag.
-Motsvarande ersättning som betalats ut till arbetstagare i
-utlandet räknas också in i löneunderlaget om företaget hör
-hemma i en stat inom Europeiska ekonomiska samarbetsområdet.
-Som kontant ersättning avses även sådan ersättning som
-arbetstagare fått från företaget och som skulle tagits upp i
-inkomstslaget tjänst om inte undantag gällt enligt 3 kap. 9 §
-eller på grund av bestämmelse i skatteavtal. Som kontant
+16 a § Om en andel har ägts under en del av året före 
+beskattningsåret, ska bara ersättning som betalats ut under 
+denna tid ingå i löneunderlaget vid beräkningen av det 
+lönebaserade utrymmet för den andelen.
+
+Om en sådan andel har mottagits genom ett andelsbyte, ska 
+ersättning som har betalats ut under den del av året som 
+föregick andelsbytet också ingå vid beräkningen av det 
+lönebaserade utrymmet för den mottagna andelen. För tiden före 
+andelsbytet ska då den genom andelsbytet avyttrade andelen 
+ligga till grund för beräkningen. Lag (2025:1361).
+
+17 § Löneunderlaget ska beräknas på grundval av sådan kontant 
+ersättning som hos arbetstagaren ska tas upp i inkomstslaget 
+tjänst och som under året före beskattningsåret har lämnats 
+till arbetstagarna i företaget och i dess dotterföretag. 
+Motsvarande ersättning som betalats ut till arbetstagare i 
+utlandet räknas också in i löneunderlaget om företaget hör 
+hemma i en stat inom Europeiska ekonomiska samarbetsområdet. 
+Som kontant ersättning avses även sådan ersättning som 
+arbetstagare fått från företaget och som skulle tagits upp i 
+inkomstslaget tjänst om inte undantag gällt enligt 3 kap. 9 § 
+eller på grund av bestämmelse i skatteavtal. Som kontant 
 ersättning avses inte
 
-- kostnadsersättning, eller
+- kostnadsersättning, eller 
 
-- belopp som ska tas upp i inkomstslaget tjänst enligt detta
+- belopp som ska tas upp i inkomstslaget tjänst enligt detta 
 kapitel.
 
-Om ersättningen avser arbetstagare i ett dotterföretag som inte
-är helägt, ska så stor del av ersättningen räknas med som
-motsvarar moderföretagets andel i dotterföretaget. Om ett
-dotterföretag har ägts under del av det år som löneunderlaget
-avser, ska bara ersättning som betalats ut under denna tid
-räknas med. Lag (2007:1419).
+Om ersättningen avser arbetstagare i ett dotterföretag som 
+inte är helägt, ska så stor del av ersättningen räknas med som 
+motsvarar moderföretagets andel i dotterföretaget. Om ett 
+dotterföretag har ägts under del av det år som löneunderlaget 
+avser, ska bara ersättning som betalats ut under denna tid 
+räknas med. 
+
+Av 16 a § andra stycket följer att ersättning som har betalats 
+ut från ett företag eller från dess dotterföretag i vissa fall 
+ska ingå i löneunderlaget, om andelar i företaget har 
+avyttrats vid ett andelsbyte. Lag (2025:1361).
+
+17 a § Vid beräkningen av löneunderlaget ska ersättning till 
+arbetstagare i företag som ägs genom en alternativ 
+investeringsfond inte räknas med.
+
+Med alternativ investeringsfond avses en fond enligt 1 kap. 
+2 § lagen (2013:561) om förvaltare av alternativa 
+investeringsfonder vars förvaltare omfattas av registrerings- 
+eller tillståndsplikt enligt den lagen eller som skulle ha 
+omfattats av sådan plikt om förvaltaren bedrivit sin 
+verksamhet i Sverige. Lag (2025:1361).
 
 18 § Vid beräkningen av löneunderlaget ska ersättningar som
 täcks av statliga bidrag för lönekostnader inte räknas med. Lag
 (2007:1419).
 
-19 § Lönebaserat utrymme ska beräknas bara om
+19 § Har upphävts genom lag (2025:1361).
 
-1. andelsägaren äger andelar i företaget som motsvarar minst
-fyra procent av kapitalet i företaget, och
-
-2. andelsägaren eller någon närstående under året före
-beskattningsåret fått sådan kontant ersättning som avses i 17 §
-första stycket från företaget och dess dotterföretag med
-ett belopp som sammanlagt inte understiger det lägsta av
-
-– sex inkomstbasbelopp med tillägg för fem procent av den
-sammanlagda kontanta ersättningen i företaget och i dess
-dotterföretag, och
-
-– 9,6 inkomstbasbelopp.
-Lag (2013:960).
-
-19 a § Vid tillämpning av 16–19 §§ ska det med dotterföretag
-avses ett företag där moderföretagets andel, direkt eller
-indirekt genom ett annat dotterföretag, överstiger 50 procent
-av kapitalet i företaget. Om företaget är ett svenskt
-handelsbolag eller en i utlandet delägarbeskattad juridisk
-person, ska det dock med dotterföretag avses ett företag där
-samtliga andelar, direkt eller indirekt, ägs av
-moderföretaget. Lag (2013:960).
+19 a § Om ett dotterföretag är ett svenskt handelsbolag får 
+ersättningar till arbetstagare i handelsbolaget och i företag 
+som helt eller delvis ägs av handelsbolaget bara räknas med 
+vid beräkningen av löneunderlaget om samtliga andelar i 
+handelsbolaget, direkt eller indirekt, ägs av moderföretaget. 
+Vid tillämpning av denna paragraf likställs en i utlandet 
+delägarbeskattad juridisk person med ett svenskt handelsbolag.
+Lag (2025:1361).
 
 Utdelning
 
@@ -20722,57 +21019,58 @@ kapitel utdelning i form av andelar i det övertagande
 företaget, som enligt 42 kap. 16 b § inte ska tas upp, värderas
 till noll kronor. Lag (2011:1271).
 
-20 c § Utdelning på en andel som är kvalificerad bara enligt 7,
-7 a eller 7 b § och till vilken det hör ett tjänstebelopp för
-utdelning vid andelsbyten ska inte längre tas upp i
-inkomstslaget tjänst när ett belopp lika med tjänstebeloppet
-för utdelning vid andelsbyten enligt 48 a kap. 8 b § första
-stycket eller det tjänstebelopp som har fördelats enligt 7 c §
-första stycket, 48 kap. 18 e § andra stycket eller 48 a kap.
-8 c § andra stycket tagits upp i inkomstslaget tjänst för
-beskattningsåret och tidigare beskattningsår. Därefter ska
-andelen inte anses kvalificerad.
+20 c § Utdelning på en andel som är kvalificerad bara enligt 
+7, 7 a eller 7 b § och till vilken det hör ett tjänstebelopp 
+för utdelning vid andelsbyten ska inte längre tas upp i 
+inkomstslaget tjänst när ett belopp lika med tjänstebeloppet 
+för utdelning vid andelsbyten enligt 48 a kap. 8 b § första 
+stycket eller det tjänstebelopp som har fördelats enligt 7 c § 
+första stycket eller 7 d §, 48 kap. 18 e § andra stycket eller 
+48 a kap. 8 c § andra stycket har tagits upp i inkomstslaget 
+tjänst för beskattningsåret och tidigare beskattningsår. 
+Därefter ska andelen inte anses kvalificerad. 
 
-Vid tillämpning av första stycket ska utdelning på en andel i
-ett företag som varit överlåtande företag vid en partiell
-fission och till vilken andel det hör ett tjänstebelopp för
-utdelning vid andelsbyten som fördelats enligt 48 kap. 18 e §
-andra stycket beaktas bara om utdelningen erhållits efter den
-partiella fissionen. Lag (2011:1271).
+Vid tillämpning av första stycket ska utdelning på en andel i 
+ett företag som varit överlåtande företag vid en partiell 
+fission och till vilken andel det hör ett tjänstebelopp för 
+utdelning vid andelsbyten som fördelats enligt 48 kap. 18 e § 
+andra stycket beaktas bara om utdelningen erhållits efter den 
+partiella fissionen. Lag (2025:1361).
 
-20 d § Utdelning på en andel som är kvalificerad bara enligt 7,
-7 a eller 7 b § och till vilken det hör ett tjänstebelopp för
-utdelning vid partiell fission ska inte längre tas upp i
-inkomstslaget tjänst när ett belopp lika med tjänstebeloppet
-för utdelning vid partiell fission enligt 48 kap. 18 d § andra
-stycket eller det tjänstebelopp som har fördelats enligt 7 c §
-första stycket, 48 kap. 18 e § andra stycket eller 48 a kap.
-8 c § andra stycket tagits upp i inkomstslaget tjänst för
-beskattningsåret och tidigare beskattningsår. Därefter ska
-andelen inte anses kvalificerad.
+20 d § Utdelning på en andel som är kvalificerad bara enligt 
+7, 7 a eller 7 b § och till vilken det hör ett tjänstebelopp 
+för utdelning vid partiell fission ska inte längre tas upp i 
+inkomstslaget tjänst när ett belopp lika med tjänstebeloppet 
+för utdelning vid partiell fission enligt 48 kap. 18 d § andra 
+stycket eller det tjänstebelopp som har fördelats enligt 7 c § 
+första stycket eller 7 d §, 48 kap. 18 e § andra stycket eller 
+48 a kap. 8 c § andra stycket har tagits upp i inkomstslaget 
+tjänst för beskattningsåret och tidigare beskattningsår. 
+Därefter ska andelen inte anses kvalificerad.
 
-Vid tillämpning av första stycket ska utdelning på en andel i
-ett företag som varit överlåtande företag vid en partiell
-fission och till vilken andel det hör ett tjänstebelopp för
-utdelning vid partiell fission som fördelats enligt 48 kap.
-18 e § andra stycket beaktas bara om utdelningen erhållits
-efter den partiella fissionen. Lag (2011:1271).
+Vid tillämpning av första stycket ska utdelning på en andel i 
+ett företag som varit överlåtande företag vid en partiell 
+fission och till vilken andel det hör ett tjänstebelopp för 
+utdelning vid partiell fission som fördelats enligt 48 kap. 
+18 e § andra stycket beaktas bara om utdelningen erhållits 
+efter den partiella fissionen. Lag (2025:1361).
+
+20 e § Utdelning och kapitalvinst på en andel som är 
+kvalificerad bara enligt 7, 7 a eller 7 b § och vars 
+tjänstebelopp för utdelning vid andelsbyte eller vid partiell 
+fission beräknats till noll kronor ska inte tas upp i 
+inkomstslaget tjänst. En sådan andel ska anses som 
+kvalificerad under fyra beskattningsår efter det 
+beskattningsår då andelsbytet eller den partiella fissionen 
+genomfördes eller den kortare tid som följer av 4 §.
+Lag (2025:1361).
 
 Kapitalvinst
 
-21 § Kapitalvinst på en kvalificerad andel till den del den
-överstiger gränsbeloppet ska tas upp i inkomstslaget tjänst.
-Kapitalvinst som motsvarar gränsbeloppet ska tas upp till två
-tredjedelar i inkomstslaget kapital.
-
-Om kapitalvinst på en kvalificerad andel som anskaffats före år
-1992 överstiger gränsbeloppet, ska den överskjutande delen upp
-till ett belopp som motsvarar skillnaden mellan
-omkostnadsbeloppet beräknat enligt 25-35 §§ och
-omkostnadsbeloppet beräknat enligt 44 kap. 14 § i sin helhet
-tas upp i inkomstslaget kapital i stället för i inkomstslaget
-tjänst. Detta gäller inte för tillgångar som avses i 2 § andra
-stycket. Lag (2008:1064).
+21 § Kapitalvinst på en kvalificerad andel till den del den 
+överstiger gränsbeloppet ska tas upp i inkomstslaget tjänst. 
+Kapitalvinst som motsvarar gränsbeloppet ska tas upp till två 
+tredjedelar i inkomstslaget kapital. Lag (2025:1361).
 
 22 § En kapitalvinst ska inte tas upp i inkomstslaget tjänst
 till den del det skulle medföra att den skattskyldige och
@@ -20803,193 +21101,67 @@ Lag (2007:1419).
 
 Kapitalvinst efter andelsbyte eller partiell fission
 
-24 § Om en andel som är kvalificerad bara enligt 7, 7 a eller 7
-b § och till vilken det hör ett tjänstebelopp för kapitalvinst
-vid andelsbyten avyttras eller upphör att existera, ska den del
-av kapitalvinsten som tas upp i inkomstslaget tjänst inte
-överstiga tjänstebeloppet för kapitalvinst vid andelsbyten
-enligt 48 a kap. 8 b § andra stycket eller det tjänstebelopp
-som har fördelats enligt 7 c § andra stycket, 48 kap. 18 e §
-tredje stycket eller 48 a kap. 8 c § tredje stycket. Mer än
-tjänstebeloppet för utdelning vid andelsbyten ska inte tas upp
-som utdelning och kapitalvinst i inkomstslaget tjänst.
-
-Vid tillämpning av första stycket ska utdelning på en andel i
-ett företag som varit överlåtande företag vid en partiell
-fission och till vilken andel det hör ett tjänstebelopp för
-utdelning vid andelsbyten beaktas bara om utdelningen erhållits
-efter den partiella fissionen.
-
-
-Bestämmelser om fördelning mellan inkomstslagen tjänst och
-kapital av ersättning i pengar vid andelsbyten finns i 48 a
-kap. 9 §. Lag (2007:1419).
-
-24 a § Om en andel som är kvalificerad bara enligt 7, 7 a eller
-7 b § och till vilken det hör ett tjänstebelopp för
-kapitalvinst vid partiell fission avyttras eller upphör att
-existera, ska den del av kapitalvinsten som tas upp i
-inkomstslaget tjänst inte överstiga tjänstebeloppet för
-kapitalvinst vid partiell fission enligt 48 kap. 18 d § tredje
-stycket eller det tjänstebelopp som har fördelats enligt 7 c §
-andra stycket, 48 kap. 18 e § tredje stycket eller 48 a kap. 8
-c § tredje stycket. Mer än tjänstebeloppet för utdelning vid
-partiell fission ska inte tas upp som utdelning och
+24 § Om en andel som är kvalificerad bara enligt 7, 7 a eller 
+7 b § och till vilken det hör ett tjänstebelopp för 
+kapitalvinst vid andelsbyten avyttras eller upphör att 
+existera, ska den del av kapitalvinsten som tas upp i 
+inkomstslaget tjänst inte överstiga tjänstebeloppet för 
+kapitalvinst vid andelsbyten enligt 48 a kap. 8 b § andra 
+stycket eller det tjänstebelopp som har fördelats enligt 7 c § 
+andra stycket, 7 d §, 48 kap. 18 e § tredje stycket eller 
+48 a kap. 8 c § tredje stycket. Mer än tjänstebeloppet för 
+utdelning vid andelsbyten ska inte tas upp som utdelning och 
 kapitalvinst i inkomstslaget tjänst.
 
-Vid tillämpning av första stycket ska utdelning på en andel i
-ett företag som varit överlåtande företag vid en partiell
-fission och till vilken andel det hör ett tjänstebelopp för
-utdelning vid partiell fission beaktas bara om utdelningen
-erhållits efter den partiella fissionen. Lag (2007:1419).
-Andelar förvärvade före år 1990
+Vid tillämpning av första stycket ska utdelning på en andel i 
+ett företag som varit överlåtande företag vid en partiell 
+fission och till vilken andel det hör ett tjänstebelopp för 
+utdelning vid andelsbyten beaktas bara om utdelningen 
+erhållits efter den partiella fissionen.
 
-25 § Anskaffningsutgiften för andelar som har förvärvats före
-år 1990 ska vid beräkning av omkostnadsbeloppet enligt 12 §
-räknas upp med hänsyn till förändringarna i det allmänna
-prisläget från och med förvärvsåret, dock tidigast från och med
-år 1970, till och med år 1989. Motsvarande gäller för
-ovillkorliga kapitaltillskott som gjorts före år 1990.
+Bestämmelser om fördelning mellan inkomstslagen tjänst och 
+kapital av ersättning i pengar vid andelsbyten finns i 
+48 a kap. 9 §. Lag (2025:1361).
 
-Bestämmelserna i första stycket gäller inte om
-omkostnadsbeloppet beräknas med tillämpning av 26 §. Lag
-(2007:1419).
+24 a § Om en andel som är kvalificerad bara enligt 7, 7 a 
+eller 7 b § och till vilken det hör ett tjänstebelopp för 
+kapitalvinst vid partiell fission avyttras eller upphör att 
+existera, ska den del av kapitalvinsten som tas upp i 
+inkomstslaget tjänst inte överstiga tjänstebeloppet för 
+kapitalvinst vid partiell fission enligt 48 kap. 18 d § tredje 
+stycket eller det tjänstebelopp som har fördelats enligt 7 c § 
+andra stycket, 7 d §, 48 kap. 18 e § tredje stycket eller 
+48 a kap. 8 c § tredje stycket. Mer än tjänstebeloppet för 
+utdelning vid partiell fission ska inte tas upp som utdelning 
+och kapitalvinst i inkomstslaget tjänst.
 
-Andelar förvärvade före år 1992
+Vid tillämpning av första stycket ska utdelning på en andel i 
+ett företag som varit överlåtande företag vid en partiell 
+fission och till vilken andel det hör ett tjänstebelopp för 
+utdelning vid partiell fission beaktas bara om utdelningen 
+erhållits efter den partiella fissionen. Lag (2025:1361).
 
-Beräkning av omkostnadsbeloppet
+25 § Har upphävts genom lag (2025:1361).
 
-26 § Som anskaffningsutgift för andelar som har förvärvats före
-år 1992 får vid beräkning av omkostnadsbeloppet enligt 12 § tas
-upp det justerade kapitalunderlaget i företaget enligt 27-35 §§
-fördelat med lika belopp på andelarna i företaget. Hänsyn får
-inte tas till ovillkorliga kapitaltillskott som gjorts före
-utgången av det beskattningsår som avses i 27 §.
+26 § Har upphävts genom lag (2025:1361).
 
-Som förutsättning för tillämpning av första stycket gäller att
-denna beräkning används för samtliga andelar i företaget som
-andelsägaren förvärvat före år 1992.
+27 § Har upphävts genom lag (2025:1361).
 
-Bestämmelserna i första stycket gäller bara i fråga om andelar
-i juridiska personer som hör hemma i en stat inom Europeiska
-ekonomiska samarbetsområdet. Lag (2005:1136).
+28 § Har upphävts genom lag (2025:1361).
 
-Beräkning av kapitalunderlaget
+29 § Har upphävts genom lag (2025:1361).
 
-27 § Kapitalunderlaget är skillnaden mellan värdet på
-tillgångarna och skulderna i företaget vid utgången av det
-beskattningsår för vilket taxering skedde år 1993. Om företaget
-inte taxerades då, är kapitalunderlaget motsvarande skillnad
-det beskattningsår för vilket taxering skedde år 1992. Lag
-(2005:1136).
+30 § Har upphävts genom lag (2025:1361).
 
-28 § Tillgångarna ska tas upp till det skattemässiga värdet, om
-inte annat följer av andra stycket eller av 29 eller 30 §.
+31 § Har upphävts genom lag (2025:1361).
 
-Sådana andelar i svenska handelsbolag som är kapitaltillgångar
-tas upp till den justerade anskaffningsutgiften enligt 50 kap.
-Lag (2007:1419).
+32 § Har upphävts genom lag (2025:1361).
 
-29 § Andelar i andra dotterföretag än handelsbolag ska tas upp
-till ett värde som motsvarar kapitalunderlaget i
-dotterföretaget. Om dotterföretaget inte var helägt, ska så
-stor del av detta värde tas upp som motsvarar moderföretagets
-andel av antalet andelar i dotterföretaget.
+33 § Har upphävts genom lag (2025:1361).
 
-Bestämmelserna i första stycket gäller bara i fråga om andel i
-dotterföretag som hör hemma i en stat inom Europeiska
-ekonomiska samarbetsområdet. Lag (2007:1419).
+34 § Har upphävts genom lag (2025:1361).
 
-30 § Fastigheter i Sverige och i andra stater inom Europeiska
-ekonomiska samarbetsområdet som var kapitaltillgångar och som
-har förvärvats före utgången av år 1990 får i stället anses
-förvärvade den 1 januari 1991. I sådant fall ska hänsyn inte
-tas till utgifter och avdrag före år 1991, utöver vad som anges
-i andra stycket.
-
-Vid tillämpning av första stycket ska anskaffningsutgiften för
-en fastighet i en annan stat inom Europeiska ekonomiska
-samarbetsområdet anses motsvara 75 procent av fastighetens
-marknadsvärde vid utgången av år 1989. För en fastighet i
-Sverige ska anskaffningsutgiften anses motsvara den i det
-följande angivna delen av fastighetens taxeringsvärde för år
-1991 minskad med värdeminskningsavdrag vid 1982-1991 års
-taxeringar, till den del avdraget per år uppgått till minst 10
-procent av denna del av taxeringsvärdet. Den del av
-taxeringsvärdet som ska användas är för
-
-1. småhusenheter 70 procent,
-
-2. hyreshusenheter 60 procent,
-
-3. industrienheter 75 procent, och
-
-4. lantbruksenheter 100 procent.
-
-Om marknadsvärdet på byggnader, mark och markanläggningar som
-anses förvärvade den 1 januari 1991 vid beskattningsårets
-utgång understeg 75 procent av anskaffningsutgiften enligt
-andra stycket, ska denna utgift justeras i skälig mån.
-
-Det som sägs om värdeminskningsavdrag gäller också liknande
-avdrag, såsom skogsavdrag och avdrag för substansminskning samt
-sådana belopp med vilka ersättningsfonder och liknande fonder
-tagits i anspråk. Lag (2007:1419).
-
-31 § Som skuld räknas 28 procent av
-
-1. en avsättning till skatteutjämningsreserv enligt den
-upphävda lagen (1990:654) om skatteutjämningsreserv,
-
-2. sådant uppskovsbelopp som avses i den upphävda lagen
-(1990:655) om återföring av obeskattade reserver till den del
-det vid beskattningsårets utgång inte hade återförts, och
-
-3. avsättningar till ersättningsfonder och liknande fonder.
-
-Avsättningar för framtida utgifter räknas som skuld till den
-del avdrag gjordes vid beskattningen. Lag (2005:1136).
-
-Justering av kapitalunderlaget
-
-32 § Om företaget gjorde avsättning till skatteutjämningsreserv
-vid 1994 års taxering, får 28 procent av det belopp som enligt
-lagen (1993:1540) om återföring av skatteutjämningsreserv minst
-ska återföras vid 1995-2002 års taxeringar tas upp som skuld i
-stället för vad som anges i 31 § första stycket 1. Om avdraget
-för avsättning är lägre än det avdrag som avses i den
-bestämmelsen, ska kapitalunderlaget minskas med 28 procent av
-skillnaden. Lag (2007:1419).
-
-33 § Kapitalunderlaget ska minskas med vinstutdelning som
-lämnats för det räkenskapsår för vilket taxering skedde år 1993
-eller, om företaget inte taxerades då, det räkenskapsår för
-vilket taxering skedde år 1992. Lag (2007:1419).
-
-34 § Vinstutdelning som lämnas för senare räkenskapsår än som 
-avses i 33 § ska minska kapitalunderlaget till den del utdelat 
-belopp överstiger nettovinsten enligt fastställd balansräkning 
-eller, i förekommande fall, fastställd koncernbalansräkning.
-
-Kapitalunderlaget i ett aktiebolag ska minskas med belopp som 
-motsvarar utbetalningar från bolaget som har gjorts i samband 
-med minskning av aktiekapitalet, den bundna överkursfonden 
-eller reservfonden, om utbetalningen skett efter utgången av 
-det räkenskapsår då underlaget beräknades.
-
-Kapitalunderlaget i en ekonomisk förening ska minskas med 
-belopp som motsvarar utbetalningar enligt 10 kap. 16 § lagen 
-(2018:672) om ekonomiska föreningar vid återbetalning av 
-överinsatser eller enligt 10 kap. 17 § samma lag vid minskning 
-av medlemsinsatsernas storlek. Detta gäller bara om 
-utbetalningen har gjorts efter utgången av det räkenskapsår då 
-underlaget beräknades. Lag (2020:990).
-
-35 § När kapitalunderlaget justeras på grund av utdelningar och
-andra utbetalningar som avses i 34 §, tillämpas det nya
-kapitalunderlaget för utdelningar som görs och kapitalvinster
-som uppkommer efter den utbetalning som medfört justeringen.
-Lag (2005:1136).
+35 § Har upphävts genom lag (2025:1361).
 
 Skatteberäkning inom familjen
 
@@ -21030,12 +21202,12 @@ Innehåll
 
 Tjänstepensionsavtal
 
-1 a § Sådana avtal om tjänstepension som avses i 28 kap. 2 §
+1 a § Sådana avtal om tjänstepension som avses i 28 kap. 2 § 
 andra stycket ska
 
 1. ingås med ett utländskt tjänstepensionsinstitut, och
 
-2. uppfylla de villkor som anges i fråga om pensionsförsäkring
+2. uppfylla de villkor som anges i fråga om pensionsförsäkring 
 i
 
 - 5 och 6 §§ om gränsdragning,
@@ -21044,26 +21216,27 @@ i
 
 - 8 § och 9 § första och andra styckena om den försäkrade,
 
-- 10-14 §§ om ålders-, sjuk- och efterlevandepension,
+- 10-14 a §§ om ålders-, sjuk- och efterlevandepension,
 
-- 15 § om fondförsäkring, och
+- 15 § om försäkringar där försäkringstagarna eller andra 
+ersättningsberättigade bär placeringsrisken, och
 
 - 16-16 b §§ om försäkringsavtalets utformning.
 
-Vad som avses med ett utländskt tjänstepensionsinstitut framgår
-av 39 kap. 13 a §. Lag (2008:134).
+Vad som avses med ett utländskt tjänstepensionsinstitut 
+framgår av 39 kap. 13 a §. Lag (2025:1241).
 
 1 b § Vid tillämpningen av 1 a § ska
 
-- tjänstepensionsinstitutet anses som försäkringsgivare,
+- tjänstepensionsinstitutet anses som försäkringsgivare, 
 
 - arbetsgivaren anses som försäkringstagare, och
 
 - den anställde anses som försäkrad och förmånstagare.
 
-I fråga om efterlevandepension enligt 13 och 14 §§ ska också
-den anställdes efterlevande anses som förmånstagare. Lag
-(2007:1419).
+I fråga om efterlevandepension enligt 13-14 a §§ ska också den 
+anställdes efterlevande anses som förmånstagare.
+Lag (2025:1241).
 
 Pensionsförsäkringar och kapitalförsäkringar
 
@@ -21215,10 +21388,23 @@ utbetalningarna.
 Pensionen ska upphöra när den försäkrade dör, även om den 
 bestämda utbetalningstiden inte har löpt ut. Lag (2024:974).
 
-11 a § För sådan ålderspension enligt allmän pensionsplan som 
+11 a § Vad som sägs i 11 § hindrar inte att ålderspension 
+betalas ut med ett lägre belopp än det belopp som betalades ut 
+vid den närmast föregående utbetalningen, om sänkningen beror 
+på
+
+1. ändringar av försäkringstekniska antaganden som tillämpas 
+vid beräkningen av utbetalningens storlek,
+
+2. uttag av avgifter som följer av försäkringsavtalet, eller
+
+3. ändringar av antalet utbetalningar per år. Lag (2025:1241).
+
+11 b § För sådan ålderspension enligt allmän pensionsplan som 
 ska upphöra under den försäkrades livstid gäller, i stället 
-för vad som sägs i 11 §, det som anges i planen. Vad som avses 
-med allmän pensionsplan framgår av 20 §. Lag (2024:974).
+för vad som sägs i 11 och 11 a §§, det som anges i planen. Vad 
+som avses med allmän pensionsplan framgår av 20 §.
+Lag (2025:1241).
 
 Sjukpension
 
@@ -21289,14 +21475,28 @@ eller med stigande belopp. Det gäller även när
 utbetalningstiden förlängs i samband med ett uppehåll med 
 utbetalningarna. Lag (2024:974).
 
-Fondförsäkringar
+14 a § Vad som sägs i 14 § hindrar inte att 
+efterlevandepension betalas ut med ett lägre belopp än det 
+belopp som betalades ut vid den närmast föregående 
+utbetalningen, om sänkningen beror på
 
-15 § För fondförsäkringar klass III enligt 2 kap. 12 § 
-försäkringsrörelselagen (2010:2043) eller 2 kap. 11 § lagen 
-(2019:742) om tjänstepensionsföretag ska det vid bedömningen 
-enligt 11 och 14 §§ av utbetalningarnas storlek under de 
-första fem åren bortses från sådana förändringar av beloppen 
-som beror på fondandelarnas kursutveckling. Lag (2019:787).
+1. ändringar av försäkringstekniska antaganden som tillämpas 
+vid beräkningen av utbetalningens storlek,
+
+2. uttag av avgifter som följer av försäkringsavtalet, eller
+
+3. ändringar av antalet utbetalningar per år. Lag (2025:1241).
+
+Försäkringar där försäkringstagarna eller andra 
+ersättningsberättigade bär placeringsrisken
+
+15 § För pensionsförsäkringar där försäkringstagarna eller 
+andra ersättningsberättigade bär placeringsrisken ska det vid 
+bedömningen enligt 11, 11 a, 14 och 14 a §§ av 
+utbetalningarnas storlek under de första fem utbetalningsåren 
+bortses från sådana förändringar av de utbetalade beloppen som 
+beror på att värdet av tillgångarna i försäkringen har 
+ändrats. Lag (2025:1241).
 
 Försäkringsavtalets utformning
 
@@ -22574,58 +22774,6 @@ prisbasbelopp                   0,423 prisbasbelopp
 överstiger 7,88 prisbasbelopp   0,293 prisbasbelopp
 Lag (2011:1256).
 
-3 a § För dem som vid beskattningsårets ingång har fyllt 66 år 
-är grundavdraget beloppet enligt 3 § med tillägg av följande 
-särskilda belopp.
-
-Fastställd förvärvsinkomst      Särskilt belopp
-
-överstiger inte 0,91            0,687 prisbasbelopp
-prisbasbelopp      
-
-överstiger 0,91 men inte        0,885 prisbasbelopp minskat 
-1,11 prisbasbelopp              med 20 procent av den fastställda 
-                                förvärvsinkomsten
-
-överstiger 1,11 men inte        0,600 prisbasbelopp ökat med
-1,965 prisbasbelopp             5,7 procent fastställda
-                                förvärvsinkomsten
-                                
-överstiger 1,965 men inte       0,333 prisbasbelopp ökat med 
-2,72 prisbasbelopp              19,49 procent av den fastställda 
-                                förvärvsinkomsten
-
-överstiger 2,72 men inte        39,49 procent av den fastställda 
-3,11 prisbasbelopp              förvärvsinkomsten minskat med 
-                                0,212 prisbasbelopp
-                                
-överstiger 3,11 men inte        49,49 procent av den fastställda 
-3,24 prisbasbelopp              förvärvsinkomsten minskat med 
-                                0,523 prisbasbelopp
-
-överstiger 3,24 men inte        0,096 prisbasbelopp ökat med 
-5,00 prisbasbelopp              30,4 procent av den fastställda 
-                                förvärvsinkomsten
-
-överstiger 5,00 men inte        0,186 prisbasbelopp ökat med 
-7,88 prisbasbelopp              28,6 procent av den fastställda 
-                                förvärvsinkomsten
-
-överstiger 7,88 men inte        0,872 prisbasbelopp ökat med 
-8,08 prisbasbelopp              19,9 procent av den fastställda 
-                                förvärvsinkomsten
-
-överstiger 8,08 men inte        2,48 prisbasbelopp
-10,94 prisbasbelopp              
-
-överstiger 10,94 men inte       9,263 prisbasbelopp minskat med
-12,47 prisbasbelopp             62 procent av den fastställda 
-                                förvärvsinkomsten        
-
-överstiger 12,47                1,532 prisbasbelopp
-prisbasbelopp
-Lag (2024:1131).
-
 3 a § /Upphör att gälla U:2027-01-01/
 För dem som vid beskattningsårets ingång har fyllt 66 år 
 är grundavdraget beloppet enligt 3 § med tillägg av följande 
@@ -22633,51 +22781,60 @@ särskilda belopp.
 
 Fastställd förvärvsinkomst      Särskilt belopp
 
-överstiger inte 0,91            0,687 prisbasbelopp
-prisbasbelopp      
+överstiger inte 0,91 
+prisbasbelopp                   0,687 prisbasbelopp
 
-överstiger 0,91 men inte        0,885 prisbasbelopp minskat 
-1,11 prisbasbelopp              med 20 procent av den fastställda 
+överstiger 0,91 men inte 
+1,11 prisbasbelopp              0,885 prisbasbelopp 
+                                minskat med 20 procent 
+                                av den fastställda 
                                 förvärvsinkomsten
 
-överstiger 1,11 men inte        0,600 prisbasbelopp ökat med
-1,965 prisbasbelopp             5,7 procent fastställda
-                                förvärvsinkomsten
-                                
-överstiger 1,965 men inte       0,333 prisbasbelopp ökat med 
-2,72 prisbasbelopp              19,49 procent av den fastställda 
+överstiger 1,11 men inte 
+1,965 prisbasbelopp             0,600 prisbasbelopp ökat med 
+                                5,7 procent av den fastställda 
                                 förvärvsinkomsten
 
-överstiger 2,72 men inte        39,49 procent av den fastställda 
-3,11 prisbasbelopp              förvärvsinkomsten minskat med 
+överstiger 1,965 men inte 
+2,72 prisbasbelopp              0,333 prisbasbelopp ökat med 
+                                19,49 procent av den fastställda 
+                                förvärvsinkomsten
+
+överstiger 2,72 men inte 
+3,11 prisbasbelopp	        39,49 procent av den fastställda 
+                                förvärvsinkomsten minskat med 
                                 0,212 prisbasbelopp
-                                
-överstiger 3,11 men inte        49,49 procent av den fastställda 
-3,24 prisbasbelopp              förvärvsinkomsten minskat med 
+
+överstiger 3,11 men inte 
+3,24 prisbasbelopp              49,49 procent av den fastställda 
+                                förvärvsinkomsten minskat med 
                                 0,523 prisbasbelopp
 
-överstiger 3,24 men inte        0,096 prisbasbelopp ökat med 
-5,00 prisbasbelopp              30,4 procent av den fastställda 
+överstiger 3,24 men inte 
+5,00 prisbasbelopp	        35,6 procent av den fastställda 
+                                förvärvsinkomsten minskat med 
+                                0,073 prisbasbelopp
+
+överstiger 5,00 men inte 
+7,88 prisbasbelopp              0,017 prisbasbelopp ökat med 
+                                33,8 procent av den fastställda 
                                 förvärvsinkomsten
 
-överstiger 5,00 men inte        0,186 prisbasbelopp ökat med 
-7,88 prisbasbelopp              28,6 procent av den fastställda 
+överstiger 7,88 men inte 
+8,08 prisbasbelopp              0,703 prisbasbelopp ökat med 
+                                25,1 procent av den fastställda 
                                 förvärvsinkomsten
 
-överstiger 7,88 men inte        0,872 prisbasbelopp ökat med 
-8,08 prisbasbelopp              19,9 procent av den fastställda 
+överstiger 8,08 men inte 
+11,16 prisbasbelopp             2,732 prisbasbelopp
+
+överstiger 11,16 men inte 
+12,84 prisbasbelopp     	9,651 prisbasbelopp minskat med 
+                                62 procent av den fastställda 
                                 förvärvsinkomsten
 
-överstiger 8,08 men inte        2,48 prisbasbelopp
-10,94 prisbasbelopp              
-
-överstiger 10,94 men inte       9,263 prisbasbelopp minskat med
-12,47 prisbasbelopp             62 procent av den fastställda 
-                                förvärvsinkomsten        
-
-överstiger 12,47                1,532 prisbasbelopp
-prisbasbelopp
-Lag (2024:1131).
+överstiger 12,84 prisbasbelopp	1,691 prisbasbelopp
+Lag (2025:1376).
 
 3 a § /Träder i kraft I:2027-01-01/
 För dem som vid beskattningsårets ingång har fyllt 67 år 
@@ -22715,31 +22872,31 @@ Fastställd förvärvsinkomst      Särskilt belopp
                                 0,523 prisbasbelopp
 
 överstiger 3,24 men inte 
-5,00 prisbasbelopp              0,096 prisbasbelopp ökat med 
-                                30,4 procent av den fastställda 
-                                förvärvsinkomsten
+5,00 prisbasbelopp              35,6 procent av den fastställda 
+                                förvärvsinkomsten minskat med
+                                0,073 prisbasbelopp
 
 överstiger 5,00 men inte 
-7,88 prisbasbelopp              0,186 prisbasbelopp ökat med 
-                                28,6 procent av den fastställda 
+7,88 prisbasbelopp              0,017 prisbasbelopp ökat med 
+                                33,8 procent av den fastställda 
                                 förvärvsinkomsten
 
 överstiger 7,88 men inte 
-8,08 prisbasbelopp              0,872 prisbasbelopp ökat med 
-                                19,9 procent av den fastställda 
+8,08 prisbasbelopp              0,703 prisbasbelopp ökat med 
+                                25,1 procent av den fastställda 
                                 förvärvsinkomsten
 
 överstiger 8,08 men inte 
-10,94 prisbasbelopp             2,48 prisbasbelopp
+11,16 prisbasbelopp             2,732 prisbasbelopp
 
-överstiger 10,94 men inte 
-12,47 prisbasbelopp             9,263 prisbasbelopp minskat med 
+överstiger 11,16 men inte 
+12,84 prisbasbelopp             9,651 prisbasbelopp minskat med 
                                 62 procent av den fastställda 
                                 förvärvsinkomsten
 
-överstiger 12,47 
-prisbasbelopp                   1,532 prisbasbelopp
-Lag (2024:1140).
+överstiger 12,84 
+prisbasbelopp                   1,691 prisbasbelopp
+Lag (2025:1374).
 
 4 § För dem som är obegränsat skattskyldiga bara under en del
 av beskattningsåret är grundavdraget en tolftedel av 0,293
@@ -23236,7 +23393,7 @@ efter beskattningsåret. Lag (2007:1419).
 Inkomstslaget näringsverksamhet
 
 18 § I inkomstslaget näringsverksamhet får särskild 
-skatteberäkning göras för ackumulerad inkomst i form av 
+skatteberäkning göras för ackumulerad inkomst i form av
 
 1. sådana inkomster genom vetenskaplig, litterär eller 
 konstnärlig verksamhet eller annan personlig, självständig 
@@ -23247,8 +23404,8 @@ på upphovsmannakonto,
 företagsnamn och andra liknande rättigheter av goodwills 
 natur,
 
-3. ersättning som den skattskyldige får för att flytta från 
-en lokal som används i näringsverksamheten,
+3. ersättning som den skattskyldige får för att flytta från en 
+lokal som används i näringsverksamheten,
 
 4. återföring av värdeminskningsavdrag m.m. avseende 
 näringsfastigheter enligt 26 kap. 2, 8, 9 eller 13 §,
@@ -23259,13 +23416,15 @@ enligt 26 kap. 10, 11 eller 13 §,
 
 6. engångsersättning vid upplåtelse eller upphörande av 
 nyttjanderätt, dock inte upplåtelse av rätt att avverka skog, 
-eller servitutsrätt och vid överlåtelse av nyttjanderätt, 
-och
+eller servitutsrätt och vid överlåtelse av nyttjanderätt, och
 
-7. ersättning vid avräkning enligt 9 kap. 23 § jordabalken 
-och inkomster för en fastighetsägare som avser värdet av 
-sådan förbättring som en nyttjanderättshavare bekostat.
-Lag (2018:1677).
+7. ersättning vid avräkning enligt 9 kap. 23 § jordabalken och 
+inkomster för en fastighetsägare som avser värdet av sådan 
+förbättring som en nyttjanderättshavare bekostat.
+
+Särskild skatteberäkning får inte göras om inkomsten medför 
+avdrag på grund av insättning på naturvårdskonto enligt 
+21 kap. Lag (2026:114).
 
 19 § I inkomstslaget näringsverksamhet får särskild
 skatteberäkning göras för ackumulerad inkomst i form av
@@ -23347,42 +23506,16 @@ näringsverksamheten. Lag (2007:1419).
 
 Innehåll
 
-1 § /Upphör att gälla U:2026-01-01/
-I detta kapitel finns bestämmelser om skattereduktion för 
-fysiska personer i 2-52 §§ och för juridiska personer i 2 och 
-27-33 §§.
+1 § I detta kapitel finns bestämmelser om skattereduktion för 
+fysiska personer i 2-24, 25, 26 och 27-52 §§ och för juridiska 
+personer i 2, 20, 21, 23, 24 a, 25 a och 26 a §§.
 
 Skattereduktion ska anges i hela krontal så att öretal faller 
-bort. Lag (2022:445).
-
-1 § /Träder i kraft I:2026-01-01/
-I detta kapitel finns bestämmelser om skattereduktion för 
-fysiska personer.
-
-Skattereduktion ska anges i hela krontal så att öretal faller 
-bort. Lag (2025:539).
+bort. Lag (2025:1370).
 
 Avräkning mot kommunal och statlig inkomstskatt m.m.
 
-2 § /Upphör att gälla U:2026-01-01/
-Skattereduktion ska göras för sjöinkomst, allmän 
-pensionsavgift, arbetsinkomst (jobbskatteavdrag), 
-sjukersättning och aktivitetsersättning, förvärvsinkomst, 
-boende i vissa områden (regional skattereduktion), underskott 
-av kapital, hushållsarbete, installation av grön teknik, gåva, 
-mikroproduktion av förnybar el och avgift till 
-arbetslöshetskassa i nu nämnd ordning.
-
-Skattereduktion ska räknas av mot kommunal och statlig 
-inkomstskatt som beräknats enligt 65 kap., mot statlig 
-fastighetsskatt enligt lagen (1984:1052) om statlig 
-fastighetsskatt samt mot kommunal fastighetsavgift enligt 
-lagen (2007:1398) om kommunal fastighetsavgift. 
-Skattereduktion enligt 5-9 d, 34, 35 och 46-48 §§ ska dock 
-räknas av endast mot kommunal inkomstskatt. Lag (2022:445).
-
-2 § /Träder i kraft I:2026-01-01/
-Skattereduktion ska göras för sjöinkomst, allmän 
+2 § Skattereduktion ska göras för sjöinkomst, allmän 
 pensionsavgift, arbetsinkomst (jobbskatteavdrag), 
 sjukersättning och aktivitetsersättning, förvärvsinkomst, 
 boende i vissa områden (regional skattereduktion), underskott 
@@ -23395,7 +23528,9 @@ fastighetsskatt enligt lagen (1984:1052) om statlig
 fastighetsskatt samt mot kommunal fastighetsavgift enligt 
 lagen (2007:1398) om kommunal fastighetsavgift. 
 Skattereduktion enligt 5-9 d, 34, 35 och 46-48 §§ ska dock 
-räknas av endast mot kommunal inkomstskatt. Lag (2025:539).
+räknas av endast mot kommunal inkomstskatt. Skattereduktion 
+för en juridisk person ska räknas av endast mot statlig 
+inkomstskatt. Lag (2025:1370).
 
 Sjöinkomst
 
@@ -23473,35 +23608,34 @@ beräknade enligt 6 § till följande belopp.
 Arbetsinkomst som               Skattereduktion
 beskattas i Sverige
 
-överstiger inte                 skillnaden mellan 
-0,91 prisbasbelopp              arbetsinkomsterna och 
-                                grundavdraget, multiplicerad 
-                                med skattesatsen för kommunal 
-                                inkomstskatt
+överstiger inte 0,91            skillnaden mellan arbets-
+prisbasbelopp	                inkomsterna och grundavdraget, 
+                                multiplicerad med skattesatsen 
+                                för kommunal inkomstskatt
 
 överstiger 0,91 men inte        skillnaden mellan å ena sidan 
-3,24 prisbasbelopp              summan av 0,91 prisbasbelopp 
+3,24 prisbasbelopp	        summan av 0,91 prisbasbelopp 
                                 och 38,74 procent av 
                                 arbetsinkomsterna mellan 0,91 
-                                och 3,24 prisbasbelopp och 
-                                å andra sidan grundavdraget, 
+                                och 3,24 prisbasbelopp och å 
+                                andra sidan grundavdraget, 
                                 multiplicerad med skattesatsen 
                                 för kommunal inkomstskatt
 
-överstiger 3,24 men inte        skillnaden mellan å ena sidan 
+överstiger 3,24 men inte        skillnaden mellan å ena sidan
 8,08 prisbasbelopp              summan av 1,813 prisbasbelopp 
-                                och 19,9 procent av 
-                                arbetsinkomsterna mellan 3,24 
-                                och 8,08 prisbasbelopp och 
-                                å andra sidan grundavdraget, 
+                                och 25,1 procent av arbets-
+                                inkomsterna mellan 3,24 och 
+                                8,08 prisbasbelopp och å andra 
+                                sidan grundavdraget, 
                                 multiplicerad med skattesatsen 
                                 för kommunal inkomstskatt
 
-överstiger                      skillnaden mellan 2,776 
-8,08 prisbasbelopp	        prisbasbelopp och grundavdraget, 
+överstiger 8,08 prisbasbelopp	skillnaden mellan 3,027 
+                                prisbasbelopp och grundavdraget, 
                                 multiplicerad med skattesatsen 
                                 för kommunal inkomstskatt
-Lag (2024:1131).
+Lag (2025:1376).
 
 Jobbskatteavdrag för personer som har fyllt 66 år
 
@@ -23554,52 +23688,51 @@ Underlag för skattereduktion
 
 9 b § Underlaget för skattereduktionen består av 
 sjukersättning och aktivitetsersättning enligt 
-socialförsäkringsbalken som betalats ut under 
-beskattningsåret och som ska tas upp till beskattning enligt 
-denna lag. 
+socialförsäkringsbalken som betalats ut under beskattningsåret 
+och som ska tas upp till beskattning enligt denna lag. 
 
 En utländsk ersättning enligt lagstiftning om social trygghet 
 som betalas ut enligt grunder som är jämförbara med vad som 
 gäller för sjukersättning och aktivitetsersättning ska efter 
 begäran medräknas i underlaget för skattereduktionen om 
 ersättningen tas upp till beskattning i Sverige.
-Lag (2017:1212).
+
+Underlaget ska avrundas nedåt till helt hundratal kronor.
+Lag (2025:1376).
 
 Skattereduktionens storlek
 
 9 c § Skattereduktionen uppgår till följande belopp:
 
 Underlag beräknat enligt        Skattereduktion
-9 b §  
+9 b § 
 
-överstiger inte 0,91 
-prisbasbelopp                   skillnaden mellan underlaget och 
-                                grundavdraget, multiplicerad med 
-                                skattesatsen för kommunal 
-                                inkomstskatt
+överstiger inte 0,91            skillnaden mellan underlaget
+prisbasbelopp	                och grundavdraget, 
+                                multiplicerad med skattesatsen 
+                                för kommunal inkomstskatt
 
-överstiger 0,91 men inte 
-3,24 prisbasbelopp	        skillnaden mellan å ena sidan 
-                                summan av 0,91 prisbasbelopp  
-                                och 34,05 procent av underlaget 
+överstiger 0,91 men inte        skillnaden mellan å ena sidan
+3,24 prisbasbelopp	        summan av 0,91 prisbasbelopp 
+                                och 38,74 procent av underlaget 
                                 mellan 0,91 och 3,24 
-                                prisbasbelopp och å andra sidan 
-                                grundavdraget, multiplicerad 
-                                med skattesatsen för kommunal 
-                                inkomstskatt
+                                prisbasbelopp och å andra 
+                                sidan grundavdraget, 
+                                multiplicerad med skattesatsen 
+                                för kommunal inkomstskatt
 
 överstiger 3,24 prisbasbelopp	skillnaden mellan å ena sidan 
-                                summan av 1,703 prisbasbelopp 
-                                och 12,8 procent av underlaget 
+                                summan av 1,813 prisbasbelopp 
+                                och 25,1 procent av underlaget 
                                 som överstiger 3,24 
                                 prisbasbelopp och å andra sidan 
                                 grundavdraget, multiplicerad 
                                 med skattesatsen för kommunal 
-                                inkomstskatt
+                                inkomstskatt 
 
 Skattereduktionen ska dock alltid uppgå till minst 4,5 procent 
 av underlaget, multiplicerat med skattesatsen för kommunal 
-inkomstskatt. Lag (2021:1159).
+inkomstskatt. Lag (2025:1376).
 
 Obegränsat skattskyldiga under del av beskattningsåret
 
@@ -23872,26 +24005,7 @@ resor in. Lag (2011:1256).
 
 Skattereduktionens storlek
 
-19 § /Upphör att gälla U:2026-01-01/
-Skattereduktionen uppgår till 
-
-1. belopp motsvarande den preliminära skattereduktion som 
-avses i 18 § första stycket 1,
-
-2. 50 procent av underlaget enligt 18 § första stycket 2, och
-
-3. belopp motsvarande de arbetsgivaravgifter i fråga om sådan 
-ersättning för hushållsarbete som har redovisats i en 
-förenklad arbetsgivardeklaration enligt 18 § första stycket 3.
-
-Den sammanlagda skattereduktionen får uppgå till högst 
-75 000 kronor för ett beskattningsår. Skattereduktionen för 
-sådant hushållsarbete som anges i 13 a och 13 b §§ får dock 
-uppgå till högst 50 000 kronor för ett beskattningsår.
-Lag (2025:321).
-
-19 § /Träder i kraft I:2026-01-01/
-Skattereduktionen uppgår till 
+19 § Skattereduktionen uppgår till 
 
 1. belopp motsvarande den preliminära skattereduktion som 
 avses i 18 § första stycket 1,
@@ -23922,25 +24036,35 @@ gåvomottagare vid skattereduktion för gåva.
 Lag (2019:454).
 
 21 § Med gåva avses vid tillämpningen av detta kapitel en gåva 
-i pengar som vid ett och samma gåvotillfälle uppgår till minst 
-200 kronor. Lag (2019:454).
+i pengar som lämnas av 
 
-22 § Om det sammanlagda underlaget för skattereduktionen 
-understiger 2 000 kronor, görs ingen skattereduktion.
-Lag (2019:454).
+1. en fysisk person och som vid ett och samma gåvotillfälle 
+uppgår till minst 200 kronor, eller 
+
+2. en juridisk person och som vid ett och samma gåvotillfälle 
+uppgår till minst 2 000 kronor. Lag (2025:1361).
+
+22 § Om det sammanlagda underlaget för skattereduktionen för 
+en fysisk person understiger 2 000 kronor, görs ingen 
+skattereduktion. Lag (2025:1361).
 
 Begäran om skattereduktion
 
-23 § En begäran om skattereduktion för gåva ska göras i 
-inkomstdeklarationen för det beskattningsår då gåvan har 
-lämnats. Lag (2019:454).
+23 § En begäran om skattereduktion för gåva från en fysisk 
+person ska göras i inkomstdeklarationen för det beskattningsår 
+då gåvan har lämnats.
+
+En begäran om skattereduktion för gåva från en juridisk person 
+ska göras i inkomstdeklarationen som senast ska lämnas in 
+efter utgången av det kalenderår då gåvan har lämnats.
+Lag (2025:1361).
 
 Vilka som kan få skattereduktion
 
 24 § Rätt till skattereduktion enligt 25 och 26 §§ har efter 
-begäran de som 
+begäran fysiska personer som 
 
-1. vid beskattningsårets utgång har fyllt 18 år,
+1. vid beskattningsårets utgång har fyllt 18 år, 
 
 2. är obegränsat skattskyldiga under någon del av 
 beskattningsåret, och 
@@ -23951,155 +24075,78 @@ gåvomottagare eller ska ta upp värdet av sådan gåva som
 inkomst. 
 
 Sådan rätt till skattereduktion har efter begäran också de som 
-är begränsat skattskyldiga enligt 3 kap. 18 § första 
-stycket 1, 2 eller 3, om deras överskott av förvärvsinkomster 
-i Sverige och i andra länder, uteslutande eller så gott som 
+är begränsat skattskyldiga enligt 3 kap. 18 § första stycket 
+1, 2 eller 3, om deras överskott av förvärvsinkomster i 
+Sverige och i andra länder, uteslutande eller så gott som 
 uteslutande, utgörs av överskott av förvärvsinkomster i 
 Sverige. 
 
 Även dödsbon har efter begäran rätt till skattereduktion för 
-gåva som har lämnats före dödsfallet. Lag (2019:454).
+gåva som har lämnats före dödsfallet. Lag (2025:1361).
+
+24 a § Rätt till skattereduktion enligt 25 a och 26 a §§ har 
+efter begäran juridiska personer som har lämnat en gåva 
+avseende främjande av social hjälpverksamhet eller 
+vetenskaplig forskning till en godkänd gåvomottagare om inte 
+annat följer av andra eller tredje stycket.
+
+Om ett kommissionärsföretag i kommissionärsverksamhet har 
+lämnat gåvan har i stället kommittentföretaget rätt till 
+skattereduktion. Vad som avses med kommissionärsföretag, 
+kommittentföretag och kommissionärsverksamhet framgår av 
+36 kap.
+
+Den som omfattas av bestämmelserna om undantag från 
+skattskyldighet i 7 kap. har inte rätt till skattereduktion 
+för gåva. Lag (2025:1361).
 
 Underlag för skattereduktion
 
-25 § Underlag för skattereduktion består av 
+25 § Underlag för skattereduktion för fysiska personer består 
+av 
 
 1. utgifter för gåva som har betalats under beskattningsåret, 
-och 
+och
 
 2. värdet av gåva som ska tas upp som inkomst av den 
-skattskyldige. 
+skattskyldige.
 
 I underlaget räknas inte in omkostnader i samband med gåvan.
-Lag (2019:454).
+Lag (2025:1361).
+
+25 a § Underlag för skattereduktion för juridiska personer 
+består av värdet av gåva som har betalats under kalenderåret.
+
+I underlaget räknas inte in omkostnader i samband med gåvan.
+Lag (2025:1361).
 
 Skattereduktionens storlek
 
-26 § Skattereduktionen uppgår till 25 procent av underlaget. 
-Skattereduktionen får dock uppgå till högst 3 000 kronor för 
-ett beskattningsår. Lag (2021:1160).
+26 § Skattereduktionen för fysiska personer uppgår till 
+25 procent av underlaget. Skattereduktionen får dock uppgå 
+till högst 3 000 kronor för ett beskattningsår.
+Lag (2025:1361).
+
+26 a § Skattereduktionen för juridiska personer uppgår till 
+underlaget multiplicerat med procentsatsen enligt 65 kap. 
+10 §. Underlaget för skattereduktion får dock uppgå till högst 
+800 000 kronor för ett kalenderår. Lag (2025:1361).
 
 Mikroproduktion av förnybar el
 
-/Rubriken upphör att gälla U:2026-01-01/
-Vilka som kan få skattereduktion
+27 § Har upphävts genom lag (2025:539).
 
-27 § /Upphör att gälla U:2026-01-01 genom lag (2025:539)./
-En fysisk eller juridisk person har efter begäran rätt
-till skattereduktion enligt 28–33 §§.
+28 § Har upphävts genom lag (2025:539).
 
-Det gäller den som
+29 § Har upphävts genom lag (2025:539).
 
-1. framställer förnybar el,
+30 § Har upphävts genom lag (2025:539).
 
-2. i en och samma anslutningspunkt matar in förnybar el och
-tar ut el,
+31 § Har upphävts genom lag (2025:539).
 
-3. har en säkring om högst 100 ampere i anslutningspunkten,
-och
+32 § Har upphävts genom lag (2025:539).
 
-4. har anmält till nätkoncessionshavaren att förnybar el
-framställs och matas in i anslutningspunkten.
-
-Första stycket gäller även dödsbon och svenska
-handelsbolag. Lag (2014:1468).
-
-/Rubriken upphör att gälla U:2026-01-01/
-Begäran om skattereduktion
-
-28 § /Upphör att gälla U:2026-01-01 genom lag (2025:539)./
-En begäran om skattereduktion för mikroproduktion av
-förnybar el ska göras i inkomstdeklarationen som ska lämnas
-efter utgången av det kalenderår som underlaget för
-skattereduktionen avser. Lag (2014:1468).
-
-/Rubriken upphör att gälla U:2026-01-01/
-Definitioner
-
-29 § /Upphör att gälla U:2026-01-01 genom lag (2025:539)./
-Med förnybar el avses elektrisk kraft som framställs
-från
-
-– sol, vind, vågor, tidvatten eller jordvärme,
-
-– vattenbaserad energi som är alstrad i vattenkraftverk,
-
-– biomassa eller produkter som framställs från biomassa,
-eller
-
-– bränsleceller.
-
-Med nätkoncessionshavare avses den som innehar nätkoncession
-enligt 2 kap. ellagen (1997:857).
-
-Med anslutningspunkt avses en och samma inmatnings- och
-uttagspunkt på elnätet där förnybar el matas in och el tas
-ut. Lag (2014:1468).
-
-/Rubriken upphör att gälla U:2026-01-01/
-Underlag för skattereduktion
-
-30 § /Upphör att gälla U:2026-01-01 genom lag (2025:539)./
-Underlag för skattereduktion består av de kilowattimmar
-förnybar el som har matats in i anslutningspunkten under
-kalenderåret, dock högst så många kilowattimmar el som tagits
-ut i anslutningspunkten under det året.
-
-Om flera personer har anmält till nätkoncessionshavaren att
-de framställer och matar in förnybar el i en och samma
-anslutningspunkt, ska underlaget fördelas lika.
-
-Underlaget får inte överstiga 30 000 kilowattimmar, vare sig
-per person eller per anslutningspunkt. Lag (2014:1468).
-
-/Rubriken upphör att gälla U:2026-01-01/
-Skattereduktionens storlek
-
-31 § /Upphör att gälla U:2026-01-01 genom lag (2025:539)./
-Skattereduktionen uppgår till underlaget enligt 30 §
-multiplicerat med 60 öre. Lag (2014:1468).
-
-/Rubriken upphör att gälla U:2026-01-01/
-Stöd av mindre betydelse
-
-32 § /Upphör att gälla U:2026-01-01 genom lag (2025:539)./
-Den som begär skattereduktion och som är ett företag får 
-göra skattereduktion bara om skattereduktionen uppfyller 
-villkoren för att anses vara stöd av mindre betydelse enligt
-
-1. kommissionens förordning (EU) 2023/2831 av den 13 december 
-2023 om tillämpningen av artiklarna 107 och 108 i fördraget om 
-Europeiska unionens funktionssätt på stöd av mindre betydelse,
-
-2. kommissionens förordning (EU) nr 1408/2013 av den 
-18 december 2013 om tillämpningen av artiklarna 107 och 108 i 
-fördraget om Europeiska unionens funktionssätt på stöd av 
-mindre betydelse inom jordbrukssektorn, eller
-
-3. kommissionens förordning (EU) nr 717/2014 av den 27 juni 
-2014 om tillämpningen av artiklarna 107 och 108 i fördraget om 
-Europeiska unionens funktionssätt på stöd av mindre betydelse 
-inom fiskeri- och vattenbruks-sektorn.
-
-Med företag avses vid tillämpningen av denna paragraf detsamma 
-som vid tillämpningen av de förordningar som anges i första 
-stycket. Lag (2024:1154).
-
-33 § /Upphör att gälla U:2026-01-01 genom lag (2025:539)./
-Vid bedömningen av om skattereduktionen enligt 32 §
-anses vara stöd av mindre betydelse ska de villkor tillämpas
-som avser
-
-1. stöd inom sektorn för primärproduktion av
-jordbruksprodukter, om den som begär skattereduktion bedriver
-verksamhet både inom denna sektor och inom någon annan
-sektor, och
-
-2. stöd inom fiskeri- och vattenbrukssektorn, om den som
-begär skattereduktion bedriver verksamhet både inom denna
-sektor och inom någon annan sektor än sektorn för
-primärproduktion av jordbruksprodukter. Lag (2014:1468).
-Lag (2014:1468).
+33 § Har upphävts genom lag (2025:539).
 
 Regional skattereduktion
 
@@ -24113,11 +24160,43 @@ beskattningsåret, om hemortskommunen är en sådan som anges i
 bilaga 67. Lag (2020:864).
 
 35 § Den som har företag har rätt till skattereduktion bara om 
-reduktionen uppfyller villkoren för att anses vara stöd av 
-mindre betydelse i den mening som avses i 32 och 33 §§. 
+reduktionen uppfyller villkoren enligt
+
+1. kommissionens förordning (EU) nr 1408/2013 av den 
+18 december 2013 om tillämpningen av artiklarna 107 och 108 i 
+fördraget om Europeiska unionens funktionssätt på stöd av 
+mindre betydelse inom jordbrukssektorn, 
+
+2. kommissionens förordning (EU) nr 717/2014 av den 
+27 juni 2014 om tillämpningen av artiklarna 107 och 108 i 
+fördraget om Europeiska unionens funktionssätt på stöd av 
+mindre betydelse inom fiskeri- och vattenbrukssektorn, eller
+
+3. kommissionens förordning (EU) 2023/2831 av den 
+13 december 2023 om tillämpningen av artiklarna 107 och 108 i 
+fördraget om Europeiska unionens funktionssätt på stöd av 
+mindre betydelse.
+
+Med företag avses vid tillämpningen av denna paragraf detsamma 
+som vid tillämpningen av de förordningar som anges i första 
+stycket.
 
 Dödsbon har inte rätt till skattereduktion för senare år än 
-det år då dödsfallet inträffade. Lag (2020:864).
+det år då dödsfallet inträffade. Lag (2025:1336).
+
+35 a § Vid bedömningen av om skattereduktionen uppfyller 
+villkoren enligt 35 § ska de villkor tillämpas som avser
+
+1. stöd inom sektorn för primärproduktion av 
+jordbruksprodukter, om den som begär skattereduktion bedriver 
+verksamhet både inom denna sektor och inom någon annan sektor, 
+och
+
+2. stöd inom sektorn för primärproduktion av fiskeri- och 
+vattenbruksprodukter, om den som begär skattereduktion 
+bedriver verksamhet både inom denna sektor och inom någon 
+annan sektor än sektorn för primärproduktion av 
+jordbruksprodukter. Lag (2025:1336).
 
 Installation av grön teknik
 
@@ -24369,9 +24448,7 @@ Föreskrifter om ikraftträdande av denna lag meddelas i lagen
 Denna lag träder i kraft den 10 mars 2000 och tillämpas första
 gången vid 2002 års taxering.
 
-
 2000:502
-
 
 1. Denna lag träder i kraft den 1 juli 2000 i fråga om 23 kap.
 16 § och i övrigt den 1 januari 2001.
@@ -24386,7 +24463,6 @@ eller borde ha återförts före ikraftträdandet.
 2000:540
 
 1. Denna lag träder i kraft den 1 juli 2000.
-
 
 2. Om inte det säljande och det köpande företaget begär annat,
 skall den nya lydelsen av 25 kap. 23 § bara tillämpas om
@@ -27742,13 +27818,6 @@ samt 19 kap. 14 § i den äldre lydelsen.
 2. Den nya bestämmelsen tillämpas första gången på förmån som 
 tillhandahålls efter ikraftträdandet.
 
-2023:346
-
-1. Denna lag träder i kraft den 1 juli 2026.
-
-2. Den upphävda paragrafen gäller fortfarande för förmåner som 
-har tillhandahållits under perioden 1 juli 2023-30 juni 2026.
-
 2023:757
 
 1. Denna lag träder i kraft den 1 januari 2024.
@@ -27928,6 +27997,89 @@ arbetsgivardeklaration efter den 31 december 2025.
 2. Lagen tillämpas första gången i fråga om el som har matats 
 in och tagits ut i anslutningspunkten efter den 
 31 december 2025.
+
+2025:1333
+
+1. Denna lag träder i kraft den 1 januari 2026.
+
+2. Lagen tillämpas första gången för beskattningsår, eller i 
+fråga om svenska handelsbolag räkenskapsår, som börjar efter 
+den 31 december 2025.
+
+2025:1361
+
+1. Denna lag träder i kraft den 1 januari 2026.
+
+2. Lagen tillämpas första gången för beskattningsår som börjar 
+efter den 31 december 2025.
+
+3. Äldre bestämmelser i 11 kap. 34 § gäller fortfarande för 
+studiestartsstöd som avser tiden före ikraftträdandet.
+
+4. Bestämmelserna i 11 kap. 49 §, 24 kap. 5 §, 42 kap. 12 a §, 
+67 kap. 21-26 a §§ tillämpas på gåvor som lämnas efter den 31 
+december 2025.
+
+5. Bestämmelserna i 57 kap. 3, 4 och 5 §§ i den nya lydelsen 
+tillämpas första gången för beskattningsår som börjar efter 
+den 31 december 2026.
+
+6. De upphävda bestämmelserna i 57 kap. 12 § andra stycket, 
+21 § andra stycket och 25-35 §§ gäller dock för beskattningsår 
+som börjar före den 1 januari 2029.
+
+2025:1375
+
+1. Denna lag träder i kraft den 1 januari 2026.
+
+2. Lagen tillämpas första gången för beskattningsår som börjar 
+efter den 31 december 2025.
+
+2025:1376
+
+1. Denna lag träder i kraft den 1 januari 2026.
+
+2. Lagen tillämpas första gången på beskattningsår som börjar 
+efter den 31 december 2025.
+
+2026:114
+
+1. Denna lag träder i kraft den 1 april 2026.
+
+2. Lagen tillämpas första gången på allframtidsupplåtelser och 
+inlösen med stöd av miljöbalken eller skogsvårdslagen 
+(1979:429) samt naturvårdsavtal som träffas efter den 31 mars 
+2026. 
+
+3. Den nya bestämmelsen i 21 kap. 37 a § tillämpas inte vid 
+utebliven kontrolluppgift hänförlig till uttag, utbetalning, 
+överlåtelse eller övertagande av medel som sker före 
+ikraftträdandet.
+
+4. Äldre bestämmelser gäller fortfarande för förhållanden som 
+hänför sig till tiden före ikraftträdandet.
+
+2026:464
+
+1. Denna lag träder i kraft den 1 juli 2026.
+
+2. Lagen tillämpas första gången på utgifter för drivmedel som 
+är förenade med tjänsteresor efter ikraftträdandet.
+
+2026:877
+
+1. Denna lag träder i kraft den 1 juli 2026.
+
+2. Lagen tillämpas första gången på förmån som tillhandahålls 
+efter ikraftträdandet.
+
+2026:1002
+
+1. Denna lag träder i kraft den 1 oktober 2026.
+
+2. Äldre föreskrifter gäller fortfarande för bistånd som har 
+lämnats enligt den upphävda lagen (1994:137) om mottagande av 
+asylsökande m.fl.
 
 
 Bilaga 6 a.1
@@ -28126,7 +28278,5 @@ Västernorrlands län: Härnösands, Kramfors, Sollefteå, Timrå,
 Ånge och Örnsköldsviks kommuner.
 
 Västra Götalands län: Bengtsfors, Dals-Eds, Färgelanda, 
-Melleruds och 
-
-Åmåls kommuner. 
+Melleruds och Åmåls kommuner. 
 Lag (2020:864).
