@@ -21,56 +21,59 @@ skrifter och tillkännagivanden.
 Tillämpningsområde
 
 2 § Rättslig hjälp enligt denna lag omfattar följande 
-åtgärder:
+åtgärder: 
 
-1. förhör i samband med förundersökning i brottmål,
+1. förhör i samband med förundersökning i brottmål, 
 
-2. bevisupptagning vid domstol,
+2. bevisupptagning vid domstol, 
 
-3. telefonförhör,
+3. telefonförhör, 
 
-4. förhör genom videokonferens,
+4. förhör genom videokonferens, 
 
 5. kvarstad, beslag, penningbeslag samt husrannsakan och andra 
-åtgärder som avses i 28 kap. rättegångsbalken,
+åtgärder som avses i 28 kap. rättegångsbalken, 
 
 6. föreläggande att bevara en viss lagrad uppgift enligt 
-27 kap. 16 § rättegångsbalken,
+27 kap. 16 § rättegångsbalken, 
 
 7. hemlig avlyssning av elektronisk kommunikation och hemlig 
-övervakning av elektronisk kommunikation,
+övervakning av elektronisk kommunikation, 
 
-8. hemlig kameraövervakning,
+8. hemlig kameraövervakning, 
 
-9. hemlig rumsavlyssning,
+9. hemlig rumsavlyssning, 
 
-10. hemlig dataavläsning,
+10. hemlig dataavläsning, 
 
 11. tekniskt bistånd med hemlig avlyssning av elektronisk 
 kommunikation, hemlig övervakning av elektronisk kommunikation 
-och hemlig dataavläsning enligt 2 § första stycket 1 och 2 
-lagen (2020:62) om hemlig dataavläsning,
+och hemlig dataavläsning enligt 2 § första stycket 1 och 
+2 lagen (2020:62) om hemlig dataavläsning, 
 
 12. tillstånd till gränsöverskridande hemlig avlyssning av 
 elektronisk kommunikation, hemlig övervakning av elektronisk 
 kommunikation och hemlig dataavläsning enligt 2 § första 
 stycket 1 och 2 lagen om hemlig dataavläsning,
 
-13. överförande av frihetsberövade för förhör m.m., och
+13. överförande av frihetsberövade för förhör m.m.,
 
-14. rättsmedicinsk undersökning av en avliden person.
+14. rättsmedicinsk undersökning av en avliden person, och 
+
+15. användning av AI-system för ansiktsigenkänning eller annan 
+biometrisk fjärridentifiering i realtid. 
 
 Vad som i denna lag sägs om beslag gäller även för 
 penningbeslag.
 
 Lagen hindrar inte att hjälp lämnas med någon annan åtgärd än 
 sådan som anges i första stycket om det kan ske utan 
-tvångsmedel eller annan tvångsåtgärd.
+tvångsmedel eller annan tvångsåtgärd. 
 
 I fråga om överlämnande, utlämning och delgivning finns 
 särskilda bestämmelser. Det finns också särskilda bestämmelser 
 om rättslig hjälp i brottmål åt vissa internationella organ.
-Lag (2024:839).
+Lag (2026:809).
 
 3 § Om en annan stat ansöker om rättslig hjälp i Sverige med en
 åtgärd i ett rättsligt förfarande som gäller utredning om eller
@@ -140,27 +143,27 @@ Storbritannien och Nordirland, å andra sidan. Lag (2021:712).
 
 Allmänna förutsättningar
 
-1 § Rättslig hjälp som avses i 1 kap. 2 § första stycket 1-10 
-och 14 ska lämnas under de förutsättningar som gäller för en 
-motsvarande åtgärd under en svensk förundersökning eller 
+1 § Rättslig hjälp som avses i 1 kap. 2 § första stycket 1-10, 
+14 och 15 ska lämnas under de förutsättningar som gäller för 
+en motsvarande åtgärd under en svensk förundersökning eller 
 rättegång enligt rättegångsbalken eller annan lag eller 
 författning och enligt de särskilda bestämmelserna i denna 
-lag. 
+lag.
 
 Rättslig hjälp som avses i 1 kap. 2 § första stycket 11-13 
 lämnas enligt de särskilda bestämmelserna i denna lag.
 
 I 5 kap. 2 § finns bestämmelser om att den rättsliga hjälpen 
-får förenas med villkor i vissa fall. Lag (2021:239).
+får förenas med villkor i vissa fall. Lag (2026:809).
 
 2 § Rättslig hjälp som avses i 1 kap. 2 § första stycket 1-4, 
 6, 11 och 13 får lämnas även om den gärning som ansökan avser 
 inte motsvarar ett brott enligt svensk lag. Rättslig hjälp som 
-avses i 1 kap. 2 § första stycket 5, 7-10, 12 och 14 får 
+avses i 1 kap. 2 § första stycket 5, 7-10, 12, 14 och 15 får 
 endast lämnas om den gärning som ansökan avser motsvarar ett 
 brott enligt svensk lag (dubbel straffbarhet), om inte annat 
 följer av 4 kap. 20 § beträffande husrannsakan, genomsökning 
-på distans och beslag. Lag (2022:321).
+på distans och beslag. Lag (2026:809).
 
 Ansökan
 
@@ -1070,6 +1073,46 @@ upptagningen kommer att göras i en annan medlemsstat i
 Europeiska unionen, Island eller Norge utan hjälp från den 
 andra staten, tillämpas 26 c §. Lag (2020:65).
 
+Användning av AI-system för ansiktsigenkänning eller annan 
+biometrisk fjärridentifiering i realtid
+
+28 i § En ansökan om användning av AI-system för 
+ansiktsigenkänning eller annan biometrisk fjärridentifiering i 
+realtid som avser någon som befinner sig i Sverige handläggs 
+av åklagare. Ansökan får endast avse användning enligt 4 § 1-4 
+lagen (2026:806) om användning av AI-system för 
+ansiktsigenkänning i realtid för brottsbekämpande ändamål. 
+Åklagaren ska genast pröva om det finns förutsättningar för 
+åtgärden och i sådant fall ansöka om rättens tillstånd. Om det 
+är fara i dröjsmål, får användningen påbörjas utan tillstånd. 
+I sådana fall tillämpas bestämmelserna i 13-16 §§ lagen om 
+användning av AI-system för ansiktsigenkänning i realtid för 
+brottsbekämpande ändamål.
+
+Om användningen påbörjas utan tillstånd ska återredovisning 
+enligt 2 kap. 17 § ske först sedan rätten fattat beslut om 
+användning av AI-system för ansiktsigenkänning eller annan 
+biometrisk fjärridentifiering i realtid. 
+
+I fråga om underrättelse till en enskild enligt 17 och 18 §§ 
+lagen om användning av AI-system för ansiktsigenkänning i 
+realtid för brottsbekämpande ändamål ska bestämmelserna i 
+4 kap. 25 § tredje stycket denna lag tillämpas.
+Lag (2026:809).
+
+28 j § Om användning av AI-system för ansiktsigenkänning eller 
+annan biometrisk fjärridentifiering i realtid ska avse någon 
+som befinner sig i en annan stat och den andra staten kräver 
+att ansökan först ska prövas av 
+
+domstol i Sverige, får rätten på begäran av svensk åklagare 
+besluta att tillåta användningen. 
+
+Underrättelse enligt 17 § lagen (2026:806) om användning av 
+AI-system för ansiktsigenkänning i realtid för 
+brottsbekämpande ändamål ska inte lämnas. 
+Lag (2026:809).
+
 Överförande av frihetsberövade för förhör m.m.
 
 Överförande från eller till Sverige på begäran av en annan stat
@@ -1092,12 +1135,13 @@ den frihetsberövade ska ställas till ansvar inför domstol.
 Lag (2013:836).
 
 29 a § Efter ansökan av en annan stat får en frihetsberövad 
-person, som avtjänar ett fängelsestraff i Sverige enligt lagen 
-(2025:520) om internationell verkställighet i brottmål, 
-överföras till den stat där fängelsestraffet har dömts ut för 
-att där inställa sig för en ny prövning av domen. Ett sådant 
-överförande får ske endast om den frihetsberövade samtycker 
-till det. Samtycket ska framgå av ansökan. Lag (2025:525).
+person, som avtjänar ett fängelsestraff eller 
+säkerhetsförvaring i Sverige enligt lagen (2025:520) om 
+internationell verkställighet i brottmål, överföras till den 
+stat där påföljden har dömts ut för att där inställa sig för 
+en ny prövning av domen. Ett sådant överförande får ske endast 
+om den frihetsberövade samtycker till det. Samtycket ska 
+framgå av ansökan. Lag (2026:257).
 
 30 § En ansökan om överförande prövas av regeringen. En
 ansökan från en stat som är medlem i Europeiska unionen eller
@@ -1128,11 +1172,12 @@ till Sverige.
 
 31 a § En svensk domstol får begära att en frihetsberövad 
 person som, enligt lagen (2025:520) om internationell 
-verkställighet i brottmål, avtjänar ett i Sverige utdömt 
-fängelsestraff i en annan stat, förs över till Sverige för att 
-inställa sig till en ny prövning av den dom som 
-verkställigheten gäller. Av ansökan ska det framgå att den 
-frihetsberövade samtycker till att överföras. Lag (2025:525).
+verkställighet i brottmål, i en annan stat avtjänar ett 
+fängelsestraff eller säkerhetsförvaring som har dömts ut i 
+Sverige, förs över till Sverige för att inställa sig till en 
+ny prövning av den dom som verkställigheten gäller. Av ansökan 
+ska det framgå att den frihetsberövade samtycker till att 
+överföras. Lag (2026:257).
 
 Yttranden
 
@@ -1258,7 +1303,7 @@ sekretesslagen (2009:400). Lag (2009:487).
 
 Uppgiftsskyldighet och meddelandeförbud m.m.
 
-10 § Bestämmelser om uppgiftsskyldighet finns i
+10 § Bestämmelser om uppgiftsskyldighet finns i 
 
 - 8 kap. 2 b § lagen (1998:1479) om värdepapperscentraler och 
 kontoföring av finansiella instrument,
@@ -1292,17 +1337,20 @@ till EU:s förordning om gräsrotsfinansiering,
 
 - 1 kap. 6 § lagen (2022:1746) med kompletterande bestämmelser 
 till EU:s förordning om en paneuropeisk privat pensionsprodukt 
-(PEPP-produkt), 
+(PEPP-produkt),
 
 - 1 kap. 4 § lagen (2024:114) om clearing och avveckling av 
-betalningar, och
+betalningar, 
 
 - 1 kap. 5 § lagen (2024:1159) med kompletterande bestämmelser 
-till EU:s förordning om marknader för kryptotillgångar.
+till EU:s förordning om marknader för kryptotillgångar, och
+
+- 4 § lagen (2026:333) om uppgiftsskyldighet för vissa 
+e-legitimationsföretag.
 
 I de lagar som anges i första stycket finns även bestämmelser 
 om meddelandeförbud och ansvarsbestämmelser för den som bryter 
-mot ett sådant förbud. Lag (2025:173).
+mot ett sådant förbud. Lag (2026:334).
 
 Delning av förverkad egendom mellan stater
 
