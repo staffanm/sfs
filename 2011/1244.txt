@@ -79,7 +79,11 @@ odokumenterade konton med anledning av automatiskt utbyte av
 upplysningar om finansiella konton
 
 22 c kap. - Kontrolluppgift om rapporteringspliktiga säljare 
-som bedriver verksamhet via digitala plattformar
+som bedriver verksamhet via digitala plattformar 
+
+22 d kap. - Kontrolluppgift med anledning av automatiskt 
+utbyte av upplysningar om rapporteringspliktiga 
+kryptotillgångar
 
 23 kap. - Kontrolluppgift om utländska förhållanden
 
@@ -172,9 +176,11 @@ AVDELNING XII. SÄRSKILDA AVGIFTER
 
 49 d kap. - Plattformsavgift
 
-49 e kap. - Rapportavgift
+49 e kap. - Rapportavgift 
 
-50 kap. - Kontrollavgift 
+49 f kap. - Kryptoavgift
+
+50 kap. - Kontrollavgift
 
 51 kap. - Befrielse från särskilda avgifter
 
@@ -239,47 +245,26 @@ Lag (2024:1018).
 
 Tillämpningsområde
 
-1 § Lagen gäller för skatt, dock inte skatt som tas ut enligt
+1 § Lagen gäller för skatt, dock inte skatt som tas ut enligt 
 
 1. kupongskattelagen (1970:624), 
 
 2. lagen (1984:404) om stämpelskatt vid 
-inskrivningsmyndigheter,
+inskrivningsmyndigheter, 
 
-3. lagen (1990:676) om skatt på ränta på skogskontomedel m.m.,
+3. tullagen (2016:253), 
 
-4. tullagen (2016:253), 
+4. lagen (2004:629) om trängselskatt, 
 
-5. lagen (2004:629) om trängselskatt, 
+5. vägtrafikskattelagen (2006:227), och 
 
-6. vägtrafikskattelagen (2006:227), och 
-
-7. lagen (2014:1470) om beskattning av viss privatinförsel av 
+6. lagen (2014:1470) om beskattning av viss privatinförsel av 
 cigaretter.
 
 Lagen gäller även för belopp som avses i 16 kap. 23 § 
-mervärdesskattelagen (2023:200). Lag (2023:208).
+mervärdesskattelagen (2023:200). Lag (2026:115).
 
-2 § /Upphör att gälla U:2026-01-01/
-Lagen gäller också för avgifter enligt 
-
-1. begravningslagen (1990:1144), 
-
-2. lagen (1994:1744) om allmän pensionsavgift, 
-
-3. lagen (1994:1920) om allmän löneavgift, 
-
-4. lagen (1999:291) om avgift till registrerat trossamfund,
-
-5. socialavgiftslagen (2000:980), 
-
-6. lagen (2007:1398) om kommunal fastighetsavgift, och 
-
-7. lagen (2018:1893) om finansiering av radio och tv i 
-allmänhetens tjänst. Lag (2018:1896).
-
-2 § /Träder i kraft I:2026-01-01/
-Lagen gäller också för avgifter enligt
+2 § Lagen gäller också för avgifter enligt
 
 1. begravningslagen (1990:1144),
 
@@ -693,7 +678,8 @@ Särskilda avgifter
 17 § Med särskilda avgifter avses förseningsavgift, 
 skattetillägg, återkallelseavgift, kontoavgift, 
 dokumentationsavgift, rapporteringsavgift, plattformsavgift, 
-rapportavgift och kontrollavgift. Lag (2024:1018).
+rapportavgift, kryptoavgift och kontrollavgift.
+Lag (2025:1382).
 
 Verksamhetslokal
 
@@ -1138,9 +1124,11 @@ skyldigheter enligt 2–4 §§ att fullgöra dem eller att lämna
 uppgifter som verket behöver för att kunna avgöra om någon
 sådan skyldighet finns.
 
+/Rubriken upphör att gälla U:2026-07-01/
 Avregistrering
 
-6 § Skatteverket får avregistrera den som inte längre ska vara
+6 § /Ny beteckning 9 § U:2026-07-01/
+Skatteverket får avregistrera den som inte längre ska vara
 registrerad. Om den som inte längre ska vara registrerad begär
 det, ska Skatteverket besluta om avregistrering.
 
@@ -1148,6 +1136,95 @@ Om den som inte längre bedriver näringsverksamhet begär att få
 bli avregistrerad, får Skatteverket besluta att registreringen
 ska bestå till dess att avvecklingen av verksamheten har
 slutförts.
+
+6 § /Träder i kraft I:2026-07-01/
+Skatteverket får förelägga den som anmälan om registrering 
+för mervärdesskatt avser att lämna uppgift om företrädare och 
+ägare.
+
+Skatteverket får även förelägga den som är registrerad för 
+mervärdesskatt att lämna sådana uppgifter. Lag (2026:707).
+
+/TRubriken träder i kraft I:2026-07-01/
+Personlig inställelse
+
+7 § /Träder i kraft I:2026-07-01/
+Vid en anmälan om registrering för mervärdesskatt får 
+Skatteverket förelägga en företrädare eller den som anmälan 
+avser att inställa sig personligen om det behövs för kontroll 
+av identitet eller behörighet att företräda den som anmälan 
+avser.
+
+Om Skatteverket har anledning att anta att uppgifterna om den 
+registrerade har ändrats får Skatteverket förelägga en 
+företrädare eller den som registreringen avser att inställa 
+sig personligen för kontroll av uppgifter enligt första 
+stycket. Lag (2026:707).
+
+8 § /Träder i kraft I:2026-07-01/
+Vid en kontroll av identiteten enligt 7 § ska den som 
+innehar ett pass, ett identitetskort eller annan motsvarande 
+handling på begäran överlämna handlingen.
+
+Om en handling har överlämnats ska innehavaren på begäran låta 
+Skatteverket ta fingeravtryck och ansiktsbild för att 
+kontrollera att de motsvarar de uppgifter som finns i eller på 
+handlingen. 
+
+När en kontroll enligt andra stycket har genomförts ska 
+fingeravtryck och ansiktsbilder samt de biometriska uppgifter 
+som har tagits fram omedelbart förstöras.
+
+Regeringen eller den myndighet som regeringen bestämmer får 
+meddela föreskrifter om undantag från kravet i andra stycket 
+om att låta Skatteverket ta fingeravtryck. Lag (2026:707).
+
+/Rubriken träder i kraft I:2026-07-01/
+Beslut om att avregistrera och inte registrera
+
+9 § /Träder i kraft I:2026-07-01/
+Skatteverket får avregistrera den som inte längre ska vara
+registrerad. Om den som inte längre ska vara registrerad begär
+det, ska Skatteverket besluta om avregistrering.
+
+Om den som inte längre bedriver näringsverksamhet begär att få
+bli avregistrerad, får Skatteverket besluta att registreringen
+ska bestå till dess att avvecklingen av verksamheten har
+slutförts. Lag (2026:707).
+
+10 § /Träder i kraft I:2026-07-01/
+Skatteverket får besluta att inte registrera den som 
+anmält sig för registrering för mervärdesskatt om det finns en 
+påtaglig risk för att registreringen uteslutande eller så gott 
+som uteslutande kommer att användas som ett led i 
+undandragande av mervärdesskatt. Lag (2026:707).
+
+11 § /Träder i kraft I:2026-07-01/
+Skatteverket får besluta att avregistrera den som är 
+registrerad för mervärdesskatt om registreringen uteslutande 
+eller så gott som uteslutande används som ett led i 
+undandragande av mervärdesskatt eller om det finns en påtaglig 
+risk för att registreringen kommer att användas på det sättet.
+Lag (2026:707).
+
+/Rubriken träder i kraft I:2026-07-01/
+Visa ett registreringsnummer som ogiltigt
+
+12 § /Träder i kraft I:2026-07-01/
+Skatteverket får besluta att ett registreringsnummer för 
+mervärdesskatt ska visas som ogiltigt i det elektroniska 
+system som avses i artikel 17 i rådets förordning (EU) 
+nr 904/2010 av den 7 oktober 2010 om administrativt samarbete 
+och kampen mot mervärdesskattebedrägeri, om det finns en 
+påtaglig risk för att den som är registrerad kommer att 
+använda registreringsnumret för undandragande av 
+mervärdesskatt.
+
+Skatteverket får fatta ett beslut enligt första stycket för 
+tiden till dess att frågan avgörs slutligt trots att den som 
+beslutet gäller ännu inte har fått tillfälle att yttra sig 
+över de omständigheter som ligger till grund för beslutet.
+Lag (2026:707).
 
 AVDELNING IV. PRELIMINÄR SKATT
 
@@ -1843,28 +1920,7 @@ kostnader för sådan resa.
 
 Förmån av hushållsarbete
 
-14 § /Upphör att gälla U:2026-01-01/
-Skatteavdrag för förmån av hushållsarbete enligt 67 kap. 
-inkomstskattelagen (1999:1229) ska reduceras, om den som har 
-utfört arbetet var godkänd för F-skatt vid någon av de 
-tidpunkter som anges i 67 kap. 16 § 1 inkomstskattelagen. 
-Detsamma gäller om utföraren har ett intyg eller någon annan 
-handling som avses i 67 kap. 17 § samma lag. Reduktionen ska 
-vara 
-
-1. 50 procent av värdet på förmån av sådant hushållsarbete som 
-anges i 67 kap. 13 § inkomstskattelagen, och 
-
-2. 50 procent av värdet på förmån av annat hushållsarbete. 
-
-Skatteavdraget ska som mest reduceras med 75 000 kronor per 
-beskattningsår. I fråga om förmån av sådant hushållsarbete som 
-anges i 67 kap. 13 a och 13 b §§ inkomstskattelagen ska dock 
-skatteavdraget som mest reduceras med 50 000 kronor per 
-beskattningsår. Lag (2025:325).
-
-14 § /Träder i kraft I:2026-01-01/
-Skatteavdrag för förmån av hushållsarbete enligt 67 kap. 
+14 § Skatteavdrag för förmån av hushållsarbete enligt 67 kap. 
 inkomstskattelagen (1999:1229) ska reduceras, om den som har 
 utfört arbetet var godkänd för F-skatt vid någon av de 
 tidpunkter som anges i 67 kap. 16 § 1 inkomstskattelagen. 
@@ -2047,62 +2103,7 @@ Allmänna skattetabeller
 2 § De allmänna skattetabellerna ska ange skatteavdraget på
 olika inkomstbelopp, beräknade för en månad eller kortare tid.
 
-3 § /Upphör att gälla U:2026-01-01/
-De allmänna skattetabellerna ska grundas på att
-
-1. inkomsten är oförändrad under kalenderåret,
-
-2. mottagaren bara kommer att beskattas för den inkomst som 
-anges i tabellen,
-
-3. mottagaren inte ska betala någon annan skatt eller avgift 
-än
-
-a) kommunal inkomstskatt,
-
-b) statlig inkomstskatt på förvärvsinkomster,
-
-c) begravningsavgift enligt begravningslagen (1990:1144),
-
-d) avgift enligt lagen (1994:1744) om allmän pensionsavgift,
-
-e) avgift som avses i lagen (1999:291) om avgift till 
-registrerat trossamfund, och
-
-f) public service-avgift enligt lagen (2018:1893) om 
-finansiering av radio och tv i allmänhetens tjänst,
-
-4. mottagaren inte kommer att medges något annat avdrag än 
-grundavdrag vid beskattningen, och
-
-5. mottagaren kommer att medges skattereduktion för
-
-a) allmän pensionsavgift och arbetsinkomst enligt 67 kap. 4-
-9 §§ inkomstskattelagen (1999:1229),
-
-b) sjukersättning och aktivitetsersättning enligt 67 kap. 
-9 a § inkomstskattelagen, eller
-
-c) förvärvsinkomster enligt 67 kap. 46-48 §§ 
-inkomstskattelagen.
-
-Tabellerna ska också ange skatteavdraget för
-
-1. den som är född 1938 eller senare och inte är skyldig att 
-betala allmän pensionsavgift enligt 67 kap. 4 § 
-inkomstskattelagen, och
-
-2. den som inte har rätt till skattereduktion för 
-arbetsinkomst enligt 67 kap. 5-9 §§ inkomstskattelagen.
-
-Bestämmelserna i första stycket ska också tillämpas för den 
-som är född 1937 eller tidigare och har rätt till 
-skattereduktion för arbetsinkomst enligt 67 kap. 5-9 §§ eller 
-för förvärvsinkomster enligt 67 kap. 46-48 §§ 
-inkomstskattelagen. Lag (2020:1167).
-
-3 § /Träder i kraft I:2026-01-01/
-De allmänna skattetabellerna ska grundas på att
+3 § De allmänna skattetabellerna ska grundas på att
 
 1. inkomsten är oförändrad under kalenderåret,
 
@@ -2720,44 +2721,67 @@ eller
 b) upplysning om erfarenhetsrön av industriell, kommersiell 
 eller vetenskaplig natur. Lag (2017:387).
 
-Skogs-, skogsskade- och upphovsmannakonto
+Skogs-, skogsskade-, naturvårds- och upphovsmannakonto
 
-4 § Kontrolluppgift ska lämnas om
+4 § Kontrolluppgift ska lämnas om 
 
-1. insättning enligt
+1. insättning enligt 
 
-a) 21 kap. inkomstskattelagen (1999:1229) på skogskonto eller
-skogsskadekonto, och
+a) 21 kap. inkomstskattelagen (1999:1229) på skogskonto, 
+skogsskadekonto eller naturvårdskonto, och 
 
-b) 32 kap. inkomstskattelagen på upphovsmannakonto,
+b) 32 kap. inkomstskattelagen på upphovsmannakonto, 
 
-2. uttag och utbetalning enligt
+2. uttag och utbetalning enligt 
 
-a) 21 kap. 36 § inkomstskattelagen från ett skogskonto eller
-ett skogsskadekonto, och
+a) 21 kap. 36 § inkomstskattelagen från ett skogskonto, ett 
+skogsskadekonto eller ett naturvårdskonto, och 
 
-b) 32 kap. 8 § inkomstskattelagen från ett upphovsmannakonto,
-samt
+b) 32 kap. 8 § inkomstskattelagen från ett upphovsmannakonto, 
 
-3. överlåtelse, pantsättning eller övertagande av medel, om
-dessa förhållanden är kända, enligt
+3. överföring av medel från ett skogskonto, skogsskadekonto 
+eller naturvårdskonto till ett konto av samma slag, 
 
-a) 21 kap. 40 och 41 §§ inkomstskattelagen på skogskonto eller
-skogsskadekonto, och
+4. överlåtelse, pantsättning eller övertagande av medel, om 
+dessa förhållanden är kända, enligt 
 
-b) 32 kap. 11 § första stycket 1 eller 2 inkomstskattelagen på
-upphovsmannakonto.
+a) 21 kap. 40-42 §§ inkomstskattelagen på skogskonto, 
+skogsskadekonto eller naturvårdskonto, och 
+
+b) 32 kap. 11 § första stycket 1 eller 2 inkomstskattelagen på 
+upphovsmannakonto, samt 
+
+5. behållning på ett skogskonto, skogsskadekonto, 
+naturvårdskonto eller upphovsmannakonto. Lag (2026:115).
 
 5 § Kontrolluppgift ska lämnas för kontohavaren av det
 kontoförande kreditinstitutet.
 
-6 § I kontrolluppgiften ska följande uppgifter lämnas:
+6 § I kontrolluppgiften ska följande uppgifter lämnas: 
 
-1. insatt belopp,
+1. insatt belopp, 
 
-2. uttaget eller utbetalt belopp, och
+2. uttaget eller utbetalt belopp, 
 
-3. överlåtelse, pantsättning eller övertagande av kontomedel.
+3. belopp vid en överföring, en överlåtelse eller ett 
+övertagande av kontomedel, 
+
+4. pantsättning, 
+
+5. de konton mellan vilka medel har flyttats, 
+
+6. nödvändiga identifikationsuppgifter för en mottagare vid en 
+överföring, en överlåtelse eller ett övertagande av 
+kontomedel, 
+
+7. mottagande kreditinstitut om medel har flyttats från ett 
+kreditinstitut till ett annat, och 
+
+8. kontobehållning vid årets utgång. 
+
+Uppgiften enligt första stycket 3 ska avse värdet den dag då 
+överföringen, överlåtelsen eller övertagandet gjordes.
+Lag (2026:115).
 
 17 kap. Kontrolluppgift om ränteinkomster och annan avkastning
 på fordringsrätter
@@ -2782,29 +2806,29 @@ Uppgiftsskyldiga är andra juridiska personer än dödsbon.
 
 Undantag från skyldigheten att lämna kontrolluppgift
 
-4 § Kontrolluppgift om ränteinkomster eller annan avkastning
-behöver inte lämnas
+4 § Kontrolluppgift om ränteinkomster eller annan avkastning 
+behöver inte lämnas 
 
-1. för ett konto som det inte finns ett personnummer för och
-som har öppnats före den 1 januari 1985, om räntan understiger
-100 kronor under året eller, om kontot innehas av mer än en
-person, räntan för var och en av dem understiger 100 kronor,
+1. för ett konto som det inte finns ett personnummer för och 
+som har öppnats före den 1 januari 1985, om räntan understiger 
+100 kronor under året eller, om kontot innehas av mer än en 
+person, räntan för var och en av dem understiger 100 kronor, 
 
-2. om den sammanlagda räntan på konton i annat fall än som
-avses i 1 understiger 100 kronor under året för en person,
+2. om den sammanlagda räntan på konton i annat fall än som 
+avses i 1 understiger 100 kronor under året för en person, 
 
-3. för skogskonto, skogsskadekonto, upphovsmannakonto och
-pensionssparkonto, och
+3. för skogskonto, skogsskadekonto, naturvårdskonto, 
+upphovsmannakonto och pensionssparkonto, och 
 
-4. för tillgångar på ett investeringssparkonto, om kontot vid
-tidpunkten när avkastningen överfördes eller betalades in till
-kontot innehades av en obegränsat skattskyldig fysisk person
-eller ett obegränsat skattskyldigt dödsbo.
+4. för tillgångar på ett investeringssparkonto, om kontot vid 
+tidpunkten när avkastningen överfördes eller betalades in till 
+kontot innehades av en obegränsat skattskyldig fysisk person 
+eller ett obegränsat skattskyldigt dödsbo. 
 
-Första stycket 4 gäller inte ränta och annan avkastning på
-tillgångar som avses i 42 kap. 38 § eller ränta som avses i
+Första stycket 4 gäller inte ränta och annan avkastning på 
+tillgångar som avses i 42 kap. 38 § eller ränta som avses i 
 42 kap. 42 § andra stycket 3 inkomstskattelagen (1999:1229).
-Lag (2011:1289).
+Lag (2026:115).
 
 Kontrolluppgiftens innehåll
 
@@ -2831,11 +2855,7 @@ den person som förfogar över kontot.
 
 Skyldighet att lämna kontrolluppgift
 
-1 § /Upphör att gälla U:2026-01-01/
-Kontrolluppgift ska lämnas om ränteutgifter.
-
-1 § /Träder i kraft I:2026-01-01/
-Kontrolluppgift ska lämnas om sådana ränteutgifter som 
+1 §  ska lämnas om sådana ränteutgifter som 
 avses i 42 kap. 6 b-6 g och 8 §§ inkomstskattelagen 
 (1999:1229). Lag (2024:1179).
 
@@ -2844,17 +2864,7 @@ För vem och av vem ska kontrolluppgift lämnas?
 2 § Kontrolluppgift ska lämnas för fysiska personer och
 dödsbon.
 
-3 § /Upphör att gälla U:2026-01-01/
-Kontrolluppgift ska lämnas av den som har tagit emot
-ränta.
-
-Uppgiftsskyldiga är andra juridiska personer än dödsbon.
-
-Enskild som bara har tagit emot dröjsmålsränta behöver inte
-lämna kontrolluppgift.
-
-3 § /Träder i kraft I:2026-01-01/
-Kontrolluppgift ska lämnas av den som har tagit emot 
+3 § Kontrolluppgift ska lämnas av den som har tagit emot 
 ränta.
 
 Uppgiftsskyldiga är andra juridiska personer än dödsbon.
@@ -2868,19 +2878,7 @@ under året.
 
 Kontrolluppgiftens innehåll
 
-5 § /Upphör att gälla U:2026-01-01/
-I kontrolluppgiften ska uppgift lämnas om mottagen ränta. 
-
-Om någon del av räntan har betalats i förskott, ska uppgift 
-bara lämnas om den del av räntan som avser tiden till och med 
-den 31 januari året efter beskattningsåret.
-
-Om kontrolluppgiften avser en sådan ränteutgift som avses i 
-42 kap. 6 b-6 g och 8 §§ inkomstskattelagen (1999:1229), ska 
-detta framgå av kontrolluppgiften. Lag (2024:1178).
-
-5 § /Träder i kraft I:2026-01-01/
-I kontrolluppgiften ska uppgift lämnas om mottagen ränta.
+5 § I kontrolluppgiften ska uppgift lämnas om mottagen ränta.
 
 Om någon del av räntan har betalats i förskott, ska uppgift 
 bara lämnas om den del av räntan som avser tiden till och med 
@@ -3042,54 +3040,63 @@ ersättningen vid avyttringen efter avdrag för utgifterna för
 avyttringen i stället för kapitalvinsten eller
 kapitalförlusten. Lag (2011:1289).
 
-21 kap. Kontrolluppgift om avyttring av fordringsrätter och
-vissa andra delägarrätter
+21 kap. Kontrolluppgift om avyttring av fordringsrätter, 
+vissa delägarrätter och vissa värdepapper som beskattas 
+enligt 52 kap. inkomstskattelagen
 
 Skyldighet att lämna kontrolluppgift
 
-1 § Kontrolluppgift ska lämnas om
+1 § Kontrolluppgift ska lämnas om 
 
-1. avyttring av andra delägarrätter än sådana som avses i
-20 kap. 1 § och av fordringsrätter, om inte kontrolluppgift
+1. avyttring av andra delägarrätter än sådana som avses i 
+20 kap. 1 § och av fordringsrätter, om inte kontrolluppgift 
 ska lämnas enligt 2,
 
-2. slutförande av options- och terminsaffärer, som inte
-innebär förvärv eller försäljning av egendom, samt
+2. slutförande av options- och terminsaffärer, som inte 
+innebär förvärv eller försäljning av egendom, 
 
-3. utfärdande av optioner.
+3. utfärdande av optioner, samt
+
+4. avyttring av värdepapper som avser råvaror, 
+kryptotillgångar eller index över råvaror eller 
+kryptotillgångar som omfattas av 52 kap. 3 § 
+inkomstskattelagen (1999:1229), om inte kontrolluppgift ska 
+lämnas enligt 1-3. Lag (2025:1382).
 
 För vem och av vem ska kontrolluppgift lämnas?
 
 2 § Kontrolluppgift ska lämnas för fysiska personer och
 dödsbon.
 
-3 § Kontrolluppgift ska lämnas av
+3 § Kontrolluppgift ska lämnas av 
 
-1. värdepappersinstitut i de fall de medverkar vid avyttring
-av delägarrätt eller fordringsrätt och kontrolluppgift inte
-ska lämnas av dem som avses i 2–7,
+1. värdepappersinstitut i de fall de medverkar vid avyttring 
+av delägarrätt, fordringsrätt eller annat värdepapper som 
+avser råvaror, kryptotillgångar eller index över råvaror eller 
+kryptotillgångar och kontrolluppgift inte ska lämnas av dem 
+som avses i 2-7,
 
-2. värdepappersinstitut i de fall de registrerar en option
-eller en termin eller på annat sätt medverkar vid utfärdandet
-av optionen eller vid slutförandet av options- eller
+2. värdepappersinstitut i de fall de registrerar en option 
+eller en termin eller på annat sätt medverkar vid utfärdandet 
+av optionen eller vid slutförandet av options- eller 
 terminsaffären,
 
 3. kreditmarknadsföretag,
 
-4. garantimyndigheten enligt lagen (1995:1571) om
+4. garantimyndigheten enligt lagen (1995:1571) om 
 insättningsgaranti eller lagen (1999:158) om investerarskydd,
 
-5. den som har betalat ut ersättning vid avyttring genom
+5. den som har betalat ut ersättning vid avyttring genom 
 inlösen,
 
-6. försäkringsgivare som har betalat ut ersättning på grund av
-en sådan försäkring som ett värdepappersbolag har tecknat för
-skadeståndsskyldighet som det kan komma att ådra sig när
+6. försäkringsgivare som har betalat ut ersättning på grund av 
+en sådan försäkring som ett värdepappersbolag har tecknat för 
+skadeståndsskyldighet som det kan komma att ådra sig när 
 tjänster utförs i rörelsen, och
 
-7. den som för eller har fört ett investeringssparkonto vid
-avyttring som avses i 44 kap. 8 a § inkomstskattelagen
-(1999:1229). Lag (2011:1289).
+7. den som för eller har fört ett investeringssparkonto vid 
+avyttring som avses i 44 kap. 8 a § inkomstskattelagen 
+(1999:1229). Lag (2025:1382).
 
 Undantag från skyldigheten att lämna kontrolluppgift
 
@@ -3108,96 +3115,57 @@ Lag (2011:1289).
 
 Kontrolluppgiftens innehåll
 
-5 § I kontrolluppgiften ska följande uppgifter lämnas:
+5 § I kontrolluppgiften ska följande uppgifter lämnas: 
 
-1. den ersättning som har överenskommits efter avdrag för
+1. den ersättning som har överenskommits efter avdrag för 
 försäljningsprovision och liknande utgifter,
 
-2. antalet delägarrätter eller fordringsrätter,
+2. antalet delägarrätter, fordringsrätter eller andra 
+värdepapper som avser kryptotillgångar, råvaror eller index 
+över råvaror eller kryptotillgångar, 
 
-3. delägarrätternas eller fordringsrätternas slag och sort,
+3. slag och sort för delägarrätterna, fordringsrätterna eller 
+annat värdepapper som avser kryptotillgångar, råvaror eller 
+index över råvaror eller kryptotillgångar,
 
-4. den kontanta ersättningen vid sådana byten av andelar som
-avses i 48 a kap. 2 § och 49 kap. 2 § inkomstskattelagen
+4. den kontanta ersättningen vid sådana byten av andelar som 
+avses i 48 a kap. 2 § och 49 kap. 2 § inkomstskattelagen 
 (1999:1229), samt
 
-5. om det är fråga om en avyttring som avses i 44 kap. 8 a §
-inkomstskattelagen samt den ersättning som avses i den
+5. om det är fråga om en avyttring som avses i 44 kap. 8 a § 
+inkomstskattelagen samt den ersättning som avses i den 
 paragrafen.
 
-Om ett terminsavtal slutförs genom att den ena parten säljer
-en tillgång samtidigt som samma part förvärvar en mindre
-tillgång av samma slag, får uppgift lämnas om
-bruttoersättningen vid försäljningen. Lag (2011:1289).
+Om ett terminsavtal slutförs genom att den ena parten säljer 
+en tillgång samtidigt som samma part förvärvar en mindre 
+tillgång av samma slag, får uppgift lämnas om 
+bruttoersättningen vid försäljningen. Lag (2025:1382).
 
-6 § Om en utbetalning avser även annat än ersättning för
-delägarrätter eller fordringsrätter och den uppgiftsskyldige
-inte kan ange hur stor del av utbetalt belopp som utgör
-ersättning för sådana rätter, ska uppgift om det sammanlagda
-utbetalda beloppet lämnas i kontrolluppgiften.
+6 § Om en utbetalning avser även annat än ersättning för 
+delägarrätter, fordringsrätter eller andra värdepapper som 
+avser kryptotillgångar, råvaror eller index över råvaror eller 
+kryptotillgångar och den uppgiftsskyldige inte kan ange hur 
+stor del av utbetalt belopp som utgör ersättning för sådana 
+rätter, ska uppgift om det sammanlagda utbetalda beloppet 
+lämnas i kontrolluppgiften. Lag (2025:1382).
 
-När delägarrätter eller fordringsrätter ägs gemensamt av flera
-personer
+När delägarrätter, fordringsrätter eller andra värdepapper som 
+avser kryptotillgångar, råvaror eller vissa index ägs 
+gemensamt av flera personer
 
-7 § Om delägarrätter eller fordringsrätter ägs gemensamt av 
-flera personer och det vid avyttringen har upprättats en 
-rapport enligt 9 kap. 27 § lagen (2007:528) om 
-värdepappersmarknaden, behöver kontrolluppgift bara lämnas 
-för den person som anges i rapporten. Lag (2017:699).
+7 § Om delägarrätter, fordringsrätter eller andra värdepapper 
+som avser kryptotillgångar, råvaror eller index över råvaror 
+eller kryptotillgångar ägs gemensamt av flera personer och det 
+vid avyttringen har upprättats en rapport enligt 9 kap. 27 § 
+lagen (2007:528) om värdepappersmarknaden, behöver 
+kontrolluppgift bara lämnas för den person som anges i 
+rapporten. Lag (2025:1382).
 
 22 kap. Kontrolluppgift om vissa andra förhållanden
 
 Innehåll
 
-1 § /Upphör att gälla U:2026-01-01/
-I detta kapitel finns bestämmelser om skyldighet att lämna 
-kontroll-uppgift om
-
-- överlåtelse av privatbostadsrätt och andelar i vissa 
-bostadsföretag (2 och 3 §§ ),
-
-- samfällighet (5 och 6 §§ ),
-
-- räntebidrag (7 § ),
-
-- pensionsförsäkringar och pensionssparkonton (8 och 9 §§ ),
-
-- avskattning av pensionsförsäkring (10 § ),
-
-- tjänstepensionsavtal (11 § ),
-
-- underlag för avkastningsskatt på livförsäkringar och 
-sparande i en PEPP-produkt (12 § ),
-
-- skattereduktion för förmån av hushållsarbete (13 § ),
-
-- elcertifikat (14 § ),
-
-- utsläppsrätter, utsläppsminskningsenheter och certifierade 
-utsläppsminskningar (15 § ),
-
-- schablonintäkt vid innehav av ett investeringssparkonto 
-(16 § ),
-
-- schablonintäkt vid innehav av andelar i värdepappersfonder, 
-fondföretag, specialfonder och utländska specialfonder (17-
-21 §§ ),
-
-- gåva (22 § ),
-
-- investeraravdrag (23 och 24 §§ ),
-
-- skattereduktion för mikroproduktion av förnybar el (25 § ),
-
-- utnyttjande av vissa personaloptioner (26 § ),
-
-- avgift till arbetslöshetskassa (27 § ), och
-
-- innehav av kapitalförsäkring och avtal om sparande i en 
-PEPP-produkt (28-30 §§ ). Lag (2024:1136).
-
-1 § /Träder i kraft I:2026-01-01/
-I detta kapitel finns bestämmelser om skyldighet att lämna 
+1 § I detta kapitel finns bestämmelser om skyldighet att lämna 
 kontrolluppgift om
 
 - överlåtelse av privatbostadsrätt och andelar i vissa 
@@ -3302,16 +3270,20 @@ ersättningen vid detta förvärv.
 
 Samfällighet
 
-5 § Kontrolluppgift ska lämnas om utdelning till delägare i
-sådana samfälligheter som avses i 6 kap. 6 § första stycket
-inkomstskattelagen (1999:1229).
+5 § Kontrolluppgift ska lämnas om utdelning till delägare i 
+sådana samfälligheter som avses i 6 kap. 6 § första stycket 
+inkomstskattelagen (1999:1229). 
 
-Kontrolluppgift ska lämnas för fysiska personer och dödsbon av
+Kontrolluppgift ska lämnas för fysiska personer och dödsbon av 
 den juridiska person som förvaltar samfälligheten.
 
-I kontrolluppgiften ska uppgift lämnas om utbetald utdelning
-och hur stor del av utdelningen som kommer från intäkt av
-skogsbruk som bedrivs i samfälligheten.
+I kontrolluppgiften ska uppgift lämnas om utbetald utdelning 
+och hur stor del av utdelningen som kommer från 
+
+1. intäkt av skogsbruk som bedrivs i samfälligheten, och 
+
+2. ersättning i samfälligheten för naturvårdsavtal som avser 
+fem år eller längre. Lag (2026:115).
 
 6 § Om en privatbostadsfastighet har del i en annan 
 samfällighet än som avses i 6 kap. 6 § första stycket 
@@ -3577,32 +3549,7 @@ I kontrolluppgiften ska uppgift lämnas om den omständighet
 som medför eller kan medföra återföring av
 investeraravdrag. Lag (2013:772).
 
-/Rubriken upphör att gälla U:2026-01-01/
-Skattereduktion för mikroproduktion av förnybar el
-
-25 § /Upphör att gälla U:2026-01-01 genom lag (2025:540)./
-Kontrolluppgift ska lämnas om skattereduktion för
-mikroproduktion av förnybar el enligt 67 kap.
-inkomstskattelagen (1999:1229).
-
-Kontrolluppgift ska lämnas för fysiska personer och juridiska
-personer av nätkoncessionshavaren.
-
-I kontrolluppgiften ska uppgift lämnas om
-
-1. hur många kilowattimmar el som har matats in i
-anslutningspunkten under året,
-
-2. hur många kilowattimmar el som har tagits ut i
-anslutningspunkten under året, och
-
-3. anslutningspunktens identifikationsuppgifter.
-
-Om flera personer har anmält till nätkoncessionshavaren att
-de framställer och matar in förnybar el i en och samma
-anslutningspunkt, ska kontrolluppgiften också innehålla
-uppgift om den procentuella andelen av underlaget för
-skattereduktionen. Lag (2014:1471).
+25 § Har upphävts genom lag (2025:540).
 
 Utnyttjande av vissa personaloptioner
 
@@ -3712,6 +3659,16 @@ rapporteringsskyldigt finansiellt institut som avses i 2 kap.
 rapporteringspliktiga konton med anledning av
 FATCA-avtalet. Lag (2015:69).
 
+4 a § Ett rapporteringsskyldigt finansiellt institut som inte 
+ska lämna några kontrolluppgifter enligt detta kapitel ska i 
+stället underrätta Skatteverket om detta.
+
+Underrättelsen ska lämnas senast den 15 maj kalenderåret efter 
+det kalenderår som uppgifterna skulle ha avsett och innehålla 
+nödvändiga identifikationsuppgifter för det 
+rapporteringsskyldiga finansiella institut som lämnar 
+underrättelsen. Lag (2025:1382).
+
 Kontrolluppgiftens innehåll
 
 Uppgifter som ska lämnas om alla rapporteringspliktiga
@@ -3806,23 +3763,43 @@ upplysningar om finansiella konton
 Innehåll
 
 1 § I detta kapitel finns bestämmelser med anledning av
-rådets direktiv 2014/107/EU av den 9 december 2014 om ändring
-av direktiv 2011/16/EU vad gäller obligatoriskt automatiskt
-utbyte av upplysningar i fråga om beskattning och med
-anledning av det multilaterala avtalet mellan behöriga
-myndigheter om automatiskt utbyte av upplysningar om
-finansiella konton som undertecknades den 29 oktober 2014.
+
+1. rådets direktiv 2014/107/EU av den 9 december 2014 om 
+ändring av direktiv 2011/16/EU vad gäller obligatoriskt 
+automatiskt utbyte av upplysningar i fråga om beskattning,
+
+2. rådets direktiv (EU) 2023/2226 av den 17 oktober 2023 om 
+ändring av direktiv 2011/16/EU vad gäller obligatoriskt 
+automatiskt utbyte av upplysningar i fråga om beskattning,
+
+3. det multilaterala avtalet mellan behöriga myndigheter om 
+automatiskt utbyte av upplysningar om finansiella konton som 
+undertecknades den 29 oktober 2014, och
+
+4. tilläggsavtalet som undertecknades den 7 november 2024 till 
+det multilaterala avtalet mellan behöriga myndigheter om 
+automatiskt utbyte av upplysningar om finansiella konton som 
+undertecknades den 29 oktober 2014.
+
 Bestämmelserna ges i följande ordning:
 
-– skyldighet att lämna kontrolluppgift (2 §),
+- skyldighet att lämna kontrolluppgift (2 § ),
 
-– för vem och av vem kontrolluppgift ska lämnas (3 och 4 §§),
+- för vem och av vem kontrolluppgift ska lämnas (3 och 4 §§ ),
 
-– kontrolluppgiftens innehåll avseende rapporteringspliktiga
-konton, (5–8 §§), och
+- underrättelse till Skatteverket om att det 
+rapporteringsskyldiga finansiella institutet inte ska lämna 
+några kontrolluppgifter (4 a § ),
 
-– kontrolluppgiftens innehåll avseende odokumenterade konton
-(9 §). Lag (2015:918).
+- kontrolluppgiftens innehåll avseende rapporteringspliktiga 
+konton, (5-8 §§ ),
+
+- uppgift om på vilket eller vilka sätt som den person som 
+kontrolluppgiften lämnas för innehar andel i eget kapital 
+(8 a § ), och
+
+- kontrolluppgiftens innehåll avseende odokumenterade konton 
+(9 § ). Lag (2025:1382).
 
 Skyldighet att lämna kontrolluppgift
 
@@ -3857,6 +3834,16 @@ rapporteringsskyldigt finansiellt institut som avses i 2 kap.
 rapporteringspliktiga konton vid automatiskt utbyte av
 upplysningar om finansiella konton. Lag (2015:918).
 
+4 a § Ett rapporteringsskyldigt finansiellt institut som inte 
+ska lämna några kontrolluppgifter enligt detta kapitel ska i 
+stället underrätta Skatteverket om detta.
+
+Underrättelsen ska lämnas senast den 15 maj kalenderåret efter 
+det kalenderår som uppgifterna skulle ha avsett och innehålla 
+nödvändiga identifikationsuppgifter för det 
+rapporteringsskyldiga finansiella institut som lämnar 
+underrättelsen. Lag (2025:1382).
+
 Kontrolluppgiftens innehåll avseende rapporteringspliktiga
 konton
 
@@ -3864,52 +3851,49 @@ Uppgifter som ska lämnas om alla rapporteringspliktiga
 konton
 
 5 § I kontrolluppgiften ska följande uppgifter lämnas för 
-rapporterings-pliktiga konton: 
+rapporteringspliktiga konton:
 
-1. att kontot är ett rapporteringspliktigt konto, 
+1. att kontot är ett rapporteringspliktigt konto,
 
-2. den eller de stater eller jurisdiktioner som den person 
-som kontrolluppgiften lämnas för har hemvist i eller kan 
-antas ha hemvist i på det sätt som avses i 4–8 kap. lagen 
-(2015:911) om identifiering av rapporteringspliktiga konton 
-vid automatiskt utbyte av upplysningar om finansiella 
-konton,
+2. den eller de stater eller jurisdiktioner som den person som 
+kontrolluppgiften lämnas för har hemvist i eller kan antas ha 
+hemvist i på det sätt som avses i 4-8 kap. lagen (2015:911) om 
+identifiering av rapporteringspliktiga konton vid automatiskt 
+utbyte av upplysningar om finansiella konton,
 
-3. kontots identifikationsuppgifter, och
+3. kontots identifikationsuppgifter, typ av finansiellt konto 
+och huruvida kontot är ett befintligt konto eller ett nytt 
+konto,
 
 4. kontots saldo eller värde vid utgången av året eller, om 
-kontot har avslutats under året, att kontot har avslutats.
+kontot har avslutats under året, att kontot har avslutats,
+
+5. om kontohavaren har lämnat ett giltigt intygande, och
+
+6. om kontot är ett gemensamt konto och, i så fall, antalet 
+gemensamma kontohavare.
 
 När det gäller konton som innehas av enheter ska 
-kontrolluppgiften även innehålla uppgift om vilken eller 
-vilka av de personer som kontrolluppgiften lämnas för som 
-är
+kontrolluppgiften även innehålla uppgift om vilken eller vilka 
+av de personer som kontrolluppgiften lämnas för som är
 
-1. fysiska personer med bestämmande inflytande över en 
-passiv icke-finansiell enhet som är kontohavare för det 
-rapporteringspliktiga kontot, och
-
-a) på vilket sätt de utövar bestämmande inflytande, i fråga 
-om konton som granskats enligt bestämmelserna i 7 kap. lagen 
-om identifiering av rapporteringspliktiga konton vid 
-automatiskt utbyte av upplysningar om finansiella konton, 
-eller
-
-b) om den informationen finns tillgänglig, på vilket sätt de 
-utövar bestämmande inflytande, i fråga om konton som 
-granskats enligt bestämmelserna i 6 kap. samma lag, och
+1. fysiska personer med bestämmande inflytande över en passiv 
+icke-finansiell enhet som är kontohavare för det 
+rapporteringspliktiga kontot, och på vilket sätt de utövar 
+bestämmande inflytande samt om det har lämnats ett giltigt 
+intygande för varje sådan person, och
 
 2. kontohavare för det rapporteringspliktiga kontot samt om 
-kontohavaren är en passiv icke-finansiell enhet eller en 
-annan enhet.
+kontohavaren är en passiv icke-finansiell enhet eller en annan 
+enhet.
 
 Om det rapporteringspliktiga kontot är ett sådant 
 försäkringsavtal med kontantvärde eller livränteavtal som 
 avses i 2 kap. 22 § lagen (2015:911) om identifiering av 
 rapporteringspliktiga konton vid automatiskt utbyte av 
 upplysningar om finansiella konton, avses med saldo eller 
-värde i första stycket 4 kontantvärdet eller 
-återköpsvärdet. Lag (2018:2034).
+värde i första stycket 4 kontantvärdet eller återköpsvärdet.
+Lag (2025:1382).
 
 Uppgifter som ska lämnas om rapporteringspliktiga konton som
 är depåkonton
@@ -3937,7 +3921,16 @@ värdepapperscentral enligt lagen (1998:1479) om
 värdepapperscentraler och kontoföring av finansiella 
 instrument eller har agerat som förvaltare, mäklare, ombud 
 eller annan form av företrädare för kontohavaren vid 
-försäljningen eller inlösen. Lag (2018:2034).
+försäljningen eller inlösen.
+
+Trots det som anges i första stycket 2 behöver det 
+rapporteringsskyldiga finansiella institutet inte lämna 
+uppgift om sammanlagt bruttobelopp avseende ersättning från 
+försäljning eller inlösen av tillgångar på kontot, om 
+institutet i stället lämnar uppgifter om detta i en 
+kontrolluppgift enligt 22 d kap. Det rapporteringsskyldiga 
+finansiella institutet får dock ändå lämna dessa uppgifter om 
+en tydligt identifierad grupp av konton. Lag (2025:1382).
 
 Uppgifter som ska lämnas om rapporteringspliktiga konton som
 är inlåningskonton
@@ -3965,6 +3958,12 @@ Med sammanlagt bruttobelopp avses till exempel det
 sammanräknade bruttobeloppet av betalningar som har gjorts 
 med anledning av försäljning eller inlösen.
 Lag (2018:2034).
+
+8 a § Om det rapporteringspliktiga kontot är en andel i eget 
+kapital i en investeringsenhet som är en annan juridisk 
+konstruktion än en juridisk person, ska uppgift lämnas om på 
+vilket eller vilka sätt som den person som kontrolluppgiften 
+lämnas för innehar andel i eget kapital. Lag (2025:1382).
 
 Kontrolluppgiftens innehåll avseende odokumenterade konton
 
@@ -4173,6 +4172,186 @@ som hållits inne eller tagits ut ska rapporteras på
 motsvarande sätt som ersättning enligt första och andra 
 styckena. Lag (2022:1686).
 
+22 d kap. Kontrolluppgift med anledning av automatiskt utbyte 
+av upplysningar om rapporteringspliktiga kryptotillgångar
+
+Innehåll
+
+1 § I detta kapitel finns bestämmelser med anledning av
+
+1. rådets direktiv (EU) 2023/2226 av den 17 oktober 2023 om 
+ändring av direktiv 2011/16/EU om administrativt samarbete i 
+fråga om beskattning, och
+
+2. avtal mellan behöriga myndigheter om automatiskt utbyte av 
+upplysningar för rapportering av kryptotillgångar.
+
+Bestämmelserna ges i följande ordning:
+
+- definitioner och förklaringar (2 § ),
+
+- för vem och av vem kontrolluppgift ska lämnas (3-6 §§ ), och
+
+- kontrolluppgiftens innehåll (7-13 §§ ). Lag (2025:1382).
+
+Definitioner och förklaringar
+
+2 § Termer och uttryck som används i detta kapitel har, om 
+inte något annat anges, samma betydelse som de har i lagen 
+(2025:1377) om inhämtande av vissa uppgifter på skatteområdet 
+om kryptotillgångar. Lag (2025:1382).
+
+För vem och av vem ska kontrolluppgift lämnas?
+
+3 § Kontrolluppgift ska lämnas av en rapporteringsskyldig 
+leverantör av kryptotillgångstjänster. Lag (2025:1382).
+
+4 § En rapporteringsskyldig leverantör av 
+kryptotillgångstjänster som avses i 2 kap. 1 § och 4 § 2 lagen 
+(2025:1377) om inhämtande av vissa uppgifter på skatteområdet 
+om kryptotillgångar är inte skyldig att lämna kontrolluppgift 
+som avser en rapporteringspliktig användare eller en person 
+med bestämmande inflytande för vilka den fullgör 
+rapporteringsskyldigheten i en stat eller jurisdiktion utanför 
+unionen som omfattas av ett gällande kvalificerande avtal 
+mellan behöriga myndigheter som ingåtts med medlemsstaten där 
+den rapporteringspliktiga användaren eller personen med 
+bestämmande inflytande har skatterättslig hemvist.
+Lag (2025:1382).
+
+5 § Kontrolluppgift ska lämnas för den som har, eller skulle 
+ha, identifierats som rapporteringspliktig användare av 
+kryptotillgångar enligt 7 kap. lagen (2025:1377) om inhämtande 
+av vissa uppgifter på skatteområdet om kryptotillgångar.
+
+Kontrolluppgift ska även lämnas för den eller de fysiska 
+personer som har, eller skulle ha, identifierats som en person 
+med bestämmande inflytande och som är en rapporteringspliktig 
+person enligt 7 kap. lagen om inhämtande av vissa uppgifter på 
+skatteområdet om kryptotillgångar. Lag (2025:1382).
+
+6 § En rapporteringsskyldig leverantör av 
+kryptotillgångstjänster som inte ska lämna några 
+kontrolluppgifter enligt detta kapitel ska i stället 
+underrätta Skatteverket om detta.
+
+Underrättelsen ska lämnas senast den 1 april kalenderåret 
+efter den rapporteringspliktiga perioden och innehålla 
+nödvändiga identifikationsuppgifter för den 
+rapporteringsskyldiga leverantören av kryptotillgångstjänster.
+Lag (2025:1382).
+
+Kontrolluppgiftens innehåll 
+
+Uppgifter som ska lämnas om kryptotillgångar
+
+7 § En rapporteringsskyldig leverantör av 
+kryptotillgångstjänster ska lämna uppgifter om varje 
+rapporteringspliktig användare i fråga om de 
+rapporteringspliktiga kryptotillgångar med vilka leverantören 
+har genomfört rapporteringspliktiga transaktioner under det 
+relevanta kalenderåret. Uppgift ska lämnas om
+
+1. fullständig benämning på typen av rapporteringspliktig 
+kryptotillgång,
+
+2. det sammanlagda bruttobelopp som betalats, det sammanlagda 
+antalet kryptoenheter samt antalet rapporteringspliktiga 
+transaktioner som avser förvärv mot fiatvaluta,
+
+3. det sammanlagda bruttobelopp som mottagits, det sammanlagda 
+antalet kryptoenheter samt antalet rapporteringspliktiga 
+transaktioner som avser avyttringar mot fiatvaluta,
+
+4. det sammanlagda skäliga marknadsvärdet, det sammanlagda 
+antalet kryptoenheter samt antalet rapporteringspliktiga 
+transaktioner som avser förvärv mot andra 
+rapporteringspliktiga kryptotillgångar,
+
+5. det sammanlagda skäliga marknadsvärdet, det sammanlagda 
+antalet kryptoenheter samt antalet rapporteringspliktiga 
+transaktioner som avser avyttringar mot andra 
+rapporteringspliktiga kryptotillgångar,
+
+6. det sammanlagda skäliga marknadsvärdet, det sammanlagda 
+antalet kryptoenheter samt antalet rapporteringspliktiga 
+massbetalningstransaktioner,
+
+7. det sammanlagda skäliga marknadsvärdet, det sammanlagda 
+antalet kryptoenheter och antalet rapporteringspliktiga 
+transaktioner, uppdelade efter typ av överföring om denna är 
+känd av leverantören, som avser överföringar till den 
+rapporteringspliktiga användaren som inte omfattas av 2 och 4,
+
+8. det sammanlagda skäliga marknadsvärdet, det sammanlagda 
+antalet kryptoenheter och antalet rapporteringspliktiga 
+transaktioner uppdelade efter typ av överföring om denna är 
+känd av leverantören, som avser överföringar gjorda av den 
+rapporteringspliktiga användaren som inte omfattas av 3, 5 och 
+6, och
+
+9. det sammanlagda skäliga marknadsvärdet samt det sammanlagda 
+antalet kryptoenheter som överförts av leverantören till 
+adresser i distribuerade liggare som inte är kända av denne 
+som förknippade med en tjänsteleverantör av virtuella 
+tillgångar eller ett finansiellt institut. Lag (2025:1382).
+
+8 § Vid tillämpning av 7 § 2 och 3 ska det belopp som betalats 
+eller mottagits rapporteras i den fiatvaluta i vilken beloppet 
+betalades eller mottogs. 
+
+Om beloppen har betalats eller mottagits i flera fiatvalutor 
+ska beloppen rapporteras i en enda fiatvaluta, omräknade vid 
+tidpunkten för varje rapporteringspliktig transaktion, på ett 
+sätt som konsekvent tillämpas av den rapporteringsskyldiga 
+leverantören av kryptotillgångstjänster. Lag (2025:1382).
+
+9 § Vid tillämpning av 7 § 4-9 ska det skäliga marknadsvärdet 
+fastställas och rapporteras i en enda fiatvaluta som värderas 
+vid tidpunkten för varje rapporteringspliktigtransaktion 
+enligt en metod som tillämpas konsekvent av den 
+rapporteringsskyldiga leverantören av kryptotillgångstjänster.
+Lag (2025:1382).
+
+10 § Vid tillämpningen av 7 § 4-9 och rapporteringen av det 
+skäliga marknadsvärdet i en enda fiatvaluta, ska den 
+rapporteringsskyldiga leverantören av kryptotillgångstjänster 
+använda sig av metoden att förlita sig på kurser den själv 
+tillhandahåller för handel mellan kryptotillgång och 
+fiatvaluta.
+
+För överföringar enligt 7 § 6-9 får en alternativ 
+värderingsmetod användas, om den rapporteringsskyldiga 
+leverantören av kryptotillgångstjänster inte tillhandahåller 
+kurser för handel mellan kryptotillgångar och fiatvaluta. 
+Uppgift om detta och vilken av de alternativa 
+värderingsmetoderna som har använts ska då lämnas.
+Lag (2025:1382).
+
+11 § I de uppgifter som rapporteras ska det anges i vilken 
+fiatvaluta varje belopp rapporteras. Lag (2025:1382).
+
+Uppgifter som ska lämnas om personer med bestämmande 
+inflytande
+
+12 § När det gäller enheter som är användare av 
+kryptotillgångar ska, under förutsättning att det inte är en 
+aktiv enhet, kontrolluppgift även innehålla uppgift om vilken 
+eller vilka av de personer som kontrolluppgiften lämnas för 
+som är personer med bestämmande inflytande och som är 
+rapporteringspliktiga personer, och uppgift om på vilket eller 
+vilka sätt som de utövar bestämmande inflytande.
+Lag (2025:1382).
+
+Uppgifter som ska lämnas om den rapporteringsskyldiga 
+leverantören av kryptotillgångstjänster
+
+13 § Varje rapporteringsskyldig leverantör av 
+kryptotillgångstjänster ska lämna uppgift om vilken anknytning 
+till Sverige som gör att denna är rapporteringsskyldig enligt 
+2 kap. lagen (2025:1377) om inhämtande av vissa uppgifter på 
+skatteområdet om kryptotillgångar. Lag (2025:1382).
+
 23 kap. Kontrolluppgift om utländska förhållanden
 
 Betalningar till och från utlandet
@@ -4220,38 +4399,18 @@ uppgifter lämnas:
 
 Begränsat skattskyldiga
 
-2 § /Upphör att gälla U:2026-01-01/
-Kontrolluppgifter enligt 15 kap., 16 kap. 1 § om 
-ersättning som avses i 16 kap. 3 § 2 samt 4 § 1 a, 2 a och 
-3 a, 17, 19, 20, 21 kap., 22 kap. 2, 3, 9-11, 17-21 och 23-
-27 §§, 22 a-22 c kap. ska även lämnas för fysiska personer som 
-är begränsat skattskyldiga.
+2 § Kontrolluppgifter enligt 15 kap., 16 kap. 1 § om 
+ersättning som avses i 16 kap. 3 § 2 samt 4 § 1 a, 2 a, 3, 4 a 
+och 5, 17, 19, 20, 21 kap., 22 kap. 2, 3, 9-11, 17-21, 23, 24, 
+26 och 27 §§ samt 22 a-22 c kap. ska även lämnas för fysiska 
+personer som är begränsat skattskyldiga. 
 
 Kontrolluppgift enligt 22 kap. 10 § ska också avse 
 omständigheter som medför eller kan medföra avskattning enligt 
 5 § första stycket 6, 6 a eller 7 lagen (1991:586) om särskild 
-inkomstskatt för utomlands bosatta. Lag (2022:1686).
+inkomstskatt för utomlands bosatta. Lag (2026:115).
 
-2 § /Träder i kraft I:2026-01-01/
-Kontrolluppgifter enligt 15 kap., 16 kap. 1 § om 
-ersättning som avses i 16 kap. 3 § 2 samt 4 § 1 a, 2 a och 
-3 a, 17, 19, 20, 21 kap., 22 kap. 2, 3, 9-11, 17-21, 23, 24, 
-26 och 27 §§, 22 a-22 c kap. ska även lämnas för fysiska 
-personer som är begränsat skattskyldiga.
-
-Kontrolluppgift enligt 22 kap. 10 § ska också avse 
-omständigheter som medför eller kan medföra avskattning enligt 
-5 § första stycket 6, 6 a eller 7 lagen (1991:586) om särskild 
-inkomstskatt för utomlands bosatta. Lag (2025:540).
-
-3 § /Upphör att gälla U:2026-01-01/
-Kontrolluppgifter enligt 16 kap. 1 § om ersättning som 
-avses i 16 kap. 3 § 2 och 22 kap. 25 § ska även lämnas för 
-juridiska personer som är begränsat skattskyldiga. 
-Lag (2017:387).
-
-3 § /Träder i kraft I:2026-01-01/
-Kontrolluppgifter enligt 16 kap. 1 § om ersättning som 
+3 § Kontrolluppgifter enligt 16 kap. 1 § om ersättning som 
 avses i 16 kap. 3 § 2 ska även lämnas för juridiska personer 
 som är begränsat skattskyldiga. Lag (2025:540).
 
@@ -4272,6 +4431,12 @@ plattformsoperatörers inhämtande av vissa uppgifter på
 skatteområdet och som är begränsat skattskyldiga.
 Lag (2022:1686).
 
+3 d § Kontrolluppgifter enligt 22 d kap. ska även lämnas för 
+sådana enheter som avses i 6 kap. 2 § lagen (2025:1377) om 
+inhämtande av vissa uppgifter på skatteområdet om 
+kryptotillgångar och som är begränsat skattskyldiga.
+Lag (2025:1382).
+
 Utländska försäkringar
 
 4 § Den som har förmedlat en utländsk försäkring som avses i
@@ -4290,7 +4455,7 @@ lämna kontrolluppgifter i enlighet med bestämmelserna i denna
 lag. Detsamma gäller en utländsk AIF-förvaltare som förvaltar 
 en specialfond eller som marknadsför en utländsk specialfond i 
 Sverige enligt lagen (2013:561) om förvaltare av alternativa 
-investeringsfonder. 
+investeringsfonder.
 
 Skyldigheten att lämna en sådan förbindelse gäller inte ett 
 utländskt företag som hör hemma i en stat inom Europeiska 
@@ -4299,7 +4464,12 @@ bestämmelser i den staten är förhindrat att lämna
 kontrolluppgifter. Skyldigheten gäller inte heller 
 försäkringsgivare inom EES som bara meddelar 
 pensionsförsäkring enligt 58 kap. inkomstskattelagen 
-(1999:1229). Lag (2022:1760).
+(1999:1229). 
+
+Skyldigheten gäller inte heller utländska kreditinstitut som 
+bara tillhandahåller konton som utgör skogskonto, 
+skogsskadekonto och naturvårdskonto enligt 21 kap. 
+inkomstskattelagen. Lag (2026:115).
 
 6 § Försäkringsgivare som meddelar försäkring från fast
 driftställe utanför Sverige men i en stat inom Europeiska
@@ -4318,6 +4488,17 @@ pensionsförsäkringsavtalet.
 
 En kopia av försäkringsavtalet ska lämnas in tillsammans med
 åtagandet.
+
+6 a § Om ett utländskt kreditinstitut som avses i 21 kap. 35 § 
+inkomstskattelagen (1999:1229) tillhandahåller skogskonto, 
+skogsskadekonto eller naturvårdskonto på annat sätt än genom 
+en filial i Sverige, ska kreditinstitutet för varje konto ge 
+in ett åtagande till Skatteverket om att fullgöra skyldigheter 
+enligt 21 kap. inkomstskattelagen och om att lämna 
+kontrolluppgifter om kontot i enlighet med 16 kap. och 2 §. 
+
+Åtagandet ska innehålla nödvändiga identifikationsuppgifter 
+för kreditinstitutet, kontot och kontohavaren. Lag (2026:115).
 
 7 § En utländsk gåvomottagare som gör en sådan ansökan som 
 avses i 9 § lagen (2019:453) om godkännande av gåvomottagare 
@@ -4383,7 +4564,15 @@ upplysningar om finansiella konton
 kommit in till Skatteverket senast den 15 maj närmast
 följande kalenderår. Lag (2015:918).
 
-Kontrolluppgifter om skogs-, skogsskade- och upphovsmannakonto
+Kontrolluppgift med anledning av automatiskt utbyte av 
+upplysningar om rapporteringspliktiga kryptotillgångar
+
+2 b § Kontrolluppgifter enligt 22 d kap. ska ha kommit in till 
+Skatteverket senast den 1 april närmast följande kalenderår.
+Lag (2025:1382).
+
+Kontrolluppgifter om skogs-, skogsskade-, naturvårds- och 
+upphovsmannakonto
 
 3 § Kontrolluppgift enligt 16 kap. 4 § 1 ska ha kommit in till
 Skatteverket senast den 30 juni närmast följande kalenderår.
@@ -4396,15 +4585,15 @@ Uppgifter som ska finnas i alla kontrolluppgifter
 uppgiftsskyldige och den som kontrolluppgiften lämnas för,
 
 2. uppgift om skatteavdrag och innehållen utländsk källskatt, 
-samt
+samt 
 
 3. uppgift om huruvida den person som kontrolluppgiften lämnas 
 för är företagsledare, närstående till en sådan person eller 
 delägare, om uppgiften lämnas av ett fåmansföretag eller ett 
 fåmanshandelsbolag.
 
-Kontrolluppgifter enligt 22 a-22 c kap. ska dock bara 
-innehålla uppgifter enligt första stycket 1. Lag (2022:1686).
+Kontrolluppgifter enligt 22 a-22 d kap. ska dock bara 
+innehålla uppgifter enligt första stycket 1. Lag (2025:1382).
 
 25 kap. Undantag från kontrolluppgiftsskyldighet
 
@@ -4830,40 +5019,18 @@ arbetsgivardeklarationen i stället för det som föreskrivs i
 
 3. periodens arbetsgivaravgifter. Lag (2017:387).
 
-19 f § Vid särskild beräkning av arbetsgivaravgifter, allmän 
-löneavgift och särskild löneskatt enligt 5 § lagen (2016:1053) 
-om särskild beräkning av vissa avgifter för växa-företag eller 
-5 § lagen (2021:423) om särskild beräkning av vissa avgifter 
-för arbetsgivare ska utbetalaren lämna
+19 f § Vid beräkning av särskilt avdrag från 
+arbetsgivaravgifterna och den allmänna löneavgiften enligt 
+lagen (2001:1170) om särskilda avdrag i vissa fall vid 
+avgiftsberäkningen enligt lagen (1994:1920) om allmän 
+löneavgift och socialavgiftslagen (2000:980), ska utbetalaren 
+lämna
 
-1. uppgift om annat stöd som har beviljats utbetalaren under 
-beskattningsåret och de två föregående beskattningsåren och 
-som anses vara sådant stöd av mindre betydelse som avses i
+1. uppgift om annat driftstöd som har beviljats utbetalaren 
+under året, och
 
-- kommissionens förordning (EU) nr 1407/2013 av den 
-18 december 2013 om tillämpningen av artiklarna 107 och 108 i 
-fördraget om Europeiska unionens funktionssätt på stöd av 
-mindre betydelse,
-
-- kommissionens förordning (EU) nr 1408/2013 av den 
-18 december 2013 om tillämpningen av artiklarna 107 och 108 i 
-fördraget om Europeiska unionens funktionssätt på stöd av 
-mindre betydelse inom jordbrukssektorn, eller
-
-- kommissionens förordning (EU) nr 717/2014 av den 27 juni 
-2014 om tillämpningen av artiklarna 107 och 108 i fördraget om 
-Europeiska unionens funktionssätt på stöd av mindre betydelse 
-inom fiskeri- och vattenbruks-sektorn,
-
-2. uppgift om annat stöd som har beviljats utbetalaren under 
-de tre senaste åren och som anses vara sådant stöd av mindre 
-betydelse som avses i kommissionens förordning (EU) 2023/2831 
-av den 13 december 2023 om tillämpningen av artiklarna 107 och 
-108 i fördraget om Europeiska unionens funktionssätt på stöd 
-av mindre betydelse, och 
-
-3. de övriga uppgifter som Skatteverket behöver för att kunna 
-bedöma om särskild beräkning får göras. Lag (2024:1157).
+2. de övriga uppgifter som Skatteverket behöver för att kunna 
+bedöma rätten till särskilt avdrag. Lag (2025:1340).
 
 Förenklad arbetsgivardeklaration
 
@@ -5430,46 +5597,7 @@ skatten.
 
 29 kap. Syftet med inkomstdeklaration
 
-1 § /Upphör att gälla U:2026-01-01/
-Inkomstdeklaration ska lämnas till ledning för 
-
-1. bestämmande av underlag för att ta ut skatt eller avgift 
-enligt 
-
-a) inkomstskattelagen (1999:1229), 
-
-b) lagen (1984:1052) om statlig fastighetsskatt, 
-
-c) 2 § lagen (1990:659) om särskild löneskatt på vissa 
-förvärvsinkomster,
-
-d) lagen (1990:661) om avkastningsskatt på pensionsmedel i de 
-fall som avses i 2 § första stycket 1-4 och 6-13 den lagen, 
-
-e) lagen (1991:687) om särskild löneskatt på 
-pensionskostnader,
-
-f) lagen (1994:1744) om allmän pensionsavgift,
-
-g) 2 § lagen (1994:1920) om allmän löneavgift,
-
-h) lagen (2007:1398) om kommunal fastighetsavgift,
-
-i) lagen (2018:1893) om finansiering av radio och tv i 
-allmänhetens tjänst, och
-
-j) lagen (2021:1256) om riskskatt för kreditinstitut,
-
-2. bestämmande av underlag för att ta ut egenavgifter enligt 
-3 kap. socialavgiftslagen (2000:980),
-
-3. bestämmande av skattereduktion, samt 
-
-4. beräkning av pensionsgrundande inkomst enligt 59 kap. 
-socialförsäkringsbalken. Lag (2022:1760).
-
-1 § /Träder i kraft I:2026-01-01/
-Inkomstdeklaration ska lämnas till ledning för
+1 § Inkomstdeklaration ska lämnas till ledning för
 
 1. bestämmande av underlag för att ta ut skatt eller avgift 
 enligt
@@ -5608,79 +5736,40 @@ Lag (2012:835).
 
 Innehåll
 
-1 § /Upphör att gälla U:2026-01-01/
-I detta kapitel finns bestämmelser om
+1 § I detta kapitel finns bestämmelser om 
 
-- uppgifter som ska lämnas i samtliga inkomstdeklarationer (2 
-och 3 §§ ),
+- uppgifter som ska lämnas i samtliga inkomstdeklarationer 
+(2 och 3 §§ ), 
 
 - uppgifter som fysiska personer och dödsbon ska underrättas 
-om och godkänna eller lämna (4 och 5 §§ ),
+om och godkänna eller lämna (4 och 5 §§ ), 
 
 - uppgift som ska lämnas om inkomstslaget tjänst (6 § ),
 
 - uppgifter som ska lämnas om inkomstslaget näringsverksamhet 
-(7-15 a §§ ),
+(7-15 b §§ ), 
 
-- uppgifter som ska lämnas om inkomstslaget kapital (16-
-19 c §§ ),
+- uppgifter som ska lämnas om inkomstslaget kapital (16-19 
+c §§ ), 
 
-- uppgift om tillkommande belopp (20 § ),
+- uppgift om tillkommande belopp (20 § ), 
 
-- uppgifter om vissa andelsavyttringar m.m. (21-24 §§ ),
+- uppgifter om vissa andelsavyttringar m.m. (21-24 §§ ), 
 
-- uppgifter för beräkning av egenavgifter (25 och 26 §§ ),
+- uppgifter för beräkning av egenavgifter (25 och 26 §§ ), 
 
 - uppgifter som fåmansföretag samt företagsledare och delägare 
-ska lämna (27-29 §§ ),
+ska lämna (27-29 §§ ), 
 
-- uppgift om tillskott och uttag (30 § ),
+- uppgift om tillskott och uttag (30 § ), 
 
-- uppgift om betalning till utlandet (31 § ),
+- uppgift om betalning till utlandet (31 § ), 
 
 - uppgift som ekonomiska föreningar ska lämna (32 § ), 
 
-- uppgifter om skattereduktion (33-33 d §§ ), och
+- uppgifter om skattereduktion (33 och 33 b-33 d §§ ), och 
 
-- uppgifter om prissättningsbesked (34 § ).
-Lag (2024:1136).
-
-1 § /Träder i kraft I:2026-01-01/
-I detta kapitel finns bestämmelser om
-
-- uppgifter som ska lämnas i samtliga inkomstdeklarationer (2 
-och 3 §§ ),
-
-- uppgifter som fysiska personer och dödsbon ska underrättas 
-om och godkänna eller lämna (4 och 5 §§ ),
-
-- uppgift som ska lämnas om inkomstslaget tjänst (6 § ),
-
-- uppgifter som ska lämnas om inkomstslaget näringsverksamhet 
-(7-15 a §§ ),
-
-- uppgifter som ska lämnas om inkomstslaget kapital (16-
-19 c §§ ),
-
-- uppgift om tillkommande belopp (20 § ),
-
-- uppgifter om vissa andelsavyttringar m.m. (21-24 §§ ),
-
-- uppgifter för beräkning av egenavgifter (25 och 26 §§ ),
-
-- uppgifter som fåmansföretag samt företagsledare och delägare 
-ska lämna (27-29 §§ ),
-
-- uppgift om tillskott och uttag (30 § ),
-
-- uppgift om betalning till utlandet (31 § ),
-
-- uppgift som ekonomiska föreningar ska lämna (32 § ),
-
-- uppgifter om skattereduktion (33 och 33 b-33 d §§ ), och
-
-- uppgifter om prissättningsbesked (34 § ).
-Lag (2025:540).
+- uppgifter om prissättningsbesked (34 § ). Lag (2026:115).
 
 Samtliga inkomstdeklarationer
 
@@ -5881,6 +5970,29 @@ verksamhet ska lämna uppgift om principerna för fördelning av
 tillgångar och förpliktelser samt intäkter och kostnader 
 mellan verksamheterna. Lag (2016:888).
 
+Skogsavdrag på fastighet i utlandet
+
+15 b § Den som gör skogsavdrag på en fastighet i utlandet ska 
+lämna uppgifter om 
+
+- fastighetens beteckning och adress, och 
+
+- avdragsutrymmet för fastighetens skog och produktiva 
+skogsmark.
+
+Den som har gjort skogsavdrag på en fastighet i utlandet ska 
+lämna uppgifter om 
+
+- avdragsutrymmet för fastighetens skog och produktiva 
+skogsmark vid beskattningsårets utgång, och 
+
+- adress i utlandet där innehavaren är bosatt. 
+
+Om fastigheten eller en del av fastigheten har övergått genom 
+arv, testamente, gåva, bodelning eller på liknande sätt ska 
+dödsboet eller den tidigare ägaren lämna nödvändiga 
+identifikationsuppgifter för den nya ägaren. Lag (2026:115).
+
 Inkomstslaget kapital
 
 Uppgifter om långivare
@@ -5989,27 +6101,27 @@ Den som har fått uppskov ska årligen lämna de uppgifter som är
 av betydelse för om uppskovsbeloppet ska tas upp till
 beskattning.
 
-22 § Den som innehar en andel som är kvalificerad enligt
-57 kap. 7, 7 a eller 7 b § inkomstskattelagen (1999:1229) ska
+22 § Den som innehar en andel som är kvalificerad enligt 
+57 kap. 7, 7 a eller 7 b § inkomstskattelagen (1999:1229) ska 
 lämna de uppgifter som Skatteverket behöver för att kunna
 
-1. besluta om kapitalbelopp enligt 48 a kap. 8 a §
+1. besluta om kapitalbelopp enligt 48 a kap. 8 a § 
 inkomstskattelagen,
 
 2. besluta om tjänstebelopp för utdelning och kapitalvinst
 
-a) vid partiell fission enligt 48 kap. 18 d §
+a) vid partiell fission enligt 48 kap. 18 d § 
 inkomstskattelagen, och
 
-b) vid andelsbyten enligt 48 a kap. 8 b § inkomstskattelagen,
+b) vid andelsbyten enligt 48 a kap. 8 b § inkomstskattelagen, 
 samt
 
-3. besluta om de tjänstebelopp som har fördelats enligt
-48 kap. 18 e §, 48 a kap. 8 c § och 57 kap. 7 c §
+3. besluta om de tjänstebelopp som har fördelats enligt 
+48 kap. 18 e §, 48 a kap. 8 c § eller 57 kap. 7 c och 7 d §§ 
 inkomstskattelagen.
 
-Uppgifter om utdelning och kapitalvinst på andelarna ska också
-lämnas.
+Uppgifter om utdelning och kapitalvinst på andelarna ska också 
+lämnas.Lag (2025:1366).
 
 23 § Om äganderätten till andelar som har förvärvats genom
 sådant uppskovsgrundande andelsbyte som avses i 49 kap.
@@ -6051,7 +6163,31 @@ Om ersättning getts ut och egenavgifter enligt 3 kap. 6 §
 socialavgiftslagen ska betalas på ersättningen, ska den som 
 mottagit ersättningen lämna uppgift om detta. Lag (2024:549).
 
-26 § Har upphävts genom lag (2012:760).
+26 § Vid beräkning av särskilt avdrag från den allmänna 
+löneavgiften och egenavgifterna enligt lagen (2001:1170) om 
+särskilda avdrag i vissa fall vid avgiftsberäkningen enligt 
+lagen (1994:1920) om allmän löneavgift och socialavgiftslagen 
+(2000:980), ska den deklarationsskyldige lämna de uppgifter 
+som Skatteverket behöver för att kunna bedöma
+
+1. att avdraget får göras, och
+
+2. att avdraget uppfyller villkoren enligt
+
+- kommissionens förordning (EU) nr 1408/2013 av den 
+18 december 2013 om tillämpningen av artiklarna 107 och 108 i 
+fördraget om Europeiska unionens funktionssätt på stöd av 
+mindre betydelse inom jordbrukssektorn,
+
+- kommissionens förordning (EU) nr 717/2014 av den 
+27 juni 2014 om tillämpningen av artiklarna 107 och 108 i 
+fördraget om Europeiska unionens funktionssätt på stöd av 
+mindre betydelse inom fiskeri- och vattenbrukssektorn, eller
+
+- kommissionens förordning (EU) 2023/2831 av den 
+13 december 2023 om tillämpningen av artiklarna 107 och 108 i 
+fördraget om Europeiska unionens funktionssätt på stöd av 
+mindre betydelse. Lag (2025:1340).
 
 Fåmansföretag
 
@@ -6082,16 +6218,13 @@ avses i 21 kap. 10 § aktiebolagslagen (2005:551), och
 som avses i 24 kap. 6 § andra stycket inkomstskattelagen
 (1999:1229).
 
-Uppgifter som företagsledare och delägare ska lämna
+Uppgifter som den som innehar kvalificerade andelar ska lämna
 
-29 § En företagsledare och en delägare i fåmansföretag som
-avses i 27 § ska lämna de uppgifter som Skatteverket behöver
-för att kunna tillämpa bestämmelserna om utdelning och
-kapitalvinst på kvalificerade andelar i 57 kap.
-inkomstskattelagen (1999:1229).
-
-Skyldigheten gäller för fem beskattningsår efter det att
-företaget har upphört att vara ett fåmansföretag.
+29 § Den som innehar andelar som är kvalificerade enligt 
+bestämmelserna i 57 kap. inkomstskattelagen (1999:1229) ska 
+lämna de uppgifter som Skatteverket behöver för att kunna 
+tillämpa bestämmelserna om utdelning och kapitalvinst på 
+kvalificerade andelar i samma kapitel. Lag (2025:1366).
 
 Tillskott och uttag
 
@@ -6130,20 +6263,7 @@ Lag (2018:733).
 
 Skattereduktion
 
-33 § /Upphör att gälla U:2026-01-01/
-Den som begär skattereduktion för hushållsarbete, gåva, 
-mikroproduktion av förnybar el eller installation av grön 
-teknik enligt 67 kap. 11-45 §§ inkomstskattelagen (1999:1229) 
-ska lämna uppgift om underlaget för skattereduktionen.
-
-I fråga om förmån av sådant arbete som räknas som 
-hushållsarbete enligt 67 kap. 13 a och 13 b §§ 
-inkomstskattelagen ska även sådana uppgifter som avses i 9 a § 
-lagen (2009:194) om förfarandet vid skattereduktion för 
-hushållsarbete lämnas. Lag (2020:1070).
-
-33 § /Träder i kraft I:2026-01-01/
-Den som begär skattereduktion för hushållsarbete, gåva 
+33 § Den som begär skattereduktion för hushållsarbete, gåva 
 eller installation av grön teknik enligt 67 kap. 11-26 och 34-
 45 §§ inkomstskattelagen (1999:1229) ska lämna uppgift om 
 underlaget för skattereduktionen.
@@ -6154,38 +6274,7 @@ inkomstskattelagen ska även sådana uppgifter som avses i 9 a §
 lagen (2009:194) om förfarandet vid skattereduktion för 
 hushållsarbete lämnas. Lag (2025:540).
 
-33 a § /Upphör att gälla U:2026-01-01 genom lag (2025:540)./
-Den som begär skattereduktion för mikroproduktion av 
-förnybar el och som är ett företag ska även lämna
-
-1. uppgift om annat stöd som har beviljats företaget under 
-beskattnings-året och de två föregående beskattningsåren och 
-som anses vara sådant stöd av mindre betydelse som avses i
-
-- kommissionens förordning (EU) nr 1407/2013 av den 
-18 december 2013 om tillämpningen av artiklarna 107 och 108 i 
-fördraget om Europeiska unionens funktionssätt på stöd av 
-mindre betydelse,
-
-- kommissionens förordning (EU) nr 1408/2013 av den 
-18 december 2013 om tillämpningen av artiklarna 107 och 108 i 
-fördraget om Europeiska unionens funktionssätt på stöd av 
-mindre betydelse inom jordbrukssektorn, eller
-
-- kommissionens förordning (EU) nr 717/2014 av den 27 juni 
-2014 om tillämpningen av artiklarna 107 och 108 i fördraget om 
-Europeiska unionens funktionssätt på stöd av mindre betydelse 
-inom fiskeri- och vattenbruks-sektorn,
-
-2. uppgift om annat stöd som har beviljats företaget under de 
-tre senaste åren och som anses vara sådant stöd av mindre 
-betydelse som avses i kommissionens förordning (EU) 2023/2831 
-av den 13 december 2023 om tillämpningen av artiklarna 107 och 
-108 i fördraget om Europeiska unionens funktionssätt på stöd 
-av mindre betydelse, och
-
-3. de övriga uppgifter som Skatteverket behöver för att kunna 
-bedöma rätten till skattereduktion. Lag (2024:1157).
+33 a § Har upphävts genom lag (2025:540).
 
 33 b § Den som begär att utländsk ersättning ska medräknas i 
 underlaget för skattereduktion för sjukersättning och 
@@ -6194,39 +6283,28 @@ inkomstskattelagen (1999:1229) ska lämna uppgift om
 underlaget för skattereduktionen. Lag (2017:1218).
 
 33 c § En person som avses i 67 kap. 35 § första stycket 
-inkomstskatte-lagen (1999:1229) ska lämna
+inkomstskattelagen (1999:1229) ska lämna de uppgifter som 
+Skatteverket behöver för att kunna bedöma
 
-1. uppgift om annat stöd överstigande sammanlagt 
-150 000 kronor som har beviljats under beskattningsåret och de 
-två föregående beskattningsåren och som anses vara sådant stöd 
-av mindre betydelse som avses i
+1. rätten till regional skattereduktion enligt 67 kap. 34 och 
+35 §§ inkomstskattelagen, och
 
-- kommissionens förordning (EU) nr 1407/2013 av den 
-18 december 2013 om tillämpningen av artiklarna 107 och 108 i 
-fördraget om Europeiska unionens funktionssätt på stöd av 
-mindre betydelse,
+2. att skattereduktionen uppfyller villkoren enligt
 
 - kommissionens förordning (EU) nr 1408/2013 av den 
 18 december 2013 om tillämpningen av artiklarna 107 och 108 i 
 fördraget om Europeiska unionens funktionssätt på stöd av 
-mindre betydelse inom jordbrukssektorn, eller
+mindre betydelse inom jordbrukssektorn,
 
-- kommissionens förordning (EU) nr 717/2014 av den 27 juni 
-2014 om tillämpningen av artiklarna 107 och 108 i fördraget om 
-Europeiska unionens funktionssätt på stöd av mindre betydelse 
-inom fiskeri- och vattenbruks-sektorn,
+- kommissionens förordning (EU) nr 717/2014 av den 
+27 juni 2014 om tillämpningen av artiklarna 107 och 108 i 
+fördraget om Europeiska unionens funktionssätt på stöd av 
+mindre betydelse inom fiskeri- och vattenbrukssektorn, eller
 
-2. uppgift om annat stöd överstigande sammanlagt 
-150 000 kronor som har beviljats under de tre senaste åren och 
-som anses vara sådant stöd av mindre betydelse som avses i 
-kommissionens förordning (EU) 2023/2831 av den 13 december 
-2023 om tillämpningen av artiklarna 107 och 108 i fördraget om 
-Europeiska unionens funktionssätt på stöd av mindre betydelse, 
-och
-
-3. de övriga uppgifter om sådant stöd som avses i 1 och 2 som 
-Skatteverket behöver för att kunna bedöma rätten till 
-skattereduktion. Lag (2024:1157).
+- kommissionens förordning (EU) 2023/2831 av den 
+13 december 2023 om tillämpningen av artiklarna 107 och 108 i 
+fördraget om Europeiska unionens funktionssätt på stöd av 
+mindre betydelse. Lag (2025:1340).
 
 33 d § Den som begär att avgift till en utländsk 
 arbetslöshetskassa eller motsvarande avgift enligt en utländsk 
@@ -6298,106 +6376,142 @@ Lag (2023:880).
 
 Vad ska en tilläggsskattedeklaration innehålla?
 
-3 § En tilläggsskattedeklaration ska innehålla 
+3 § En tilläggsskattedeklaration ska innehålla
 
-1. nödvändiga identifikationsuppgifter, 
+1. nödvändiga identifikationsuppgifter,
 
 2. uppgift om vilken enhet som lämnar tilläggsskatterapport,
 
-3. uppgift om att enheten har tagit del av rapporten i 2, 
+3. uppgift om att enheten har tagit del av rapporten i 2,
 
-4. de uppgifter som behövs för att fördela kompletterande 
+4. summan av tilläggsskattebelopp som den deklarationsskyldige 
+är skattskyldig för enligt huvudregeln för tilläggsskatt,
+
+5. summan av kompletterande tilläggsskatt som fördelas till 
+svenska koncernenheter,
+
+6. de uppgifter som behövs för att fördela kompletterande 
 tilläggsskatt, och
 
-5. de uppgifter som behövs för beräkning av nationell 
-tilläggsskatt enligt lagen (2023:875) om tilläggsskatt.
-Lag (2023:880).
+7. de uppgifter som behövs för beräkning och fördelning av 
+nationell tilläggsskatt enligt lagen (2023:875) om 
+tilläggsskatt. Lag (2026:303).
 
 4 § Den som är deklarationsskyldig ska också lämna de övriga 
 uppgifter som behövs för att Skatteverket ska kunna fatta ett 
 riktigt beslut om tilläggsskatt. Lag (2023:880).
 
+Valuta
+
+5 § Uppgifter om tilläggsskattebelopp och kompletterande 
+tilläggsskatt som ska lämnas i en tilläggsskattedeklaration 
+ska anges i svenska kronor. 
+
+Om beräkningarna enligt lagen (2023:875) om tilläggsskatt har 
+gjorts i annan valuta än svenska kronor ska omräkning ske 
+enligt 6 §. Lag (2026:303).
+
+6 § Tilläggsskattebelopp och kompletterande tilläggsskatt ska 
+räknas om enligt den genomsnittliga växelkursen för det 
+beskattningsår som beloppet hänförs till. De kurser som 
+fastställs av Sveriges riksbank ska användas. 
+
+Om Sveriges riksbank inte har fastställt någon valutakurs 
+gäller följande. Motsvarande kurs från centralbanken i den 
+stat där valutan är officiell valuta ska användas vid 
+omräkning. Om det inte har fastställts någon valutakurs för 
+svenska kronor, ska valutakursen för euro användas och 
+beloppet ska därefter omräknas till svenska kronor enligt den 
+kurs som fastställs av Sveriges riksbank. Lag (2026:303).
+
 När ska en tilläggsskattedeklaration lämnas?
 
-5 § En koncernenhet som är deklarationsskyldig enligt 2 § ska 
+7 § En koncernenhet som är deklarationsskyldig enligt 2 § ska 
 lämna tilläggsskattedeklaration senast en månad efter den dag 
 då tilläggsskatterapporten senast ska lämnas. 
 
 En tilläggsskattedeklaration lämnas till Skatteverket eller 
 till ett mottagningsställe som har godkänts av verket.
-Lag (2023:880).
+Lag (2026:303).
 
 33 kap. Särskilda uppgifter
 
 Innehåll
 
-1 § I detta kapitel finns bestämmelser om
+1 § I detta kapitel finns bestämmelser om 
 
-- syftet med särskilda uppgifter (2 och 2 a §§),
+- syftet med särskilda uppgifter (2 och 2 a §§ ), 
 
 - uppgifter som ska lämnas av stiftelser, ideella föreningar 
-och registrerade trossamfund (3-5 §§),
+och registrerade trossamfund (3-5 §§ ), 
 
 - uppgifter som ska lämnas av svenska handelsbolag och i 
-utlandet delägarbeskattade juridiska personer (6 §),
+utlandet delägarbeskattade juridiska personer (6 § ), 
 
 - uppgifter som ska lämnas av en fysisk eller juridisk person 
 som hör hemma i en annan stat och inte bedriver verksamhet 
-från ett fast driftställe i Sverige (6 a och 6 b §§),
+från ett fast driftställe i Sverige (6 a och 6 b §§ ), 
 
-- uppgifter om ersättningsbostad i utlandet (7 §),
+- uppgifter om ersättningsbostad i utlandet (7 § ), 
 
-- uppgifter om periodiseringsfond och ersättningsfond (7 a §),
+- uppgifter om periodiseringsfond och ersättningsfond (7 a § 
+), 
 
-- uppgifter som ska lämnas av redare (8 §),
+- uppgifter om skogsavdrag på fastighet i utlandet (7 b § ), 
 
-- uppgifter om nedsättning av utländsk skatt (9 §),
+- uppgifter som ska lämnas av redare (8 § ), 
+
+- uppgifter om nedsättning av utländsk skatt (9 § ), 
 
 - uppgifter som ska lämnas av den som har fått ett godkännande 
-för tonnagebeskattning återkallat (9 a §),
+för tonnagebeskattning återkallat (9 a § ), 
 
-- uppgifter i fråga om vissa förhandsbesked i skattefrågor 
-(9 b §),
+- uppgifter i fråga om vissa förhandsbesked i skattefrågor (9 
+b § ), 
 
-- när särskilda uppgifter ska lämnas (10-11 §§), och
+- när särskilda uppgifter ska lämnas (10-11 §§ ), och 
 
-- redares uppgiftsskyldighet vid ändrade förhållanden (12 §).
-Lag (2020:954).
+- redares uppgiftsskyldighet vid ändrade förhållanden (12 § ).
+Lag (2026:115).
 
 Syftet med särskilda uppgifter
 
-2 § Särskilda uppgifter ska lämnas till ledning för
+2 § Särskilda uppgifter ska lämnas till ledning för 
 
 1. bedömning av stiftelsers, ideella föreningars och 
 registrerade trossamfunds skattskyldighet enligt 
-inkomstskattelagen (1999:1229),
+inkomstskattelagen (1999:1229), 
 
 2. beskattning av delägare i svenska handelsbolag och i 
-utlandet delägarbeskattade juridiska personer,
+utlandet delägarbeskattade juridiska personer, 
 
 3. bedömning av skattskyldigheten enligt inkomstskattelagen 
 för fysiska eller juridiska personer som hör hemma i en annan 
 stat och inte bedriver verksamhet från ett fast driftställe i 
-Sverige,
+Sverige, 
 
-4. bestämmande av vilket fartområde ett fartyg går i,
+4. bestämmande av vilket fartområde ett fartyg går i, 
 
 5. kontroll av uppskovsbelopp enligt 47 kap. 
 inkomstskattelagen när ersättningsbostaden är belägen 
-utomlands,
+utomlands, 
 
 6. kontroll av avdrag för avsättning till periodiseringsfond 
 och ersättningsfond, 
 
-7. beslut om avräkning av utländsk skatt, och 
+7. beslut om avräkning av utländsk skatt, 
 
 8. beslut om beskattning för den som har fått ett godkännande 
-för tonnagebeskattning återkallat. Lag (2020:954).
+för tonnagebeskattning återkallat, och 
+
+9. kontroll av skogsavdrag på fastigheten i utlandet.
+Lag (2026:115).
 
 2 a § Särskilda uppgifter ska även lämnas för att Sverige ska 
 kunna leva upp till åtaganden inom det internationella utbytet 
 av information avseende förhandsbesked enligt lagen (1998:189) 
 om förhandsbesked i skattefrågor. Lag (2020:858).
+
 
 Stiftelser, ideella föreningar och registrerade trossamfund
 
@@ -6513,6 +6627,13 @@ Om ett handelsbolag har gjort avdrag för avsättning till
 ersättningsfond, ska dock särskilda uppgifter lämnas av 
 delägarna. Lag (2019:1147).
 
+Skogsavdrag på fastighet i utlandet
+
+7 b § Den som inte är skyldig att lämna inkomstdeklaration och 
+som har gjort skogsavdrag på fastighet i utlandet ska lämna 
+särskild uppgift om sådana förhållanden som avses i 31 kap. 
+15 b § andra och tredje styckena. Lag (2026:115).
+
 Redare
 
 8 § Redare ska för tillämpning av 64 kap. 2 § och 67 kap. 3 §
@@ -6547,38 +6668,54 @@ Vissa förhandsbesked i skattefrågor
 
 9 b § I fråga om förhandsbesked enligt lagen (1998:189) om 
 förhandsbesked i skattefrågor som avser direkta skatter eller 
-avgifter ska en sökande som inte är en fysisk person eller det 
-allmänna ombudet hos Skatteverket lämna följande uppgifter:
+avgifter ska en sökande som inte är det allmänna ombudet hos 
+Skatteverket, om inget annat anges i 9 c §, lämna följande 
+uppgifter:
 
 1. identiteten, inklusive stat eller jurisdiktion för hemvist 
 eller, om sådan saknas, för registrering samt utländskt 
 skatteregistreringsnummer eller motsvarande om sådant nummer 
-finns, på 
+finns, på
 
-- sökanden, 
+- sökanden,
 
-- sökandens moderföretag, 
+- sökandens moderföretag,
 
 - moderföretaget för den yttersta gruppen av personer som 
-sökanden tillhör, och 
+sökanden tillhör, och
 
 - andra personer, med undantag för fysiska personer, som 
 sannolikt kan komma att beröras av förhandsbeskedet i andra 
 stater och jurisdiktioner, och
 
 2. andra stater och jurisdiktioner som sannolikt kan komma att 
-beröras av förhandsbeskedet. 
+beröras av förhandsbeskedet.
 
 Uppgift ska även lämnas om vilket förhandsbesked uppgifterna 
-avser.
+avser. Lag (2025:1382).
 
-Första och andra styckena gäller bara i fråga om 
-förhandsbesked som avser
+9 c § När den sökande är en fysisk person gäller 9 b § bara om
+
+1. beloppet för den transaktion eller serie av transaktioner 
+som förhandsbeskedet i gränsöverskridande skattefrågor avser 
+överstiger 1 500 000 euro eller motsvarande belopp i en annan 
+valuta, om det hänvisas till detta belopp i förhandsbeskedet i 
+gränsöverskridande skattefrågor, eller
+
+2. förhandsbeskedet i gränsöverskridande skattefrågor 
+fastställer om en person har skatterättslig hemvist eller inte 
+i den medlemsstat som utfärdar förhandsbeskedet, om inte 
+förhandsbeskedet avser källskatt för en begränsat 
+skattskyldigs inkomst från anställning, styrelsearvoden eller 
+pensioner.
+
+När den sökande är en annan än en fysisk person gäller 9 b § 
+bara i fråga om förhandsbesked som avser
 
 1. fasta driftställen, när huvudkontoret eller det fasta 
 driftstället finns i en annan stat eller jurisdiktion,
 
-2. direkta eller indirekta betalningar 
+2. direkta eller indirekta betalningar
 
 a) mellan utländska närstående parter via ett till dem 
 närstående företag i Sverige, eller 
@@ -6590,7 +6727,7 @@ eller
 
 3. en sådan gränsöverskridande transaktion som anges i 7 b § 
 lagen (2012:843) om administrativt samarbete inom Europeiska 
-unionen i fråga om beskattning. Lag (2020:858).
+unionen i fråga om beskattning. Lag (2025:1382).
 
 När ska särskilda uppgifter lämnas?
 
@@ -6606,33 +6743,33 @@ Lag (2020:954).
 Skatteverket senast en vecka efter att förhandsbeskedet fått 
 laga kraft. Lag (2020:858).
 
-11 § Särskilda uppgifter enligt 5, 7 och 8-9 a §§ ska lämnas 
-enligt följande uppställning:
+11 § Särskilda uppgifter enligt 5, 7, 7 b och 8-9 a §§ ska 
+lämnas enligt följande uppställning:
 
-Särskilda uppgifter enligt	ska ha kommit in till 
-				Skatteverket senast
+Särskilda uppgifter enligt      ska ha kommit in till 
+                                Skatteverket senast
 
-5 § 				Den 12 i månaden efter den 
-				månad då tillställningen ägde
-				rum
+5 § 	                        den 12 i månaden efter den 
+                                månad då tillställningen 
+                                ägde rum
 
-7 § 				den 2 maj året efter 
-				beskattningsåret
+7 och 7 b §§                    den 2 maj året efter 
+                                beskattningsåret
 
-8 § 				den 1 oktober året före det 
-				kalenderår uppgifterna avser
+8 § 	                        den 1 oktober året före det 
+                                kalenderår uppgifterna avser
 
-9 § 				tre månader efter den dag då 
-				den som beslutet om nedsättning 
-				av utländsk skatt gäller fick 
-				del av det
+9 § 	                        tre månader efter den dag då 
+                                den som beslutet om nedsättning 
+                                av utländsk skatt gäller fick 
+                                del av det
 
-9 a § 				tre månader efter den dag då 
-				den som beslutet om 
-				återkallelse av godkännande för 
-				tonnagebeskattning gäller fick 
-				ta del av det
-Lag (2019:1147).
+9 a §                           tre månader efter den dag då 
+                                den som beslutet om 
+                                återkallelse av godkännande för 
+                                tonnagebeskattning gäller fick 
+                                ta del av det
+Lag (2026:115).
 
 Redares uppgiftsskyldighet vid ändrade förhållanden
 
@@ -6866,50 +7003,50 @@ undantagen enligt 6 §. Lag (2017:185).
 
 Land-för-land-rapportens innehåll
 
-10 § En land-för-land-rapport ska innehålla följande 
-uppgifter om den multinationella koncernen.
+10 § En land-för-land-rapport ska innehålla följande uppgifter 
+om den multinationella koncernen.
 
 1. Sammanlagd information, som delas upp på varje stat eller 
 jurisdiktion i vilken den multinationella koncernen har 
 bedrivit verksamhet under det rapporterade räkenskapsåret, om 
-storleken på 
+storleken på
 
 a) intäkter,
 
-b) vinst eller förlust före inkomstskatt, 
+b) vinst eller förlust före inkomstskatt,
 
-c) betald inkomstskatt, 
+c) betald inkomstskatt,
 
-d) årets ackumulerade inkomstskatt, 
+d) årets ackumulerade inkomstskatt,
 
-e) aktiekapital, 
+e) aktiekapital,
 
-f) ackumulerade vinstmedel, 
+f) ackumulerade vinstmedel,
 
-g) antal anställda, och 
+g) antal anställda, och
 
-h) materiella tillgångar utom kontanter och liknande. 
+h) materiella tillgångar utom kontanter och liknande.
 
-2. För varje enhet som ingår i koncernen: 
+2. För varje enhet som ingår i koncernen:
 
-– namn, eller annan uppgift som klargör dess identitet, och 
-den stat eller jurisdiktion i vilken enheten hör hemma, 
+- namn, eller annan uppgift som klargör dess identitet, och 
+skatteregistreringsnummer samt den stat eller jurisdiktion i 
+vilken enheten hör hemma,
 
-– den stat eller jurisdiktion där enheten är bildad eller 
+- den stat eller jurisdiktion där enheten är bildad eller 
 registrerad, om detta är en annan än den där enheten hör 
-hemma, och 
+hemma, och
 
-– dess viktigaste verksamhet eller verksamheter.
+- dess viktigaste verksamhet eller verksamheter.
 
 3. Vilken valuta som används i rapporten.
 
-En enhet som är skyldig att lämna land-för-land-rapport 
-enligt 5 § men inte har fått tillgång till alla de uppgifter 
-den behöver från moderföretaget för att kunna lämna en 
-fullständig land-för-land-rapport, ska lämna en 
-land-för-land-rapport som innehåller alla de uppgifter som 
-den har tillgång till och som anges i första stycket.
-Lag (2017:185).
+En enhet som är skyldig att lämna land-för-land-rapport enligt 
+5 § men inte har fått tillgång till alla de uppgifter den 
+behöver från moderföretaget för att kunna lämna en fullständig 
+land-för-land-rapport, ska lämna en land-för-land-rapport som 
+innehåller alla de uppgifter som den har tillgång till och som 
+anges i första stycket. Lag (2025:1382).
 
 När ska rapporter och underrättelser lämnas?
 
@@ -7042,6 +7179,16 @@ genomförande, eller
 3. har påbörjat genomförandet av ett rapporteringspliktigt 
 arrangemang. Lag (2020:437).
 
+Klient
+
+9 a § Vid tillämpning av detta kapitel avses med klient varje 
+användare som mottar tjänster, inbegripet bistånd, rådgivning 
+eller vägledning, från en rådgivare som omfattas av 
+tystnadsplikten för advokater eller liknande bestämmelser i 
+någon annan medlemsstat i samband med ett 
+rapporteringspliktigt gränsöverskridande arrangemang.
+Lag (2025:1382).
+
 Vem ska lämna uppgifter om rapporteringspliktiga arrangemang?
 
 Rådgivares uppgiftsskyldighet
@@ -7126,9 +7273,10 @@ Huvudregel
 16 § Följande uppgifter ska lämnas om ett 
 rapporteringspliktigt arrangemang:
 
-1. nödvändiga identifikationsuppgifter, inklusive hemvist, för 
+1. nödvändiga identifikationsuppgifter, inklusive hemvist, för
 
-a) rådgivare,
+a) andra rådgivare än de som är undantagna på grund av 
+tystnadsplikten för advokater,
 
 b) användare, och
 
@@ -7139,10 +7287,15 @@ betydelse för det rapporteringspliktiga arrangemanget,
 (2020:434) om rapporteringspliktiga arrangemang som gör 
 arrangemanget rapporteringspliktigt,
 
-3. en sammanfattning av innehållet i arrangemanget och, om ett 
-sådant finns, det namn under vilket arrangemanget är allmänt 
-känt samt en övergripande beskrivning av relevant 
-affärsverksamhet eller relevanta arrangemang,
+3. en sammanfattning av innehållet i arrangemanget, och, om 
+ett sådant finns, det namn under vilket arrangemanget är 
+allmänt känt samt en beskrivning av relevanta arrangemang och 
+eventuella andra upplysningar som skulle kunna hjälpa den 
+behöriga myndigheten att bedöma en potentiell skatterisk, utan 
+att det leder till röjande av en affärshemlighet, 
+företagshemlighet eller yrkeshemlighet eller ett i 
+näringsverksamhet använt förfaringssätt eller upplysning vars 
+lämnande skulle strida mot allmän ordning,
 
 4. det datum då genomförandet av arrangemanget påbörjades 
 eller då arrangemanget ska genomföras,
@@ -7150,7 +7303,7 @@ eller då arrangemanget ska genomföras,
 5. uppgift om de nationella bestämmelser som utgör grunden för 
 arrangemanget,
 
-6. värdet av arrangemanget, 
+6. värdet av arrangemanget,
 
 7. uppgift om den eller de medlemsstater i vilken användaren 
 eller användarna har hemvist och andra medlemsstater som 
@@ -7164,7 +7317,7 @@ person har hemvist.
 Uppgifter ska även lämnas om referensnummer om ett sådant 
 tilldelats det rapporteringspliktiga arrangemanget av 
 Skatteverket eller en annan medlemsstats behöriga myndighet.
-Lag (2020:437).
+Lag (2025:1382).
 
 17 § Uppgifter enligt 16 § ska lämnas endast i den 
 utsträckning den uppgiftsskyldige har kännedom om eller 
@@ -7226,17 +7379,11 @@ Informationsskyldighet i vissa fall
 22 § Om en uppgiftsskyldig rådgivare är förhindrad att lämna 
 de uppgifter om ett rapporteringspliktigt arrangemang som 
 anges i 16 § på grund av tystnadsplikten för advokater, ska 
-rådgivaren snarast informera samtliga andra rådgivare avseende 
-arrangemanget om rådgivares skyldighet att lämna uppgifter.
-
-Om det inte finns någon annan rådgivare som är skyldig att 
-lämna uppgifterna om det rapporteringspliktiga arrangemanget 
-eller om samtliga andra rådgivare är förhindrade att lämna 
-uppgifterna på grund av tystnadsplikten för advokater eller 
-motsvarande regler i någon annan medlemsstat, ska den 
-uppgiftsskyldige rådgivaren informera användaren av 
-arrangemanget om användarens skyldighet att lämna uppgifter.
-Lag (2020:437).
+rådgivaren snarast informera sin klient. Är denne klient en 
+rådgivare ska den informeras om sin uppgiftsskyldighet. Om det 
+inte finns någon sådan rådgivare, ska klienten som är den 
+berörda användaren av arrangemanget informeras om sin 
+uppgiftsskyldighet. Lag (2025:1382).
 
 33 c kap. Uppgifter om gränsöverskridande betalningar
 
@@ -7416,27 +7563,32 @@ Innehåll
 tilläggsskatterapport för koncernenheter som avses i 1 kap. 
 3 § lagen (2023:875) om tilläggsskatt. 
 
-Bestämmelserna ges i följande ordning: 
+Bestämmelserna ges i följande ordning:
 
 - definitioner (2 § ),
 
 - vem som ska lämna tilläggsskatterapport (3 och 4 §§ ),
 
-- vad en tilläggsskatterapport ska innehålla (5-8 §§ ), 
+- vad en tilläggsskatterapport ska innehålla (5-8 b §§ ),
 
 - tilläggsskatterapport med förenklat innehåll (9-11 §§ ),
 
 - bemyndigande (12 § ), och
 
 - när tilläggsskatterapporten och anmälan ska lämnas (13 § ).
-Lag (2023:880).
+Lag (2026:303).
 
 Definitioner
 
 2 § Definitionerna av stat, koncern, svensk koncernenhet, 
-moderföretag, moderenhet, delägd moderenhet och huvudregel för 
-tilläggsskatt är desamma i detta kapitel som i lagen 
-(2023:875) om tilläggsskatt. Lag (2023:880).
+moderföretag, moderenhet, delägd moderenhet, huvudregel för 
+tilläggsskatt och modellreglerna är desamma i detta kapitel 
+som i lagen (2023:875) om tilläggsskatt.
+
+Definitionerna av genomförandestat och stat som har 
+beskattningsrätt är desamma i detta kapitel som i 8 och 9 §§ 
+lagen (2026:300) om automatiskt utbyte av 
+tilläggsskatterapporter. Lag (2026:303).
 
 Vem ska lämna tilläggsskatterapport?
 
@@ -7501,15 +7653,40 @@ samriskföretagskoncern, och
 kompletteringsregeln för varje stat. Lag (2023:880).
 
 7 § En tilläggsskatterapport ska innehålla en förteckning över 
-de val som har gjorts enligt lagen (2023:875) om 
-tilläggsskatt. Rapporten ska också innehålla en förteckning 
-över de återkallelser av val som har gjorts. Lag (2023:880).
+de val som har gjorts. Rapporten ska också innehålla en 
+förteckning över de återkallelser av val som har gjorts.
+Lag (2026:303).
 
-8 § Om det för en koncern tillämpas ett sådant undantag som 
-avses i 6 kap. 16 eller 17 § lagen (2023:875) om 
-tilläggsskatt, ska tilläggsskatterapporten innehålla uppgift 
-om när koncernens inledande fas av internationell verksamhet 
-har börjat. Lag (2023:880).
+8 § Om det för en koncern tillämpas ett sådant undantag från 
+reglerna under fem år som avses i 6 kap. 16, 16 a, 16 b eller 
+17 § lagen (2023:875) om tilläggsskatt eller motsvarande 
+regler i en annan stat, ska tilläggsskatterapporten innehålla 
+uppgift om när koncernens inledande fas av internationell 
+verksamhet har börjat. Lag (2026:303).
+
+8 a § Uppgifter som ska lämnas enligt 5-8 §§ ska baseras på en 
+tillämpning av modellreglerna och kommentaren till 
+modellreglerna. Undantag finns i 8 b §. 
+
+Om en sådan tillämpning skiljer sig från vad som föreskrivs 
+enligt nationell rätt i en genomförandestat, ska 
+tilläggsskatterapporten även innehålla upplysning om detta och 
+uppgift om effekten av skillnaden.
+
+Med kommentaren till modellreglerna i första stycket avses det 
+konsoliderade dokumentet Tax Challenges Arising from the 
+Digitalisation of the Economy - Commentary to the Global Anti-
+Base Erosion Model Rules (Pillar Two) som antas av OECD/G20 
+Inclusive Framework on BEPS. Lag (2026:303).
+
+8 b § Om tilläggsskatterapporten innehåller ett val av en 
+förenklingsregel för nationell tilläggsskatt i en stat eller 
+det endast finns en stat som har beskattningsrätt över 
+tilläggsskattebeloppet som beräknats i en stat, ska 8 a § inte 
+tillämpas. Uppgifterna i tilläggsskatterapporten ska då 
+baseras på den nationella rätten i den stat för vilken 
+förenklingsregeln har valts eller i den stat som har 
+beskattningsrätt. Lag (2026:303).
 
 Tilläggsskatterapport med förenklat innehåll
 
@@ -7608,7 +7785,12 @@ kontrolluppgiften.
 Den som är skyldig att lämna kontrolluppgift enligt 22 a och 
 22 b kap. ska senast den 15 maj året närmast efter det år som 
 kontrolluppgiften gäller informera den som uppgiften avser om 
-de uppgifter som lämnas i kontrolluppgiften. Lag (2022:1686).
+de uppgifter som lämnas i kontrolluppgiften.
+
+Den som är skyldig att lämna kontrolluppgift enligt 22 d kap. 
+ska senast den 1 april året närmast efter det år som 
+kontrolluppgiften gäller informera den som uppgiften avser om 
+de uppgifter som lämnas i kontrolluppgiften. Lag (2025:1382).
 
 Uppgifter till betalningsmottagare
 
@@ -8062,8 +8244,26 @@ behöver för att kunna kontrollera att denne har lämnat riktiga
 och fullständiga uppgifter i en ansökan om återbetalning av 
 eller kompensation för punktskatt. Lag (2021:1169).
 
-Kontroll av någon annans uppgiftsskyldighet eller av uppgifter 
-vid återbetalning av eller kompensation för punktskatt
+7 b § Skatteverket får förelägga den som har ansökt om 
+återbetalning av arbetsgivaravgifter och allmän löneavgift i 
+de fall som avses i 53 kap. 6 § att lämna uppgift som verket 
+behöver för att kunna kontrollera att denne har lämnat riktiga 
+och fullständiga uppgifter i en ansökan om återbetalning av 
+arbetsgivaravgifter och allmän löneavgift. Lag (2025:1340).
+
+Kontroll av någon annans uppgiftsskyldighet eller uppgifter 
+vid vissa återbetalningar eller kompensationer
+
+7 c § Skatteverket får förelägga en koncernenhet att lämna 
+uppgift som behövs för att kontrollera en uppgift som lämnats 
+i en tilläggsskatterapport om det kan antas att uppgiften inte 
+stämmer överens med bestämmelserna i lagen (2023:875) om 
+tilläggsskatt. 
+
+Första stycket gäller endast om det kan antas att uppgiften 
+som har lämnats i en tilläggsskatterapport har betydelse för 
+bedömningen av koncernenhetens skattskyldighet enligt lagen om 
+tilläggsskatt. Lag (2026:303).
 
 8 § Skatteverket får förelägga en fysisk person och ett 
 dödsbo i andra fall än som avses i 16 och 17 kap. att lämna 
@@ -8095,44 +8295,63 @@ uppgift om en rättshandling med någon annan.
 
 Föreläggandet ska avse förhållanden som är av betydelse för 
 kontroll av att andra än den som föreläggs har lämnat riktiga 
-och fullständiga uppgifter i en ansökan om återbetalning av 
-punktskatt i de fall som avses i 53 kap. 5 § 1 eller 
-återbetalning av eller kompensation för punktskatt i de fall 
-som avses i 53 kap. 5 § 2. Lag (2021:1169).
+och fullständiga uppgifter i en ansökan om
+
+1. återbetalning av punktskatt i de fall som avses i 53 kap. 
+5 § 1,
+
+2. återbetalning av eller kompensation för punktskatt i de 
+fall som avses i 53 kap. 5 § 2, eller
+
+3. återbetalning av arbetsgivaravgifter och allmän löneavgift 
+i de fall som avses i 53 kap. 6 §. Lag (2025:1340).
 
 10 § Om det finns särskilda skäl får även någon annan person 
 än som avses i 9 och 9 a §§ föreläggas att lämna sådan 
 uppgift som avses där. Lag (2017:1218).
 
-10 a § Skatteverket får förelägga den som är eller kan antas 
+10 a § /Upphör att gälla U:2026-07-01/
+Skatteverket får förelägga den som är eller kan antas 
 vara ett oberoende småbryggeri enligt lagen (2022:156) om 
 alkoholskatt att lämna uppgifter av betydelse för kontroll av 
 dess status som oberoende småbryggeri eller dess 
 årsproduktion. Lag (2025:104).
 
+10 a § /Träder i kraft I:2026-07-01/
+Skatteverket får förelägga den som är eller kan antas 
+vara en oberoende småproducent enligt lagen (2022:156) om 
+alkoholskatt att lämna uppgifter av betydelse för kontroll av 
+dess status som oberoende småproducent eller dess 
+årsproduktion. Lag (2026:739).
+
 Utbyte av upplysningar med en annan stat eller utländsk
 jurisdiktion
 
-11 § Om Skatteverket har tagit emot en begäran om upplysningar
-och verket behöver en uppgift för att kunna fullgöra sina
-skyldigheter enligt lagen (2012:843) om administrativt
-samarbete inom Europeiska unionen i fråga om beskattning eller
-ett avtal som medför skyldighet att utbyta upplysningar i
-skatteärenden, gäller följande.
+11 § Om Skatteverket har tagit emot en begäran om upplysningar 
+och verket behöver en uppgift för att kunna fullgöra sina 
+skyldigheter enligt lagen (2012:843) om administrativt 
+samarbete inom Europeiska unionen i fråga om beskattning eller 
+ett avtal som medför skyldighet att utbyta upplysningar i 
+skatteärenden, gäller följande. 
 
 Skatteverket får förelägga
 
-1. den som de begärda upplysningarna avser, att lämna uppgift
-som verket behöver, eller
+1. den som de begärda upplysningarna avser, att lämna uppgift 
+som verket behöver, 
 
-2. den som är eller kan antas vara bokföringsskyldig enligt
-bokföringslagen (1999:1078) eller som är en annan juridisk
-person än ett dödsbo, att lämna uppgift som verket behöver om
-en rättshandling med någon annan.
+2. den som är eller kan antas vara bokföringsskyldig enligt 
+bokföringslagen (1999:1078) eller som är en annan juridisk 
+person än ett dödsbo, att lämna uppgift som verket behöver om 
+en rättshandling med någon annan, eller
 
-Om det finns särskilda skäl, får även någon annan person än
-som avses i andra stycket 2 föreläggas att lämna sådan uppgift
-som avses där. Lag (2012:847).
+3. den som har lämnat in en tilläggsskatterapport eller är ett 
+moderföretag enligt lagen (2023:875) om tilläggsskatt, att 
+lämna uppgift som verket behöver för att kontrollera en 
+uppgift som lämnats i en tilläggsskatterapport.
+
+Om det finns särskilda skäl, får även någon annan person än 
+som avses i andra stycket 2 föreläggas att lämna sådan uppgift 
+som avses där. Lag (2026:303).
 
 12 § Skatteverket får förelägga den som ansökt om godkännande 
 för tonnagebeskattning att lämna uppgift som skulle ha lämnats 
@@ -8162,20 +8381,24 @@ Fastställda formulär
 
 1 § Fastställda formulär ska användas för att lämna 
 
-1. kontrolluppgifter,
+1. kontrolluppgifter, 
 
-2. åtagande
+2. åtagande 
 
-a) enligt 10 kap. 22 § om att göra skatteavdrag,
+a) enligt 10 kap. 22 § om att göra skatteavdrag, 
 
 b) enligt 23 kap. 6 § om att lämna kontrolluppgifter om 
 pensionsförsäkringar och sådana avtal om tjänstepension som är 
 jämförbara med en pensionsförsäkring,
 
 c) enligt 23 kap. 7 § om att lämna kontrolluppgifter om gåvor, 
-och 
 
 d) enligt 23 kap. 8 § om att lämna vissa kontrolluppgifter, 
+och 
+
+e) enligt 23 kap. 6 a § om att fullgöra skyldigheter och lämna 
+kontrolluppgifter om skogskonto, skogsskadekonto eller 
+naturvårdskonto,
 
 3. deklarationer, 
 
@@ -8183,37 +8406,40 @@ d) enligt 23 kap. 8 § om att lämna vissa kontrolluppgifter,
 
 5. uppgifter om rapporteringspliktiga arrangemang, 
 
-6. särskilda uppgifter,
+6. särskilda uppgifter, 
 
-7. tilläggsskatterapporter,
+7. tilläggsskatterapporter, 
 
-8. ändringar av eller tillägg till en tilläggsskatterapport,
+8. ändringar av eller tillägg till en tilläggsskatterapport, 
 
 9. periodiska sammanställningar, 
 
-10. underrättelser enligt 22 c kap. 7 §, och
+10. underrättelser enligt 22 c kap. 7 §, och 
 
 11. anmälningar enligt 33 d kap. 3 § andra stycket och 
-33 d kap. 4 § tredje stycket. Lag (2023:880).
+33 d kap. 4 § tredje stycket. Lag (2026:115).
 
 Uppgifter som ska undertecknas
 
-2 § Följande uppgifter ska undertecknas:
+2 § Följande uppgifter ska undertecknas: 
 
-1. uppgifter i deklaration, och
+1. uppgifter i deklaration, och 
 
-2. särskilda uppgifter som ska lämnas av
+2. särskilda uppgifter som ska lämnas av 
 
 a) stiftelser, ideella föreningar och registrerade trossamfund 
-enligt 33 kap. 3 §,
+enligt 33 kap. 3 §, 
 
 b) en fysisk eller juridisk person enligt 33 kap. 6 a §,
 
 c) ägare av en ersättningsbostad i utlandet enligt 33 kap. 
-7 §, och
+7 §, 
 
 d) uppgiftsskyldiga enligt 33 kap. 7 a § för avsättning till 
-periodiseringsfond eller ersättningsfond. Lag (2020:954).
+periodiseringsfond eller ersättningsfond, och 
+
+e) uppgiftsskyldiga enligt 33 kap. 7 b § för skogsavdrag på 
+fastighet i utlandet. Lag (2026:115).
 
 Vem ska underteckna uppgifterna?
 
@@ -8262,6 +8488,9 @@ av eller kompensation för punktskatt (3 a § ),
 - dokumentationsskyldighet för betaltjänstleverantörer (3 c § 
 ),
 
+- dokumentationsskyldighet som avser ansökan om återbetalning 
+av arbetsgivaravgifter och allmän löneavgift (3 d § ),
+
 - dokumentationsskyldighet som avser kassaregister (4-10 §§ ),
 
 - dokumentationsskyldighet som avser personalliggare (11-12 §§ 
@@ -8278,8 +8507,7 @@ investeringsguld (14 § ),
 - dokumentationsskyldighet som avser internprissättning (15-
 16 f §§ ), och
 
-- föreläggande (17 § ). 
-Lag (2023:638).
+- föreläggande (17 § ). Lag (2025:1340).
 
 Definitioner
 
@@ -8402,6 +8630,17 @@ att Skatteverket ska kunna kontrollera uppgiftsskyldigheten.
 Uppgifterna ska vara dokumenterade senast vid utgången av den 
 månad som följer efter det kalenderkvartal som uppgifterna 
 avser. Lag (2023:638).
+
+Ansökan om återbetalning av arbetsgivaravgifter och allmän 
+löneavgift
+
+3 d § Den som har ansökt om återbetalning av 
+arbetsgivaravgifter och allmän löneavgift enligt lagen 
+(2025:1334) om återbetalning av vissa avgifter till växa-
+företag ska i skälig omfattning genom räkenskaper, 
+anteckningar eller annan lämplig dokumentation se till att det 
+finns underlag för kontroll av uppgifterna i ansökan.
+Lag (2025:1340).
 
 Kassaregister
 
@@ -8811,12 +9050,12 @@ Lag (2012:847).
 
 Syftet med en revision
 
-2 § Skatteverket får besluta om revision för att kontrollera 
+2 § Skatteverket får besluta om revision för att kontrollera
 
-1. att uppgiftsskyldighet enligt 15-35 kap. har fullgjorts, 
+1. att uppgiftsskyldighet enligt 15-35 kap. har fullgjorts,
 
 2. att det finns förutsättningar att fullgöra 
-uppgiftsskyldighet enligt 15-35 kap. som kan antas uppkomma, 
+uppgiftsskyldighet enligt 15-35 kap. som kan antas uppkomma,
 
 3. skatteupplag enligt lagen (1994:1776) om skatt på energi, 
 lagen (2022:155) om tobaksskatt eller lagen (2022:156) om 
@@ -8824,7 +9063,7 @@ alkoholskatt,
 
 4. att den som har ansökt om återbetalning av eller 
 kompensation för punktskatt i de fall som avses i 53 kap. 5 § 
-2 har lämnat riktiga och fullständiga uppgifter,
+2 har lämnat riktiga och full-ständiga uppgifter,
 
 5. att den som har ansökt om återbetalning av punktskatt i de 
 fall som avses i 53 kap. 5 § 1 har lämnat riktiga och 
@@ -8836,15 +9075,19 @@ enligt 39 kap. 13 §,
 
 7. att den som har eller kan antas ha levererat 
 investeringsguld har fullgjort sina skyldigheter enligt 
-39 kap. 14 §, eller
+39 kap. 14 §,
 
 8. att den som har överfört en vara till eller förvärvat en 
 vara från ett avropslager har fullgjort sina skyldigheter 
-enligt 39 kap. 14 a §.
+enligt 39 kap. 14 a §, eller
+
+9. att den som har ansökt om återbetalning av 
+arbetsgivaravgifter och allmän löneavgift i de fall som avses 
+i 53 kap. 6 § har lämnat riktiga och fullständiga uppgifter.
 
 Skatteverket får besluta om revision också för att inhämta 
 uppgifter av betydelse för kontroll enligt första stycket 1-4 
-av någon annan än den som revideras. Lag (2023:208).
+och 9 av någon annan än den som revideras. Lag (2025:1340).
 
 2 a § Om Skatteverket har tagit emot en begäran om
 upplysningar och verket behöver uppgifter för att kunna
@@ -8863,7 +9106,8 @@ upplysningarna avser. Lag (2012:847).
 
 Vem får revideras?
 
-3 § Revision får göras hos
+3 § /Upphör att gälla U:2026-07-01/
+Revision får göras hos
 
 1. den som är eller kan antas vara bokföringsskyldig enligt 
 bokföringslagen (1999:1078),
@@ -8915,10 +9159,102 @@ plattformsoperatör enligt 2 kap. 2 eller 3 § lagen (2022:1681)
 om plattformsoperatörers inhämtande av vissa uppgifter på 
 skatteområdet och hos den som åtagit sig att genomföra de 
 åtgärder för kundkännedom som anges i 6 kap. samma lag för en 
-rapporteringsskyldig plattformsoperatörs räkning, och
+rapporteringsskyldig plattformsoperatörs räkning,
 
 15. den som är eller kan antas vara ett oberoende småbryggeri 
-enligt lagen (2022:156) om alkoholskatt. Lag (2025:104).
+enligt lagen (2022:156) om alkoholskatt, 
+
+16. den som är eller kan antas vara en rapporteringsskyldig 
+leverantör av kryptotillgångstjänster enligt 2 kap. lagen 
+(2025:1377) om inhämtande av vissa uppgifter om 
+kryptotillgångar och hos den som åtagit sig att genomföra 
+granskningsförfarandet som anges i 7 kap. samma lag för en 
+sådan leverantörs räkning, och 
+
+17. den som är eller kan antas vara ett rapporteringsskyldigt 
+finansiellt institut enligt 2 kap. 19 § lagen (2015:62) om 
+identifiering av rapporteringspliktiga konton med anledning av 
+FATCA-avtalet eller 2 kap. 21 § lagen (2015:911) om 
+identifiering av rapporteringspliktiga konton vid automatiskt 
+utbyte av upplysningar om finansiella konton och hos den som 
+åtagit sig att genomföra granskningsförfarandena som anges i 
+4-8 kap. i respektive lag för ett rapporteringsskyldigt 
+finansiellt instituts räkning. Lag (2025:1382).
+
+3 § /Träder i kraft I:2026-07-01/
+Revision får göras hos
+
+1. den som är eller kan antas vara bokföringsskyldig enligt 
+bokföringslagen (1999:1078),
+
+2. någon annan juridisk person än ett dödsbo,
+
+3. den som har anmält sig för registrering,
+
+4. den som har ansökt om eller är godkänd för F-skatt,
+
+5. sådant ombud för en beskattningsbar person som inte är 
+etablerad i Sverige och som avses i 6 kap. 2 §,
+
+6. den som har ansökt om godkännande som upplagshavare enligt 
+lagen (1994:1776) om skatt på energi, lagen (2022:155) om 
+tobaksskatt eller lagen (2022:156) om alkoholskatt,
+
+7. den som har ansökt om godkännande som registrerad 
+varumottagare enligt lagen om skatt på energi, lagen om 
+tobaksskatt eller lagen om alkoholskatt,
+
+8. den som har ansökt om godkännande som skattebefriad 
+förbrukare enligt lagen om skatt på energi eller lagen om 
+alkoholskatt,
+
+9. den som har ansökt om godkännande som registrerad avsändare 
+enligt lagen om skatt på energi, lagen om tobaksskatt eller 
+lagen om alkoholskatt,
+
+10. den som har ansökt om godkännande som lagerhållare enligt 
+lagen om skatt på energi, lagen (2016:1067) om skatt på 
+kemikalier i viss elektronik, lagen (2018:696) om skatt på 
+vissa nikotinhaltiga produkter eller lagen om tobaksskatt,
+
+11. den som har ansökt om godkännande som registrerad 
+mottagare eller registrerad EU-handlare enligt lagen om skatt 
+på kemikalier i viss elektronik,
+
+12. den som har ansökt om godkännande som registrerad 
+distansförsäljare av tuggtobak och övrig tobak enligt lagen om 
+tobaksskatt,
+
+13. den som har ansökt om godkännande för särskild hantering 
+av proviantering till havs enligt 8 kap. 4 § lagen om skatt på 
+energi,
+
+14. den som är eller kan antas vara en rapporteringsskyldig 
+plattformsoperatör enligt 2 kap. 2 eller 3 § lagen (2022:1681) 
+om plattformsoperatörers inhämtande av vissa uppgifter på 
+skatteområdet och hos den som åtagit sig att genomföra de 
+åtgärder för kundkännedom som anges i 6 kap. samma lag för en 
+rapporteringsskyldig plattformsoperatörs räkning,
+
+15. den som är eller kan antas vara en oberoende småproducent 
+enligt lagen om alkoholskatt,
+
+16. den som är eller kan antas vara en rapporteringsskyldig 
+leverantör av kryptotillgångstjänster enligt 2 kap. lagen 
+(2025:1377) om inhämtande av vissa uppgifter om 
+kryptotillgångar och hos den som åtagit sig att genomföra 
+granskningsförfarandet som anges i 7 kap. samma lag för en 
+sådan leverantörs räkning, och
+
+17. den som är eller kan antas vara ett rapporteringsskyldigt 
+finansiellt institut enligt 2 kap. 19 § lagen (2015:62) om 
+identifiering av rapporteringspliktiga konton med anledning av 
+FATCA-avtalet eller 2 kap. 21 § lagen (2015:911) om 
+identifiering av rapporteringspliktiga konton vid automatiskt 
+utbyte av upplysningar om finansiella konton och hos den som 
+åtagit sig att genomföra granskningsförfarandena som anges i 
+4-8 kap. i respektive lag för ett rapporteringsskyldigt 
+finansiellt instituts räkning. Lag (2026:739).
 
 Beslut om revision
 
@@ -9013,7 +9349,8 @@ handlingar ska granskas på någon annan plats än i
 verksamhetslokalerna, ska den reviderade på begäran och mot
 kvitto överlämna handlingarna till revisorn.
 
-10 § Den reviderade ska på begäran ge revisorn tillfälle att
+10 § /Upphör att gälla U:2026-07-01/
+Den reviderade ska på begäran ge revisorn tillfälle att
 använda tekniska hjälpmedel för att granska upptagning som kan
 uppfattas bara med sådana hjälpmedel.
 Första stycket gäller inte om
@@ -9032,6 +9369,28 @@ Vid granskning enligt första stycket eller kontroll enligt
 tredje stycket får bara de tekniska hjälpmedel och sökbegrepp
 användas som behövs för att tillgodose syftet med revisionen.
 Granskningen får inte verkställas via telenät.
+
+10 § /Träder i kraft I:2026-07-01/
+Den reviderade ska på begäran ge revisorn tillfälle att 
+använda tekniska hjälpmedel för att granska upptagning som kan 
+uppfattas bara med sådana hjälpmedel. 
+
+Första stycket gäller inte om
+
+1. den reviderade tillhandahåller en kopia av upptagningen, 
+och
+
+2. kopian utan svårighet kan granskas med tekniska hjälpmedel 
+som revisorn har tillgång till.
+
+I det fall som avses i andra stycket ska den reviderade ge 
+revisorn möjlighet att kontrollera att kopian stämmer överens 
+med den upptagning som finns hos den reviderade.
+
+Vid granskning enligt första stycket eller kontroll enligt 
+tredje stycket får bara de tekniska hjälpmedel och sökbegrepp 
+användas som behövs för att tillgodose syftet med revisionen.
+Lag (2026:346).
 
 11 § Den reviderade ska, utöver vad som följer av 8–10 §§, ge
 revisorn den hjälp som behövs vid revisionen.
@@ -9283,14 +9642,14 @@ Förbud mot att förena ett föreläggande med vite
 begått en gärning som är straffbelagd eller kan leda till 
 skattetillägg, återkallelseavgift, kontoavgift, 
 dokumentationsavgift, rapporteringsavgift, plattformsavgift, 
-rapportavgift eller kontrollavgift, och
+rapportavgift, kryptoavgift eller kontrollavgift, och 
 
 2. föreläggandet avser utredning av en fråga som har samband 
 med den misstänkta gärningen.
 
 Om den som ska föreläggas är en juridisk person, gäller första 
 stycket även ställföreträdare för den juridiska personen.
-Lag (2024:1018).
+Lag (2025:1382).
 
 3 a § Ett föreläggande enligt 37 kap. 12 § får inte förenas 
 med vite innan beslutet om godkännande för tonnagebeskattning 
@@ -9309,7 +9668,8 @@ den som föreläggandet gäller när ansökan om utdömande görs.
 
 Innehåll
 
-1 § I detta kapitel finns bestämmelser om
+1 § /Upphör att gälla U:2026-07-01/
+I detta kapitel finns bestämmelser om
 
 – definitioner (2 §),
 
@@ -9324,9 +9684,29 @@ Innehåll
 
 – behörig förvaltningsrätt (17 §).
 
+1§ /Träder i kraft I:2026-07-01/
+I detta kapitel finns bestämmelser om 
+
+- definitioner (2 § ),
+
+- revision i den reviderades verksamhetslokaler (3 § ),
+
+- eftersökande och omhändertagande av handlingar (4-11 §§ ),
+
+- eftersökande och ianspråktagande av tekniska och andra 
+hjälpmedel (11 a § ),
+
+- försegling av lokal, förvaringsplats eller annat utrymme 
+(12 § ),
+
+- beslut om bevissäkring (13-16 §§ ), och
+
+- behörig förvaltningsrätt (17 § ). Lag (2026:346).
+
 Definitioner
 
-2 § Med bevissäkring avses följande tvångsåtgärder:
+2 § /Upphör att gälla U:2026-07-01/
+Med bevissäkring avses följande tvångsåtgärder:
 
 1. revision i den reviderades verksamhetslokaler enligt 3 §,
 
@@ -9339,6 +9719,32 @@ enligt 12 §.
 Med risk för sabotage avses att det finns risk för att den som
 bevissäkringen gäller kommer att undanhålla, förvanska eller
 förstöra det som får kontrolleras.
+
+2 § /Träder i kraft I:2026-07-01/
+Med bevissäkring avses följande tvångsåtgärder:
+
+1. revision i den reviderades verksamhetslokaler enligt 3 §,
+
+2. eftersökande och omhändertagande av handlingar enligt 4-
+11 §§,
+
+3. eftersökande och ianspråktagande av tekniska och andra 
+hjälpmedel enligt 11 a §, samt
+
+4. försegling av lokal, förvaringsplats eller annat utrymme 
+enligt 12 §.
+
+Med bevissäkring på distans avses att med stöd av första 
+stycket 2 eftersöka och kopiera handlingar i ett 
+avläsningsbart informationssystem som finns utanför den plats 
+varifrån tvångsåtgärden utförs. Med avläsningsbart 
+informationssystem avses detsamma som i lagen (2020:62) om 
+hemlig dataavläsning.
+
+Med risk för sabotage avses att det finns risk för att sådant 
+som får kontrolleras, eller som får eftersökas och tas i 
+anspråk enligt 11 a §, undanhålls, förvanskas eller förstörs.
+Lag (2026:346).
 
 Revision i den reviderades verksamhetslokaler
 
@@ -9388,13 +9794,44 @@ och
 
 2. det finns en påtaglig risk för sabotage.
 
-8 § Om ett föreläggande att lämna ut en handling vid annan
+7 a § /Träder i kraft I:2026-07-01/
+En handling som behövs för en revision enligt 3 § eller 
+41 kap. får eftersökas genom bevissäkring på distans i ett 
+avläsningsbart informationssystem och kopieras för granskning 
+om 
+
+1. den reviderade inte har följt ett föreläggande enligt 
+41 kap. 12 § om att lämna ut handlingen, eller 
+
+2. det finns en påtaglig risk för sabotage.
+
+Om informationssystemet inte kan antas ha använts i den 
+reviderades verksamhet gäller första stycket bara om det finns 
+särskild anledning att anta att handlingen finns i 
+informationssystemet. Lag (2026:346).
+
+8 § /Upphör att gälla U:2026-07-01/
+Om ett föreläggande att lämna ut en handling vid annan
 kontroll än revision inte har följts och det finns särskild
 anledning att anta att handlingen finns hos den som har
 förelagts, får handlingen eftersökas och tas om hand för
 granskning.
 
-9 § Hos den som inte får revideras men som kan föreläggas att
+8 § /Träder i kraft I:2026-07-01/
+Om ett föreläggande att lämna ut en handling vid annan 
+kontroll än revision inte har följts och det finns särskild 
+anledning att anta att handlingen finns hos den som har 
+förelagts, får handlingen eftersökas och tas om hand för 
+granskning. 
+
+Om det finns särskild anledning att anta att handlingen finns 
+i ett avläsningsbart informationssystem som den som har 
+förelagts kan antas ha använt, får handlingen eftersökas genom 
+bevissäkring på distans i informationssystemet och kopieras 
+för granskning. Lag (2026:346).
+
+9 § /Upphör att gälla U:2026-07-01/
+Hos den som inte får revideras men som kan föreläggas att
 lämna uppgift enligt 37 kap. 10 § får handling som han eller
 hon kan föreläggas att lämna uppgift om eftersökas och tas om
 hand för granskning utan ett föregående föreläggande om det
@@ -9410,6 +9847,31 @@ påträffas hos personen,
 Granskningen ska ske på annan plats än hos den som
 bevissäkringen gäller.
 
+9 § /Träder i kraft I:2026-07-01/
+Hos den som inte får revideras men som kan föreläggas att 
+lämna uppgift enligt 37 kap. 10 § får handling som han eller 
+hon kan föreläggas att lämna uppgift om eftersökas och tas om 
+hand för granskning utan ett föregående föreläggande om det 
+finns 
+
+1. särskild anledning att anta att handlingen kommer att 
+påträffas hos personen,
+
+2. en påtaglig risk för sabotage om personen föreläggs, och
+
+3. ett betydande intresse av att handlingen granskas.
+
+Om det finns särskild anledning att anta att handlingen kommer 
+att påträffas i ett avläsningsbart informationssystem som den 
+som avses i första stycket kan antas ha använt, får handlingen 
+eftersökas genom bevissäkring på distans i 
+informationssystemet och kopieras för granskning utan ett 
+föregående föreläggande under de förutsättningar som anges i 
+första stycket 2 och 3.
+
+Granskningen ska ske på annan plats än hos den som 
+bevissäkringen gäller. Lag (2026:346).
+
 10 § Om det finns särskilda skäl, behöver den som uppgifterna
 avser eller de handlingar som eftersöks inte anges i ett
 beslut om åtgärd enligt 9 §.
@@ -9417,6 +9879,19 @@ beslut om åtgärd enligt 9 §.
 11 § Beslut om åtgärd enligt 9 § får inte meddelas för att
 samla in uppgifter för att förbereda kontroll av någon annan
 person än den som kontrolleras.
+
+/Rubriken träder i kraft I:2026-07-01/
+Eftersökande och ianspråktagande av tekniska och andra 
+hjälpmedel
+
+11 a § /Träder i kraft I:2026-07-01/
+Om det är nödvändigt för att verkställa ett beslut om 
+bevissäkring på distans får tekniska och andra hjälpmedel 
+eftersökas och tas i anspråk hos
+
+1. den som beslutet gäller, eller
+
+2. en företrädare för denne. Lag (2026:346).
 
 Försegling av lokal, förvaringsplats eller annat utrymme
 
@@ -9437,12 +9912,21 @@ inte omedelbart kan föras från platsen.
 
 Beslut om bevissäkring
 
-13 § Beslut om bevissäkring enligt 3 och 6–9 §§ fattas av
+13 § /Upphör att gälla U:2026-07-01/
+Beslut om bevissäkring enligt 3 och 6–9 §§ fattas av
 förvaltningsrätten på ansökan av granskningsledaren.
 
 Beslut enligt 4, 5 och 12 §§ fattas av granskningsledaren.
 
-14 § Granskningsledaren får besluta om bevissäkring enligt 3
+13 § /Träder i kraft I:2026-07-01/
+Beslut om bevissäkring enligt 3, 6-9 och 11 a §§ fattas 
+av förvaltningsrätten på ansökan av granskningsledaren.
+
+Beslut enligt 4, 5 och 12 §§ fattas av granskningsledaren.
+Lag (2026:346).
+
+14 § /Upphör att gälla U:2026-07-01/
+Granskningsledaren får besluta om bevissäkring enligt 3
 och 6–8 §§ om
 
 1. det finns en påtaglig risk för sabotage innan
@@ -9462,6 +9946,35 @@ Om den som beslutet om bevissäkringen gäller har försatts i
 konkurs när handlingarna ska lämnas tillbaka, ska handlingarna
 överlämnas till konkursförvaltaren och den som bevissäkringen
 gäller underrättas om överlämnandet.
+
+14 § /Träder i kraft I:2026-07-01/
+Granskningsledaren får besluta om bevissäkring enligt 3, 
+6-8 och 11 a §§ om
+
+1. det finns en påtaglig risk för sabotage innan 
+förvaltningsrätten kan fatta beslut, samt 
+
+2. åtgärden ska genomföras i en verksamhetslokal eller i ett 
+avläsningsbart informationssystem som kan antas ha använts i 
+verksamhet som 
+
+a) medför eller kan antas medföra bokföringsskyldighet enligt 
+bokföringslagen (1999:1078), eller 
+
+b) bedrivs av en annan juridisk person än ett dödsbo.
+
+Om granskningsledaren har beslutat om åtgärd enligt första 
+stycket, ska han eller hon så snart som möjligt och senast 
+inom fem dagar ansöka om bevissäkring hos förvaltningsrätten. 
+Om granskningsledaren inte gör någon ansökan eller om 
+förvaltningsrätten avslår ansökan, ska omhändertagna 
+handlingar lämnas tillbaka och övriga insamlade uppgifter 
+förstöras.
+
+Om den som beslutet om bevissäkringen gäller har försatts i 
+konkurs när handlingarna ska lämnas tillbaka, ska handlingarna 
+överlämnas till konkursförvaltaren och den som bevissäkringen 
+gäller underrättas om överlämnandet. Lag (2026:346).
 
 15 § Ett beslut om bevissäkring ska innehålla uppgift om
 möjligheten att undanta uppgifter och handlingar från kontroll
@@ -9520,23 +10033,7 @@ betalning av skatt, avgift, särskild avgift eller ränta.
 
 Avgifter som undantas från betalningssäkring
 
-3 § /Upphör att gälla U:2026-01-01/
-Betalningssäkring får inte användas för avgifter 
-enligt
-
-1. begravningslagen (1990:1144),
-
-2. lagen (1999:291) om avgift till registrerat trossamfund, 
-och
-
-3. lagen (2018:1893) om finansiering av radio och tv i 
-allmänhetens tjänst. Lag (2018:1896).
-
-Betalningssäkring enligt överenskommelse med en annan stat
-m.m.
-
-3 § /Träder i kraft I:2026-01-01/
-Betalningssäkring får inte användas för avgifter enligt
+3 § Betalningssäkring får inte användas för avgifter enligt
 
 1. begravningslagen (1990:1144),
 
@@ -9958,33 +10455,38 @@ avgifter.
 
 Skattetillägg vid oriktig uppgift
 
-4 § Skattetillägg ska tas ut av den som på något annat sätt än
-muntligen
+4 § Skattetillägg ska tas ut av den som
 
-1. under förfarandet har lämnat en oriktig uppgift till
-ledning för egen beskattning, eller
+1. under förfarandet har lämnat en oriktig uppgift till 
+ledning för egen beskattning, eller 
 
-2. har lämnat en oriktig uppgift i ett mål om egen
+2. har lämnat en oriktig uppgift i ett mål om egen 
 beskattning.
 
-Skattetillägg enligt första stycket 2 får dock tas ut bara om
+Skattetillägg enligt första stycket 2 får dock tas ut bara om 
 uppgiften inte har godtagits efter prövning i sak.
+Lag (2026:110).
 
-5 § En uppgift ska anses vara oriktig om det klart framgår att
+5 § En uppgift ska anses vara oriktig om det klart framgår att 
 
-1. en lämnad uppgift är felaktig, eller
+1. en lämnad uppgift är felaktig,
 
-2. en uppgift som ska lämnas till ledning för beskattningen
-har utelämnats.
+2. en uppgift som ska lämnas till ledning för beskattningen 
+har utelämnats, eller
+
+3. en lämnad uppgift om mervärdesskatt avser en transaktion 
+som ingick som ett led i ett undandragande av mervärdesskatt 
+och den som lämnade uppgiften kände till eller borde ha känt 
+till detta.
 
 En uppgift ska dock inte anses vara oriktig om
 
-1. uppgiften tillsammans med övriga uppgifter som har lämnats
-eller godkänts utgör tillräckligt underlag för ett riktigt
+1. uppgiften tillsammans med övriga uppgifter som har lämnats 
+eller godkänts utgör tillräckligt underlag för ett riktigt 
 beslut, eller
 
-2. uppgiften uppenbart inte kan läggas till grund för ett
-beslut.
+2. uppgiften uppenbart inte kan läggas till grund för ett 
+beslut. Lag (2026:110).
 
 Skattetillägg vid skönsbeskattning
 
@@ -10014,25 +10516,28 @@ Lag (2023:880).
 
 Skattetillägg vid omprövning av skönsbeskattningsbeslut
 
-8 § Skattetillägg ska tas ut av den som
+8 § Skattetillägg ska tas ut av den som 
 
-1. har skönsbeskattats på grund av att någon
-inkomstdeklaration inte har lämnats,
+1. har skönsbeskattats på grund av att någon 
+inkomstdeklaration eller tilläggsskattedeklaration inte har 
+lämnats,
 
-2. inte heller har lämnat deklaration inom den tid som
+2. inte heller har lämnat deklaration inom den tid som 
 föreskrivs i 7 §, och
 
-3. på Skatteverkets initiativ påförs ytterligare skatt genom
+3. på Skatteverkets initiativ påförs ytterligare skatt genom 
 omprövning av skönsbeskattningsbeslutet.
 
-Ett beslut om skattetillägg ska inte undanröjas om en
-inkomstdeklaration lämnas senare.
+Ett beslut om skattetillägg ska inte undanröjas om en 
+inkomstdeklaration eller tilläggsskattedeklaration lämnas 
+senare.
 
-Om skattetillägg inte har tagits ut i samband med det första
-skönsbeskattningsbeslutet ska, vid tillämpningen av första
-stycket 2, det som sägs i 7 § om beslutet om skattetillägg och
-kännedom om skattetillägget i stället gälla
+Om skattetillägg inte har tagits ut i samband med det första 
+skönsbeskattningsbeslutet ska, vid tillämpningen av första 
+stycket 2, det som sägs i 7 § om beslutet om skattetillägg och 
+kännedom om skattetillägget i stället gälla 
 skönsbeskattningsbeslutet och kännedom om skönsbeskattningen.
+Lag (2026:303).
 
 Skattetillägg när skatteavdrag inte har gjorts
 
@@ -10685,6 +11190,86 @@ eller låtit bli att lämna uppgifter som skulle ha lämnats,
 eller varit grovt vårdslös vid uppgiftslämnandet.
 Lag (2023:880).
 
+49 f kap. Kryptoavgift
+
+När ska kryptoavgift tas ut?
+
+1 § Kryptoavgift ska tas ut enligt 4 § av en 
+rapporteringsskyldig leverantör av kryptotillgångstjänster som 
+ska lämna kontrolluppgifter enligt 22 d kap. om det klart 
+framgår att leverantören 
+
+1. inte har lämnat föreskrivna kontrolluppgifter enligt 
+22 d kap. inom den tid som anges i 24 kap. 2 b §, eller 
+
+2. inte har genomfört granskningsförfarandet eller på annat 
+sätt inte har inhämtat, kontrollerat eller bevarat handlingar, 
+uppgifter och annan dokumentation avseende en användare av 
+kryptotillgångar eller person med bestämmande inflytande som 
+är en rapporteringspliktig person på det sätt som anges i
+
+a) 7 kap. lagen (2025:1377) om inhämtande av vissa uppgifter 
+på skatteområdet om kryptotillgångar, och
+
+b) 39 kap. 3 § denna lag, med avseende på kontrolluppgifter 
+enligt 22 d kap. Lag (2025:1382).
+
+2 § Om det klart framgår att en rapporteringsskyldig 
+leverantör av kryptotillgångstjänster inte har fullgjort de 
+skyldigheter som avses i 1 § senast den 30 juni det kalenderår 
+kontrolluppgiften ska lämnas, eller skulle ha lämnats om 
+användaren eller personen med bestämmande inflytande hade 
+varit rapporteringspliktig, ska utöver avgift enligt 1 § 
+kryptoavgift enligt 5 § tas ut.
+
+Under samma förutsättningar ska ytterligare en kryptoavgift 
+enligt 5 § tas ut. Detta gäller dock inte om föreskrivna 
+uppgifter har lämnats, inhämtats, kontrollerats och bevarats 
+innan Skatteverket tagit kontakt med den som ska lämna, 
+inhämta eller bevara uppgifter med anledning av en utredning 
+om en sådan kryptoavgift som anges i första stycket.
+Lag (2025:1382).
+
+Brister av mindre betydelse och rättelse på eget initiativ
+
+3 § Kryptoavgift får inte tas ut om de skyldigheter som avses 
+i 1 § 1 eller 2 delvis har fullgjorts inom de tidsfrister som 
+följer av 1 och 2 §§ och
+
+1. bristerna endast är av mindre betydelse, eller
+
+2. den rapporteringsskyldiga leverantören av 
+kryptotillgångstjänster på eget initiativ därefter har 
+fullgjort skyldigheterna.
+
+Om kontrolluppgifter som lämnats är så bristfälliga att de 
+uppenbart inte kan läggas till grund för de syften som 
+uppgifter enligt 22 d kap. lämnas för, kan de inte rättas med 
+sådan verkan som avses i första stycket 2. Lag (2025:1382).
+
+Beräkning av kryptoavgift
+
+4 § Kryptoavgiften är 2 500 kronor för varje kontrolluppgift 
+där föreskrivna uppgifter inte lämnats på det sätt som avses i 
+1 § 1 eller för varje användare av kryptotillgångar och person 
+med bestämmande inflytande med avseende på vilken 
+skyldigheterna som avses i 1 § 2 inte har uppfyllts.
+
+Endast en kryptoavgift enligt 1 § kan tas ut per 
+rapporteringspliktig period och användare av kryptotillgångar.
+Lag (2025:1382).
+
+5 § Kryptoavgiften enligt 2 § första stycket respektive andra 
+stycket är 5 000 kronor för varje kontrolluppgift där 
+föreskrivna uppgifter inte lämnats på det sätt som avses i 1 § 
+1 eller för varje användare av kryptotillgångar och person med 
+bestämmande inflytande med avseende på vilken skyldigheterna 
+som avses i 1 § 2 inte uppfyllts.
+
+Endast en kryptoavgift enligt 2 § första stycket respektive 
+andra stycket kan tas ut per rapporteringspliktig period och 
+användare av kryptotillgångar. Lag (2025:1382).
+
 50 kap. Kontrollavgift
 
 Kassaregister och personalliggare
@@ -10789,12 +11374,18 @@ den som avgiften gäller kan lastas för dröjsmålet.
 Lag (2020:858).
 
 2 § Vid bedömningen av om det är oskäligt att ta ut en 
-dokumentationsavgift eller en kontoavgift med fullt belopp ska 
-Skatteverket även beakta om bristen på dokumentation helt 
-eller delvis har lett till ett ingripande på grund av att 
-bestämmelserna i 5 kap. 3 § lagen (2017:630) om åtgärder mot 
-penningtvätt och finansiering av terrorism inte har följts.
-Lag (2024:1018).
+dokumentationsavgift, kontoavgift eller en kryptoavgift med 
+fullt belopp ska Skatteverket även beakta om bristen på 
+dokumentation helt eller delvis har lett till ett ingripande 
+på grund av att bestämmelserna i 5 kap. 3 § lagen (2017:630) 
+om åtgärder mot penningtvätt och finansiering av terrorism 
+inte har följts.
+
+Vid bedömningen av om kryptoavgift ska tas ut med fullt belopp 
+ska det också beaktas om bristen lett till ett ingripande 
+eller en sanktion enligt 3 kap. lagen (2024:1159) med 
+kompletterande bestämmelser till EU:s förordning om marknader 
+för kryptotillgångar. Lag (2025:1382).
 
 3 § Vid bedömningen av om det är oskäligt att ta ut 
 förseningsavgift med fullt belopp när tilläggsskatterapport 
@@ -10820,11 +11411,20 @@ jurisdiktion, och
 vara särskilt komplicerade och att uppgiftsskyldigheten är 
 mycket omfattande. Lag (2023:880).
 
+5 § Skattetillägg eller rapportavgift ska inte tas ut om en 
+koncernenhet vidtagit skäliga åtgärder för att redovisa 
+korrekta beräkningar i enlighet med 33 d kap. och korrekta 
+bedömningar i fråga om bestämmelserna om tilläggsskatt. 
+
+Bestämmelsen gäller för räkenskapsår som börjar före den 
+1 januari 2027 och avslutas senast den 30 juni 2028. 
+Lag (2026:303).
+
 52 kap. Beslut om särskilda avgifter
 
 Innehåll
 
-1 § I detta kapitel finns bestämmelser om 
+1 § I detta kapitel finns bestämmelser om
 
 - beslut om förseningsavgift (2 § ),
 
@@ -10836,17 +11436,19 @@ Innehåll
 
 - beslut om rapporteringsavgift (8 d § ),
 
-- beslut om plattformsavgift (8 e § ),
+- beslut om beslut om plattformsavgift (8 e § ),
 
 - beslut om rapportavgift (8 f § ),
+
+- beslut om kryptoavgift (8 g § ),
 
 - beslut om kontrollavgift (9 § ),
 
 - att särskild avgift inte får beslutas för en person som har 
 avlidit (10 § ), och
 
-- att särskild avgift tillfaller staten (11 § ). 
-Lag (2024:1018).
+- att särskild avgift tillfaller staten (11 § ).
+Lag (2025:1382).
 
 Beslut om förseningsavgift
 
@@ -10860,12 +11462,12 @@ Skattetillägg vid oriktig uppgift och skönsbeskattning
 3 § Ett beslut om skattetillägg på grund av oriktig uppgift 
 eller skönsbeskattning ska meddelas senast under det andra 
 året efter utgången av det kalenderår då beskattningsåret har 
-gått ut.
+gått ut. 
 
 Ett beslut om skattetillägg på tilläggsskatt på grund av 
-oriktig uppgift eller skönsbeskattning ska meddelas inom tre 
+oriktig uppgift eller skönsbeskattning ska meddelas inom fyra 
 år från utgången av det kalenderår då beskattningsåret har 
-gått ut.Lag (2023:880).
+gått ut. Lag (2026:303).
 
 Skattetillägg vid för sen eller utebliven deklaration
 
@@ -10873,17 +11475,17 @@ Skattetillägg vid för sen eller utebliven deklaration
 inkomstdeklaration eller skattedeklaration efter utgången av 
 året efter det kalenderår då beskattningsåret har gått ut, får 
 ett beslut om skattetillägg meddelas inom ett år från den dag 
-då deklarationen kom in till Skatteverket.
+då deklarationen kom in till Skatteverket. 
 
 För den som är skyldig att lämna tilläggsskattedeklaration 
 gäller första stycket om deklarationen lämnas efter utgången 
-av andra året efter det kalenderår då beskattningsåret har 
+av tredje året efter det kalenderår då beskattningsåret har 
 gått ut.
 
 Om den deklarationsskyldige inte har lämnat någon deklaration, 
 får ett beslut om skattetillägg meddelas inom sex år från 
 utgången av det kalenderår då beskattningsåret har gått ut.
-Lag (2023:880).
+Lag (2026:303).
 
 Skattetillägg vid efterbeskattning
 
@@ -10966,6 +11568,15 @@ Beslut om rapportavgift
 från utgången av det kalenderår då beskattningsåret har gått 
 ut. Ett beslut om rapportavgift ska fattas av en särskilt 
 kvalificerad beslutsfattare. Lag (2023:880).
+
+Beslut om kryptoavgift
+
+8 g § Ett beslut om kryptoavgift enligt 49 f kap. 1 eller 2 § 
+ska meddelas inom sex år efter utgången av det kalenderår då 
+kontrolluppgiftsskyldigheten enligt 22 d kap. ska fullgöras 
+eller skulle ha fullgjorts om användaren eller personen med 
+bestämmande inflytande var rapporteringspliktig.
+Lag (2025:1382).
 
 Beslut om kontrollavgift
 
@@ -11068,6 +11679,11 @@ e) 12 § lagen (1999:673) om skatt på avfall, och
 3, 5, 6, 8 a, 10, 10 a, 10 b, 10 c, 11 eller 11 a § eller 
 någon av bestämmelserna i 11 kap. 12-14 §§ lagen (1994:1776) 
 om skatt på energi. Lag (2022:1782).
+
+6 § Som beslut om arbetsgivaravgifter anses också beslut om 
+återbetalning av arbetsgivaravgifter och allmän löneavgift 
+enligt 7 § lagen (2025:1334) om återbetalning av vissa 
+avgifter till växa-företag. Lag (2025:1340).
 
 54 kap. Beslut och besked om särskild inkomstskatt
 
@@ -11341,32 +11957,7 @@ belopp.
 
 Skatternas och avgifternas storlek
 
-6 § /Upphör att gälla U:2026-01-01/
-I beslut om slutlig skatt ska Skatteverket även 
-bestämma storleken på följande skatter och avgifter:
-
-1. skatt och avgift på de underlag som avses i 3 §,
-
-2. skatt enligt 2 § lagen (1990:659) om särskild löneskatt på 
-vissa förvärvsinkomster,
-
-3. begravningsavgift enligt begravningslagen (1990:1144),
-
-4. avgift enligt 2 § lagen (1994:1920) om allmän 
-löneavgift,
-
-5. avgift enligt lagen (1999:291) om avgift till registrerat 
-trossamfund, 
-
-6. egenavgifter enligt 3 kap. socialavgiftslagen (2000:980), 
-och
-
-7. public service-avgift enligt lagen (2018:1893) om 
-finansiering av radio och tv i allmänhetens tjänst.
-Lag (2018:1896).
-
-6 § /Träder i kraft I:2026-01-01/
-I beslut om slutlig skatt ska Skatteverket även bestämma 
+6 § I beslut om slutlig skatt ska Skatteverket även bestämma 
 storleken på följande skatter och avgifter:
 
 1. skatt och avgift på de underlag som avses i 3 §,
@@ -11520,20 +12111,8 @@ avser
 
 4 § I ett beslut om tilläggsskatt ska belopp anges i svenska 
 kronor. Om beloppet som ligger till grund för beslutet anges i 
-annan valuta, ska beloppet omräknas till svenska kronor 
-utifrån balansdagens kurs för koncernenheten. Om beloppet inte 
-kan hänföras till en enskild koncernenhet ska kursen på 
-moderföretagets balansdag användas.
-
-Den kurs som fastställs av Sveriges riksbank för köp av 
-svenska kronor ska användas vid omräkning. Om någon valutakurs 
-inte fastställts av Sveriges riksbank gäller följande. 
-Motsvarande kurs från centralbanken i den stat där valutan är 
-officiell valuta ska användas vid omräkning. Om någon 
-valutakurs avseende svenska kronor inte har fastställts, ska 
-valutakursen för euro användas och beloppet ska därefter 
-omräknas till svenska kronor enligt den kurs som fastställs av 
-Sveriges riksbank. Lag (2023:880).
+annan valuta, ska beloppet omräknas till svenska kronor enligt 
+vad som anges i 32 a kap. 6 §. Lag (2026:303).
 
 Beräkning av skatt som ska betalas
 
@@ -11660,30 +12239,30 @@ Innehåll
 1 § I detta kapitel finns bestämmelser om
 
 - ansvar när skatteavdrag inte har gjorts med rätt belopp (2-
-6 §§),
+6 §§ ),
 
-- ansvar när anmälan om F-skatt inte har gjorts (7-9 §§),
+- ansvar när anmälan om F-skatt inte har gjorts (7-9 §§ ),
 
-- betalningsmottagarens ansvar för arbetsgivaravgifter (10 §),
+- betalningsmottagarens ansvar för arbetsgivaravgifter (10 § 
+),
 
-- ansvar för delägare i ett svenskt handelsbolag (11 §),
+- ansvar för delägare i ett svenskt handelsbolag (11 § ),
 
-- företrädaransvar (12-21 §§),
+- företrädaransvar (12-21 §§ ),
 
-- ansvar för redare (22 §),
+- ansvar för redare (22 § ),
 
 - ansvar för beskattningsbara personer i en 
-mervärdesskattegrupp (23 §),
+mervärdesskattegrupp (23 § ),
 
 - ansvar för kompletterande tilläggsskatt som fördelats till 
-svenska koncernenheter (23 a §),
+svenska koncernenheter (23 a § ),
 
-- ansvar för den som har avyttrat ett skalbolag (24 §), 
+- ansvar för den som har avyttrat ett skalbolag (24 § ),
 
-- ansvar för kontoavgift (25-25 b §§), och
+- ansvar för kontoavgift och kryptoavgift (25-25 b §§ ), och
 
-- indrivning och preskription (26 och 27 §§).
-Lag (2024:1018).
+- indrivning och preskription (26 och 27 §§ ). Lag (2025:1382).
 
 Ansvar när skatteavdrag inte har gjorts med rätt belopp
 
@@ -11834,8 +12413,81 @@ beloppet. Detsamma gäller om de oriktiga uppgifterna har lett
 till att ingående mervärdesskatt eller punktskatt har betalats
 tillbaka med ett för högt belopp.
 
-15 § Om det finns särskilda skäl, får företrädaren helt eller
+15 § /Upphör att gälla U:2026-06-30/
+Om det finns särskilda skäl, får företrädaren helt eller
 delvis befrias från betalningsskyldigheten.
+
+15 § /Träder i kraft I:2026-06-30/
+Om det är oskäligt att företrädaren är betalningsskyldig 
+för den juridiska personens skatt eller avgift ska 
+företrädaren helt eller delvis befrias från 
+betalningsskyldigheten.
+
+Vid bedömningen ska det särskilt beaktas om
+
+1. företrädaren saknat ägarintresse och bestämmande inflytande 
+i den juridiska personen,
+
+2. företrädaren vidtagit verksamma åtgärder för att begränsa 
+skadan av den underlåtna betalningen,
+
+3. företrädarens betalningsförmåga är varaktigt nedsatt på 
+grund av ålder, sjukdom eller liknande förhållande, eller
+
+4. betalningsskyldigheten inte står i rimlig proportion till 
+försummelsen. Lag (2026:561).
+
+/Rubriken träder i kraft I:2026-06-30/
+Rådrum
+
+15 a § /Träder i kraft I:2026-06-30/
+Efter ansökan av en företrädare som kan komma att bli 
+betalningsskyldig för en juridisk persons skatt eller avgift 
+enligt 13 § ska Skatteverket, om inte särskilda skäl talar 
+emot det, besluta att företrädaren ska beviljas ett rådrum på 
+två månader från den ursprungliga betalningstidpunkten för 
+skatt eller avgift som omfattas av ansökan och först förfaller 
+till betalning (rådrumsperiod).
+
+Vid bedömningen av om särskilda skäl talar emot rådrum ska det 
+särskilt beaktas om
+
+1. företrädaren tidigare har beviljats ett rådrum för skatt 
+eller avgift,
+
+2. den juridiska personen eller företrädaren inte har 
+redovisat skatter eller avgifter enligt denna lag i en 
+utsträckning som inte är obetydlig, eller
+
+3. den juridiska personen eller företrädaren inte har betalat 
+skatter eller avgifter enligt denna lag eller motsvarande 
+utländska skatter eller avgifter, till ett belopp som 
+sammanlagt uppgår till ett halvt prisbasbelopp.
+
+Vid bedömningen enligt andra stycket 3 ska skatte- och 
+avgiftsskulder som omfattas av ansökan om rådrum inte beaktas.
+
+Beslut om rådrum ska fattas skyndsamt. Lag (2026:561).
+
+15 b § /Träder i kraft I:2026-06-30/
+Betalningsskyldigheten för skatt eller avgift vars 
+ursprungliga betalningstidpunkt infaller under rådrumsperioden 
+ska knytas till den tidpunkt då rådrummet upphör.
+
+Om den juridiska personen har beviljats anstånd med 
+betalningen av skatten eller avgiften ska 
+betalningsskyldigheten i stället knytas till den tidpunkt då 
+anståndet upphör om den infaller efter rådrumsperiodens 
+utgång. Lag (2026:561).
+
+15 c § /Träder i kraft I:2026-06-30/
+Skatteverket får återkalla ett rådrum om det finns 
+synnerliga skäl.
+
+Betalningsskyldigheten för skatt eller avgift som omfattas av 
+ett återkallat rådrum ska knytas till den tidpunkt vid vilken 
+skatten eller avgiften ursprungligen skulle ha betalats.
+Lag (2026:561).
 
 Förfarandet
 
@@ -11961,23 +12613,24 @@ anspråk innan Skatteverket beslutar om betalningsskyldighet
 för den som har avyttrat andelen eller den aktiebaserade
 delägarrätten.
 
-25 § Har upphävts genom lag (2011:1289).
+Ansvar för kontoavgift och kryptoavgift
 
-Ansvar för kontoavgift
+25 § Om ett rapporteringsskyldigt finansiellt institut eller 
+en rapporteringsskyldig leverantör av kryptotillgångstjänster 
+som är en annan juridisk konstruktion än en juridisk person 
+inte har fullgjort skyldigheten att betala kontoavgift eller 
+kryptoavgift, får Skatteverket besluta om betalningsansvar för
 
-25 § Om ett rapporteringsskyldigt finansiellt institut som är 
-en annan juridisk konstruktion än en juridisk person inte har 
-fullgjort skyldigheten att betala kontoavgift, får 
-Skatteverket besluta om betalningsansvar för
-
-1. en förvaltare för ett finansiellt institut som är en trust, 
-eller
+1. en förvaltare för ett finansiellt institut eller en 
+leverantör av kryptotillgångstjänster som är en trust, eller
 
 2. den som har en motsvarande ställning i ett finansiellt 
-institut som är en annan juridisk konstruktion än en trust.
+institut eller hos en leverantör av kryptotillgångstjänster 
+som är en annan juridisk konstruktion än en trust.
 
 Betalningsskyldigheten är knuten till den tidpunkt vid vilken 
-kontoavgiften skulle ha betalats. Lag (2024:1018).
+kontoavgiften eller kryptoavgiften skulle ha betalats.
+Lag (2025:1382).
 
 25 a § Ett beslut om betalningsansvar enligt 25 § får inte 
 fattas om statens fordran har preskriberats. 
@@ -11985,7 +12638,8 @@ Lag (2024:1018).
 
 25 b § Om det finns särskilda skäl får förvaltaren eller den 
 som har motsvarande ställning helt eller delvis befrias från 
-skyldigheten att betala kontoavgiften. Lag (2024:1018).
+skyldigheten att betala kontoavgiften eller kryptoavgiften.
+Lag (2025:1382).
 
 Indrivning och preskription
 
@@ -12066,6 +12720,13 @@ före den månad då redovisningen senast ska lämnas.
 Överskjutande skatt som redovisas senare ska registreras den
 dag då redovisningen senast ska lämnas. Lag (2015:892).
 
+4 a § /Träder i kraft I:2026-07-01/
+Om det har fattats beslut om att överskjutande ingående 
+mervärdesskatt enligt 63 a kap. 1 § inte ska tillgodoräknas, 
+ska beloppet registreras på dagen för beslutet, dock tidigast 
+på dagen för tillgodoräknandet av den redovisade överskjutande 
+ingående mervärdesskatten. Lag (2026:707).
+
 Årlig registrering av slutlig skatt m.m.
 
 5 § Slutlig skatt och belopp som avses i 56 kap. 9 § ska
@@ -12092,6 +12753,14 @@ eller
 
 b) har en skatt eller avgift att betala med förfallodag före
 förfallodagen för den slutliga skatten.
+
+Återbetalning av arbetsgivaravgifter och allmän löneavgift
+
+6 a § Om återbetalning av arbetsgivaravgifter och allmän 
+löneavgift enligt 7 § lagen (2025:1334) om återbetalning av 
+vissa avgifter till växa-företag har beviljats före 
+arbetsgivaravgifternas förfallodag, ska återbetalningen 
+registreras på förfallodagen. Lag (2025:1340).
 
 När ska skattekontot stämmas av?
 
@@ -12234,8 +12903,8 @@ beslut av domstol,
 2. förseningsavgift och skattetillägg som har bestämts genom 
 ett omprövningsbeslut eller efter ett beslut av domstol samt 
 återkallelseavgift, kontoavgift, dokumentationsavgift, 
-rapporteringsavgift, plattformsavgift, rapportavgift eller 
-kontrollavgift,
+rapporteringsavgift, plattformsavgift, rapportavgift, 
+kryptoavgift eller kontrollavgift,
 
 3. särskild inkomstskatt som har beslutats enligt 54 kap. 2 §, 
 samt
@@ -12252,7 +12921,7 @@ före den förfallodag som anges i första stycket.
 Mervärdesskatt enligt andra stycket 1 samt skattetillägg 
 enligt andra stycket 2 som har beslutats med anledning av 
 beslut om mervärdesskatt behöver inte betalas före den 
-förfallodag som anges i 3 §. Lag (2024:1018).
+förfallodag som anges i 3 §. Lag (2025:1382).
 
 9 § De förfallodagar som avses i 8 § är
 
@@ -12336,7 +13005,8 @@ mot den skuld som ackordet eller planen avsåg. Lag (2022:995).
 
 Vilken skatt eller avgift är betald?
 
-15 § Om det behöver anges om en skatt eller avgift är betald, 
+15 § /Upphör att gälla U:2026-07-01/
+Om det behöver anges om en skatt eller avgift är betald, 
 ska inbetalda och andra tillgodoräknade belopp fördelas 
 proportionellt mellan samtliga skatter och avgifter som har 
 registrerats under den aktuella avstämningsperioden. Anstånd 
@@ -12348,6 +13018,22 @@ en nedsättning avser ska inte beaktas.
 
 Första stycket gäller inte om annat följer av någon av 12-
 14 §§ eller av bestämmelser i annan lag. Lag (2023:880).
+
+15 § /Träder i kraft I:2026-07-01/
+Om det behöver anges om en skatt eller avgift är betald, 
+ska inbetalda och andra tillgodoräknade belopp fördelas 
+proportionellt mellan samtliga skatter och avgifter som har 
+registrerats under den aktuella avstämningsperioden. Anstånd 
+med betalning eller nedsättning av skatt eller avgift som har 
+tillgodoräknats under perioden ska dock beaktas bara om 
+beloppet avser en skatt eller avgift som har betalats under en 
+tidigare period. Den skatt eller avgift som ett anstånd eller 
+en nedsättning avser ska inte beaktas. Den mervärdesskatt som 
+omfattas av ett beslut enligt 63 a kap. 1 § ska inte heller 
+beaktas.
+
+Första stycket gäller inte om annat följer av någon av 12-
+14 §§ eller av bestämmelser i annan lag. Lag (2026:707).
 
 16 § Om en säkerhet som har ställts enligt lagen (1994:1776) 
 om skatt på energi, lagen (2022:155) om tobaksskatt eller 
@@ -12414,8 +13100,8 @@ Innehåll
 
 - anstånd med att betala skattetillägg, återkallelseavgift, 
 kontoavgift, dokumentationsavgift, rapporteringsavgift, 
-plattformsavgift, rapportavgift och kontrollavgift (7 och 
-7 a §§),
+plattformsavgift, rapportavgift, kryptoavgift och 
+kontrollavgift (7 och 7 a §§),
 
 - säkerhet (8-10 §§),
 
@@ -12441,7 +13127,7 @@ fiktiv avräkning av utländsk skatt (14 d §),
 - ändrade förhållanden (22-22 c §§), och
 
 - anstånd som är till fördel för det allmänna (23 §).
-Lag (2024:1018).
+Lag (2025:1382).
 
 Ansökan om anstånd
 
@@ -12491,13 +13177,13 @@ Anstånd med att betala vissa särskilda avgifter
 7 § Skatteverket ska bevilja anstånd med betalning av 
 skattetillägg, återkallelseavgift, kontoavgift, 
 dokumentationsavgift, rapporteringsavgift, plattformsavgift, 
-rapportavgift och kontrollavgift om den som avgiften gäller 
-har begärt omprövning av eller till förvaltningsrätten 
-överklagat
+rapportavgift, kryptoavgift och kontrollavgift om den som 
+avgiften gäller har begärt omprövning av eller till 
+förvaltningsrätten överklagat
 
 1. beslutet om skattetillägg, återkallelseavgift, kontoavgift, 
 dokumentationsavgift, rapporteringsavgift, plattformsavgift, 
-rapportavgift eller kontrollavgift, eller
+rapportavgift, kryptoavgift eller kontrollavgift, eller
 
 2. beslutet i den fråga som har föranlett skattetillägget, 
 återkallelseavgiften eller rapportavgiften.
@@ -12508,7 +13194,7 @@ avvaktan på en omprövning av samma fråga.
 
 Anståndet ska gälla fram till dess att Skatteverket eller 
 förvaltningsrätten har meddelat sitt beslut eller längst tre 
-månader efter dagen för beslutet. Lag (2024:1018).
+månader efter dagen för beslutet. Lag (2025:1382).
 
 7 a § Skatteverket ska bevilja anstånd med betalning av 
 återkallelseavgift om det skulle medföra betydande 
@@ -12525,9 +13211,9 @@ Säkerhet som villkor för anstånd
 8 § Om det i de fall som avses i 4, 5, 14 eller 14 d § kan 
 antas att skatten eller avgiften inte kommer att betalas i 
 rätt tid, får anstånd beviljas bara om säkerhet ställs för 
-skattens eller avgiftens betalning. 
+skattens eller avgiftens betalning.
 
-Första stycket gäller inte om 
+Första stycket gäller inte om
 
 1. anståndsbeloppet är förhållandevis obetydligt,
 
@@ -12536,12 +13222,13 @@ behöva betalas,
 
 3. anståndet avser skattetillägg, återkallelseavgift, 
 kontoavgift, dokumentationsavgift, rapporteringsavgift, 
-plattformsavgift, rapportavgift eller kontrollavgift,
+plattformsavgift, rapportavgift, kryptoavgift eller 
+kontrollavgift,
 
 4. det allmänna ombudet hos Skatteverket har ansökt om 
-förhandsbesked, eller 
+förhandsbesked, eller
 
-5. det annars finns särskilda skäl. Lag (2024:1018).
+5. det annars finns särskilda skäl. Lag (2025:1382).
 
 När ställd säkerhet får tas i anspråk
 
@@ -12867,6 +13554,44 @@ Anstånd som är till fördel för det allmänna
 Skatteverket bevilja anstånd med betalning av skatt eller
 avgift.
 
+/Kapitlet träder i kraft I:2026-07-01/
+63 a kap. När överskjutande ingående mervärdesskatt inte ska 
+tillgodoräknas
+
+1 § Om Skatteverket har inlett en kontroll av en 
+mervärdesskatte-deklaration och det finns risk för 
+skatteundandragande, får Skatteverket besluta att den 
+överskjutande ingående mervärdesskatten inte ska tillgodo-
+räknas i avvaktan på att kontrollen slutförs.
+
+Första stycket gäller bara om den överskjutande ingående 
+mervärdesskatten uppgår till ett betydande belopp.
+
+Skatteverket får fatta ett beslut enligt första stycket utan 
+att den som beslutet gäller har fått tillfälle att yttra sig 
+över de omständigheter som ligger till grund för beslutet.
+Lag (2026:707).
+
+2 § Ett beslut om att överskjutande ingående mervärdesskatt 
+inte ska tillgodoräknas får avse högst ett belopp som 
+motsvarar den överskjutande ingående mervärdesskatt som 
+omfattas av kontrollen. Lag (2026:707).
+
+3 § Tiden för ett beslut enligt 1 § ska bestämmas till längst 
+två år efter dagen för beslutet. Om kontrollen inte kan 
+slutföras inom denna tid och det finns särskilda skäl, får 
+tiden förlängas med sex månader i taget. Lag (2026:707).
+
+4 § Om förhållandena som ligger till grund för beslutet har 
+ändrats eller om det finns särskilda skäl, ska Skatteverket 
+upphäva beslutet eller sätta ned beloppet. Lag (2026:707).
+
+5 § Om Skatteverket genom ett beslut om omprövning sätter ned 
+den redovisade överskjutande ingående mervärdesskatten, ska 
+beslutet enligt 1 § fortsätta gälla till och med förfallodagen 
+för den skatt som har fastställts enligt omprövningsbeslutet.
+Lag (2026:707).
+
 64 kap. Återbetalning av skatter och avgifter
 
 Innehåll
@@ -13159,6 +13884,18 @@ Kostnadsränta ska beräknas till och med den dag då
 anståndsbeloppet senast ska vara inbetalt.
 Lag (2019:1147).
 
+/Rubriken träder i kraft I:2026-07-01/
+Kostnadsränta vid beslut att tillfälligt inte tillgodoräkna 
+mervärdesskatt
+
+7 a § /Träder i kraft I:2026-07-01/
+Om skatt ska betalas på grund av att Skatteverket har 
+beslutat att överskjutande ingående mervärdesskatt inte ska 
+tillgodoräknas enligt 63 a kap. 1 §, ska kostnadsränta 
+beräknas från och med dagen efter den dag då den redovisade 
+skatten registrerades till och med dagen för beslutet.
+Lag (2026:707).
+
 Kostnadsränta vid omprövning och överklagande
 
 Huvudregeln
@@ -13212,18 +13949,17 @@ efter beskattningsårets utgång. Lag (2023:880).
 
 Kostnadsränta vid för sen betalning
 
-13 § Om skatt eller avgift inte betalas i rätt tid, ska
-kostnadsränta beräknas från och med dagen efter den dag då
+13 § Om skatt eller avgift inte betalas i rätt tid, ska 
+kostnadsränta beräknas från och med dagen efter den dag då 
 beloppet senast skulle ha betalats.
 
-Kostnadsränta ska beräknas efter en räntesats som motsvarar
-basräntan plus 15 procentenheter till och med den dag då ett
-beslut om att lämna beloppet till Kronofogdemyndigheten för
-indrivning eller för verkställighet av betalningssäkring
-registreras i utsöknings- och indrivningsdatabasen enligt
-lagen (2001:184) om behandling av uppgifter i
-Kronofogdemyndighetens verksamhet. Därefter beräknas
+Kostnadsränta ska beräknas efter en räntesats som motsvarar 
+basräntan plus 15 procentenheter till och med den dag då ett 
+beslut om att lämna beloppet till Kronofogdemyndigheten för 
+indrivning eller för verkställighet av betalningssäkring 
+registreras hos Kronofogdemyndigheten. Därefter beräknas 
 kostnadsräntan efter en räntesats som motsvarar basräntan.
+Förordning (2026:146).
 
 Minskning av och befrielse från kostnadsränta
 
@@ -13260,6 +13996,15 @@ av ett omprövningsbeslut eller ett beslut av domstol, ska
 intäktsränta beräknas från och med dagen efter beslutet om 
 tilläggsskatt till och med den dag då beloppet 
 tillgodoräknades. Lag (2023:880).
+
+16 c § /Träder i kraft I:2026-07-01/
+Om överskjutande ingående mervärdesskatt ska 
+tillgodoräknas på grund av att ett beslut enligt 63 a kap. 1 § 
+har upphört eller satts ned genom omprövningsbeslut eller 
+beslut av domstol, ska intäktsränta beräknas från och med 
+dagen efter den dag då den redovisade skatten registrerades 
+till och med den dag då tillgodoräknandet registreras på 
+skattekontot. Lag (2026:707).
 
 Slutlig skatt och återbetalning av preliminär A-skatt
 
@@ -13314,22 +14059,24 @@ BESLUT PÅ GRUND AV SKATTEAVTAL
 
 Innehåll
 
-1 § I detta kapitel finns bestämmelser om omprövning av
+1 § I detta kapitel finns bestämmelser om omprövning av 
 Skatteverkets beslut. Bestämmelserna ges i följande ordning:
 
-– Skatteverkets skyldighet att ompröva beslut (2–4 §§),
+- Skatteverkets skyldighet att ompröva beslut (2-4 §§ ),
 
-– särskilt kvalificerad beslutsfattare (5 §),
+- särskilt kvalificerad beslutsfattare (5 § ),
 
-– omprövning på begäran av den som beslutet gäller (6–18 §§),
+- omprövning på begäran av den som beslutet gäller (6-18 §§ ),
 
-– omprövning till fördel för den som beslutet gäller på
-initiativ av Skatteverket (19 §),
+- omprövning till fördel för den som beslutet gäller på 
+initiativ av Skatteverket (19 § ),
 
-– omprövning till nackdel för den som beslutet gäller på
-initiativ av Skatteverket (20–34 §§), och
+- omprövning till nackdel för den som beslutet gäller på 
+initiativ av Skatteverket (20-34 §§ ),
 
-– omprövning av flera redovisningsperioder (35 §).
+- omprövning av flera redovisningsperioder (35 § ), och
+
+- statligt stöd (36 § ). Lag (2025:1340).
 
 Skatteverkets skyldighet att ompröva beslut
 
@@ -13374,9 +14121,9 @@ Särskilt kvalificerad beslutsfattare
 mervärdesskatt, punktskatt, slutlig skatt, tilläggsskatt, 
 skattetillägg, återkallelseavgift, kontoavgift, 
 dokumentationsavgift, rapporteringsavgift, plattformsavgift, 
-rapportavgift eller anstånd med betalning av skatt eller 
-avgift ska omprövas av en särskilt kvalificerad beslutsfattare 
-som tidigare inte har prövat frågan, om
+rapportavgift, kryptoavgift eller anstånd med betalning av 
+skatt eller avgift ska omprövas av en särskilt kvalificerad 
+beslutsfattare som tidigare inte har prövat frågan, om
 
 1. den som beslutet gäller har begärt omprövning eller 
 överklagat och inte är ense med Skatteverket om utgången,
@@ -13389,7 +14136,7 @@ prövats vid en sådan omprövning,
 4. prövningen inte är enkel.
 
 Första stycket gäller inte den första omprövningen av ett 
-beslut enligt 53 kap. 2, 3 eller 4 §. Lag (2024:1018).
+beslut enligt 53 kap. 2, 3 eller 4 §. Lag (2025:1382).
 
 Omprövning på begäran av den som beslutet gäller
 
@@ -13409,22 +14156,22 @@ Skatteverket senast det sjätte året efter utgången av det
 kalenderår då beskattningsåret har gått ut.
 
 Begäran ska dock ha kommit in inom två månader från den dag då 
-den som beslutet gäller fick del av det om beslutet avser 
+den som beslutet gäller fick del av det om beslutet avser
 
-1. registrering, 
+1. registrering,
 
-2. på vilket sätt preliminär skatt ska betalas, 
+2. på vilket sätt preliminär skatt ska betalas,
 
 3. godkännande för tonnagebeskattning eller återkallelse av 
-godkännande för tonnagebeskattning, 
+godkännande för tonnagebeskattning,
 
-4. uppgifts- eller dokumentationsskyldighet, 
+4. uppgifts- eller dokumentationsskyldighet,
 
-5. föreläggande, 
+5. föreläggande,
 
-6. revision, tillsyn över kassaregister eller kontrollbesök, 
+6. revision, tillsyn över kassaregister eller kontrollbesök,
 
-7. tvångsåtgärder, 
+7. tvångsåtgärder,
 
 8. återkallelseavgift,
 
@@ -13434,17 +14181,20 @@ godkännande för tonnagebeskattning,
 
 11. plattformsavgift,
 
-12. kontrollavgift, 
+12. kryptoavgift,
 
-13. säkerhet för slutlig skatt för skalbolag, 
+13. kontrollavgift,
 
-14. betalning eller återbetalning av skatt eller avgift, 
+14. säkerhet för slutlig skatt för skalbolag,
 
-15. verkställighet, eller 
+15. betalning eller återbetalning av skatt eller avgift,
 
-16. avvisning av en begäran om omprövning eller ett 
-överklagande eller någon annan liknande åtgärd.
-Lag (2024:1018).
+16. verkställighet, 
+
+17. avvisning av en begäran om omprövning eller ett 
+överklagande eller någon annan liknande åtgärd, eller
+
+18. ansvar för kompletterande tilläggsskatt. Lag (2026:303).
 
 Förlängd tid för omprövning av beslut som meddelas sent
 
@@ -13585,9 +14335,14 @@ till nackdel för den som beslutet gäller.
 
 Omprövningstiden – huvudregeln
 
-21 § Ett beslut om omprövning till nackdel för den som
-beslutet gäller ska meddelas inom två år från utgången av det
-kalenderår då beskattningsåret har gått ut (tvåårsfristen).
+21 § Ett beslut om omprövning till nackdel för den som 
+beslutet gäller ska meddelas inom två år från utgången av det 
+kalenderår då beskattningsåret har gått ut (tvåårsfristen). 
+
+Om beslutet om omprövning avser ett beslut om tilläggsskatt 
+ska dock beslutet meddelas inom fyra år från utgången av det 
+kalenderår då beskattningsåret har gått ut (fyraårsfristen).
+Lag (2026:303).
 
 Förlängd omprövningstid på grund av för sen eller utebliven
 deklaration
@@ -13599,19 +14354,19 @@ ett beslut om omprövning till nackdel för den som beslutet
 gäller meddelas inom ett år från den dag då deklarationen kom 
 in till Skatteverket. Ett sådant beslut får dock bara meddelas 
 inom sex år från utgången av det kalenderår då 
-beskattningsåret har gått ut.
+beskattningsåret har gått ut. 
 
 För den som är skyldig att lämna tilläggsskattedeklaration 
 gäller första stycket om deklarationen lämnas efter utgången 
-av andra året efter det kalenderår då beskattningsåret har 
+av tredje året efter det kalenderår då beskattningsåret har 
 gått ut.
 
 Om den deklarationsskyldige inte har lämnat någon deklaration, 
 får beslutet meddelas inom sex år från utgången av det 
-kalenderår då beskattningsåret har gått ut.
+kalenderår då beskattningsåret har gått ut. 
 
 Första-tredje styckena gäller inte beslut om förseningsavgift.
-Lag (2023:880).
+Lag (2026:303).
 
 Förseningsavgift – annan utgångspunkt för omprövningstiden
 
@@ -13660,6 +14415,13 @@ utgången av det kalenderår då kontrolluppgiftsskyldigheten
 enligt 22 a och 22 b kap. skulle ha fullgjorts.
 Lag (2024:1018).
 
+Omprövning till nackdel av beslut om kryptoavgift
+
+24 e § Ett beslut om omprövning av kryptoavgift till nackdel 
+för den som beslutet gäller ska meddelas inom sex år från 
+utgången av det kalenderår då kontrolluppgiftsskyldigheten 
+enligt 22 d kap. skulle ha fullgjorts. Lag (2025:1382).
+
 Omprövning till nackdel av beslut om ersättning för kostnader
 
 25 § Ett beslut om ersättning för kostnader i ett ärende hos
@@ -13682,44 +14444,45 @@ skatt
 beslutet gäller som avser debitering av preliminär skatt ska
 meddelas inom sex månader från utgången av beskattningsåret.
 
-Efterbeskattning – omprövning till nackdel efter tvåårsfristen
+Efterbeskattning - omprövning till nackdel efter tvåårs- 
+eller fyraårsfristen
 
 27 § Ett beslut om omprövning till nackdel för den som 
 beslutet gäller av ett beslut om skatt eller avgift som avses 
 i 2 kap. 2 § får meddelas inom sex år från utgången av det 
 kalenderår då beskattningsåret har gått ut (efterbeskattning) 
-om 
+om
 
-1. ett beslut har blivit felaktigt eller inte fattats på grund 
-av att den uppgiftsskyldige 
+1. ett beslut har blivit felaktigt eller inte har fattats på 
+grund av att den uppgiftsskyldige,
 
 a) under förfarandet har lämnat oriktig uppgift till ledning 
-för egen beskattning, 
+för egen beskattning,
 
-b) har lämnat oriktig uppgift i ett mål om egen beskattning, 
+b) har lämnat oriktig uppgift i ett mål om egen beskattning,
 
 c) inte har lämnat en deklaration eller låtit bli att lämna en 
-begärd uppgift, eller 
+begärd uppgift, eller
 
-d) inte har lämnat begärt varuprov, 
+d) inte har lämnat begärt varuprov,
 
 2. en felräkning, felskrivning eller något annat uppenbart 
-förbiseende ska rättas, 
+förbiseende ska rättas,
 
 3. kontrolluppgift som ska lämnas utan föreläggande eller 
 uppgift om en betalningsmottagare som ska lämnas i en 
 arbetsgivardeklaration har saknats eller varit felaktig och 
 den som uppgiften ska lämnas för inte har varit skyldig att 
-lämna inkomstdeklaration, 
+lämna inkomstdeklaration,
 
-4. det föranleds av ett beslut i ett ärende eller mål 
+4. det föranleds av ett beslut i ett ärende eller mål
 
 a) om en annan skatt eller avgift som avses i 2 kap. 2 §, 
 eller samma skatt eller avgift som avses i 2 kap. 2 §, men för 
 en annan redovisningsperiod, ett annat beskattningsår eller en 
-annan person, 
+annan person,
 
-b) om fastighetstaxering, 
+b) om fastighetstaxering,
 
 c) om utländsk skatt eller om obligatoriska utländska 
 socialförsäkringsavgifter som avses i 62 kap. 6 § 
@@ -13732,15 +14495,19 @@ samordningsförbund,
 e) om huruvida en inkomst ska beskattas enligt 
 inkomstskattelagen eller enligt lagen (1991:586) om särskild 
 inkomstskatt för utomlands bosatta eller lagen (1991:591) om 
-särskild inkomstskatt för utomlands bosatta artister m.fl., 
+särskild inkomstskatt för utomlands bosatta artister m.fl.,
 
 f) om Skatteverkets prissättningsbesked enligt lagen 
 (2009:1289) om prissättningsbesked vid internationella 
 transaktioner eller beslut om ändring av sådant 
-prissättningsbesked, eller 
+prissättningsbesked,
 
 g) om återkallelse av godkännande för tonnagebeskattning 
-enligt 13 a kap. 10 § första stycket 2-4,
+enligt 13 a kap. 10 § första stycket 2-4, eller
+
+h) om arbetsgivaravgifter som utgjort underlag för beslut om 
+återbetalning enligt lagen (2025:1334) om återbetalning av 
+vissa avgifter till växa-företag,
 
 5. en förening eller ett registrerat trossamfund inte har 
 genomfört en investering inom den tid som föreskrivs i ett 
@@ -13748,7 +14515,7 @@ sådant beslut som avses i 7 kap. 9 § inkomstskattelagen eller
 inte har följt ett annat villkor i beslutet, eller
 
 6. det föranleds av en uppgift om skalbolag enligt 31 kap. 
-14 §. Lag (2019:954).
+14 §. Lag (2025:1340).
 
 När efterbeskattning inte får beslutas
 
@@ -13833,6 +14600,14 @@ redovisningsperioden. Beslutas omprövningen efter
 beskattningsårets utgång, får ändringen hänföras till
 beskattningsårets sista period.
 
+Statligt stöd
+
+36 § Om Skatteverket med anledning av en omprövning ska 
+offentliggöra, rapportera eller registrera stöd enligt 
+Europeiska unionens statsstödsregler ska den enskilde på 
+begäran lämna de uppgifter Skatteverket behöver för att göra 
+detta. Lag (2025:1340).
+
 67 kap. Överklagande och ändring i beslut på grund av
 skatteavtal
 
@@ -13880,7 +14655,8 @@ juridiska personen.
 
 Beslut som inte får överklagas
 
-5 § Följande beslut får inte överklagas. Beslut som avser
+5 § /Upphör att gälla U:2026-06-30/
+Följande beslut får inte överklagas. Beslut som avser
 
 1. befrielse från skyldigheten att göra skatteavdrag enligt
 10 kap. 10 § eller 13 kap. 5 § första stycket 1,
@@ -13898,6 +14674,30 @@ Beslut som inte får överklagas
 En granskningsledares beslut om bevissäkring enligt 45 kap.
 14 § första stycket eller beslut om att ta egendom i förvar
 enligt 46 kap. 16 § första stycket får inte överklagas.
+
+5 § /Träder i kraft I:2026-06-30/
+Följande beslut får inte överklagas. Beslut som avser
+
+1. befrielse från skyldigheten att göra skatteavdrag enligt 
+10 kap. 10 § eller 13 kap. 5 § första stycket 1,
+
+2. föreläggande utan vite,
+
+3. revision,
+
+4. tillsyn över kassaregister,
+
+5. kontrollbesök,
+
+6. rådrum enligt 59 kap. 15 a § och återkallelse av rådrum 
+enligt 59 kap. 15 c §, eller
+
+7. anstånd enligt 63 kap. 23 §.
+
+En granskningsledares beslut om bevissäkring enligt 45 kap. 
+14 § första stycket eller beslut om att ta egendom i förvar 
+enligt 46 kap. 16 § första stycket får inte överklagas.
+Lag (2026:561).
 
 Skatteverkets beslut överklagas till förvaltningsrätten med
 ett undantag
@@ -14023,7 +14823,7 @@ Tiden för överklagande – huvudregeln
 
 12 § Ett överklagande ska ha kommit in till Skatteverket 
 senast det sjätte året efter utgången av det kalenderår då 
-beskattningsåret har gått ut.
+beskattningsåret har gått ut. 
 
 Överklagandet ska dock ha kommit in inom två månader från den 
 dag då den som beslutet gäller fick del av det om beslutet 
@@ -14050,17 +14850,20 @@ godkännande för tonnagebeskattning,
 
 10. plattformsavgift,
 
-11. kontrollavgift,
+11. kryptoavgift, 
 
-12. säkerhet för slutlig skatt för skalbolag,
+12. kontrollavgift,
 
-13. betalning eller återbetalning av skatt eller avgift,
+13. säkerhet för slutlig skatt för skalbolag,
 
-14. verkställighet, eller
+14. betalning eller återbetalning av skatt eller avgift,
 
-15. avvisning av en begäran om omprövning eller ett 
-överklagande eller någon annan liknande åtgärd.
-Lag (2024:1018).
+15. verkställighet, 
+
+16. avvisning av en begäran om omprövning eller ett 
+överklagande eller någon annan liknande åtgärd, eller 
+
+17. ansvar för kompletterande tilläggsskatt. Lag (2026:303).
 
 Förlängd tid för överklagande av beslut som meddelas sent
 
@@ -14419,16 +15222,46 @@ Bevissäkring
 verkställigheten inte påbörjas inom en månad från dagen för
 beslutet.
 
-3 § Kronofogdemyndigheten verkställer beslut om bevissäkring
+3 § /Upphör att gälla U:2026-07-01/
+Kronofogdemyndigheten verkställer beslut om bevissäkring
 på begäran av granskningsledaren. Granskningsledaren får dock
 verkställa beslut om bevissäkring i verksamhetslokaler, om det
 kan ske obehindrat.
 
-4 § Verkställighet av beslut om bevissäkring ska genomföras så
+3 § /Träder i kraft I:2026-07-01/
+Kronofogdemyndigheten verkställer beslut om bevissäkring 
+på begäran av granskningsledaren. Granskningsledaren får dock 
+verkställa beslut om bevissäkring i verksamhetslokaler, om det 
+kan ske obehindrat.
+
+Om det kan ske obehindrat får granskningsledaren också 
+verkställa beslut om bevissäkring på distans i avläsningsbara 
+informationssystem som kan antas ha använts i verksamhet som 
+
+1. medför eller kan antas medföra bokföringsskyldighet enligt 
+bokföringslagen (1999:1078), eller 
+
+2. bedrivs av en annan juridisk person än ett dödsbo.
+Lag (2026:346).
+
+4 § /Upphör att gälla U:2026-07-01/
+Verkställighet av beslut om bevissäkring ska genomföras så
 att den inte vållar den som beslutet gäller större kostnader
 eller olägenheter än vad som är nödvändigt. Utan särskilda
 skäl får ett beslut inte verkställas mellan kl. 19.00 och kl.
 8.00.
+
+4 § /Träder i kraft I:2026-07-01/
+Verkställighet av beslut om bevissäkring ska genomföras så 
+att den inte vållar den som beslutet gäller större kostnader 
+eller olägenheter än vad som är nödvändigt. Utan särskilda 
+skäl får ett beslut inte verkställas mellan kl. 19.00 och kl. 
+8.00. 
+
+Då ett beslut om bevissäkring verkställs på en plats får ett 
+beslut om bevissäkring på distans, som har samband med det 
+förstnämnda beslutet, verkställas från samma plats.
+Lag (2026:346).
 
 Förutsättningar för verkställighet
 
@@ -14469,11 +15302,29 @@ Om en upptagning som kan uppfattas bara med tekniska
 hjälpmedel tas om hand, ska ett exemplar lämnas kvar om det är
 möjligt.
 
-9 § Tekniska hjälpmedel som finns där beslutet verkställs får
+9 § /Upphör att gälla U:2026-07-01/
+Tekniska hjälpmedel som finns där beslutet verkställs får
 användas om det är nödvändigt.
 
 Om det finns synnerliga skäl får tekniska hjälpmedel tas om
 hand.
+
+9 § /Träder i kraft I:2026-07-01/
+Tekniska hjälpmedel som finns där beslutet verkställs får 
+användas om det är nödvändigt. 
+
+Sådana hjälpmedel får också användas för att verkställa ett 
+beslut om bevissäkring på distans om beslutet enligt 4 § 
+verkställs från samma plats som ett annat beslut om 
+bevissäkring.
+
+Om det finns synnerliga skäl får tekniska hjälpmedel tas om 
+hand. Lag (2026:346).
+
+9 a § /Träder i kraft I:2026-07-01/
+Bevissäkring på distans får bara verkställas genom 
+autentisering i det avläsningsbara informationssystem som 
+åtgärden avser. Lag (2026:346).
 
 10 § Vid verkställighet som avser upptagning som kan uppfattas
 bara med tekniska hjälpmedel gäller de begränsningar som anges
@@ -14518,7 +15369,8 @@ Förvaltningsrätten eller kammarrätten får dock besluta att
 egendomen ska omfattas av betalningssäkring till dess att
 beslutet om upphävande har fått laga kraft.
 
-15 § I fråga om verkställigheten tillämpas bestämmelserna i
+15 § /Upphör att gälla U:2026-07-01/
+I fråga om verkställigheten tillämpas bestämmelserna i
 utsökningsbalken om
 
 – exekutiv myndighet m.m. i 1 kap.,
@@ -14541,6 +15393,32 @@ styckena, 24 och 25 §§, 29 § andra stycket, 31 och 33–35 §§,
 14 § första och tredje styckena samt 15 §, och
 
 – förrättningskostnader i 17 kap. 9 § första stycket.
+
+15 § /Träder i kraft I:2026-07-01/
+I fråga om verkställigheten tillämpas bestämmelserna i 
+utsökningsbalken om 
+
+- exekutiv myndighet m.m. i 1 kap., 
+
+- förfarandet hos Kronofogdemyndigheten i 2 kap.,
+
+- utmätning i 4 kap. 2-9 och 12-19 §§, 22 § första och tredje 
+styckena, 24 och 25 §§, 29 § andra stycket, 31 och 33-35 b §§,
+
+- undantag från utmätning i 5 kap.,
+
+- säkerställande av utmätning i 6 kap.,
+
+- beskrivning och värdering av utmätt fastighet m.m. i 12 kap. 
+3-5 §§,
+
+- förvaltning av utmätt fastighet i 12 kap. 6-10 §§,
+
+- verkställighet av beslut om kvarstad för fordran i 16 kap. 
+14 § första och tredje styckena samt 15 §, och
+
+- förrättningskostnader i 17 kap. 9 § första stycket.
+Lag (2026:856).
 
 Ställande av säkerhet
 
@@ -14603,12 +15481,26 @@ driva in den.
 
 Återtagande av en fordran från indrivning
 
-5 § Skatteverket ska återta en fordran på skatt eller avgift
+5 § /Upphör att gälla U:2026-07-01/
+Skatteverket ska återta en fordran på skatt eller avgift
 från indrivning om
 
 1. anstånd beviljas med betalningen, eller
 
 2. fordran sätts ned eller undanröjs.
+
+5 § /Träder i kraft I:2026-07-01/
+Skatteverket ska återta en fordran på skatt eller avgift 
+från indrivning om
+
+1. anstånd beviljas med betalningen,
+
+2. fordran har uppkommit till följd av att ett belopp inte ska 
+tillgodoräknas enligt 63 a kap. 1 § och beslutet har upphävts 
+eller ändrats, eller
+
+3. fordran sätts ned eller undanröjs.
+Lag (2026:707).
 
 När underskott som inte lämnas för indrivning ska falla bort
 
@@ -16106,3 +16998,65 @@ teknik har meddelats före ikraftträdandet.
 
 2. Äldre föreskrifter gäller fortfarande för public service-
 avgift som avser tid före ikraftträdandet.
+
+2025:1340
+
+1. Denna lag träder i kraft den 1 januari 2026.
+
+2. Bestämmelsen i 26 kap. 19 f § i den nya lydelsen tillämpas 
+första gången på arbetsgivardeklarationer som avser 
+redovisningsperioden januari 2026.
+
+3. För arbetsgivardeklarationer som avser redovisningsperioder 
+innan ikraftträdandet gäller bestämmelserna i 26 kap. 19 f § i 
+den äldre lydelsen.
+
+2025:1366
+
+1. Denna lag träder i kraft den 1 januari 2026.
+
+2. Lagen tillämpas första gången för beskattningsår som börjar 
+efter den 31 december 2025.
+
+2025:1382
+
+1. Denna lag träder i kraft den 1 januari 2026.
+
+2. Lagen tillämpas första gången för uppgifter som avser 
+kalenderåret 2026.
+
+3. Vid tillämpning av bestämmelserna i 22 d kap. avseende 
+uppgifter som avser perioder efter 2025 ska även punkt 3 i 
+ikraftträdande- och övergångsbestämmelserna till lagen 
+(2025:1377) om inhämtande av vissa uppgifter på skatteområdet 
+om kryptotillgångar beaktas om den rapporteringspliktiga 
+användaren redan hade upprättat en kundrelation med den 
+rapporteringsskyldiga leverantören av kryptotillgångstjänster 
+den 1 januari 2026.
+
+4. Trots 49 f kap. 1 § 2 kan kryptoavgift inte tas ut för 
+brister i skyldigheterna att hämta in, kontrollera och bevara 
+uppgifter avseende kalenderåret 2026 i de fall då användaren 
+redan hade upprättat en kundrelation med leverantören den 
+1 januari 2026.
+
+5. Vid tillämpning av 49 f kap. 1 § 2 ska, utöver 7 kap. lagen 
+om inhämtande av vissa uppgifter på skatteområdet om 
+kryptotillgångar, även punkt 3 i ikraftträdande- och 
+övergångsbestämmelserna beaktas och anses vara en del av 
+7 kap. den lagen.
+
+6. Vid tillämpning av 22 b kap. 5 § andra stycket 3 i den nya 
+lydelsen, och den nya 22 b kap. 8 a § på konton som öppnades 
+senast den 31 december 2025 är det rapporteringsskyldiga 
+finansiella institutet, när det gäller uppgifter som avser 
+kalenderåren 2026 och 2027, endast skyldigt att lämna 
+uppgifter i den utsträckning det har uppgifterna tillgängliga 
+i dess elektroniskt sökbara databaser.
+
+2026:115
+
+1. Denna lag träder i kraft den 1 april 2026. 
+
+2. Äldre bestämmelser gäller fortfarande för uppgifter som 
+avser tid före ikraftträdandet.
