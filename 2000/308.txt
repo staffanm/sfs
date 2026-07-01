@@ -826,39 +826,39 @@ Uppgifter om lagfart
 
 44 § Uppgifter om lagfart ska avse
 
-1. förvärvarens person- eller organisationsnummer, om sådant
-finns, och namn,
+1. förvärvarens person-, samordnings- eller 
+organisationsnummer och namn,
 
 2. datum för ansökan om lagfart och aktnummer,
 
-3. beslut som innefattar bifall till ansökan om lagfart, om
+3. beslut som innefattar bifall till ansökan om lagfart, om 
 dagen för bifall inte är densamma som dagen för ansökan,
 
-4. när ansökan om lagfart i en andel av fastigheten bifalls,
+4. när ansökan om lagfart i en andel av fastigheten bifalls, 
 uppgift om den andel som lagfarten avser,
 
 5. uppgift om förvärvets art och fångeshandlingens datum,
 
 6. uppgift om köpeskilling,
 
-7. beslut som inte innefattar bifall till lagfartsansökan
-samt, om ansökan rör endast en del av fastigheten, uppgift om
+7. beslut som inte innefattar bifall till lagfartsansökan 
+samt, om ansökan rör endast en del av fastigheten, uppgift om 
 den del av fastigheten som ansökan avser,
 
-8. uppgift om namnändring beträffande den för vilken lagfart
+8. uppgift om namnändring beträffande den för vilken lagfart 
 senast har sökts eller beviljats,
 
-9. hänvisning till ny ägares ansökan om lagfart på fastigheten
+9. hänvisning till ny ägares ansökan om lagfart på fastigheten 
 eller del av den, om ansökan inte har bifallits,
 
-10. uppgift från förvaltare enligt 11 kap. 7 § föräldrabalken
+10. uppgift från förvaltare enligt 11 kap. 7 § föräldrabalken 
 att hans eller hennes förordnande avser fastigheten, samt
 
-11. uppgift om förhållanden som avses i 19 kap. 29 § första
-stycket 3–5 och 20 kap. 14 § jordabalken samt, i fråga om
-lagfart, 19 kap. 23, 25 och 35 §§ samma balk, 13 § fjärde
-stycket jordförvärvslagen (1979:230) och 5 § andra stycket
-sambolagen (2003:376). Förordning (2011:60).
+11. uppgift om förhållanden som avses i 19 kap. 29 § första 
+stycket 3-5 och 20 kap. 14 § jordabalken samt, i fråga om 
+lagfart, 19 kap. 23, 25 och 35 §§ samma balk, 13 § fjärde 
+stycket jordförvärvslagen (1979:230) och 5 § andra stycket 
+sambolagen (2003:376). Förordning (2026:481).
 
 45 § Införs en uppgift enligt 44 § 4 om att lagfart omfattar
 endast en andel av fastigheten, ska även en uppgift om den
@@ -1071,11 +1071,13 @@ lagfarten anmärkas att den avser stamfastigheten.
 
 Namn- och adressändring
 
-53 § Lantmäteriet får föra in ett nytt namn eller en ny 
+53 § Lantmäteriet får föra in ett nytt namn, ett nytt 
+personnummer, ett nytt samordningsnummer eller en ny 
 adressuppgift i inskrivningsdelen, om
 
 1. den som senast har sökt eller beviljats lagfart eller 
-inskrivning av innehav av tomträtt byter namn eller
+inskrivning av innehav av tomträtt byter namn eller tilldelas 
+ett nytt personnummer eller samordningsnummer, eller
 
 2. ett kreditinstitut, försäkringsföretag, 
 tjänstepensionsföretag eller motsvarande utländskt företag, 
@@ -1083,9 +1085,9 @@ som i inskrivningsdelen har antecknats som innehavare av ett
 pantbrev eller vilandebevis, byter namn eller adress.
 
 En åtgärd som avses i första stycket 1 får vidtas endast om 
-det i inskrivningsdelen finns ett person- eller 
+det i inskrivningsdelen finns ett person-, samordnings- eller 
 organisationsnummer för den som åtgärden avser.
-Förordning (2019:813).
+Förordning (2026:481).
 
 Borttagande av innehavsanteckning
 
@@ -1187,15 +1189,26 @@ Taxeringsuppgiftsdelen
 
 Innehåll i taxeringsuppgiftsdelen
 
-64 § I taxeringsuppgiftsdelen ska redovisas uppgifter från Skatteverkets beskattningsverksamhet som avser
+64 § I taxeringsuppgiftsdelen ska redovisas uppgifter från 
+Skatteverkets beskattningsverksamhet som avser
 
-1. taxeringsvärden och övriga uppgifter som enligt fastighetstaxeringslagen (1979:1152) ska redovisas i beslut om fastighetstaxering, samt
+1. taxeringsvärden och övriga uppgifter som enligt 
+fastighetstaxeringslagen (1979:1152) ska redovisas i beslut om 
+fastighetstaxering, samt
 
-2. fastighetsägare eller tomträttshavare och ägare till hus på ofri grund med uppgift om person- eller organisationsnummer, namn och postadress.
+2. fastighetsägare eller tomträttshavare och ägare till hus på 
+ofri grund med uppgift om person- eller organisationsnummer, 
+namn och postadress.
 
-Uppgifter enligt första stycket ska avse förhållandena året närmast före det år då uppgiften hålls tillgänglig i fastighetsregistret.
+Uppgifter enligt första stycket ska avse förhållandena året 
+närmast före det år då uppgiften hålls tillgänglig i 
+fastighetsregistret.
 
-Taxeringsuppgiftsdelen får även innehålla uppgift enligt första stycket 1 som avser förhållandena för annat år än det år som avses i andra stycket. En sådan uppgift ska redovisas skild från uppgift enligt andra stycket och innehålla en anmärkning om det kalenderår som den avser.
+Taxeringsuppgiftsdelen får även innehålla uppgift enligt 
+första stycket 1 som avser förhållandena för annat år än det 
+år som avses i andra stycket. En sådan uppgift ska redovisas 
+skild från uppgift enligt andra stycket och innehålla en 
+anmärkning om det kalenderår som den avser.
 Förordning (2026:179).
 
 Behörighet att föra in uppgifter i taxeringsuppgiftsdelen
@@ -1272,14 +1285,21 @@ adressen,
 
 Tilläggsinformation till byggnadsdelen
 
-70 § Som tilläggsinformation till uppgifter i byggnadsdelen får
+70 § Som tilläggsinformation till uppgifter i byggnadsdelen 
+får
 
-1. en kommun redovisa uppgifter som underlättar identifiering av en byggnad, uppgifter om arrendeavtal och tomträttsavtal samt uppgifter om planerade, påbörjade eller avslutade byggåtgärder som är nödvändiga för fullgörande av underrättelseskyldighet till andra myndigheter,
+1. en kommun redovisa uppgifter som underlättar identifiering 
+av en byggnad, uppgifter om arrendeavtal och tomträttsavtal 
+samt uppgifter om planerade, påbörjade eller avslutade 
+byggåtgärder som är nödvändiga för fullgörande av 
+underrättelseskyldighet till andra myndigheter,
 
-2. Myndigheten för civilt försvar redovisa uppgifter om att skyddsrum finns i en byggnad, samt
+2. Myndigheten för civilt försvar redovisa uppgifter om att 
+skyddsrum finns i en byggnad, samt
 
-3. Riksantikvarieämbetet redovisa uppgifter som underlättar identifiering av en byggnad och uppgifter som avser kulturhistoriska inventeringar.
-Förordning (2025:1110).
+3. Riksantikvarieämbetet redovisa uppgifter som underlättar 
+identifiering av en byggnad och uppgifter som avser 
+kulturhistoriska inventeringar. Förordning (2025:1110).
 
 Gemensamma bestämmelser
 
@@ -1294,7 +1314,15 @@ inskrivningsmyndigheten ska behandlas före en uppgift från en
 lantmäterimyndighet som har lämnats till Lantmäteriet samma
 dag. Förordning (2008:687).
 
-72 § Sedan en underrättelse som avses i 74 § har kommit in, ska Lantmäteriet snarast möjligt i fastighetsregistret föra in de uppgifter som avses i 64 § första stycket och 67 §. Införandet av uppgifter från Skatteverkets beskattningsverksamhet ska med beaktande av 64 § andra stycket ske senast i samband med årsskifte. Om det med stöd av 64 § tredje stycket redovisas ytterligare uppgifter i registret, får Lantmäteriet föra in dessa vid den tidpunkt som bestäms av Lantmäteriet efter samråd med Skatteverket.
+72 § Sedan en underrättelse som avses i 74 § har kommit in, 
+ska Lantmäteriet snarast möjligt i fastighetsregistret föra in 
+de uppgifter som avses i 64 § första stycket och 67 §. 
+Införandet av uppgifter från Skatteverkets 
+beskattningsverksamhet ska med beaktande av 64 § andra stycket 
+ske senast i samband med årsskifte. Om det med stöd av 64 § 
+tredje stycket redovisas ytterligare uppgifter i registret, 
+får Lantmäteriet föra in dessa vid den tidpunkt som bestäms av 
+Lantmäteriet efter samråd med Skatteverket.
 Förordning (2026:179).
 
 Utfärdande av bevis m.m.
@@ -1307,12 +1335,20 @@ framställa och översända uppgiften. Förordning (2008:687).
 
 Underrättelse, m.m.
 
-74 § Skatteverket ska elektroniskt underrätta Lantmäteriet om de uppgifter från Skatteverkets beskattningsverksamhet som behövs för att fastighetsregistret ska kunna tillföras uppgifter enligt 64 § första stycket.
+74 § Skatteverket ska elektroniskt underrätta Lantmäteriet om 
+de uppgifter från Skatteverkets beskattningsverksamhet som 
+behövs för att fastighetsregistret ska kunna tillföras 
+uppgifter enligt 64 § första stycket.
 
-Skatteverket ska underrätta Lantmäteriet om de uppgifter från Skatteverkets folkbokföringsverksamhet och från beskattningsverksamheten som behövs för att fastighetsregistret ska kunna tillföras uppgifter enligt 53 och 67 §§.
+Skatteverket ska underrätta Lantmäteriet om de uppgifter från 
+Skatteverkets folkbokföringsverksamhet och från 
+beskattningsverksamheten som behövs för att 
+fastighetsregistret ska kunna tillföras uppgifter enligt 53 
+och 67 §§.
 
-Underrättelser enligt första och andra styckena ska lämnas vid den tidpunkt som bestäms av Skatteverket efter samråd med Lantmäteriet.
-Förordning (2026:179).
+Underrättelser enligt första och andra styckena ska lämnas vid 
+den tidpunkt som bestäms av Skatteverket efter samråd med 
+Lantmäteriet. Förordning (2026:179).
 
 75 § Lantmäterimyndigheten ska underrätta
 inskrivningsmyndigheten och Skatteverket om ändring i
@@ -1462,6 +1498,7 @@ Om det finns särskilda skäl får Lantmäteriet i det enskilda
 fallet ge dispens från bestämmelser i den här förordningen. 
 Lantmäteriet får dock inte ge dispens från bestämmelser som 
 gäller inskrivningsdelen. Förordning (2018:294).
+
 
 Övergångsbestämmelser
 
