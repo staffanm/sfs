@@ -10,18 +10,25 @@ informationsteknik och finnas tillgängligt genom ett allmänt
 nätverk. Innehållet i systemet skall vara tillgängligt på ett
 enhetligt sätt.
 
-2 § I denna förordning föreskrivs
+2 § I denna förordning finns bestämmelser om
 
-1. vilket innehåll rättsinformationssystemet skall ha (3-9 §§),
+1. vilket innehåll rättsinformationssystemet ska ha (3-9 §§ ), 
 
-2. vem som har informationsansvar (10-14 §§),
+2. vem som har informationsansvar (10-14 §§ ), 
 
-3. vem som skall samordna systemet (15-19 §§), och
+3. vem som ska samordna systemet (15-19 §§ ), 
 
-4. vilken information som skall finnas tillgänglig utan avgift
-(20 §).
+4. vilken information som ska finnas tillgänglig utan avgift 
+(20 § ), och 
 
-Dessutom finns bestämmelser om personuppgifter (21-23 §§).
+5. Sveriges deltagande i det europeiska systemet för 
+identifikation av rättspraxis (ECLI) enligt rådets slutsatser 
+om ECLI - den europeiska identifikationskoden för rättspraxis 
+- och en minimiuppsättning enhetliga metadata för rättspraxis 
+(2019/C 360/01) (6 och 15 §§ ). 
+
+Dessutom finns bestämmelser om personuppgifter (21-23 §§ ).
+Förordning (2026:851).
 
 Obligatoriskt innehåll
 
@@ -86,14 +93,17 @@ vägledande avgöranden från Högsta domstolen, Högsta
 förvaltningsdomstolen, hovrätterna, kammarrätterna, Mark- och 
 miljööverdomstolen, Patent- och marknadsöverdomstolen, 
 Migrationsöverdomstolen och Arbetsdomstolen. Domstolarna 
-prövar själva om ett avgörande är att bedöma som vägledande.
+prövar själva om ett avgörande är att bedöma som vägledande. 
 
 Av uppgifterna ska det framgå vilken fråga som har prövats. 
-Dessutom ska domstol, målnummer eller annat liknande nummer och 
-datum för avgörandet anges. Uppgifterna får kompletteras med 
-referat och avgöranden i fulltext. Sådana kompletteringar får 
-även innehålla underinstansernas avgöranden. 
-Förordning (2016:239).
+Dessutom ska domstol, målnummer eller annat liknande nummer 
+och datum för avgörandet anges. Uppgifter om 
+identifikationskod och metadata för ECLI får anges enligt vad 
+som följer av föreskrifter som har meddelats med stöd av 15 § 
+tredje stycket. Uppgifterna får också kompletteras med referat 
+och avgöranden i fulltext. Sådana kompletteringar får även 
+innehålla uppgifter om underinstansernas avgöranden.
+Förordning (2026:851).
 
 6 a § Rättsinformationssystemet ska innehålla en
 sammanställning av domstolars avgöranden enligt lagen
@@ -106,9 +116,13 @@ Uppgifterna får kompletteras med referat och avgöranden i
 fulltext. Dessutom ska domstol, diarienummer och datum för
 avgörandet anges. Förordning (2010:283).
 
-6 b § Rättsinformationssystemet ska innehålla uppgifter om en dom som meddelats av en hovrätt i en tvist som handlagts enligt lagen (2026:241) om skydd för deltagande i den offentliga debatten vid tvister med gränsöverskridande följder, under förutsättning att domen har fått laga kraft.
+6 b § Rättsinformationssystemet ska innehålla uppgifter om en 
+dom som meddelats av en hovrätt i en tvist som handlagts 
+enligt lagen (2026:241) om skydd för deltagande i den 
+offentliga debatten vid tvister med gränsöverskridande 
+följder, under förutsättning att domen har fått laga kraft.
 
-Av uppgifterna ska domen i fulltext framgå.
+Av uppgifterna ska domen i fulltext framgå. 
 Förordning (2026:242).
 
 7 § Rättsinformationssystemet skall innehålla uppgifter om
@@ -173,9 +187,14 @@ Den myndighet som har beslutat en föreskrift är ansvarig för
 att informationen är aktuell, tillförlitlig och i övrigt
 uppfyller kraven i denna förordning. Förordning (2008:1205).
 
-12 § Domstolsverket är informationsansvarig myndighet för sådan information som avses i 6–6 b §§. De domstolar som anges i 6–6 b §§ ska lämna information till verket. Domstolsverket får meddela närmare föreskrifter om vilken information som ska lämnas.
+12 § Domstolsverket är informationsansvarig myndighet för 
+sådan information som avses i 6-6 b §§. De domstolar som anges 
+i 6-6 b §§ ska lämna information till verket. Domstolsverket 
+får meddela närmare föreskrifter om vilken information som ska 
+lämnas.
 
-När det gäller sådan information som avses i 7 § är den myndighet som fattat avgörandet informationsansvarig.
+När det gäller sådan information som avses i 7 § är den 
+myndighet som fattat avgörandet informationsansvarig.
 Förordning (2026:242).
 
 13 § I de fall som avses i 9 § är det offentliga organ som
@@ -188,8 +207,19 @@ och sprids. Förordning (2000:80).
 
 Samordning
 
-15 § Domstolsverket ska vara samordningsmyndighet för
-rättsinformationssystemet. Förordning (2008:1394).
+15 § Domstolsverket ska vara samordningsmyndighet för 
+rättsinformationssystemet. 
+
+Domstolsverket ska vara nationell ECLI-samordnare enligt 
+Bilaga 1 punkt 45 i rådets slutsatser om ECLI - den europeiska 
+identifikationskoden för rättspraxis - och en 
+minimiuppsättning enhetliga metadata för rättspraxis (2019/C 
+360/01). 
+
+Domstolsverket får meddela föreskrifter om vilka domstolars 
+vägledande avgöranden som enligt 6 § andra stycket får förses 
+med uppgifter om ECLI och om utformningen av sådana uppgifter.
+Förordning (2026:851).
 
 16 § Samordningsmyndigheten skall
 
