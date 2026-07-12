@@ -1,20 +1,60 @@
-Inledande bestämmelse
+Inledande bestämmelser
 
 1 § Folkbokföring enligt denna lag innebär fastställande av en 
 persons bosättning samt registrering av de uppgifter om 
-personen som enligt lagen (2001:182) om behandling av 
-personuppgifter i Skatteverkets folkbokföringsverksamhet får 
-förekomma i folkbokföringsdatabasen.
+personen som ska registreras enligt 1 a §. 
 
 Vigsel, födelse och dödsfall i landet ska registreras även i 
 fråga om en person som inte är eller har varit folkbokförd.
 
-Folkbokföring och sådan registrering som avses i andra stycket 
-sker genom Skatteverkets försorg.
+Skatteverket ansvarar för folkbokföring och sådan registrering 
+som avses i andra stycket.
 
 Bestämmelser om samordningsnummer för den som inte är eller 
 har varit folkbokförd finns i lagen (2022:1697) om 
-samordningsnummer. Lag (2022:1698).
+samordningsnummer. Lag (2026:133).
+
+1 a § Skatteverket ska registrera följande uppgifter om en 
+person:
+
+1. personnummer,
+
+2. samordningsnummer,
+
+3. namn,
+
+4. födelsetid,
+
+5. födelsehemort,
+
+6. födelseort och födelseland,
+
+7. adress,
+
+8. folkbokföringsfastighet, lägenhetsnummer, 
+folkbokföringsort, folkbokföring under särskild rubrik och 
+distrikt,
+
+9. medborgarskap,
+
+10. civilstånd,
+
+11. make, barn, föräldrar, vårdnadshavare och någon annan 
+vuxen person än förälder eller vårdnadshavare hos vilken ett 
+barn under 18 år är bosatt,
+
+12. samband enligt 11 som är grundat på adoption,
+
+13. inflyttning från utlandet,
+
+14. avregistrering enligt 19-22 §§,
+
+15. gravsättning,
+
+16. personnummer som personen har tilldelats i ett annat 
+nordiskt land, och
+
+17. uppehållsrätt. Lag (2026:133).
 
 När folkbokföring skall ske
 
@@ -64,7 +104,8 @@ landet som sägs i första stycket.
 Undantag från första-tredje styckena finns i 4, 5 och 5 a §§.
 Lag (2024:454).
 
-4 § En utlänning som måste ha uppehållsrätt eller 
+4 § /Upphör att gälla U:2026-07-12/
+En utlänning som måste ha uppehållsrätt eller 
 uppehållstillstånd för att få vistas i Sverige, får 
 folkbokföras endast om detta villkor är uppfyllt eller om det 
 finns synnerliga skäl för att han eller hon ändå ska 
@@ -85,6 +126,35 @@ synnerliga skäl för folkbokföring.
 Av 2 § lagen (2024:691) om folkbokföring av utlänningar med 
 tillfälligt skydd i vissa fall framgår att andra stycket inte 
 gäller för den som omfattas av den lagen. Lag (2024:692).
+
+4 § /Träder i kraft I:2026-07-12/
+En utlänning som måste ha uppehållsrätt eller 
+uppehållstillstånd för att få vistas i Sverige, får 
+folkbokföras endast om detta villkor är uppfyllt eller om det 
+finns synnerliga skäl för att han eller hon ändå ska 
+folkbokföras.
+
+En utlänning som har beviljats uppehållstillstånd med 
+tillfälligt skydd, eller uppehållstillstånd efter tillfälligt 
+skydd, enligt 21 kap. 2, 3, 4 eller 6 § utlänningslagen 
+(2005:716) ska inte folkbokföras, om utlänningen kan antas 
+komma att vistas i landet med stöd av det beviljade 
+tillståndet under kortare tid än tre år. Detta gäller dock 
+inte, om utlänningen har beviljats internationellt skydd med 
+stöd av Europaparlamentets och rådets förordning 
+(EU) 2024/1347 av den 14 maj 2024 om normer för när 
+tredjelandsmedborgare eller statslösa personer ska anses 
+berättigade till internationellt skydd, för en enhetlig status 
+för flyktingar eller personer som uppfyller kraven för att 
+betecknas som subsidiärt skyddsbehövande och för innehållet i 
+det beviljade skyddet, om ändring av rådets direktiv 
+2003/109/EG och om upphävande av Europaparlamentets och rådets 
+direktiv 2011/95/EU eller om det i övrigt finns synnerliga 
+skäl för folkbokföring.
+
+Av 2 § lagen (2024:691) om folkbokföring av utlänningar med 
+tillfälligt skydd i vissa fall framgår att andra stycket inte 
+gäller för den som omfattas av den lagen. Lag (2026:1146).
 
 5 § Den som tillhör en främmande makts beskickning eller 
 lönade konsulat eller dess betjäning och omfattas av 2 eller 
@@ -510,7 +580,11 @@ Lag (2022:1280).
 lagringsmedium där fingeravtryck eller ansiktsbild är sparade, 
 ska innehavaren på begäran låta Skatteverket ta fingeravtryck 
 och ansiktsbild i digitalt format för att kontrollera att 
-dessa motsvarar dem som finns i handlingen. Lag (2022:1280).
+dessa motsvarar dem som finns i handlingen.
+
+När en kontroll enligt första stycket har genomförts, ska 
+fingeravtryck och ansiktsbilder samt de biometriska uppgifter 
+som har tagits fram omedelbart förstöras. Lag (2026:133).
 
 27 § Den som är folkbokförd och avser att flytta till
 utlandet ska anmäla detta till Skatteverket. Anmälan ska
@@ -538,7 +612,7 @@ som avses i lagen (2006:378) om lägenhetsregister, och
 5. vem som upplåtit den fastighet eller bostadslägenhet som 
 den nya bostadsadressen avser.
 
-En anmälan enligt 26 § första stycket ska dessutom innehålla 
+En anmälan enligt 26 § första stycket ska dessutom innehålla
 
 1. uppgift om födelsetid och medborgarskap,
 
@@ -548,9 +622,8 @@ vistelsen här och dess beräknade varaktighet,
 3. uppgift om personnummer som personen har tilldelats i ett 
 annat nordiskt land, och
 
-4. övriga uppgifter som får föras in i folkbokföringsdatabasen 
-enligt lagen (2001:182) om behandling av personuppgifter i 
-Skatteverkets folkbokföringsverksamhet. Lag (2022:1280).
+4. övriga uppgifter som ska registreras enligt 1 a §.
+Lag (2026:133).
 
 29 § Anmälan enligt 27 § skall innehålla följande uppgifter:
 
@@ -609,11 +682,9 @@ anmälningsskyldigheten. Skatteverket får även i annat fall
 förelägga en person att lämna de uppgifter eller visa upp de 
 handlingar som behövs för kontroll av bosättningen enligt 
 denna lag eller för kontroll eller komplettering av andra 
-uppgifter om en person som får föras in i 
-folkbokföringsdatabasen enligt lagen (2001:182) om behandling 
-av personuppgifter i Skatteverkets folkbokföringsverksamhet. I 
-föreläggandet ska det anges vilka uppgifter som ska lämnas 
-eller vilka handlingar som ska visas upp. Lag (2022:1280).
+uppgifter om en person som ska registreras enligt 1 a §. 
+I föreläggandet ska det anges vilka uppgifter som ska lämnas 
+eller vilka handlingar som ska visas upp. Lag (2026:133).
 
 32 § Skatteverket får förelägga en fastighetsägare eller
 innehavare av bostadslägenhet, som upplåter en bostad åt någon
@@ -900,3 +971,14 @@ hemvist.
 
 Denna lag träder i kraft den 1 januari 2023 i fråga om 5 § och 
 i övrigt den 1 september 2023.
+
+2026:1146
+
+1. Denna lag träder i kraft den 12 juli 2026.
+
+2. För en utlänning som har beviljats flyktingstatusförklaring 
+enligt 4 kap. 3 c § utlänningslagen (2005:716) i dess lydelse 
+före den 12 juli 2026, eller en förklaring enligt motsvarande 
+äldre bestämmelser, eller ett resedokument enligt 4 kap. 4 § 
+utlänningslagen i dess lydelse före den 12 juli 2026 gäller 
+4 § i den äldre lydelsen.
