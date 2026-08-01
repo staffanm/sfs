@@ -39,7 +39,8 @@ fråga om 1 kap. 6 §,
 
 - 3 kap. 28 § i samma lag i fråga om 3 kap. 27 §,
 
-- 4 kap. 1, 3 och 10 §§ i samma lag i fråga om 4 kap. 7 §,
+- 4 kap. 1, 3, 10 och 12 §§ i samma lag i fråga om 4 kap. 
+12 §,
 
 - 5 kap. 44 § i samma lag i fråga om 5 kap. 9 §,
 
@@ -54,6 +55,8 @@ om 7 kap. 2 §,
 
 - 9 kap. 6 § i samma lag i fråga om 9 kap. 2 §,
 
+- 9 kap. 6 a § i samma lag i fråga om 9 kap. 2 a §,
+
 - 9 kap. 11 § i samma lag i fråga om 9 kap. 3 §,
 
 - 9 kap. 29 § i samma lag i fråga om 9 kap. 12 §,
@@ -61,11 +64,11 @@ om 7 kap. 2 §,
 - 9 kap. 30 § i samma lag i fråga om 9 kap. 13 §,
 
 - 8 kap. 11 § regeringsformen i fråga om 2 kap. 2 §, 3 kap. 
-28 §, 4 kap. 8 §, 7 kap. 4 §, 8 kap. 4 §, 9 kap. 9, 11 och 
-12 §§ och 11 kap. 1 §, och
+28 §, 4 kap. 12 och 13 §§, 7 kap. 4 §, 8 kap. 4 §, 9 kap. 9, 
+11 och 12 §§ och 11 kap. 1 §, och
 
 - 8 kap. 7 § regeringsformen i fråga om övriga bestämmelser.
-Förordning (2025:1512).
+Förordning (2026:1303).
 
 3 § Ord och uttryck som används i denna förordning har samma 
 betydelse som i lagen (2022:482) om elektronisk kommunikation. 
@@ -287,16 +290,21 @@ Förbudet gäller inte sådana anläggningar som
 1. behövs i verksamhet som bedrivs av Försvarets materielverk, 
 Försvarets radioanstalt eller Försvarsmakten,
 
-2. Polismyndigheten behöver i sin bombskyddsverksamhet eller i 
+2. behövs i verksamhet som bedrivs av utländska militära 
+styrkor som befinner sig i Sverige inom ramen för 
+internationellt militärt samarbete eller internationell 
+krishantering,
+
+3. Polismyndigheten behöver i sin bombskyddsverksamhet eller i 
 sin verksamhet till skydd mot obemannade luftfartyg,
 
-3. Säkerhetspolisen behöver i sin verksamhet till skydd mot 
+4. Säkerhetspolisen behöver i sin verksamhet till skydd mot 
 obemannade luftfartyg,
 
-4. Post- och telestyrelsen eller Elsäkerhetsverket innehar i 
+5. Post- och telestyrelsen eller Elsäkerhetsverket innehar i 
 samband med utövande av marknadskontroll, eller
 
-5. Myndigheten för civilt försvar förvarar, underhåller och 
+6. Myndigheten för civilt försvar förvarar, underhåller och 
 transporterar i sin verksamhet inom ramen för Europeiska 
 unionens civila krishantering.
 
@@ -305,7 +313,7 @@ besluta att förbudet inte ska gälla för en sådan anläggning
 som behövs i en anstalt eller ett häkte inom Kriminalvården 
 för att hindra otillåten mobiltelefonkommunikation, om 
 anläggningen kan användas utan att skadlig störning uppstår 
-utanför anstalten eller häktet. Förordning (2026:309).
+utanför anstalten eller häktet. Förordning (2026:1483).
 
 Överlåtelse och uthyrning av tillstånd
 
@@ -602,23 +610,69 @@ samrådsförfarandet allmänt tillgängligt, utom när det gäller
 uppgifter för vilka sekretess eller tystnadsplikt gäller 
 enligt lag.
 
+Register över avsändarnamn för sms-meddelanden
+
+7 § Post- och telestyrelsen får med hjälp av automatiserad 
+behandling föra ett register över uppgifter om anmälda 
+avsändarnamn för sms-meddelanden. Förordning (2026:1303).
+
+8 § Post- och telestyrelsen får behandla personuppgifter i 
+registret för att föra en aktuell förteckning över anmälda 
+avsändarnamn för sms-meddelanden.
+
+Post- och telestyrelsen är personuppgiftsansvarig för 
+behandling av personuppgifter i registret.
+Förordning (2026:1303).
+
+9 § Tillhandahållare av allmänt tillgängliga nummerbaserade 
+interpersonella kommunikationstjänster ska ha direktåtkomst 
+till uppgifterna om avsändare och avsändarnamn i registret.
+Förordning (2026:1303).
+
+10 § En förteckning över registrerade avsändare och 
+avsändarnamn för sms-meddelanden ska hållas tillgänglig på 
+Post- och telestyrelsens webbplats. Förordning (2026:1303).
+
+11 § Post- och telestyrelsen ska ta ut en handläggningsavgift 
+av den som anmäler ett avsändarnamn för sms-meddelanden till 
+registret.
+
+Post- och telestyrelsen ska ta ut en årlig avgift av den som 
+har ett avsändarnamn för sms-meddelanden registrerat.
+Förordning (2026:1303).
+
 Bemyndiganden
 
-7 § Post- och telestyrelsen får meddela 
+12 § Post- och telestyrelsen får meddela
 
 1. föreskrifter om nationella nummerplaner för elektronisk 
 kommunikation och deras användning,
 
-2. föreskrifter om tilldelning av nummer, och
+2. föreskrifter om tilldelning av nummer,
 
 3. ytterligare föreskrifter om skyldighetens omfattning enligt 
 4 kap. 10 § första stycket lagen (2022:482) om elektronisk 
 kommunikation och föreskrifter om undantag från den 
-skyldigheten.
+skyldigheten,
 
-8 § Post- och telestyrelsen får meddela närmare föreskrifter 
+4. föreskrifter om vilka åtgärder som ska vidtas för att 
+fullgöra skyldigheten att avstå från att överföra ett 
+elektroniskt meddelande enligt 4 kap. 12 § första stycket i 
+samma lag,
+
+5. föreskrifter om vilka uppgifter som ska ingå i det register 
+över anmälda avsändarnamn för sms-meddelanden som avses i 7 §,
+
+6. föreskrifter om vad en anmälan till det register över 
+anmälda avsändarnamn för sms-meddelanden som avses i 7 § ska 
+innehålla, och
+
+7. föreskrifter om storleken på de avgifter som får tas ut 
+enligt 11 §. Förordning (2026:1303).
+
+13 § Post- och telestyrelsen får meddela närmare föreskrifter 
 om tillstånd att använda nummer och om ansökan om sådana 
-tillstånd.
+tillstånd. Förordning (2026:1303).
 
 5 kap. Samtrafik och andra former av tillträde
 
@@ -913,6 +967,15 @@ medger
 telefonnumret, eller
 
 2. vidarekoppling.
+
+2 a § Post- och telestyrelsen får, i fråga om behandling av 
+trafikuppgifter enligt 9 kap. 6 a § lagen (2022:482) om 
+elektronisk kommunikation, meddela föreskrifter om
+
+1. vilka uppgifter som får behandlas, och 
+
+2. hur länge uppgifterna får behandlas innan de ska utplånas. 
+Förordning (2026:1303).
 
 Behandling av uppgifter för att förmedla viktiga meddelanden 
 till allmänheten
