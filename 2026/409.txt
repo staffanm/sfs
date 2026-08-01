@@ -9,10 +9,9 @@ vapenlagen (2026:408).
 
 - Inledande bestämmelser (1 kap.)
 
-- Undantag från kravet på tillstånd för innehav (2 kap.)
+- Undantag från kravet på innehavstillstånd (2 kap.)
 
-- Ansökan om innehavstillstånd och särskilt tillstånd för 
-skjutning (3 kap.)
+- Ansökan om tillstånd för innehav och användning (3 kap.)
 
 - Enskilda personers innehav (4 kap.)
 
@@ -22,7 +21,7 @@ skjutning (3 kap.)
 
 - Enskilda personers och organisationers förvärv (7 kap.)
 
-- Vapenhandlare och vapenmäklare (8 kap.)
+- Vapentillverkare, vapenhandlare och vapenmäklare (8 kap.)
 
 - Vapenreparatörer (9 kap.)
 
@@ -35,8 +34,8 @@ skjutning (3 kap.)
 - Skjutvapen, ammunition och vapentillbehör i dödsbon och 
 konkursbon (13 kap.)
 
-- Skyldighet att kontrollera och visa upp bevis och intyg 
-(14 kap.)
+- Skyldighet att kontrollera och visa upp bevis och intyg (14 
+kap.)
 
 - Förvaring och transport (15 kap.)
 
@@ -55,6 +54,7 @@ konkursbon (13 kap.)
 - Särskilda bestämmelser (22 kap.)
 
 - Övriga bemyndiganden (23 kap.)
+Förordning (2026:1254).
 
 Ord och uttryck
 
@@ -96,12 +96,23 @@ Europaparlamentets och rådets förordning (EU) 2019/1896 av den
 och om upphävande av förordningarna (EU) nr 1052/2013 och (EU) 
 2016/1624.
 
-6 § Försvarsmakten får i enskilda fall besluta att vapenlagens 
-(2026:408) bestämmelser inte ska gälla skjutvapen, ammunition, 
-ljuddämpare och vapenmagasin som innehas av en främmande stats 
-militära styrka som befinner sig i Sverige inom ramen för 
+6 § Vapenlagen (2026:408) gäller inte skjutvapen, ammunition, 
+ljuddämpare och vapenmagasin som innehas av en utländsk 
+militär styrka som befinner sig i Sverige inom ramen för 
 internationellt militärt samarbete eller internationell 
-krishantering.
+krishantering om styrkan kommer från
+
+1. Nato,
+
+2. en stat som är medlem i Nato, eller
+
+3. en stat som är medlem i Europeiska unionen.
+
+Försvarsmakten får i enskilda fall besluta att vapenlagen inte 
+ska gälla skjutvapen, ammunition, ljuddämpare och vapenmagasin 
+som innehas av en utländsk militär styrka som befinner sig i 
+Sverige inom ramen för internationellt militärt samarbete 
+eller internationell krishantering. Förordning (2026:1484).
 
 Effektbegränsade skjutvapen
 
@@ -973,12 +984,14 @@ Bemyndiganden
 en anmälan enligt 1 eller 2 § ska göras och vilka uppgifter 
 den ska innehålla.
 
-8 kap. Vapenhandlare och vapenmäklare
+8 kap. Vapentillverkare, vapenhandlare och vapenmäklare
 
-Ansökan om vapenhandlartillstånd
+Ansökan om vapentillverkningstillstånd eller 
+vapenhandlartillstånd
 
-1 § En ansökan om vapenhandlartillstånd ska vara skriftlig. 
-Ansökan ska innehålla uppgifter om 
+1 § En ansökan om vapentillverkningstillstånd eller 
+vapenhandlartillstånd ska vara skriftlig. Ansökan ska 
+innehålla uppgifter om
 
 1. sökandens namn, person- eller organisationsnummer och 
 hemvist eller säte, 
@@ -986,7 +999,7 @@ hemvist eller säte,
 2. uppskattad omfattning av rörelsen, 
 
 3. de typer av skjutvapen och det antal av varje typ av 
-skjutvapen som ska innehas samtidigt, 
+skjutvapen som ska tillverkas eller innehas samtidigt, 
 
 4. lokalerna där verksamheten ska bedrivas, och 
 
@@ -995,19 +1008,22 @@ skjutvapen som ska innehas samtidigt,
 Om sökanden är en juridisk person ska ansökan dessutom 
 innehålla uppgifter om namn, personnummer och hemvist för de 
 fysiska personer som har ett betydande inflytande över den 
-juridiska personen.
+juridiska personen. Förordning (2026:1254).
 
-Bevis om vapenhandlartillstånd
+Bevis om vapentillverkningstillstånd eller 
+vapenhandlartillstånd
 
 2 § Polismyndigheten ska utfärda ett bevis om 
-vapenhandlartillstånd. Beviset ska innehålla 
+vapentillverkningstillstånd eller vapenhandlartillstånd. 
+Beviset ska innehålla 
 
 1. de uppgifter om tillståndshavaren som anges i 1 §,
 
-2. det antal av varje typ av skjutvapen som får innehas 
-samtidigt, och
+2. det antal av varje typ av skjutvapen som får tillverkas 
+eller innehas samtidigt, och
 
 3. den plats där rörelsen får bedrivas.
+Förordning (2026:1254).
 
 Kravet på yrkesmässighet för vapenhandlare
 
@@ -1035,6 +1051,11 @@ hemvist eller säte,
 2. uppskattad omfattning av rörelsen, och
 
 3. den utredning sökanden åberopar till stöd för sin ansökan. 
+
+Om sökanden är en juridisk person ska ansökan dessutom 
+innehålla uppgifter om namn, personnummer och hemvist för de 
+fysiska personer som har ett betydande inflytande över den 
+juridiska personen. Förordning (2026:1254).
 
 Bevis om vapenmäklartillstånd
 
@@ -1071,33 +1092,38 @@ Polismyndigheten ska underrätta uppdragsgivaren om beslutet i
 
 Startgodkännande
 
-7 § En vapenhandlares verksamhet får inte påbörjas förrän 
-Polismyndigheten har godkänt de lokaler och andra utrymmen som 
-är anordnade för förvaring av vapnen.
+7 § En vapentillverkares eller vapenhandlares verksamhet får 
+inte påbörjas förrän Polismyndigheten har godkänt de lokaler 
+och andra utrymmen som är anordnade för tillverkning eller 
+förvaring av vapnen. Förordning (2026:1254).
 
-Vapenhandlares skjutvapenförvärv
+Vapentillverkares och vapenhandlares skjutvapenförvärv
 
-8 § En vapenhandlares förvärv av skjutvapen ska föregås av en 
-skriftlig rekvisition.
+8 § En vapentillverkares eller vapenhandlares förvärv av 
+skjutvapen ska föregås av en skriftlig rekvisition.
+Förordning (2026:1254).
 
-9 § En vapenhandlare som i ett särskilt fall önskar förvärva 
-skjutvapen av någon annan än den som har rätt att tillverka 
-skjutvapen eller som har vapenhandlartillstånd ska kontrollera 
-att överlåtaren har tillstånd att inneha vapnet. 
-Vapenhandlaren ska inom en månad lämna överlåtarens bevis om 
-innehavstillstånd till Polismyndigheten.
+9 § En vapentillverkare eller vapenhandlare som i ett särskilt 
+fall önskar förvärva skjutvapen av någon annan än den som har 
+rätt att tillverka skjutvapen eller som har 
+vapenhandlartillstånd ska kontrollera att överlåtaren har 
+tillstånd att inneha vapnet. Vapentillverkaren eller 
+vapenhandlaren ska inom en månad lämna överlåtarens bevis om 
+innehavstillstånd till Polismyndigheten. 
+Förordning (2026:1254).
 
 Förteckningar
 
 Inköpsförteckning och försäljningsförteckning
 
-10 § En vapenhandlare ska föra en inköpsförteckning över 
-samtliga rekvisitioner och skjutvapen som har tagits emot för 
-försäljning för någon annans räkning. 
+10 § En vapentillverkare eller vapenhandlare ska föra en 
+inköpsförteckning över samtliga rekvisitioner och skjutvapen 
+som av något annat skäl har tagits emot i verksamheten.
 
-En vapenhandlare ska även föra anteckningar i en 
-försäljningsförteckning över samtliga skjutvapen som sålts för 
-egen eller någon annans räkning.
+En vapentillverkare eller vapenhandlare ska även föra 
+anteckningar i en försäljningsförteckning över samtliga 
+skjutvapen som sålts för egen eller någon annans räkning eller 
+av något annat skäl har lämnats ut. Förordning (2026:1254).
 
 Förmedlingsförteckning
 
@@ -1115,34 +1141,39 @@ rörelsen läggs ner, ska förteckningarna och bilagorna
 
 Anmälan om transaktioner med skjutvapen
 
-13 § En vapenhandlare ska löpande till Polismyndigheten anmäla 
-genomförda transaktioner med skjutvapen. 
+13 § En vapentillverkare eller vapenhandlare ska löpande till 
+Polismyndigheten anmäla genomförda transaktioner med 
+skjutvapen. 
 
 En vapenmäklare ska löpande till Polismyndigheten anmäla de 
 transaktioner och överföringar avseende skjutvapen som 
 vapenmäklaren har medverkat till.
 
 Anmälningarna ska göras elektroniskt snarast möjligt.
+Förordning (2026:1254).
 
 Tillsyn 
 
-Vapenhandlare
+Vapentillverkare och vapenhandlare
 
 14 § Polismyndigheten utövar tillsyn över att skjutvapen som 
-innehas av vapenhandlare förvaras på föreskrivet sätt. 
+innehas av vapentillverkare och vapenhandlare förvaras på 
+föreskrivet sätt. 
 
 Polismyndigheten ska minst en gång årligen granska 
-vapenhandlarens inköpsförteckningar och 
+vapentillverkarens och vapenhandlarens inköpsförteckningar och 
 försäljningsförteckningar med bilagor. När det finns anledning 
-till det ska Polismyndigheten även granska vapenhandlarens 
-lager av skjutvapen.
+till det ska Polismyndigheten även granska vapentillverkarens 
+och vapenhandlarens lager av skjutvapen. Förordning (2026:1254).
 
-15 § En vapenhandlare ska hålla inköpsförteckningar och 
-försäljningsförteckningar med bilagor tillgängliga för 
-Polismyndigheten. Vapenhandlaren ska till Polismyndigheten 
-lämna begärda upplysningar om inköpta och sålda vapen, 
+15 § En vapentillverkare och vapenhandlare ska hålla 
+inköpsförteckningar och försäljningsförteckningar med bilagor 
+tillgängliga för Polismyndigheten. Vapentillverkaren och 
+vapenhandlaren ska till Polismyndigheten lämna begärda 
+upplysningar om tillverkade, inköpta och sålda vapen, 
 befintligt vapenlager och andra förhållanden som är av 
-betydelse för Polismyndighetens tillsyn.
+betydelse för Polismyndighetens tillsyn. 
+Förordning (2026:1254).
 
 Vapenmäklare
 
@@ -1170,8 +1201,8 @@ Bemyndiganden
 
 19 § Polismyndigheten får meddela föreskrifter om 
 
-1. krav på kunskap för att få vapenhandlartillstånd eller 
-vapenmäklartillstånd,
+1. krav på kunskap för att få vapentillverkningstillstånd, 
+vapenhandlartillstånd eller vapenmäklartillstånd,
 
 2. innehållet i en rekvisition, 
 
@@ -1181,7 +1212,8 @@ försäljningsförteckning och förmedlingsförteckning,
 4. hur förteckningarna ska föras och vilka handlingar som ska 
 bifogas sådana förteckningar, och 
 
-5. krav på uppmärkning av vapnen i vapenhandlares lager.
+5. krav på uppmärkning av vapnen i vapentillverkares eller 
+vapenhandlares lager. Förordning (2026:1254).
 
 20 § Polismyndigheten får meddela närmare föreskrifter om hur 
 en anmälan enligt 13 § ska göras och vilka uppgifter den ska 
@@ -1871,14 +1903,15 @@ Bemyndiganden
 
 6 § Polismyndigheten får meddela föreskrifter om krav på 
 vapensamlares, målskyttesammanslutningars, museihuvudmäns, 
-vapenhandlares, vapenreparatörers och gymnasieskolors 
-förvaring av skjutvapen och på målskyttesammanslutningars 
-förvaring av ammunition eller ljuddämpare. 
+vapenhandlares, vapentillverkares, vapenreparatörers och 
+gymnasieskolors förvaring av skjutvapen och på 
+målskyttesammanslutningars förvaring av ammunition eller 
+ljuddämpare.
 
 I fråga om förvaring av ammunition som räknas till explosiva 
 varor finns bestämmelser även i lagen (2010:1011) om 
 brandfarliga och explosiva varor och i föreskrifter som 
-meddelats med stöd av den lagen.
+meddelats med stöd av den lagen. Förordning (2026:1254).
 
 7 § Polismyndigheten får meddela
 
@@ -1942,7 +1975,8 @@ Samkörning av vapenregister
 
 2 § Polismyndigheten får samköra de vapenregister som anges i 
 16 kap. 2-5 §§ vapenlagen (2026:408) om det i ett enskilt fall 
-behövs för kontroll av en vapenhandlare eller vapenmäklare.
+behövs för kontroll av en vapentillverkare, vapenhandlare 
+eller vapenmäklare.
 
 Samkörning får även göras om det behövs för att i ett enskilt 
 fall utreda brott med anknytning till vapen, om det för 
@@ -1952,6 +1986,7 @@ Detsamma gäller om samkörning behövs för att förebygga,
 förhindra eller upptäcka brottslig verksamhet, om 
 brottsligheten har anknytning till vapen och innefattar brott 
 för vilket det är föreskrivet fängelse i två år eller mer.
+Förordning (2026:1254).
 
 3 § Polismyndigheten får även samköra de vapenregister som 
 anges i 16 kap. 2-5 §§ vapenlagen (2026:408) om det behövs för 
@@ -2003,13 +2038,13 @@ vapenlagen (2026:408).
 
 1 § Till böter döms den som bryter mot bestämmelserna om
 
-1. krav för vapenhandlare och vapenmäklare enligt 8 kap. 7-10, 
-12, eller 15 §,  
+1. krav för vapentillverkare, vapenhandlare och vapenmäklare 
+enligt 8 kap. 7-10, 12, eller 15 §,
 
 2. krav för vapenreparatörer enligt 9 kap. 6 eller 8 §, eller 
 
-3. skyldighet att kunna visa upp bevis om tillstånd enligt 
-14 kap. 1 §. 
+3. skyldighet att kunna visa upp bevis om tillstånd enligt 14 
+kap. 1 §. Förordning (2026:1254).
 
 2 § Till penningböter döms den som bryter mot bestämmelserna 
 om
@@ -2080,72 +2115,72 @@ förordning i de fall som framgår av andra stycket.
 
 För ansökningsavgiftens storlek och förfarandet när en avgift 
 tas ut gäller 9-14 §§ avgiftsförordningen (1992:191) och 
-följande avgiftsklasser tillämpas:
+följande avgiftsklasser tillämpas.
 
-Ärendetyp	Avgiftsklass	
+Ärendetyp	                                Avgiftsklass	
 
-Innehavstillstånd för skjutvapen (3 kap. 1 § ), med den 
-begränsning som anges i 4 §, i fråga om 
-- första vapnet för vilket tillstånd söks 
-- varje ytterligare vapen	 
- 
-2 
-1	
+Innehavstillstånd för skjutvapen (3 kap. 1 § ), 
+med den begränsning som anges i 4 §, i fråga om 
+- första vapnet för vilket tillstånd söks               2
+- varje ytterligare vapen                               1	
 
 Innehavstillstånd för ammunition, ljuddämpare eller 
-vapenmagasin (3 kap. 10 § )	1	
+vapenmagasin (3 kap. 10 §)	                        1	
 
-Särskilt tillstånd för skjutning (3 kap. 11 § )	1
+Särskilt tillstånd för skjutning (3 kap. 11 §)	        1
 	
+Lånetillstånd (12 kap. 1 §)	                        1	
 
-Lånetillstånd (12 kap. 1 § )	1	
+Bevakningslånetillstånd (12 kap. 7 §)	                1	
 
-Bevakningslånetillstånd (12 kap. 7 § )	1	
+Tillstånd att förvara skjutvapen, ammunition 
+eller ljuddämpare hos någon annan (15 kap. 3 §)	        1	
 
-Tillstånd att förvara skjutvapen, ammunition eller ljuddämpare 
-hos någon annan (15 kap. 3 § )	1	
+Tillstånd att ändra ett skjutvapen som sökanden 
+har innehavstillstånd för eller ändring av ett 
+innehavstillstånds omfattning (3 kap. 3 §)	        1	
 
-Tillstånd att ändra ett skjutvapen som sökanden har 
-innehavstillstånd för eller ändring av ett innehavstillstånds 
-omfattning (3 kap. 3 § )	1	
+Införseltillstånd för skjutvapen, ammunition eller 
+ljuddämpare (10 kap. 1 §)                       	2	
 
-Införseltillstånd för skjutvapen, ammunition eller ljuddämpare 
-(10 kap. 1 § )	2	
-
-Tillstånd till överföring av skjutvapen eller ammunition till 
-ett annat land inom EU eller EES (11 kap. 1-5 §§ )	1
+Tillstånd till överföring av skjutvapen eller 
+ammunition till ett annat land inom EU eller 
+EES (11 kap. 1-5 §§ )	                                1
 	
-
-Utfärdande av europeiskt skjutvapenpass (6 kap. 9 § )	2
+Utfärdande av europeiskt skjutvapenpass (6 kap. 9 §)	2
 	
+Förnyande av eller införande av ytterligare skjutvapen 
+i ett europeiskt skjutvapenpass	                        1	
 
-Förnyande av eller införande av ytterligare skjutvapen i ett 
-europeiskt skjutvapenpass	1	
+Vapentillverkningstillstånd eller 
+vapenhandlartillstånd (8 kap. 1 § )	                5	
 
-Vapenhandlartillstånd (8 kap. 1 § )	5	
+Vapentillverkningstillstånd, om tillståndet avser 
+ett vapen som sökanden även ansöker om 
+innehavstillstånd för	                                2
+	
+Vapenmäklartillstånd (8 kap. 4 § )	                5	
 
-Vapenmäklartillstånd (8 kap. 4 § )	5	
+Vapenreparatörstillstånd (9 kap. 1 § )	                4	
 
-Vapenreparatörstillstånd (9 kap. 1 § )	4	
+Ändring av ett vapentillverknings-, vapenhandlar-, 
+vapenmäklar- eller vapenreparatörstillstånd	        2	
 
-Ändring av ett vapenhandlar-, vapenmäklar- eller 
-vapenreparatörstillstånd	2	
-
-Godkännande av vapenföreståndare, föreståndare eller ersättare 
-(5 kap. 3 §, 8 kap. 6 § och 9 kap. 3 § )	2	
+Godkännande av vapenföreståndare, föreståndare eller 
+ersättare (5 kap. 3 §, 8 kap. 6 § och 9 kap. 3 § )	2	
 
 Godkännande av vapenhanterare eller av person som i 
-vapenhandlares ställe får utöva uppsikt vid provskjutning 
-(5 kap. 4 § och 8 kap. 6 § )	1	
+vapenhandlares ställe får utöva uppsikt vid 
+provskjutning (5 kap. 4 § och 8 kap. 6 § )	        1	
 
-Auktorisation av sammanslutning för målskytte (5 kap. 2 § )
-	8	
+Auktorisation av sammanslutning för målskytte 
+(5 kap. 2 § )                                           8	
 
-Undantag från skyldigheten att märka ett skjutvapen eller en 
-vapendel (15 kap. 8 § vapenlagen [2026:408])	2	
+Undantag från skyldigheten att märka ett skjutvapen 
+eller en vapendel (15 kap. 8 § vapenlagen [2026:408])	2	
 
 Kontroll av och intyg om deaktivering (22 kap. 6 § )	3
-	
+Förordning (2026:1254).
 
 2 § Polismyndigheten ska ta ut avgift för utlämnande av 
 ersättningsbevis enligt 6 kap. 6 §, 10 kap. 4 § och 12 kap. 
