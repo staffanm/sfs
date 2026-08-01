@@ -1,53 +1,63 @@
 Inledande bestämmelser
 
-1 § Denna lag gäller kärnteknisk verksamhet, m.m.
+1 § Denna lag innehåller bestämmelser om kärnteknisk 
+verksamhet och kärnämneskontroll och om anmälningsskyldighet 
+för viss annan verksamhet som har anknytning till kärnteknisk 
+verksamhet. Lag (2026:1365).
 
-Med sådan verksamhet avses
+2 § I denna lag avses med
 
-1. uppförande, innehav eller drift av kärnteknisk anläggning,
+1. kärnteknisk verksamhet:
 
-2. förvärv, innehav, överlåtelse, hantering, bearbetning, transport
-av eller annan befattning med kärnämne eller kärnavfall,
+a) uppförande, innehav eller drift av en kärnteknisk 
+anläggning,
 
-3. införsel till riket av kärnämne eller kärnavfall, och
+b) förvärv, innehav, överlåtelse, hantering, bearbetning, 
+transport av eller annan befattning med kärnämnen eller 
+kärnavfall,
 
-4. utförsel ur riket av kärnavfall. Lag (1994:720).
+c) införsel till riket av kärnämnen eller kärnavfall,
 
-2 § I denna lag avses med 
+d) utförsel ur riket av kärnavfall, och
 
-1. kärnteknisk anläggning: 
+e) utvinning av kärnämnen och bearbetning för koncentration av 
+utvunna kärnämnen,
 
-a) anläggning för utvinning av kärnenergi (kärnkraftsreaktor), 
+2. kärnteknisk anläggning:
+
+a) anläggning för utvinning av kärnenergi (kärnkraftsreaktor),
 
 b) annan anläggning i vilken en självunderhållande 
-kärnreaktion kan ske, såsom forskningsreaktor, 
+kärnreaktion kan ske, såsom forskningsreaktor,
 
-c) anläggning för utvinning, framställning, hantering, 
+c) anläggning för isotopanrikning, framställning, hantering, 
 bearbetning, förvaring som avses bli bestående (slutförvaring) 
-eller annan förvaring (lagring) av kärnämne, och 
+eller annan förvaring (lagring) av kärnämnen, med undantag för 
+en anläggning där det bedrivs sådan verksamhet som avses i 
+1 e, och
 
 d) anläggning för hantering, bearbetning, lagring eller 
-slutförvaring av kärnavfall, 
+slutförvaring av kärnavfall,
 
-2. kärnämne: 
+3. kärnämne:
 
 a) uran, plutonium eller annat ämne som används eller kan 
 användas för utvinning av kärnenergi (kärnbränsle) eller 
-förening i vilken sådant ämne ingår, 
+förening i vilken ett sådant ämne ingår,
 
 b) torium eller annat ämne som är ägnat att omvandlas till 
-kärnbränsle eller förening i vilken sådant ämne ingår, och 
+kärnbränsle eller förening i vilken ett sådant ämne ingår, och
 
-c) använt kärnbränsle som inte har placerats i slutförvar, 
+c) använt kärnbränsle som inte har placerats i slutförvar,
 
-3. kärnavfall: 
+4. kärnavfall:
 
-a) använt kärnbränsle som har placerats i slutförvar, 
+a) använt kärnbränsle som har placerats i slutförvar,
 
 b) radioaktivt ämne som har bildats i en kärnteknisk 
 anläggning och som inte har framställts eller tagits ur 
 anläggningen för att användas i undervisnings- eller 
-forskningssyfte eller för medicinska, jordbruks-tekniska eller 
+forskningssyfte eller för medicinska, jordbrukstekniska eller 
 kommersiella ändamål,
 
 c) material eller annat som har tillhört en kärnteknisk 
@@ -57,28 +67,42 @@ ska användas i en sådan anläggning, och
 d) radioaktiva delar av en kärnteknisk anläggning som 
 avvecklas,
 
-4. kärnteknisk utrustning:
+5. kärnteknisk utrustning:
 
 a) utrustning eller material som särskilt har konstruerats 
 eller ställts i ordning för bearbetning, användning eller 
-framställning av kärnämne, och
+framställning av kärnämnen, och
 
 b) utrustning eller material som kan användas för 
 framställning av kärnladdningar,
 
-5. radiologisk nödsituation: en plötsligt inträffad händelse 
+6. radiologisk nödsituation: en plötsligt inträffad händelse 
 som
 
 a) inbegriper en strålkälla,
 
 b) har medfört eller kan befaras medföra skada, och
 
-c) kräver omedelbara åtgärder, och
+c) kräver omedelbara åtgärder,
 
-6. geologiskt slutförvar: en anläggning för slutförvaring som 
+7. geologiskt slutförvar: en anläggning för slutförvaring som 
 är placerad i berggrunden och som ska ge isolering från 
-biosfären av kärnavfall, kärnämne som inte ska användas på 
-nytt eller annat radioaktivt avfall. Lag (2026:587).
+biosfären av kärnavfall, kärnämnen som inte ska användas på 
+nytt eller annat radioaktivt avfall,
+
+8. Euratoms kärnämneskontrollförordning: kommissionens förord-
+ning (Euratom) 2025/974 av den 26 maj 2025 om genomförandet av 
+Euratoms kärnämneskontroll,
+
+9. kärnämneskontrollskyldig: den som omfattas av Euratoms 
+kärnämneskontrollförordning enligt artikel 1 i den 
+förordningen, och
+
+10. nationell LOF: en anläggning enligt Euratoms kärnämnes-
+kontrollförordning som vissa innehavare av små mängder 
+kärnämne kan ingå i och som uppfyller de förutsättningar som 
+framgår av artiklarna 2.29 och 37 i Euratoms 
+kärnämneskontrollförordning. Lag (2026:1365).
 
 2 a § Regeringen eller den myndighet som regeringen bestämmer får i
 fråga om kärnämne eller kärnavfall föreskriva om undantag från denna lag
@@ -402,10 +426,7 @@ av bestämmelserna i fördraget den 25 mars 1957 om
 upprättandet av Europeiska atomenergigemenskapen.
 Lag (2010:973).
 
-9 § I fråga om anordningar för kärnteknisk verksamhet som är av
-betydelse från säkerhetssynpunkt får regeringen eller den myndighet som
-regeringen bestämmer meddela föreskrifter om provning, kontroll eller
-besiktning. Lag (1990:238).
+9 § Har betecknats 10 e § genom lag (2026:1365).
 
 Stegvis kontroll
 
@@ -518,6 +539,22 @@ undantag och dispenser får endast avse kärntekniska
 anläggingar där den risk som är förenad med anläggningarna är
 liten. Lag (2010:948).
 
+10 d § Den som har tillstånd att bedriva kärnteknisk 
+verksamhet ska se till att det utförs bedömningar av om 
+anläggningar och anordningar i verksamheten överensstämmer med 
+de säkerhetskrav som följer av denna lag och föreskrifter som 
+har meddelats med stöd av lagen. Lag (2026:1365).
+
+10 e § Regeringen eller den myndighet som regeringen bestämmer 
+får meddela föreskrifter om
+
+1. sådana bedömningar av överensstämmelse som avses i 10 d §, 
+och
+
+2. vilka krav ett organ för bedömning av överensstämmelse ska 
+uppfylla när det krävs ett sådant organ enligt föreskrifter 
+som avses i 1. Lag (2026:1365).
+
 11 § Den som har tillstånd att inneha eller driva en 
 kärnkraftsreaktor ska svara för att den allsidiga forsknings- 
 och utvecklingsverksamhet bedrivs som behövs för att det som 
@@ -601,29 +638,49 @@ heterna. Lag (2020:685).
 
 Återkallelse av tillstånd
 
-15 § Ett tillstånd att bedriva kärnteknisk verksamhet kan
-återkallas av den som har meddelat tillståndet om
+15 § Ett tillstånd att bedriva kärnteknisk verksamhet får 
+återkallas av den som har meddelat tillståndet, om 
 
-1. villkor eller föreskrifter som uppställts med stöd av 8
-eller 9 § i något väsentligt avseende inte iakttas,
+1. villkor som har beslutats med stöd av 8 § inte uppfylls och 
+avvikelsen är av väsentlig betydelse från säkerhetssynpunkt,
 
-2. vad som föreskrivs i 11 eller 12 § inte iakttas och det
-föreligger synnerliga skäl från säkerhetssynpunkt,
+2. skyldigheter som anges i 11 och 12 §§ inte uppfylls och det 
+finns synnerliga skäl från säkerhetssynpunkt,
 
-3. det i annat fall föreligger synnerliga skäl från
+3. det i annat fall finns synnerliga skäl från 
 säkerhetssynpunkt, eller
 
-4. de skyldigheter som avses i 13 § i väsentlig mån åsidosätts.
-Lag (2006:648).
+4. de skyldigheter som avses i 10 d eller 13 § inte uppfylls 
+och avvikelsen är av väsentlig betydelse från 
+säkerhetssynpunkt. Lag (2026:1365).
 
 15 a § Har upphävts genom lag (2026:587).
 
+Nationell LOF
+
+15 b § Regeringen eller den myndighet som regeringen bestämmer 
+får meddela föreskrifter om förutsättningarna för att inrätta 
+en nationell LOF utöver de som följer av Euratoms 
+kärnämneskontrollförordning. Lag (2026:1365).
+
+15 c § Den som är kärnämneskontrollskyldig och som ingår i en 
+nationell LOF ska till den myndighet som regeringen bestämmer 
+lämna de uppgifter, handlingar och rapporter som enligt 
+Euratoms kärnämneskontrollförordning annars skulle ha lämnats 
+till kommissionen.
+
+Regeringen eller den myndighet som regeringen bestämmer får 
+meddela föreskrifter om undantag från kravet i första stycket 
+att lämna uppgifter, handlingar och rapporter enligt Euratoms 
+kärnämneskontrollförordning. Lag (2026:1365).
+
 Tillsyn
 
-16 § Tillsynen över efterlevnaden av denna lag och av villkor eller
-föreskrifter som meddelats med stöd av lagen samt övervakning och
-kontroll av slutförvar utövas av den myndighet som regeringen bestämmer.
-Lag (1992:1536).
+16 § Den myndighet som regeringen bestämmer har tillsyn över 
+att Euratoms kärnämneskontrollförordning, denna lag och 
+villkor eller föreskrifter som har meddelats med stöd av lagen 
+följs samt övervakar och kontrollerar slutförvar.
+Lag (2026:1365).
 
 16 a § Den som har tillstånd till en kärnteknisk verksamhet 
 ska ge tillsynsmyndigheten möjlighet till insyn i och 
@@ -632,41 +689,43 @@ som utförs av leverantörer eller deras underleverantörer
 eller av entreprenörer, underentreprenörer eller andra 
 uppdragstagare. Lag (2017:575).
 
-17 § Den som bedriver eller har tillstånd att bedriva en
+17 § Den som bedriver eller har tillstånd att bedriva en 
 kärnteknisk verksamhet, den som är anmälningsskyldig enligt 
-7 a-7 c §§ och den som tar befattning med utrustning som omfattas
-av anmälningsskyldighet enligt 7 c §, skall på begäran av
-tillsynsmyndigheten
+7 a-7 c §§, den som tar befattning med utrustning som omfattas 
+av anmälningsskyldighet enligt 7 c § och den som är 
+kärnämneskontrollskyldig ska på begäran av tillsynsmyndigheten
 
-1. lämna myndigheten de upplysningar och tillhandahålla de
-handlingar som behövs för tillsynen, och
+1. lämna de upplysningar och tillhandahålla de handlingar som 
+myndigheten behöver för tillsynen, och
 
-2. ge myndigheten tillträde till anläggning eller plats, där
-han bedriver verksamhet, för undersökningar och provtagningar,
-i den omfattning som behövs för tillsynen.
+2. ge myndigheten tillträde till en anläggning eller plats där 
+verksamhet bedrivs för undersökningar och provtagningar, i den 
+omfattning som behövs för tillsynen.
 
-En skyldighet enligt första stycket gäller i den utsträckning
-som föreskrivs av regeringen eller den myndighet som regeringen
-bestämmer även gentemot den som utsetts som övervakare av att
-de förpliktelser uppfylls som följer av Sveriges
+Regeringen eller den myndighet som regeringen bestämmer får 
+meddela föreskrifter om att en skyldighet enligt första 
+stycket även ska gälla gentemot den som utsetts som övervakare 
+av att de förpliktelser uppfylls som följer av Sveriges 
 överenskommelser i syfte att förhindra spridning av kärnvapen.
 
-Polismyndigheten skall lämna det biträde som behövs för
-tillsynen. Lag (2000:169).
+Polismyndigheten ska på begäran av tillsynsmyndigheten lämna 
+det biträde som behövs för tillsynen. Lag (2026:1365).
 
-18 § Tillsynsmyndigheten får besluta om de åtgärder som behövs samt
-meddela tillståndshavaren de förelägganden och förbud som behövs i
-enskilda fall för att denna lag eller föreskrifter eller villkor som
-har meddelats med stöd av lagen skall följas.
+18 § Tillsynsmyndigheten får besluta de förelägganden mot 
+tillståndshavaren eller den som är kärnämneskontrollskyldig 
+som behövs för att Euratoms kärnämneskontrollförordning, denna 
+lag eller föreskrifter eller villkor som har meddelats med 
+stöd av lagen ska följas.
 
-Tillsynsmyndigheten får även besluta om verkställandet av sanktioner
-enligt artikel 83.1 i fördraget den 25 mars 1957 om upprättandet av
-Europeiska atomenergigemenskapen.
+Tillsynsmyndigheten får även besluta om verkställandet av 
+sanktioner enligt artikel 83.1 i fördraget den 25 mars 1957 om 
+upprättandet av Europeiska atomenergigemenskapen.
 
-Om någon inte vidtar en åtgärd som åligger honom enligt denna lag
-eller enligt föreskrifter eller villkor som har meddelats med stöd av
-lagen eller enligt tillsynsmyndighetens föreläggande, får myndigheten
-låta vidta åtgärden på hans bekostnad. Lag (1995:875).
+Om någon inte vidtar en åtgärd som ska vidtas enligt Euratoms 
+kärnämneskontrollförordning, denna lag, föreskrifter eller 
+villkor som har meddelats med stöd av lagen eller ett 
+föreläggande av tillsynsmyndigheten, får myndigheten vidta 
+åtgärden på den åtgärdsskyldiges bekostnad. Lag (2026:1365).
 
 Offentlig insyn
 
@@ -785,68 +844,7 @@ enligt det som följer av artikel 1.1 eller 1.2 eller genom
 att vid uppgiftslämnandet lämna oriktiga eller ofullständiga
 uppgifter. Lag (2009:328).
 
-27 b § Till böter döms den som med uppsåt eller av grov
-oaktsamhet bryter mot kommissionens förordning (Euratom) nr
-302/2005 av den 8 februari 2005 om genomförandet av Euratoms
-kärnämneskontroll genom att
-
-1. uppföra eller driva en kärnteknisk anläggning utan att
-fullgöra sin skyldighet att
-
-a) redovisa en grundläggande teknisk beskrivning av
-anläggningen och eventuell malmbrytning i verksamheten enligt
-det som följer av artiklarna 3, 4 och 24.1,
-
-b) lämna uppgifter om verksamhetsprogram enligt det som
-följer av artiklarna 5 och 24.1,
-
-c) följa de särskilda kontrollbestämmelser som kommissionen
-har beslutat enligt artikel 6.1 och 6.2,
-
-d) upprätthålla ett system för bokföring och kontroll av
-kärnämne eller ge kommissionen eller kommissionens
-inspektörer tillgång till dokumentation och driftrapporter
-enligt det som följer av artiklarna 7–9, 24.2 och 30.2,
-
-e) lämna bokföringsrapporter enligt det som följer av
-artiklarna 10, 25 och 30.2,
-
-f) sända rapporter om inventarieförändringar enligt det som
-följer av artiklarna 12, 25 och 30.2 eller i en sådan rapport
-rapportera om nukleära transformationer enligt artikel 16
-eller identifiera kärnämne enligt artikel 17,
-
-g) sända rapporter om materialbalans och förteckningar över
-fysiskt inventarium enligt det som följer av artiklarna 13,
-25 och 30.2 eller i en sådan rapport eller förteckning
-identifiera kärnämne enligt artikel 17,
-
-h) lämna särskilda rapporter enligt det som följer av
-artiklarna 14, 15, 22 och 25,
-
-i) efter ett beviljat undantag från rapporteringskrav lämna
-rapporter enligt det som följer av artikel 19.3 eller 19.4
-eller lämna en begäran enligt det som följer av artikel 19.5,
-
-j) lämna in förhandsanmälan enligt det som följer av
-artiklarna 20, 21 eller 31 eller i en sådan anmälan
-identifiera kärnämne enligt artikel 17,
-
-k) lämna meddelande om ändrat datum enligt artikel 23, eller
-
-l) lämna årsrapporter om avfall enligt det som följer av
-artikel 32,
-
-2. lämna oriktiga eller ofullständiga uppgifter till
-kommissionen i underrättelser som avses i 1,
-
-3. transportera eller tillfälligt lagra kärnämne utan att
-fullgöra sin skyldighet att dokumentera detta enligt artikel
-26, eller
-
-4. i sin egenskap av mellanhand underlåta att bevara
-dokumentation om leverans av kärnämne enligt artikel 28.
-Lag (2009:328).
+27 b § Har upphävts genom lag (2026:1365).
 
 28 § Den som har åsidosatt ett vitesföreläggande eller överträtt ett
 vitesförbud döms inte till ansvar enligt denna lag för gärning som
