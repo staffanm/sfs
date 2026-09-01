@@ -1064,6 +1064,29 @@ talan av socialnämnden eller, utan särskilt yrkande, i mål om
 äktenskapsskillnad mellan föräldrarna eller i andra mål enligt
 5 §. Lag (2005:430).
 
+8 b § /Träder i kraft I:2026-07-12/
+En särskilt förordnad vårdnadshavare ska inte utses för 
+ett barn för vilket det ska utses en förmyndare enligt 
+artikel 33.1 i Europaparlamentets och rådets förordning (EU) 
+2024/1347 av den 14 maj 2024 om normer för när 
+tredjelandsmedborgare eller statslösa personer ska anses 
+berättigade till internationellt skydd, för en enhetlig status 
+för flyktingar eller personer som uppfyller kraven för att 
+betecknas som subsidiärt skyddsbehövande och för innehållet i 
+det beviljade skyddet, om ändring av rådets direktiv 
+2003/109/EG och om upphävande av Europaparlamentets och rådets 
+direktiv 2011/95/EU. Lag (2026:1143).
+
+8 c § /Träder i kraft I:2026-07-12/
+Bestämmelserna i denna balk om särskilt förordnad 
+vårdnadshavare gäller även för en sådan förmyndare som avses i 
+artikel 33.1 i Europaparlamentets och rådets förordning (EU) 
+2024/1347.
+
+I artikel 33.2 i förordningen anges vilka särskilda uppgifter 
+som en förmyndare som har utsetts enligt förordningen ska 
+utföra. Lag (2026:1143).
+
 9 § Om barnet står under vårdnad av båda föräldrarna och en av dem
 dör, skall den andra föräldern ensam ha vårdnaden. Om båda
 föräldrarna dör, skall rätten på anmälan av socialnämnden eller när
@@ -1462,6 +1485,11 @@ tidsspillan och utlägg som uppdraget krävt. Rätten beslutar om
 ersättningen. Ersättningen betalas av allmänna medel.
 Lag (2021:528).
 
+18 b § Bestämmelser om skyldigheten för medlare att vid 
+kännedom eller misstanke om att ett barn far illa genast 
+anmäla det till socialnämnden finns i 19 kap. 1 § 
+socialtjänstlagen (2025:400). Lag (2025:1490).
+
 19 § Rätten ska se till att frågor om vårdnad, boende och 
 umgänge blir tillräckligt utredda.
 
@@ -1527,6 +1555,18 @@ föräldrarna kan godkännas eller som ska lämna upplysningar
 eller utföra en utredning enligt 19 eller 20 §. Detsamma 
 gäller när uppgifterna begärs av den som socialnämnden har 
 utsett att utföra en utredning enligt 19 §. Lag (2021:528).
+
+20 c § De som är verksamma i sådana verksamheter som avses i 
+1 kap. 1 och 2 §§ skollagen (2010:800) är skyldiga att lämna 
+uppgifter som kan ha betydelse för bedömningen av en fråga om 
+vårdnad, boende eller umgänge på begäran av en socialnämnd som 
+ska lämna upplysningar eller utföra en utredning enligt 19 
+eller 20 §. Detsamma gäller när uppgifterna begärs av den som 
+socialnämnden har utsett att utföra en utredning enligt 19 §.
+
+Uppgiftsskyldighet enligt första stycket gäller inte 
+skolläkare, skolsköterskor, psykologer eller kuratorer inom 
+elevhälsan. Lag (2025:1490).
 
 21 § I mål eller ärenden om vårdnad, boende eller umgänge kan
 rätten, i samband med att den meddelar dom eller beslut i saken
@@ -2075,20 +2115,23 @@ Innan rätten meddelar beslut enligt första stycket, skall
 förmyndaren beredas tillfälle att yttra sig, om det inte är fara i
 dröjsmål. Lag (1988:1251).
 
-18 § Ansökan om förordnande eller entledigande av en förmyndare får
-göras av överförmyndaren, förmyndare, vårdnadshavare, den underårige
-själv, om han eller hon har fyllt sexton år, samt av hans eller
-hennes make eller sambo och närmaste släktingar. Frågor som avses i
-denna paragraf skall rätten också ta upp självmant, när det finns
-anledning till det.
+18 § En ansökan om att en förmyndare ska förordnas eller 
+entledigas får göras av överförmyndaren, förmyndare, 
+vårdnadshavare, den underårige själv, om han eller hon har 
+fyllt 16 år, samt av hans eller hennes sambo och 
 
-I ett ärende som avses i första stycket skall rätten ge en underårig
-som fyllt sexton år tillfälle att yttra sig, om det kan ske. Lag
-(1994:1433).
+närmaste släktingar. Rätten ska självmant ta upp en sådan 
+fråga, när det finns anledning till det.
+
+I ett ärende som avses i första stycket ska rätten ge en 
+underårig som fyllt 16 år tillfälle att yttra sig, om det kan 
+ske. Lag (2026:490).
 
 11 kap. Om god man och förvaltare
 
 Om god man
+
+God man i förmyndares ställe
 
 1 § Kan en förmyndare på grund av sjukdom eller av någon annan
 orsak inte utöva förmynderskapet eller blir förmyndaren enligt
@@ -2105,6 +2148,8 @@ statslösa personer finns bestämmelser i 4 kap. 3 § lagen
 (1904:26 s. 1) om vissa internationella rättsförhållanden
 rörande äktenskap och förmynderskap samt i lagen (2005:429) om
 god man för ensamkommande barn. Lag (2005:430).
+
+God man vid intressekonflikt
 
 2 § Har en förmyndare eller förmyndarens make eller sambo och den
 underårige del i ett oskiftat dödsbo, skall överförmyndaren förordna
@@ -2126,6 +2171,8 @@ dennes makes eller sambos intresse. Överförmyndaren skall meddela ett
 sådant förordnande, om det begärs av vårdnadshavaren, förmyndaren,
 den gode mannen eller förvaltaren eller den som denne i sådan
 egenskap företräder eller om det annars är lämpligt. Lag (1994:1433).
+
+God man för bortavarande och andra
 
 3 § Överförmyndaren skall förordna god man,
 
@@ -2171,19 +2218,45 @@ förordnad att företräda. Lag (1994:1433).
 äktenskapsbalken och 20 kap. 2 § första stycket denna balk
 skall god man förordnas av rätten. Lag (1994:1433).
 
-4 § Om någon på grund av sjukdom, psykisk störning, försvagat
-hälsotillstånd eller liknande förhållande behöver hjälp med att
-bevaka sin rätt, förvalta sin egendom eller sörja för sin person,
-skall rätten, om det behövs, besluta att anordna godmanskap för honom
-eller henne. Ett sådant beslut får inte meddelas utan samtycke av den
-för vilken godmanskap skall anordnas, om inte den enskildes tillstånd
-hindrar att hans eller hennes mening inhämtas.
+God man vid sjukdom och liknande förhållanden
 
-När rätten meddelar ett beslut enligt första stycket, skall rätten
-samtidigt förordna en god man att utföra uppdraget. Om en god man i
-något annat fall skall förordnas på grund av ett beslut enligt första
-stycket, skall förordnandet meddelas av överförmyndaren. Lag
-(1994:1433).
+4 § Om någon på grund av sjukdom, psykisk störning, försvagat 
+hälsotillstånd eller något liknande förhållande behöver hjälp 
+med sina ekonomiska eller personliga angelägenheter, ska ett 
+godmanskap anordnas för honom eller henne. Ett godmanskap ska 
+dock inte anordnas om den enskilde kan antas få sitt 
+hjälpbehov tillgodosett på ett mindre ingripande sätt. 
+
+För att ett godmanskap ska anordnas krävs att den enskilde 
+samtycker till det. Samtycke krävs dock inte om den enskildes 
+tillstånd hindrar att hans eller hennes mening hämtas in. 
+
+Ett godmanskap ska begränsas utifrån den enskildes behov.
+Lag (2026:490).
+
+4 a § En fråga om att anordna ett godmanskap enligt 4 § prövas 
+av överförmyndaren.
+
+Om den enskilde, hans eller hennes förmyndare, make eller 
+sambo eller närmaste släktingar eller en 
+framtidsfullmaktshavare motsätter sig att ett godmanskap 
+anordnas ska överförmyndaren överlämna ärendet till rätten för 
+prövning. Detsamma gäller om överförmyndaren bedömer att ett 
+godmanskap inte bör anordnas.
+
+Om en fråga enligt första stycket uppkommer i ett ärende om 
+förvaltarskap, är rätten också behörig att pröva frågan.
+Lag (2026:490).
+
+4 b § När överförmyndaren eller rätten anordnar ett godmanskap 
+enligt 4 § ska samtidigt en god man förordnas att utföra 
+uppdraget.
+
+Om en god man i något annat fall ska förordnas på grund av ett 
+godmanskap enligt 4 § görs det av överförmyndaren.
+Lag (2026:490).
+
+Den gode mannens behörighet och förhållandet till tredje man
 
 5 § En rättshandling som en god man har företagit utanför sitt
 förordnande är inte bindande för den som förordnandet avser. En
@@ -2210,6 +2283,8 @@ kunde förutsätta att den gode mannen skulle känna till. Lag
 
 Om förvaltare
 
+När ett förvaltarskap ska anordnas
+
 7 § Om någon som befinner sig i en sådan situation som anges i 4 §
 är ur stånd att vårda sig eller sin egendom, får rätten besluta att
 anordna förvaltarskap för honom eller henne. Förvaltarskap får dock
@@ -2227,7 +2302,9 @@ När rätten meddelar ett beslut enligt första stycket, skall rätten
 samtidigt förordna en förvaltare att utföra uppdraget. Om en
 förvaltare i något annat fall skall förordnas på grund av ett beslut
 enligt första stycket, skall förordnandet meddelas av
-överförmyndaren. Lag (1994:1433).
+överförmyndaren. Lag (1994:1433). 
+
+Den enskildes och förvaltarens behörighet
 
 8 § Trots ett förvaltarförordnande enligt 7 § har den som 
 avses med förordnandet rätt att själv
@@ -2272,6 +2349,8 @@ har tillfogats. Lag (1988:1251).
 
 Gemensamma bestämmelser
 
+Kompetens- och lämplighetskrav 
+
 12 § Till god man eller förvaltare ska utses en rättrådig,
 erfaren och i övrigt lämplig person. Föreslår den enskilde en
 viss person som god man eller förvaltare, ska den personen
@@ -2288,6 +2367,26 @@ behövs.
 Den som är underårig eller som själv har förvaltare får inte
 vara god man eller förvaltare. Lag (2014:886).
 
+12 a § Den som på grund av sin anställning åtar sig uppdrag 
+som god man eller förvaltare får förordnas som sådan 
+ställföreträdare, om det finns särskilda skäl.
+Lag (2026:490).
+
+12 b § /Träder i kraft I:2028-01-01/
+En person som förordnas till god man enligt 4 § eller 
+förvaltare ska genomgå en utbildning om vad ett sådant 
+ställföreträdarskap innebär. En sådan utbildning ska 
+genomföras senast inom tre månader från dagen för 
+förordnandet. Lag (2026:490).
+
+12 c § Regeringen eller den myndighet som regeringen bestämmer 
+får meddela föreskrifter om lämplighetskontrollen och om 
+utbildning för gode män och förvaltare. Föreskrifterna får 
+innehålla undantag från utbildningskravet i 12 b §.
+Lag (2026:490).
+
+Flera gode män eller förvaltare
+
 13 § När omständigheterna motiverar det, kan flera gode män eller
 förvaltare förordnas för den enskilde. Lag (1994:1433).
 
@@ -2299,22 +2398,30 @@ tillgångar att betala sin andel med, skall de övrigas
 ansvarighet för bristen bestämmas enligt samma grunder. Lag
 (1994:1433).
 
-15 § En ansökan om förordnande av god man enligt 1–4 §§ eller 
-förvaltare får göras av förmyndare, av den som ansökan avser, 
-om han eller hon har fyllt 16 år, och av hans eller hennes 
-make eller sambo och närmaste släktingar. En ansökan om 
-anordnande av godmanskap enligt 4 § eller förvaltarskap får 
-göras av dem som nu har nämnts, av en framtidsfullmaktshavare 
-och av överförmyndaren.
+Handläggningen
 
-En ansökan om anordnande av förvaltarskap får också göras av 
-en god man som avses i 4 §.
+15 § En ansökan om att förordna en god man enligt 1-3 §§, 
+eller att anordna ett godmanskap enligt 4 § eller ett 
+förvaltarskap får göras av en förmyndare, av den som ansökan 
+avser, om han eller hon har fyllt 16 år, och
 
-När det finns anledning till det ska rätten självmant ta upp 
-frågor om anordnande av godmanskap enligt 4 § eller 
-förvaltarskap. Överförmyndaren har samma skyldighet när det 
-gäller förordnande av god man eller förvaltare. 
-Lag (2017:311).
+av hans eller hennes make eller sambo och närmaste släktingar. 
+En ansökan om att anordna ett godmanskap enligt 4 § eller ett 
+förvaltarskap får också göras av en framtidsfullmaktshavare.
+
+En ansökan om att anordna ett förvaltarskap får också göras av 
+överförmyndaren eller en god man som avses i 4 §.
+Lag (2026:490).
+
+15 a § När det finns anledning till det ska överförmyndaren 
+självmant pröva en fråga om att anordna ett godmanskap enligt 
+4 § eller att förordna en god man eller förvaltare.
+
+Rätten ska, när det finns anledning till det, självmant pröva 
+en fråga om att anordna ett förvaltarskap. Om rätten i ett 
+annat fall än som avses i 4 a § tredje stycket anser att det 
+finns behov av att anordna ett godmanskap enligt 4 §, ska den 
+anmäla det till överförmyndaren. Lag (2026:490).
 
 16 § I ärenden om förordnande av god man eller förvaltare för 
 någon som har fyllt 16 år ska rätten eller överförmyndaren ge 
@@ -2342,15 +2449,39 @@ Myndigheter och inrättningar som anges i andra stycket är
 skyldiga att lämna sådana uppgifter som kan vara av betydelse 
 i ärendet. Lag (2019:838).
 
-17 § Innan rätten anordnar förvaltarskap skall den inhämta
-läkarintyg eller annan likvärdig utredning om den enskildes
-hälsotillstånd. Detta gäller även i ärenden om anordnande av
-godmanskap enligt 4 §, när den enskilde inte har lämnat sitt
-samtycke.
+16 § I ett ärende om att förordna en god man eller förvaltare 
+eller att anordna ett godmanskap enligt 4 § eller ett 
+förvaltarskap för någon som har fyllt 16 år ska den enskilde 
+ges tillfälle att yttra sig, om det kan ske.
 
-Regeringen eller den myndighet som regeringen bestämmer får meddela
-närmare föreskrifter om sådan utredning som avses i första stycket.
-Lag (1994:1433).
+I ett ärende enligt första stycket ska även den enskildes make 
+eller sambo, barn, framtidsfullmaktshavare och 
+vårdinrättningar ges tillfälle att yttra sig, om det inte är 
+obehövligt. Yttranden ska också, om det behövs, inhämtas från 
+andra närstående samt från den eller de kommunala nämnder som 
+fullgör uppgifter inom socialtjänsten och den eller de nämnder 
+som utövar regionens ledning av omsorgsverksamheten. Rätten 
+ska inhämta ett yttrande från överförmyndaren, om det inte är 
+obehövligt.
+
+Myndigheter och inrättningar som anges i andra stycket är 
+skyldiga att lämna sådana uppgifter som kan vara av betydelse 
+i ärendet. Lag (2026:490).
+
+16 a § Den som en fråga om att anordna ett godmanskap eller 
+förvaltarskap avser ska höras muntligen, om det kan ske utan 
+skada för honom eller henne och det inte är uppenbart att han 
+eller hon inte förstår vad saken gäller. Den enskilde behöver 
+dock inte höras muntligen om han eller hon själv har gjort 
+ansökan eller medgett att ett godmanskap eller förvaltarskap 
+anordnas eller det annars finns särskilda skäl.
+Lag (2026:490).
+
+17 § Innan rätten anordnar ett förvaltarskap ska den inhämta 
+läkarintyg eller annan likvärdig utredning om den enskildes 
+hälsotillstånd. Detsamma gäller överförmyndaren eller rätten i 
+ett ärende om att anordna ett godmanskap enligt 4 §, när den 
+enskilde inte har lämnat sitt samtycke. Lag (2026:490).
 
 17 a § Rätten får uppdra åt överförmyndaren att inhämta
 yttranden enligt 16 § andra stycket och utredning enligt 17 §.
@@ -2367,109 +2498,187 @@ sådant anordnande, ska vad som inhämtats ges in till rätten
 tillsammans med ansökan. Överförmyndaren ska då också lämna
 förslag på god man eller förvaltare. Lag (2014:886).
 
-18 § Kan ett slutligt beslut inte ges omedelbart i ett ärende om
-anordnande av godmanskap enligt 4 § eller förvaltarskap, får rätten
-besluta att anordna godmanskap eller förvaltarskap för tiden till dess
-ärendet slutligt avgörs, om den enskildes angelägenheter kräver
-omedelbar vård eller ett dröjsmål uppenbarligen skulle medföra fara
-för den enskildes person eller egendom. Ett sådant beslut kan
-meddelas även för den som är underårig att gälla från och med den dag
-då han eller hon fyller arton år.
+17 a § Om det hos överförmyndaren uppkommer en fråga om 
+huruvida det finns ett behov av att anordna ett förvaltarskap, 
+får överförmyndaren inhämta utredning enligt 17 §.
 
-Kan ett slutligt beslut inte ges omedelbart i ett ärende om
-förordnande av god man eller förvaltare, får överförmyndaren förordna
-god man eller förvaltare för tiden till dess ärendet slutligt avgörs,
-om ärendet brådskar av sådan anledning som anges i första stycket.
+Om överförmyndaren ansöker hos rätten om att ett förvaltarskap 
+ska anordnas, ska överförmyndaren tillsammans med ansökan ge 
+in de yttranden och den utredning som hämtats in enligt 16 och 
+17 §§. Överförmyndaren ska också lämna förslag på en 
+förvaltare. Lag (2026:490).
 
-Innan beslut enligt första eller andra stycket meddelas skall den
-som ansökningen avser ha fått tillfälle att yttra sig, om det kan ske
-utan större tidsförlust och utan skada för honom eller henne.
+17 b § Om överförmyndaren enligt 4 a § överlämnar ett ärende 
+om godmanskap till rätten, ska överförmyndaren ge in de 
+yttranden och den utredning som hämtats in enligt 16 och 
+17 §§. Överförmyndaren ska också lämna förslag på en god man, 
+om inte överförmyndaren själv bedömer att ett godmanskap inte 
+bör anordnas. Lag (2026:490).
 
-Ett beslut enligt första stycket får när som helst ändras av rätten.
-Överförmyndaren får när som helst ändra ett beslut enligt andra
-stycket. Lag (1994:1433).
+17 c § I ett ärende om att anordna ett förvaltarskap, får 
+rätten uppdra åt överförmyndaren att inhämta yttranden enligt 
+16 § andra stycket och utredning enligt 17 §. Detsamma gäller 
+i ett ärende om att anordna ett godmanskap enligt 4 § som 
+handläggs av rätten.
 
-19 § Om en god man eller förvaltare inte längre behövs, ska
-godmanskapet eller förvaltarskapet upphöra. En god man som
-har förordnats enligt 3 § 1–5 ska entledigas så snart den som
-förordnandet avser begär det. När en god man eller förvaltare
-har slutfört sitt uppdrag, ska han eller hon genast anmäla
-det till överförmyndaren.
+På begäran av rätten ska överförmyndaren lämna förslag på en 
+god man eller förvaltare, om det inte finns särskilda skäl mot 
+det. Lag (2026:490).
 
-En god man eller förvaltare har rätt att på begäran bli
-entledigad från sitt uppdrag. Om godmanskapet eller
-förvaltarskapet ska fortsätta, är den gode mannen eller
-förvaltaren dock skyldig att kvarstå till dess en ny god man
-eller förvaltare har utsetts, om inte annat föreskrivs i
-19 a §. Lag (2014:886).
+Interimistiskt beslut
 
-19 a § Skyldigheten enligt 19 § andra stycket att kvarstå som
-god man eller förvaltare gäller inte om en god man som har
-förordnats enligt 4 § eller en förvaltare har skälig orsak
-att bli entledigad innan en ny god man eller förvaltare har
+18 § Om ett slutligt beslut inte kan meddelas omedelbart i ett 
+ärende om att anordna ett godmanskap enligt 4 § eller ett 
+förvaltarskap, får rätten besluta att anordna ett godmanskap 
+eller förvaltarskap för tiden till dess ärendet slutligt 
+avgörs, om den enskildes angelägenheter kräver omedelbar vård 
+eller ett dröjsmål uppenbarligen skulle medföra fara för den 
+enskildes person eller egendom. Ett sådant beslut om att 
+anordna ett godmanskap enligt 4 § får under samma 
+förutsättningar meddelas av överförmyndaren när den är behörig 
+att besluta i frågan. Ett beslut enligt första eller andra 
+meningen får meddelas även för den som är underårig att gälla 
+från och med den dag då han eller hon fyller 18 år.
+
+Om ett slutligt beslut inte kan meddelas omedelbart i ett 
+ärende om att förordna en god man eller förvaltare, får 
+överförmyndaren förordna en god man eller förvaltare för tiden 
+till dess ärendet slutligt avgörs, under samma förutsättningar 
+som anges i första stycket.
+
+Innan ett beslut enligt första eller andra stycket meddelas 
+ska den enskilde ha fått tillfälle att yttra sig, om det kan 
+ske utan större tidsförlust och utan skada för honom eller 
+henne. Lag (2026:490).
+
+Upphörande och entledigande
+
+19 § Om en god man eller förvaltare inte längre behövs, ska 
+godmanskapet eller förvaltarskapet upphöra. Ett godmanskap 
+enligt 4 § ska också upphöra om den enskilde inte samtycker 
+till godmanskapet, om den enskildes tillstånd är sådant att 
+samtycke kan lämnas. Lag (2026:490).
+
+En god man som har förordnats enligt 3 § 1-5 ska entledigas så 
+snart den som förordnandet avser begär det. När en god man 
+eller förvaltare har slutfört sitt uppdrag, ska han eller hon 
+genast anmäla det till överförmyndaren.	
+
+En god man eller förvaltare har rätt att på begäran bli 
+entledigad från sitt uppdrag. Om godmanskapet eller 
+förvaltarskapet ska fortsätta, är den gode mannen eller 
+förvaltaren dock skyldig att kvarstå till dess en ny god man 
+eller förvaltare har utsetts, om inte annat följer av 19 a §. 
+En ny god man eller förvaltare ska förordnas så snart som 
+möjligt. Lag (2026:490).
+
+19 a § Skyldigheten enligt 19 § tredje stycket att kvarstå som 
+en god man eller förvaltare gäller inte om en god man som har 
+förordnats enligt 4 § eller en förvaltare har skälig orsak att 
+bli entledigad innan en ny god man eller förvaltare har 
 utsetts.
 
-Sker ett entledigande med stöd av första stycket, ska
-godmanskapet eller förvaltarskapet upphöra, om
-överförmyndaren har vidtagit alla rimliga åtgärder för att
-finna någon annan som är lämplig och som vill åta sig
-uppdraget. Lag (2014:886).
+Sker ett entledigande med stöd av första stycket, ska 
+godmanskapet eller förvaltarskapet upphöra, om överförmyndaren 
+har vidtagit alla rimliga åtgärder för att finna någon annan 
+som är lämplig och som vill åta sig uppdraget. Lag (2026:490).
 
-19 b § Ett beslut om att ett godmanskap enligt 4 § eller ett 
-förvaltarskap ska upphöra och ett beslut om att entlediga en 
-god man eller förvaltare med stöd av 19 a § fattas av rätten. 
-I övriga fall fattar överförmyndaren beslut om upphörande av 
-ett godmanskap och om entledigande av en god man eller 
-förvaltare. Lag (2017:311).
+19 b § Ett beslut om att ett förvaltarskap ska upphöra 
+meddelas av rätten.
 
-20 § En god man eller förvaltare som gör sig skyldig till missbruk
-eller försummelse vid utövandet av sitt uppdrag eller som kommer på
-ekonomiskt obestånd och på grund av detta är olämplig för uppdraget
-eller som av någon annan orsak inte längre är lämplig att inneha
-uppdraget, skall entledigas. Beslut om entledigande fattas av
-överförmyndaren.
+Ett beslut om att ett godmanskap ska upphöra meddelas av 
+överförmyndaren. Om någon av de som anges i 4 a § andra 
+stycket första meningen motsätter sig att ett godmanskap 
+enligt 4 § upphör ska överförmyndaren dock överlämna ärendet 
+till rätten för prövning. Detsamma gäller om överförmyndaren 
+bedömer att ett sådant godmanskap inte bör upphöra. Rätten 
+beslutar också om att ett godmanskap ska upphöra med stöd av 
+19 a § andra stycket.
 
-Uppkommer en fråga om att enligt första stycket entlediga en god man
-eller förvaltare och kan slutligt beslut inte ges omedelbart, får
-överförmyndaren besluta att den gode mannen eller förvaltaren skall
-skiljas från sitt uppdrag för tiden till dess ärendet avgörs, om
-dröjsmål skulle medföra fara för den som godmanskapet eller
-förvaltarskapet avser. Lag (1994:1433).
+Ett beslut om att entlediga en god man eller förvaltare med 
+stöd av 19 a § första stycket meddelas av rätten. I övriga 
+fall beslutar överförmyndaren om entledigande av en god man 
+eller förvaltare. Lag (2026:490).
 
-21 § Ansökan om entledigande av en god man eller förvaltare och om
-upphörande av godmanskap eller förvaltarskap får göras av någon av
-dem som avses i 15 § första stycket eller av den gode mannen eller
-förvaltaren.
+19 c § I ett ärende om att ett förvaltarskap ska upphöra, får 
+rätten uppdra åt överförmyndaren att inhämta yttranden enligt 
+16 § andra stycket och utredning enligt 17 §. Detsamma gäller 
+i ett ärende om upphörande av ett godmanskap enligt 4 § som 
+handläggs av rätten. Lag (2026:490).
 
-Rätten eller överförmyndaren får också självmant ta upp frågor
-som avses i första stycket och som de är behöriga att avgöra.
+20 § En god man eller förvaltare som gör sig skyldig till 
+missbruk eller försummelse vid utövandet av sitt uppdrag eller 
+som kommer på ekonomiskt obestånd och på grund av detta är 
+olämplig för uppdraget eller som av någon annan orsak inte 
+längre är lämplig att inneha uppdraget, ska entledigas.
 
-I ett ärende enligt denna paragraf skall rätten eller
-överförmyndaren ge den enskilde tillfälle att yttra sig, om det kan
-ske. Lag (1994:1433).
+Uppkommer en fråga om att enligt första stycket entlediga en 
+god man eller förvaltare och kan ett slutligt beslut inte 
+meddelas omedelbart, får överförmyndaren besluta att den gode 
+mannen eller förvaltaren ska skiljas från sitt uppdrag för 
+tiden till dess ärendet avgörs, om ett dröjsmål skulle medföra 
+fara för den som godmanskapet eller förvaltarskapet avser.
+Lag (2026:490).
+
+21 § En ansökan om entledigande av en god man eller förvaltare 
+och om upphörande av ett godmanskap eller förvaltarskap får 
+göras av någon av de som avses i 15 § första stycket, eller av 
+den gode mannen eller förvaltaren. En ansökan om upphörande av 
+ett förvaltarskap får också göras av överförmyndaren.
+
+Rätten eller överförmyndaren får också självmant ta upp en 
+fråga som avses i första stycket och som de enligt 19 b § är 
+behöriga att avgöra.
+
+I ett ärende enligt denna paragraf ska rätten eller 
+överförmyndaren ge den enskilde tillfälle att yttra sig, om 
+det kan ske. Lag (2026:490).
 
 22 § Dör en god man eller förvaltare, skall den som har boet i sin
 vård utan dröjsmål anmäla förhållandet till den överförmyndare som
 har tillsyn över godmanskapet eller förvaltarskapet. Lag (1994:1433).
 
-23 § Rätten är skyldig att pröva om omfattningen av ett godmanskap
-enligt 4 § eller ett förvaltarskap bör jämkas, om någon av dem som
-anges i 15 § första stycket eller den gode mannen eller förvaltaren
-ansöker om det. Rätten kan också utan ansökan göra en sådan prövning.
+Ändring av ett godmanskap eller förvaltarskap
 
-Innan rätten meddelar beslut enligt första stycket, skall den gode
-mannen eller förvaltaren samt överförmyndaren och den enskilde ges
-tillfälle att yttra sig.
+23 § Rätten ska pröva om omfattningen av ett förvaltarskap bör 
+ändras om någon av de som anges i 15 § första stycket, 
+överförmyndaren eller förvaltaren ansöker om det. Rätten får 
+också utan ansökan göra en sådan prövning.
 
-Kan ett slutligt beslut inte ges omedelbart, får rätten meddela
-beslut i frågan för tiden till dess ärendet avgörs, om dröjsmål
-skulle medföra fara för den enskilde. I fråga om ett sådant beslut
-tillämpas bestämmelserna i 18 § tredje och fjärde styckena.
+Överförmyndaren ska pröva om omfattningen av ett godmanskap 
+bör ändras, om någon av de som anges i 15 § första stycket 
+eller den gode mannen ansöker om det. Överförmyndaren får 
+också utan ansökan göra en sådan prövning. I fråga om ett 
+godmanskap enligt 4 § ska överförmyndaren dock överlämna 
+ärendet till rätten för prövning om någon av de som anges i 
+4 a § andra stycket första meningen motsätter sig att 
+godmanskapet ändras. Detsamma gäller om överförmyndaren 
+bedömer att ett godmanskap inte bör ändras.
 
-I fråga om godmanskap enligt 1-3 §§ skall överförmyndaren pröva om
-godmanskapets omfattning bör jämkas. Bestämmelserna i första tredje
-styckena skall också tillämpas vid handläggningen hos överförmyndaren
-av frågor om sådan jämkning. Lag (1994:1433).
+Om en fråga enligt andra stycket uppkommer i ett ärende om 
+förvaltarskap, är rätten också behörig att pröva frågan.
+Lag (2026:490).
+
+23 a § Innan rätten eller överförmyndaren meddelar ett beslut 
+enligt 23 §, ska den gode mannen eller förvaltaren ges 
+tillfälle att yttra sig. Detsamma gäller för den enskilde, om 
+det kan ske. Rätten ska även ge överförmyndaren tillfälle att 
+yttra sig.
+
+Kan ett slutligt beslut inte meddelas omedelbart, får rätten 
+eller överförmyndaren, om överförmyndaren är behörig att 
+besluta i ärendet, besluta i frågan för tiden till dess 
+ärendet avgörs, om ett dröjsmål skulle medföra fara för den 
+enskildes person eller egendom. I fråga om ett sådant beslut 
+tillämpas 18 § tredje stycket.
+
+I ett ärende om att ett förvaltarskap ska ändras, får rätten 
+uppdra åt överförmyndaren att inhämta yttranden enligt 16 § 
+andra stycket och utredning enligt 17 §. Detsamma gäller i ett 
+ärende om att ändra ett godmanskap enligt 4 § som handläggs av 
+rätten. Lag (2026:490).
+
+Ställföreträdarens yttrande
 
 24 § Innan rätten eller överförmyndaren förordnar någon till god man
 eller förvaltare eller entledigar någon från ett sådant uppdrag,
@@ -2477,6 +2686,8 @@ skall han eller hon ges tillfälle att yttra sig. Är det fråga om
 beslut enligt 20 § andra stycket, skall den gode mannen eller
 förvaltaren ges tillfälle att yttra sig, om det inte är fara i
 dröjsmål. Lag (1994:1433).
+
+Behörig överförmyndare och domstol
 
 25 § Behörig domstol i frågor som gäller godmanskap enligt 4 §
 eller förvaltarskap är tingsrätten i den ort där den enskilde
@@ -2508,10 +2719,13 @@ eller där annars behov av god man har visat sig.
 Andra frågor som gäller godmanskap enligt 3 § tas upp av den
 överförmyndare som har förordnat god man. Lag (1994:1433).
 
-27 § Rätten skall genast kungöra beslut om anordnande eller
-upphörande av förvaltarskap i Post- och Inrikes Tidningar. Sådan
-kungörelse skall också ske av beslut om jämkning av förvaltarskaps
-omfattning enligt 23 §. Lag (1994:1433).
+Kungörelse
+
+27 § Rätten ska genast kungöra ett beslut om anordnande eller 
+upphörande av ett förvaltarskap i Post- och Inrikes Tidningar. 
+En sådan kungörelse ska också ske av beslut om ändring av ett 
+förvaltarskaps omfattning enligt 23 § första stycket eller 23 
+a § andra stycket. Lag (2026:490).
 
 12 kap. Allmänna bestämmelser om förmyndares, gode mäns och
 förvaltares verksamhet
@@ -2539,38 +2753,41 @@ enligt lag ska göras av någon annan. Lag (2022:1747).
 
 Gode mäns och förvaltares skyldigheter
 
-2 § Gode män och förvaltare ska, i den utsträckning det 
-följer av deras förordnande, bevaka rätten för de personer 
-som de företräder, förvalta deras tillgångar och sörja för 
-deras person.
+2 § Gode män och förvaltare ska, i den utsträckning det följer 
+av deras förordnande, se till att den enskildes intressen i 
+ekonomiska och personliga angelägenheter tas om hand och 
+bevaka den enskildes rätt i dessa angelägenheter.
 
 Även om det inte framgår av förordnandet, omfattar den gode 
 mannens eller förvaltarens uppdrag inte sådana tillgångar som 
 har ställts under särskild förvaltning. Är särskild 
-förvaltning anordnad, ska den som utövar förvaltningen 
-årligen lämna redovisning över förvaltningen till den gode 
-mannen eller förvaltaren, om det faller inom ramen för den 
-gode mannens eller förvaltarens uppdrag att ta emot en sådan 
+förvaltning anordnad, ska den som utövar förvaltningen årligen 
+lämna en redovisning över förvaltningen till den gode mannen 
+eller förvaltaren, om det faller inom ramen för den gode 
+mannens eller förvaltarens uppdrag att ta emot en sådan 
 redovisning.
 
 Gode män och förvaltare är inte behöriga att företräda den 
 enskilde i frågor om att ingå äktenskap, bekräfta faderskap, 
 upprätta testamente eller liknande frågor av utpräglat 
-personlig karaktär. Lag (2017:311).
+personlig karaktär. Lag (2026:490).
 
 Gemensamma bestämmelser
 
-3 § Förmyndare, gode män och förvaltare skall omsorgsfullt fullgöra
-sina skyldigheter och alltid handla på det sätt som bäst gagnar den
-enskilde. Lag (1994:1433).
+3 § Förmyndare, gode män och förvaltare ska omsorgsfullt 
+fullgöra sina skyldigheter. De ska beakta den enskildes vilja 
+eller förmodade inställning när uppdraget utförs och alltid 
+handla på det sätt som bäst gagnar den enskilde.
+Lag (2026:490).
 
-4 § Den enskildes medel skall i skälig omfattning användas för hans
-eller hennes uppehälle, utbildning och nytta i övrigt. De medel som
-inte används för sådana ändamål skall placeras så att tillräcklig
-trygghet finns för deras bestånd och så att de ger skälig avkastning.
+4 § Den enskildes medel ska i skälig omfattning användas för 
+hans eller hennes uppehälle, utbildning samt nytta och 
+välbefinnande i övrigt. De medel som inte används för sådana 
+ändamål ska placeras tryggt och så att de ger skälig 
+avkastning.
 
-Närmare bestämmelser om hur förvaltningen skall skötas finns i 13-15
-kap. Lag (1994:1433).
+Närmare bestämmelser om hur förvaltningen ska skötas finns i 
+13-15 kap. Lag (2026:490).
 
 5 § Förmyndare, gode män och förvaltare skall fortlöpande föra
 räkenskaper över sin förvaltning och göra anteckningar om sina
@@ -2597,6 +2814,13 @@ förhållande till den enskilde samt den enskildes make eller
 sambo. Om betydelsen av samtycke i vissa fall från den som
 har god man finns bestämmelser i 11 kap. 5 §. Lag (2014:377).
 
+7 a § Gode män och förvaltare ska löpande hålla den enskilde 
+informerad om uppdraget, om det inte finns särskilda skäl mot 
+det.
+
+Förordnade förmyndare har motsvarande skyldighet i förhållande 
+till omyndiga som har fyllt 16 år. Lag (2026:490).
+
 8 § Uppstår fråga om rättshandling eller rättegång mellan en omyndig
 och förmyndaren, förmyndarens make eller sambo eller någon som
 förmyndaren företräder, har förmyndaren inte rätt att företräda den
@@ -2616,12 +2840,24 @@ fråga om återbärings- och ersättningsskyldighet. Lag (1994:1433).
 
 Överförmyndarens tillsyn
 
-9 § Förmyndares, gode mäns och förvaltares verksamhet står under
-överförmyndarens tillsyn.
+9 § Förmyndares, gode mäns och förvaltares verksamhet står 
+under överförmyndarens tillsyn.
 
-Förmyndare, gode män och förvaltare är skyldiga att lämna
-överförmyndaren de upplysningar om sin verksamhet som överförmyndaren
-begär. Lag (1994:1433).
+Förmyndare, gode män och förvaltare är skyldiga att lämna 
+överförmyndaren de handlingar och upplysningar om sin 
+verksamhet som överförmyndaren begär. Lag (2026:490).
+
+9 a § Förordnade förmyndare, gode män och förvaltare ska före 
+den 1 mars varje år i en årsberättelse till överförmyndaren 
+redogöra för utförandet av uppdraget under föregående år.
+
+Om uppdraget har upphört, ska den avgående ställföreträdaren 
+inom en månad från det att uppdraget upphörde lämna en 
+slutberättelse för det löpande året fram till dess att 
+ställföreträdarskapet upphörde.
+
+Det som sägs i 14 kap. 19 och 20 §§ gäller även i fråga om 
+årsberättelser och slutberättelser. Lag (2026:490).
 
 Avtal utan överförmyndarens samtycke
 
@@ -2694,32 +2930,39 @@ Lag (2008:910).
 
 Arvode och ersättning för utgifter
 
-16 § Förordnade förmyndare, gode män och förvaltare har
-rätt till ett skäligt arvode för uppdraget och
-ersättning för de utgifter som har varit skäligen
-påkallade för uppdragets fullgörande.
+16 § Förordnade förmyndare, gode män och förvaltare har rätt 
+till ett skäligt arvode för uppdraget och ersättning för de 
+utgifter som har varit skäligen motiverade för att fullgöra 
+uppdraget.
 
-Beslut om arvode och ersättning för utgifter fattas av
-överförmyndaren. Överförmyndaren bestämmer dessutom i vad
-mån arvode och ersättning för utgifter ska betalas med
-medel som tillhör den enskilde.
+Ersättning för utgifter som varit skäligen motiverade får utan 
+att ställföreträdaren visar underlag beviljas med ett belopp 
+som per år motsvarar högst två procent av prisbasbeloppet 
+enligt 2 kap. 6 och 7 §§ socialförsäkringsbalken. 
+Lag (2026:490).
 
-Om det inte finns särskilda skäl för något annat, ska
-arvode och ersättning för utgifter, inklusive de avgifter
-och skatter som utgår på dem, betalas med den enskildes
-medel i den mån hans eller hennes beräknade inkomst under
-det år när uppdraget utförs överstiger 2,65 gånger
-prisbasbeloppet enligt 2 kap. 6 och 7 §§
-socialförsäkringsbalken eller hans eller hennes tillgångar
-under samma år överstiger två gånger prisbasbeloppet.
+16 a § Arvode och ersättning för utgifter, inklusive de 
+avgifter och skatter som utgår på dem, ska betalas med den 
+enskildes medel i den utsträckning som hans eller hennes 
+beräknade inkomst under det år uppdraget utförs överstiger 
+2,65 gånger prisbasbeloppet enligt 2 kap. 6 och 7 §§ social-
+försäkringsbalken eller hans eller hennes tillgångar under 
+samma år överstiger två gånger prisbasbeloppet. Detta gäller 
+dock inte om det finns särskilda skäl för något annat.
 
-Arvode och ersättning för utgifter som avser vård av någons
-rätt i oskiftat dödsbo ska betalas med dödsboets medel, om
-inte särskilda skäl föranleder något annat.
+Arvode och ersättning för utgifter som avser vård av någons 
+rätt i oskiftat dödsbo ska betalas med dödsboets medel, om det 
+inte finns särskilda skäl för något annat.
 
-Arvode och ersättning för utgifter som inte ska betalas med
-den enskildes eller dödsboets medel ska betalas av
-kommunen. Lag (2010:1203).
+Arvode och ersättning för utgifter som inte ska betalas med 
+den enskildes eller dödsboets medel ska betalas av kommunen.
+Lag (2026:490).
+
+16 b § Överförmyndaren beslutar om arvode och ersättning för 
+utgifter till förordnade förmyndare, gode män och förvaltare. 
+Överförmyndaren bestämmer dessutom i vilken utsträckning 
+arvode och ersättning för utgifter ska betalas med medel som 
+tillhör den enskilde. Lag (2026:490).
 
 17 § Föräldrar som är förmyndare har, om det finns särskilda skäl,
 rätt till arvode med anledning av förvaltningen av den omyndiges
@@ -3110,11 +3353,11 @@ förordnad förmyndare, god man eller förvaltare.
 I fråga om bevakning av någons rätt i dödsbo eller annat oskiftat bo
 gäller bestämmelserna i 15 kap. Lag (1994:1433).
 
-2 § Har rätten beslutat att utvidga omfattningen av en god mans
-eller förvaltares uppdrag, skall den gode mannen eller förvaltaren
-inom en månad från beslutet lämna en förteckning till överförmyndaren
-över den egendom som omfattas av det utvidgade uppdraget.
-Förteckningen skall avges på heder och samvete. Lag (1994:1433).
+2 § Om en god mans eller förvaltares uppdrag har utvidgats, 
+ska den gode mannen eller förvaltaren inom en månad från 
+beslutet lämna en förteckning till överförmyndaren över den 
+egendom som omfattas av det utvidgade uppdraget. Förteckningen 
+ska lämnas på heder och samvete. Lag (2026:490).
 
 Förvaltning av egendom
 
@@ -3282,17 +3525,21 @@ Lag (1999:1080).
 
 Redovisning av förvaltad egendom
 
-15 § Förordnade förmyndare, gode män och förvaltare skall före den
-1 mars varje år i en årsräkning till överförmyndaren redogöra för
-förvaltningen under föregående år av egendom som har stått under
-ställföreträdarens förvaltning. Årsräkningen skall avges på heder
-och samvete.
+15 § Förordnade förmyndare, gode män och förvaltare ska före 
+den 1 mars varje år i en årsräkning till överförmyndaren 
+redogöra för förvaltningen under föregående år av den egendom 
+som har stått under ställföreträdarens förvaltning. 
+Årsräkningen ska lämnas på heder och samvete.
 
-I årsräkningen skall anges den enskildes tillgångar och skulder vid
-början och slutet av den tid som räkningen avser. Vidare skall en
-sammanställning göras av inkomster och utgifter under nämnda tid. Av
-årsräkningen skall särskilt framgå hur mycket som har använts för den
-enskildes uppehälle eller nytta i övrigt. Lag (1994:1433).
+I årsräkningen ska anges den enskildes tillgångar och skulder 
+vid början och slutet av den tid som räkningen avser. Vidare 
+ska en sammanställning göras av inkomster och utgifter under 
+den nämnda tiden. Av årsräkningen ska särskilt framgå hur 
+mycket som har använts för den enskildes uppehälle eller nytta 
+och välbefinnande i övrigt. Om en ställföreträdare har begärt 
+ersättning för utgifter utan att visa underlag enligt 12 kap. 
+16 § andra stycket ska detta redovisas särskilt i 
+årsräkningen. Lag (2026:490).
 
 16 § Överförmyndaren får besluta att en förordnad förmyndare, god
 man eller förvaltare i särskild ordning skall redogöra för den del
@@ -3304,36 +3551,38 @@ ställföreträdarens förvaltning, i den mån tillgångarna och skulderna
 åtgärder från den enskildes sida som kan påverka den gode mannens
 förvaltningsansvar i mera betydande omfattning. Lag (1994:1433).
 
-18 § Om en förordnad förmyndares, god mans eller förvaltares uppdrag
-har upphört, skall den som frånträder uppdraget inom en månad
-därefter lämna en sluträkning till överförmyndaren beträffande
-egendom som har stått under hans eller hennes förvaltning.
-Sluträkningen skall innehålla en redogörelse för förvaltningen under
-det löpande året fram till dess att ställföreträdarskapet upphörde.
-Räkningen skall avges på heder och samvete.
+18 § Om en förordnad förmyndares, god mans eller förvaltares 
+uppdrag har upphört, ska den som frånträder uppdraget inom en 
+månad därefter lämna en sluträkning till överförmyndaren 
+beträffande den egendom som har stått under hans eller hennes 
+förvaltning. Sluträkningen ska innehålla en redogörelse för 
+förvaltningen under det löpande året fram till dess att ställ-
+företrädarskapet upphörde. Räkningen ska lämnas på heder och 
+samvete.
 
-Vad som sägs om årsräkning i 15 § andra stycket gäller också i fråga
-om sluträkning.
+Det som sägs om årsräkning i 15 § andra stycket gäller också i 
+fråga om sluträkning.
 
-Om rätten har inskränkt omfattningen av en god mans eller
-förvaltares uppdrag, skall sluträkning lämnas för den egendom som
-inte längre omfattas av uppdraget.
+Om omfattningen av en god mans eller förvaltares uppdrag har 
+inskränkts, ska en sluträkning lämnas för den egendom som inte 
+längre omfattas av uppdraget. Lag (2026:490).
 
-Om ett godmanskap enligt 11 kap. 1 § upphör innan tiden för
-avgivande av årsräkning eller sluträkning som rör förmynderskapet
-för den omyndige inträffar, får sluträkning rörande godmanskapet
-begränsas till att avse en redogörelse endast för de åtgärder som
-har vidtagits av den gode mannen. I övrigt skall redogörelse för
-förvaltningen lämnas av förmyndaren även för den tid godmanskapet
-har varat. Lag (1994:1433).
+18 a § Om ett godmanskap enligt 11 kap. 1 § upphör innan tiden 
+för att lämna en årsräkning eller sluträkning som rör 
+förmynderskapet för den omyndige inträffar, får sluträkningen 
+rörande godmanskapet begränsas till att avse en redogörelse 
+endast för de åtgärder som har vidtagits av den gode mannen. I 
+övrigt ska en redogörelse för förvaltningen lämnas av förmyn-
+daren även för den tid godmanskapet har pågått. 
+Lag (2026:490).
 
-19 § Om det med hänsyn till ställföreträdarens och den enskildes
-förhållanden, tillgångarnas art eller värde eller omständigheterna
-i övrigt finns särskilda skäl, får överförmyndaren befria
-ställföreträdaren från skyldigheten att lämna årsräkning eller
-sluträkning eller besluta att sådana räkningar får lämnas i
-förenklad form. I fråga om årsräkning får beslut meddelas för
-ett visst år eller tills vidare. Lag (1994:1433).
+19 § Överförmyndaren får besluta att en årsräkning eller 
+sluträkning får lämnas i förenklad form, om det är 
+tillräckligt med hänsyn till ställföreträdarens och den 
+enskildes förhållanden, tillgångarnas art eller värde eller 
+omständigheterna i övrigt. I fråga om årsräkningen får ett 
+sådant beslut meddelas för ett visst år eller tills vidare.
+Lag (2026:490).
 
 20 § Anmäler en förordnad förmyndare, god man eller förvaltare
 att han eller hon är förhindrad att inom föreskriven tid lämna
@@ -3405,24 +3654,25 @@ redovisning över förvaltningen. Lag (1994:1433).
 
 Ställföreträdares död eller konkurs
 
-24 § Om en förordnad förmyndare, god man eller förvaltare
-dör, ska dödsboet svara för att den enskildes egendom
-redovisas och åtgärder vid förvaltningens upphörande vidtas
-enligt detta kapitel. Om ställföreträdaren försätts i
-konkurs, ska konkursförvaltaren fullgöra dessa uppgifter.
+24 § Om en förordnad förmyndare, god man eller förvaltare dör, 
+ska dödsboet ansvara för att den enskildes egendom redovisas 
+och åtgärder vid förvaltningens upphörande vidtas enligt detta 
+kapitel. Om ställföreträdaren försätts i konkurs, ska 
+konkursförvaltaren fullgöra dessa uppgifter.
 
-Om det med hänsyn till dödsboets och den enskildes
-förhållanden, tillgångarnas art eller värde eller
-omständigheterna i övrigt finns särskilda skäl, får
-överförmyndaren befria dödsboet från skyldigheten att lämna
-årsräkning eller sluträkning eller besluta att sådana
-räkningar får lämnas i förenklad form. Lag (2014:886).
+Överförmyndaren får befria dödsboet från skyldigheten att 
+lämna årsräkning, årsberättelse, sluträkning, eller 
+slutberättelse, eller besluta att sådana handlingar får lämnas 
+i förenklad form, om det med hänsyn till dödsboets och den 
+enskildes förhållanden, tillgångarnas art eller värde eller 
+omständigheterna i övrigt finns särskilda skäl. 
+Lag (2026:490).
 
-25 § Dödsboet efter en förordnad förmyndare, god man eller
-förvaltare har rätt till ersättning för de utgifter som har
-varit skäligen påkallade för att fullgöra de uppgifter som
-anges i 24 §. För sådan ersättning gäller i övrigt vad som
-föreskrivs i 12 kap. 16 §. Lag (2014:886).
+25 § Dödsboet efter en förordnad förmyndare, god man eller 
+förvaltare har rätt till ersättning för de utgifter som har 
+varit skäligen motiverade för att fullgöra de uppgifter som 
+anges i 24 §. För sådan ersättning gäller i övrigt vad som 
+föreskrivs i 12 kap. 16-16 b §§. Lag (2026:490).
 
 15 kap. Vård av rätt i dödsbo, m.m.
 
@@ -3533,17 +3783,16 @@ verksamhet
 
 Allmänna bestämmelser
 
-1 § Överförmyndaren skall enligt bestämmelserna i detta kapitel
-utöva tillsyn över förmyndares, gode mäns och förvaltares verksamhet.
+1 § Överförmyndaren ska utöva tillsyn över förmyndares, gode 
+mäns och förvaltares verksamhet.
 
-Vid tillsynen skall överförmyndaren särskilt se till att den
-enskildes tillgångar i skälig omfattning används för hans eller
-hennes nytta och att tillgångarna i övrigt är placerade så att
-tillräcklig trygghet finns för deras bestånd och så att de ger skälig
-avkastning.
-
-Bestämmelser om val av överförmyndare m.m. finns i 19 kap. Lag
-(1994:1433).
+Vid tillsynen ska överförmyndaren se till att den enskildes 
+tillgångar i skälig omfattning används för hans eller hennes 
+nytta och välbefinnande samt att tillgångarna i övrigt är 
+placerade tryggt och så att de ger skälig avkastning. 
+Överförmyndaren ska också se till att ställföreträdaren även i 
+övrigt utövar sitt uppdrag i enlighet med den enskildes bästa.
+Lag (2026:490).
 
 Behörig överförmyndare
 
@@ -3563,39 +3812,41 @@ Om det inte finns någon behörig överförmyndare enligt första
 och andra styckena, utövas tillsynen av överförmyndaren för
 Stockholms kommun. Lag (2006:557).
 
-Granskning av förvaltningen
+Granskning av verksamheten
 
-3 § Överförmyndaren skall granska förmyndares, gode mäns och
-förvaltares verksamhet med ledning av de förteckningar, årsräkningar,
-sluträkningar samt andra handlingar och uppgifter angående
-förvaltningen som har lämnats.
+3 § Överförmyndaren ska granska förmyndares, gode mäns och 
+förvaltares verksamhet med ledning av de förteckningar, 
+årsberättelser, årsräkningar, slutberättelser, sluträkningar 
+samt andra handlingar och uppgifter angående verksamheten som 
+har lämnats.
 
-Överförmyndaren eller den som överförmyndaren utser har rätt att gå
-igenom de räkenskaper och anteckningar som avses i 12 kap. 5 § samt
-de värdehandlingar som ställföreträdaren förvarar med anledning av
-sitt uppdrag. Ställföreträdaren skall hålla dessa handlingar
-tillgängliga på tid och plats som överförmyndaren bestämmer. Lag
-(1994:1433).
+Överförmyndaren eller den som överförmyndaren utser har rätt 
+att gå igenom de räkenskaper och anteckningar som avses i 
+12 kap. 5 § samt de värdehandlingar som ställföreträdaren 
+förvarar med anledning av sitt uppdrag. Ställföreträdaren ska 
+hålla dessa handlingar tillgängliga på den tid och plats som 
+överförmyndaren bestämmer. Lag (2026:490).
 
-4 § Överförmyndaren skall göra anteckning om verkställd granskning
-på förteckningar, årsräkningar, sluträkningar och handlingar enligt
-15 kap. 3 och 8 §§. Lag (1994:1433).
+4 § Överförmyndaren ska i akten anteckna att granskningen av 
+förteckningar, årsberättelser, årsräkningar, slutberättelser, 
+sluträkningar och handlingar enligt 15 kap. 3 och 8 §§ är 
+klar. Lag (2026:490).
 
-Anmärkning mot förvaltningen
+Anmärkning mot verksamheten
 
-5 § Om överförmyndaren vid granskningen eller annars finner
-anledning att rikta anmärkning mot förvaltningen, skall
-ställföreträdaren ges tillfälle att yttra sig inom den tid som
-överförmyndaren bestämmer.
+5 § Om överförmyndaren vid granskningen eller annars finner 
+anledning att rikta anmärkning mot verksamheten, ska 
+ställföreträdaren ges tillfälle att yttra sig inom den tid som 
+överförmyndaren bestämmer. 
 
-Om ett yttrande inte lämnas inom förelagd tid eller om
-överförmyndaren anser att yttrandet inte är tillfredsställande, skall
-anteckning om anmärkningen göras på den granskade handlingen.
-Överförmyndaren skall även genast pröva om beslut enligt någon
-bestämmelse i 13 eller 14 kap. behöver meddelas eller om
-ställföreträdaren bör entledigas eller någon annan åtgärd vidtas.
-Ställföreträdaren skall underrättas om en sådan anteckning och om
-vidtagen åtgärd. Lag (1994:1433).
+Om ett yttrande inte lämnas inom den bestämda tiden eller om 
+överförmyndaren anser att yttrandet inte är 
+tillfredsställande, ska en anteckning om anmärkningen göras i 
+akten. Överförmyndaren ska även genast pröva om ett beslut 
+enligt någon bestämmelse i 13 eller 14 kap. behöver meddelas 
+eller om ställföreträdaren bör entledigas eller någon annan 
+åtgärd vidtas. Ställföreträdaren ska underrättas om en sådan 
+anteckning eller åtgärd. Lag (2026:490).
 
 6 § Om en anmärkning som har antecknats enligt 5 § innebär att
 ställföreträdaren kan bli skadeståndsskyldig gentemot den omyndige
@@ -3603,39 +3854,56 @@ eller den som uppdraget avser, har ställföreträdaren rätt att väcka
 talan mot den enskilde om frihet från skadeståndsskyldighet. Lag
 (1994:1433).
 
+Anmälan vid misstanke om brott
+
+6 a § Om överförmyndaren har anledning att anta att en 
+förordnad förmyndare, god man eller förvaltare har begått ett 
+brott mot den enskilde som har samband med verksamheten och 
+för vilket fängelse är föreskrivet, ska överförmyndaren 
+omedelbart anmäla det till Polismyndigheten eller åklagare.
+
+Överförmyndaren ska inte underrätta ställföreträdaren eller 
+den enskilde om att en anmälan har gjorts, om det är 
+olämpligt. Lag (2026:490).
+
 Rätt att ta del av handlingar
 
-7 § En omyndig som har fyllt sexton år och den som har god man eller
-förvaltare har rätt att ta del av de handlingar som rör
-ställföreträdarskapet och som förvaras hos överförmyndaren. En sådan
-rätt har också den enskildes make eller sambo och närmaste släktingar.
-Lag (1994:1433).
+7 § En omyndig som har fyllt 16 år och den som har en god man 
+eller förvaltare har rätt att ta del av de handlingar som rör 
+ställföreträdarskapet och som förvaras hos överförmyndaren. En 
+sådan rätt har också den enskildes make eller sambo och 
+närmaste släktingar, dock inte om det med hänsyn till den 
+enskildes intressen finns särskilda skäl mot att en sådan 
+person tar del av handlingen. Lag (2026:490).
 
 Överlämnande av handlingar vid granskningens slut
 
-8 § Sedan överförmyndaren har granskat förmyndarens, gode mannens
-eller förvaltarens sluträkning, skall räkningen samt de
-förteckningar, årsräkningar och handlingar enligt 15 kap. 3 och 8 §§
-som förvaras hos överförmyndaren lämnas över till den som är behörig
-att ta emot redovisning för förvaltningen.
+8 § Sedan överförmyndaren har granskat förmyndarens, gode 
+mannens eller förvaltarens slutberättelse och sluträkning, ska 
+de handlingarna samt de förteckningar, årsberättelser, 
+årsräkningar och handlingar enligt 15 kap. 3 och 8 §§ som 
+förvaras hos överförmyndaren lämnas över till den som är 
+behörig att ta emot redovisning för verksamheten. 
 
-Om ställföreträdaren inte är skyldig att lämna sluträkning när
-ställföreträdarskapet upphör, skall överförmyndaren lämna över de
-övriga handlingar som anges i första stycket till den som är behörig
-att ta emot redovisning för förvaltningen, om denna person eller den
-avgående ställföreträdaren begär det eller överförmyndaren har gjort
-anteckning om anmärkning enligt 5 § på handlingen.
+Om en förälder enligt 13 kap. 16 § inte är skyldig att lämna 
+en sluträkning när förmynderskapet upphör, ska överförmyndaren 
+lämna över de övriga handlingar som anges i första stycket 
+till den som är behörig att ta emot redovisning för 
+verksamheten, om han eller hon eller föräldern begär det eller 
+överförmyndaren har gjort en anteckning om anmärkning enligt 5 
+§. Lag (2026:490).
 
-Om handlingar som avses i första eller andra stycket har lämnats
-till en ny ställföreträdare, skall denne inom två månader därefter
-återlämna handlingarna till överförmyndaren. Överförmyndaren skall
-skriftligen upplysa ställföreträdaren om denna skyldighet när
-handlingarna lämnas ut.
+Om handlingar som avses i första eller andra stycket har 
+lämnats till en ny ställföreträdare, ska han eller hon inom 
+två månader därefter återlämna handlingarna till 
+överförmyndaren. Överförmyndaren ska skriftligen upplysa 
+ställföreträdaren om denna skyldighet när handlingarna lämnas 
+ut. Lag (2026:490).
 
-Om en ställföreträdares förvaltning har godkänts av den enskilde
-eller av en ny ställföreträdare innan han eller hon har fått del av
-de handlingar som avses i första eller andra stycket, är godkännandet
-utan verkan. Lag (1994:1433).
+8 a § Om en ställföreträdares verksamhet har godkänts av den 
+enskilde eller av en ny ställföreträdare innan han eller hon 
+har fått del av de handlingar som avses i 8 § första eller 
+andra stycket, är godkännandet utan verkan. Lag (2026:490).
 
 Inhämtande av yttrande m.m.
 
@@ -3658,20 +3926,20 @@ för myndigheter att underrätta överförmyndaren om förhållanden
 av betydelse för dennes tillsynsverksamhet.
 Lag (2008:910).
 
-10 a § En bank är skyldig att på begäran lämna överförmyndaren 
-de uppgifter som behövs för överförmyndarens 
-tillsynsverksamhet.
-
-Första stycket gäller också kreditmarknadsföretag, 
-värdepappersbolag, svenska värdepapperscentraler, kontoförande 
-institut, fondbolag, AIF-förvaltare, förvaringsinstitut och 
-utländska företag som driver motsvarande verksamhet från en 
-filial i Sverige. Lag (2020:1027).
+10 a § Banker, kreditmarknadsföretag, värdepappersbolag, 
+svenska värdepapperscentraler, kontoförande institut, 
+fondbolag, AIF-förvaltare, förvaringsinstitut, 
+försäkringsföretag och inkassoföretag är skyldiga att på 
+begäran av överförmyndaren lämna de uppgifter som behövs för 
+överförmyndarens tillsyn. Detsamma gäller för utländska 
+företag som driver motsvarande verksamhet från en filial i 
+Sverige. Lag (2026:490).
 
 Utbetalning till bank och underrättelse till överförmyndaren i
 vissa fall
 
-11 § När en omyndig på grund av arv eller testamente har fått 
+11 § /Upphör att gälla U:2026-09-01/
+När en omyndig på grund av arv eller testamente har fått 
 pengar till ett värde som överstiger ett prisbasbelopp enligt 
 2 kap. 6 och 7 §§ socialförsäkringsbalken eller med villkor om 
 särskild överförmyndarkontroll, ska den som ombesörjer 
@@ -3679,14 +3947,58 @@ utbetalningen från dödsboet för den omyndiges räkning sätta in
 medlen hos bank eller kreditmarknadsföretag, med uppgift om 
 att medlen inte får tas ut utan överförmyndarens tillstånd.
 
-Vad som nu sagts om skyldighet att betala till bank eller 
-kreditmarknadsföretag ska även gälla
+Skyldigheten att sätta in medlen hos bank eller 
+kreditmarknadsföretag gäller även 
 
 1. försäkringsgivare vid utbetalning av försäkringsbelopp som 
-den omyndige har rätt till,
+den omyndige har rätt till, 
 
 2. pensionssparinstitut vid utbetalning enligt lagen 
-(1993:931) om individuellt pensionssparande,
+(1993:931) om individuellt pensionssparande, 
+
+3. PEPP-sparinstitut vid utbetalning från sparande i en sådan 
+PEPP-produkt som avses i Europaparlamentets och rådets 
+förordning (EU) 2019/1238, 
+
+4. Brottsoffermyndigheten vid utbetalning av ersättning enligt 
+brottsskadelagen (2014:322), 
+
+5. huvudman vid utbetalning av skadestånd enligt 6 kap. 12 § 
+skollagen (2010:800), och 
+
+6. myndighet som betalar ut ersättning med anledning av 
+skadeståndsanspråk mot staten.
+
+Om betalningen avser en periodisk förmån, gäller skyldigheten 
+att sätta in medlen hos bank eller kreditmarknadsföretag 
+endast när den första utbetalningen görs.
+
+När en utbetalning enligt första eller andra stycket görs, ska 
+den som ombesörjer utbetalningen genast göra en anmälan till 
+förmyndaren och överförmyndaren. En sådan anmälan ska också 
+göras om en omyndig på grund av arv eller testamente har fått 
+värdehandlingar till ett värde som överstiger det belopp som 
+anges i första stycket eller med villkor om att värdehand-
+lingarna ska stå under särskild överförmyndarkontroll.
+Lag (2026:490).
+
+11 § /Träder i kraft I:2026-09-01/
+När en omyndig på grund av arv eller testamente har fått 
+pengar till ett värde som överstiger ett prisbasbelopp enligt 
+2 kap. 6 och 7 §§ socialförsäkringsbalken eller med villkor om 
+särskild överförmyndarkontroll, ska den som ombesörjer 
+utbetalningen från dödsboet för den omyndiges räkning sätta in 
+medlen hos bank eller kreditmarknadsföretag, med uppgift om 
+att medlen inte får tas ut utan överförmyndarens tillstånd. 
+
+Skyldigheten att sätta in medlen hos bank eller 
+kreditmarknadsföretag gäller även 
+
+1. försäkringsgivare vid utbetalning av försäkringsbelopp som 
+den omyndige har rätt till, 
+
+2. pensionssparinstitut vid utbetalning enligt lagen 
+(1993:931) om individuellt pensionssparande, 
 
 3. PEPP-sparinstitut vid utbetalning från sparande i en sådan 
 PEPP-produkt som avses i Europaparlamentets och rådets 
@@ -3696,65 +4008,76 @@ förordning (EU) 2019/1238,
 brottsskadelagen (2014:322),
 
 5. huvudman vid utbetalning av skadestånd enligt 6 kap. 12 § 
-skollagen (2010:800), och
+skollagen (2010:800),
 
 6. myndighet som betalar ut ersättning med anledning av 
-skadeståndsanspråk mot staten.
+skadeståndsanspråk mot staten, och
+
+7. Kronofogdemyndigheten vid utbetalning av influtna medel i 
+mål om utmätning.
 
 Om betalningen avser en periodisk förmån, gäller skyldigheten 
-att betala till bank eller kreditmarknadsföretag endast när 
-den första utbetalningen görs.
+att sätta in medlen hos bank eller kreditmarknadsföretag 
+endast när den första utbetalningen görs.
 
-När utbetalning enligt första eller andra stycket görs, ska 
-den som ombesörjer utbetalningen genast göra anmälan till 
+När en utbetalning enligt första eller andra stycket görs, ska 
+den som ombesörjer utbetalningen genast göra en anmälan till 
 förmyndaren och överförmyndaren. En sådan anmälan ska också 
 göras om en omyndig på grund av arv eller testamente har fått 
 värdehandlingar till ett värde som överstiger det belopp som 
 anges i första stycket eller med villkor om att 
 värdehandlingarna ska stå under särskild 
-överförmyndarkontroll.
+överförmyndarkontroll. Lag (2026:1205).
 
-Bestämmelserna i första-fjärde styckena gäller inte vid 
-utbetalning av medel som den omyndige får förvalta själv. 
-Andra-fjärde styckena gäller inte heller om utbetalning görs 
-från försäkring som har tagits inom ramen för en rörelse.
+11 a § Bestämmelserna i 11 § gäller inte vid utbetalning av 
+medel som den omyndige får förvalta själv. Bestämmelserna i 
+11 § andra-fjärde styckena gäller inte heller om utbetalning 
+görs från en försäkring som har tagits inom ramen för en 
+rörelse. Lag (2026:490).
 
-Bestämmelserna i denna paragraf gäller också vid betalning 
-eller utgivande av värdehandlingar till någon för vilken det 
-har förordnats god man med uppgift att förvalta egendom eller 
-för vilken det har förordnats förvaltare. Lag (2022:1747).
+11 b § Bestämmelserna i 11 och 11 a §§ gäller också vid 
+betalning eller utgivande av värdehandlingar till en enskild 
+för vilken det har förordnats en god man med uppgift att se 
+till att hans eller hennes ekonomiska angelägenheter tas om 
+hand eller för vilken det har förordnats en förvaltare.
+Lag (2026:490).
 
 Överförmyndarens handläggning
 
-12 § Överförmyndaren är skyldig att föra förteckningar och lägga upp
-akter samt expediera handlingar enligt föreskrifter som meddelas av
-regeringen. Lag (1994:1433).
+12 § Regeringen eller den myndighet som regeringen bestämmer 
+får meddela föreskrifter om skyldighet för överförmyndaren att 
+föra förteckningar och lägga upp akter samt expediera 
+handlingar. Lag (2026:490).
 
 Vite
 
-13 § Överförmyndaren får vid vite förelägga en förmyndare, god man
-eller förvaltare att fullgöra sina skyldigheter enligt 3 § andra
-stycket eller 8 § tredje stycket i detta kapitel eller enligt 12 kap.
-13 §, 13 kap. 3, 14, 15 eller 18 21 §, 14 kap. 1, 2, 15, 16, 18 eller
-21 23 § eller 15 kap. 3 eller 8 §. Innan vitesföreläggande beslutas,
-skall överförmyndaren skriftligen erinra ställföreträdaren om den
-skyldighet och de bestämmelser som finns och ge ställföreträdaren
-skälig tid att lämna en angiven handling eller rätta sig efter ett
-beslut.
+13 § Överförmyndaren får förelägga en förmyndare, god man 
+eller förvaltare att fullgöra sina skyldigheter enligt 3 § 
+andra stycket eller 8 § tredje stycket i detta kapitel eller 
+enligt 12 kap. 9, 9 a eller 13 §, 13 kap. 3, 14, 15 eller 18-
+21 §, 14 kap. 1, 2, 15, 16, 18, 18 a eller 21-23 § eller 
+15 kap. 3 eller 8 §. Ett sådant föreläggande får förenas med 
+vite. Innan ett vitesföreläggande beslutas, ska 
+överförmyndaren skriftligen upplysa ställföreträdaren om den 
+skyldighet och de bestämmelser som finns och ge ställföre-
+trädaren skälig tid att lämna en angiven handling eller rätta 
+sig efter ett beslut.
 
-Frågor om utdömande av vite prövas av tingsrätt. I fråga om
-föreläggande och utdömande av vite gäller i övrigt lagen (1985:206)
-om viten.
+Frågor om utdömande av vite prövas av tingsrätt. I fråga om 
+föreläggande och utdömande av vite gäller i övrigt lagen 
+(1985:206) om viten.
 
-I anslutning till att vite döms ut får rätten förelägga nytt vite.
-Lag (1994:1433).
+I anslutning till att ett vite döms ut får rätten besluta om 
+ett nytt föreläggande förenat med vite. Lag (2026:490).
 
-Utformning av förteckningar
+Tillsyn och utformning av handlingar
 
-14 § Regeringen eller den myndighet som regeringen bestämmer får
-meddela föreskrifter om den närmare utformningen av ställföreträdares
-förteckningar, årsräkningar och sluträkningar samt handlingar som
-avses i 15 kap. 3 och 8 §§. Lag (1994:1433).
+14 § Regeringen eller den myndighet som regeringen bestämmer 
+får meddela föreskrifter om den närmare utformningen av 
+ställföreträdares förteckningar, årsräkningar, årsberättelser, 
+sluträkningar, slutberättelser och handlingar som avses i 
+15 kap. 3 och 8 §§ samt om överförmyndarens tillsyn över 
+ställföreträdare. Lag (2026:490).
 
 17 kap. Anhörigas behörighet att rättshandla i vissa fall
 
@@ -3841,7 +4164,88 @@ att den anhörige skulle känna till. Lag (2017:311).
 
 18 kap. Har upphävts genom lag (1988:1251).
 
+/Kapitlet träder i kraft I:2028-01-01/
+18 kap. Ställföreträdarregistret
+
+Ett ställföreträdarregister
+
+1 § Det ska föras ett ställföreträdarregister med uppgifter om 
+förordnade förmyndare, gode män och förvaltare samt om dem som 
+har en sådan ställföreträdare. Ställföreträdarregistret ska 
+föras av den myndighet som regeringen bestämmer 
+(registermyndigheten). 
+
+Syftet med ställföreträdarregistret är att tillhandahålla 
+information om det som ingår i registret. Lag (2026:490).
+
+Förhållandet till annan reglering
+
+2 § Detta kapitel innehåller bestämmelser som kompletterar 
+Europaparlamentets och rådets förordning (EU) 2016/679 av 
+den 27 april 2016 om skydd för fysiska personer med avseende 
+på behandling av personuppgifter och om det fria flödet av 
+sådana uppgifter och om upphävande av direktiv 95/46/EG 
+(allmän dataskyddsförordning), här benämnd EU:s dataskydds-
+förordning.
+
+Vid behandlingen av personuppgifter enligt detta kapitel 
+gäller lagen (2018:218) med kompletterande bestämmelser till 
+EU:s dataskyddsförordning och föreskrifter som har meddelats i 
+anslutning till den lagen, om inte annat följer av detta 
+kapitel eller föreskrifter som har meddelats i anslutning till 
+kapitlet. Lag (2026:490).
+
+Personuppgiftsansvar
+
+3 § Registermyndigheten är personuppgiftsansvarig för den 
+behandling av personuppgifter som görs i 
+ställföreträdarregistret. Lag (2026:490).
+
+Ändamålet med behandlingen av personuppgifter
+
+4 § Personuppgifter i ställföreträdarregistret får behandlas 
+om det är nödvändigt för verksamhet som staten eller en kommun 
+ansvarar för enligt lag eller annan författning och för att 
+tillhandahålla uppgifter om innehållet i registret till den 
+som begär sådana uppgifter.
+
+Personuppgifter som får behandlas enligt första stycket får 
+också behandlas för att fullgöra uppgiftslämnande som sker i 
+överensstämmelse med lag eller förordning. Sådana 
+personuppgifter får även behandlas för framställning av 
+avidentifierad statistik och av registerutdrag. 
+Lag (2026:490).
+
+Känsliga personuppgifter
+
+5 § Personuppgifter som avses i artikel 9.1 i EU:s 
+dataskyddsförordning får behandlas, om det är nödvändigt med 
+hänsyn till ändamålet med behandlingen. Lag (2026:490).
+
+Sökbegränsningar
+
+6 § Sökningar i syfte att få fram ett urval av personer 
+grundat på uppgifter om personers hälsa eller på uppgifter om 
+att personerna har en god man eller förvaltare, får endast 
+göras om det är nödvändigt för verksamhet som staten eller en 
+kommun ansvarar för enligt lag eller annan författning.
+Lag (2026:490).
+
+Elektroniskt utlämnande av personuppgifter
+
+7 § Personuppgifter får lämnas ut elektroniskt om det inte är 
+olämpligt. Lag (2026:490).
+
+Upplysning om föreskrifter
+
+8 § Regeringen eller den myndighet som regeringen bestämmer 
+kan med stöd av 8 kap. 7 § regeringsformen meddela ytterligare 
+föreskrifter om registret och dess innehåll samt om tillgången 
+till registret och registerutdrag. Lag (2026:490).
+
 19 kap. Om överförmyndare
+
+Om överförmyndare och överförmyndarnämnd
 
 1 § Överförmyndare väljas en för varje kommun, där ej annat följer
 av vad nedan stadgas.
@@ -3856,7 +4260,19 @@ flera kommuner. Lag (2006:557).
 
 3 § Har upphävts genom lag (1974:1038).
 
+Överförmyndarens verksamhet
+
+3 § Överförmyndarens verksamhet ska vara av god kvalitet. 
+Kvaliteten i verksamheten ska systematiskt och fortlöpande 
+följas upp, utvecklas och säkras.
+
+Överförmyndaren ska se till att det finns rutiner för att 
+förebygga, upptäcka och åtgärda risker och missförhållanden 
+inom överförmyndarens verksamhetsområde. Lag (2026:490).
+
 4 § Har upphävts genom lag (1974:1038).
+
+Val av överförmyndare och ledamöter i överförmyndarnämnd
 
 5 § Överförmyndare skall väljas av kommunfullmäktige. För
 överförmyndare skall väljas en ersättare.
@@ -3893,6 +4309,12 @@ ledamot i överförmyndarnämnden, ska fyllnadsval hållas för den
 Om ledamoten har utsetts vid ett proportionellt val, ska 
 fullmäktige, så långt som det är möjligt, säkerställa att 
 representationen i nämnden inte förändras. Lag (2022:631).
+
+7 a § Kommunfullmäktige får återkalla uppdragen för 
+överförmyndare och ersättare för överförmyndare vid sådana 
+förändringar i kommunens organisation som innebär att det i 
+stället för överförmyndare ska finnas en överförmyndarnämnd 
+eller en gemensam överförmyndarnämnd. Lag (2026:490).
 
 8 § En överförmyndare, ledamot i en överförmyndarnämnd och 
 ersättare ska ha rösträtt vid val av kommunfullmäktige och 
@@ -3934,22 +4356,20 @@ ledamot att för tillfället föra ordet. Lag (1974:1038).
 
 12 § Har upphävts genom lag (1986:1143).
 
+Beslut av överförmyndaren och överförmyndarnämnden
+
 13 § Om det framkommer skiljaktiga meningar i en 
 överförmyndarnämnd i ett ärende enligt denna balk, tillämpas 
 föreskrifterna i 16 kap. rättegångsbalken om omröstning i 
 tvistemål. I 30 § förvaltningslagen (2017:900) finns 
 bestämmelser om rätt att få en avvikande mening antecknad.
+Lag (2026:490).
 
-För varje beslut av en överförmyndare eller en 
-överförmyndarnämnd i ett ärende enligt denna balk ska det 
-finnas en handling som visar vem som har fattat beslutet, vem 
-som har varit föredragande samt beslutets dag och dess 
-innehåll.
-
-Ett protokoll hos överförmyndare eller överförmyndarnämnd i 
-ett annat ärende än enligt denna balk behöver endast 
-innehålla en förteckning över dem som har deltagit i 
-handläggningen samt beslutet i ärendet. Lag (2018:777).
+13 a § Ett protokoll hos överförmyndare eller 
+överförmyndarnämnd i ett annat ärende än enligt denna balk 
+behöver endast innehålla en förteckning över dem som har 
+deltagit i handläggningen samt beslutet i ärendet.
+Lag (2026:490).
 
 14 § Överförmyndarnämnden får uppdra åt en ledamot, en ersättare som
 har kallats till tjänstgöring eller en kommunal tjänsteman med den
@@ -3974,10 +4394,24 @@ hon frågan tveksam, skall ärendet hänskjutas till nämnden eller
 fattats på grund av ett uppdrag som avses i första stycket behöver
 inte anmälas för nämnden eller för överförmyndaren. Lag (1995:1362).
 
+14 a § Överförmyndarnämnden får uppdra åt ordföranden eller en 
+annan ledamot som nämnden har utsett att besluta på nämndens 
+vägnar i ärenden som är så brådskande att nämndens avgörande 
+inte kan avvaktas. Överförmyndaren får uppdra åt en kommunal 
+tjänsteman med den kompetens som behövs att avgöra sådana 
+ärenden på överförmyndarens vägnar.
+
+Beslutet ska anmälas vid nämndens nästa sammanträde eller till 
+överförmyndaren så snart det kan göras. Lag (2026:490).
+
+Ekonomiska förmåner
+
 15 § I fråga om ersättning, arvode, pension och andra ekonomiska 
 förmåner till överförmyndare, ledamot i överförmyndarnämnd 
 och ersättare tillämpas föreskrifterna i 4 kap. 12–18 §§ 
 kommunallagen (2017:725). Lag (2017:727).
+
+Kommunallagens tillämplighet
 
 16 § Vad som är föreskrivet om nämnder i kommunallagen 
 (2017:725) gäller, med de avvikelser som följer av detta 
@@ -3989,34 +4423,62 @@ Kommuner får besluta att de ska ha en gemensam
 kommunallagen gäller också en gemensam överförmyndarnämnd.
 Lag (2017:727).
 
-17 § Länsstyrelsen ska utöva tillsyn över överförmyndares och
-överförmyndarnämnders verksamhet.
+Länsstyrelsens tillsyn
 
-Länsstyrelsen ska
+17 § Länsstyrelsen ska utöva tillsyn över överförmyndares och 
+överförmyndarnämnders verksamhet. Lag (2026:490).
 
-- med råd stödja överförmyndarna och överförmyndarnämnderna i
-deras verksamhet och därvid främja en enhetlig
-rättstillämpning, och
+Tillsynsvägledning
 
-- se till att utbildningen av överförmyndarna, ledamöterna i
+17 a § Den myndighet som regeringen bestämmer ska 
+
+- med råd stödja överförmyndarna och överförmyndarnämnderna i 
+deras verksamhet och främja en enhetlig rättstillämpning, och 
+
+- se till att utbildningen av överförmyndarna, ledamöterna i 
 överförmyndarnämnderna och ersättare är tillfredsställande.
-Lag (2008:910).
+Lag (2026:490).
 
-18 § Överförmyndaren eller överförmyndarnämnden ansvarar för
-att gode män och förvaltare erbjuds den utbildning som
-behövs. Lag (2014:886).
+Överförmyndarens ansvar för utbildning och information
 
-19 § Överförmyndaren eller överförmyndarnämnden ska till
+18 § Överförmyndaren eller överförmyndarnämnden ansvarar för 
+att en god man eller förvaltare genomgår 
+introduktionsutbildning och annan utbildning som 
+ställföreträdaren behöver med anledning av sitt uppdrag.
+Lag (2026:490).
+
+18 a § Innan någon förordnas som förmyndare, god man eller 
+förvaltare ska överförmyndaren informera honom eller henne om 
+vilka uppgifter som kan förväntas ingå i uppdraget. 
+Överförmyndaren ska dokumentera den information som har 
+lämnats.
+
+I samband med förordnandet ska överförmyndaren också lämna 
+information om ställföreträdarskapet till den enskilde. 
+Informationen ska till sättet och innehållet vara anpassad 
+till den enskilde. Information ska också finnas tillgänglig på 
+kommunens webbplats. Lag (2026:490).
+
+19 § /Upphör att gälla U:2029-01-01 genom lag (2026:490)./
+Överförmyndaren eller överförmyndarnämnden ska till
 länsstyrelsen lämna de uppgifter som är nödvändiga för att
 länsstyrelsen ska kunna föra statistik över överförmyndarnas
 och överförmyndarnämndernas verksamhet. Lag (2014:886).
 
-20 § Regeringen meddelar föreskrifter om vilken eller vilka
+20 § /Upphör att gälla U:2029-01-01/
+Regeringen meddelar föreskrifter om vilken eller vilka
 länsstyrelser som ansvarar för uppgifter enligt detta
 kapitel. Regeringen meddelar även närmare föreskrifter om
 vilka uppgifter överförmyndaren eller överförmyndarnämnden
 ska lämna för att länsstyrelsen ska kunna föra statistik och
 vilken statistik länsstyrelsen ska föra. Lag (2014:886).
+
+/Rubriken träder i kraft I:2029-01-01/
+Ansvariga länsstyrelser
+
+20 § /Träder i kraft I:2029-01-01/
+Den eller de länsstyrelser som regeringen bestämmer 
+ansvarar för uppgifter enligt detta kapitel. Lag (2026:490).
 
 20 kap. Vissa gemensamma bestämmelser om rättegången
 
@@ -4127,11 +4589,11 @@ offentligt biträde förordnas även för barnets vårdnadshavare,
 om det inte måste antas att behov av biträde saknas.
 Lag (2024:1174).
 
-9 a § I ett ärende hos socialnämnden förordnas offentligt 
-biträde enligt 9 § av den domstol som är behörig att pröva 
-frågan om överflyttning av vårdnaden. Vid domstolens 
+9 a § I ett ärende hos socialnämnden prövas frågor om 
+offentligt biträde enligt 9 § av den domstol som är behörig 
+att pröva frågan om överflyttning av vårdnaden. Vid domstolens 
 handläggning tillämpas lagen (1996:242) om domstolsärenden.
-Lag (2024:1174).
+Lag (2025:1289).
 
 10 § Den som är offentligt biträde för barnet ska se till att 
 barnets rätt enligt 6 kap. 2 b § första stycket att få 
@@ -4142,10 +4604,7 @@ Barnets offentliga biträde får samtala med barnet utan
 vårdnadshavarens samtycke och utan att vårdnadshavaren är 
 närvarande. Lag (2024:1174).
 
-10 a § Till offentligt biträde för barnet får endast den 
-förordnas som på grund av sina kunskaper och erfarenheter och 
-även i övrigt är särskilt lämplig för uppdraget.
-Lag (2024:1174).
+10 a § har upphävts genom lag (2025:1289).
 
 10 b § I ett mål om överflyttning av vårdnaden ska den som är 
 offentligt biträde för barnet föreläggas att yttra sig 
@@ -4159,12 +4618,12 @@ ta del av det som har tillförts ärendet eller målet om
 11 § Beslut som tingsrätten har meddelat under rättegången i 
 frågor som avses i 6 kap. 18 a § tredje stycket eller 20 §, 
 7 kap. 15 §, 10 kap. 16 eller 17 § eller 11 kap. 18 § eller 
-23 § tredje stycket ska överklagas särskilt.
+23 a § andra stycket ska överklagas särskilt.
 
 Ett beslut enligt 6 kap. 17 c § om att ta upp ett yrkande om 
 vårdnad, boende eller umgänge till prövning trots att en 
 förälder inte har deltagit i informationssamtal får inte 
-överklagas. Lag (2021:528).
+överklagas. Lag (2026:490).
 
 12 § Hovrättens dom eller slutliga beslut i mål om underhåll enligt
 7 kap. får inte överklagas. Hovrätten får dock tillåta att domen
@@ -4779,3 +5238,25 @@ valts före ikraftträdandet.
 2. Äldre föreskrifter gäller fortfarande för ett ackord som 
 kommer till stånd enligt den upphävda lagen (1996:764) om 
 företagsrekonstruktion.
+
+2026:490
+
+1. Denna lag träder i kraft 
+
+a) den 1 januari 2028 i fråga om 11 kap. 12 b § och 18 kap., 
+
+b) den 1 januari 2029 i fråga om 19 kap. 19 och 20 §§ och 
+
+c) i övrigt den 1 juli 2026. 
+
+2. Ärenden som har inletts vid tingsrätten före den 1 juli 
+2026 men ännu inte har avgjorts den dagen ska handläggas 
+enligt äldre föreskrifter. 
+
+3. En god man eller förvaltare som har förordnats före den 1 
+januari 2028 ska genomgå den utbildning som anges i 11 kap. 
+12 b § senast den 31 december 2028. 
+
+4. Regeringen eller den myndighet som regeringen bestämmer får 
+meddela föreskrifter om uppbyggnaden av 
+ställföreträdarregistret.
