@@ -35,6 +35,10 @@ tas emot med tekniska hjälpmedel.
 Bestämmelser om radioutrustning finns i radioutrustningslagen 
 (2016:392).
 
+4 a § I cybersäkerhetslagen (2025:1506) finns det bestämmelser 
+om säkerhetsåtgärder, säkerhetsrevision, incidentrapportering 
+och informationsskyldighet. Lag (2025:1511).
+
 5 § Bestämmelser om behandling av personuppgifter finns, 
 förutom i 8 och 9 kap. i denna lag, i Europaparlamentets och 
 rådets förordning (EU) 2016/679 av den 27 april 2016 om skydd 
@@ -59,20 +63,20 @@ lag.
 
 Ord och uttryck i lagen
 
-7 § I lagen avses med
+7 § I lagen avses med 
 
 abonnent: den som har ingått avtal med en tillhandahållare av 
 allmänt tillgängliga elektroniska kommunikationstjänster om 
-tillhandahållande av sådana tjänster,
+tillhandahållande av sådana tjänster, 
 
 allmänt elektroniskt kommunikationsnät: ett elektroniskt 
 kommunikationsnät som helt eller huvudsakligen används för att 
 tillhandahålla allmänt tillgängliga elektroniska 
 kommunikationstjänster och som stöder informationsöverföring 
-mellan nätanslutningspunkter,
+mellan nätanslutningspunkter, 
 
 användare: den som använder eller efterfrågar en allmänt 
-tillgänglig elektronisk kommunikationstjänst,
+tillgänglig elektronisk kommunikationstjänst, 
 
 Berec: Organet för europeiska regleringsmyndigheter för 
 elektronisk kommunikation,
@@ -83,21 +87,21 @@ kommunikationsnät och som - med undantag för dels tjänster i
 form av tillhandahållande av innehåll som överförs med hjälp 
 av elektroniska kommunikationsnät och elektroniska 
 kommunikationstjänster, dels tjänster som innebär utövande av 
-redaktionellt ansvar över sådant innehåll - är en
+redaktionellt ansvar över sådant innehåll - är en 
 
 1. internetanslutningstjänst enligt artikel 2.2 i 
 Europaparlamentets och rådets förordning (EU) 2015/2120 av den 
 25 november 2015 om åtgärder rörande en öppen 
 internetanslutning och slutkundsavgifter för reglerad 
 kommunikation inom EU och om ändring av direktiv 2002/22/EG 
-och förordning (EU) nr 531/2012,
+och förordning (EU) nr 531/2012, 
 
-2. interpersonell kommunikationstjänst, eller
+2. interpersonell kommunikationstjänst, eller 
 
 3. tjänst som utgörs helt eller huvudsakligen av överföring av 
 signaler, såsom överföringstjänster som används för 
 tillhandahållande av maskin-till-maskin-tjänster eller för 
-rundradio,
+rundradio, 
 
 elektroniskt kommunikationsnät: ett system för överföring och 
 i tillämpliga fall utrustning för koppling eller dirigering 
@@ -118,7 +122,7 @@ informationen,
 harmoniserat frekvensutrymme: ett frekvensutrymme för vilket 
 harmoniserade villkor för användning har fastställts i en 
 teknisk genomförandeåtgärd i enlighet med artikel 4 i 
-Europaparlamentets och rådets beslut nr 676/ 2002/EG av den 
+Europaparlamentets och rådets beslut nr 676/2002/EG av den 
 7 mars 2002 om ett regelverk för radiospektrumpolitiken i 
 Europeiska gemenskapen (radiospektrumbeslut),
 
@@ -126,10 +130,10 @@ integritetsincident: en händelse som leder till oavsiktlig
 eller otillåten utplåning, förlust eller ändring eller 
 otillåtet avslöjande av eller otillåten åtkomst till uppgifter 
 som behandlas i samband med tillhandahållandet av allmänt 
-tillgängliga elektroniska kommunikationstjänster,
+tillgängliga elektroniska kommunikationstjänster, 
 
 internetåtkomst: möjlighet till överföring av ip-paket som ger 
-användaren tillgång till internet,
+användaren tillgång till internet, 
 
 interpersonell kommunikationstjänst: en tjänst som vanligen 
 tillhandahålls mot ersättning och som möjliggör ett direkt 
@@ -140,16 +144,16 @@ kommunikationen bestämmer vem eller vilka som ska vara
 mottagare av denna, dock inte en tjänst som möjliggör 
 interpersonell och interaktiv kommunikation enbart som en 
 extrafunktion av mindre betydelse som är direkt kopplad till 
-en annan tjänst,
+en annan tjänst, 
 
-lokaliseringsuppgift:
+lokaliseringsuppgift: 
 
 1. en uppgift som behandlas i ett allmänt mobilt elektroniskt 
 kommunikationsnät och som anger den geografiska positionen för 
-en slutanvändares terminalutrustning, eller
+en slutanvändares terminalutrustning, eller 
 
 2. en uppgift i ett allmänt fast elektroniskt 
-kommunikationsnät om nätanslutningspunktens fysiska adress,
+kommunikationsnät om nätanslutningspunktens fysiska adress, 
 
 meddelandehantering: utbyte eller överföring av ett 
 elektroniskt meddelande som inte är ett samtal och inte heller 
@@ -161,25 +165,25 @@ bilagan till kommissionens rekommendation 2003/361/EG av den
 6 maj 2003 om definitionen av mikroföretag samt små och 
 medelstora företag, sysselsätter färre än 10 personer och vars 
 omsättning eller balansomslutning inte överstiger 2 miljoner 
-euro per år,
+euro per år, 
 
 misslyckad uppringning: en uppringning som kopplas fram utan 
-att nå en mottagare,
+att nå en mottagare, 
 
 nummerbaserad interpersonell kommunikationstjänst: en 
 interpersonell kommunikationstjänst som etablerar en 
 förbindelse till nummer i nationella eller internationella 
 nummerplaner eller som möjliggör kommunikation med sådana 
-nummer,
+nummer, 
 
 nummeroberoende interpersonell kommunikationstjänst: en 
 interpersonell kommunikationstjänst som varken etablerar en 
 förbindelse till nummer i nationella eller internationella 
-nummerplaner eller möjliggör kommunikation med sådana nummer,
+nummerplaner eller möjliggör kommunikation med sådana nummer, 
 
 nätanslutningspunkt: en fysisk punkt vid vilken en 
 slutanvändare ansluts till ett allmänt elektroniskt 
-kommunikationsnät,
+kommunikationsnät, 
 
 nät med mycket hög kapacitet: ett elektroniskt 
 kommunikationsnät som helt består av fiberoptik åtminstone 
@@ -189,27 +193,27 @@ nätprestanda under normala högtrafikförhållanden,
 
 nödkommunikation: kommunikation med samhällets 
 alarmeringstjänst genom en interpersonell 
-kommunikationstjänst,
+kommunikationstjänst, 
 
 operatör: den som tillhandahåller eller avser att 
 tillhandahålla ett allmänt elektroniskt kommunikationsnät 
-eller en tillhörande facilitet,
+eller en tillhörande facilitet, 
 
 operatörslås: sådana begränsningar när det gäller användningen 
 av terminalutrustning som en tillhandahållare har infört eller 
 låtit införa för att hindra att utrustningen används för 
 nyttjande av andra tillhandahållares elektroniska 
-kommunikationstjänster,
+kommunikationstjänster, 
 
 radioanläggning: en anordning som möjliggör radiokommunikation 
 eller bestämning av position, hastighet eller andra 
 kännetecken hos ett föremål genom sändning av radiovågor 
 (radiosändare) eller mottagning av radiovågor 
-(radiomottagare),
+(radiomottagare), 
 
 radiokommunikation: överföring, utsändning eller mottagning av 
 tecken, signaler, skrift, bilder, ljud eller meddelanden av 
-varje slag med hjälp av radiovågor,
+varje slag med hjälp av radiovågor, 
 
 radiovågor: elektromagnetiska vågor med frekvenser från 
 9 kilohertz till 3 000 gigahertz som breder ut sig utan 
@@ -229,7 +233,7 @@ talkommunikation i båda riktningarna,
 samtrafik: fysisk och logisk sammankoppling av allmänna 
 elektroniska kommunikationsnät för att göra det möjligt för 
 användare att kommunicera med varandra eller få tillgång till 
-tjänster som tillhandahålls i näten,
+tjänster som tillhandahålls i näten, 
 
 skadlig störning: en störning som äventyrar funktionen hos en 
 radionavigationstjänst eller någon annan säkerhetstjänst eller 
@@ -237,11 +241,11 @@ som på något annat sätt allvarligt försämrar, hindrar eller
 upprepat avbryter en radiokommunikationstjänst som fungerar i 
 enlighet med gällande bestämmelser, inbegripet störning av 
 befintliga eller planerade tjänster på nationellt tilldelade 
-frekvenser,
+frekvenser, 
 
 slutanvändare: en användare som inte tillhandahåller ett 
 allmänt elektroniskt kommunikationsnät eller en allmänt 
-tillgänglig elektronisk kommunikationstjänst,
+tillgänglig elektronisk kommunikationstjänst, 
 
 små företag: företag som, i enlighet med avdelning I i bilagan 
 till kommissionens rekommendation 2003/361/EG av den 6 maj 
@@ -250,45 +254,25 @@ företag, sysselsätter färre än 50 personer och vars omsättning
 eller balansomslutning inte överstiger 10 miljoner euro per 
 år,
 
-säkerhet i nät och tjänster: elektroniska kommunikationsnäts 
-och elektroniska kommunikationstjänsters förmåga att vid en 
-viss tillförlitlighetsnivå motstå händelser som undergräver 
-tillgängligheten, autenticiteten, riktigheten eller 
-konfidentialiteten hos näten eller tjänsterna, hos lagrade, 
-överförda eller behandlade uppgifter eller hos de närliggande 
-tjänster som erbjuds genom eller är tillgängliga via dessa 
-elektroniska kommunikationsnät eller elektroniska 
-kommunikationstjänster,
-
-säkerhetsincident: en händelse med en faktisk negativ inverkan 
-på tillgängligheten, autenticiteten, riktigheten eller 
-konfidentialiteten hos ett elektroniskt kommunikationsnät 
-eller en elektronisk kommunikationstjänst, hos lagrade, 
-överförda eller behandlade uppgifter eller hos de närliggande 
-tjänster som erbjuds genom eller är tillgängliga via dessa 
-elektroniska kommunikationsnät eller elektroniska 
-kommunikationstjänster, eller på förmågan att motstå sådana 
-händelser,
-
 talkommunikationstjänst: en allmänt tillgänglig elektronisk 
 kommunikationstjänst som gör det möjligt att ringa och ta emot 
 samtal via ett eller flera nummer inom en nationell eller 
-internationell nummerplan,
+internationell nummerplan, 
 
 telefonitjänst: en elektronisk kommunikationstjänst som 
 innebär en möjlighet att ringa eller ta emot samtal via ett 
 eller flera nummer inom en nationell eller internationell 
-nummerplan,
+nummerplan, 
 
 tillhörande facilitet: en anordning, funktion eller något 
 annat som har samband med ett elektroniskt kommunikationsnät 
 eller en elektronisk kommunikationstjänst och som möjliggör, 
 stöder eller kan stödja tillhandahållande av tjänster via det 
-nätet eller den tjänsten,
+nätet eller den tjänsten, 
 
 trafikuppgift: en uppgift som behandlas i syfte att befordra 
 ett elektroniskt meddelande via ett elektroniskt 
-kommunikationsnät eller för att fakturera detta meddelande,
+kommunikationsnät eller för att fakturera detta meddelande, 
 
 trådlösa accesspunkter med kort räckvidd: små trådlösa 
 nätanslutningsutrustningar med låg effekt och kort räckvidd 
@@ -305,7 +289,7 @@ användare i omedelbar närhet av systemet,
 
 vertikalt integrerad operatör: en operatör som tillhandahåller 
 tjänster till företag som den konkurrerar med på marknader i 
-efterföljande handelsled.
+efterföljande handelsled. Lag (2025:1511).
 
 8 § Orden behandling och samtycke har i 8 och 9 kap. samma 
 innebörd som i EU:s dataskyddsförordning.
@@ -2305,72 +2289,10 @@ grunder.
 
 8 kap. Säkerhet
 
-Säkerhet i nät och tjänster
-
-1 § Den som tillhandahåller ett allmänt elektroniskt 
-kommunikationsnät eller en allmänt tillgänglig elektronisk 
-kommunikationstjänst ska vidta ändamålsenliga och 
-proportionella tekniska och organisatoriska åtgärder för att 
-på ett lämpligt sätt hantera risker som hotar säkerheten i nät 
-och tjänster.
-
-Åtgärderna ska säkerställa en nivå på säkerheten i nät och 
-tjänster som är lämplig i förhållande till riskerna. Åtgärder 
-ska vidtas särskilt för att förebygga och minimera 
-säkerhetsincidenters påverkan på användare och på andra nät 
-och tjänster.
-
-Regeringen eller den myndighet som regeringen bestämmer får 
-meddela
-
-1. ytterligare föreskrifter om säkerhetsåtgärderna, och
-
-2. föreskrifter om undantag från skyldigheten att vidta sådana 
-åtgärder.
-
-2 § Om det finns särskilda skäl, får tillsynsmyndigheten 
-ålägga den som tillhandahåller ett allmänt elektroniskt 
-kommunikationsnät eller en allmänt tillgänglig elektronisk 
-kommunikationstjänst att på egen bekostnad låta ett oberoende 
-kvalificerat organ utföra en säkerhetsgranskning av hela eller 
-delar av verksamheten och att redovisa resultatet av 
-granskningen för myndigheten.
-
-3 § Den som tillhandahåller ett allmänt elektroniskt 
-kommunikationsnät eller en allmänt tillgänglig elektronisk 
-kommunikationstjänst ska utan onödigt dröjsmål till 
-tillsynsmyndigheten rapportera säkerhetsincidenter som har 
-haft en betydande påverkan på nät och tjänster.
-
-Tillsynsmyndigheten får, om det ligger i allmänhetens 
-intresse, ålägga den som tillhandahåller allmänna elektroniska 
-kommunikationsnät eller allmänt tillgängliga elektroniska 
-kommunikationstjänster att informera allmänheten om 
-säkerhetsincidenter.
-
-Regeringen eller den myndighet som regeringen bestämmer får 
-meddela
-
-1. ytterligare föreskrifter om rapportering av 
-säkerhetsincidenterna, och
-
-2. föreskrifter om undantag från rapporteringsskyldigheten.
-
-4 § Om det finns ett konkret och betydande hot om att en 
-säkerhetsincident ska inträffa, ska den som tillhandahåller 
-ett allmänt elektroniskt kommunikationsnät eller en allmänt 
-tillgänglig elektronisk kommunikationstjänst informera de 
-användare som kan påverkas av hotet om vilka skydds- eller 
-motåtgärder de kan vidta och, om det är lämpligt, om själva 
-hotet.
-
-Regeringen eller den myndighet som regeringen bestämmer får 
-meddela ytterligare föreskrifter om informationsskyldigheten.
-
 Skyddsåtgärder vid lagring och annan behandling av 
 trafikuppgifter m.m. för brottsbekämpande ändamål
 
-5 § Den som enligt 9 kap. 19 § är skyldig att lagra uppgifter 
+1 § Den som enligt 9 kap. 19 § är skyldig att lagra uppgifter 
 ska vidta de särskilda tekniska och organisatoriska åtgärder 
 som behövs för att skydda de lagrade uppgifterna vid 
 behandling.
@@ -2381,11 +2303,12 @@ bevara en viss lagrad uppgift ska avseende den uppgiften vidta
 sådana åtgärder som anges i första stycket.
 
 Regeringen eller den myndighet som regeringen bestämmer får 
-meddela föreskrifter om sådana skyddsåtgärder. Lag (2022:1086).
+meddela föreskrifter om sådana skyddsåtgärder. 
+Lag (2025:1511).
 
 Skydd av uppgifter vid tillhandahållande av tjänster
 
-6 § Den som tillhandahåller en allmänt tillgänglig elektronisk 
+2 § Den som tillhandahåller en allmänt tillgänglig elektronisk 
 kommunikationstjänst ska vidta lämpliga tekniska och 
 organisatoriska åtgärder för att säkerställa att uppgifter som 
 behandlas i samband med tillhandahållandet av tjänsten 
@@ -2402,27 +2325,36 @@ risken för integritetsincidenter.
 
 Regeringen eller den myndighet som regeringen bestämmer får 
 meddela ytterligare föreskrifter om sådana skyddsåtgärder.
+Lag (2025:1511).
 
-7 § Om det vid tillhandahållande av en allmänt tillgänglig 
+3 § Om det vid tillhandahållande av en allmänt tillgänglig 
 elektronisk kommunikationstjänst finns en särskild risk för 
 bristande skydd av behandlade uppgifter, ska den som 
 tillhandahåller tjänsten informera berörda abonnenter om 
 risken. Om den som tillhandahåller tjänsten inte enligt 6 § är 
 skyldig att vidta de åtgärder som avses där, ska abonnenterna 
 informeras om hur och till vilken ungefärlig kostnad som 
-risken kan elimineras.
+risken kan elimineras. Lag (2025:1511).
 
-8 § Den som tillhandahåller en allmänt tillgänglig elektronisk 
+4 § Den som tillhandahåller en allmänt tillgänglig elektronisk 
 kommunikationstjänst ska utan onödigt dröjsmål underrätta 
 tillsynsmyndigheten om integritetsincidenter. Om en incident 
 kan antas inverka negativt på de abonnenter eller användare 
 som de behandlade uppgifterna berör, eller om 
 tillsynsmyndigheten begär det, ska även dessa underrättas utan 
-onödigt dröjsmål.
+onödigt dröjsmål. Lag (2025:1511).
 
-9 § Den som tillhandahåller en allmänt tillgänglig elektronisk 
+5 § Den som tillhandahåller en allmänt tillgänglig elektronisk 
 kommunikationstjänst ska löpande föra en förteckning över 
-integritetsincidenter.
+integritetsincidenter. Lag (2025:1511).
+
+6 § Har betecknats 2 § genom lag (2025:1511).
+
+7 § Har betecknats 3 § genom lag (2025:1511).
+
+8 § Har betecknats 4 § genom lag (2025:1511).
+
+9 § Har betecknats 5 § genom lag (2025:1511).
 
 9 kap. Behandling av trafikuppgifter samt integritetsskydd
 
@@ -3004,7 +2936,8 @@ bevara en viss lagrad uppgift, eller
 om tillhandahållare av elektroniska kommunikationsnät eller 
 elektroniska kommunikationstjänster ska lämnas. 
 
-33 § Den som tillhandahåller ett elektroniskt 
+33 § /Upphör att gälla U:2026-07-01/
+Den som tillhandahåller ett elektroniskt 
 kommunikationsnät eller en elektronisk kommunikationstjänst 
 som inte är en nummeroberoende inter-personell 
 kommunikationstjänst och som har fått del av eller tillgång 
@@ -3119,6 +3052,241 @@ föreläg-gandet.
 Ersättning för att lämna ut andra uppgifter enligt första 
 stycket 3 än lokaliseringsuppgifter ska vara skälig med hänsyn 
 till kostnaderna för utlämnandet. Lag (2024:330).
+
+33 § /Träder i kraft I:2026-07-01/
+/Upphör att gälla U:2026-11-20/
+Den som tillhandahåller ett elektroniskt 
+kommunikationsnät eller en elektronisk kommunikationstjänst 
+som inte är en nummeroberoende interpersonell 
+kommunikationstjänst och som har fått del av eller tillgång 
+till en uppgift som avses i 31 § första stycket ska på begäran 
+lämna
+
+1. en uppgift som avses i 31 § första stycket 1 till
+
+a) en myndighet som i ett särskilt fall behöver en sådan 
+uppgift för delgivning enligt delgivningslagen (2010:1932), 
+om myndigheten bedömer att det kan antas att den som söks för 
+delgivning håller sig undan eller att det annars finns 
+synnerliga skäl,
+
+b) Finansinspektionen, om inspektionen bedömer att uppgiften 
+är av väsentlig betydelse för utredningen av en misstänkt 
+överträdelse av Europaparlamentets och rådets förordning 
+(EU) nr 596/2014 av den 16 april 2014 om marknadsmissbruk 
+(marknadsmissbruksförordning) och om upphävande av 
+Europaparlamentets och rådets direktiv 2003/6/EG och kom-
+missionens direktiv 2003/124/EG, 2003/125/EG och 2004/72/EG,
+
+c) Finansinspektionen, om inspektionen bedömer att uppgiften 
+är av väsentlig betydelse i ett ärende om tillsyn när det 
+gäller någon av bestämmelserna i 4 a kap. 1-8 §§ lagen 
+(2010:751) om betaltjänster eller 1 kap. 5 § eller 4 kap. 7, 
+8, 9, 10, 11 eller 14 § lagen (2016:1024) om verksamhet med 
+bostadskrediter,
+
+d) Konsumentombudsmannen, om ombudsmannen bedömer att 
+uppgiften är av väsentlig betydelse i ett ärende om tillsyn 
+enligt lagen (1994:1512) om avtalsvillkor i 
+konsumentförhållanden eller marknadsföringslagen (2008:486), 
+när det är fråga om en misstänkt överträdelse av unionslag-
+stiftning som skyddar konsumenternas intressen enligt bilagan 
+till Europaparlamentets och rådets förordning (EU) 2017/2394 
+av den 12 december 2017 om samarbete mellan de nationella 
+myndigheter som har tillsynsansvar för 
+konsumentskyddslagstiftningen och om upphävande av förordning 
+(EG) nr 2006/2004,
+
+e) Konsumentverket, om verket bedömer att uppgiften är av 
+väsentlig betydelse i ett ärende om tillsyn enligt lagen 
+(2019:59) med kompletterande bestämmelser till EU:s 
+geoblockeringsförordning,
+
+f) Kronofogdemyndigheten, om myndigheten behöver uppgiften i 
+exekutiv verksamhet och myndigheten bedömer att uppgiften är 
+av väsentlig betydelse för handläggningen av ett ärende,
+
+g) Läkemedelsverket, om verket bedömer att uppgiften är av 
+väsentlig betydelse i ett ärende om tillsyn när det gäller 
+bestämmelserna om marknadsföring i 12 kap. läkemedelslagen 
+(2015:315),
+
+h) Polismyndigheten, om myndigheten bedömer att uppgiften 
+behövs i samband med underrättelse, efterforskning eller 
+identifiering vid olyckor eller dödsfall eller för att 
+myndigheten ska kunna fullgöra en uppgift som avses i 12 § 
+polislagen (1984:387),
+
+i) Polismyndigheten, om myndigheten bedömer att uppgiften 
+behövs i ett särskilt fall för att myndigheten ska kunna 
+lokalisera en person som är dömd till fängelse eller 
+rättspsykiatrisk vård i syfte att möjliggöra verkställighet av 
+påföljden,
+
+j) Polismyndigheten eller en åklagarmyndighet, om myndigheten 
+bedömer att uppgiften behövs i ett särskilt fall för att 
+myndigheten ska kunna fullgöra en underrättelseskyldighet 
+enligt 33 § lagen (1964:167) med särskilda bestämmelser om 
+unga lagöverträdare,
+
+k) Skatteverket, om verket bedömer att uppgiften är av 
+väsentlig betydelse för handläggningen av ett ärende som avser 
+kontroll av skatt eller avgift eller rätt folkbokföringsort 
+enligt folkbokföringslagen (1991:481), och
+
+l) Säkerhetspolisen, om myndigheten bedömer att uppgiften 
+behövs i ett särskilt fall för att myndigheten ska kunna 
+lokalisera en utlänning som inte har fullgjort sin 
+anmälningsskyldighet enligt lagen (2022:700) om särskild 
+kontroll av vissa utlänningar,
+
+2. en uppgift som avses i 31 § första stycket 1 och som gäller 
+brottslig verksamhet eller misstanke om brott till 
+Ekobrottsmyndigheten, Polismyndigheten, Säkerhetspolisen, 
+Tullverket, Åklagarmyndigheten eller någon annan myndighet som 
+ska ingripa mot brottet eller den brottsliga verksamheten,
+
+3. en uppgift som avses i 31 § första stycket 1 eller 3 till 
+en regional alarmeringscentral som avses i lagen (1981:1104) 
+om verksamheten hos vissa regionala alarmeringscentraler,
+
+4. en uppgift som avses i 31 § första stycket 1 eller 3 samt 
+uppgift om i vilket geografiskt område en viss elektronisk 
+kommunikationsutrustning finns eller har funnits till 
+Polismyndigheten, om myndigheten bedömer att uppgiften behövs 
+i samband med efterforskning av personer som har försvunnit 
+under sådana omständigheter att det kan antas att det då fanns 
+eller fortfarande finns fara för deras liv eller allvarlig 
+risk för deras hälsa, och
+
+5. en uppgift som avses i 31 § första stycket 3 om vilka 
+övriga tillhandahållare av elektroniska kommunikationsnät 
+eller elektroniska kommunikationstjänster som har deltagit vid 
+överföringen av ett meddelande som omfattas av ett 
+föreläggande enligt 27 kap. 16 § rättegångsbalken att bevara 
+en viss lagrad uppgift till den myndighet som meddelat 
+föreläggandet.
+
+Ersättning för att lämna ut andra uppgifter enligt första 
+stycket 3 än lokaliseringsuppgifter ska vara skälig med hänsyn 
+till kostnaderna för utlämnandet. Lag (2026:537).
+
+33 § /Träder i kraft I:2026-11-20/
+Den som tillhandahåller ett elektroniskt 
+kommunikationsnät eller en elektronisk kommunikationstjänst 
+som inte är en nummeroberoende interpersonell 
+kommunikationstjänst och som har fått del av eller tillgång 
+till en uppgift som avses i 31 § första stycket ska på begäran 
+lämna 
+
+1. en uppgift som avses i 31 § första stycket 1 till 
+
+a) en myndighet som i ett särskilt fall behöver en sådan 
+uppgift för delgivning enligt delgivningslagen (2010:1932), om 
+myndigheten bedömer att det kan antas att den som söks för 
+delgivning håller sig undan eller att det annars finns 
+synnerliga skäl, 
+
+b) Finansinspektionen, om inspektionen bedömer att uppgiften 
+är av väsentlig betydelse för utredningen av en misstänkt 
+överträdelse av Europaparlamentets och rådets förordning (EU) 
+nr 596/2014 av den 16 april 2014 om marknadsmissbruk 
+(marknadsmissbruksförordning) och om upphävande av 
+Europaparlamentets och rådets direktiv 2003/6/EG och kom-
+missionens direktiv 2003/124/EG, 2003/125/EG och 2004/72/EG,
+
+c) Finansinspektionen, om inspektionen bedömer att uppgiften 
+är av väsentlig betydelse i ett ärende om tillsyn när det 
+gäller någon av bestämmelserna i 4 a kap. 1-8 §§ lagen 
+(2010:751) om betaltjänster eller 1 kap. 5 § eller 4 kap. 7, 
+8, 9, 11, 13 eller 14 § lagen (2016:1024) om verksamhet med 
+bostadskrediter och vissa andra konsumentkrediter,
+
+d) Konsumentombudsmannen, om ombudsmannen bedömer att 
+uppgiften är av väsentlig betydelse i ett ärende om tillsyn 
+enligt lagen (1994:1512) om avtalsvillkor i 
+konsumentförhållanden eller marknadsföringslagen  
+(2008:486), när det är fråga om en misstänkt överträdelse av 
+unionslagstiftning som skyddar konsumenternas intressen enligt 
+bilagan till Europaparlamentets och rådets förordning (EU) 
+2017/2394 av den 12 december 2017 om samarbete mellan de 
+nationella myndigheter som har tillsynsansvar för 
+konsumentskyddslagstiftningen och om upphävande av förordning 
+(EG) nr 2006/2004,
+
+e) Konsumentverket, om verket bedömer att uppgiften är av 
+väsentlig betydelse i ett ärende om tillsyn enligt lagen 
+(2019:59) med kompletterande bestämmelser till EU:s 
+geoblockeringsförordning,
+
+f) Kronofogdemyndigheten, om myndigheten behöver uppgiften i 
+exekutiv verksamhet och myndigheten bedömer att uppgiften är 
+av väsentlig betydelse för handläggningen av ett ärende,
+
+g) Läkemedelsverket, om verket bedömer att uppgiften är av 
+väsentlig betydelse i ett ärende om tillsyn när det gäller 
+bestämmelserna om marknadsföring i 12 kap. läkemedelslagen 
+(2015:315),
+
+h) Polismyndigheten, om myndigheten bedömer att uppgiften 
+behövs i samband med underrättelse, efterforskning eller 
+identifiering vid olyckor eller dödsfall eller för att 
+myndigheten ska kunna fullgöra en uppgift som avses i 12 § 
+polislagen (1984:387),
+
+i) Polismyndigheten, om myndigheten bedömer att uppgiften 
+behövs i ett särskilt fall för att myndigheten ska kunna 
+lokalisera en person som är dömd till fängelse eller 
+rättspsykiatrisk vård i syfte att möjliggöra verkställighet av 
+påföljden,
+
+j) Polismyndigheten eller en åklagarmyndighet, om myndigheten 
+bedömer att uppgiften behövs i ett särskilt fall för att 
+myndigheten ska kunna fullgöra en underrättelseskyldighet 
+enligt 33 § lagen (1964:167) med särskilda bestämmelser om 
+unga lagöverträdare,
+
+k) Skatteverket, om verket bedömer att uppgiften är av 
+väsentlig betydelse för handläggningen av ett ärende som avser 
+kontroll av skatt eller avgift eller rätt folkbokföringsort 
+enligt folkbokföringslagen (1991:481), och
+
+l) Säkerhetspolisen, om myndigheten bedömer att uppgiften 
+behövs i ett särskilt fall för att myndigheten ska kunna 
+lokalisera en utlänning som inte har fullgjort sin 
+anmälningsskyldighet enligt lagen (2022:700) om särskild 
+kontroll av vissa utlänningar,
+
+2. en uppgift som avses i 31 § första stycket 1 och som gäller 
+brottslig verksamhet eller misstanke om brott till 
+Ekobrottsmyndigheten, Polismyndigheten, Säkerhetspolisen, 
+Tullverket, Åklagarmyndigheten eller någon annan myndighet som 
+ska ingripa mot brottet eller den brottsliga verksamheten,
+
+3. en uppgift som avses i 31 § första stycket 1 eller 3 till 
+en regional alarmeringscentral som avses i lagen (1981:1104) 
+om verksamheten hos vissa regionala alarmeringscentraler,
+
+4. en uppgift som avses i 31 § första stycket 1 eller 3 samt 
+uppgift om i vilket geografiskt område en viss elektronisk 
+kommunikationsutrustning finns eller har funnits till 
+Polismyndigheten, om myndigheten bedömer att uppgiften behövs 
+i samband med efterforskning av personer som har försvunnit 
+under sådana omständigheter att det kan antas att det då fanns 
+eller fortfarande finns fara för deras liv eller allvarlig 
+risk för deras hälsa, och
+
+5. en uppgift som avses i 31 § första stycket 3 om vilka 
+övriga tillhandahållare av elektroniska kommunikationsnät 
+eller elektroniska kommunikationstjänster som har deltagit vid 
+överföringen av ett meddelande som omfattas av ett 
+föreläggande enligt 27 kap. 16 § rättegångsbalken att bevara 
+en viss lagrad uppgift till den myndighet som meddelat 
+föreläggandet.
+
+Ersättning för att lämna ut andra uppgifter enligt första 
+stycket 3 än lokaliseringsuppgifter ska vara skälig med hänsyn 
+till kostnaderna för utlämnandet. Lag (2026:1024).
 
 34 § Den som i något annat fall än de som avses i 31 § första 
 stycket och 32 § i en radiomottagare har avlyssnat eller på 
@@ -3526,75 +3694,56 @@ i enlighet med 7 kap. 8, 13 eller 14 §,
 
 3. inte uppfyller kraven på nummerportabilitet i enlighet med 
 7 kap. 19 och 20 §§ eller föreskrifter om nummerportabilitet 
-som har meddelats med stöd av 7 kap. 21 § första stycket, 
+som har meddelats med stöd av 7 kap. 21 § första stycket,
 
-4. inte vidtar åtgärder för att hantera risker som hotar 
-säkerheten i nät och tjänster i enlighet med 8 kap. 1 §, 
-föreskrifter som har meddelats med stöd av den paragrafen 
-eller genomförandeakter som Europeiska kommissionen har 
-meddelat med stöd av artikel 40.5 i direktiv (EU) 2018/1972, i 
-den ursprungliga lydelsen, 
-
-5. inte rapporterar om säkerhetsincidenter i enlighet med 
-8 kap. 3 §, föreskrifter som har meddelats med stöd av den 
-paragrafen eller genomförandeakter som Europeiska kommissionen 
-har meddelat med stöd av artikel 40.5 i direktiv (EU) 
-2018/1972, i den ursprungliga lydelsen,
-
-6. inte informerar om hot om säkerhetsincidenter i enlighet 
-med 8 kap. 4 §, föreskrifter som har meddelats med stöd av den 
-paragrafen eller genomförandeakter som Europeiska kommissionen 
-har meddelat med stöd av artikel 40.5 i direktiv (EU) 
-2018/1972, i den ursprungliga lydelsen,
-
-7. inte vidtar skyddsåtgärder i enlighet med 8 kap. 5 § eller 
+4. inte vidtar skyddsåtgärder i enlighet med 8 kap. 1 § eller 
 föreskrifter som har meddelats med stöd av den paragrafen,
 
-8. inte vidtar åtgärder för att säkerställa skydd av uppgifter 
+5. inte vidtar åtgärder för att säkerställa skydd av uppgifter 
 som behandlas i samband med tillhandahållandet av en tjänst i 
-enlighet med 8 kap. 6 § eller föreskrifter som har meddelats 
+enlighet med 8 kap. 2 § eller föreskrifter som har meddelats 
 med stöd av den paragrafen,
 
-9. inte informerar abonnenten om särskilda risker för 
+6. inte informerar abonnenten om särskilda risker för 
 bristande skydd av behandlade uppgifter i enlighet med 8 kap. 
-7 §,
+3 §,
 
-10. inte underrättar om integritetsincidenter i enlighet med 
-8 kap. 8 § eller kommissionens förordning (EU) nr 611/2013 av 
+7. inte underrättar om integritetsincidenter i enlighet med 
+8 kap. 4 § eller kommissionens förordning (EU) nr 611/2013 av 
 den 24 juni 2013 om åtgärder tillämpliga på anmälan av 
 personuppgiftsbrott enligt Europaparlamentets och rådets 
 direktiv 2002/58/EG vad gäller personlig integritet och 
 elektronisk kommunikation,
 
-11. inte behandlar uppgifter i ett elektroniskt meddelande 
+8. inte behandlar uppgifter i ett elektroniskt meddelande 
 eller trafikuppgifter som hör till detta meddelande i enlighet 
 med 9 kap. 27 §,
 
-12. inte bedriver sin verksamhet så att beslut om hemlig 
+9. inte bedriver sin verksamhet så att beslut om hemlig 
 avlyssning av elektronisk kommunikation och hemlig övervakning 
 av elektronisk kommunikation kan verkställas och så att 
 verkställandet inte röjs i enlighet med 9 kap. 29 § första 
 stycket eller föreskrifter som har meddelats i anslutning till 
 det stycket,
 
-13. inte ordnar uppgifter och gör dem tillgängliga i ett 
+10. inte ordnar uppgifter och gör dem tillgängliga i ett 
 format som gör att de enkelt kan tas om hand i enlighet med 
 9 kap. 29 b § andra stycket eller föreskrifter som har 
 meddelats i anslutning till det stycket,
 
-14. inte överför signaler till samverkanspunkter i enlighet 
+11. inte överför signaler till samverkanspunkter i enlighet 
 med 9 kap. 30 § eller föreskrifter som har meddelats med stöd 
 av den paragrafen, eller
 
-15. inte lämnar ut en uppgift i enlighet med 9 kap. 33 §.
+12. inte lämnar ut en uppgift i enlighet med 9 kap. 33 §.
 
 En sanktionsavgift enligt första stycket 2 ska, när det är 
 fråga om ett paket enligt 7 kap. 26 §, tas ut endast om 
 överträdelsen avser en allmänt tillgänglig elektronisk 
 kommunikationstjänst som inte är en nummeroberoende 
 interpersonell kommunikationstjänst eller en överföringstjänst 
-som används för tillhandahållande av maskin-till-maskin-
-tjänster. Lag (2022:1086).
+som används för tillhandahållande av maskin-till-
+maskintjänster. Lag (2025:1511).
 
 2 § En sanktionsavgift ska bestämmas till lägst 5 000 kronor 
 och högst 10 000 000 kronor.
@@ -3670,11 +3819,7 @@ Bestämmelser om ansvar för den som bryter mot den
 tystnadsplikt som gäller enligt 1 kap. 15 §, 5 kap. 2 § eller 
 9 kap. 31 eller 32 § finns i brottsbalken. Lag (2024:192).
 
-3 § /Upphör att gälla U:2024-11-08 genom lag (2024:895)./
-Radiosändare eller elektriska eller elektroniska 
-anläggningar som har varit föremål för brott enligt 1 § kan 
-förklaras förverkade. Då ska bestämmelserna i 36 kap. 
-brottsbalken tillämpas.
+3 § Har upphävts genom lag (2024:895).
 
 4 § Straff enligt 1 § får inte dömas ut för en gärning som 
 omfattas av ett föreläggande som har förenats med vite, om en 
@@ -3863,3 +4008,17 @@ ikraftträdandet får, även om någon registrering enligt 9 kap.
 24 § inte har gjorts, tillhandahållas till och med den 
 1 februari 2023 eller den senare tidpunkt då en ny 
 förbetalning görs.
+
+2025:1511
+
+1. Denna lag träder i kraft den 15 januari 2026.
+
+2. Äldre bestämmelser gäller fortfarande för överträdelser som 
+skett före ikraftträdandet.
+
+2026:537
+
+1. Denna lag träder i kraft den 1 juli 2026.
+
+2. För uppgift om den som är dömd till sluten ungdomsvård 
+gäller 9 kap. 33 § i den äldre lydelsen.
